@@ -1,0 +1,1304 @@
+City: Hamburg
+Country: DE
+Main category: Arts & Entertainment
+Sub category: Museums - Art Galleries - Castles
+Description:  Hi there, i will be travelling to Germany for 2 weeks in July. Berlin, Hamburg, Frankurt and Munich. Can anyone recommend attractions to see? I like museums, castles, art galleries, night life, monuments. thank you!
+Rated POIs: 50
+Rel distr: [(0, 15), (1, 11), (2, 9), (3, 15)]
+=================================
+REL: 3
+POI Name: Galerie Ambiente
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, Antiques, 
+Snippets:
+title: Galerie Ambiente Kunst / Kunstgegenstände Hamburg Hoheluft ...
+snippet: Galerie Ambiente Kunst/ Kunstgegenstände in Hamburg Hoheluft-West: Adresse und weitere Informationen im Branchenbuch auf Hamburgs offiziellem Stadtportal.
+title: Galerie &amp; Ambiente - Elysée Hotel AG Hamburg
+snippet: Erkunden Sie direkt vom Hotel aus, die wunderschöne Hafenstadt, auch liebevoll &quot;Das Tor zur Welt&quot; genannt. Unsere Arrangements Elysée Paket Kulinarik und Elysée Pour Deux eignen sich wunderbar für Ihre Entdeckungstour durch Hamburg. Zum besten Preis können Sie diese direkt bei uns online buchen.
+title: Galerie Ambiente - Hoheluft-West - Hamburg, Germany
+snippet: Galerie Ambiente in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: Galerie Ambiente in Hamburg Hoheluft-West - Öffnungszeiten
+snippet: Galerie Ambiente Bismarckstr. 130 in Hamburg Hoheluft-West, ☎ Telefon 040/42107695 mit ⌚ Öffnungszeiten und Anfahrtsplan
+title: Galerie Ambiente - Startseite | Facebook
+snippet: Galerie Ambiente, Kronach. Gefällt 1.083 Mal. Unser Angebot umfasst Malkurse und Malreisen, Originalgemälde, Einrahmungsservice, Restaurierung und regionale Souvenirartikel.jetzt neu Cafe-Bar Karibik
+title: Galerie Ambiente - Home | Facebook
+snippet: Galerie Ambiente, Kronach. 1K likes. Unser Angebot umfasst Malkurse und Malreisen, Originalgemälde, Einrahmungsservice, Restaurierung und regionale Souvenirartikel.jetzt neu Cafe-Bar Karibik
+title: Hamburgs Galerien im Überblick - hamburg.de
+snippet: Aufgrund der Corona-Pandemie kommt es in Hamburg zu Einschränkungen des öffentlichen Lebens.Aktuelle und umfassende Informationen finden Sie unter hamburg.de/coronavirus/
+title: Home - Abrahams Ambiente
+snippet: Colonnaden 36 • 20354 Hamburg • Tel.: 040 - 602 48 33 • Fax: 040 - 34 28 95 • abrahams.ambiente@gmail.com • www.abrahams.de
+title: Moderne Designermöbel online bestellen - Riess-Ambiente
+snippet: Riess-Ambiente: Designermöbel für ein neues Lebensgefühl. Deine Wohnung ist Ausdruck Deiner Individualität und Deines Lebensgefühls. Mit hochwertigen Designermöbeln von Riess-Ambiente setzt Du persönliche Akzente und schaffst Raum für Entspannung und Wohlbefinden.
+title: Impressionen - Elysée Hotel AG Hamburg
+snippet: Erhalten Sie durch unsere Galerie einen kleinen Eindruck vom Grand Elysée in Hamburg! Alle ansehen Zimmer &amp; Suiten Wellness &amp; Spa Restaurants &amp; Bars Feiern &amp; Tagen Galerie &amp; Ambiente Elysée Kindergarten
+
+REL: 3
+POI Name: Miniatur Wunderland
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Homepage | Miniatur Wunderland Hamburg
+snippet: Das Miniatur Wunderland wächst seit dem Jahr 2000 stetig. Zuletzt wurde unser 9. Abschnitt Venedig am 21.Februar 2018 eröffnet. Weitere Modellbau-Abschnitte sind bis in das Jahr 2028 geplant.
+title: Homepage | Miniatur Wunderland Hamburg
+snippet: The Miniatur Wunderland is without doubt a &#39;wonder&#39; not only because of its landscape and surface area, but also due to the technology used to under-pin the exhibit. Gerrit Braun and the model-making team have pushed the limits of model construction, with a large part of the exhibit custom-designed and built.
+title: Hamburg | Miniatur Wunderland Hamburg
+snippet: Hamburg is the hometown of Miniatur Wunderland and the largest, as well as the most densely populated, city of the entire Wunderland. In the hanseatic town live approximately 250 inhabitants per m².
+title: Wunderland in 5 Minuten | Miniatur Wunderland Hamburg
+snippet: Das Miniatur Wunderland in fünf Minuten. During the course of several months we created this video, which shows all the variety of Miniatur Wunderland in just five minutes.
+title: Miniatur Wunderland - YouTube
+snippet: Miniatur Wunderland in Hamburg’s Speicherstadt district is home to the world’s largest model railway and a unique model world in its richness of details and precision.
+title: Startseite - Miniatur Wunderland Shop
+snippet: Herzlich Willkommen im Online-Shop des Miniatur Wunderlandes in Hamburg! Neben Tickets, Geschenkgutscheinen und Produkten aus dem Wunderland finden Sie hier auch ein große Auswahl an Modellbaumaterial diverser Hersteller (u.a. Märklin, Roco, Herpa, Wiking, Vollmer und Kibri) sowie Interessantes rund um die kleine und die große Eisenbahn!
+title: Miniatur Wunderland Hamburg 22 august 2018 - YouTube
+snippet: Miniatur Wunderland Hamburg 22 august 2018
+title: Miniatur Wunderland (Hamburg, Tyskland) - Anmeldelser
+snippet: Miniatur Wunderland, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Miniatur Wunderland i Hamburg, Tyskland på Tripadvisor.
+title: Amerika | Miniatur Wunderland Hamburg
+snippet: At Miniatur Wunderland, we pass Mount Rushmore with the portraits of the famous presidents on our way from the Grand Canyon to the Rocky Mountains. This terraced pueblo village in the Native American reservation is another attraction for tourists.
+title: Miniatur Wunderland - Home | Facebook
+snippet: Miniatur Wunderland - Kehrwieder 2, 20457 Hamburg, Germany - Rated 4.7 based on 49,766 Reviews &quot;The technology and spectacle that this attraction...
+
+REL: 3
+POI Name: MARKK
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: MARKK – Museum am Rothenbaum. Kulturen und Künste der Welt
+snippet: Das Museum am Rothenbaum – Kulturen und Künste der Welt, kurz: MARKK wurde 1879 in Hamburg gegründet und zählt heute zu den größten ethnographischen Museen in Europa.
+title: Veranstaltungen – MARKK
+snippet: Das Museum am Rothenbaum – Kulturen und Künste der Welt, kurz: MARKK wurde 1879 in Hamburg gegründet und zählt heute zu den größten ethnographischen Museen in Europa.
+title: Erste Dinge – MARKK
+snippet: Das Museum am Rothenbaum – Kulturen und Künste der Welt, kurz: MARKK wurde 1879 in Hamburg gegründet und zählt heute zu den größten ethnographischen Museen in Europa.
+title: Bibliothek – MARKK
+snippet: Das Museum am Rothenbaum – Kulturen und Künste der Welt, kurz: MARKK wurde 1879 in Hamburg gegründet und zählt heute zu den größten ethnographischen Museen in Europa.
+title: Ausstellungen – MARKK
+snippet: Das Museum am Rothenbaum – Kulturen und Künste der Welt, kurz: MARKK wurde 1879 in Hamburg gegründet und zählt heute zu den größten ethnographischen Museen in Europa.
+title: MARKK - Home | Facebook
+snippet: MARKK, Hamburg, Germany. 7,630 likes · 87 talking about this · 7,759 were here. Herzlich Willkommen auf der offiziellen Facebook-Seite des Museum am Rothenbaum - Kulturen und Künste der Welt...
+title: Mark Hambourg - Wikipedia
+snippet: Mark Hambourg was the eldest son of the pianist Michael Hambourg (a pupil of Anton Rubinstein), and was brother of the cellist Boris Hambourg and the violinist Jan Hambourg (with whom he played in chamber ensemble as the Hambourg Trio), and of the musical organiser Clement Hambourg (1900–1973).
+title: Mark Hamburg - SVP, Regional Manager - Opus Bank | LinkedIn
+snippet: View Mark Hamburg’s profile on LinkedIn, the world&#39;s largest professional community. Mark has 10 jobs listed on their profile. See the complete profile on LinkedIn and discover Mark’s ...
+title: Kostenlose Kleinanzeigen in Hamburg | markt.de
+snippet: Arbeiten in der Hansestadt. Hamburg bietet allerdings nicht nur eine Vielzahl an attraktiven Kleinanzeigen, sondern sorgt durch die Hafenanbindung auch für eine große Auswahl an potentiellen Arbeitsplätzen - besonders in den Branchen Handel und Logistik.
+title: MARKK (@markkhamburg) • Instagram photos and videos
+snippet: 2,375 Followers, 1,042 Following, 568 Posts - See Instagram photos and videos from MARKK (@markkhamburg)
+
+REL: 3
+POI Name: Hamburg Museum
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: DE 10 BESTE museene i Hamburg - Tripadvisor
+snippet: Museer i Hamburg: Se anmeldelser og bilder av museer i Hamburg, Tyskland på Tripadvisor.
+title: Museum Hamburg - Museen schließen wegen Coronavirus ...
+snippet: Ausstellung Hamburg Galerien Hamburg Lange Nacht der Museen Altonaer Museum Ballinstadt Deutsches Hafenmuseum Deichtorhallen Ernst Barlach Haus Hamburger Kunsthalle Museum für Hamburgische Geschichte Archäologisches Museum Hamburg Miniatur Wunderland Hamburg Museum der Arbeit Museum für Kunst und Gewerbe Hamburg MARKK - Museum am Rothenbaum Panik City Panoptikum Speicherstadtmuseum Spicy&#39;s ...
+title: Museums ─ Art, Chocolate, Miniature Trains ... - Hamburg.com
+snippet: From modern art to maritime history, these are the best of Hamburg&#39;s museums and exhibitions. Marvel at miniature trains &amp; cities at Miniature Wunderland, admire world-class art at Kunsthalle and MKG or follow your sweet tooth to the Chocoversum chocolate museum
+title: Hamburg Museum - Wikipedia
+snippet: The Hamburg Museum, also known as Museum für Hamburgische Geschichte (&quot;Museum for Hamburg History&quot;), is a history museum located in the city of Hamburg in northern Germany. The museum was established at its current location in 1922, although its parent organization was started in 1839. The museum was named hamburgmuseum in 2006.
+title: DIE TOP 10 Museen in Hamburg - Tripadvisor
+snippet: Museen in Hamburg: Schauen Sie sich Bewertungen und Fotos von 10 Museen in Hamburg, Deutschland auf Tripadvisor an.
+title: DE 10 BESTE historiske museer i Hamburg - Tripadvisor
+snippet: Historiske museer i Hamburg: Se anmeldelser og bilder av Historiske museer i Hamburg, Tyskland på Tripadvisor.
+title: Hamburg Kunsthalle Museum - hamburg.com
+snippet: The Hamburg Kunsthalle on Glockengießerwall was founded in 1817 by the Hamburg Kunstverein — a local art society — but was not built until 1869. Private donors contributed two-thirds of the costs of about 300,000 D-Mark (a lot of money back then!) and turned the Hamburg Kunsthalle into a symbol of civic engagement.
+title: Museer i Hamburg | Scandic Hotels
+snippet: Dette eksepsjonelle museet er ikke egnet for besøkende med klaustrofobi, siden korridorene og rommene er svært trange og båten ligger helt under vann når det er flo. Få billetter her. Hamburg museum. Ti minutters gange fra Scandic Hamburg Emporio finner du et museum som innlemmer byens historie fra år 800.
+title: Hamburg – Wikipedia
+snippet: Hamburg, offisielt Freie und Hansestadt Hamburg (dansk: Hamborg) er Tysklands nest største by og samtidig en av landets delstater. Hamburg tilhørte Hansaforbundet som hansaby i middelalderen og var en fri riksstad under det tysk-romerske rike. Frem til Tysklands samling i 1871 var Hamburg en suveren stat.
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Hamburg ...
+snippet: Apr 5, 2020 - Looking to get inspired on your trip to Hamburg? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Hamburg to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 3
+POI Name: Grace Denker Gallery
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Galleries In Hamburg | Hamburg | Grace Denker Gallery
+snippet: GRACE DENKER GALLERY ist eine zeitgenössische Kunstgalerie mit authentischen Kunstwerken und exklusiven Kunstveranstaltungen im Herzen Hamburgs. English: GRACE DENKER GALLERY is a contemporary art gallery featuring authentic art works and staging exclusive art events in the heart of Hamburg.
+title: Biography | Grace Denker | Hamburg
+snippet: Denker considers art to be an integral part of her personal and professional life. In 2017, she debuted “BINATIA” in the Grace Denker Gallery, featuring her very own art creations and revealing works spanning from the years 2013–2017, which she had been secretly working on.
+title: Exhibitions | Hamburg | Grace Denker Gallery
+snippet: Upcoming exhibitions in Hamburg. Sign up for news and events. GRACE DENKER GALLERY Art . Craft . Living. Share. 0. Log In. VIP Mitgliedschaft beantragen. Kunstsammler / Art Collectors. Künstwerke einreichen / Art Submissions. Home. Artists.
+title: Grace Denker Gallery - Home | Facebook
+snippet: Grace Denker Gallery - Hammerbrookstraße 93, 20097 Hamburg, Germany - Rated 3.9 based on 17 Reviews &quot;Ich hatte einen superschönen Abend in der Galerie,...
+title: Grace Denker Gallery Hamburg | Hamburg Tourismus
+snippet: Zeitgenössische Werke internationaler Künstler und abwechslungsreiche Veranstaltungen findet man in der Grace Denker Gallery. In ihrer Galerie in Hamburg-Hammerbrook präsentiert die Künstlerin und Galeristin Grace Denker zeitgenössische Werke internationaler Künstler.
+title: Grace Denker Gallery - Startseite | Facebook
+snippet: Grace Denker Gallery – Hammerbrookstraße 93, 20097 Hamburg – Mit 3.9 bewertet, basierend auf 17 Bewertungen „Ich hatte einen superschönen Abend in der...
+title: Grace Denker Gallery - hamburg.de
+snippet: 40 Theater, 60 Museen, 100 Clubs. Von Neumeiers Ballett über die Bücherhallen bis zum Kindermuseum. Und noch viel mehr! Rund 50.000 Besucher nutzen jeden Tag, was die Kulturmetropole Hamburg zu bieten hat ...
+title: Grace Denker Gallery - Posts | Facebook
+snippet: Grace Denker Gallery - Hammerbrookstraße 93, 20097 Hamburg, Germany - Rated 3.9 based on 17 Reviews &quot;Ich hatte einen superschönen Abend in der Galerie,...
+title: Neu – Grace Denkers Galerie Art.Craft ... - Ganz-Hamburg
+snippet: Galerie-Eröffnung Art.Craft.Living in Hamburg Hammerbrook am letzten Donnerstag.Galeristen Grace Denker präsentierte drei Künstler. Hammerbrook ist für viele Hamburger seit Jahrzehnten ein reizloser Gewerbe-Zweck-Stadtteil.
+title: Grace Denker Gallery - Beiträge | Facebook
+snippet: Grace Denker Gallery, Hamburg. Gefällt 1.751 Mal. A contemporary art gallery featuring authentic art works and staging exclusive art events in the heart...
+
+REL: 3
+POI Name: Halle für aktuelle Kunst
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Halle für aktuelle Kunst - hamburg.de
+snippet: Tickets für Hamburg bei hamburg.de. Hier finden Sie Tickets, Eintrittskarten und Termine sowie Informationen zu Konzerten, Theater, Musicals und sonstigen Veranstaltungen in Hamburg.
+title: Deichtorhallen Hamburg: Halle für aktuelle Kunst
+snippet: In der Halle für aktuelle Kunst werden in Großprojekten künstlerische Positionen der Gegenwart vorgestellt. Gemeinsam mit den Künstlerinnen und Künstlern wird jede Ausstellung ganz neu konzipiert, teilweise spektakulär eingerichtet und als eine Art Gesamtkunstwerk erlebbar.
+title: Deichtorhallen Hamburg
+snippet: Halle für aktuelle Kunst Hamburg-City. Deichtorstr. 1–2, HH-City. Bis zum 30. April 2020 geschlossen. Es findet kein Ausstellungs- und Veranstaltungsprogramm statt. Aktuelle Ausstellung JETZT! JUNGE MALEREI IN DEUTSCHLAND QUADRO. Haus der Photographie Hamburg-City. Deichtorstr. 1–2, HH-City.
+title: Deichtorhallen/ Halle für aktuelle Kunst - hamburg.de
+snippet: Deichtorhallen/ Halle für aktuelle Kunst. Die Halle für aktuelle Kunst – mit rund 3800 qm die größte zusammenhängende Ausstellungsfläche für zeitgenössische Kunst in Europa – werden in Großprojekten künstlerische Positionen der Gegenwart vorgestellt.
+title: Halle für aktuelle Kunst - Tom Sachs. Space Program: Rare ...
+snippet: Das Service Cockpit ist eine Funktion für eingeloggte Benutzer, es können Artikel hinterlegt werden, um sie jederzeit abrufbereit zu haben. Bitte loggen Sie sich ein oder registrieren Sie sich, falls Sie noch keinen Account bei hamburg.de haben!
+title: Startseite | Hamburger Kunsthalle
+snippet: Engagement für diE Hamburger Kunsthalle. Der Blick auf die Kunst ermöglicht einen neuen Blick auf die Welt. Die Kunsthalle bietet Raum für neue Perspektiven und inspirierende Begegnungen. Lassen Sie sich begeistern, die Geschichte des Bürgermuseums Hamburger Kunsthalle gemeinsam fortzuschreiben – und unterstützen Sie uns! Mitmachen
+title: Deichtorhallen Hamburg
+snippet: DEICHTORHALLEN HAMBURG - Halle für aktuelle Kunst – Haus der Photographie – Sammlung Falckenberg. DEICHTORHALLEN HAMBURG - Halle für aktuelle Kunst ... Halle für aktuelle Kunst BIS ZUM 30. APRIL 2020 GESCHLOSSEN VERLÄNGERT BIS ZUM 9. AUGUST 2020. Aktuell. GUTE AUSSICHTEN 2019/2020.
+title: Deichtorhallen Hamburg
+snippet: DEICHTORHALLEN HAMBURG - Halle für aktuelle Kunst – Haus der Photographie – Sammlung Falckenberg. DEICHTORHALLEN HAMBURG - Halle für aktuelle Kunst ... Halle für aktuelle Kunst. 31. Oktober 2019 — 5. Januar 2020. PAOLO PELLEGRIN – UN&#39;ANTOLOGIA. Haus der Photographie. 31. Oktober 2019 — 1.
+title: Halle für aktuelle Kunst - Altstadt - Hamburg, Germany
+snippet: Halle für aktuelle Kunst in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: Geschichte - db0nus869y26v.cloudfront.net
+snippet: Die Deichtorhallen in Hamburg-Altstadt zählen zu den großen Ausstellungshäusern für zeitgenössische Kunst und Fotografie in Europa. Die beiden historischen Hallen mit ihrer offenen Stahlglasarchitektur wurden von 1911 bis 1913 gebaut. Die Halle für aktuelle Kunst und das Haus der Photographie werden durch eine Dependance in Hamburg-Harburg mit der Sammlung Falckenberg ergänzt.
+
+REL: 3
+POI Name: Galerie Herrmann
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Galerie Herrmann
+snippet: Unsere Galerie wurde in Kiel gegründet. 19xx eröffneten wir unsere Galerie in Hamburg. Neben unseren Antiquitäten und unseren Zeichnungen sind wir vorzugsweise auf Gemälde aus der Zeit zwischen dem siebzehnten Jahrhundert und den frühen zwanziger Jahren des zwanzigsten Jahrhunderts spezialisiert.
+title: Galerie Herrmann - Hoheluft-Ost - Hamburg, Germany - Yelp
+snippet: Galerie Herrmann in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: Galerie Herrmann Galerie Hamburg Hoheluft-Ost - hamburg.de
+snippet: Galerie Herrmann Galerie in Hamburg Hoheluft-Ost: Adresse und weitere Informationen im Branchenbuch auf Hamburgs offiziellem Stadtportal.
+title: Impressum | Galerie Herrmann
+snippet: Galerie Herrmann Arthur Herrmann galerieherrmann et web.de Falkenried 1 20251 Hamburg Telefon:040 34 34 11 und 040 34 34 40. Verantwortlicher Webmaster für die Planung, Realisierung und Betreuung der Internetinhalte sowie für die Administration ist:
+title: Galerie Herrmann in Hamburg Hoheluft-Ost - Öffnungszeiten
+snippet: Galerie Herrmann Falkenried 1 in Hamburg Hoheluft-Ost, ☎ Telefon 040 343411 mit ⌚ Öffnungszeiten, Ansprechpartner und Anfahrtsplan
+title: Galerie Herrmann in Hamburg | 0403434...
+snippet: Für Ihren Besuch bei Galerie Herrmann nutzen Sie am besten die kostenfreien Routen-Services für Hamburg: Lassen Sie sich die Adresse von Galerie Herrmann auf der Karte von Hamburg unter &quot;Kartenansicht&quot; inklusive Routenplaner anzeigen oder suchen Sie mit der praktischen Funktion &quot;Bahn/Bus&quot; die beste öffentliche Verbindung zu Galerie Herrmann ...
+title: Galerie Peter Herrmann. General Informations
+snippet: Galerie Peter Herrmann makes every effort to provide comprehensive and accurate information on its website, however, this website is for informational purposes and we do not make guarantees as to the completeness or accuracy of its content.
+title: Galerie Herrmann Galerie in Hamburg Hoheluft-Ost Falkenried 1
+snippet: Informationen. Dagmar Riese exam. Bildhauerin • Malerin 1972 Studium der Bildhauerei, Malerei und Restaurierung an der WERKKUNST-SCHULE in Flensburg 1975 Abschluß mit Examen 1976 Praktikum bei einem Graphiker in Aachen 1977 Restaurierungsarbeiten für das Landesdenkmalsamt Schleswig-Holstein in der Kieler NIKOLAIKIRCHE Privatschülerin der Basler Malerin BARBARA LINHART 1978 Regelmäßige ...
+title: Galerie Herrmann - Hamburg, HH | Groupon
+snippet: Falkenried 1, Hamburg, HH 20251. Groupon. Hauptmenü Suchmenü öffnen . Gutscheine &gt; Hamburg &gt; Hamburg &gt; Freizeit &amp; Events &gt; Besichtigungen und Touren &gt; Ausstellung. Galerie Herrmann. Ausstellung Falkenried 1, Hamburg, HH 20251 Falkenried 1, Hamburg Anfahrtsbeschreibung. Heute 11:00 Uhr ...
+title: Hamburgs Galerien im Überblick - hamburg.de
+snippet: Aufgrund der Corona-Pandemie kommt es in Hamburg zu Einschränkungen des öffentlichen Lebens.Aktuelle und umfassende Informationen finden Sie unter hamburg.de/coronavirus/
+
+REL: 3
+POI Name: Galerie Renate Kammer
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Startseite - Galerie Renate Kammer
+snippet: Renate Kammer rk@galerierenatekammer.de. Besuchen Sie uns auch auf Facebook. ... galerie renate kammer architektur und kunst münzplatz 11 . 20097 hamburg tel. +49 40 23 26 51 . fax +49 40 23 19 07. mail@galerierenatekammer.de www.galerierenatekammer.de tuesday to friday 12–6 pm
+title: Galerie Renate Kammer - galerien-in-hamburg.de
+snippet: Geburtstags zeigt die Galerie Renate Kammer Werke aus der Zeit zwischen 1949 bis 1992. Ausstellungseröffnung ist am 3. November 2013 um 11.30 Uhr, Ausstellungsdauer ist vom 3. November bis zum 7. Dezember 2013. ... Format: 21 x 27 cm, 94 Seiten. Galerie Renate Kammer, Hamburg 2013.
+title: Galerie Renate Kammer - hamburg.de
+snippet: Galerie Renate Kammer. Die Galerie Renate Kammer hat 1966 mit zeitgenössischer Kunst und den Schwerpunkten Pop Art und Fluxus in Hamburg begonnen und damit Zeichen gesetzt. Prominente Vertreter wie Dieter Roth, Joseph Beuys, David Hockney, Stephan von Huene, Andy Warhol, Robert Rauschenberg und Allen Jones wurden frühzeitig und mehrfach gezeigt.
+title: Galerie Renate Kammer - Home | Facebook
+snippet: Galerie Renate Kammer - Münzplatz 11, 20097 Hamburg, Germany - Rated 5 based on 3 Reviews &quot;Tolle Ausstellungen, sehr sympathische Inhaberin&quot;
+title: Gallery Artists - Galerie Renate Kammer
+snippet: Galerie Renate Kammer, Hamburg . Ausstellungsbeteiligungen/Group Shows: 1973 Galerie Diogenes, Berlin. 1974 Galerie Diogenes, Berlin. 1977 Gruppe Systema, Galerie Bossin, Berlin. ... galerie renate kammer architektur und kunst münzplatz 11 . 20097 hamburg tel. +49 40 23 26 51 . fax +49 40 23 19 07.
+title: Galerie Renate Kammer - Hammerbrook - Hamburg, Germany
+snippet: Galerie Renate Kammer in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: Galerie Renate Kammer Hamburg 040232651 Bewertungen ...
+snippet: Der Eintrag Galerie Renate Kammer ist unter der Anschrift Muenzplatz 11 in Hamburg im Bundesland Hamburg zu finden. Die Postleitzahl lautet 20097, die Branche ist Gemäldehandlung. Telefonisch ist Galerie Renate Kammer unter 040232651 zu erreichen. häufige Vertipper
+title: Galerie Renate Kammer - hamburg.de
+snippet: 40 Theater, 60 Museen, 100 Clubs. Von Neumeiers Ballett über die Bücherhallen bis zum Kindermuseum. Und noch viel mehr! Rund 50.000 Besucher nutzen jeden Tag, was die Kulturmetropole Hamburg zu bieten hat ...
+title: Galerie Renate Kammer in Hamburg | 0402326...
+snippet: Galerie Renate Kammer. Galerie Renate Kammer in Hamburg-Hammerbrook erreichen Sie unter der Telefonnummer 040 23 26 51. Während der Öffnungszeiten hilft man Ihnen dort gerne weiter.
+title: Ausstellungen - Galerie Renate Kammer | AAD
+snippet: AAD ist ein Projekt der Architektur Galerie Berlin.. Datenschutz; Kontakt/Impressum
+
+REL: 3
+POI Name: Dialogue in the Dark
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: About Dialogue in the Dark Hamburg, Germany
+snippet: About Dialogue in the Dark Hamburg, Germany. DIALOG IM DUNKELN Hamburg is situated in the Dialoghaus in the historic Speicherstadt area, conveniently located between the city centre and the Harbor City. Being the first permanent DIALOGUE exhibition, it has become the flagship of all worldwide Dialogue operations, with more than 1.2 million ...
+title: Dialogue in the Dark - The DIALOGHAUS in ... - hamburg.de
+snippet: At the DIALOGHAUS in Hamburg&#39;s beautiful Speicherstadt, three different exhibitions create mutual awareness and respect for people with visual or hearing disabilities, as well as for elderly citizens. DIALOG IM DUNKELN - Dialogue in the Dark. Experience the invisible!
+title: Experience the world with other senses - Dialoghaus EN
+snippet: Broaden your horizons in our fascinating experiential exhibitions Di alogue in the Dark, Dialogue in Silence and Dialogue with Time. Eventlocation. Do you want to offer your team an exceptional experience? Dialoghaus Hamburg offers inspiring, excellently equipped rooms and workshops for organisational development.
+title: Welcome to Dialogue in the Dark
+snippet: Dialogue in the Dark pushes you out of the comfort zone orienting you to a world without pictures. The Blind guides are master of this environment and hence provide the visitors with a sense of security. Since more than 27 years Dialogue in the Dark has been presented in more than 41 countries throughout Europe, the Americas, Africa and Asia.
+title: Dialog in the Dark (Hamburg) - 2020 All You Need to Know ...
+snippet: Hotels near Dialog in the Dark: (0.52 mi) Eric Vökel Boutique Apartments - Hamburg Suites (0.76 mi) Fairmont Hotel Vier Jahreszeiten (0.31 mi) 25hours Hotel Altes Hafenamt (0.12 mi) Premier Inn Hamburg City (Zentrum) hotel (0.40 mi) Holiday Inn Hamburg - HafenCity; View all hotels near Dialog in the Dark on Tripadvisor
+title: Dialog in the Dark (Hamburg, Tyskland) - Anmeldelser
+snippet: Dialog in the Dark, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Dialog in the Dark i Hamburg, Tyskland på Tripadvisor.
+title: Dialogue in the Dark in Hamburg
+snippet: Dialogue in the Dark is one of the world’s most exciting life-changing experiences where visitors are guided by blind guides in absolute darkness. You get a chance to experience daily environments of life like enjoying a walk in the park, take a boat cruise or visiting a café in specially designed darkened rooms.
+title: Welcome to Dialogue in the Dark
+snippet: Dialogue in the Dark is currently available in 22 countries in different formats. Please click on the venue below to get more details, book your tickets or get in touch. _____ Due to the Corona virus most of Dialogue locations world wide had to close temporarilly.
+title: De 10 beste restaurantene i nærheten av Dialog in the Dark
+snippet: Restauranter i nærheten av Dialog in the Dark på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Dialog in the Dark, Hamburg.
+
+REL: 3
+POI Name: Bucerius Kunst Forum
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Bucerius Kunst Forum - Ausstellungen &amp; Veranstaltungen in ...
+snippet: Zur Kunstmeile Hamburg zählen neben dem Bucerius Kunst Forum die Hamburger Kunsthalle, die Deichtorhallen Hamburg, der Kunstverein Hamburg sowie das Museum für Kunst und Gewerbe Hamburg. Die fußläufige Kunstmeile lädt zwischen Alster und Elbe dazu ein, die 5 renommierten Häuser zu entdecken.
+title: Bucerius Kunst Forum - hamburg.de
+snippet: Bucerius Kunst Forum. Das Bucerius Kunst Forum ist ein von der ZEIT-Stiftung Ebelin und Gerd Bucerius getragenes Ausstellungshaus am Hamburger Rathausmarkt. Es zeigt jährlich drei bis vier Ausstellungen, deren Themenspektrum von der Antike bis zur Gegenwart reicht.
+title: Ausstellungen | Bucerius Kunst Forum
+snippet: Samurai Pracht des japanischen Rittertums 6.6. — 13.9.2020 . Das Bucerius Kunst Forum präsentiert eine der bedeutendsten Sammlungen von Samurai-Artefakten, die Ann und Gabriel Barbier-Mueller in knapp 30 Jahren zusammengetragen haben.
+title: Forum | Bucerius Kunst Forum
+snippet: Located in the heart of Hamburg next to the city hall, the Bucerius Kunst Forum organizes four exhibitions each year, presenting world-class works of art from antiquity to the present day. It is a place to exchange ideas and encounter a broad range of visual arts.
+title: Bucerius Kunst Forum - Wikipedia
+snippet: The Bucerius Kunst Forum is an international exhibition centre in Hamburg, Germany, founded in 2002 through the ZEIT-Stiftung Ebelin und Gerd Bucerius foundation. It is named after Gerd Bucerius and his wife, and located directly beside the Hamburg Rathaus.The exhibition centre shows 3 - 4 exhibitions per year, in co-operation with other museums and collections.
+title: Bucerius Kunst Forum (Hamburg) - 2020 All You Need to Know ...
+snippet: We recommend booking Bucerius Kunst Forum tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Bucerius Kunst Forum tours on Tripadvisor
+title: Bucerius Kunst Forum
+snippet: Das Bucerius Kunst Forum ist auf Grund des Ausstellungsumbaus zur Zeit geschlossen und öffnet wieder am 27. Januar.
+title: Bucerius Kunst Forum (Hamburg) - Aktuelle 2020 - Lohnt es ...
+snippet: Wir empfehlen Ihnen, Touren für Bucerius Kunst Forum frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 2 Touren für Bucerius Kunst Forum auf Tripadvisor an.
+title: Bucerius Kunst Forum (Hamburg, Tyskland) - Anmeldelser
+snippet: Bucerius Kunst Forum, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Bucerius Kunst Forum i Hamburg, Tyskland på Tripadvisor.
+title: Bucerius Kunst Forum | Hamburg Tourismus
+snippet: The Bucerius Kunst Forum, located on the street &quot;Alter Wall&quot;, invites its guests to enjoy an exclusive encounter with the classics of art. Four alternating exhibitions per year show, in a concentrated format, international art of the highest quality, from antiquity to classic modern art.
+
+REL: 3
+POI Name: Galeriehaus Hamburg
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+title: Track &amp; Trace | Hamburg Süd - Hamburg Süd Line | Hamburg ...
+snippet: e-Commerce Track &amp; Trace . Hamburg Süd Group ... Hamburg Süd ; Aliança ; RAO Tanker ; Hamburg Süd Travel Agency ; Information Sitemap ; Data Protection ; Terms and Conditions ; Imprint ; Certificates ; EU Commitments ; eCommerce Track &amp; Trace ;
+title: Allgemeinverfügungen - hamburg.de
+snippet: Der Hamburger Senat hat eine Verordnung zur Eindämmung des Coronavirus in Hamburg erlassen. Sie ist am Freitag (3. April) in Kraft getreten. Gleichzeitig hat der Senat einen Bußgeldkatalog gegen Übertretungen der Verordnung erlassen. Mit Wirkung vom 3. April 2020 wurden einige Allgemeinverfügungen aufgehoben.
+title: Coronavirus - hamburg.de
+snippet: Der Hamburger Senat hat eine Rechtsverordnung zur Eindämmung des Coronavirus in Hamburg erlassen. Sie tritt am Freitag (3. April) in Kraft. Gleichzeitig hat er einen Bußgeldkatalog gegen Übertretungen der Verordnung erlassen.
+title: Galeriehaus Sprinkenhof - Hamburg, Germany - Art Gallery ...
+snippet: Galeriehaus Sprinkenhof, Hamburg, Germany. 8 likes · 121 were here. Art Gallery
+title: MOPO.de - Aktuelle Nachrichten aus Hamburg, der Welt, zum ...
+snippet: Hamburger Morgenpost - Aktuelle Nachrichten aus Hamburg, der Welt, zum HSV und der Welt der Promis. MOPO.de Aktuelle Nachrichten aus Hamburg, der Welt, zum HSV und der Welt der Promis.
+title: DE 10 BESTE ting å gjøre i Hamburg - Tripadvisor
+snippet: Ting å gjøre i Hamburg: Se anmeldelser og bilder av ting å gjøre i Hamburg, Tyskland på Tripadvisor.
+title: Quality in container shipping | Hamburg Süd
+snippet: Hamburg Süd is a strong brand in the international logistics service sector. As a container shipping company, Hamburg Süd stands for quality, outstanding customer service, and a personal point of contact in 250 offices in over 100 countries worldwide.
+title: Hamburger | Oppskrift - MatPrat
+snippet: Hjemmelaget hamburger er både raskt og enkelt å lage. Her har burgeren klassisk tilbehør som salat, tomat, løk og syltet agurk, men topp den gjerne med det du liker aller best.&amp;nbsp;
+title: Slik lager du verdens beste hamburger | Coop Prix
+snippet: Med enkle grep lager du din egen, saftige hamburger. Garantert bedre enn på restaurant! Uten å bruke mye tid kan du lære deg å bli en burgermester hjemme. Form kjøttdeig til burgere og stek i panna. Så er variasjonsmulighetene uendelige: Hva med en cheeseburger med blåmuggost, for eksempel?
+title: Så enkelt lager du hjemmelaget hamburger - Godt.no
+snippet: - Hamburger er for meg det ultimate måltid, sier bakebloggeren Ida til Godt.no. - Du har masse kjøtt, digg dressing, hamburgerbrød, salat og chips. Men det er viktig at det er en god burger. For det finnes mange steder som serverer dårlige burgere med tørt brød og da er det ikke en favoritt., sier hun.
+
+REL: 3
+POI Name: International Maritime Museum
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: IMMH - Internationales Maritimes Museum Hamburg
+snippet: Das Internationale Maritime Museum Hamburg zeigt in Kooperation mit dem Koehler im Maximilian Verlag und der Galerie Deichstraße die umfangreichste Sonderausstellung, die dem Werk des „Genies aus Altenwerder“ bislang gewidmet wurde. Die Ausstellung wird auf Deck 1 des IMMH vom 30.
+title: Internationales Maritimes Museum Hamburg - Wikipedia
+snippet: The Internationales Maritimes Museum Hamburg (abbr. IMMH, International Maritime Museum) is a private museum in the HafenCity quarter of Hamburg, Germany.The museum houses Peter Tamm&#39;s collection of model ships, construction plans, uniforms, and maritime art, amounting to over 40,000 items and more than one million photographs. It opened in a former warehouse in 2008.
+title: International Maritime Museum (Hamburg) - 2020 All You ...
+snippet: International maritime museum is keeping exhibits from ancients to modern times. You can find not only ships or boats here, but in-depth look of naval history, explorations, cruise ships, fishing and etc. Museum is a massive 9-storey building, thematically organized.
+title: International Maritime Museum (Hamburg, Tyskland ...
+snippet: International Maritime Museum, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for International Maritime Museum i Hamburg, Tyskland på Tripadvisor.
+title: Internationales Maritimes Museum Hamburg - Home | Facebook
+snippet: Internationales Maritimes Museum Hamburg, Hamburg, Germany. 39K likes. Das Internationale Maritime Museum Hamburg erzählt von Entdeckern und Eroberern, von Kapitänen und Seeleuten und bietet eine...
+title: Maritime Museum in Hamburg - hamburg.com
+snippet: The International Maritime Museum of Hamburg starts with the story of a little boy who grew up to become an avid collector of all things nautical. Throughout his life, Peter Tamm (1928 - 2016) collected everything having to do with maritime history. As a young child, Peter&#39;s mother always brought him a gift when he was sick and had to stay in bed — a miniature ship.
+title: Internationales Maritimes Museum Hamburg
+snippet: Adults (17 years and over) € 13.00: Reduced (Pupils, students, pensioners, severely handicapped persons, unemployed persons) € 9.50: Small Families
+title: Internationales Maritimes Museum Hamburg
+snippet: Mon-Sun: 10 a.m. - 6 p.m. Admission Adults 13,00 € Reduced 9,50 € Further discounts offered &gt; Koreastr. 1, 20457 Hamburg
+title: Internationales Maritimes Museum Hamburg
+snippet: 3000 Years of Maritime History and Modern Research. The International Maritime Museum is housed in the heritage listed building, Kaispeicher B. Three thousand years worth of maritime history are displayed on nine ‘decks’ with precious exhibits, model ships and paintings.
+title: International Maritime Museum Hamburg - COME TO HAMBURG
+snippet: The maritime heart of Hamburg – gate to Hamburg’s World Heritage site “Speicherstadt” The International Maritime Museum Hamburg (IMMH) – inaugurated on 25 June 2008 by Federal President Horst Köhler, Hamburg’s First Mayor Ole von Beust and Prof. Peter Tamm – invites you to explore 3000 years of maritime history.
+
+REL: 3
+POI Name: Hamburger Kunsthalle
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+title: Startseite | Hamburger Kunsthalle
+snippet: Hamburger Kunsthalle Glockengießerwall 5 20095 Hamburg Tel. +49-(0)40-428131-200 Fax +49-(0)40-4283-409 info@hamburger-kunsthalle.de Social media ⓕ ? ? Newsletter abonnIEREN Die neusten Informationen regelmäßig nach Hause. Newsletter abonnieren
+title: Home | Hamburger Kunsthalle
+snippet: Hamburger Kunsthalle Glockengießerwall 5 20095 Hamburg Tel. +49(0)40-428131-200 Fax +49(0)40-4283409 info@hamburger-kunsthalle.de Social media ⓕ ? ? Newsletter abonnieren Die neusten Informationen einmal im Monat. Newsletter abonnieren
+title: Kunsthalle Hamburg - Wikipedia
+snippet: The Hamburger Kunsthalle is the art museum of the Free and Hanseatic City of Hamburg, Germany.It is one of the largest museums in the country.. The name &#39;Kunsthalle&#39; indicates the museum&#39;s history as an &#39;art hall&#39; when founded in 1850. Today, the Kunsthalle houses one of the few art collections in Germany that covers seven centuries of European art, from the Middle Ages to the
+title: Aktuell | Hamburger Kunsthalle
+snippet: Hamburger Kunsthalle Glockengießerwall 5 20095 Hamburg Tel. +49-(0)40-428131-200 Fax +49-(0)40-4283-409 info@hamburger-kunsthalle.de Social media ⓕ ? ? Newsletter abonnIEREN Die neusten Informationen regelmäßig nach Hause. Newsletter abonnieren
+title: Sammlung Online | Hamburger Kunsthalle
+snippet: Mit der Eingabe von Suchbegriffen werden alle Bereiche der Sammlung durchsucht. Die Sammlung online umfasst derzeit rund 300 Meisterwerke und alle aktuell ausgestellten Werke aus den Bereichen Malerei, Skulptur, Fotografie und Graphik sowie mehr als 35.000 Zeichnungen und Druckgraphiken aus dem Kupferstichkabinett und der Bibliothek.
+title: Hamburger Kunsthalle – Wikipedia
+snippet: Hamburger Kunsthalle er et kunstmuseum i Hamburg-Mitte, Tyskland. Museet har samlinger av Hamburgermalerier fra det 14. århundre, nederlandske og flamske kunstnere fra 16. og 17. århundret, tysk og fransk kunst fra hundreåret etter, og moderne kunst. Museet består av tre sammenhengende bygninger som ligger sentralt i byen.
+title: Hamburger Kunsthalle - aufgrund der Corona-Pandemie ...
+snippet: Modernisierung der Hamburger Kunsthalle. Die Hamburger Kunsthalle wurde dank einer 15-Millionen-Euro-Sachspende der Dorit &amp; Alexander Otto Stiftung 2015/2016 rundum erneuert. Die Kunsthalle erstrahlt jetzt wieder in neuem Glanz, versehen mit einem neuen, zentralen Eingang, von dem aus sich die Sammlung neu erschließt. Alle Führungen und ...
+title: Ohrenschau | Audio Show 1 | Hamburger Kunsthalle
+snippet: Hamburger Kunsthalle Glockengießerwall 5 20095 Hamburg Tel. +49-(0)40-428131-200 Fax +49-(0)40-4283-409 info@hamburger-kunsthalle.de Social media ⓕ ? ? Newsletter abonnIEREN Die neusten Informationen regelmäßig nach Hause. Newsletter abonnieren
+title: Hamburg Kunsthalle Museum - hamburg.com
+snippet: The Hamburg Kunsthalle on Glockengießerwall was founded in 1817 by the Hamburg Kunstverein — a local art society — but was not built until 1869. Private donors contributed two-thirds of the costs of about 300,000 D-Mark (a lot of money back then!) and turned the Hamburg Kunsthalle into a symbol of civic engagement.
+title: Hamburger Kunsthalle - Home | Facebook
+snippet: Hamburger Kunsthalle, Hamburg, Germany. 60,719 likes · 649 talking about this · 28,022 were here. Die Hamburger Kunsthalle gehört zu den bedeutendsten und größten Kunstmuseen Deutschlands. Ihre...
+
+REL: 3
+POI Name: Schloss Bergedorf
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Castles, Museums, 
+Snippets:
+title: Bergedorfer Schloss - Hamburg
+snippet: Anschließend eroberten die Hansestädte Hamburg und Lübeck die vierländischen Dörfer Bergedorf, Altengamme, Curslack, Kirchwerder, Neuengamme und Geesthacht. Mehr als 400 Jahre war das Bergedorfer Schloss fortan der Sitz der gemeinstädtischen Verwaltung zwischen diesen beiden Städten.
+title: Schloss Bergedorf – Wikipedia
+snippet: Heutige Nutzung. Seit 1953 beherbergt das Schloss das Museum für Bergedorf und die Vierlande und ist zusammen mit dem Freilichtmuseum Rieck-Haus Teil der Bergedorfer Museumslandschaft. Die Dauerausstellung präsentiert die Geschichte der Region. Jährliche Wechselausstellungen beleuchten gesellschaftliche und historischen Themen.
+title: Bergedorf - Wikipedia
+snippet: Bergedorf is of note to philatelists because it issued its own postage stamps in 1861. At that time it had 2,989 residents, making it by far the smallest of the German towns to do so. The issue included 5 square stamps with denominations from ½ to 4 schillings.
+title: List of castles in Hamburg - Wikipedia
+snippet: This is a list of castles and manor houses in the German city-state of Hamburg.The list encompasses castles referred to in German as Burg (castle or fortification), Schloss (manor house, castle or palace), and Herrenhaus (manor house or mansion); existing, ruined or completely vanished.. The oldest known structures in Hamburg are or were early Medieval fortifications built between the 9th and ...
+title: Schloss | Bergedorfer Museumslandschaft
+snippet: Hamburgs einziges erhaltenes Schloss steht in Bergedorf. Allerdings haben hier nie Königinnen oder Prinzen gewohnt, sondern das Bergedorfer Schloss war ein reiner Verwaltungsbau für die Landherren, Amtsleute und später die für Bergedorf zuständigen Hamburger Senatoren. Das Gebäude ist im 13.
+title: Bergedorf - Hamburger Stadtteile - hamburg.de
+snippet: Bergedorfer Schloss Ein Museum in Hamburgs letztem Schloss. Auf hamburgischem Stadtgebiet steht nur noch ein erhaltenes Schloss – in dem ehrwürdigen Bauwerk befindet sich heute ein Museum. Haus im Park Theater mit abwechslungsreichem Spielplan .
+title: Weihnachtsmarkt Bergedorf - hamburg.de
+snippet: In diesem Jahr wird das Bergedorfer Schloss nicht nur von außen romantisch beleuchtet, auch im Innenhof des Schlosses wird es an jedem Adventswochenende bunt: Hier wird es einen wechselnden Kunsthandwerkermarkt mit Künstlern der Region geben. Dazu erklingen im romantischen Rund stimmungsvolle Melodien mit klassischer Livemusik.
+title: Die 10 besten Hotels in der Nähe von: Schloss Bergedorf ...
+snippet: Hotel in Bergedorf, Hamburg (Schloss Bergedorf: 0,4 km) Dieses Hotel begrüßt Sie im ruhigen Hamburger Stadtteil Bergedorf. Sie wohnen nur 300 m von der S-Bahnstation entfernt, von der Sie in 18 Minuten in die Hamburger Innenstadt gelangen. Mehr anzeigen Weniger anzeigen. 8.3
+title: Schloss Bergedorf - Palace in Hamburg - Foursquare
+snippet: Palace in Hamburg, Hamburg Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: Eheschließung Hamburg-Bergedorf - hamburg.de
+snippet: Heiraten in Bergedorf: Geben Sie sich an einem ganz besonderen Ort das Ja-Wort - zum Beispiel im Bergedorfer Schloss oder auf einer Barkasse.
+
+REL: 3
+POI Name: Puppenmuseum Falkenstein
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+title: Puppenmuseum Falkenstein, Hamburg
+snippet: Das Puppenmuseum Falkenstein zeigt nicht nur eine nostalgische Miniaturwelt aus Spitzen, Samt und Seide, sondern historische und kulturelle Aspekte einer bürgerlichen Welt des ausgehenden 18. Jahrhunderts bis in die 50er Jahre des 20. Jahrhunderts.
+title: Puppenmuseum Falkenstein - Sammlung Elke Dröscher - hamburg.de
+snippet: Puppenmuseum Falkenstein. Elke Dröschers Sammlung bietet nicht nur einen nostalgischen Blick auf verspielte Miniaturwelten: die Biedermeiersalons und Wohnzimmer der Gründerzeit, die Küchen und Krämerläden sind originalgetreue Abbilder der Wohnkultur vergangener Epochen.
+title: PuppenMuseum Falkenstein (Hamburg, Tyskland) - Anmeldelser
+snippet: PuppenMuseum Falkenstein, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for PuppenMuseum Falkenstein i Hamburg, Tyskland på Tripadvisor.
+title: PuppenMuseum Falkenstein (Hamburg) - Aktuelle 2020 - Lohnt ...
+snippet: Wir empfehlen Ihnen, Touren für PuppenMuseum Falkenstein frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 1 Touren für PuppenMuseum Falkenstein auf Tripadvisor an.
+title: PuppenMuseum Falkenstein (Hamburg) - 2020 All You Need to ...
+snippet: We recommend booking PuppenMuseum Falkenstein tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 PuppenMuseum Falkenstein tours on Tripadvisor
+title: PuppenMuseum Falkenstein (Hamburg) - Reviews &amp; Visitor ...
+snippet: The PuppenMuseum Falkenstein (Doll Museum Falkenstein) shows a nostalgic miniature world of lace, velvet and silk, but also historical and cultural aspects of the bourgeois world from the late 18th century to the 1950s.
+title: Puppenmuseum Falkenstein - Rissen - Hamburg, Germany
+snippet: Puppenmuseum Falkenstein in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: Puppenmuseum Falkenstein
+snippet: Kleine Lebenswelten aus drei Jahrhunderten Das Puppenmuseum Falkenstein zeigt nicht nur eine nostalgische Miniaturwelt aus Spitzen, Samt und Seide, sondern historische und kulturelle Aspekte einer bürgerlichen Welt des ausgehenden 18. Jahrhunderts bis in die 50er Jahre des 20. Jahrhunderts. Der Gedanke, im Wesen und Gestalt der europäischen Spielpuppe und ihrem Hausstand ein Spiegelbild ...
+title: PuppenMuseum Falkenstein (Hamborg, Tyskland) - anmeldelser
+snippet: PuppenMuseum Falkenstein, Hamborg: Se 3 anmeldelser, artikler og billeder fra PuppenMuseum Falkenstein, nr.198 på Tripadvisor af 354 seværdigheder i Hamborg.
+title: PuppenMuseum Falkenstein (Hamburg) - All You Need to Know ...
+snippet: Book your tickets online for PuppenMuseum Falkenstein, Hamburg: See 3 reviews, articles, and photos of PuppenMuseum Falkenstein, ranked No.199 on Tripadvisor among 354 attractions in Hamburg.
+
+REL: 2
+POI Name: Zoologisches Museum
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Zoologisches Museum : Ausstellungen : Universität Hamburg
+snippet: Das Zoologische Museum Hamburg zeigt mit Präparaten von exotischen und heimischen Tieren einen Teil seiner 10 Millionen beeindruckenden Sammlungsschätze. Auf rund 2.000 Quadratmetern Ausstellungsfläche werden riesige Walskelette sowie Bären und Raubkatzen, Nashorn und Krokodil, Wisent und Okapi sowie Vögel und Insekten präsentiert.
+title: Zoologisches Museum Hamburg - hamburg.de
+snippet: 40 Theater, 60 Museen, 100 Clubs. Von Neumeiers Ballett über die Bücherhallen bis zum Kindermuseum. Und noch viel mehr! Rund 50.000 Besucher nutzen jeden Tag, was die Kulturmetropole Hamburg zu bieten hat ...
+title: Informationen für Besucher : Zoologisches Museum ...
+snippet: Sie planen einen Besuch im Zoologischen Museum des Centrums für Naturkunde in Hamburg? Hier finden Sie alle notwendigen Informationen: Eintritt und Öffnungszeiten Dienstag bis Sonntag, 10:00 bis 17:00 Uhr, Montags und an Feiertagen geschlossen. Eintritt frei. Bitte melden Sie größere Gruppen vorher telefonisch an.
+title: Zoologisches Museum (Hamburg, Tyskland) - Anmeldelser
+snippet: Zoologisches Museum, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Zoologisches Museum i Hamburg, Tyskland på TripAdvisor.
+title: Zoologisches Museum (Hamburg) - Aktuelle 2020 - Lohnt es ...
+snippet: Sehenswürdigkeiten in der Nähe von Zoologisches Museum: (0.78 km) Planten un Blomen (0.93 km) Botanischer Garten (1.06 km) The Schanzenviertel (1.34 km) Hamburgische Staatsoper (0.66 km) MARKK - Museum am Rothenbaum; Sehen Sie sich alle Sehenswürdigkeiten in der Nähe von Zoologisches Museum auf Tripadvisor an.
+title: Zoologisches Museum Hamburg - Home | Facebook
+snippet: Zoologisches Museum Hamburg - Bundesstraße 52, 20146 Hamburg, Germany - Rated 4.6 based on 153 Reviews &quot;Das Zoologische Museum feiert seinen neuen...
+title: &quot;Watt erleben – Wattboden verstehen&quot; : Zoologisches Museum ...
+snippet: 12. Dezember 2019 bis 31. Mai 2020. Wattboden ist viel mehr als einfach nur Sand. Bis Ende Mai zeigt das Zoologische Museum des Centrums für Naturkunde in Kooperation mit der Behörde für Umwelt und Energie (BUE) und dem Institut für Bodenkunde der Universität Hamburg die Sonderausstellung „Watt erleben – Wattboden verstehen“.
+title: Zoologisches Museum (Hamburg) - 2020 All You Need to Know ...
+snippet: Hotels near Zoologisches Museum: (0.53 mi) Grand Elysee Hotel Hamburg (0.97 mi) Fairmont Hotel Vier Jahreszeiten (0.94 mi) Superbude Hotel &amp; Hostel St.Pauli (0.77 mi) NH Collection Hamburg City (0.81 mi) Scandic Hamburg Emporio; View all hotels near Zoologisches Museum on Tripadvisor
+title: University of Hamburg - Wikipedia
+snippet: The University of Hamburg (German: Universität Hamburg, also referred to as UHH) is a comprehensive university in Hamburg, Germany.It was founded on 28 March 1919, having grown out of the previous General lecture system (Allgemeines Vorlesungswesen) and the Colonial Institute of Hamburg (Hamburgisches Kolonialinstitut) as well as the Akademic Gymnasium.
+title: Zoological Museum : Exhibitions : Universität Hamburg
+snippet: The Zoological Museum presents specimens of different animals over some 2,000 sq m of floor space. As well as ungulates, insects, and birds from around the globe, visitors can also view Antje, the walrus formerly resident in Hagenbeck’s Zoo and mascot of the northern German television broadcaster, NDR.
+
+REL: 2
+POI Name: KW Institute for Contemporary Art
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: KW Institute for Contemporary Art
+snippet: Due to circumstances revolving around the COVID-19 virus, KW Institute for Contemporary Art is closed to visitors until 19 April 2020. No exhibitions and events will take place during this period, but we are letting various voices speak through our online platforms Facebook, Instagram, and our website which will give you a lively insight into our exhibitions and other projects.
+title: About – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art was founded by Klaus Biesenbach and a group of young art enthusiasts in a practically derelict former margarine factory in Berlin-Mitte in the early 1990s. Since then, KW has delivered a significant contribution to the development of Berlin as an international center for contemporary art. More
+title: Contact – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art KUNST-WERKE BERLIN e. V. Auguststraße 69 10117 Berlin Tel. +49 30 243459-0 Fax +49 30 243459-99 info@kw-berlin.de kw-berlin.de
+title: Kunst-Werke Institute for Contemporary Art - Wikipedia
+snippet: The KW Institute for Contemporary Art (Kunst-Werke) is a contemporary art institution located at Auguststrasse 69 in the Mitte district of Berlin.The director is Gabriele Horn.Since July 1, 2016, the director has been Krist Gruijthuijsen. Unlike many international contemporary art institutions, KW does not have a permanent collection but understands itself &quot;as a place for the production and .
+title: Exhibitions – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art KUNST-WERKE BERLIN e. V. Auguststraße 69 10117 Berlin Tel. +49 30 243459-0 info@kw-berlin.de
+title: Visit – KW Institute for Contemporary Art
+snippet: The annual ticket KW Lover* grants you for the full length of a year free admission to all exhibitions at KW Institute for Contemporary Art during the regular opening hours, as well as the exclusive access to Pogo Bar events.. As holder of the annual ticket you will be regularly informed about the program and all events of KW. You can furthermore purchase tickets for all events to a reduced price.
+title: KW Institute for Contemporary Art – Berlin.de
+snippet: Längst hallt der glänzende Ruf des KW Institute of Contemporary Art, getragen vom Kunst-Werke Berlin e. V., sogar bis nach New York. Der umtriebige Gründervater Biesenbach ist daran nicht ganz unschuldig. Seit der endgültigen Instandsetzung 1999 holt das KW Institute die großen Namen des Kunstbetriebs nach Berlin.
+title: KW Institute for Contemporary Art - visitBerlin.de
+snippet: Through its involvement with the Berlin Biennale, Biesenbach brings worldwide recognition to the institute. In order to be as flexible and open as possible, the KW Institute for Contemporary Art consciously rejects the concept of a permanent collection.
+title: KW Institute for Contemporary Art - Home | Facebook
+snippet: KW Institute for Contemporary Art, Berlin, Germany. 47,100 likes · 909 talking about this. KW Institute for Contemporary Art aims to approach the central...
+title: KW Institute for Contemporary Art | Art in Berlin
+snippet: Always a lightning rod for the local art scene, the new, open approach sees KW engaging with other galleries and organized projects around town, from the recent ‘Berlin Art Week’ initiative ...
+
+REL: 2
+POI Name: Art U.V.Z.
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: DE 10 BESTE ting å gjøre i Berlin - Tripadvisor
+snippet: Shore Excursion: Berlin Sightseeing med rundtur port-transfer; Privat tur til Sachsenhausen Concentration Camp Memorial (med lisensiert guide) Se alle dagsturene fra Berlin på Tripadvisor. Hva er de mest populære tingene å gjøre i Berlin med barn?
+title: Art U.V.Z. - Art gallery in Berlin - Singulart
+snippet: Art galleries Berlin Find the best art galleries in Berlin on Singulart the #1 source for buying art online from recognized artists! Art knows no bounds - safe &amp; FREE shipment to your doorstep. Art knows no bounds - Singulart ensures safe and FREE shipments to your doorstep.
+title: Art U.V.Z. - 11 Photos - Art Galleries - Wartburgstr.7 ...
+snippet: Specialties: Galerie und Kunstatelier vom Feinsten. Sie erleben hier ein Gesamtkunstwerk mit wunderbaren Unikaten und einer atmosphärisch dazu passenden Einrichtung in einer edlen und hellen Altbauwohnung. Bitte stets um Anruf für einen…
+title: The Art of York Berlin
+snippet: 25.02.2020 In den letzten Wochen hatte ich wenig Zeit um neue Projekte anzugehen. Jedoch ist Bild Nummer 3 in diesem Jahr fertig und steht zum Verkauf. Snoop Dog (siehe rechts) &gt;&gt;&gt; 12.01.2020 Auf der About Seite findet ihr jetzt Links zu meinen Social Media Kanälen.. 09.01.2020 Das zweite Bild in den goldenen Zwanzigern ist fertig gestellt und es ist wieder Mister David Bowie geworden.
+title: art&#39;otel berlin mitte Hotel Review, Berlin | Travel
+snippet: Read the art&#39;otel berlin mitte, Berlin hotel review on Telegraph Travel. See great photos, full ratings, facilities, expert advice and book the best hotel deals.
+title: Art U.V.Z. in Berlin - Öffnungszeiten
+snippet: Art U.V.Z. Wartburgstr.7 in Berlin, ☎ Telefon 0177 3333775 mit ⌚ Öffnungszeiten und Anfahrtsplan
+title: Berlin – Wikipedia
+snippet: Berlin er Tysklands forbundshovedstad, og en av landets delstater. Det er Tysklands største by, og den nest største byen i Den europeiske union etter offisielle grenser. Byen er et av de viktigste sentre for europeisk politikk, kultur og vitenskap.
+title: Art museums | visitBerlin.de
+snippet: The old masters, important Modernist works and contemporary art: In Berlin&#39;s art museums you can wander through all eras of art history. Pay a visit to Nefertiti in the Neues Museum (New Museum) and The Man with the Golden Helmet at the Gemäldegalerie (Picture Gallery).
+title: THE 10 BEST Berlin Art Museums (with Photos) - Tripadvisor
+snippet: “ One of my favourite galleries in Berlin - always interesting exhibitions plus an excellent upper floor display of the history of Berlin art. “ Combination of very modern art topical exhibitions, and an all-encompassing review of German artists of the last 200 years which whets your appetite to find out more about many of the lesser known individuals.
+title: List of museums and galleries in Berlin - Wikipedia
+snippet: List of museums and galleries in Berlin. Jump to navigation Jump to search. This is a list of museums and non-commercial galleries in ... Berlin&#39;s visual art from 1945 on, including painting, graphics, sculpture, multimedia, photography, architecture and artists’ archives
+
+REL: 2
+POI Name: Merry Karnowsky Gallery
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: KP Projects
+snippet: KP PROJECTS IS PROUD TO PRESENT. LOLA GIL :: INTIMATE FLOWERS BLOOM. SOLO EXHIBITION :: NEW OIL PAINTINGS :: UNVEILING APRIL 4th. For a private link to the viewing room : preview@kpprojects.net APRIL 4TH - MAY 2ND, 2020
+title: re-title.com Features: Merry Karnowsky Gallery, Berlin
+snippet: Merry Karnowsky Gallery Berlin is proud to present CANTO NEGRO Y BRUJERIAS, featuring the paintings of Barcelona-based artists Miss Van (France) and Victor Castillo (Chile). The two unfold their unique but harmonious iconographies in a pictorial exercise of intersecting ideas. These artists approach from their personal perspectives subjects like seduction, desire, enchantment, and the game of ...
+title: Merry Karnowsky Gallery - Mitte - Berlin, Germany
+snippet: Merry Karnowsky Gallery in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: KP Projects Artist List | Merry Karnowsky Gallery | KP ...
+snippet: A List of Contemporary Artists on display at KP Projects ( Merry Karnowsky Gallery) Originals and Limited Edition Prints from significant artists of the scene
+title: Merry Karnowsky Gallery after party @ White Trash ...
+snippet: White Trash Fast Food, Berlin Picture: Merry Karnowsky Gallery after party @ White Trash - Check out TripAdvisor members&#39; 55,815 candid photos and videos of White Trash Fast Food
+title: The Merry Karnowsky Gallery - Wikipedia
+snippet: The Merry Karnowsky Gallery was founded in Los Angeles in 1997 by Merry Karnowsky. It is located on South La Brea Avenue in the Mid-City West district of Central Los Angeles. The gallery exhibits contemporary art, and it is part of the underground &quot;lowbrow&quot; art movement, shwoing works of pop surrealism and from the street art scene.
+title: Merry Karnowsky Berlin - Obey Giant
+snippet: merry karnowsky gallery presents. a shepard fairey print retrospective 1997 – 2009 6 june – 11 july, 2009 opening reception: saturday, 6 june, 19 – 22 h. torstrasse 175 10115 berlin-mitte, germany phone +49 30 28 50 30 72 gregorymkgb (at) att.com mkgallery (at) mindspring.com
+title: Buy, Sell, and Research Contemporary Art Online: artnet
+snippet: Artnet is the art world online. Find artworks for sale, online auctions, top galleries, leading artists, and breaking art market news from around the globe.
+title: Merry Karnowsky Gallery - Artforum International
+snippet: Of the more than 150,000 negatives taken by the late street photographer Vivian Maier throughout her lifetime, these eighty-plus photos on view offer a vivid cross section of the artist’s primary conceptual concerns. It is difficult to separate Maier’s images from the elusive enigma that surrounds her, so discovery is a key method in approaching the artist, who is better known for her ...
+title: Vivian Maier Exhibitions &amp; Events | Vivian Maier Photographer
+snippet: Promoting Vivian Maier’s work and prestigious archive, through professionally curated exhibitions, is at the core of the Maloof Collection. Vivian Maier‘s touring exhibitions are available for loan to institutions, museums and galleries, and individual photographs from the Vivian Maier archives are available for exhibition loans.
+
+REL: 2
+POI Name: U-Boot Museum U-434
+POI City: Hamburg
+POI Country: DE
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, Museums, 
+Snippets:
+title: U-Bootmuseum | U-Boot 434 - U-Bootmuseum Hamburg
+snippet: ★★★ U-Bootmuseum Hamburg ★★★ Besuchen Sie das sagenumwobene U-Boot 434 - eines der größten nicht-atomaren Jagd- und Spionage U-Boote - am Fischmarkt.
+title: U-434 Submarine Museum - hamburg.com
+snippet: Ballinstadt Cap San Diego Deichtorhallen Dialogue in the Dark Discovery Dock Hamburg Dungeon Hamburg Museum IMMH Kiekeberg Museum Kunsthalle Medical History Museum Miniatur Wunderland Miniatur Wunderland: Venice Museum für Kunst und Gewerbe (MKG) Panoptikum Automuseum PROTOTYP Rickmer Rickmers Spicy&#39;s Spice Museum U-434 Submarine Museum ...
+title: U-Boot Museum Hamburg U-434 im Hamburger Hafen
+snippet: Dabei erfährt man zum Beispiel, dass das U-Boot bis zu 400 Meter tief abtauchen konnte. Auch das Auf- und Abtauchen können Besucher erleben, denn mehrere Tausend Tonnen Zuladung und eine Befestigung am Boden sorgen dafür, dass Ebbe und Flut am U-Boot steigen und sinken.
+title: U-Bootmuseum (Hamburg, Niemcy) - opinie - Tripadvisor
+snippet: Hamburg, Niemcy. 23 3. Zrecenzowano: 1 maja 2018 . U-Boot na Fischmarkt. Jezeli macie ochote zobaczyc wnetrze lodzi podwodnej, zapraszam na Habugski Fischmarkt gdzie za kilka euro mozecie poczuc sie marynarzami lodzi podwodnej . Termin skorzystania z atrakcji: kwiecień 2018.
+title: U-434 Besuch | U-Boot 434 - U-Bootmuseum Hamburg
+snippet: ★★★ U-434 am Fischmarkt - Hamburg ★★★ Hier findest Du alle Informationen, ... Wegen der Enge im U-Boot ist die Besichtigung für Personen mit körperlichen Einschränkungen oder bei Gefahr von Platzangst nicht zu empfehlen.
+title: U-Bootmuseum (Hamburg) - 2020 All You Need to Know BEFORE ...
+snippet: Witness the rise and fall of Hamburg throughout its history: ... reviews russian submarine cold war guided tour tango class conning tower cramped conditions soviet era torpedo room submarine museum crew quarters crew members command center interesting visit worth a visit unique experience hatches boat german diesel galley english navy.
+title: U - 434 Ein russisches U-Boot im Hamburger Hafen. Was ...
+snippet: U - 434 Ein russisches U-Boot im Hamburger Hafen. Was macht es hier? Spionage? Werftaufenthalt? Freundschaftsbesuch? Neugierig? Angucken.
+title: U-Bootmuseum (Hamborg, Tyskland) - anmeldelser
+snippet: U-Bootmuseum, Hamborg: Se 900 anmeldelser, artikler og 1.168 billeder fra U-Bootmuseum, nr.42 på Tripadvisor af 354 seværdigheder i Hamborg.
+title: UBoot Museum Hamburg, U-434 im Hamburger Hafen
+snippet: Im Museum U-434, welches am Fischmarkt im Hamburger Hafe n liegt, durchläuft man die einzelnen Abteilungen wie Motorraum, Torpedoraum, Kombüse ... Die Komandozentrale kann allerdings nur bei einer extra gebuchten Führung besichtigt werden. Eine sehr interessante Sehenswürdigkeit im Hafen von Hamburg. Weitere Bilder vom UBoot Museum
+title: U-Bootmuseum (Hamburg) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Wenn man noch nie ein U-Boot besichtigt hat, ist es ein muss in Hamburg. Sehr interessant zu sehen. Jedoch sollte man etwas gelenkig sein, sonst gibt es Probleme bei den Übergängen ins nächste Abteil. Kleiner Tipp: Nicht direkt nach oder vor einer Gruppe Menschen hineingehen, …
+
+REL: 2
+POI Name: Gemäldegalerie Berlin
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Gemäldegalerie: Home - Staatliche Museen zu Berlin
+snippet: Information on the Coronavirus (SARS-CoV-2): As of Saturday, 14 March 2020 all buildings of the Staatliche Museen zu Berlin will be closed to the public until further notice. This measure is intended to minimise the spread of the coronavirus. We appreciate your understanding.
+title: Gemäldegalerie: Home - Staatliche Museen zu Berlin
+snippet: Information zum Coronavirus (SARS-CoV-2): Seit Samstag, 14. März 2020, sind alle Häuser der Staatlichen Museen zu Berlin bis auf Weiteres geschlossen. Diese Maßnahme soll helfen, die Verbreitung des Coronavirus so gering wie möglich zu halten.
+title: Gemäldegalerie, Berlin - Wikipedia
+snippet: The Gemäldegalerie (German pronunciation: [ɡəˈmɛːldəɡaləˌʁiː], Painting Gallery) is an art museum in Berlin, Germany, and the museum where the main selection of paintings belonging to the Berlin State Museums (Staatliche Museen zu Berlin) is displayed.It holds one of the world&#39;s leading collections of European paintings from the 13th to the 18th centuries.
+title: Gemäldegalerie – Berlin.de
+snippet: Gemäldegalerie. Berlin&#39;s Gemäldegalerie (Picture Gallery), also known as the Old Masters Museums is one of the world’s most impressive collections of European painting exhibiting an astonishing range of European art from the 13th to the 18th centuries from the great European masters.
+title: Gemäldegalerie – Berlin.de
+snippet: Gemeinsam mit der Sammlung Würth präsentieren die Staatlichen Museen zu Berlin in der Wandelhalle der Gemäldegalerie „The Last Judgement Sculpture“, ein Hauptwerk des britischen Künstlers Anthony Caro (1924–2013). Die monumentale, 25-teilige Installation...
+title: Gemäldegalerie (Berlin) – Wikipedia
+snippet: Gemäldegalerie er et kunstgalleri i bydelen Mitte i Berlin. Det ble åpnet i 1830 og holdt først hus i Altes Museum på Museumsinsel, men etter at dette ble skadet under andre verdenskrig, ble galleriet flyttet til Kulturforum Berlin, i Tiergarten mellom Landwehrkanal og Potsdamer Platz.
+title: Gemäldegalerie: Current - Staatliche Museen zu Berlin
+snippet: Exhibitions: Gemäldegalerie of the Staatliche Museen zu Berlin. Information on the Coronavirus (SARS-CoV-2): As of Saturday, 14 March 2020 all buildings of the Staatliche Museen zu Berlin will be closed to the public until further notice. This measure is intended to minimise the spread of the coronavirus.
+title: Gemäldegalerie, Staatliche Museen zu Berlin, Berlin ...
+snippet: After the collapse of the Berlin Wall and the subsequent remerger of the Staatliche Museen zu Berlin in 1991, the Gemäldegalerie was expanded with the addition of a study gallery. In its sense of architectural restraint, the simple designs of the façade are deliberately reminiscent of Karl Friedrich Schinkel’s Altes Museum.
+title: Gemäldegalerie (Berlin) — Wikipédia
+snippet: modifier - modifier le code - modifier Wikidata La Gemäldegalerie ou Galerie de peintures (Pinacothèque) est l&#39;un des musées d&#39;État de Berlin , situés dans le complexe muséal du Kulturforum ouvert en 1998. C&#39;est l&#39;un des plus importants musées au monde de peinture européenne du XIII e au XVIII e siècle, aussi bien par la taille que par la qualité des collections, qui comprennent de
+title: Raphael in Berlin: The Madonnas of the Gemäldegalerie ...
+snippet: In the exhibition &quot;Raphael in Berlin: The Madonnas of the Gemäldegalerie&quot;, the round picture of the Madonna Terranuova (c. 1505) together with Raphael&#39;s drawing of the Head of the Madonna Terranuova from the Kupferstichkabinett will also be on view for the first time.
+
+REL: 2
+POI Name: Museum of Arts and Crafts
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Arts and Crafts Museum Museum für Kunst und ... - hamburg.de
+snippet: The Museum of Arts and Crafts (Museum für Kunst und Gewerbe — MKG) is one of the most important museums of applied arts in Europe. Its collection includes artifacts from the ancient world to the present and encompasses 4000 years of European, Islamic and Asian cultures.
+title: mkg-hamburg.de
+snippet: until April 30th MKG CLOSED. Print . Exhibitions. Current. The Poster; 100 Years of Adjustable Light
+title: Museum für Kunst und Gewerbe Hamburg - Wikipedia
+snippet: The Museum für Kunst und Gewerbe Hamburg (Museum of Art and Design Hamburg) is a museum of fine, applied and decorative arts in Hamburg, Germany. It is located centrally, near the Hauptbahnhof. History. The museum was founded in 1874, following the models of ...
+title: Hamburg Kunsthalle Museum - hamburg.com
+snippet: The Hamburg Kunsthalle on Glockengießerwall was founded in 1817 by the Hamburg Kunstverein — a local art society — but was not built until 1869. Private donors contributed two-thirds of the costs of about 300,000 D-Mark (a lot of money back then!) and turned the Hamburg Kunsthalle into a symbol of civic engagement.
+title: Museums ─ Art, Chocolate, Miniature Trains ... - Hamburg.com
+snippet: From modern art to maritime history, these are the best of Hamburg&#39;s museums and exhibitions. Marvel at miniature trains &amp; cities at Miniature Wunderland, admire world-class art at Kunsthalle and MKG or follow your sweet tooth to the Chocoversum chocolate museum
+title: Museum of Arts and Crafts - COME TO HAMBURG
+snippet: With approximately 500,000 objects from 4,000 years of human history the Museum für Kunst und Gewerbe Hamburg (MKG) is one of the most influential museums for arts and crafts in Europe. Opened in 1877, the MKG tells the remarkable story of human creativity.
+title: 10 Must-Visit Museums &amp; Galleries In Hamburg, Germany
+snippet: Hamburg, the second largest city in Germany and the eighth largest city in the EU, has long been established as a cultural center. Over the last two centuries, the city has seen an impressive number of exhibition spaces open their doors to display a wide range of historic and contemporary works of art.
+title: 15 Closest Hotels to Museum of Arts and Crafts Hamburg in ...
+snippet: Museum of Arts and Crafts Hamburg is located in Saint Georg. It&#39;s in a romantic neighborhood well known for its great selection of restaurants. If you&#39;d like to find things to do in the area, you may want to check out Miniatur Wunderland and Hamburg Dungeon.
+title: Museum of Art and Craft, Hamburg - GPSMYCITY
+snippet: Museum of Art and Craft in Hamburg, Germany - sight map, attraction information, photo and list of walking tours containing this attraction. Get offline map and directions using our GPSmyCity self-guided walking tours app for your mobile device.
+title: Top 10 Hotels Closest to Museum of Arts and Crafts Hamburg ...
+snippet: Museum of Arts and Crafts Hamburg is located in a historic area of Hamburg known for its top museums and major shopping area. The neighborhood is home to 230 hotels and other accommodations, so you can find something that works for your stay.
+
+REL: 2
+POI Name: galerie heliumcowboy
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: heliumcowboy
+snippet: A pioneer among a new breed of galleries, heliumcowboy was founded in 2002 by Jörg Heikhaus in Hamburg St. Pauli. The aim was to discover and build exciting artists with the ability to blow away boundaries and to establish the future aesthetics of art.
+title: Galerien &amp; Kunstorte heliumcowboy artspace - hamburg.de
+snippet: Die Galerie heliumcowboy artspace ist ein Hybrid aus traditioneller Galerie und urbaner Ausstellungsfläche, die die führende internationale urbane Gegenwartskunst vertritt, aber auch vielversprechende Neuentdeckungen gezielt fördert.
+title: Heliumcowboy Artspace - Home | Facebook
+snippet: Heliumcowboy Artspace, Hamburg, Germany. 7,512 likes · 60 talking about this · 1,306 were here. Founding hiy pioneer gallery in 2002, Jörg Heikhaus aka Alex Diamond has been challenging the...
+title: galerie heliumcowboy - St. Pauli - Hamburg, Germany
+snippet: galerie heliumcowboy in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: Galerie in Hamburg: 5 Ausstellungsorte für Kunstfans | kiekmo
+snippet: 3. Heliumcowboy Artspace Hamburg: Mehr als eine Galerie. Eigentlich wollte Jörg Heikhaus in den Räumen in Hamburg-Mitte nur seine eigene Kunst schaffen – doch er merkte schnell, das die Fläche sich auch ziemlich gut als Ausstellungsort machte.
+title: Galerien - Hamburg Marketing
+snippet: Heliumcowboy (Heliumcowboy / www.heliumcowboy.com) Motto und Ethos der Galerie lassen sich mit einem Song aus den 70er Jahren zusammen fassen: &quot;A cowboy’s work is never done“. Heliumcowboy stellt Werke von Künstlern aus der ganzen Welt aus und organisiert Ausstellungen an ungewöhnlichen Orten.
+title: Kultur in Hamburg: Galerien - hamburg.de
+snippet: 40 Theater, 60 Museen, 100 Clubs. Von Neumeiers Ballett über die Bücherhallen bis zum Kindermuseum. Und noch viel mehr! Rund 50.000 Besucher nutzen jeden Tag, was die Kulturmetropole Hamburg zu bieten hat ...
+title: 07.09.18 | Peter Skovgaard — heliumcowboy
+snippet: In Kooperation mit der Galerie Wolfsen (Aalborg) präsentiert heliumcowboy erstmals in Hamburg Werke des dänischen Malers Peter Skovgaard, einem der bekanntesten Künstler seines Heimatlandes. Skovgaard zeigt bei uns neue, abstrakt-impulsive Bilder, in denen sich häufig auch figurative Elemente erkennen lassen.
+title: Hamburg’s Must-Visit Contemporary Art Galleries
+snippet: Hamburg’s Must-Visit Contemporary Art Galleries. Add to Plan. ... Heliumcowboy Artspace. The Heliumcowboy Artspace might claim to be the most subversive art establishment operating in Hamburg today. ... Galerie W, Ifflandstraße 64, Hamburg, Germany, +49 (0) 40 2275 8374
+title: 166 Jahre Kunst in Hamburg | heliumcowboy | Artsy
+snippet: Group show of selected Hamburg galleries a the Affenfaust Galerie, incl. Feinkunst Krüger, Galerie Kai Erdmann, Galerie Oel-Früh, xpon-art, Oberfett, ... Past show featuring works by Jens Rausch and Jörg Heikhaus aka Alex Diamond at heliumcowboy Hamburg, Paul-Roosen-Straße 43 c/o Affenfaust Galerie Nov 14th – 17th 2019.
+
+REL: 2
+POI Name: Senckenberg-Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Music Venues, 
+Snippets:
+title: Home · Senckenberg Museum Frankfurt
+snippet: Die neuen Ausstellungsbereiche Tiefsee, Meeresforschung und Korallenriff des Frankfurter Museums werden ein Schaufenster der modernen Meeresforschung und tragen pünktlich zur 2021 beginnenden UN-Dekade der Ozeanforschung zur Information und Sensibilisierung bei, wie auch diese Vortragsreihe.
+title: Home | Senckenberg Gesellschaft für Naturforschung
+snippet: Das Senckenberg Museum Frankfurt bleibt bis 19. April geschlossen. Alle Veranstaltungen fallen aus. Aktuelles. Liebe Besucher*innen, aufgrund der Corona-Pandemie bleibt das Senckenberg Naturmuseum Frankfurt ab sofort bis vorerst 19.4.2020 geschlossen.
+title: Home · Senckenberg Museum Frankfurt
+snippet: From the tiny ladybug to the giant fin whale, from fossilized plants to meteorites from outer space - on a total area of 6,000 square meters, the Senckenberg Natural History Museum displays rare and often spectacular exhibits. The museum&#39;s modernization is an essential step toward their optimal protection and preservation. Your contribution will help us tackle this project.
+title: Naturmuseum Senckenberg - Wikipedia
+snippet: The Naturmuseum Senckenberg is a museum of natural history, located in Frankfurt am Main.It is the second-largest of its type in Germany. The Senckenberg Museum is particularly popular with children, who enjoy the extensive collection of dinosaur fossils: Senckenberg boasts the largest exhibition of large dinosaurs in Europe. One notable exhibit is a dinosaur fossil with unique, preserved ...
+title: Dauerausstellung · Senckenberg Museum Frankfurt
+snippet: Auszubildende der Stadt Frankfurt gegen Nachweis eine Begleitperson pro gebuchter Führung (nur Schulklassen, Kitas und Vereine) Begleitperson eines Behinderten (ab 50%), sofern eine Begleitung für den Besuch des Museums aufgrund der Art der Behinderung notwendig ist.
+title: Senckenberg Naturmuseum Frankfurt @museum.de
+snippet: Beschreibung. Das Senckenberg Naturmuseum ist eines der großen Naturkundemuseen in Deutschland und zeigt die heutige Vielfalt des Lebens (Biodiversität) und die Entwicklung der Lebewesen (Evolution) sowie die Verwandlung unserer Erde über Jahrmillionen hinweg.
+title: Senckenberg Naturmuseum – Wikipedia
+snippet: Lerne im Museum – 182 Themen zur Naturgeschichte aus dem Senckenberg-Museum. Kramer, Frankfurt am Main 1972, ISBN 3-7829-1038-9. Klemens Mörmann (Hrsg.): Der deutsche Museumsführer in Farbe. Museen und Sammlungen in der Bundesrepublik Deutschland und West-Berlin. Büchergilde Gutenberg, Frankfurt am Main/Olten/Wien 1983, , S. 340.
+title: Senckenberg Museum of Natural History | Frankfurt Tourism
+snippet: The Senckenberg Museum - one of the largest Natural History Museums in Germany - exhibits the evolution of life and its recent biodiversity.
+title: Virtual Reality · Senckenberg Museum Frankfurt
+snippet: Visitors from twin towns of Frankfurt city with identity card: Birmingham, Budapest, Deuil-La-Barre, Granada in Nicaragua, Guangzhou, Cairo, Kraków, Leipzig, Lyon, Milan, Philadelphia, Prague, Tel Aviv, Toronto, Yokohama, Dubai, Eskişehir: Escorts of disabled (from 50% on), in case support is essential for the visit of the museum
+title: Naturmuseum Senckenberg (Frankfurt am Main) - Aktuelle ...
+snippet: Unsere englischsprachigen Muttersprachler versuchen immer, Ihre Tour mit einzigartigen Details der Frankfurter Geschichte unvergesslich zu machen und Ihnen diese wunderschöne Stadt mit Leidenschaft zu zeigen. Wir glauben, dass Frankfurt nur zu Fuß zu sehen ist, wo Sie Gebäude betreten und sehen können, wo Geschichte geschrieben wurde.
+
+REL: 1
+POI Name: E aktiv markt Clausen
+POI City: Hamburg
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: E aktiv markt Clausen Neuengammer Hausdeich 215, 21039 Hamburg
+snippet: E aktiv markt Clausen, Neuengammer Hausdeich 215, 21039 Hamburg: Öffnungszeiten, Angebote &amp; mehr. Hier finden Sie alle Infos zu unserem Supermarkt - wir freuen uns auf Sie!
+title: E aktiv markt Clausen - Grocery - Neuengammer Hausdeich ...
+snippet: E aktiv markt Clausen in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: E aktiv markt Clausen Hamburg, Neuengammer Hausdeich 215 ...
+snippet: E aktiv markt Clausen Hamburg, Neuengammer Hausdeich 215. EDEKA › Wir lieben Lebensmittel. Aufgrund des Coronavirus und der damit verbundenen Einschränkungen können Öffnungszeiten abweichen. Bitte beachten Sie daher auch die Informationen auf der Webseite des Händlers. Zur Händler-Webseite. Öffnungszeiten.
+title: EDEKA aktiv markt Clausen Feinkost Hamburg Neuengamme ...
+snippet: EDEKA aktiv markt Clausen Feinkost in Hamburg Neuengamme: Adresse und weitere Informationen im Branchenbuch auf Hamburgs offiziellem Stadtportal.
+title: E aktiv Markt Clausen Neuengammer Hausdeich 215 in 21039 ...
+snippet: E aktiv Markt Clausen Filiale Neuengammer Hausdeich 215: Öffnungszeiten Adressen Prospekte Angebote Telefonnummer - finde alle Infos zur Geschäftsstelle in 21039 Hamburg .
+title: E aktiv markt Clausen Supermärkte in Hamburg Neuengamme ...
+snippet: E aktiv markt Clausen, Hamburg Neuengamme, Herzlich willkommen bei E aktiv markt Clausen! Wir bieten Ihnen in unserem Supermarkt ein großes Sortiment an Lebensmitteln - immer in bester Qualität und mit viel Service.
+title: E aktiv markt Clausen Hamburg, Neuengammer Hausdeich 215,
+snippet: Maps and GPS directions to E aktiv markt Clausen Hamburg and other Edeka locations in Germany.Find your nearest Edeka. The Edeka Group is the largest German supermarket corporation, currently holding a market share of 26%.
+title: E Aktiv Markt Clausen Supermarkt in Hamburg Neuengamme
+snippet: E Aktiv Markt Clausen Supermarkt in Hamburg Neuengamme. Anschrift . create bearbeiten. Neuengammer Hausdeich 215 21039 Hamburg Inhaber: Vierländer Markt Niko Clausen GmbH Bezirk: Stadtteil: Neuengamme. In der Nähe. Karte anzeigen. Navigation. Direktkontakt . create bearbeiten. phone Anrufen. mail_outline E-Mail. web Web.
+title: E aktiv markt Clausen - Supermarket in Neuengamme
+snippet: See photos, tips, similar places specials, and more at E aktiv markt Clausen Supermarket in Hamburg, Hamburg Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: E aktiv markt Neuengammer Hausdeich 215 in 21039 Hamburg ...
+snippet: Finde hier alle Informationen der E aktiv markt Filiale Neuengammer Hausdeich 215 in Hamburg (21039). Neben Öffnungszeiten, Adresse und Telefonnummer, bieten wir auch eine Route zum Geschäft und erleichtern euch so den Weg zur nächsten Filiale. Wenn vorhanden, zeigen wir euch auch aktuelle Angebote von E aktiv markt Clausen.
+
+REL: 1
+POI Name: Castel Cosimo
+POI City: Hamburg
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Castel Cosimo - Poppenbüttel - Hamburg, Germany - Yelp
+snippet: Castel Cosimo steht für italienische Weine, Spirituosen und Spezialitäten. Bei uns finden Sie neben den Klassikern wie zum Beispiel Barolo oder Chianti sehr viele autochthone Weine; sprich Rebsorten, die es nur in Italien gibt und bei uns weitgehend unbekannt sind.
+title: C.C. CASTEL COSIMO italienisches Weinlager GmbH, Hamburg ...
+snippet: C.C. CASTEL COSIMO italienisches Weinlager GmbH has its registered office in Hamburg, Germany. Its current status is listed as active. The company is registered at the Trade register at the local court of Hamburg with the legal form of Private limited company (number HRB 32533).
+title: Castel Cosimo - Osdorf - Hamburg, Germany - Yelp
+snippet: Specialties: Castel Cosimo steht für italienische Weine, Spirituosen und Spezialitäten. Bei uns finden Sie neben den Klassikern wie zum Beispiel Barolo oder Chianti sehr viele autochthone Weine; sprich Rebsorten, die es nur in Italien gibt und bei…
+title: Castel Cosimo - hamburg.de
+snippet: Tickets für Hamburg bei hamburg.de. Hier finden Sie Tickets, Eintrittskarten und Termine sowie Informationen zu Konzerten, Theater, Musicals und sonstigen Veranstaltungen in Hamburg.
+title: Castel Cosimo, Poppenbütteler Weg 191A, Hamburg (2020)
+snippet: Castel Cosimo ist eine Gründung Mailänder und Hamburger Weinexperten. Seit 1984 importieren wir italienischen Wein und italienische Spezialitäten. In den verschiedenen Weingeschäften, wo Sie fast alle Angebote selber verkosten können, wie auch per Versand gilt unser erfolgreiches Motto: &quot;Weine vom Winzer direkt zum Verbraucher&quot;.
+title: Castel Cosimo italienisches Weinlager GmbH Osdorf - Hamburg
+snippet: Castel Cosimo italienisches Weinlager GmbH Osdorf Lebensmittel in Hamburg Osdorf: Adresse und weitere Informationen im Branchenbuch auf Hamburgs offiziellem Stadtportal.
+title: Castel Cosimo (@CastelCosimo) | Twitter
+snippet: The latest Tweets from Castel Cosimo (@CastelCosimo). Seit 1984 importieren wir italienischen Wein und italienische Spezialitäten. &quot;Weine vom Winzer direkt zum Verbraucher&quot;. Hamburg, Deutschland
+title: CASTEL COSIMO italienisches Weinlager in Hamburg | 0402344...
+snippet: CASTEL COSIMO italienisches Weinlager. CASTEL COSIMO italienisches Weinlager in Hamburg-Hammerbrook erreichen Sie unter der Telefonnummer 040 23 44 43. Während der Öffnungszeiten hilft man Ihnen dort gerne weiter. Sie möchten CASTEL COSIMO italienisches Weinlager an Bekannte oder Freunde weiterempfehlen?
+title: Castel Cosimo in Wandsbek - Hamburg - StreetDir.com
+snippet: Castel Cosimo. Auf dieser Seite haben wir für Sie alle Informationen zum Eintrag Castel Cosimo aus der Kategorie Getränkeladen in Wandsbek zusammen getragen. Unten finden Sie die Anschrift, Details und den Stadtplan mit der genauen Wegbeschreibung.
+title: List of castles in Hamburg - Wikipedia
+snippet: This is a list of castles and manor houses in the German city-state of Hamburg. The list encompasses castles referred to in German as Burg (castle or fortification), Schloss (manor house, castle or palace), and Herrenhaus (manor house or mansion); existing, ruined or completely vanished.
+
+REL: 1
+POI Name: Opera
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Bars, Italian, 
+Snippets:
+title: Calendar - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Startseite | Staatsoper Berlin
+snippet: Die Staatsoper Unter den Linden in Berlin vereint 275-jährige Tradition mit künstlerischer Moderne. Mit der herausragenden Qualität der Opern- und Konzertaufführungen zählt sie zu einer der bedeutendsten Bühnen der Welt.
+title: Homepage - Deutsche Oper Berlin
+snippet: The Deutsche Oper Berlin is proud to draw readers’ attention to two of the nominations for the 2020 International Opera Awards. The magnificent chorus of the Deutsche Oper Berlin and its director Jeremy Bines have been shortlisted for their category and Detlev Glanert’s OCEANE is among the nominations for best “World Premiere”.
+title: Startseite - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Homepage | Staatsoper Berlin
+snippet: Die Staatsoper Unter den Linden in Berlin vereint 275-jährige Tradition mit künstlerischer Moderne. Mit der herausragenden Qualität der Opern- und Konzertaufführungen zählt sie zu einer der bedeutendsten Bühnen der Welt.
+title: Programme &amp; tickets | Staatsoper Berlin
+snippet: Grand oper in two acts by Wolfgang Amadeus Mozart ... Landesjugendballett Berlin an der Staatlichen Ballettschule Berlin. presents »Le Corsaire« ...
+title: Home | Komische Oper Berlin
+snippet: Die Komische Oper Berlin, im Herzen der Hauptstadt zwischen Brandenburger Tor, Museumsinsel und Checkpoint Charlie gelegen, steht für zeitgemäßes und lebendiges Musiktheater. Ihr prächtiger, neobarocker Zuschauersaal bietet Platz für 1190 Zuschauer. Mehr als 180000 Besucher lassen sich jedes Jahr vom vielfältigen Spielplanangebot des Hauses begeistern, das 2007 zum Opernhaus des Jahres ...
+title: Berlin Opera - Tickets and Schedule - Classictic.com
+snippet: Berlin Opera An exciting variety of opera performances. Berlin is renowned for its rich variety of excellent opera houses. The Deutsche Oper Berlin (German Opera of Berlin) has its home in a streamlined modern building in Charlottenburg, in the former West Berlin, while the Komische Oper Berlin is located in former East Berlin, near the Brandenburg Gate.
+title: Spielplan - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Tickets for Performances in Berlin - Allemagne - Music &amp; Opera
+snippet: Discover the 2019-2020 Berlin Season and book your opera, concert or ballet tickets in Berlin! The German capital is a real cultural gem. Hundreds of museums, art galleries, concert halls and operas are waiting for you! Attending to an opera in Berlin is essential.
+
+REL: 1
+POI Name: Schwan
+POI City: Munich
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Bavarian, German, International, 
+Snippets:
+title: Schwan, München - Restaurantanmeldelser - Tripadvisor
+snippet: Spise middag i München: Se 64 anmeldelser fra Tripadvisor-reisende av 3 393restauranter i München, og søk etter kjøkken, pris, sted og mer.
+title: Kindl &amp; Schwan, Munich - Restaurant Reviews, Photos ...
+snippet: Kindl &amp; Schwan, Munich: See 10 unbiased reviews of Kindl &amp; Schwan, rated 5 of 5 on TripAdvisor and ranked #1,238 of 3,389 restaurants in Munich.
+title: Neuschwanstein Castle - Wikipedia
+snippet: Neuschwanstein Castle consists of several individual structures which were erected over a length of 150 metres on the top of a cliff ridge. The elongate building is furnished with numerous towers, ornamental turrets, gables, balconies, pinnacles and sculptures. Following Romanesque style, most window openings are fashioned as bi- and triforia.
+title: De 10 beste restaurantene i München - Tripadvisor
+snippet: Beste restauranter i München, Tyskland: Se anmeldelser fra reisende og bilder av spisesteder i München, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Schweinelendchen - Picture of Schwan, Munich - Tripadvisor
+snippet: Schwan, Munich Picture: Schweinelendchen - Check out Tripadvisor members&#39; 53,165 candid photos and videos of Schwan
+title: Schwarzer Schwan und Vogel Strauss | Munich Re
+snippet: Und Schwarze Schwäne gibt es ja wirklich: In Australien ist er als sogenannter Trauerschwan sogar so verbreitet, dass er es zum Wappentier des Bundesstaates Westaustralien gebracht hat. Der Artikel „Schwarzer Schwan und Vogel Strauss“ von Herrn Dr. Nikolaus von Bomhard ist am Dienstag, den 29.
+title: Restaurant Schwan - Picture of Schwan, Munich - Tripadvisor
+snippet: Schwan, Munich Picture: Restaurant Schwan - Check out Tripadvisor members&#39; 53,229 candid photos and videos of Schwan
+title: Besøk München i 2020: Det beste innen München, Tyskland ...
+snippet: Risotto Restaurant Munich. 707 anmeldelser. Werneckhof by Geisel. 266 anmeldelser. Nur Einmal Leben. 183 anmeldelser. Restaurant Pils Corner. 250 anmeldelser. Naxos Taverna. 966 anmeldelser. Taverna Limani. 790 anmeldelser. La Boheme. 1 075 anmeldelser. Som en lokalkjent. Privat og personlig opplevelse: se München med en lokal.
+title: Rindersteak - Picture of Schwan, Munich - Tripadvisor
+snippet: Schwan, Munich Picture: Rindersteak - Check out Tripadvisor members&#39; 54,152 candid photos and videos of Schwan
+title: Hotel der Schwan, Schwanstetten, Germany - Booking.com
+snippet: Restaurant der Schwan, offering castles, museums and cultural events. Hiking and cycling trails are easily accessible from the hotel. A bus stop is conveniently located in front of the door and Rednitzhembach Train Station is 3.7 mi away. The A6 motorway is 5 minutes by car and free parking is provided.
+
+REL: 1
+POI Name: Alter Elbtunnel
+POI City: Hamburg
+POI Country: DE
+POI Main category: Local Flavor
+POI Sub category: Local Flavor, Landmarks & Historical Buildings, 
+Snippets:
+title: Alter Elbtunnel - Hamburg
+snippet: Alter Elbtunnel bis auf weiteres autofrei. Am 3. Juni 2019 hat die Sanierung der Weströhre des St. Pauli Elbtunnels begonnen. Parallel wurde die wiedereröffnete Oströhre aus betrieblichen und baustellenbedingten Gründen für Kraftfahrzeuge bis auf weiteres gesperrt.
+title: Elbe Tunnel (1911) - Wikipedia
+snippet: Old Elbe Tunnel or St. Pauli Elbe Tunnel (German: Alter Elbtunnel colloquially or St. Pauli Elbtunnel officially) which opened in 1911, is a pedestrian and vehicle tunnel in Hamburg, Germany.The 426 m (1,398 ft) long tunnel was a technical sensation; 24 m (80 ft) beneath the surface, two 6 m (20 ft) diameter tubes connect central Hamburg with the docks and shipyards on the south side of the ...
+title: Alter Elbtunnel (Hamburg, Tyskland) - Anmeldelser
+snippet: Alter Elbtunnel, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Alter Elbtunnel i Hamburg, Tyskland på Tripadvisor.
+title: St. Pauli-Elbtunnel – Wikipedia
+snippet: Der 1911 eröffnete St. Pauli-Elbtunnel – in Abgrenzung zum seit 1975 bestehenden Neuen Elbtunnel auch Alter Elbtunnel genannt – unterquert die Norderelbe auf einer Länge von 426,5 Metern und verbindet mit zwei Tunnelröhren die nördliche Hafenkante bei den St. Pauli-Landungsbrücken) mit der Elbinsel Steinwerder).
+title: Der alte Elbtunnel - Sehenswürdigkeiten Hamburg
+snippet: Den Alten Elbtunnel Hamburg erreichen Sie, wie die vielen anderen Attraktionen am Hafen Hamburg, bequem und einfach mit dem öffentlichen Nahverkehr. Sie können Ihre Anfahrt zum Alten Elbtunnel mit der S-Bahn Linie S1 planen und so nebenbei die beliebtesten Haltestellen der Hansestadt gleich mit abfahren.
+title: Alter Elbtunnel (Hamburg) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Wir empfehlen Ihnen, Touren für Alter Elbtunnel frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 4 Touren für Alter Elbtunnel auf Tripadvisor an.
+title: Alter Elbtunnel (Hamborg, Tyskland) - anmeldelser
+snippet: Alter Elbtunnel, Hamborg: Se 5.152 anmeldelser, artikler og 2.369 billeder fra Alter Elbtunnel, nr.19 på Tripadvisor af 354 seværdigheder i Hamborg.
+title: Alter Elbtunnel Hamburg | Hamburg Tourismus
+snippet: Als der alte Elbtunnel, der auch &quot;St. Pauli Elbtunnel&quot; heißt, 1911 eröffnet wurde, war er eine technische Sensation. Heute ist er ein nostalgisches und liebevoll gepflegtes Stück Hamburger Geschichte - und feierte bereits 100-jähriges Jubiläum.
+title: Alter Elbtunnel (Hamburg) - 2020 All You Need to Know ...
+snippet: We recommend booking Alter Elbtunnel tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 5 Alter Elbtunnel tours on Tripadvisor
+
+REL: 1
+POI Name: Burg Linn
+POI City: Krefeld
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Castles, Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Schleswig-Holsteinische Landesmuseen Schloss Gottorf
+POI City: Schleswig
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, Castles, 
+Snippets:
+
+
+REL: 1
+POI Name: Headegg - Der Raum
+POI City: Munich
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Headegg - Der Raum - Au-Haidhausen - Munich, Bayern, Germany
+snippet: Headegg - Der Raum in Munich, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Munich and beyond.
+title: Headegg.com – Der Raum
+snippet: Der Winter ist noch nicht vorbei und schon geht es bei HEADEGG mit der 14. Ausstellung „It’s been a long day“ weiter. Diesmal zeigen wir in einer von Alexandra Grimmer kuratierten Ausstellung den Künstler Mathias Schmied. Der 1976 in Bern geborene und in Paris lebende Künstler zeigt Arbeiten aus Papier.
+title: Headegg - Munich, Germany
+snippet: HeadEgg ist eine Ausstellungsplattform, die auf erfrischende Art zeitgenössische Kunst präsentiert. Als neuer Freiraum für aktuelle künstlerische Äußerungen und Positionen ist HeadEgg über drei Medien RAUM, NETZ und MAGAZIN erreichbar. Description: HEADEGG – DER RAUM ist keine Galerie im klassischen Sinne.
+title: Headegg.com – Der Raum » Kontakt
+snippet: Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+title: Headegg, Munich, Museum/Art Gallery - Phone, opening hours ...
+snippet: HeadEgg ist eine Ausstellungsplattform, die auf erfrischende Art zeitgenössische Kunst präsentiert. Als neuer Freiraum für aktuelle künstlerische Äußerungen und Positionen ist HeadEgg über drei Medien RAUM, NETZ und MAGAZIN erreichbar. HEADEGG – DER RAUM ist keine Galerie im klassischen Sinne.
+title: Headegg.com – Der Raum » 2013
+snippet: yarn-objects. Das Jahr 2013 beginnt bei HEADEGG mit der Ausstellung Nummer 11 unter dem Titel Olaf Tiedje „yarn-objects“, Fotografien. Der in Stuttgart geborene Künstler setzt sich mit dem Medium der digitalen Fotografie auf formal-traditionellem Weg auseinander.
+title: Headegg.com – Der Raum » RAUM
+snippet: Der Raum. Zu Beginn des Jahres 2009 gründete der Fotograf Hubertus Hamm HEADEGG, um zeitgenössischen Künstlerinnen und Künstlern, die sich mit den Parametern der Fotografie auseinandersetzen, eine unkonventionelle Ausstellungsplattform in München zu bieten.
+title: Headegg.com – Der Raum » Künstler
+snippet: Die Künstler. Ausstellung 20 Manuel Strauss und Lea Grebe – AUCH INSEKTEN ESSEN KUCHEN Ausstellung 19 Bianca Regl – BETWEEN THE APPLE AND THE PLATE Ausstellung 18 Ralph Ammer – HAUSHALTEN Ausstellung 17 Jusha &amp; Sven Mueller – Münchner Gold www.jushamueller.de
+title: Headegg - Der Raum - Kunstgalerie in München ...
+snippet: Kunstgalerie München Finden Sie die besten Kunstgalerien in München auf Singulart die #1 Referenz für den Kauf von Kunstwerken von anerkannten Künstlern!
+title: Headegg - Der Raum - Art gallery in München - Singulart
+snippet: Art galleries München Find the best art galleries in München on Singulart the #1 source for buying art online from recognized artists!
+
+REL: 1
+POI Name: Walter Storms Galerie
+POI City: Munich
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Walter Storms Galerie · Home ... Ausstellungen ... News
+snippet: Die Walter Storms Galerie in München vertritt Künstler wie Roland Fischer, Rupprecht Geiger, Peter Krauskopf, Sean Scully, Günther Uecker u.v.m.
+title: gallery - Walter Storms Galerie
+snippet: After his course of studies in art history and archeology, Walter Storms established his gallery in Munich’s Kaulbach Street in 1977. Shortly after the opening, the gallery quickly established its international reputation by committing in particular to Italian artists, such as Marco Gastini and Giuseppe Spagnolo, as well as to artists in Eastern Europe, such as Magdalena Jetelová and Roman ...
+title: Roland Fischer Fotograf - werke - Walter Storms Galerie
+snippet: Roland Fischer, München/Beijing: Übersicht Werke (Auswahl) bei Walter Storms Galerie. Weiter zu Ausstellungen und Biografie des Fotografs Roland Fischer.
+title: contact - Walter Storms Galerie
+snippet: If you wish to receive our newsletter, send us an email to post@storms-galerie.de.Therewith you accept that we save your personal data (name, email address and if provided by, your postal address, telephone/ fax) to inform you about our exhibitions and openings and to get in contact with you.
+title: Walter Storms Galerie - Maxvorstadt - Munich, Bayern, Germany
+snippet: Walter Storms Galerie in Munich, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Munich and beyond.
+title: Roland Fischer | Facades | Walter Storms Galerie | Artsy
+snippet: Past show featuring works by Roland Fischer at Walter Storms Galerie Munich, Schellingstr. 48 Feb 25th – Apr 25th 2015
+title: kontakt - Walter Storms Galerie
+snippet: walter storms galerie schellingstraße 48 80799 münchen. tel + 49 89 27 37 01 62 fax+ 49 89 27 37 01 63 mail@storms-galerie.de. di–fr 11 – 18 uhr sa 11 – 16 uhr und nach vereinbarung. Wünschen Sie in unseren Verteiler aufgenommen zu werden, schicken Sie uns gerne eine Email an post@storms-galerie.de.
+title: 40 jahre walter storms galerie, part II | Walter Storms ...
+snippet: Past show featuring works by Rupprecht Geiger, Shannon Finley, Cordy Ryman and Albert Hien at Walter Storms Galerie Munich, Schellingstr. 48 Nov 7th – Dec 23rd 2017. Artworks. Auctions. Galleries. Fairs. Editorial. More. Log in. Sign up. 40 jahre walter storms galerie, part II.
+title: künstler - Walter Storms Galerie
+snippet: Künstler: Steven Aalders, Jean-Marc Bustamente, Roland Fischer, Tim Freiwald, Caro Jost, Peter Krauskopf, Sean Scully, Günther Uecker u.v.m.
+title: Various Others Munich 2020 — Preview-Seite | Various ...
+snippet: Galerie Rüdiger Schöttle Galerie Sabine Knust SPERLING Museum Villa Stuck Walter Storms Galerie. The Various Others network of Munich galleries, off spaces and museums again will invite worldwide institutions, artists, cooperative projects and an international professional audience to Munich.
+
+REL: 1
+POI Name: Neurotitan Shop & Gallery
+POI City: Berlin
+POI Country: DE
+POI Main category: Shopping
+POI Sub category: Music & DVDs, Art Galleries, Comic Books, 
+Snippets:
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthaler Straße 39 10178 Berlin fon +49 30 308 725 76 fax +49 30 282 90 33. Öffnungszeiten mo - sa: 12 - 20h
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthalerstraße 39 10178 Berlin fon +49.(0)30.308 725 76 fax +49.(0)30.282 90 33. Öffnungszeiten mo - sa: 12 - 20h. Anfahrt. Informationen zum Schwarzenberg e.V. und weiteren Veranstaltungen im Haus gibt´s hier. Die Galerie Neurotitan
+title: Neurotitan Shop &amp; Gallery - Mitte - Berlin, Germany
+snippet: 3 reviews of Neurotitan Shop &amp; Gallery &quot;Neurotitan is an eclectic shop with short-run comics, books, art and a small but varied vinyl record selection. The wares are generally very niche by independent &amp; local artists &amp; illustrators. You can…
+title: Der Neurotitan shop
+snippet: Der Neurotitan shop . Der neurotitan shop schließt direkt an die Galerie an. Er ist einerseits eine Fachbuchhandlung für Grafikdesign, Comic und Illustration, andererseits der verlängerte Arm der Galerie: Kunstschaffende aus aller Welt geben ihre Kunst, Waren und Produkte hier in Kommission und ermöglichen dadurch das einzigartige Sortiment ...
+title: Neurotitan (Berlin) - 2020 All You Need to Know Before You ...
+snippet: I Love Neurotitan. I browsed for an hour at least &amp; I found some rare screen printed books here at a great price, and could have kept looking. Lots and lots of subculture, graphics, art and culture available. There is a huge gallery/workshop space, and the time I went I came …
+title: neurotitan gallery
+snippet: At the same time, Haus Schwarzenberg with its neurotitan gallery (as one of the few last places like this in Berlin-Mitte) conveys a flavour of the untamed creativity of the early 1990s, but without becoming a museum piece. Exit through the Neurotitan (Gift) shop . Neurotitan shop is located next to the gallery.
+title: Neurotitan - Home | Facebook
+snippet: Neurotitan - Rosenthaler Straße 39, 10178 Berlin, Germany - Rated 4.9 based on 24 Reviews &quot;Don&#39;t lose the opportunity to see this amazing place!!!&quot;
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthalerstraße 39 10178 Berlin fon +49.(0)30.308 725 76 fax +49.(0)30.282 90 33. Öffnungszeiten
+title: Kunst-Galerie in Berlin: neurotitan shop &amp; gallery | ART ...
+snippet: neurotitan shop &amp; gallery befindet sich im 2. Hof des Hauses Schwarzenberg im 1. Obergeschoss. Das Haus Schwarzenberg liegt in direkter Nachbarschaft zu den Hackeschen Höfen, ist jedoch im Gegensatz zu ihnen unsaniert, ursprünglich und steht im Zeichen der Kunst.
+title: Neurotitan Shop &amp; Gallery – &quot;Ich Bin Berlin&quot;
+snippet: Walking around Rosenthaler Street, you’d probably never imagine finding a hidden urban gallery and bar located in the middle of the fancy stores and restaurants. As soon as you arrive there, that Berlin vibe gets you. A passage covered in graffiti and urban art, a shop and several small galleries and museums; each one can…
+
+REL: 1
+POI Name: Pandino Kinderspielwelt
+POI City: Hamburg
+POI Country: DE
+POI Main category: Active Life
+POI Sub category: Kids Activities, Indoor Playcentre, 
+Snippets:
+title: Willkommen - Pandino - Spielstadt, Freizeitdorf ...
+snippet: Kinderspielwelt in Hamburg Bergedorf. Liebevoller Spielplatz mit günstigen Preisen für Jung und Alt. Liebe Kinder, liebe Eltern. Das Pandino bleibt, aufgrund der Corona Pandemie, bis auf Weiteres geschlossen! Bitte bleibt gesund! Euer Pandino Team. Willkommen. Spiel und Spaß im Dschungelland.
+title: Impressum - Pandino - Spielstadt, Freizeitdorf, Spielplatz ...
+snippet: Kinderspielwelt in Hamburg Bergedorf. Liebevoller Spielplatz mit günstigen Preisen für Jung und Alt. Liebe Kinder, liebe Eltern. Das Pandino bleibt, aufgrund der Corona Pandemie, bis auf Weiteres geschlossen! Bitte bleibt gesund! Euer Pandino Team. Impressum. gemäß § 6 des Teledienstgesetzes (TDG)
+title: Pandino Kinderspielwelt Hamburg - Home | Facebook
+snippet: Pandino Kinderspielwelt Hamburg. 68 likes · 167 were here. Amusement &amp; Theme Park
+title: Pandino Kinderspielwelt - Bergedorf - Hamburg, Germany - Yelp
+snippet: Pandino Kinderspielwelt in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: PANDINO Kinderspielwelt - Hamburg, HH | Groupon
+snippet: Ab in den Dschungel! Die Pandino Kinderspielewelt bietet einen großen und und abwechslungreichen Kinderspielpatz im Dschungel-Design. Zu den Highlights zählen der großzügige Kletterbereich, ein Indoor-Soccer-Feld, Trampoline und eine Kartbahn. Auch für Kleinkinder gibt es ein altersgerechtes Spiele-Areal. Der gesamte Spielbereich darf nur mit Socken betreten werden. Im Sommer kann der ...
+title: Abenteuerzeiten - Pandino - Spielstadt, Freizeitdorf ...
+snippet: Kinderspielwelt in Hamburg Bergedorf. Liebevoller Spielplatz mit günstigen Preisen für Jung und Alt. Liebe Kinder, liebe Eltern. Das Pandino bleibt, aufgrund der Corona Pandemie, bis auf Weiteres geschlossen! Bitte bleibt gesund! Euer Pandino Team. Corona Pandemie!
+title: tipdoo video - PANDINO Kinderspielwelt - YouTube
+snippet: Der Indoorspielplatz PANDINO Kinderspielwelt in Hamburg - Bergedorf. Bewerten Sie Geschäfte, Restaurants, Handwerker und Freizeiteinrichtungen. Und holen Sie sich einen von mehreren Hundert ...
+title: Pandino-MV in Rostock – Dein Indoor-Spielplatz in Rostock ...
+snippet: Auf über 3.200m² ist das PANDINO eine Dschungellandschaft in der du spielen, toben und lernen kannst. Treffe dich mit deinen Freunden oder feiere deinen Kindergeburtstag bei uns. Mehr Spaß geht nicht . . .
+title: Kindergeburtstag - Pandino - Spielstadt, Freizeitdorf ...
+snippet: Kinderspielwelt in Hamburg Bergedorf. Liebevoller Spielplatz mit günstigen Preisen für Jung und Alt. Liebe Kinder, liebe Eltern. Das Pandino bleibt, aufgrund der Corona Pandemie, bis auf Weiteres geschlossen! Bitte bleibt gesund! Euer Pandino Team. Kindergeburtstage.
+title: Anfahrt - Pandino - Spielstadt, Freizeitdorf, Spielplatz ...
+snippet: In Fahrtrichtung des Busses über die Kreuzung gehen, dann rechts in den Curslacker Heerweg abbiegen, auf der Brücke sehen Sie bereits das Pandino. Es sind ca. 4-5 Min. zu Fuß. PKW: Aus Richtung Hamburg: A25 Richtung Geesthacht, Ausfahrt HH- Curslack abfahren, rechts abbiegen, nach 200m kommt rechts die Einfahrt auf den Pandino Parkplatz.
+
+REL: 0
+POI Name: Fresco & Art
+POI City: Munich
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Munich - Wikipedia
+snippet: When Bavaria was reunited in 1506, Munich became its capital. The arts and politics became increasingly influenced by the court (see Orlando di Lasso and Heinrich Schütz). During the 16th century, Munich was a centre of the German counter reformation, and also of renaissance arts.
+title: Fresco &amp; Art - Maxvorstadt - Munich, Bayern, Germany
+snippet: Fresco &amp; Art in Munich, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Munich and beyond.
+title: Peter von Cornelius - Wikipedia
+snippet: The fresco decorations of the Ludwigskirche in Munich, which were for the most part designed and executed by Cornelius, were perhaps the most important mural works of their time. The large fresco of the Last Judgment, over the high altar in that church, measures 62 feet (19 m) in height by 38 feet (12 m) in width.The frescoes of the Creator, the Nativity, and the Crucifixion in the same ...
+title: Nymphenburg Palace Fresco, Munich, Germany jigsaw puzzle ...
+snippet: Nymphenburg Palace Fresco, Munich, Germany puzzle in Piece of Art jigsaw puzzles on TheJigsawPuzzles.com. Play full screen, enjoy Puzzle of the Day and thousands more.
+title: Neue Pinakothek | simply Munich
+snippet: Explore art, ranging from the late 1700s, through the 1800s all the way to the early 20th century in the Neue Pinakothek in Munich | the official travel guide
+title: Frescoes | Definition of Frescoes at Dictionary.com
+snippet: Frescoes definition, the art or technique of painting on a moist, plaster surface with colors ground up in water or a limewater mixture. See more.
+title: Fresco Dance &amp; Art Center - Fresco - Yoram Karmi Dance Company
+snippet: About Fresco Art &amp; Dance Center. Crowded rows of stalls fill the 4th floor plaza at the Central Bus Station. In the space between the fast-food restaurants and the cheap clothing stores, you can find almost anything you can think of: trinkets, multi-prints and sequins, a maze of Asian food stands ready from the nearby supermarket, with unfamiliar vegetables and rattles.
+title: FRESCO, Munich - Restaurant Reviews &amp; Phone Number ...
+snippet: Fresco, Munich: See unbiased reviews of Fresco, one of 3,405 Munich restaurants listed on Tripadvisor.
+title: Fresco painting | Britannica
+snippet: Fresco painting, method of painting water-based pigments on freshly applied plaster, usually on wall surfaces. The colours, which are made by grinding dry-powder pigments in pure water, dry and set with the plaster to become a permanent part of the wall. Fresco painting is ideal for making murals
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Munich ...
+snippet: Apr 3, 2020 - Looking to get inspired on your trip to Munich? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Munich to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 0
+POI Name: The Apartment
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: The Apartment - Buelowstr. 90, Berlin-Schoeneberg
+snippet: at jakob@the-apartment-berlin.de or phone: +4917610396472. The Apartment is a project by Studio Magnus Reed and Belgrad Creative TERMS OF USE Unless otherwise noted, all content, including images, photographs, designs, videos, illustrations,
+title: The 10 best apartments in Berlin, Germany | Booking.com
+snippet: Located on the lively Hackescher Markt Square, this non-smoking, 4-star hotel in Berlin offers soundproofed apartments, modern spa facilities, and a restaurant serving Australian cuisine. All stylish apartments at the Adina Apartment Hotel Berlin Hackescher Markt feature a flat-screen TV, fully equipped kitchen, and Wi-Fi connection. The kitchen has a dishwasher.
+title: Berlin Apartments: Cheap Apartments For Rent in Berlin ...
+snippet: Furnished &amp; Serviced apartments in Berlin. Just 24 hours in this cultural gem and you will turn into a true ‘Berliner’. Long-term travelers and expats alike want to rent an apartment or room in Berlin because its position as a global hub for arts, design and commerce.
+title: The Circus Apartments, Berlin, Germany - Booking.com
+snippet: The Circus Apartments were inspired by our guests, and the fact that many of you who come to Berlin are here for more than just the sights and are looking for a state of the art base in the city, with room to work, entertain and relax, and combined with the classic Circus philosophy of hospitality.
+title: Apartment the 5 lofts, Berlin, Germany - Booking.com
+snippet: These apartments are centrally located in the multicultural Kreuzberg district of Berlin. Apartments Dresdener Strasse offer free WiFi and a quiet terrace. Each apartment or studio features modern furnishings and includes a fully equipped kitchenette, a flat-screen cable TV and a private bathroom.
+title: Furnished Apartments Berlin | Rent Flat in Berlin
+snippet: Looking for accommodation in Berlin? Rent an apartment in Berlin without the hassle with Wunderflats. Berlin apartments starting at €750/month Over 24,000 Rental apartments all over Germany Fully furnished apartments Verified landlords No hidden costs. Easily rent and rent out accommodation in Berlin online!
+title: Badstraße Family Apartments, Berlin, Germany - Booking.com
+snippet: Location of apartment is excellent, very close to Pankstrasse U-bahn and 5-6 minute walk to Gesundbrunnen station (with U and S-bahn connections). The apartment is 10-12 minutes by metro to key central Berlin locations like Alexanderplatz etc. Apartment was very clean and tidy, very warm and there was plenty of space.
+title: THE 10 BEST Berlin Apartments, Apartment Rentals (with ...
+snippet: Apr 3, 2020 - View the Best apartments with Prices in Berlin. View Tripadvisor&#39;s 1,215 unbiased reviews and great deals on apartment rentals in Berlin, Germany. Apr 3, 2020 - View the Best apartments with Prices in Berlin.
+title: The 10 best serviced apartments in Berlin, Germany ...
+snippet: It is beside Berlin’s Natural History Museum, a 10-minute walk from Berlin Central Station. Adina Apartment Hotel Berlin provides non-smoking apartments with flat-screen TV and soundproofed windows. A private car park is available to guests of the Adina Apartment Hotel Berlin. Very clean hotel!
+title: B! Apartments, Berlin, Germany - Booking.com
+snippet: B! Apartments This neighborhood is a great choice for travelers interested in history, museums and monuments – Check location Different locations in, Mitte, 10115 Berlin, Germany – This neighborhood is a great choice for travelers interested in history, museums and monuments – Check location Excellent location – show map – Subway Access
+
+REL: 0
+POI Name: Städel Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Das Städel Museum – Kunstmuseum in Frankfurt
+snippet: Das Städel Museum bleibt bis einschließlich 19. April 2020 geschlossen. Das Städel folgt damit der behördlichen Vorsorgemaßnahme der Stadt Frankfurt im Zuge der Verbreitung des Coronavirus (Covid-19). Alle geplanten Veranstaltungen finden nicht statt.
+title: Homepage | Städel Museum
+snippet: The Städel Museum will be closed temporarily until 19 April 2020. With this decision the Städel Museum is following official precautionary measures set forth by the city of Frankfurt in regards to the spread of the Coronavirus (Covid-19). All scheduled events are cancelled.
+title: Ausstellungen | Städel Museum
+snippet: Die Ausstellungen im Städel Museum: Monet und die Geburt des Impressionismus, William Hogarth. Laster des Lebens, Die 80er. Figurative Malerei in der BRD u.v.m.
+title: Städel Museum - Wikipedia
+snippet: The Städel Museum, officially the Städelsches Kunstinstitut und Städtische Galerie, is an art museum in Frankfurt, with one of the most important collections in Germany.The Städel Museum owns 3,100 paintings, 660 sculptures, more than 4,600 photographs and more than 100,000 drawings and prints. It has around 4,000 m² of display and a library of 115,000 books.
+title: Exhibitions | Städel Museum - Kunstmuseum in Frankfurt
+snippet: Current exhibitions at the Städel Museum. Back to the Present. New Perspectives, New Works – The Collection from 1945 to Today
+title: Digitale Angebote | Städel Museum
+snippet: Das Städel Museum am Museumsufer in Frankfurt am Main ist eines der bedeutendsten deutschen Kunstmuseen. Heute geschlossen. Ticket kaufen Mehr Infos. Heute im Städel. Mehr im Kalender Schliessen. Heute finden keine Veranstaltungen statt. Für Veranstaltungen der nächsten Tage besuchen Sie bitte unseren Kalender.
+title: Digitale Sammlung – Städel Museum
+snippet: Städel Museum. 1815 als bürgerliche Stiftung von dem Bankier und Kaufmann Johann Friedrich Städel begründet, gilt das Städel Museum als älteste und renommierteste Museumsstiftung in Deutschland. Unter einem Dach bietet die Sammlung des Städel einen nahezu lückenlosen Überblick über 700 Jahre europäische Kunstgeschichte – vom ...
+title: Stadel Museum (Frankfurt) - 2020 All You Need to Know ...
+snippet: Skip the Line: Städel Museum Frankfurt Entrance Ticket (Weekend &amp; Bank Holiday) (16) $18.13 per adult. What travelers are saying 4.5. Read all 2,464 reviews. The Van Goch exhibition was fabulous. The docent doing a tour told me I was standing to close to a picture.
+title: Digital Collection – Städel Museum
+snippet: Städel Museum Established as a civic foundation in 1815 by the banker and businessman Johann Friedrich Städel, the Städel Museum ranks as Germany’s oldest museum foundation. Under a single roof, its collection offers a virtually complete survey of seven hundred years of European art from the early fourteenth century to the present, with focuses on the Renaissance, the Baroque, early ...
+title: Städel Museum - YouTube
+snippet: Das Frankfurter Städel Museum präsentiert Lotte Laserstein (1898–1993) in einer umfassenden Einzelausstellung vom 18. September 2018 bis 17. März 2019.
+
+REL: 0
+POI Name: multi.trudi
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: multi.trudi - Gallus - Frankfurt, Hessen, Germany
+snippet: 2 reviews of multi.trudi &quot;multi.trudi is an alternative artistrun space. There are no exhibitions or fixed artworks for display. Visitors instead are asked to participate, - in conversation, discussion, or games or sometimes music. It can…
+title: multi.trudi, Frankfurt - Project Space Survival Strategies
+snippet: multi.trudi Run by Stefan Beck Frankfurt, Germany www.multitrudi.de Just the basic facts: multi.trudi is an artspace since 1997, run by me, Stefan Beck (Media Artist). It has been located at different locations in the city. Since 2004 at Hohenstaufenstr. 13-25. At that time its name was changed to trudi.sozial to...
+title: multi.trudi artspace 1997 - 2010 by stefan beck
+snippet: Homepage of multi.trudi artspace, offspace and artproject, Frankfurt/Main, Germany, based on exchange, conversation and participation 1997 - 2010
+title: Events Flyers 1997 - multi.trudi
+snippet: multi.trudi Eröffnung (opening), 05.09.1997. Aus Anlass der Eröffnung von multi.trudi gabs von The Thing den wöchentlichen Rundbrief &quot; Info von The Thing Frankfurt&quot; mit Partytips und Kommentaren zum Kulturleben in Frankfurt.
+title: Inside multi.trudi artspace offspace Frankfurt - your ...
+snippet: Frameset of multi.trudi artproject, Frankfurt, Main, Germany, based on conversation and participation Inside multi.trudi artspace Frankfurt Das ist die Startseite des Kunstraums multi.trudi (Frankfurt/Main, Germany), die ein frameset aus drei Frames enthält.
+title: Multi.trudi • Frankfurt am Main • Hessen •
+snippet: Der erste Tag Freitag von multi.trudi page 48h Japan . Deutschland Kunstgießereien. Anmelden Registrieren Mit Facebook anmelden. M. Multi.trudi Noch nicht bewertet Bewerten hohenstaufenstr 13-25, Frankfurt am Main, Hessen, 60327. Über uns; Wie komme ich hin? MULTI.TRUDI | Frankfurt am Main
+title: multi.trudi | 1325 gleiche maasse neues design frisch wie ...
+snippet: multi.trudi arbeitet weiterhin an Konzepten für Veranstaltungen jenseits von Kunst- oder Clubbetrieb. Eröffnung: Sa., 14.8. 2004 ( Bilder ) mit Vorstellung des neuen Thing Books, des Taschenführers zum Internetprojekt The Thing Frankfurt.
+title: Studio Berlin Warum in Frankfurt bleiben? - multi.trudi
+snippet: Der kommende multi.trudi Abend soll denjenigen gewidmet sein, die bis jetzt Frankfurt verlassen haben. Wie die nachfolgende Liste zeigt, handelt es sich hier um Akademiker, die ihre Ausbildung in Frankfurt genossen haben und nun ihr Wissen in Berlin anlegen. Das wäre nicht weiter schlimm, wenn diese &quot;Verluste&quot; durch Zuzug ausgeglichen würden.
+title: Multi.trudi: Kulturelle Einrichtungen &amp; Kultur multitrudi.de
+snippet: Der Ausstellungsraum am Frankfurter Osthafen bietet in regelmäßigen Abständen Veranstaltungen an. Mit Terminkalender, Bildergalerie und Gästebuch. Multi.trudi in der Kategorie Kultur.
+title: multi.trudi - Art gallery in Frankfurt - Singulart
+snippet: Art galleries Frankfurt Find the best art galleries in Frankfurt on Singulart the #1 source for buying art online from recognized artists! Art knows no bounds - safe &amp; FREE shipment to your doorstep. Art knows no bounds - Singulart ensures safe and FREE shipments to your doorstep.
+
+REL: 0
+POI Name: Penny
+POI City: Hamburg
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, Discount Store, 
+Snippets:
+title: Startseite: PENNY.de
+snippet: PENNY Karriere PENNY Reisen * Dieser Artikel ist nur vorübergehend in unserem Sortiment und nicht in allen Filialen erhältlich. Abgabe nur in haushaltsüblichen Mengen. Aufgrund begrenzter Vorratsmengen kann dieser Artikel am ersten Angebotstag bereits kurz nach ...
+title: Penny Hamburg Prospekt | Aktuelle Angebote April 2020 ...
+snippet: Der Kunde hat die Möglichkeit über eine App Coupons zum Einkauf einzusetzen oder findet bei Penny Mobil seinen nächsten Mobilfunkanbieter. Welche Artikel aktuell bei Penny Hamburg im Angebot sind, können Sie ganz leicht beim Durchblättern des aktuellen Penny Prospekts herausfinden.
+title: Prospekt der Woche: PENNY.de
+snippet: Mit dem PENNY Prospekt der Woche informieren Sie sich schnell und direkt über alle Angebote und Aktionen Ihres PENNY Marktes. Zur Online-Ansicht. Bei PENNY punkten Sie jetzt mit PAYBACK. Der Penny Newsletter. Immer bestens informiert über tolle Angebote und Aktionen in deiner ...
+title: Penny Filialen Hamburg: Adressen und Öffnungszeiten für ...
+snippet: Penny Filialen in Hamburg und Umgebung: Hier findest Du alle Adressen der Penny Geschäfte in Hamburg und Umgebung auf MeinProspekt. Wenn Sie unsere Website nutzen, setzen wir und unsere Partner sog. Cookies, um Ihnen eine bessere Nutzererfahrung und uns die Verbesserung von ...
+title: PENNY Prospekt - Angebote ab Montag 06.04.2020 nächste Woche
+snippet: Penny Prospekt. Durch das Penny Prospekt für nächste Woche bekommen Sie wöchentlich die aktuellen Infos über sämtliche Aktionen des Discounters.Der Penny Blätterkatalog ab 30.03.2020 informiert Sie umfassend zu allen wichtigen und interessanten Angeboten und Rabattaktionen, die Sie auf keinen Fall verpassen sollten, wenn Sie bei Ihrem nächsten Lebensmitteleinkauf sparen möchten!
+title: Marktsuche: PENNY.de
+snippet: Ein PENNY Markt bietet seinen Kunden durchschnittlich 1.400 Artikel an, darunter viele regionale Produkte. Bei über 2.150 PENNY Märkten in ganz Deutschland bedeutet dies, dass unsere wöchentlichen Angebote je nach Markt unterschiedlich sind.
+title: PENNY Markt Österreich
+snippet: Ja, ich möchte den PENNY Newsletter abonnieren und regelmäßig über attraktive Angebote informiert werden. Ich kann diese Einwilligung jederzeit und ohne Angabe von Gründen widerrufen, indem ich den Abmeldelink in jedem Newsletter mit Wirkung für die Zukunft benutze.
+title: Lieferservice Penny - Online Penny lebensmittel bestellen!
+snippet: Lieferservice Penny nach Hause. Penny ist ein Lebensmittelgeschäft mit vielen Filialen im ganzen Land. Eine schönes sortiment, große Rabatte, und die Mitarbeiter sind sehr hilfreich. Aber befriedigt dies die Wünsche der deutschen Konsumenten? Supermarkt liefern Ist ein Service wo eine große Anzahl von kunden berücksichtigen.
+title: Penny-Markt Filialen in Hamburg - Adressen und Öffnungszeiten
+snippet: Penny-Markt Hamburg: Filialen &amp; Öffnungszeiten. Hier finden Sie eine Übersicht aller Penny-Markt Filialen in Hamburg. Zu jeder Filiale bekommen Sie per Klick weitere Informationen zur Lage und dem aktuellen Angebot.
+title: Angebote ab Montag, 30.03.2020: PENNY.de
+snippet: 10Fach Punkte auf auf Wein, Sekt, Schaumwein und Spirituosen im Penny Markt!
+
+REL: 0
+POI Name: Natural History Museum
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum für Naturkunde
+snippet: Press Release Museum für Naturkunde Berlin closes exhibitions News Third season of Babylon Berlin filmed in the Natural History Museum News Universities and non-university research institutions go into emergency operation
+title: Museum für Naturkunde (Museum of Natural History ...
+snippet: Practical tips for visiting the Museum of Natural History. The Museum of Natural History is located in the centre of Berlin. Reach it easily by taking the underground line U6 or tramlines M5, M8, M10 or M12. Both the underground and tram stops are named after the museum - &quot;Naturkundemuseum&quot;.
+title: Natural History Museum, Berlin - Wikipedia
+snippet: The Natural History Museum (in German: Museum für Naturkunde) is a natural history museum located in Berlin, Germany. It exhibits a vast range of specimens from various segments of natural history and in such domain it is one of three major museums in Germany alongside Naturmuseum Senckenberg in Frankfurt and Museum Koenig in Bonn.
+title: Museum für Naturkunde
+snippet: Museum für Naturkunde Leibniz-Institut für Evolutions- und Biodiversitätsforschung
+title: Natural History — Google Arts &amp; Culture
+snippet: Let Natural History Museum experts guide you through 4.6 billion years of natural history. ... Museum für Naturkunde, Berlin. Encounter a prehistoric sea dragon RHOMALEOSAURUS. Play 360° video. Natural History Museum, ... Museo de Historia Natural. How a Museum Diorama is Made Museo de Historia Natural de Estados Unidos.
+title: Natural History Museum - Berlin.de
+snippet: The Natural History Museum (Naturkundemuseum), built from 1883 to 1889 by August Tiede, boasts a collection of more than 25 million zoological, paleontological, mineralogical, and geological objects. Its glass-covered atrium showcases an especially striking highlight: a dinosaur skeleton that is 23 meters long and 12 meters tall. More information
+title: Home | Natural History Museum
+snippet: Natural History Museum. Find out more. Visit. Plan a great day out at the Museum. Our science. Explore our research and collections. Wildlife Photographer of the Year. See the gallery. ... How to make and use a nature journal to record your wildlife observations Keeping a nature journal is a great way to record any nature you see.
+title: List of museums and galleries in Berlin - Wikipedia
+snippet: List of museums and galleries in Berlin. Jump to navigation Jump to search. This ... Berlin Museum of Medical History at the Charit ... Natural history: website, museum by Body Worlds about the human body, features preserved human bodies Micky Schubert Kreuzberg:
+
+REL: 0
+POI Name: Schloss Augustusburg
+POI City: Augustusburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Castles, 
+Snippets:
+
+
+REL: 0
+POI Name: Atelierhaus Engl
+POI City: Munich
+POI Country: DE
+POI Main category: Education
+POI Sub category: Art Schools, Art Galleries, 
+Snippets:
+title: Engl- Atelierhaus Englschalking - Art Gallery - Munich ...
+snippet: Engl- Atelierhaus Englschalking, München, Germany. 264 likes · 273 were here. Die &quot;engl&quot;-Ateliers in Englschalking/München gründete Lea Jade im August 2012. In den Bereichen Malerei und Grafik...
+title: Englateliers | Atelierhaus in Englschalking
+snippet: Atelierhaus engl. 2012 gründete die Künstlerin Lea Jade das Atelierhaus engl. In den Bereichen Malerei, Grafik, Mosaikkunst, Photographie und Komposition präsentieren und entfalten sich neun Künstler. „Im Fließen, im Staccato, im Anhalten, in der Wiederkehr der Pinselschläge tanzt der Rhythmus. ...
+title: Engl- Atelierhaus Englschalking - Facebook
+snippet: Engl- Atelierhaus Englschalking November 23, 2018 · @Regran_ed from @yasin.sarfraz.arts - I am glad to be represented at the fabulous MUNICH ART HOUSE Project ? ? ? ? ?
+title: The final countdown for: The 6th... - Engl- Atelierhaus ...
+snippet: The final countdown for: The 6th anniversary of the famous &#39;engl&#39; art studios 壟露 Location: Seidleinweg 12, 81929 Munich (next to the trainstation...
+title: @Regran_ed from... - Engl- Atelierhaus Englschalking ...
+snippet: See more of Engl- Atelierhaus Englschalking on Facebook. Log In. or
+title: Atelierhaus Engl - Kunstgalerie in München ...
+snippet: Kunstgalerie München Finden Sie die besten Kunstgalerien in München auf Singulart die #1 Referenz für den Kauf von Kunstwerken von anerkannten Künstlern!
+title: Atelierhaus Engl Galerien München auf muenchen.de
+snippet: Atelierhaus Engl Galerien München - Stadtbranchenbuch München mit Telefonnummer, Adresse und interaktivem Stadtplan
+title: Engl- Atelierhaus Englschalking, Munich, Arts ...
+snippet: Die &quot;engl&quot;-Ateliers in Englschalking/München gründete Lea Jade im August 2012. In den Bereichen Malerei und Grafik arbeiten 9 Künstler und Künstlerinnen Im Juni 2012 gründete Lea Jade das Atelierhaus engl in Englschalking/ Bogenhausen.
+title: Munich | Übersetzung Englisch-Deutsch
+snippet: Kennst du Übersetzungen, die noch nicht in diesem Wörterbuch enthalten sind? Hier kannst du sie vorschlagen! Bitte immer nur genau eine Deutsch-Englisch-Übersetzung eintragen (Formatierung siehe Guidelines), möglichst mit einem guten Beleg im Kommentarfeld.Wichtig: Bitte hilf auch bei der Prüfung anderer Übersetzungsvorschläge mit!
+title: Atelierhaus Engl - Art gallery in München - Singulart
+snippet: Art galleries München Find the best art galleries in München on Singulart the #1 source for buying art online from recognized artists!
+
+REL: 0
+POI Name: Gasthof zum Elbdeich
+POI City: Hamburg
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: German, 
+Snippets:
+title: Gasthof Zum Elbdeich - Hamburg, Germany - Restaurant ...
+snippet: Gasthof Zum Elbdeich, Hamburg, Germany. 41 likes · 336 were here. Restaurant
+title: Gasthof zum Elbdeich Udo und Helga Voß (Hamburg-Bergedorf ...
+snippet: Bewertungen, Hotelbilder &amp; TOP Angebote: Gasthof zum Elbdeich Udo und Helga Voß 100€ Gutschein Bestpreis-Garantie Preisvergleich Urlaub buchen bei HolidayCheck
+title: Zum Elbdeich - Neuengammer Hausdeich 2 in 21039 Hamburg ...
+snippet: Permanentlink zu dieser Seite: Zum Elbdeich - Neuengammer Hausdeich 2 in 21039 Hamburg Sie sind der Chef ? Jetzt Zugangsdaten anfordern Sie wollen dieses Restaurant jemandem empfehlen ? Restaurant empfehlen Haben Sie Fehler in diesem Eintrag entdeckt ?
+title: Öffnungszeiten Gasthof zum Elbdeich Neuengammer Hausdeich 2
+snippet: Geschäftszeiten Gasthof zum Elbdeich in Neuengammer Hausdeich 2, Hamburg in der Kategorie Hotels hat am Samstag 9 Stunden geöffnet und öffnet normalerweise um 16:00 und schließt um 01:00
+title: Gasthof zum Elbdeich (Neuengammer Hausdeich 2) bei hamburg ...
+snippet: Eine der südlichsten Event-Locations Hamburgs erwartet ihre Gäste in ruhiger Lage am Elbdeich zu Festen mit bis zu 200 Personen. Familien- und Betriebsfeste finden bei rustikalem Ambiente und familiärer Atmosphäre statt. Beschreibung Gasthof zum Elbdeich. Mit &quot;Gasthof zum Elbdeich&quot; erreicht man eine der südlichsten Event Locations Hamburgs.
+title: Gasthof zum Elbdeich Udo und Helga Voß Hamburg Neuengamme ...
+snippet: Für Gasthof zum Elbdeich Udo und Helga Voß in Hamburg sind 127 Bewertungen abgegeben worden.. Erfahren Sie mehr zu den Bewertungen für Gasthof zum Elbdeich Udo und Helga Voß in Hamburg auf werkenntdenBESTEN.de.
+title: Gasthof zum Elbdeich Map - Germany - Mapcarta
+snippet: Gasthof zum Elbdeich with an interactive map and directions. Gasthof zum Elbdeich from Mapcarta, the free map.
+title: Gasthof zum Elbdeich Udo und Helga Voß in Hamburg | 0407235...
+snippet: Gasthof zum Elbdeich Udo und Helga Voß. Gasthof zum Elbdeich Udo und Helga Voß in Hamburg-Neuengamme erreichen Sie unter der Telefonnummer 040 7 23 54 81. Während der Öffnungszeiten hilft man Ihnen dort gerne weiter. Sie möchten Gasthof zum Elbdeich Udo und Helga Voß an Bekannte oder Freunde weiterempfehlen?
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Die 10 besten Gasthöfe in Hamburg 2020 – wer kennt den BESTEN
+snippet: Gute Gasthöfe in Hamburg - 4.231 Bewertungen aus 52 Bewertungsportalen für insgesamt 37 Gasthöfe. TOP Gasthöfe auf: wer kennt den BESTEN. ... Gasthof zum Elbdeich Udo und Helga Vo ...
+
+REL: 0
+POI Name: Schloss Augustusburg
+POI City: Brühl
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Castles, 
+Snippets:
+
+
+REL: 0
+POI Name: Indigo Bunt
+POI City: Berlin
+POI Country: DE
+POI Main category: Active Life
+POI Sub category: Kids Activities, 
+Snippets:
+title: INDIGOBUNT – 10245 Berlin
+snippet: 10245 Berlin. Men ü. Zum Inhalt ... Baby-Decken-Party mit INDIGO BUNT. Kurzmitteilung Mai 10, 2016 Juni 26, 2017 Julius Schreibe einen Kommentar. Mit Familie und Freunden eine Krabbeldecke gestalten. Bei Kaffe und Kuchen werden Stoffquadraten bedruckt und bemalt, eine Woche später bekommen die werdenden Eltern eine Babydecke in der nur Liebe ...
+title: Indigo Bunt - Friedrichshain - Berlin, Germany - Yelp
+snippet: Indigo Bunt in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Indigo Bunt – Berlin, Mainzer Strasse 5 (1 Bewertung ...
+snippet: Kontaktinformationen und 1 bewertung für Indigo Bunt in Mainzer Strasse 5, Berlin anzeigen oder eine Bewertung schreiben. Erkunden Sie eine interaktive Karte mit Orten in der Nähe.
+title: Indigo Bunt im Friedrichhain | Kindercafé s in Berlin
+snippet: Das Familiencafé „Indigo“ ist Werkstatt, Bastelecke und Treffpunkt in einem – einmalig in Berlin-Friedrichshain. Die Idee ist einfach aber genial. Indira, die Betreiberin des Kinder- und Familiencafés „Indigo“ hat eine Begegnungsstätte erschaffen, in der sich kreative Menschen, ob jung oder alt, zum Basteln, Nähen und Handarbeiten treffen.
+title: Home | Hotel Indigo Berlin-Centre Alexanderplatz
+snippet: Located in the centre of the city, in the “Mitte” district in former East-Berlin, in the shadow of the iconic TV Tower, Hotel Indigo Berlin – Centre Alexanderplatz offers up the perfect base to call home while visiting Berlin.
+title: HOTEL INDIGO BERLIN - KU&#39;DAMM (Tyskland) - Hotell ...
+snippet: Hotel Indigo Berlin - Ku&#39;damm, Berlin: Se 599 reiseanmeldelser, 522 bilder og gode tilbud for Hotel Indigo Berlin - Ku&#39;damm, vurdert som nr. 66 av 636 hotell i Berlin og vurdert til 4,5 av 5 på Tripadvisor.
+title: Hotel Indigo Berlin – Alexanderplatz i Berlin | Hotels.com
+snippet: Hotel Indigo Berlin – Alexanderplatz ligger i sentrum og nær en undergrunnsstasjon i bydelen Mitte i Berlin. Et par kulturelle høydepunkter er Friedrichstadt-Palast og DDR-museet, men hvis det er shopping som står på planen, kan du ta turen til Friedrichstrasse og Kurfürstendamm. Du kan se om det skjer noe kult på Mercedes-Benz Arena, og hvis du har tid, bør du også få med deg ...
+title: Uncategorized – INDIGOBUNT
+snippet: 10245 Berlin. Men ü. Zum Inhalt ... Baby-Decken-Party mit INDIGO BUNT. Kurzmitteilung Mai 10, 2016 Juni 26, 2017 Julius Schreibe einen Kommentar. Mit Familie und Freunden eine Krabbeldecke gestalten. Bei Kaffe und Kuchen werden Stoffquadraten bedruckt und bemalt, eine Woche später bekommen die werdenden Eltern eine Babydecke in der nur Liebe ...
+title: De beste Hotel Indigo i Berlin, Tyskland - Tripadvisor
+snippet: Beste Hotel Indigo i Berlin: Finn 2 756 anmeldelser fra reisende, ekte bilder, og priser for 3 Hotel Indigo i Berlin, Tyskland.
+title: Hotel Indigo Berlin-Alexanderplatz, Germany - Booking.com
+snippet: Hotel Indigo Berlin-Alexanderplatz This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location Bernhard-Weiss-Str. 5, Mitte, 10178 Berlin, Germany – This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location Excellent location – show map – Subway Access
+
+REL: 0
+POI Name: Hackesche Markt
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: Hackescher Markt Berlin - Shoppen und mehr in Berlin Mitte
+snippet: Alle Infos über Berlins angesagtes Szeneviertel, den Hackeschen Markt bei uns... Rund um Szeneläden, den Mix an Mode, Accessoires und Co.
+title: Hackescher Markt – Berlin.de
+snippet: The area around Hackescher Markt is not the place for finding big chain or department stores. Instead, Hackescher Markt became a shopping hotspot because famous designer shops as well as newer and younger Berlin labels are offering their products here.
+title: Hackescher Markt (Berlin, Tyskland) - Anmeldelser
+snippet: Hackescher Markt, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Hackescher Markt i Berlin, Tyskland på Tripadvisor.
+title: Hackesche Höfe | visitBerlin.de
+snippet: The history of the Hackesche Höfe. The courtyard complex opposite Hackescher Markt was opened on 23 September 1906 after several years of construction. It was designed and built by the architect Kurt Berndt, and the Art Nouveau façade was the work of August Endell.
+title: Hackescher Markt - Wikipedia
+snippet: Hackescher Markt (&quot;Hacke&#39;s Market&quot;) is a square in the central Mitte locality of Berlin, Germany, situated at the eastern end of Oranienburger Strasse.It is an important transport hub and a starting point for the city&#39;s nightlife.. Overview. Wikimedia Commons has media related to Hackescher Markt (Berlin-Mitte).
+title: Hackescher Markt – Berlin.de
+snippet: Der Hackesche Markt ist als wichtiger Verkehrsknotenpunkt von überall in Berlin aus gut zu erreichen. Ein idealer Ausgangspunkt für das Nachtleben in der Umgebung mit Theater, Kino und Varieté sowie zahlreichen Clubs, Bars, Restaurants, die Trends setzen oder aus anderen Metropolen nach Berlin bringen.
+title: Hotel Hackescher Markt | Best Rates - Book Now
+snippet: Our charming city center is located close to the Hackescher Markt and Hackesche Höfe with popular designer shops. The Berlin townhouse hotel is also only a stone’s throw away from Museum Island and the well-known collections.
+title: Hackescher Markt (Berlin, Tyskland) - anmeldelser
+snippet: Hackescher Markt, Berlin: Se 660 anmeldelser, artikler og 898 billeder fra Hackescher Markt, nr.94 på Tripadvisor af 1.047 seværdigheder i Berlin.
+title: Hackescher Markt (Berlin) - 2020 All You Need to Know ...
+snippet: We recommend booking Hackescher Markt tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 20 Hackescher Markt tours on Tripadvisor
+title: Adina Apartment Hotel Berlin Hackescher Markt, Berlin, Germany
+snippet: Adina Apartment Hotel Berlin Hackescher Markt This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location An der Spandauer Brücke 11, Mitte, 10178 Berlin, Germany – This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location Excellent location – show map – Subway Access
+
+REL: 0
+POI Name: Corslaker Landhuus
+POI City: Hamburg
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Food, 
+Snippets:
+title: Home - Vierländer Landhaus
+snippet: Ob Hochzeiten, Geburtstage, eine Konfirmation oder ein Firmenjubiläum – es gibt viele Anlässe mit der Familie, den Freunden oder den Bekannten zu feiern.
+title: Corslaker Landhuus - Curslack - Hamburg, Germany - Yelp
+snippet: Corslaker Landhuus in Hamburg, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Hamburg and beyond.
+title: Corslaker Landhuus - Hochzeit in Hamburg
+snippet: Corslaker Landhuus, Curslacker Heerweg 2a, Hamburg. STANDESÄMTER. Standesamt Hamburg Wandsbek. Standesamt Hamburg Bergedorf. Standesamt Hamburg Eimsbüttel
+title: Corslaker Landhuus - German Restaurant in Hamburg
+snippet: 4 visitors have checked in at Corslaker Landhuus. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Corslaker Landhuus Heiko Meyer + Andreas Dassow Hamburg ...
+snippet: Für Corslaker Landhuus Inh.Heiko Meyer + Andreas Dassow in Hamburg ist eine Bewertung auf 11880.com abgegeben worden.. Erfahren Sie mehr zu den Bewertungen für Corslaker Landhuus Inh. Heiko Meyer + Andreas Dassow in Hamburg auf werkenntdenBESTEN.de.
+title: Corslaker Landhuus (Curslacker Heerweg 2a) bei hamburg ...
+snippet: Sonntags lädt das Landhaus zum Frühstücksbrunch ein, das ab 10.30 Uhr angesetzt ist. Dank eines umfassenden Getränkeangebotes wird jeder Gast mit seinem Lieblingsgetränk versorgt. Das &quot;Corslaker Landhuus&quot; ist sehr gemütlich eingerichtet, so dass sich schnell ein behagliches Gefühl breit macht.
+title: Corslaker Landhuus - Curslacker Heerweg 2a in 21039 ...
+snippet: Permanentlink zu dieser Seite: Corslaker Landhuus - Curslacker Heerweg 2a in 21039 Hamburg Sie sind der Chef ? Jetzt Zugangsdaten anfordern Sie wollen dieses Restaurant jemandem empfehlen ? Restaurant empfehlen Haben Sie Fehler in diesem Eintrag entdeckt ?
+title: Deutsche &amp; Regionale Gaststätten: Corslaker Landhuus, Hamburg
+snippet: Hamburg zu Fuß entdecken: Ein Gang durch die angesagtesten Viertel Top 6 Geheimtipps für einen Bootskurzurlaub zu Ostern Individuelle Mobilität – So kommt ihr in Zukunft in Hamburg gut durch Kurzurlaub für Heimatverdrossene
+title: Curslacker Landhuus Hamburg 21039, Restaurant
+snippet: Curslacker Landhuus in Hamburg 21039 - Firmenprofil, Telefonnummer, Adresse, Postleitzahl, Stadtplan und mehr. Home Registrieren Anmelden. Toggle Search Toggle navigation. Anmelden ... www.corslaker-landhuus.com. Kategorie: Restaurant in Hamburg Veranstaltungsservice in Hamburg. Anrufen.
+title: Vierländer Landhaus Eventlocation / Festsaal ... - Hamburg
+snippet: Unser Vierländer Landhaus. Für ihren Party-, Catering- und Eventservice, der auch höchsten Ansprüchen gerecht wird, ist die Familie Clausen in der Region schon lange bekannt.. Nun verfügen die beliebten Caterer aus den Vierlanden auch über einen eigenen Veranstaltungsort für 20 bis 300 Personen: das Vierländer Landhaus.Die schönen großen Räume im ehemaligen Corslaker Landhuus liegen ...
+
+REL: 0
+POI Name: Mahnmal St. Nikolai
+POI City: Hamburg
+POI Country: DE
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, Churches, 
+Snippets:
+title: Mahnmal St. Nikolai
+snippet: Das Mahnmal St. Nikolai. Über uns: Das Mahnmal St. Nikolai ist Hamburgs zentraler Erinnerungsort für die Opfer von Krieg und Gewaltherrschaft der Jahre 1933-1945. Die ehemalige Hauptkirche St. Nikolai wurde während der Luftangriffe auf Hamburg 1943 zerstört.
+title: Ehemalige Hauptkirche St. Nikolai (Hamburg) – Wikipedia
+snippet: Die Ruine der Hauptkirche St. Nikolai am Hamburger Hopfenmarkt ist als Mahnmal St. Nikolai „den Opfern von Krieg und Gewaltherrschaft zwischen 1933 und 1945“ gewidmet. Die Kirche wurde 1195 begründet und in ihrer letzten neugotischen Ausführung 1874 fertiggestellt. Ihr 147,3 Meter hoher Turm war von 1874 bis 1877 das höchste Bauwerk der Welt.
+title: Mahnmal St. Nikolai - Hamburg
+snippet: If you would like to see the historic side of Hamburg during your visit, you should plan a stop at the St. Nikolai memorial. The former main church was destroyed during air raids in 1943. Today, the ruin is a place for remembering the victims of war and tyranny.
+title: Aussichtsturm | Mahnmal St. Nikolai
+snippet: Historische Fotografien auf der Aussichtsplattform zeigen, welche Zäsur die Zerstörung für Hamburg 1943 darstellte und wie die Stadt damals im Vergleich zu heute aussah. Der Panoramalift am Mahnmal St. Nikolai ist barrierefrei und kann von Rollstuhlfahrern genutzt werden.
+title: Mahnmal St-Nikolai | Hamburg, Germany Attractions - Lonely ...
+snippet: St Nikolai church was the world’s tallest building from 1874 to 1876, and it remains Hamburg’s second-tallest structure (after the TV tower). Mostly destroyed in WWII, it is now called Mahnmal St-Nikolai. You can take a glass lift up to a 76.3m-high viewing platform inside the surviving spire ...
+title: Mahnmal St. Nikolai - Home | Facebook
+snippet: Mahnmal St. Nikolai, Hamburg, Germany. 716 likes · 6 talking about this · 7,556 were here. Geschichte
+title: St. Nikolai Hamburg - Öffnungszeiten, Bilder ...
+snippet: Die ehemalige Hauptkirche St. Nikolai ist als Mahnmal und Gedenkstätte bekannt. Nach den Zerstörungen im Zweiten Weltkrieg konnte nur der Turm vom Abriss verschont werden. In der Krypta behandelt eine Ausstellung die Geschichte der Nikolaikirche sowie die Operation Gomorrha und ihre Folgen.
+title: Mahnmal St. Nikolai - Hamburg Tourism
+snippet: Wer Hamburg bei einer Städtereise historisch erkunden möchte, sollte eine Besichtigung des Mahnmals St. Nikolai einplanen. Während der Luftangriffe 1943 wurde die ehemalige Hauptkirche zerstört. Heute ist die Ruine ein Ort des Erinnerns an die Opfer von Krieg und Gewaltherrschaft.
+title: Mahnmal St. Nikolai - hamburg.de
+snippet: 40 Theater, 60 Museen, 100 Clubs. Von Neumeiers Ballett über die Bücherhallen bis zum Kindermuseum. Und noch viel mehr! Rund 50.000 Besucher nutzen jeden Tag, was die Kulturmetropole Hamburg zu bieten hat ...
+
+REL: 0
+POI Name: Rheingauer Weinmuseum Brömserburg
+POI City: Rüdesheim am Rhein
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Castles, 
+Snippets:
+
+
+Cand cities: {'Hamburg', 'Berlin', 'Munich', 'Schleswig', 'Rüdesheim am Rhein', 'Brühl', 'Krefeld', 'Augustusburg', 'Frankfurt'}

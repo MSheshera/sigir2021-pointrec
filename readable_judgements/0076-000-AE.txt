@@ -1,0 +1,557 @@
+City: Amsterdam
+Country: NL
+Main category: Arts & Entertainment
+Sub category: Museums
+Description: Hey guys Been living here four years now and been to most of the most popular museums such as the Rijks, van Gogh, etc.... I was just wondering does anyone have any recommendations of museums outside of the typical suggestions to visit? Or even museums which have a nicer calm ambiance to be around for the day rather than the hectic main ones? Just wondering if there's any hidden gems or recommendations I'm missing out on! Many thanks! Enjoy weekend EDIT: Ida-in If you like modern art the CoBrA museum in Amstelveen has very nice expositions regularly. The Jewish historical museum is also one of my favourites: not to busy and it shows a very interesting part of the city's history. shortys94 Ah many thanks, I think these are actually on the museum card too! Will definitely check out. Great suggestions!
+Rated POIs: 40
+Rel distr: [(0, 3), (1, 10), (2, 14), (3, 13)]
+=================================
+REL: 3
+POI Name: Stedelijk Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Verzetsmuseum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Tropenmuseum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Tassenmuseum Hendrikje
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Amsterdam Tulip Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Anne Frank House
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Moco Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Moco Museum - Modern, Contemporary &amp; Street Art Amsterdam
+snippet: The Moco museum in Amsterdam wants to make a wide range of modern art, contemporary art &amp; street art, like Banksy, available to the general public. The Moco museum in Amsterdam wants to make a wide range of modern art, contemporary art &amp; street art, like Banksy, available to the general public. Plan your visit.
+title: Moco Museum Amsterdam - Moderne kunst en Streetart
+snippet: Het Moco Museum in Amsterdam heeft een breed scala aan moderne, inspirerende en hedendaagse kunst die wij tentoonstellen aan het grote publiek. Lichtenstein, Icy and Sot en Banksy zijn te bewonderen. Koop nu je kaarten online en ga voorbij de rij!
+title: Italiano - Moco Museum
+snippet: Dalla sua apertura nel 2016, il Museo Moco ha esposto molte opere iconiche di noti artisti internazionali. La collezione comprende opere d’arte moderna e contemporanea, e vanta una serie unica di opere di street art di Banksy. Il museo è alloggiato nel monumentale edificio ‘Villa Alsberg’, nel centro del Museumplein di Amsterdam.
+title: Moco Museum (Amsterdam, Nederland) - Anmeldelser
+snippet: Moco Museum, Amsterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Moco Museum i Amsterdam, Nederland på Tripadvisor.
+title: Exhibitions - Moco Museum
+snippet: Moco Museum is temporarily closed because of national policy regarding the Coronavirus. However, our Moco Garden remains OPEN in an effort to bring back positive vibes to Museumplein in Amsterdam. We invite you to explore the historic Villa Alsberg and the collection of modern and contemporary art at Moco Museum – via our Virtual Tour!
+title: Germany - Moco Museum
+snippet: Seit seiner Eröffnung 2016 zeigt das Moco Museum legendäre Werke namhafter internationaler Künstler. Neben modernen und zeitgenössischen Kunstwerken ist eine einzigartige Sammlung von Werken des Streetart-Künstlers Banksy zu sehen. Das Museum befindet sich in der monumentalen „Villa Alsberg“ auf dem Museumplein in Amsterdam.
+title: Tickets - Moco Museum
+snippet: Tickets for the Moco museum in Amsterdam are available online and at the museum&#39;s ticket counter. If you buy your tickets online you can skip the line. Special discount tickets before 11 and after 17.
+title: Stories - Banksy Amsterdam - Moco Museum Amsterdam
+snippet: Moco Stories provide you with the tips and tops about significant pieces in our Moco Collection along with all the goings-on in Moco - Stay up to date!
+title: Moco Museum (Amsterdam) - 2020 All You Need to Know BEFORE ...
+snippet: We recommend booking Moco Museum tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 20 Moco Museum tours on Tripadvisor
+title: Icy and Sot Exhibition - Moco Museum
+snippet: Get to know the work of street artists Icy &amp; Sot. Moco Museum will bring the works of Icy and Sot to Amsterdam this summer, putting it on display – combined with works of Banksy – until January 15 2019. The exhibition will not only match Banksy’s style, but will also enrich the current works of the museum!
+
+REL: 3
+POI Name: Amsterdam Pipe Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Tobacco Shops, Museums, 
+Snippets:
+title: Amsterdam Pipe Museum | Home
+snippet: MUSEUM om meer te zien over het ontstaan van dit unieke museum. Lees ter voorbereiding van een bezoek aan Amsterdam over de geschiedenis van het Amsterdam Pipe Museum, de deelcollecties en de hoogtepunten. THEMA&#39;s bevat het kennisgedeelte van de website over de boeiende geschiedenis van de pijp en de tabacologie.
+title: Amsterdam Pipe Museum (Nederland) - Anmeldelser
+snippet: Vi anbefaler å bestille turer i Amsterdam Pipe Museum på forhånd for å sikre deg en plass. Om du bestiller med Tripadvisor, kan du avbestille opptil 24 timer før turen begynner for å få full refusjon. Se alle turer 3 Amsterdam Pipe Museum på Tripadvisor
+title: Amsterdam Pipe Museum - 2020 All You Need to Know BEFORE ...
+snippet: Fine that you liked the display of pipes from all over the world, the Amsterdam Pipe Museum offers. The shop operates within the same Foundation as the Museum, and since the numbers of people who actually buy an expensive pipe is limited, having the techniques for all foreign bank and credit cards is far too expensive for us.
+title: Amsterdam Pipe Museum | I amsterdam
+snippet: In the historic ambiance of a 17th-century canal house, the Amsterdam Pipe Museum presents an overview of smoking pipes throughout the ages. The exhibition covers a period of 2,500 years and includes exciting objects from five continents. It represents the life’s work of a serious collector who spent forty years amassing the world&#39;s most renowned pipe collection. Take a private tour of the ...
+title: Amsterdam Pipe Museum - Wikipedia
+snippet: The Amsterdam Pipe Museum (formerly Dutch: Pijpenkabinet, &quot;pipe cabinet&quot;) is a museum in Amsterdam, the Netherlands, dedicated to smoking pipes, tobacco, and related paraphernalia.It holds the national reference collection in these areas.The permanent exhibition of the Amsterdam Pipe Museum displays over 2,000 items representing the variety of smoking pipes and utensils that have been us
+title: Pijpenkabinet – Pipe Museum in Amsterdam | Amsterdam.info
+snippet: Amsterdam » Museums » Pipes and smoking. Pijpenkabinet – Pipe Museum in Amsterdam. When political correctness threatens with imposing a strict ban on smoking all over Amsterdam, this museum about the pleasures of smoking would seem like defiance.
+title: Amsterdam Pipe Museum | Free Entrance with the Amsterdam Pass
+snippet: An authentic 17th-century canal house is the ambience of the Amsterdam Pipe Museum, where it presents an overview of smoking pipes throughout the ages. The exhibition covers a period of 2,500 years and includes exciting objects from five continents.
+title: DE 10 BESTE museene i Amsterdam - Tripadvisor
+snippet: Amsterdam Pipe Museum. 321 anmeldelser Nr. 9 av 207 Museer i Amsterdam Finn ut mer Se 3 opplevelser Micropia. 1 435 anmeldelser Nr. 10 av 207 Museer i Amsterdam Finn ut mer Se 11 opplevelser Moco Museum. 2 942 anmeldelser Nr. 11 av 207 Museer i Amsterdam Finn ut mer Se 20 opplevelser
+title: Amsterdam Pipe Museum - Home | Facebook
+snippet: Amsterdam Pipe Museum, Amsterdam, Netherlands. 481 likes. Het nationale museum dat de wereldwijde rookcultuur laat zien. Het museum heeft in het souterrain een unieke winkel met een geweldige aanbod...
+title: Amsterdam Pipe Museum - MuseumDepotShop
+snippet: Het Amsterdam Pipe Museum heeft een unieke collectie pijpen voor het roken van tabak en opium, een thema dat zelden wordt getoond nu tabak wel een taboe lijkt. De cultuurgeschiedenis van het roken is echter wereldwijd verbreid. Een geschiedenis die al begint rond 500 vóór Christus in Centraal-Amerika.
+
+REL: 3
+POI Name: Joods Historisch Museum en Kindermuseum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Children's Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Amsterdam Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Van Gogh Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Kattenkabinet
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Hollandsche Schouwburg
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Museum Geelvinck
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Electric Ladyland
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Het Scheepvaartmuseum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Amsterdam Cheese Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Cheese Shops, 
+Snippets:
+
+
+REL: 2
+POI Name: Galerie Artacasa
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: GALERIE ARTACASA in Amsterdam
+snippet: GALERIE ARTACASA in Amsterdam . ARTACASA sinds 1994 figuratieve en betaalbare schilderijen en objecten. ARTACASA IS ALLÉÉN OPEN OP AFSPRAAK (en als de deur open staat) Donderdag 23 en vrijdag 24 ...
+title: Galerie ARTACASA - Home | Facebook
+snippet: Ben je in het centrum van Amsterdam vergeet dan niet de super leuke ARTACASA galerie te bezoeken. St... eeds wisselende collecties en voor iedere beurs is er zeker iets bijzonders te vinden. De vrolijke en gedreven eigenaresse, Wiebke, zal je met enthousiasme ontvangen en met plezier vertellen over het werk van de diverse kunstenaars die zij vertegenwoordigd.
+title: Overzicht van kunstgaleries in Amsterdam | kunstgalerie ...
+snippet: Galerie Amsterdam is gevestigd in het hart van het kunst- en antiekcentrum van Amsterdam, het Spiegelkwartier. ... ARTACASA is een laagdrempelige, figuratieve galerie in de binnenstad van Amsterdam. 8 exposities per jaar en veel kunstwerken permanent in stock.
+title: Artacasa (Amsterdam, Nederland) - Anmeldelser - Tripadvisor
+snippet: Artacasa, Amsterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Artacasa i Amsterdam, Nederland på Tripadvisor.
+title: Galerie ARTACASA - Posts | Facebook
+snippet: Galerie ARTACASA - Kerkstraat 411, 1017 HX Amsterdam, Netherlands - Rated 4.5 based on 10 Reviews &quot;We zijn 6 oktober op woonbeurs in de RAi geweest....
+title: startpagina -huidige tentoonstelling - witteveenvisualart.nl
+snippet: * ART on Paper Amsterdam : Zoals u misschien weet, heb ik een voorliefde voor tekeningen. Ik ben dan ook enthousisat om u te kunnen melden dat op de komende beurs ART ON PAPER (26 tm 29 september) veel tekeningen zullen worden gebracht. ... 2015 Galerie Witteveen, Amsterdam. ...
+title: Galerie ARTACASA - Startpagina | Facebook
+snippet: Ben je in het centrum van Amsterdam vergeet dan niet de super leuke ARTACASA galerie te bezoeken. St... eeds wisselende collecties en voor iedere beurs is er zeker iets bijzonders te vinden. De vrolijke en gedreven eigenaresse, Wiebke, zal je met enthousiasme ontvangen en met plezier vertellen over het werk van de diverse kunstenaars die zij vertegenwoordigd.
+title: Artacasa (Amsterdam, Holandia) - opinie - Tripadvisor
+snippet: Artacasa, Amsterdam: zobacz recenzje, artykuły i zdjęcia dotyczące Artacasa w serwisie Tripadvisor w Amsterdamie, Holandia
+title: Artacasa (Amsterdam) - Aktuelle 2019 - Lohnt es sich? (Mit ...
+snippet: Die Suche war nicht erfolgreich. Versuchen Sie, einen Filter zu entfernen, Ihre Suche zu ändern oder alle Filter zurückzusetzen, um Bewertungen zu lesen.
+title: Schilderijen in Amsterdam | kunstgalerie-info.nl
+snippet: Galerie Amsterdam is gevestigd in het hart van het kunst- en antiekcentrum van Amsterdam, het Spiegelkwartier. ... ARTACASA is een laagdrempelige, figuratieve galerie in de binnenstad van Amsterdam. 8 exposities per jaar en veel kunstwerken permanent in stock.
+
+REL: 2
+POI Name: IJDock
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, 
+Snippets:
+title: IJdock (Amsterdam) - 2020 All You Need to Know BEFORE You ...
+snippet: We recommend booking IJdock tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 3 IJdock tours on Tripadvisor
+title: THE 10 CLOSEST Hotels to IJdock, Amsterdam - Tripadvisor ...
+snippet: Hotels near IJdock, Amsterdam on Tripadvisor: Find 36,873 traveler reviews, 50,352 candid photos, and prices for 30 hotels near IJdock in Amsterdam, The Netherlands.
+title: IJdock (Amsterdam, Nederland) - Anmeldelser - Tripadvisor
+snippet: IJdock, Amsterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for IJdock i Amsterdam, Nederland på Tripadvisor.
+title: Bagels &amp; Beans Ijdock, Amsterdam - Restaurantanmeldelser ...
+snippet: Bagels &amp; Beans Ijdock, Amsterdam: Se 388 objektive anmeldelser av Bagels &amp; Beans Ijdock, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 407 av 4 227 restauranter i Amsterdam.
+title: Parkeerplek reserveren | Interparking | Parkeren in IJDock
+snippet: Parkeerplek reserveren in parkeergarage IJDock doe je al vanaf €10,- per dag! Day Trip Parking - Dinner Parking - Hotel Parking - 24H Parking - Park &amp; Bike
+title: Affordable parking Amsterdam | from ... - Parkeren in IJDock
+snippet: Staying the night in Amsterdam? Hotel Parking is the best way to ensure your car is parked safely and affordably from € 15,- per day. You can enter and exit the car park as often as you want! ... ”Parking Garage IJDock is spacious, light, and easily accessible from the A10 Ring Road.
+title: Beste hoteller i nærheten av IJdock, Amsterdam - Tripadvisor
+snippet: Hoteller i nærheten av IJdock, Amsterdam: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av IJdock på Tripadvisor.
+title: IJDock parkeergarage | I amsterdam
+snippet: Park your vehicle in the centre of Amsterdam at Parking Garage IJDock. It&#39;s situated just a few minutes from Amsterdam Central Station at the new IJdock island, under the city court (Paleis van Justitie) and next to the City Marina. This parking garage is also just a short walk from the beautiful Jordaan neighbourhood and the popular Haarlemmerbuurt shopping area.
+title: Book your parking space | Interparking | Parkeren in IJDock
+snippet: Book your parking space in Amsterdam. Park a whole day for already € 10,-! Day Trip Parking - Dinner Parking - Hotel Parking - 24H Parking - Park &amp; Bike
+title: Parkeren in IJDock - Goedkoop parkeren Amsterdam | v.a ...
+snippet: ”Parkeergarage IJDock is lekker ruim, licht en makkelijk bereikbaar van de Ring A10. Binnen 5 minuten sta ik zo in het centrum van Amsterdam! Een echte aanrader!”
+
+REL: 2
+POI Name: Kermis op de Dam
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: kermis op de Dam in Amsterdam - YouTube
+snippet: 29 oktober was ik op de Dam in Amsterdam waar het de laatste dag van de kermis was. Ik heb een leuke impressie gemaakt van deze kleinschalige kermis op een unieke plek.
+title: REVIEW: kermis Amsterdam de Dam 2017 voorjaar - YouTube
+snippet: REVIEW: kermis Amsterdam de Dam 2017 voorjaar Kermisreporter. ... Grease op de Kermis in Amsterdam! - Duration: ... Amsterdam &quot;. Kermis op de Dam &quot;. 9 apr. 2017.
+title: Einde kermis op de Dam verrast exploitanten | Het Parool
+snippet: Einde kermis op de Dam verrast exploitanten. Zondag staat de kermis voor het laatst op de Dam. Tot verbijstering van de exploitanten, die dachten dat ze volgend jaar ook nog welkom zouden zijn.
+title: Amsterdam, Dam kermis - YouTube
+snippet: De laatste kermis in Amsterdam gehouden op de Dam vastgelegd op zaterdag 28-10-2017.
+title: Kermis op de Dam Amsterdam 2017 - YouTube
+snippet: Kermis op de Dam Amsterdam 2017
+title: Pretpark Amsterdam: Laatste keer kermis op de Dam - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: Kermis op de Dam oktober 2008 Amsterdam - YouTube
+snippet: Kermis op de Dam, Amsterdam Oktober 2008
+title: booster maxxx kermis op de Dam in Amsterdam oktober 2008 ...
+snippet: attractie kermis op de Dam in Amsterdam oktober 2008. Newark Ohio Fire Department Command View of house fire, civilian injury due to drug manufacturing - Duration: 30:37. David Decker Recommended ...
+title: Mokums - FILMPJE! 02 van 04 Kermis op de Dam Panorama van...
+snippet: FILMPJE! 02 van 04 Kermis op de Dam Panorama van Amsterdam 17 - 10 - 2017. Hopp til. Deler på denne siden. Hjelp for tilgjengelighet. Facebook. E-post eller telefon: Passord: Har du glemt kontoen din? Registrer deg. Mokums. 18. oktober 2017 · FILMPJE! 02 van 04 Kermis op de Dam Panorama van Amsterdam 17 - 10 - 2017. Relaterte videoer.
+
+REL: 2
+POI Name: Pianola Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Het Bijbels Museum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Micropia
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Het Cobra Museum
+POI City: Amstelveen
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Foam Fotografiemuseum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Red Light Secrets
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: TonTon Club - Centrum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Arcades, 
+Snippets:
+
+
+REL: 1
+POI Name: Kröller-Müller Museum
+POI City: Otterlo
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Ku West
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, Bars, 
+Snippets:
+title: Ku Kitchen &amp; Bar-Sushibar &amp; Cocktailbar Amsterdam
+snippet: Ku Kitchen &amp; Bar is a Japanese sushibar and cocktailbar in the Utrechtsestraat, Amsterdam. We serve a great selections of Japanese Whiskeys and Sakes. Besides excellent sushi , we also serve contemporary Japanese dishes and meats and fish from the Green Egg BBQ. If you&#39;re looking for sushi, co
+title: Staring at Jacob x KU West Amsterdam // Your Little Black Book
+snippet: Staring at Jacob x KU West Amsterdam bundelen hun krachten. Je favoriete sushi walhalla Ku Kitchen Bar Amsterdam uit de Utrechtsestraat heeft een tweede locatie en wel aan de andere kant van de stad in Amsterdam West aan de Jacob van Lennepkade. Yes, hoef ik niet meer zo ver te fietsen ;-) Ku Kitchen Bar Amsterdam of ook wel KU West kun je vinden in Staring at Jacob en nee geen zorgen, je kunt ...
+title: Ku Kitchen &amp; Bar, Amsterdam - Restaurantanmeldelser ...
+snippet: Ku Kitchen &amp; Bar, Amsterdam: Se 289 objektive anmeldelser av Ku Kitchen &amp; Bar, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 120 av 4 228 restauranter i Amsterdam.
+title: Staring at Jacob x KU West Amsterdam // Your Little Black Book
+snippet: Staring at Jacob x KU West Amsterdam got together! Your favourite sushi walhalla Ku Kitchen Bar Amsterdam from the Utrechtsestraat opened a second location at the other side of the city in Amsterdam West on the Jacob of Lennepkade. Yes, that means less biking for me ;-) You can find Ku Kitchen Bar Amsterdam or KU West in Staring at Jacob.No worries, you can still drop by for a delicious lunch ...
+title: XO HOTELS PARK WEST i Amsterdam | Hotels.com
+snippet: XO HOTELS PARK WEST ligger i forretningsdistriktet og nær en undergrunnsstasjon i bydelen Amsterdam vest i Amsterdam. Et par populære landemerker er Det kongelige slott og Leidseplein, mens Vondelpark og Herengracht Canal kan friste med vakre naturomgivelser. Du må ikke gå glipp av Amsterdam Dungeon og NDSM Werf. Gjestene våre liker den sentrale beliggenheten til dette hotellet.
+title: Oud West Amsterdam: A Guide to My Favorite Neighbourhood ...
+snippet: Why I Love Oud West Amsterdam. Oud West Amsterdam is my absolute favorite among all of the Amsterdam neighborhoods.. It’s a triangular area located west of Centrum and surrounded by greenery, with Vondelpark to the south and Rembrandtpark in the west.
+title: XO HOTELS PARK WEST (Amsterdam, Nederland) - Hotell ...
+snippet: XO Hotels Park West, Amsterdam: Se 4 782 reiseanmeldelser, 2 120 bilder og gode tilbud for XO Hotels Park West, vurdert som nr. 93 av 403 hotell i Amsterdam og vurdert til 4,5 av 5 på Tripadvisor.
+title: Staring at Jacob x KU West Amsterdam nieuwe spot in West
+snippet: Staring at Jacob x KU West (ja je leest het goed en nee het is geen typefout) deze twee killer concepten in één zou zomaar de nieuwste place to be van Oud-West kunnen worden. Staring at Jacob, de populaire brunchspot in West ondergaat momenteel een flinke facelift en wordt in de avonduren omgeturned tot KU West, dé sushi en Japanse bite walhalla.
+title: Ku Kitchen &amp; Bar-Sushibar &amp; Cocktailbar Amsterdam
+snippet: Online menu&#39;s are an impression of what we serve and might not always be accurate. Please call us after 15:30 for reservations. Note that we have tables available for walk ins, first come first serve.
+title: KU KITCHEN &amp; BAR, Amsterdam - Restaurantbeoordelingen ...
+snippet: Ku Kitchen &amp; Bar, Amsterdam: Bekijk 289 onpartijdige beoordelingen van Ku Kitchen &amp; Bar, gewaardeerd als 4,5 van 5 bij Tripadvisor en als nr. 120 van 4.228 restaurants in Amsterdam. &lt;/cf&gt;
+
+REL: 1
+POI Name: Rijksmuseum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Deli Company
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Sandwiches, Imported Food, 
+Snippets:
+
+
+REL: 1
+POI Name: Komagene
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Falafel, Arabian, Vegetarian, 
+Snippets:
+title: Komagene Wrappiez Amsterdam - Vegetarian/Vegan Restaurant ...
+snippet: Komagene Wrappiez Amsterdam, Amsterdam (Amsterdam, Netherlands). 765 likes · 1 talking about this · 171 were here. We zijn 7 dagen per week open vanaf 12 uur tot 22 uur.
+title: Komagene, Amsterdam - Indische Buurt - Photos &amp; Restaurant ...
+snippet: Order food online at Komagene, Amsterdam with Tripadvisor: See 2 unbiased reviews of Komagene, ranked #3,899 on Tripadvisor among 4,228 restaurants in Amsterdam.
+title: Komagene Chee Kofte
+snippet: Komagene Rotterdam . IN KÜRZE ERÖFFNEN WIR IN. Komagene Dortmund. JETZT NEU BEI KOMAGENE: CHEE KÖFTE TACO! Jetzt probieren: Chee Köfte, Kidneybohnen, spezieller Taco Käse . FACEBOOK. Den Kampagnen folgen. Jetzt anmelden und über alle Neuigkeiten informiert werden.
+title: KOMAGENE, Amsterdam - Indische Buurt - Photos &amp; Restaurant ...
+snippet: Order takeaway and delivery at Komagene, Amsterdam with Tripadvisor: See 2 unbiased reviews of Komagene, ranked #3,901 on Tripadvisor among 4,229 restaurants in Amsterdam.
+title: Komagene Wraps Amsterdam - Nagerechten, Wraps, Smoothies ...
+snippet: Komagene Wraps, Molukkenstraat 147H, 1095BC, Amsterdam. Online eten bestellen bij Komagene Wraps via Thuisbezorgd.nl. Wraps, chee kofte en meer!. Keuze uit Wraps, Chee köfte porties, Desserts, Drinken of Ben &amp; Jerry&#39;s 100ml
+title: Komagene Wraps - Wraps, chee kofte en meer! - Nagerechten ...
+snippet: Eten bestellen bij Komagene Wraps. Onze website gebruikt analytische cookies om de werking van de website te verbeteren en reclame/tracking cookies om aan de gebruiker gerichte reclame te kunnen aanbieden.
+title: Komagene - etsiz çiğ köfte - 0850 377 0850
+snippet: Geçtiğimiz yıl Komagene Markası olarak standartlarımızı sahaya en hızlı şekilde yayma ve bu konudaki farkındalığımızı yükseltmek için ‘Komagene Altın Sıkımlar . İNSTAGRAM. Tweets by Komagene. KAMPANYALARI TAKİP EDİN. Komagene ile ilgili tüm gelişmelerden ilk siz haberdar olun
+title: Komagene Wrappiez Amsterdam | Facebook
+snippet: Komagene Wrappiez Amsterdam, Amsterdam (Amsterdam, Netherlands). 779 likes · 171 were here. We zijn 7 dagen per week open vanaf 12 uur tot 22 uur.
+title: Komagene Nijmegen - Vegetarisch en veganistisch restaurant ...
+snippet: Eten bestellen bij Komagene Nijmegen. Gratis fles Coca-Cola (1L) bij elke bestelling vanaf € 25,- Chee Köfte (oftewel çiğköfte in het Turks) is een traditioneel gerecht uit Turkije dat normaliter gemaakt van rauw gehakt en pittige kruiden.
+title: KOMAGENE, Amsterdam - Restaurantbeoordelingen - Tripadvisor
+snippet: Komagene, Amsterdam: Bekijk 2 onpartijdige beoordelingen van Komagene, gewaardeerd als 4,5 van 5 bij Tripadvisor en als nr. 3.905 van 4.235 restaurants in Amsterdam. &lt;/cf&gt;
+
+REL: 1
+POI Name: Local Hero
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Cafes, 
+Snippets:
+title: Lunch delivery &amp; take out in de Baarsjes - Local Hero ...
+snippet: Local Hero is de Baarsjes&#39; favorite lunch place. Enjoy our famous Local Tosti, the best in Amsterdam, at home thanks to our home delivery.
+title: Local Hero - Home - Amsterdam, Netherlands - Menu, Prices ...
+snippet: Local Hero, Amsterdam. 1,053 likes · 366 were here. In ons all-day ontbijt- en lunchcafé kun je je hart ophalen aan verse, zo veel mogelijk biologische producten uit Amsterdam en omgeving.
+title: Local Heroes: nieuwe bezorgdienst start eerder door ...
+snippet: Met Local Heroes kunnen consumenten boodschappen bij lokale ondernemers bestellen, die ze vervolgens kunnen ophalen of laten thuisbezorgen door fietskoeriers. Bestellen gaat via de applicatie van Local Heroes. Dat is voor nu mogelijk voor inwoners van Amsterdam West, de ambitie is om de dienst uit te breiden naar meer steden in Nederland.
+title: Local Hero Amsterdam // Bos en Lommer // Your Little Black ...
+snippet: Local Hero Amsterdam maakt Bos en Lommer hotter dan hot. Local Hero Amsterdam is dé plek waar je de hele dag je ontbijt en lunch cravings kunt stillen. Deze all-day-breakfast/lunch spot in Bos en Lommer maakt de Jan van Galenstraat hotter dan hot.
+title: Algemene Voorwaarden - Local Hero Amsterdam
+snippet: Deze ‘Algemene Voorwaarden Klanten’ zijn van toepassing op de relatie tussen Local Hero en de Klanten. 1. Definities Aanbod: het product –en dienstenaanbod van Local Hero dat door de Klant via de website kan worden besteld. Bestelling: een bestelling van de Klant via het de webiste, van het door de Klant geselecteerde Aanbod. Klant: een natuurlijk persoon of rechtspersoon die een ...
+title: LOCAL HEROES
+snippet: MID SEASON SALE Shop all. FLASH SALE 30%; FLASH SALE 40%; FLASH SALE 50%; New in; Shop Shop all
+title: Local Heroes - Home | Facebook
+snippet: Local Heroes, Amsterdam, Netherlands. 263 likes · 238 talking about this · 52 were here. Local Heroes is hét e-commerce platform waarmee je eenvoudig en altijd via de app het aanbod van lokale...
+title: Local Cheeseburger - Local Hero Amsterdam
+snippet: Cheddar, tomato, bbq sauce, pickles and home made mayonnaise. Served with coleslaw
+title: Local Tosti - Local Hero Amsterdam
+snippet: Dutch Old cheese, red onion compote and mustard mayonnaise. 0 Hours 0 Minutes 0 Seconds. Local Tosti quantity
+title: Privacy Statement - Local Hero Amsterdam
+snippet: Dit privacy statement is van toepassing op de verwerking van persoonsgegevens van klanten die een bestelling plaatsen via de website van Local Hero. De verwerkingsverantwoordelijke voor het verwerken van deze persoongegevens is Local Hero, gevestigd te Amsterdam. Local Hero is verantwoordelijk voor de verwerking van deze persoonsgegevens en vindt jouw privacy belangrijk. Local Hero houdt zich ...
+
+REL: 1
+POI Name: Cafe Kooper
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Café Kooper - Home | Facebook
+snippet: Café Kooper - Leidseplein 16, 1017 PT Amsterdam, Netherlands - Rated 3.9 based on 128 Reviews &quot;Terrible service! friend and I wanted to have a few pints...
+title: Cafe Kooper - Het bruisend hart van Amsterdam
+snippet: Cafe Kooper. Café Kooper is een gezellig bruin café, midden op het drukke Leidseplein. Kom binnen voor een lekker kopje koffie &#39;s ochtends, een gezellig drankje &#39;s middags of een feestje &#39;s avonds! Donderdagavond is onze gezellige en drukke studentenavond in Café Kooper, vrijdag- en zaterdagavond is &#39;t feest compleet met onze DJ!
+title: Cafe Kooper, Amsterdam - Centrum - Restaurant Reviews ...
+snippet: Cafe Kooper, Amsterdam: See 18 unbiased reviews of Cafe Kooper, rated 1.5 of 5 on Tripadvisor and ranked #3,961 of 4,235 restaurants in Amsterdam.
+title: Cafe Kooper - Het bruisend hart van Amsterdam
+snippet: Cafe Kooper. Cafe Kooper is a cozy pub right on the busy Leidseplein. Come in for a cup of coffee in the morning, a nice afternoon drink or a party night! Thursday night is our cozy and busy student night at Cafe Kooper, Friday and Saturday evening the festival complete with our DJ!
+title: Café Kooper - Amsterdam - Kroegenweb.nl
+snippet: Café Kooper is een gezellig bruin café, midden op het drukke Leidseplein. Kom binnen voor een lekker kopje koffie &#39;s ochtends, een gezellig drankje &#39;s middags of een feestje &#39;s avonds! Donderdagavond is onze gezellige en drukke studentenavond in Café Kooper, vrijdag- en zaterdagavond is &#39;t feest compleet met onze DJ!
+title: Café Kooper - Startpagina | Facebook
+snippet: Café Kooper - Leidseplein 16, 1017 PT Amsterdam - Beoordeling van 3.9 op basis van 126 recensies &#39;Wij gingen zitten en na 15 min waren wij nog steeds... Direct naar. ... The Rock In and Roll Out Cafe, Amsterdam. Cooldown Cafe Leidseplein &#39;&#39;de kleine&#39;&#39; Blinq Amsterdam. 20-22 Luminaa.
+title: Photos for Cafe Kooper - Yelp
+snippet: Photos at Cafe Kooper - Amsterdam, Noord-Holland. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Café Kooper - Amsterdam, Noord-Holland - Untappd
+snippet: Find out what&#39;s popular at Café Kooper in Amsterdam, Noord-Holland in real-time and see activity
+title: UMENU | Cafe Kooper - Amsterdam
+snippet: skrive anmeldelse Cafe Kooper . Navn. E-post. Når du har spist her. ... Princess Arthotel Amsterdam Coffeeshop &#39;Het Gelderse&#39; Red Light Bar The Spirit Vitam. Tilbake. UMENU ™ 2020 ...
+title: CAFE KOOPER, Amsterdam - Restaurantbeoordelingen - Tripadvisor
+snippet: Cafe Kooper, Amsterdam: Bekijk 17 onpartijdige beoordelingen van Cafe Kooper, gewaardeerd als 2 van 5 bij Tripadvisor en als nr. 3.939 van 4.215 restaurants in Amsterdam. &lt;/cf&gt;
+
+REL: 1
+POI Name: Sportcentrum Universum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Tennis, Sports Clubs, Climbing, 
+Snippets:
+
+
+REL: 1
+POI Name: Six Collection
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Shopping
+POI Sub category: Arts & Crafts, 
+Snippets:
+
+
+REL: 1
+POI Name: Mash
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 0
+POI Name: Museum Jan van der Togt
+POI City: Amstelveen
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 0
+POI Name: Schinkeleilanden
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Algemene Belangenvereniging Schinkeleilanden
+snippet: Amsterdam Oud Zuid voor de Schinkeleilanden gaf veel reden tot onrust omdat er nogal wat dreigde te verdwijnen. Lees hier het laatste nieuws. Nieuws brief Augustus 2013. DÃ SPECIALIST IN. WOONBOOT-&amp; MARITIEME VERZEKERINGEN.
+title: Schinkeleilanden - Amsterdam, Netherlands - Outdoor ...
+snippet: Schinkeleilanden, Amsterdam, Netherlands. 21 likes. Outdoor Recreation. Sign up for Facebook today to discover local businesses near you.
+title: Park Schinkeleilanden - Gemeente Amsterdam
+snippet: Net voor het Haarlemmermeercircuit wordt de route vervolgd via de Havenstraat en na 100 meter linksaf het Havenstraatterrein op, ook het beginpunt van de Elektrische Museumtramlijn Amsterdam. Na 400 meter fietst u in het Park Schinkeleilanden dat tot het viaduct Rijksweg A10 doorloopt.
+title: Schinkeleilanden Amsterdam Zuid - YouTube
+snippet: Schinkeleilanden Amsterdam Zuid taxi1108. Loading... Unsubscribe from taxi1108? Cancel Unsubscribe. Working ... Wilma - Tulpen aus Amsterdam ( live ) ( 1969 ) - Duration: 2:22.
+title: Urban Foraging Schinkeleilanden, Amsterdam - YouTube
+snippet: Ga mee op een mini urban Foraging Video tour op een eiland in de Schinkel, in Amsterdam. Middenin de stad zijn allerlei eetbare, wilde en medicinale planten, bomen, struiken, kruiden, groenten en ...
+title: Park Schinkeleilanden, Amsterdam | Trees for estates and ...
+snippet: Park Schinkeleilanden Amsterdam. In a &#39;forgotten&#39; part of Amsterdam behind the Olympic Stadium, landscape architects from Buro Sant and Co created a surprising island kingdom that serves as a recreational and ecological corridor: Park Schinkeleilanden, an innovative example of urban construction.
+title: Park Schinkeleilanden, Amsterdam - Buro Sant en Co
+snippet: Park Schinkeleilanden is een nieuw Amsterdams park bij het Olympisch Stadion, langs de oevers van de Schinkel. Het park is ontworpen en tot stand gekomen middels een uitgebreid integraal en interactief planproces. Het park is opgevat als een eilandenrijk met een groot aantal recreatieve gebruiksmogelijkheden waarbij de nadruk is gelegd op openbaarheid, groenkwaliteit en duurzaamheid. De ...
+title: Park Schinkeleilanden - Wikipedia
+snippet: Het Park Schinkeleilanden ligt in Amsterdam-Zuid ten westen van het Olympisch Stadion langs de Schinkel. Vanaf het Olympisch Kwartier is het park via de Jan Wilsbrug te bereiken. De spoorlijn van het Haarlemmermeerstation in de richting Amstelveen ligt over twee (schier)eilanden tussen de Schinkel en de Stadiongracht.
+title: Schinkeleilanden - Stadionbuurt - Amsterdam, Noord-Holland
+snippet: See 24 photos from 86 visitors to Schinkeleilanden. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Herfst in Amsterdam: Amsterdamse Bos en Park ...
+snippet: Een schitterende laatste dag van oktober 2019 met mooie herfstfoto&#39;s van Park Schinkeleilanden achter het Olympisch Stadion en van het Amsterdamse Bos. Muziek: Hilltop - Dan Lebowitz Category
+
+REL: 0
+POI Name: Restaurant Vinkeles
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+
+
+Cand cities: {'Otterlo', 'Amstelveen', 'Amsterdam'}

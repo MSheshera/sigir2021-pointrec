@@ -1,0 +1,1100 @@
+City: Glendale
+Country: US
+Main category: Restaurants and Food
+Sub category: Asian Fusion/Cuisine - Pizza - Barbeque
+Description: My brother’s birthday is next weekend and I’m looking to make a reservation somewhere amazing in Glendale. He really likes bbq, but I don’t want to take him somewhere too casual. He likes pizza, but not pasta and any kind of Asian food is an automatic win. Any ideas would be appreciated!
+Rated POIs: 41
+Rel distr: [(0, 2), (1, 6), (2, 29), (3, 4)]
+=================================
+REL: 3
+POI Name: Karas
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Barbeque, Pizza, Burgers, 
+Snippets:
+title: Karas Restaurants USA - Karas: American dream is not ...
+snippet: Karas in the heart of Glendale: The construction has started. Karas&#39;s Success Story by EBRD. 2017-07-05. We do catering in Karas USA. 2018-10-31
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Karas Glendale, CA 91204 - Menu, 113 Reviews and Photos ...
+snippet: Latest reviews, photos and ??ratings for Karas at 158 S Brand Blvd in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Karas USA, Glendale - Photos &amp; Restaurant Reviews - Order ...
+snippet: Order food online at Karas USA, Glendale with Tripadvisor: See 5 unbiased reviews of Karas USA, ranked #142 on Tripadvisor among 514 restaurants in Glendale.
+title: Karas - Glendale, CA - Yelp
+snippet: I walked past Karas on the way and decided to take a look at their menu. They had some healthy options at reasonable prices and the host told me they had WiFi AND a couple booths with electrical outlets. So I stayed. Man, those &quot;happy hour&quot; specials which start at noon (!) are insanely good deals.
+title: Karas - Glendale, CA - Yelp
+snippet: 422 reviews of Karas &quot;This place caught us off guard. The wait was so long at Din Tai Fung we walked over to give it a try. We sat down and was greeted and seated promptly. The place is bright but the staff is warm and welcoming. We got the…
+title: Karas USA - Home - Glendale, California - Menu, Prices ...
+snippet: Karas USA, Glendale, California. 1,800 likes · 33 talking about this · 1,690 were here. In 2017 company entered the American market and opened its first service point in the heart of Glendale – 158...
+title: Kara Harnisch - Customer Service Manager - Safeway | LinkedIn
+snippet: View Kara Harnisch’s profile on LinkedIn, the world&#39;s largest professional community. Kara has 1 job listed on their profile. See the complete profile on LinkedIn and discover Kara’s ...
+title: Karas - Glendale, CA Restaurant | Menu + Delivery | Seamless
+snippet: Order with Seamless to support your local restaurants! View menu and reviews for Karas in Glendale, plus popular items &amp; reviews. Delivery or takeout!
+title: Barbecue | KARAS - National food chain
+snippet: Orders: Sun-Thu - 11:00AM - 10:30AM, Fri-Sat - 11:00AM - 11:30AM PT +1 747 500 00 00
+
+REL: 3
+POI Name: Chef's BBQ
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Barbeque, Armenian, 
+Snippets:
+title: Chef&#39;s BBQ – Best Mediterranean Restaurant in Glendale.
+snippet: Chef&#39;s BBQ Restaurant is ideal for small gatherings, special events and private dinings for up to 50 people. Book our place for your next Birthday Party, Baby Shower, Bridal Shower, Wedding Celebration, Corporate Party, etc.
+title: Chef&#39;s BBQ - Glendale - Menu &amp; Hours - Order Delivery (20% ...
+snippet: Get 20% off your pizza delivery order - View the menu, hours, address, and photos for Chef&#39;s BBQ in Glendale, CA. Order online for delivery or pickup on Slicelife.com. Get 20% off your pizza delivery order - View the menu, hours, address and photos for Chef&#39;s BBQ in Glendale, CA.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Chef’s BBQ restaurant in Glendale CA - YouTube
+snippet: Chef’s BBQ restaurant , mediterian, Armenian , Italian, Georgian cousin.
+title: Chef&#39;s BBQ - Home - Glendale, California - Menu, Prices ...
+snippet: Chef&#39;s BBQ, Glendale. 224 likes · 69 talking about this · 82 were here. Glendale’s newest BBQ restaurant, offering Kabob BBQ, Fish BBQ, Pizza and much more. Call for a free delivery 818-551-2000.
+title: CHEF&#39;S BBQ Glendale, CA 91204 - Menu, 63 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for CHEF&#39;S BBQ at 1100 S Central Ave in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Photos for Chef&#39;s BBQ - Yelp
+snippet: Photos at Chef&#39;s BBQ - Glendale, CA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: CHEF&#39;S BBQ in Glendale - Restaurant menu and reviews
+snippet: All info on CHEF&#39;S BBQ in Glendale - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Chef&#39;s BBQ Restaurant - Glendale, CA | OpenTable
+snippet: Book now at Chef&#39;s BBQ in Glendale, CA. Explore menu, see photos and read 2 reviews: &quot;A good place to get many different Armenian, Georgian, Russian, and Mediterranean foods. The khachapuri was a standout. Would return!&quot;
+title: Chef&#39;s BBQ | Traiteur-catering-bbq aan huis.
+snippet: Na 7 jaar opleidingen in avondschool (2011-2017) zoals hulpkok-kok-slagersgast-specialisatie heb ik de stap gezet naar traiteur-catering-bbq aan huis. Extra opleiding blijven we steeds en graag volgen om op de hoogte te blijven van de nieuwste technieken en ingrediënten.
+
+REL: 3
+POI Name: Teriyaki Me!
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: Teriyaki Me!
+snippet: &quot;best teriyaki chicken in l.a. if not in california&quot; --tim conway jr. (kfi 640 am) *all CREDIT CARD transactions require minimum $10 purchase* 207 west wilson ave | glendale, ca 91203 | (818) 507-0812
+title: Menu - Teriyaki Me
+snippet: Teriyaki Me! Glendale Teriyaki. 1 Tempura Special $ 9.45. Lightly battered shrimps and vegetable tempura served
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Teriyaki Me menu - Glendale CA 91203 - (877) 585-1085
+snippet: Menu for Teriyaki Me provided by Allmenus.com. DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant&#39;s endorsement of Allmenus.com.
+title: Teriyaki Me!, Glendale - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Teriyaki Me!, Glendale: See 8 unbiased reviews of Teriyaki Me!, rated 5 of 5 on Tripadvisor and ranked #98 of 516 restaurants in Glendale.
+title: Teriyaki Me! - Glendale, CA - Yelp
+snippet: Teriyaki me! is a quick and tasty place to get teriyaki. Considering the portions and quality of meat, the prices are very affordable. You get good chunks of steak and chicken, it&#39;s not your typical shredded or thin meats drenched in teriyaki sauce.
+title: Teriyaki Me! - Glendale, CA - Locu
+snippet: Teriyaki Me!, Restaurants business in Glendale. See up-to-date pricelists and view recent announcements for this location.
+title: Photos for Teriyaki Me! - Yelp
+snippet: Photos at Teriyaki Me! - Glendale, CA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Teriyaki Me! - Glendale, CA
+snippet: 583 reviews of Teriyaki Me! &quot;Oh Teriyaki Me! A Gem in Glendale I LOVE coming to this place because of how good and straight to the point their food is. It&#39;s a small family owned restaurant but their food always makes me leave happy. Their menu is…
+title: Teriyaki Me Glendale, CA 91203 - Menu, 74 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Teriyaki Me at 207 W Wilson Ave in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+
+REL: 3
+POI Name: Din Tai Fung
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Shanghainese, Dim Sum, Taiwanese, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Taiwanese Restaurant - Din Tai Fung
+snippet: Welcome to Din Tai Fung, a world-renowned Taiwanese restaurant that specializes in soup dumplings and noodles. Welcome to Din Tai Fung, a world-renowned Taiwanese restaurant that specializes in soup dumplings and noodles. Skip Navigation Open Navigation Menu ...
+title: Glendale Restaurant - Din Tai Fung
+snippet: Dine with Din Tai Fung at our Glendale restaurant at The Americana! Skip Navigation Open Navigation Menu Locations Private Dining Discover Order online. Back to Locations Glendale - Takeout Only Americana at Brand Order pickup Reserve now. Address: 177 Caruso Ave., Glendale, CA 91210 (818) 551-5561
+title: Din Tai Fung Dumpling House, Glendale - Menu, Prices ...
+snippet: Order food online at Din Tai Fung Dumpling House, Glendale with Tripadvisor: See 479 unbiased reviews of Din Tai Fung Dumpling House, ranked #4 on Tripadvisor among 516 restaurants in Glendale.
+title: Din Tai Fung Dumpling House, Glendale ...
+snippet: Din Tai Fung Dumpling House, Glendale: Se 479 objektive anmeldelser av Din Tai Fung Dumpling House, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 4 av 516 restauranter i Glendale.
+title: Din Tai Fung Delivery &amp; Carry-Out • The Americana at Brand
+snippet: Offering the traditional steamed and soup dumplings that made Din Tai Fung famous among foodies alike, the menu includes favorite items such as pot stickers, noodles and wontons, fried rice, soups, fried noodles, and truffle dumplings – a new introduction to Din Tai Fung for Southern California.
+title: Din Tai Fung 鼎泰豐 - Home - Glendale, California - Menu ...
+snippet: Din Tai Fung 鼎泰豐, Glendale, California. 3,136 likes · 94 talking about this · 77,521 were here. Din Tai Fung offers gourmet Chinese dishes and specializes in creating delicate steamed dumplings that...
+title: 5 Reasons to Eat at the Glendale Din Tai Fung - LA Weekly
+snippet: As you probably know, Din Tai Fung, the glorious dumpling palace that specializes in soup dumplings, or xiao long bao, recently opened in Glendale. And not just anywhere in Glendale but in the ...
+title: Din Tai Fung - Menu - Glendale - Yelp
+snippet: Menu for Din Tai Fung: Reviews and photos of Juicy Pork Dumplings (10 pcs), Braised Beef Noodle Soup (Spicy)*, Pork Chop Fried Rice**
+title: Din Tai Fung Delivery in Glendale - Delivery Menu - DoorDash
+snippet: Get delivery from Din Tai Fung super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+
+REL: 2
+POI Name: Katsuya Glendale
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, Sushi Bars, Venues & Event Spaces, 
+Snippets:
+title: Sushi Restaurants in Glendale CA - Japanese Restaurant in ...
+snippet: Glendale Katsuya artfully blends master sushi Chef Katsuya Uechi’s fresh take on classic Japanese cuisine with modern interiors and the vibrant LA vibe of Glendale, CA.
+title: Katsuya Glendale | Restaurants
+snippet: Events &amp; Catering. Katsuya Glendale is situated in The Americana at Brand and is the third installment in the burgeoning Katsuya brand. The all-wood interior of the main dining room – which resides on the second level and can also be converted into lounge space.
+title: Katsuya - Glendale Restaurant - Glendale, CA | OpenTable
+snippet: Book now at Katsuya - Glendale in Glendale, CA. Explore menu, see photos and read 992 reviews: &quot;Terrible quality and overpriced. Will not be back.&quot;
+title: Katsuya - Glendale - SBE - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Katsuya - Glendale - SBE, Glendale with Tripadvisor: See 104 unbiased reviews of Katsuya - Glendale - SBE, ranked #76 on Tripadvisor among 516 restaurants in Glendale.
+title: Katsuya - Glendale, CA - Locu
+snippet: Katsuya, Restaurants business in Glendale. See up-to-date pricelists and view recent announcements for this location.
+title: Photos for Katsuya Glendale - Yelp
+snippet: Photos at Katsuya Glendale - Glendale, CA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Katsuya Glendale - Order Food Online - 1732 Photos &amp; 1885 ...
+snippet: Heard so many things about Katsuya and did some shopping in the Americana yesterday, so I thought we give this one a try. I had my best friends wife and her son - my godchild - as guests from Germany and they had never been to Glendale so I really wanted us to love the place. We really did. Sadly, there was no love in the place.
+title: Katsuya Glendale - Order Food Online - 1741 Photos &amp; 1912 ...
+snippet: 1912 reviews of Katsuya Glendale &quot;My friend and I went here to eat because we had a horrible experience from Cheesecake Factory across the street. The servers were really friendly and attentive (not like cheesecake) but the food was a bit meh. I…
+title: Katsuya - Glendale reservations in Glendale, CA | OpenTable
+snippet: Designated as the Los Angeles Times Readers’ Choice &quot;Best Sushi Restaurant&quot; in Southern California, and AIA/LA Jury Award for Restaurant Design, Katsuya Glendale holds true to be held as a distinct Glendale Japanese cuisine experience.
+title: Katsuya Glendale - Order Food Online - 1734 Photos &amp; 1891 ...
+snippet: 1891 reviews of Katsuya Glendale &quot;This place is great, as long as Jane is your server! She took care of my family and I while we were in town and I couldn&#39;t have asked for better service. She was so personable and friendly and tolerated all my…
+
+REL: 2
+POI Name: Damon's Steak House
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, Seafood, Tiki Bars, 
+Snippets:
+title: HOME | Damon&#39;s
+snippet: Damon’s Famous Mai Tai &amp; Chi Chi are now available for takeout! The California Department of Alcoholic Beverage Control issued a notice of relief from specific regulations and as a result certain restaurants may now offer pre-mixed drinks and cocktails along with food for take-out and delivery.
+title: Damon&#39;s Steakhouse - Glendale, CA - Locu
+snippet: Damon&#39;s Steakhouse, Steakhouses business in Glendale. See up-to-date pricelists and view recent announcements for this location.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Damon&#39;s Steak House, Glendale - Menu, Prices &amp; Restaurant ...
+snippet: Damon&#39;s Steak House, Glendale: See 236 unbiased reviews of Damon&#39;s Steak House, rated 4 of 5 on Tripadvisor and ranked #8 of 516 restaurants in Glendale.
+title: Restaurants Near Damon&#39;s Steak House, Glendale, California
+snippet: Restaurants near Damon&#39;s Steak House, Glendale on Tripadvisor: Find traveler reviews and candid photos of dining near Damon&#39;s Steak House in Glendale, California.
+title: Damon’s Steak House - Glendale, CA - Yelp
+snippet: 1061 reviews of Damon&#39;s Steak House &quot;We came here last night for Mai tai Monday. Me and my two girlfriends thought it was pretty darn good! We started with their crunchy chopped salad and coconut shrimp which smelled good but it wasn&#39;t gluten-free…
+title: Damon’s Steak House - Glendale, CA - Yelp
+snippet: Damon&#39;s steak house!!! And don&#39;t forget to try the classic zmai Tai. Atmosphere, ambience, and the staff are amazing here. It&#39;s a tiki steakhouse, and you always feel welcome. The food is ok, not the best I&#39;ve ever had. It&#39;s definitely a great spot to go with a big group and enjoy the night.
+title: Damon’s Steak House - Glendale, CA - Yelp
+snippet: 1055 reviews of Damon&#39;s Steak House &quot;I&#39;ve been coming to Damon&#39;s for the past seven years!! Great food, great service! This place is been open for like 100 years and I know why, Everything is amazing Good place to go with the family, out with your…
+title: Damon&#39;s Steakhouse Restaurant - Glendale, CA | OpenTable
+snippet: Get menu, photos and location information for Damon&#39;s Steakhouse in Glendale, CA. Or book now at one of our other 10930 great restaurants in Glendale.
+title: Damon&#39;s Steak House - Menu - Glendale - Yelp
+snippet: Menu for Damon&#39;s Steak House: Reviews and photos of Mai Tai, Chi Chi, Coconut Shrimp
+
+REL: 2
+POI Name: Kim's Kitchen
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Kim&#39;s Kitchen Glendale, CA 91205 - Menu, 73 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Kim&#39;s Kitchen at 1229 E Colorado St in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Menus for Kim&#39;s Kitchen - Glendale - SinglePlatform
+snippet: Online menus, items, descriptions and prices for Kim&#39;s Kitchen - Restaurant - Glendale, CA 91205
+title: Online Menu of Kim&#39;s Kitchen, Glendale, CA
+snippet: View the menu for Kim&#39;s Kitchen and restaurants in Glendale, CA. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Kim&#39;s Kitchen, Glendale - Restaurant Reviews, Photos ...
+snippet: Kim&#39;s Kitchen, Glendale: See 5 unbiased reviews of Kim&#39;s Kitchen, rated 4 of 5 on Tripadvisor and ranked #169 of 514 restaurants in Glendale.
+title: Kims Kitchen Menu - Glendale - Dineries
+snippet: Kims Kitchen menu - 1229 E Colorado St, Glendale, California, 818.507.1185
+title: Online Menu of Kims Kitchen Restaurant, Glendale ...
+snippet: View the online menu of Kims Kitchen and other restaurants in Glendale, California.
+title: Kims Kitchen Restaurant - Glendale, CA | OpenTable
+snippet: Explore exotic dishes at Kim&#39;s Kitchen. A popular neighborhood spot, this casual dining restaurant lures Glendale diners with a wide variety of pan-Asian and homecooked Korean dishes. The menu features soups, noodles and bulgogi alongside a hefty spread of seafood, vegetables and meat dishes.
+title: Kim&#39;s Kitchen, Somerset, Glendale - Urbanspoon/Zomato
+snippet: Kim’s Kitchen has been here forever. Every since I moved to the neighborhood. In fact, before I knew it was called Kim’s Kitchen I always referred to it as the “little yellow hut” given it’s paint scheme. Kim’s Kitchen is in fact, a tiny Korean Restaurant just off Colorado. Maybe a dozen seats, tops. It’s a counter place.
+title: Kim&#39;s Kitchen - Glendale, California - Korean Restaurant ...
+snippet: Kim&#39;s Kitchen, Glendale, California. 55 likes. Korean Restaurant. When you missed Korean food this place has an authentic taste in town ?? ? ?
+
+REL: 2
+POI Name: Sushi Sasabune
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Japanese, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Sushi Sasabune Glendale Restaurant - Glendale, CA | OpenTable
+snippet: Sasabune is known as one of the earliest and the best &quot;Omakase&quot; Edo style sushi restaurant in Los Angeles for over 20 years. Owner chef Nobi Kusuhara opened Sasabune in West LA in 1993 and newest location in Glendale opened in 2015. Head chef Hiroki Totsuka used to work in West LA location for 15 years and learned all the skills from Nobi.
+title: Sushi Sasabune - Glendale, CA - Yelp
+snippet: Sushi Sasabune is out of this world, mouth-watering delicious. If I could pick one place to eat for the rest of my live, Sushi Sasabune would be it! Pros: From the sushi chefs to the waitresses/waiters - everyone is attentive and kind. The sushi itself melts in your mouth and is packed with the most amazing flavors.
+title: Photos for Sushi Sasabune - Yelp
+snippet: Photos at Sushi Sasabune - Glendale, CA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Sushi Sasabune - Glendale, CA - Yelp
+snippet: 277 reviews of Sushi Sasabune &quot;This is LA&#39;s best kept secret. The sushi here is high quality and is unlike any other place. There are no California rolls and no tuna rolls. Instead you get some of the tastiest, hard to find fish. For lunch they…
+title: Sushi Sasabune Glendale - Home - Glendale, California ...
+snippet: Sushi Sasabune Glendale - 101 N Brand Blvd, Ste 220, Glendale, California 91203 - Rated 4.9 based on 19 Reviews &quot;This place is simply amazing. Don&#39;t...
+title: Sushi Sasabune - Glendale, CA Restaurant | Menu + Delivery ...
+snippet: View menu and reviews for Sushi Sasabune in Glendale, plus most popular items, reviews. Delivery or takeout, online ordering is easy and FREE with Seamless.com. Order delivery online from Sushi Sasabune in Glendale instantly with Seamless! Enter an address. Search restaurants or dishes.
+title: www.yelp.com
+snippet: 273 reviews of Sushi Sasabune &quot;Everything was like butter. We had the omakase and kept ordering more after as well. It was a meal to remember. Definitely not cheap but worth it on a special occasion.&quot;
+title: Sushi Sasabune - Home - Los Angeles, California - Menu ...
+snippet: Sushi Sasabune, Los Angeles, CA. 2,090 likes · 12 talking about this · 5,462 were here. In sushi, one must serve the right fish, at the right time, to create a perfect moment. Every day, Nobi rises...
+title: Sushi Sasabune Glendale - Home - Glendale, California ...
+snippet: Sushi Sasabune Glendale, Glendale. 333 likes. headed by Chef Hiroki who has worked beside Chef Nobi Kusuhara for over 15 years as his right hand man. Now, open in Glendale, CA!!
+
+REL: 2
+POI Name: Chop 'N Grill BBQ
+POI City: Burbank
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Barbeque, Mediterranean, 
+Snippets:
+
+
+REL: 2
+POI Name: Mitzee Cafe
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Cafes, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Online Menu of Mitzee Cafe, Glendale, CA
+snippet: View the menu for Mitzee Cafe and restaurants in Glendale, CA. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Mitzee Cafe Glendale, CA 91204 - Menu, 59 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Mitzee Cafe at 721 S Central Ave B in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Mitzee Cafe - Glendale, CA
+snippet: 194 reviews of Mitzee Cafe &quot;Haven&#39;t been here in years. Still as good as I remembered. We had chicken teriyaki and bulgogi. Both were served piping hot (bulgogi on a sizzling platter) with chow mein and rice. Kinda sweet on the sauces but a dash…
+title: Mitzee Cafe, Glendale, CA
+snippet: Mitzee Cafe, 721 S Central Ave, Ste B, , Glendale. Your favorite Asian Restaurant.
+title: Mitzee Cafe - Glendale, CA - Yelp
+snippet: I believe he has the same worker/cook with him all this time so trust that food will always have the same awesome taste! Don&#39;t even get me started with the price. It is super affordable with the amount of food you get. So if ever you are in Glendale and is craving some good food come over to Mitzee!
+title: Mitzee Cafe - Glendale, CA - Yelp
+snippet: 195 reviews of Mitzee Cafe &quot;Best noodles in town Affordable and delicious Beef and chicken noodle popular choice&quot;
+title: Mitzee Cafe - Glendale, CA - Yelp
+snippet: 195 reviews of Mitzee Cafe &quot;The food here is just amazing the noodles are great. The meat quality is great. The service is great too! The owner is always very polite and friendly his worker Candelario is always Very nice he&#39;s my favorite! This…
+title: Mitzee Cafe, Glendale - Restaurant Reviews &amp; Phone Number ...
+snippet: Mitzee Cafe, Glendale: See unbiased reviews of Mitzee Cafe, one of 516 Glendale restaurants listed on Tripadvisor.
+title: Mitzee Cafe - yelp.ca
+snippet: 199 reviews of Mitzee Cafe &quot;I love this place is sooooo delicious, super friendly place and the spicy sauce is the best!!&quot;
+
+REL: 2
+POI Name: Tacos Cancun
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Online Menu of Tacos Cancun, Glendale, CA
+snippet: View the menu for Tacos Cancun and restaurants in Glendale, CA. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Tacos Cancun - 459 W Broadway, Glendale, CA - 139 Photos ...
+snippet: Tacos Cancun is not much bigger than a &quot;Hole-in-the-Wall&quot; located in a strip plaza on Broadway just east of Pacific. For such a small place they do have a large menu selection, workers were friendly but the food.....yeah let&#39;s talk about that.
+title: Tacos Cancun - Glendale, CA - Yelp
+snippet: 184 reviews of Tacos Cancun &quot;5-Star shrimp tacos with juicy chunks of shrimps! ! ! ! ! My 5 stars are for their shrimp tacos only. The carne asada burrito was good, fresh but not 5 stars. I can go back &amp; back again for the shrimp tacos.&quot;
+title: Online Menu of Tacos Cancun Restaurant, Glendale ...
+snippet: View the online menu of Tacos Cancun and other restaurants in Glendale, California.
+title: Tacos Cancun - 459 W Broadway, Glendale, CA - 139 Photos ...
+snippet: Not saying Glendale doesn&#39;t have good taco spots but the authenticity of Tacos Cancun will leave you satisfied. Service is great, the cashier was super friendly and funny. The food was great and didn&#39;t take long. The salsas were spicy so that was a plus in my book. I tried the fish taco, the shrimp taco, pastor taco and carne Asada. All were great.
+title: Tacos Cancun - Glendale, CA - Yelp
+snippet: 193 reviews of Tacos Cancun &quot;I got a vegetarian tostada &amp; it was really good! I probably should&#39;ve got two to really fill me up. My husband got the carne asada plate &amp; he really liked it. the meat was like ranchera so he loved it. The salsa was…
+title: Tacos Cancun Glendale, CA 91204 - Menu, 69 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Tacos Cancun at 459 W Broadway in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Tacos Cancun Delivery in Glendale - Delivery Menu - DoorDash
+snippet: Get delivery from Tacos Cancun super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: Tacos Cancun Mexican Grill
+snippet: Welcome to Tacos Cancun Mexican Grill. &quot;The dessert is to die for, they make everything super fresh, its amazing.
+
+REL: 2
+POI Name: 眞 Jin Cook - Authentic Korean Soul Food
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 眞 Jin Cook - Authentic Korean Soul Food in Glendale | 眞 ...
+snippet: Find 眞 Jin Cook - Authentic Korean Soul Food in Glendale with Address, Phone number from Yahoo US Local. Includes 眞 Jin Cook - Authentic Korean Soul Food Reviews, maps &amp; directions to 眞 Jin Cook - Authentic Korean Soul Food in Glendale and more from Yahoo US Local
+title: 眞 Jin Cook - Authentic Korean Soul Food 310 N Brand Blvd ...
+snippet: Get directions, reviews and information for 眞 Jin Cook - Authentic Korean Soul Food in Glendale, CA. 眞 Jin Cook - Authentic Korean Soul Food 310 N Brand Blvd Glendale CA 91203. 100 Reviews (818) 637-7822. Menu &amp; Reservations Make Reservations . Order Online Tickets
+title: THE BEST 10 Restaurants in Glendale, CA, United States ...
+snippet: Best Restaurants in Glendale, CA, United States - Din Tai Fung, 眞 Jin Cook - Authentic Korean Soul Food, Raffi&#39;s Place, Trattoria Amici, Brick &amp; Flour, Ideology Coffee, Kontentsu, The Left Handed Cook, The Oak and Vine, ROCKBIRD, GRANVILLE,…
+title: Les meilleur(e)s Restaurants à Glendale, CA, États-Unis ...
+snippet: Meilleurs Restaurants à Glendale, CA, États-Unis - Brick &amp; Flour, 眞 Jin Cook - Authentic Korean Soul Food, Raffi&#39;s Place, ROCKBIRD, Trattoria Amici, GRANVILLE, Hot Chix, Porto&#39;s Bakery &amp; Cafe, Carousel Restaurant, Chess Park, Monta Factory, Crab…
+title: Korean Restaurants - Yahoo Local Search Results
+snippet: Korean Restaurants near Glendale, CA. Kim&#39;s Kitchen. ... 227 on Yelp. 3630 Foothill Blvd · (747) 255-7299. 眞 Jin Cook - Authentic Korean Soul Food.
+title: Fish Time - Home - Glendale, California - Menu, Prices ...
+snippet: Korean Restaurant in Glendale, California. 4.4. 4.4 out of 5 stars. Open Now. Jin Cook. Authentic Korea Soul Food. See More. Community See All. 4,224 people like this. 4,273 people follow this. 1,319 check-ins. ... Come join us for authentic Korean soul food!! Fish Time updated their cover photo.
+title: Online Menu of Sushi On Brand Restaurant, Glendale ...
+snippet: View the online menu of Sushi On Brand and other restaurants in Glendale, California. Sushi On Brand « Back To Glendale, CA. Closed. 0.55 mi. Sushi Bars $$ (818) 241-0133. 308 N Brand Blvd, Glendale, CA 91203. Hours. Mon. 11:30am-10:30pm. Tue. ... 眞 Jin Cook - Authentic Korean Soul Food Korean 0.00 mi away. Carousel Restaurant Middle Eastern ...
+title: THE BEST 10 Restaurants near Glendale, CA 91203, United ...
+snippet: Best Restaurants in Glendale, CA 91203, United States - Din Tai Fung, Trattoria Amici, Kura Revolving Sushi Bar, 眞 Jin Cook - Authentic Korean Soul Food, Raffi&#39;s Place, The Oak and Vine, Brick &amp; Flour, Chess Park, GRANVILLE, Carousel Restaurant,…
+title: Online Menu of Panera Bread Restaurant, Glendale ...
+snippet: View the online menu of Panera Bread and other restaurants in Glendale, California. Panera Bread « Back To Glendale, CA. Open. 0.52 mi. Sandwiches, Salad, Soup $$ (818) 265-0700. 300 N Brand Blvd ... 眞 Jin Cook - Authentic Korean Soul Food Korean 0.02 mi away. Oishi Sushi Japanese, Asian Fusion, Sushi Bars 0.03 mi away. All India Cafe Indian ...
+
+REL: 2
+POI Name: Consolidated Ribs
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Barbeque, Steakhouses, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Consolidated Ribs in Glendale | Consolidated Ribs 620 N ...
+snippet: Find Consolidated Ribs in Glendale with Address, Phone number from Yahoo US Local. Includes Consolidated Ribs Reviews, maps &amp; directions to Consolidated Ribs in Glendale and more from Yahoo US Local
+title: Consolidated Ribs 620 N Brand Blvd Glendale, CA Barbecue ...
+snippet: Get directions, reviews and information for Consolidated Ribs in Glendale, CA. Consolidated Ribs 620 N Brand Blvd Glendale CA 91203. 1 Reviews (818) 244-8237. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Consolidated Ribs (620 N Brand Blvd) in Glendale, CA ...
+snippet: Looking for restaurant in Glendale, CA? Visit Consolidated Ribs located in 620 N Brand Blvd, Glendale, CA, Los Angeles county. To book a table, make pre-order service, ask question about Consolidated Ribs menu and working hours, feel free to call us at (818) 244-8237 &amp; don’t forget to find coupons &amp; deals before your visit.
+title: Consolidated Ribs in Glendale, CA with Reviews - YP.com
+snippet: Find 1 listings related to Consolidated Ribs in Glendale on YP.com. See reviews, photos, directions, phone numbers and more for Consolidated Ribs locations in Glendale, CA.
+title: Consolidated Ribs, 620 N Brand Blvd, Glendale Glendale North
+snippet: Consolidated Ribs, 620 N Brand Blvd, Glendale North Glendale
+title: Consolidated Ribs - City Center - Glendale, CA
+snippet: 10 visitors have checked in at Consolidated Ribs. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Consolidated Ribs Inc Coupons - 126 N Maryland Avenue ...
+snippet: 45% off Consolidated Ribs Inc Coupons in Glendale, CA. Get printable Consolidated Ribs Inc promo codes and other Healthy Restaurants restaurant discounts, updated for April 2020.
+title: Consolidated Ribs, Inc in Glendale, CA 91203 ...
+snippet: Consolidated Ribs, Inc is located at the address 620 N Brand Blvd in Glendale, California 91203. They can be contacted via phone at (818) 244-8237 for pricing, hours and directions. Consolidated Ribs, Inc has an annual sales volume of 2M – 4,999,999. .
+title: Online Menu of Consolidated Ribs, Glendale, CA
+snippet: View the menu for Consolidated Ribs and restaurants in Glendale, CA. See restaurant menus, reviews, hours, photos, maps and directions.
+
+REL: 2
+POI Name: Joyo Asian
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Japanese, 
+Snippets:
+title: Joyo Asian - Glendale, NY Restaurant | Menu + Delivery ...
+snippet: View menu and reviews for Joyo Asian in Glendale, plus popular items &amp; reviews. Delivery or takeout! Order delivery online from Joyo Asian in Glendale instantly with Seamless! Enter an address. Search restaurants or dishes. Search. Sign in. Skip to Navigation Skip to About Skip to Footer Skip to Cart.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Joyo Asian Restaurant | Glendale, NY 11385 | Location
+snippet: View on map and get directions to our exceptional restaurant near Glendale, NY
+title: Joyo Asian Restaurant, Glendale - Restaurant Reviews ...
+snippet: Order food online at Joyo Asian Restaurant, Glendale with Tripadvisor: See unbiased reviews of Joyo Asian Restaurant, ranked #0 on Tripadvisor among 59 restaurants in Glendale.
+title: Joyo Asian Delivery - 79-17 Myrtle Ave Glendale | Order ...
+snippet: Order delivery or pickup from Joyo Asian in Glendale! View Joyo Asian&#39;s March 2020 deals and menus. Support your local restaurants with Grubhub!
+title: Joyo Asian Menu - Glendale, NY Restaurant - Order Online
+snippet: Menu, hours, photos, and more for Joyo Asian located at 79-17 Myrtle Ave, Glendale, NY, 11385-7441, offering Dinner, Chinese, Sushi, Lunch Specials, Asian and Japanese. Order online from Joyo Asian on MenuPages. Delivery or takeout ...
+title: Joyo Asian Restaurant, Glendale Food Menu | Order Now
+snippet: View the menu from Joyo Asian Restaurant on 7917 MYRTLE AVE in GLENDALE and order for delivery or takeout online or in the app. Every order earns points.
+title: Joyo Asian Restaurant | Order Online | Glendale | BeyondMenu
+snippet: View Joyo Asian Restaurant menu, Order Chinese food Delivery Online from Joyo Asian Restaurant, Best Chinese Delivery in Glendale, NY
+title: Menus for Joyo Asian - Glendale - SinglePlatform
+snippet: Online menus, items, descriptions and prices for Joyo Asian - Restaurant - Glendale, NY 11385
+title: Joyo Asian 7917 Myrtle Ave Glendale, NY - MapQuest
+snippet: Get directions, reviews and information for Joyo Asian in Glendale, NY.
+
+REL: 2
+POI Name: Flame Broiler
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, Asian Fusion, 
+Snippets:
+title: Glendale | Flame Broiler – Rice Bowl Restaurant with ...
+snippet: Flame Broiler – Rice Bowl Restaurant with locations in California, Arizona, Nevada, Florida, Oklahoma, and Texas ... Glendale 1500 Canada Blvd., Suite A, Glendale, CA Glendale is located at 1500 Canada Blvd., Suite A, Glendale, CA . Call Us (818) 242-5742 Hours.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The Flame Broiler - Rice Bowl Restaurant with locations in ...
+snippet: Flame Broiler – Rice Bowl Restaurant with locations in California, Arizona, Nevada, Florida, Oklahoma, and Texas
+title: Flame Broiler - Glendale, CA - Yelp
+snippet: Was visiting some friends in Glendale and wanted a quick bite to eat and my buddy suggested Flame Broiler. I was a bit hesitant because the food looked like Yoshinoya (and I hate that place), but how wrong I was. Food is so much better here. The flame broiling of the meats makes a huge difference!
+title: Flame Broiler - Menu - Glendale - Yelp
+snippet: Menu for Flame Broiler: Reviews and photos of Chicken Bowl. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Flame Broiler; Menu Menu for Flame Broiler Bowls Chicken Bowl. Served ...
+title: Flame Broiler, Glendale - Menu, Prices &amp; Restaurant ...
+snippet: Flame Broiler, Glendale: See 2 unbiased reviews of Flame Broiler, rated 4 of 5 on Tripadvisor and ranked #271 of 516 restaurants in Glendale.
+title: Flame Broiler - Glendale, CA - Yelp
+snippet: Flame Broiler will be one of my fast food destinations from now on. idk if it&#39;s just me but i feel healthy everytime i eat here lollll! i always get a small half/half with their broccoli only and its very tasty. fills you up quickly and the price is worthed. its a great place nearby college and they have parking in the back.
+title: Flame Broiler - Glendale, CA - Yelp
+snippet: 112 reviews of Flame Broiler &quot;For a fast food place, this place is pretty good. Lots of good food that ACTUALLY fills you up, and at a pretty cheap price too. :) I like to enjoy it the the random times I go to Glendale Community College which is…
+title: Flame Broiler at 1500 Canada Blvd. Unit A, Glendale, CA ...
+snippet: Flame Broiler nearby at 1500 Canada Blvd. Unit A, Glendale, CA: Get restaurant menu, locations, hours, phone numbers, driving directions and more.
+title: Love this restaurant - Review of Flame Broiler, Glendale ...
+snippet: Flame Broiler: Love this restaurant - See 2 traveler reviews, candid photos, and great deals for Glendale, CA, at TripAdvisor.
+
+REL: 2
+POI Name: Original Kabob Factory
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Middle Eastern, Caterers, Barbeque, 
+Snippets:
+title: Original Kabob Factory
+snippet: We are a Mediterranean restaurant specializing in catering kabobs for any event, whether it is for take-out or on-site. The Original Kabob Factory, Inc. offers over 30 types of marinated kabob meats, and a generous selection of dips, salads, and signature sauces.
+title: Original Kabob Factory - Glendale, CA 91201 (Menu &amp; Order ...
+snippet: Online ordering menu for Original Kabob Factory. At the corner of Glenoaks and Western Ave just North of Grand View Memorial Park, Kabob Factory is a great place for delicious and authentic, Middle Eastern food. We have build your own kabobs and kabob wraps. Get your carry out food faster and easier with our new online ordering system. So skip the line, order online, and come enjoy Kabob ...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Original Kabob Factory, Glendale - Menu, Prices ...
+snippet: Order food online at Original Kabob Factory, Glendale with Tripadvisor: See 17 unbiased reviews of Original Kabob Factory, ranked #60 on Tripadvisor among 516 restaurants in Glendale.
+title: Original Kabob Factory - Menu - Glendale
+snippet: Original Kabob Factory; Menu Menu for Original Kabob Factory Catering Packages Please call (818) 500-9500 to confirm the date &amp; time of your order, thank you and we look forward to serving everyone! Beef Louleh Kabob Beef Shish Kabob Chicken ...
+title: Original Kabob Factory, Glendale - Restaurantanmeldelser ...
+snippet: Original Kabob Factory, Glendale: Se 17 objektive anmeldelser av Original Kabob Factory, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 60 av 516 restauranter i Glendale.
+title: Original Kabob Factory - Glendale, CA - Grubhub
+snippet: Order delivery or pickup from Original Kabob Factory in Glendale! View Original Kabob Factory&#39;s March 2020 deals and menus. Support your local restaurants with Grubhub!
+title: Original Kabob Factory - Glendale, CA - Yelp
+snippet: Specialties: Here at Original Kabob Factory, we&#39;re passionate about bringing great Mediterranean cuisine to our community. We specialize in catering, which means all the people you need to feed can get all-natural kabobs and rich, authentic…
+title: Original Kabob Factory - Glendale, CA - Yelp
+snippet: The Kabob Factory is hands down the juiciest most delicious Kabobs I&#39;ve had in the city of Glendale. This establishment has 20 minute parking, but you could park in the local neighborhood if you plan on eating there, but they only have two outside tables. The meat was very tender and had a melt in your mouth type of deliciousness.
+title: Original Kabob Factory - Glendale, CA - Yelp
+snippet: Original Kabob Factory has surpassed my understanding for what Mediterranean food is to such a degree, that it&#39;s made it nearly impossible for me to eat and enjoy Mediterranean food anywhere else. I live in North Hollywood and drive all of 10 miles to eat here.
+
+REL: 2
+POI Name: Pecos Bill's BBQ
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Barbeque, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Pecos Bill&#39;s BBQ Ribs - Glendale, CA
+snippet: Pecos Bill&#39;s BBQ Ribs, Restaurants business in Glendale. See up-to-date pricelists and view recent announcements for this location.
+title: Pecos Bill’s BBQ - Glendale, CA - Yelp
+snippet: Pecos Bill&#39;s use a brick BBQ pit, and apparently the fragrant smoke I smelled is from the lemon and orange woods they use to barbecue. The lady in front of us said she always gets the beef sandwiches, and told us her husband, who is 61-years-old, has eaten at Pecos Bill&#39;s since he was eight.
+title: Pecos Bill’s BBQ - Glendale, CA - Yelp
+snippet: 269 reviews of Pecos Bill&#39;s BBQ &quot;This place is absolutely one of the best foods I tasted. I am a 3rd generation. I been coming here for years with my mom and dad, now I bring my kids. People confuse this place with a barbecue kind of restaurant…
+title: Pecos Bill&#39;s Bar-B-Q - Home - Glendale, California - Menu ...
+snippet: Pecos Bill&#39;s Bar-B-Q - 1551 Victory Blvd, Glendale, California 91201 ... See more of Pecos Bill&#39;s Bar-B-Q on Facebook. Log In. Forgot account? or. Create New Account. ... The sandwich was so bland it had no flavor and the beans were just okay. Maybe the other BBQ items are better but I&#39;d stay away from the sandwich. See More.
+title: Pecos Bill&#39;s BBQ - Glendale, CA - MY COMPLETE VISIT - YouTube
+snippet: In this episode I visit Pecos Bill&#39;s BBQ in Glendale(on the edge of Glendale and Burbank) which at 70+ years old, it&#39;s one of Los Angeles&#39; oldest BBQ joints. I have been going here since I was a ...
+title: Pecos Bill&#39;s Bar-B-Q, Glendale - Menu, Prices &amp; Restaurant ...
+snippet: Pecos Bill&#39;s Bar-B-Q, Glendale: See 29 unbiased reviews of Pecos Bill&#39;s Bar-B-Q, rated 4.5 of 5 on Tripadvisor and ranked #54 of 516 restaurants in Glendale. ... My boyfriend and I were driving around running errands in Burbank last Saturday and we saw a line in front of Pecos Bill&#39;s BBQ.
+title: Pecos Bill&#39;s BBQ Sauces - Pecos Bill BBQ Sauces and Catering
+snippet: Pecos Bill&#39;s BBQ Sauces and Catering in New Milford, PA. Pecos Bill&#39;s BBQ is located in the Endless Mountain region of Northeastern Pennsylvania. This family owned, specialty food and catering enterprise is the passion of Bill Rupakus.
+title: Pecos Bill’s BBQ - 65 Photos &amp; 269 Reviews - Barbeque ...
+snippet: 269 reviews of Pecos Bill&#39;s BBQ &quot;I LOVE this place. Get there early because they sell out near the end of the day. There is usually a line in front of this place. They look like a hole in the wall and have been here for several generations. I…
+title: Pecos Bill’s BBQ - 65 Photos &amp; 269 Reviews - Barbeque ...
+snippet: 269 reviews of Pecos Bill&#39;s BBQ &quot;Finally managed to catch them when they&#39;re open! Had a pulled pork sandwich and cole slaw - very tasty, and very messy.&quot; Pecos Bill’s BBQ - 65 Photos &amp; 269 Reviews - Barbeque - 1551 Victory Blvd, Glendale, CA - Restaurant Reviews - Yelp
+
+REL: 2
+POI Name: Cafe Corner Bistro
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), Mexican, Breakfast & Brunch, 
+Snippets:
+title: © 2019 Cafe Corner Bistro Glendale
+snippet: © 2019 Cafe Corner Bistro Glendale. Menu
+title: Cafe Corner Bistro :: Best American in Glendale
+snippet: 6720 San Fernando Rd, Glendale, CA 91201. Cafe Corner Bistro is known for its American, Breakfast, Hamburgers, Lunch Specials, Pasta, Pizza, Salads, and Sandwiches. Online ordering available!
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Our Menu – Corner Bistro Glendale
+snippet: © 2019 Cafe Corner Bistro Glendale. Menu
+title: Cafe Corner Bistro - Glendale, CA - Yelp
+snippet: 351 reviews of Cafe Corner Bistro &quot;I&#39;ve been here for breakfast quite a few times and it&#39;s fresh and tasty. They&#39;re not always the quickest on coffee refills or with getting the check. Also, there is a guitar player they pipe through massive…
+title: Cafe Corner Bistro - Glendale, CA - Yelp
+snippet: 351 reviews of Cafe Corner Bistro &quot;Great quality food &amp; service! I highly reccomend the cinnamon crunch french toast!! They have an amazing breakfast menu. The staff is super sweet and attentive which always makes this place my go to spot for…
+title: Cafe Corner Bistro - Glendale, CA - Yelp
+snippet: 341 reviews of Cafe Corner Bistro &quot;Love this place!! Ambiance, food, and everything. Very friendly staff as well! Everything is modern&quot;
+title: Menu :: Cafe Corner Bistro in Glendale :: Order Online
+snippet: Cafe Corner Bistro menu features: Breakfast, Appetizers, Soup, Salad, Panini, Wraps, Cold Sandwiches, Sandwiches, The Grill Melt, Hot Dogs, Hamburgers, Oven-Cooked ...
+title: Cafe Corner Bistro - Glendale, CA
+snippet: 341 reviews of Cafe Corner Bistro &quot;Had high hopes for a nice local diner experience. The waitress was very sweet, but it took a long time for our food to arrive. Food was very subpar--I would have better enjoyed the same dishes from Norm&#39;s or…
+title: Corner Bistro Glendale - Home - Glendale, California ...
+snippet: Corner Bistro Glendale - 6720 San Fernando Rd, Glendale, California 91201 - Rated 4.5 based on 95 Reviews &quot;Amazing food, good wine and beers, great hooka...
+
+REL: 2
+POI Name: Lemon Zest Cafe
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mediterranean, Greek, Kebab, 
+Snippets:
+title: home [www.lemonzestcafe.net]
+snippet: Eat Right , Live Bright. Our Mediterranean restaurant is known for its modern interpretation of classic dishes and its insistence on only using high quality fresh ingredients.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: menu
+snippet: Your Neighborhood Fix Lem ò n Zëst Lem ò n Zëst . home; menu; order online; contact
+title: Lemon Zest Cafe menu - Glendale CA 91206 - (877) 585-1085
+snippet: Restaurant menu, map for Lemon Zest Cafe located in 91206, Glendale CA, 109 N Chevy Chase Drive.
+title: Lemon Zest Cafe - Glendale, CA - Yelp
+snippet: 586 reviews of Lemon Zest Cafe &quot;What a nice little find. My co-worker Josef and I are always looking for new places for lunch. I was craving a Greek salad and found this place on Yelp. This place is a small little mom and pop feeling…
+title: Lemon Zest Cafe - Glendale, CA - Yelp
+snippet: 588 reviews of Lemon Zest Cafe &quot;With a very narrow window of time to eat dinner, my friend and I descended upon Lemon Zest Café, another of many Yelp finds. We were headed to Glendale, and this was very close to our destination. My friend…
+title: Lemon Zest Cafe | Glendale, CA 91206 | Location
+snippet: Lemon Zest Cafe. 109 N Chevy Chase Dr Glendale, CA 91206 Phone: (818) 396-4755. Estimate delivery time is 45 to 60 minutes. Delivery fee is $4.5 in 3 miles range, $5.5 in 5 miles range, $6.5 in 6 miles range, $7.5 in 7 miles range We do not deliver beyond 7 miles. Store Hours:
+title: Lemon Zest Cafe Delivery in Glendale - Delivery Menu ...
+snippet: Get delivery from Lemon Zest Cafe super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: Lemon Zest Cafe - Glendale, CA - Yelp
+snippet: 585 reviews of Lemon Zest Cafe &quot;Love this place! Generous portions, healthy and tasty food. The service is also great and they&#39;re more than happy to explain the menu and make sure you order exactly what you want - everyone is so nice. Highly…
+title: Lemon Zest Cafe - Glendale, CA - yelp.com
+snippet: 585 reviews of Lemon Zest Cafe &quot;Amazing veggie gyro. So delicious and filling. This can easily be a serving for 2 people.&quot;
+
+REL: 2
+POI Name: Papa John's Pizza
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Best Pizza Delivery Near Me: Papa John&#39;s in Glendale, CA ...
+snippet: About Papa John&#39;s Pizza S Central Ave. For Papa John&#39;s Pizza in Glendale, CA, the secret to success is much like the secret to making a better pizza - the more you put into it, the more you get out of it. Whether it&#39;s our signature sauce, toppings, our original fresh dough, or even the box itself, we invest in our ingredients to ensure that we ...
+title: Papa John’s Pizza Delivery &amp; Carryout – Best Deals on ...
+snippet: Enjoy the ease of ordering delicious pizza for delivery or carryout from a Papa John’s near you. Start tracking the speed of your delivery and earn rewards on your favorite pizza, breadsticks, wings and more!
+title: Best Pizza Delivery Near Me: Papa John&#39;s in Glendale, AZ ...
+snippet: About Papa John&#39;s Pizza W Union Hills Dr. For Papa John&#39;s Pizza in Glendale, AZ, the secret to success is much like the secret to making a great pizza - the more you put into it, the more you get out of it.
+title: Top 2 Glendale Pizza Delivery Places Near You | Papa John&#39;s
+snippet: Browse all Papa John&#39;s Pizza locations in Glendale, AZ to order pizza, breadsticks, and wings for delivery or carryout near you.
+title: Best Pizza Delivery Near Me: Papa John&#39;s in Phoenix, AZ ...
+snippet: About Papa John&#39;s Pizza W Bell Rd. For Papa John&#39;s Pizza in Phoenix, AZ, the secret to success is much like the secret to making a great pizza - the more you put into it, the more you get out of it. Whether it&#39;s our signature sauce, toppings, our original fresh dough, or even the box itself, we invest in our ingredients to ensure that we always ...
+title: Pizza Delivery GLENDALE, AZ - Papa John&#39;s Pizza
+snippet: Order fresh pizza online from Papa John’s GLENDALE, AZ. Get directions, hours and contact info for our 8251 W. Union Hills Dr. Ste 125 location.
+title: Papa John&#39;s Pizza Delivery in Glendale Heights, IL | Full ...
+snippet: Papa John&#39;s Pizza in Glendale Heights now delivers! Browse the full Papa John&#39;s Pizza menu, order online, and get your food, fast.
+title: Pizza Delivery | Order Quality Pizza Online With Papa John&#39;s
+snippet: Papa John&#39;s Pizza delivery and takeaway. Order our Better Pizzas With Better Ingredients. Taste For Yourself &amp; order quality pizza online now from Papa John&#39;s UK
+title: Papa John’s Pizza - Glendale, AZ - Yelp
+snippet: 24 reviews of Papa John&#39;s Pizza &quot;OMG!! best customer service I&#39;ve had in a long time! Very attentive,makes sure your order is correct. THANK YOU PAPA JOHNS!!!&quot;
+title: Menu - Pizza, Sides, Desserts &amp; More | Papa John&#39;s
+snippet: Explore Papa John&#39;s full menu including all our amazing signature pizzas plus sides and desserts. Choose your favorites and order online today!
+
+REL: 2
+POI Name: Taste Of Windsor
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Thai, 
+Snippets:
+title: Taste Of Windsor - Glendale, CA - Yelp
+snippet: Yelp users haven’t asked any questions yet about Taste Of Windsor. Ask a Question. Recommended Reviews. Your trust is our top concern, so businesses can&#39;t pay to alter or remove their reviews.
+title: Taste of Windsor menu - Glendale CA 91204 - (818) 242-2789
+snippet: Restaurant menu, map for Taste of Windsor located in 91204, Glendale CA, 123 W Windsor Rd.
+title: Windsor | California Senior Living Community
+snippet: Windsor is a senior living community in Glendale, California. It is a small close-knit neighborhood with people who love to spend time together, look out after one another and value their sense of community. View photos and videos or click to schedule a tour.
+title: Taste of Windsor - Glendale, CA Restaurant | Menu ...
+snippet: View menu and reviews for Taste of Windsor in Glendale, plus most popular items, reviews. Delivery or takeout, online ordering is easy and FREE with Seamless.com. Order delivery online from Taste of Windsor in Glendale instantly with Seamless! Enter an address. Search restaurants or dishes.
+title: Taste of windsor Delivery | Glendale | Uber Eats
+snippet: Use your Uber account to order delivery from Taste of windsor in Glendale. Browse the menu, view popular items, and track your order. Use your Uber account to order delivery from Taste of windsor in Glendale. ... 123 W Windsor Rd, Glendale, ...
+title: Online Menu of Taste Of Windsor Restaurant, Glendale ...
+snippet: View the online menu of Taste Of Windsor and other restaurants in Glendale, California.
+title: Taste 123 W Windsor Rd, Glendale, CA 91204 - YP.com
+snippet: Get reviews, hours, directions, coupons and more for Taste. Search for other Thai Restaurants on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Taste at 123 W Windsor Rd, Glendale, CA 91204.
+title: Taste Walk Glendale
+snippet: When you participate as a Taste Walk Glendale sponsor, you engage a highly diverse audience from Glendale and beyond. You educate guests about your brand, and align your values with the important mission of Glendale Arts. When you support Glendale Arts, you support great, surprising, amazing, and wonderful art, and you support youth arts education.
+title: ourevents - First Town Downtown - Windsor CT
+snippet: Mission Statement The mission of First Town Downtown is to position and promote Windsor Center as a premier New England town center that protects and utilizes its proud heritage as the basis for developing vibrant recreational, economic and cultural activity.
+title: Windsor - 8 Photos - Glendale Senior Living - Caring.com
+snippet: Paul835116 2017-01-02 Windsor is continuous care, but the actual facility is outside of the compound on public streets, and we did not feel that it was safe for us. It was nice, and I would not have objections to living there if it was inside the compound. The apartments were nicely furnished, had sufficient space, and clean.
+
+REL: 2
+POI Name: Gen Korean BBQ House
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Barbeque, Seafood, 
+Snippets:
+title: Glendale — Gen Korean BBQ
+snippet: GLENDALE . ADDRESS 126 N. Artsakh Ave. Glendale, CA 91206 P. (818) 637-6600 OPEN HOUR Sun-Thur 11:30am–11:00pm / Fri-Sat 11:30am-12:00am Happy Hours: Mon-Fri 3pm-6pm / Reverse Happy Hour: Mon-Thur 9pm-Close . Check Out Our Other Locations! ... Hours ⓒ GEN KOREAN BBQ.
+title: Gen Korean BBQ
+snippet: ABOUT GEN KOREAN B.B.Q We, at Gen Korean BBQ, are pleased to present our guests to an experience they will truly never forget, from our boundless menu options consisting of freshly prepared meats, seafood, and vegetables, to our refreshing &amp; traditional Korean ban-chan (side-dishes); you will experience a wide array of complex flavors that will truly give your palate a new perception of taste.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Gen Korean BBQ House, Glendale - Restaurant Reviews ...
+snippet: Gen Korean BBQ House, Glendale: See 5 unbiased reviews of Gen Korean BBQ House, rated 5 of 5 on Tripadvisor and ranked #108 of 516 restaurants in Glendale.
+title: Menu — Gen Korean BBQ
+snippet: Appetizer *Cheese Pork Cutlet deep fried cheese stuffed pork Gyoza lightly fried dumplings Japchae mixed vegetables with glass noodle Crispy Cajun Chicken fried chicken with cajun powder K.F.C.(Korean Fried Chicken) fried &amp; marinated chicken with sweet &amp; spicy sauce Volcano Chicken fried &amp; marinated chicken with extremely hot sauce Spicy Rice Cake fried rice cake stick with sweet &amp;
+title: Gen Korean BBQ House - Home - Glendale, California - Menu ...
+snippet: Gen Korean BBQ House - 126 N Artsakh Ave, Glendale, California 91206 - Rated 4.4 based on 86 Reviews &quot;No alcohol, no rice, no rice paper, no steamed egg,...
+title: Gen Korean BBQ House Glendale, CA 91206 - 123 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Gen Korean BBQ House at 126 North Artsakh Ave in Glendale - ⏰hours, ☎️phone number, ☝address and map.
+title: Gen Korean BBQ House, 126 N Maryland Ave in Glendale ...
+snippet: This bbq offers you nice food and a place to rest after a long walk around Glendale Federal Savings Building. Gen Korean BBQ House is known for offering Korean cuisine. Tasty belly pork, sirloins and beef tongue might be what you need. Don&#39;t forget to try good ice cream, macarons and rice cakes at this place. Come here and order delicious soju, beer or wine.
+title: Locations — Gen Korean BBQ
+snippet: PHILIPPINES Bldg J, Unit 1-16, SM By the Bay, Seaside Blvd. Mall of Asia Complex, Pasay City, Philippines +63 917 621 8249
+title: My Birthday - Review of Gen Korean BBQ House, Glendale, CA ...
+snippet: Gen Korean BBQ House: My Birthday - See 5 traveler reviews, candid photos, and great deals for Glendale, CA, at Tripadvisor.
+
+REL: 2
+POI Name: TGI Korean BBQ
+POI City: Los Angeles
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Barbeque, 
+Snippets:
+
+
+REL: 2
+POI Name: Burger Bun
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+title: Burger Bun :: Best American in Glendale :: Order Online
+snippet: 818 N Pacific Ave Ste H, Glendale, CA 91203. Burger Bun is known for its American, Dinner, Hamburgers, Mediterranean, Mexican, Salads, Shakes, and Smoothies and Juices. Online ordering available!
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Menu :: Burger Bun in Glendale :: Order Online
+snippet: Burger Bun menu features: Smoothies, Milkshakes, Appetizers, Salads, Tacos, Burritos, Burgers, Tortas, Quesadillas, Gyro, International Favorites, Mexican Cheese ...
+title: Burger Bun | Glendale, CA 91203 | Menu | Order Online
+snippet: Burger Bun restaurant with menu, specials, order online for delivery, pickup, takeout, carryout, or catering, the best burger, salad, taco, burrito, torta, quesadilla ...
+title: Burger Bun Delivery - 818 N Pacific Ave Glendale | Order ...
+snippet: Order delivery or pickup from Burger Bun in Glendale! View Burger Bun&#39;s March 2020 deals and menus. Support your local restaurants with Grubhub!
+title: Burger Bun - Glendale, CA - Yelp
+snippet: 429 reviews of Burger Bun &quot;We were looking for a burger place that wasn&#39;t a chain restaurant and saw this on yelp. We got there after 3pm so we&#39;re able to take advantage of their happy hour discount. I had the veggie burger and my husband had the…
+title: Burger Bun, Glendale - Restaurant Reviews, Phone Number ...
+snippet: Order food online at Burger Bun, Glendale with Tripadvisor: See 4 unbiased reviews of Burger Bun, ranked #177 on Tripadvisor among 514 restaurants in Glendale.
+title: Burger Bun - Glendale, CA - yelp.com
+snippet: 438 reviews of Burger Bun &quot;Was driving buy Glendale was hungry I decided to try this new spot Burger Bun was excellent food burger was very delicious Service was very excellent I am very glad for finding my new burger spot&quot;
+title: Burger Bun - Glendale, CA - Yelp
+snippet: 435 reviews of Burger Bun &quot;Burger bun has to be my favorite fast food restaurant! To all the people that have anything negative to say honestly if you don&#39;t have something good to say then don&#39;t say anything at all. I&#39;m a business owner myself and…
+title: Burger Bun - Glendale, CA - Yelp
+snippet: 439 reviews of Burger Bun &quot;I got the angus burger combo (w/ fries and a coke) and it was somewhere between $8-9 total. Fries were good, although I wish there were more of them. I like to pile stuff on my burgers, so when I saw on the menu that…
+
+REL: 2
+POI Name: Ameci Pizza Kitchen - Glendale
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+title: Ameci Pizza Kitchen Glendale :: Best Dinner in Glendale
+snippet: 728 S Glendale Ave, Glendale, CA 91205. Ameci Pizza Kitchen Glendale is known for its Dinner, Italian, Lunch, Pasta, Pizza, and Salads. Online ordering available!
+title: Ameci Pizza Kitchen
+snippet: Home of the Original Hot Cheetos Pizza . Order Now. Follow us on Instagram @AmeciPizzaKitchen. Glendale. 728 S. Glendale Ave. Glendale, CA 91205 (818) 247-9944. OPEN EVERYDAY • 11AM - 10PM. Burbank. 240 N. Glenoaks Blvd. Burbank, CA 91502 (818) 846-5200. OPEN EVERYDAY • 11AM - 10PM. La Crescenta.
+title: Ameci Pizza Kitchen - Glendale - See 266 Photos &amp; 339 ...
+snippet: 339 reviews of Ameci Pizza Kitchen - Glendale &quot;We went there Halloween night. Ordered Mediterranean pizza and pepperoni pizza. Mediterranean pizza wasn&#39;t that good, it had less greens . Pepperoni was so oily but yummy. We waited about 25-30 for…
+title: www.yelp.com
+snippet: 340 reviews of Ameci Pizza Kitchen - Glendale &quot;Every time I order pizza from here it comes hot, delicious and on time! It is our go to pizza place whether it&#39;s family pizza night or when we have a house full of hungry friends. We love the thin…
+title: Ameci Pizza Kitchen - Glendale - See 266 Photos &amp; 340 ...
+snippet: 340 reviews of Ameci Pizza Kitchen - Glendale &quot;Legit - this is my favorite pizza and this is my favorite location of all the Amecis I have been to. I had a bit of a rough evening tonight with a mixup on my order through the app regarding another…
+title: Ameci Pizza Kitchen - Glendale | Order Online | Glendale ...
+snippet: View Ameci Pizza Kitchen - Glendale menu, Order Pizza food Delivery Online from Ameci Pizza Kitchen - Glendale, Best Pizza Delivery in Glendale, CA
+title: Menu — Ameci Pizza Kitchen
+snippet: Slice of pizza w/ 1 topping &amp; drink. 3.00. Two slices of cheese pizza &amp; drink. 5.00. Any Pasta w/ half garlic bread &amp; drink. 9.99. Locations Menu About ...
+title: Ameci Pizza Kitchen - Glendale - Glendale, CA
+snippet: 340 reviews of Ameci Pizza Kitchen - Glendale &quot;Went here one time, but the service was great and the food tasted delicious. When we asked for water they gave us free bottles. Definitely worth going back. Only issue was trying to find parking, but…
+title: Ameci Pizza Kitchen Glendale Menu - Glendale, CA Restaurant
+snippet: Menu, hours, photos, and more for Ameci Pizza Kitchen Glendale located at 728 S Glendale Ave, Glendale, CA, 91205-2366, offering Pizza, Italian, Dinner, Salads, Pasta and Lunch. Order online from Ameci Pizza Kitchen Glendale on MenuPages. Delivery or takeout ...
+title: Ameci Pizza Kitchen Glendale, CA 91205 - Menu, 67 Reviews ...
+snippet: Latest reviews, photos and ??ratings for Ameci Pizza Kitchen at 728 S Glendale Ave in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+
+REL: 2
+POI Name: Royal Garden
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: Royal Garden | Chinese Cuisine Restaurant | Glendale WI
+snippet: If you love Chinese cuisine and relish that ultimate Chinese flavor, Royal Garden restaurant located in Glendale, WI is the perfect place for you.
+title: Royal Garden Lunch Menu | Glendale, WI
+snippet: Treat your friends and family to a delicious lunch at Royal Garden. Enjoy lunch at our restaurant from 11:30 to 2:30 PM. You&#39;ll be happy to know that all the lunch items are freshly made according to the order.
+title: Royal Garden, Glendale - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Royal Garden, Glendale with Tripadvisor: See 21 unbiased reviews of Royal Garden, ranked #9 on Tripadvisor among 38 restaurants in Glendale.
+title: Royal Garden Coupons | Glendale, WI
+snippet: Enjoy great deals with our discount coupons. Treat your taste buds to finger-licking food at Royal Garden at discounted prices. All you have to do is take a print out of the coupon and present it to us when you visit our restaurant.
+title: Royal Garden Entrée Menu | Glendale, WI
+snippet: Munch on to some tantalizing entrée dishes at Royal Garden that consists of appetizers, seafood, noodles, and many other entrée items. Walk into our restaurant located at 206 W. Silver Spring Dr. You can also contact us for doorstep delivery!
+title: Royal Garden - Glendale, WI - Yelp
+snippet: The Royal Garden is a nice little family restaurant tucked into a strip center next to Bayshore. It is not a fancy place, and the décor is generic, with a few Chinese style posters and tchotchkes that could be picked up at any Chinese souvenir shops in any large city.
+title: Royal Garden Buffet Menu | Glendale, WI
+snippet: Royal Garden has been serving Glendale and the surrounding North Shore for over 20 years. Our buffet has a wide variety of chinese food to choose from. Items may change on a daily basis to insure freshness, quality, and selection. Items that can be found in our buffet are:
+title: Royal Garden Glendale, WI 53217 - Menu, 80 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Royal Garden at 206 W Silver Spring Dr in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Royal Garden - Home - Glendale, Wisconsin - Menu, Prices ...
+snippet: Royal Garden - 206 W Silver Spring Dr, Glendale, Wisconsin 53217 - Rated 3.6 based on 4 Reviews &quot;This is a hidden gem on the north shore. The food is...
+title: Royal Garden 206 W Silver Spring Dr. Glendale, WI ...
+snippet: Royal Garden is my favorite Asian restaurant. The service is always excellent and so is the food. Their garlic eggplant, lemon chicken, sesame prawn, sweet and Sour soup are the best in town....
+
+REL: 2
+POI Name: Thai Original BBQ
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Barbeque, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Thai Original Bar-B-Q - Glendale, CA
+snippet: Thai Original Bar-B-Q, Restaurants business in Glendale. See up-to-date pricelists and view recent announcements for this location.
+title: Thai Original BBQ - Glendale, CA - Yelp
+snippet: 509 reviews of Thai Original BBQ &quot;This is another great spot for great Thai bbq. If it&#39;s your first time at this location, you need to try their garlic short ribs. They are flavorful and delicious. Your taste buds will appreciate and thank you…
+title: Locations | The Original Thai BBQ
+snippet: thai bbq of covina 1559 e. amar rd. west covina, ca 91792 tel: 626-913-7647 fax: 626-913-7188. thai bbq of glendale 143 south glendale ave. glendale, ca 91205 tel: 818-507-6789 fax: 818-507-0565. thai bbq of carson 441 east carson str. carson, ca 90745 tel: 310-834-6142 fax: 310-834-6945. thai bbq of san francisco 2219 gellert blvd so san ...
+title: Thai Original Bar-B-Q menu - Glendale CA 91205 - (818) 507 ...
+snippet: Restaurant menu, map for Thai Original Bar-B-Q located in 91205, Glendale CA, 143 S Glendale Ave.
+title: Thai Original Bar-B-Q, Glendale - Menu, Prices ...
+snippet: Thai Original Bar-B-Q, Glendale: See 11 unbiased reviews of Thai Original Bar-B-Q, ... fresh lettuce, chopped carrot, sliced cucumber and tomato with shredded chicken served with your choice of our thai bbq ranch dressing or our peanut dressing. Peanut Dressing. s,m,l.
+title: Thai Original BBQ - Glendale, CA - Yelp
+snippet: Thai-BBQ that never disappoints. I&#39;ve been coming here for years; it&#39;s usually a staple when I&#39;m visiting family in Glendale. That said, we always get take-out, so I can&#39;t say much about what it&#39;s like to actually dine-in restaurant.
+title: Thai Original BBQ - Glendale, CA - Yelp
+snippet: 507 reviews of Thai Original BBQ &quot;This place is sooooo good. Our office is always ordering from here and they never disappoint! Would recommend the drunken vegetable if you are vegetarian, full of flavor with a little kick! The pad thai is also my…
+title: Thai Original BBQ - Glendale, CA - Yelp
+snippet: 509 reviews of Thai Original BBQ &quot;This is the best Thai restaurant we&#39;ve ever been to. They have the best seafood tom yum! Their original Thai BBQ chicken plate with shrimp fried rice is delicious! So are their beef satay. Everything we&#39;ve…
+title: Thai Original Bbq restaurant on Glendale - Home - Glendale ...
+snippet: Thai Original Bbq restaurant on Glendale - 143 S Glendale Ave, Ste 100, Glendale, California 91205 - Rated 4.6 based on 100 Reviews &quot;I’ve always wondered...
+
+REL: 2
+POI Name: FUJIYA
+POI City: Burbank
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, Sushi Bars, Seafood, 
+Snippets:
+
+
+REL: 2
+POI Name: Gam Tu Bop
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Gam Tu Bop, Glendale - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Gam Tu Bop, Glendale: See 3 unbiased reviews of Gam Tu Bop, rated 3.5 of 5 on Tripadvisor and ranked #282 of 516 restaurants in Glendale.
+title: Gam Tu Bop - Glendale, CA - Yelp
+snippet: 411 reviews of Gam Tu Bop &quot;The grilled salmon rice ball is a wonder to behold. The seaweed is salted, giving an added touch of taste in every bite. The salmon is perfectly cooked. Totally tops same-style rice balls I&#39;ve had in Little Tokyo.…
+title: Gam Tu Bop - Home - Glendale, California - Menu, Prices ...
+snippet: Gam Tu Bop - 132 N Brand Blvd, Glendale, California 91203 - Rated 4.8 based on 10 Reviews &quot;We had eaten dinner at the ramen place two doors down, but...
+title: Gam Tu Bop Glendale, CA 91203 - Menu, 93 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Gam Tu Bop at 132 N Brand Blvd in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Gam Tu Bop Delivery in Glendale - Delivery Menu - DoorDash
+snippet: Get delivery from Gam Tu Bop super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: Gam Tu Bop - Glendale, CA - Yelp
+snippet: 407 reviews of Gam Tu Bop &quot;Gam Tu Bop is my go-to place in Glendale if I&#39;m looking for a convenient, tasty meal and/or snack. Each onigiri (filled rice ball wrapped in seaweed) can range from ~$2.50 to ~$3.75. I would say it takes about 2.5…
+title: Gam Tu Bop - Glendale, CA
+snippet: 406 reviews of Gam Tu Bop &quot;The rice balls here are so good! We come here about every other week. We like getting their combos because it is the right amount of food for two people and we have never been disappointed. The filling is just the right…
+title: Photos for Gam Tu Bop | Food - Yelp
+snippet: Food photos at Gam Tu Bop - Glendale, CA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Gam Tu Bop menu - Glendale CA 91203 - (877) 585-1085
+snippet: Menu for Gam Tu Bop provided by Allmenus.com. DISCLAIMER: Information shown may not reflect recent changes. Check with this restaurant for current pricing and menu information. A listing on Allmenus.com does not necessarily reflect our affiliation with or endorsement of the listed restaurant, or the listed restaurant&#39;s endorsement of Allmenus.com.
+
+REL: 2
+POI Name: Raffi's Place
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Middle Eastern, Persian/Iranian, Armenian, 
+Snippets:
+title: Raffi&#39;s Place
+snippet: In December of 1993, under the ownership of Rafik Bakijanian. Raffi’s Place opened as one of many small businesses surrounding a quaint courtyard. Inspired by their love of real home cooking, Rafik and his wife Gohar created a menu combining fresh ingredients and superb flavor combinations.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Raffi&#39;s Place Restaurant, Glendale - Menu, Prices ...
+snippet: Raffi&#39;s Place Restaurant, Glendale: See 419 unbiased reviews of Raffi&#39;s Place Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #2 of 516 restaurants in Glendale.
+title: Raffi’s Place - Glendale, CA - Yelp
+snippet: Raffi&#39;s Place is in the heart of Glendale, CA. This is one of the best restaurants serving Persians cuisine in LA &amp; OC counties. Hands down the best Persian restaurant ever!!! Nothing compares to Raffis, and everyone that I know agrees with me.
+title: Raffi&#39;s Place - Home - Glendale, California - Menu, Prices ...
+snippet: Raffi&#39;s Place - 211 E Broadway, Glendale, California 91205 - Rated 4.7 based on 987 Reviews &quot;Great place to eat. Very tasty and fresh food. Will...
+title: Raffi&#39;s Place 211 E Broadway Glendale, CA Restaurants ...
+snippet: Get directions, reviews and information for Raffi&#39;s Place in Glendale, CA. Raffi&#39;s Place 211 E Broadway Glendale CA 91205. 4508 Reviews (818) 240-7411 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Raffis Place (@raffisplace) • Instagram photos and videos
+snippet: 9,908 Followers, 133 Following, 596 Posts - See Instagram photos and videos from Raffis Place (@raffisplace)
+title: Zagat
+snippet: Zagat&#39;s guide to the top restaurants. Find reviews on the hottest restaurants, make reservations and see full menus by Zagat.
+title: Raffis Place Restaurant - Glendale, CA | OpenTable
+snippet: Get menu, photos and location information for Raffis Place Restaurant in Glendale, CA. Or book now at one of our other 10930 great restaurants in Glendale.
+title: Home - Raffis
+snippet: Creating smooth, curving, flowing lines or a more straight edgy line reflects my personality, enabling to express myself through my designs. I make sure that my designs be unique, rigid, but yet wearable &amp; comfortable, after all what is the purpose of wearing a piece of jewelry when it’s not comfortable wearing it.
+
+REL: 2
+POI Name: Buko Restaurant
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, Sushi Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Buko Restaurant, Glendale - Restaurant Reviews &amp; Phone ...
+snippet: Buko Restaurant, Glendale: See 12 unbiased reviews of Buko Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #86 of 516 restaurants in Glendale.
+title: Online Menu of Buko Restaurant Restaurant, Glendale ...
+snippet: View the online menu of Buko Restaurant and other restaurants in Glendale, California.
+title: Buko Restaurant - Glendale, CA - Yelp
+snippet: 266 reviews of Buko Restaurant &quot;Don&#39;t let the unassuming strip mall in another non-descript area of Glendale dissuade you from trying Buko. We had salmon sushi, baby yellowtail sushi, Japanese red snapper sushi, spicy tuna roll and a new lemony…
+title: Buko Restaurant - Glendale, CA
+snippet: 267 reviews of Buko Restaurant &quot;My wife and I used to frequent Zono sushi in Pasadena before it closed down. When it closed down we went in search of a new home. After a lot of disappointment we finally lucked upon this place. We had been in…
+title: Buko Restaurant - Glendale, CA - Yelp
+snippet: 266 reviews of Buko Restaurant &quot;Judging by both the looks of the place (Tempura something is the sign, don&#39;t bother looking for Buko anywhere &#39;cept the menu) and the scrappy strip mall it&#39;s located in, a reasonable person would conclude that…
+title: Buko Restaurant Glendale, CA 91206 - Menu, Hours, 58 ...
+snippet: Latest reviews, photos and ??ratings for Buko Restaurant at 327 N Verdugo Rd in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Buko Restaurant Delivery in Glendale - DoorDash
+snippet: Get delivery from Buko Restaurant super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: Online Menu of Buko Restaurant, Glendale, CA
+snippet: View the menu for Buko Restaurant and restaurants in Glendale, CA. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Excellent Japanese Restaurant - Review of Buko Restaurant ...
+snippet: Buko Restaurant: Excellent Japanese Restaurant - See 12 traveler reviews, candid photos, and great deals for Glendale, CA, at Tripadvisor.
+
+REL: 2
+POI Name: The Kitchen Glendale
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mediterranean, Kebab, 
+Snippets:
+title: Home - The Kitchen - Middle Eastern Restaurant in Glendale, CA
+snippet: The Kitchen in Glendale, CA. Call us at (818) 841-5100. Check out our location and hours, and latest menu with photos and reviews.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The Kitchen Glendale Glendale, CA 91201 - Menu, 65 Reviews ...
+snippet: Latest reviews, photos and ??ratings for The Kitchen Glendale at 1910 W Glenoaks Blvd in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: The Kitchen Glendale - Glendale, CA
+snippet: 191 reviews of The Kitchen Glendale &quot;This place is a small ma/pa shop that has some amazingly delicious food! Seriously- I think the owner jumped off a personal call as I was walking in and asked me how I liked my beef plate. The size of the…
+title: Menu - The Kitchen - Middle Eastern Restaurant in Glendale, CA
+snippet: Menu for The Kitchen in Glendale, CA. Explore latest menu with photos and reviews.
+title: The Kitchen Glendale (official site) - Glendale, CA ...
+snippet: The Kitchen Glendale, Everything prepared with high quality, rich taste and made fresh on Order. Free Delivery and Order online to get special discount from our website, 1910 W Glenoaks Blvd, Glendale, CA 91201 Pickup &amp; Delivery.
+title: The Kitchen Glendale - VISIT NOW - 330 Photos &amp; 191 ...
+snippet: 191 reviews of The Kitchen Glendale &quot;Never had a bad meal here. They have the best ice tea of all places in Glendale and Burbank hands down. Their ingredients are always fresh that you can actually taste. Food has care a home cooked meal would…
+title: Lunch Special menu - The Kitchen - Middle Eastern ...
+snippet: Lunch Special menu for The Kitchen in Glendale, CA. See latest menu, reviews, and ratings.
+title: The Kitchen, Glendale - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at The Kitchen, Glendale with Tripadvisor: See 6 unbiased reviews of The Kitchen, ranked #130 on Tripadvisor among 514 restaurants in Glendale.
+title: The Kitchen Glendale - Home - Glendale, California - Menu ...
+snippet: The Kitchen Glendale - 1910 W Glenoaks, Glendale, California 91201 - Rated 5 based on 2 Reviews &quot;Came here with a few friends for the first time. Amazing...
+
+REL: 2
+POI Name: Panda Inn
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: Glendale - Panda Inn
+snippet: Panda Inn, where the art and love for Chinese cuisine thrives. Panda Inn proudly serves our Mandarin and Szechwan cuisine in 5 locations throughout Southern California - Glendale, La Palma, Ontario, Pasadena and San Diego.
+title: Glendale Menu - Panda Inn
+snippet: Panda Inn, where the art and love for Chinese cuisine thrives. Panda Inn proudly serves our Mandarin and Szechwan cuisine in 5 locations throughout Southern California - Glendale, La Palma, Ontario, Pasadena and San Diego.
+title: Home - Panda Inn
+snippet: Panda Inn, where the art and love for Chinese cuisine thrives. Panda Inn proudly serves our Mandarin and Szechwan cuisine in 5 locations throughout Southern California - Glendale, La Palma, Ontario, Pasadena and San Diego.
+title: Locations - Panda Inn
+snippet: Panda Inn, where the art and love for Chinese cuisine thrives. Panda Inn proudly serves our Mandarin and Szechwan cuisine in 5 locations throughout Southern California - Glendale, La Palma, Ontario, Pasadena and San Diego.
+title: Panda Inn - Wikipedia
+snippet: Panda Inn is a chain of sit-down Chinese restaurants in California owned and operated by the Panda Restaurant Group.. The company&#39;s original founding goal was to bring new varieties of Chinese cuisine, such as Mandarin cuisine and Szechuan cuisine dishes, to Southern California, which had traditionally favored Chinese Cantonese cuisine.
+title: Panda Inn Glendale, CA 91206 - Menu, 96 Reviews and Photos ...
+snippet: Latest reviews, photos and ??ratings for Panda Inn at 201 N Maryland Ave in Glendale - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Panda Inn - Glendale, CA - Yelp
+snippet: 217 reviews of Panda Inn &quot;Shant was hands down the best waiter of all time! He was so attentive, made amazing recommendations, and made our experience at Panda Inn absolutely phenomenal! Will be back very soon just for him!! As a party of 8 it&#39;s…
+title: Photos for Panda Inn - Yelp
+snippet: Photos at Panda Inn - Glendale, CA. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Panda Inn. Panda Inn. 226 reviews Add photos All (322) Food (177) Inside (25) Drink (10) Menu (8) Search photos... 322 photos mention &quot;&quot;
+title: Panda Inn - Home - Glendale, California - Menu, Prices ...
+snippet: Panda Inn - 111 E Wilson Ave, Glendale, California 91206 - Rated 4.5 based on 32 Reviews &quot;My boys favorite place !!!&quot;
+title: Panda Inn - Glendale, CA - Yelp
+snippet: Panda Inn in Glendale is best described as an affordable upscale restaurant. I never had a bad experience there. The staff is friendly, the vibe is awesome and the prices are always fair. The best utilization of the restaurant IMHO is lunch. For lunch, you can get an entree, side of veggies, side of rice, spring roll and soup for like $14!
+
+REL: 1
+POI Name: Sage Fitness
+POI City: Glendale
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trainers, 
+Snippets:
+title: Sage Fitness - Personal Training, Personal Trainers in ...
+snippet: ﻿Welcome to Sage Fitness! Join us at one of our two state of the art personal training studios in Glendale. Welcoming new clients and independent personal trainers for 2020! Sage Fitness is proud to team up with the Leukemia and Lymphoma Society and will make donations from all concessions
+title: Group fitness, group classes, personal training, gym ...
+snippet: Group fitness studio, group fitness classes, group workout in Glendale, Burbank. TRX, Yoga, Kickboxing, Strength Training, Cardio, Personal Training.
+title: Sage Fitness - Personal Training, Personal Trainers in ...
+snippet: Our studios specialize in private one on one and group training with your individual ﻿goals in mind. Our philosophy at Sage Fitness and Sage Fitness Group is TRAIN WISELY! Every equipment at Sage Fitness is hand selected to fit our motto and here are some examples of what you&#39;ll find at our private personal training studio on Brand Blvd. ...
+title: Sage Fitness Glendale - Home | Facebook
+snippet: Sage Fitness Glendale. 221 likes · 255 were here. Sage Fitness is a boutique personal training gym nestled in the foothills of Glendale, CA. Our studio offers top amenities, trainers, and exclusivity.
+title: Sage Fitness - Personal Training, Personal Trainers in ...
+snippet: The studio embodies everything I&#39;ve learned in my educational and professional career, to give the clients and trainers an enriched enviroment and experience while training at Sage Fitness. I&#39;m so proud to annouce Sage Fitness Glendale to this Community. Studio&#39;s philosophy and motto: Sage Fitness&#39; equipment showcase my philosophy as a trainer ...
+title: Sage Fitness - Personal Training, Personal Trainers in ...
+snippet: Independent Personal Trainers. Trainers who are searching for a private studio to train their clients, Sage Fitness offers two welcoming and private locations in Glendale. $15 hourly one client Inquire for unlimited monthly rental and group training studio block . Maximum of 5 personal trainers at any given hour to provide ultimate privacy for ...
+title: Sage Fitness Glendale - Listed Good Sites | Fitness 2019
+snippet: Sage Fitness - Glendale, CA - Yelp Glendale. Posted: (5 days ago) Sage was my personal trainer at his first location, Sage Fitness in Glendale. He is opening up this second gym specializing in group classes and I got a chance to see the space, it&#39;s amazing!
+title: Sage Fitness - Glendale, CA - Yelp
+snippet: I found Sage Fitness about a year ago, after my home workouts began aggravating my shoulders. Sage was able to work with me, devising exercises that allowed me to build upper body strength while gradually incorporating more of my shoulders. He has an encyclopedic knowledge of muscles and how they all work together.
+title: Sage Fitness - Glendale, CA - Yelp
+snippet: I have been training at Sage Fitness with Michael for almost a year now and I can say without any reservations that if you are considering adding a workout routine to your schedule, there is simply no better place in Glendale to do that.
+title: Sage Fitness Group - Glendale, California | Facebook
+snippet: Sage Fitness Group, Glendale. 177 likes · 216 were here. Sage Fitness Group is a fitness studio, offering group classes such as cardio power hour, kickboxing, strength training, yoga, Abs,...
+
+REL: 1
+POI Name: En Lai Asian Grill
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: En Lai Asian Chinese Grill :: Best Asian in Chicago
+snippet: 6044 N Broadway St, Chicago, IL 60660. En Lai Asian Chinese Grill is known for its Asian, Chinese, Dinner, Healthy, Japanese, Korean, Lunch Specials, Sushi, Thai, and ...
+title: En Lai Asian Grill: Best Cuisine in IL 60660 ( Yelp Reviews)
+snippet: En Lai Asian Grill uses only the freshest ingredients around, ensuring that every dish is of the highest possible quality. Not sure what you&#39;re in the mood for? Try one of our specialties including Mongolian Beef Lunch Special , Mongolian Chicken Lunch Special, Pepper Steak Lunch Special, Kung Pao Chicken Lunch Special, and more.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: En Lai Asian Grill - Chicago - Order food online ...
+snippet: Unfortunately, En Lai Asian Grill is not open at the delivery/pickup time that you selected. Please make sure that you&#39;ve entered an address and try changing the time in the Order Information section to the right.
+title: En Lai Asian Grill, Chicago Food Menu | Order Now
+snippet: View the menu from En Lai Asian Grill on 6044 N Broadway St in Chicago and order for delivery or takeout online or in the app. Every order earns points.
+title: En Lai Asian Grill Coupons - 6044 N Broadway Ave Chicago, IL
+snippet: $15 off En Lai Asian Grill Coupons in Chicago, IL. Get printable En Lai Asian Grill promo codes and other Asian Fusion restaurant discounts, updated for March 2020.
+title: En Lai Asian Grill in Chicago, IL - Menus, Locations and ...
+snippet: En Lai Asian Grill nearby in Chicago, IL: Get restaurant menus, locations, hours, phone numbers, driving directions and more.
+title: The freshest and most delicious. - Picture of En Lai Asian ...
+snippet: En Lai Asian Grill, Chicago Picture: The freshest and most delicious. - Check out TripAdvisor members&#39; 50,312 candid photos and videos of En Lai Asian Grill
+title: En Lai Asian Chinese Grill Menu - Chicago, IL Restaurant
+snippet: Menu, hours, photos, and more for En Lai Asian Chinese Grill located at 6044 N Broadway St, Chicago, IL, 60660-2522, offering Vegetarian, Dinner, Chinese, Korean, Sushi, Thai, Lunch Specials, Asian, Japanese and Healthy. Order online from En Lai Asian Chinese Grill on MenuPages. Delivery or takeout ...
+title: En Lai Asian Grill in Illinois - Menus, Locations and ...
+snippet: En Lai Asian Grill nearby in Illinois: Here are all 1 En Lai Asian Grill restaurant(s) in Illinois. Get restaurant menus, locations, hours, phone numbers, driving directions and more.
+
+REL: 1
+POI Name: Fan Chao
+POI City: Knoxville
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: Fan Chao - Asian Fusion - 5018 Kingston Pike, Knoxville ...
+snippet: 1 review of Fan Chao &quot;The food is ok- service is slow and unorganized.I got the Korean Beef and the portion was a lot smaller than the entree my friend got for some reason.We both agreed that the food didn&#39;t taste terrible, but it wasn&#39;t anything…
+title: Fan Chao, Knoxville - Restaurant Reviews &amp; Phone Number ...
+snippet: Fan Chao, Knoxville: See unbiased reviews of Fan Chao, one of 1,097 Knoxville restaurants listed on Tripadvisor.
+title: Online Menu of Fan Chao, Knoxville, TN
+snippet: View the menu for Fan Chao and restaurants in Knoxville, TN. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Fan Chao Menu, Menu for Fan Chao, Bearden, Knoxville ...
+snippet: Fan Chao Bearden Menu - View the Menu for Fan Chao Knoxville on Zomato for Delivery, Dine-out or Takeaway, Fan Chao menu and prices. Fan Chao Menu
+title: Fan Chao - Knoxville, Tennessee - Chinese Restaurant, Thai ...
+snippet: Fan Chao, Knoxville, Tennessee. 5 likes · 83 were here. Chinese Restaurant
+title: Fan Chao 5018 Kingston Pike Knoxville, TN - MapQuest
+snippet: Get directions, reviews and information for Fan Chao in Knoxville, TN.
+title: Fan Chao Reviews, User Reviews for Fan Chao, Bearden ...
+snippet: User Reviews for Fan Chao, Bearden, Knoxville; Fan Chao Reviews; Fan Chao, Knoxville restaurant reviews on Zomato Serves Asian, Chinese, Thai. Products for Businesses We&#39;re hiring
+title: Fan Chao in Knoxville | Fan Chao 5018 Kingston Pike ...
+snippet: Find Fan Chao in Knoxville with Address, Phone number from Yahoo US Local. Includes Fan Chao Reviews, maps &amp; directions to Fan Chao in Knoxville and more from Yahoo US Local. Find Fan Chao in Knoxville with Address, Phone number from Yahoo US Local.
+title: Fan Chao - Asian Restaurant in Knoxville - Foursquare
+snippet: See 1 tip from 44 visitors to Fan Chao. &quot;Ginger broccoli is very good, as is the chicken lo mien bowl&quot;
+title: Fan Chao Asian Cuisine - Home - Knoxville, Tennessee ...
+snippet: Fan Chao Asian Cuisine, Knoxville, TN. 3 likes. Asian Fusion Restaurant
+
+REL: 1
+POI Name: Babylon Pools
+POI City: Glendale
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Swimming Pools, 
+Snippets:
+title: Welcome To Babylon Pools
+snippet: info@babylonpools.com LIC.# C53-855670 GLENDALE, CA. (855) 818 - POOL 7665
+title: Babylon Pools - Glendale, CA - Yelp
+snippet: I needed a pool ladder installed. You wouldn&#39;t believe how hard it is to find someone who does this type of work. I made maybe 10+ calls who all turned me away before I came across Babylon Pools and I&#39;m glad that my search led me to them.
+title: Babylon Pools - Home | Facebook
+snippet: Babylon Pools, Glendale, California. 298 likes. BABYLON POOLS is a swimming pool construction company based in Glendale, California, specialized in Upscale and creative engineering project.
+title: Babylon Pools Services
+snippet: info@babylonpools.com LIC.# C53-855670 GLENDALE, CA. (855) 818 - POOL 7665
+title: Babylon Pools | Glendale CA | Read Reviews + Get a Free ...
+snippet: From BuildZoom: Babylon Pools, 556 Riverdale Dr, Glendale, CA (Owned by: Artin Dolatian) holds a Swimming Pool license according to the California license board. Their BuildZoom score of 117 ranks in the top 1% of 336,931 California licensed contractors. Their license was verified as active when we last checked.
+title: Babylon Pools 556 Riverdale Dr Glendale, CA Swimming Pools ...
+snippet: I needed a pool ladder installed. You wouldn&#39;t believe how hard it is to find someone who does this type of work. I made maybe 10+ calls who all turned me away before I came across Babylon Pools...
+title: Babylon Pools, 556 Riverdale Dr, Glendale, CA (2020)
+snippet: BABYLON POOLS is a swimming pool construction company based in Glendale, California, specialized in Upscale and creative engineering project. Glendale swimming pool construction company
+title: Babylon Pools in Glendale | Babylon Pools 556 Riverdale Dr ...
+snippet: Find Babylon Pools in Glendale with Address, Phone number from Yahoo US Local. Includes Babylon Pools Reviews, maps &amp; directions to Babylon Pools in Glendale and more from Yahoo US Local
+title: Babylon Pools - Posts | Facebook
+snippet: Babylon Pools, Glendale, California. 258 likes. BABYLON POOLS is a swimming pool construction company based in Glendale, California, specialized in Upscale and creative engineering project.
+title: Babylon Pools in Glendale, CA with Reviews - YP.com
+snippet: Find 2 listings related to Babylon Pools in Glendale on YP.com. See reviews, photos, directions, phone numbers and more for Babylon Pools locations in Glendale, CA.
+
+REL: 1
+POI Name: Lin Asian Bar And Dim Sum
+POI City: Austin
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Dim Sum, Cocktail Bars, 
+Snippets:
+title: Lin Asian Bar + Dim Sum Restaurant, Austin Texas
+snippet: Lin Asian Bar + Dim Sum Restaurant. A Chinese Restaurant that specializes in Asian Home Cooking and Dim Sum dishes. Located near the heart of Austin, Texas.
+title: Menu - Lin Asian Bar + Dim Sum Restaurant, Austin TX
+snippet: Our Menu is based on Local Products and Passionate Cooking. View our Lunch, Dinner, and Sunday Dim Sum Brunch Menu. 1203 W 6th Street, Austin, TX 78703
+title: Make a Reservation at Lin Asian Bar + Dim Sum Restaurant ...
+snippet: Book your Lin Asian Bar + Dim Sum reservation on Resy. Lin Asian Bar + Dim Sum Restaurant. 1203 W 6th Street, Austin, TX 78703. Click Here for Parking Information. Blog. Gallery. Follow Us. Contact Us Email: info@linasianbar.com Phone Number: 512-474-5107. Hours. Sunday Dim Sum Brunch 1030am – 3pm
+title: Lin Asian Bar and Dim Sum, Austin - Menu, Prices ...
+snippet: Lin Asian Bar and Dim Sum, Austin: See 46 unbiased reviews of Lin Asian Bar and Dim Sum, rated 4.5 of 5 on Tripadvisor and ranked #238 of 3,829 restaurants in Austin.
+title: About Us - Lin Asian Bar
+snippet: To be the first Asian Bar Restaurant in Austin Texas. Traditional Chinese cuisine with better and healthier ingredients. On the weekdays a Limited Dim Sum menu will be served, and a Full Dim Sum menu will be served during Sunday Brunch. LOCAL. We want to help grow local businesses by using local ingredients from a local supplier.
+title: Lin Asian Bar And Dim Sum - Austin, TX - Yelp
+snippet: 489 reviews of Lin Asian Bar And Dim Sum &quot;Since I was eating alone came here without a reservation and just sat at the bar which was full service. I&#39;ve had soup dumplings before at Din Tai Fung and other places so definitely wanted to check this…
+title: Gallery - Lin Asian Bar
+snippet: Lin Asian Bar + Dim Sum Restaurant. ... Austin, TX 78703. Click Here for Parking Information. Blog. Gallery. Follow Us. Contact Us Email: info@linasianbar.com Phone Number: 512-474-5107. Hours. Sunday Dim Sum Brunch 1030am – 3pm Dinner 5pm – 10pm. Monday – Thursday Lunch 11am – 2pm Dinner 5pm – 10pm. Friday Lunch 11am – 2pm Dinner ...
+title: Lin Asian Bar + Dim Sum Restaurant - Home | Facebook
+snippet: Lin Asian Bar + Dim Sum Restaurant - - Rated 4.9 based on 9 Reviews &quot;I cannot say enough good things about this place! Lunch on a Wednesday, be aware...
+title: Lin Asian Bar + Dim Sum in Austin - Restaurant menu and ...
+snippet: Lin Asian Bar + Dim Sum 1203 W 6th Street Austin, TX 78703 July 26th 2018 My partner and I came in for a quick drink and few small plates last night. We sat at the end of the bar &quot;Brandon&quot; was our bartender/waiter.
+title: Absolutely amazing - Review of Lin Asian Bar and Dim Sum ...
+snippet: Lin Asian Bar and Dim Sum: Absolutely amazing - See 45 traveler reviews, 40 candid photos, and great deals for Austin, TX, at Tripadvisor.
+
+REL: 1
+POI Name: Capri Lounge
+POI City: Glendale
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Capri Lounge - Glendale, CA - yelp.com
+snippet: 98 reviews of Capri Lounge &quot;I first happened upon the Capri because it was walking distance from my house. I found a great crowd and even better bar staff. Everyone who comes here is friendly, and the service is great. I have since moved away, but…
+title: The Capri - Home | Facebook
+snippet: The Capri, Glendale. 48 likes · 42 were here. Chill cocktail lounge in the heart of Glendale. Come and enjoy great drinks and relax.
+title: Capri Lounge in Glendale | Capri Lounge 1134 N Pacific Ave ...
+snippet: Find Capri Lounge in Glendale with Address, Phone number from Yahoo US Local. Includes Capri Lounge Reviews, maps &amp; directions to Capri Lounge in Glendale and more from Yahoo US Local
+title: The Capri Lounge Glendale, CA 91202 - 44 Reviews and ...
+snippet: The Capri is the most hospital bar I&#39;ve been too! Scott the owner is classy and is the best in customer service. I highly recommend this bar out of all the rest if your in the Glendale area. The atmosphere is cool and copacetic. People are friendly and attentive and the drinks are at the most competitive price without being watered down.
+title: Capri Lounge in Glendale, California - Come With Me - YouTube
+snippet: Come With Me to the Capri Lounge in Glendale, California where I&#39;m trying out the Spiked Sweet Tea. Like me on http://Facebook.com/KeuReyes.
+title: Capri Lounge in Glendale - Menu, Reviews, Specials &amp; more!
+snippet: Capri is one of those places that you find by accident. It&#39;s a cool dive bar without trying to be one. Good mix of people on any given night. Heavy pours, kick @$$ bartenders, killer jukebox, darts, a pool table and karaoke on Wednesdays.
+title: Capri Lounge 1134 N Pacific Ave Glendale, CA Pubs - MapQuest
+snippet: The Capri is the most hospital bar I&#39;ve been too! Scott the owner is classy and is the best in customer service. I highly recommend this bar out of all the rest if your in the Glendale area. The...
+title: The Capri Lounge - Glendale, California - Bar | Facebook
+snippet: The Capri Lounge. Bar. Unofficial Page · Located in Glendale, California. Reviews. Rudy Sanchez reviewed The Capri — 5 star. February 10, 2016 · Awesome place, awesome bartenders!!! Just remember to tip the bartenders. They work hard and pour just as hard..
+title: Capri Lounge - 1134 North Pacific Avenue, Glendale, CA ...
+snippet: Get reviews, nearby and industry categories for Capri Lounge at 1134 North Pacific Avenue, Glendale, CA 91202. Search for Drinking Places (Alcoholic Beverages) in Glendale, California on 101YP.com.
+
+REL: 0
+POI Name: Asia Ginger Teriyaki
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Asia Ginger Teriyaki, Seattle - Downtown - Restaurant ...
+snippet: Asia Ginger Teriyaki, Seattle: See 13 unbiased reviews of Asia Ginger Teriyaki, rated 4 of 5 on Tripadvisor and ranked #2,134 of 4,014 restaurants in Seattle.
+title: Asia Ginger Teriyaki Menu, Menu for Asia Ginger Teriyaki ...
+snippet: Asia Ginger Teriyaki Pioneer Square Menu - View the Menu for Asia Ginger Teriyaki Seattle on Zomato for Delivery, Dine-out or Takeaway, Asia Ginger Teriyaki menu and prices. Asia Ginger Teriyaki Menu
+title: Asia Ginger Teriyaki - Pioneer Square - Seattle, WA
+snippet: 81 reviews of Asia Ginger Teriyaki &quot;For super affordable, fresh, and wicked fast teriyaki, this is your place! When I used to work in Pioneer Square (and even nowadays when I routinely make the trek up North to visit our Seattle office), this was…
+title: Asia Ginger Teriyaki - Pioneer Square - Seattle, WA
+snippet: 81 reviews of Asia Ginger Teriyaki &quot;How have I not tried this place sooner? It&#39;s right around the corner from my office and has some awesome lunch options. The take out counter can get pretty busy around lunch, you can also grab a table and eat…
+title: Asia Ginger Teriyaki - Japanese Restaurant - Pioneer ...
+snippet: Read reviews from Asia Ginger Teriyaki at 209 2nd Ave S in Pioneer Square Seattle 98104 from trusted Seattle restaurant reviewers. Includes the menu, user reviews, photos, and highest-rated dishes from Asia Ginger Teriyaki.
+title: Asia Ginger Teriyaki &amp; Roll menu - Seattle WA 98134 - (206 ...
+snippet: Restaurant menu, map for Asia Ginger Teriyaki &amp; Roll located in 98134, Seattle WA, 4119 4th Ave S.
+title: Prepare your taste buds... - GrubHub
+snippet: No JavaScript? No proble... well, actually . Our site is delivered by JavaScript. To continue, please enable JavaScript in your browser&#39;s preferences. Reload the homepage
+title: Seattle Lunch Delivery - 220 Restaurants Near You | DoorDash
+snippet: DoorDash is food delivery anywhere you go. With one of the largest networks of restaurant options in Seattle for Lunch delivery, choose from 220 Lunch stores restaurants near you! Enjoy the most delicious Lunch restaurants in Seattle from the comfort of your home or office. Browse by name, cuisine, or staff picks personalized to your location.
+title: Asian Ginger Teriyaki - Seattle, Washington - Japanese ...
+snippet: Asian Ginger Teriyaki, Seattle, Washington. 10 likes. Japanese Restaurant
+
+REL: 0
+POI Name: LA Fitness
+POI City: Glendale
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, Yoga, 
+Snippets:
+title: LA Fitness | GLENDALE Gym | 144 S BRAND BLVD
+snippet: LA Fitness GLENDALE is a gym located at 144 S BRAND BLVD. LA Fitness offers access to over 690+ fitness clubs in both the U.S. &amp; Canada. Achieve your health and fitness goals with us! Get a guest pass today. Skip to main content; Skip to footer site map; Leaving this website.
+title: LA FITNESS Class Schedule (Print Version) - GLENDALE ...
+snippet: LA Fitness Group Fitness Class Schedule. 144 S BRAND BLVD, GLENDALE, CA 91205 - (818) 638-1762 ... and with that as our guide we have made the difficult decision to close all of our LA Fitness, City Sports Clubs and Esporta Fitness clubs to the public until further notice.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: LA Fitness | Find a Club
+snippet: Print a complimentary guest pass to a club near you. You are about to leave this site. Click CONTINUE to leave this site or CANCEL to remain on this site
+title: LA Fitness | Clubs near 85308
+snippet: Locate the LA Fitness facility near you. Phoenix West Camelback @7th Ave (Opens in a new window) 710 West Camelback Road Phoenix, AZ 85013
+title: LA Fitness, Glendale - Gays-Cruising.com
+snippet: Information of the cruising area LA Fitness, Glendale. Location, comments and surrounding areas.
+title: LA Fitness - ARROWHEAD, 5536 W. BELL ROAD, Glendale, AZ (2019)
+snippet: LA Fitness located at 5536 W. BELL ROAD offers several amenities, including Racquetball Courts, Basketball Courts, Aerobics Room, Steam Room, Whirlpool Spa, Sauna, Indoor Pool, Towels ,Kids Klub , and Cycling Room.
+title: LA Fitness - GLENDALE - BRAND BLVD. - Home | Facebook
+snippet: LA Fitness - GLENDALE - BRAND BLVD., Glendale. 692 likes · 23 talking about this · 16,032 were here. We encourage club members to live an active lifestyle, practice good health, &amp; Exercise Your...
+title: LA Fitness - Glendale, CA - Yelp
+snippet: 524 reviews of LA Fitness &quot;This review is for Clarissa. She is the best instructor in Glendale location ever that&#39;s the reason why her class is always packed of both men and women. Every time I take her class, I felt like having my own personal…
+title: LA Fitness | No Risk Complimentary Trial
+snippet: Try LA Fitness Free. All guests must prove that they are at least 16 years of age (or at least 13 years of age and accompanied by a parent or legal guardian) and sign a waiver of liability to use club facilities; a parent or legal guardian must sign the waiver of liability on behalf of guests under 18 years of age.
+
+Cand cities: {'Glendale', 'Los Angeles', 'Austin', 'Seattle', 'Burbank', 'Chicago', 'Knoxville'}

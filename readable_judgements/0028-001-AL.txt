@@ -1,0 +1,1175 @@
+City: Stavanger
+Country: NO
+Main category: Active Life
+Sub category: Hiking
+Description: I am an 18 year old visiting Stavanger for a little more than a week in late November. I will be staying with a friend but will need to occupy myself during the day when he works. I’m looking for suggestions on hikes, activities or must see attractions while I’m there. I am already planning to hike Preikestolen for the second time (I visited last summer with an exchange program) and to do a Lysefjord Cruise. I would also love to hear about some great restaurants or breakfast cafes! I will have no rental car so I will need to primarily rely on public transportation and walking. Thank you!!
+Rated POIs: 45
+Rel distr: [(0, 12), (1, 28), (2, 4), (3, 1)]
+=================================
+REL: 3
+POI Name: Pulpit Rock
+POI City: Stavanger
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, Local Flavor, Landmarks & Historical Buildings, 
+Snippets:
+
+
+REL: 2
+POI Name: Turvei A3: Frognerparken - Strømsdammen
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: www.yelp.no
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Vesletjern - Lakes - Tjernveien 12, Oslo, Norway - Yelp
+snippet: Vesletjern in Oslo, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Oslo and beyond.
+title: Relation: ‪Turvei A3‬ (‪1629169‬) | OpenStreetMap
+snippet: OpenStreetMap is a map of the world, created by people like you and free to use under an open license. Hosting is supported by UCL, Bytemark Hosting, and other partners.. Learn More Start Mapping
+title: Oslo er tippetaper - Oslo - Dagsavisen
+snippet: Oslo er lei av å være dårligst i landet på tildeling av tippemidler, og dårligst i landet på idrettsanlegg. Nå vil hovedstaden ha en mye større andel av tippekaka, samt bygge mer.
+title: STATUS FOR HOFFSELVEN - Oslo Elveforum
+snippet: A3 Hoff Gård- Arnebråtveien Turvei A3 går fra Frognerparken via Hoff Gård- Makrellbekken T – Arnebråtveien til Strømsdammen. Strekningen Hoff Gård– Makrellbekken T ligger i Bydel Ullern. Turvei A3 går i dag på god turvei mellom Makrellbekken T og Hovseter T. Derfra må man benytte den trafikkerte Landingsveien videre nordover.
+title: Turvei A3 - Wandermap - Deine Wanderrouten im Web
+snippet: Turvei A3 [A3] - Operator: Oslo kommune Bymiljøetaten - Wandermap ist eine der größten Sammlungen an Wanderrouten im Web. Wanderrouten können auf Karten gezeichnet oder vom GPS-Gerät hochgeladen werden.
+title: Utenom asfalten - Oslo Elveforum
+snippet: tilbake vannspeilet. Over den samme bro går Pilegrims-leden fra Oslo til Nidaros og dessuten turveien fra Frognerparken til Strømsdammen (langs Makrellbekken). Dette området er åpent og fri for bebyggelse fordi det i mange år var regulert til jernbaneforbindelsen Grefsen – Bestum.
+title: «Du kan godt starte eller avslutte skituren akkurat her»
+snippet: Fra Coop-butikken på Makrellbekken finner du også i vinter et drøyt kilometer langt skispor langs «Turvei A3» fram til Hovseter stasjon. Derfra er det ikke langt til fots fram til løypenettet i Hovseterdalen mot Bogstad. Hvis det ligger til rette, kan du til dels gå på brøytekantene den siste stubben langs Stasjonsveien bort til Hovseterdalen.
+title: Olaf Bulls vei 22 - Krogsveen
+snippet: Olaf Bulls vei 22, 0765 OSLO Gårdsnummer 33, bruksnummer 2167, seksjonsnummer 0, kommunenummer 301 Områdebeskrivelse Attraktiv beliggenhet ved markagrensen på Holmenkollens vestside i et stille, usjenert og barnevennlig boligområde. Fantastiske muligheter for friluftsliv sommer som vinter.
+
+REL: 2
+POI Name: Hammeren
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Hammeren (Maridalen) – Wikipedia
+snippet: Hammeren, eller Maridalshammeren er et område ved nedre del av Skjærsjøelva i Maridalen i Oslo.Området er et populært utgangspunkt for å ta seg inn i Nordmarka.Fra Hammeren går det godt vedlikeholdt skogsvei til Skjærsjøen og videre innover marka. Ved Hammeren ligger også kraftverket Hammeren kraftstasjon.. Peder Anker bygget vei for å frakte jernmalm fra Bærums Verk hit til ...
+title: Skiforeningen (Markadatabasen): Hammeren
+snippet: Viktig innfallsport for turer sommer som vinter, enkel atkomst med bil (dog begrenset parkering) eller buss. &quot;Hovedveien&quot; (skogsbilveien) gjennom Nordmarka starter ved Hammeren og går på østsiden av Skjærsjøelva opp til Skjærsjøen og videre nordover. Det går også en mindre brukt vei på vestsiden av elva og opp til Ullevålseter.
+title: Sognsvann - Blanksjø - Hammeren (Ankerveien) - Skiforeningen
+snippet: Ved Steinsrud, litt nord for Hammeren, treffer du løype 708. Tar du til venstre, kan du følge den opp til Skjærsjødammen - følger du løypa ned til Hammeren kan du fortsette mot Låkeberget i løype 126. Den tar til høyre etter at nedoverbakkene er tilbakelagt.
+title: Velkommen til Hammeren gård hytteutleie
+snippet: Besøk Hammeren gård hytteutleie i Sørum. Naturskjønne og rolige omgivelser med utsikt over elvene Glomma og Rømua. 40 km nordøst for Oslo og 30 km fra Gardermoen. 3 hytter leies ut til privatpersoner og firma. Bilvei helt frem. Les mer &gt;&gt;
+title: Yr – Værvarsel for Hammeren, Oslo (Oslo)
+snippet: Norske stedsnavn på Yr er hentet fra Kartverket. Skrivemåter og navn er sist oppdatert i februar 2015. Godkjente skrivemåter: Hammaren (godkjent av Kartverket i 1967), Hammeren (godkjent av Kartverket i 1981 ...
+title: Kraftledning: Hammeren – Oslo
+snippet: Da Hammeren–Oslo ble bygget for over hundre år siden, var kraftledninger i langt større grad ansett som et statussymbol enn et miljøproblem. De begrenset dimensjonerte tremastene var da heller ikke spesielt dominerende i landskapet.
+title: Hammeren kraftstasjon – Wikipedia
+snippet: Hammeren kraftstasjon er et kraftverk ved Maridalshammeren i Maridalen i Oslo, plassert i fallet mellom Skjærsjøen og Maridalsvannet.Vegadressen er Nordmarkveien 6. Christiania Elektricitetsværk satte stasjonen i drift i 1900.Kraftstasjonen er det eneste kraftverket innenfor Oslo kommunes grenser. Den regnes som et kulturminne, og er Norges eldste vannkraftverk i daglig drift.
+title: Yr – Langtidsvarsel for Hammeren, Oslo (Oslo)
+snippet: kl 6–12 Klarvær. 3° 0 mm Svak vind, 2 m/s fra vest kl 12–18 Klarvær. 10° 0 mm Lett bris, 5 m/s fra nordvest kl 18–24 Delvis skyet. 10° 0 mm Svak vind, 3 m/s fra vest Onsdag 08.04.2020 kl 0–6 Delvis skyet. 3° 0 mm Svak vind, 2 m/s fra vest-sørvest kl 8–14 Skyet. 2° 0 mm Svak vind, 2 ...
+title: Velkommen til Hammeren gård hytteutleie
+snippet: Hammeren gård ligger i Sørum kommune, 40 kilometer nordøst for Oslo, ved elvene Glomma og Rømua, i rolige omgivelser uten gjennomgående trafikk. 3 hytter leies ut til privatpersoner og firma som ønsker et godt boalternativ i tilknytning til Oslo og Gardermoen.
+title: Kari Hammeren – 3 roller i norsk næringsliv
+snippet: Proff.no gir deg rolleinformasjon om Kari Hammeren. Se hennes roller (3) og relasjoner (5) i næringslivet - og hvilke bransjer Kari Hammeren er aktiv i.
+
+REL: 2
+POI Name: Fornebu Turområde
+POI City: Akershus
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 2
+POI Name: Ajaxparken
+POI City: Stavanger
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Playgrounds, Kids Activities, 
+Snippets:
+title: Ajaxparken på 2.plass i kåring av ... - Stavanger Sentrum AS
+snippet: Byens nyeste lekeplass, Ajaxparken, kom på andreplass i kåringen om Norges beste uterom 2013 i kategorien byer. Ajaxparken fikk hederlig omtale for sin originale og særpregede park. – Prosjektet viser en imponerende variasjon av lekemuligheter på lite areal, samtidig som det er god sammenheng mellom delene, skriver juryen.
+title: Ajaxparken (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Ajaxparken, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Ajaxparken i Stavanger, Norge på Tripadvisor.
+title: Yr – Værvarsel for Ajaxparken, Stavanger (Rogaland)
+snippet: Værvarsel for 9,3 millioner steder i verden!
+title: Ajaxparken (Stavanger) - 2020 All You Need to Know BEFORE ...
+snippet: Discover the popular myths and fascinating history surrounding the Vikings on a 2.5-hour group tour in Stavanger. The kid-friendly excursion is set on the Viking Bus and led by an in-costume guide, who shares tales of battle, everyday life, and more.
+title: THE 10 CLOSEST Hotels to Ajaxparken, Stavanger ...
+snippet: Hotels near Ajaxparken, Stavanger on Tripadvisor: Find 9,513 traveler reviews, 12,407 candid photos, and prices for 30 hotels near Ajaxparken in Stavanger, Norway.
+title: Mye moro midt i byen! - Anmeldelse for Ajaxparken ...
+snippet: Ajaxparken: Mye moro midt i byen! - Se 2 reiseanmeldelser, 3 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Supert sted - Anmeldelse for Ajaxparken, Stavanger, Norge ...
+snippet: Ajaxparken: Supert sted - Se 2 reiseanmeldelser, 3 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Yr – Weather forecast for Ajaxparken, Stavanger (Rogaland)
+snippet: Værvarsel for 9,3 millioner steder i verden! &quot;Observations&quot; has moved. You will find this content on our new website under the weather forecast.. You can read more about the ongoing changes here.
+title: De 10 beste hotellene i nærheten av Ajaxparken - Tripadvisor
+snippet: Hoteller i nærheten av Ajaxparken, Stavanger: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Ajaxparken på Tripadvisor.
+title: Ajaxparken (Stavanger, Norwegia) - opinie - Tripadvisor
+snippet: Ajaxparken, Stavanger: zobacz recenzje, artykuły i zdjęcia dotyczące Ajaxparken w serwisie Tripadvisor w Stavangerze, Norwegia
+
+REL: 1
+POI Name: Taket Nattklubb
+POI City: Stavanger
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Taket Nattklubb (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Taket Nattklubb, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Taket Nattklubb i Stavanger, Norge på Tripadvisor.
+title: Taket Bar &amp; nattklubb, Stavanger - 1881.no
+snippet: Taket Bar &amp; nattklubb fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+title: TAKET BAR &amp; NATTKLUBB – Barer | Utesteder – Studentrabatt
+snippet: Taket Bar &amp; Nattklubb ligger i hjertet av Stavanger, og er kjent for sin gode atmosfære. Taket har ulike konsepter som er verdt å sjekke ut deriblant Dobbel Onsdag og Super Søndag. Loungen. I 4. etasje finner du vår &quot;longeavdeling&quot;. Her sitter du på toppen av Straen Huset i de sene nattes timer og har utsikt over hele nattlivet i Stavanger ...
+title: Nå kommer det et nytt utested i de gamle lokalene til ...
+snippet: Nå kommer det et nytt utested i de gamle lokalene til Taket og Timbuktu. Får i tillegg ny restaurant, og ... Få tilgang til gode rabatter og fordeler i Stavanger og Sandnes - helt gratis. Bli ... har erfaring fra utelivsbransjen. Sammen eier de Bar Bache, i tillegg er Sanne inne på eiersiden i Saturn nattklubb og Megleren Øl ...
+title: De 10 beste hotellene i nærheten av Taket Nattklubb
+snippet: Hoteller i nærheten av Taket Nattklubb, Stavanger: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Taket Nattklubb på Tripadvisor.
+title: Arkivet nattbar - Herlige Stavanger Restauranter
+snippet: Vi åpner gjerne dørene i nattbaren kl. 22.00 hvis dere er 30 personer eller mer. Send forespørsel til herdis@herlige-stavanger.no. Dette intime lokalet kan du også bestille til private arrangementer som fødselsdager, møter etc – for inntil 90 personer. Menyer skreddersyr vi i henhold til dine ønsker.
+title: Nye leietakere er på plass: Her åpner det to barer og en ...
+snippet: Taket = Nova Nightclub – Det er upløyd mark dette her. Jeg har alltid tenkt at det ville vært interessant å starte nattklubb i Stavanger, sier Asle Lars Klungland (58). 58-åringen har mange jern i ilden, men det er slik han liker det. Klungland kommer fra Hauge i Dalane, ...
+title: Nattklubben Nova ble stengt av ... - Stavanger Aftenblad
+snippet: Nova har overtatt lokalene til gamle Taket nattklubb. Her har det ikke blitt arrangert en eneste fest siden Taket takket for seg (igjen) for halvannet år siden. Lokalet i Stavanger sentrum sto tomt i lang tid. Thon Eiendom ville først leie ut hele utelivskomplekset, men måtte til slutt endre vilkårene for at noen leietakere ville ta sjansen.
+title: taket - Herlige Stavanger Restauranter
+snippet: Disse nettsidene bruker cookies som er små tekstfiler som lagres på din enhet når du bruker nettsidene. Cookies brukes for å gi deg den beste brukeropplevelsen og for å kjenne deg igjen og gi deg relevant informasjon når du returnerer til siden.
+title: Taket
+snippet: Taket Roofgarden på Zachariassbryggen har utvidet med ny nattklubb i 3 etg. ... I 4 etg er Taket Roofgarden med sine 350 sitteplasser blant Bergens største uteserveringer. Med våre oppvarmede lounger i forskjellige størrelser, er Taket et sted du kan besøke uansett vær.
+
+REL: 1
+POI Name: Solemskogen
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Solemskogen naturbarnehage - Oslo kommune
+snippet: Solemskogen naturbarnehage. Barnehagen ligger i Lillomarka, med flott beliggenhet i skogen Vi har vi egen skøyte-,sykkel- og fotballbane på uteområdet vårt, ... Oslo kommunes kontaktsenter - åpningstider og priser. Finn en ansatt. Skriv til oss - pålogging med ID-porten. Ring 21 80 21 80.
+title: Solemskogen JFF Hjemmeside
+snippet: Solemskogen JFF er en av de største jeger- og fiskeforeninger i Norge. Solemskogen JFF har flere aktive utvalg med blant annet en egen satsing mot ungdom. ... Opplæring/Jegerprøvekurs - vi holder jegerprøvekurs i Oslo gjennom hele året ...
+title: Skiforeningen (Markadatabasen): Solemskogen
+snippet: Fint utgangspunkt for turer sommer som vinter videre innover i Lillomarka. Atkomst med buss eller privatbil. Parkeringsplassen kan bli fort full på store utfartsdager.
+title: Yr – Værvarsel for Solemskogen, Oslo (Oslo)
+snippet: Norske stedsnavn på Yr er hentet fra Kartverket. Skrivemåter og navn er sist oppdatert i februar 2015. Godkjente skrivemåter: Solemskogen (godkjent av Kartverket i 1967 ...
+title: Nyheter fra Solemskogen
+snippet: Hei alle på Solemskogen. Alle har fått, eller vil få post fra Oslo kommune ved VAV, om endringer når det gjelder septiktømming. Sammen med brevet ligger det ved et svarskjema som skal fylles ut av den enkelte og returnere VAV. For meg er det ikke innlysende hvordan skjema skal fylles ut, i tillegg er det ikke utfyllende.
+title: Yr – Langtidsvarsel for Solemskogen, Oslo (Oslo)
+snippet: kl 6–12 Klarvær. 3° 0 mm Svak vind, 3 m/s fra nord-nordøst kl 12–18 Klarvær. 11° 0 mm Svak vind, 2 m/s fra nord-nordøst kl 18–24 Klarvær. 15° 0 mm Svak vind, 2 m/s fra nord-nordøst Tirsdag 21.04.2020 kl 0–6 Klarvær. 7° 0 mm Svak vind, 3 m/s fra nord-nordøst kl 6–12 Klarvær. 5 ...
+title: Skiforeningen (Markadatabasen): Linderudkollen - Solemskogen
+snippet: Løypa går i lett terreng fra Linderudkollen til Solemskogen.To steder går det avstikkere til høyre. Den første er den østlige konkurranseløypa på Linderudkollen mens den andre er løype 139 mot Revlia.. Ved Solemskogen kan du ta til venstre, og da er du straks på parkeringsplassen, der det også går buss.
+title: Solemskogen – lokalhistoriewiki.no
+snippet: Solemskogen er et sparsomt befolka boligområde i Lillomarka i Oslo kommune, øst for Maridalsvannet mellom Kringla og Store Gryta. Navnet antas å komme fra kjøpmann A. Solem, som eide gården Sandaker med skog omkring 1840. Området har også blitt kalt Sandermarken.
+title: Solemskogen Naturbarnehage - Barnehage, Naturbarnehage ...
+snippet: Vi er en foreldredrevet andelsbarnehage med plass til 31 barn fra 1-6 år, og vi har driftet som barnehage siden 1990. Vi er en to-avdelingsbarnehage, og hos oss jobber det 10 ansatte.
+title: Nyheter fra Solemskogen
+snippet: Velhuset &amp; utleie Frem til 1969 var det butikk i velhuset på Solemskogen. I 1970 ble huset solgt til Oslo kommune, som eier det også i dag. Fra 1974 ble 1. etg. brukt som grendehus og resten av bygget benyttet til skole (1981-1992).
+
+REL: 1
+POI Name: Desi Grill & Tandoori Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Halal, Indian, Pakistani, 
+Snippets:
+title: Skuffet - Anmeldelse for Desi Grill &amp; Tandoori Restaurant ...
+snippet: Desi Grill &amp; Tandoori Restaurant: Skuffet - Se 8 reiseanmeldelser, objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Desi Grill &amp; Tandoori Restaurant - Tripadvisor
+snippet: Desi Grill &amp; Tandoori Restaurant: Billig og god mat. - Se 8 reiseanmeldelser, objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: indiatandoori
+snippet: Familien Singh åpnet i 1991 India Tandoori i Stavanger som i dag er Norges eldste Indiske restaurant. Et besøk hos oss blir garantert en opplevelse i eksotiske smaker og kultur. Vår mat og interiør er inspirert av provinsen Panjab/Rajasthan nordvest i India.
+title: Desi Deli Restaurant, Stavanger - Restaurantanmeldelser ...
+snippet: Desi Deli Restaurant, Stavanger: Se 20 objektive anmeldelser av Desi Deli Restaurant, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 62 av 203 restauranter i Stavanger.
+title: Stavanger — indiatandoori
+snippet: Familien Singh åpnet i 1991 India Tandoori i Stavanger som i dag er Norges eldste Indiske restaurant. Restauranten er kjent for sitt stemningsfulle interiør der vi har dyrket Gufa-stilen med buet tak og autentisk indisk dekorasjon. Take Away. Nesten all maten vi serverer i restauranten kan du også få som Take Away. Se meny her.
+title: De 10 beste restaurantene i Stavanger - Tripadvisor
+snippet: Beste restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor. Stavanger. Turisme i Stavanger ... Grill. Grill. Helsekost. Hongkong. Hurtigmat. Indisk. Indonesisk. Internasjonalt. Italiensk.
+title: Desi Grill i Drammen Meny | Bestill Take Away
+snippet: Her finner du nettmenyen til Desi Grill i Drammen. Velg fra vår meny og bestill take away for levering!
+title: Pakistansk Restaurant - Desi Deli - Østervågkaien - Take ...
+snippet: Småretter – Starters - Fingerfood Naan Tandoori grill - Barbeque Kylling Chicken Lam – Lamb Biff – Beef Biryani &amp; Ris Sjømat-Seafood Vegetarretter ... Sjømat-Seafood 110. Fish Grill En populær Pakistansk fiskerett. Grillet torskefilet med masse stekt løk, ... Desi Deli Pakistansk Restaurant Stavanger Norge.
+title: THE 10 BEST Restaurants in Stavanger - Updated April 2020 ...
+snippet: Best Dining in Stavanger, Stavanger Municipality: See 19,802 Tripadvisor traveler reviews of 232 Stavanger restaurants and search by cuisine, price, location, and more.
+title: Desi Deli - Pakistansk Restaurant - Pakistansk Mat - Stavanger
+snippet: En variert meny bestående av tandoori, currry og vegetar retter. Pakistansk og Indisk mat i Stavanger. Desi Deli ligger sentralt i Stavanger sentrum med nydelig utsikt mot Østervågkaien og Oljemuseet. Gratis korttidsparkering rett utenfor restauranten og stor parkeringsplass ved geoparken.
+
+REL: 1
+POI Name: Checkpoint Charlie
+POI City: Stavanger
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, 
+Snippets:
+title: Checkpoint Charlie
+snippet: Checkpoint Charlie leverer konserter og rock&#39;n&#39;roll. For bookingspørsmål, ta kontakt på e-post.Vi får veldig mange henvendelser om spillejobb på Checkpoint Charlie.
+title: Checkpoint Charlie, Stavanger - Restaurantanmeldelser ...
+snippet: Checkpoint Charlie, Stavanger: Se 8 objektive anmeldelser av Checkpoint Charlie, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 152 av 203 restauranter i Stavanger.
+title: Checkpoint Charlie - Bar/pub in Stavanger, Stavanger ...
+snippet: Om Checkpoint Charlie ble etablert i oktober 1987 og er nå inne i sitt 20 år som Stavangers beste konsertscene og alternative rockepub. For to år siden fikk de som følge av endringene i skjenkereglene i Stavanger også nattklubbstatus, og holder nå åpent alle dager 20.00 - 03.30.
+title: Checkpoint Charlie - Startside | Facebook
+snippet: Checkpoint Charlie, Stavanger, Norway. 3,9 k liker dette. Åpent torsdag-lørdag 22.00 - 03.30 Aldersgrense 20 år. Alle Rettigheter. Checkpoint Charlie ble etablert i oktober 1987 og er nå inne i sitt...
+title: Checkpoint Charlie - Home | Facebook
+snippet: Checkpoint Charlie, Stavanger, Norway. 3.9K likes. Åpent torsdag-lørdag 22.00 - 03.30 Aldersgrense 20 år. Alle Rettigheter. Checkpoint Charlie ble etablert i oktober 1987 og er nå inne i sitt 29. år...
+title: Checkpoint Charlie, Stavanger Konsertbilletter, program ...
+snippet: Kjøp Checkpoint Charlie, Stavanger-billetter og finn konsertprogram, spillestedinformasjon og setekart for Checkpoint Charlie, Stavanger. Søk etter no og internasjonale konsertbilletter, turnédatoer og spillesteder i ditt område på LiveNation.no.
+title: Checkpoint Charlie As - Stavanger - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Checkpoint Charlie As. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Checkpoint Charlie As, Stavanger | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Checkpoint Charlie As Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+title: Stemningsfullt - Anmeldelse for Checkpoint Charlie ...
+snippet: Checkpoint Charlie: Stemningsfullt - Se 8 reiseanmeldelser, objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor. Stavanger. Turisme i Stavanger Hotell i Stavanger Bed and Breakfast i Stavanger Pakkereiser til Stavanger Flyreiser til Stavanger Restauranter i Stavanger
+title: Byens rockebule - Anmeldelse for Checkpoint Charlie ...
+snippet: Checkpoint Charlie: Byens rockebule - Se 8 reiseanmeldelser, objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+
+REL: 1
+POI Name: Norsk Oljemuseum
+POI City: Stavanger
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Norsk Oljemuseum | Norsk Oljemuseum
+snippet: Norsk Oljemuseum holder inntil videre stengt for gjester. Det er museets bidrag i dugnaden for å begrense spredning av koronavirus. Vi ser fram til å ønske våre gjester velkommen tilbake når tiden er inne for det.
+title: Norsk Oljemuseum | Norsk Oljemuseum
+snippet: 1 September-31 May Monday-Saturday 10.00-16.00 Sunday 10.00-18.00. 1 June-31 August Open daily from 10.00-19.00. Closed days At Christmas, the museum is closed on 24, 25 and 31 December and 1 January.
+title: Norsk Oljemuseum (Stavanger, Norge) - Anmeldelser
+snippet: Norsk Oljemuseum, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Norsk Oljemuseum i Stavanger, Norge på Tripadvisor.
+title: Oljebyen Stavanger | Norsk Oljemuseum
+snippet: Stavanger har alltid vært preget av havet. Domkirken og bispesetet, som på 1100-tallet la grunnlag for bydannelsen, lå med ansiktet vendt mot Vågen. Sjøen var samferdselsåren for handel og impulser utenfra. ... Norsk Oljemuseum holder inntil videre stengt for gjester.
+title: Norsk Oljemuseum – Wikipedia
+snippet: Norsk Oljemuseum er et museum i Stavanger åpnet i 1999. Museet er på ca. 5 000 kvadratmeter. Idéen om å bygge et oljemuseum i Stavanger ble lansert i 1974. Stiftelsen Norsk Oljemuseum ble etablert i 1980, og etter den tid er det samlet inn gjenstander, film, foto og annet materiale som dokumenterer norsk olje- og gassvirksomhet.
+title: Norsk Oljemuseum - Science senter in Stavanger, Stavanger ...
+snippet: Norsk Oljemuseum er et museum for alle. Her kan du lære hvordan olje og gass ble dannet for millioner av år siden og hvordan den har blitt utvunnet utenfor norskekysten. Få et innblikk i teknologien, dimensjonene, utfordringene, slitet og spenningen.
+title: Norsk Oljemuseum - Home | Facebook
+snippet: Norsk Oljemuseum - Kjeringholmen 1, 4006 Stavanger, Norway - Rated 4.5 based on 194 Reviews &quot;Very nice museum, with scale models of platforms, a...
+title: Norsk Oljemuseum - Innlegg | Facebook
+snippet: Norsk Oljemuseum, Stavanger, Norway. 4,5 k liker dette. Norsk Oljemuseum er et museum for alle. Utstillingene forteller hvordan olje og gass blir til, funnet, produsert og hva disse ressursene brukes...
+
+REL: 1
+POI Name: Segway Tours Oslo
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Tours, Experiences, 
+Snippets:
+title: Elmoving Segway Tours
+snippet: Book your Segway Tour with Elmoving Segway Tours Norway
+title: Elmoving Segway Norway (Oslo) - 2020 All You Need to Know ...
+snippet: Elmoving Segway Oslo is pleased to welcome you to Oslo, one of the most beautiful cities in the world. ... Review of: Segway Tours Oslo. Never took a Segway Tour before but Claudia helped us how to use the Segway and took us through the city with ease.
+title: Tripadvisor | Segway Tours Oslo | Østlandet
+snippet: Segway Tours Oslo – med objektive anmeldelser. Segway Tours Oslo. 19 anmeldelser. Lagre. Del eksternt. Full visning. Vis alle bilder (12) Velg dato og reisende. Fra. USD 76,87. Dato. 2 voksne. Alternativer. Sjekk ledig kapasitet. Gratis avbestilling opptil 24 timer på forhånd. Lavprisgaranti. Oversikt. Viktig informasjon.
+title: Segway Tour of Oslo 2020 - Viator
+snippet: Segway Tours in Oslo: Check out 34 reviews and photos of Viator&#39;s Segway Tour of Oslo. This site uses cookies to improve your experience, to enhance site security and to show you personalized advertising. Click here to learn more or control your settings.
+title: THE 10 BEST Oslo Segway Tours (with Photos) - Tripadvisor
+snippet: Top Oslo Segway Tours: See reviews and photos of segway tours in Oslo, Norway on Tripadvisor.
+title: Segway tours in Oslo Norway: Book online - Fjord Tours
+snippet: Guided Segway tour in Oslo. A segway tour in Oslo is a perfect opportunity to check out some signature sites of the capital city. On the tour you will see several highlights of Oslo, including The National Opera House, The Parlament and The Norwegian Castle!
+title: Elmoving Segway Norway (Oslo, Norge) - Anmeldelser
+snippet: Segway Tours Oslo ønsker deg velkommen til en fantastisk tur i Oslo by. Bli med den største Segway Tour operatøren i Norge - Segway Tours Norway! [Norges´s autoriserte Segway Tour operatør] Segway Tours Oslo tilbyr dere en komplett opplevelse av Oslo - 1,5 times guided opplevelse av Oslo by, og den absolutt morsomste måten å forflytte ...
+title: Segway Tours Oslo 2020 - Viator
+snippet: The Akerselva - river Segway Tour This 1,5- 2 hour Segway tour is the perfect opportunity to check out this cool transportation device, while traveling up the beautiful Akerselva. We&#39;re proud to show some different views of Oslo along the scenic Akerselva. We love to have you on our guided Segway Tours around the streets and sights of Oslo.
+title: Tripadvisor | Segway Tour of Oslo | Eastern Norway
+snippet: Being a segway guide myself in Basel (Switzerland) I love to participate in tours when traveling. Oslo is an ample city, so it‘s easier to discover most of it by segway than by feet (what I usually do). We were just my daughter (17) and me on that tour - very private:)) Our …
+title: Our Guided Tours in Oslo - Book a tour in Oslo | OURWAY Tours
+snippet: The cute, modern and picturesque city center of Oslo is what got us doing tours in Oslo in the first place. It’s easy to walk everywhere due to its smallness, cool sights are lining up after each other and everything in between makes us go *heart-emoji*. Among our guided tours in Oslo, you will find cool hikes, gentle walking tours, and active bike tours.
+
+REL: 1
+POI Name: Elven ved Rasmus Winderens vei
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Rasmus Winderens vei – Oslo Byleksikon
+snippet: Rasmus Winderens vei, Vinderen, bydel Vestre Aker, villavei fra Blindern stasjon til Slemdalsveien.Oppkalt 1994 etter Rasmus Winderen, som eide Vinderen gård 1823–54 og var ordfører i Aker 1844–47. Veien var tidligere den vestlige delen av Blindernveien, men fikk nytt navn da Blindernveien ble delt i to i ved omleggingen av Sognsvannsbanen til T-banestandard og ombyggingen av den ...
+title: Boliger, Vinderen, Eiendom | FINN.no
+snippet: 76 treff i 71 annonser ved søk etter Boliger, Vinderen, Eiendom. Mulighetenes marked Varslinger Ny annonse Meldinger Logg inn. Gå til resultat. Eiendom Bolig til salgs. 76 treff i 71 annonser. Lagre søk. Vis på kart. ... Rasmus Winderens vei 4, Oslo, Vinderen.
+title: Se alle eiendomspriser for Rasmus Winderens vei 30, Oslo i ...
+snippet: Forstørr raskt til et område ved å trykke på zoomikoner i kartet. Søk sted eller adresse for raskt å vise boligpriser. Nærhetsikonet viser boliger der du er, husk å tillate posisjonering. Forstørr kartet til du ser ikoner. Trykk på ikon viser priser og annen informasjon. Blå ikoner viser bolig til salgs.
+title: Rasmus Winderens vei 12, 0373 Oslo til salgs av Rune ...
+snippet: Rasmus Winderens vei 12, 0373 Oslo - Tomannsbolig Vinderen - Staselig og innholdsrik ½ part av villa fra 1930 med 4 soverom, solfylt terrasse, nydelig hage og uinnredet loft. ... Ved manipulasjon eller forsøk på manipulasjon av omtaler kan Selskapet innføre straffereaksjoner.
+title: Møte i Vestre Aker byutvikling-, miljø ... - Oslo kommune
+snippet: Forskrift 463/2016 Forslag til regulering Rasmus Winderens vei mellom Anne Maries vei og Havna alle. 85/16: Besserud vannbasseng, Ankerveien 26 A - Planforslag til offentlig ettersyn ... Oslo kommunes kontaktsenter - åpningstider og priser. Finn en ansatt. Skriv til oss - pålogging med ID-porten. Ring 21 80 21 80.
+title: Rasmus Winderens vei 38 B, 0373 Oslo til salgs av Bendik ...
+snippet: Rasmus Winderens vei 38 B, 0373 Oslo - Leilighet Rasmus Winderens vei 38 B - VINDEREN - Rålekker selveier over to plan med høy standard - Privat inngang - To garasjeplasser* - 2 terrasser (tilsammen ca. 68 kvm) - Hageflekk - Peis - Barnevennlig og rolig beliggende - Lave bokostnader - Må sees!
+title: Sameiet Rasmus Winderens Vei 51 og 53 - Oslo - Se Regnskap ...
+snippet: Proff.no gir deg bedriftsinformasjon om Sameiet Rasmus Winderens Vei 51 og 53. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Boligpriser og eiendomspriser for Rasmus Winderens vei 12 ...
+snippet: Her finner du hva boliger og eiendommer for Rasmus Winderens vei 12 0373 Oslo ble solgt for. ... Forstørr raskt til et område ved å trykke på zoomikoner i kartet. Søk sted eller adresse for raskt å vise boligpriser. Nærhetsikonet viser boliger der du er, husk å tillate posisjonering.
+title: Green Doctors, Rasmus Winderens vei 51, Oslo (2020)
+snippet: Hvor: Rasmus Winderens vei 51, 0373 Oslo Pris: 1490 kr Har du lyst til å bli en av våre suksesshistorier, få motivasjon, forstå og bli hjulpet på rett vei i jungelen av slankekurer. ... Hun har studert Gestaltterapi og snart ferdig med videreutdanningen ved Institutt for Traumearbeid.
+
+REL: 1
+POI Name: Norsk hermetikkmuseum
+POI City: Stavanger
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum Stavanger - Norsk hermetikkmuseum
+snippet: Følg med på hva som skjer i hagen på Norsk hermetikkmuseum. Sardine fishing. Norges første reklamefilm fra 1909. Møte med minner. i arbeiderboligen i Gamle Stavanger Formidling i byggeperioden. Skoletilbudet 2019/2020. Tegnspråk. Ressurser på nettbrett. Åpningstider. Mandag: Stengt til nov. 2020:
+title: Norsk Hermetikkmuseum (Stavanger, Norge) - Anmeldelser
+snippet: Norsk Hermetikkmuseum, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Norsk Hermetikkmuseum i Stavanger, Norge på Tripadvisor.
+title: Norsk hermetikkmuseum - Museum in Stavanger, Stavanger ...
+snippet: Norsk hermetikkmuseum ligger i en tidligere hermetikkfabrikk i Øvre Strandgate, Gamle Stavanger. Museet ble åpnet i 1982 til minne om næringen som fra 1880 til 1960 var byens viktigste. Ideen rundt et museum vokste fram da mye gammelt produksjonsutstyr på slutten av 1800-tallet og begynnelsen av 1900-tallet ble byttet ut og kastet som følge av tekniske nyvinninger.
+title: Museum Stavanger
+snippet: Regjeringen gir i sitt forslag til statsbudsjett 11,2 millioner kroner til nye utstillinger på Stavanger museum og Stavanger maritime museum. Norsk hermetikkmuseum stenges 19. august Hermetikkmuseet stenger midlertidig mandag 19. august 2019.
+title: - Museum Stavanger - Norsk hermetikkmuseum
+snippet: Summer season: May 15th- August 18th All days 10am-4pm . Closed for rehabilitation until spring 2021.
+title: Norsk hermetikkmuseum - Home | Facebook
+snippet: Norsk hermetikkmuseum, Stavanger, Norway. 742 likes · 16 talking about this · 716 were here. Norsk hermetikkmuseum ligger i en tidligere hermetikkfabrikk. The Norwegian Canning Museum is located in...
+title: Norsk hermetikkmuseum / DigitaltMuseum
+snippet: Norsk hermetikkmuseum ligger i en tidligere hermetikkfabrikk i Gamle Stavanger. Samlingene til hermetikkmuseet består av maskiner og verktøy fra produksjon av hermetikkbokser og hermetiserte matvarer, en samling av iddisar (hermetikketiketter) på ca. 35.000 motiver, og fotografier fra hermetikkfabrikker.
+title: Norsk hermetikkmuseum – Wikipedia
+snippet: Koordinater Norsk Hermetikkmuseum er et museum som viser produksjon av fiskehermetikk.Museet ligger i Norges hermetikkhovedstad Stavanger.Det ble offisielt åpnet 28. juni 1982 og er en del av MUST – Museum Stavanger AS (tidligere Stavanger Museum).. Bakgrunn. Ideen om et hermetikkmuseum i Stavanger ble første gang reist rundt forrige århundreskifte.
+title: Fabrikken - Museum Stavanger
+snippet: Norsk Hermetikkmuseum ble åpnet 28.6.1982 i lokalene til den tidligere hermtikkfabrikken Venus Packing i Stavanger. Denne fabrikken var en av omtrent 70 fabrikker i Stavanger og 250 hermetikkfabrikker i Norge. Museet er innredet som en autentisk sardinfabrikk kunne sett ut i perioden rundt 1. verdenskrig.
+title: Norsk hermetikkmuseum stenges 19. august - Museum Stavanger
+snippet: Norsk hermetikkmuseum har åpent i hele sommer og fram til 19. august. Da stenger vi fordi vi bygger opp Norsk grafisk museum som skal høre sammen med Norsk hermetikkmuseum. Høsten 2020 åpner vi igjen, da vil dere komme til en spennende og innholdsrik ny møteplass i Gamle Stavanger.
+
+REL: 1
+POI Name: Naturstien mellom Bånkall gård og Romsås
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Bånkall gård - Kultureiendommer - Oslo kommune
+snippet: Som navnet sier, er gården en rud-gård. Disse hadde sin opprinnelse fra nyryddingen i middelalderen i tiden mellom år 1000 og 1350. Som alle andre gårder nord i Østre Aker lå gården øde under pestbølgene rundt 1350. Bånkall var kirkegods frem til reformasjonen i 1537, og siden ble eiendommen krongods.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Bånkall kunne vært jevnet med jorden - Oslo
+snippet: Arnfinn Bondkall (65) var den siste oppvoksende slekt på Bånkall gård på Romsås. Nå kan også dagens barn og unge i Groruddalen få nyte godt av den restaurerte gården som har aner helt ...
+title: Oslo Klatrepark hjem
+snippet: Hovedside for Oslo Klatrepark. Åpning 2020 er foreløpig utsatt, vi kommer tilbake med mer informasjon
+title: Romsås (strøk) – lokalhistoriewiki.no
+snippet: Historie. Navnet kommer fra Romsås gård, som er nevnt i kilder tilbake til 1500-tallet.Romsås gård lå på nedsiden av Trondheimsveien, og var i sin tid en av de største gårdene i Østre Aker.Navnet tyder på at gården ble ryddet av «raumarne», eller romerikingene som det heter i dag.
+title: Groruddalssatsingen 2007-2016 - Slik bygger vi Oslo - Oslo ...
+snippet: Gamle gårder som Årvoll gård og Bånkall gård er blitt populære møteplasser for lokalbefolkningen. Groruddalens historie lever dermed videre og får nytt innhold. Bedre for de yngste . Alle 4- og 5-åringer har fått tilbud om gratis kjernetid i barnehagen, og forskning viser at det har gitt resultater.
+title: Bånkall gård – Wikipedia
+snippet: Bånkall gård er en historisk gård og ligger i Bydel Grorud mellom Romsås og Vestli.De tidligste kjente kilder på bosetning på Bånkall er Biskop Eysteins jordebok fra 1396.. Bånkall gård var skysstasjon på Trondheimsveien i perioden 1836 til 1846. Gården hadde da åtte hester og fire reservehester.
+title: Priser og åpningstider Oslo klatrepark
+snippet: Klatreparken har åpent alle helger og ferier fra og med 4. april til og med 1. November. Se våre åpningstider for mer detaljert informasjon. Grunnet sykdomssituasjonen i Norge om dagen har Oslo Klatrepark bestemt seg for å utsette sesongstarten. Og vi vil ikke holde åpent i påskeferien. Vi kommer tilbake med mer informasjon.
+title: Gårder i Oslo kommune – lokalhistoriewiki.no
+snippet: Gårder i Oslo kommune er en oversikt over gårder som gjennom tida har ligget innafor dagens kommunegrenser i Oslo. Den omfatter alt fra middelaldergårder som forlengst har forsvunnet til gårder som fortsatt er i drift, og fra herregårder til tidligere husmannsplasser som ble utskilt som egne småbruk.
+title: Hiking in Skjetten - Yelp
+snippet: Find the best Hiking on Yelp: search reviews of 51 Skjetten businesses by price, type, or location.
+
+REL: 1
+POI Name: Al Forno Pizzeria
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Italiensk resturant og takeaway - Al Forno
+snippet: Ekte italiensk pizza. Meny Restauranter Min profil Om oss Bordbestilling Restauranter Min profil Om oss Bordbestilling
+title: Al Forno, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Al Forno, Stavanger: Se 363 objektive anmeldelser av Al Forno, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 35 av 203 restauranter i Stavanger. ... Fikk servert en fantastisk pizza, dog ble den bedre etter at jeg fjerne en haug med plæn ;) De hadde pyntet pizzaen med ruccola, i aaaaaalt for store mengder.
+title: Al Forno, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Al Forno, Stavanger: Se 363 objektive anmeldelser av Al Forno, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 35 av 203 restauranter i Stavanger. ... Som alltid serverer de Italiensk pizza slik den skal serveres med tynn bunn og bakt i steinovn. Servicen er ekstrem bra.
+title: Al Forno, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Al Forno, Stavanger: Se 361 objektive anmeldelser av Al Forno, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 33 av 205 restauranter i Stavanger.
+title: AL FORNO RISTORANTE &amp; PIZZERIA
+snippet: AL FORNO RISTORANTE &amp; PIZZERIA . Historien om Al Forno Ristorante &amp; Pizzeria handler om stolte mattradisjoner. Helt siden vi åpnet vår første lille pizzeria på Stokka i 2005 har vi servert ekte italiensk matglede til våre gjester.
+title: Italiensk resturant og takeaway
+snippet: Ekte italiensk pizza
+title: Italiensk resturant og takeaway
+snippet: Ekte italiensk pizza. Tasta senter, Tastatunet 1-3, Stavanger Tlf: 94028717. Stengt
+title: Al Forno, Stavanger - Skagen 15 - Restaurant Reviews ...
+snippet: Al Forno, Stavanger: See 361 unbiased reviews of Al Forno, rated 3.5 of 5 on Tripadvisor and ranked #33 of 205 restaurants in Stavanger. ... We had the seafood pizza and ravioli gorgonzola,and there were both amazing. The service also very fast and smiley! Thank you for the lovely evening! Date of visit: February 2020.
+title: Al Forno Pizzeria Stokka, Stavanger - 1881.no
+snippet: Al Forno Pizzeria Stokka fra , Rogaland. Restaurant - Pizza. Pizzabakeren Madlaveien Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort ti… Yummy Time - Stavanger Velkommen til vår koselige restaurant. Sulten på fersk og smakfull pizza levert hjem eller so…
+title: Al Forno Tasta - Stavanger - Pizza
+snippet: Al Forno Tasta. Pizza. Tastatunet 1, Stavanger, 4027. Kjøp online. Om oss. Velkommen til Al Forno Tasta&#39;s hjemmeside. Al Forno Tasta tilbyr et stort utvalg av retter og her kan du bla. få Pnne Vegetariana og San Pellegrino Meny. Drikke. Coca Cola. Kr 39.00. 0,33 glassflaske
+
+REL: 1
+POI Name: Vålandsskogen
+POI City: Våland
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Mosvatnet/Vålandskogen - Vandring in Stavanger, Stavanger ...
+snippet: Om. Stien rundt Mosvannet er et populært turmål, nær Stavanger sentrum. Det er en fin tur som passer for hele familien, og tar ca. 40-50 min. Blir turen rundt Mosvatnet for kort kan du forlenge turen inn i Vålandsskogen via gangbroer over Motorveien.
+title: Vålandstunet fra sykehjem til boliger
+snippet: Tomten ligger sentralt til i trehusbebyggelsen, like ved Vålandsskogen. Vinner av konkurransen ble prosjektet Vålandstunet seniorboliger. ... «Her vil beboere på Våland og andre bydeler kunne føle seg hjemme, med mange av eneboligens kvaliteter, og samtidig med et fellesareal som de savner i dag», heter det.
+title: Hullet på Våland - Stavanger Aftenblad
+snippet: «VORT GAMLE DANMARK skal bestå/så længe bøgen spejler/sin top i bølgen blå.» Sitatet er hentet fra refrenget i danskenes nasjonalsang, «Der er et yndigt land».Med litt velvillighet kan vi fastslå at bøken også har speilet seg i Mosvatnet i over hundre år. Ifølge det eminente Stavanger byleksikon består Vålandsskogen av parkpreget eldre bøkeskog plantet omkring 1900.
+title: Utendørs gudstjeneste i Vålandsskogen - Rogalands Avis
+snippet: Utendørs gudstjeneste i Vålandsskogen Silje Trym Mathiassen er ikke redd for å tråkke nye stier. Søndag holder presten tidenes første gudstjeneste midt i Vålandsskogen.
+title: Skal bygge seniorboliger til 250 millioner på Vålandstunet
+snippet: Skal bygge seniorboliger til 250 millioner på Vålandstunet. Onsdag ble den endelig avtalen om kjøpet av Vålandstunet-tomten mellom Stavanger Utvikling KF og Ineo Eiendom underskrevet.
+title: Vil bygge tårn i Mosvannsparken - Stavanger Aftenblad
+snippet: – Tanken er at «Opp» skal være synlig på lang avstand, og at byggverket ikke skal ha noen bakside, men virke innbydende, uansett om man kommer fra Våland eller fra Mosvatnet. Vi tenker at bygget skal bli et knutepunkt og en attraktiv møteplass i det nye parkdraget, sier Augenstein.
+title: Endelig. Et eksklusivt boligprosjekt skreddersydd for ...
+snippet: Endelig. Et eksklusivt boligprosjekt skreddersydd for voksne. Statusoppdatering: Kolnes Maskin og Stangeland Maskin er godt i gang med arbeidet på tomten, og i november begynner betongarbeidet. Det har vært flere salg de siste månedene, og vi skal ha møter med nye interessenter de kommende dagene.
+title: Turen starter her. – Vålandstun
+snippet: Turen starter her. Hvor skal man starte når man skal fortelle om turmuligheter fra Vålandstun? Boligene grenser regelrett til Vålandsskogen med Vålandstårnet og sin fantastiske utsikt. Og lapper og kaffe serveringer på søndager. Videre er Mosvatnet en vakker spasertur unna, med fine turstier som fører til kunstmuseet og badeanlegget Gamlingen.
+title: Lufteture EIGANES/VÅLAND FOR KIDS
+snippet: Våland ligger mellom Eiganes og Hillevåg et langt steinkast fra Stavanger sentrum. Ser vi på bykartet, ligger Våland midt i smørøyet. ... Vålandsskogen er en parkpreget bøke-skog som ble plantet rundt 1900. Det er fantastisk å gå tur her på krokete stier og turveier i alle retninger.
+title: Arkitektene Haga &amp; Grov – Vålandstun
+snippet: Tomten til Vålandstun er svært attraktiv med sin sentrumsnære beliggenhet, samtidig som den er omgitt av fantastiske rekreasjonsområder. Vålandstun skal være attraktive seniorboliger med fellesskapsløsninger som glir godt inn i omgivelsene med særlig hensyn til nabobebyggelsens struktur og den flotte Vålandsskogen mot sør. Bebyggelsen er derfor satt sammen av fem bygningsvolumer som ...
+
+REL: 1
+POI Name: Sognsvann skiløyper
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Skiforeningen (Markadatabasen): Skiløyper
+snippet: Løypene i Markadatabasen prepareres av Skiforeningen og en lang rekke løypelag, idrettsklubber og kommuner. Aktørene samarbeider om å tilby et unikt nett med skiløyper, føremelding og annen informasjon om løypene på nett. Føremeldingen gir informasjon om føreforholdene og oppdatert prepareringsstatus døgnet rundt.
+title: Føremelding | Skiforeningen
+snippet: Vann- og avløpsetaten i Oslo ber alle respektere restriksjonene, som forbyr blant annet telting og bruk av hengekøye, fisking, bading og opphold nærmere enn 50 meter fra drikkevannskildene. Det gjelder for både mennesker og dyr. Slik kan du bidra til å holde drikkevannet rent og godt.
+title: Anlegger helårs turvei til Sognsvann - Aftenposten
+snippet: – Våre folk ville normalt preparert løyper på denne tiden av året. Siden det er dårlig med skiføre akkurat nå, kan våre folk isteden hugge trær og bygge denne nye traseen, forteller seksjonssjef Trond Enkerud i Oslo kommunes bymiljøetat. Trassen blir bredest (tre meter) nærmest Sognsvann og ved de tre utfartsstedene.
+title: Skiforeningen (Markadatabasen): Lysløypa Sognsvann ...
+snippet: Denne løypa går på skogsbilveien fra Sognsvann til Ullevålseter - øst for vannet - og er &quot;hovedløypa&quot; fra Sognsvann og inn i Nordmarka.Veien er veldig mye brukt, både sommer og vinter. Ønsker du å gå litt mer i fred, kan du velge løype 705, som tar opp til høyre ved Svartkulp, ca. 900 meter fra start.Du kan også komme til Hammeren ved å ta opp her, og følge løype 371 på ...
+title: Skiforeningen (Markadatabasen): Sognsvann - Blanksjø ...
+snippet: Løypa starter litt forbi bommen ved parkeringsplassen på Sognsvann.Den følger skogsbilveien inn til Svartkulp.Hit er det lys langs løypa. Hovedløypa mot Ullevålseter fortsetter mot venstre, mens vår løype går opp til høyre her.Nå kommer du inn på Ankerveien som går forbi Nedre Blanksjø og videre nordover gjennom Skjervenmarka. Rett før Nedre Blanksjø tar løype 22 av til høyre ...
+title: Skiforeningen (Markadatabasen): Skiløyper, Nordmarka syd
+snippet: Oslo kommune Bymiljøetaten preparerer fra Holmenkollen i syd, Bogstadvannet Ø i vest, Nordmarkskapellet/Aurtjern i nord og Skjærsjødammen/Skar i øst. Bymiljøetaten preparerer lysløypene på Bogstad, i Tryvannsåsen, Holmenkollen-Frognerseteren-Ullevålseter-Sognsvann. Se liste over alle som preparerer løyper i dette området.
+title: Tur og friluftsliv - Natur, kultur og fritid - Oslo kommune
+snippet: Skiløyper Finn skiløype i Oslomarka, sist preparert, skiføre. ... Se badetemperatur og vannkvalitet (juni-august) for noen av strendene og badestedene i Oslo. Turkart og turguider Finn turkart og turguider til Marka, Akerselva og turveier i byen. Jobb i Oslo kommune. Ledige stillinger ...
+title: Natur, kultur og fritid - Oslo kommune
+snippet: Natur, kultur og fritid. Oslo er en by med noe for alle. Finn tilbud, steder og aktiviteter for å bruke byen på din måte.
+title: Yr – Værvarsel for Sognsvann, Oslo (Oslo)
+snippet: Værvarsel for 9,3 millioner steder i verden! God morgen ? ! Sola er nÃ¥ stÃ¥tt opp og det ligger an til Ã¥ bli nok en nydelig dag flere steder i #SÃ¸rNorge!Her fra Langesund.
+title: Sognsvann - Badeplasser og temperaturer - Oslo kommune
+snippet: Sognsvann. 1,2 kilometer langt og 17 meter dypt. En av Oslos mest populære utfartsplasser med nær beliggenhet til T-bane. Badeplassen har sandbunn, ... Kontakt Oslo kommune. Oslo kommunes kontaktsenter - åpningstider og priser. Finn en ansatt. Skriv til oss - pålogging med ID-porten. Ring 21 80 21 80.
+
+REL: 1
+POI Name: Turisthyttene i Marka
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Marka - Tur og friluftsliv - Oslo kommune
+snippet: Retningslinjer for ferdsel i marka Ferdsel, telting, fiske, bål, hund, drikevann. Turkart og stuer i marka Kart over hytter, markastuer og turstier i Oslo. Inspirasjon til tur med barn i marka Bok for foreldre og lærere om marka som klasserom. Hent eller last ned. Jobb i Oslo kommune. Ledige stillinger.
+title: Skiforenngen : Markadatabasen
+snippet: I Markadatabasen er det 1542 løyper, 0 ferdig preparert i dag, 0 delvis preparert i dag, 12 andre ble preparert i går. Følgende områder har preparerte løyper i dag eller i går, se dem på kart, i føremeldingen eller som løypetabell for «ditt» område her:
+title: Kjentmannshåndboken 2018-2021 | Skiforeningen
+snippet: Igjen håper vi at denne populære turkameraten vil gi deg inspirasjon til varierte turer i Marka både sommer og vinter. For nye venner har vi repetert noen klassiske poster. Til de som har fulgt oss noen år blir det selvfølgelig noe «nytt». ... 0787 Oslo. Tlf. 22 92 32 00.
+title: Nettbutikk og kjøp av medlemskap | Skiforeningen
+snippet: Meld deg inn i Skiforeningen nå, og du er medlem helt til september 2021.
+title: Skiforeningen
+snippet: Koronaviruset - dette gjør Skiforeningen. Som følge av den vanskelig situasjonen koronaviruset skaper, har Skiforeningen dessverre vært nødt til å permittere de fleste ansatte inntil videre.
+title: Bål og grill - Brannvern, ildsted og feiing - Oslo kommune
+snippet: I Norge har vi et generelt bålforbud fra 15. april til 15. september. Bålforbudet er et generelt forbud mot å tenne bål, engangsgriller, bålpanner og annen åpen ild, i skog og utmark, bortsett fra på godkjente bål- og grillplasser i kommunen. Om bålforbudet Norge har et generelt bålforbud ...
+title: Markadatabasen: Turer - Skiforeningen
+snippet: Fra stiftelsen i 1883 har Skiforeningens formålsparagraf vært å arbeide for «utbredelse av ski-idrett og annet friluftsliv, samt å arrangere Holmenkollrennene».
+title: 7 topper med panoramautsikt i Oslomarka – Fantastiske Marka
+snippet: Oslomarka er et av Norges mest brukte naturområder. Marka er på ca. 1.700 km2 fordelt på 19 kommuner og 5 fylker. Det er utrolige 2.100 km med blåmerkede stier i marka, og 2.400 km merkede skiløyper. Oslomarka er et eventyrland som er åpent og tilgjengelig året rundt. Oslomarka er min hundremeterskog. Skogen jeg begir meg inn i gang på ...
+title: Hele Norges turplanlegger - UT.no
+snippet: Drar du opp i Marka og setter deg 631 moh. på det høyeste punktet i Oslo kommune, Kjerkeberget, vil du se at åsene rundt sentrum bare er en liten del av det hele. Innenfor Oslos grenser ligger en del av de områdene som heter Nordmarka, Lillomarka og Østmarka.
+title: Oslomarka - Guide til Oslomarka - Aktiv i Oslo
+snippet: Marka dekker tilsammen et område på 1600 kvadratkilometer. Over en million mennesker, eller nærmere en fjerdedel av Norges befolkning sogner til Oslomarka. Spørreundersøkelser bekrefter at en av de viktigste grunnen til at folk velger å bo i Oslo og omegn er nettopp marka.
+
+REL: 1
+POI Name: Bar Bache
+POI City: Stavanger
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Barbache
+snippet: Øvre Holmegate 5 4006 Stavanger - jonas@barbache.com tlf: 51 59 42 00. Følg oss på Facebook for oppdateringer og nyheter
+title: Bar Bache (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Bar Bache, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Bar Bache i Stavanger, Norge på Tripadvisor.
+title: Bar Bache (Stavanger) - 2020 All You Need to Know Before ...
+snippet: Practically the whole choir ended up at Bar Bache for three consecutive nights. Maybie it was because Bar Bach means Small Bar in the Welsh language. A very enjoyable time was had by all once you get used to the silly prices charged for beer in Norway
+title: Bar Bache AS, Stavanger - 1881.no
+snippet: Bar Bache AS fra , Rogaland. Bar og pub. Fish &amp; Cow AS Et moderne brasseri &amp; bar som er opptatt av fresh cooking og gode cocktails.Vi lager klassiske retter …; Cardinal AS Bar og pub – Stavanger; Tango Restaurant Velkommen til «nye Tango»! Vår intime restaurant med 30 sitteplasser skal sørge for at du som gjest…
+title: Favorittsted i Stavanger - Anmeldelse for Bar Bache ...
+snippet: Bar Bache: Favorittsted i Stavanger - Se 29 reiseanmeldelser, 8 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Kosing - Anmeldelse for Bar Bache, Stavanger, Norge ...
+snippet: Bar Bache: Kosing - Se 29 reiseanmeldelser, 8 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: De 10 beste hotellene i nærheten av Bar Bache - Tripadvisor
+snippet: Hoteller i nærheten av Bar Bache, Stavanger: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Bar Bache på Tripadvisor.
+title: Bar Bache - 12 Photos - Pubs - Øvre Holmegate 5, Stavanger ...
+snippet: 2 reviews of Bar Bache &quot;The most amazing bar to be at in Stavanger, if you&#39;re hanging out with friends, by your self or looking to get to know some pretty cool people!? Than this is the perfect bar for you. They have great beer on draught, and…
+title: Bar Bache AS - Stavanger - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Bar Bache AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: THE 10 BEST Restaurants Near Bar Bache in Stavanger ...
+snippet: Restaurants near Bar Bache, Stavanger on Tripadvisor: Find traveler reviews and candid photos of dining near Bar Bache in Stavanger, Norway.
+
+REL: 1
+POI Name: Sats Nationalteateret
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: SATS Nationaltheatret – Treningssenter i Oslo sentrum - SATS
+snippet: Velkommen til SATS Nationaltheatret! Treningssenteret ligger midt i Oslo sentrum og kan enkelt nås med bruk av offentlig transport. Vi tilbyr styrke, kondisjon – og gruppetrening. Våre dyktige ansatte hjelper deg i gang med målrettet og effektiv trening. Ønsker du tettere oppfølging anbefaler vi at du trener med en av våre personlige ...
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: Personlig trener Omar Payne | SATS Nationaltheatret - SATS
+snippet: Omar er personlig trener på SATS Nationaltheatret midt i Oslo sentrum. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: Personlig trener Gypsy Alexandra Romero | Nationalteateret ...
+snippet: Kontakt meg: gypsy.romero@sats.no Gypsy er positiv, energisk og kunnskapsrik. Hun har fokus på god bevegelighet, skadeforebygging og funksjonell trening. Hun har god erfaring med opptrening før og etter fødsel, tar utganspunkt i dine styrker/svakheter og bevegelighet, og vil oppmuntre deg på vei mot dine mål.. Grunnutdanning
+title: SATS – Trening, helse &amp; livskvalitet - SATS
+snippet: Uansett hvilke mål du har med treningen, har vi kunnskapen som hjelper deg med å nå dem – i tillegg til å ha det gøy på veien!
+title: SATS Nationalteateret, Vika, Oslo - 1881.no
+snippet: SATS Nationalteateret fra Vika, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Skullerud sport senter AS Trening - Treningssenter – Oslo; Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: SATS Nationaltheatret - Home | Facebook
+snippet: SATS Nationaltheatret - Ruseløkkveien 6, 0251 Oslo, Norway - Rated 4.1 based on 7 Reviews &quot;Sentralt men alt for lite utvalg av apparater. Aldri sett så...
+title: SATS Spektrum – Treningssenter i Oslo sentrum - SATS
+snippet: Velkommen til SATS Spektrum! Vi tilbyr det siste innenfor styrke, kondisjons – og gruppetrening. Vi har også muligheter for å spille squash hos oss. Våre dyktige ansatte hjelper deg i gang med målrettet og effektiv trening. Ønsker du tettere oppfølging anbefaler vi at du trener med en av våre personlige trenere. Book squash her
+title: Trening - Nordens største tilbud - SATS
+snippet: SATS forbeholder seg retten til å kontakte deg med informasjon og tilbud om trening og medlemskap via sms, telefon eller epost. Du kan når som helst kontakte SATS for å endre eller slette informasjonen om deg selv. SATS lagrer informasjonen du oppgir i tre måneder i henhold til personvernsloven og deler ikke informasjonen med tredje part.
+title: SATS Nationaltheatret - Startside | Facebook
+snippet: SATS Nationaltheatret, Oslo, Norway. 299 liker dette. SATS Nationaltheatret ligger meget sentralt og er lett tilgjengelig med offentlig transport. Vi tilbyr styrke, kondisjon – og gruppetrening. Våre...
+
+REL: 1
+POI Name: Brunkollen Turisthytte
+POI City: Eiksmarka
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Bullock
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, 
+Snippets:
+title: BULLOCK steak &amp; bar
+snippet: BULLOCK steak &amp; bar. Restaurant i to etasjer, åpent kjøkken og en koselig bar i midtetasjen. Velkommen til fantastiske biffer, drinker og koselig atmosfære!
+title: Bullock Steak &amp; Bar, Stavanger - Restaurantanmeldelser ...
+snippet: Bullock Steak &amp; Bar, Stavanger: Se 203 objektive anmeldelser av Bullock Steak &amp; Bar, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 69 av 203 restauranter i Stavanger.
+title: Bullock Steak &amp; Bar, Stavanger - Restaurant Reviews ...
+snippet: Bullock Steak &amp; Bar, Stavanger: See 203 unbiased reviews of Bullock Steak &amp; Bar, rated 3.5 of 5 on Tripadvisor and ranked #69 of 203 restaurants in Stavanger.
+title: Bullock Steak &amp; Bar - Startside - Stavanger, Norway - Meny ...
+snippet: Bullock Steak &amp; Bar, Stavanger, Norway. 5 393 liker dette · 1 snakker om dette · 5 883 har vært her. Velkommen til fantastiske biffer, tapas, drinker og koselig atmosfære! Live musikk hver fredag kl...
+title: Bullock AS, Stavanger - 1881.no
+snippet: Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat… Fisketorget Stavanger Fisketorget i Stavanger skal fremstå som et innovativt og fremtidsrettet sjømatutsalg, hvor hø…
+title: Døgnvill Burger - Burger, Bar, Milkshake og god stemning
+snippet: Kvalitet, dyrevelferd og førsteklasses råvarer er det viktigste for oss. Kjøttet vårt kommer fra Jæren, kvernes hos A. Idsøe i Stavanger og inneholder en miks av høyrygg, bringe og bog; kyrene vi bruker beiter for øvrig utendørs og drikker friskt vann, som dyr jo skal.
+
+REL: 1
+POI Name: Peppes Pizza
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Peppes Pizza
+snippet: Informasjon om kjeden, restauranter, produkter og ledige jobber. Online bestilling av Pizza.
+title: Peppes Pizza, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Peppes pizza er tilbake i Stavanger, i de tidligere lokalene til Pizza 28. Jeg er glad for at det fremdeles skal selges pizza fra disse lokalene, men Peppes pizza tilfører ikke noe nytt. Pub-feelingen til Pizza 28 er erstattet av Peppes kafe-feeling. Lokalet fremstår som... Mer. Dato for besøk: oktober 2019.
+title: Snart blir «No. 28 Pizza Pub» til «Peppes Pizza»
+snippet: Nå takker Pizza 28 for seg - og Peppes Pizza overtar. Planen er å åpne på sensommeren, før skolestart. Følg Byas på Facebook! Ikke uventet retur. Peppes la ned butikken og ble erstattet av Fish &amp; Cow i sin tid, rett og slett fordi huseier ønsket en forandring. Siden den gangen har Peppes ønsket å etablere seg på nytt i Stavanger.
+title: Peppes Pizza - Stavanger, Norway - Menu, Prices ...
+snippet: Peppes Pizza (Stavanger) Pizza Place in Stavanger, Norway. 3.5. 3.5 out of 5 stars. Community See All. 1,814 people like this. 1,863 people follow this. 253 check-ins. About See All. Øvreholmegate 12 (4,478.11 mi) Stavanger, Norway 4006. Get Directions. Peppes Pizza Location +47 51 53 28 28. www.peppes.no.
+title: Restaurant - Pizza Stavanger - 1881.no
+snippet: Restaurant - Pizza Stavanger, Spisested, Pizzarestauranter, Pizzalevering, Takeaway, Pizzautkjøring, Pizzeria
+title: Peppes Pizza-opning i Stavanger vart utsett
+snippet: Grunna ein utgått leigeavtale, har Peppes Pizza vore vekke frå Stavanger sidan 2012. I sommar vart det likevel klart at pizzakjeda skulle opne ny serveringsstad i byen, innan skulestart. Slik vart det ikkje. Ferien har gjort at arbeidet med klargjering av lokala måtte utsettast, men no nærmar det seg endeleg opning.
+title: Onsdag klipper Peppes Pizza snora i Stavanger sentrum
+snippet: Peppes Pizza vil tilbake til Stavanger og Sandnes; Snart blir «No. 28 Pizza Pub» til «Peppes Pizza» Han er en av fem personer som har tatt turen fra hovedkontoret i Oslo for å hjelpe de nye franchisetakerne med den siste finpussen. Han har også et nært forhold til Stavanger. Kvam var nemlig daglig leder ved Peppes Pizza på Torgterrassen.
+title: No er opningsdatoen for Peppes Pizza i Stavanger klar
+snippet: For rundt tre veker sidan kunne Byas melde at Peppes Pizza nok ein gong skulle opne i Stavanger, i dei gamle lokala til Nr. 28 Pizza Pub. Då fortalde investorane Petter og Hilde Bloch-Johnsen at Peppes Pizza skulle opne i midten av september.
+title: No 28 Pizza Pub - Pizza No 28 blir Peppes Pizza Stavanger ...
+snippet: Pizza No 28 blir Peppes Pizza Stavanger og åpner 16.10. Booking eller spørsmål: hilde.bloch-johnsen@peppes.no . Øvre Holmegate 12 // Tlf. 51 53 28 28. For reservasjoner til 17. mai, vennligst ring restauranten, eller send en mail til frode@no28.no.
+title: Peppes Pizza - Stavanger lufthavn - Avinor
+snippet: Peppes Pizza byr på en uformell atmosfære, hyggelige omgivelser og en variert og fristende meny. Vi serverer naturligvis favorittene som Stars or Stripes, Pepper Steak, Heavy Heaven, Fly Away og Deeper Love.
+
+REL: 1
+POI Name: Breiavatnet
+POI City: Stavanger
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Parks, Lakes, 
+Snippets:
+title: Breiavatnet (Stavanger) – Wikipedia
+snippet: Breiavatnet (historisk navneform: Brede-vandet) er et lite vatn midt i sentrum av Stavanger.. Breiavatnet får sitt vann fra Mosvatnet gjennom Kannikbekken.Utløpet var gjennom Skolebekken.Våren 1899 ble bekken lagt i rør. Det har også vært diskutert om det også har vært et utløp ned til Torget i Stavanger, men det er lite trolig.. Ved vatnet ligger blant annet Stavanger domkirke ...
+title: Breiavatnet - Wikipedia
+snippet: Breiavatnet is a small lake in the municipality of Stavanger in Rogaland county, Norway.The 0.031-square-kilometre (7.7-acre) lake is very shallow, only a few feet deep. The lake gets its water from the Kannikbekken stream, which flows from the lake Mosvatnet and runs through the city (the stream was put mostly underground in culverts and pipes in 1899).
+title: Breiavatnet og byparken | Stavanger kommune
+snippet: Breiavatnet får sitt vann fra Mosvatnet gjennom Kannikbekken. Rektor på Kongsgård er den eneste som har fiskeretten i Breiavatnet. Området er tilholdssted for ett svanepar, stokkender, toppender, sothøner og flere måkearter. Dessuten er flere mer eksotiske fugler gjester spesielt i vinterhalvåret.
+title: Stavanger – Wikipedia
+snippet: Stavanger domkirke, Byparken, Breiavatnet og Kongsgård videregående skole ligger innenfor bydelens grenser. Madla utgjør vestre del av kommunen og omfatter området vest for Stokkavatnet og Ullandhaug. Madlakrossen er bydelssenter for Madla bydel. Bydelens landareal er 13,87 km². ``Madla var egen kommune i perioden 1930–65.
+title: Byparken og Breiavatnet i Stavanger | Sandalsand Norge
+snippet: I hjertet av Stavanger ligger parken som en pryd for byen og en fryd for øyet. I fugleperspektiv tar Breiavatnet form av et hjerte. En liten geografisk orientering Parken rammes mot nord inn av middelalderens byggverk i Stavanger: Domkirken, Bispekapellet og Kongsgård. Mot øst går den gamle innfartsåren til byen, Kongsgata, med sine stilfulle …
+title: Yr – Værvarsel for Breiavatnet, Stavanger (Rogaland)
+snippet: Anbefaling Hold deg oppdatert om situasjonen. Sikre og flytt verdier bort fra utsatte områder (f. eks. i kjellere, og biler, campingvogner etc langs elver og bekker). Rens stikkrenner, kummer og andre vannveier for snø/is, jord og grus, kvist og løv, slik at vannet kan renne uhindret der det vanligvis renner.
+title: Breiavatnet (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Breiavatnet, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Breiavatnet i Stavanger, Norge på Tripadvisor.
+title: Tante Emmas hus | Stavanger kommune
+snippet: Tante Emmas Hus ligger i Kongsgata 43 langs Breiavatnet midt i Stavanger sentrum. Der finner du et stort utvalg aktiviteter for seniorer. Tante Emmas Hus har stengt; Tante Emmas Hus Historien om huset. Huset i Kongsgata 43 er oppkalt etter Emma Nielsen Øgreid, foregangskvinne innen sosialt arbeid i Stavanger. Huset ...
+title: Breiavatnet (Stavanger) - 2020 All You Need to Know BEFORE ...
+snippet: Discover the popular myths and fascinating history surrounding the Vikings on a 2.5-hour group tour in Stavanger. The kid-friendly excursion is set on the Viking Bus and led by an in-costume guide, who shares tales of battle, everyday life, and more.
+title: Breiavatnet – Store norske leksikon
+snippet: Breiavatnet, innsjø med parkanlegg i sentrum av Stavanger, Rogaland, bydel Eiganes/Våland, mellom Stavanger domkirke og Stavanger katedralskole (avd. Kongsgård) i nord og Stavanger jernbanestasjon og Busstasjonen i sør. Vannet har tradisjonelt hatt en stor bestand av ender. Det er verdt å merke seg at retten til å fiske i vannet er det bare rektor ved Stavanger Katedralskole som har.
+
+REL: 1
+POI Name: Deja Vu Delikatesser
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Specialty Food, 
+Snippets:
+title: DejaVu - Forsiden
+snippet: DejaVu - Forsiden
+title: DejaVu - Catering
+snippet: Déjà Vu Delikatesser har levert deilige måltider til lokale kunder i en årrekke. Du kan godt si at catering er en av våre spesialiteter. Enten du skal arrangere et møte, bryllup, et digert bedriftsarrangement eller en fotballkveld med kamerater, har vi menyer som passer midt i blinken. Råvarene finner vi i gangavstand fra kjøkkenet vårt.
+title: Deja Vu Delikatesser, Stavanger - Restaurantanmeldelser ...
+snippet: Deja Vu Delikatesser, Stavanger: Se 127 objektive anmeldelser av Deja Vu Delikatesser, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 46 av 203 restauranter i Stavanger.
+title: Déjà Vu Delikatesser - Family Style Restaurant - Stavanger ...
+snippet: Déjà Vu Delikatesser, Stavanger, Norway. 4,017 likes · 208 talking about this · 2,937 were here. Koselig cafe med kanskje byens beste mat og hyggelige og hjelpsomme personer bak disken :) Hos oss...
+title: Déjà Vu Delikatesser - magasinblaa.no
+snippet: Da vi åpnet Déjà Vu Delikatesser i september 2002, var målsettingen å lage ærlig og god mat som ikke er avskrekkende dyr. Det samme jobber vi for den dag i dag. Vi er heldige som befinner oss i et område med mange gode råvarer og flinke produsenter.
+title: Deja-Vu Delikatesser as | Stavanger Sentrum AS
+snippet: Hos oss ønsker vi at du skal ha det godt, enten du sitter hos oss eller har bestilt mat med hjem. En enkel lunsj for den måteholdne appetitt? Et godt, hjemmelaget måltid i spiseriet, tilberedt med de aller beste råvarer og etter alle kokekunstens regler? Hva med å ta middagen med hjem, ferdig til servering. Ikke glem å sjekke husets spesialiteter før du bestemmer deg! Våre kjennetegn ...
+title: Deja Vu Delikatesser, Stavanger - Photos &amp; Restaurant ...
+snippet: Order food online at Deja Vu Delikatesser, Stavanger with Tripadvisor: See 127 unbiased reviews of Deja Vu Delikatesser, ranked #46 on Tripadvisor among 203 restaurants in Stavanger.
+
+REL: 1
+POI Name: Kongedalen
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Lokalhistoriske bildebaser i Oslo | Kongedalen
+snippet: “Kongedalen,” Lokalhistoriske bildebaser i Oslo, besøkt 3. april 2020, http://bildebaser.deichman.no/items/show/61334.
+title: Lokalhistoriske bildebaser i Oslo | Kongedalen
+snippet: “Kongedalen,” Lokalhistoriske bildebaser i Oslo, besøkt 15. april 2020, http://bildebaser.deichman.no/items/show/61333.
+title: Yr – Værvarsel for Kongedalen, Lillestrøm (Viken)
+snippet: Du kan få svært mye av innholdet på Yr gratis, til bruk i ulike applikasjoner og tjenester. Dersom du utvikler program, nettjenester eller annet med data frå Yr, oppfordrer vi deg til å dele det du har laget med andre!
+title: Skiforeningen - bildearkivet: Det lysner i Kongedalen
+snippet: En del av Oldtidsveien går gjennom et trangt skar. Dette kalles Kongedalen, og var så smalt at det var enveiskjøring med hester her. Helt frem til 1900-tallet var veien forsynt med tverrgående stokker for at hestene lettere skulle få fotfeste, samt for at grus og småsten ikke skulle rase ut. I kveld var det overskyet her, men plutselig kom et streif av sol, og alt ble så mye lysere
+title: Skiforeningen (Markadatabasen): Oldtidsveien
+snippet: Dette var en del av stamveien mellom Oslo og Trondheim siden tidlig middelalder. Traseen over Gjellråsen går fra Stovner til Lahaugmoen. Langs veien, ... Veien er grei å gå, men i et smalt skar som heter &quot;Kongedalen&quot; er det noe steinete, så der er det greit med solid fottøy. Tweet. Bilder #24536: 03.11.2015 ...
+title: Stovnertårnet - Oldtidsveien – pilegrimsled og kongevei
+snippet: Gjelleråsen var i mange hundre år en stor og økende utfordring for veifarende mellom Oslo og Trondheim, eller mellom Oslo og Romerike. Åsen er bratt, og særlig i Kongedalen er det svært trangt og steinete. Det er så trangt noen steder i Kongedalen ovenfor Stovner at man ikke kunne passere hverandre med hest.
+title: Skiforeningen: Bildearkivet
+snippet: Det lysner i Kongedalen. En del av Oldtidsveien går gjennom et trangt skar. Dette kalles Kongedalen, og var så smalt at det var enveiskjøring med hester her. Helt frem til 1900-tallet var veien forsynt med tverrgående stokker for at hestene lettere skulle få fotfeste, samt for at grus og småsten ikke skulle rase ut.
+title: 10 steder du må oppleve i Oslomarka – Fantastiske Marka
+snippet: 2. Klokkene i Kongedalen. Folk og fe har vandret over Gjelleråsen i flere tusen år, på det vi i dag kaller Oldtidsveien over Gjelleråsen. Etter dagens standard er Oldtidsveien ikke mer enn en sti, men helt frem til 1770 var dette hovedveien mellom Oslo og Romerike.
+title: Skiforeningen - bildearkivet: Grønt i Kongedalen
+snippet: Tryvann stadion eksisterte som skøytebane 1934-1966. Det ble opprettet for å få skøyteis tidligere enn hva en kunne få til nede i Oslo. Stadionet var faktisk reservestadion til OL i Oslo 1952. Selv om selve “isflaten” senere har fått andre anvendelsesområder, kan en fortsatt finne restene av den gamle tribunen.
+title: Yr – Weather forecast for Kongedalen, Lillestrøm (Viken)
+snippet: Kongedalen; Weather forecast for Kongedalen, Lillestrøm (Viken) Updated at 23:11. Add to My places Remove from My places. Forecast as PDF. ... Oslo Telemark Vestfold Østfold South Norway Aust-Agder Vest-Agder. Polar areas Svalbard Jan Mayen Bouvetøya Troll (Antarktis) Peter I Øy Sea and offshore
+
+REL: 1
+POI Name: Lysløypa Romsås-Grorud
+POI City: Romsås
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Boliger, Stovner+Romsås+Grorud, Eiendom | FINN.no
+snippet: 92 treff i 86 annonser ved søk etter Boliger, Stovner+Romsås+Grorud, Eiendom. Mulighetenes marked Varslinger Ny annonse Meldinger Logg inn. Gå til resultat. Eiendom Bolig til salgs. 92 treff i 86 annonser. Lagre søk. Vis på kart. ... Odvar Solbergs vei 214, Oslo, Romsås.
+title: Skiforeningen (Markadatabasen): Lysløypa Romsås - Steinbruvann
+snippet: Utgangspunktet for løypa er Sverre Iversens vei på Romsås.Løypa starter like ved Romsås kirke og går først ned til sørenden av Steinbruvann.Herfra går det en avstikker ned til Badedammen på Grorud.. Løypa fortsetter nordover langs vestsiden av Steinbruvann, fram til løypekrysset ved Krutthuset.Her fortsetter løype 136 videre nordover i retning Skytta.
+title: Romsås - Grorud i
+snippet: Romsås 0-Grorud 0. Humleby kunstgress 5er C. Verifisert : Resultatet er ikke verifisert Divisjon: Gutter 08 år avd. 21: Runde: 6. runde: Hashtag: #RG125306: Kommende kamper 18 apr 2018 - 18:30 Manglerud Star 3 (H) vs. (B) Romsås ...
+title: Bydelsutvalgsmøte i Grorud: Mye å ta tak i da Romsås sto ...
+snippet: UTVIKLING AV ROMSÅS: Grorud bydelsutvalg satte av tid til å høre folkets bekymringer og tanker om Romsås. Først ut var Steinar Hansgaard, styreleder i Ravnkollen borettslag og i Romsås Vaktmestersentral.
+title: Grorud – Store norske leksikon
+snippet: Grorud er en administrativ bydel i Oslo, opprettet ved bydelsreformen i 2004 ved en sammenslåing av de to tidligere bydelene Grorud og Romsås. Grorud har et areal på 7,0 kvadratkilometer og har 27 525 innbyggere (2018), og er med dette Oslos minste bydel etter folketall. Grorud ligger i ytre by øst (Groruddalen). Den strekker seg fra og med Rødtvet i sørvest og til grensen mot Nittedal i ...
+title: Furuset+Stovner+Romsås+Grorud, Jobb | FINN.no
+snippet: Innholdet er beskyttet etter åndsverkloven. Regelmessig, systematisk eller kontinuerlig innhenting, lagring, indeksering, distribusjon og all annen form for bruk av data fra FINN.no til andre enn rent personlige formål tillates ikke uten eksplisitt, skriftlig tillatelse fra FINN.no.
+title: Grorud kart - Oslo bydeler - Detaljert kart med gater
+snippet: Grorud er et distrikt i byen av Oslo, Norge. Distriktet inneholder Ammerud, Grorud, Kalbakken, Rødtvet, Nordtvet og Romsås områdene. I nord for distriktet finner man Lillomarka, en del av Oslomarka.
+title: Romsås - Grorud 2 i
+snippet: Ingen bilder funnet på Instagram. Hashtag dine kampbilder med #RG125168 for å se de her.
+title: Skiforeningen (Markadatabasen): Lysløyper
+snippet: Løypene i Markadatabasen prepareres av Skiforeningen og en lang rekke løypelag, idrettsklubber og kommuner. Aktørene samarbeider om å tilby et unikt nett med skiløyper, føremelding og annen informasjon om løypene på nett.
+title: Oslo Svømmekrets - Idrettslag for vannidrett i Oslo og ...
+snippet: Oslo Svømmekrets - oversikt over svømmeklubber og idrettslag med svømming i Oslo - vil du stupe, spille vannpolo, gå på svømmekurs, lære livredning
+
+REL: 1
+POI Name: Roots of the Vikings
+POI City: Stavanger
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+title: Roots of the Vikings (Stavanger, Norge) - Anmeldelser
+snippet: Stavanger er en by med utrolig mange flotte museer. Roots of the Vikings er min favoritt. Museet er lite, men du lærer mye om vikingene. Du får øretelefoner på deg, og går innom ulike avlukker, eller små rom, hvor du både kan se små filmer og utstyr fra vikingtiden, og samtidig …
+title: Roots of the Vikings (Stavanger) - 2020 All You Need to ...
+snippet: Discover the popular myths and fascinating history surrounding the Vikings on a 2.5-hour group tour in Stavanger. The kid-friendly excursion is set on the Viking Bus and led by an in-costume guide, who shares tales of battle, everyday life, and more.
+title: Roots of the Vikings (Stavanger) - 2020 All You Need to ...
+snippet: Stavanger has many small attractions. Roots of the Vikings is worth a visit to enable an insight into the voyages and forays of the Vikings. Most of the exhibits are static displays with text in more than one language. Our interest was for the voyages to the east coast of …
+title: Roots of the Vikings (Stavanger, Norge) - Anmeldelser
+snippet: Roots of the Vikings, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Roots of the Vikings i Stavanger, Norge på Tripadvisor.
+title: Godt tiltak - Anmeldelse for Roots of the Vikings ...
+snippet: Stavanger er en by med utrolig mange flotte museer. Roots of the Vikings er min favoritt. Museet er lite, men du lærer mye om vikingene. Du får øretelefoner på deg, og går innom ulike avlukker, eller små rom, hvor du både kan se små filmer og utstyr fra vikingtiden, og samtidig få masse informasjon gjennom øretelefonene.
+title: Interessant om vikingene - Anmeldelse for Roots of the ...
+snippet: Roots of the Vikings: Interessant om vikingene - Se 42 reiseanmeldelser, 17 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Roots of the Vikings (Stavanger) - Aktuelle 2020 - Lohnt ...
+snippet: Hotels in der Nähe von Roots of the Vikings: (0.99 km) Darby&#39;s Inn (0.28 km) Thon Hotel Stavanger (0.59 km) Radisson Blu Atlantic Hotel, Stavanger (0.68 km) Clarion Hotel Stavanger (0.84 km) Scandic Stavanger Park; Sehen Sie sich alle Hotels in der Nähe von Roots of the Vikings auf Tripadvisor an.
+title: Roots of the vikings - Startside | Facebook
+snippet: Roots of the vikings – Østervågkaien 39, 4006 Stavanger, Norway – Vurderingen 3.3 basert på 4 anmeldelser &quot;Well curated fascinating exhibits. Cafe...
+title: Roots of the Vikings (Stavanger) - 2020 Qué saber antes de ...
+snippet: Stavanger tiene muchas atracciones pequeñas. Merece la pena visitar Roots of the Vikings para conocer mejor los viajes y las incursiones de los vikingos. La mayoría de las exhibiciones son pantallas estáticas con texto en más de un idioma. Nuestro interés era por los viajes a la …
+title: Roots of the vikings, Østervågkaien 39, Stavanger (2020)
+snippet: Det er med stolthet vi kan fortelle at Roots of the Vikings har blitt kåret via tripadvisor.com som turistattraksjon nr 8 i Stavanger av totalt 40 vurderte attraksjoner! Utstillingen er på 9 ulike språk nå. Åpningstider på www.rootsotv.no
+
+REL: 1
+POI Name: Treningscamp
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Treningscamp
+snippet: En løpegruppe med lavterskel gratistrening for både menn og kvinner på alle nivåer.
+title: Oslo Fotballdommerlaug
+snippet: MERK: Ved bestilling av dommer senere enn én uke før kamp, økes administrasjonsgebyret til 250 / 200. Administrasjonsgebyret går til drift av lauget og sosiale aktiviteter for dommere i Oslo. Ved bestilling av dommere fra 48 timer før kamp frem til kampstart settes adm.gebyret til 350,- /300,-.
+title: Oslo Fotballdommerlaug
+snippet: Oslo Fotballdommerlaug organiserer dommere i Oslo Fotballkrets. Bestill dommer til treningskamper og les siste dommernytt. Oslo Fotballdommerlaug organiserer dommere i Oslo Fotballkrets. ... Fotballag i Oslo kan enkelt bestille dommer til treningskamp i vinter.
+title: Apollos treningscamp | Aktiv ferie | Apollo
+snippet: Apollocamp på Kreta høsten 2020. Flere enn 120 timer trening i uken.. Bli med på Apollo høstcamp – vi arrangerer nå alle kvinners drømmeuke! Få en kickstart med fornyet energi, en sprekere kropp og et uthvilt sinn – sammen med dyktige instruktører reiser vi på en ukes aktiv ferie til Kreta.
+title: Treningsreiser | En aktiv ferie | Apollo Reiser
+snippet: Apollos treningscamp. Tidligere KK-camp blir nå Apollos treningscamp – alle kvinners drømmeuke! Velg blant 120 ulike gruppetimer, spis god mat, få nye venninner, le og slapp av! Les mer om Apollos treningscamp og bestill
+title: Treningscamp, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Treningscamp Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Treningscamp, Ensjø, Oslo - 1881.no
+snippet: Treningscamp fra Ensjø, Oslo. Idrettslag og -klubber. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Apollos Treningscamp, Kirkegata 15 0153 OSLO, Oslo (2020)
+snippet: Hjem &gt; Norge &gt; Oslo &gt; Apollos Treningscamp . ... Tidligere KK-camp blir nå Apollos treningscamp – og vi arrangerer nå alle kvinners drømmeuke! Få en kickstart med fornyet energi, en sprekere kropp og et uthvilt sinn – sammen med dyktige instruktører reiser vi på en ukes aktiv ferie til Rhodos.
+title: Apollos treningscamp | Aktiv ferie | Apollo
+snippet: Apollocamp på Kreta våren 2020. Bli med på Apollo vårcamp – vi arrangerer nå alle kvinners drømmeuke! Få en kickstart med fornyet energi, en sprekere kropp og et uthvilt sinn – sammen med dyktige instruktører reiser vi på en ukes aktiv ferie til Kreta.
+title: Treningskamp.no AS, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Treningskamp.no AS Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+
+REL: 1
+POI Name: Sognsvann Rundt Medsols
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Sognsvann Rundt Medsols | 3 løpskaruseller i Oslo
+snippet: 3 løpskaruseller i Oslo. Sognsvann Rundt Medsols (SRM), Motbakkeløpene i Maridalsalpene (MIM), Øyakarusllen (ØYA)
+title: Sognsvann Rundt Medsols - Sognsvann Rundt Medsols
+snippet: Som løper i Oslo hadde du 43 løp å velge mellom etter 7.mars fortalte Norges beste terminliste. Nå som Sognsvann Rundt Medsols også er å finne på terminlista har du 74 løp å velge mellom. Foto: På sin vei mot sykkeltoppen løp Carl Fredrik Hagen bl.a. Sognsvann Rundt Medsols, som her i 2012.
+title: Om SRM - Sognsvann Rundt Medsols
+snippet: Sognsvann Rundt Medsols (SRM) er et karuselløp som løpes på grusveien lengst nederst mot Sognsvann. Karuselløpet går hver onsdag fra april til oktober. Inklusive hele fellesferien og andre dager som skulle falle på fridager.
+title: SRM - Sognsvann Rundt Medsols - Sognsvann Rundt Medsols
+snippet: Sognsvann Rundt Medsols
+title: Sognsvann Rundt Medsols - Home | Facebook
+snippet: Sognsvann Rundt Medsols, Oslo, Norway. 2.2K likes. 30 races around Sognsvann every wednesday april - october.
+title: Sognsvann Rundt Medsols - Sognsvann Rundt Medsols
+snippet: Senere blir det både Råskinnet (utsatt i to uker) , Oslo Triathlon, Nordmarka Skogsmaraton og Nordmarkstravern for å nevne noen av de kondisjonerte eventyrene du kan oppleve her. Men først ute er altså Sognsvann Rundt Medsols. For 500. gang skal store og små glede seg over å rase avgårde i herlige driv rundt vårt kjære vann.
+title: Sognsvann Rundt Medsols | Emit
+snippet: Emit AS, Bedriftsveien 10, N-0950 Oslo, Norway | Tel: 22910300 | Fax: 22910301 | Epost: emit@emit.noemit@emit.no
+title: Sognsvann Rundt Medsols - Startside | Facebook
+snippet: Sognsvann Rundt Medsols – Sognsvann, 0870 Oslo, Norway – Vurderingen 5 basert på 24 anmeldelser &quot;Det var her jeg &quot;lærte&quot; å løpe, ta tiden, og mest av alt...
+title: Sognsvann – Wikipedia
+snippet: Sognsvann er for øvrig ideelt til trening og jogging; løypa er 3 258 meter lang. Mange treningsklubber ol. pleier å løpe rundt Sognsvann, og blant annet finnes et ukentlig løp i sommerhalvåret – Sognsvann rundt, medsols. Også Oslo Triathlon – og mange andre populære aktiviteter både for idrettsutøvere, friluftsentusiaster og andre ...
+title: Rundt Sognsvann - ut på tur - turforslag
+snippet: Sognsvann ligger idyllisk til i Nordmarka kun en kort T-Banetur fra Oslo sentrum. Fin helårs turvei rundt vannet. ... Turveien rundt Sognsvann er muligens en av Norges mest populære turveier. Den indre løypa er ca 3.5 kilometer lang og går stort sett langs bredden på Sognsvann.
+
+REL: 1
+POI Name: Farmasihytta
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Farmasøytenes Idrettsforening - Farmasøytisk institutt
+snippet: Farmasihytta. Farmasistudentene har tilgang til egen hytte i Nordmarka som eies og drives av FIF. Hytta ligger ved Blankvann, under en times gange fra Frognerseteren eller Sørkedalen. Om vinteren er hytta et ypperlig utgangspunkt for skiturer, om sommeren er det bademuligheter og turterreng rett utenfor døra.
+title: Farmasihytta - Hiking - Blankvann, Oslo, Norway - Yelp
+snippet: Farmasihytta in Oslo, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Oslo and beyond.
+title: Farmasihytta - Oslo, Norway - Cabin | Facebook
+snippet: Farmasihytta, Oslo, Norway. 4 likes · 101 were here. Cabin
+title: Renovasjon av yttertømmervegg på Farmasihytta - Oslo ...
+snippet: 0170 Oslo. Farmasihytta er fra 1920-tallet og bygget i laftet tømmer. Grunnmuren er gråsteinsmur og det er varierende avstand fra bunnstokken og ned til terreng. Det har på Farmasihytta i Nordmarka blitt registrert både nedbrutt trevirke i bunnstokker, samt insektsangrep.
+title: | En blogg for nye farmasistudenter og faddere ved ...
+snippet: august 21, 2013 fadderuka, fadderuken, Farmasøytisk Institutt, farmasi, Farmasihytta, Oslo Legg igjen en kommentar. Rebusløp og hyttetur by Farmasi fadderordning 2013. Litt informasjon ang. hytteturen og rebusløpet: Rebusløp på torsdag Vi møtes på trappen kl. 16:00 hvor vi deles inn i lag og oppgavene utdeles.
+title: Livet rundt studiene - Farmasøytisk institutt
+snippet: Studentforeninger, arrangementer, tidsskrift, studentpolitikk. Farmasøytenes Idrettsforening (FIF) er en forening av og med farmasistudenter og farmasøyter, som har til formål å drive Farmasihytta og generelt fremme idretten blant studenter og farmasøyter.
+title: FIF - Farmasøytenes Idrettsforening - Posts | Facebook
+snippet: FIF - Farmasøytenes Idrettsforening, Oslo, Norway. 274 likes. Farmasøytenes Idrettsforening (FIF) er en forening av og med farmasistudenter og farmasøyter, som har til formål å drive Farmasihytta og...
+title: Oslo
+snippet: august 21, 2013 fadderuka, fadderuken, Farmasøytisk Institutt, farmasi, Farmasihytta, Oslo Legg igjen en kommentar. Rebusløp og hyttetur by Farmasi fadderordning 2013. Litt informasjon ang. hytteturen og rebusløpet: Rebusløp på torsdag Vi møtes på trappen kl. 16:00 hvor vi deles inn i lag og oppgavene utdeles.
+title: FIF - Farmasøytenes Idrettsforening, Sem Sælandsvei 3 ...
+snippet: Farmasøytenes Idrettsforening (FIF) er en forening av og med farmasistudenter og farmasøyter, som har til formål å drive Farmasihytta og fremme idrett. FIF - Farmasøytenes Idrettsforening, Sem Sælandsvei 3, Oslo (2020)
+title: Student- hyttene - SiO - Yumpu.com
+snippet: I alle skogsområdene rundt Oslo er det muligheter for mange. og varierte aktiviteter. Det er mange veier, stier og løyper. som gjør det enkelt å komme seg fram. Studenthyttene er. gode utgangspunkt for dagsturer. Husk at det også er mange. serveringssteder i marka som er åpne i helgene. For mer informasjon om ulike aktiviteter:
+
+REL: 1
+POI Name: Korketrekkeren
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Skiing, Sledding, 
+Snippets:
+title: Akeforeningen i Oslo, AFO. Kjelkeutleie i Korken
+snippet: Akeforeningen i Oslo (AFO) er grunnlagt i 1905 og er en idrettsforening for barn, ungdom og voksne. Vår hoved inntektskilde er kjelkeutleie i Korketrekkeren om vinteren. Når du leier en kjelke, støtter du samtidig frivillig arbeid med barn og ungdom.
+title: Korketrekkeren - Oslo
+snippet: NB! Korketrekkeren er kun åpen når det er nok snø i bakken. Føremelding på akeforeningen.no Kjelke- og rodelutleie Det er gratis å ake i Korketrekkeren, men leie av trekjelke eller rodel koster ca. 100–150 kroner. Du kan også ta med egen kjelke.
+title: AFO Kjelkeutleie i Korketrekkeren, Oslo. | Akeforeningen i ...
+snippet: La far kjøre med familiens yngste, og la fartsgale mor ta’n helt ut og suse inn i “Dødsen“, liggende perfekt lavt på kjelken. Korketrekkeren passer for alle og er ingen bob- og akebane slik du har sett den på tv fra Lillehammer. Farten bestemmer du selv ved å bremse kjelken slik du gjorde da du var liten.
+title: Korketrekkeren - Aktiv I Oslo.no
+snippet: Korketrekkeren Akebakken over alle akebakker! Korketrekkeren er akebakken over alle akebakker i Oslo-området. Mange tror at den berømte bakken ble benyttet til bob-bane under OL i Oslo i 1952. Det er ikke riktig, bobbanen fra OL lå mye lengre øst en akebakken, deler av traseen er i dag skiløypen mellom Frognerseteren og Svandstuen.
+title: Korketrekkeren - Ski- og akeanlegg - Oslo kommune
+snippet: Korketrekkeren, 0791 OSLO. Fra Frognerseteren til Midtstuen. Korketrekkeren. Ca. 2 700 meter lang med en fallhøyde på 255 meter. En tur ned Korketrekkeren tar ca. 8-10 minutter uten stopp. Husk hjelm. T-banen fra Midstuen til Frognerseteren tar ca. 13 minutter. Fasiliteter.
+title: Toboggan run: Korketrekkeren - Norway
+snippet: Full speed down Oslo&#39;s most popular tobbogan run. Oslo&#39;s most popular toboggan run starts at Frognerseteren and ends at Midtstuen metro station. At the end of a run, you can take a 16-minute metro ride back up to Frognerseteren for another go. Korktrekkeren is 2,000 metres long, and the elevation drop is 255 metres.
+title: Korketrekkeren – Wikipedia
+snippet: Korketrekkeren eller Korken er en akebakke i Oslo på ca. 2 500 meter [trenger referanse] som går fra Frognerseteren stasjon til Midtstuen stasjon.Fallhøyden er på 255 meter. Akebakken blir stort sett preparert hver morgen i vintersesongen. Ansvarlig for vedlikehold er Oslo kommune.Nedenfor Midtstuen stasjon er det også mulig å ake videre ned til Skådalen stasjon.
+title: Korketrekkeren (Oslo, Norge) - Anmeldelser - Tripadvisor
+snippet: Korketrekkeren, Oslo: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Korketrekkeren i Oslo, Norge på Tripadvisor.
+title: Korketrekkeren (Oslo) - 2020 All You Need to Know BEFORE ...
+snippet: Oslo Discovery Tour: Holmenkollen, Vigeland Park, Fram and Viking Ship Museum ( 50 ) Perfect for first-time visitors and those with limited time, this comprehensive coach tour of Oslo takes you to the city&#39;s most important attractions, including Vigeland sculpture park and Holmekollen ski jump, as well as the Fram and Viking Ship Museums.
+title: Korketrekkeren - Wikipedia
+snippet: Korketrekkeren (direct translation: &quot;The Corkscrew&quot;) is a tobogganing track and former bobsleigh and luge track in Oslo, Norway.The tobogganing track runs between Frognerseteren and Midtstuen and is operated as a public venue by the municipality. Return transport to the top of the hill is undertaken by riding the Oslo Metro&#39;s Holmenkollen Line.
+
+REL: 1
+POI Name: Gaffel & Karaffel
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: Gaffel &amp; Karaffel – Stavanger, Norway
+snippet: Gaffel &amp; Karaffel . Vi har åpent! Vår nye restaurant har nå fått navnet Nick &amp; Jonnies Restaurant &amp; Bar. Les mer. Bestill bord . Nick and Jonnies. ... Stavanger Vinfest 2020. Grunnet Covid-19 utbruddet er Stavanger Vinfest blitt utsatt til 16. – 19. september 2020.
+title: Gaffel &amp; Karaffel, Stavanger - Restaurantanmeldelser ...
+snippet: Gaffel &amp; Karaffel, Stavanger: Se 105 objektive anmeldelser av Gaffel &amp; Karaffel, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 44 av 203 restauranter i Stavanger.
+title: Nick &amp; Jonnies Restaurant &amp; Bar – Gaffel &amp; Karaffel
+snippet: Vår restaurant Nick &amp; Jonnies Restaurant &amp; Bar er oppkalt etter våre 2 kjøkkensjefer Nick Horner og Jonnie Nyberg. Velkommen til Stavangers mest moderne Bistro!
+title: Selskapslokaler i Stavanger, Stavanger Sentrum – Gaffel ...
+snippet: Gaffel &amp; Karaffel et selskapslokale i Stavanger Stavanger Sentrum. På Gaffel&amp;Karaffel er det rom for det meste. Formelle konferanser eller intime middagsselskap. Julebord og guttekveld, bryllup og femtiårslag. Skal dere ha et lukket arrangement og ønsker lunsj eller middag i restauranten utenom de ordinære åpningstidene, fikser vi det. Bare fortell oss hva dere ønsker!
+title: Gaffel &amp; Karaffel - Home - Stavanger, Norway - Menu ...
+snippet: Gaffel &amp; Karaffel - Øvre Holmegate 20, 4006 Stavanger, Norway - Rated 4.5 based on 108 Reviews &quot;One of the best restaurants in stavanger. Amazing staff....
+title: Gaffel &amp; Karaffel, Stavanger - 1881.no
+snippet: Gaffel &amp; Karaffel fra , Rogaland. Restaurant. Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat… Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa…
+title: Gaffel &amp; Karaffel – inStavanger
+snippet: Gaffel &amp; Karaffel is a unique restaurant and culture scene located in the city center. The restaurant serves tapas, snacks and a full à la carte menu in combination with one of Stavanger’s best wine lists and wine cellar.
+title: Gaffel &amp; Karaffel - Posts - Stavanger, Norway - Menu ...
+snippet: Gaffel &amp; Karaffel, Stavanger, Norway. 2.5K likes. Restauranthuset Gaffel &amp; Karaffel Nick &amp; Jonnies Restaurant &amp; Bar Selskapslokaler Tlf: 51 86 41 58 booking@gaffelogkaraffel.no www.gaffelogkaraffel.no
+title: Gaffel &amp; Karaffel - Innlegg - Stavanger, Norway - Meny ...
+snippet: Gaffel &amp; Karaffel, Stavanger, Norway. 2,5 k liker dette. Restauranthuset Gaffel &amp; Karaffel Nick &amp; Jonnies Restaurant &amp; Bar Selskapslokaler Tlf: 51 86 41 58 booking@gaffelogkaraffel.no...
+title: Golfklubben – Gaffel &amp; Karaffel
+snippet: THE WEDGE og 4 KAFE på Stavanger Golfklubb Her kan vi arrangere festmiddager med underholdning fra egen scene, show, konserter, foredrag, jubileum, vinsmakinger, bryllup og konferanser. Se vår selskapsmeny
+
+REL: 0
+POI Name: Skar
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Oslo - Skatteetaten
+snippet: I mars/april hvert år får alle som mottar lønn, pensjon eller uføretrygd en skattemelding. Her kan du se, endre eller levere skattemeldingen din.
+title: Skar leir: fra vaktbu til varmestue - Slik bygger vi Oslo ...
+snippet: Skar leir er en tidligere militærleir som ligger innerst i Maridalen. Oslo kommune kjøpte leiren av Forsvarsbygg i 2007, for å sikre verdifulle arealer i marka og se på mulig bruk til kommunale formål. Skar leir består av 21 bygninger og eiendommen strekker seg over 225 dekar. Skar leir ...
+title: Hva skjer i Oslo? Arrangementskalender - Oslo, Norway
+snippet: Vi vet hva som skjer i Oslo! Stor kalender med arrangement: konserter, teater, festival, show, marked, opera, sport og mye mer.
+title: Skiforeningen (Markadatabasen): Skar
+snippet: Skar ligger innerst i Maridalen, og har stor P-plass og bussforbindelse. Stedet er et bra utgangspunkt for turer innover i de østlige delene av Nordmarka syd. Nærmeste store vann, er idylliske Øyungen.
+title: Skar leir – Wikipedia
+snippet: Etter utbruddet av krigen i Norge og tyskernes suksessfulle inntog i Oslo den 9. april, hensatte Bjerke batteri av Oslo luftvernavdeling sitt materiell på Skar leir etter å ha blitt beordret nordover mot hærens hovedstyrker. Bakkepersonellet fra Jagevingen på Fornebu samlet seg samtidig på Skar etter at luftkampene over flyplassen var over.
+title: Det skjer i Oslo - Arrangementer og aktiviteter i Oslo
+snippet: Oslosurf Det skjer i Oslo er en ledende byguide for Oslo med 25.000 besøkende hver uke. Vi utgir også byens største kultur-nyhetsbrev som sendes på epost til 20.000 mottakere hver uke. Nyhetsbrevet er selvsagt gratis og du kan melde deg på her: Få Nyhetsbrev Tips Hva-skjer
+title: Yr – Værvarsel for Skar, Oslo (Oslo)
+snippet: Norske stedsnavn på Yr er hentet fra Kartverket. Skrivemåter og navn er sist oppdatert i februar 2015. Godkjente skrivemåter: Skar (godkjent av Kartverket i 1981), Skar søndre (godkjent av Kartverket i 1981), Søndre Skar (godkjent av Kartverket i 1981 ...
+title: Hva skjer i Oslo? - Oslo, Norway - Official travel guide
+snippet: Bli kjent med Oslos rikholdige kulturliv – et av Europas aller beste. Våre oppdaterte kalendere viser deg alt det spennende som skjer i Oslo fremover
+title: Det gode liv i Skar leir - Byplan - Oslo kommune
+snippet: En tidligere militærleir som Oslo kommune kjøpte av Forsvarsbygg i 2007. Eiendommen strekker seg over 225 dekar og består av 21 bygninger. Skar leir ligger innerst i Maridalen, nord for Maridalsvannet og ved endestasjonen for bussen til Maridalen. Sør for porten inn til leiren ligger en stor parkeringsplass, anlagt som utfartsparkering.
+title: Skaar Tekstil as
+snippet: Vårt varelager består i hovedsak av ullstoffer i mange forskjellige kvaliteter og stort fargeutvalg
+
+REL: 0
+POI Name: India Tandoori Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: indiatandoori
+snippet: Familien Singh åpnet i 1991 India Tandoori i Stavanger som i dag er Norges eldste Indiske restaurant. Et besøk hos oss blir garantert en opplevelse i eksotiske smaker og kultur. Vår mat og interiør er inspirert av provinsen Panjab/Rajasthan nordvest i India.
+title: India Tandoori, Stavanger - Restaurantanmeldelser ...
+snippet: India Tandoori, Stavanger: Se 193 objektive anmeldelser av India Tandoori, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 64 av 203 restauranter i Stavanger.
+title: India Tandoori, Stavanger - Valberggt. 14 - Restaurant ...
+snippet: India Tandoori, Stavanger: See 193 unbiased reviews of India Tandoori, rated 3.5 of 5 on Tripadvisor and ranked #64 of 203 restaurants in Stavanger.
+title: Bryne — indiatandoori
+snippet: Velkommen til vår ny restaurant på Bryne: Bestill Online Takeaway - Bryne. LAURITZ BELLESNES GATE 25, 4340 Bryne. M. 90257533 | bryne@tandoori.no . Top. AVDELINGER . Stavanger: Valberggata 14 4006 Stavanger
+title: Stavanger — indiatandoori
+snippet: Familien Singh åpnet i 1991 India Tandoori i Stavanger som i dag er Norges eldste Indiske restaurant. Restauranten er kjent for sitt stemningsfulle interiør der vi har dyrket Gufa-stilen med buet tak og autentisk indisk dekorasjon. Take Away. Nesten all maten vi serverer i restauranten kan du også få som Take Away. Se meny her.
+title: De 5 beste indiske restaurantene i Stavanger - Tripadvisor
+snippet: Beste indiske restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor. Stavanger. Turisme i Stavanger ... India Tandoori. 193 anmeldelser Stenger om 21 min. Indisk, Asiatisk $$ - $$$
+title: India Tandoori Restaurant | Stavanger Sentrum AS
+snippet: Ekte indisk mat i 25 årFamilien Singh åpnet i 1991 India Tandoori i Stavanger som i dag er Norges eldste Indiske restaurant. Vi feirer 25 års jubileum ved å åpne ny restaurant i Sandnes sentrum. Velkommen til India Tandoori i Sandnes og Stavanger.
+title: India tandoori restaurant AS, Stavanger - 1881.no
+snippet: India tandoori restaurant AS fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+title: Mogul India - Food delivery - Stavanger - Order online
+snippet: Order Online for Takeaway / Delivery or Book a Table. Here at Mogul India - Stavanger you&#39;ll experience delicious Indian cuisine. Try our mouth-watering dishes, carefully prepared with fresh ingredients! At Mogul India, our recipe for success is simple – Great food &amp; care makes customers return every time.
+title: Take away fra India Tandoori - Stavanger Stavanger ...
+snippet: Restauranten er ikke aktiv. Vennligst gå til forsiden. Streetfood Tandoori Ikoniske Curries Singh Signaturretter Fra Havet Vegetar Vegan Biryani Nan Brød Drikke Streetfood. ... Bestill fra India Tandoori - Stavanger Stavanger &amp; Sandnes online | Matlevering hjem på døren ...
+
+REL: 0
+POI Name: China House
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Mongolian, 
+Snippets:
+title: China Town Stavanger – Kinesisk mat laget på ekte kinesisk vis
+snippet: China town Stavanger meny inneholder mat laget på ekte kinesisk vis og krysning av ulike stiler (Fusion). Vi henter inspirasjon til vår meny fra både Norge og Østen; husmannskost og fine-dining; tradisjon og innovasjon. I løpet av årene har vi skapt flere unike retter, gjort tolkninger av tradisjonsrike retter og utviklet vår egen stil.
+title: China House og Malin restauranter
+snippet: China House har restaurantar i Sogndal, Voss, Odda og Årdal. Her tilby vi klassisk kinamat og tradisjonelle norske rettar.
+title: China house AS, Stavanger - 1881.no
+snippet: China house AS fra , 101655943S1 - China house AS
+title: De 10 beste kinesiske restaurantene i Stavanger - Tripadvisor
+snippet: Beste kinesiske restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Restaurant - Kinesisk Stavanger - 1881.no
+snippet: Restaurant - Kinesisk Stavanger, Kinamat, Spisested, Kinarestauranter. Restaurant - Kinesisk Stavanger (7) China grill
+title: MENY – China Town Stavanger
+snippet: Her på China Town fokuserer vi på de delikate rettene fra det Kantonesiske kjøkken og de sterke rettene fra det Szechuanske. Kinesisk mat og kultur handler om å utforske de ulike matretningene i det store landet; og de mange rettene vil danne en sosial ramme rundt måltidet – derfor er à la carte rettene våre lagt opp til nettopp dette.
+title: En smak av Østen på Stord – China House Stord
+snippet: China House Stord er en kinesisk restaurant på Stord. Vi tilbyr en smakfull asiatisk opplevelse i hyggelige omgivelser. Velkommen til oss! Vår meny. Bestill Bord. Ta med maten hjem. China House Stord tilbyr take away for deg som helst vil nyte maten hjemme.
+title: China House, Haugesund - Restaurantanmeldelser - Tripadvisor
+snippet: China House, Haugesund: Se 27 objektive anmeldelser av China House, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 22 av 50 restauranter i Haugesund.
+title: Forside | China Palace AS
+snippet: China Palace har holdt til i Bergen siden 1986. Vi befinner oss midt i Bergen sentrum og serverer tradisjonell kinesisk mat av høy kvalitet. China Palace er en av de eksklusive kinesiske restauranter i Bergen, med vakker kinesiske interiør og gode mat.
+title: China House Fusion Sushi - Sushirestaurant - Bergen ...
+snippet: China House Fusion Sushi. 265 liker dette. We are an Asian fusion restaurant serving warm kitchen food and sushi at an affordable price. We always offer promotions to our clientele. Like our page!
+
+REL: 0
+POI Name: Olivia Torget
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Torget - Olivia Restaurant
+snippet: Olivia Torget ligger i Vågen, Stavanger, med utsikt over havnen og bryggen. Restauranten går over to etasjer med vinduer langs alle veggene med utsikt mot Torget og Vågen, og er dermed det perfekte stedet å sitte og titte på folkelivet i Stavanger.
+title: Olivia Torget, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Olivia Torget, Stavanger: Se 368 objektive anmeldelser av Olivia Torget, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 17 av 203 restauranter i Stavanger.
+title: Olivia Stavanger - Anmeldelse for Olivia Torget, Stavanger ...
+snippet: Olivia Torget: Olivia Stavanger - Se 368 reiseanmeldelser, 108 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Olivia Torget, Stavanger | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Olivia Torget Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+title: Olivia Torget, Stavanger - Menu, Prices &amp; Restaurant ...
+snippet: Olivia Torget, Stavanger: See 368 unbiased reviews of Olivia Torget, rated 4 of 5 on Tripadvisor and ranked #17 of 203 restaurants in Stavanger.
+title: OLIVIA TORGET, Stavanger - Updated 2020 Restaurant Reviews ...
+snippet: Olivia Torget, Stavanger: See 368 unbiased reviews of Olivia Torget, rated 4 of 5 on Tripadvisor and ranked #17 of 203 restaurants in Stavanger.
+title: Olivia Torget - Home - Stavanger, Norway - Menu, Prices ...
+snippet: Olivia Torget - Kongsgårdsbakken 1, 4005 Stavanger, Norway - Rated 4.1 based on 44 Reviews &quot;The worst calzone i have ever eaten, but the restaurant is fine&quot;
+title: Olivia Restaurant – Olivia Restaurant
+snippet: Olivia is authentic Italian food in a modern and cosy surroundings, with colleagues and a service that shines of fellowship and passion – just like in an Italian family. Our first restaurant opened its doors on Aker Brygge, Oslo in 2006. Today, we have eight restaurants in five different cities in Norway and Sweden.
+title: THE 10 BEST Restaurants Near Olivia Torget in Stavanger ...
+snippet: Restaurants near Olivia Torget, Stavanger on Tripadvisor: Find traveler reviews and candid photos of dining near Olivia Torget in Stavanger, Norway.
+title: Olivia Restaurant – Olivia Restaurant
+snippet: Vår restaurant i Stavanger er inspirert av fiskelandsbyen Portofino. I november 2018 åpnet vi vår aller nyeste restaurant i Gøteborg, som er den første Oliviarestauranten utenfor Norge, og som derfor også henter inspirasjon fra Napoli, i likhet med Olivia Aker Brygge.
+
+REL: 0
+POI Name: Yummy India
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: Yummy India, Stavanger - Restaurantanmeldelser - TripAdvisor
+snippet: Spise middag i Stavanger: Se 43 anmeldelser fra TripAdvisor-reisende av 211restauranter i Stavanger, og søk etter kjøkken, pris, sted og mer.
+title: De 10 beste restaurantene i Stavanger - Tripadvisor
+snippet: Beste restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor. Stavanger. Turisme i Stavanger Hotell i Stavanger Bed and Breakfast i Stavanger Pakkereiser til Stavanger ... Mogul India. 601 anmeldelser Stengt n ...
+title: Yummy India fikk åpne igjen - Aftenbladet
+snippet: Onsdag ettermiddag måtte Yummy India stenge teltet sitt på Gladmatfestivalen etter at Mattilsynet hadde vært på befaring. — De hadde ikke kjølekapasitet til maten sin, og hadde heller ikke håndvask, sier Arve Kolbeinsen, førsteinspektør i Mattilsynet. Klokka 19.20 har Mattilsynet åpnet Yummy India igjen.
+title: Brunt og trist - Anmeldelse for Yummy India, Stavanger ...
+snippet: Yummy India: Brunt og trist - Se 43 reiseanmeldelser, 5 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Veldig god mat - Anmeldelse for Yummy India, Stavanger ...
+snippet: Yummy India: Veldig god mat - Se 43 reiseanmeldelser, 5 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Sjarmerende service og super mat - Yummy India
+snippet: Yummy India: Sjarmerende service og super mat - Se 43 reiseanmeldelser, 5 objektive bilder og gode tilbud på Stavanger, Norge på TripAdvisor.
+title: Yummy India - Indian - Hospitalsgata 4, Stavanger, Norway ...
+snippet: 1 review of Yummy India &quot;I loved this place...I went there on Chirstmas Day; Not too full, not too empty. Decoration was very ethnic, chairs huge, squared, heavy (hence the four stars). Service was nice and kind. Owners spoke Norwegian, English,…
+title: Restauranteiere risikerer lang ... - Stavanger Aftenblad
+snippet: Restauranteiere risikerer lang fengselsstraff for grov menneskehandel . STAVANGER: Ekteparet som drev restauranten Yummy India i Stavanger sentrum risikerer to år og fem måneders fengsel om de blir funnet skyldige i grov menneskehandel til tvangsarbeid.
+title: Yummy India, Stavanger - Oregano.no
+snippet: Du er her: Forsiden &gt; Restauranter &gt; Stavanger &gt; Sentrum &gt; Yummy India Yummy India Upåklagelig service og variert blanding av 100 % sunn og frisk tradisjonell indisk mat med prangende vinsamling.
+title: welcome area - Picture of Yummy India, Stavanger - TripAdvisor
+snippet: Yummy India, Stavanger Picture: welcome area - Check out TripAdvisor members&#39; 12,154 candid photos and videos of Yummy India
+
+REL: 0
+POI Name: Fargegaten
+POI City: Stavanger
+POI Country: NO
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, Local Flavor, 
+Snippets:
+
+
+REL: 0
+POI Name: Skagen Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, Wine Bars, 
+Snippets:
+title: Nytt tiår, nye smaker! | Skagen Restaurant
+snippet: I tillegg har han eid og drevet Restaurant Nero Målsettingen hans for Skagen Restaurant er å bli blant de beste i Stavanger på matopplevelse, og den reisen starter med en kombinasjon av smilende, kapable ansatte og gode norske råvarer.
+title: Skagen Restaurant, Stavanger - Restaurantanmeldelser ...
+snippet: Skagen Restaurant, Stavanger: Se 125 objektive anmeldelser av Skagen Restaurant, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 92 av 203 restauranter i Stavanger.
+title: Skagen Restaurant, Stavanger - Restaurant Reviews, Photos ...
+snippet: Skagen Restaurant, Stavanger: See 125 unbiased reviews of Skagen Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #92 of 203 restaurants in Stavanger.
+title: JULEMENY 2019 - Nytt tiår, nye smaker! | Skagen Restaurant
+snippet: Klart det ser lekkert ut. Klart tilbehøret er på plass. Men kommer juleribba med sprø svor? Ja, det gjør den.
+title: Skagen Restaurant - Startside - Stavanger, Norway - Meny ...
+snippet: Skagen Restaurant – Skagenkaien 13, 4006 Stavanger, Norway – Vurderingen 4.1 basert på 79 anmeldelser &quot;An outstanding meal served plainly with local...
+title: THE 10 BEST Restaurants in Stavanger - Updated April 2020 ...
+snippet: Best Dining in Stavanger, Stavanger Municipality: See 19,802 Tripadvisor traveler reviews of 232 Stavanger restaurants and search by cuisine, price, location, and more.
+title: Beste spisesteder i nærheten av Skagenkaien, Stavanger
+snippet: Restauranter i nærheten av Skagenkaien på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Skagenkaien, Stavanger.
+title: De 10 beste restaurantene i Skagen - Tripadvisor
+snippet: Beste restauranter i Skagen, Danmark: Se anmeldelser fra reisende og bilder av spisesteder i Skagen, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Skagen Restaurant - Home - Stavanger, Norway - Menu ...
+snippet: Skagen Restaurant - Skagenkaien 13, 4006 Stavanger, Norway - Rated 4.1 based on 78 Reviews &quot;An outstanding meal served plainly with local ingredients....
+title: OM SKAGEN - Nytt tiår, nye smaker! | Skagen Restaurant
+snippet: Skagen Restaurant ligger midt i Vågen i Stavanger sentrum. Da huset ble bygget, for nesten 250 år siden, bodde det mindre enn 2000 mennesker i Stavanger, og James Cook var fremdeles ute på jakt etter uoppdagede kontinenter. På den tiden, hvis du hadde sittet og sett ut av vinduet, ...
+
+REL: 0
+POI Name: Lou Lou
+POI City: Stavanger
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Lou-Lou Stavanger - Home | Facebook
+snippet: Lou-Lou Stavanger, Stavanger, Norway. 1.2K likes. The new girl in town! Matbarens uavhengige vinbar med 30+ skiftende viner på glass pluss Matbarens vinkjeller. Vinkurs hver torsdag og fredag kl 18....
+title: Åpningsfest Lou-Lou – inStavanger
+snippet: Velkommen til Lou-Lou, Renaa:Matbaren sin lille og uavhengige vinbar. Her er det mer enn 30 viner på glass, kartet varier kontinuerlig og vinkjelleren til Matbaren er tilgjengelig. Åpent tirsdag til
+title: Lou-Lou Stavanger - Posts | Facebook
+snippet: Lou-Lou Stavanger, Stavanger, Norway. 1.1K likes. The new girl in town! Matbarens uavhengige vinbar med 30+ skiftende viner på glass pluss Matbarens vinkjeller. Vinkurs hver torsdag og fredag kl 18....
+title: Lou-Lou Stavanger | Facebook
+snippet: Lou-Lou Stavanger er på Facebook. Bli medlem av Facebook for å komme i kontakt med Lou-Lou Stavanger og andre du kanskje kjenner. Facebook gir deg muligheten til å dele informasjon og gjør verden mer...
+title: Fengliu Lou, 47655041, Stavanger - 1881.no
+snippet: Fengliu Lou fra Stavanger, Stavanger.
+title: Lou Krijger, 46378758, Stavanger - 1881.no
+snippet: Lou Krijger fra Stavanger, Stavanger.
+title: Best pris på Cacharel Lou Lou edp 50ml Parfymer ...
+snippet: Sammenlign priser på Cacharel Lou Lou edp 50ml Parfymer. Finn tilbud fra 7 butikker, og les anmeldelser på Prisjakt. Sammenlign tilbud fra Cacharel.
+title: Expat Event: InterNations Stavanger Winter Event at Lou ...
+snippet: It&#39;s winter, so let&#39;s make the most of the Stavanger&#39;s cozy and snug venues! It&#39;s time to get back together to catch up and have new encounters. What better place to get together than Lou Lou on Friday 28th February at 20:00 hrs. This event is FREE of charge and we will get friendly prices in wine and beer.
+title: All events for Druejuice for nybegynnere på Lou Lou ...
+snippet: All events for Druejuice for nybegynnere på Lou Lou « All Events . May 2019. Druejuice for nybegynnere på Lou Lou 2 May 2019 @ 17:00 - 18:00 | Recurring Event . One event on 9 ... Lou-Lou, Breitorget 6 Stavanger, ...
+title: Papa Lou | Miinto.no
+snippet: Kjøp Papa Lou og andre flotte produkter direkte fra Norges beste motebutikker på Miinto.no | Fri frakt &amp; retur på ordre over 499,-
+
+REL: 0
+POI Name: Starbucks
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Starbucks Coffee Norge
+snippet: Å si at Starbucks kjøper og brenner kvalitetskaffe av hele kaffebønner, er helt riktig. Det er kjernen i det vi gjør – men det sier langt fra alt.
+title: Butikker og åpningstider | Starbucks Coffee Company
+snippet: Finn åpningstider og kontaktinformasjon til Starbucks butikker i Norge og i andre land. By using the Confirmation.com site, you agree with our use of cookies. Les våre retningslinjer for informasjonskapsler. Vil du vite mer? Jeg samtykker til informasjonskapsler .
+title: Domkirkeplassen-Stavanger | Starbucks Coffee Company
+snippet: Et annerledes selskap. Vår forretningsidé er å inspirere og løfte mennesker – én person, én kopp og ett lokalmiljø av gangen.
+title: Starbucks Meny | Starbucks Coffee Company, Norge
+snippet: We’ve got delicious food to go with our hand-crafted coffee drinks. Check out the Starbucks menu, our quick breakfast ideas and nutritional information.
+title: Starbucks, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Starbucks, Stavanger: Se 77 objektive anmeldelser av Starbucks, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 95 av 203 restauranter i Stavanger.
+title: Om Starbucks butikker| Starbucks Coffee Company
+snippet: Mens kaffen vår bringer mennesker sammen, betyr tilbudet om gratis Wi-Fi at du kan holde kontakten. Finn ut hvordan du kan surfe når du nyter drikke hos Starbucks.
+title: Starbucks, Stavanger - Menu, Prices &amp; Restaurant Reviews ...
+snippet: In stavanger there is 2 Starbucks one near the catedral and the other almost 2 streets downtown, both works almost equal, the one beside the catedral is with much more traffic but both are pretty much easy, the one beside the catedral have a own... More. Date of visit: April 2019.
+title: Starbucks Stavanger | Konkurrentanalyse - Studienett.no
+snippet: Starbucks Stavanger Starbucks Stavanger er en kaffebar lokalisert sentralt i Stavanger sentrum. Kaffebarkjeden åpnet i Stavanger i mai 2015, etter å ha etablert seg i over 49 land og med 16.200 utsalgssteder, på bare 49 år. Kaffebarkjeden tilbyr hovedsakelig ulike kaffetyper, men selger også i tillegg ulike typer smoothie, juice og matretter.
+title: Starbucks Domkirkeplassen-Stavanger - åpningstider ...
+snippet: Starbucks Domkirkeplassen-Stavanger, præsentation af sted og åpningstider
+title: Nyheter | Nettbutikk - Starbucks Coffee Norge
+snippet: STARBUCKS (UMOE Restaurant Group Coffee AS) Postboks 260, 1326 Lysaker Foretaksregisteret 998 656 206. Vår nettbutikk bruker cookies slik at du får en bedre kjøpsopplevelse og vi kan yte deg bedre service. Vi bruker cookies hovedsaklig til å lagre innloggingsdetaljer og huske hva du har puttet i handlekurven din. Fortsett ...
+
+REL: 0
+POI Name: Kunstpassasjen, Jernbanetorget T-bane
+POI City: Oslo
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, Local Flavor, 
+Snippets:
+title: Rutetabeller og linjekart for T-bane | Ruter
+snippet: Rutetabeller og linjekart for T-bane Her finner du rutetabeller og linjekart for T-banelinjene 1, 2, 3, 4 og 5. Husk at du også kan sjekke reiseplanleggeren for ...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Jernbanetorget 1, 0154 Oslo på 1881 kart
+snippet: Kart og flyfoto over Jernbanetorget 1, 0154 Oslo fra 1881
+title: Stans på T-banen etter påkjørsel på Jernbanetorget | ABC ...
+snippet: Det var stans i alle T-banens linjer gjennom sentrum etter en påkjørsel ved jernbanetorget mandag. Startsiden ABCTV Kreative Idéer Forbrukslån Kredittkort - Helt uten betalingsmur Facebook Twitter Instagram. ... T-bane-stans i Oslo. Her fra Majorstua stasjon rundt klokken 12.10. Foto: Ola Karlsen.
+title: Ruter – kollektivtrafikk i Oslo og Akershus | Ruter
+snippet: Her finner du rutetider, reiseplanlegger og billettinformasjon for kollektivtrafikken i Oslo og deler av Viken (tidligere Akershus fylke). Ruter – kollektivtrafikk i Oslo og Akershus | Ruter Gå til reiseplanleggeren
+title: T-banetrafikken går som normalt igjen etter påkjørsel med ...
+snippet: #Oslo T-banen østgående linjer. Stans i trafikken etter en påkjørsel ved Jernbanetorget stasjon, Oslo S. Nødetatene jobber på stedet, men det er uklart når vi forventer normal trafikk igjen. Adkomst ned til T- banen Jernbanetorget er nå sperret. — OPS Politiet Oslo (@oslopolitiops) November 25, 2019
+title: Jernbanetorget stasjon – Wikipedia
+snippet: Jernbanetorget stasjon er en t-banestasjon ved Oslo sentralstasjon i Oslo sentrum.Den ligger mellom Stortinget stasjon i vest og Grønland stasjon i øst. Stasjonen ble opprettet som endestasjon for de østre t-banelinjer da t-banenettet ble opprettet på 1960-tallet og fram til Stortinget stasjon ble bygget.
+title: ruter.no
+snippet: ruter.no
+title: Rutetabeller og linjekart for buss i Oslo | Ruter
+snippet: Rutetabeller og linjekart for buss i Oslo Her finner du rutetabeller og linjekart for busslinjene i Oslo. Husk at du også kan sjekke reiseplanleggeren for enkleste reisevei.
+title: Oslo - Public Transport - Central Station (Oslo S) and ...
+snippet: Oslo - Public Transport - Central Station (Oslo S) and Jernbanetorget T-bane 2016 09 25 ... or Oslo Central Railway Station as well as the attached T-bane (metro) station, Jernbanetorget.
+
+REL: 0
+POI Name: Veteranskipet MS Sandnes
+POI City: Stavanger
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Ferries, Tours, 
+Snippets:
+title: MS SANDNES
+snippet: Velkommen ombord i veteranskipet MS SANDNES. ... Ombord i MS Sandnes kan vi tilby helt spesielle omgivelser som gjør våre kunder så fornøyde. Firmatur for bedriften. Vi har i lang tradisjon og tro fått med oss mange bedrifter på flotte firmaturer, ... 4002 STAVANGER. 971 56 573.
+title: Arrangement - MS Sandnes
+snippet: Som ekte veteranskipet med utleielugarer, ... Det tidligere nattruteskipet Sandnes skaper den rette stemningen for et annerledes julebord i ekte 50-tallsstil, ... 4002 STAVANGER. 971 56 573. post@mssandnes.no. Historie.
+title: M/S Rogaland - Hovedside
+snippet: «Rogaland» tas nå vare på i Stavanger, som er skipets og rederiets hjemby. Stavanger kommune utnevnte i 2015 M/S «Rogaland» som Stavangers byskip. Behovet til de driftige jærbøndene og fylkets fiskere for transport av produkter til Østlandet og Bergen, og rask passasjertransport, var utgangspunktet for bygging av «Rogaland».
+title: Veteranskipet Sandnes, Stavanger - 1881.no
+snippet: Veteranskipet Sandnes fra , Rogaland. Cruise / charter. VELKOMMEN OMBORD I VETERANSKIPET SANDNES (MS SANDNES) - Ta kontakt for å bestille din båttur, firmatur eller Cruise i Stavanger.
+title: Veteranskipet MS Sandnes - Båt in Stavanger, Stavanger ...
+snippet: Politiet ble tilkalt for å holde styr på massene og det er anslått at mellom 4000 og 6000 mennesker møtte på kaien for å se båten. MS Sandnes gikk i nattruten mellom Sandnes/Stavanger og Bergen med mellomsteder. Første avgang var fra Sandnes 1. april 1950 og siste tur var fra Bergen 2. september 1974.
+title: Veteranskipet MS Sandnes - visitnorway.no
+snippet: Politiet ble tilkalt for å holde styr på massene og det er anslått at mellom 4000 og 6000 mennesker møtte på kaien for å se båten. MS Sandnes gikk i nattruten mellom Sandnes/Stavanger og Bergen med mellomsteder. Første avgang var fra Sandnes 1. april 1950 og siste tur var fra Bergen 2. september 1974.
+title: Cruise - MS Sandnes
+snippet: Som ekte veteranskipet med utleielugarer, kan vi tilby cruise i Ryfylke eller langs kysten. Vi skreddersyr opplegg etter dine ønsker. Vi tilbyr servering, underholdning, opplevelser, og utflukter på land. Kontakt oss i dag for en flott cruise tur.
+title: Lutefisk / Skreiaften - MS Sandnes
+snippet: En riktig så flott Skreiaften med alt av tilbehør og dessert ombord på veteranskipet MS Sandnes. Sesong: Hele mars måned. Vi viderefører vår gode erfaring med lutefisk-aftener nå med Skrei. Fortelling, filmsnutt og omvisning på skipet kan tas som forspill, og gjør kvelden enda mer innholdsrik.
+title: Veteranskipet MS Sandnes - Båt in Stavanger, Stavanger ...
+snippet: MS Sandnes tilbyr ferdige pakker som dekker alle dine behov. Representasjon, kundetreff, forretningsmiddager, utstillingsrom og overnatting. De har gode tilbakemeldinger fra blant annet Sildajazzen og ONS. Cruise - Overnatting Som et ekte veteranskip med utleielugarer, kan de tilby cruise i Ryfylke eller til andre steder i Norge.
+title: Historie - MS Sandnes
+snippet: SANDNES seilte utrettelig i sin faste rute; tirsdag, torsdag og lørdag på nord. Etter avgang fra Stavanger kl 2100 var det en snartur innom Føresvik før den fortsatte til Kopervik med ankomst kl 2255. Et par generasjoner koperviksbuer er oppflasket med at man måtte ha med seg siste anløpet av nattruten før det var ordentlig kveld.
+
+REL: 0
+POI Name: Byparken
+POI City: Kannik
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Scandic Stavanger Park | Hotell i Stavanger | Scandic Hotels
+snippet: Hjemmekoselig hotell midt i Stavanger sentrum, nært alt du kan drømme om av shopping, restauranter og uteliv. Bo komfortabelt i store rom med høy standard, ideelt for forretningsreisende som ønsker god arbeidsplass, og samtidig perfekt for helgeturer og familier.
+title: Nytt teater, med grønnplantet tak, på Jernbanelokket!
+snippet: Foruten Byparken er Hetlandsmarken, Breidablikk, Kannik, Mosvannsparken og Stokkavatnene gode eksempler på slike grønne soner eller akser, en ufullført renning i byveven. Stavangers neste grønne sone kan komme med teateret ved Breiavatnet. Grønne tak
+title: Scandic Stavanger City | Hotell i Stavanger | Scandic Hotels
+snippet: Med plassering midt i Stavanger sentrum, er vårt hotell det perfekte utgangspunkt for ditt Stavangerbesøk. Ønsker du å komme deg ut i naturen og oppleve Lysefjorden eller Prekestolen, ligger hotellet bare en kort gåtur unna Tau fergen som tar deg inn til Preikestolen - en spektakulær naturopplevelse som mange har på sin «bucket list».
+title: Stavanger – Wikipedia
+snippet: Stavanger domkirke, Byparken, Breiavatnet og Kongsgård videregående skole ligger innenfor bydelens grenser. Madla utgjør vestre del av kommunen og omfatter området vest for Stokkavatnet og Ullandhaug. Madlakrossen er bydelssenter for Madla bydel. Bydelens landareal er 13,87 km². ``Madla var egen kommune i perioden 1930–65.
+title: Sentrumsplanen - kommunedelplan for Stavanger sentrum ...
+snippet: Enten det er arbeidsplasser, butikker, serveringssteder eller tjenester. Det skal være fritt for bebyggelse, slik at du fortsatt kan stå ved Breiavatnet eller i byparken og se opp til Akropolishøyden. Kannik prestegård kan flyttes for å gi rom for sentrumsbebyggelse med høyere utnyttelse.
+title: Løsning av byens gordiske knute - Stavanger Aftenblad
+snippet: Likevel er det relativt enkelt å forene bydelene Storhaug med Våland/Eiganes og Sentrum/Byparken med Paradis/Hillevåg ved å gi nye bygg grønne og gangbare takflater. Byen har her en enestående mulighet til å få løst sin gordiske knute, som trafikknutepunktet Kannik vitterlig er. Grip sjansen!
+title: Stavanger kommune
+snippet: På Stavanger kommunes hjemmesider kan du finne informasjon, søknadsskjema og kontaktinformasjon til alle våre tilbud og tjenester.
+title: Fabeldyr på kunstige øyer - Rogalands Avis
+snippet: «Gutten og bukken» fra 1925 av Stinius Fredriksen som tidligere sto der «Gasellen» står i dag, ble flyttet til Kannik-bekken i 1958, men har etter over 50 år kommet tilbake til Byparken ...
+title: 2220 billige hoteller i Fjord-Norge (GRATIS avbestilling ...
+snippet: Du bør også ta turen til blant annet Bryggen, og for å komme deg rundt er det bare å hoppe på metroen på Byparken stasjon eller Nonneseteren stasjon. Finn hoteller i Bergenhus. Kannik. 4.5/5 Wonderful! (28 anmeldelser av området) Skal du til Kannik, bør du få med deg severdigheter som Stavanger domkirke og Norsk Telemuseum. Finn ...
+title: Skulpturer i Stavangers bydeler | Sandalsand Norge
+snippet: Fritt tilgjengelig for alle finnes det et vell av skulpturer og andre synlige kunstneriske utsmykninger spredt rundt om i Stavangers bydeler. Bli kjent med de aller fleste. Introduksjon Den kunstneriske utsmykningen av skulpturell art i Stavanger er blitt presentert i flere artikler her på Sandalsand. Tilsammen handler det om ca. 200 verk.
+
+Cand cities: {'Stavanger', 'Våland', 'Eiksmarka', 'Akershus', 'Oslo', 'Kannik', 'Romsås'}

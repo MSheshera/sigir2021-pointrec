@@ -1,0 +1,562 @@
+City: Tokyo
+Country: JP
+Main category: Arts & Entertainment
+Sub category: Museums - Art Museums
+Description: I'd love to get some great museum recommendations for our trip at the end of this month (Tokyo for one week, then Osaka/Kyoto for one week). We don't need to go to a lot of museums, maybe a couple of really good ones. We're game for a lot of possible topics - science, art, history, unique specialty items - as long as the museum experience is well put together and engaging. And we are not into anime or manga or cosplay, so we know we're not really interested in those museums. Thanks so much!
+Rated POIs: 38
+Rel distr: [(0, 5), (1, 15), (2, 15), (3, 3)]
+=================================
+REL: 3
+POI Name: Tokyo Photographic Art Museum
+POI City: Meguro
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: MORI ART MUSEUM
+POI City: Minato
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Kitamura Museum
+POI City: Kyoto
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: 北村美術館 - Kitamura Museum
+snippet: 【臨時休館のお知らせ】 隣接する大阪府、兵庫県に緊急事態宣言が発令されたことを受け、 新型コロナウイルス感染症の ...
+title: Kitamura Museum - Wikipedia
+snippet: Kitamura Museum (北村美術館, Kitamura Bijutsukan) opened near the confluence of the Kamo and Takano Rivers in Kyoto, Japan, in 1977.The collection, based on that built up by businessman Kitamura Kinjirō (北村謹次郎), comprises some 1,000 works including thirty-three Important Cultural Properties and nine Important Art Objects, with a particular focus on tea utensils.
+title: Kitamura Museum (Kyoto, Japan) - Anmeldelser - Tripadvisor
+snippet: Kitamura Museum, Kyoto: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Kitamura Museum i Kyoto, Japan på Tripadvisor.
+title: Kitamura Museum (Kyoto) - 2020 All You Need to Know BEFORE ...
+snippet: This is the ideal pick for first-time visitors to Kyoto. Save hours planning an itinerary and figuring out the local public transport system, and go on a stress-free coach tour instead.
+title: Kitamura Museum (Kyoto) - All You Need to Know BEFORE You ...
+snippet: Kitamura Museum, Kyoto: See 5 reviews, articles, and 20 photos of Kitamura Museum, ranked No.919 on Tripadvisor among 1,565 attractions in Kyoto.
+title: Kitamura Museum (Kyoto) - 2020 All You Need to Know Before ...
+snippet: Kyoto Tourism; Kyoto Hotels; Kyoto Bed and Breakfast; Kyoto Holiday Rentals; Kyoto Packages; Flights to Kyoto; Kyoto Restaurants; Kyoto Attractions; Kyoto Shopping; Kyoto Travel Forum; Kyoto Pictures; Kyoto Map; Kyoto Guide; All Kyoto Hotels; Kyoto Hotel Deals
+title: Kitamura Museum (Kyoto) - 2020 All You Need to Know Before ...
+snippet: Kyoto Tourism; Kyoto Hotels; Bed and Breakfast Kyoto; Kyoto Holiday Rentals; Kyoto Holiday Packages; Flights to Kyoto; Kyoto Restaurants; Kyoto Attractions; Kyoto Shopping; Kyoto Travel Forum; Kyoto Photos; Kyoto Map; Kyoto Guide; All Kyoto Hotels
+title: Kitamura Museum (Kyoto, Japonia) - opinie - Tripadvisor
+snippet: Kitamura Museum, Kyoto: zobacz recenzje, artykuły i zdjęcia dotyczące Kitamura Museum w serwisie Tripadvisor w Kioto, Japonia
+title: Kitamura Museum (Kyoto) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Hotels Kyoto; Pensionen Kyoto; Ferienwohnungen Kyoto; Pauschalreisen Kyoto; Flüge Kyoto; Reiseforum Kyoto; Restaurants Kyoto; Sehenswürdigkeiten Kyoto; Fotos Kyoto; Karte Kyoto; Alle Hotels in Kyoto; Hotelangebote in Kyoto; Last Minute Kyoto; Nach Hoteltyp. Motels in Kyoto; Hostels in Kyoto; Campingplätze in Kyoto; Tagungshotels in Kyoto ...
+title: Kitamura Museum (Kyoto): UPDATED 2020 All You Need to Know ...
+snippet: Kitamura Museum, Kyoto: See 5 reviews, articles, and 20 photos of Kitamura Museum, ranked No.969 on Tripadvisor among 1,639 attractions in Kyoto.
+
+REL: 2
+POI Name: Nikon Museum
+POI City: Minato
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: National Showa Memorial Museum
+POI City: Chiyoda
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Museum EKI Kyoto
+POI City: Kyoto
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Museum Eki Kyoto (Japan) - Anmeldelser - Tripadvisor
+snippet: Museum Eki Kyoto, Kyoto: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Museum Eki Kyoto i Kyoto, Japan på Tripadvisor.
+title: Museum Eki Kyoto - 2020 All You Need to Know BEFORE You Go ...
+snippet: Hotels near Museum Eki Kyoto: (0.26 mi) 22 Pieces (0.27 mi) Piece Hostel Kyoto (0.23 mi) MIMARU KYOTO STATION (0.18 mi) The Thousand Kyoto (0.28 mi) Daiwa Royal Hotel Grande Kyoto; View all hotels near Museum Eki Kyoto on Tripadvisor
+title: THE 10 BEST Restaurants Near Museum Eki Kyoto in Kyoto ...
+snippet: Restaurants near Museum Eki Kyoto, Kyoto on Tripadvisor: Find traveler reviews and candid photos of dining near Museum Eki Kyoto in Kyoto, Kyoto Prefecture.
+title: De 10 beste hotellene i nærheten av Museum Eki Kyoto
+snippet: Hoteller i nærheten av Museum Eki Kyoto: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Museum Eki Kyoto på Tripadvisor.
+title: Museum Eki Kyoto: UPDATED 2020 All You Need to Know Before ...
+snippet: Museum Eki Kyoto, Kyoto: See 35 reviews, articles, and 44 photos of Museum Eki Kyoto, ranked No.294 on Tripadvisor among 1,641 attractions in Kyoto.
+title: Museum Eki Kyoto (Japan) - omdömen - Tripadvisor
+snippet: Museum Eki Kyoto, Kyoto: Läs recensioner av resenärer som du och se professionella bilder på Museum Eki Kyoto i Kyoto, Japan på Tripadvisor.
+title: Museum Eki Kyoto (Japonia) - opinie - Tripadvisor
+snippet: Museum Eki Kyoto, Kyoto: zobacz recenzje, artykuły i zdjęcia dotyczące Museum Eki Kyoto w serwisie Tripadvisor w Kioto, Japonia
+title: Museum Eki Kyoto - 2020 All You Need to Know Before You Go ...
+snippet: Kyoto Tourism; Kyoto Hotels; Bed and Breakfast Kyoto; Kyoto Holiday Rentals; Kyoto Holiday Packages; Flights to Kyoto; Kyoto Restaurants
+title: Museum Eki Kyoto (Japan) - anmeldelser - Tripadvisor
+snippet: Museum Eki Kyoto, Kyoto: Se 35 anmeldelser, artikler og 44 billeder fra Museum Eki Kyoto, nr.291 på Tripadvisor af 1.639 seværdigheder i Kyoto.
+title: The 10 Best Restaurants Near Museum Eki Kyoto - Tripadvisor
+snippet: Restaurants near Museum Eki Kyoto, Kyoto on Tripadvisor: Find traveller reviews and candid photos of dining near Museum Eki Kyoto in Kyoto, Kyoto Prefecture.
+
+REL: 2
+POI Name: Edo Tokyo Museum
+POI City: Sumida
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Yushukan
+POI City: Chiyoda
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Landmarks & Historical Buildings, Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Sabo Koishi
+POI City: Kyoto
+POI Country: JP
+POI Main category: Restaurants and Food
+POI Sub category: Japanese Sweets, 
+Snippets:
+title: Gion Koishi Gion Honten, Kyoto - Gion - Restaurant Reviews ...
+snippet: Gion Koishi Gion Honten, Kyoto: See 80 unbiased reviews of Gion Koishi Gion Honten, rated 4.5 of 5 on Tripadvisor and ranked #282 of 15,614 restaurants in Kyoto.
+title: Sabo Kinkakuan, Kyoto - Northern Kyoto - Menu, Prices ...
+snippet: Sabo Kinkakuan, Kyoto: See 17 unbiased reviews of Sabo Kinkakuan, rated 5 of 5 on Tripadvisor and ranked #632 of 15,591 restaurants in Kyoto.
+title: Steak House Koishi, Kyoto - Gion - Menu, Prices ...
+snippet: Steak House Koishi, Kyoto: See 15 unbiased reviews of Steak House Koishi, rated 4.5 of 5 on Tripadvisor and ranked #1,763 of 15,586 restaurants in Kyoto.
+title: Gion Koishi Gion Honten, Kyoto - Restaurantanmeldelser ...
+snippet: Gion Koishi Gion Honten, Kyoto: Se 80 objektive anmeldelser av Gion Koishi Gion Honten, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 282 av 15 609 restauranter i Kyoto.
+title: IMAG0531_large.jpg - Bilde av Kashi Sabo Cheka i Kyoto ...
+snippet: Kashi Sabo Cheka, Kyoto Bilde: IMAG0531_large.jpg - Se Tripadvisor-medlemmers 50 064 objektive bilder og videoer av Kashi Sabo Cheka
+title: Kashi Sabo Cheka, Kyoto - City Center - Restaurant Reviews ...
+snippet: Kashi Sabo Cheka, Kyoto: See 14 unbiased reviews of Kashi Sabo Cheka, rated 4 of 5 on Tripadvisor and ranked #2,023 of 15,584 restaurants in Kyoto.
+title: Sabo Furusato, Kyoto - Western Kyoto - Restaurant Reviews ...
+snippet: Sabo Furusato, Kyoto: See 3 unbiased reviews of Sabo Furusato, rated 4 of 5 on Tripadvisor and ranked #5,961 of 15,602 restaurants in Kyoto.
+title: koishi.com - 醇似・)@ホームページ
+snippet: ☆撫0・9年e&quot;・・j呉,・x診s 楳・逐о艢梳五BR&gt;
+title: ARASHIYAMA RILAKKUMA SABO, Kyoto - Western Kyoto - Updated ...
+snippet: Arashiyama Rilakkuma Sabo, Kyoto: See 25 unbiased reviews of Arashiyama Rilakkuma Sabo, rated 4.5 of 5 on Tripadvisor and ranked #776 of 15,615 restaurants in Kyoto.
+title: StB Photo Theme 4: Retrospective Kyoto - YouTube
+snippet: This is the 4th photo theme from Touhou 9.5: Shoot the Bullet Yes, finally! StB is over! :D But lets finish this nicely with a nice theme, eh? But, why Kyoto? I thought they were in Gensokyo ...
+
+REL: 2
+POI Name: The National Museum of Modern Art Kyoto
+POI City: Kyoto
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: The National Museum of Modern Art, Kyoto
+snippet: MoMAK (The National Museum of Modern Art, Kyoto) is a national institution devoted to the collection and preservation of artworks and related reference materials of the twentieth century in Japan and other parts of the world. Particular emphasis is placed on artists or artistic movements in Kyoto and the Kansai area (the western region of Japan), such as Japanese-style paintings of the Kyoto ...
+title: The National Museum of Modern Art, Kyoto | Exploring ...
+snippet: Although focusing on contemporary fine art from home and abroad, encompassing a diverse collection of works that includes paintings, woodblock prints, ceramics, sculptures, photographs and design works, the museum - amidst consideration given to the overall history of modern art in Japan - places great importance on the artists active in Kyoto ...
+title: National Museum of Modern Art, Kyoto - Wikipedia
+snippet: The National Museum of Modern Art, Kyoto (MoMAK) was initially created as the Annex Museum of the National Museum of Modern Art in Tokyo. MoMAK was established on its present site on March 1, 1963. Its building, formerly the auxiliary building of the Kyoto Municipal Exhibition Hall for Industrial Affairs, ...
+title: Kyoto National Museum of Modern Art
+snippet: National Museum Of Modern Art, Kyoto. Located in Okazaki-koen Park, on the west side of the vast torii (shrine gate) of Hiean-jingu Shrine, the Kyoto Municipal Museum of Art can’t compete with the nearby Kyoto Municipal Museum of Art, but it’s always worth a
+title: The National Museum of Modern Art, Kyoto | Kyoto City ...
+snippet: The National Museum of Modern Art, Kyoto (MOMAK) was opened to the public on October 26, 1986 with a total floor area of 9,761.99㎡ and an exhibition area of 2,604.94㎡.
+title: National Museum of Modern Art, Kyoto (MoMAK) (Japan ...
+snippet: National Museum of Modern Art, Kyoto (MoMAK), Kyoto: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for National Museum of Modern Art, Kyoto (MoMAK) i Kyoto, Japan på Tripadvisor.
+title: 京都国立近代美術館 | The National Museum of Modern Art, Kyoto
+snippet: 京都、関西、西日本の美術に比重を置き、工芸に重点を置いた活動をしている近代美術館。
+title: National Museum of Modern Art, Kyoto (MoMAK) - 2020 All ...
+snippet: We recommend booking National Museum of Modern Art, Kyoto (MoMAK) tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 National Museum of Modern Art, Kyoto (MoMAK) tours on Tripadvisor
+title: Kyoto National Museum - Japan
+snippet: Opened in 1897, the Kyoto National Museum (京都国立博物館, Kyōto Kokuritsu Hakubutsukan) is one of Japan&#39;s oldest and most distinguished museums. It is one of only four top-level national museums alongside the Tokyo National Museum, Nara National Museum and Kyushu National Museum.
+title: The National Museum of Modern Art Kyoto／京都国立近代美術館 - YouTube
+snippet: The museum is located next to Okazaki-koen Park, and the area boasts many cultural facilities, such as Kyoto Municipal Museum of Art and the National Museum of Modern Art, Kyoto. 美術館は ...
+
+REL: 2
+POI Name: Isono Ryō Tarō
+POI City: Osaka
+POI Country: JP
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Izakaya, 
+Snippets:
+title: Ryōmaden - Wikipedia
+snippet: Ryōmaden (龍馬伝) is the 49th NHK Taiga drama.It was shown on NHK from January 3 to November 28, 2010, spanning 48 episodes. The story centers on the life of 19th-century Japanese historical figures Iwasaki Yatarō and Sakamoto Ryōma.It has been announced that the series will be aired in several other countries, for example Hong Kong, South Korea, Taiwan and Thailand.
+title: Sazae-san - Wikipedia
+snippet: In 1979, NHK made a dramatic serial which ran for six months, focusing on the creation of Sazae-san and Machiko Hasegawa in her younger days. In 2010, Fuji Television debuted a live-action situation comedy series, Sazae-san 2 (サザエさん2), followed the following year with Sazae-san 3 (サザエさん3).
+title: Kinobu - Restaurants - Kyoto, 京都府, Japan - Restaurant ...
+snippet: Kinobu in Kyoto, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Kyoto and beyond.
+title: Johnny&#39;s Junior - About | Facebook
+snippet: Johnny&#39;s Junior. 4,118 likes · 18 talking about this. Johnny&#39;s Jr. (ジャニーズJr. Janīzu Jr.?) is a part of Johnny &amp; Associates that focuses only on boys who have not yet officially debuted either with a...
+title: らー麺鉄山靠 - Japanese - 萱野浦25-1, Otsu, 滋賀県, Japan - Restaurant ...
+snippet: 1 review of らー麺鉄山靠 &quot;Decent place. Decent bowl of noodles. Daughter ordered the Shio Tonkotsu which I enjoyed more than the plain Shio, I ordered. We tried the karaage last time. Big pieces! We would come here again.&quot;
+title: Ryo Nishikido - enacademic.com
+snippet: 錦戸 亮 Birth name Ryo Nishikido Also known as Ryo chan, Dokkun (Yokoyama) Born November 3, 1984 (1984 11 03) (age 27)
+title: Personnages de Captain Tsubasa — Wikipédia
+snippet: Tarō Misaki (Ben Becker dans la version française) ... Ryō Ishizaki. Article détaillé : Ryō Ishizaki. Ryō ... Road to 2002, il joue dans le club Gamba Osaka et stoppe les attaques d&#39;Izawa très efficacement, permettant à son équipe de n&#39;encaisser aucun but.
+title: Gaikotsu biru no 近 - Japan Foundation
+snippet: Received the Shiba Ryō tarō Prize for Gaikotsu biru no niwa and the ... This might also be called a tale starring the city of Osaka itself, which is full of vitality. The characterization is vivid and the plot is so interesting that you won’t be able to put the book down.
+title: Personaggi di Capitan Tsubasa - Wikipedia
+snippet: Difensore numero 7 nell&#39;Azuma-Ichi, nella Nazionale Giapponese U-15, U-20 e U-23, numero 72 nei Gamba Osaka, ha militato anche nella Tatsunami (scuola di Osaka che ha unito gli studenti della Norfolk e della Artic): soprannominato &quot;l&#39;ammazzacampioni&quot; è forte nella marcatura a uomo, è molto veloce, ma sa rendersi pericoloso anche in fase ...
+title: DEVILMAN crybaby (ONA) - Anime News Network
+snippet: Devilman Crybaby Anime Reveals New Trailer, Visual, Theme Song (Nov 21, 2017) Masaaki Yuasa&#39;s Devilman Crybaby Anime&#39;s Trailer Streamed (Aug 2, 2017) Seven Seas Licenses Devilman , Devilman Vs.
+
+REL: 2
+POI Name: Shitamachi Museum
+POI City: Taitō
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: TOYOTA CITY SHOWCASE
+POI City: Tokyo
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, 
+Snippets:
+title: MEGA WEB Toyota City Showcase (JAPAN) - YouTube
+snippet: MEGA WEB Toyota City Showcase (JAPAN) Located in the Pallet Town shopping center in the middle of Tokyo’s waterfront entertainment suburb of Odaiba, is Toyota’s self proclaimed car theme park ...
+title: Toyota City Showcase (Koto) - 2020 All You Need to Know ...
+snippet: Restaurants near Toyota City Showcase: (0.10 mi) En Tea House (0.32 mi) Gundam Cafe Odaiba (0.15 mi) Pinkberry Venus Fort (0.11 mi) Starbucks Coffee Venus Fort Family (0.33 mi) Gyukatsu Kyoto Katsugyu Diver City Tokyo Plaza; View all restaurants near Toyota City Showcase on Tripadvisor
+title: Megaweb Toyota City Showcase - Topic - YouTube
+snippet: Mega Web, or Megaweb, is a car theme park operated by Toyota in Odaiba&#39;s Palette Town, Tokyo, Japan. The Toyota City Showcase displays vehicles and has 1.3-k...
+title: TOYOTA Mega Web Showroom Tokyo in Odaiba - JW Web Magazine
+snippet: TOYOTA Mega Web, located in Tokyo, is the TOYOTA car theme park where numerous newest models and old vintage TOYOTA cars displayed. You can also experience a test drive by your favorite TOYOTA car! ... TOYOTA City Showcase. TOYOTA is one of the most famous car makers in the world, ...
+title: Toyota City Showcase - Review of Mega Web, Koto, Japan ...
+snippet: Mega Web: Toyota City Showcase - See 544 traveler reviews, 1,059 candid photos, and great deals for Koto, Japan, at Tripadvisor. Koto Tourism; ... If you&#39;re in Tokyo and interested in seeing all of Toyota&#39;s cars as well as some other attractions then this is an interesting place to visit.
+title: トヨタ シティショウケース｜MEGA WEB（メガウェブ）
+snippet: 「トヨタシティショウケース」では、“未来のモビリティ社会”の実現に向けたトヨタの取り組みを、次世代技術の展示や体験を通じて楽しくご紹介しています。
+title: Megaweb Toyota City Showcase travel guidebook –must visit ...
+snippet: Megaweb Toyota City Showcase attraction travel guidebook, Tokyo must-visit attractions. Trip.com provides tourists with Megaweb Toyota City Showcase attraction address, business hours, brief introduction, open hours, nearby recommendation, restaurant, reviews etc. These information answers detailedly about what to visit in Tokyo.
+title: Toyota Mega Web: Car Theme Park in Odaiba, Tokyo - Little ...
+snippet: Part car showcase, part amusement centre and part automobile museum, Toyota Mega Web at Odaiba, Tokyo is a must-visit car theme park for motoring enthusiasts of all ages.. Toyota Mega Web lives up to its name by being a large facility that spins together varying facets of the automobile.
+title: Mega Web | The Official Tokyo Travel Guide, GO TOKYO
+snippet: Begin by wandering through Toyota City Showcase, inspecting the latest display models, and enjoying test rides before heading over to the history garage to get a feel of the company by learning about their most historically significant designs. For a more immersive experience, don&#39;t miss the chance to test-drive your favorite car.
+title: Toyota Mega Web, Japan Travel Guide - Happy Jappy
+snippet: Located in the Pallet Town shopping centre in the middle of Tokyo’s waterfront entertainment suburb of Odaiba, is Toyota’s self proclaimed car theme park, Mega Web. Toyota Mega Web comprises of six exhibits such as the History Garage, Universal Design Showcase, Toyota City Showcase, Ride One and the Kids Hybrid Ride One.
+
+REL: 2
+POI Name: Ota Memorial Museum Of Art
+POI City: Shibuya
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Tokyo National Museum
+POI City: Taitō
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Landmarks & Historical Buildings, 
+Snippets:
+
+
+REL: 2
+POI Name: National Museum of Nature and Science
+POI City: Taitō
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: TOKYO TRICKART MUSEUM
+POI City: Minato
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Kyoto International Manga Museum
+POI City: Kyoto
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: 京都国際マンガミュージアム
+snippet: Museum Hours 10:00 – 18:00 (admission until 17:30) Closures Every Wednesdays (or, if Wednesday is a national holiday, the following Thursday) during the New Year’s holiday and maintenance periods. There may be changes to the museum opening and closing times without notice. Please contact us in advance. Admission Fees
+title: Kyoto Travel: Kyoto International Manga Museum
+snippet: The Kyoto International Manga Museum (京都国際マンガミュージアム, Kyōto Kokusai Manga Museum) was opened in November of 2006. It consists of three floors and a basement, and most of its walls are lined with shelves of manga.Browsing this massive collection of manga is one of the museum&#39;s main attractions.
+title: The Kyoto International Manga Museum - Inside Kyoto
+snippet: The Kyoto International Manga Museum is the best manga museum in the entire country. If you’re a fan of Japanese comics, don’t miss it! International Manga Museum: cowardlion / Shutterstock.com Located in a former school building, the Kyoto International Manga Museum has a collection of over 300,000 manga (Japanese comics).
+title: Kyoto International Manga Museum - Wikipedia
+snippet: The Kyoto International Manga Museum (京都国際マンガミュージアム, Kyōto Kokusai Manga Myūjiamu) is located in Nakagyō-ku, Kyoto, Japan.The building housing the museum is the former Tatsuike Elementary School. The museum opened on November 25, 2006. Its collection of 300,000 items includes such varieties as Meiji period magazines and postwar rental books.
+title: Kyoto International Manga Museum (Japan) - Anmeldelser
+snippet: Kyoto International Manga Museum, Kyoto: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Kyoto International Manga Museum i Kyoto, Japan på Tripadvisor.
+title: Kyoto International Manga Museum: UPDATED 2020 All You ...
+snippet: Kyoto International Manga Museum, Kyoto: See 602 reviews, articles, and 383 photos of Kyoto International Manga Museum, ranked No.125 on Tripadvisor among 1,641 attractions in Kyoto.
+title: Kyoto International Manga Museum | Kyoto City Official ...
+snippet: Kyoto International Manga Museum This is the Japan&#39;s first museum devoted to manga. It offers a stunning array of materials with everything from 19th-century Japanese magazines and books to popular contemporary works from Japan and abroad.
+title: 京都国際マンガミュージアム
+snippet: 京都国際マンガミュージアムでは、4月8日付の京都市新型コロナウイルス感染症対策本部の決定を踏まえ、4...
+title: Access | 京都国際マンガミュージアム
+snippet: Access. Address 〒604-0846. Kyoto International Manga Museum Karasuma-Oike, Nakagyo-ku, Kyoto Japan (former Tatsuike Primary School) TEL: +81-75-254-7414 FAX: +81-75-254-7424. Address to put in your car navigation! 〒604-0846. Kinbuki cho 452, Nakagyo-ku, Kyoto city There is no parking space, please use public transport.
+title: Hours &amp; Fees | 京都国際マンガミュージアム
+snippet: You can get a discount if you show a stub (after July 1st, 2019) of the Museum of Kyoto at the manga museum entrance. You will also be able to get a discount if you take our admission ticket (after July 1st, 2019) to the Museum of Kyoto.
+
+REL: 1
+POI Name: MINATO CITY LOCAL HISTORY MUSEUM
+POI City: Minato
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Samurai Museum
+POI City: Shinjuku
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: OKURA MUSEUM OF ART
+POI City: Minato
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: National Museum of Emerging Science and Innovation, Miraikan
+POI City: Koto
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: SEN-OKU HAKUKOKAN MUSEUM
+POI City: Minato
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: teamLab Borderless
+POI City: Koto
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Ōsaka ni Kanpai
+POI City: Osaka
+POI Country: JP
+POI Main category: Restaurants and Food
+POI Sub category: Izakaya, Sake Bars, Seafood, 
+Snippets:
+title: Osaka internasjonale lufthavn – Wikipedia
+snippet: Itami lufthavn åpnet som Nr. 2 Osaka lufthavn (第二大阪飛行場 Dai-ni Ōsaka Hikōjō?) i 1939. Før flyplassen åpnet, ble Osaka betjent med sjøfly som landet ved munningen av elva Kizu. I 1931 planla myndighetene å opprette en ny «No. 1 Osaka Airport flyplass» ved munningen av elva Yamato, men grunnet tåkeproblemer ble planene ...
+title: Tora ni Tsuno | KANPAI OSAKA
+snippet: Honjitsu no sakana 1-pin (1 of the daily appetizers), honjitsu no omakase horumon 3-shu (Daily innards selection - 3 kinds) Can chose one drink from draft beer, chuhai, Highball, or any of the drinks under 380 yen
+title: Osaka - Wikipedia
+snippet: Ōsaka, assieme a Parigi e Londra è uno dei territori più produttivi del mondo. Secondo uno studio Mercer, Ōsaka era nel 2007 l&#39;ottava città per il costo della vita al mondo. Storicamente Ōsaka è sempre stata il centro del commercio in Giappone, specialmente nell&#39;epoca pre-moderna.
+title: Pourquoi Osaka est un meilleur choix que Kyoto - Kanpai
+snippet: J&#39;adore Kyoto.. Ce n&#39;est certes pas un avis d&#39;une originalité débordante, mais il faut reconnaître que cette ville a un charme fou qui vous accapare dès le premier pied posé hors du Shinkansen ?.Les fidèles de Kanpai se souviendront que j&#39;ai déjà râlé à son sujet, notamment sur son côté couche-tôt et ses transports peu pratiques, mais l&#39;ancienne capitale n&#39;en est pas moins
+title: Visites à Osaka - Kanpai
+snippet: Bonjour tout le monde ! Je commence à préparer mon voyage au japon l&#39;été prochain et je me posais quelques questions sur la ville d&#39;Osaka. Je pensais rester 2 jours, est-ce suffisant ou pas assez ? En sachant que je comptais visiter l&#39;aquarium, les quartiers de den den towm et dotonbori, l&#39;umeda sky building et le Temple Sumiyoshi Taisha. Je ne pensais pas faire le château mais plu
+title: Moverse por Osaka: trenes, metros y autobuses. Pases de ...
+snippet: S i deseas visitar Osaka, es muy recomendable que conozcas previamente el sistema de transporte de esta enorme ciudad, sus bonos de tranporte, pases de descuento y maneras de llegar a los lugares de interés o al aeropuerto.. Ōsaka es una vibrante metrópoli que parece no pararse nunca, ni de día ni de noche. El sistema de transporte público metropolitano de Ōsaka es extraordinariamente ...
+title: Kansai dialect - Wikipedia
+snippet: Kansai dialect belongs to western Japanese, but いる /iru/ and its variation, いてる /iteru/ (mainly Osaka), are used in Osaka, Kyoto, Shiga and so on. People in these areas, especially Kyoto women, tend to consider おる /oru/ an outspoken or contempt word.
+title: Osaka Aquarium KAIYUKAN
+snippet: Osaka&#39;s KAIYUKAN is the world&#39;s largest aquarium. There are large tanks, areas to experience nature from all around the world, and an area where visitors can interact with the marine creatures.
+title: Boku no Imōto wa &quot;Ōsaka Okan&quot; - Wikipedia
+snippet: Boku no Imōto wa &quot;Ōsaka Okan&quot; (僕の妹は「大阪おかん」, lit. My Little Sister&#39;s an &quot;Osaka Momma&quot;) (officially stylized as Boku-no-imoutowa&quot;Osaka-okan&quot;) is a 12-episode anime television series produced by Charaction and directed by Kōtarō Ishidate.
+title: Ryota Osaka - MyAnimeList.net
+snippet: Looking for information on Ryota Osaka? On MyAnimeList you can learn more about their role in the anime and manga industry. MyAnimeList is the largest online anime and manga database in the world! Join the online community, create your anime and manga list, read reviews, explore the forums, follow news, and so much more!
+
+REL: 1
+POI Name: Dotonbori Konamon Museum
+POI City: Osaka
+POI Country: JP
+POI Main category: Active Life
+POI Sub category: Amusement Parks, 
+Snippets:
+title: Dotonbori Konamon Museum | OSAKA-INFO
+snippet: In the Konamon Historical Museum on the 2nd floor, see historical documents about takoyaki&#39;s famous brown sauce as well as konamon varieties other than Takoyaki. On the 3rd floor, you can make Takoyaki samples, which is just right for a souvenir. Enjoy yourself through &quot;konamon&quot; culture.
+title: Dotonbori Kukuru Konamon-Museum | Food&amp;Eat | Official web ...
+snippet: Understand culture and history of Dotonbori through cultural konamon food. There is a new possibility you can see in only Konamon food theme park. In addition, there is Expo café in the first basemant floor. You can feel Osaka EXPO in1970s. Shop information
+title: Konamon Museum (Dotombori) - 2020 All You Need to Know ...
+snippet: Extremely exciting and a must-have experience when visiting Osaka, Japan. ... All reviews octopus street food texture takoyaki dotonbori shop japan osaka. Phi Somchai wrote a review Jun 2019. Bangkok, Thailand 3,456 ... We were fortunate to get another rare opportunity to visit Osaka this year and we just had to come back to Konamon Museum, ...
+title: Konamon Museum (Dotombori) - 2020 All You Need to Know ...
+snippet: Extremely exciting and a must-have experience when visiting Osaka, Japan. ... All reviews octopus street food texture takoyaki dotonbori shop japan osaka. Phi Somchai wrote a review Jun 2019. Bangkok, Thailand 3,450 ... We were fortunate to get another rare opportunity to visit Osaka this year and we just had to come back to Konamon Museum, ...
+title: Konamon Museum (Dotombori, Japan) - Anmeldelser
+snippet: Konamon Museum, Dotombori: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Konamon Museum i Dotombori, Japan på Tripadvisor.
+title: Konamon Museum (Dotombori) - All You Need to Know BEFORE ...
+snippet: These delicious out of this world takoyakies served here left such a lasting impression on us last year that we had to come back for more. We were fortunate to get another rare opportunity to visit Osaka this year and we just had to come back to Konamon Museum, squeezed with …
+title: Konamon Museum (Osaka, Japan) - Anmeldelser - Tripadvisor
+snippet: Konamon Museum, Osaka: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Konamon Museum i Osaka, Japan på Tripadvisor.
+title: Konamon Museum (Dotombori) - 2020 All You Need to Know ...
+snippet: Extremely exciting and a must-have experience when visiting Osaka, Japan. ... All reviews octopus street food texture takoyaki dotonbori shop japan osaka. Phi Somchai wrote a review Jun 2019. Bangkok, Thailand 3,450 ... We were fortunate to get another rare opportunity to visit Osaka this year and we just had to come back to Konamon Museum, ...
+title: Konamon Museum (Dotombori) - 2020 What to Know Before You ...
+snippet: Konamon Museum, Dotombori: See 49 reviews, articles, and 52 photos of Konamon Museum, ranked No.9 on Tripadvisor among 18 attractions in Dotombori. ... All reviews octopus street food texture takoyaki dotonbori shop japan osaka. Phi Somchai wrote a review Jun 2019. Bangkok, Thailand 3,456 contributions 633 helpful votes. Delicious .
+title: Dotombori Konamon Museum｜TOURIST INFO｜karaksa hotel Osaka ...
+snippet: Dotombori Konamon Museum is a food theme park based completely around famous Osaka foods made from flour (kona). There is Takoyaki to taste, of course, but you can also take part in Takoyaki cooking classes, make your own food samples and learn about the history of these foods in the museum.
+
+REL: 1
+POI Name: Musee Tomo
+POI City: Minato
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Les pif et dodine
+POI City: Tokyo
+POI Country: JP
+POI Main category: Restaurants and Food
+POI Sub category: French, Wine Bars, Bistros, 
+Snippets:
+title: Les pif et dodine （レピフエドディーヌ） - 大門/ビストロ [食べログ]
+snippet: Les pif et dodine/レピフエドディーヌ (大門/ビストロ)の店舗情報は食べログでチェック！ハイコストパフォーマンスのビストロ料理と自然派ワイン満足度120％予約は直接お電話で 【禁煙 / 飲み放題あり】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！
+title: Les Pif Et Dodine, Hamamatsucho - Odaiba / Shiodome ...
+snippet: Les Pif Et Dodine, Hamamatsucho: See 20 unbiased reviews of Les Pif Et Dodine, rated 4.5 of 5 on Tripadvisor and ranked #7 of 360 restaurants in Hamamatsucho.
+title: Amazing food! Very friendly staff - Les pif et dodine
+snippet: Les pif et dodine: Amazing food! Very friendly staff - See 17 traveler reviews, 22 candid photos, and great deals for Hamamatsucho, Japan, at Tripadvisor.
+title: Delicious French food in Tokyo! - Les pif et dodine
+snippet: Les pif et dodine: Delicious French food in Tokyo! - See 20 traveler reviews, 22 candid photos, and great deals for Hamamatsucho, Japan, at Tripadvisor.
+title: French food in Tokyo! - Review of Les pif et dodine ...
+snippet: Les pif et dodine: French food in Tokyo! - See 20 traveler reviews, 22 candid photos, and great deals for Hamamatsucho, Japan, at Tripadvisor.
+title: ランチメニュー : Les pif et dodine （レピフエドディーヌ） - 大門/ビストロ [食べログ]
+snippet: Les pif et dodine/レピフエドディーヌ (大門/ビストロ)の投稿されたランチメニューです。日本最大級のグルメサイト「食べログ」では、Les pif et dodine/レピフエドディーヌのランチメニューを掲載中。
+title: Disappointed - Review of Les pif et dodine, Hamamatsucho ...
+snippet: Les pif et dodine: Disappointed - See 18 traveler reviews, 22 candid photos, and great deals for Hamamatsucho, Japan, at Tripadvisor.
+title: 内観写真 : Les pif et dodine （レピフエドディーヌ） - 大門/ビストロ [食べログ]
+snippet: Les pif et dodine/レピフエドディーヌ (大門/ビストロ)の投稿された内観写真です。日本最大級のグルメサイト「食べログ」では、Les pif et dodine/レピフエドディーヌの内観写真29件を掲載中。
+title: 『やっぱり原点回帰で豚ロースのグリエ』by じゃんくせぷ : Les pif et dodine （レピフエドディー ...
+snippet: Les pif et dodine/レピフエドディーヌ (大門/ビストロ)へのじゃんくせぷさんの口コミです。 新型コロナウイルス拡大における対応のお願い やっぱり原点回帰で豚ロースのグリエ : Les pif et dodine
+title: Les Pif Et Dodine - Minato - French Restaurant, European ...
+snippet: 来訪者と一緒にランチ会 ? # ランチ #食スタグラム#フレンチ#行列#カボチャのスープ#牛粗挽肉ステークアッシュトマトソース#トマトソースの粗挽きハンバーグ#レア味#燃料補充したので午後から狩に出るよ！ # 再訪 @ Les Pif Et Dodine
+
+REL: 1
+POI Name: Tokyo Metropolitan Art Museum
+POI City: Taitō
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Science Museum
+POI City: Chiyoda
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 0
+POI Name: Cafe Frangipani
+POI City: Tokyo
+POI Country: JP
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Lounges, Italian, 
+Snippets:
+title: カフェ フランジパニ （cafe Frangipani） - 六本木/カフェ [食べログ]
+snippet: カフェ フランジパニ/cafe Frangipani (六本木/カフェ)の店舗情報は食べログでチェック！☆OPEN19年目の老舗カフェ☆2時間飲み放題コース3300円[フード6品] 【個室あり / 喫煙可 / 飲み放題あり / クーポンあり / ネット予約可】口コミや評価、写真など、ユーザーによるリアルな情報が満載です！
+title: Cafe Frangipani – Café in Roppongi | Tokyo Cheapo
+snippet: Cafe Frangipani. Sharing. Home; ... Tokyo Cheapo is the site of choice for value hunters who want their yen to go further in Tokyo. We cover all the basics including things to do in Tokyo, how to get from Narita airport to Tokyo, which JR rail pass to choose, getting a SIM card and pocket wifi.
+title: Cafe Frangipani, Minato - Akasaka / Roppongi - Restaurant ...
+snippet: Cafe Frangipani, Minato: See 12 unbiased reviews of Cafe Frangipani, rated 3 of 5 on Tripadvisor and ranked #5,380 of 12,075 restaurants in Minato.
+title: photo0.jpg - Picture of Cafe Frangipani, Roppongi ...
+snippet: Cafe Frangipani, Roppongi Picture: photo0.jpg - Check out Tripadvisor members&#39; 9,515 candid photos and videos of Cafe Frangipani. Roppongi. Roppongi Tourism Roppongi Hotels Roppongi Vacation Rentals Roppongi Vacation Packages Flights to ... Hotels near Tokyo City View Observation Deck (Roppongihills) Hotels near The National Art Center, Tokyo;
+title: CAFE FRANGIPANI, Roppongi - Akasaka, Roppongi - Restaurant ...
+snippet: Cafe Frangipani, Roppongi: See 12 unbiased reviews of Cafe Frangipani, rated 3 of 5 on Tripadvisor and ranked #624 of 1,498 restaurants in Roppongi.
+title: cafe Frangipani | Harumari TOKYO
+snippet: 六本木の芋洗坂通り沿いにある老舗カフェ。店内にあるワーゲンバス席は、お客さんがこぞって指定する特等席。ランチからディナーまでオールデイに利用できるので、休憩やデートなどに立ち寄ってみては。
+title: 料理メニュー : カフェ フランジパニ （cafe Frangipani） - 六本木/カフェ [食べログ]
+snippet: カフェ フランジパニ/cafe Frangipani (六本木/カフェ)の投稿された料理メニューです。日本最大級のグルメサイト「食べログ」では、カフェ フランジパニ/cafe Frangipaniの料理メニューを掲載中。
+title: Cafe Frangipani: Roppongi- bento.com listing
+snippet: Cafe Frangipani (Roppongi: Cafe) Cafe Frangipani. Phone: 03-3478-2966. ... there&#39;s a whole world of exciting food in Tokyo that food-loving visitors often miss out on. This book will introduce you to more than twenty of Japan&#39;s favorite specialty foods that are less well known abroad, ...
+title: Cafe Frangipani (@cafe_frangipani) • Instagram photos and ...
+snippet: Cafe Frangipani&#39;s Instagram profile has 44 photos and videos. Follow them to see all their posts.
+title: CafeLittleTokyo - Home - Macao, China - Menu, Prices ...
+snippet: CafeLittleTokyo - 澳門冼星海大馬路285號恆基花園地下L(文化中心斜對面 / 布魯塞爾街交界), N/A Macao, China - Rated 4.1 based on 75 Reviews &quot;Food is always good. Just one little...
+
+REL: 0
+POI Name: Himalayan Curry Shirokane
+POI City: Tokyo
+POI Country: JP
+POI Main category: Restaurants and Food
+POI Sub category: Himalayan/Nepalese, 
+Snippets:
+title: Himalaya Curry Shirokane, Minato - Shinagawa / Gotanda ...
+snippet: Himalaya Curry Shirokane, Minato: See 5 unbiased reviews of Himalaya Curry Shirokane, rated 3 of 5 on Tripadvisor and ranked #7,127 of 12,067 restaurants in Minato.
+title: Himalaya Curry Shirokane - Shinagawa / Gotanda ...
+snippet: Himalaya Curry Shirokane, Shirokane: See 6 unbiased reviews of Himalaya Curry Shirokane, rated 3.5 of 5 on Tripadvisor and ranked #84 of 184 restaurants in Shirokane.
+title: HIMALAYA CURRY SHIROKANE - Shinagawa, Gotanda - Restaurant ...
+snippet: Himalaya Curry Shirokane, Shirokane: See 5 unbiased reviews of Himalaya Curry Shirokane, rated 3 of 5 on Tripadvisor and ranked #115 of 184 restaurants in Shirokane.
+title: Himalayan Curry Shirokane - 白金高輪駅 - Tokyo, Japan
+snippet: 3 reviews of Himalayan Curry 白金店 &quot;Tiny tiny hidden jewel, I&#39;d say. There are only 3 tables but there are cluttered. Realistically, 6 people can sit but I&#39;d say 5 comfortably. That being said, order it to go if you are with a large group. But…
+title: Himalaya Curry Shirokane - 白金、ヒマラヤカリー 白金店の写真 - トリップアドバイザー
+snippet: ヒマラヤカリー 白金店、白金の写真: Himalaya Curry Shirokane - トリップアドバイザー メンバーが投稿した写真 (2,080 件) およびヒマラヤカリー 白金店の動画をチェック
+title: Photos at ヒマラヤカレー 白金店 (Himalaya Curry) - 広尾 - 白金1-29-13
+snippet: See all 34 photos taken at Himalaya Curry by 132 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, ...
+title: °HOTEL OAKWOOD APARTMENTS SHIROKANE TOKYO 3* (Japan ...
+snippet: Oakwood Apartments Shirokane - The 15-storey Oakwood Apartments Shirokane is nestled in an entertainment district, just a few steps from Akihabara Vending Machine Corner. Since 2001, it has been hosting guests in Tokyo.
+title: 口コミ一覧 : ヒマラヤカリー 白金店 （Himalaya Curry） - 白金高輪/ネパール料理 [食べログ]
+snippet: 白金高輪駅から徒歩1分ココHimalaya curry。 席数6席の小さなネパールカレー屋さんです。 テイクアウトでお世話になっていましたが 一度は来店して見ようと思い来てみました☆ ココは営...
+title: Himalaya Curry Shirokane(港区) - 餐厅/美食点评 - Tripadvisor
+snippet: Himalaya Curry Shirokane(港区): 读读5条条关于Himalaya Curry Shirokane客观公正的美食点评，在Tripadvisor的5分满分评等中得3分，在港区的12,067家餐厅中排第7,129名。
+title: Himalaya Curry - Shirogane/Nepal cuisine [Tabelog]
+snippet: Himalaya CurryCheck out the information about Nepal cuisine restaurants in Shirogane at Tabelog! It&#39;s full of real information like reviews, ratings, and photos posted by users! It also has enough detailed information like maps and menus.
+
+REL: 0
+POI Name: CUP NOODLES MUSEUM Yokohama
+POI City: 中区
+POI Country: JP
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 0
+POI Name: Ittetsu
+POI City: Tokyo
+POI Country: JP
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, Teppanyaki, 
+Snippets:
+title: ittetsu.tokyo - 【公式】一徹｜和食/門前仲町 ...
+snippet: ittetsu.tokyo@gmail.com 女将が厳選したお酒、日本酒、ワイン、焼酎、果実酒を、毎日日替わりで入荷。 「今日は何が入ってる？
+title: 【公式】一徹｜アクセス・ご ... - ittetsu.tokyo
+snippet: オリジナル創作和食料理と厳選したお酒！門前仲町から永代橋方面へ8分、皆様のお越しをお待ちしております。
+title: Maguro no Ittetsu Akihabara, Chiyoda - Ochanomizu ...
+snippet: Maguro no Ittetsu Akihabara, Chiyoda: See 7 unbiased reviews of Maguro no Ittetsu Akihabara, rated 4 of 5 on Tripadvisor and ranked #1,470 of 7,850 restaurants in Chiyoda.
+title: Ittetsu, Chuo - Ginza / Tokyo Nihonbashi - Restaurant ...
+snippet: Ittetsu, Chuo: See 2 unbiased reviews of Ittetsu, rated 3.5 of 5 on Tripadvisor and ranked #5,430 of 8,976 restaurants in Chuo.
+title: AV actor Ittetsu Suzuki talks ... - The Tokyo Reporter
+snippet: Ittetsu Suzuki: “More and more men are starting to turn to for-women videos after growing weary of the extreme content often seen in for-men titles” TOKYO (TR) – One factor that could be stopping many men and women from having a harmonious sexual relationship is the presumption that women are consumable objects, a concept enshrined in adult video (AV) productions produced for male audiences.
+title: Teppanyaki Ittetsu - Minato, Tokyo - Japan Travel
+snippet: Alongside Ittetsu at Dai-ichi Hotel Tokyo, Dai-chi Hotel Annex in Uchisaiwaicho, Dai-ichi Hotel Tokyo Seafort in Shinagawa and Kichijooji Dai-ichi Hotel in Miusashino are also offering special courses showcasing Sendai beef alongside other regional varieties, such as Obanazawa beef (Ginzan Onsen area) and Kobe beef (Hyogo).
+title: Ittetsu Takeda | Haikyuu!! Wiki | Fandom
+snippet: Ittetsu Takeda (Japanese: 武田 一鉄 (たけだ いってつ) Takeda Ittetsu) is the faculty advisor of the Karasuno High&#39;s volleyball club. Takeda has messy black hair and brown eyes along with glasses. He&#39;s often seen wearing a green track jacket over a white shirt with a black tie. In the manga, his tie is...
+title: Ganko Ittetsu Ramen – Sapporo style ramen to the New ...
+snippet: Ganko Ittetsu Ramen is pleased to serve Sapporo style ramen. The City of Sapporo is the largest city on the northern Japanese island of Hokkaido. Sapporo and Boston share similar climates. Summers are generally warm but not humid, and winters are cold and very snowy.
+title: About — Ittetsu Nasuda
+snippet: Ittetsu Nasuda was born in Tokyo. He began playing piano at the young age of three, under the direction of his mother, herself a professional pianist and teacher. He continued throughout this time and by the time he turned 19, he became keenly interested in playing improvisational jazz music.
+title: Teppanyaki Ittetsu in Shimbashi/Shiodome, Tokyo - SAVOR JAPAN
+snippet: This popular Teppanyaki (grilled foods),Yakiniku/Steak restaurant is in Ginza/Yurakucho/Tsukiji area, Tokyo. This dining is recommended for Japanese / General,Japanese / Teppanyaki (grilled foods),Western / Teppanyaki (grilled foods). Enjoy their exquisite dishes, and have a great time.
+
+Cand cities: {'中区', 'Tokyo', 'Sumida', 'Koto', 'Minato', 'Shibuya', 'Meguro', 'Kyoto', 'Osaka', 'Taitō', 'Chiyoda', 'Shinjuku'}

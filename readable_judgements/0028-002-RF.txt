@@ -1,0 +1,1307 @@
+City: Stavanger
+Country: NO
+Main category: Restaurants and Food
+Sub category: Breakfast & Brunch - Cafes]
+Description: I am an 18 year old visiting Stavanger for a little more than a week in late November. I will be staying with a friend but will need to occupy myself during the day when he works. I’m looking for suggestions on hikes, activities or must see attractions while I’m there. I am already planning to hike Preikestolen for the second time (I visited last summer with an exchange program) and to do a Lysefjord Cruise. I would also love to hear about some great restaurants or breakfast cafes! I will have no rental car so I will need to primarily rely on public transportation and walking. Thank you!!
+Rated POIs: 48
+Rel distr: [(0, 3), (1, 11), (2, 28), (3, 6)]
+=================================
+REL: 3
+POI Name: Ostehuset Hinna
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Bakeries, Sandwiches, 
+Snippets:
+
+
+REL: 3
+POI Name: Steam Kaffebar
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Coffee & Tea, 
+Snippets:
+title: Steam Kaffebar - En spennende og luksuriøs kaffeopplevelse
+snippet: Hos Steam ønsker vi å gi kunden den beste kaffeopplevelsen. Vi legger mye arbeid i å gjøre våre kaffebarer til et behagelig sted å være. I våre 6 kaffebarer jobber vi etter 3 grunleggende verdier; kvalitet, folkelighet og tilgjengelighet. Velkommen til oss, for en spennende og luksuriøs kaffeopplevelse!
+title: Steam Kaffebar, Stavanger - Restaurantanmeldelser ...
+snippet: Dette er en hyggelig kaffebar med godt utvalg av noe å bite i, som jeg gjerne besøker når jeg er i Stavanger for å treffe min familie. De har en hyggelig tradisjon med å ta meg med til Steam på lørdagsfrokost.
+title: Steam Kaffebar - Stavanger - Startside | Facebook
+snippet: Steam Kaffebar - Stavanger – Klubbgata 5, 4013 Stavanger, Norway – Vurderingen 4.6 basert på 54 anmeldelser &quot;Our favorite place for coffee in town, makes...
+title: Steam Kaffebar - Stavanger - Home | Facebook
+snippet: Steam Kaffebar - Stavanger - Klubbgata 5, 4013 Stavanger, Norway - Rated 4.6 based on 54 Reviews &quot;Our favorite place for coffee in town, makes mornings...
+title: Våre kaffebarer - Steam Kaffebar
+snippet: Steam Kaffebar har 6 kaffebarer fordelt i Oslo/Bærum og Stavanger. Velkommen til oss - for en spennende og luksuriøs kaffeopplevelse.
+title: Kontakt oss - Steam Kaffebar
+snippet: Steam Kaffebar / Kontakt oss Kontakt oss Har du spørsmål, vil gi oss en tilbakemelding, eller ønsker å søke jobb hos oss, send oss en e-post eller legg igjen din henvendelse i kontaktskjemaet under.
+title: Kaffebrenneri - Steam Kaffebar
+snippet: Steam Kaffebar har et tett samarbeid med LIPPE og Jacu. Det viktigste for oss er å ha det vi mener er den beste kaffen i våre kaffebarer. Våre samarbeidspartnere overbeviser gang på gang ved å levere kaffe på et svært høyt og stabilt nivå! Sammen har vi en grunnfilosofi hvor kvalitet er i høysetet.
+title: Steam Kaffebar, Stavanger - Restaurantanmeldelser ...
+snippet: Steam Kaffebar, Stavanger: Se 75 objektive anmeldelser av Steam Kaffebar, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 39 av 205 restauranter i Stavanger.
+title: Barista hos oss - Steam Kaffebar
+snippet: For å være kvalifisert barista ved Steam Kaffebar må en ansatt gjennom Steam sitt baristakurs og bestå påfølgende eksamen. Baristakurs ved Steam Kaffebar er et svært detaljert og inngående kurs som har som mål å gi den ansatte god kjennskap til alle kaffedrikker på Steam sin meny, og alle teknikker og rutiner som er knyttet til dette.
+title: Steam Kaffebar i Stavanger | Åpningstider og telefon
+snippet: Steam Kaffebar i Stavanger: butikker og åpningstider . Her kan du finne alle Steam Kaffebar butikker i Stavanger. For å få tilgang til butikkdetaljene (adresse, åpningstider, nettside og aktuelle tilbud), klikk på adressen eller butikkens navn. Se alle Steam Kaffebar-butikker .
+
+REL: 3
+POI Name: Fisketorget
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, 
+Snippets:
+title: Hjem - Fisketorget Stavanger
+snippet: FISKETORGET I STAVANGER. Et spisested med fisk og sjømat, der menyen baserer seg på dagens fangst. Våre entusiastiske kokker tilbyr enkle velsmakende retter til lunsj og middag. Vi fokuserer utelukkende på lokale, kortreiste råvarer.
+title: Restauranten - Fisketorget Stavanger
+snippet: Fisketorget i Stavanger skal fremstå som et innovativt og fremtidsrettet sjømatutsalg, hvor høy kvalitet og ferskhetsgrad, stort utvalg, solid kompetanse og ekstraordinær servicegrad preger virksomheten. Kjøp gavekort. Åpningstider. Åpningstider Restauranten. Mandag – Lørdag 11 – 17.
+title: Fiskedisken - Fisketorget Stavanger
+snippet: Dette er byens mest eksklusive fiskedisk. Her får du fantastiske, dagsferske råvarer fra lokale leverandører. I tillegg til tradisjonelle råvarer som reker, krabbe, håndskjærte fileeter og hel fisk, tilbyr vi eksklusive varer som ferske kamskjell, østers, sushi, hummer, hjemmelagde silderetter, fantastiske klippfiskvarianter, eksklusive Ritz produkter og mye mer.
+title: Bestill bord - Fisketorget Stavanger
+snippet: Her kan du sende inn en forespørsel om reservering av bord. Velg dato, fyll ut skjema og send inn. Du vil deretter motta en e-post om status på din forespurte reservasjon.
+title: Dagens Meny - Fisketorget Stavanger
+snippet: Dagens meny varierer avhengig av sesong, råvaretilgang og kokkenes fantasi. Vi prioriterer alltid lokalfanget sjømat fremfor langreiste varer.
+title: Fisketorget Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Fisketorget Stavanger, Stavanger: Se 1 022 objektive anmeldelser av Fisketorget Stavanger, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 11 av 203 restauranter i Stavanger.
+title: Fisketorget, Stavanger - Restaurant Reviews, Photos ...
+snippet: Fisketorget, Stavanger: See 1,022 unbiased reviews of Fisketorget, rated 4.5 of 5 on Tripadvisor and ranked #11 of 203 restaurants in Stavanger.
+title: Fisketorget i Stavanger - Home | Facebook
+snippet: Fisketorget i Stavanger, Stavangers kommun. 8,025 likes · 32 talking about this · 9,574 were here. Fisk og sjømatutsalg med egen sjømatrestaurant. Utelukkende fisk og skalldyr på menyen, som endres...
+title: Fisketorget Stavanger, Stavanger - 1881.no
+snippet: Fisketorget Stavanger fra , Rogaland. Fisk og skalldyr - Detalj. Fisketorget i Stavanger skal fremstå som et innovativt og fremtidsrettet sjømatutsalg, hvor høy kvalitet og ferskhetsgrad, stort utvalg, solid kompetanse og ekstraordinær servicegrad preger virksomheten.
+title: Fisketorget i Stavanger - Startside | Facebook
+snippet: Fisketorget i Stavanger, Stavangers kommun. 8 050 liker dette · 591 snakker om dette · 9 583 har vært her. Fisk og sjømatutsalg med egen sjømatrestaurant. Utelukkende fisk og skalldyr på menyen, som...
+
+REL: 3
+POI Name: Amy's Coffeebar
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Juice Bars & Smoothies, Cafes, 
+Snippets:
+title: Amy&#39;s Coffeebar, Stavanger - Restaurantanmeldelser ...
+snippet: Amy&#39;s Coffeebar, Stavanger: Se 22 objektive anmeldelser av Amy&#39;s Coffeebar, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 78 av 203 restauranter i Stavanger.
+title: Amy&#39;s Coffeebar, Stavanger - Restaurant Reviews, Photos ...
+snippet: Amy&#39;s Coffeebar, Stavanger: See 22 unbiased reviews of Amy&#39;s Coffeebar, rated 4.5 of 5 on Tripadvisor and ranked #76 of 212 restaurants in Stavanger.
+title: Amy&#39;s Coffeebar - Startside | Facebook
+snippet: Amy&#39;s Coffeebar – Salvågergaten 7, 4006 Stavanger, Norway – Vurderingen 5 basert på 1 anmeldelse &quot;Best coffee shop in Stavanger , go every time we are...
+title: Amy&#39;s Coffeebar, Stavanger - 1881.no
+snippet: Amy&#39;s Coffeebar fra , 100076185S1 - Amy&#39;s Coffeebar
+title: Amys Coffeebar Barkhodaee - Home | Facebook
+snippet: Amys Coffeebar Barkhodaee - Salvågergata 7, 4006 Stavanger, Norway - Rated 4.7 based on 76 Reviews &quot;Amy&#39;s is a wonderful eatery and the staff are...
+title: TRENDY - Anmeldelse for Amy&#39;s Coffeebar, Stavanger, Norge ...
+snippet: Amy&#39;s Coffeebar: TRENDY - Se 22 reiseanmeldelser, 7 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Beste cafeen i Stavanger - Anmeldelse for Amy&#39;s Coffeebar ...
+snippet: Amy&#39;s Coffeebar: Beste cafeen i Stavanger - Se 22 reiseanmeldelser, 7 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Mot slutten for Amys Coffeebar i Stavanger?
+snippet: Amy&#39;s Coffeebar i Salvågergata i Stavanger ble åpnet allerede i 1997. Nesten 20 år senere kan det nærme seg kroken på døra for kaffebaren. Om Amy&#39;s ikke får regnskapet på plass innen 13. mai blir tingretten varslet og selskapet tvangsoppløst, skriver Stavanger Aftenblad.
+title: Amy&#39;s Coffeebar - Home | Facebook
+snippet: Amy&#39;s Coffeebar - Salvågergaten 7, 4006 Stavanger, Norway - Rated 5 based on 1 Review &quot;Best coffee shop in Stavanger , go every time we are back there,...
+title: Amys Coffeebar risikerer ... - Stavanger Aftenblad
+snippet: Amys Coffeebar risikerer tvangsoppløysing. Kaffibaren Amys i Stavanger har ikkje fått godkjent reknskapet for 2014, viser Brønnøysundregisteret.
+
+REL: 3
+POI Name: Café Delice
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Open Sandwiches, 
+Snippets:
+title: Cafe Delice, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Delice, Stavanger: Se objektive anmeldelser av Cafe Delice, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 181 av 203 restauranter i Stavanger.
+title: Café Delice Tasta Senter - Stavanger, Norway | Facebook
+snippet: Café Delice Tasta Senter - Tastatunet 1-3, 4027 Stavanger, Norway - Rated 4.2 based on 18 Reviews &quot;Clean, modern, comfortable, friendly. These were the...
+title: Middag - Anmeldelse for Cafe Delice, Stavanger, Norge ...
+snippet: Cafe Delice: Middag - Se reiseanmeldelser, 3 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Cafe Delice, Stavanger - Restaurant Reviews, Photos ...
+snippet: Cafe Delice, Stavanger: See unbiased reviews of Cafe Delice, rated 3 of 5 on Tripadvisor and ranked #181 of 203 restaurants in Stavanger.
+title: Cafe Delice Tasta Senter, Stavanger | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Cafe Delice Tasta Senter Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+title: Tasta senter Cafe Delice, Stavanger - 1881.no
+snippet: Tasta senter Cafe Delice fra , 207401523S1 - Tasta senter Cafe Delice
+title: Cafe Delice - Markedet, Haugesund
+snippet: Cafe Delice; Haugesunds sentrums største kafé og Markedets foretrukne møtested. Her kan du finne en koselig sitteplass i vårt store lokale og bli servert en rekke ferske retter påsmurte bakevarer, nystekte bakevarer og sveler. Se vårt store utvalg av forskjellige småretter og har egen grill meny.
+title: Café Delice - Cafes - Tastatunet 1-3, Stavanger, Norway ...
+snippet: Café Delice in Stavanger, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Stavanger and beyond. Café Delice - Cafes - Tastatunet 1-3, Stavanger, Norway - Restaurant Reviews - Yelp
+title: Delice Cafe
+snippet: Skvělá kavárna, cukrárna a bistro v jednom. Ve všední dny připravujeme vynikající obědy. Zároveň vyrábí naši cukráři úžasné domácí dortíky. Těšíme se na vás v Delice cafe.
+title: Chocolate, Coffee - Cafe Delice - Ottawa, Ontario
+snippet: We have been selling Leonidas Belgian Chocolates at our Ottawa Centretown location for over a decade. A Warrant holder of the Court of Belgium and still a family-run company, Leonidas has been producing fine chocolate for over a hundred years.
+
+REL: 3
+POI Name: Starbucks
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Starbucks Coffee Norge
+snippet: Å si at Starbucks kjøper og brenner kvalitetskaffe av hele kaffebønner, er helt riktig. Det er kjernen i det vi gjør – men det sier langt fra alt.
+title: Butikker og åpningstider | Starbucks Coffee Company
+snippet: Finn åpningstider og kontaktinformasjon til Starbucks butikker i Norge og i andre land. By using the Confirmation.com site, you agree with our use of cookies. Les våre retningslinjer for informasjonskapsler. Vil du vite mer? Jeg samtykker til informasjonskapsler .
+title: Domkirkeplassen-Stavanger | Starbucks Coffee Company
+snippet: Et annerledes selskap. Vår forretningsidé er å inspirere og løfte mennesker – én person, én kopp og ett lokalmiljø av gangen.
+title: Starbucks Meny | Starbucks Coffee Company, Norge
+snippet: We’ve got delicious food to go with our hand-crafted coffee drinks. Check out the Starbucks menu, our quick breakfast ideas and nutritional information.
+title: Starbucks, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Starbucks, Stavanger: Se 77 objektive anmeldelser av Starbucks, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 95 av 203 restauranter i Stavanger.
+title: Om Starbucks butikker| Starbucks Coffee Company
+snippet: Mens kaffen vår bringer mennesker sammen, betyr tilbudet om gratis Wi-Fi at du kan holde kontakten. Finn ut hvordan du kan surfe når du nyter drikke hos Starbucks.
+title: Starbucks, Stavanger - Menu, Prices &amp; Restaurant Reviews ...
+snippet: In stavanger there is 2 Starbucks one near the catedral and the other almost 2 streets downtown, both works almost equal, the one beside the catedral is with much more traffic but both are pretty much easy, the one beside the catedral have a own... More. Date of visit: April 2019.
+title: Starbucks Stavanger | Konkurrentanalyse - Studienett.no
+snippet: Starbucks Stavanger Starbucks Stavanger er en kaffebar lokalisert sentralt i Stavanger sentrum. Kaffebarkjeden åpnet i Stavanger i mai 2015, etter å ha etablert seg i over 49 land og med 16.200 utsalgssteder, på bare 49 år. Kaffebarkjeden tilbyr hovedsakelig ulike kaffetyper, men selger også i tillegg ulike typer smoothie, juice og matretter.
+title: Starbucks Domkirkeplassen-Stavanger - åpningstider ...
+snippet: Starbucks Domkirkeplassen-Stavanger, præsentation af sted og åpningstider
+title: Nyheter | Nettbutikk - Starbucks Coffee Norge
+snippet: STARBUCKS (UMOE Restaurant Group Coffee AS) Postboks 260, 1326 Lysaker Foretaksregisteret 998 656 206. Vår nettbutikk bruker cookies slik at du får en bedre kjøpsopplevelse og vi kan yte deg bedre service. Vi bruker cookies hovedsaklig til å lagre innloggingsdetaljer og huske hva du har puttet i handlekurven din. Fortsett ...
+
+REL: 2
+POI Name: Blue Bird Kaffebar
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Stavanger - Bluebird
+snippet: Vi er en kaffebar i hjerte a v Stavanger som ønsker å gi deg det beste av kaffe, smaker og kulturopplevelser. Kvalitet er alltid i fokus hos oss. Du vil oppleve og se at kaffen blir brygget på nye måter slik at din opplevelse rundt kaffekoppen blir best mulig, ...
+title: Bluebird - Hjem
+snippet: Bluebird kaffebar - en oase i hverdagen. Vår pasjon for kaffe, mennesker og kvalitet gir deg en kafèopplevelse utenom det vanlige. Våre dedikerte medarbeidere er klare til å servere deg den beste kaffen, og vi vil at du som kunde skal oppleve høy kvalitet både på service og våre produkter.
+title: Bluebird Kaffebar, Stavanger - Restaurantanmeldelser ...
+snippet: Hadde lest gode ting om Bluebird Kaffebar, og stakk derfor innom i løpet av et nylig Stavanger besøk. Jeg ble ikke skuffet! Spiste verdens beste muffins med hvit sjokolade og bringebær.
+title: Bluebird Kaffebar - 941 Photos - 119 Reviews - Coffee Shop ...
+snippet: Bluebird Kaffebar - Kongsgata 48, 4005 Stavanger, Norway - Rated 4.8 based on 119 Reviews &quot;This is my favourite cafe in Stavanger. I only ever have chai...
+title: Bluebird Kaffebar - 941 bilder - 118 anmeldelser ...
+snippet: Bluebird Kaffebar – Kongsgata 48, 4005 Stavanger, Norway – Vurderingen 4.8 basert på 118 anmeldelser &quot;This is my favourite cafe in Stavanger. I only ever...
+title: Pust kaffebar - Oslo - Bluebird
+snippet: Pust kaffebar. Pust inn, pust ut, midt i hjertet av travle Oslo! PUST er det nyeste skuddet på Bluebird-stammen, og åpnet i Slemdalsveien 1 på Majorstua i februar 2016. Her, mellom langbord og industrilamper, kan du drikke deilig kaffe og fråtse i sunn eller søt mat mekket på huset. Vi gleder oss til å servere deg!
+title: Blue Bird Kaffebar - Stavanger gospel company
+snippet: SGCompany pursues to create positive experiences for as many people as possible. We write and sing gospel music, mainly composed by choir members and our musical director, Aril Schøld. We also cover our favourite contemporary and traditional gospel songs and spirituals.
+title: Haugesund - Bluebird
+snippet: Velkommen tilbake til Totalen kaffebar så snart det er mulig å åpne igjen. Vårt mål er å gi deg Haugesunds beste kaffe. En spesielt god kopp kaffe krever førsteklasses råv arer, profesjonelt utstyr, faglig kunnskap og mye trening. Den må lages og serveres med omtanke og et smil, i en behagelig atmosfære.
+title: Open Mic at The Bluebird Kaffebar - Home | Facebook
+snippet: Open Mic at The Bluebird Kaffebar, Stavanger, Norway. 507 likes. If you write music, poems, do stand up comedy, dance, theater or whatever can be perfomed on stage, then this is the perfect place for...
+title: Bluebird Kaffebar - Stavanger, Norway
+snippet: Bluebird Kaffebar er kaffebar nummer to etter den annerkjente Totalen i Haugesund. Vi er en spesialkaffe kaffebar i hjerte av Stavanger, der kvalitet alltid er i fokus, der du vil oppleve og se at kaffen blir brygget på nye måter slik at din opplevelse rundt kaffekoppen blir best mulig, og hvor gamle bekjentskap møtes såvel som nye stiftes.
+
+REL: 2
+POI Name: Pasha
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Turkish, 
+Snippets:
+title: Pasha Restaurant, Stavanger - Restaurantanmeldelser ...
+snippet: Pasha Restaurant, Stavanger: Se 141 objektive anmeldelser av Pasha Restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 13 av 203 restauranter i Stavanger.
+title: Pasha Restaurant - Startside - Stavanger, Norway - Meny ...
+snippet: Pasha Restaurant – Verksgata 1D, 4013 Stavanger, Norway – Vurderingen 4.8 basert på 248 anmeldelser &quot;If it wasn’t for the prices, I would have thought I...
+title: Pasha Restaurant - Home - Stavanger, Norway - Menu, Prices ...
+snippet: Pasha Restaurant - Verksgata 1D, 4013 Stavanger, Norway - Rated 4.8 based on 248 Reviews &quot;If it wasn’t for the prices, I would have thought I was in...
+title: Take away fra Pasha Restaurant Stavanger &amp; Sandnes | foodora
+snippet: foodora bruker Cookies for å gi deg en best mulig opplevelse av tjenesten. Dersom du fortsetter å navigere deg på nettsiden godtar du vår bruk av Cookies.
+title: Pasha Restaurant, Stavanger - Photos &amp; Restaurant Reviews ...
+snippet: Order food online at Pasha Restaurant, Stavanger with Tripadvisor: See 141 unbiased reviews of Pasha Restaurant, ranked #13 on Tripadvisor among 203 restaurants in Stavanger.
+title: Pasha Restaurant
+snippet: PASHA RESTAURANT. Pasha Restaurant er lokalisert i hjertet av Stavanger by. Pasha vil tilby de fremste originale tyrkiske oppskriftene basert på tradisjonelle tilberedningsmetoder. Bruken av kullgrill og steinovn setter preg på den eksklusive smaken. Den vakre innredningen og de kulturelle omgivelsene vil gi deg en atmosfære du ikke vil glemme.
+title: Pasha Restaurant overrasket sykepleiere med nygrillet nattmat
+snippet: – Vi ønsket å vise at vi setter pris på våre helsearbeidere og den fantastiske jobben de gjør, sier Øzcan Akbas, som er daglig leder i Pasha Restaurant. Restauranten i Verksgata i Stavanger stenger klokka 22.00, men tirsdag kveld gikk ikke kokkene hjem. I stedet ble grillen fyrt opp på ny ...
+title: Pasha Restaurant | Stavanger Sentrum AS
+snippet: Pasha Restaurant er lokalisert i hjertet av Stavanger by. Pasha vil tilby de fremste originale tyrkiske oppskriftene basert på tradisjonelle tilberedningsmetoder. Bruken av kullgrill og steinovn setter preg på den eksklusive smaken. Den vakre innredningen og de kulturelle omgivelsene vil gi deg en atmosfære du ikke vil glemme.
+title: - Vi vil vise at det tyrkiske kjøkkenet er blant de beste ...
+snippet: Nå skal de starte opp den tyrkiske restauranten Pasha i Stavanger sentrum. FOTO: Håvard Tanche-Larsen Knutsen – Jeg har ingen erfaring fra restaurantbransjen fra før, men jeg pleier å spise mye ute og har savnet en god tyrkisk restaurant, sier Yasin Akbas (25). Går alt etter planen står storsatsingen klar i november:
+title: namnam - Anmeldelse for Pasha Restaurant, Stavanger, Norge ...
+snippet: Pasha Restaurant: namnam - Se 141 reiseanmeldelser, 58 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+
+REL: 2
+POI Name: Liebling Oslo
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Breakfast & Brunch, 
+Snippets:
+title: Liebling, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Liebling, Oslo: Se 84 objektive anmeldelser av Liebling, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 160 av 1 450 restauranter i Oslo.
+title: Liebling Oslo - Oslo, Norway | Facebook
+snippet: Liebling Oslo, Oslo, Norway. 7.8K likes. Kaffe brunsj, lunsj, bar. Førstemann til mølla. Vi tar ingen reservasjoner under 10 personer. Send oss en mail på info@liebling.no
+title: Liebling Oslo, Øvrefoss 4, Oslo (2020) - globuya.com
+snippet: @ Liebling Oslo . 19/03/2020 . Vi holder fortsatt åpent, men med begrensede åpningstider 11-17. Vi leverer det aller meste som takeaway, sveip til høyre for å se hva du kan kose deg med hjemme? @ Liebling Oslo . 17/03/2020 . Vi holder foreløpig åpent med begrensede åpningstider: tirsdag-søndag 10.00-17.00!
+title: Liebling Oslo | LinkedIn
+snippet: Finn ut mer om hvordan det er å jobbe i Liebling Oslo. Bli med i LinkedIn i dag gratis. Se hvem du kjenner i Liebling Oslo, dra nytte av ditt profesjonelle nettverk og bli ansatt.
+title: Opphausa - Anmeldelse for Liebling, Oslo, Norge - Tripadvisor
+snippet: Liebling: Opphausa - Se 84 reiseanmeldelser, 42 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: LIEBLING, Oslo - Updated 2020 Restaurant Reviews, Photos ...
+snippet: Liebling, Oslo: See 84 unbiased reviews of Liebling, rated 4.5 of 5 on Tripadvisor and ranked #162 of 1,450 restaurants in Oslo.
+title: Liebling, Oslo - Restaurant Reviews, Phone Number &amp; Photos ...
+snippet: Liebling, Oslo: See 84 unbiased reviews of Liebling, rated 4.5 of 5 on Tripadvisor and ranked #162 of 1,448 restaurants in Oslo.
+title: Liebling, Oslo - Nordic Coffee CultureNordic Coffee Culture
+snippet: Liebling is not like any other café in Oslo. Tucked away in Grünerløkka, it manages to be eclectic, quirky and inviting all at the same time. Inspired by everything from Berlin cafées, general stores of old to the ubiquitous TV German show Derrick, Ola Refsnes and Katrin Schauer have created something that is many things, but most of all uniquely itself. Liebling is german for …
+title: Liebling - Picture of Liebling, Oslo - Tripadvisor
+snippet: Liebling, Oslo Picture: Liebling - Check out Tripadvisor members&#39; 54,368 candid photos and videos of Liebling
+title: Liebling - Picture of Liebling, Oslo - Tripadvisor
+snippet: Liebling, Oslo Picture: Liebling - Check out Tripadvisor members&#39; 50,022 candid photos and videos of Liebling. Oslo. Oslo Tourism Oslo Hotels Oslo Bed and Breakfast Oslo Vacation Rentals Oslo Vacation Packages Flights to Oslo Oslo Restaurants Things to Do in Oslo Oslo Travel Forum Oslo Photos
+
+REL: 2
+POI Name: Mogul India
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: Mogul India - Food delivery - Stavanger - Order online
+snippet: Order Online for Takeaway / Delivery or Book a Table. Here at Mogul India - Stavanger you&#39;ll experience delicious Indian cuisine. Try our mouth-watering dishes, carefully prepared with fresh ingredients! At Mogul India, our recipe for success is simple – Great food &amp; care makes customers return every time.
+title: Mogul India, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Mogul India, Stavanger: Se 601 objektive anmeldelser av Mogul India, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 9 av 203 restauranter i Stavanger.
+title: Mogul India, Stavanger - Photos &amp; Restaurant Reviews ...
+snippet: Order food online at Mogul India, Stavanger with Tripadvisor: See 601 unbiased reviews of Mogul India, ranked #9 on Tripadvisor among 203 restaurants in Stavanger.
+title: Mogul India Restaurant - Home - Stavanger, Norway - Menu ...
+snippet: Mogul India Restaurant - Verksgata 9,, 4013 Stavanger, Norway - Rated 4.8 based on 157 Reviews &quot;Came here for the first time today. Me and my girlfriend...
+title: Mogul India Restaurant - Startside - Stavanger, Norway ...
+snippet: Mogul India Restaurant, Stavanger, Norway. 1,3 k liker dette. Mogul India offers a combination of indisputable knowledge, traditional values, and unique culinary experiences. Our dishes feature bold...
+title: Take away fra Mogul India Restaurant Stavanger &amp; Sandnes ...
+snippet: Dum Biryani. Your choice of meat seasoned with an aromatic spice blend and cooked alongside onions and basmati rice in a sealed pot. Finished with yoghurt, caramelized onion, and fresh coriander.Served with a side of cucumber raita and salad with cucumber raita and Salan - sauce with peanuts and sesame seeds.
+title: Mogul India Restaurant, Stavanger - 1881.no
+snippet: Mogul India Restaurant fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+title: Fantastisk saus - Anmeldelse for Mogul India, Stavanger ...
+snippet: Mogul India: Fantastisk saus - Se 601 reiseanmeldelser, 168 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Indian Food Delivery - Stavanger - Mogul India
+snippet: Order online from Mogul India. Indian Food Delivery in Stavanger. Our mouth-watering dishes are prepared with care and fresh ingredients. Go straight to our online menu and place your order. You&#39;ll have it delivered to your door in no time.
+title: Mogul India Restaurant, Stavanger | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Mogul India Restaurant Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+
+REL: 2
+POI Name: Zouq Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Indian, Pizza, Pakistani, 
+Snippets:
+title: Zouq - Catering stavanger|catering sandnes
+snippet: Stavanger Pedersgata 12 4013 Stavanger E-post: post@zouq.no Mobilnr: 400 500 55 Zouq AS Orgnr. 998 035 201 Sandvika Rådmann Halmrastsvei 2 1337 Sandvika E-post: sandvika@zouq.no Tlf: 67 54 54 00 Zouq Sandvika AS Orgnr. 917 363 749
+title: catering rogaland - Zouq Restaurant &amp; Take Away Stavanger ...
+snippet: Stavanger Pedersgata 12 4013 Stavanger E-post: post@zouq.no Mobilnr: 400 500 55 Zouq AS Orgnr. 998 035 201 Sandvika Rådmann Halmrastsvei 2 1337 Sandvika E-post: sandvika@zouq.no Tlf: 67 54 54 00 Zouq Sandvika AS Orgnr. 917 363 749
+title: Zouq Restaurant and Take Away, Stavanger ...
+snippet: Zouq Restaurant and Take Away, Stavanger: Se 164 objektive anmeldelser av Zouq Restaurant and Take Away, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 21 av 203 restauranter i Stavanger.
+title: Catering Stavanger | Pakistansk, Indisk Mat | Zouq.no‎
+snippet: Catering i Stavanger som passer til alle anledninger. Se utvalget og bestill i dag ... ekte pakistanske smaken av ferske råvarer tilberedt med lidenskap for mat opplever du i like stor grad om du spiser i restauranten eller gjennom våre take away- og ... og det du blir servert er sjelfylt og autentisk. Hos Zouq kan du bestille ...
+title: Kontakt oss - Zouq Restaurant &amp; Take Away Stavanger &amp; Sandvika
+snippet: Stavanger Pedersgata 12 4013 Stavanger E-post: post@zouq.no Mobilnr: 400 500 55 Zouq AS Orgnr. 998 035 201 Sandvika Rådmann Halmrastsvei 2 1337 Sandvika E-post: sandvika@zouq.no Tlf: 67 54 54 00 Zouq Sandvika AS Orgnr. 917 363 749
+title: Om Oss - Zouq Restaurant &amp; Take away
+snippet: Alt vi gjør i våre restauranter i Stavanger og Sandvika handler om én ting: Lidenskap. Maten vi tilbereder er basert på gamle familieoppskrifter og er helt fri for snarveier. Det skal lages på gamlemåten og med hjertet, enten det serveres i restauranten eller som take away og catering.
+title: De 10 beste restaurantene i nærheten av Zouq Restaurant ...
+snippet: Restauranter i nærheten av Zouq Restaurant and Take Away på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Zouq Restaurant and Take Away, Stavanger.
+title: Zouq Restaurant &amp;Take Away, Stavanger - Menu, Prices ...
+snippet: Order food online at Zouq Restaurant &amp;Take Away, Stavanger with Tripadvisor: See 165 unbiased reviews of Zouq Restaurant &amp;Take Away, ranked #21 on Tripadvisor among 203 restaurants in Stavanger.
+title: Take away fra Zouq Restaurant &amp; Take away Stavanger ...
+snippet: foodora bruker Cookies for å gi deg en best mulig opplevelse av tjenesten. Dersom du fortsetter å navigere deg på nettsiden godtar du vår bruk av Cookies.
+title: De 10 beste restaurantene i Stavanger - Tripadvisor
+snippet: Beste restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor. Stavanger. Turisme i Stavanger Hotell i Stavanger Bed and Breakfast i Stavanger ... Zouq Restaurant and Take Away.
+
+REL: 2
+POI Name: Sjå Inge
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Bakeries, Cafes, 
+Snippets:
+title: Sjaainge
+snippet: «Sjå Inge» er stedet der all vår kreativitet, kunnskap og erfaring som konditor og kokk deles med alle besøkende. Å skape med mat og å trylle i sjokolade er både en hobby og en lidenskap, noe vi håper du vil merke når du er «Sjå Inge» – velkommen! Beste hilsen Sjå Inge &amp; co. Adresse: Østervåg 30, Stavanger;
+title: Sjå Inge, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Sjå Inge, Stavanger: Se 135 objektive anmeldelser av Sjå Inge, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 18 av 203 restauranter i Stavanger.
+title: Sjå Inge - Startside - Stavanger, Norway - Meny, priser ...
+snippet: Sjå Inge, Stavanger, Norway. 18 921 liker dette · 5 snakker om dette · 2 158 har vært her. Kafe og restaurant med varme og kalde retter. Mikrobakeri og uteservering. Vi har alle rettigheter.
+title: Sjå Inge - Home - Stavanger, Norway - Menu, Prices ...
+snippet: Sjå Inge, Stavanger, Norway. 18,944 likes · 6 talking about this · 2,150 were here. Kafe og restaurant med varme og kalde retter. Mikrobakeri og uteservering. Vi har alle rettigheter.
+title: Sjaainge
+snippet: For ingen uansett utgangspunkt kan vel gå upåvirket fra god bakeduft, nybrygget kaffe, fargerike konditor-godbiter i diskene, desserter du drømmer om hjemme, hjemmelaget konfekt, varmretter til akseptable priser samt et godt smil, en lun kommentar og litt omsorg som bonus?
+title: Sjaainge
+snippet: Sjå Inge, vel. Han vasker alt av utstyr, kjøkkenbenker, komfyr og tar med avfall etter dysten. På privatkjøkkenet ditt settes serviset inn i oppvaskmaskin, eller det skylles og settes på benken til en ny maskinrunde. Glassene venter til vertskapet får vasket de.
+title: Inge Anda har solgt Sjå Inge - Stavanger Aftenblad
+snippet: 8. desember solgte Inge Anda seg helt ut av Sjå Inge. Nå er han engasjert av Kirkens Bymisjon og skal drive kafeen Kaffekoppen på Sola. Det innebærer fritid både på kvelder og i helger. – Jeg er 51 år og har jobbet siden jeg var 13, og de siste to-tre årene har jeg jobbet hver eneste helg.
+title: Sja Inge, Stavanger - Restaurant Reviews, Photos &amp; Phone ...
+snippet: If in Stavanger and it’s raining( which it does a lot) visit Sja Inge for a warm welcome, fantastic hot chocolate and great cinnamon and custard danish, can’t help but put a smile on your face, need I say more, enjoy?
+title: Bergensselskap har kjøpt Sjå Inge - Stavanger Aftenblad
+snippet: Bergensselskap har kjøpt Sjå Inge – og vil gjøre mer i Stavanger. Selskapet Madhat, med forretningsadresse Bergen, har kjøpt Inge Andas kafé Sjå Inge i Stavanger. Madhat vil drive kafeen videre – og dessuten etablere flere kafeer eller utesteder i byen.
+title: Sjå Inge - Bryllupscatering fra Sjå Inge. Stavanger ...
+snippet: Bryllupscatering fra Sjå Inge. Stavanger kunstmuseum ved Mosvannet er et fantastisk lokale. 100 personer på runde bord, nesten under åpen himmel. Bestill catering fra oss neste gang du skal feire...
+
+REL: 2
+POI Name: Café Sting
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Cafe Sting – I hjerte av Stavanger
+snippet: Se meny Bestill bord. Åpningstider Cafe / Bar. 11.00 – 00.00 11.00 – 00.00 11.00 – 00.00 11.00 – 00.00 11.00 – 01.30 11.00 – 01.30 12.00 – 23.00
+title: Café Sting, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Café Sting, Stavanger: Se 171 objektive anmeldelser av Café Sting, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 79 av 203 restauranter i Stavanger.
+title: Café Stings sjokoladekake (med ekstra mye sjokoladekrem ...
+snippet: Hvorvidt denne kaken faktisk stammer fra Café Sting i Stavanger eller ikke, er vel det mest debatterte temaet i kommentarfeltene her på bloggen, og jeg må skynde meg å si at jeg ikke vet svaret, men det som uansett er klart er at denne oppskriften gir en fantastisk god sjokoladekake!
+title: Café Stings sjokoladekake | Det søte liv
+snippet: &quot;Café Stings sjokoladekake&quot; er en killer sjokoladekake - myk og saftig med en helt fantastisk god sjokoladekrem! Jeg fant oppskriften på nettet for mange år siden, og kaken skal etter sigende stamme fra Café Sting i Stavanger. Hvorvidt dette er originalen eller ikke strides de lærde, men dette er uansett blitt en av de aller mest besøkte kakeoppskriftene her på Det søte liv! Knallgod ...
+title: Meny – Cafe Sting
+snippet: Grillet Ostesmørbrød. Verdens beste toast. Allergen (hvete-sennep-ost) 155,-Toast Cubano. Svinenakke, sveitser ost, sennep, skinke, pickles. Allergen (hvete-sennep-ost)
+title: Cafe Sting - Diner - Stavanger, Norway | Facebook - 200 ...
+snippet: Cafe Sting, Stavanger, Norway. 6,036 likes · 166 talking about this · 6,829 were here. Café Sting er en kafé ved Valbergtårnet i sentrum av Stavanger som kombinerer kaféliv med kulturliv. Mest kjent...
+title: Cafe Sting - Kafé - Stavanger, Norway | Facebook - 195 ...
+snippet: Cafe Sting, Stavanger, Norway. 6 061 liker dette · 6 snakker om dette · 6 844 har vært her. Café Sting er en kafé ved Valbergtårnet i sentrum av Stavanger som kombinerer kaféliv med kulturliv. Mest...
+title: Cafe Sting (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Cafe Sting, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Cafe Sting i Stavanger, Norge på Tripadvisor.
+title: Kontakt oss – Cafe Sting
+snippet: © Cafe Sting - 2019 Valberget 3, 4006 Stavanger Lukk meny. Lukk meny
+title: Cafe Sting, Stavanger - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Cafe Sting, Stavanger: See 171 unbiased reviews of Cafe Sting, rated 3.5 of 5 on Tripadvisor and ranked #79 of 203 restaurants in Stavanger.
+
+REL: 2
+POI Name: Wayne's Coffee
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Kaféer | Wayne´s Coffee Norway
+snippet: Kaféer on Wayne´s Coffee Norway. ... Wayne’s Coffee Stavanger Tasta Gjerdeveien 14A. 09.00-21.00. Wayne’s Coffee Oslo Storgata Storgata 29. 08.00-19.00. Wayne’s Coffee Ås Rådhusplassen 21. 08.00-18.00. Eat, fika and enjoy organic coffee. Sosiale media. Instagram;
+title: Waynes Coffee - Ekologisk frukost, lunch och fika
+snippet: Waynes Coffee Sveriges första KRAV-märkta kafékedja. Vi brukar säga att vi söker efter den ultimata fikan. Visst kan det låta storslaget. Men detta sökande har präglat oss sedan vi slog upp dörrarna till vårt första kafé på Kungsgatan i Stockholm.
+title: Wayne’s Coffee Stavanger Tasta | Wayne´s Coffee Norway
+snippet: Wayne’s Coffee Stavanger Tasta on Wayne´s Coffee Norway. Skriv inn dine søkeord under og trykk på «enter»
+title: Wayne&#39;s Coffee, Stavanger - Restaurantanmeldelser ...
+snippet: Wayne&#39;s Coffee, Stavanger: Se 41 objektive anmeldelser av Wayne&#39;s Coffee, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 80 av 205 restauranter i Stavanger.
+title: Hallo | Wayne´s Coffee Norway
+snippet: Hvis du lurer på muligheten for å åpne din egen Wayne’s Coffee, så les mer om dette på siden for franchise-takere. Ellers er den raskeste og enkleste måten å komme i kontakt med oss å bruke kontakt-skjemaet på denne siden. Vi lover å svare så raskt som mulig.
+title: Wayne&#39;s Coffee, Stavanger - Menu, Prices &amp; Restaurant ...
+snippet: Wayne&#39;s Coffee, Stavanger: See 41 unbiased reviews of Wayne&#39;s Coffee, rated 4 of 5 on Tripadvisor and ranked #82 of 203 restaurants in Stavanger.
+title: Wayne’s Coffee Ås | Wayne´s Coffee Norway
+snippet: Wayne’s Coffee Ås on Wayne´s Coffee Norway. Skriv inn dine søkeord under og trykk på «enter»
+title: Wayne’s Coffee åpner i Stavanger | WAYNE`S COFFEE
+snippet: (Stavanger, 25. oktober) Wayne´s Coffee satser offensivt i Stavanger-regionen og torsdag 25. oktober åpner Wayne´s Coffee sin tredje kaffebar i Rogaland på Tasta utenfor Stavanger.-OBOS bygger et helt nytt bydelssenter med alt fra kaffebar til treningssenter, helsestasjon og boliger.
+title: Hello world! | Wayne´s Coffee Norway
+snippet: Hello world! on Wayne´s Coffee Norway | Welcome to Wayne´s Coffee Sites. This is your first post. Edit or delete it, then start blogging!
+title: Wayne&#39;s Coffee i Stavanger | Åpningstider og telefon
+snippet: Her kan du finne alle Wayne&#39;s Coffee butikker i Stavanger. For å få tilgang til butikkdetaljene (adresse, åpningstider, nettside og aktuelle tilbud), klikk på adressen eller butikkens navn.
+
+REL: 2
+POI Name: Kanelsnurren
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Coffee & Tea, Bakeries, 
+Snippets:
+title: kanelsnurren
+snippet: Kanelsnurren er resultatet av bakermester Torbens drøm om et eget bakeri der han kunne dyrke lidenskapen for ekte håndsverksbakst. Etter en barndom der han ofte ble observert løpende i hælene på bakermesterfaren sin, ventet utdannelse til baker og bakermester.
+title: Kanelsnurren, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Kanelsnurren, Stavanger: Se 81 objektive anmeldelser av Kanelsnurren, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 42 av 203 restauranter i Stavanger.
+title: Kanelsnurren - Startside - Stavanger, Norway - Meny ...
+snippet: Kanelsnurren – Verksgata 24, 4013 Stavanger, Norway – Vurderingen 4.6 basert på 63 anmeldelser &quot;Delicious bread, cake and sweets but -5 for the service...
+title: Kanelsnurren AS, Stavanger - 1881.no
+snippet: Kanelsnurren AS fra , Rogaland. Bakeri. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: kanelsnurren
+snippet: Pain aux Amandes med en kopp kaffe ? Husk at du kan bestille varer på nettbutikken vår Kanelsnurren.no #kanelsnurrenbakeri #painauxamandes #bestilloghent #mesterbaker #stavanger #madka #kvadrat #herbarium #sandnes
+title: Kanelsnurren - Home - Stavanger, Norway - Menu, Prices ...
+snippet: Kanelsnurren - Verksgata 24, 4013 Stavanger, Norway - Rated 4.6 based on 63 Reviews &quot;Delicious bread, cake and sweets but -5 for the service today. Was...
+title: Kanelsnurren, Stavanger - Verksgata 24 - Restaurant ...
+snippet: Kanelsnurren, Stavanger: See 81 unbiased reviews of Kanelsnurren, rated 4.5 of 5 on Tripadvisor and ranked #42 of 203 restaurants in Stavanger.
+title: kanelsnurren
+snippet: Kanelsnurren er opptatt av å ivareta personvernet til alle som besøker vеr hjemmeside. Vår personvernerklæring er utarbeidet som følge av personopplysningsloven, som regulerer innsamling, lagring, sammenstilling, utlevering og annen behandling av personopplysninger.Datatilsynet fører tilsyn med loven.
+title: Kanelsnurren - Kvadrat
+snippet: Kanelsnurren tilbyr et kresent utvalg av kvalitetskaker og brød, i tillegg til egenproduserte varer som for eksempel müsli, knekkebrød, biscotti og cookies. Kanelsnurren ligger i 1. etasje i sør ved Steam Kaffebar. Benytt inngang C for korteste vei.
+title: Øgreid-familien kjøper opp Kanelsnurren - nå skal de satse ...
+snippet: For det er ikke små planer Øgreid-familien har med bakeriet som startet opp med en liten butikk i Verksgata i Stavanger sentrum for fem år siden. – Vi har ambisjoner om at dette skal bli en nasjonal kjede. Vi ser for oss at Kanelsnurren skal vokse til mellom 30 og 40 utsalgssteder nasjonalt i løpet av en sjuårsperiode.
+
+REL: 2
+POI Name: Daran Thai Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Bars, 
+Snippets:
+title: Daran Thai Restaurant | Autentisk Thai mat | Løkkeveien 44 ...
+snippet: Autentisk Thai restaurant. Serveres lunch, middag, take away og catering. Smilende og vennlige service. Restaurant har skjenkebevilling. Authentic Thai restaurant. Serving lunch, dinner, takeout and catering. Smiling and friendly staffs. The restaurant has license to serve all alchohol beverages. Stavanger Restaurant Stavanger Restaurant comfort square hotell Restaurant comfort square hotel ...
+title: Meny |Daran Thai Restaurant | Autentisk Thai mat ...
+snippet: Autentisk Thai restaurant. Serveres lunch, middag, take away og catering. Smilende og vennlige service. Restaurant har skjenkebevilling. Authentic Thai restaurant. Serving lunch, dinner, takeout and catering. Smiling and friendly staffs. The restaurant has license to serve all alchohol beverages. Stavanger Restaurant Stavanger Restaurant comfort square hotell Restaurant comfort square hotel ...
+title: Daran Thai Restaurant, Stavanger - Restaurantanmeldelser ...
+snippet: Daran Thai Restaurant, Stavanger: Se 85 objektive anmeldelser av Daran Thai Restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 29 av 203 restauranter i Stavanger.
+title: Middag - Anmeldelse for Daran Thai Restaurant, Stavanger ...
+snippet: Daran Thai Restaurant: Middag - Se 85 reiseanmeldelser, 46 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Daran Thai Restaurant, Stavanger - Menu, Prices ...
+snippet: Daran Thai Restaurant, Stavanger: See 85 unbiased reviews of Daran Thai Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #29 of 203 restaurants in Stavanger.
+title: DARAN THAI RESTAURANT, Stavanger - Updated 2020 Restaurant ...
+snippet: Daran Thai Restaurant, Stavanger: See 85 unbiased reviews of Daran Thai Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #29 of 203 restaurants in Stavanger.
+title: Kontakt |Daran Thai Restaurant | Autentisk Thai mat ...
+snippet: Daran Thai er en thailandsk restaurant som holder til i Løkkeveien 44, Stavanger. Vis-à-vis Comfort Hotel Square. Vi serveres autentisk thailandske mat, akkurat som vi lager hjemme. Daran Thai restaurant is located at Løkkeveien 44, Stavanger. Vis-à-vis Comfort Hotel Square. We serve authentic thai food, just like we cook at home.
+title: De 10 beste restaurantene i nærheten av Daran Thai Restaurant
+snippet: Restauranter i nærheten av Daran Thai Restaurant på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Daran Thai Restaurant, Stavanger.
+title: Seigmannen - Anmeldelse for Daran Thai Restaurant ...
+snippet: Daran Thai Restaurant: Seigmannen - Se 85 reiseanmeldelser, 46 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: THE 10 BEST Thai Restaurants in Stavanger - Tripadvisor
+snippet: Best Thai Restaurants in Stavanger, Stavanger Municipality: Find Tripadvisor traveler reviews of Stavanger Thai restaurants and search by price, location, and more. Stavanger. Stavanger Tourism Stavanger Hotels ... Daran Thai Restaurant. 85 reviews Closed Now. Asian, Thai $$ - $$$ Menu
+
+REL: 2
+POI Name: Re-Naa
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Scandinavian, 
+Snippets:
+title: Restaurant RE-NAA – RE-NAA Gourmetrestaurant – Avslappet ...
+snippet: På jakt etter noe godt å spise, enten det er en rask lunsj, treffe venner, eller bare nyte et glass vin og en smårett? En enkel tidlig middag når du ikke har lyst til å lage noe hjemme, eller en vel tilberedt helaften?
+title: RENAA – Restaurant RE-NAA
+snippet: Menu ”A taste of RE-NAA ... Renaa then left for Stavanger and The Culinary Institute of Norway, where he worked as an advisor and as Coach for the Norwegian Culinary team (junior and senior) for 8 years before he (finally!) opened Renaa Restaurants in 2009.
+title: RE- NAA, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: RE- NAA, Stavanger: Se 326 objektive anmeldelser av RE- NAA, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 3 av 203 restauranter i Stavanger.
+title: Re-Naa flytter inn i luksushotell - Stavanger Aftenblad
+snippet: Foruten Re-Naa er det enda en i Stavanger, nemlig Sabi Omakase. To stjerner? – Betyr flyttingen at du nå sikter mot to stjerner i Michelinguiden? – Vi har jo alltid lyst til å utvikle oss og bli bedre. Men ønsket om å få to stjerner er ikke drivkraften her, jeg er bare glad for å beholde den vi har.
+title: RE- NAA, Stavanger - Restaurant Reviews, Photos &amp; Phone ...
+snippet: RE- NAA, Stavanger: See 326 unbiased reviews of RE- NAA, rated 4.5 of 5 on Tripadvisor and ranked #3 of 203 restaurants in Stavanger.
+title: To Michelin-stjerner til Re-Naa - Stavanger Aftenblad
+snippet: To Michelin-stjerner til Re-Naa. Re-Naa i Stavanger sikret seg sin andre Michelin-stjerne under mandagens utdeling i Trondheim. Det betyr at restauranten nå er den høyest rangerte i Norge.
+title: Re-Naa fikk to Michelin-stjerner - Nyheter
+snippet: Re-Naa fikk mandag sin andre Michelin-stjerne. Det var en glad Sven Erik Renaa som entret scenen i Olavshallen i Trondheim. Stjernekokken ga klar melding til teamet sitt i Stavanger.
+
+REL: 2
+POI Name: Godt Brød
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Cafes, 
+Snippets:
+title: Godt Brød - Forside
+snippet: Velkommen til våre bakeverksted i Oslo, Asker, Stavanger, Bergen og Trondheim . Vær vennlig og velg: menu. Hjem Bakeren svarer Nettbutikk Våre godsaker SØK Du bruker Godt Brød som Bedrift. Min side Du besøker Godt Brød Grünerløkka. Velg et annet ... Godt Brød Norge AS;
+title: Godt Brød - Sølvberget
+snippet: Daglig Leder Godt Brød Stavanger. Ta kontakt med meg angående begge våre avdelinger her i Stavanger. Telefon: 99 44 50 81 E-post: lise@godtbrod.no. Del på: « Tilbake. Om oss og tanken bak; Kontakt; Jobbe i Godt Brød? Godt Brød ... Godt Brød Norge AS; Thorvald Meyersgate 49;
+title: Godt Brød - Godt Brød Eiganes
+snippet: Eiganesveien 9, 4008 Stavanger Åpningstider. Åpningstider påsken på Godt Brød Sølvberget Skjærtorsdag stengt Langfredag stengt Påskeaften 9-16 1.påskedag stengt 2.påskedag 10-16 Åpningstider påsken på Godt Brød Eiganes Skjærtorsdag stengt Langfredag stengt Påskeaften 7.30-15 1.påskedag stengt 2.påskedag 6.30-9.30. Åpningstider
+title: Godt Brød - Nettbutikk
+snippet: Her kan du enkelt bestille alle våre varer. Nettbutikken er under utvikling. Velg å fortsette som bedriftskunde, eller klikk privatperson for å gå tilbake til nettsiden.
+title: Godt Brød Eiganes, Rogaland - Restaurantanmeldelser ...
+snippet: Godt Brød Eiganes, Rogaland: Se 26 objektive anmeldelser av Godt Brød Eiganes, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 122 av 467 restauranter i Rogaland.
+title: Godt Brød Sølvberget, Rogaland - Restaurantanmeldelser ...
+snippet: Godt brød har alltid godt bakverk. Kafeen er litt liten og trang, men vi var heldige og fant bord. Det til utrolig lang tid å få kaffen vi bestilte, men det var visst noe feil med kaffemaskinen idag.
+title: Godt brød Stavanger AS avd bakeri, Stavanger - 1881.no
+snippet: Godt brød Stavanger AS avd bakeri fra , 100420586S1 - Godt brød Stavanger AS avd bakeri
+title: Godt brød Stavanger AS, Stavanger - 1881.no
+snippet: Godt brød Stavanger AS fra , 100420587S1 - Godt brød Stavanger AS
+title: Hjem - Brød- og pizzakurs
+snippet: Brød- og pizzakurs . Lær å bake brød eller pizza med Jakob. Brødbakerkurs. Du får innsikt i håndtverket bak å bake et godt brød. Du vil lære teknikker for å få et luftig brød med sunnere kornsorter.
+
+REL: 2
+POI Name: Coffeeberry
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Coffeeberry – Coffee to the people
+snippet: Stavanger blir på fredag 17.4 ... Da Thomas og Hanne Jørgensen åpnet Coffeeberry i 2012, fikk uttrykket en god start på dagen en helt ny mening. Og en helt ny smak. Åpningen på Ruten i Sandnes fikk stor oppmerksomhet og der finner du fortsatt begge to bak disken.
+title: Coffeeberry Stavanger - Home | Facebook
+snippet: Coffeeberry Stavanger - 4013 Stavanger, Norway - Rated 4.9 based on 25 Reviews &quot;Takk for wifi, mat, kaffe og verdens hyggeligste kar bak disken.&quot;
+title: Coffeeberry Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Coffeeberry Stavanger, Stavanger: Se 91 objektive anmeldelser av Coffeeberry Stavanger, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 21 av 203 restauranter i Stavanger.
+title: Coffeeberry Stavanger stenger dørene - byas.no
+snippet: Coffeeberry Stavanger stenger dørene. Fra og med torsdag 20. juni stenger Coffeeberry i Klubbgata dørene for godt. Men de gir ikke opp håpet om å få flytte til Søregata/Østervåg. Publisert: 19. juni 2019, 19:41. Ine Espevik Larsen. Coffeeberry legger ned etter fire år i Klubbgata.
+title: Coffeeberry Stavanger - Tripadvisor
+snippet: Coffeeberry Stavanger: Beste kaffebar i Rogaland. - Se 91 reiseanmeldelser, 30 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Meny – Coffeeberry
+snippet: thomas@coffeeberry.no tlf: 958 21 725. 0. Vi benytter cookies for å gi deg en best mulig brukeropplevelse via våre nettsider. Jeg forstår Les mer ...
+title: Coffeeberry Sandnes - Home | Facebook
+snippet: Coffeeberry Sandnes, Sandnes, Norway. 4,979 likes · 267 talking about this · 1,635 were here. Vi serverer ikke bare byens beste kaffe - Vi tilbyr også ferske smørbrød og saftige bakevarer.
+title: Coffeeberry Stavanger - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Coffeeberry Stavanger, Stavanger: See 91 unbiased reviews of Coffeeberry Stavanger, rated 4.5 of 5 on Tripadvisor and ranked #21 of 203 restaurants in Stavanger.
+title: Coffeeberry Sandnes - Startside | Facebook
+snippet: Coffeeberry Sandnes, Sandnes, Norway. 4 984 liker dette · 418 snakker om dette · 1 635 har vært her. Vi serverer ikke bare byens beste kaffe - Vi tilbyr også ferske smørbrød og saftige bakevarer.
+title: Coffeeberry er #byasbeste kafé 2019!
+snippet: Coffeeberry eierne startet først «Benk» i lokalene til KinoKino, men det var for lite folk i området og bad for business. Da lokalene ved Ruten ble ledige, tok de sjansen. På Coffeeberry kan du få lunsj, frokost og bakverk i tillegg til kaffen.
+
+REL: 2
+POI Name: NB Sørensens Dampskibsexpedition
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, 
+Snippets:
+title: N.B. Sørensens - N.B. Sørensen
+snippet: N.B.-Sørensens-Damskibsexpedition N.B. Sørensen har fått Norsk hotell- og restaurantbransjens miljøpris.Her blir ordet &quot;gjennomført&quot; bare fornavnet.
+title: NB Sørensen - Startside | Facebook
+snippet: NB Sørensen, Stavanger, Norway. 2 461 liker dette · 41 snakker om dette · 5 937 har vært her. Følg med på hva som skjer hos familien Sørensen! Her vil vi oppdatere dere på menyskifter, ukesmenyer og...
+title: N.B. Sorensens Dampskibsexpedition, Stavanger - Menu ...
+snippet: N.B. Sorensens Dampskibsexpedition, Stavanger: See 472 unbiased reviews of N.B. Sorensens Dampskibsexpedition, rated 3.5 of 5 on Tripadvisor and ranked #53 of 203 restaurants in Stavanger.
+title: N.B. Sørensens Dampskibsexpedition 1 etage
+snippet: N.B. Sørensens Damskibsexpedition 1 etage Når du kommer inn i lokalet, forstår du hvorfor N.B. Sørensens Damskibsexpedition har fått Norsk hotell- og restaurantbransjens miljøpris. Her blir ordet &quot;gjennomført&quot; bare fornavnet. Innredningen oser av handel og maritim virksomhet - vegger og tak er rikt dekorert med historiske mimreobjekter.
+title: NB Sørensen - Home | Facebook
+snippet: NB Sørensen, Stavanger, Norway. 2,426 likes · 70 talking about this · 5,908 were here. Følg med på hva som skjer hos familien Sørensen! Her vil vi oppdatere dere på menyskifter, ukesmenyer og ellers...
+title: NB Sørensens Dampskibsexpedition AS - Stavanger - Se ...
+snippet: Proff.no gir deg bedriftsinformasjon om NB Sørensens Dampskibsexpedition AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: N.B. Sørensens Dampskibsexpedition 2. Etage - Restaurant ...
+snippet: N.B. Sørensens Dampskibsexpedition 1 etage, Stavanger. Newsman Nyhetscafé, Stavanger Dette er Norges første nyhetscafé (se opp for etterligninger)! Stedet ble etablert i 1990. Her får du alltid siste nytt - av nyheter og sport i Sportshjørnet. Vi har alle rettigheter og et utvidet barmattilbud. Vannari mat-, øl- og vinkjeller, Stavanger
+title: N.B. Sørensens Dampskibsexpedition 1 etage - Bar/pub in ...
+snippet: N.B. Sørensens Dampskibsexpedition 2. Etage , Stavanger Sørensens familiestuer - helt i toppen! Går du opp trappen til 2. etage i N.B. Sørensensdampskibsexpedition, har du lov til å vente deg noe ekstra, både når det gjelder matopplevelse og faglig dyktighet fra personalet på kjøkkenet og i restauranten.
+title: NB Sørensen Dampskibsexpedition AS, Stavanger - 1881.no
+snippet: NB Sørensen Dampskibsexpedition AS fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+title: NB Sørensens Dampskibsexpedition AS - Stavanger - Roller ...
+snippet: NB Sørensens Dampskibsexpedition AS Org nr 965 463 593. Skagen 26, 4006 Stavanger Sammenlign Overvåk Finn lignende. Skriv ut; Del firmaprofil. Send ... Stavanger Mikrobryggeri AS. 918 612 238. Oversikt Regnskap Nøkkeltall Roller og Eiere. Driftsresultat 2018: -58&#39; NOK.
+
+REL: 2
+POI Name: Thai Dinner Asia
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+title: Thai Dinner Asia, Stavanger - Restaurantanmeldelser ...
+snippet: Thai Dinner Asia, Stavanger: Se 23 objektive anmeldelser av Thai Dinner Asia, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 176 av 203 restauranter i Stavanger.
+title: Dinner Asia Take Away - Stavanger, Norway - Asian ...
+snippet: Dinner Asia Take Away, Stavanger, Norway. 36 likes · 457 were here. Asian Restaurant. Jump to. Sections of this page. ... We enjoyed their pad thai, tom yum and fried rice on two occasions. ... Posts about Dinner Asia Take Away.
+title: God rett - Anmeldelse for Thai Dinner Asia, Stavanger ...
+snippet: Thai Dinner Asia: God rett - Se 23 reiseanmeldelser, 11 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Thai Dinner Asia, Stavanger - Restaurant Reviews &amp; Photos ...
+snippet: Thai Dinner Asia, Stavanger: See 23 unbiased reviews of Thai Dinner Asia, rated 3 of 5 on Tripadvisor and ranked #176 of 203 restaurants in Stavanger.
+title: Fantastisk god mat! - Anmeldelse for Thai Dinner Asia ...
+snippet: Thai Dinner Asia: Fantastisk god mat! - Se 23 reiseanmeldelser, 11 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Startet bra.... - Anmeldelse for Thai Dinner Asia ...
+snippet: Thai Dinner Asia: Startet bra.... - Se 23 reiseanmeldelser, 11 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Thai Dinner Asia AS, Stavanger - 1881.no
+snippet: Thai Dinner Asia AS fra , Rogaland. Restaurant. Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat… Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa…
+title: Dinner Asia AS, Stavanger - 1881.no
+snippet: Dinner Asia AS fra , 104001893S1 - Dinner Asia AS
+title: Thai Dinner Asia AS, Stavanger | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Thai Dinner Asia AS Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+title: THE 10 BEST Thai Restaurants in Stavanger - Tripadvisor
+snippet: Best Thai Restaurants in Stavanger, Stavanger Municipality: Find Tripadvisor traveler reviews of Stavanger Thai restaurants and search by price, location, and more. Stavanger. Stavanger Tourism ... Thai Dinner Asia. 23 reviews. Asian, Thai $$ - $$$ “Good Thai Food in Stavanger ...
+
+REL: 2
+POI Name: Efendi Tea and Coffee House
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Efendi Tea &amp; Coffee House, Stavanger ...
+snippet: Efendi Tea &amp; Coffee House, Stavanger: Se 286 objektive anmeldelser av Efendi Tea &amp; Coffee House, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 1 av 203 restauranter i Stavanger.
+title: Efendi Tea &amp; Coffee House, Stavanger - Restaurant Reviews ...
+snippet: Efendi Tea &amp; Coffee House is an absolute must! You can get coffee, tea, beer, wine and cocktails do die for. They also serve magnificent, naughty chocolate cake. They have outdoor and indoor seating, and the staff is very sweet and helpful.
+title: Efendi Tea and Coffee House - Stavanger, Norway - Tea Room ...
+snippet: Sven Ivar Johnsen reviewed Efendi Tea and Coffee House — 5 star January 31, 2018 · It&#39;s hard to put down in words what is so special about Efendi, there are other places that serve tea as well, but seldom have I felt more welcome and at ease in place than when I entered Efendi.
+title: Efendi Tea and Coffee House – Stavanger, Norway – Kaffibar ...
+snippet: # turkishfood # efendi # efenditeaandcoffeehouse # fargegaten # stavanger # pomegranate # enjoy # enjoylife # love # romantic # firstdate # ourplace # oursecretplace @ Efendi Tea and Coffee House Ola Kwang Joon Omholt la til eit nytt bilete — ved Efendi Tea and Coffee House .
+title: Efendi Tea &amp; Coffee House, Stavanger - Restaurant Reviews ...
+snippet: Efendi Tea &amp; Coffee House, Stavanger: See 286 unbiased reviews of Efendi Tea &amp; Coffee House, rated 5 of 5 on Tripadvisor and ranked #1 of 212 restaurants in Stavanger.
+title: Efendi Tea and Coffee House - Stavanger - Se Regnskap ...
+snippet: Proff.no gir deg bedriftsinformasjon om Efendi Tea and Coffee House. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Efendi Tea and Coffee House - Stavanger - Roller og ...
+snippet: Utvidet firma- og kredittinformasjon. Vår utvidete tjeneste Proff® Forvalt gir deg komplett oversikt over firmaer og roller i norsk næringsliv:
+title: Efendi Tea and Coffee House, Stavanger | bedrift ...
+snippet: Kontaktinformasjon for Efendi Tea and Coffee House Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+title: Efendi Tea and Coffee House, Stavanger - Restaurant reviews
+snippet: Efendi Tea and Coffee House, #1 among Stavanger cafes: 447 reviews by visitors and 20 detailed photos. This restaurant has received 5 on Trip and 4.7 on Facebook. This place offers you dishes for NOK 200-410. Find on the map and call to book a table.
+title: Efendi Tea and Coffee House - Stavanger - Regnskap
+snippet: Viser egenkapitalens evne til avkastning inkludert eventuelt utbytte og før ekstraordinære poster og skatt. Dersom ordinært resultat er høyt og / eller egenkapitalen er lav vil dette gi høy avkastning til eierne relativt sett.
+
+REL: 2
+POI Name: Ostehuset Øst
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, 
+Snippets:
+title: Ostehuset Øst • Ostehuset
+snippet: Ostehuset Øst. Klart vi er på plass i Stavangers mest spennende bydel. Gjestene gjenspeiler bydelens mangfold: I ukedagene, de som jobber i bydelen, studenter, gode venner. I helgene turgåere, barnefamilier og andre fine folk. Den gode lukten kommer fra bakeriet vårt.
+title: Ostehuset – Restaurant, vinbar, caféer og catering i Stavanger
+snippet: Restaurant, vinbar, caféer og catering i Stavanger. Morgenlevering.no leverer ferskt brød fra vårt bakeri. Les mer
+title: Catering • Ostehuset
+snippet: Catering. Gjør det enkelt for deg selv – la oss hjelpe deg å lage fest! Enten du planlegger festligheter hjemme hos deg selv eller i et av våre Ostehus, kan vi bidra med det meste rundt bordet.Vi gjør det litt mindre stress for deg å lage fest – du kan rett og slett konsentrere deg om stemningen på festen, så fikser vi resten!
+title: Kontakt • Ostehuset
+snippet: Vi gleder oss til å høre fra deg! Ta direkte kontakt eller bruk kontaktskjemaet nedenfor. Felles telefonnummer: 51 86 40 10 Vakttelefon etter sten...
+title: Ostehuset Domkirkeplassen • Ostehuset
+snippet: Ostehuset Domkirkeplassen. Matopplevelser for mage, hode og hjerte Velkommen til Ostehuset Domkirkeplassen. I ett av Stavangers absolutte praktbygg, på ett av de aller mest sentrale stedene i sentrum, har vi åpnet ny møteplass med matopplevelser i tre etasjer.
+title: Ostehuset Øst, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Ostehuset Øst, Stavanger: Se 74 objektive anmeldelser av Ostehuset Øst, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 107 av 203 restauranter i Stavanger.
+title: Ostehuset Øst AS - Stavanger - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Ostehuset Øst AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Ostehuset Øst - Café in Stavanger, Stavanger - Region ...
+snippet: Ostehuset Domkirkeplassen, Stavanger Matopplevelser for mage, hode og hjerte. Velkommen til Ostehuset Domkirkeplassen. I ett av Stavangers absolutte praktbygg, på ett av de aller mest sentrale stedene i sentrum, har Ostehuset åpnet ny møteplass med matopplevelser i tre etasjer.
+title: De 10 beste restaurantene i nærheten av Ostehuset Øst
+snippet: Restauranter i nærheten av Ostehuset Øst på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Ostehuset Øst, Stavanger.
+title: Ostehuset Øst, Stavanger - 1881.no
+snippet: Ostehuset Øst fra , 101407415S1 - Ostehuset Øst
+
+REL: 2
+POI Name: Thai Isan restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+title: Thai Isan Restaurant, Stavanger - Restaurantanmeldelser ...
+snippet: Thai Isan Restaurant, Stavanger: Se 50 objektive anmeldelser av Thai Isan Restaurant, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 60 av 203 restauranter i Stavanger.
+title: Thai Isan Restaurant &amp; Take Away
+snippet: Address Thai Isan Restaurant Holmeallmenningen 3 4006 Stavanger Norway. Følg oss på facebook. #Thaiisanrestaurant på instagram ...
+title: Thai Isan Restaurant, Stavanger - Menu, Prices ...
+snippet: Order food online at Thai Isan Restaurant, Stavanger with Tripadvisor: See 50 unbiased reviews of Thai Isan Restaurant, ranked #60 on Tripadvisor among 203 restaurants in Stavanger.
+title: meny - Thai Isan Restaurant &amp; Take Away
+snippet: Thai Isan Restaurant &amp; Take Away AS Holmeallmenningen 3, 4006 Stavanger Tlf: 51894630
+title: THE 10 BEST Thai Restaurants in Stavanger - Tripadvisor
+snippet: Best Thai Restaurants in Stavanger, Stavanger Municipality: Find Tripadvisor traveler reviews of Stavanger Thai restaurants and search by price, location, and more. Stavanger. Stavanger Tourism Stavanger Hotels ... Thai Isan Restaurant. 50 reviews Closed Now. Asian, Thai $$ - $$$ Menu
+title: De 10 beste thailandske restaurantene i Stavanger
+snippet: Beste thailandske restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor. Stavanger. Turisme i Stavanger Hotell i Stavanger ... Thai Isan Restaurant. 50 anmeldelser Åpen n ...
+title: Take away fra Thai Isan Restaurant Stavanger &amp; Sandnes ...
+snippet: foodora bruker Cookies for å gi deg en best mulig opplevelse av tjenesten. Dersom du fortsetter å navigere deg på nettsiden godtar du vår bruk av Cookies.
+title: Restaurants Near Thai Isan Restaurant, Stavanger, Norway
+snippet: Restaurants near Thai Isan Restaurant, Stavanger on Tripadvisor: Find traveler reviews and candid photos of dining near Thai Isan Restaurant in Stavanger, Norway.
+title: Thai mat - Anmeldelse for Thai Isan Restaurant, Stavanger ...
+snippet: Thai Isan Restaurant: Thai mat - Se 50 reiseanmeldelser, 44 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Thai Isan restaurant &amp; Take Away, Stavanger - 1881.no
+snippet: Thai Isan restaurant &amp; Take Away fra , 103998385S1 - Thai Isan restaurant &amp; Take Away
+
+REL: 2
+POI Name: Olivia Torget
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Torget - Olivia Restaurant
+snippet: Olivia Torget ligger i Vågen, Stavanger, med utsikt over havnen og bryggen. Restauranten går over to etasjer med vinduer langs alle veggene med utsikt mot Torget og Vågen, og er dermed det perfekte stedet å sitte og titte på folkelivet i Stavanger.
+title: Olivia Torget, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Olivia Torget, Stavanger: Se 368 objektive anmeldelser av Olivia Torget, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 17 av 203 restauranter i Stavanger.
+title: Olivia Stavanger - Anmeldelse for Olivia Torget, Stavanger ...
+snippet: Olivia Torget: Olivia Stavanger - Se 368 reiseanmeldelser, 108 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Olivia Torget, Stavanger | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Olivia Torget Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+title: Olivia Torget, Stavanger - Menu, Prices &amp; Restaurant ...
+snippet: Olivia Torget, Stavanger: See 368 unbiased reviews of Olivia Torget, rated 4 of 5 on Tripadvisor and ranked #17 of 203 restaurants in Stavanger.
+title: OLIVIA TORGET, Stavanger - Updated 2020 Restaurant Reviews ...
+snippet: Olivia Torget, Stavanger: See 368 unbiased reviews of Olivia Torget, rated 4 of 5 on Tripadvisor and ranked #17 of 203 restaurants in Stavanger.
+title: Olivia Torget - Home - Stavanger, Norway - Menu, Prices ...
+snippet: Olivia Torget - Kongsgårdsbakken 1, 4005 Stavanger, Norway - Rated 4.1 based on 44 Reviews &quot;The worst calzone i have ever eaten, but the restaurant is fine&quot;
+title: Olivia Restaurant – Olivia Restaurant
+snippet: Olivia is authentic Italian food in a modern and cosy surroundings, with colleagues and a service that shines of fellowship and passion – just like in an Italian family. Our first restaurant opened its doors on Aker Brygge, Oslo in 2006. Today, we have eight restaurants in five different cities in Norway and Sweden.
+title: THE 10 BEST Restaurants Near Olivia Torget in Stavanger ...
+snippet: Restaurants near Olivia Torget, Stavanger on Tripadvisor: Find traveler reviews and candid photos of dining near Olivia Torget in Stavanger, Norway.
+title: Olivia Restaurant – Olivia Restaurant
+snippet: Vår restaurant i Stavanger er inspirert av fiskelandsbyen Portofino. I november 2018 åpnet vi vår aller nyeste restaurant i Gøteborg, som er den første Oliviarestauranten utenfor Norge, og som derfor også henter inspirasjon fra Napoli, i likhet med Olivia Aker Brygge.
+
+REL: 2
+POI Name: Fellini Pizza og Kebab
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Kebab, Pizza, 
+Snippets:
+title: Fellini Pizza &amp; Grill
+snippet: Driften på Fellini Pizza forsetter som normalt så lenge myndighetene tillater. Vi forholder oss til Folkehelseinstituttets anbefalinger og råder. For å hindre videre smitte har vi innført ekstra tiltak for hyggene. Vi oppfordrer til håndvask og bruk av Antibac dispenser som er tilgjengelig ved inngangen.
+title: Take away fra Fellini Pizza Stavanger &amp; Sandnes | foodora
+snippet: Bestill fra Fellini Pizza Stavanger &amp; Sandnes online | Matlevering hjem på døren | Dine favoritter ... Kebab Pizza. Tomatsaus, mozzarella, biffkjøt, salat, champignon, løk og hvitløkssaus. fra kr 145,00 ... Tallerken med brødbiter, salat, kebab, chili og hvitløksdresssing. fra kr 145,00 Middager. Halv Kylling. Halv kylling med salat.
+title: Stavanger Pizza &amp; Kebab House AS – Kebab Pizza Take Away ...
+snippet: Veldig god kebab pizza og kebab i pitabrød. ? ?? Og myyyye mat. Kommer gjerne igjen. Grethe Marie Jünger. Nye favoritten i Stavanger by. Anbefales på det sterkeste ! Ümit Yüksel. EPOST. post@stavangerpizza.no. TELEFON +47 91 90 90 15. ADRESSEN VÅR. Haugesundsgata 7C 4014 Stavanger.
+title: Pizza - - Fellini Pizza &amp; Grill
+snippet: Pizza . Vi har Glutenfri pizza bunn på 30cm.Det koster samme som en stor pizza. Alle våre pizzaer serveres m/tomatsaus og norwegia ost. Alle våre pizzaer inneholder Hvete, egg, soya, melk, selleri og sennep.
+title: Fellini Pizza Og Kebab, Stavanger - Oregano.no
+snippet: Egon Stavanger. Egon Stavanger er Norges største Egon restaurant med en unik beliggenhet nede på Strandkaien. Her finner du samme meny som en får på alle de øvrige Egonrestaurantene.
+title: Fellini Pizza Og Kebab - Stavanger, Norway - Menu, Prices ...
+snippet: Lettvint og etter tid økonomisk. En pakke vaskeballer holder til å vaske 8kg klær hver dag i et år, som vil si at til normalt forbruk på klesvask kan det holde til rundt 500 vasker. Vi selger ankelsokker: 10-pakkning med ankelsokker selges for 250kr. Varierende størrelse fra 35-39 og 40-44, en pakke inneholder både svarte og hvite sokker.
+title: Fellini Pizza &amp; Grill - Home - Stavanger, Norway - Menu ...
+snippet: Fellini Pizza &amp; Grill, Stavanger, Norway. 398 likes · 4 talking about this · 17 were here. Kebab Shop
+title: Fellini Pizza Og Kebab, Hundvåg, SKEIEHAGEN 8, 51 59 40...
+snippet: Fellini Pizza Og Kebab, Hundvåg, SKEIEHAGEN 8, åpningstider, Velkommen til Fellini Restaurante, Pizzeria og Kebabhouse. Vi på Fellini leverer god mat som gir livet et tilskudd av gode følelser. Gatekjøkken, Drif
+title: Pizza - Fellini Restaurant
+snippet: Fellini restaurant i Spjelkavik har laget pizza og pastaretter siden 1996, og er en av de eldste restaurantene i Ålesund. ... Kebab pizza Biffkjøtt, løk, sjampinjong, salat, hvitløkdressing, agurk og tomat ...
+title: Kommentarer for Fellini Pizza Og Kebab - oregano.no
+snippet: Kommentarer for Fellini Pizza Og Kebab . Italiensk restaurant på Hundvåg med filmutleie.
+
+REL: 2
+POI Name: Express Pizza
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Pakistani, Kebab, Pizza, 
+Snippets:
+title: Pakistansk mat stavanger | Norge | Express Pizza Curry ...
+snippet: Hos Express kan du få servert alt i fra deilig sprø Pizza til Kebab, Hamburger, Grillretter, Naan brød, Curry retter og en rekke Tandori grillretter.
+title: Express Pizza Meny
+snippet: Express pizza har en variert meny som består av mye mer enn bare pizza. Vi har noe for en hver smak. Velbekommen.
+title: Express Pizza, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Express Pizza, Stavanger: Se 31 objektive anmeldelser av Express Pizza, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 151 av 203 restauranter i Stavanger.
+title: Express Pizza
+snippet: 25. Kebab pizza Spesial Kebabkjøtt, mais, løk, toppet med fersk tomat, salat og dressing
+title: Om oss | Norge | Express Pizza Curry Grill Kebab
+snippet: Express Pizza ble etablert i 2002 og siden har vi levert smakfull mat til fornuftige priser. Nøkkelen til vår suksess er unik smak på våre retter, og en diverfisert meny. Med retter fra Pizza til Tandoori grillretter har vi noe til enhver smak.
+title: Express Pizza, Stavanger - Photos &amp; Restaurant Reviews ...
+snippet: Order food online at Express Pizza, Stavanger with TripAdvisor: See 31 unbiased reviews of Express Pizza, ranked #156 on TripAdvisor among 211 restaurants in Stavanger.
+title: Overtidsmat | Norge | Express Pizza Curry Grill Kebab
+snippet: Overtid ? Alle våre retter kan leveres til arbeidplassen din- Deilig sprø Pizza til Kebab, Hamburger, Grillretter, Naan, Curryretter og Tandoori grillretter.
+title: Express Pizza Elverum - Startside - Elverum, Norway - Meny ...
+snippet: Express Pizza Elverum, Elverum. 1 k liker dette. Express pizza &amp; grill er en av Elverums første pizzaresturanter. Vi tilbyr pizza med fersk bunn som blir laget hver dag og friske råvarer. Ring oss...
+title: FROKOST, LUNSJ, TA-MED-MAT &amp; EKTE ITALIENSK PIZZA
+snippet: Vi tilbyr ta-med-mat til deg, hele familien og arbeidsplassen, og vi leverer med glede mat, drikke og småbakst i Stavanger sentrum. Lurer du på noe, er det bare å ringe. Hos oss skal du få god personlig service, og våre medarbeidere svarer mer enn gjerne på spørsmål om ingredienser, og gir deg anbefalinger hvis du ikke riktig vet hva du vil ha.
+title: Den beste pizzaen i Stavanger - Tripadvisor
+snippet: Beste pizzarestauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av pizzasteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor. Stavanger. Turisme i Stavanger Hotell i Stavanger Bed and Breakfast i Stavanger ... “God pizza, for noen, ...
+
+REL: 2
+POI Name: Restaurant Nero
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: THE 10 BEST Restaurants in Stavanger - Updated April 2020 ...
+snippet: Best Dining in Stavanger, Stavanger Municipality: See 19,802 Tripadvisor traveler reviews of 232 Stavanger restaurants and search by cuisine, price, location, and more.
+title: Sample Page - Restaurant-nero.no
+snippet: This is an example page. It’s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this: Hi there! I’m a bike messenger […]
+title: De 10 beste restaurantene i Stavanger - Tripadvisor
+snippet: Beste restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Restaurant Nero - Kontinental restaurant - Stavanger ...
+snippet: Restaurant Nero – Øvre Holmegate 8, 4006 Stavanger, Norway – Vurderingen 4.5 basert på 69 anmeldelser &quot;Takk for flott mat og ikke minst service ifm vår...
+title: Restaurant Nero, Stavanger - Restaurantanmeldelser ...
+snippet: Spise middag i Stavanger: Se 140 anmeldelser fra Tripadvisor-reisende av 205restauranter i Stavanger, og søk etter kjøkken, pris, sted og mer.
+title: Dette er Stavangers beste restauranter - Stavanger Aftenblad
+snippet: Mange av rettene på den forholdsvis korte menyen finner du på en lang rekke andre restauranter også. Når det likevel er verd å ta turen opp til den lille restauranten i Eiganesveien, skyldes det at kjøkkenet får de nær sagt dagligdagse rettene til å skinne, ved hjelp av like deler førsteklasses råvarer og kokkekompetanse.
+title: Restaurant Nero - Continental Restaurant - Stavanger ...
+snippet: Restaurant Nero - Øvre Holmegate 8, 4006 Stavanger, Norway - Rated 4.5 based on 69 Reviews &quot;Thanks for a fantastic meal!&quot;
+title: Slutt for Restaurant Nero - Rogalands Avis
+snippet: Stavanger Sandnes ... Restaurant Nero hadde i 2015 et driftsresultat på minus 557.000 kroner, om lag en million kroner mindre i forhold til 2014.
+title: Restaurant Nero - Kontinental restaurant - Stavanger ...
+snippet: Restaurant Nero er en moderne internasjonal restaurant, med god service, mat og atmosfære, som ligger i Victoria Hotell i Stavanger sentrum. Vi kan tilby et profesjonellt, trivelig og trygt arbeidsmiljø. Plikter og ansvar Vi søker en kvalifisert servitør til vårt lille, men profesjonelle, team.
+title: Nero Restaurant, Stavanger - 1881.no
+snippet: Nero Restaurant fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+
+REL: 2
+POI Name: Delizia
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Italian, Cafes, 
+Snippets:
+title: Hjem - Delizia As
+snippet: Delizia er en familiebedrift som ble etablert i 2004 med isbar og kafe i Østervåg 41. Fra 2012 flyttet kafeen til Tananger og deretter til Bryne, for så å vende tilbake til Stavanger i 2014, der vi konsentrerte oss om produksjon og catering med lokaler i Stavanger Øst.
+title: Delizia AS, Hafrsfjord, Stavanger - 1881.no
+snippet: Delizia AS fra , 106317262S1 - Delizia AS
+title: Delizia, Stavanger - 1881.no
+snippet: Delizia fra , 101176566S1 - Delizia
+title: Delizia - Home | Facebook
+snippet: Delizia - Stoperigata 2, 4014 Stavanger, Norway - Rated 4.8 based on 26 Reviews &quot;Actually THE best ice cream there is. They know flavour combinations...
+title: Kontakt oss - Delizia As
+snippet: 4016 Stavanger Litt om oss Hos oss kan du be om spesielle smaker eller smakssammensetninger, og ønsker du å komme på besøk og lage is sammen med gode venner eller som en gruppe kolleger, kan vi også ordne det.
+title: Delizia - Startside | Facebook
+snippet: Delizia – Stoperigata 2, 4014 Stavanger, Norway – Vurderingen 4.9 basert på 25 anmeldelser &quot;Actually THE best ice cream there is. They know flavour...
+title: De 10 beste restaurantene i Stavanger - Tripadvisor
+snippet: Beste restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Bakeri Storhaug - 1881.no
+snippet: Bakeri Storhaug, Bakar, Festkaker, Franskbrød, Matlevering, Boller, Sjokoladekaker, Småkaker, Selskapskaker, Marsipankaker, Kakebunn, Fyrstekaker, Kanelboller
+title: Delizia - Innlegg | Facebook
+snippet: Delizia – Stoperigata 2, 4014 Stavanger, Norway – Vurderingen 4.9 basert på 25 anmeldelser &quot;Actually THE best ice cream there is. They know flavour...
+title: Vårt sortiment - Delizia As
+snippet: delizia@delizia.no: ... 4016 Stavanger: Litt om oss. Hos oss kan du be om spesielle smaker eller smakssammensetninger, og ønsker du å komme på besøk og lage is sammen med gode venner eller som en gruppe kolleger, kan vi også ordne det. Vårt sortiment.
+
+REL: 2
+POI Name: Starbucks
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Starbucks Coffee Norge
+snippet: Å si at Starbucks kjøper og brenner kvalitetskaffe av hele kaffebønner, er helt riktig. Det er kjernen i det vi gjør – men det sier langt fra alt.
+title: Butikker og åpningstider | Starbucks Coffee Company
+snippet: Finn åpningstider og kontaktinformasjon til Starbucks butikker i Norge og i andre land. By using the Confirmation.com site, you agree with our use of cookies. Les våre retningslinjer for informasjonskapsler. Vil du vite mer? Jeg samtykker til informasjonskapsler .
+title: Domkirkeplassen-Stavanger | Starbucks Coffee Company
+snippet: Et annerledes selskap. Vår forretningsidé er å inspirere og løfte mennesker – én person, én kopp og ett lokalmiljø av gangen.
+title: Starbucks Meny | Starbucks Coffee Company, Norge
+snippet: We’ve got delicious food to go with our hand-crafted coffee drinks. Check out the Starbucks menu, our quick breakfast ideas and nutritional information.
+title: Starbucks, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Starbucks, Stavanger: Se 77 objektive anmeldelser av Starbucks, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 95 av 203 restauranter i Stavanger.
+title: Om Starbucks butikker| Starbucks Coffee Company
+snippet: Mens kaffen vår bringer mennesker sammen, betyr tilbudet om gratis Wi-Fi at du kan holde kontakten. Finn ut hvordan du kan surfe når du nyter drikke hos Starbucks.
+title: Starbucks, Stavanger - Menu, Prices &amp; Restaurant Reviews ...
+snippet: In stavanger there is 2 Starbucks one near the catedral and the other almost 2 streets downtown, both works almost equal, the one beside the catedral is with much more traffic but both are pretty much easy, the one beside the catedral have a own... More. Date of visit: April 2019.
+title: Starbucks Stavanger | Konkurrentanalyse - Studienett.no
+snippet: Starbucks Stavanger Starbucks Stavanger er en kaffebar lokalisert sentralt i Stavanger sentrum. Kaffebarkjeden åpnet i Stavanger i mai 2015, etter å ha etablert seg i over 49 land og med 16.200 utsalgssteder, på bare 49 år. Kaffebarkjeden tilbyr hovedsakelig ulike kaffetyper, men selger også i tillegg ulike typer smoothie, juice og matretter.
+title: Starbucks Domkirkeplassen-Stavanger - åpningstider ...
+snippet: Starbucks Domkirkeplassen-Stavanger, præsentation af sted og åpningstider
+title: Nyheter | Nettbutikk - Starbucks Coffee Norge
+snippet: STARBUCKS (UMOE Restaurant Group Coffee AS) Postboks 260, 1326 Lysaker Foretaksregisteret 998 656 206. Vår nettbutikk bruker cookies slik at du får en bedre kjøpsopplevelse og vi kan yte deg bedre service. Vi bruker cookies hovedsaklig til å lagre innloggingsdetaljer og huske hva du har puttet i handlekurven din. Fortsett ...
+
+REL: 2
+POI Name: Renaa Xpress Sølvberget
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Pizza, 
+Snippets:
+title: Xpress RE-NAA – Vår trivelige kafé og pizzaplass Renaa ...
+snippet: Velkommen til vår trivelige kafé og pizzasted i Sølvberget. ... hele familien og arbeidsplassen, og vi leverer med glede mat, drikke og småbakst i Stavanger sentrum. Lurer du på noe, er det bare å ringe. Hos oss skal du få god personlig service, ... Xpress; Categories.
+title: Restaurant RE-NAA – RE-NAA Gourmetrestaurant – Avslappet ...
+snippet: Sven Erik Renaa med team tilbyr sitt beste i lekre omgivelser på Eilert Smith Hotell i Nordbø gata. Velkommen til en kulinarisk forestilling! Guide Michelin ... Velkommen til vår trivelige kafé og pizzasted i Sølvberget. Vi baker brød, bakevarer og kaker selv. Et variert utvalg paninier og unike italienske pizzaer. Bare godsaker! Større ...
+title: Renaa Xpress Sølvberget - Home - Stavanger, Norway - Menu ...
+snippet: Renaa Xpress Sølvberget - Sølvberggata 2, 4006 Stavanger, Norway - Rated 4.4 based on 78 Reviews &quot;My Family and I love eating here when ever we go for a...
+title: Renaa Xpress Sølvberget - Startside | Facebook
+snippet: Renaa Xpress Sølvberget. 2 992 liker dette · 94 snakker om dette · 2 155 har vært her. Nylaget mat og god drikke i Kulturhuset. Kaffe, juice, lunsj, pizza, ettermiddagskos, før/etter kino, middag?...
+title: Renaa Xpress Sølvberget - Innlegg | Facebook
+snippet: Renaa:Restauranter og Renaa:Xpress Sølvberget forholder seg til helsemyndighetenes råd og anbefalinger og følger utviklingen i situasjonen tett. Alle våre serveringssteder har mindre enn 100 sitteplasser og tiltak er iverksatt på booking for å ha en meter mellom gjestebordene.
+title: Take away fra Renaa Xpress Sølvberget Stavanger &amp; Sandnes ...
+snippet: foodora bruker Cookies for å gi deg en best mulig opplevelse av tjenesten. Dersom du fortsetter å navigere deg på nettsiden godtar du vår bruk av Cookies.
+title: Renaa: Xpress - Café in Stavanger, Stavanger - Region ...
+snippet: Renaa: Xpress finner du i selveste Stavanger kulturhus på Sølvberget. Vi har en stor restaurant inne, og en flott uteservering på byens luneste plass. Her får du nylaget og lekker frokost, lunsj, mellommåltid, en godbit på handleturen eller til møtet på jobben og verdens beste pizza.
+title: Sølvberget
+snippet: Biblioteket holder stengt til inntil videre. Hele Sølvberget (inkludert Odeon kino Stavanger) og bibliotekene på Madla, Finnøy og Rennesøy holder stengt inntil videre. Årsaken er koronavirus-smittefare.
+title: Renaa Xpress Sølvberget | Stavanger | Restaurantguiden 2020
+snippet: Renaa Xpress Sølvberget er en restaurant beliggende i Stavanger. Her kan du finne mer informasjon om Renaa Xpress Sølvberget, som inkluderer åpningstider, type mat og mer.
+title: Renaa Express Sølvberget AS, Stavanger | bedrift ...
+snippet: Kontaktinformasjon for Renaa Express Sølvberget AS Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+
+REL: 2
+POI Name: Bevaremegvel Bar & Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Scandinavian, 
+Snippets:
+title: Bevaremegvel – Restaurant Stavanger
+snippet: booking@herlige-stavanger.no 815 52 882. Fullt i restauranten? Dersom det ikke er ledig på ønsket dag eller klokkeslett, send oss en mail bordbestilling@restaurantwww.restaurantbevaremegvel.no ) eller ring oss på telefon 815 52 882 så vil vi prøve å hjelpe deg.. Bruk gjerne kommentarfeltet dersom dere har spesielle ønsker eller matallergi.
+title: Bevaremegvel Bar &amp; Restaurant, Stavanger ...
+snippet: Bevaremegvel Bar &amp; Restaurant, Stavanger: Se 265 objektive anmeldelser av Bevaremegvel Bar &amp; Restaurant, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 32 av 203 restauranter i Stavanger.
+title: Meny – Bevaremegvel
+snippet: booking@herlige-stavanger.no 815 52 882. Fullt i restauranten? Dersom det ikke er ledig på ønsket dag eller klokkeslett, send oss en mail bordbestilling@restaurantwww.restaurantbevaremegvel.no ) eller ring oss på telefon 815 52 882 så vil vi prøve å hjelpe deg.. Bruk gjerne kommentarfeltet dersom dere har spesielle ønsker eller matallergi.
+title: Bevaremegvel Bar &amp; Restaurant, Stavanger - Restaurant ...
+snippet: Bevaremegvel Bar &amp; Restaurant, Stavanger: See 265 unbiased reviews of Bevaremegvel Bar &amp; Restaurant, rated 4 of 5 on Tripadvisor and ranked #32 of 203 restaurants in Stavanger.
+title: Bevaremegvel Bar &amp; Restaurant - Diner - Stavanger, Norway ...
+snippet: Bevaremegvel Bar &amp; Restaurant, Stavanger, Norway. 1,272 likes · 73 talking about this · 4,696 were here. Føl en duft av Europa – og nyt utsikten til travle Skagen. Bevaremegvel byr på utsøkt mat &amp;...
+title: Bevaremegvel Bar &amp; restaurant AS, Stavanger - 1881.no
+snippet: Bevaremegvel Bar &amp; restaurant AS fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+title: Herlige Stavanger Restauranter | Restaurant Stavanger
+snippet: Mexico Bar &amp; Restaurant tlf. 51 89 15 55 Fullt i restauranten? Hvis du ikke finner ledig tid for din online reservasjon, vær vennlig å ta kontakt på tlf. 51 59 15 55 eller send oss en mail booking@herlige-stavanger.no .
+title: Bevaremegvel Bar &amp; Restaurant - Spisested - Stavanger ...
+snippet: Bevaremegvel Bar &amp; Restaurant, Stavanger, Norway. 1 275 liker dette · 4 704 har vært her. Føl en duft av Europa – og nyt utsikten til travle Skagen. Bevaremegvel byr på utsøkt mat &amp; drikke i et...
+title: Bevaremegvel Bar &amp; Restaurant - Spisested - Stavanger ...
+snippet: Bevaremegvel Bar &amp; Restaurant, Stavanger, Norway. 1 275 liker dette · 1 snakker om dette · 4 704 har vært her. Føl en duft av Europa – og nyt utsikten til travle Skagen. Bevaremegvel byr på utsøkt...
+title: Bevaremegvel Bar &amp; Restaurant, Stavanger - Restaurant ...
+snippet: Bevaremegvel Bar &amp; Restaurant, Stavanger: 263 Bewertungen - bei TripAdvisor auf Platz 32 von 211 von 211 Stavanger Restaurants; mit 4/5 von Reisenden bewertet.
+
+REL: 2
+POI Name: 26 North
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Traditional Norwegian, 
+Snippets:
+title: Landingsside - 26North
+snippet: 26 North Restaurant &amp; Social Club er inspirert av de nordiske landene, deres natur, kulinariske skatter og design. Kjøkkensjefen har blitt inspirert av de norske fjorder, gårder og skoger og satt sammen en unik nordisk meny som vil trigge dine smaksløker.
+title: Stavanger - 26North
+snippet: Åpningstider: Mandag - torsdag: 17:00 - 22:00 Fredag - lørdag: 17:00 - 22:30. Bergen. Bestill bord
+title: Meny - 26North
+snippet: OPENING HOURS Restaurant: Monday - Saturday 16:00 – Late Bergen. Book a table
+title: 26 North Restaurant &amp; Social Club, Stavanger ...
+snippet: Hei Inger-Sigrun. Vi takker for jeres besøk samt veldig koseligt tilbakemelding, super koseligt for hele vores team 26 North Stavanger, jeg skal gi dette viderer til dem alle, igjen mange tak og ha en flott sommer, velkommen tilbake til os på Løkkeveien.
+title: Hjem - Bergen - 26North
+snippet: ÅPNINGSTIDER Restaurant: Mandag - Lørdag 16:00 – Sent Bergen. Bestill bord
+title: Hjem - Oslo - 26North
+snippet: Åpningstider Restaurant: Mandag - Lørdag 11.00 – 23.30 (siste bestilling 22.30) Søndag 11.00 – 22.00 (siste bestilling 22.00) SUMMIT BAR. Man-Tirs 16:00-01:00
+title: 26 North - Stavanger - Home | Facebook
+snippet: 26 North - Stavanger. 3,411 likes · 1 talking about this · 1,394 were here. VI ER FØRST OG FREMST EN RESTAURANT, MEN VI ER OGSÅ EN SOCIAL CLUB 26 North Restaurant &amp; Social Club er inspirert av de...
+title: 26.North Stavanger, vurdering - Anmeldelse for 26 North ...
+snippet: 26 North Restaurant &amp; Social Club: 26.North Stavanger, vurdering - Se 513 reiseanmeldelser, 282 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: En av byens beste restauranter forsvinner med ny hotellkjede
+snippet: – Stavanger var fødestedet til 26 North-restaurantene, et konsept som har blitt så populært at Radisson ser på mulighetene for å utvide konseptet utenfor Skandinavia, forteller Brandin. Jens Brandin er hotelldirektør ved Radisson Blu Royal og Radisson Blu Atlantic.
+title: 26 North - Stavanger - Home | Facebook
+snippet: 26 North - Stavanger. 3,387 likes · 1,392 were here. VI ER FØRST OG FREMST EN RESTAURANT, MEN VI ER OGSÅ EN SOCIAL CLUB 26 North Restaurant &amp; Social Club er inspirert av de nordiske landene, deres...
+
+REL: 2
+POI Name: Skagen Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, Wine Bars, 
+Snippets:
+title: Nytt tiår, nye smaker! | Skagen Restaurant
+snippet: I tillegg har han eid og drevet Restaurant Nero Målsettingen hans for Skagen Restaurant er å bli blant de beste i Stavanger på matopplevelse, og den reisen starter med en kombinasjon av smilende, kapable ansatte og gode norske råvarer.
+title: Skagen Restaurant, Stavanger - Restaurantanmeldelser ...
+snippet: Skagen Restaurant, Stavanger: Se 125 objektive anmeldelser av Skagen Restaurant, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 92 av 203 restauranter i Stavanger.
+title: Skagen Restaurant, Stavanger - Restaurant Reviews, Photos ...
+snippet: Skagen Restaurant, Stavanger: See 125 unbiased reviews of Skagen Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #92 of 203 restaurants in Stavanger.
+title: JULEMENY 2019 - Nytt tiår, nye smaker! | Skagen Restaurant
+snippet: Klart det ser lekkert ut. Klart tilbehøret er på plass. Men kommer juleribba med sprø svor? Ja, det gjør den.
+title: Skagen Restaurant - Startside - Stavanger, Norway - Meny ...
+snippet: Skagen Restaurant – Skagenkaien 13, 4006 Stavanger, Norway – Vurderingen 4.1 basert på 79 anmeldelser &quot;An outstanding meal served plainly with local...
+title: THE 10 BEST Restaurants in Stavanger - Updated April 2020 ...
+snippet: Best Dining in Stavanger, Stavanger Municipality: See 19,802 Tripadvisor traveler reviews of 232 Stavanger restaurants and search by cuisine, price, location, and more.
+title: Beste spisesteder i nærheten av Skagenkaien, Stavanger
+snippet: Restauranter i nærheten av Skagenkaien på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Skagenkaien, Stavanger.
+title: De 10 beste restaurantene i Skagen - Tripadvisor
+snippet: Beste restauranter i Skagen, Danmark: Se anmeldelser fra reisende og bilder av spisesteder i Skagen, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Skagen Restaurant - Home - Stavanger, Norway - Menu ...
+snippet: Skagen Restaurant - Skagenkaien 13, 4006 Stavanger, Norway - Rated 4.1 based on 78 Reviews &quot;An outstanding meal served plainly with local ingredients....
+title: OM SKAGEN - Nytt tiår, nye smaker! | Skagen Restaurant
+snippet: Skagen Restaurant ligger midt i Vågen i Stavanger sentrum. Da huset ble bygget, for nesten 250 år siden, bodde det mindre enn 2000 mennesker i Stavanger, og James Cook var fremdeles ute på jakt etter uoppdagede kontinenter. På den tiden, hvis du hadde sittet og sett ut av vinduet, ...
+
+REL: 1
+POI Name: Thai Nong Khai
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+title: Thai Nong Khai - Stavanger - Thaimat
+snippet: Her finner du nettmenyen til Thai Nong Khai i Stavanger. Velg fra vår meny og bestill take away for levering!
+title: Thai Nong Khai AS, Stavanger - 1881.no
+snippet: Thai Nong Khai AS fra , Rogaland. Restaurant. Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat… Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa…
+title: Thai Nong Khai Restaurant, Stavanger ...
+snippet: Fire matglade trimvenninner entret Thai Nong Khai rett før jul. Utrolig hyggelig opplevelse, både når det gjaldt service og mat. Etter anbefaling fra servitør/restauranteier, bestilte vi 4 forskjellige retter.
+title: Thai Nong Khai AS, Stavanger - 1881.no
+snippet: Thai Nong Khai AS fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+title: Thai Nong Khai Restaurant, Stavanger ...
+snippet: Bestilte 4 stk vårrull, fikk beskjed om at de brente de første så jeg måtte vente i 20 min. Det hadde går greit om jeg hadde fått gode vårruller, men tre vårruller bar preg av at oljen var svidd mens den siste vårrullene var kald....
+title: Thai Nong Khai Restaurant | Stavanger | Restaurantguiden 2020
+snippet: Thai Nong Khai Restaurant er en restaurant beliggende i Stavanger. Her kan du finne mer informasjon om Thai Nong Khai Restaurant, som inkluderer åpningstider, type mat og mer.
+title: Bra Thaimat - Anmeldelse for Thai Nong Khai Restaurant ...
+snippet: Thai Nong Khai Restaurant: Bra Thaimat - Se 72 reiseanmeldelser, 51 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Tynt - Anmeldelse for Thai Nong Khai Restaurant, Stavanger ...
+snippet: Thai Nong Khai Restaurant: Tynt - Se 72 reiseanmeldelser, 51 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Thai Nong Khai | Bestill takeaway for henting eller ...
+snippet: Plukk fra menyen til Thai Nong Khai i Stavanger og bestill din takeaway på nett - lett som en plett!
+title: THE 10 BEST Thai Restaurants in Stavanger - Tripadvisor
+snippet: Best Thai Restaurants in Stavanger, Stavanger Municipality: Find Tripadvisor traveler reviews of Stavanger Thai restaurants and search by price, location, and more.
+
+REL: 1
+POI Name: Wayne's Coffee
+POI City: Sandnes
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Cafes, 
+Snippets:
+
+
+REL: 1
+POI Name: Bar Bache
+POI City: Stavanger
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Barbache
+snippet: Øvre Holmegate 5 4006 Stavanger - jonas@barbache.com tlf: 51 59 42 00. Følg oss på Facebook for oppdateringer og nyheter
+title: Bar Bache (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Bar Bache, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Bar Bache i Stavanger, Norge på Tripadvisor.
+title: Bar Bache (Stavanger) - 2020 All You Need to Know Before ...
+snippet: Practically the whole choir ended up at Bar Bache for three consecutive nights. Maybie it was because Bar Bach means Small Bar in the Welsh language. A very enjoyable time was had by all once you get used to the silly prices charged for beer in Norway
+title: Bar Bache AS, Stavanger - 1881.no
+snippet: Bar Bache AS fra , Rogaland. Bar og pub. Fish &amp; Cow AS Et moderne brasseri &amp; bar som er opptatt av fresh cooking og gode cocktails.Vi lager klassiske retter …; Cardinal AS Bar og pub – Stavanger; Tango Restaurant Velkommen til «nye Tango»! Vår intime restaurant med 30 sitteplasser skal sørge for at du som gjest…
+title: Favorittsted i Stavanger - Anmeldelse for Bar Bache ...
+snippet: Bar Bache: Favorittsted i Stavanger - Se 29 reiseanmeldelser, 8 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Kosing - Anmeldelse for Bar Bache, Stavanger, Norge ...
+snippet: Bar Bache: Kosing - Se 29 reiseanmeldelser, 8 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: De 10 beste hotellene i nærheten av Bar Bache - Tripadvisor
+snippet: Hoteller i nærheten av Bar Bache, Stavanger: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Bar Bache på Tripadvisor.
+title: Bar Bache - 12 Photos - Pubs - Øvre Holmegate 5, Stavanger ...
+snippet: 2 reviews of Bar Bache &quot;The most amazing bar to be at in Stavanger, if you&#39;re hanging out with friends, by your self or looking to get to know some pretty cool people!? Than this is the perfect bar for you. They have great beer on draught, and…
+title: Bar Bache AS - Stavanger - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Bar Bache AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: THE 10 BEST Restaurants Near Bar Bache in Stavanger ...
+snippet: Restaurants near Bar Bache, Stavanger on Tripadvisor: Find traveler reviews and candid photos of dining near Bar Bache in Stavanger, Norway.
+
+REL: 1
+POI Name: Meny Hundvåg
+POI City: Hundvåg
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Helgø MENY Hundvåg | Butikk | Meny.no
+snippet: Helgø MENY Hundvåg - Hundvågveien 49, 4085 HUNDVÅG
+title: Meny Stavanger, Hundvågveien 49 | Åpningstider og tilbud
+snippet: HELGØ MENY HUNDVÅG . Hundvågveien 49, Hundvåg . Stengt i dag . Åpningstider og mer informasjon Se åpningstider, telefonnummer og mer informasjon . 0.01 km . Jernia Hundvåg . Hundvågveien 49, 4085 Hundvåg . Åpningstider og mer informasjon Se åpningstider, telefonnummer og mer informasjon .
+title: Hundvåg Take Away - Hundvåg
+snippet: Hundvåg er Stavangers «vakreste» øy, og befinner seg ca 5 minutters kjøretur fra Stavanger sentrum. Hundvåg kan tilby natur og flotte turløyper, både langs sjøen eller i mark og skogsområder. Det er også gode shoppingmuligheter på «øynå» for dem som måtte ønske det. Kort sagt – mange opplevelser for både store og små.
+title: HUNDVÅG
+snippet: Hundvåg er Stavangers «vakreste» øy, og befinner seg ca 5 minutters kjøretur fra Stavanger sentrum. Hundvåg kan tilby natur og flotte turløyper, både langs sjøen eller i mark og skogsområder. Det er også gode shoppingmuligheter på «øynå» for dem som måtte ønske det. Kort sagt – mange opplevelser for både store og små.
+title: MENY - Nettbutikk, kundeavis, middagstips | Meny.no
+snippet: Handle matvarer på nett og få MENY-kvaliteten, det store utvalget og alle tilbudene levert rett hjem! Se ukens kundeavis og hundrevis av middagstips
+title: Helgø Meny – Hundvåg Senteret
+snippet: Helgø Meny Hundvåg er din dagligvare butikk på Hundvågsenteret med alt av mat du trenger til en aktiv hverdag. Ta turen innom for hyggelig handel.
+title: Pizzabakeren Hundvåg - Posts - Stavanger, Norway - Menu ...
+snippet: Pizzabakeren Hundvåg - Hundvågveien 43, 4085 Stavanger, Norway - Rated 4.1 based on 58 Reviews &quot;Superb pizza with a very affordable price tag.No13 is the...
+title: Finn butikk | Meny.no
+snippet: Finn din nœrmeste MENY-butikk og åpningstider. Søk i kartet etter butikknavn, postnummer eller stedsnavn.
+title: Sentrum Kinamat Hundvåg - Hundvåg
+snippet: Hundvåg er Stavangers «vakreste» øy, og befinner seg ca 5 minutters kjøretur fra Stavanger sentrum. Hundvåg kan tilby natur og flotte turløyper, både langs sjøen eller i mark og skogsområder. Det er også gode shoppingmuligheter på «øynå» for dem som måtte ønske det. Kort sagt – mange opplevelser for både store og små.
+title: Butikker – Hundvåg Senteret
+snippet: Helgø Meny Hundvåg er din dagligvare butikk på Hundvågsenteret med alt av mat du trenger til… Les mer. Jernia. Hundvåg Jern &amp; farge er en 20 år gammel jernvarebutikk i Hundvågkrossen.
+
+REL: 1
+POI Name: Døgnvill Burger Stavanger
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), Bars, Burgers, 
+Snippets:
+title: Burger, Bar, Milkshake og god stemning - Døgnvill Burger
+snippet: Døgnvill Burger selger kvalitetshamburgere og et spennende utvalg drikkevarer, ... Kjøttet vårt kommer fra Jæren, kvernes hos A. Idsøe i Stavanger og inneholder en miks av høyrygg, bringe og bog; kyrene vi bruker beiter for øvrig utendørs og drikker friskt vann, som dyr jo skal. Potetene våre dyrkes på Toten, ...
+title: Døgnvill Burger Stavanger - Restaurantanmeldelser ...
+snippet: Døgnvill Burger Stavanger, Stavanger: Se 1 248 objektive anmeldelser av Døgnvill Burger Stavanger, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 8 av 203 restauranter i Stavanger.
+title: www.dognvillburger.no
+snippet: Burger med sauterte habaneros, grønne chili og jalapeño, dobbelt stykke engelsk cheddar, salat og Døgnvills burgersaus (m+,h,e+,se,su)...179 VEGGIE Burger av røkt aubergine, paprika, bønner, portobellosopp og hvitløk.
+title: dognvillburger.no
+snippet: Er det fullt på online-bookingen? Ikke fortvil! Vi holder alltid av omtrent halve restauranten til de av dere som spontant stikker innom. Dersom det er fullt i restauranten er det bare å vente i baren (hvor det også er mulig å spise, for de av dere som måtte ønske det), så finner vi et bord til dere så raskt vi kan.
+title: Døgnvill Burger Stavanger – inStavanger
+snippet: Døgnvill Burger Stavanger startet opp i 2014 og er den andre i rekken av dagens totalt fem Døgnvill-restauranter. Målet her er å gi gjestene en overlegen restaurantopplevelse, hvor hver minste lille detalj bidrar til å gi dem nettopp det.
+title: Dognvill Burger, Stavanger - Restaurant Reviews, Photos ...
+snippet: Dognvill Burger, Stavanger: See 1,248 unbiased reviews of Dognvill Burger, rated 4.5 of 5 on Tripadvisor and ranked #8 of 203 restaurants in Stavanger.
+title: Beste hamburger i Stavanger - Døgnvill Burger Stavanger
+snippet: Døgnvill Burger Stavanger: Beste hamburger i Stavanger - Se 1 248 reiseanmeldelser, 361 objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+title: Døgnvill Stavanger - Anmeldelser - Stavanger - Burger ...
+snippet: Døgnvill Bar &amp; Burger kan friste med noen av de beste burgerne i Stavanger. Sentrumsnær beliggenhet i Stavanger. Døgnvill har fire burgerrestauranter i Norge: to i Oslo, en i Stavanger og en i Trondheim. Døgnvill Bar &amp; Burger i Skagen 13 i Stavanger har flere ganger blitt kåret til byens beste burger og har en høy stjerne.
+title: www.dognvillburger.no
+snippet: vi har spesielle Åpningstider pga. coronaviruset. i stavanger kan du bestille takeaway her og alle steder finner du ogsÅ i foodora- og wolt-appen. fØlg oss gjerne i sosiale medier for hyppige oppdateringer.
+title: Take away fra Døgnvill Burger Stavanger Stavanger ...
+snippet: foodora bruker Cookies for å gi deg en best mulig opplevelse av tjenesten. Dersom du fortsetter å navigere deg på nettsiden godtar du vår bruk av Cookies.
+
+REL: 1
+POI Name: Taket Nattklubb
+POI City: Stavanger
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Taket Nattklubb (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Taket Nattklubb, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Taket Nattklubb i Stavanger, Norge på Tripadvisor.
+title: Taket Bar &amp; nattklubb, Stavanger - 1881.no
+snippet: Taket Bar &amp; nattklubb fra , Rogaland. Restaurant. Deja Vu Delikatesse AS Catering fra 4 personer til arrangementer på flere hundre. Tapas- selskapsmenyer - bryllupspa… Pizzabakeren Tasta Pizzabakeren er en av de raskest voksende pizzakjedene i landet. Kjeden har på svært kort tid sat…
+title: TAKET BAR &amp; NATTKLUBB – Barer | Utesteder – Studentrabatt
+snippet: Taket Bar &amp; Nattklubb ligger i hjertet av Stavanger, og er kjent for sin gode atmosfære. Taket har ulike konsepter som er verdt å sjekke ut deriblant Dobbel Onsdag og Super Søndag. Loungen. I 4. etasje finner du vår &quot;longeavdeling&quot;. Her sitter du på toppen av Straen Huset i de sene nattes timer og har utsikt over hele nattlivet i Stavanger ...
+title: Nå kommer det et nytt utested i de gamle lokalene til ...
+snippet: Nå kommer det et nytt utested i de gamle lokalene til Taket og Timbuktu. Får i tillegg ny restaurant, og ... Få tilgang til gode rabatter og fordeler i Stavanger og Sandnes - helt gratis. Bli ... har erfaring fra utelivsbransjen. Sammen eier de Bar Bache, i tillegg er Sanne inne på eiersiden i Saturn nattklubb og Megleren Øl ...
+title: De 10 beste hotellene i nærheten av Taket Nattklubb
+snippet: Hoteller i nærheten av Taket Nattklubb, Stavanger: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Taket Nattklubb på Tripadvisor.
+title: Arkivet nattbar - Herlige Stavanger Restauranter
+snippet: Vi åpner gjerne dørene i nattbaren kl. 22.00 hvis dere er 30 personer eller mer. Send forespørsel til herdis@herlige-stavanger.no. Dette intime lokalet kan du også bestille til private arrangementer som fødselsdager, møter etc – for inntil 90 personer. Menyer skreddersyr vi i henhold til dine ønsker.
+title: Nye leietakere er på plass: Her åpner det to barer og en ...
+snippet: Taket = Nova Nightclub – Det er upløyd mark dette her. Jeg har alltid tenkt at det ville vært interessant å starte nattklubb i Stavanger, sier Asle Lars Klungland (58). 58-åringen har mange jern i ilden, men det er slik han liker det. Klungland kommer fra Hauge i Dalane, ...
+title: Nattklubben Nova ble stengt av ... - Stavanger Aftenblad
+snippet: Nova har overtatt lokalene til gamle Taket nattklubb. Her har det ikke blitt arrangert en eneste fest siden Taket takket for seg (igjen) for halvannet år siden. Lokalet i Stavanger sentrum sto tomt i lang tid. Thon Eiendom ville først leie ut hele utelivskomplekset, men måtte til slutt endre vilkårene for at noen leietakere ville ta sjansen.
+title: taket - Herlige Stavanger Restauranter
+snippet: Disse nettsidene bruker cookies som er små tekstfiler som lagres på din enhet når du bruker nettsidene. Cookies brukes for å gi deg den beste brukeropplevelsen og for å kjenne deg igjen og gi deg relevant informasjon når du returnerer til siden.
+title: Taket
+snippet: Taket Roofgarden på Zachariassbryggen har utvidet med ny nattklubb i 3 etg. ... I 4 etg er Taket Roofgarden med sine 350 sitteplasser blant Bergens største uteserveringer. Med våre oppvarmede lounger i forskjellige størrelser, er Taket et sted du kan besøke uansett vær.
+
+REL: 1
+POI Name: Kunstpassasjen, Jernbanetorget T-bane
+POI City: Oslo
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, Local Flavor, 
+Snippets:
+title: Rutetabeller og linjekart for T-bane | Ruter
+snippet: Rutetabeller og linjekart for T-bane Her finner du rutetabeller og linjekart for T-banelinjene 1, 2, 3, 4 og 5. Husk at du også kan sjekke reiseplanleggeren for ...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Jernbanetorget 1, 0154 Oslo på 1881 kart
+snippet: Kart og flyfoto over Jernbanetorget 1, 0154 Oslo fra 1881
+title: Stans på T-banen etter påkjørsel på Jernbanetorget | ABC ...
+snippet: Det var stans i alle T-banens linjer gjennom sentrum etter en påkjørsel ved jernbanetorget mandag. Startsiden ABCTV Kreative Idéer Forbrukslån Kredittkort - Helt uten betalingsmur Facebook Twitter Instagram. ... T-bane-stans i Oslo. Her fra Majorstua stasjon rundt klokken 12.10. Foto: Ola Karlsen.
+title: Ruter – kollektivtrafikk i Oslo og Akershus | Ruter
+snippet: Her finner du rutetider, reiseplanlegger og billettinformasjon for kollektivtrafikken i Oslo og deler av Viken (tidligere Akershus fylke). Ruter – kollektivtrafikk i Oslo og Akershus | Ruter Gå til reiseplanleggeren
+title: T-banetrafikken går som normalt igjen etter påkjørsel med ...
+snippet: #Oslo T-banen østgående linjer. Stans i trafikken etter en påkjørsel ved Jernbanetorget stasjon, Oslo S. Nødetatene jobber på stedet, men det er uklart når vi forventer normal trafikk igjen. Adkomst ned til T- banen Jernbanetorget er nå sperret. — OPS Politiet Oslo (@oslopolitiops) November 25, 2019
+title: Jernbanetorget stasjon – Wikipedia
+snippet: Jernbanetorget stasjon er en t-banestasjon ved Oslo sentralstasjon i Oslo sentrum.Den ligger mellom Stortinget stasjon i vest og Grønland stasjon i øst. Stasjonen ble opprettet som endestasjon for de østre t-banelinjer da t-banenettet ble opprettet på 1960-tallet og fram til Stortinget stasjon ble bygget.
+title: ruter.no
+snippet: ruter.no
+title: Rutetabeller og linjekart for buss i Oslo | Ruter
+snippet: Rutetabeller og linjekart for buss i Oslo Her finner du rutetabeller og linjekart for busslinjene i Oslo. Husk at du også kan sjekke reiseplanleggeren for enkleste reisevei.
+title: Oslo - Public Transport - Central Station (Oslo S) and ...
+snippet: Oslo - Public Transport - Central Station (Oslo S) and Jernbanetorget T-bane 2016 09 25 ... or Oslo Central Railway Station as well as the attached T-bane (metro) station, Jernbanetorget.
+
+REL: 1
+POI Name: Narvesen
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, Kiosk, 
+Snippets:
+title: Narvesen - Forside
+snippet: Sunn mat i farta. Fra juice og shots - til nysmurt brødmat og salater
+title: Narvesen butikker i Stavanger | Åpningstider og telefon
+snippet: Her kan du finne alle Narvesen butikker i Stavanger. For å få tilgang til butikkdetaljene (adresse, åpningstider, nettside og aktuelle tilbud), klikk på adressen eller butikkens navn. Mer informasjon om Narvesen Se alle Narvesen-butikker Narvesen i Stavanger - Tilbud og Kundeaviser.
+title: Finn butikk - Narvesen
+snippet: Pga. tiltak mot spredning av koronaviruset har mange av våre butikker redusert åpningstid. Vi prøver å oppdatere åpningstidene etterhvert som de blir endret, men det kan forekomme butikker med feil åpningstider i oversikten.
+title: Lesestoff - Narvesen
+snippet: Bestselgende bøker og Norges største utvalg av magasiner. Vi har bredt og smalt, og hos oss finner du garantert lesestoff du ikke visste fantes.
+title: Jobbe i Narvesen?
+snippet: Som Kjøpmann i Narvesen vil du få tett oppfølging og støtte fra Servicekontoret. Du får grundig opplæring, meget gode innkjøpsavtaler og mulighet til å påvirke resultatet i din butikk. Våre Franchisetakere er selvstendig næringsdrivende, med ansvar for egen butikk og ansatte, samtidig har de et tett samarbeid med Reitan Convenience.
+title: Narvesen - Kilden, Stavanger
+snippet: Narvesen tilbyr et stort utvalg av mat og drikke på farten. Vi har kaldpresset juice, smoothie og shot av naturlige råvarer, nysmurte baguetter, salater og yoghurt. I tillegg steker vi croissanter og boller i butikk hele dagen- perfekt sammen med rykende fersk kaffe. Narvesen er også størst på magasiner med over 2000 spennende titler!
+title: Magasiner - Narvesen
+snippet: New Yorker. The New Yorker Magazine is more than a magazine: it is a cultural icon dedicated to good writing and ideas. The New Yorker is like the best conversation you can imagine about art and technology, politics and personalities, medicine and movies, fiction and fashion, culture and commentary.
+title: Narvesen Fiskepiren, Stavanger - 1881.no
+snippet: Narvesen Fiskepiren fra , 100450352S1 - Narvesen Fiskepiren
+title: Narvesen Stavanger jernbanestasjon, Stavanger - 1881.no
+snippet: Narvesen Stavanger jernbanestasjon fra , 100484799S1 - Narvesen Stavanger jernbanestasjon
+title: Kiosk Stavanger - 1881.no
+snippet: Kiosk Stavanger, Storkiosker, Tobakk, Kioskvarer, Tipping
+
+REL: 1
+POI Name: Norsk hermetikkmuseum
+POI City: Stavanger
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum Stavanger - Norsk hermetikkmuseum
+snippet: Følg med på hva som skjer i hagen på Norsk hermetikkmuseum. Sardine fishing. Norges første reklamefilm fra 1909. Møte med minner. i arbeiderboligen i Gamle Stavanger Formidling i byggeperioden. Skoletilbudet 2019/2020. Tegnspråk. Ressurser på nettbrett. Åpningstider. Mandag: Stengt til nov. 2020:
+title: Norsk Hermetikkmuseum (Stavanger, Norge) - Anmeldelser
+snippet: Norsk Hermetikkmuseum, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Norsk Hermetikkmuseum i Stavanger, Norge på Tripadvisor.
+title: Norsk hermetikkmuseum - Museum in Stavanger, Stavanger ...
+snippet: Norsk hermetikkmuseum ligger i en tidligere hermetikkfabrikk i Øvre Strandgate, Gamle Stavanger. Museet ble åpnet i 1982 til minne om næringen som fra 1880 til 1960 var byens viktigste. Ideen rundt et museum vokste fram da mye gammelt produksjonsutstyr på slutten av 1800-tallet og begynnelsen av 1900-tallet ble byttet ut og kastet som følge av tekniske nyvinninger.
+title: Museum Stavanger
+snippet: Regjeringen gir i sitt forslag til statsbudsjett 11,2 millioner kroner til nye utstillinger på Stavanger museum og Stavanger maritime museum. Norsk hermetikkmuseum stenges 19. august Hermetikkmuseet stenger midlertidig mandag 19. august 2019.
+title: - Museum Stavanger - Norsk hermetikkmuseum
+snippet: Summer season: May 15th- August 18th All days 10am-4pm . Closed for rehabilitation until spring 2021.
+title: Norsk hermetikkmuseum - Home | Facebook
+snippet: Norsk hermetikkmuseum, Stavanger, Norway. 742 likes · 16 talking about this · 716 were here. Norsk hermetikkmuseum ligger i en tidligere hermetikkfabrikk. The Norwegian Canning Museum is located in...
+title: Norsk hermetikkmuseum / DigitaltMuseum
+snippet: Norsk hermetikkmuseum ligger i en tidligere hermetikkfabrikk i Gamle Stavanger. Samlingene til hermetikkmuseet består av maskiner og verktøy fra produksjon av hermetikkbokser og hermetiserte matvarer, en samling av iddisar (hermetikketiketter) på ca. 35.000 motiver, og fotografier fra hermetikkfabrikker.
+title: Norsk hermetikkmuseum – Wikipedia
+snippet: Koordinater Norsk Hermetikkmuseum er et museum som viser produksjon av fiskehermetikk.Museet ligger i Norges hermetikkhovedstad Stavanger.Det ble offisielt åpnet 28. juni 1982 og er en del av MUST – Museum Stavanger AS (tidligere Stavanger Museum).. Bakgrunn. Ideen om et hermetikkmuseum i Stavanger ble første gang reist rundt forrige århundreskifte.
+title: Fabrikken - Museum Stavanger
+snippet: Norsk Hermetikkmuseum ble åpnet 28.6.1982 i lokalene til den tidligere hermtikkfabrikken Venus Packing i Stavanger. Denne fabrikken var en av omtrent 70 fabrikker i Stavanger og 250 hermetikkfabrikker i Norge. Museet er innredet som en autentisk sardinfabrikk kunne sett ut i perioden rundt 1. verdenskrig.
+title: Norsk hermetikkmuseum stenges 19. august - Museum Stavanger
+snippet: Norsk hermetikkmuseum har åpent i hele sommer og fram til 19. august. Da stenger vi fordi vi bygger opp Norsk grafisk museum som skal høre sammen med Norsk hermetikkmuseum. Høsten 2020 åpner vi igjen, da vil dere komme til en spennende og innholdsrik ny møteplass i Gamle Stavanger.
+
+REL: 1
+POI Name: Lekeplassen i Torshov kirkepark
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Playgrounds, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Torshov kirkepark – Wikipedia
+snippet: Torshov kirkepark er en park på Torshov i Oslo.. Terrenget i parken skråner fra nordvest mot sydøst. Parken avgrenses av Åsengata i nordvest, Lammers&#39; gate i syd, Nordkappgata i øst og bebyggelse i nord. Nordvest i parken ligger Torshov kirke, innviet 1958, og i sydvest ligger Åsenhagen barnehage.Parken er 15,3 dekar stor, av dette er den inngjeredede barnehagens område 3,9 dekar.
+title: Parker i Oslo – Wikipedia
+snippet: Parker i Oslo utgjør en viktig del av bylandskapet.Oslo karakteriseres som en grønn by mellom grønne åser; byens lave tetthet er utnyttet til treplantning i gatene, forhager, små grøntanlegg der anledningen byr seg, og drabantbyer med mye vegetasjon. Et nett av turveier binder parkene sammen og knytter byen til marka. Av byens befolkning var det i 2006 vel fem prosent som ikke hadde et ...
+title: Playgrounds in Oslo - Yelp
+snippet: Find the best Playgrounds on Yelp: search reviews of 41 Oslo businesses by price, type, or location.
+title: Lekeplasser i Oslo og Akershus
+snippet: Lekeplasser i Oslo. Friluftsetaten har i dag ansvaret for en rekke kommunale lekeplasser på regulerte friområder i Oslo. Friluftsetaten etterser månedlig disse lekeplassene, og sørger blant annet for at de er hele og rene, at apparatene er uten sprekker og at boltene sitter som de skal.
+title: Navnsetting av Torshov kirkepark til Knut ... - Oslo kommune
+snippet: Navnsetting av Torshov kirkepark til Knut Nystedts plass. Publisert dato: 20.11.2015. Saksfremlegg. Navnsetting av Torshov kirkepark til Knut Nystedts plass (PDF 131KB) Saken behandles i. Dato ... Oslo kommunes kontaktsenter - åpningstider og priser. Finn en ansatt. Skriv til oss - pålogging med ID-porten. Ring 21 80 21 80.
+title: 30 ting å gjøre med barn i Oslo - KK
+snippet: Mammadamens beste tips - mange av aktivitetene er helt gratis! Vi bryr oss om ditt personvern. KK er en del av Aller Media, som er ansvarlig for dine data. Vi bruker dataene til å forbedre og tilpasse tjenestene, tilbudene og annonsene våre.
+title: Møte i Sagene miljø- kultur- og ... - Oslo kommune
+snippet: Navnsetting av Torshov kirkepark til Knut Nystedts plass. Jobb i Oslo kommune. Ledige stillinger. Lønn og arbeidsforhold. Kontakt Oslo kommune. Oslo kommunes kontaktsenter - åpningstider og priser. Finn en ansatt. Skriv til oss - pålogging med ID-porten. Ring 21 80 21 80. English ...
+title: Eiendomsmegler Torshov (Oslo)
+snippet: Om Torshov. Torshov er et boligstrøk i bydel Sagene, med beliggenhet nord for Günerløkka og øst for Akerselva. Området består av flere grøntområder, med Torshovparken, Torshovdalen, Torshov Kirkepark og Haarklous plass som de lokale parkene. I dag finnes det flere kaféer og restauranter på Torshov, med flotte uteserveringer på sommeren.
+title: Torshov - Wikipedia
+snippet: Torshov is a neighborhood north of Grünerløkka and Lilleborg in the borough Sagene in Oslo, Norway. Oslo Tramway (Trikken i Oslo) provides connections with lines running between Majorstuen and Kjelsås.Vogts gate serves as the main street of the neighborhood. Along Vogts gate are several coffee shops, restaurants and cafes.
+
+REL: 1
+POI Name: Pappas Restaurant
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Pappas.com
+snippet: Restaurants Pappadeaux Seafood Kitchen Pappasito&#39;s Cantina Pappas Bros. Steakhouse Pappas Seafood House Pappas Bar-B-Q Pappas Burger Yia Yia Mary&#39;s Mediterranean Kitchen Dot Coffee Shop Pappas Delta Blues Smokehouse
+title: Det beste spisestedet med Tapas i Stavanger, på ...
+snippet: Beste spisesteder med Tapas i Stavanger, Norge: Finn 1 058 anmeldelser fra Tripadvisor-reisende om de beste spisestedene med Tapas, og søk etter pris, beliggenhet, med mer.
+title: De 10 beste restaurantene i Stavanger - Tripadvisor
+snippet: Beste restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Pappas cafe &amp; restaurant | Stavanger | Restaurantguiden 2020
+snippet: Pappas cafe &amp; restaurant er en restaurant beliggende i Stavanger. Her kan du finne mer informasjon om Pappas cafe &amp; restaurant, som inkluderer åpningstider, type mat og mer.
+title: Armadillo, Stavanger - Restaurantanmeldelser - Tripadvisor
+snippet: Armadillo, Stavanger: Se 15 objektive anmeldelser av Armadillo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 84 av 203 restauranter i Stavanger.
+title: Pasha Restaurant, Stavanger - Restaurantanmeldelser ...
+snippet: Pasha Restaurant, Stavanger: Se 141 objektive anmeldelser av Pasha Restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 13 av 203 restauranter i Stavanger.
+title: THE 10 BEST Restaurants in Stavanger - Updated April 2020 ...
+snippet: Best Dining in Stavanger, Stavanger Municipality: See 19,801 Tripadvisor traveler reviews of 232 Stavanger restaurants and search by cuisine, price, location, and more.
+title: Sumo - Vi har åpnet i Stavanger!
+snippet: Vi har åpnet i Stavanger! Vi er kjempeglad for at vi nå har åpnet Sumo Hall Toll! På Sumo serverer vi mat som passer for alle i hele familien, garantert! Vi har to kjøkken i alle våre avdelinger, hvor varmtkjøkkenet har et utall av varme matretter fra hele asia i tillegg til asian fusion med inspirasjon fra Amerika og Europa og sushi kjøkkenet har klassisk sushi og Sumos egen lekne ...
+title: Pappas cafe &amp; restaurant | Stavanger | Restaurant guide 2020
+snippet: Pappas cafe &amp; restaurant is a restaurant located in Stavanger. Here you can find more information about Pappas cafe &amp; restaurant, including opening hours, type of food and more.
+title: Pappas Restaurant &amp; Sports Bar Cockeysville - Menu, Prices ...
+snippet: Reserve a table at Pappas Restaurant &amp; Sports Bar Cockeysville, Cockeysville on Tripadvisor: See 412 unbiased reviews of Pappas Restaurant &amp; Sports Bar Cockeysville, rated 4.5 of 5 on Tripadvisor and ranked #2 of 91 restaurants in Cockeysville.
+
+REL: 0
+POI Name: Checkpoint Charlie
+POI City: Stavanger
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, 
+Snippets:
+title: Checkpoint Charlie
+snippet: Checkpoint Charlie leverer konserter og rock&#39;n&#39;roll. For bookingspørsmål, ta kontakt på e-post.Vi får veldig mange henvendelser om spillejobb på Checkpoint Charlie.
+title: Checkpoint Charlie, Stavanger - Restaurantanmeldelser ...
+snippet: Checkpoint Charlie, Stavanger: Se 8 objektive anmeldelser av Checkpoint Charlie, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 152 av 203 restauranter i Stavanger.
+title: Checkpoint Charlie - Bar/pub in Stavanger, Stavanger ...
+snippet: Om Checkpoint Charlie ble etablert i oktober 1987 og er nå inne i sitt 20 år som Stavangers beste konsertscene og alternative rockepub. For to år siden fikk de som følge av endringene i skjenkereglene i Stavanger også nattklubbstatus, og holder nå åpent alle dager 20.00 - 03.30.
+title: Checkpoint Charlie - Startside | Facebook
+snippet: Checkpoint Charlie, Stavanger, Norway. 3,9 k liker dette. Åpent torsdag-lørdag 22.00 - 03.30 Aldersgrense 20 år. Alle Rettigheter. Checkpoint Charlie ble etablert i oktober 1987 og er nå inne i sitt...
+title: Checkpoint Charlie - Home | Facebook
+snippet: Checkpoint Charlie, Stavanger, Norway. 3.9K likes. Åpent torsdag-lørdag 22.00 - 03.30 Aldersgrense 20 år. Alle Rettigheter. Checkpoint Charlie ble etablert i oktober 1987 og er nå inne i sitt 29. år...
+title: Checkpoint Charlie, Stavanger Konsertbilletter, program ...
+snippet: Kjøp Checkpoint Charlie, Stavanger-billetter og finn konsertprogram, spillestedinformasjon og setekart for Checkpoint Charlie, Stavanger. Søk etter no og internasjonale konsertbilletter, turnédatoer og spillesteder i ditt område på LiveNation.no.
+title: Checkpoint Charlie As - Stavanger - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Checkpoint Charlie As. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Checkpoint Charlie As, Stavanger | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Checkpoint Charlie As Stavanger, telefonnummer, adresse, se informasjonen om firmaer.
+title: Stemningsfullt - Anmeldelse for Checkpoint Charlie ...
+snippet: Checkpoint Charlie: Stemningsfullt - Se 8 reiseanmeldelser, objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor. Stavanger. Turisme i Stavanger Hotell i Stavanger Bed and Breakfast i Stavanger Pakkereiser til Stavanger Flyreiser til Stavanger Restauranter i Stavanger
+title: Byens rockebule - Anmeldelse for Checkpoint Charlie ...
+snippet: Checkpoint Charlie: Byens rockebule - Se 8 reiseanmeldelser, objektive bilder og gode tilbud på Stavanger, Norge på Tripadvisor.
+
+REL: 0
+POI Name: Storo International Food
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Storo International food - Storo Storsenter | Storo Storsenter
+snippet: Storo International food har mye fristende matvarer fra hele verden. Her får du frukt, grønnsaker og mye mer. Butikken ligger i underetasjen.
+title: Storo International Food AS - Oslo - Se Regnskap, Roller ...
+snippet: Proff.no gir deg bedriftsinformasjon om Storo International Food AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Oslo, Nydalen - Åpningstider | Storo Storsenter
+snippet: dittgavekort. Dittgavekort.no kan brukes i 5000 butikker på nesten 100 Amfi og Thon kjøpesentre og 70 hoteller i Norge.. Du kan kjøpe gavekortet på senteret, eller bestille det på nett.
+title: Storo International Food AS - Detailed information ...
+snippet: Storo International Food AS - Retail sale in department stores and the like with food, beverages or tobacco predominating | Retail sale in other non-specialised stores with food, beverages or tobacco predominating
+title: Youns Fahad Thanoon, Nydalen, Oslo - 1881.no
+snippet: Youns Fahad Thanoon fra Nydalen, Oslo. ... Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: De 10 beste restaurantene i nærheten av Storo stasjon
+snippet: Restauranter i nærheten av Storo stasjon på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Storo stasjon, Oslo. Oslo. Turisme i Oslo Hotell i Oslo Bed and Breakfast i Oslo Pakkereiser til Oslo Flyreiser til Oslo Restauranter i Oslo Ting å gjøre i Oslo
+title: Hjem - Asian Food Import AS
+snippet: ASIAN FOOD IMPORT. En av Norges største importør og distributør . av asiatiske dagligvarer og utstyr til detaljhandel, restaurant og catering. Veien til ditt asiatiske kjøkken starter hos oss! ...
+title: Hjem - Asian Food Import As
+snippet: asian food / afood Vår virksomhet ble etablerte i 2005, med hovedkontor og varelager på 5000m2, lokalisert på Helsfyr i Oslo. Årlig importerer vi ca. 330 kontainere og distribuerer ca. 2500 forskjellige produkter til våre egne utsalgsteder i Oslo sentrum, Afood Osterhaus gate og Afood Grønland, samt ca. 1350 andre kunder rundt om i landet.
+title: Take away i Oslo | Bestill matlevering | foodora
+snippet: Take away in Oslo Visste du at du kan spise på Oslos beste restauranter - uten å måtte gå ut døra? Med foodora kan du få restaurantmat rett hjem i stua, enten du er i tidsklemma og ikke orker matlaging, eller bare vil nyte noe ekstra godt i sofaen foran gullrekka.
+title: Oslo Eating: 23 Best Local Restaurants &amp; Cafes in Oslo
+snippet: Oslo restaurant guide featuring 23 best local restaurants &amp; cafes recommended by Oslo locals. ... While the food is becoming more diverse as Oslo becomes more multicultural, ... A laid-back café serving soup and salad. A vibrant international crowd.
+
+REL: 0
+POI Name: Breiavatnet
+POI City: Stavanger
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Parks, Lakes, 
+Snippets:
+title: Breiavatnet (Stavanger) – Wikipedia
+snippet: Breiavatnet (historisk navneform: Brede-vandet) er et lite vatn midt i sentrum av Stavanger.. Breiavatnet får sitt vann fra Mosvatnet gjennom Kannikbekken.Utløpet var gjennom Skolebekken.Våren 1899 ble bekken lagt i rør. Det har også vært diskutert om det også har vært et utløp ned til Torget i Stavanger, men det er lite trolig.. Ved vatnet ligger blant annet Stavanger domkirke ...
+title: Breiavatnet - Wikipedia
+snippet: Breiavatnet is a small lake in the municipality of Stavanger in Rogaland county, Norway.The 0.031-square-kilometre (7.7-acre) lake is very shallow, only a few feet deep. The lake gets its water from the Kannikbekken stream, which flows from the lake Mosvatnet and runs through the city (the stream was put mostly underground in culverts and pipes in 1899).
+title: Breiavatnet og byparken | Stavanger kommune
+snippet: Breiavatnet får sitt vann fra Mosvatnet gjennom Kannikbekken. Rektor på Kongsgård er den eneste som har fiskeretten i Breiavatnet. Området er tilholdssted for ett svanepar, stokkender, toppender, sothøner og flere måkearter. Dessuten er flere mer eksotiske fugler gjester spesielt i vinterhalvåret.
+title: Stavanger – Wikipedia
+snippet: Stavanger domkirke, Byparken, Breiavatnet og Kongsgård videregående skole ligger innenfor bydelens grenser. Madla utgjør vestre del av kommunen og omfatter området vest for Stokkavatnet og Ullandhaug. Madlakrossen er bydelssenter for Madla bydel. Bydelens landareal er 13,87 km². ``Madla var egen kommune i perioden 1930–65.
+title: Byparken og Breiavatnet i Stavanger | Sandalsand Norge
+snippet: I hjertet av Stavanger ligger parken som en pryd for byen og en fryd for øyet. I fugleperspektiv tar Breiavatnet form av et hjerte. En liten geografisk orientering Parken rammes mot nord inn av middelalderens byggverk i Stavanger: Domkirken, Bispekapellet og Kongsgård. Mot øst går den gamle innfartsåren til byen, Kongsgata, med sine stilfulle …
+title: Yr – Værvarsel for Breiavatnet, Stavanger (Rogaland)
+snippet: Anbefaling Hold deg oppdatert om situasjonen. Sikre og flytt verdier bort fra utsatte områder (f. eks. i kjellere, og biler, campingvogner etc langs elver og bekker). Rens stikkrenner, kummer og andre vannveier for snø/is, jord og grus, kvist og løv, slik at vannet kan renne uhindret der det vanligvis renner.
+title: Breiavatnet (Stavanger, Norge) - Anmeldelser - Tripadvisor
+snippet: Breiavatnet, Stavanger: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Breiavatnet i Stavanger, Norge på Tripadvisor.
+title: Tante Emmas hus | Stavanger kommune
+snippet: Tante Emmas Hus ligger i Kongsgata 43 langs Breiavatnet midt i Stavanger sentrum. Der finner du et stort utvalg aktiviteter for seniorer. Tante Emmas Hus har stengt; Tante Emmas Hus Historien om huset. Huset i Kongsgata 43 er oppkalt etter Emma Nielsen Øgreid, foregangskvinne innen sosialt arbeid i Stavanger. Huset ...
+title: Breiavatnet (Stavanger) - 2020 All You Need to Know BEFORE ...
+snippet: Discover the popular myths and fascinating history surrounding the Vikings on a 2.5-hour group tour in Stavanger. The kid-friendly excursion is set on the Viking Bus and led by an in-costume guide, who shares tales of battle, everyday life, and more.
+title: Breiavatnet – Store norske leksikon
+snippet: Breiavatnet, innsjø med parkanlegg i sentrum av Stavanger, Rogaland, bydel Eiganes/Våland, mellom Stavanger domkirke og Stavanger katedralskole (avd. Kongsgård) i nord og Stavanger jernbanestasjon og Busstasjonen i sør. Vannet har tradisjonelt hatt en stor bestand av ender. Det er verdt å merke seg at retten til å fiske i vannet er det bare rektor ved Stavanger Katedralskole som har.
+
+Cand cities: {'Hundvåg', 'Stavanger', 'Oslo', 'Sandnes'}

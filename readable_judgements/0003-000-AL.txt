@@ -1,0 +1,1277 @@
+City: Milwaukee
+Country: US
+Main category: Active Life
+Sub category: Mini Golf
+Description: Anybody have any good mini golf recommendations? It looks like the city proper doesn't have any places. Are there any within a 20-minute drive or so? And are there any that are indoor, in case the weather is bad? We were hoping to go this weekend but it might be cold. 
+Rated POIs: 48
+Rel distr: [(0, 18), (1, 19), (2, 10), (3, 1)]
+=================================
+REL: 3
+POI Name: River Falls Family Fun Center
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Amusement Parks, Mini Golf, Baseball Fields, 
+Snippets:
+title: Welcome to Riverfalls | Riverfalls Family Fun Center
+snippet: Riverfalls Family Recreation Center . Riverfalls Falls Recreation is a Family Recreation facility is located in Greenfield Wisconsin. Our award-winning facility features miniature golf, batting cages, and an arcade.. Our mission is to always provide you and your guests with quality wholesome family entertainment!
+title: River Falls Family Fun Center - Milwaukee, WI - Yelp
+snippet: 16 reviews of River Falls Family Fun Center &quot;There aren&#39;t many mini golf courses left in Milwaukee anymore. I think this is one of the better ones that remains. They do a decent job with the up-keep. $8 gets you a round of mini-golf. River Falls…
+title: Birthday Parties | river-falls
+snippet: Birthday Party Packages. 8 or more paid golfers required! Private Party Room Rental Room Capacity (25) You can bring your own food! 3 Hour Party Special Rental - $60 – Best Value Only Available at time of booking!
+title: Riverfalls Family Fun Center 5401 W Layton Ave, Milwaukee ...
+snippet: Get reviews, hours, directions, coupons and more for Riverfalls Family Fun Center at 5401 W Layton Ave, Milwaukee, WI 53220. Search for other Tourist Information &amp; Attractions in Milwaukee on The Real Yellow Pages®.
+title: River Falls Family Fun Center 5401 W Layton Ave Milwaukee ...
+snippet: &lt;p&gt;River Falls Family Fun Center is home to outdoor activities, including mini golf, batting cages and pedal karts. Open seasonally from April to October, the facility has a party hall that can be rented for private events throughout the year.
+title: Miniature Golf | river-falls
+snippet: Miniature Golf Course River Falls Family Fun Center Greenfield WI. River Falls Family Fun Center. Miniature Golf Course River Falls Family Fun Center Greenfield WI. Show More. Riverfalls Family Fun Center 5401 W Layton Ave Greenfield, WI 53220
+title: Riverfalls Family Fun Center | Kids Out and About Milwaukee
+snippet: Riverfalls Falls Recreation is a family recreation facility located in Greenfield Wisconsin. Our award-winning facility features miniature golf, batting cages, and an arcade. Our mission is to always provide you and your guests with quality wholesome family entertainment!
+title: River Falls Family Fun Center - Milwaukee, WI - Put Put in ...
+snippet: River Falls Family Fun Center is a privately held company in Milwaukee, WI and is a Single Location business. Categorized under Miniature Golf Courses. Our records show it was established in 1982 and incorporated in Wisconsin. Current estimates show this company has an annual revenue of 251774 and ...
+title: Batting Cages - Riverfalls Family Fun Center
+snippet: River Falls Family Fun Center Greenfield WI. Baseball Batting Cages. River Falls Family Fun Center Greenfield WI. Show More. Riverfalls Family Fun Center 5401 W Layton Ave Greenfield, WI 53220
+title: Arcade | river-falls
+snippet: River Falls Family Fun Arcade Greenfield WI. River Falls Arcade. River Falls Family Fun Arcade. Family Fun Greenfield WI. River Falls Family Fun Arcade. Games and Prizes Arcade. River Falls Family Fun Arcade Greenfield WI. Show More. Riverfalls Family Fun Center 5401 W Layton Ave Greenfield, WI 53220
+
+REL: 2
+POI Name: Moorland Golf Center
+POI City: New Berlin
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Mini Golf, Golf Lessons, 
+Snippets:
+
+
+REL: 2
+POI Name: Nine Below
+POI City: Milwaukee
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Mini Golf, 
+Snippets:
+title: Nine Below - Home
+snippet: Nine Below offers Maker’s Golf, where customers design and create their own miniature golf course while hanging out in a trendy, underground bar.
+title: Nine Below - Home | Facebook
+snippet: Nine Below, Milwaukee, Wisconsin. 4,750 likes · 27 talking about this · 4,864 were here. Nine Below is a Maker&#39;s Golf tavern offering innovative, build-your-own mini-golf experiences.
+title: Nine Below (Milwaukee) - 2020 All You Need to Know BEFORE ...
+snippet: If you have not visited nine below and played glow in the dark miniature golf, you don’t know what you’re missing. My family and I had a wonderful and fun time playing miniature golf.
+title: About - Nine Below
+snippet: Nine Below was born as the answer to that question. Conceived by the owners of Splash Studio: a painting bar, Nine Below offers you a chance to forge your own course. . . nine feet underground. And as proud citizens of the fair Brew City, there is one more element that is of the utmost importance: a fully-stocked bar. This is Wisconsin after all.
+title: New Reservations - Nine Below
+snippet: Ages 16+ welcome
+title: Events - Nine Below
+snippet: Private Events at Nine Below are the ultimate way to experience Maker&#39;s Golf. Work together to create your own mini golf course, and then hit the greens for a full 9-hole competition. We’ll supply all the crazy obstacles, colored balls, and cocktails as you drink and putt.
+title: Maker&#39;s Golf - Nine Below
+snippet: Nine Below is the world&#39;s first Maker&#39;s Golf Tavern.We&#39;ve taken the traditional putt putt concept and elevated it - nine feet underground. It&#39;s been described as a mix of a makerspace, real-life Minecraft, and Caddyshack. . . shaken and poured into an indoor beer garden and built exclusively for Milwaukee&#39;s East Side.
+title: Nine Below (Milwaukee, WI) - Anmeldelser - Tripadvisor
+snippet: Nine Below, Milwaukee: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Nine Below i Milwaukee, Wisconsin på Tripadvisor.
+title: Nine Below - Home | Facebook
+snippet: Nine Below, Milwaukee, Wisconsin. 4,843 likes · 19 talking about this · 4,987 were here. Nine Below is a Maker&#39;s Golf tavern offering innovative, build-your-own mini-golf experiences.
+title: What to expect from Nine Below golf tavern, opening below ...
+snippet: This summer, David and Marla Poytinger - who also own Splash Studio - plan to open Nine Below, a &#39;maker&#39;s golf tavern&#39; in the space below Beans &amp; Barley, 1905 E. North Ave. See renderings of the ...
+
+REL: 2
+POI Name: Hansen Golf Course
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: Hansen Park Golf Course – MKE Golf
+snippet: Hansen Park Golf Course features open fairways surrounded by tall trees and some elevation – especially on the back nine, which is split by Underwood Creek. Hansen also offers an Irons practice area you can use for free – bring and retrieve your own balls. Join us for a round at Hansen – Book Your Tee Time.
+title: MKE Golf – Milwaukee County Golf
+snippet: Welcome to Milwaukee County Golf With 14 courses to choose from, Milwaukee County Golf has the ideal course for every golfer, from beginner to pro. For experienced players, book a tee time at our Tournament and Championship courses; for improving golfers our four regulation courses are perfect for improving your game and for new golfers, learn the game at two executive and four par 3 courses.
+title: Hansen Park Golf Course (Milwaukee) - 2020 All You Need to ...
+snippet: Milwaukee is called many names; Brew City, City of Festivals, and Cream City, but it is most recognized as the place for great beer and cheese in the Upper Midwest. The large 19th century Germanic population continue to influence our local food products and dishes while some of the best restaurants from the historic Third Ward to East Town Downtown.
+title: Course Conditions – MKE Golf - Milwaukee County
+snippet: All Milwaukee County golf courses are now closed due to the COVID-19 outbreak.
+title: Hansen Park Golf Course (Hansen Course)
+snippet: The 18-hole Hansen course at the Hansen Park Golf Course facility in Milwaukee, Wisconsin features 2,217 yards of golf from the longest tees for a par of 54. The course rating is 0. 0 and it has a slope rating of 0.
+title: Zablocki Park Golf Course – MKE Golf
+snippet: Zablocki is the shortest golf course in the Milwaukee County Parks system, with 9-holes all under 117 yards. Bring a wedge or short iron, putter, a few balls, and leave the rest of the bag at home for this course. No tee times are needed, tee off on a first-come, first-served basis.
+title: Hansen Park Golf Course - Wauwatosa, WI - Locu
+snippet: Hansen Park Golf Course, Restaurants business in Wauwatosa. ... Birdie Passes Will Be for Sale at Milwaukee County Golf Courses That Are Open &amp; the Golf Office at 9480 Watertown Plank Road, Wauwatosa, Wi 53226 2013 Price. 175. ... 2013 course fees for hansen, warnimont
+title: Hansen Park Golf Course in Milwaukee, Wisconsin, USA ...
+snippet: Every spring getaway should include the perfect mixture of lakeside recreation and 4-Star relaxation! The Tahoe Tap-in Stay &amp; Play package offers a luxurious stay at Edgewood Tahoe Resort plus your choice of two rounds of golf with a cart at Lake Tahoe&#39;s only public lakefront golf course, two 50-minute treatments at the serene Spa Edgewood, or one of each for each night per reservation.
+title: Hansen Golf Course, Milwaukee, WI - Albrecht Golf Guide
+snippet: Detailed course information including rates, driving directions, hotels and weather forecast for Hansen Golf Course, Milwaukee.
+title: Warnimont Park Golf Course – MKE Golf
+snippet: This course is ideal for beginners and those who want to practice their short game, enjoy a fast, fun round of golf, or begin learning the game. Beautiful views of Lake Michigan make Warnimont a very nice place to play golf. Join us for a round at Warnimont – Book Your Tee Time.
+
+REL: 2
+POI Name: Doyne Park Golf Course
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf Lessons, Golf, 
+Snippets:
+title: Doyne Park Golf Course – MKE Golf
+snippet: Doyne Park Golf Course features 9-holes, all under 110 yards, which makes this a perfect course for a quick round. Bring a wedge or short iron, putter, a few balls, and leave the rest of the bag at home for this course. No tee times are needed, tee off on a first-come, first-served basis.
+title: MKE Golf – Milwaukee County Golf
+snippet: With 14 courses to choose from, Milwaukee County Golf has the ideal course for every golfer, from beginner to pro. For experienced players, book a tee time at our Tournament and Championship courses; for improving golfers our four regulation courses are perfect for improving your game and for new golfers, learn the game at two executive and four par 3 courses.
+title: Grant Park Golf Course – MKE Golf - Milwaukee County
+snippet: Grant Park opened as Milwaukee County’s first 18-hole golf course in 1920, and today the course still uses the historic 1892 farmhouse for its clubhouse. Although this course is relatively short by today’s standards (5,213), it does have many challenging Par 4’s and Par 3’s.
+title: Doyne Park Golf Course - Story Hill - Milwaukee, WI - Yelp
+snippet: Another great Milwaukee County Park. Doyne is known for its golf course, but I&#39;m not into golf. Instead, I come here to play basketball and walk the trails. The basketball courts are usually open and never crowded.
+title: Lincoln Park Golf Course – MKE Golf - Milwaukee County
+snippet: Lincoln Park Golf Course is the most challenging nine-hole course in the parks system. The course originally opened as a six-hole course in 1916 and has been renovated several times, with a footgolf course added in 2014. Join us for a round at Lincoln Park – Book Your Tee Time.
+title: Lake Park Golf Course – MKE Golf - Milwaukee County
+snippet: THE PERFECT COURSE FOR BEGINNERS. Lake Park Golf Course offers 18-holes, all under 85 yards, which makes this a perfect course for beginners or for a quick round with friends. Bring a wedge or nine iron, putter, a few balls, and leave the rest of the bag at home for this course. No tee times are needed, tee off on a first-come, first-served basis.
+title: Zablocki Park Golf Course – MKE Golf
+snippet: PLAY A QUICK NINE. Zablocki is the shortest golf course in the Milwaukee County Parks system, with 9-holes all under 117 yards. Bring a wedge or short iron, putter, a few balls, and leave the rest of the bag at home for this course.
+title: Doyne Park Golf Course (Doyne Park Course)
+snippet: The 9-hole Doyne Park course at the Doyne Park Golf Course facility in Milwaukee, Wisconsin features yards of golf from the longest tees for a par of 27. The course rating is 0. 0 and it has a slope rating of 0.
+title: Doyne Park Golf Course - Foot Golf in Milwaukee, WI
+snippet: Doyne Park Golf Course 5316 W. Wells St. Milwaukee, WI 53208 Phone: 414-257-3718. FootGolf Course Website
+title: Hansen Park Golf Course – MKE Golf
+snippet: Bring some spare golf balls though as wooded areas and water hazards can claim wayward shots. Hansen Park Golf Course features open fairways surrounded by tall trees and some elevation – especially on the back nine, which is split by Underwood Creek.
+
+REL: 2
+POI Name: Washington Park
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Welcome to the Washington Park Neighborhood
+snippet: No upcoming events at the moment WPPMKE. Washington Park Partners - Milwaukee, WI
+title: Washington Park Overview - Urban Ecology Center
+snippet: The Urban Ecology Center at Washington Park is not on the Oak Leaf Recreational Trail, but its bordering streets do have bike lanes. We are located near the park entrance on 40th street between Lisbon Avenue and Vliet Street. When you arrive you will find bike racks on the lagoon side of our building. See the map of the park here to find your ...
+title: Washington Park - Milwaukee
+snippet: The park offers a beautiful amphitheatre that hosts a summer concert series. The original branch of the Urban Ecology Center is also located in the park and offers equipment to enjoy nature to garden as well as multipe learning opportunities and events. The park is also situated next to the Washington Park branch of the Milwaukee Public Library.
+title: Washington Park Wednesdays | Milwaukee | Free music
+snippet: Washington Park Wednesdays was launched with the 2017 season, which attracted nearly 10,000 residents to enjoy free music and dynamically curated activities. The creative fundraising initiatives continue to build on this momentum for the 2018 series that celebrates the park and its diverse surrounding communities.
+title: Washington Park Wednesdays - Milwaukee, Wisconsin | Facebook
+snippet: Washington Park Wednesdays, Milwaukee, WI. 2.7K likes. Beginning the last Wednesday in June, Washington Park Neighbors presents Washington Park Wednesdays! Established and emerging local and visiting...
+title: 63 Best Washington Park Milwaukee Wisconsin images ...
+snippet: Jul 22, 2019 - Explore lisamillen1&#39;s board &quot;Washington Park Milwaukee Wisconsin&quot; on Pinterest. See more ideas about Washington park, Milwaukee wisconsin and Milwaukee.
+title: Milwaukee Washington Park - Wisconsin Bandshells and Stands
+snippet: The Park was designed by Frederick Law Olmsted, the famous landscape architect of New York’s Central Park and includes 130 acres with the bandshell located centrally in a natural depression next to a lagoon. The Art Deco style curved band shell was designed, according to the WI Historical Society, by Milwaukee architect Fitzhugh Scott.
+title: Parks of Milwaukee - Wikipedia
+snippet: Milwaukee County&#39;s first dog park. Established in 1998, Granville Dog Park sits in what was once the town of Granville before it was annexed by the City of Milwaukee. Originally created by a combination of political leaders and a non-profit group, Partners in Parks, Granville Dog Park is now run exclusively by the Milwaukee County Parks department.
+title: History - Washington Park Stories
+snippet: In the early 20th century Washington Park was one of the many new neighborhoods in Milwaukee. The area was laid out according to the typical Milwaukee style street grid, with city blocks that were roughly 700 feet from north to south and 300 feet from east to west.
+title: Visit Milwaukee - Washington Park
+snippet: VISIT Milwaukee is an award-winning convention &amp; visitors bureau providing information on premier events, hotel accommodations, transportation, restaurants and fun things to do in Milwaukee, Wisconsin! Experience the warm hospitality of Milwaukee&#39;s local businesses. We hope to see you soon!
+
+REL: 2
+POI Name: City Mini Golf
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+title: City Mini Golf - Downtown Chicago
+snippet: Sure, miniature golf is something you can find most places, but City Mini Golf is something you can only find in Chicago. The customer experience is our top priority and we&#39;re looking for energetic team members who share our same vision.
+title: City Mini Golf Store
+snippet: Welcome to the City Mini Golf virtual store. Here you can purchase season passes as well as general and discounted tickets. Your ticket purchases never expire so feel free to use them whenever it is most convenient for you.
+title: City Mini Golf - Home | Facebook
+snippet: City Mini Golf. 959 likes · 6 talking about this · 397 were here. Enjoy playing 18 holes, with nods to whimsical Chicago culture, all while taking in breathtaking views of the Chicago skyline! Open...
+title: Chicago Mini Golf | About City Mini Golf
+snippet: At City Mini Golf we believe in three things: having fun, creating lasting memories, and giving back to the community. We draw inspiration from our customers and use feedback to continually innovate our course.
+title: Photos for City Mini Golf - Yelp
+snippet: Photos at City Mini Golf - Chicago, IL. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: City Mini Golf Special Offers
+snippet: Voted Chicago&#39;s #1 miniature golf course. Come see for yourself what makes City Mini Golf so different.
+title: Mini Golf - Maggie Daley Park - Maggie Daley Park
+snippet: Mini Golf Located on the south end of the BP Bridge, there is an 18-hole miniature golf course consisting of unique obstacles and challenging holes that offer family-friendly fun. Featuring several replicas of iconic Chicago structures, golfers can putt underneath a 6-foot tall Willis Tower and putt up a Plinko-inspired replica of a Picasso sculpture.
+title: City Mini Golf in Maggie Daley Park | Things to do in ...
+snippet: Show off your putt-putt skills at City Mini Golf in Maggie Daley Park. The seasonal mini golf course opens up each May and closes in the fall. With 18 holes, th
+title: City Mini Golf - Chicago, IL | Groupon
+snippet: City Mini Golf features tons of mini golf amusement right in the middle of Chicago. Little ones are just as welcome as their parents at this course.Easy parking is accessible for City Mini Golf&#39;s customers. Catch a wonderful breeze by playing a game of miniature golf outside at City Mini Golf&#39;s location in Chicago.
+title: City Mini Golf (@cityminigolfing) • Instagram photos and ...
+snippet: City Mini Golf Chicago&#39;s #1 Miniature Golf! Located in the middle of Maggie Daley Park. Steps from the lake, Millennium Park and the famous Bean www.cityminigolf.com
+
+REL: 2
+POI Name: Baehmann's Golf Center
+POI City: Cedarburg
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Mini Golf, Golf Lessons, 
+Snippets:
+
+
+REL: 2
+POI Name: Riverwest Strength and Conditioning
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Riverwest Strength &amp; Conditioning Gym - Home | Facebook
+snippet: Riverwest Strength &amp; Conditioning Gym - 2672 North Holton Street, Milwaukee, Wisconsin 53212 - Rated 5 based on 19 Reviews &quot;Everything you need to get...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Riverwest Strength &amp; Conditioning Gym, 2672 North Holton ...
+snippet: Riverwest Strength &amp; Conditioning is a physical fitness and weight training facility designed for those who want to work towards better physical health, well-being, and sport performance. This facility has everything needed to build successful athletes: -Womens and mens barbells, rubber bumper plates -Rogue Monster Lite Rig with attachments -Dumbbells (5-100lb pairs) and kettlebells (5-50lb ..
+title: Riverwest Strength &amp; Conditioning - From $96 - Milwaukee ...
+snippet: About A Chat with Riverwest Strength &amp; Conditioning What services does your business offer and what makes your business stand out from the competition? Owner and operator, Kreg Greer, has a degree in Sport and Exercise Science, certified USA Weightlifting Sport Performance coach, and a certified Level III Speedskating coach.
+title: Riverwest Strength &amp; Conditioning Gym - Gym / Fitness ...
+snippet: 3 visitors have checked in at Riverwest Strength &amp; Conditioning Gym. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Riverwest Strength &amp; Conditioning Gym - Milwaukee
+snippet: Riverwest Strength &amp; Conditioning Gym in Milwaukee, reviews, get directions, (906) 360-81 .., WI Milwaukee 2672 North Holton Street map, location, zip code, working hours, how can i go, personal trainer, coach, gym/physical fitness center in United States.
+title: Solow Bouldering Club coming to former bakery space in ...
+snippet: Solow Bouldering Club could find synergy with Riverwest Strength and Conditioning next door. Solow Bouldering Club coming to former bakery space in Riverwest Published May 1, 2017 at 2:49 p.m.
+title: Riverwest Strength &amp; Conditioning - Milwaukee, WI | Groupon
+snippet: 2672 North Holton Street, Milwaukee, WI 53212 From the merchant: Specialty gym offering memebrship as well as custom weight lifting programs, personal training, and sport training. Riverwest Strength &amp; Conditioning - Milwaukee, WI | Groupon
+title: Riverwest Strength and Conditioning in Milwaukee ...
+snippet: Find Riverwest Strength and Conditioning in Milwaukee with Address, Phone number from Yahoo US Local. Includes Riverwest Strength and Conditioning Reviews, maps &amp; directions to Riverwest Strength and Conditioning in Milwaukee and more from Yahoo US Local
+title: Riverwest Strength and Conditioning 2672 N Holton St ...
+snippet: Get directions, reviews and information for Riverwest Strength and Conditioning in Milwaukee, WI. Riverwest Strength and Conditioning 2672 N Holton St Milwaukee WI 53212. 1 Reviews (906) 360-8192 Website. Menu &amp; Reservations Make Reservations .
+
+REL: 2
+POI Name: Swing Time Golf & Baseball
+POI City: Waukesha
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Mini Golf, Batting Cages, 
+Snippets:
+
+
+REL: 2
+POI Name: Brew City Shooters Supply
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gun/Rifle Ranges, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: MKE Guns - Brew City Shooters Supply
+snippet: Turn to Brew City Shooters Supply Inc in West Milwaukee, WI. We are a shooting supply store offering the largest and best indoor handgun shooting range open to the public. We also have a separate rifle range, as well as we are selling new and used firearms for all the responsible gun enthusiasts out there.
+title: Brew City Shooters Supply, 2339 S 43rd St, Milwaukee, WI ...
+snippet: Welcome to Brew City Shooter’s Supply Inc, the largest and best indoor shooting range in the Milwaukee area! We are a training facility with 14 pistol lanes and 2 rifle and shotgun lanes. Check with our experienced staff about armorer level servicing and obtaining one on one instruction. Want experience? The majority of our staff are military veterans and accomplished shooters with knowledge ...
+title: Brew City Shooters Supply - Home | Facebook
+snippet: Brew City Shooters Supply. 6 likes. When youre interested in either upgrading your gun, or learning how to properly handle and discharge a firearm, turn to a pro.
+title: Services – MKE Guns - Brew City Shooters Supply
+snippet: Are you looking for a go-to shooting supply store in West Milwaukee, WI? Visit Brew City Shooters Supply Inc! We offer a wide range of services suited to your needs. Aside from our modern indoor shooting range, we also provide firearms training. To learn more about our services and the membership benefits we offer, browse through this page.
+title: Brew City Shooters Supply - Wikipedia
+snippet: Brew City Shooter Supply, previously known as Badger Guns and Badger Outdoors is a gun shop in West Milwaukee, Wisconsin, just outside Milwaukee.The business has been investigated for alleged &quot;straw purchase&quot; sales of firearms and ammunition that brought it attention from the media and the U.S. BATF.In 2015, the firm was ordered to pay nearly $6 million to two police officers for having
+title: Brew City Shooter&#39;s Supply Range - Milwaukee, Wisconsin ...
+snippet: Brew City Shooter&#39;s Supply Range, Milwaukee, Wisconsin. 119 likes. Local Business
+title: Brew City Shooters Supply 2339 S 43rd St, Milwaukee, WI ...
+snippet: Get reviews, hours, directions, coupons and more for Brew City Shooters Supply. Search for other Ammunition on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Brew City Shooters Supply at 2339 S 43rd St, Milwaukee, WI 53219. Search for other Ammunition in Milwaukee on The Real Yellow Pages®. Browse
+title: Brew City Shooters Supply in Milwaukee, WI 53219 | Citysearch
+snippet: For nearly three years, the owners at Brew City Shooters Supply -- formerly known as Badger Guns -- were turning over the names of everyone who used the shooting range to West Milwaukee police.
+title: Brew City Shooters Supply 2339 S 43rd St Milwaukee, WI ...
+snippet: It was here I learned to safely handle a firearm and shoot. Now I am a responsible gun owner and range member. Brew City Shooters Supply is the PERFECT place in Milwaukee if you&#39;re looking to go...
+
+REL: 1
+POI Name: Yoga Is Served
+POI City: West Allis
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Yoga is Served
+snippet: West Allis Yoga, West Allis Yoga Studio, West Allis Fitness, West Allis ... Pay Online www.yogaisserved.com Thank you for being here! While we are in social isolation, we will be offering LIVE classes through Zoom and all of our videos will be available on YouTube. In the tradition of Yoga Is Served, all classes are offered for what ...
+title: Schedule - Yoga is Served
+snippet: Schedule Payment Info Profiles Pay Online www.yogaisserved.com Dear Community, All of Susie&#39;s weekly classes will be live streamed on Facebook, then saved to Facebook and youtube. Please practice when you can-xoxo Click class name for description . LIKE US ON FACEBOOK FOLLOW US ON ...
+title: Yoga is Served-West Allis, WI - 238 Photos - 1 Review ...
+snippet: Yoga is Served-West Allis, WI, West Allis, Wisconsin. 907 likes. yoga,meditation,stress relief,health,wellness. I took control of my health &amp; life through yoga and better choices. I&#39;d like to help...
+title: Yoga is Served - That&#39;s Why West Allis
+snippet: Organizations she’s supported include the West Allis Senior Center, the West Allis Special Olympics, Hunger Task Force, and many more. In addition to an encouraging community, city officials were instrumental in the seamless process of opening Yoga Is Served. “Everything went so smoothly,” Susie says.
+title: Yoga is Served-West Allis, WI on Facebook Watch
+snippet: Classes at Yoga Is Served are meant to be accessible to everyone who wants more health, wellness and community in their lives. To show support for this and future classes, please visit the following link and offer what you can. ... Yoga is Served-West Allis, WI. 85 views · Yesterday.
+title: Yoga is Served-West Allis, WI - Posts | Facebook
+snippet: Yoga is Served-West Allis, WI, West Allis, Wisconsin. 702 likes. yoga,meditation,stress relief,health,wellness. I took control of my health &amp; life through yoga and better choices. I&#39;d like to help...
+title: We Love You ??? We See You ??? We... - Yoga is Served-West ...
+snippet: See more of Yoga is Served-West Allis, WI on Facebook. Log In. or. Create New Account. See more of Yoga is Served-West Allis, WI on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Becher Meats. Butcher Shop. Public Table. American Restaurant. Station No. 06. Beer Bar.
+title: Yoga is Served-West Allis, WI - Tuesdays with Cheryl ...
+snippet: See more of Yoga is Served-West Allis, WI on Facebook. Log In. or. Create New Account. See more of Yoga is Served-West Allis, WI on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Yoga is Served-West Allis, WI. May 27 ·
+title: Yoga is Served
+snippet: YOGA IS SERVED - The Studio 7143 W Greenfield Avenue West Allis, WI 53214 Classes at Yoga Is Served are meant to be accessible to everyone who wants more health, wellness and community in their lives.
+title: 30 Days of Summer - Yoga is Served
+snippet: 30 Days! 30 Classes! 30 Local Organizations! 4th Annual 30 Days of Summer Yoga!! Join me once, or join me often each morning from July 13th through August 11th for a 45 minute yoga class accessible to everyone (chairs will be provided for those who need to modify).
+
+REL: 1
+POI Name: Bad English
+POI City: Milwaukee
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Food Trucks, Asian Fusion, 
+Snippets:
+title: Bad English | Milwaukee Food Truck | Asian Kitchen
+snippet: Bad English food truck is sending out flavors of the Phillipines and Southeast Asia. With both handheld and stir-fried options available.
+title: Bad English - Milwaukee, Wisconsin - Menu, Prices ...
+snippet: Bad English. 135 likes. A food truck serving food from all over Southeast Asia with Filipino accents.
+title: Bad English - Milwaukee, Wisconsin | Facebook
+snippet: Bad English. 146 likes. A food truck serving food from all over Southeast Asia with Filipino accents.
+title: Bad English - Harbor View - Milwaukee, WI - Yelp
+snippet: 1 review of Bad English &quot;My girl says this is delicious. So good for street noodles. Presentation on point and great flavor&quot;
+title: Bad English in Milwaukee | Bad English 822 S Water St ...
+snippet: Find Bad English in Milwaukee with Address, Phone number from Yahoo US Local. Includes Bad English Reviews, maps &amp; directions to Bad English in Milwaukee and more from Yahoo US Local. Find Bad English in Milwaukee with Address, Phone number from Yahoo US Local.
+title: Bad English 822 S Water St Milwaukee, WI Hamburger &amp; Hot ...
+snippet: Get directions, reviews and information for Bad English in Milwaukee, WI.
+title: Sweet, salty, bitter, sour: It&#39;s all about flavor at Bad ...
+snippet: Among the newest trucks to introduce something new to the scene is Bad English Asian Kitchen. Sweet, salty, bitter, sour: It&#39;s all about flavor at Bad English - OnMilwaukee
+title: MILWAUKEE® Power Tools UK Official Site | NOTHING BUT ...
+snippet: Welcome to Milwaukee UK’s official site. Milwaukee is an industry leading manufacturer of power tools, accessories and hand tools for the professional trade.
+title: Bad English (album) - Wikipedia
+snippet: Bad English is the self-titled platinum-selling debut album by American rock supergroup Bad English, released in 1989. The band scored two huge hits on the Billboard charts including the No. 1 hit &quot;When I See You Smile&quot; and No. 5 hit &quot;Price of Love&quot;.
+title: Aiden English presents &quot;One Night in Milwaukee&quot;: SmackDown ...
+snippet: Aiden English has promised to deliver video evidence to back up his claims that something happened with Lana in Milwaukee. #SDLive GET YOUR 1st MONTH of WWE ...
+
+REL: 1
+POI Name: Veteran's Park
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Veterans Park - Milwaukee County, Wisconsin
+snippet: Veterans Park. Veterans Park, along Lake Michigan&#39;s shore, offers a kite store, large open grassy areas, a section of the paved Oak Leaf Trail, and a 14-acre lagoon with paddle boat rentals. To commemorate each branch of the military services, Veterans Park features a court of honor.
+title: Visit Milwaukee - Veterans Park
+snippet: Veterans Park along Lake Michigan includes a kite store, large open grassy areas, a paved section of the Oak Leaf Trail, and a long lagoon with paddle boat, kayak, and stand up paddle board (SUP) rentals.
+title: Milwaukee County Parks
+snippet: With over 150 parks, miles of scenic trails, 15 golf courses, beer gardens, dog parks, beaches, community centers, botanical gardens, nature trails and hundreds of events, there&#39;s always something new to discover in your Milwaukee County Parks.
+title: Milwaukee&#39;s Lakefront
+snippet: Milwaukee County Parks are your gateway to life on the lake! Beaches, boat launches and bluffs provide access to Lake Michigan for boating, fishing or sailing. Veterans Park is the hub for summer activities in downtown Milwaukee. Explore your lakefront - Veterans Park, McKinley Marina, McKinley Beach, Bradford Beach, Lake Park
+title: Veterans Park - Milwaukee County, Wisconsin
+snippet: Park Land Shrubs &amp; Trees Parking Park Building Restrooms Oak Leaf Trail (Paved Multi-Use Trail) Trail Segment Fishing Monument Special Event Permits (414) 257-4503 Parks Information (414) 257-PARK (7275) or countyparks.com UPDATED AUGUST ’15 P P P Southeastern Wisconsin Vietnam Veterans Memorial PARK ACREAGE: 91.8 0 175 350 700 1,050 1,400 ...
+title: Parks of Milwaukee - Wikipedia
+snippet: Milwaukee County&#39;s first dog park. Established in 1998, Granville Dog Park sits in what was once the town of Granville before it was annexed by the City of Milwaukee. Originally created by a combination of political leaders and a non-profit group, Partners in Parks, Granville Dog Park is now run exclusively by the Milwaukee County Parks department.
+title: THE 10 CLOSEST Hotels to Veteran&#39;s Park, Milwaukee ...
+snippet: Hotels near Veteran&#39;s Park, Milwaukee on Tripadvisor: Find 25,662 traveler reviews, 16,117 candid photos, and prices for 30 hotels near Veteran&#39;s Park in Milwaukee, WI.
+title: THE 10 BEST Things to Do Near Veteran&#39;s Park, Milwaukee ...
+snippet: Things to do near Veteran&#39;s Park on Tripadvisor: See 41,522 reviews and 16,115 candid photos of things to do near Veteran&#39;s Park in Milwaukee, Wisconsin.
+title: Find a Park - Milwaukee County, Wisconsin
+snippet: Find a Park. Milwaukee County Parks manages over 15,000 acres in Milwaukee County. This includes natural areas, beaches, parkways, and the managed parks below. Each park is managed by a unit of our operations team. View the park system GIS map.
+title: Veteran&#39;s Park (Milwaukee) - 2020 All You Need to Know ...
+snippet: Beautiful park along Lake Michigan with outstanding city views as well. Plenty of walkways and facilities. This is great open space right on Lake Michigan with a great veiw of the Milwaukee Art Museum, Discovery World, and Milwaukee&#39;s downtown skyline from the lake side.
+
+REL: 1
+POI Name: Enderis Park
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: PO BOX 100284 Milwaukee, WI 53210 - Enderis Park Neighborhood
+snippet: Enderis Park Neighborhood Association (EPNA) promotes neighborhood stability and a rewarding quality of life for all by working with neighbors to support and maintain an attractive, diverse, respectful, and safe community.
+title: Enderis Park, Milwaukee, WI Real Estate &amp; Homes for Sale ...
+snippet: Homes for sale in Enderis Park, Milwaukee, WI have a median listing price of $193,750 and a price per square foot of $111. There are 15 active homes for sale in Enderis Park neighborhood, which ...
+title: About - Enderis Park
+snippet: Enderis Park was named for Milwaukee educator Dorothy Enderis (1880-1952), a teacher and assistant superintendent who embraced multiculturalism and was a key figure in MPS Recreation and Adult Education programs.
+title: Enderis Park - Milwaukee, WI - Niche
+snippet: Enderis Park is in Milwaukee County. Living in Enderis Park offers residents an urban suburban mix feel and most residents own their homes. In Enderis Park there are a lot of parks. Many families and young professionals live in Enderis Park and residents tend to be liberal.
+title: Resources | Enderis
+snippet: Consider enrolling children in a neighborhood school, because it strengthens the feeling of commitment to the Enderis Park community. 81st Street School – Milwaukee Public School. K3 – Grade 6. Located on corner of 81st and Chambers – outstanding Early Childhood Center for K2 – K5 and after school care is provided by Boys &amp; Girls Club.
+title: Events | Enderis
+snippet: Enderis Park Neighborhood Association (EPNA) promotes neighborhood stability and a rewarding quality of life for all by working with neighbors to support and maintain an attractive, diverse, respectful, and safe community.
+title: Enderis Park Milwaukee Real Estate &amp; Homes For Sale - Zillow
+snippet: Zillow has 13 homes for sale in Enderis Park Milwaukee matching. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place.
+title: Enderis Park, Milwaukee, WI Real Estate &amp; Homes For Sale ...
+snippet: 7 Homes For Sale in Enderis Park, Milwaukee, WI. Browse photos, see new properties, get open house info, and research neighborhoods on Trulia.
+title: Enderis Park Neighborhood Association - Home | Facebook
+snippet: Enderis Park Neighborhood Association. 1,317 likes · 1 talking about this. Welcome to the official facebook page of the Enderis Park Neighborhood Association! Come here for breaking information...
+title: Enderis Park, Milwaukee WI - Neighborhood Guide | Trulia
+snippet: Discover what it would be like to live in the Enderis Park neighborhood of Milwaukee, WI straight from people who live here. Review crime maps, check out nearby restaurants and amenities, and read what locals say about Enderis Park.
+
+REL: 1
+POI Name: Aerial Hippie
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, Aerial Fitness, 
+Snippets:
+title: Aerial Silks | Milwaukee | Aerial Hippie
+snippet: Aerial Hippie is an aerial fitness studio. Offering aerial silks, aerial sling, lyra and vinyasa yoga.
+title: Register Online | Milwaukee | Aerial Hippie
+snippet: 2625 South Greeley Suite: 103 Milwaukee WI United States 53207 ©2016 by Aerial Hippie. Proudly created by MissMindy. Silks. Conditioning. Lyra (Hoop) Yoga. Privates. Introduction to Aerial Silks. 1 hr. $20. Book Now. ... AERIAL HIPPIE Boutique Aerial Arts Studio.
+title: Gallery | Aerial Hippie
+snippet: 2625 South Greeley Suite: 103 Milwaukee WI United States 53207. ©2016 by Aerial Hippie. Proudly created by MissMindy.welcome.
+title: Aerial Hippie - Home | Facebook
+snippet: Aerial Hippie - 2625 S. Greeley Suite: 103, Milwaukee, Wisconsin 53207 - Rated 5 based on 15 Reviews &quot;If you’re looking for a great workout with an...
+title: Aerial Hippie - Open Studio | Facebook
+snippet: Beautifil improvement practicing control! I&#39;m so proud and I love that pony tail!! . . . #dopesoulsonly #milwaukee #aerial #aerialist #aerialsilks #aerialhippie #aerialhippiemke #Yogi #Lyra #aerialnation #circusfamily #aeriallove #silks #strongwomen #circuseverydamnday #pointyourfuckingtoes #mke #milwaukeeaerial
+title: Aerial Hippie - Reviews | Facebook
+snippet: Aerial Hippie - 2625 S. Greeley Suite: 103, Milwaukee, Wisconsin 53207 - Rated 5 based on 15 Reviews &quot;If you’re looking for a great workout with an...
+title: Aerial Hippie - Beautiful Black &amp; White Vibes from ...
+snippet: Beautiful Black &amp; White Vibes from @hstaufenbeil . . . #dopesoulsonly #milwaukee #aerial #aerialist # ... Password: Forgot account? Sign Up. See more of Aerial Hippie on Facebook. Log In. or. Create New Account. See more of Aerial Hippie on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Anna Belle Aerial ...
+title: Aerial HippiE (@aerialhippiemke) • Instagram photos and videos
+snippet: 764 Followers, 920 Following, 769 Posts - See Instagram photos and videos from Aerial HippiE (@aerialhippiemke)
+title: Anna Belle Aerial - Aerial Studio and Circus School in ...
+snippet: Exciting, athletic, and empowering, aerial dance is fantastic as both a physical activity and a creative movement outlet. There is no experience necessary for beginning aerial. Anna works with students close to the ground, building strength, awareness, and confidence through conditioning and routine building. Anna creates progressions into the beginning session so students are both safe and ...
+title: CLASSES | AerialHippie Booking
+snippet: REGISTRATION REQUIRED. Maximum Participants: 5. Lyra/Aerial Hoop is a metal hoop. that is suspended from a single or double point. While mastering the basics and turning every which way on this apparatus, you will discover the center of gravity in many different positions.
+
+REL: 1
+POI Name: Mindful Matters Wellness
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Physical Therapy, Pilates, Yoga, 
+Snippets:
+title: Mindful Matters Wellness - Milwaukee&#39;s Premier Physical ...
+snippet: A holistic Physical Therapy clinic located in Milwaukee, WI providing services in orthopedic physical therapy, pelvic and pelvic floor physical therapy, women’s health physical therapy, vestibular rehabilitation, Pilates for rehab, reformer Pilates, personal yoga, prenatal yoga, restorative yoga, yi
+title: The Team — Mindful Matters Wellness
+snippet: The staff at Mindful Matters Wellness, Milwaukee&#39;s premier physical therapy, fitness and wellness studio. The Team. Dr. Jennifer Lavin Owner, Physical Therapist &amp; Instructor. Jennifer obtained her Bachelor of Science in Health Science from Bradly University and Doctor of Physical Therapy from the University of St. Augustine.
+title: The Studio - Mindful Matters Wellness - Milwaukee&#39;s ...
+snippet: The Studio. Mindful Matters Wellness is a boutique physical therapy, Pilates, yoga and wellness studio on Milwaukee&#39;s Eastside. At Mindful Matters Wellness we aim to offer a premier wellness experience.
+title: Blog — Mindful Matters Wellness
+snippet: The Mindful Matters Wellness blog. For education, events, updates and behind the scenes information about Milwaukee&#39;s premier physical therapy, fitness and wellness studio.
+title: Physical Therapy — Mindful Matters Wellness
+snippet: Mindful Matters Wellness offers Women’s Health services and expert therapy for pelvic health and obstetrical care. Our Doctors of Physical Therapy are devoted to treating a variety of musculoskeletal conditions by providing one-on-one care and customized treatment programs in a discreet and comfortable environment.
+title: Mindful Matters Wellness - Home | Facebook
+snippet: Mindful Matters Wellness - 1845 N. Farwell Ave Suite 200, Milwaukee, Wisconsin 53202 - Rated 5 based on 6 Reviews &quot;It was my first time using a Pilates...
+title: Training — Mindful Matters Wellness
+snippet: Mindful Matters Wellness offers training seminars for physical therapists, fitness instructors and wellness professionals in and around the Milwaukee area. Sessions can take place at your location or at our studio on the Eastside of Milwaukee.
+title: Milwaukee — Blog — Mindful Matters Wellness
+snippet: The Mindful Matters Wellness blog. For education, events, updates and behind the scenes information about Milwaukee&#39;s premier physical therapy, fitness and wellness studio.
+title: fitness — Blog — Mindful Matters Wellness
+snippet: The Mindful Matters Wellness blog. For education, events, updates and behind the scenes information about Milwaukee&#39;s premier physical therapy, fitness and wellness studio.
+title: Mindful Matters Wellness, 1845 N. Farwell Ave Suite 200 ...
+snippet: Mindful Matters Wellness, is a Wellness Center Located on Milwaukee&#39;s East Side and is a provider of Physical Therapy, Pilates, Yoga and Customized Health, Wellness &amp; Fitness Plans. Using hands on approaches to therapy including Myofasical Release and Dry Needling physical therapy patients get one-one-one treatment with a Doctor of Physical ...
+
+REL: 1
+POI Name: Elite Sports Club - North Shore
+POI City: Glendale
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Tennis, Sports Clubs, 
+Snippets:
+title: North Shore | Elite Sports Clubs: Where You Belong
+snippet: Elite Sports Club-North Shore in Glendale provides a complete fitness facility for our members, as well as year-round lessons, leagues, social events, and competitions in tennis and racquetball. The club also has a very well developed playroom, offering many events and programs for the entire family.
+title: Elite Sports Clubs | Milwaukee - Mequon | North Shore
+snippet: Elite Sports Clubs Email Sign Up &amp; Personal Settings (Sign up for our monthly newsletter, weekly articles, and other interest-based health &amp; recreational information.)
+title: Elite Sports Club - North Shore - Gyms - 5750 N Glen Park ...
+snippet: Elite Sports Club-North Shore in Glendale provides a complete fitness facility for our members, as well as year-round lessons, leagues, social events, and competitions in tennis and racquetball. The club also has a very well developed playroom, offering many events and programs for the entire family.
+title: Elite Sports Clubs - Home | Facebook
+snippet: Elite Sports Clubs (North Shore) Gym/Physical Fitness Center in Glendale, Wisconsin. 4.7. 4.7 out of 5 stars. Open Now. ABOUT ELITE SPORTS CLUBS. Our Story. Elite Sports Club-North Shore in Glendale provides a complete fitness facility for our members, as w... See More. Community See All. 565 people like this. 595 people follow this. 2,346 ...
+title: Elite Sports Clubs - Home | Facebook
+snippet: Elite Sports Clubs, Glendale, WI. 765 likes · 22 talking about this · 3,680 were here. The premiere family fitness &amp; tennis clubs in the Milwaukee area. Locally owned for over 30 years.
+title: Elite Sports Club - North Shore - Welcome to Glendale
+snippet: Sports &amp; Runs; Girls &amp; Guys Weekend; Funerals; Conventions &amp; Meetings; Reunions; NORTH SHORE: COVID-19 RESOURCES. Governor Ever’s Safer-at-Home Order; Glendale Resource Guide; NORTH SHORE CANCELLATIONS/CHANGES; 3.18.2020: Mayor Bryan Kennedy Communication; REPORTS FROM THE NORTH SHORE HEALTH DEPT. 3.14.20 Advisory from North Shore Leaders ...
+title: Elite Sports Club - North Shore in Glendale | Elite Sports ...
+snippet: Find Elite Sports Club - North Shore in Glendale with Address, Phone number from Yahoo US Local. Includes Elite Sports Club - North Shore Reviews, maps &amp; directions to Elite Sports Club - North Shore in Glendale and more from Yahoo US Local
+title: Elite Sports Club-North Shore in Glendale, 5750 N Glen Pk ...
+snippet: Elite Sports Club-North Shore in Glendale provides a complete fitness facility for our members, as well as year-round lessons, leagues, social events, and competitions in tennis and racquetball. The club also has a very well developed playroom, offering many events and programs for the entire..
+title: River Glen | Elite Sports Clubs: Where You Belong
+snippet: Conveniently located just a half-mile west of I-43 between River Hills &amp; Glendale, Elite Sports Club-River Glen is the most recent addition to Elite Sports Clubs, Milwaukee’s foremost fitness and tennis clubs. The club was recently renovated, including the addition of The QUAD, a multi-use activities campus—great for families and even events.
+title: Summer Camps &amp; Lessons | Elite Sports Clubs: Where You Belong
+snippet: Elite Sports Clubs offers a variety of camps, including our summer day camp “SCAMP” which includes tennis and swim lessons, or “Petite Elite SCAMP” &amp; “Mini SCAMP” one-week half-day camps for the younger kids. We also offer Tennis Lessons, Swim Lessons, Dance Lessons, and Music Lessons.
+
+REL: 1
+POI Name: Koz's Mini Bowl
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Bowling, Dive Bars, 
+Snippets:
+title: Parties and Reservations - Koz’s Mini Bowl
+snippet: Koz’s is the perfect place for friends and family to get together unwind and have fun. Reserve your next outing, birthday, or workplace party Call for reservations: (414) 383-0560
+title: About Koz&#39;s - Koz’s Mini Bowl
+snippet: Koz’s Mini Bowl is Milwaukee’s favorite place for mini-bowling, fun, and atmosphere. We feature 4 mini bowling lanes, a pool table, darts, and an old school jukebox. Our bar is the perfect place to relax, unwind, and have a great time. People travel to Koz’s from all over the midwest to play a game of […]
+title: Hidden gem: Koz&#39;s Mini Bowl - OnMilwaukee
+snippet: There are some places that we just can&#39;t imagine losing - though, of course, many such classics have disappeared over the years - and Koz&#39;s Mini Bowl, 2078 S. 7th St., on the South Side is surely ...
+title: Koz&#39;s Mini Bowl - Home | Facebook
+snippet: Koz&#39;s Mini Bowl, Milwaukee, WI. 3,730 likes · 66 talking about this · 16,279 were here. Koz&#39;s is the last duckpin bowling in the U.S. This historic landmark hidden in Milwaukee&#39;s southeast side is a...
+title: Koz&#39;s Mini Bowling (Milwaukee) - 2020 All You Need to Know ...
+snippet: Milwaukee is called many names; Brew City, City of Festivals, and Cream City, but it is most recognized as the place for great beer and cheese in the Upper Midwest. The large 19th century Germanic population continue to influence our local food products and dishes while some of the best restaurants from the historic Third Ward to East Town Downtown.
+title: Koz&#39;s Mini Bowl: A Milwaukee, WI Bar. - Thrillist
+snippet: Bowling alleys are everywhere in Milwaukee, but Koz’s Mini Bowl is a standout because, well, it’s mini and it has a full bar. Featured are four miniature bowling lanes and bowling balls that ...
+title: Koz&#39;s Mini Bowl - Bowling Alley in Historic Mitchell Street
+snippet: Bowling Alley in Milwaukee, WI Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Koz’s Mini Bowl | Milwaukee Magazine
+snippet: Koz’s Mini Bowl (2078 S. 7th St) is a quintessential Southside Milwaukee dive-bar: a kitschy, comfortable, cozy throwback situated on the corner of Becher and 7th, it’s the kind of joint you go to when you want to get away from the modern hipsters or the over-coiffed Taylor’s crowd.
+title: Koz&#39;s Mini Bowl 2078 S 7th St Milwaukee, WI Bars - MapQuest
+snippet: Get directions, reviews and information for Koz&#39;s Mini Bowl in Milwaukee, WI. Koz&#39;s Mini Bowl 2078 S 7th St Milwaukee WI 53204. 84 Reviews (414) 383-0560 Website. Menu &amp; Reservations Make Reservations . ... My family of 5 had so much fun at Kozs.
+title: Mini Bowling in Milwuakee - YouTube
+snippet: Just a few images of a great time at Koz&#39;s Mini Bowl in Milwaukee. You can read about it at www.donwood.blogspot.com.
+
+REL: 1
+POI Name: Yama Yoga
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Class Schedule — Yama Yoga
+snippet: Yama Yoga Third Ward. 231 E Buffalo St, Suite 201, Milwaukee, WI 53202 414-224-1519 - Email us
+title: Home Third Ward — Yama Yoga
+snippet: Students redeeming the Yama Yoga Wellness Living / MetaBody promotion, please view: Read More → Yama Yoga Third Ward. 231 E Buffalo St, Suite 201, Milwaukee, WI 53202 414-224-1519 - Email us. Yama Yoga True North. 6400 W Mequon Rd, Mequon, WI 53097 262-643-4239 - Email Us
+title: Yama Yoga - Historic Third Ward - Milwaukee, WI
+snippet: I found Yama Yoga online while visiting Milwaukee for the weekend, and took a vinyasa class with Jason. It was wonderful -- challenging but not punishing, mindful but not too slow (I was looking for something to raise my heart rate a little). Jason was super knowledgeable and listened carefully to the students&#39; goals.
+title: Yama Yoga in Milwaukee, WI, US | MINDBODY
+snippet: Been doing yoga for 8 years and this was the most dangerous yoga class I have ever taken. I was new to this class and the teacher didn’t ask the new students about their skill level or injuries. Not a good sign. Moving though advanced poses …
+title: YamaYoga - Milwaukee, Wisconsin | Facebook
+snippet: YamaYoga, Milwaukee, WI. 2K likes. YamaYoga offers yoga classes 7 days a week with a variety of different styles, levels and teachers. We are located in the heart of the Historic Third Ward in...
+title: Yama Yoga True North - Mequon, Wisconsin | Facebook
+snippet: Yama Yoga True North. 683 likes. All - Level yoga studio in Mequon, WI
+title: Yama Yoga 231 E Buffalo St Milwaukee, WI Yoga - MapQuest
+snippet: Throughout the year, YamaYoga hosts informative and innovative yoga workshops and events, including a regular contribution to Milwaukee&#39;s quarterly art crawl, Gallery Night. The yoga studio is turned art gallery for those events featuring The Art of Yoga, works in a variety of mediums by yoga teachers and students.
+title: YamaYoga
+snippet: Με όραμα να προσφέρουμε στον κάθε ασκούμενο μοναδικές εμπειρίες Yoga &amp; Pilates, προσαρμοσμένες στις ανάγκες της εποχής, δημιουργήσαμε το Yama Yoga by Irene Damanaki. “Yama” σημαίνει παγκόσμια ηθική.
+title: Schedule | Yama Yoga Studio &amp; Spa | Canton, TX 75103
+snippet: Yama Yoga Weekly Schedule ... Yama Yoga Monthly Workshops. 29957 State Highway 64. Canton, Texas 75103. United States. yamayogastudio@outlook.com (903)802-8599 Find local fitness and wellness services to help you reach your goals. Create ...
+title: Yoga | Yama Yoga Studio | Canton, TX 75103
+snippet: Primal Yoga: Primal Yoga is a fun, new, heart-pumping yoga series! You instructors, Sam and Macy, will lead you through a 30 minute work out including resistance bands, dynamic yoga postures, and primal movement. Primal Flow: Like primal yoga, Primal flow incorporates vinyasa-style movements with primal elements.
+
+REL: 1
+POI Name: Lincoln Park Golf Course
+POI City: Glendale
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: Lincoln Park Golf Course – MKE Golf
+snippet: Lincoln Park Golf Course is the most challenging nine-hole course in the parks system. The course originally opened as a six-hole course in 1916 and has been renovated several times, with a footgolf course added in 2014. Join us for a round at Lincoln Park – Book Your Tee Time.
+title: Lincoln Park Golf Course - Golf in Glendale, Wisconsin
+snippet: Description. Middle handicap golfers looking for a 9-hole course will find that the Lincoln Park Golf Course fits the bill. Located in a wooded 312-acre park on the Milwaukee River, this course offers a glimpse of deer and fox as you enjoy a challenging round of golf.
+title: Lincoln Park Golf Course - Grover Heights - Glendale, WI
+snippet: 3 reviews of Lincoln Park Golf Course &quot;I see one stars and I have to comment. This is a nine hole course with trees making it fine for a practice round. The greens are exactly the same as all other county courses except Brown Deer which is for…
+title: Lincoln Park – Glendale | NatureFind
+snippet: Lincoln Park – Glendale Lincoln Park includes lots of facilities and activities, including the golf course, pavilion, natural area, recreation building, aquatic center and much more. Upcoming Events
+title: Lincoln Park Golf - Glendale, WI, United States | SwingU
+snippet: Lincoln Park Golf - Glendale, WI, United States | Swing By Swing. UPGRADE; COURSES; CLUBHOUSE; BUSINESS. MARKETING; ACADEMIES; ABOUT; LOGIN; INSTALL THE APP ... Lake Park Golf Course Milwaukee, WI. 3.67 miles from this course University Country Club Brown Deer, WI. 3.95 miles from this ...
+title: Lincoln Park Golf Course (Lincoln Park Course)
+snippet: The 9-hole Lincoln Park course at the Lincoln Park Golf Course facility in Milwaukee, Wisconsin features 2,538 yards of golf from the longest tees for a par of 33. The course rating is 33. 6 and it has a slope rating of 104.
+title: Lincoln Park Golf Course | GolfTourney.com
+snippet: Address 1000 West Hampton Avenue, Glendale, WI 53209 Glendale, WI 53209 United States Driving Directions » Upcoming Golf Tournaments for Lincoln Park Golf Course. No tournaments are listed under this section. Past Golf Tournaments for Lincoln Park Golf Course
+title: Lincoln Park Golf Course
+snippet: Two impressive, championship courses are waiting for you at Lincoln Park Golf Course in Oklahoma City. The East course at Lincoln Park is sure to test your skills and is certain to provide an enjoyable round of golf every time you play it.
+title: Lincoln Park (Jersey City) - Wikipedia
+snippet: Lincoln Park is an urban park in Jersey City, New Jersey with an area of 273.4 acres (110.6 ha). Part of the Hudson County Park System, it opened in 1905 and was originally known as West Side Park. The park was designed by Daniel W. Langton and Charles N. Lowrie, both founding members of the American Society of Landscape Architects.
+title: Lincoln Park | Grand Junction Golf
+snippet: Lincoln Park Course Details. Born in the era of mashies and niblicks, Lincoln Park can still defend itself from the over sized drivers and hot golf balls of today. Lincoln Park Golf Course is conveniently located just minutes from historic downtown Grand Junction, Colorado.
+
+REL: 1
+POI Name: Brew City Kayak - Milwaukee Kayak Rentals and Tours
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Rafting/Kayaking, Tours, Paddleboarding, 
+Snippets:
+title: Brew City Kayak | Milwaukee, WI Kayak Tours and Rentals
+snippet: Brew City Kayak welcomes all levels of kayaking and stand-up paddleboarding rentals, tours and events everyday of the warm Milwaukee season. Our Kayak and Paddleboard rentals and tours offer a paddling experience that showcases the unique beauty of Milwaukee, WI.
+title: Brew City Kayak - Milwaukee Kayak Rentals and Tours - 30 ...
+snippet: Brew City Kayak welcomes all levels of kayaking and stand-up paddleboarding rentals, tours and events everyday of the warm Milwaukee season. Our Kayak and Paddleboard rentals and tours offer a paddling experience that showcases the unique beauty of Milwaukee, WI.
+title: Kayak Tours Milwaukee | Brew City Kayak
+snippet: Brew City Kayaks offers Milwaukee kayak tours including a history tour of the city, a relaxing paddle down the river, or a custom private tour.
+title: Tripadvisor | Milwaukee Kayak Rental provided by Brew City ...
+snippet: Brew City Kayaks offers kayak rentals for people who want to explore the Milwaukee River at their own pace. Rent a Single Kayak for up to 4 hours for only $55! Along your paddle you will discover the beautiful City Skyline and have the opportunity to stop and get out of your kayak.
+title: Brew City Kayak (Milwaukee) - 2020 All You Need to Know ...
+snippet: Brew City Kayak welcomes all levels of kayaking and stand-up paddleboarding rentals, tours and events everyday of the warm Milwaukee season. Our Kayak and Paddleboard rentals and tours offer a paddling experience that showcases the unique beauty of Milwaukee, WI.
+title: Rentals | Brew City Kayak
+snippet: Brew City Kayaks offers Milwaukee stand-up paddleboard and kayak rentals for people who want to explore the river at their own pace. Brew City Kayak Rentals of Milwaukee.
+title: Brew City Kayak - Home | Facebook
+snippet: Brew City Kayak offers daily Kayak and Paddleboard Rentals as well as tours of the beautiful Milwaukee River which weaves it&#39;s way through the historical and cultural city of Milwaukee.
+title: Visit Milwaukee - Brew City Kayak
+snippet: Brew City Kayak welcomes all levels of kayaking and stand-up paddleboarding rentals, tours and events every day of the warm Milwaukee season. Our Kayak and Paddleboard rentals and tours offer a paddling experience that showcases the unique beauty of Milwaukee, WI.
+title: Tour &amp; Rental Options | Brew City Kayak
+snippet: Rent a kayak or stand-up paddleboard or take a history and sightseeing kayak tour with us down the Milwaukee River. ... Click here to Learn more about kayak &amp; sup rentals Kayak &amp; SUP Rentals; ... Brew City Kayak. Click here to call (414) 939-5443 (414) 939-5443
+title: MilwaukeeTandem Kayak Rental provided by Brew City Kayak
+snippet: My husband and I had a great time with Brew City Kayak. They provided us with a tandem kayak, which we were glad to have! David, our tour guide, gave us a briefing on safety and paddling; and that was greatly appreciated.
+
+REL: 1
+POI Name: Cupertino Park
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Cupertino Park - 14 Photos - Parks - 2000 E Iron St, Bay ...
+snippet: Cupertino is a quiet little park in Bayview. it doesn&#39;t get the action and attention that South Shore park, with its beer and food pavilion, gets, but Cupertino has the pretty spectacular view looking North of downtown Milwaukee and the Hoan bridge. Just to the north also, is the launching dock for the lake express ferry to Michigan.
+title: Cupertino Park » Urban Milwaukee
+snippet: Cupertino Park, 2000 E. Iron St. Milwaukee, WI 53207. Map of Cupertine Park.
+title: Cupertino Park 2000 E Iron St Milwaukee, WI Parks - MapQuest
+snippet: Cupertino is a quiet little park in Bayview. it doesn&#39;t get the action and attention that South Shore park, with its beer and food pavilion, gets, but Cupertino has the pretty spectacular view...
+title: Cupertino Park - Milwaukee, Wisconsin - Sports ...
+snippet: Cupertino Park, Milwaukee, Wisconsin. 46 likes. Sports &amp; Recreation. Beautiful sunrise and sunsets. I’ve seen rainbows appear over the lake.
+title: Cupertino Park in Milwaukee | Cupertino Park 2000 E Iron ...
+snippet: Find Cupertino Park in Milwaukee with Address, Phone number from Yahoo US Local. Includes Cupertino Park Reviews, maps &amp; directions to Cupertino Park in Milwaukee and more from Yahoo US Local
+title: LAKE MICHIGAN - Milwaukee County, Wisconsin
+snippet: Park Park Land Shrubs &amp; Trees Rip Rap (large rocks) Park Building Reservable Picnic Area No staking allowed! Use sand bags or weights Restrooms Oak Leaf Trail (Paved Multi-Use Trail) Trail Segment Fishing Pier Picnic Reservations (414) 257-8005 Parks Information (414) 257-PARK (7275) Cupertino Park 2000 E. Iron St. Milwaukee, WI 53207 Unit ...
+title: Cupertino Park | Recplanet.com
+snippet: Milwaukee Wisconsin Parks. Welcome to Cupertino Park in Milwaukee, Wisconsin on the shores of Lake Michigan. Come out and do some fishing off the pier or just enjoy the view of the lake. To contact the office call 414-482-4270.
+title: Photos for Cupertino Park - Yelp
+snippet: Photos at Cupertino Park - Milwaukee, WI. Yelp. Cancel
+title: Best Parks in Milwaukee | Stacker
+snippet: Stacker used Foursquare’s algorithm to predict the best local parks based on check-ins, rating signals, category matches, and photo trends, with data updated as recently as April 19, 2019. The data reveals a mix of parks featuring outdoor spaces, art, frequent visitors, and other amenities like fishing or boating.
+title: Grant Park (South Milwaukee) - 2020 All You Need to Know ...
+snippet: Great Beachside Park on Lake Michigan The Beachside park location within Grant Park on the South end is a great place to enjoy the sun and sand along Lake Michigan. It has beach volleyball, restrooms, drinking fountains, and a small children&#39;s playground.
+
+REL: 1
+POI Name: Flatstick Pub - South Lake Union
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Pubs, Beer Bar, 
+Snippets:
+title: South Lake Union – Flatstick Pub
+snippet: South Lake Union 609 Westlake Ave N | Seattle, WA 98109 Ages 21+ Only After 7PM. 206.258.4989 / See Hours. Book a Tee Time Plan an Event. South Lake Union ... Flatstick Pub Mulligan Mule Heritage Vodka, Rachel&#39;s Ginger Beer, &amp; Lime Juice. 32. Alexandria Nicole Sauvignon Blanc
+title: Flatstick Pub – Local Craft Beer, Mini Golf &amp; Old School Fun
+snippet: All Flatstick Pub locations will be closed until further notice. ... For the best pub experience in Washington, ... PSQ Pioneer Square. SLU South Lake Union. SPO Spokane. TAC Tacoma. BHAM Bellingham. Home Upcoming Events Membership Sunday Fundraise Our Story FAQs Contact. KRK PSQ SLU SPO TAC BHAM. Book a Tee Time Plan an Event.
+title: FAQs – Flatstick Pub
+snippet: Duffleboard™ is an original game invented by Flatstick Pub. It is a tabletop golf game that uses real golf balls and a special handheld putter. It is fun and easy to play for all skill levels. See our video tutorial for more details.
+title: Flatstick Pub - Home | Facebook
+snippet: Flatstick Pub (South Lake Union) Pub in Seattle, Washington. 4.2. 4.2 out of 5 stars. Open Now. ABOUT FLATSTICK PUB. Our Story. We’re passionate about craft beer and supporting our Community.
+title: Flatstick Pub - South Lake Union, Seattle - Menu, Prices ...
+snippet: Order food online at Flatstick Pub - South Lake Union, Seattle with Tripadvisor: See 5 unbiased reviews of Flatstick Pub - South Lake Union, ranked #1,918 on Tripadvisor among 4,014 restaurants in Seattle.
+title: Our Story – Flatstick Pub
+snippet: Seattle Magazine Flatstick Pub is Opening Another Seattle Location. Puget Sound Business Journal How Flatstick Pub landed in South Lake Union – hint: Vulcan likes mini-golf and craft beer . The Seattle Times Underground drinking in Pioneer Square: a visit to The Sovereign and Flatstick Pub.
+title: Contact – Flatstick Pub
+snippet: Parking. Paid visitor parking is available at the Allen Institute building in which we are located. There is also abundant street parking along the surrounding streets, as well as several pay lots to the north of us on Westlake Ave.
+title: Flatstick Pub - South Lake Union | Visit Seattle
+snippet: Restaurants South Lake Union There are only two rules at Flatstick Pub: drink local and have fun. We’re mixing up the scene by combining local beers with an indoor 9-hole mini golf course and other unique games.
+title: Restaurants Near Flatstick Pub, Seattle ... - TripAdvisor
+snippet: Restaurants near Flatstick Pub, Seattle on Tripadvisor: Find traveler reviews and candid photos of dining near Flatstick Pub in Seattle, Washington.
+title: Flatstick Pub - South Lake Union - Seattle - The Infatuation
+snippet: Flatstick Pub, a mini-golf bar, is practically designed for after-work functions - the mini golf costs $8 to play, the space is massive, and there are 32 different beers on tap. While the pub snacks here like mozzarella sticks and onion rings are just fine, you’ll want to spend your company’s budget on their tasty brick oven pizza instead.
+
+REL: 1
+POI Name: Rollaero Skate Center
+POI City: Cudahy
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Skating Rinks, 
+Snippets:
+title: Come roller skate at Rollaero Skate Center in Cudahy, WI ...
+snippet: Rollaero Skate Center has been providing family fun entertainment since 1979. It was built and is operated by the same family. Rollaero Skate Center is your ticket for fun, whether it is for the family, a party or just getting some exercise. We offer: Maple Wood Floor; Rental Skates
+title: Come to Rollaero Skate Center to roller skate in Milwaukee ...
+snippet: Rollaero does not accept credit cards and does not have an ATM on premises - We accept cash only. 5200 South Pennsylvania Avenue — Cudahy, WI 53110 414-747-1414 . Until further notice, Rollaero is closed to the public. The following ... ©2015 Rollaero Skate Center.
+title: Rollaero Skate - 36 Photos - 45 Reviews - Local Business ...
+snippet: Rollaero Skate - 5200 S Pennsylvania Ave, Cudahy, Wisconsin 53110 - Rated 4 based on 45 Reviews &quot;Not the Rollaero it once was. I watched a little old...
+title: Buy rollerskates at Rollaero Skate Center
+snippet: 5200 South Pennsylvania Avenue — Cudahy, WI 53110 414-747-1414 . Whether you want to jump, spin, dance, race or just roll around, we have the skates and accessories for you. Our quality equipment and service ... ©2015 Rollaero Skate Center.
+title: Take lessons at Rollaero Skate Center
+snippet: 5200 South Pennsylvania Avenue — Cudahy, WI 53110 414-747-1414 . You can learn basic skating skills such as skating backward, turning around and the conga. After you pass the basic skills, you can advance to dances, jumps ... ©2015 Rollaero Skate Center.
+title: Have a private party at Rollaero Skate Center
+snippet: 5200 South Pennsylvania Avenue — Cudahy, WI 53110 414-747-1414 : Birthday Parties. In-session ... Although your party may be private, Rollaero still maintains a dress and conduct code for anyone entering the building. Wisconsin statute 895.525 ... ©2015 Rollaero Skate Center.
+title: Have fun at Rollaero Skate Center
+snippet: Rollaero does not accept credit cards and does not have an ATM on premises - We accept cash only. 5200 South Pennsylvania Avenue — Cudahy, WI 53110 414-747-1414 . Building Policies. Good behavior and language is ... ©2015 Rollaero Skate Center.
+title: Rollaero Skate Center - Roller Skating Rinks in Cudahy WI
+snippet: One of the best roller skating rinks in Cudahy, WI, Rollaero Skate Center Roller Skating Rink is a 1 floor indoor roller skating rink is open year round. It was founded in 1991.Public Skating Roller skating sessions for All Ages are one of the main attractions at Rollaero Skate Center. Skating provides great exercise and
+title: Rollaero Skate Center - Mitchell Field - Cudahy, WI
+snippet: 25 reviews of Rollaero Skate Center &quot;What kind of roller rink doesn&#39;t sell Super Ropes? Zero stars for that, but I still had way more fun than I expected to so we&#39;ll call it a 3.&quot;
+title: Have a party at Rollaero Skate Center
+snippet: Rollaero does not accept credit cards and does not have an ATM on premises - We accept cash only. 5200 South Pennsylvania Avenue — Cudahy, WI 53110 414-747-1414 : Birthday Parties. In-session ... ©2015 Rollaero Skate Center.
+
+REL: 1
+POI Name: Anytime Fitness
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Anytime Fitness - Gym in Milwaukee (Farwell Ave), WI 53202
+snippet: Lets get healthy together at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey. Your Anytime Fitness membership includes fitness coaching, global access to more than 4,500 gyms and always open 24/7 convenience. All in a welcoming club and supportive member community. Let’s get started!
+title: Anytime Fitness - Gym in Milwaukee, WI 53202
+snippet: Lets make healthy happen together! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a fitness consultation, global access to more than 4,500 gyms, and always open 24/7 convenience. All in a welcoming club and supportive member community. Let’s get started!
+title: Anytime Fitness - Gym in Milwaukee (W. Brown Deer Rd), WI ...
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 3,000 gyms, always open 24/7 convenience, and a life long coach.
+title: Anytime Fitness - Gym in Milwaukee (City of Greenfield ...
+snippet: Welcome to Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes free tanning, massage chairs, free classes, free Evolt body scans, a no-pressure fitness consultation, global access to more than 4,000 gyms, and always-open 24/7 convenience.
+title: Anytime Fitness - Gym in Wauwatosa, WI 53226
+snippet: Get to a healthier place at Anytime Fitness Wauwatosa! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 4,000 gyms, and always open 24/7 convenience.
+title: Anytime FItness - MIlwaukee/Greenfield - Home | Facebook
+snippet: Anytime FItness - MIlwaukee/Greenfield, Milwaukee, Wisconsin. 501 likes · 15 talking about this. Always-open convenience of a 24 hour gym
+title: Anytime Fitness Milwaukee Eastside - Home | Facebook
+snippet: Anytime Fitness Milwaukee Eastside - 2170 N Farwell Ave, Milwaukee, Wisconsin 53202 - Rated 4.2 based on 33 Reviews &quot;It seems like half of the cardio...
+title: Anytime Fitness Milwaukee WI, Hours &amp; Locations
+snippet: Anytime Fitness Milwaukee WI locations, hours, phone number, map and driving directions.
+title: Anytime Fitness - Gym/Physical Fitness Center - Wauwatosa ...
+snippet: Anytime Fitness, Wauwatosa, Wisconsin. 1.1K likes. Welcome to Anytime Fitness Wauwatosa! With 24/7 access to more than 4,000 worldwide, you are a part of the most convenient gym on the planet.
+title: Anytime Fitness Milwaukee &amp; Brown Deer - Home | Facebook
+snippet: Anytime Fitness Milwaukee &amp; Brown Deer, Milwaukee. 469 likes · 16 talking about this · 5,307 were here. Always-open convenience of a 24 hour gym Anytime Fitness of Milwaukee, WI, is the fitness...
+
+REL: 1
+POI Name: Milwaukee Turners
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gymnastics, Rock Climbing, Yoga, 
+Snippets:
+title: Milwaukee Turners
+snippet: Who are The Milwaukee Turners? Working for social justice since 1853, the Milwaukee Turners today are dedicated to strengthening our community based on the principle of “a sound mind in a sound body. Learn More
+title: Restaurant — Milwaukee Turners
+snippet: 1034 North Vel R. Phillips Ave. Milwaukee, WI 53203. (414) 272-1733. milwaukeeturners@gmail.com
+title: history — Milwaukee Turners
+snippet: Turners have actively opposed all forms of oppression and have long been champions of equal rights. The Turners supported women’s suffrage, and it was from the Normal School at Milwaukee Turners that the first female physical education teacher graduated in 1875.
+title: Confronting Mass Incarceration — Milwaukee Turners
+snippet: Click above to watch the second part of Milwaukee Turners’ 2019 CMI panel series, “Rethinking Justice and Incarceration in Wisconsin”, held November 19 at Marquette University.
+title: Milwaukee Turners | Encyclopedia of Milwaukee
+snippet: The relationship between the Milwaukee Turners and socialism was closest during the mayoralty of Frank Zeidler from 1948 to 1960. Zeidler was a Turner who had formerly edited the Milwaukee Turner, and he continued to contribute articles while in office.
+title: Milwaukee Turners at Turner Hall - Sports &amp; Recreation ...
+snippet: Milwaukee Turners at Turner Hall, Milwaukee, WI. 4,850 likes · 96 talking about this · 51,579 were here. Turners are dedicated to fostering health of body and mind through an array of diverse...
+title: Turner Hall &amp; The Milwaukee Turners-Milwaukee | Expedia.no
+snippet: Planlegger du å besøke Turner Hall &amp; The Milwaukee Turners-Milwaukee? Finn fantastiske tilbud her. Bestill reisen din med hotell, fly og leiebil her, og spar stort!
+title: Milwaukee Turners, Milwaukee | Ticket Price | Timings ...
+snippet: Milwaukee Turners, Milwaukee. Find hotel near Milwaukee Turners. Contribute/Review Ask a Question. The historic Tuner Hall was built in 1882 and was designed by German architect Henry H. Koch. Built to entertain, the Hall still serves its purpose by accommodating a gymnasium, ...
+title: Milwaukee Turners at Turner Hall - Sports &amp; Recreation ...
+snippet: Milwaukee Turners at Turner Hall, Milwaukee, WI. 4,857 likes · 16 talking about this · 52,347 were here. Turners are dedicated to fostering health of body and mind through an array of diverse...
+title: Rock Climbing — Milwaukee Turners
+snippet: Welcome to Turners climbing gym – be a rock star today! Indoor rock climbing facility located in the lower level of the historic Milwaukee Turner Hall building. We are the oldest rock gym in the state of Wisconsin and we are a dedicated teaching gym featuring instructors with a full range of climbing experience.
+
+REL: 1
+POI Name: Lake Michigan
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Lakes, 
+Snippets:
+title: Lake Michigan - Wikipedia
+snippet: Twelve million people live along Lake Michigan&#39;s shores, mainly in the Chicago and Milwaukee metropolitan areas. The economy of many communities in northern Michigan and Door County, Wisconsin is supported by tourism, with large seasonal populations attracted by Lake Michigan. [citation needed] Seasonal residents often have summer homes along the waterfront and return home for the winter.
+title: Lake Michigan - Milwaukee Harbor, Milwaukee County ...
+snippet: Fishing Reports and Discussions for Lake Michigan - Milwaukee Harbor, Milwaukee County - Wisconsin
+title: Michigansee – Wikipedia
+snippet: Lake Michigan) gehört zur Gruppe der fünf Großen Seen Nordamerikas. Er liegt 176 m hoch, hat eine Fläche von 58.016 km² (zum Vergleich: die Schweiz hat eine Fläche von 41.287 km², der Bodensee 536 km²) und eine maximale Wassertiefe von 281 m.
+title: The Fast Lake Michigan Ferry - Visiting Milwaukee Wisconsin
+snippet: The Lake Michigan ferry Lake Express provides modern and convenient 2-1/2 coast-to-coast service from Milwaukee to Muskegon, Michigan connecting with US-31 and I-96 and Grand Haven, Holland, Grand Rapids, Lansing and Detroit. While visiting Milwaukee, travelers can enjoy a wide array of world class museums, shopping, dining and attractions.
+title: Visit Milwaukee - Milwaukee River and Lake Michigan
+snippet: See Milwaukee from a whole new vantage point: water-level! Find the best boat tour for your trip to Milwaukee along Lake Michigan or the Milwaukee River!
+title: Milwaukee&#39;s Lakefront
+snippet: Milwaukee County Parks are your gateway to life on the lake! Beaches, boat launches and bluffs provide access to Lake Michigan for boating, fishing or sailing. Veterans Park is the hub for summer activities in downtown Milwaukee. Explore your lakefront - Veterans Park, McKinley Marina, McKinley Beach, Bradford Beach, Lake Park
+title: Lake Michigan WI Fishing Reports, Map &amp; Hot Spots
+snippet: Lake Michigan is the only one of the Great Lakes wholly within the borders of the United States; the others are shared with Canada. It has a surface area of 22,400 square making it the largest lake entirely within one country by surface area (Lake Baikal, in Russia, is larger by water volume), and the fifth largest lake in the world. It is 307 miles long by 118 miles wide with a shoreline ...
+title: Fishing Wisconsin - Lake Michigan Fishing Outdoor Report ...
+snippet: Milwaukee County. North City: Thursday evening was chilly with intermittent rain and fog, transitioning to heavy rain and light fog. Several anglers fished near the Milwaukee Pierhead Lighthouse. No catches were reported. Saturday night was chilly and windy, with few clouds. Nearshore Lake Michigan was turbid, with small waves.
+title: SS Milwaukee Clipper - Wikipedia
+snippet: SS Milwaukee Clipper, also known as SS Clipper, and formerly as SS Juniata, is a retired passenger ship and automobile ferry that sailed under two configurations and traveled on all of the Great Lakes except Lake Ontario.The vessel is now docked in Muskegon, Michigan
+title: EarthCam - Lake Michigan Cam
+snippet: EarthCam has teamed up with affiliate, Surf Grand Haven, to deliver uninterrupted live views of Lake Michigan. See the activities taking place near Grand Haven Pier and Lighthouse.
+
+REL: 1
+POI Name: Milwaukee Montessori School
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Elementary Schools, Montessori Schools, Summer Camps, 
+Snippets:
+title: Milwaukee Montessori School
+snippet: Learn more about Milwaukee Montessori School’s outstanding academic programs, and the award winning teachers supporting our students. Students are first introduced to Montessori curriculum as Toddlers and continue to explore the infinite facets until 8th Grade.
+title: MPS: Montessori - Milwaukee Public Schools
+snippet: Montessori in MPS. Milwaukee Public Schools is dedicated to providing an authentic, world-class Montessori education. MPS offers the nation’s largest cluster of public Montessori schools; our eight tuition-free Montessori schools enroll more than 4,000 students annually.
+title: Milwaukee Montessori School - Home | Facebook
+snippet: Milwaukee Montessori School, Milwaukee. 4.3K likes. MMS is a co-educational day school for students from toddler age through 8th grade. We are one of the oldest and largest independent Montessori...
+title: Home | Milwaukee Montessori Summer
+snippet: Milwaukee Montessori School Summer Camp With camps based in Montessori learning, Studio Art, Musical Theatre, Culinary Arts, 3D Game Design, DJI Robo Master and Drone Racing, the MMS Summer Camp offers novel and adventurous opportunities throughout each day.
+title: Milwaukee Montessori School - Milwaukee, Wisconsin - WI ...
+snippet: Milwaukee Montessori School located in Milwaukee, Wisconsin - WI. Find Milwaukee Montessori School test scores, student-teacher ratio, parent reviews and teacher stats.
+title: Milwaukee Montessori School in Milwaukee, WI - Niche
+snippet: Milwaukee Montessori School is a highly rated, private, alternative school located in Milwaukee, WI. It has 396 students in grades PK, K-8 with a student-teacher ratio of 8 to 1. Tuition is $10,785 for the highest grade offered ...
+title: Milwaukee Montessori School - YouTube
+snippet: Welcome to Milwaukee Montessori School, a co-educational day school for students from toddler age through the eighth grade. Founded in 1961, Milwaukee Montes...
+title: Milwaukee Montessori School in Milwaukee, WI - realtor.com®
+snippet: Milwaukee Montessori School - find test scores, ratings, reviews, and 1,803 nearby homes for sale at realtor.com.
+title: Milwaukee Montessori School (@mkemontessori) • Instagram ...
+snippet: 422 Followers, 70 Following, 252 Posts - See Instagram photos and videos from Milwaukee Montessori School (@mkemontessori)
+title: Montessori Institute of Milwaukee
+snippet: The Montessori Institute of Milwaukee, Inc., does not discriminate with respect to its faculty, staff, students, employees or any other relationship within the corporation on the basis of race, color, sex, handicap, religion, national or ethnic origin.
+
+REL: 1
+POI Name: Lake Park Golf Course
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: Lake Park Golf Course – MKE Golf - Milwaukee County
+snippet: THE PERFECT COURSE FOR BEGINNERS. Lake Park Golf Course offers 18-holes, all under 85 yards, which makes this a perfect course for beginners or for a quick round with friends. Bring a wedge or nine iron, putter, a few balls, and leave the rest of the bag at home for this course. No tee times are needed, tee off on a first-come, first-served basis.
+title: MKE Golf – Milwaukee County Golf
+snippet: With 14 courses to choose from, Milwaukee County Golf has the ideal course for every golfer, from beginner to pro. For experienced players, book a tee time at our Tournament and Championship courses; for improving golfers our four regulation courses are perfect for improving your game and for new golfers, learn the game at two executive and four par 3 courses.
+title: Lake Park Golf Course - Golf in Milwaukee, Wisconsin
+snippet: Description. Lake Park Golf Course is a solid 18-hole course for beginners or players who seek to improve their short game. It was designed to stress the fundamentals and the short game.
+title: Grant Park Golf Course – MKE Golf - Milwaukee County
+snippet: A Historic Course on the Shore of Lake Michigan. Grant Park opened as Milwaukee County’s first 18-hole golf course in 1920, and today the course still uses the historic 1892 farmhouse for its clubhouse. Although this course is relatively short by today’s standards (5,213), it does have many challenging Par 4’s and Par 3’s.
+title: Lake Park Golf Course - Golf - 3233 E Kenwood Blvd, East ...
+snippet: 5 reviews of Lake Park Golf Course &quot;Good course to practice your short game. Not tricky at all, but I don&#39;t think the measurements for distance are correct. This is the shorted course I&#39;ve played. I&#39;m not even sure you could call this an…
+title: Golf Specials – MKE Golf
+snippet: MKE.golf and Milwaukee County Golf Courses are managed by Milwaukee County Parks. 9480 Watertown Road Wauwatosa WI 53226 (414) 257-PARK (7275)
+title: Lake Park Golf Course in Milwaukee, Wisconsin, USA | Golf ...
+snippet: Plan a three-day golf trip to Milwaukee for less than $200. Load More A view of a hole at Lake Park Golf Course Lake Park GC. 1 Image Write Review. 3233 East Kenwood Blvd., Milwaukee, Wisconsin 53211, Milwaukee County (414) 961-3206, (414) 961-1763 Course Website ...
+title: Brown Deer Golf Course – MKE Golf - Milwaukee County
+snippet: Brown Deer Park Golf Course Play the number one public golf course in Milwaukee County Test your golfing skills on the course where Tiger Woods turned pro and where the top female professionals play in the Symetra Tour’s PHC Classic ; the qualifying tour for the LPGA .
+title: Lake Park Golf Course Tee Times - Milwaukee, WI | TeeOff.com
+snippet: Lake Park Golf Course is a par 54 municipal course located in Milwaukee, WI. The 18 hole course opened in 1930.
+title: Lewisville, TX Golf | Lake Park Golf Course
+snippet: Situated along the shores of Lake Lewisville, Lake Park Golf Club offers a pair of beautiful golf layouts: a picturesque championship golf course that has been named by Golf Digest among the &quot;Best Places You Can Play In America&quot; and a 9-hole executive layout - featuring the same immaculate conditioning and superb guest service.
+
+REL: 0
+POI Name: Quiet Mystic
+POI City: Milwaukee
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Psychics, 
+Snippets:
+title: Quiet Mystic - Home | Facebook
+snippet: Quiet Mystic, Milwaukee, Wisconsin. 161 likes. Tarot reader, science writer. Because not only do I have faith in our natural world, but I also believe in...
+title: Schedule Appointment with Quiet Mystic
+snippet: Schedule your appointment online Quiet Mystic . A short text reading for those times when you have one narrow, directed question about a matter that is weighing on your heart.
+title: Quiet Mystic 2266 N Prospect Ave Milwaukee, WI - MapQuest
+snippet: Bonnie of Quiet Mystic is a fantastic tarot reader - and compassionate. If you are going through a hard time, she will help you to find the best path possible.
+title: Quiet Mystic, 2266 N Prospect Ave, Milwaukee, WI (2019)
+snippet: Tarot reader, science writer. Because not only do I have faith in our natural world, but I also believe in YOU. What is tarot? Tarot can be a vacuum that siphons drama out of a situation. Tarot can be a tool to calm you down or fire you up, depending on what&#39;s needed. Tarot can be the rock that helps you climb out of the waters of De Nile (denial).
+title: Quiet Mystic in Milwaukee | Quiet Mystic 2266 N Prospect ...
+snippet: Find Quiet Mystic in Milwaukee with Address, Phone number from Yahoo US Local. Includes Quiet Mystic Reviews, maps &amp; directions to Quiet Mystic in Milwaukee and more from Yahoo US Local
+title: Quiet Mystic - East Side - Milwaukee, WI, United States
+snippet: 3 reviews of Quiet Mystic &quot;Bonnie of Quiet Mystic is a fantastic tarot reader - and compassionate. If you are going through a hard time, she will help you to find the best path possible. She&#39;s non-judgemental, thorough, and kind. A true jewel in…
+title: Quiet Mystic - Milwaukee, WI - Alignable
+snippet: 2 local business owners recommend Quiet Mystic. Visit this page to learn about the business and what locals in Milwaukee have to say.
+title: Quiet Mystic - Up To 25% Off - Milwaukee, WI | Groupon
+snippet: Every local community has a story, a history, and a unique personality that cannot be replicated. This is often thanks to specialized, small-scale businesses, like this one, which contribute to a neighborhood’s distinctive character and promote a thriving ecosystem in their community.
+title: Quiet Mystic Gift Cards and Gift Certificates - Milwaukee ...
+snippet: Buy a gift card to Quiet Mystic. Send it online to anyone, instantly. Quiet Mystic - 2266 N Prospect Ave - Milwaukee, WI
+title: tarot reading by Quiet Mystic in Milwaukee, WI - Alignable
+snippet: Quiet Mystic. 2266 N Prospect Ave Milwaukee, WI 53217 Professional Services Share. Facebook Twitter Pinterest Linkedin Email tarot reading. Share. Facebook Twitter Pinterest Linkedin Email This image shows a mini reading with five cards. We Also Offer. teaching
+
+REL: 0
+POI Name: Milwaukee ChopHouse
+POI City: Milwaukee
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, Seafood, American (Traditional), 
+Snippets:
+title: Milwaukee. ChopHouse - Romantic Milwaukee Restaurant
+snippet: ChopHouse Milwaukee is a Milwaukee steakhouse with a casual and romantic atmosphere. Our award winning restaurant is known for its tender steaks, mouthwatering lamb, fresh seafood, attentive service, and an extensive - yet affordable - wine and drink list.
+title: Milwaukee ChopHouse - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Milwaukee ChopHouse, Milwaukee on Tripadvisor: See 331 unbiased reviews of Milwaukee ChopHouse, rated 4.5 of 5 on Tripadvisor and ranked #22 of 1,425 restaurants in Milwaukee.
+title: Milwaukee SteakHouse| Fine Dining Milwaukee | Milwaukee ...
+snippet: After graduating from UW-Milwaukee in 2010 with a BA in History and Political Science, he stuck with the only career he’s ever known. Calum has worked the past seven years at the Hilton Milwaukee City Center, working all facets of the operation to become chef de cuisine of the Milwaukee Chophouse.
+title: Milwaukee Steak &amp; Seafood Restaurant | Menu | Milwaukee ...
+snippet: Our ever-changing dinner menu features the finest cut steaks, chops, fresh seafood, and prime rib in Milwaukee. Not to mention we use fresh, locally grown herbs and vegetables picked right from our backyard, creating the perfect meal for your next fine dining or private dining experience in downtown Milwaukee.
+title: Milwaukee Restaurant Specials - Wine Bar | Milwaukee ChopHouse
+snippet: Our Milwaukee Chophouse Specials &amp; Events leave nothing to be desired. Whether we are serving up the best steaks in Milwaukee or creating the perfect fine-dining experience for you and yours, there is always something worth stopping in for.
+title: Milwaukee ChopHouse - Milwaukee, WI - Locu
+snippet: Milwaukee ChopHouse, Steakhouses business in Milwaukee. See up-to-date pricelists and view recent announcements for this location. Milwaukee ChopHouse is located inside Hilton Milwaukee City Center: a city staple since 1928. Owned and operated by Marcus Hotels and Resorts, the ChopHouse family has grown to five locations since it&#39;s inception in 2002.
+title: Milwaukee ChopHouse - Home | Facebook
+snippet: Milwaukee ChopHouse - 633 N 5th St, Milwaukee, Wisconsin 53203 - Rated 4.6 based on 150 Reviews &quot;My wife and I were celebrating our anniversary with...
+title: Milwaukee ChopHouse Restaurant - Milwaukee, WI | OpenTable
+snippet: The Milwaukee ChopHouse began its critical acclaim 19 years ago. From the beginning, it has earned a reputation for providing a spectacular wine list, a consistent classic menu, all while being delivered by some of the best service professionals the city has to offer.
+title: Restaurants With Private Dining Rooms | Milwaukee ChopHouse
+snippet: Milwaukee ChopHouse private dining rooms offer the perfect setting for important business dinner meetings, private rooms for graduation celebrations and birthday dinners, and every other special occasion! We provide customized event planning to ensure your experience is one you &amp; your guests won’t soon forget!
+title: Milwaukee ChopHouse - Restaurantanmeldelser - Tripadvisor
+snippet: Milwaukee ChopHouse, Milwaukee: Se 331 objektive anmeldelser av Milwaukee ChopHouse, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 22 av 1 426 restauranter i Milwaukee.
+
+REL: 0
+POI Name: Get Hot Yoga
+POI City: Wauwatosa
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Get Hot Yoga
+snippet: Get Hot Yoga, 1417 N. Wauwatosa Ave., Suite #203, Wauwatosa, WI, 53213, United States (262)599-8849. Get Hot Yoga. 1417 N Wauwatosa Ave. Suite #203 Wauwatosa, WI 53213 Phone: 262.599.8849 Contact us. Breathe. Sweat. Get Fit. Get Hot Yoga is located on the second floor of the Baskin Robbins/Starbucks building.
+title: Classes — Get Hot Yoga
+snippet: Get Hot Happy Hour Flow 95º. All levels. Heat at 95ºF. Moderate to fast vinyasa flow. Upbeat vibe. Get Hot Restorative Yin 95º. All levels. Heat at 95ºF. Slow &amp; Gentle Flow. Poses held for longer periods. Get Hot Yoga Sculpt 95º. All levels. Heat at 95º. Blend of vinyasa yoga, strength-training and cardio. Hand weights can be incorporated ...
+title: Get Hot Yoga - Tosa - Home | Facebook
+snippet: Get Hot Yoga - Tosa - 1417 N Wauwatosa Ave, Wauwatosa, Wisconsin 53213 - Rated 4.8 based on 34 Reviews &quot;I have loved the classes I have taken so far. The...
+title: Our Team — Get Hot Yoga
+snippet: Our Team GHY Owner. Jennifer (Brown) Witt. ... Get Hot Yoga, 1417 N. Wauwatosa Ave., Suite #203, ... Get Hot Yoga. 1417 N Wauwatosa Ave. Suite #203 Wauwatosa, WI 53213 Phone: 262.599.8849 Contact us. Breathe. Sweat. Get Fit. Get Hot Yoga is located on the second floor of the Baskin Robbins/Starbucks building.
+title: Get Started — Get Hot Yoga
+snippet: Yoga is for every body! Come with open hearts and open minds. Get Hot Yoga is a judge-free zone! Get on your mat and just do you! Nobody is watching, nobody is keeping score. We are a community and our goal is to lift each other up, encourage, teach, learn and grow. Breathe. Sweat. Get Fit!
+title: Get Hot Yoga - Wauwatosa, WI - Yelp
+snippet: Get hot yoga was the first place I ever tried hot yoga. I have found a new found love, and could never go back to regular. This studio is super cute and in a great location. Parking can be a little difficult, but that&#39;s expected in a busy area. The instructors are super nice, and I definitely will be back.
+title: Contact — Get Hot Yoga
+snippet: Contact Us. Address 1417 N Wauwatosa Ave. Suite #203 Wauwatosa, WI 53213 Phone 262.599.8849 (15 min before and after scheduled classes) 630.254.9491* (during non-business hours) *Send a TEXT message for quickest response!* Access Get Hot Yoga is located on the second floor of the Starbucks/Qdoba building.
+title: Heat — Get Hot Yoga
+snippet: Radiant Heat. At Get Hot Yoga, we heat our studio using infrared heating panels also known as radiant heat. These panels emit a therapeutic heat that directly permeates the body, alleviating aches, increasing circulation and offers a whole range of benefits!
+title: Get Hot Yoga Studio | Serving Maple Valley, Covington ...
+snippet: ABOUT US. GET HOT YOGA ETHICS. We are a community rooted yoga studio in Maple Valley, WA with a deep passion for learning, healing and growing! We recognize that not one style fits all and that your needs change as you continue to grow.
+title: Pricing — Get Hot Yoga
+snippet: Get Hot Yoga is located on the second floor of the Baskin Robbins/Starbucks building. Entrance is between Breadsmith and Panda Hut. Take the stairs or elevator to the second floor and our studio is first suite on your right!
+
+REL: 0
+POI Name: Warnimont Park
+POI City: Cudahy
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Warnimont Park Golf Course – MKE Golf
+snippet: Cudahy, WI 53110 (414) 481-4730. ... Reviews for Warnimont Park Golf Course. Went there a few weeks back and I really enjoyed this course. The staff was friendly and the grass was well maintained. Perfect course for those who want to work on their iron and wedge shots.
+title: The Park Next Door - Warnimont Park, Cudahy, WI
+snippet: Photo gallery of Warnimont Park, Cudahy, WI. Just a few minutes away from Grant Park...this park offers beautiful views of the beaches along Lake Michigan, gorgeous winding nature trails, paved paths, picnic areas, and all kinds of wildlife for viewing.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Visit Milwaukee - Warnimont Park
+snippet: Warnimont Park along Lake Magician in Cudahy includes sand beaches, 18 holes of golf, an archery range, a section of the Oak Leaf Trail, and a dog park. Read More Onsite Amenities
+title: Warnimont Dog Exercise Area - Cudahy, Wisconsin - Dog Park ...
+snippet: Warnimont Dog Exercise Area, Cudahy, Wisconsin. 188 likes · 2,701 were here. Dog Park
+title: Warnimont park, cudahy, in Cudahy, WI - Cudahy, Wisconsin ...
+snippet: Find the best Warnimont park, cudahy, around Cudahy,WI and get detailed driving directions with road conditions, live traffic updates, and reviews of local business along the way.
+title: Warnimont Park Golf Course - Cudahy, Wisconsin - Park ...
+snippet: Warnimont Park Golf Course, Cudahy, Wisconsin. 85 likes · 3,685 were here. Park
+title: Warnimont Park - Cudahy, WI (Address, Phone &amp; Hours)
+snippet: Warnimont Park, located in Cudahy, WI, is a Park that offers outdoor recreation and nature preservation. A public space open to the general public, the Park offers open spaces under the maintenance of the Cudahy Parks Department. You may contact Parks for questions about: Reserving Park facilities; Cudahy Park special events calendar
+title: Warnimont Park 5400 S Lake Dr Cudahy, WI Golf Courses ...
+snippet: Get directions, reviews and information for Warnimont Park in Cudahy, WI. Warnimont Park 5400 S Lake Dr Cudahy WI 53110. 8 Reviews (414) 481-4730 Website. Menu &amp; Reservations ... It&#39;s a dog park out in Cudahy. The drive alone is so scenic coming down 32 better known as Lake Dr.
+title: Parks Recreation - cudahy-wi.gov
+snippet: Cudahy Rec Dept Cudahy has six county parks and 823 acres of parkland. Warnimont Golf, an 18 hole executive, par-54 municipal course, is the perfect place to spend an afternoon on the links. The city&#39;s lakefront park, featuring a popular hike/bike trail, was created on acreage given by Patrick Cudahy to Milwaukee County.
+
+REL: 0
+POI Name: Potawatomi Hotel & Casino Poker Room
+POI City: Milwaukee
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Casinos, 
+Snippets:
+title: Poker - Potawatomi Hotel &amp; Casino - Milwaukee, Wisconsin
+snippet: Score the best of both worlds in The Poker Room at Potawatomi Hotel &amp; Casino. Experience a comfortable setting and the quick action you&#39;ve been looking forward to.
+title: Poker Tournaments | Potawatomi Hotel &amp; Casino
+snippet: Play the poker game of your life. Discover the different possibilities, opportunities and tournaments to make the best of your stay at Potawatomi Hotel &amp; Casino.
+title: Potawatomi Casino Poker Room Milwaukee, WI Tournaments ...
+snippet: Information and Reviews about Potawatomi Casino Poker Room in Milwaukee, including Poker Tournaments, Games, Special Events and Promotions.
+title: Potawatomi Hotel and Casino in Milwaukee Wisconsin
+snippet: If you are looking for casinos in Wisconsin, Potawatomi Hotel and Casino is what you are looking for. Located in Milwaukee, WI with free parking, slot machines, poker tables, bingo, numerous dining options and on site hotel.
+title: Milwaukee Hotels and Suites at Potawatomi Hotel &amp; Casino
+snippet: Enjoy Milwaukee&#39;s epicenter of entertainment by staying at the Potawatomi Hotel &amp; Casino. Luxury hotel rooms, suites, jacuzzi suites, casual and fine dining options, casino gaming, museums and fun always only a few steps away!
+title: Potawatomi Casino Milwaukee, WI Poker Tournaments
+snippet: Potawatomi Casino poker tournament schedule and information, including starting times, buy-ins, prize pool guarantees, and freerolls.
+title: Potooo - Potawatomi Casino Poker Room Review by nvthvn
+snippet: Potawatomi Hotel &amp; Casino formerly Potawatomi Bingo Casino. Facebook; Twitter; 5 4 3 2 1. 12 Reviews. ... So the poker room at this casino is very spacious. ... oe814 wrote a review about Potawatomi Casino in Milwaukee, WI 5 4 3 2 1. Sep 20, 2014. Only game in town.
+title: Potawatomi Casino Poker Room Review of Potawatomi Hotel ...
+snippet: Potawatomi Casino Poker Room Overview Part of Potawatomi Hotel &amp; Casino. The Potawatomi Casino Poker Room is Wisconsin&#39;s premiere poker room. Visitors must be 21+ to enter and the room is open 24/7. The room is non-smoking and offers plenty of cash games and tournament action. Phone in to reserve your seat.
+title: Potawatomi Hotel &amp; Casino - 500 Nations Indian Casinos
+snippet: Potawatomi Hotel &amp; Casino in Milwaukee features 2,500 slots, 100 table games, 20 poker talbes bingo, 9 restaurants and bars, a 381-room hotel and a new 119-room hotel tower.
+title: World Series of Poker Circuit Event :: Potawatomi Hotel ...
+snippet: Big league play is back in Milwaukee! Compete against the best for your shot at the Global Casino Championship and a guaranteed Main Event prize pool of $500,000! As Potawatomi continues to monitor CDC safety guidelines, all property events and operations have been temporarily suspended.
+
+REL: 0
+POI Name: Layton Fruit Market
+POI City: Saint Francis
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Fruits & Veggies, 
+Snippets:
+title: Family Owned | Layton Fruit Market | United States
+snippet: Walk into Layton Fruit Market and you will discover all we have to offer. From our high-quality produce, vast wine and beer selection, an array of Italian items, a variety of seafood and our deli full of homemade items, you are sure to always find something delicious.
+title: Layton Fruit Market - 1,366 Photos - 92 Reviews ...
+snippet: Layton Fruit Market - 1838 E Layton Ave, Saint Francis, Wisconsin 53235 - Rated 4.7 based on 92 Reviews &quot;Definitely not just fruit. Great place to stop...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Layton Fruit Market 1838 E Layton Ave Saint Francis, WI ...
+snippet: Get directions, reviews and information for Layton Fruit Market in Saint Francis, WI. Layton Fruit Market 1838 E Layton Ave Saint Francis WI 53235. 18 Reviews (414) 481-3008 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Layton Fruit Market - 16 tips - Foursquare
+snippet: Farmers Market in Saint Francis, WI Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Photos for Layton Fruit Market - Yelp
+snippet: Photos at Layton Fruit Market - Saint Francis, WI. Hey there, we’ve updated our ... Cancel. Log In. Sign Up. Restaurants. Home Services. Auto Services. More. Write a Review. For Businesses . Photos for Layton Fruit Market. Layton Fruit Market. 18 reviews Add photos Search photos... 33 photos mention &quot;&quot; Clear. Page 1 of 2 1. 2 Next.
+title: Layton Fruit Market, Saint Francis, Milwaukee - Zomato
+snippet: Layton Fruit Market Milwaukee; Layton Fruit Market, Saint Francis; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Layton Fruit Market Restaurant on Zomato
+title: Layton Fruit Market, 1838 E Layton Ave, Saint Francis, WI ...
+snippet: Contact information, map and directions, contact form, opening hours, services, ratings, photos, videos and announcements from Layton Fruit Market, Speciality food ...
+title: Layton Fruit Market 1838 E Layton Ave, Saint Francis, WI ...
+snippet: Get reviews, hours, directions, coupons and more for Layton Fruit Market at 1838 E Layton Ave, Saint Francis, WI 53235. Search for other Fruit &amp; Vegetable Markets in Saint Francis on The Real Yellow Pages®.
+title: CATERING | Layton Fruit Market
+snippet: Fruit and Vegetable Platters Fruit Platters Includes watermelon, cantaloupe, grapes, honeydew, pineapple, oranges and strawberries.. Small (Serves 10-20) $32.99 Large (Serves 20-30) $54.99 Extra Large (Serves 30-50) $64.99 Fruit Bowl $24.99 Diced watermelon, cantaloupe, honeydew, pineapple and grapes garnished with berries in an 80-ounce bowl.
+
+REL: 0
+POI Name: Currie Dog Park
+POI City: Wauwatosa
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Dog Parks, 
+Snippets:
+title: Currie Dog Park - Home | Facebook
+snippet: Currie Dog Park, Wauwatosa, Wisconsin. 168 likes. The newly expanded Currie Dog Park is a popular destination in Wauwatosa (Wisconsin) for dog lovers. Located on the SE corner of Capitol Drive and...
+title: Currie Park Dog Park - Wauwatosa, Wisconsin - Dog Park ...
+snippet: Currie Park Dog Park, Wauwatosa, Wisconsin. 376 likes. Dog Park. Jump to. ... JM Mead reviewed Currie Dog Park — 4 star. April 30, 2018 · Love the park. We go every day. Noticed that the smaller section of the dog park is now for pups under 20lbs. See More. Posts about Currie Park Dog Park. Alexander Manuel Gruszka is at Currie Park Dog Park ...
+title: Dog Parks - MKE.Dog
+snippet: Currie Dog Park in Wauwatosa, close to Currie golf course, includes a full fenced-in, 10-acre space for large dogs and a 1.5-acre space for small dogs. Both with easy access from the Oak Leaf Trail and the parkway. 3535 N. Mayfair Rd., Wauwatosa . Estabrook Park Dog Park.
+title: Currie Dog Park - Wauwatosa, WI (Address &amp; Phone)
+snippet: The Currie Dog Park, located in Wauwatosa, WI, is an outdoor space used as a recreation area for pet dogs. In contrast to other Milwaukee County public parks, Dog Parks allow off-leash dogs. In addition to offering open spaces for exercise, the Dog Park also provides opportunities for dogs to socialize with each other.
+title: Currie Dog Park, Menomonee River Pkwy, Wauwatosa, WI (2020)
+snippet: The newly expanded Currie Dog Park is a popular destination in Wauwatosa (Wisconsin) for dog lovers. Located on the SE corner of Capitol Drive and Hwy 100.
+title: Currie Dog Park - Wauwatosa, WI - yelp.com
+snippet: 33 reviews of Currie Dog Park &quot;This park is nice. With the new expansion the size has increased at least 5x. I only once had a problem with another aggressive dog (back when the park was much smaller, my puppy couldn&#39;t defend himself yet).…
+title: Currie Park Dog Exercise Area - BringFido.com
+snippet: Currie Park Dog Exercise Area is a popular dog park in Wauwatosa, WI. Visit BringFido for an overview of the park, along with pictures, directions, and reviews from dog owners who&#39;ve been there.
+title: Currie Dog Park 3535 N Mayfair Rd Milwaukee, WI Parks ...
+snippet: This is a lovely dog park! It&#39;s fully fenced in and has double door gated entry points. There is a large area of open, grassy space making this a good park for dogs that want to wrestle with other...
+title: Currie Dog Park in Wauwatosa | Currie Dog Park 3535 N ...
+snippet: Find Currie Dog Park in Wauwatosa with Address, Phone number from Yahoo US Local. Includes Currie Dog Park Reviews, maps &amp; directions to Currie Dog Park in Wauwatosa and more from Yahoo US Local. Find Currie Dog Park in Wauwatosa with Address, Phone number from Yahoo US Local.
+title: Off-Leash Dog Parks in Wauwatosa, WI - BringFido
+snippet: Looking for a dog park in Wauwatosa? You&#39;ve come to the right place! You&#39;ll find information on all of the off-leash dog parks in Wauwatosa here.
+
+REL: 0
+POI Name: Bremen Café
+POI City: Milwaukee
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, 
+Snippets:
+title: Bremen Cafe | Milwaukee Wisconsin
+snippet: Welcome to Bremen Cafe. We have local craft beer, pinball machines, daily specials and live music nearly every night. We can’t wait to see you! Hours: Daily 4PM-Close. Happy Hour everyday from open-8PM. $1 off beer, taps, wine and mixers. Our Address. 901 E Clarke St, Milwaukee, WI 53212.
+title: Calendar | Bremen Cafe - Bremen Cafe | Milwaukee Wisconsin
+snippet: Check out our calendar to see who is playing! Check us out on Facebook for the latest events, specials and more! Bremen Cafe. Hours: Daily 4PM-Close. Happy Hour everyday from open-8PM. $1 off beer, taps, wine and mixers. Our Address. 901 E Clarke St, Milwaukee, WI 53212. Bremen Cafe.
+title: Bremen Cafe - Home | Facebook
+snippet: Bremen Cafe - 901 E Clarke St, Milwaukee, Wisconsin 53212 - Rated 4.2 based on 179 Reviews &quot;I was very drunk but remained quiet and did not do anything...
+title: Bremen Cafe - Milwaukee, WI - Locu
+snippet: Bremen Cafe, Bars business in Milwaukee. See up-to-date pricelists and view recent announcements for this location.
+title: Booking - Bremen Cafe | Milwaukee Wisconsin
+snippet: Bremen Cafe has been hosting local, national and international acts with a wide range of genres for well over a decade. We are open to booking shows every night of the week except mondays. We are a 21+ venue. We have an in house 8 channel PA, speakers, mics, cables and mic stands.
+title: On Tap - Bremen Cafe | Milwaukee Wisconsin
+snippet: Hours: Daily 4PM-Close. Happy Hour everyday from open-8PM. $1 off beer, taps, wine and mixers.
+title: Bremen Cafe, Milwaukee - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Bremen Cafe, Milwaukee: See 4 unbiased reviews of Bremen Cafe, rated 4.5 of 5 on Tripadvisor and ranked #652 of 1,454 restaurants in Milwaukee.
+title: Bremen Cafe - Startside | Facebook
+snippet: Bremen Cafe – 901 E Clarke St, Milwaukee, Wisconsin 53212 – Bedømt 4.2 baseret på 174 anmeldelser &quot;I was very drunk but remained quiet and did not do...
+title: Bremen Cafe - Posts | Facebook
+snippet: Bremen Cafe - 901 E Clarke St, Milwaukee, Wisconsin 53212 - Rated 4.2 based on 180 Reviews &quot;I was very drunk but remained quiet and did not do anything...
+title: Bremen Cafe - Home | Facebook
+snippet: See more of Bremen Cafe on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Bremen Cafe. Bar in Milwaukee, Wisconsin. 5. 5 out of 5 stars. Community See All. 26 people like this. 27 people follow this. 26 check-ins.
+
+REL: 0
+POI Name: Gracie Jiu-Jitsu Milwaukee
+POI City: Wauwatosa
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Brazilian Jiu-jitsu, 
+Snippets:
+title: Gracie Jiu-Jitsu Milwaukee | Simple. Effective. Self-Defense.
+snippet: Who can do Gracie Jiu-Jitsu? Anyone, regardless of size, strength ... Learn More. Why Gracie Milwaukee? Gracie Milwaukee is the only official Gracie Certified Training Center in Southeast Wisconsin. Learn More &quot;I thought all BJJ schools were the same ... Wauwatosa, WI 53226 ...
+title: Gracie Jiu-Jitsu Milwaukee - Home | Facebook
+snippet: Gracie Jiu-Jitsu Milwaukee, Wauwatosa, Wisconsin. 1.6K likes. A Level 4 Certified Training Center under the Gracie University Of Jiu-Jitsu, conveniently located just minutes from the the corner of...
+title: Academy | Gracie Jiu-Jitsu Milwaukee
+snippet: Gracie Jiu-Jitsu teaches reliable self defense strategies and techniques that prepare anyone – regardless of size, strength or athletic ability – for the worst case scenario first and work up from there. Over the last 85+ years, Gracie Jiu-Jitsu techniques have been proven effective time and time again.
+title: Gracie Jiu-Jitsu Milwaukee - Wauwatosa, WI - Yelp
+snippet: Gracie Jiu-Jitsu Milwaukee is a Level 3 Certified Training Center under the Gracie Jiu-Jitsu Academy headquartered in Torrance, CA. Gracie Jiu-Jitsu is a complete system of self-defense, enabling the smaller, weaker individual to defend themselves against a larger, stronger and more athletic attacker.
+title: Gracie Jiu-Jitsu Milwaukee Reviews, Wauwatosa, WI ...
+snippet: Gracie Jiu-Jitsu Milwaukee in Wauwatosa, WI - Martial Arts School, see class schedules and staff bios, 110 Reviews from happy customers. Find Martial Arts School near me in Wauwatosa, WI
+title: Schedule – Group Classes | Gracie Jiu-Jitsu Milwaukee
+snippet: February 2020 Schedule – All Programs. February 2020 Master Cycle Detailed Schedule. March 2020 Schedule – All Programs. March 2020 Master Cycle Detailed Schedule
+title: Location/Contact | Gracie Jiu-Jitsu Milwaukee
+snippet: We would love to hear from you or have you stop by and try out an intro class.
+title: Master Cycle | Gracie Jiu-Jitsu Milwaukee
+snippet: The Master Cycle’s unique structure simplifies the journey to Black Belt by organizing all of Gracie Jiu-Jitsu into seven positional chapters, each of which is studied for several months before moving on to the next chapter. Those chapters are:
+title: Programs | Gracie Jiu-Jitsu Milwaukee
+snippet: Every program is structured in a beginner friendly, co-operative environment that fosters learning. Gracie Jiu-Jitsu is perfect for the average person because it does not rely on strength to subdue the aggressor, but rather uses the framework of your body and leverage techniques to allow you to overcome a stronger, more aggressive attacker.
+title: Pricing | Gracie Jiu-Jitsu Milwaukee
+snippet: ** All monthly group class memberships include access to GracieUniversity.com the online learning platform for all Gracie Jiu-Jitsu curriculum’s. * Women Empowered is a 6 month agreement.
+
+REL: 0
+POI Name: Greenfield Park
+POI City: West Allis
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Greenfield Park (West Allis) - 2020 All You Need to Know ...
+snippet: West Allis, Wisconsin 154 contributions 27 helpful votes Fun for the whole family Greenfield Park has walking paths, woods to explore, a water park, a golf course, picnic areas &amp; plenty of parking.
+title: Greenfield Park Lutheran Church
+snippet: Greenfield Park Lutheran Church. Sign up for our newsletter. Sign up
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Parks, Playgrounds, and Outdoor Recreation in West Allis ...
+snippet: The corridor runs through the Underwood Creek Parkway, Greenfield Park and the Root River Parkway on the city’s west side. Another segment goes through McCarthy Park and follows an on-street route to the north on 84th Street. Learn more about these trails at Milwaukee County Parks’ website. West Allis Parks
+title: Greenfield Park (West Allis, WI) - Anmeldelser - Tripadvisor
+snippet: Greenfield Park, West Allis: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Greenfield Park i West Allis, Wisconsin på Tripadvisor.
+title: Greenfield Park (West Allis) - All You Need to Know BEFORE ...
+snippet: Greenfield Park, West Allis: See 17 reviews, articles, and 3 photos of Greenfield Park, ranked No.3 on Tripadvisor among 4 attractions in West Allis.
+title: W. GREENFIELD AVE. Greenfield Park
+snippet: Cool Waters Family Water Park Tot Lot / Play Area P P P P P P Pavilion &amp; Picnic Reservations (414) 257-8005 Athletic Field Permits (414) 257-8030 Parks Information (414) 257-PARK (7275) countyparks.com UPDATED SEPTEMBER ’15 # P2P1 3A # P# 1 5 6 4 2 3B B B GREENFIELD PARK Greenfield Park 2028 S. 124 St. West Allis, WI 53227 Unit Office: (414 ...
+title: Greenfield Park Real Estate - Greenfield Park West Allis ...
+snippet: Zillow has 0 homes for sale in Greenfield Park West Allis matching. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place.
+title: The Park Next Door - Greenfield Park, West Allis
+snippet: I live in West Allis, so Greenfield Park is a regular on my list. But it would be no matter what, as it has so much to offer. A beautiful lagoon to traverse around, enjoying songbirds, ducks, geese, and the occasional muskrat.
+title: Visit Milwaukee - Greenfield Park
+snippet: Greenfield Park; Greenfield Park. Featuring the Cool Waters family water park, an 18-hole golf ... Fax: (414) 257-8044 [email protected] Hours of Operation. 6 a.m.-10 p.m. Visit Website. Overview. This recreation area in West Allis features a family water park with waterslides, an 18-hole golf course, a segment of the Oak Leaf Trail, a lake ...
+
+REL: 0
+POI Name: Zoo A La Carte
+POI City: Milwaukee
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), 
+Snippets:
+title: Milwaukee a la Carte at the Zoo | Milwaukee County Zoo
+snippet: Milwaukee a la Carte at the Zoo. Presented by. August 15-18, 2019. Trendy music, lots of food options, and animals galore—what a wild weekend! The Milwaukee a la Carte at the Zoo presented by Meijer brings to life your wildest food cravings, August 15 through August 18, featuring 27 area restaurants.
+title: Welcome to the Milwaukee County Zoo!
+snippet: Welcome to the Milwaukee County Zoo! As one of the country’s finest zoological attractions, the Milwaukee County Zoo will educate, entertain and inspire you! Visit over 2,100 mammals, birds, fish, amphibians and reptiles in specialized habitats spanning 190 wooded acres.
+title: Milwaukee a la Carte | Zoological Society of Milwaukee
+snippet: Milwaukee a la Carte. Presented by. ... Tour the Zoo while your tastebuds take a flavor tour. This popular event brings dozens of local restaurants into one location so you can try something new, fill up on your favorite dishes or do a little of both. Take a ...
+title: Zoo A La Carte - Review of Milwaukee County Zoo, Milwaukee ...
+snippet: It&#39;s a great zoo! I&#39;m glad to see their investing in adding a few new features and exhibits. Some of the old standby&#39;s could be updated. The Zoo a la Carte event is a unique one--offering music and food options throughout the park.
+title: FOOD &amp; DRINK | ZOOALACARTE
+snippet: With a name like A La Carte at the Zoo, serving up a great time starts with serving up a tasty menu. Here you&#39;ll find a list of every fine purveyor of food at this year&#39;s festival. Get a taste of what they&#39;re all about, then make tracks to their booths at Zoo a la Carte (the walking is great for burning off calories between courses).
+title: Zoo A La Carte - Review of Milwaukee County Zoo, Milwaukee ...
+snippet: I have been coming to this zoo all of my life. I have not been to another one yet that even comes close to this one. They do so many fun activities and events in addition to animal exhibits, safari train, sky safari, Merry-go-round and sky trail ropes course etc. Zoo A La Carte, is my favorite event.
+title: Zoo A La Carte in Milwaukee - Restaurant reviews
+snippet: All info on Zoo A La Carte in Milwaukee - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: ‎Milwaukee Zoo a la Carte on the App Store
+snippet: ‎Read reviews, compare customer ratings, see screenshots, and learn more about Milwaukee Zoo a la Carte. Download Milwaukee Zoo a la Carte and enjoy it on your iPhone, iPad, and iPod touch.
+title: Milwaukee Journal Sentinel Zoo a la Carte 2020 in ...
+snippet: See Who&#39;s Going to Milwaukee Journal Sentinel Zoo a la Carte 2020 in Milwaukee, WI! During the multi-day Milwaukee Journal Sentinel Zoo a la Carte, soul-soothing music emanates from speakers on Milwaukee County Zoo grounds. The multi-day festival features national headliners and local musicians. It’s OK to forgo the food before leaving home; numerous restaurants make sure human ...
+title: HOME | ZOOALACARTE
+snippet: August 15 - 18, 2019 at the Milwaukee County Zoo! August 20-23, 2020 at the Milwaukee County Zoo! Contact Us!
+
+REL: 0
+POI Name: Royal Wok
+POI City: Glendale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: Royal Wok - Home - Glendale, Wisconsin - Menu, Prices ...
+snippet: Royal Wok - 6817 N Green Bay Ave, Glendale, Wisconsin 53209 - Rated 4.5 based on 8 Reviews &quot;The wait is always long but worth it. It&#39;s a family run...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Royal Wok, Glendale - Restaurant Reviews &amp; Phone Number ...
+snippet: Royal Wok, Glendale: See 4 unbiased reviews of Royal Wok, rated 4.5 of 5 on Tripadvisor and ranked #17 of 39 restaurants in Glendale.
+title: Royal Wok - Menu &amp; Reviews - 6817 N Green Bay Ave ...
+snippet: Read reviews from Royal Wok at 6817 N Green Bay Ave in Milwaukee 53209 from trusted Milwaukee restaurant reviewers. Includes the menu, user reviews, photos, and 2 dishes from Royal Wok.
+title: Royal Wok in Glendale | Royal Wok 6817 N Green Bay Ave ...
+snippet: Find Royal Wok in Glendale with Address, Phone number from Yahoo US Local. Includes Royal Wok Reviews, maps &amp; directions to Royal Wok in Glendale and more from Yahoo US Local
+title: Royal Wok Chinese Restaurant – Taste the Best Chinese Food ...
+snippet: ROYAL WOK RESTAURANT. Enjoy some of the best Chinese food in Longmont! Serving Cantonese, Mandarin, Szechuan and Hunan Style Cuisine.
+title: Good, quick food. - Review of Royal Wok, Glendale, WI ...
+snippet: Royal Wok: Good, quick food. - See 4 traveler reviews, candid photos, and great deals for Glendale, WI, at Tripadvisor.
+title: Photos for Royal Wok - Yelp
+snippet: Photos at Royal Wok - Glendale, WI. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Royal Wok Chinese - Welcome to Glendale
+snippet: Chinese dishes made-to-order for over 20 years...serving lunch &amp; dinner in a take-out storefront setting! Enjoy jumbo noodle soup, happy family dinner, sweet &amp; sour chicken lunch specials, delicious hot &amp; sour soup and much, much more
+title: Royal Garden Lunch Menu | Glendale, WI
+snippet: Glendale, WI 53217. Proudly Serving Glendale, Whitefish Bay, and the Surrounding Areas For over 20 years. Mandarin • Szechuan • Cantonese • Hunan. Royal Garden. We Now Deliver for Lunch and Dinner! We deliver all day! Get $1 OFF on delivery when you order for a minimum value of $20.
+
+REL: 0
+POI Name: Riverwalk Mini Golf
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+title: Riverwalk Mini Golf • Riverfront Wilmington • Great Family ...
+snippet: Riverwalk Mini Golf is an 18-hole miniature golf course located right along the Wilmington Riverwalk! This beautifully lanscaped mini golf course was designed by Harris Miniature Golf of Wildwood, New Jersey and features many of the colors and plant life found along the Riverfront, including the iconic Tom Burke birdhouses.
+title: Riverwalk Mini Golf (Wilmington) - 2020 All You Need to ...
+snippet: This is a nice mini golf course in a good location on the riverfront, right next to the children&#39;s museum and a lot of popular restaurants. They sell ice cream at the ticket booth as well. The course itself seemed a bit on the smaller side but was fun to play, a great way to …
+title: THE 10 CLOSEST Hotels to Riverwalk Mini Golf, Wilmington ...
+snippet: Hotels near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find 6,339 traveler reviews, 3,190 candid photos, and prices for 30 hotels near Riverwalk Mini Golf in Wilmington, DE.
+title: Riverwalk Mini Golf - Home | Facebook
+snippet: Riverwalk Mini Golf, Wilmington, Delaware. 2,581 likes · 4 talking about this · 4,338 were here. 18 Holes of Mini Golf &amp; featuring 9 flavors of soft serve ice cream, milk shakes,&amp; more! $8.00 per...
+title: Riverwalk Mini Golf | IN Wilmington
+snippet: Riverwalk Mini Golf is an 18-hole miniature golf course located right along the Wilmington Riverwalk! This beautifully lanscaped mini golf course was designed by Harris Miniature Golf of Wildwood, New Jersey and features many of the colors and plant life found along the Riverfront, including the iconic Tom Burke birdhouses...
+title: Restaurants Near Riverwalk Mini Golf, Wilmington, Delaware
+snippet: Restaurants near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find traveler reviews and candid photos of dining near Riverwalk Mini Golf in Wilmington, Delaware.
+title: Riverwalk Mini Golf ticket window - Picture of Riverwalk ...
+snippet: Riverwalk Mini Golf, Wilmington Picture: Riverwalk Mini Golf ticket window - Check out Tripadvisor members&#39; 3,189 candid photos and videos of Riverwalk Mini Golf
+title: Riverwalk Mini Golf (Wilmington, DE) - opinie - Tripadvisor
+snippet: Riverwalk Mini Golf, Wilmington: zobacz recenzje, artykuły i zdjęcia dotyczące Riverwalk Mini Golf w serwisie Tripadvisor w Wilmington, Delaware
+title: Riverwalk Mini Golf (Wilmington) - 2020 All You Need to ...
+snippet: Wilmington Tourism; Wilmington Accommodation; Wilmington Bed and Breakfast; Wilmington Holiday Rentals; Wilmington Holiday Packages; Wilmington Flights; Wilmington Restaurants; Wilmington Attractions; Wilmington Travel Forum
+title: The 10 Best Restaurants Near Riverwalk Mini Golf, Wilmington
+snippet: Restaurants near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find traveller reviews and candid photos of dining near Riverwalk Mini Golf in Wilmington, Delaware.
+
+REL: 0
+POI Name: Prairieville Park
+POI City: Waukesha
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Venues & Event Spaces, Batting Cages, 
+Snippets:
+
+
+REL: 0
+POI Name: Maslowski Glendale Community Park
+POI City: Glendale
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, Beer Gardens, 
+Snippets:
+title: Richard E. Maslowski Glendale Community Park | Glendale, WI
+snippet: Glendale’s community park offers a multi-generational venue ideal for play dates, picnics, reunions, and family time. The modern indoor community room offers audio/visual capabilities, fireplace, restrooms, event seating, water fill station, and a seasonal snack bar. During the summer, the park hosts popular outdoor concerts and festivals.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Richard E. Maslowski Community Park - Glendale, Wisconsin ...
+snippet: Richard E. Maslowski Community Park, Glendale, Wisconsin. 70 likes. Park
+title: Glendale Parks - Welcome to Glendale
+snippet: Visit Beautiful Richard E. Maslowski Glendale Community Park Glendale’s newest park is located at 2200 W. Bender Road. It’s the center of activity during the summer months with an outdoor snack bar &amp; beer garden. Concerts occur weekly at the outdoor amphitheater. Children play on the state-of-the-art, large playground.
+title: Glendale picks Nicolet to build fields at Maslowski Park
+snippet: Glendale picks Nicolet to build fields at Maslowski Park. After entertaining a proposal from Dominican, Glendale officials are sticking with Nicolet&#39;s plan to develop athletic fields at Maslowski ...
+title: Photos for Maslowski Glendale Community Park - Yelp
+snippet: Photos at Maslowski Glendale Community Park - Glendale, WI.
+title: Will Glendale break Nicolet partnership at Maslowski Park?
+snippet: Will Glendale break Nicolet partnership ... Glendale officials are losing confidence in Nicolet High School&#39;s promise to build three baseball fields at Richard E. Maslowski Glendale Community Park.
+title: Maslowski Glendale Community Park 2200 W Bender Rd ...
+snippet: Maslowski Park opened today with a ribbon cutting. It&#39;s got a massive, handicap accessible playground complex, a large tiered amphitheater and bandshell, Glendale veteran&#39;s memorial, beer garden,...
+title: Location | Glendale, WI
+snippet: The Richard E. Maslowski Community Park is located at 2200 W. Bender Road, Glendale, WI 53209
+title: Rental Guidelines &amp; Park Rules | Glendale, WI
+snippet: Richard E. Maslowski Community Park is located at 2200 W Bender Road, Glendale, WI. There are three (3) locations at the park that are available to rent: the Johnson Controls Community Amphitheater, Sprecher Brewing Outdoor Oasis Beer Garden Patio, and David Hobbs Honda for the People Community Room.
+
+REL: 0
+POI Name: 13th Pour
+POI City: Milwaukee
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, 
+Snippets:
+title: 13th Pour - Home | Facebook
+snippet: 13th Pour - 3675 S 13th St, Milwaukee, Wisconsin 53221 - Rated 4.6 based on 45 Reviews &quot;Cool bar, newly remodeled! Awesome owner, great bartenders very...
+title: 13th Pour - Dive Bars - 3675 S 13th St, Morgandale ...
+snippet: 2 reviews of 13th Pour &quot;It looks way divey-er on the outside than it is on the inside. I was pleasantly surprised when I walked into the 13th Pour and saw it was a very clean establishment with friendly locals. They had two pool tables, some dart…
+title: 13th Pour in Milwaukee | 13th Pour 3675 S 13th St ...
+snippet: Find 13th Pour in Milwaukee with Address, Phone number from Yahoo US Local. Includes 13th Pour Reviews, maps &amp; directions to 13th Pour in Milwaukee and more from Yahoo US Local
+title: 13th Pour 3675 S 13th St Milwaukee, WI Bars - MapQuest
+snippet: It looks way divey-er on the outside than it is on the inside. I was pleasantly surprised when I walked into the 13th Pour and saw it was a very clean establishment with friendly locals.
+title: 13th Pour in Milwaukee, WI | Business Profile | Infofree.com
+snippet: Business profile for 13th Pour in Milwaukee, Wisconsin. Infofree.com offers unlimited sales leads, mailing lists, email lists.
+title: Online Menu of 13th Pour, Milwaukee, WI
+snippet: View the menu for 13th Pour and restaurants in Milwaukee, WI. See restaurant menus, reviews, hours, photos, maps and directions.
+title: 13th Pour 3675 S 13th St, Milwaukee, WI 53221 - YP.com
+snippet: Get reviews, hours, directions, coupons and more for 13th Pour. Search for other Bars on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for 13th Pour at 3675 S 13th St, Milwaukee, WI 53221.
+title: 13th Pour - Morgandale - Milwaukee, WI
+snippet: See 3 photos from 41 visitors to 13th Pour. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: 13th Pour, LLC in Milwaukee, WI | Company Info &amp; Reviews
+snippet: 13th Pour, LLC is a Wisconsin Domestic Limited-Liability Company filed on March 24, 2015. The company&#39;s filing status is listed as Organized and its File Number is O030814. The Registered Agent on file for this company is Shannon Piotrowski and is located at 6401 W Burdick Ave., Milwaukee, WI 53219.
+title: 13th Pour - Crazy - Facebook
+snippet: See more of 13th Pour on Facebook. Log In. or. Create New Account. See more of 13th Pour on Facebook. Log In. Forgot account? or. Create New Account. Not Now. 13th Pour. ... Buckshots Milwaukee. Pub. Dale Z.&#39;s On Tour. Sports Bar. Anticipation. Pub. Longshots Sports-Bar. Sports Bar. Capoun Golf Range &amp; Miniature Golf. Driving Range. Benny&#39;s ...
+
+REL: 0
+POI Name: Warnimont Golf Course
+POI City: Cudahy
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: MKE Golf – Milwaukee County Golf
+snippet: With 14 courses to choose from, Milwaukee County Golf has the ideal course for every golfer, from beginner to pro. For experienced players, book a tee time at our Tournament and Championship courses; for improving golfers our four regulation courses are perfect for improving your game and for new golfers, learn the game at two executive and four par 3 courses.
+title: Warnimont Park Golf Course - Cudahy, Wisconsin - Park ...
+snippet: I learned to play here and have graduated to the 6,800 yard par 72 courses, but still enjoy a round at Warnimont. Especially with my son. See More. Posts about Warnimont Park Golf Course. Inspired Photography added a new photo — at Warnimont Park Golf Course. ... Cudahy, Wisconsin. Sports &amp; Recreation Golf Course &amp; Country Club.
+title: Warnimont Park Golf Course – MKE Golf
+snippet: This course is ideal for beginners and those who want to practice their short game, enjoy a fast, fun round of golf, or begin learning the game. Beautiful views of Lake Michigan make Warnimont a very nice place to play golf. Join us for a round at Warnimont – Book Your Tee Time.
+title: Warnimont Park Golf Course - Cudahy, WI (Address, Phone ...
+snippet: The Warnimont Park Golf Course, located in Cudahy, WI, is a Golf Course that offers playing grounds, practice areas for driving and putting, and other facilities for golfers. The Golf Course provides amenities such as lockers, changing rooms, and shower facilities.
+title: Warnimont Golf Course - Golf Info Guide
+snippet: Located in Cudahy, Wisconsin, the course has 18 holes and is a Public type golf course. Warnimont Golf Course policy on golf shoes with hard spikes is: yes. Geographically, the course&#39;s coordinates are 42.947547498926 latitude and -87.84748309468 longitude.
+title: Warnimont Park Golf Course, Cudahy, WI
+snippet: The 18-hole Warnimont course at the Warnimont Park Golf Course facility in Cudahy, Wisconsin features 2,717 yards of golf from the longest tees for a par of 54. The course rating is 0. 0 and it has a slope rating of 0.
+title: Warnimont Golf Course - Golf - 5400 S Lake Dr, Cudahy, WI ...
+snippet: Warnimont Golf Course is a beautiful par-3, 18-hole, executive county course. I am rating the course for what it is, not how it compares to regulation courses or beyond. Milwaukee County has 2 executive courses, the other being Hansen. I prefer Warnimont for it&#39;s Lake Michigan view setting It is also slightly longer than Hansen, by 500 yards.
+title: Warnimont Golf Course in Cudahy, Wisconsin, USA | Golf Advisor
+snippet: Warnimont Golf Course in Cudahy, Wisconsin: details, stats, scorecard, course layout, photos, reviews
+title: Warnimont Golf Course in Cudahy | Warnimont Golf Course ...
+snippet: Find Warnimont Golf Course in Cudahy with Address, Phone number from Yahoo US Local. Includes Warnimont Golf Course Reviews, maps &amp; directions to Warnimont Golf Course in Cudahy and more from Yahoo US Local.
+title: Warnimont Park 5400 S Lake Dr Cudahy, WI Golf Courses ...
+snippet: Get directions, reviews and information for Warnimont Park in Cudahy, WI. Warnimont Park 5400 S Lake Dr Cudahy WI 53110. 8 Reviews (414) 481-4730 Website. Menu &amp; Reservations Make Reservations . ... Great course to start your golf season especially if you haven&#39;t played in a long time.
+
+REL: 0
+POI Name: La Costeña Cafe
+POI City: West Allis
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: La Costeña Cafe - West Allis, Wisconsin - Menu, Prices ...
+snippet: La Costeña Cafe, West Allis, Wisconsin. 366 likes. Mexican and American food for Breakfast, Lunch and Dinner
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: La Costeña Cafe - West Allis, Wisconsin - Menu, Prices ...
+snippet: La Costeña Cafe, West Allis, Wisconsin. 328 likes. Mexican and American food for Breakfast, Lunch and Dinner
+title: La Costena Cafe menu - West Allis WI 53219 - (877) 585-1085
+snippet: Restaurant menu, map for La Costena Cafe located in 53219, West Allis WI, 5823 West Burnham Street.
+title: La Costeña Cafe in West Allis | La Costeña Cafe 5823 W ...
+snippet: Find La Costeña Cafe in West Allis with Address, Phone number from Yahoo US Local. Includes La Costeña Cafe Reviews, maps &amp; directions to La Costeña Cafe in West Allis and more from Yahoo US Local. Find La Costeña Cafe in West Allis with Address, Phone number from Yahoo US Local.
+title: La Costeña Cafe - Mexican Restaurant in West Allis
+snippet: 3 visitors have checked in at La Costeña Cafe. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: La Costeña Cafe - Mexican Restaurant in West Allis
+snippet: La Costeña Cafe. Mexican Restaurant in West Allis. Open today until 11:00 PM. Get Quote Call (414) 837-6685 Get directions WhatsApp (414) 837-6685 Message (414) 837-6685 Contact Us Find Table View Menu Make Appointment Place Order. Updates. Posted on Mar 7, 2019.
+title: La Costeña Cafe - Shepherd Express
+snippet: A Mexican restaurant has opened in West Allis in the former home of Antigua, which recently moved. La Costeña Cafe serves breakfast, lunch and dinner and offers a full bar. Breakfast items include Mexican specialties like chilaquiles ($8.99) and huevos con chorizo ($9.99), as well as American dishes like fresh berry waffles ($9.99).
+title: THE 10 BEST Cafés in West Allis - Tripadvisor
+snippet: Best Cafés in West Allis, Wisconsin: Find Tripadvisor traveler reviews of West Allis Cafés and search by price, location, and more.
+title: Now serving: La Costena Cafe in West Allis - OnMilwaukee
+snippet: A new Latin restaurant has opened its doors at 5823 W. Burnham St. La Costeña, ... La Costena Cafe is now open on Burnham in West Allis. Now serving: La Costena Cafe in West Allis. By Lori Fredrich
+
+Cand cities: {'Milwaukee', 'Wauwatosa', 'New Berlin', 'Glendale', 'Seattle', 'Wilmington', 'Chicago', 'Cedarburg', 'Cudahy', 'West Allis', 'Saint Francis', 'Waukesha'}

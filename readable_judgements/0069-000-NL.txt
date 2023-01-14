@@ -1,0 +1,704 @@
+City: Amsterdam
+Country: NL
+Main category: Nightlife
+Sub category: Dance clubs
+Description: Hi, Me and a few friends are planning on travelling to Amsterdam during the week, and I was wondering what the nightlife is like on monday - thursday, since these are the days that we'll be in the city. From what I've read, many places close at 01.00 am, but we've also had problems finding reliable information about this. Also, is there any specific clubs that you would recommend? We're all 19 and into dnb and deephouse as well as regular bigroom. I'll check the wiki for this one too.
+Rated POIs: 46
+Rel distr: [(0, 8), (1, 13), (2, 6), (3, 19)]
+=================================
+REL: 3
+POI Name: Escape
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Cafes, 
+Snippets:
+
+
+REL: 3
+POI Name: Shelter
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Panama
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Chicago Social Club
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Jimmy Woo
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Westerunie
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Club Nyx
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Smokey Amsterdam
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Bloemenbar
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Supperclub
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Cocktail Bars, Wine Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Club Mystique
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Club Mystique Amsterdam - Club nights, Events &amp; Concerts
+snippet: New hotspot in Amsterdam for Club nights, Events &amp; Concerts, and more. With the capacity of 450 and professionally equipped the perfect location in Amsterdam
+title: Club Mystique Amsterdam - Home | Facebook
+snippet: Club Mystique Amsterdam - Smaksteeg 19, 1012 SV Amsterdam, Netherlands - Rated 4.9 based on 47 Reviews &quot;My absolute favorite place to dance in Amsterdam....
+title: Club Mystique (Amsterdam, Nederland) - Anmeldelser
+snippet: Club Mystique, Amsterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Club Mystique i Amsterdam, Nederland på Tripadvisor.
+title: Club Mystique (Amsterdam) - 2020 All You Need to Know ...
+snippet: This club is a bit hidden away from all the other dancing places in Amsterdam and that is also maybe why I personally love it! After learning Cali style Salsa in Colombia and being back in Amsterdam I always wanted to practice as much as...
+title: Club Mystique 1 - Bilde av Club Mystique i Amsterdam ...
+snippet: Club Mystique, Amsterdam Bilde: Club Mystique 1 - Se Tripadvisor-medlemmers 50 325 objektive bilder og videoer av Club Mystique
+title: De 10 beste hotellene i nærheten av Club Mystique
+snippet: Hoteller i nærheten av Club Mystique, Amsterdam: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Club Mystique på Tripadvisor.
+title: Club Mystique (Amsterdam) - 2020 All You Need to Know ...
+snippet: Let me explain something about Club Mystique. Most people that are not from Amsterdam only read the name &quot;Club&quot; and think we are like a discotheque or place with house music. We are not an ordinairy club like that but specialized in latin music for dancers and the Friday night is a night where all the local salsa and bachata dancers come to dance.
+title: Club Mystique (Amsterdam, Nederländerna) - omdömen
+snippet: Club Mystique, Amsterdam: Läs recensioner av resenärer som du och se professionella bilder på Club Mystique i Amsterdam, Nederländerna på Tripadvisor.
+title: Shop - CLUB MYSTIQUE
+snippet: Products Archive - CLUB MYSTIQUE. Home / Shop Shop. No products were found matching your selection.
+title: Club Mystique | I amsterdam
+snippet: The venue accommodates up to 350 guests, and plays host to live music, dance parties, club nights and special events. Events are mostly Latin-oriented, including the salsa, merengue, kizomba, and bachata, but Club Mystique Amsterdam also hosts a wider range of music parties including soul, funk, hip hop, Brazilian, lindy hop and tango.
+
+REL: 3
+POI Name: Jantjes Verjaardag
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Disco Dolly
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: De Melkweg
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 3
+POI Name: Closure
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: AIR
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Café Amsterdamned
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Lido Club
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Ibiza Club
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Bar Lunar
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Winston Kingdom
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Paradiso Amsterdam
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Bitterzoet
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Club Up
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Clubnl
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 1
+POI Name: YoYo's Ice Corner
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: YoYo&#39;s ice corner - Home | Facebook
+snippet: YoYo&#39;s ice corner, Amsterdam. 506 likes. Een nieuwe en frisse zaak in Amsterdam zuid met heerlijk room- en yoghurtijs en een uitgebreide yoghurtbar.
+title: YoYo&#39;s ice corner - Ice Cream Shop in Amsterdam
+snippet: See 1 tip from 37 visitors to YoYo&#39;s ice corner. ... Ice Cream Shop in Amsterdam, Noord-Holland. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: YoYo&#39;s ice corner - Community | Facebook
+snippet: YoYo&#39;s ice corner, Amsterdam. 505 likes. Een nieuwe en frisse zaak in Amsterdam zuid met heerlijk room- en yoghurtijs en een uitgebreide yoghurtbar.
+title: YoYo&#39;s ice corner - Startpagina | Facebook
+snippet: YoYo&#39;s ice corner - Rijnstraat 58, 1078PS Amsterdam - Beoordeling van 4.9 op basis van 31 recensies &#39;Heerlijke ijsjes, die karamel zeezout is echt een...
+title: Yummy Ice cream! - Review of YoYo&#39;s ice corner, Amsterdam ...
+snippet: YoYo&#39;s ice corner: Yummy Ice cream! - See 7 traveler reviews, candid photos, and great deals for Amsterdam, The Netherlands, at Tripadvisor.
+title: YoYo&#39;s ice corner, Amsterdam - Rivierenbuurt - Restaurant ...
+snippet: Every evening, after having fun all over Amsterdam, our last stop was YoYo&#39;s ice corner for one scoop of delicious ice cream in cup. This little spot of heaven was right around the corner from our hotel (Hotel Victorie).
+title: YOYO&#39;S ICE CORNER, Amsterdam - Restaurantbeoordelingen ...
+snippet: YoYo&#39;s ice corner, Amsterdam: Bekijk 7 onpartijdige beoordelingen van YoYo&#39;s ice corner, gewaardeerd als 4 van 5 bij Tripadvisor en als nr. 2.787 van 4.227 restaurants in Amsterdam. &lt;/cf&gt;
+title: IJszaak YoYo&#39;s Ice Corner | Het Parool
+snippet: Plus Net Open IJszaak YoYo&#39;s Ice Corner. Elke dag openen nieuwe winkels, restaurants en cafés in de stad. In onze dagelijkse rubriek Open lees je erover.
+title: Yo Yo’s icecorner - Ice Cream &amp; Frozen Yogurt - Rijnstraat ...
+snippet: Yo Yo&#39;s icecorner in Amsterdam, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Amsterdam and beyond. Yo Yo’s icecorner - Ice Cream &amp; Frozen Yogurt - Rijnstraat 58, Rivierenbuurt, Amsterdam, Noord-Holland, The Netherlands - Yelp
+
+REL: 1
+POI Name: Café Life
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Pubs, 
+Snippets:
+title: Menu | cafe-amsterdam
+snippet: Located in the city center of Oslo, Cafe Amsterdam is a casual dining experience offering a simple yet very delicious menu with fresh, creative takes on classic dishes and drinks, and daring new ventures into the uncharted territories of flavor.
+title: Cafe Amsterdam | Oslo | Norway
+snippet: Cafe Amsterdam is a brilliant venue to hang out whether you are looking to dive into conversations with your family and friends or captivating, professionally-minded people. It&#39;s the perfect venue to celebrate social and corporate occasions from close-knit groups to the crowds of 200 guests! Do not hesitate and contact us now.
+title: Besloten feesten cafe Life
+snippet: Besloten feesten cafe Life
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+title: Café Life - Home | Facebook
+snippet: Café Life, Amsterdam, Netherlands. 15 likes · 1 was here. Besloten Café Life In cafe Life kan je terecht voor al je besloten feesten U bent gegarandeerd van een knalfeest als u uw feest bij ons viert...
+title: Dam Square Live Streaming Webcam, Amsterdam
+snippet: Dam square HD webcam streaming live from the NH Grand Hotel Krasnapolsky in Amsterdam, Netherlands. Here you can see on the left-hand side the beautiful neoclassical building of Royal Palace and the gothic Nieuwe Kerk (new church). On the right side there is the white Natio...
+title: Live Amsterdam Is The One And Only Party Piano Bar In The ...
+snippet: Live Amsterdam is the one and only party piano bar in the City Centre of Amsterdam. We have singing pianists and the best Dj’s who offer you and your friends live entertainment at the highest level. Our artists come from all over the world to sing your fa
+title: De 10 beste restaurantene i Amsterdam - Tripadvisor
+snippet: Beste restauranter i Amsterdam, Nederland: Se anmeldelser fra reisende og bilder av spisesteder i Amsterdam, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Bulldog??Coffee Shop?Amsterdam Live - YouTube
+snippet: Bulldog??Coffee Shop?Amsterdam Live Amsterdam Live. Loading... Unsubscribe from Amsterdam Live? ... Cafe Jazz Music 10 Hours - Relaxing Coffee Shop Background Music - Duration: ...
+title: Live music | Bars, Pubs &amp; Clubs | Amsterdam
+snippet: /Amsterdam/Alto-Jazz-Cafe_93525v. This legendary Amsterdam club is about as long as a train car, ... Popular with young urbanites, Bitterzoet is a club that specialises in live music with an edge from hip-hop to indie rock. Pay your admission on the ground … see more. Live music. Bourbon Street. Leidsekruisstraat 6 - 8
+
+REL: 1
+POI Name: Scottadito
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+title: Home - Scottadito Italian Restaurant Amsterdam
+snippet: Over ons. Een aantal absolute klassiekers wordt hier met een moderne kwinkslag nieuw leven ingeblazen. Scottadito is een gezellig Italiaans restaurant met pure, simpele producten zoals meerdere soorten pasta, pizza’s, bijbehorende verse kruiden, seizoensgebonden vlees en visgerechten en desserts.
+title: Scottadito Restaurant, Amsterdam - Oud Zuid - Menu, Prices ...
+snippet: Thank you so the wonderful Scottadito restaurant! This was my boyfriend and my favourite meal during our time in Amsterdam. V romantic and exceptional service from our waiter (Michelle?!)- particularly as he was working solo.
+title: Scottadito - Picture of Scottadito Restaurant, Amsterdam ...
+snippet: Scottadito Restaurant, Amsterdam Picture: Scottadito - Check out Tripadvisor members&#39; 50,352 candid photos and videos of Scottadito Restaurant
+title: Scottadito - lekker en snel ! - Italiaanse pizza ...
+snippet: Eten bestellen bij Scottadito. Onze website gebruikt analytische cookies om de werking van de website te verbeteren en reclame/tracking cookies om aan de gebruiker gerichte reclame te kunnen aanbieden.
+title: Scottadito Restaurant - Home - Amsterdam, Netherlands ...
+snippet: Scottadito Restaurant, Amsterdam, Netherlands. 205 likes. Scottadito is de plek waar de traditionele italiaanse keuken, samen met verse ingrediënten brengen een heerlijk gerecht op jouw tafel.
+title: Restaurants Near Scottadito Restaurant, Amsterdam, The ...
+snippet: Restaurants near Scottadito Restaurant, Amsterdam on Tripadvisor: Find traveler reviews and candid photos of dining near Scottadito Restaurant in Amsterdam, North Holland Province.
+title: Scottadito in Amsterdam - Restaurant Reviews, Menu and ...
+snippet: Scottadito in Amsterdam. Find restaurant reviews, menu, prices, and hours of operation for Scottadito on TheFork.
+title: Scottadito Restaurant, Amsterdam - Oud Zuid - Menu, Prices ...
+snippet: Scottadito Restaurant, Amsterdam: See 70 unbiased reviews of Scottadito Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #1,308 of 4,227 restaurants in Amsterdam.
+title: Scottadito Restaurant, Amsterdam - Oud Zuid - Menu, Prices ...
+snippet: Order food online at Scottadito Restaurant, Amsterdam with Tripadvisor: See 70 unbiased reviews of Scottadito Restaurant, ranked #1,305 on Tripadvisor among 4,218 restaurants in Amsterdam.
+title: Eat Me!! - Picture of Scottadito Restaurant, Amsterdam ...
+snippet: Scottadito Restaurant, Amsterdam Picture: Eat Me!! - Check out Tripadvisor members&#39; 50,375 candid photos and videos of Scottadito Restaurant
+
+REL: 1
+POI Name: De Pure Markt
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: Pure Markt - Reizende zondagsmarkt in en om Amsterdam
+snippet: Locaties. De Pure Markt is een reizende zondags markt. Je vindt ons op drie vaste, groene, autovrije locaties in Amsterdam en incidenteel in een bijzondere winkelstraat van bijvoorbeeld Hilversum en Abcoude.
+title: English - Pure Markt
+snippet: The Pure Markt (Pure Market) is one of Holland’s most renowned markets; a source of exceptional, artisan, Dutch and international produce, food and creativity. Approximately 70% of our stalls are food related and the rest is a mix of designer, vintage and gift items.
+title: Pure Markt | I amsterdam
+snippet: Dates, time and places The Pure Markt is a travelling Sunday market with its base in Amsterdam. Check the website for the dates, time and places – the park travels between Amstelpark, Park Frankendael and Amsterdamse Bos. Winter markets take place this year 22 December, 11:00-17:00, at Park Frankendael.
+title: Pure Markt | I amsterdam
+snippet: De Pure Markt wil je graag kennis laten maken met ambachtelijke ondernemers op het gebied van lekker eten en drinken en een bijzonder assortiment non-food. Op de markt vind je pure producten, verkocht door de producenten zelf. Zij kunnen je informeren over de ingrediënten, herkomst en het productieproces.
+title: Pure Markt - Amsterdam, Netherlands | Facebook
+snippet: Pure Markt, Amsterdam (Amsterdam, Netherlands). 17,860 likes · 158 talking about this · 858 were here. Ambachtelijke eten, drinken en gezelligheid. Exceptional, artisan food and drink. Voor data en...
+title: Amstelpark Amsterdam - Pure Markt
+snippet: Amstelpark Amsterdam. Het Amstelpark, gelegen aan de Amstel, is ontworpen voor de Floriade van 1972, vandaar dat er in dit park nog een grote verscheidenheid aan bloemen, planten en bomen te vinden is. Een uitstekende lokatie dus voor de Pure Markt. Midden in het park vind je onze unieke deelnemers op het gebied van eten, drinken en creativiteit.
+title: Park Frankendael - Pure Markt
+snippet: Park Frankendael, Amsterdam Op de locatie van de voormalige stadskwekerij van Amsterdam vind je Park Frankendael, het grootste en belangrijkste ecologische park van de stad. De historische tuinen rondom buitenplaats Frankendael zijn in oude luister hersteld, en in Huize Frankendael vind je tegenwoordig restaurant Merkelbach.
+title: Agenda Pure Markt - Locaties, data en tijden van de Pure Markt
+snippet: Pure Markt agenda. Bekijk de Pure Markt agenda voor data, tijden en locaties van de markt. Alle locaties zijn in Amsterdam tenzij ander aangegeven. De Pure Markt is een reizende zondags markt. Je vindt ons op drie vaste, groene, autovrije locaties in Amsterdam. Af en toe zijn we te vinden in een bijzondere winkelstraat van bijvoorbeeld Hilversum.
+title: Amsterdams Märkte | Amsterdam.info
+snippet: Amsterdam » Amsterdams Märkte. Amsterdams Märkte. Das Einkaufen auf Amsterdams Märkten ist ein Ereignis der besonderen Art, farbenfrohe Stände, Live-Musik und dazu noch ausgefallene Schnäppchen und preisgünstige Souvenirs. Kaum einer der echten Einwohner würden Ihnen wiedersprechen, wenn Sie die Märkte als Teil des Amsterdamer Sozialleben bezeichnen würden.
+title: Pure Markt - Amsterdam Forum - Tripadvisor
+snippet: Answer 1 of 7: I love markets and am already planning to go to the Cuyp markt and Dappermarkt during our upcoming trip. However, I just read about this market on Sundays and it looks family friendly and different from the others. Is it big enough to make it...
+
+REL: 1
+POI Name: Snackbar 't Vogeltje
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, 
+Snippets:
+
+
+REL: 1
+POI Name: Rock and Run
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Active Life, 
+Snippets:
+title: Rock + Run
+snippet: CLIMB LIMITED - T/A ROCK + RUN. Shoreline Business Park, Sandside, Cumbria, LA7 7BF. United Kingdom. Company Number: 03252430. VAT Number: GB378556010 . We DO NOT offer in-store purchase, only Click &amp; Collect.
+title: Rock and Run - Home | Facebook
+snippet: Rock and Run, Amsterdam. 6,981 likes · 1 talking about this · 266 were here. NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats vanaf de...
+title: Rock and Run, Noordermarkt, Amsterdam (2020)
+snippet: NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats vanaf de Noordermarkt in Amsterdam. Deze muzikale Fun Run van 6km en 12km wordt georganiseerd door de makers van onder andere The Color Run en Electric Run. Een editie vol muziek, verkleden en een groot feest bij de finish op de Noordermarkt.
+title: Rock and Run - Jordaan - Amsterdam, Noord-Holland, The ...
+snippet: 2 reviews of Rock and Run &quot;My favorite race in Amsterdam! Ok, my only race in Amsterdam so far... I wouldn&#39;t call myself a runner, and likewise this isn&#39;t your typical race. It&#39;s more for fun than anything else -- they don&#39;t even time you! (I…
+title: Rock and Run - Startpagina | Facebook
+snippet: Rock and Run, Amsterdam. 6.909 vind-ik-leuks · 1 personen praten hierover · 261 waren hier. NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats...
+title: Rock And Run - Athletics &amp; Sports in Amsterdam
+snippet: See 3 photos from 57 visitors to Rock And Run. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hardlopen in Amsterdam - Hardloopkalender
+snippet: Amsterdam is een plaats waar u goed kunt hardlopen. In Amsterdam kunt u hardlopen bij de onderstaande hardloopevenementen uit de hardloopkalender. Daarnaast kunt u in Amsterdam hardlopen bij een hardloopvereniging, club of loopgroep. Start to Run of beginnen met hardlopen is ook mogelijk.
+title: Rock and Run, Amsterdam – The Cuban Brothers!
+snippet: Rock and Run, Amsterdam. By Kengo June 5, 2012 No Comments. While everyone in the UK was busy celebrating the Diamond Jubilee, the Brothers were Rocking and Running in Amsterdam. An event that combines music with a 6K run, The Jacks kicked off the stage in the early afternoon as the runners took to the course.
+
+REL: 1
+POI Name: Café Alto
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Jazz & Blues, 
+Snippets:
+
+
+REL: 1
+POI Name: Deli Company
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Sandwiches, Imported Food, 
+Snippets:
+
+
+REL: 1
+POI Name: De Kroegtijger
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, Lounges, 
+Snippets:
+title: Café de Kroegtijger - Home | Facebook
+snippet: Café de Kroegtijger, Amsterdam. 2.1K likes. Bediening zoals het hoort in een kroeg met een Amsterdamse ziel , fijne muziek en reet goede cocktails.
+title: Kroegtijger, Amsterdam - Centrum - Restaurant Reviews ...
+snippet: Kroegtijger, Amsterdam: See 94 unbiased reviews of Kroegtijger, rated 5 of 5 on Tripadvisor and ranked #228 of 4,218 restaurants in Amsterdam. Flights ... To visit Amsterdam and not explore De Wallen (the Dutch name for this area) or to go only to gawk at its
+title: KROEGTIJGER, Amsterdam - Centrum - Updated 2020 Restaurant ...
+snippet: Kroegtijger, Amsterdam: See 94 unbiased reviews of Kroegtijger, rated 5 of 5 on Tripadvisor and ranked #210 of 4,228 restaurants in Amsterdam. Flights Holiday Rentals ... To visit Amsterdam and not explore De Wallen (the Dutch name for this area) or to go only to gawk at its
+title: Påsketur - Anmeldelse for Kroegtijger, Amsterdam ...
+snippet: Kroegtijger: Påsketur - Se 94 reiseanmeldelser, 54 objektive bilder og gode tilbud på Amsterdam, Nederland på Tripadvisor.
+title: Kroegtijger, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Kroegtijger, Amsterdam: Se 94 objektive anmeldelser av Kroegtijger, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 200 av 4 235 restauranter i Amsterdam.
+title: Amsterdam - Review of Kroegtijger, Amsterdam, The ...
+snippet: Kroegtijger: Amsterdam - See 94 traveler reviews, 54 candid photos, and great deals for Amsterdam, The Netherlands, at Tripadvisor.
+title: KROEGTIJGER, Amsterdam - Restaurantbeoordelingen - Tripadvisor
+snippet: Kroegtijger, Amsterdam: Bekijk 94 onpartijdige beoordelingen van Kroegtijger, gewaardeerd als 5 van 5 bij Tripadvisor en als nr. 210 van 4.227 restaurants in Amsterdam. &lt;/cf&gt;
+title: Café de Kroegtijger - Posts | Facebook
+snippet: Café de Kroegtijger - Zeedijk 134, 1012bc Amsterdam, Netherlands - Rated 5 based on 49 Reviews &quot;Chilled environment, good beer. What else do you need? An...
+title: Kroegtijger, Amsterdam - Centrum - Restaurant Reviews ...
+snippet: Kroegtijger, Amsterdam: See 94 unbiased reviews of Kroegtijger, rated 5 of 5 on Tripadvisor and ranked #199 of 4,229 restaurants in Amsterdam.
+title: De Kroegtijger - De Wallen - Amsterdam, Noord-Holland, The ...
+snippet: 12 reviews of De Kroegtijger &quot;Amazing place !! Nick is such a great host. We went on our first night in Amsterdam and he made us feel like regulars. Great stories. Amazing tips for enjoying the city. The prices are very reasonable for and taste…
+
+REL: 1
+POI Name: Door 74
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Café Vergnano
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Caffè Vergnano, the real Italian espresso since 1882.
+snippet: Caffè Vergnano has decided to support God&#39;s Love We Deliver. God&#39;s Love We Deliver provides nutrition therapy, and cooks and home-delivers medically tailored meals for people living with severe illness in the New York City metropolitan area. Starting from April 15 Caffè Vergnano will donate one free meal out of every order purchased on its official online store to stay closer to the New Yo
+title: Caffè Vergnano - Home | Facebook
+snippet: Caffè Vergnano, Amsterdam. 486 likes · 1 talking about this · 716 were here. Caffè Vergnano, real Italian espresso since 1882. Discover all the products, initiatives, promotions and Caffè Vergnano...
+title: Caffè Vergnano 1882, Amsterdam - Restaurantanmeldelser ...
+snippet: Caffè Vergnano 1882, Amsterdam: Se 34 objektive anmeldelser av Caffè Vergnano 1882, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 571 av 4 227 restauranter i Amsterdam.
+title: Caffè Vergnano, l’autentico espresso italiano dal 1882
+snippet: Caffè Vergnano è al fianco delle #womenincoffee: scopri i nostri progetti, le iniziative e la partnership con l’International Women’s Coffee Alliance (IWCA)che supporta le donne che lavorano nel mondo del caffè.
+title: Caffè Vergnano - Home | Facebook
+snippet: Caffè Vergnano, Il-Hamrun. 346 likes · 5 talking about this · 89 were here. Caffè Vergnano: a history of more than 130 year characterized by tradition and innovation dedicated to bring the highest...
+title: Caffè Vergnano 1882 - Home | Facebook
+snippet: Caffè Vergnano 1882. 1,408 likes · 937 were here. Caffè Vergnano, the most ancient Italian coffee roaster, welcomes you to a warm and natural environment, for a pleasurable break.
+title: Caffè Vergnano 1882 - Schuman - Brussels, Belgium | Facebook
+snippet: Caffè Vergnano 1882 - Schuman - Rond-Point Robert Shuman 7, 1040 Brussels, Belgium - Rated 4.2 based on 17 Reviews &quot;Top breakfast!Kind Staff and Nice...
+title: Caffè Vergnano 1882 - Home | Facebook
+snippet: Caffè Vergnano 1882, Biella, Italy. 10K likes. Un caffè così non si prende. Si sceglie. La grafica e creatività sono coordinate e di proprietà di Birreria Biellese, tutti i diritti riservati.
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+title: Coffee Blend 1882 Espresso: our best blend - Caffè Vergnano
+snippet: Caffè Vergnano’s good taste is not only expressed through coffee. The entire range of chinaware and glasses has been carefully designed to blend in perfectly in a young, cosmopolitan and familiar environment.
+
+REL: 1
+POI Name: The Walrus En Carpenter
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, 
+Snippets:
+title: The Walrus &amp; The Carpenter // Amsterdam City Guide
+snippet: au fruits de mer AND MORE SEAFOOD AT THE WALRUS &amp; THE CARPENTER. Lots of new hotspots are opening their doors in Amsterdam East, like The Walrus &amp; The Carpenter. Recently we went there for an extensive tasting and my-oh-my, it made is very happy.
+title: The Walrus En Carpenter - Indische Buurt - Amsterdam ...
+snippet: 3 reviews of The Walrus En Carpenter &quot;Get your Kibbeling on! I was lucky to cycle by here on the first decent terrace night of the year, I saw a spot opening up and grabbed it up quickly. It turned out be a great decision. Located just next to…
+title: The Walrus &amp; The Carpenter - Home | Facebook
+snippet: The Walrus &amp; the Carpenter stopt en gaat verder als &#39;Fyrre&#39;. Chef Folkert is lange tijd op zoek geweest naar de perfecte plek om zijn eigen visbar te openen en heeft met het overnemen van the Walrus &amp; the Carpenter zijn droomlocatie gevonden.
+title: The Walrus &amp; The carpenter Amsterdam, Bar Amsterdam
+snippet: The Walrus &amp; The carpenter, Oesterbar Oost. Soms wil je je weekend gewoon even extra goed beginnen en voor een aantal van ons betekent dit Oesters en bubbels. Laat deze nieuwe bar in Oost dit nu perfect begrijpen. Ze strijken zomaar even neer op de Javastraat in Oost en wij schuiven daar dan aan. Oesters en drankjes? Daar zeggen wij geen nee tegen.
+title: The Walrus &amp; the Carpenter, Amsterdam - Indische Buurt ...
+snippet: The Walrus &amp; the Carpenter, Amsterdam: See 5 unbiased reviews of The Walrus &amp; the Carpenter, rated 4.5 of 5 on Tripadvisor and ranked #2,973 of 4,228 restaurants in Amsterdam.
+title: THE WALRUS &amp; THE CARPENTER, Amsterdam ...
+snippet: The Walrus &amp; the Carpenter, Amsterdam: Bekijk 5 onpartijdige beoordelingen van The Walrus &amp; the Carpenter, gewaardeerd als 4,5 van 5 bij Tripadvisor en als nr. 2.974 van 4.227 restaurants in Amsterdam. &lt;/cf&gt;
+title: The Walrus and the Carpenter, Seattle ...
+snippet: The Walrus and the Carpenter, Seattle: Se 498 objektive anmeldelser av The Walrus and the Carpenter, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 43 av 4 013 restauranter i Seattle. Fly Restauranter ... Walrus og snekker er en av de beste østersbarene vi har vært på - om ikke det beste.
+title: The Walrus &amp; The Carpenter - Posts | Facebook
+snippet: ** van 5 t/m 18 december zijn wij gesloten voor een kleine verbouwing ** The Walrus &amp; the Carpenter stopt en gaat verder als &#39;Fyrre&#39;. Chef Folkert is lange tijd op zoek geweest naar de perfecte plek om zijn eigen visbar te openen en heeft met het overnemen van the Walrus &amp; the Carpenter zijn droomlocatie gevonden.
+title: The Walrus &amp; the Carpenter, Amsterdam - Indische Buurt ...
+snippet: The Walrus &amp; the Carpenter, Amsterdam: See 5 unbiased reviews of The Walrus &amp; the Carpenter, rated 4.5 of 5 on Tripadvisor and ranked #2,973 of 4,227 restaurants in Amsterdam.
+title: The Walrus and the Carpenter - Wikipedia
+snippet: The Walrus and the Carpenter are the eponymous characters in the poem, which is recited by Tweedledum and Tweedledee to Alice. Walking upon a beach one night when both sun and moon are visible, the Walrus and Carpenter come upon an offshore bed of oysters.Groups of four are called up; the exact number is unknown.
+
+REL: 1
+POI Name: Wolvenstraat 23
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Asian Fusion, Bistros, 
+Snippets:
+title: Wolvenstraat | Winkels | De 9 Straatjes, Amsterdam
+snippet: De 9 Straatjes is onderdeel van de Amsterdamse grachtengordel, welke op de Unesco Wereld Erfgoedlijst staat sinds 2010. De 9 Straatjes in Amsterdam bieden een gevarieerd aanbod aan winkels, restaurants, hotels, museums, architectuur, cultuur en kunst.
+title: Wolvenstraat 23 - Amsterdam, Netherlands - Burger ...
+snippet: Wolvenstraat 23, Amsterdam, Netherlands. 203 likes · 1,953 were here. Burger Restaurant
+title: Wolvenstraat 23 - Negen Straatjes - Amsterdam, Noord ...
+snippet: 6 reviews of Wolvenstraat 23 &quot;This place without branding, with maybe revoked renaming (was called Cafe Cake for some time - according to Yelp) is very busy at lunchtime. It&#39;s cozy and great to meet up with friends for a decent lunch. The food is…
+title: Wolvenstraat 23 Bar in Amsterdam, The Netherlands travel ...
+snippet: Wolvenstraat 23, Bar in Amsterdam, The Netherlands with the best reviews and photos for Wolvenstraat 23.
+title: Nice atmosphere and good music! - Picture of Wolvenstraat ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Nice atmosphere and good music! - Check out TripAdvisor members&#39; 50,001 candid photos and videos of Wolvenstraat 23. Amsterdam. Amsterdam Tourism Amsterdam Hotels Amsterdam Bed and Breakfast Amsterdam Vacation Rentals Amsterdam Vacation Packages
+title: Wolvenstraat 23 (Now Closed) - Asian Restaurant in Amsterdam
+snippet: wolvenstraat 23 amsterdam • wolvenstraat 23 amsterdam photos • wolvenstraat 23 amsterdam location • wolvenstraat 23 amsterdam address • wolvenstraat 23 amsterdam • wolvensteaat 23 amsterdam • wolvenstraat 23 amsterdam • wolvenstraat 23 grachtengordel-west amsterdam
+title: Wolvenstraat 23 – Amsterdam – J E M S
+snippet: Wolvenstraat 23 changed up their decor in October 2014 (oh Facebook, the source of all such knowledge) and I really like their laidback vibe. The furniture is quirky and fun. There was a lot of artwork on the walls and the bathroom sink was stunning! So if you eat there, also visit the bathroom! I really liked the menu.
+title: Wolvenstraat 23 - Picture of Wolvenstraat 23, Amsterdam ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Wolvenstraat 23 - Check out Tripadvisor members&#39; 50,841 candid photos and videos.
+title: WOLVENSTRAAT 23, Amsterdam - Omdömen om restauranger ...
+snippet: Den här tjänsten kan innehålla översättningar som drivs av Google. Google avsäger sig alla garantier relaterade till översättningar, uttryckta eller underförstådda, inklusive eventuella garantier av korrekthet, pålitlighet och alla underförstådda garantier för säljbarhet, skick för ett särskilt syfte och icke-intrång.
+title: Nice atmosphere and good music! - Picture of Wolvenstraat ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Nice atmosphere and good music! - Check out Tripadvisor members&#39; 50,915 candid photos and videos.
+
+REL: 0
+POI Name: Genroku
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Japanese, 
+Snippets:
+title: Genroku - Korting bij sushi eten, japans restaurant amsterdam
+snippet: Amsterdam Japans Restaurant dat onbeperkt sushi eten serveert. Wij bieden een grote variatie van Japanse Sushi Maken, tegen een all in prijs. Reserveer snel.
+title: Genroku, Amsterdam - Centrum - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Genroku, Amsterdam with Tripadvisor: See 123 unbiased reviews of Genroku, ranked #1,659 on Tripadvisor among 4,218 restaurants in Amsterdam.
+title: Genroku Japanese Restaurant | Home
+snippet: Amsterdam Japanese Restaurant serving unlimited sushi food. ... Genroku uses cookies and scripts from Google to analyze your use of our websites in an anonymous way, so that we can adjust functionality and effectiveness. More information is available in our privacy - and cookie statement.
+title: Genroku, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Genroku, Amsterdam: Se 124 objektive anmeldelser av Genroku, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 698 av 4 227 restauranter i Amsterdam.
+title: Prijzen &quot;ALL YOU CAN EAT&quot; Sushi Restaurant Genroku
+snippet: Genroku gebruikt cookies en scripts van Google om uw gebruik van onze websites geanonimiseerd te analyseren, zodat we functionaliteit en effectiviteit kunnen aanpassen. ... 1017 BM Amsterdam 020 - 3304753 restaurant2@genroku.nl. Reserveren Afhalen Vacatures Link Partners
+title: GENROKU, Amsterdam - Centrum - Updated 2020 Restaurant ...
+snippet: Order takeaway and delivery at Genroku, Amsterdam with Tripadvisor: See 124 unbiased reviews of Genroku, ranked #1,699 on Tripadvisor among 4,227 restaurants in Amsterdam.
+title: THE 10 BEST Restaurants Near Genroku in Amsterdam, North ...
+snippet: Restaurants near Genroku, Amsterdam on Tripadvisor: Find traveler reviews and candid photos of dining near Genroku in Amsterdam, North Holland Province.
+title: Genroku - Sushi &amp; Grill - Sushi, Japans bestellen
+snippet: Eten bestellen bij Genroku. Inside out. € 7,85 Inside out zalm 8 stuks met zalm en avocado; € 8,40 Inside out tonijn 8 stuks met tonijn en avocado; € 7,85 Inside out California 8 stuks met krab, avocado, komkommer, mayonaise en tobiko; € 8,40 Inside out ugani Met aal en avocado; € 7,85 Inside out chicken 8 stuks met avocado, kip filet, tobiko kuit en saus; € 8,40 Inside out beef ...
+title: Genroku, Amsterdam - Reguliersdwarsstraat 18, Centrum ...
+snippet: Genroku, Amsterdam: See 121 unbiased reviews of Genroku, rated 4 of 5 on Tripadvisor and ranked #1,651 of 4,206 restaurants in Amsterdam.
+title: Sushi - Picture of Genroku, Amsterdam - Tripadvisor
+snippet: Genroku, Amsterdam Picture: Sushi - Check out Tripadvisor members&#39; 52,666 candid photos and videos of Genroku
+
+REL: 0
+POI Name: Pekmarkt
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: Pekmarkt Amsterdam Noord | Yourlittleblackbook.me
+snippet: From organic food to curiosities at the Pekmarkt in Amsterdam! The Pekmarkt in Amsterdam North is a must visit if you like to shop your weekly groceries at the market. Since Yourlbb loves Amsterdam North we can never have too many reasons to take the ferry along the IJ-lake.
+title: Algemene Informatie - Pekmarkt Amsterdam - Noord | Pekopnoord
+snippet: De warenmarkt, die al sinds 1920 een begrip is in Amsterdam-Noord en omstreken, is in september 2014 verplaatst van het Mosplein naar de Van der Pekstraat. Alle vertrouwde gezichten op de markt verhuisden mee, maar in de straat is ook plek voor nieuwe ondernemers. Iedere woensdag, vrijdag en zaterdag is er markt op de Van der Pekstraat in Amsterdam Noord. De Pekmarkt is een combinatie van ...
+title: De Bonte Pekmarkt - Amsterdam, Netherlands | Facebook
+snippet: De Bonte Pekmarkt, Amsterdam. 202 likes · 1 talking about this. Company
+title: Pekmarkt, Amsterdam | Ticket Price | Timings | Address ...
+snippet: Do you want to know the entry ticket price for Pekmarkt? Opening &amp; closing timings, parking options, restaurants nearby or what to see on your visit to Pekmarkt? Click Now to check the details!
+title: Impressie Pekmarkt - v/d Pekstraat Amsterdam | Pekopnoord
+snippet: Film en beeldmateriaal van de Pekmarkt in Amsterdam Noord
+title: 5 things to do in Noord | I amsterdam
+snippet: Amsterdam Noord is beautiful, green and family-friendly, ... 5 things to do in Noord . ... thriving places like the Pekmarkt street market. The colours, smells and buzz alone make the trip worthwhile, but you’ll also want to do some shopping while you’re there.
+title: Eerste Pekmarkt in de Van der Pekstraat Amsterdam Noord ...
+snippet: Eerste Pekmarkt(verhuisde Mosveldmarkt) in de verbouwde Van der Pekstraat Amsterdam Noord.
+title: Pekmarkt amsterdam Noord opening 12 0ktober 2014 filmwerk ...
+snippet: Pekmarkt in vd Pekstraat. Opening 12 oktpober 2014 10 jaar geleden ontmoetten we in onze film Stad over het Water de oud Noorderlingen Bertus en Carla op de Mosveldmarkt samen met wethouder Kees ...
+title: The Top 10 Things To See And Do In Amsterdam-Noord
+snippet: Amsterdam’s hippest area, the uptown, also known as Amsterdam-Noord, is full of things to see and do. It officially became part of the city in 1393 and used to be an area where heavy industry was concentrated, but nowadays artists and young people have populated the area, making it the perfect mix of the urban and the creative.
+title: Country picker | Søstrene Grene
+snippet: Some are used for statistical purposes and others are set up by third party services. By clicking ‘OK’, you accept the use of cookies. We and our partners use technologies, including cookies, to collect information about you for various purposes, including:
+
+REL: 0
+POI Name: Pancake Bar
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, 
+Snippets:
+title: Top 10 pancake restaurants in Amsterdam | I amsterdam
+snippet: Every day is Pancake Day in Amsterdam! ... Pair a drink with a panorama of the city at one of the best rooftop bars in Amsterdam. As scenic spots to eat, drink and socialise, these roof terrace... Read more. 10 hidden gems in Amsterdam. ... Top 10 pancake restaurants in Amsterdam.
+title: Pancake Bar - Centrum - Amsterdam, Noord-Holland, The ...
+snippet: Pancake Bar was awesome. I ordered a natural pancake with bananas and Nutella (nom nom nom) and my wife ordered an omelette. The water on the table isn&#39;t free, which is fine since we were thirsty. No wait to sit down but we came soon after they opened. Service was speedy for us, but then again we were one of the first ones to arrive.
+title: The Pancake Bakery, Amsterdam - Centrum - Menu, Prices ...
+snippet: The Pancake Bakery, Amsterdam: See 4,582 unbiased reviews of The Pancake Bakery, rated 4 of 5 on Tripadvisor and ranked #503 of 4,228 restaurants in Amsterdam.
+title: Pancake en Burger Bar, Amsterdam - Restaurantanmeldelser ...
+snippet: Pancake en Burger Bar, Amsterdam: Se 334 objektive anmeldelser av Pancake en Burger Bar, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 483 av 4 206 restauranter i Amsterdam.
+title: Welkom | The Pancake Bakery
+snippet: Genieten van een heerlijke pannenkoek op een prachtige locatie in het centrum van Amsterdam? Dat kan bij The Pancake Bakery! In ons sfeervolle 17e-eeuwse pakhuis aan de Prinsengracht kunt u terecht voor zowel deze ambachtelijke oud-Hollandse lekkernij als voor andere traditionele gerechten.
+title: Top 5 Pancake Restaurants in Amsterdam - TripSavvy
+snippet: What truly sets Dutch pancakes apart from our maple syrup laden American pancakes is the time they are served. More often a dinner dish, most pancake restaurants in Amsterdam do not even open until well after breakfast time! However, if you&#39;ve ever had breakfast for dinner, you will thoroughly enjoy eating these salty or sweet but always fluffy little clouds at any time of the day or night.
+title: Best Pancakes Amsterdam - enjoy more than 30 pancakes ...
+snippet: Pancakes Amsterdam lets the whole world enjoy the traditional and typical dutch pancakes. We serve each pancake with a modern, new twist by combining cultures and countries. Experience now the best pancakes in one of our four restaurants in Amsterdam. For
+title: Carousel Pancake House, Amsterdam - Centrum - Menu, Prices ...
+snippet: Carousel Pancake House, Amsterdam: See 569 unbiased reviews of Carousel Pancake House, rated 4 of 5 on Tripadvisor and ranked #410 of 4,228 restaurants in Amsterdam.
+title: Pancake Bar - Home | Facebook
+snippet: Pancake Bar - Lange Leidsedwarsstraat 33, 1017 NG Amsterdam, Netherlands - Rated 4.8 based on 29 Reviews &quot;It was amazing place for breakfast to eat, i...
+title: Pancake Bar Restaurant - Amsterdam, Noord-Holland | OpenTable
+snippet: The Pancake Bar is the perfect pick for impromptu meals, dining on a budget and fun outings with friends or friends. Visit for breakfast and indulge in some savory pancakes and a cheese omelet, complemented with some fresh mint tea. The menu also features gluten-free pancakes, providing an appealing option for guests with dietary restrictions.
+
+REL: 0
+POI Name: Sportcentrum Universum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Tennis, Sports Clubs, Climbing, 
+Snippets:
+
+
+REL: 0
+POI Name: Ikura
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, 
+Snippets:
+title: Hotel Okura Amsterdam - Experience the exquisite
+snippet: Hotel Okura Amsterdam is one of the most complete five star Superior hotels of the Netherlands Hotel Okura Amsterdam - Experience the exquisite Rooted in the art of Japanese service, Hotel Okura Amsterdam offers peaceful luxury in Amsterdam, just 15 minutes from Schiphol International Airport.
+title: Ikura Sushibar Amsterdam - GRATIS frisdrank bij online ...
+snippet: Ikura Sushibar Amsterdam Actie: Bij elke bestelling via onze website krijgt u een gratis drankje, en v.a. €85 een gratis fles wijn! Hieronder kunt u onze menukaart bekijken, en uw bestelling plaatsen. Eet smakelijk!
+title: Experience the exquisite - Hotel Okura Amsterdam
+snippet: Hotel Okura Amsterdam biedt complete luxe in Amsterdam op slechts 15 minuten van Schiphol International Airport. Het hotel is lid van The Leading Hotels of the World en gevestigd in de bruisende wijk de Pijp. Daarnaast biedt het hotel met zijn 23 verdiepingen een adembenemend uitzicht over de stad.
+title: Ikura Sushi Bar, Amsterdam - Restaurantanmeldelser ...
+snippet: Ikura Sushi Bar, Amsterdam: Se 47 objektive anmeldelser av Ikura Sushi Bar, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 847 av 4 227 restauranter i Amsterdam.
+title: Dine &amp; Drink - Hotel Okura Amsterdam
+snippet: Reservations for groups larger than 7 persons can be made with our restaurant reservations team. Close---- Reserve your table. The health and well-being of our guests and colleagues is always our top priority. We strictly ... Hotel Okura Amsterdam brings back a hint of this tradition to Amsterdam.
+title: Amsterdam - Hotel Okura Amsterdam
+snippet: Hotel Okura Amsterdam is situated at the Ferdinand Bolstraat, named after the artist Ferdinand Bol, and is considered… Read more. Amsterdam. Amsterdam’s countryside. Zaanse Schans, Volendam and Marken Visiting Amsterdam can mean many things, but first and foremost, it is a… Read more.
+title: HOTEL OKURA AMSTERDAM (Nederland) - Hotell - anmeldelser ...
+snippet: Hotel Okura Amsterdam, Amsterdam: Se 3 137 reiseanmeldelser, 1 745 bilder og gode tilbud for Hotel Okura Amsterdam, vurdert som nr. 37 av 403 hotell i Amsterdam og vurdert til 4,5 av 5 på Tripadvisor.
+title: De 10 beste restaurantene i Amsterdam - Tripadvisor
+snippet: Beste restauranter i Amsterdam, Nederland: Se anmeldelser fra reisende og bilder av spisesteder i Amsterdam, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Hotel Okura Amsterdam - Hotel Okura Amsterdam
+snippet: Hotel Okura Amsterdam is one of the most complete five star Superior hotels of the Netherlands. 日本語でのご予約は、こちらよりお願いいたします。www.okura-nikko.com オランダの5 つ星ホテルの中でも最も洗練さ ...
+title: HOTEL OKURA AMSTERDAM - TripAdvisor
+snippet: Now $201 (Was $̶2̶3̶2̶) on Tripadvisor: Hotel Okura Amsterdam, Amsterdam. See 3,137 traveler reviews, 1,745 candid photos, and great deals for Hotel Okura Amsterdam, ranked #37 of 403 hotels in Amsterdam and rated 4.5 of 5 at Tripadvisor.
+
+REL: 0
+POI Name: Koh-I-Noor
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Restaurant Vinkeles
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+
+
+REL: 0
+POI Name: Blijdorp Festival
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, 
+Snippets:
+title: Blijdorp Festival 2020 • 8th of August 2020 • Rotterdam
+snippet: 20 februari 2020. START KAARTVERKOOP BLIJDORP 2020. Blijdorp blijft groeien in het best verborgen stukje groen van Rotterdam. Op 8 augustus breiden we opnieuw uit in het Roel Langerakpark met overwoekerde stages, groene partners en sappige bospaadjes, daarover later meer..
+title: Blijdorp Festival - Home | Facebook
+snippet: Blijdorp Festival - Roel Langerakpark, 3041 Rotterdam, Netherlands - Rated 4.5 based on 6 Reviews &quot;Altijd gezellig, top aankleding en sinds vorig jaar de...
+title: Tickets - Blijdorp Festival
+snippet: Next up: 08/08: Blijdorp Festival 2020. Blijdorp Festival August 8, 2020. Blijdorp Festival; Tickets; Line-up; Information; Over Ons Meer informatie. Duurzaamheid ...
+title: Blijdorp Festival - Blijdorp Festival
+snippet: Blijdorp Festival 2020. Blijdorp combines ‘Music, Art &amp; Happiness’ at its events, with the summer edition as an annual highlight. Join us for our 7th summer edition, where the Roel Langerakpark will host a green land of discovery, with stages set amongst its forests and alongside its lake.
+title: Line-up - Blijdorp Festival
+snippet: line-up. Blijdorp Festival - 8 August 2020. The lineup. will be
+title: Aftermovie Blijdorp Festival 2018 - YouTube
+snippet: Aftermovie Blijdorp Festival 2018 Blijdorp Festival. Loading ... Rotterdam Rave Festival 2017 - Aftermovie - Duration: 1:19. Rotterdam Rave Recommended for you. 1:19.
+title: Blijdorp Festival - Rotterdam Festivals
+snippet: Entering Blijdorp Festival is like stepping into another world! Go al out at the main stage, discover new bands over by the live stage and get lost in the tipi town. The festival focuses on music, food, art and culture. With a line-up full of techno and house, live acts and hip hop, there is a stage for everyone&#39;s taste. More info coming soon.
+title: Blijdorp Festival 2019 - Festicket
+snippet: Blijdorp Festival is a house and techno festival in Rotterdam. Heading into its sixth year, the festival has grown into one of the city&#39;s top boutique music experiences. Annually curating one of the best lineups of underground electronic acts in the country, Blijdorp Festival is full of artists you should get to know if you haven&#39;t already.
+title: Blijdorp Festival 2020 - Tickets &amp; Line-up - 8 aug. Rotterdam
+snippet: Blijdorp Festival 2020. Op zaterdag 8 augustus is het weer tijd voor Blijdorp Festival! Geniet van muziek &amp; kunst in het Roel Langerakpark in Rotterdam. Schrijf je in voor de Blijdorp Festival nieuwsbrief.Meer informatie over dit festival moet nog komen.
+title: Blijdorp Festival 2020 - Festicket
+snippet: Blijdorp Festival is an electronic music festival in Rotterdam, The Netherlands. Since its conception in 2013, the festival has grown a hefty reputation as one of the most recognised boutique festivals in the city.
+
+Cand cities: {'Rotterdam', 'Amsterdam'}

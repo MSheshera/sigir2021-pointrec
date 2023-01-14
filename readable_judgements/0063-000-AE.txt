@@ -1,0 +1,794 @@
+City: New York City
+Country: US
+Main category: Arts & Entertainment
+Sub category: Museums - Art Museums
+Description: I'm planning on taking a girl to a museum on a date but I don't yet know which one. I do want it to be within walking distance of Penn Station though, since I'll be paying for a lot of stuff and would like to at least avoid paying for a cab.  It can be any kind of museum...art, history, whatever...I just need a good recommendation. Thanks!
+Rated POIs: 45
+Rel distr: [(0, 5), (1, 11), (2, 15), (3, 14)]
+=================================
+REL: 3
+POI Name: The Museum of Modern Art
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Houdini Museum
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Performing Arts, 
+Snippets:
+
+
+REL: 3
+POI Name: Studio Museum Harlem
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: The Frick Collection
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Morrison Hotel Gallery
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Decor Art Gallery
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Framing, 
+Snippets:
+
+
+REL: 3
+POI Name: Judd Foundation
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: American Museum of Natural History
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Unix Gallery
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: The Pace Gallery
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 3
+POI Name: The Metropolitan Museum of Art
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: The Institute of Fine Arts of NYU
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: David Zwirner
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 3
+POI Name: Excel Art & Framing III
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Framing, Art Galleries, 
+Snippets:
+
+
+REL: 2
+POI Name: Clayton Gallery and Outlaw Art Museum
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Clayton Gallery and Outlaw Art Museum - Art Museums - 161 ...
+snippet: 1 review of Clayton Gallery and Outlaw Art Museum &quot;Clayton Patterson and his wife Elsa Rensaa came to this country from Alberta, Canada to pursue art and have been in this building since 1983--in which time they&#39;ve seen their neighborhood…
+title: Photos for Clayton Gallery and Outlaw Art Museum - Yelp
+snippet: Photos at Clayton Gallery and Outlaw Art Museum - Manhattan, NY.
+title: Clayton Gallery and Outlaw Art Museum - New ... - Facebook
+snippet: Ghetto Brothers at the Clayton Gallery And Outlaw Art Museum! Evaristo Roman and Armando Castro, former President of the 5th division by Yellow Benjy. W/ Clayton Patterson (photo by Cochise). ... Cochise and fist at the Clayton&#39;s Gallery &amp; Outlaw Art Museum in1992.
+title: Clayton Gallery and Outlaw Art Museum 161 Essex St ...
+snippet: Clayton Gallery and Outlaw Art Museum ... Manhattan NY 10002. 1 Reviews (212) 477-1363 Website. Menu &amp; Reservations ... 05/18/2011 Fallopia T. Fallopia T. Clayton Patterson and his wife Elsa Rensaa came to this country from Alberta, Canada to pursue art and have been in this building since 1983--in which time they&#39;ve seen their neighborhood...
+title: Clayton Gallery and Outlaw Art Museum Gift Card ...
+snippet: Buy a Clayton Gallery and Outlaw Art Museum gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for Clayton Gallery and Outlaw Art Museum, 161 Essex St, Manhattan, NY.
+title: Clayton Gallery &amp; Outlaw Art Museum, New York
+snippet: CLAYTON GALLERY &amp; OUTLAW ART MUSEUM HISTORY EVENTS NO!manipulation NO!art occupies the strategic juncture where artistic production and socio-cultural action meet. STUETZPUNKT. Index with Gallery Events. Clayton Gallery &amp; Outlaw Art Museum, Frontside LOCATION: 161 Essex Street btwn Houston &amp; Stanton New York NY 10002 Lower East Side. by ...
+title: Museums - MapQuest
+snippet: Clayton Gallery and Outlaw Art Museum 161 Essex St , Manhattan, NY 10002 Fragmental Museum 107 Suffolk St , New York, NY 10002 Lower Eastside Tenement Museum 108 Norfolk St , New York, NY 10002 FusionArts Museum 57 Stanton St , New York, NY 10002 Art Museum Partnership 49 E 1st St ,
+title: 2020: Clayton Gallery And Outlaw Art Museum Parking Map ...
+snippet: Find free Clayton Gallery And Outlaw Art Museum parking, compare prices of parking meters and parking garages, find overnight parking with SpotAngels. Our parking maps - updated on January 28, 2020 - help you find cheap parking. Save money every time you park near Clayton Gallery And Outlaw Art Museum, NYC, NY.
+title: Clayton Gallery and Outlaw Art Museum - NYC-ARTS
+snippet: Clayton Gallery and Outlaw Art Museum. Description; Description. The gallery was founded by artist Clayton Patterson in 1986. Patterson has exhibited his own art—from embroidered custom-made baseball hats to photographs of the local Hispanic community—to the work of a diverse range of artists including Boris Lurie, ...
+title: Jose Quiles on Instagram: “&quot;Clayton Patterson and Cochise ...
+snippet: &quot;Clayton Patterson and Cochise Interview&quot; at the Clayton Gallery And Outlaw Art Museum&#39;s 8 Ball Radio The Clayton Patterson Show in NYC promoting our book &quot;The Street Gangs Of The Lower East Side&quot; (Nov. 7, 2016) published by Clayton Books.(Photo by 8 Ball Radio) all interviews are archived so check it out !
+
+REL: 2
+POI Name: The Met Breuer
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: American Folk Art Museum
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Museum of Sex
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Adult, 
+Snippets:
+
+
+REL: 2
+POI Name: 1st Art Gallery
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 2
+POI Name: The Cloisters
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Whitney Museum of American Art
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: National September 11 Memorial Museum
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: The Museum at FIT
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Art & Soul Acting
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: Art &amp; Soul Acting - Hell&#39;s Kitchen - Manhattan, NY
+snippet: Art &amp; Soul Acting teaches in a warm and open way that enables an actor to explore the full range of talent he/she possesses. I came to the studio at a point in my career where I was already booking work, however, I wasn&#39;t doing the roles I&#39;d craved to tackle.
+title: KING ART N 167 THE SOUL OF MANHATTAN - YouTube
+snippet: KING ART N 167 THE SOUL OF MANHATTAN KING MARTY. Loading... Unsubscribe from KING MARTY? ... KING ART N 108 SOL OF NEW YORK - Duration: 10:50. KING MARTY 306,009 views.
+title: Art &amp; Soul Acting New York, NY Performing Arts - MapQuest
+snippet: Art &amp; Soul Acting teaches in a warm and open way that enables an actor to explore the full range of talent he/she possesses. I came to the studio at a point in my career where I was already...
+title: Art And Soul Acting
+snippet: Art &amp; Soul Acting Studio in NYC. Do you want to book more acting jobs? Welcome! I’m Rhonda Musak and I have been coaching actors since 1999 to master the skills they need so they can book the job and do what they love most: Act.
+title: Drop-In Acting Class - Art &amp; Soul Acting | Acting Classes ...
+snippet: Drop in for a one-on-one session with a professional acting coach Work on monologues, practice auditioning, and pinpoint a specific problem in a scene Bring a piece that you&#39;re working on and get personalized help and coaching Get unstuck from whatever is holding your acting potential back
+title: Laser Acting Workshop - Art &amp; Soul Acting | Acting Class ...
+snippet: Explore an acting workshop that highlights a different powerful acting tool every week Enjoy a class that lectures but allows you to stand up and experience what is ...
+title: Art &amp; Soul Acting - Home | Facebook
+snippet: Art &amp; Soul Acting. 457 likes. NYC based Art &amp; Soul Acting was created out of a love of acting, teaching, learning, creating, and community. Classes, coaching etc. www.artandsoulacting.com Twitter:...
+title: Acting Classes | Art And Soul Acting
+snippet: Acting Classes. For an actor, acting class is the #1 laboratory for growth and exploration. It is the place to take risks…a safe harbor where it’s okay to let go of perfection in lieu of stretching and expanding beyond limitations.
+title: Contact Art &amp; Soul Acting | Art And Soul Acting
+snippet: Contact Art &amp; Soul Acting. Thank you for exploring Art &amp; Soul Acting!. For more information on classes, coaching or any of Art &amp; Soul Acting’s offerings, please feel free to connect via e-mail or telephone.If you would like a phone call back, please leave some good times that you can be reached directly.
+title: Art Farmer Quintet ‎– Manhattan (Soul Note - 1982) - YouTube
+snippet: Art Farmer – flugelhorn Sahib Shihab – soprano, baritone saxophone Kenny Drew – piano Mads Vinding ... Art Farmer Quintet ‎– Manhattan (Soul Note - 1982) Thejfvoice 2. Loading...
+
+REL: 2
+POI Name: Orchid Art Gallery
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Framing, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Art Gallery | Manhattan | Orchid Art Gallery Inc
+snippet: We started Orchid Art Gallery Inc. in 2013, and since our first day in business we’ve been bringing the best selection of products and merchandise to our customers. Our name has become synonymous with quality throughout the entire New York area.
+title: Orchid Art Gallery 55 7th Ave S Manhattan, NY Art ...
+snippet: Get directions, reviews and information for Orchid Art Gallery in Manhattan, NY. Orchid Art Gallery 55 7th Ave S Manhattan NY 10014. 12 Reviews (212) 203-1846. Menu &amp; Reservations ... I recently had two prints that I replaced the mats and frames at Orchid .
+title: Photos for Orchid Art Gallery - Yelp
+snippet: Photo 48 of 69 for Orchid Art Gallery - Manhattan, NY
+title: Top 10 Art Galleries in Manhattan (New York City ...
+snippet: Top 10 Art Galleries in Manhattan: See reviews and photos of Art Galleries in Manhattan, New York City (New York) on Tripadvisor.
+title: Orchid Art Gallery Inc. - Art Gallery - New York, New York ...
+snippet: Orchid Art Gallery Inc. - 55 7th Ave S, New York, New York 10014 - Rated 4.7 based on 2 Reviews &quot;I ordered a custom 56X79 inch custom mirror with gold...
+title: Orchid Art Gallery Inc. - Art Gallery - New York, New York ...
+snippet: Orchid Art Gallery Inc. - 55 7th Ave S, New York, New York 10014 - Rated 0 based on 2 Reviews &quot;I ordered a custom 56X79 inch custom mirror with gold...
+title: THE 10 BEST New York City Art Galleries (with Photos ...
+snippet: “ This art gallery is part of Columbia University and is located in the Lensfest Center for The Arts just north of the main campus in West Harlem near the old Cotton Club and the Hudson River. “ RUSH to the Wallach Gallery on West 129th Street between Broadway &amp; 12th Avenue before this special exhibit closes on February 10, 2019 and moves to Paris in March!!
+title: Orchid Art Gallery Inc 55 7th Ave S, New York, NY 10014 ...
+snippet: Get reviews, hours, directions, coupons and more for Orchid Art Gallery Inc at 55 7th Ave S, New York, NY 10014. Search for other Art Galleries, Dealers &amp; Consultants in New York on The Real Yellow Pages®.
+title: Museums and Art Galleries Companies in Manhattan, New York ...
+snippet: Orchid Art Gallery in Manhattan, NY is an art gallery specializing in custom photo framing and art framing, as well as custom photo and poster prints. (213) 203-1846 Get Listed on Manta. It&#39;s Free! Thousands of people add their company to Manta ...
+
+REL: 2
+POI Name: Color Factory
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Agora Gallery
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 2
+POI Name: OneByOne Interactive Gallery
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: OneByOne Interactive Gallery - Alphabet City - Manhattan, NY
+snippet: 1 review of OneByOne Interactive Gallery &quot;This DIY gallery is well done. It hosts a collaborative effort by local talent and gives an intimate glimpse into the heart n soul of the New York art scene. The good ol&#39; days of NYC are back at OneByOne…
+title: OneByOne Interactive Gallery 355 E 4th St Ste 2 Manhattan ...
+snippet: Get directions, reviews and information for OneByOne Interactive Gallery in Manhattan, NY. OneByOne Interactive Gallery 355 E 4th St Ste 2 Manhattan NY 10009. 1 Reviews (917) 455-9321 Website. Menu &amp; Reservations Make Reservations . ... This DIY gallery is well done.
+title: OneByOne Interactive Gallery photos - yelp.com
+snippet: Photo of OneByOne Interactive Gallery - &quot;Current show: &#39;one is 1&#39; a site specific installation. Photo by Don Frasco&quot; - Manhattan, NY
+title: The best interactive museums in NYC - Time Out New York
+snippet: The best interactive museums in NYC. The best interactive museums in NYC We list the top nine museums that let you be part of the exhibits. Photograph: Scott Frances for Spyscape.
+title: Best art galleries in New York City - Time Out
+snippet: We have the answers in our list of the best art galleries in New York City. Find works by established and up-and-coming artists at the best art galleries in NYC. Go to ... at least in Manhattan.
+title: Ten New York Art Shows &amp; Exhibits You Should See This Week
+snippet: Time Out New York rounds up the the best art shows and exhibits in NYC, from offerings at the best photography and art galleries in NYC to shows at renowned institutions like the Metropolitan ...
+title: THE 10 BEST New York City Art Galleries (with Photos ...
+snippet: “ This art gallery is part of Columbia University and is located in the Lensfest Center for The Arts just north of the main campus in West Harlem near the old Cotton Club and the Hudson River. “ RUSH to the Wallach Gallery on West 129th Street between Broadway &amp; 12th Avenue before this special exhibit closes on February 10, 2019 and moves to Paris in March!!
+title: onebyone interactive (@onebyonegallery) | Twitter
+snippet: The latest Tweets from onebyone interactive (@onebyonegallery). interactive, performances, installations, video, custom made electronic devices. one piece by one artist at a time. alphabet city, nyc
+title: NYC &amp; Metro Interactive Maps &amp; Databases | The New York ...
+snippet: Interactive map showing major sewer lines, wastewater treatment plants, pump stations, &quot;outfalls,&quot; etc. in the city of New York. &quot;Randel Farm Maps&quot; : Museum of the City of New York Drafted between 1818 and 1820 by John Randel, Jr., this set of one-of-a-kind documents has long been in the care of the Office of the Manhattan Borough President.
+title: The best Uptown art galleries - Time Out New York
+snippet: The Uptown art galleries clustered along Manhattan’s Upper East Side are a far cry from the huge, white-cube showrooms located in Chelsea’s art gallery district. Many of them are situated in ...
+
+REL: 2
+POI Name: Art Gate Gallery
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Top 10 Art Galleries in Manhattan (New York City ...
+snippet: Top 10 Art Galleries in Manhattan: See reviews and photos of Art Galleries in Manhattan, New York City (New York) on Tripadvisor.
+title: THE 10 BEST New York City Art Galleries (with Photos ...
+snippet: “ This art gallery is part of Columbia University and is located in the Lensfest Center for The Arts just north of the main campus in West Harlem near the old Cotton Club and the Hudson River. “ RUSH to the Wallach Gallery on West 129th Street between Broadway &amp; 12th Avenue before this special exhibit closes on February 10, 2019 and moves to Paris in March!!
+title: 10 of the best art galleries in Manhattan | Travel | The ...
+snippet: 10 of the best art galleries in Manhattan From a SoHo loft full of soil to contemporary art in a converted church, art blogger Aneta Glinkowska guides you to the best off-the-radar spaces to see ...
+title: East Gate Gallery
+snippet: Welcome to East Gate Gallery. Tucked away at the east end of Pembroke High Street, on the spot where the historic East Gate of the old town wall once stood, you’ll find East Gate Gallery and our Pottery Classes!
+title: Modern Art Gallery
+snippet: Modern Art Gallery er Midt-Norges største galleri. Vi formidler kunst fra en rekke av Norges mest anerkjente kunstnere, og har til enhver tid utstilling med over 30 forskjellige kunstnere. Med 30 års erfaring har vi god kompetanse til å bistå med utsmykning av bedrifter, institusjoner og private hjem.
+title: Strecker Nelson West Gallery
+snippet: Strecker Nelson West Gallery - Art Gallery. Welcome to Strecker Nelson West Gallery. Located at 406 1 / 2 Poyntz Avenue in historic downtown Manhattan, Kansas,. we offer works by the finest Kansas and regional artists for seasoned and emerging collectors.
+title: Manhattan&#39;s Top 10 Established Art Galleries - Culture Trip
+snippet: Manhattan&#39;s Top 10 Established Art Galleries. Add to Plan. Amongst the towering skyscrapers of New York City, a vast cultural history emanates from sprawling warehouses and hidden spaces that have helped define this city as the epicenter of the art world.
+title: Exhibitions | City of Manhattan Beach
+snippet: Exhibitions soon to appear at the Manhattan Beach Art Center. Past Exhibitions Previous exhibitions held on display at the Manhattan Beach Art Center. Gallery Floor Plan Take a look at the remodeled Manhattan Beach Art Center gallery. FAQ To learn more about the rules and regulations of the gallery, download the FAQ Information Sheet (PDF).
+title: Art Gallery - 14 Reviews - Art Galleries - 1615 2nd Ave ...
+snippet: 14 reviews of Art Gallery &quot;Polite professional and very reasonable pricing. We had a beautiful tapestry mounted and gkassesd with great outcome - will come again with my other art&quot; Art Gallery - 14 Reviews - Art Galleries - 1615 2nd Ave, Yorkville, Manhattan, NY - Phone Number - Yelp
+
+REL: 1
+POI Name: &pizza - Astor Place
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: &amp;pizza - Astor Place, New York City - Downtown Manhattan ...
+snippet: Order food online at &amp;pizza - Astor Place, New York City with Tripadvisor: See 12 unbiased reviews of &amp;pizza - Astor Place, ranked #5,122 on Tripadvisor among 12,752 restaurants in New York City.
+title: Whadya say? - Review of &amp;pizza - Astor Place, New York ...
+snippet: &amp;pizza - Astor Place: Whadya say? - See 12 traveler reviews, 19 candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: Restaurants Near Astor Place Theatre, New York City
+snippet: Restaurants near Astor Place Theatre, New York City on Tripadvisor: Find traveler reviews and candid photos of dining near Astor Place Theatre in New York City, New York.
+title: Delicious slow service - Review of &amp;pizza - Astor Place ...
+snippet: &amp;pizza - Astor Place: Delicious slow service - See 12 traveler reviews, 19 candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: &amp;pizza - Astor Place, New York - Downtown Manhattan ...
+snippet: &amp;pizza - Astor Place, État de New York n&#39;a pas encore assez de notes sur ses plats, son service, son rapport qualité/prix ou son ambiance. Écrivez l&#39;un des premiers avis !
+title: &amp;pizza - Astor Place - New York City New York Restaurant ...
+snippet: Return to New York City Vegetarian Restaurants &amp; Health Food Store Listings Business Owners, if you see an unfair review, read this. Why was my review removed? - details / Review guidelines Reviews are not endorsed by HappyCow - review terms Has &amp;pizza - Astor Place closed, shut down, moved, or changed?
+title: Astor Place - Wikipedia
+snippet: Astor Place is a one-block street in NoHo/East Village, in the lower part of the New York City borough of Manhattan. It runs from Broadway in the west (just below East 8th Street) to Lafayette Street, ending at Alamo plaza. &quot;Astor Place&quot; is also sometimes used for the neighborhood around the street.
+title: Photos for &amp;pizza - Astor Place - Yelp
+snippet: Photo 5 of 435 for &amp;pizza - Astor Place - New York, NY
+title: Astor Place | NYC
+snippet: Astor Place is constantly in motion, the nexus point of an exciting, young, vibrant and artistic community where East and West Villages come together. The newly reconstructed Astor Place Plazas are the result of a $16 million City capital improvement maintained by the Village Aliance, a community-based non-profit organization.
+title: &amp;pizza - Nomad - Pizza Place - New City, New York - 39 ...
+snippet: &amp;pizza - Nomad - 15 West 28th St, New City, New York 10001 - Rated 4.9 based on 39 Reviews &quot;I think this will be my new place to get pizza in Manhattan....
+
+REL: 1
+POI Name: Delaware Art Museum
+POI City: Wilmington
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Delaware Art Museum
+snippet: The Delaware Art Museum is a private, not-for-profit 501(c)(3) corporation. This organization is supported, in part, by a grant from the Delaware Division of the Arts , a state agency, in partnership with the National Endowment for the Arts .
+title: Delaware Art Museum (Wilmington) - 2020 All You Need to ...
+snippet: Hotels near Delaware Art Museum: (2.14 mi) Inn at Montchanin Village (3.74 mi) Homewood Suites by Hilton Wilmington - Brandywine Valley (1.59 mi) HOTEL DU PONT (4.44 mi) Fairfield Inn &amp; Suites Wilmington New Castle (2.33 mi) Hyatt Place Wilmington Riverfront; View all hotels near Delaware Art Museum on Tripadvisor
+title: Current Exhibitions : Delaware Art Museum
+snippet: Current Exhibitions. The Delaware Art Museum regularly presents major traveling exhibitions, offering the community an opportunity to become familiar with a wide variety of artists and artistic movements.
+title: Visitor Information : Delaware Art Museum
+snippet: Visitor Information. A message from the Delaware Art Museum: Nothing is more important to us than your health and safety, and we take seriously our responsibility as a civic institution that serves the public good.
+title: The Delaware Contemporary
+snippet: The Delaware Contemporary is an art space that infuses contemporary art and creativity into our community through compelling exhibitions, dynamic educational experiences, and access to the artistic process.
+title: Restaurants Near Delaware Art Museum, Wilmington - TripAdvisor
+snippet: Restaurants near Delaware Art Museum, Wilmington on Tripadvisor: Find traveler reviews and candid photos of dining near Delaware Art Museum in Wilmington, Delaware.
+title: Calendar : Delaware Art Museum
+snippet: This event has been cancelled. The Delaware Art Museum welcomes Step Afrika! back to Wilmington with its newest production Drumfolk, inspired by the Stono Rebellion of 1739, explores this little-known event in American history that forever transformed African-American life and culture.
+title: 45 Museums &amp; Galleries to Visit in Wilmington, Delaware
+snippet: The beauty of the Brandywine Valley has captured the imagination of generations of artists, from American masters to contemporary craftsmen. Several masterpieces of Brandywine Valley native Andrew Wyeth hang inside the halls of the Brandywine River Museum of Art, while The Delaware Art Museum is renown for its collection of American art and illustrations featuring Wilmington-born Howard Pyle ...
+title: Staff List : Delaware Art Museum
+snippet: The Delaware Art Museum is a private, not-for-profit 501(c)(3) corporation. This organization is supported, in part, by a grant from the Delaware Division of the Arts , a state agency, in partnership with the National Endowment for the Arts .
+title: Delaware Art Museum - Wikipedia
+snippet: The Delaware Art Museum is an art museum located on the Kentmere Parkway in Wilmington, Delaware, which holds a collection of more than 12,000 objects. The museum was founded in 1912 as the Wilmington Society of the Fine Arts in honor of the artist Howard Pyle.
+
+REL: 1
+POI Name: Art Gallery
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Framing, 
+Snippets:
+title: Top 10 Art Galleries in Manhattan (New York City ...
+snippet: Top 10 Art Galleries in Manhattan: See reviews and photos of Art Galleries in Manhattan, New York City (New York) on Tripadvisor.
+title: 10 of the best art galleries in Manhattan | Travel | The ...
+snippet: 10 of the best art galleries in Manhattan From a SoHo loft full of soil to contemporary art in a converted church, art blogger Aneta Glinkowska guides you to the best off-the-radar spaces to see ...
+title: Best art galleries in New York City - Time Out
+snippet: Art galleries are everywhere in New York City, from Brooklyn and Queens to the Upper and Lower East Sides of Manhattan. And, of course, they are in Chelsea, which continues to have the larger ...
+title: Art Galleries in Manhattan - Yelp
+snippet: Find the best Art Galleries on Yelp: search reviews of 2148 Manhattan businesses by price, type, or location.
+title: New York Art Galleries and New York Gallery Guide
+snippet: NEW YORK ART GALLERIES &amp; ART ORGANIZATIONS. This New York gallery guide / directory features art galleries and art museums in Manhattan and all five boroughs. Along with both primary and secondary galleries you&#39;ll find art consultants and appraisers, as well as other art services and artists.
+title: Manhattan | Art Galleries and Museums - New York Art
+snippet: Manhattan real estate was subsequently considered among the most expensive in the world. The Manhattan vibrant visual arts scene in the 1950s and 1960s was the center of the American pop art movement, which gave birth to such giants artist as Jasper Johns and Roy Lichtenstein.
+title: The 15 Best Art Galleries in New York City
+snippet: The 15 Best Art Galleries in New York City. Created by Foursquare Lists • Published On: April 2, 2020. Share. Tweet. 1. David Zwirner Gallery. 9.5. 537 W 20th St (at 11th Ave), New York, NY. Art Gallery · Chelsea · 13 tips and reviews. ... Art Gallery · Rockefeller Center · 25 tips and reviews.
+title: Artists - Art Gallery - Manhattan Arts
+snippet: Welcome to the Manhattan Arts International curated online art gallery. Our member artists come from around the world and represent a wide variety of styles and mediums. The have achieved artistic excellence.
+title: New York, London, Paris and Hong Kong Art Galleries ...
+snippet: A Viewing Room Featuring New York Galleries. April 3–May 1, 2020 ... March 24, 2020 . Interview. Making What it Means to Write About Art: Interviews with art critics “The interview is a very particular form as a text, in that it promises many things’’ Video. Doug Wheeler ... David Zwirner Books, News, and Events.
+title: Agora Gallery - Contemporary Fine Art - Chelsea, New York City
+snippet: Founded in 1984 by an artist, Agora Gallery is a contemporary art gallery dedicated to the promotion of national and international artists seeking exposure to the New York art market. Agora Gallery connects artists with professionals, art collectors, and other artists to create an ever growing family dedicated to the world of fine art.
+
+REL: 1
+POI Name: New Wing Wah Bakery
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: New Wing Wah Bakery, New York City - Downtown Manhattan ...
+snippet: New Wing Wah Bakery, New York City: See 2 unbiased reviews of New Wing Wah Bakery, rated 4 of 5 on Tripadvisor and ranked #9,697 of 12,745 restaurants in New York City.
+title: New Wing Wah Bakery - Lower East Side - New York City, NY
+snippet: 41 reviews of New Wing Wah Bakery &quot;Wing Wah is a bustling bakery that is always filled with patrons trying to get their hands on some baked goods right before they get into the subway station. Situated right between fish and fruit markets, it…
+title: My Favorite Bakery - Review of New Wing Wah Bakery, New ...
+snippet: New Wing Wah Bakery: My Favorite Bakery - See 2 traveler reviews, candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: New Wing Wah Bakery, Lower East Side, New York City ...
+snippet: New Wing Wah Bakery New York City; New Wing Wah Bakery, Lower East Side; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for New Wing Wah Bakery Restaurant on Zomato. Serves Chinese. Cost $15 for two people (approx.) Products for Businesses We&#39;re hiring. New York City.
+title: New Wing Wah Bakery 246 Grand St New York, NY Bakeries ...
+snippet: Get directions, reviews and information for New Wing Wah Bakery in New York, NY. New Wing Wah Bakery 246 Grand St New York NY 10002. 40 Reviews (212) 941-1924. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: My Favorite Bakery - New Wing Wah Bakery, New York City ...
+snippet: New Wing Wah Bakery: My Favorite Bakery - See 2 traveler reviews, candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: New Wing Wah Bakery - New York, NY | Groupon
+snippet: New York locals head to New Wing Wah Bakery for an innovative take on bakery favorites.The restaurant is within walking distance to a number of parking options. Store your bike at a nearby rack and enjoy a bite to eat at New Wing Wah Bakery.Our food is cheap in price but luxurious in flavor.
+title: New Wing Wah Bakery, Lower East Side, New York City ...
+snippet: New Wing Wah Bakery New York City; New Wing Wah Bakery, Lower East Side; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para New Wing Wah Bakery na Zomato. Cozinha: Chinesa — $15 para duas pessoas (aprox.) Produtos para Negócios Estamos a contratar!
+title: New Wing Wah Bakery in New York | New Wing Wah Bakery 246 ...
+snippet: Find New Wing Wah Bakery in New York with Address, Phone number from Yahoo US Local. Includes New Wing Wah Bakery Reviews, maps &amp; directions to New Wing Wah Bakery in New York and more from Yahoo US Local. Find New Wing Wah Bakery in New York with Address, Phone number from Yahoo US Local.
+title: NEW WING WAH BAKERY · 246 Grand Street, Manhattan, NY 10002
+snippet: NEW WING WAH BAKERY (Health Operation# 41360332) is a foood service establishment inspected by New York City Department of Health and Mental Hygiene (DOHMH). The last inspected date is November 24, 2017. The address is 246 Grand Street, Manhattan, NY 10002.
+
+REL: 1
+POI Name: Discovery Wines
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Discovery Wines - Wine Store in The East Village New York ...
+snippet: Discovery Wines - Wine Store in at 16 Avenue B New York, NY 10009. Call us at (212) 674-7833 for the best Italian wine, French wine, Oregon wine, California wine, Washington wine, German wine, Australian wine, and Spanish...
+title: Discovery Wines 16 Avenue B New York City, NY Liquor ...
+snippet: Discovery Wines is medium-sized wine store on the corner of Second Street and Avenue B in Alphabet City. Discover has been in the neighborhood for a while as residents have been making it a go-to...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Discovery Wines at 16 Avenue B, New York, NY on Fave
+snippet: Deals, coupons, events, images, phone number, directions, and what&#39;s nearby Discovery Wines, a liquor store business at 16 Avenue B, New York, NY 10009 on Fave. Here at Discovery, we&#39;re always excited to uncover that new, undiscovered gem...
+title: Flatiron Wines &amp; Spirits - New York City
+snippet: New York City store offering thousands of wines and spirits on-line for sale and delivery. Nominated &quot;retailer of the year&quot; in Wine &amp; Spirits Magazine and &quot;Top New Wine Destination&quot; in Food &amp; Wine Magazine. Offers Champagne, Fine &amp; Rare, natural wines, under $20 values, small batch spirits, and more.
+title: Wine Store in Manhattan&#39;s Upper West Side New York, NY ...
+snippet: 67 Wine &amp; Spirits - Wine Store in at 179 Columbus Avenue.. New York, NY 10023. Call us at (212) 724-6767 for the best Italian wine, French wine, Oregon wine, California wine, Washington wine, German wine, Australian wine, and Spanish wine
+title: City Winery | New York City | Live Shows, Dining &amp; Winemaking
+snippet: In the heart of the Big Apple, City Winery New York City is a unique facility, combining a fully functioning winery with intimate concerts, food &amp; wine classes, private events in a variety of configurations, and fine dining. We have created a compelling mix for our sophisticated clientel of foodies, and active cultural patrons - bringing the wine country experience to the middle of a large cit
+title: Welcome to Astor Wines &amp; Spirits
+snippet: Welcome to New York City&#39;s largest wine &amp; spirits store online. Come see why The Wall Street Journal says Astorwines.com is one of the best websites for buying wine online. Check out our daily deals and features. View our large selection of wines, spirits, and sake. We specialize in everything from old world to new world, organic &amp; natural wines, whiskeys &amp; scotches and everything
+title: City Winery | New York City | Wine Shop | Buy Wine, Gifts ...
+snippet: PLEASE NOTE: We can only ship wine to addresses in New York, California, Florida and the District Of Columbia. You must be over 21 years old to order wine and someone over 21 must be available to sign for the order when it arrives. By submitting an order for wine you are stating that you are over 21 years old. Thank you.
+title: New York City 2020: Best of New York City, NY Tourism ...
+snippet: Conquering New York in one visit is impossible. Instead, hit the must-sees – the Empire State Building, the Statue of Liberty, Central Park, the Metropolitan Museum of Art – and then explore off the beaten path with visits to The Cloisters or one of the city’s libraries.
+
+REL: 1
+POI Name: Decor Art Gallery
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Framing, Printing Services, 
+Snippets:
+
+
+REL: 1
+POI Name: Puzzle Art Project @ Reaves Gallery
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Puzzle Art Project @ Reaves Gallery - 2019 All You Need to ...
+snippet: 1 review of Puzzle Art Project @ Reaves Gallery &quot;Greenpoint-based artist Tim Kelly is working on an art installation and has invited the public to join in by decorating a large interlocking puzzle piece made of foam board. I found out about this…
+title: Puzzle Art Project @ Reaves Gallery New York, NY Art ...
+snippet: Get directions, reviews and information for Puzzle Art Project @ Reaves Gallery in New York, NY.
+title: Puzzle Art Project @ Reaves Gallery Gift Cards and Gift ...
+snippet: Buy a gift card to Puzzle Art Project @ Reaves Gallery. Send it online to anyone, instantly. Puzzle Art Project @ Reaves Gallery - 526 W 26th St - Manhattan, NY
+title: About | Best Web Designers in New York City 2019 — Reaves ...
+snippet: Reaves Projects web design company based in Manhattan. Voted Best Web Designers ... and creative professionals such as entertainers, artists, and art galleries. We work with existing Content Management Systems (CMS) such as Squarespace, WordPress, Shopify, Wix and ... Project Art Puzzle Art Project. SALT art and culture Starting-Artists
+title: Puzzle Installation &amp; Collaborative Project - Tim Kelly ...
+snippet: Puzzle Project at Camp Jinka The Reaves Gallery Chelsea, NYC Queens Museum of Art Puzzle Germany The Papst-Johannes XXIII Gesamtschule in Stommeln-Pulheim New School Monmouth NJ Monmouth Library Allentown Branch Monmouth Library Eastern Branch Monmouth Library Manalapan Branch Monmouth Library Wall Branch Monmouth Library Marlboro Branch ...
+title: THE 10 BEST New York City Art Galleries (with Photos ...
+snippet: Top New York City Art Galleries: See reviews and photos of art galleries in New York City, ... Art Galleries in Upper Manhattan (Uptown) Art Galleries in Upper West Side; ... I also purchased a piece of the one of a kind puzzle art, which is a great memento from the installation. ...
+title: Art Is Good For You
+snippet: A growing puzzle art installation on display in Brooklyn at The Greenpoint Terminal at 67 West St., 4th fl. &quot;There are no extra pieces in the universe. Everyone is here because he or she has a place to fill,
+title: Puzzle Installation &amp; Collaborative Project - Tim Kelly ...
+snippet: The Puzzle Art Installation &amp; Collaborative Project is a growing and traveling group art exhibition. You don&#39;t have to be an artist to participate, you just have to have something to say. People of all ages have contributed their individual voice collectively with others to form this historic and massive art project.
+title: Puzzle Installation &amp; Collaborative Project - Tim Kelly ...
+snippet: The Puzzle Art Installation &amp; Collaborative Project is a growing &amp; traveling, group art exhibition. It was initially sponsored by the Monmouth County Arts Council and was created and developed by the artists Tim Kelly &amp; Sandy Taylor (MCAC) and Marie Maber (Brookdale Community College) for the 2009 Monmouth County Teen Arts Festival at Brookdale.
+title: Puzzle Installation &amp; Collaborative Project - Tim Kelly ...
+snippet: Brooklyn Art Party South Richmond High School South River Library PS177 in Queens Puzzle PS161 Harlem Monmouth Library Howell Branch School of Creative and Performing Arts in San Diego The Secondary School of Applied Arts in Kosice in Slovakia Puzzle Project at Camp Jinka The Reaves Gallery Chelsea, NYC Queens Museum of Art Puzzle Germany
+
+REL: 1
+POI Name: AA Candy & Grocery
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+title: AA Candy &amp; Grocery - Elmhurst - New York City, NY
+snippet: 1 review of AA Candy &amp; Grocery &quot;When it comes to Bodegas, this one stands out from the rest. Thy have a large selection of chips and candy bars. They have bottles of mostly Mexican beers: modello &amp; corona; also Heineken and Budweiser. They have…
+title: Salt Water Taffy | Personalized Candy | A&amp;A Wholesale Candy
+snippet: A &amp; A Candy Company, Inc. is rapidly growing to be the largest salt water taffy and candy manufacturers of the East Coast. For nearly 107 years, our family has made the highest quality candies, using the finest ingredients.
+title: Candy Shopping Spree In NYC - Gummy Candy ?? - YouTube
+snippet: Candy Shopping Spree In NYC - Gummy Candy Mike and Holly went on a candy shopping spree while in New York city. We got gummy rat and gummy tarantula spider, gummy pizza, gummy french fries, gummy ...
+title: New York City Street Food - The Bronx Bodega food ...
+snippet: Back for a third time to one of my favorite bodegas in the Bronx!! Sit back and enjoy the food!! Business Name: Esquina Deli &amp; Grocery Location: 99 E 198th S...
+title: Cheesecake disquised aa candy apples..cool - Picture of ...
+snippet: Spot Dessert Bar, New York City Picture: Cheesecake disquised aa candy apples..cool - Check out Tripadvisor members&#39; 90,990 candid photos and videos of Spot Dessert Bar
+title: Shopping For Candy Supplies at BJ&#39;s - YouTube
+snippet: Shopping For Candy Supplies at BJ&#39;s Hercules Candy. Loading ... NEW Cotton Candy AND Tie Dye Hard Candy! - Duration: ... Grocery Shopping With Momdre Returns!
+title: The 15 Best Supermarkets in New York City - Foursquare
+snippet: The 15 Best Supermarkets in New York City. Created by Foursquare Lists • Published On: March 28 ... Excellent take out food! Coffee is delicious. This is the best grocery store in the neighborhood. They have a bakery too. Everything is made ... 75 9th Ave (btwn W 15th &amp; W 16th St), New York, NY. Supermarket · Chelsea · 32 tips and ...
+title: New York News, Weather, Traffic &amp; Sports - ABC7 New York
+snippet: New York City&#39;s death toll saw a staggering jump from the last report, with 2,624 fatalities, Cuomo staffer Melissa DeRosa said. How to virtually attend Palm Sunday mass Some grocery stores to ...
+title: Living On $0 For 24 Hours In New York City (Challenge ...
+snippet: The most difficult money challenge America has ever seen. In this video I will show you that you can live in New York City with no money. Enjoy! Follow me on...
+title: National Guard in New York City are picking dead bodies up ...
+snippet: The National Guard is renting vans to transport hundreds of dead bodies from their New York City homes as a startling number of people are dying there without ever being treated for coronavirus.
+
+REL: 1
+POI Name: Different Directions
+POI City: Manhattan
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Art Schools, Summer Camps, 
+Snippets:
+title: Different Directions
+snippet: Different Directions: a Homeschooling Community. Different Directions is a community and resource center.We are a collective of parents, families, educators, artists, and professionals who organize classes together with the goal of providing social, academic, and extracurricular enrichment to homeschooling families.
+title: Different Directions - Midtown West - Manhattan, NY - Yelp
+snippet: 1 review of Different Directions &quot;Dare2Draw - Where artists of all levels share ideas and inspiration. All are welcome! Our main mission is to help provide networking, mentoring and promoting opportunities, for artists of all levels, while…
+title: Different Directions Inc 417 W 57th St New York, NY ...
+snippet: Get directions, reviews and information for Different Directions Inc in New York, NY. Different Directions Inc 417 W 57th St New York NY 10019. Reviews (917) 816-1070 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Manhattan, NY - Manhattan, New York Map &amp; Directions ...
+snippet: Get directions, maps, and traffic for Manhattan, NY. Check flight prices and hotel availability for your visit.
+title: Different Directions 339 W 47th St Fl 3 Manhattan, NY Art ...
+snippet: Get directions, reviews and information for Different Directions in Manhattan, NY. Different Directions 339 W 47th St Fl 3 Manhattan NY 10036. 1 Reviews (917) 816-1070 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Get Routes with Directions &amp; Maps
+snippet: Directions Maps Route: Find Directions Maps Route for locations all over the globe. Enter where you are starting your route and where you are ending your route. See Route From Above. View the route you are taking from above. View the roads you will be taking to give you a good abstract view of your route.
+title: Google Maps
+snippet: Find local businesses, view maps and get driving directions in Google Maps.
+title: Driving Directions &amp; Maps | MapsDirections.org
+snippet: Driving Directions. If you are new to the area and finding it difficult to determine where you exactly are and where your desired location is, this site eases your problem to a great extent. The easy to use interface, and easy to scan icons let you have the most valued and reliable driving directions.
+title: NYC Neighborhood Guides - Compass
+snippet: No guarantee, warranty or representation of any kind is made regarding the completeness or accuracy of descriptions or measurements (including square footage measurements and property condition), such should be independently verified, and Compass expressly disclaims any liability in connection therewith.
+title: Hot to Get from JFK Airport to Manhattan
+snippet: The AirTrain is a tram that circles all of the terminals at JFK and connects to two different transit stations outside of the airport with service to the city: Jamaica Station and Howard Beach. If your final destination is in Manhattan, it&#39;s most likely that you need to transfer at Jamaica Station.
+
+REL: 1
+POI Name: fresh&co
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sandwiches, Salad, Soup, 
+Snippets:
+title: fresh&amp;co - just made. just for you.
+snippet: fresh&amp;co is committed to its policy that that persons with disabilities have a full and equal opportunity to benefit from the goods, services, privileges, advantages, and accommodations offered by fresh&amp;co.
+title: Fresh &amp; Co., New York City - 200 W 57th St, Midtown - Menu ...
+snippet: Order food online at Fresh &amp; Co., New York City with Tripadvisor: See 74 unbiased reviews of Fresh &amp; Co., ranked #1,908 on Tripadvisor among 12,745 restaurants in New York City.
+title: Fresh&amp;Co, New York City - Midtown - Menu, Prices ...
+snippet: Fresh&amp;Co, New York City: See 374 unbiased reviews of Fresh&amp;Co, rated 4.5 of 5 on Tripadvisor and ranked #607 of 12,749 restaurants in New York City. Flights Vacation Rentals ... Fresh and Co offers good free range egg dishes, coffee and pastries at a reasonable price.
+title: Fresh and Co., New York City - 363 7th Ave, Midtown - Menu ...
+snippet: Fresh and Co., New York City: See 203 unbiased reviews of Fresh and Co., rated 4.5 of 5 on Tripadvisor and ranked #724 of 12,750 restaurants in New York City.
+title: FRESH&amp;CO, New York City - Midtown - Updated 2020 ...
+snippet: Fresh&amp;Co, New York City: See 374 unbiased reviews of Fresh&amp;Co, rated 4.5 of 5 on Tripadvisor and ranked #606 of 12,745 restaurants in New York City.
+title: Fresh &amp; Co, New York City - 475 Lexington Ave, Midtown ...
+snippet: Order food online at Fresh &amp; Co, New York City with Tripadvisor: See 12 unbiased reviews of Fresh &amp; Co, ranked #5,327 on Tripadvisor among 12,731 restaurants in New York City.
+title: fresh&amp;co, New York City - 1359 Bdwy, Midtown - Menu ...
+snippet: fresh&amp;co, New York City: See 60 unbiased reviews of fresh&amp;co, rated 4 of 5 on Tripadvisor and ranked #3,114 of 12,749 restaurants in New York City.
+title: Fresh&amp;Co, New York by - Restaurantanmeldelser - Tripadvisor
+snippet: Fresh&amp;Co, New York by: Se 373 objektive anmeldelser av Fresh&amp;Co, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 606 av 12 729 restauranter i New York by.
+title: Fresh and Co., New York City - recenze restaurace ...
+snippet: Fresh and Co., New York City: Přečtěte si 203 objektivních recenzí zařízení Fresh and Co., které bylo na webu Tripadvisor ohodnocené známkou 4,5 z 5 a zaujímá 723 pozicí z 12 745 restaurací v New York City.
+title: fresh&amp;co
+snippet: at fresh&amp;co our mission is to create fresh, creative, healthy meals that excite the mind, heart and palate.
+
+REL: 1
+POI Name: Snakemonkey Art Studio
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Fly&#39;s Eye 3D by Snakemonkey Studios
+snippet: There are also sculptures cast in resin of favorite Jones characters, like Snakemonkey, and Slatherpuss, a creature he encountered in a long ago dream, name and all, and who has wings, protuberant eyes and an orange beak. Or Killer Baby, an animated sculpture he created on a stroboscopic zoetrope.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Snakemonkey Art Studio 202 Avenue A Manhattan, NY Art ...
+snippet: Get directions, reviews and information for Snakemonkey Art Studio in Manhattan, NY. Snakemonkey Art Studio 202 Avenue A Manhattan NY 10009. 1 Reviews (212) 533-3561 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Photos for Snakemonkey Art Studio - Yelp
+snippet: Photo 1 of 5 for Snakemonkey Art Studio - Manhattan, NY
+title: Snakemonkey Art Studio | Art Gallery Finder
+snippet: If you would like to learn more about this gallery, select &quot;More Info&quot; on the right. Please also take a moment to leave a review.
+title: Snakemonkey Art Studio - New York, NY | Groupon
+snippet: If you&#39;re feeling artsy, head on over to New York&#39;s New York&#39;s Snakemonkey Art Studio Coop for a beautiful day inside. This art museum is filled with beautiful and interesting pieces so head over today and check out the latest galleries.
+title: 2020: Snakemonkey Art Studio Parking Map - Find Garage ...
+snippet: January 01, 2020 - Find free Snakemonkey Art Studio parking, compare prices of parking meters and parking garages, find overnight parking with SpotAngels. Our parking maps help you find cheap parking. Save money every time you park near Snakemonkey Art Studio, NYC, NY.
+title: SnakeMonkey 3D Studios – WEST HARLEM ART FUND
+snippet: Posts about SnakeMonkey 3D Studios written by WHAF. ARTISTS FUSE WITH TECHNOLOGY Panel moderated by Savona &amp; the West Harlem Art Fund; Location: Silicon Harlem Technology Conference at MIST …
+title: Studio Manhattan
+snippet: At Studio Manhattan, we take the world’s greatest cities and turn them into your wardrobe. From a carefully curated portfolio of city scenes, we create a collec
+title: Alyce&#39;s Art Studio | South Bay | Los Angeles
+snippet: PHILOSOPHY. From the studio&#39;s inception in 2011, founder Alyce Marie has made it a core vision to bring fine art education to Manhattan Beach. Alyce&#39;s Art Studio believes in the importance of a respectful and supportive environment conducive to higher education.
+
+REL: 0
+POI Name: Hunter Museum of American Art
+POI City: Chattanooga
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Hunter Museum of American Art | Things to do in ...
+snippet: Accredited by the American Alliance of Museums, the Hunter Museum of American Art is an ArtsBuild Community Arts Partner. The Hunter is supported by grants from the Tennessee Arts Commission and the National Endowment for the Arts. The Hunter Museum is a 501 (C) 3 Non-Profit charitable institution.
+title: Hunter Museum of American Art (Chattanooga) - 2020 All You ...
+snippet: We recommend booking Hunter Museum of American Art tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Hunter Museum of American Art tours on Tripadvisor
+title: Special Events | Hunter Museum of American Art
+snippet: Accredited by the American Alliance of Museums, the Hunter Museum of American Art is an ArtsBuild Community Arts Partner. The Hunter is supported by grants from the Tennessee Arts Commission and the National Endowment for the Arts. The Hunter Museum is a 501 (C) 3 Non-Profit charitable institution.
+title: Collection – eMuseum - Hunter Museum of American Art
+snippet: Accredited by the American Alliance of Museums, the Hunter Museum of American Art is an ArtsBuild Community Arts Partner. The Hunter is supported by grants from the Tennessee Arts Commission and the National Endowment for the Arts. The Hunter Museum is a 501 (C) 3 Non-Profit charitable institution.
+title: Hunter Museum of American Art - Wikipedia
+snippet: The Hunter Museum of American Art is an art museum in Chattanooga, Tennessee. The museum&#39;s collections include works representing the Hudson River School, 19th century genre painting, American Impressionism, the Ashcan School, early modernism, regionalism, and post World War II modern and contemporary art.
+title: Hunter Museum of American Art - Collection – eMuseum
+snippet: Accredited by the American Alliance of Museums, the Hunter Museum of American Art is an ArtsBuild Community Arts Partner. The Hunter is supported by grants from the Tennessee Arts Commission and the National Endowment for the Arts. The Hunter Museum is a 501 (C) 3 Non-Profit charitable institution.
+title: Architecture &amp; History | Hunter Museum of American Art
+snippet: Accredited by the American Alliance of Museums, the Hunter Museum of American Art is an ArtsBuild Community Arts Partner. The Hunter is supported by grants from the Tennessee Arts Commission and the National Endowment for the Arts. The Hunter Museum is a 501 (C) 3 Non-Profit charitable institution.
+title: Hunter Museum of American Art (Chattanooga, TN) - Anmeldelser
+snippet: Hunter Museum of American Art, Chattanooga: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Hunter Museum of American Art i Chattanooga, Tennessee på Tripadvisor.
+title: Hunter Museum of American Art - Home | Facebook
+snippet: Hunter Museum of American Art. 11,138 likes · 68 talking about this · 6,711 were here. American art museum featuring a permanent collection and temporary exhibitions of American Arts.
+title: Membership | Hunter Museum of American Art
+snippet: Accredited by the American Alliance of Museums, the Hunter Museum of American Art is an ArtsBuild Community Arts Partner. The Hunter is supported by grants from the Tennessee Arts Commission and the National Endowment for the Arts. The Hunter Museum is a 501 (C) 3 Non-Profit charitable institution.
+
+REL: 0
+POI Name: Edible Arrangements
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Gift Shops, Florists, Chocolatiers & Shops, 
+Snippets:
+title: Healthy Smoothies, Treats &amp; More: Edible Arrangements New York
+snippet: Edible Arrangements® 135 in New York, New York first opened in July 2004. Ever since, we’ve been helping people in our local community celebrate all kinds of occasions – big and small. Our fruit arrangements and gifts are always freshly-crafted using fruit that&#39;s grown and picked to our Fruit Expert® standards.
+title: Healthy Smoothies, Treats &amp; More: Edible Arrangements New City
+snippet: Edible Arrangements® 1331 in New City, New York first opened in May 2012. Ever since, we’ve been helping people in our local community celebrate all kinds of occasions – big and small. Our fruit arrangements and gifts are always freshly-crafted using fruit that&#39;s grown and picked to our Fruit Expert® standards.
+title: Healthy Smoothies, Treats &amp; More: Edible Arrangements ...
+snippet: Edible Arrangements® 275 in Garden City, New York first opened in November 2005. Ever since, we’ve been helping people in our local community celebrate all kinds of occasions – big and small. Our fruit arrangements and gifts are always freshly-crafted using fruit that&#39;s grown and picked to our Fruit Expert® standards.
+title: Edible Arrangements - Harlem - New York City, NY
+snippet: There are so many Edible Arrangements in the city that probably have excellent managers and employees that would go above and beyond to make sure they&#39;re doing their job properly and helping as many customers as possible - for an excellent experience and a happy customer base but he&#39;s just giving them all a bad name.
+title: Edible Arrangements 2571 Broadway New York City, NY Fruit ...
+snippet: Get directions, reviews and information for Edible Arrangements in New York City, NY. Edible Arrangements 2571 Broadway New York City NY 10025. 12 Reviews (212) 665-8800 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Edible Arrangements 62 West 38th Street New York City, NY ...
+snippet: Get directions, reviews and information for Edible Arrangements in New York City, NY.
+title: Edible Arrangements, New York City - Financial District ...
+snippet: Edible Arrangements, New York City: See unbiased reviews of Edible Arrangements, one of 12,752 New York City restaurants listed on Tripadvisor.
+title: Edible Arrangement, New York City - Chelsea - Restaurant ...
+snippet: Order food online at Edible Arrangement, New York City with Tripadvisor: See unbiased reviews of Edible Arrangement, ranked #0 on Tripadvisor among 12,727 restaurants in New York City.
+title: Edible Arrangements - East Harlem - New York City, NY
+snippet: I ordered at this particular edible arrangement in New York City and did they go out of their way to deliver the arrangement to my cousin who they had no clue ... this would&#39;ve been the only good news they got all week long .
+title: Edible Arrangements Salaries in New York City, NY | Glassdoor
+snippet: Edible Arrangements Salaries trends. 28 salaries for 15 jobs at Edible Arrangements in New York City. Salaries posted anonymously by Edible Arrangements employees in New York City.
+
+REL: 0
+POI Name: Chase Home Museum of Utah Folk Arts
+POI City: Salt Lake City
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Chase Home Museum | Utah Division of Arts &amp; Museums
+snippet: The Chase Home, built more than 150 years ago in a traditional hall-and-parlor style from adobe bricks, is a fine example of 19th century folk art. The mission of the Chase Home Museum of Utah Folk Arts is to bring together Utah’s diverse cultures and communities to preserve and celebrate their traditions.
+title: Chase Home Museum of Utah Folk Arts - Home | Facebook
+snippet: Chase Home Museum of Utah Folk Arts - 600 East 1100 South, Salt Lake City, Utah 84105 - Rated 5 based on 6 Reviews &quot;Such a cool museum! Free to visit and...
+title: Chase Home Museum of Utah Folk Arts - Wikipedia
+snippet: The Chase Home Museum of Utah Folk Arts is operated by the Utah Division of Arts &amp; Museums, and has been the permanent home of the Utah State Folk Arts Collection since 1987 and is the only museum in the United States that is dedicated to displaying a state-owned collection of contemporary folk art produced by its residents.
+title: Chase Home Museum of Utah Folk Art (Salt Lake City ...
+snippet: Chase Home Museum of Utah Folk Art, Salt Lake City: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Chase Home Museum of Utah Folk Art i Salt Lake City, Utah på Tripadvisor.
+title: Chase Home Museum of Utah Folk Art (Salt Lake City) - 2020 ...
+snippet: The Chase Home Museum of Utah Folk Art is the only museum in the United States that is dedicated to displaying a state-owned collection of contemporary folk art. Located at 900 East 700 South in Salt Lake City, in the middle of historic Liberty Park, it features objects made by …
+title: Beste hoteller i nærheten av Chase Home Museum of Utah ...
+snippet: Hoteller i nærheten av Chase Home Museum of Utah Folk Art, Salt Lake City: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Chase Home Museum of Utah Folk Art på Tripadvisor.
+title: Folk Arts | Utah Division of Arts &amp; Museums
+snippet: The Chase Home Museum of Utah Folk Arts is the only museum in the country dedicated to displaying a state-owned collection of contemporary folk art. It features objects made by Utah artists from the state’s American Indian, rural, occupational and ethnic communities, offering a snapshot of Utah’s contemporary culture and heritage.
+title: Utah Division of Arts &amp; Museums | A Division of the ...
+snippet: In an effort to slow the spread of the coronavirus, our offices at 617 E. South Temple (Glendinning Home), at the Chase Home in Liberty Park, and at the Rio Grande Depot (including the Rio Gallery) will be closed until further notice.
+title: Free Museums in Salt Lake City, Utah - TripSavvy
+snippet: The Chase Home Museum of Utah Folk Arts is the only museum in the country dedicated to displaying a state-owned collection of contemporary folk art. It features objects made by living Utah artists from the state’s American Indian, rural, occupational and ethnic communities offering a snapshot of Utah’s contemporary culture and heritage.
+title: Chase Home Museum of Utah Folk Art, Salt Lake City, UT ...
+snippet: Chase Home Museum of Utah Folk Art, Salt Lake City Picture: Chase Home Museum of Utah Folk Art, Salt Lake City, UT - Check out Tripadvisor members&#39; 19,813 candid photos and videos of Chase Home Museum of Utah Folk Art
+
+REL: 0
+POI Name: North Carolina Museum of Art
+POI City: Raleigh
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: North Carolina Museum of Art
+snippet: In accordance with Governor Roy Cooper’s Executive Order 117, and to help limit the spread of COVID-19 in North Carolina, the NCMA is closed beginning March 17 until further notice. The Museum Park remains open; Park visitors are encouraged to practice social distancing.
+title: Exhibitions - NCMA - North Carolina Museum of Art
+snippet: We do, too. Sign up for our email list to get the latest news on special exhibitions, our 164-acre Museum Park, events, and more at the NCMA. Email Address. No thanks. You&#39;re in. You’ll see us in your inbox soon. And we hope to see you at the Museum! Email List. North Carolina Museum of Art. 2110 Blue Ridge Road Raleigh ... North Carolina ...
+title: North Carolina Museum of Art (Raleigh) - 2020 All You Need ...
+snippet: Hotels near North Carolina Museum of Art: (4.03 mi) Homewood Suites by Hilton Raleigh Cary I-40 (4.21 mi) Fairfield Inn &amp; Suites by Marriott Raleigh Cary (2.40 mi) Hilton Garden Inn Raleigh / Crabtree Valley (3.65 mi) The Umstead Hotel and Spa (4.24 mi) SpringHill Suites Raleigh Cary; View all hotels near North Carolina Museum of Art on Tripadvisor
+title: Calendar - NCMA - North Carolina Museum of Art
+snippet: In accordance with Governor Roy Cooper’s Executive Order 117, and to help limit the spread of COVID-19 in North Carolina, the NCMA is closed beginning March 17 until further notice. The Museum Park remains open; Park visitors are encouraged to practice social distancing.
+title: History - About - NCMA - North Carolina Museum of Art
+snippet: The Museum’s history begins in 1924, when the North Carolina State Art Society was formed. Its mission: to generate interest in creating an art museum for the state. In 1928 the society acquired funds and approximately 75 paintings by bequest from Robert F. Phifer, a North Carolina native and businessman.
+title: North Carolina Museum of Art | Raleigh, NC 27607
+snippet: The North Carolina Museum of Art has more than a dozen galleries holding works from around the world and a variety of art types. Originally starting with 139 works from Europe and America, the museum has grown to include African, Egyptian and Jewish works of art while also expanding European and ancient American holdings.
+title: Plan Your Visit - NCMA - North Carolina Museum of Art
+snippet: The Museum is located at 2110 Blue Ridge Road, in West Raleigh&#39;s Blue Ridge Corridor. Minutes from downtown and RDU Airport, the Corridor connects some of Raleigh&#39;s premiere health and wellness, arts and research, and entertainment and education organizations, including the North Carolina State Fairgrounds, PNC Arena, Carter-Finley Stadium, UNC Rex Hospital, and much more, alongside ...
+title: Blues Traveler Concert | North Carolina Museum of Art
+snippet: North Carolina Museum of Art. Event details Date. July 28, 2020 8:00PM. Title. Blues Traveler Concert. Description
+title: North Carolina Museum of Art in Raleigh, N.C. - Visit Raleigh
+snippet: Art + Nature + People. Ranked by Insider as one of the top 25 museums in the country, the North Carolina Museum of Art is an absolute must-see for visitors to the area.. The museum is comprised of two buildings: the recently-completed West Building, which holds the permanent collection, and the original building (East Building), which offers rotating exhibitions and educational programs.
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Raleigh ...
+snippet: Apr 4, 2020 - Looking to get inspired on your trip to Raleigh? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Raleigh to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 0
+POI Name: West End Wine & Spirits
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: West End Wine and Spirits - New York, NY | Drizly
+snippet: West End Wine and Spirits is a first-class liquor store that offers a wide selection of beer, wine, and spirits. Place your order on Drizly for delivery to your door!
+title: 67 Wine &amp; Spirits - Wine Store in Manhattan&#39;s Upper West ...
+snippet: 67 Wine &amp; Spirits - Wine Store in at 179 Columbus Avenue.. New York, NY 10023. Call us at (212) 724-6767 for the best Italian wine, French wine, Oregon wine, California wine, Washington wine, German wine, Australian wine, and Spanish wine
+title: Columbus Wines &amp; Spirits - Wine Store in Manhattan&#39;s Upper ...
+snippet: Columbus Wines &amp; Spirits - Wine Store in at 730 Columbus Avenue New York, NY 10025. Call us at (212) 865-7070 for the best Italian wine, French wine, Oregon wine, California wine, Washington wine, German wine, Australian wine, and Spanish wine
+title: Beacon Wines &amp; Spirits: Manhattan Wine Store Upper West ...
+snippet: Beacon Wines &amp; Spirits. We deliver wines and spirits in Manhattan. NYC wine shop. My Account Sign Up Shipping Info Order Status Contact Customer Service About Us. Wine Collectors Champagne Kosher Wines 90+ Wines Spirits Best Under $20 Gift Ideas. Questions? Call us at 212-877-0028
+title: Pinnacle Wine &amp; Spirits 110 W End Ave New York, NY Liquor ...
+snippet: Get directions, reviews and information for Pinnacle Wine &amp; Spirits in New York, NY. Pinnacle Wine &amp; Spirits 110 W End Ave New York NY 10023. 13 Reviews (212) 873-9463. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: West End Wine &amp; Spirits - Food &amp; Drink Shop in New York
+snippet: See 7 photos and 3 tips from 273 visitors to West End Wine &amp; Spirits. ... west end wine &amp; spirits new york • west end wine and spirits new york • west end wine &amp; spirits lincoln square new york; About; ... &quot;Among the groceries ive been to in Manhattan. They are the most inexpensive. Other groceries are like $1 more in prices&quot;
+title: West End Wine Company
+snippet: West End Wine Company. Independent Wine Merchants and Shippers . CLASS ENCOUNTERS OF THE THIRST KIND . A fine selection of wine, champagne and spirits from the best wine producing regions on &#39;our&#39; planet.
+title: Home - WestSide | Beer Wine Spirits
+snippet: Join our Newsletter. Sign up now for news and special offers!
+title: Grace Wine &amp; Spirits
+snippet: New Hours of Operation Tuesday – Saturday 12pm-8pm Closed Sunday &amp; Monday. Orders may be placed online for pick up at the store. Delivery will only be made by Postmates for a charge based on depending on distance.
+
+Cand cities: {'Salt Lake City', 'New York', 'Raleigh', 'Chattanooga', 'Wilmington', 'New York City', 'Manhattan'}

@@ -1,0 +1,987 @@
+City: Berlin
+Country: DE
+Main category: Restaurants and Food
+Sub category: Burgers - German - Mexican - Pizza
+Description: Hello! Could you recommend some "best of" or unique restaurants we could try on our 4 day trip? We are huge burger lovers and would love to try the Berliner's version! We'd also love to try local food of course like sausages and Schnitzel, even kebap which seems to be quite popular. We are not really into gourmet stuff/fine dining. It would be interesting to try some Mexican food or pizza also!
+Rated POIs: 35
+Rel distr: [(0, 5), (1, 7), (2, 12), (3, 11)]
+=================================
+REL: 3
+POI Name: Tommi's Burger Joint
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+title: Home | Tommi&#39;s Burger joint
+snippet: Since 1981 we have made a lot of burgers! We believe that our no nonsense combination of fantastic beef, fresh vegetables, the right mix of condiments, sandwiched in our freshly baked bun is what makes the perfect burger.
+title: Tommi&#39;s Burger Joint Berlin Invalidenstraße - Tommis ...
+snippet: Order takeaway at Tommi&#39;s Burger Joint Berlin Invalidenstraße. Popular Dishes. 6,90 € Classic Beef Burger mit 150g Rindfleisch-Patty, grünem Salat, Tomaten, Zwiebeln, Ketchup, Senf und Mayonnaise 11,90 € Classic Beef Burger Menü 1 • Classic 150g Beef Burger • Pommes frites • 1 Softdrink 0,33l nach Wahl 10,90 € Double Burger mit 2x 150g Rindfleisch-Patty, grünem Salat, Tomaten ...
+title: Menu | Tommi&#39;s Burger joint
+snippet: A luxurious 140g patty made from roughly minced tenderloin, rib-eye and rump steak with cheese, lettuce,tomato, onion, ketchup mustard and mayonnaise
+title: Tommi&#39;s Burger Joint Berlin Friedrichshain - Tommis Burger ...
+snippet: Order takeaway at Tommi&#39;s Burger Joint Berlin Friedrichshain. Popular Dishes. 6,90 € Classic Beef Burger mit 150g Rindfleisch-Patty, grünem Salat, Tomaten, Zwiebeln, Ketchup, Senf und Mayonnaise 5,90 € Tommi Junior Burger mit 100g Rindfleisch-Patty, grünem Salat, Tomaten, Zwiebeln, Ketchup, Senf und Mayonnaise 6,90 € Veggie Burger mit einem Patty aus frittierter Kartoffel, Möhren ...
+title: Mitte | Tommi&#39;s Burger joint
+snippet: The first Tommi’s Burger Joint in Germany, located in Berlin’s Mitte (and we’ve got the bullet holes to prove it). It’s just by the Berlin Wall Memorial and literally covered with history. Devour your burger either indoors our outside and blend in with the locals.
+title: Joints | Tommi&#39;s Burger joint
+snippet: Viale Giulio Cesare Viale Giulio Cesare 193/195 , 00192 Roma +39 06 397 30 902 | All week: 11.30am-10.30pm Tommi&#39;s Cafe: 9:00am-10:30pm
+title: Tommi&#39;s Burger Joint, Kudamm, Berlin - Charlottenburg ...
+snippet: Tommi&#39;s Burger Joint, Kudamm, Berlin: 108 Bewertungen - bei Tripadvisor auf Platz 286 von 7.884 von 7.884 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: TOMMI&#39;S BURGER JOINT, INVALIDENSTR., MITTE, BERLIN - Mitte ...
+snippet: Order takeaway and delivery at Tommi&#39;s Burger Joint, Invalidenstr., Mitte, Berlin, Berlin with Tripadvisor: See 321 unbiased reviews of Tommi&#39;s Burger Joint, Invalidenstr., Mitte, Berlin, ranked #247 on Tripadvisor among 7,880 restaurants in Berlin.
+title: Friedrichshain | Tommi&#39;s Burger joint
+snippet: We are now open in Friedrichshain! Next to the beautiful Boxhagener Platz you find Tommi’s Burger Joint. Enjoy the classic Tommi’s burger after visiting the weekend flea market or just chill out and enjoy the various draught beers and coctails.
+title: Tommi&#39;s Burger Joint, Invalidenstr., Mitte, Berlin - Mitte ...
+snippet: Tommi&#39;s Burger Joint, Invalidenstr., Mitte, Berlin, Berlin: 321 Bewertungen - bei Tripadvisor auf Platz 247 von 7.888 von 7.888 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+
+REL: 3
+POI Name: Shiso Burger
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+title: Shiso Burger | The best of two worlds
+snippet: Vegetarians can look forward to our Veggie burger with pickled tofu and grilled aubergines, or the Toad burger with Portobello mushrooms. On the side, we serve home-made fries, vitamin-rich Kimchi and Edamame beans. Shiso Burger is now home in Berlin, Hamburg, Paris and Malmö. Come and taste the best of two w orlds.
+title: Das Beste aus zwei Welten - Shiso Burger Berlin
+snippet: Shiso Burger steht für frisch gemachte Burger mit feinen Zutaten mitten im Zentrum von Berlin und Hamburg. Genieße Fleisch vom Angusrind, raffinierte Gewürze und schmackhafte Soßen aus eigener Herstellung in selbst gemachten Buns. Auf Wunsch servieren wir unsere Asia Burger mit Wagyu Beef – einer der kostbarsten Fleischsorten der Welt.
+title: Shiso Burger, Berlin - Auguststrasse, Mitte (Borough ...
+snippet: Shiso Burger, Berlin: See 1,089 unbiased reviews of Shiso Burger, rated 4.5 of 5 on Tripadvisor and ranked #252 of 7,880 restaurants in Berlin.
+title: Menu | Shiso Burger
+snippet: © Shiso Burger GmbH 2018 • Auguststr.29c 10119 Berlin • Tel: 030/88944687
+title: Shiso Burger, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Shiso Burger, Berlin: Se 1 089 objektive anmeldelser av Shiso Burger, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 257 av 7 890 restauranter i Berlin.
+title: Shiso Burger, Berlin - Kantstrasse 51, Charlottenburg ...
+snippet: Shiso Burger, Berlin: 44 Bewertungen - bei Tripadvisor auf Platz 2.025 von 7.879 von 7.879 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Shiso Burger - Home - Berlin, Germany - Menu, Prices ...
+snippet: Shiso Burger - Auguststr.29c Kantstr.51, 10119 10265 Berlin, Germany - Rated 4.6 based on 375 Reviews &quot;Small place with great burgers and sweet potato...
+title: Shiso Burger Berlin Mitte Augustr.
+snippet: Shiso Burger Berlin Augustr.29c, 10119 Berlin Tel.: 030 88944687
+title: Shiso Burger Berlin Kantstr.
+snippet: Shiso Burger Berlin Kantstr.51, 10625 Berlin
+title: Shiso Burger Paris Saint Michel
+snippet: Shiso Burger Paris 21 Quai Saint Michel 75005 Paris - Fon +33 1 77 16 96 93 - Opening daily from 12 am to 12 pm
+
+REL: 3
+POI Name: Grindhouse - Homemade Burgers
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+title: Grindhouse Homemade Burgers - Homemade since 2014
+snippet: Grindhouse − Homemade Burgers ist ein modernes, individuelles und hochklassiges Burger-Restaurant-Konzept im Herzen Düsseldorfs. Inspiriert durch Konzepte in den Burger Metropolen New York und London und gepaart mit langjähriger Erfahrung mit der Kunst des Burger-Bratens, beschloss das Grindhouse Team das erste Restaurant 2014 in Düsseldorf zu eröffnen.
+title: Grindhouse - Homemade Burgers, Berlin - Pankow (Borough ...
+snippet: Order food online at Grindhouse - Homemade Burgers, Berlin with Tripadvisor: See 147 unbiased reviews of Grindhouse - Homemade Burgers, ranked #1,781 on Tripadvisor among 8,145 restaurants in Berlin.
+title: Grindhouse - Homemade Burgers - Prenzlauer Berg - Berlin ...
+snippet: 27 reviews of Grindhouse - Homemade Burgers &quot;If you&#39;re in need of American burgers, fries, &amp; shakes, then this is the place to come. A+ service: fast &amp; friendly. BBQ burger tasted just like you&#39;d get in the States with real American bbq sauce,…
+title: Grindhouse - Homemade Burgers Berlin - Kontakt - Burger ...
+snippet: Grindhouse - Homemade Burgers. Berlin. Kollwitzstraße 50 10405 Berlin. 03044308353. Info AGB Datenschutzerklärung Verwendung von Cookies Impressum. Unsere Website benutzt Cookies um Dir mehr Benutzerfreundlichkeit bieten zu können sowie um Dir ausschließlich relevante Werbung anzuzeigen.
+title: Grindhouse - Homemade Burgers, Berlin - Pankow (Bezirk ...
+snippet: Grindhouse - Homemade Burgers, Berlin: 151 Bewertungen - bei Tripadvisor auf Platz 1.718 von 7.884 von 7.884 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Grindhouse - Homemade Burgers Berlin - Frisch und köstlich ...
+snippet: Essen bestellen bei Grindhouse - Homemade Burgers Berlin. Salads. 8,90 € California Salad Salatmix mit Avocado, Bohnen, Nachos, Mais und Joghurt-Koriander-Dressing 8,90 € Green Salad Salatmix mit Avocado, Edamame-Erbsen, Gurken und Buttermilch-Dressing
+title: Grindhouse Homemade Burgers - Berlin.de
+snippet: Amerikanisches Restaurant: Custom Burger Company GmbH, Kollwitzstr., Berlin–Prenzlauer Berg – Information zu Kontakt, Öffnungszeiten, Anfahrt und mehr.
+title: Grindhouse - Homemade Burgers | Facebook
+snippet: See more of Grindhouse - Homemade Burgers on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Vabali spa Berlin. Day Spa. Grindhouse - Homemade Burgers. Burger Restaurant. Tiziano. Home Decor. Benedict Berlin. Breakfast &amp; Brunch Restaurant. Alte Münze Berlin. Cultural Center. Lily Burger &amp; Steaks &quot;Beef&amp;Vegan ...
+title: Grindhouse - Homemade Burgers - Burger Restaurant - 392 ...
+snippet: Grindhouse - Homemade Burgers. 54K likes. &quot;Grindhouse – Homemade Burgers&quot; ist ein modernes, individuelles und hochklassiges Burgerrestaurant in Düsseldorf &amp; Berlin.
+title: Grindhouse - Homemade Burgers - TripAdvisor
+snippet: Grindhouse - Homemade Burgers: AMAZING waitstaff - See 148 traveler reviews, 63 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+
+REL: 3
+POI Name: BBI Berlinburger International
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+title: Unsere Burger - Berlinburger International
+snippet: Wir haben es uns zur Aufgabe gemacht, den Ruf des Burgers vom fettigen kleinen Magenbomber zum feuchten Traum deines Gaumens zu machen. Jeden Monat probieren wir mit einem Spezialburger, die Grenzen des Geschmacks auszureitzen: irischer Chedder, Feigensenfsoße, Portweincharlotten, candierte Mandelsplitter, Austernpilze, Preiselbeermayo...
+title: Home - Berlinburger International
+snippet: Ende 2009 mieteten wir einen Laden in der Pannierstraße, der gerade mal so groß wie ein old school Hippie-Bus war. Wir sprühten ihn bunt an, verkleideten das Schmuckstück mit Ziegelsteinen, nannten es Berlin Burger International und eröffneten mit Hilfe vieler Freunde in der Walpurgisnacht im Sommer 2010.
+title: BBI - BerlinBurger International | top10berlin
+snippet: BBI - BerlinBurger International. The Berlin Burger International - BBI for its friends - is located right in the heart of Neukölln. From the outside the place is rather inconspicuous but once past the door you enter into burger paradise. From the classic ...
+title: BBI Berlinburger International - Reuterkiez - Berlin, Germany
+snippet: 338 reviews of BBI Berlinburger International &quot;Best burger in kreuzkoln for quality, quantity, and price. One burger and a plate of chili cheese fries perfect to share for two. The dudes just love screaming your name when your order is up - i…
+title: BBI - Berlin Burger International - Neukölln (Bezirk ...
+snippet: BBI - Berlin Burger International, Berlin: 554 Bewertungen - bei Tripadvisor auf Platz 123 von 7.880 von 7.880 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: BBI(Berlin Burger International) - 199 Photos - 960 ...
+snippet: BBI(Berlin Burger International) - Pannierstrasse 5, 12047 Neukölln, Berlin, Germany - Rated 4.7 based on 960 Reviews &quot;The personal in the place is super...
+title: BBI - BerlinBurger International | top10berlin
+snippet: BBI - BerlinBurger International. Mitten im Neuköllner Kiez befindet sich das Berlin Burger International, kurz BBI. Hinter der eher unscheinbar wirkenden Fassade verbirgt sich ein wahres Burger-Geschmackserlebnis. Vom Classic-Hamburger über ...
+title: BBI - Berlinburger International :: Bistro – Berlin.de
+snippet: Bistro: BBI - Berlinburger International, Pannierstr., Berlin–Neukölln – Information zu Kontakt, Öffnungszeiten, Anfahrt und mehr.
+title: BBI - Berlin Burger International - Neukolln (Borough ...
+snippet: Order food online at BBI - Berlin Burger International, Berlin with Tripadvisor: See 554 unbiased reviews of BBI - Berlin Burger International, ranked #123 on Tripadvisor among 7,880 restaurants in Berlin.
+title: BBI - Berlin Burger International - Restaurantanmeldelser ...
+snippet: BBI - Berlin Burger International, Berlin: Se 554 objektive anmeldelser av BBI - Berlin Burger International, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 127 av 7 881 restauranter i Berlin.
+
+REL: 3
+POI Name: Momotaro Tavern
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Asian Fusion, 
+Snippets:
+title: momotaro tavern, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: momotaro tavern, Berlin: Se 780 objektive anmeldelser av momotaro tavern, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 54 av 7 888 restauranter i Berlin.
+title: momotaro tavern, Berlin - Mitte (Borough) - Menu, Prices ...
+snippet: momotaro tavern, Berlin: See 780 unbiased reviews of momotaro tavern, rated 4.5 of 5 on Tripadvisor and ranked #54 of 7,884 restaurants in Berlin.
+title: Momotaro Tavern, Berlin - Mitte (Bezirk) - Menü, Preise ...
+snippet: Momotaro Tavern, Berlin: 780 Bewertungen - bei Tripadvisor auf Platz 54 von 7.887 von 7.887 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: momotaro tavern - Home | Facebook
+snippet: momotaro tavern - Panoramastraße 1A, 10178 Berlin, Germany - Rated 4.9 based on 89 Reviews &quot;One of the best hamburger I&#39;ve ever had in my life!!! A...
+title: Momotaro Tavern - Mitte - Berlin, Germany - Yelp
+snippet: 55 reviews of Momotaro Tavern &quot;Easily overlooked but very nice food. I really enjoyed the friendly service and their burgers are delicious. Probably the best FRESH nuggets I ever had. Their Asian food is also delicious. Can recommend for sure.…
+title: momotaro tavern, Berlin - Mitte (arr.) - Menu, Prix ...
+snippet: momotaro tavern, Berlin : consultez 780 avis sur momotaro tavern, noté 4,5 sur 5 sur Tripadvisor et classé #54 sur 7 887 restaurants à Berlin.
+title: momotaro tavern
+snippet: Top 5 reasons to come to Alexanderplatz for eating in 2018! 1) American style burgers with Asian flavours. We cook our beef American style (smash-burgers) to get that crazy crust you see in the picture,
+title: Momotaro Tavern: Smash Burgers in Berlin-Mitte via ...
+snippet: Right in the center of the city, this week, Fotostrasse explores Momotaro Tavern for our #52weeksofburgers challenge. This place was recommended to us by a good friend, and it is slightly surprising that we never head of it before considering how central it is.
+title: MOMOTARO TAVERN, Berlin - Omdömen om restauranger ...
+snippet: momotaro tavern, Berlin: Se 780 objektiva omdömen av momotaro tavern, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer54 av 7 888 restauranger i Berlin.
+title: momotaro tavern - Home | Facebook
+snippet: momotaro tavern - Panoramastraße 1A, 10178 Berlin, Germany - Rated 4.9 based on 87 Reviews &quot;This place was seriously so good! It was the best food I had...
+
+REL: 3
+POI Name: Stadtklause
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: German, 
+Snippets:
+title: Stadtklause - Mittagessen wie Zuhause
+snippet: Von seinen Anfängen Mitte des 19. Jahrhunderts repräsentiert der Anhalter Bahnhof bis heute Berliner Stadtgeschichte, die in unserer Kneipe in Form einer Miniausstellung mit ausgewählten Bildern sowie Kurzportraits von an- und abreisenden Berlinern zur Darstellung gebracht wird.
+title: Stadtklause, Berlin - Friedrichshain-Kreuzberg (Borough ...
+snippet: Stadtklause, Berlin: See 876 unbiased reviews of Stadtklause, rated 4 of 5 on Tripadvisor and ranked #297 of 7,880 restaurants in Berlin.
+title: Stadtklause, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Stadtklause, Berlin: Se 876 objektive anmeldelser av Stadtklause, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 297 av 7 880 restauranter i Berlin.
+title: Stadtklause, Berlin - Friedrichshain-Kreuzberg (Bezirk ...
+snippet: Stadtklause, Berlin: 876 Bewertungen - bei Tripadvisor auf Platz 296 von 7.880 von 7.880 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Stadtklause – Berlin – Anhalten Bahnhof
+snippet: Über Uns. Von seinen Anfängen Mitte des 19. Jahrhunderts repräsentiert der Anhalter Bahnhof bis heute Berliner Stadtgeschichte, die in unserer Kneipe in Form einer Miniausstellung mit ausgewählten Bildern sowie Kurzportraits von an- und abreisenden Berlinern zur Darstellung gebracht wird.
+title: Middag - Anmeldelse for Stadtklause, Berlin, Tyskland ...
+snippet: Stadtklause: Middag - Se 876 reiseanmeldelser, 400 objektive bilder og gode tilbud på Berlin, Tyskland på Tripadvisor.
+title: Stadtklause, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Stadtklause, Berlin: Se 876 objektive anmeldelser af Stadtklause, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 297 af 7.862 restauranter i Berlin.
+title: Beste spisesteder i nærheten av Stadtklause, Berlin
+snippet: Restauranter i nærheten av Stadtklause på TripAdvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Stadtklause, Berlin.
+title: Stadtklause - Berlin, Germany - Pub, German Restaurant ...
+snippet: Stadtklause, Berlin, Germany. 373 likes. Pub. Sind grad in der Stadtklause und das Essen ist sehr lecker, das Bier schmeckt und das Personal ist super.
+title: Menù - Picture of Stadtklause, Berlin - Tripadvisor
+snippet: Stadtklause, Berlin Picture: Menù - Check out Tripadvisor members&#39; 57,320 candid photos and videos of Stadtklause
+
+REL: 3
+POI Name: Lily Burger & Steaks
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Breakfast & Brunch, Steakhouses, 
+Snippets:
+title: Lily Burger &amp; Steaks - Prenzlauer Berg - Berlin, Germany
+snippet: Just a year ago Lily Burger &amp; Steaks was my favorite place for a vegan burger. In the time since it&#39;s really rapidly declined in just about every possible manner. The buns are different, the prices are higher, and the quality of the food in general is much lower.
+title: Lily Burger &amp; Steaks &quot;Beef&amp;Vegan Grill-Club&quot; - Home ...
+snippet: Lily Burger &amp; Steaks &quot;Beef&amp;Vegan Grill-Club&quot;, Berlin. 12K likes. &quot;BEEF &amp; VEGAN FOOD-CLUB“ 24/7 OPENSTEAK BURGER SPARERIBS MAC N CHEESE FRIES FINGERFOOD SALAT FISH BEER COCKTAILS PUBLIC VIEWING &quot;BEEF...
+title: Lily Burger &amp; Steaks &quot;Beef&amp;Vegan Grill-Club&quot; - Home ...
+snippet: Lily Burger &amp; Steaks &quot;Beef&amp;Vegan Grill-Club&quot;, Prenzlauer Berg, Berlin, Germany. 12K likes. &quot;BEEF &amp; VEGAN FOOD-CLUB“ 24/7 OPENSTEAK BURGER SPARERIBS MAC N CHEESE FRIES FINGERFOOD SALAT FISH BEER...
+title: Steak in Berlin - Yelp
+snippet: “As an American, I&#39;m pretty discerning about my burgers and I can say that Lily Burger is the best burger I&#39;ve had in Berlin thus far (vs. The Bird, BBI, Burgermeister, Tommi&#39;s).” See all Lily Burger &amp; Steaks reviews
+title: Lily Burger &amp; Steaks - Berlin, Berlin - Untappd
+snippet: Find out what&#39;s popular at Lily Burger &amp; Steaks in Berlin, Berlin in real-time and see activity
+title: Lily Burger &amp; Steaks - Burger Lieferdienst - Berlin
+snippet: Hiermit versichere ich, dass diese Bewertung auf meiner eigenen Erfahrung basiert und meine eigenständige Meinung zu Lily Burger &amp; Steaks darstellt, ich in keiner persönlichen oder geschäftlichen Beziehung zu diesem Unternehmen stehe und mir keine Anreize oder Vergütungen für das Verfassen dieser Bewertung angeboten wurden.
+title: Photos for Lily Burger &amp; Steaks - Yelp
+snippet: Photos at Lily Burger &amp; Steaks - Berlin. Yelp. Cancel
+title: Lily Burger &amp; Steaks | Amerikanisches Restaurant in Berlin
+snippet: Amerikanisches Restaurant: Lily Burger &amp; Steaks, Am Friedrichshain, Berlin–Prenzlauer Berg – Information zu Kontakt, Öffnungszeiten, Anfahrt und mehr.
+title: The 7 Best Burgers In Berlin Germany – Big 7 Travel
+snippet: 7. Lily Burger. The Lily Burger club has almost cult status among burger fans in Berlin. You can get unusual burger creations using organic meat, as well as variations with tofu for vegetarians. The portions are huge and the meat is seriously juicy. If you like burgers full of toppings and dripping with cheese, Lily Burger is perfect.
+title: Supreme Burger Grill &amp; Bar - Startside - Berlin, Germany ...
+snippet: Supreme Burger Grill &amp; Bar – Oranienburger Str. 26, 10117 Berlin, Germany – Vurderingen 4.7 basert på 170 anmeldelser &quot;Only tried the onion burger. But...
+
+REL: 3
+POI Name: The Bird
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Steakhouses, 
+Snippets:
+title: The Bird Prenzlauer Berg | Best Burger in Berlin | The ...
+snippet: The Bird in Berlin | Best burgers in berlin &amp; fresh grilled steaks. A New York style bar and steakhouse, serving undoubtedly Berlins best steaks and burgers as well as some other stuff.
+title: MENU — The Bird Prenzlauer Berg | Best Burger in Berlin ...
+snippet: We will stay on top of it and always purchase the best meat available. At the moment the absolute best beef on the market here comes from the good old U.S. of A. It´s corn and grain-fed black angus beef and exported by Creekstone Farms.The meat has been dry aged for a period of thirty days making the beef more tender and concentrating the flavor.
+title: The Bird, Berlin - Pankow (Borough) - Menu, Prices ...
+snippet: The Bird, Berlin: See 2,124 unbiased reviews of The Bird, rated 4 of 5 on Tripadvisor and ranked #333 of 7,880 restaurants in Berlin.
+title: The Bird, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: The Bird, Berlin: Se 2 124 objektive anmeldelser av The Bird, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 334 av 7 878 restauranter i Berlin.
+title: About — The Bird Prenzlauer Berg | Best Burger in Berlin ...
+snippet: The Bird is a laid back bar &amp; restaurant with a staff of humans who really and truly give a damn about you having a good time. If something with your food, drink or service is not just right, let us know and we&#39;ll do everything we can to make it so. Our regulars know this, so if you&#39;re new here give us a chance.
+title: THE BIRD, Berlin - Pankow (Borough) - Updated 2020 ...
+snippet: The Bird, Berlin: See 2,124 unbiased reviews of The Bird, rated 4 of 5 on Tripadvisor and ranked #334 of 7,880 restaurants in Berlin.
+title: THE BIRD, Berlin - Omdömen om restauranger - Tripadvisor
+snippet: The Bird, Berlin: Se 2 124 objektiva omdömen av The Bird, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer329 av 7 888 restauranger i Berlin.
+title: The Bird, Berlin - Pankow (Bezirk) - Menü, Preise ...
+snippet: The Bird, Berlin: 2.124 Bewertungen - bei Tripadvisor auf Platz 333 von 7.880 von 7.880 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: The Bird, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: The Bird, Berlin: Se 2.124 objektive anmeldelser af The Bird, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 334 af 7.880 restauranter i Berlin.
+title: The Bird Steakhouse, Berlin - Restaurantanmeldelser ...
+snippet: Spise middag i Berlin: Se 188 anmeldelser fra Tripadvisor-reisende av 7 862restauranter i Berlin, og søk etter kjøkken, pris ... Jeg har reist til den fugl i Prenzlauer Berg i flere år, og elsker det, så jeg bestemte meg for å dra til lunsj til Bird Express i Mitte og jeg ble ikke skuffet. Vi kunne nyte den solrike terrasse i en ...
+
+REL: 3
+POI Name: Boulevard Friedrichstrasse
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: German, Steakhouses, 
+Snippets:
+title: Restaurant Boulevard Friedrichstrasse | Berliner ...
+snippet: Leckere Speisen und Getränke in der Mitte von Berlin, deutsche und typisch berlinerische Küche, eine Gehminute zum Revuetheater Friedrichstadtpalast. Berliner Restaurant Boulevard Friedrichstrasse berliner und deutsche und Küche, auf der Friedrichstraße, eine Gehminute von dem Revuetheater Friedrichstadtpalast. Reservierung für das Restaurant Friedrichstrasse über Ruf 030-2833437 ...
+title: Speisekarte | Restaurant Friedrichstrasse Berlin ...
+snippet: Deutsche Küche in Berlin Mitte, in der Nähe von dem Friedrichstadtpalast. Frische, regionale Produkte traditionell zubereiten, mit der Moderne zu kombinieren - das ist unsere Aufgabe, welcher wir uns leidenschaftlich widmen. In der Speisekarte vom deutschen Restaurant Boulevard Friedrichstrasse werden sie fündig.
+title: Boulevard Friedrichstrasse, Berlin - Mitte (Borough ...
+snippet: Boulevard Friedrichstrasse, Berlin: See 888 unbiased reviews of Boulevard Friedrichstrasse, rated 4.5 of 5 on Tripadvisor and ranked #178 of 7,880 restaurants in Berlin.
+title: Boulevard Friedrichstrasse, Berlin - Restaurantanmeldelser ...
+snippet: Boulevard Friedrichstrasse, Berlin: Se 887 objektive anmeldelser av Boulevard Friedrichstrasse, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 181 av 8 029 restauranter i Berlin.
+title: Boulevard Friedrichstrasse, Berlin - Mitte (Bezirk ...
+snippet: Boulevard Friedrichstrasse, Berlin: 888 Bewertungen - bei Tripadvisor auf Platz 178 von 7.880 von 7.880 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Wir über uns - Boulevard Friedrichstrasse
+snippet: Das heutige Boulevard Friedrichstrasse, ist das Ergebnis einer über 15-jähriger Erfahrung und einer Nähe zum Gast, die in Zeiten von bei uns ungeduldeter Systemgastronomie und billig-Aushilfsjobs fast schon einmalig ist. Zum Glück ist unser Restaurant auch kein Geheimtip mehr.
+title: Boulevard Friedrichstrasse - Berlin, Germany | Facebook
+snippet: Boulevard Friedrichstrasse - Friedrichstrasse 106c, 10117 Berlin, Germany - Rated 4.6 based on 113 Reviews &quot;I went out of my way to go here for some good...
+title: Reservierung - Restaurant Boulevard Friedrichstrasse
+snippet: Hier online, per Telefon (030-2833437) oder im Restaurant Boulevard Friedrichstrasse reservieren. Gerade zu Stoßzeiten, empfehlen wir Ihnen, rechtszeitig eine Reservierung für einen Tisch im Restaurant Boulevard Friedrichstrasse.
+title: BOULEVARD FRIEDRICHSTRASSE, Berlin - Omdömen om ...
+snippet: Boulevard Friedrichstrasse, Berlin: Se 888 objektiva omdömen av Boulevard Friedrichstrasse, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer178 av 7 880 restauranger i Berlin.
+title: Boulevard Friedrichstrasse, Berlin - Restaurantanmeldelser ...
+snippet: Boulevard Friedrichstrasse, Berlin: Se 887 objektive anmeldelser af Boulevard Friedrichstrasse, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 178 af 7.928 restauranter i Berlin.
+
+REL: 3
+POI Name: Bobsek Burger
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Fast Food, 
+Snippets:
+title: Bobsek Burger - Lieferdienst und Restaurant Berlin Wilmersdorf
+snippet: So fingen wir mit unserem Lieferservice in Berlin an, Burgerpatties aus frischem Rindfleisch selbst zu machen und gestalteten eigene Soßen und schließlich backten wir auch unsere eigenen Brötchen, ... Burger vor Ort: 7,80 Euro Bobsek Burger. Zwiebeln, doppelt Cheddar, Bacon, Jalapeños, BBQ-Sauce, Ketchup2 &amp; Mayonnaise2,5.
+title: Bobsek Burger - - Burger, Amerikanisch, Hausmannskost ...
+snippet: 9,90 € Bobsek Burger ohne Pommes mit einer Chili-Schote, Zwiebeln, Bacon, doppelt Käse, Jalapenos und BBQ-Sauce; 10,10 € Chicken-Avocado-Burger ohne Pommes mit Hähnchenbrust gegrillt, belegt mit Avocadostreifen, Rucola-Salat, Tomate und Honig-Senf-Sauce
+title: Bobsek Burger Berlin - Burger zum verlieben !!! - Burger ...
+snippet: Bobsek Burger. Berlin. Reinbeckstraße 2 12459 Berlin. 03089400000. Info AGB Datenschutzerklärung Verwendung von Cookies Impressum. Unsere Website benutzt Cookies um Dir mehr Benutzerfreundlichkeit bieten zu können sowie um Dir ausschließlich relevante Werbung anzuzeigen.
+title: Bobsek Burger - Lieferservice, Berlin ...
+snippet: Bobsek Burger - Lieferservice, Berlin: Se 23 objektive anmeldelser av Bobsek Burger - Lieferservice, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 3 160 av 7 880 restauranter i Berlin.
+title: Bobsek Burger - 68 Photos - 85 Reviews - Burger Restaurant ...
+snippet: Bobsek Burger - Berliner Straße 30-31/Ecke Fechner strasse 1, 10715 Berlin, Germany - Rated 4.6 based on 85 Reviews &quot;One of the best burgers I&#39;ve had for...
+title: Bobsek Burger - Wilmersdorf - Berlin, Germany
+snippet: 29 reviews of Bobsek Burger &quot;Sadly, it&#39;s hard to get a truly good burger in Berlin. Happily, there&#39;s Bobsek Burger. So shockingly good! And let&#39;s be clear: I&#39;m not grading this on a curve, like it&#39;s shockingly good (for Berlin). I&#39;m saying it&#39;s…
+title: Bobsek Burger - Lieferservice, Berlin - Charlottenburg ...
+snippet: Bobsek Burger - Lieferservice, Berlin: See 23 unbiased reviews of Bobsek Burger - Lieferservice, rated 4 of 5 on Tripadvisor and ranked #3,153 of 7,952 restaurants in Berlin.
+title: another great burger in Berlin! - Review of Bobsek Burger ...
+snippet: Bobsek Burger - Lieferservice: another great burger in Berlin! - See 23 traveler reviews, 2 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: Bobsek Burger Berlin - Burger, Amerikanisch, Hausmannskost ...
+snippet: Bobsek Burger, Berliner Straße 30/31, 10715, Berlin. Online Essen bestellen bei Bobsek Burger über Lieferando.de. . Wähle aus Vorspeisen, Salatvariationen, Einzelne Burger, Snacks oder Alkoholische Getränke
+title: Bobsek Burger Teltower Damm Berlin - Burger, Snacks ...
+snippet: Bobsek Burger, Teltower Damm 38, 14165, Berlin. Online Essen bestellen bei Bobsek Burger über Lieferando.de. Immer eine gute Wahl!. Wähle aus Salat, Burger, Snacks, Alkoholfreie Getränke oder Alkoholische Getränke
+
+REL: 3
+POI Name: Gasthaus Krombach
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: German, 
+Snippets:
+title: Gasthaus Krombach – Deutsche Küche &amp; Berliner Spezialitäten
+snippet: Das Gasthaus Krombach befindet sich in bester Lage von Berlin in unmittelbarer Nähe des Kurfürstendamms. Zur Gedächtniskirche und zum Bahnhof Zoologischer Garten sind es nur wenige Minuten. 95 Gäste finden in der wunderschönen Alt-Berliner Atmosphäre Platz. Im Sommer haben wir zusätzlich unsere Terrasse für Sie geöffnet.
+title: Gasthaus Krombach
+snippet: Das Gasthaus Krombach befindet sich in bester Lage von Berlin in unmittelbarer Nähe des Kurfürstendamms. Zur Gedächtniskirche und zum Bahnhof Zoologischer Garten sind es nur wenige Minuten. 95 Gäste finden in der wunderschönen Alt-Berliner Atmosphäre Platz.
+title: Gasthaus Krombach, Berlin - Charlottenburg-Wilmersdorf ...
+snippet: Gasthaus Krombach, Berlin: See 1,587 unbiased reviews of Gasthaus Krombach, rated 4.5 of 5 on Tripadvisor and ranked #141 of 7,880 restaurants in Berlin.
+title: Gasthaus Krombach, Berlin - Restaurantanmeldelser ...
+snippet: Gasthaus Krombach, Berlin: Se 1 587 objektive anmeldelser av Gasthaus Krombach, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 141 av 7 880 restauranter i Berlin.
+title: Gasthaus Krombach, Berlin - Charlottenburg-Wilmersdorf ...
+snippet: Gasthaus Krombach, Berlin: 1.587 Bewertungen - bei Tripadvisor auf Platz 141 von 7.887 von 7.887 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Menu - Picture of Gasthaus Krombach, Berlin - Tripadvisor
+snippet: Gasthaus Krombach, Berlin Picture: Menu - Check out Tripadvisor members&#39; 57,325 candid photos and videos of Gasthaus Krombach
+title: Gasthaus Krombach in Berlin | My Guide Berlin
+snippet: A recipient of Tripadvisor&#39;s Certificate of Excellence 2013, Gasthaus Krombach on Meinekestraße in Berlin&#39;s Charlottenburg district, offers daily specials such as their famous Kromback Breakfast, which is a variety of set breakfasts ranging in price, starting from €3,5.
+title: Gasthaus Krombach Berlin - Deutsche Küche und Berliner ...
+snippet: Gasthaus Krombach Berlin - Deutsche Küche und Berliner Spezialitäten - Meinekestraße 4, 10719 Berlin, Germany - Rated 4.8 based on 100 Reviews &quot;A cozy...
+title: GASTHAUS KROMBACH, Berlin - Omdömen om restauranger ...
+snippet: Gasthaus Krombach, Berlin: Se 1 587 objektiva omdömen av Gasthaus Krombach, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer141 av 7 880 restauranger i Berlin.
+title: Gasthaus Krombach, Berlin - Restaurantanmeldelser ...
+snippet: Gasthaus Krombach, Berlin: Se 1.587 objektive anmeldelser af Gasthaus Krombach, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 141 af 7.888 restauranter i Berlin.
+
+REL: 2
+POI Name: Hackethals
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: German, 
+Snippets:
+title: HACKETHALS · Gaststätte · Bar · Wohnzimmer
+snippet: Hackethals · Gaststätte · Bar · Wohnzimmer Das urgemütliche Ambiente machen das Hackethals in Berlins Mitte zum absoluten Geheimtip. Das Hackethals befindet sich in der Pflugstr. 11 in 10115 Berlin-Mitte
+title: Hackethals, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Hackethals, Berlin: Se 1 360 objektive anmeldelser av Hackethals, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 25 av 7 880 restauranter i Berlin.
+title: Hackethals, Berlin - Mitte (Borough) - Restaurant Reviews ...
+snippet: Hackethals, Berlin: See 1,360 unbiased reviews of Hackethals, rated 4.5 of 5 on Tripadvisor and ranked #25 of 7,880 restaurants in Berlin.
+title: HACKETHALS, Berlin - Mitte (Borough) - Updated 2020 ...
+snippet: Hackethals, Berlin: See 1,360 unbiased reviews of Hackethals, rated 4.5 of 5 on Tripadvisor and ranked #25 of 7,884 restaurants in Berlin.
+title: Hackethals, Berlin - Mitte (Bezirk) - Restaurant ...
+snippet: Hackethals, Berlin: 1.360 Bewertungen - bei Tripadvisor auf Platz 24 von 7.888 von 7.888 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: HACKETHALS, Berlin - Omdömen om restauranger - Tripadvisor
+snippet: Hackethals, Berlin: Se 1 360 objektiva omdömen av Hackethals, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer25 av 7 880 restauranger i Berlin.
+title: Hackethals - Mitte - Berlin, Germany - Yelp
+snippet: 39 reviews of Hackethals &quot;This cozy, family run restaurant was the highlight of our trip to Berlin. Candles on the table and huge, welcoming bar made for the perfect atmosphere. We&#39;d return to Berlin just for a meal here. The food: the venison…
+title: Hackethals from Berlin menu - foodlocate.com
+snippet: The Menu for Hackethals with category German from Berlin, Pflugstrasse 11, 10115 Berlin, Germany can be viewed here or added.
+title: HACKETHALS – Tagesgericht
+snippet: das Hackethals zum absoluten Geheimtip in Berlins Mitte. Jeden Tag wechselnder Mittagstisch mit zwei frischen Gerichten (davon eines vegetarisch) und mit verschiedenen Salatvariationen! Darüberhinaus haben wir eine Tageskarte mit verschiedenen, frischen Gerichten und Zutaten der Saison. Ausserdem eine umfangreiche Auswahl an Café-
+title: Hackethals, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Hackethals, Berlin: Se 1.358 objektive anmeldelser af Hackethals, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 24 af 7.936 restauranter i Berlin.
+
+REL: 2
+POI Name: Standard
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Standard Pizza Berlin – Vera Pizza Napoletana
+snippet: HELLO@STANDARD-BERLIN.DE. Standard – Serious Pizza steht für traditionelle neapolitanische Pizza in Berlin. MENU. Wir kochen mit frischen und von kleinen Produzenten hergestellten Produkten, saisonal oder nach Verfügbarkeit kann es vorkommen, dass wir Produkte durch andere ersetzen!
+title: Standard Serious Pizza, Berlin - Pankow (Borough) - Menu ...
+snippet: Standard Serious Pizza, Berlin: See 361 unbiased reviews of Standard Serious Pizza, rated 4 of 5 on Tripadvisor and ranked #547 of 7,881 restaurants in Berlin.
+title: De 10 beste restaurantene i Berlin - Tripadvisor
+snippet: Beste restauranter i Berlin, Tyskland: Se anmeldelser fra reisende og bilder av spisesteder i Berlin, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: About :: | the-berlin-group
+snippet: The &#39;Berlin Group&#39; is a pan-European payments interoperability standards and harmonisation initiative with the primary objective of defining open and common scheme- and processor-independent standards in the interbanking domain between Creditor Bank (Acquirer) and Debtor Bank (Issuer), complementing the work carried out by e.g. the European Payments Council.
+title: derStandard.at | Nachrichten, Kommentare &amp; Community
+snippet: Standard-Praktikantin Antonia Rauth ist erst vor kurzem von Tirol nach Wien gezogen. Das hat sie bis jetzt kaum gestört – ihre Familie daheim darf sie momentan nicht sehen . Kolumne.
+title: Details – Standard Pizza Berlin
+snippet: Tomaten. In unsere Tomatensauce kommen nur zertifizierte San Marzano Tomaten! Die wachsen in der vulkanischen Erde am Rande des Vesuvs. Durch unsere Weiterverarbeitung ausschließlich per Hand, werden die geschmackstragenden Fasern der Früchte nicht zerstört und das sehr harmonische Spiel zwischen Fruchtigkeit und Säure kann sich optimal entfalten.
+title: Standard - Berlin Food Stories
+snippet: Standard Serious Neapolitan Pizza Jul 2nd, 2015. Standard is a pizzeria in Northern Mitte that has dedicated itself to serving the perfect Neapolitan style pizza. Taking zero shortcuts and sourcing all main ingredients directly from Napoli, this pizza joint serves one of the best pizzas in Berlin and is a great destination for a casual dinner.
+title: Standard - Home - Berlin, Germany - Menu, Prices ...
+snippet: Standard - Templinerstrasse 7 / Ecke Zionskirchstrasse, 10119 Berlin, Germany - Rated 4.7 based on 195 Reviews &quot;We went to Standard last Thursday and...
+title: Berlin - Evening Standard
+snippet: All the latest breaking news, headlines, analysis and articles on Berlin from the Evening Standard
+title: Nettbutikk | standard.no
+snippet: Få nettbasert tilgang til standarder. 2020-04-02. Hjemmekontor? Få en enkel og rask tilgang til innholdet i standarder, søkbare PDFer og alltid siste utgave av dine dokumenter tilgjengelig fra stua, kjøkkenet, barnerommet eller hvor du måtte befinne deg. Med et abonnement får du alt dette.
+
+REL: 2
+POI Name: beets&roots
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Salad, 
+Snippets:
+title: beets&amp;roots
+snippet: Whether you‘re vegan, vegetarian, gluten-free, paleo, or just plain picky you deserve a salad or bowl just the way you like it! Our Custom Bowl feature allows you to create your ideal bowl exactly to your preference or constantly mix things up to create new flavour combinations.
+title: Beets&amp;Roots, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Beets&amp;Roots, Berlin: Se 80 objektive anmeldelser av Beets&amp;Roots, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 640 av 7 890 restauranter i Berlin.
+title: Beets &amp; Roots - Große Hamburger Straße - Gut und gesund ...
+snippet: Beets &amp; Roots - Große Hamburger Straße. Große Hamburger Straße 38 10115 Berlin. 4915222606509. Info AGB Datenschutzerklärung Verwendung von Cookies Impressum. Unsere Website benutzt Cookies um Dir mehr Benutzerfreundlichkeit bieten zu können sowie um Dir ausschließlich relevante Werbung anzuzeigen.
+title: Beets&amp;Roots, Berlin - Dorotheenstrasse 83, Mitte (Borough ...
+snippet: Order food online at Beets&amp;Roots, Berlin with Tripadvisor: See 42 unbiased reviews of Beets&amp;Roots, ranked #1,468 on Tripadvisor among 7,878 restaurants in Berlin.
+title: Beets&amp;Roots, Berlin - Grosse Hamburger Str. 38, Mitte ...
+snippet: Order food online at Beets&amp;Roots, Berlin with Tripadvisor: See 80 unbiased reviews of Beets&amp;Roots, ranked #641 on Tripadvisor among 7,859 restaurants in Berlin.
+title: Beets&amp;Roots - Home - Berlin, Germany - Menu, Prices ...
+snippet: Beets&amp;Roots. 7,676 likes · 128 talking about this · 883 were here. Beets &amp; Roots is a fast casual restaurant serving up freshly prepared bowls, salads, soups and wraps, with multiple locations in the...
+title: Beets&amp;Roots, Berlin - Dorotheenstraße 83, Mitte (Bezirk ...
+snippet: Beets&amp;Roots, Berlin: 42 Bewertungen - bei Tripadvisor auf Platz 1.472 von 7.884 von 7.884 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Beets &amp; Roots
+snippet: Berlin Große Hamburger Straße. Große Hamburger Straße 38, 10115 Berlin. Karte. Mon-Fr. 11:00 -15:00 Sa-Son. Geschlossen. Hier Bestellen
+title: Beets &amp; Roots
+snippet: Ihr Warenkorb ist leer. Fügen Sie Artikel hinzu, um loszulegen. Gesamt. Bestellen
+title: beets&amp;roots - Menus
+snippet: beets&amp;roots - Menus
+
+REL: 2
+POI Name: Dolores
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Dolores, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Dolores, Berlin: Se 1 081 objektive anmeldelser av Dolores, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 206 av 7 880 restauranter i Berlin.
+title: Dolores, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Dolores, Berlin: Se 321 objektive anmeldelser av Dolores, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 395 av 8 029 restauranter i Berlin.
+title: Dolores, Berlin - Rosa-Luxemburg-Str. 7, Mitte (Borough ...
+snippet: Dolores, Berlin: See 1,081 unbiased reviews of Dolores, rated 4 of 5 on Tripadvisor and ranked #206 of 7,880 restaurants in Berlin.
+title: Dolores, Berlin - Bayreuther Str. 36, Schoneberg - Menu ...
+snippet: Dolores, Berlin: See 323 unbiased reviews of Dolores, rated 4 of 5 on Tripadvisor and ranked #409 of 7,880 restaurants in Berlin.
+title: Dolores, Berlin - Rosa-Luxemburg-Str. 7, Mitte (Bezirk ...
+snippet: Dolores, Berlin: 1.081 Bewertungen - bei Tripadvisor auf Platz 206 von 7.880 von 7.880 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: dolores california gourmet burritos, berlin
+snippet: dolores california gourmet burritos - authentic California-style Burritos and Quesadillas in the center of Berlin, Germany
+title: Dolores, Berlin - Bayreuther Str. 36, Schöneberg - Menü ...
+snippet: Dolores, Berlin: 323 Bewertungen - bei Tripadvisor auf Platz 407 von 7.880 von 7.880 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Cafe Santa Dolores, Berlin - Pankow (Bezirk) - Restaurant ...
+snippet: Cafe Santa Dolores, Berlin: 19 Bewertungen - bei Tripadvisor auf Platz 1.858 von 7.881 von 7.881 Berlin Restaurants; mit 5/5 von Reisenden bewertet.
+title: Dolores, Berlin - recenzje restauracji - Tripadvisor
+snippet: Dolores, Berlin: zobacz bezstronne recenzje (1 080 ) na temat Dolores, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 210 z 7 890 restauracji w Berlinie.
+title: Dolores California Burritos - 212 Photos - 317 Reviews ...
+snippet: Dolores California Burritos. 3.4K likes. dolores california burritos - authentic California-style Burritos and Quesadillas in the center of Berlin, Germany
+
+REL: 2
+POI Name: Elefant
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: German, 
+Snippets:
+title: Geschlossen – Restaurant Elefant
+snippet: Liebe Gäste, die Gesundheit unsere Gäste liegt uns sehr am Herzen. Daher folgen wir den Anweisungen des Berliner Senats und schliessen unsere Türen.
+title: Five Elephant, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Five Elephant Coffee er en pioner i Berlin som tar stekespesialkaffeopplevelsen til et nytt nivå. Butikkens konsept og interiør ligger i Berlins hip-distrikt Kreuzberg Reichenberger Stra e, og er veldig foryngende med minimalistisk design, deler benker og begrenset WiFi, kart og bøker, og oppmuntrer fremmede... eller venner til å snakke om deres kaffeopplevelse og lidenskap.
+title: Restaurant Elefant, Berlin - Schoneberg - Restaurant ...
+snippet: Restaurant Elefant, Berlin: See 622 unbiased reviews of Restaurant Elefant, rated 4 of 5 on Tripadvisor and ranked #362 of 7,880 restaurants in Berlin.
+title: Five Elephant - Coffee Roastery and Cake Shop in Berlin
+snippet: Sourcing and roasting exceptional coffees, shipping worldwide for wholesale &amp; retail or carefully brewed in our Berlin-based cake shops.
+title: Restaurant Elefant, Berlin - Restaurantanmeldelser ...
+snippet: Restaurant Elefant, Berlin: Se 622 objektive anmeldelser av Restaurant Elefant, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 362 av 7 860 restauranter i Berlin.
+title: RESTAURANT ELEFANT, Berlin - Schöneberg - Updated 2020 ...
+snippet: Restaurant Elefant, Berlin: See 623 unbiased reviews of Restaurant Elefant, rated 4 of 5 on Tripadvisor and ranked #372 of 7,887 restaurants in Berlin.
+title: Zum Elefanten - Eckkneipe in Berlin-Kreuzberg
+snippet: Zum Elefanten - Eckkneipe in Berlin-Kreuzberg Heike Schwarzer hat den ELE, wie die Gäste ihre traditionelle Eckkneipe in Kreuzberg liebevoll nennen, im Juli 2011 von Anita und Walter Wolf übernommen.
+title: Restaurant Elefant, Berlin - Schöneberg - Restaurant ...
+snippet: Restaurant Elefant, Berlin: 622 Bewertungen - bei Tripadvisor auf Platz 358 von 7.880 von 7.880 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Elefant - Wikipedia
+snippet: The Elefant (German for &quot;elephant&quot;) was a heavy Jagdpanzer (tank destroyer) used by German Wehrmacht Panzerjäger during World War II. Ninety-one units were built in 1943 under the name Ferdinand, after its designer Ferdinand Porsche, using tank hulls produced for the Tiger I tank design abandoned in favour of a Henschel design.
+title: Thai Elephant, Berlin - Charlottenburg-Wilmersdorf ...
+snippet: Thai Elephant, Berlin: See 259 unbiased reviews of Thai Elephant, rated 4 of 5 on Tripadvisor and ranked #702 of 7,880 restaurants in Berlin.
+
+REL: 2
+POI Name: Burgermeister
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, Burgers, 
+Snippets:
+title: Burgermeister Schlesisches Tor, Berlin ...
+snippet: Burgermeister Schlesisches Tor, Berlin: Se 5 090 objektive anmeldelser av Burgermeister Schlesisches Tor, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 41 av 7 880 restauranter i Berlin.
+title: Bester Burger in Berlin: Der Burgermeister
+snippet: Imbiss in der Toilette? Wo gibts denn sowas? Nur in Berlin. Den original Burgermeister mit dem besten Burger der Stadt gibt es mehrfach in Berlin.
+title: The Best Burger in Berlin: Burgermeister
+snippet: Do not miss your chance of becoming part of the Burgermeister story. Join our international team that enjoys working in a relaxed atmosphere. Whether you are good at office management or if you are a burger making artist, we are continuously looking for ways to add value and enthusiastic team members to our company.
+title: BURGERMEISTER SCHLESISCHES TOR, Berlin - Friedrichshain ...
+snippet: Burgermeister Schlesisches Tor, Berlin: See 5,091 unbiased reviews of Burgermeister Schlesisches Tor, rated 4.5 of 5 on Tripadvisor and ranked #40 of 7,884 restaurants in Berlin.
+title: Burgermeister - Berlin Food Stories
+snippet: Burgermeister is a Berlin institution, always has been and always will be. That moment, after you’ve hit one of the many clubs or bars in the area, hungry as a bear and leaving just a bit early to get in line to eat at Burgermeister before they close at three in the morning.
+title: Burgermeister - Home | Facebook
+snippet: Burgermeister. 26,258 likes · 11 talking about this · 160 were here. Der Laden in Berlin-Kreuzberg wo alles begann. In einem ehemaligen Toilettenhäuschen am U-Bhf Schlesisches Tor direkt unter den...
+title: Burgermeister Kottbusser Tor, Berlin ...
+snippet: Burgermeister Kottbusser Tor, Berlin: Se 275 objektive anmeldelser av Burgermeister Kottbusser Tor, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 74 av 7 878 restauranter i Berlin.
+title: Burgermeister, Berlin - Friedrichshain-Kreuzberg (Bezirk ...
+snippet: Burgermeister, Berlin: 5.091 Bewertungen - bei Tripadvisor auf Platz 40 von 7.888 von 7.888 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: BURGERMEISTER SCHLESISCHES TOR, Berlín - Friedrichshain ...
+snippet: Burgermeister Schlesisches Tor, ... Varias personas antes de nuestro viaje a Berlin nos comentaron este lugar, tiene varios locales por todo Berlin y las hamburguesas estan bastante buenas, si estas unos días de viaje mi consejo es que vayas ya que la comida alemana sin animo de ofender non...
+title: Burgermeister - Kreuzberg - Berlin, Germany - Yelp
+snippet: Smack dab in East Berlin&#39;s central clubbing district and situated under an elevated set of train tracks, your guaranteed to get great food in incredible ambiance at Burgermeister. Day or late night, be prepared for a line and very limited table seating. But it&#39;s ok.
+
+REL: 2
+POI Name: Pizzatrium
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Pizzatrium - Kreuzberg - Berlin, Germany
+snippet: Pizzatrium in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Das Pizzatrium - Urban - Berlin, Berlin
+snippet: See 6 photos from 92 visitors about great value, good for a quick meal, and casual. &quot;Delicious pizza slices at a fair price, fast and friendly service&quot;
+title: Tisch reservieren - Restaurant Das Pizzatrium in Berlin
+snippet: Adresse vom Restaurant Das Pizzatrium: Das Pizzatrium Körtestraße 8 10967 Berlin Auf der Karte anzeigen. Die Daten stammen vom Google-Places-Dienst.
+title: Tisch reservieren - Restaurant Pizzatrium in Berlin
+snippet: Adresse vom Restaurant Pizzatrium: Pizzatrium Körtestraße 8 10967 Berlin Auf der Karte anzeigen. Kontakt vom Restaurant Pizzatrium. Telefon: 01575 3470625 Die Daten stammen vom Google-Places-Dienst.
+title: Das Pizzatrium - Urban - Berlin, Berlin
+snippet: Pizzeria in Berlin, Berlin. Foursquare verwendet Cookies, um dir ein optimales Erlebnis zu bieten, um Werbung, die du möglicherweise siehst, zu personalisieren und um Werbetreibenden zu helfen, Ergebnisse ihrer Werbekampagnen zu ermitteln. Wenn du unsere Webseite weiterhin benutzt, ...
+title: Photos for Pizzatrium - Yelp
+snippet: Photos at Pizzatrium - Berlin. Find. Near
+title: Pizzatrium 10967 Berlin-Kreuzberg Öffnungszeiten | Adresse ...
+snippet: Gelbe Seiten - Zu allen Unternehmen und Branchen gibt das Branchenbuch für Deutschland Auskunft über Telefonnummern, Adressen und Informationen zu den Unternehmen, zu Produkten und Dienstleistungen - mit Karte und Routenplaner.
+title: das Pizzatrium - Nur Bei Deliveroo, Pizza, Italienisch ...
+snippet: Online-Menü des Restaurant / Lieferservice das Pizzatrium in Berlin 10967. Nur Bei Deliveroo, Pizza, Italienisch online bestellen - Speisekarte, Telefonnummer, Deals &amp; Gutscheine und Bewertung.
+title: Pizzeria alte forno - Friedrichshain - Berlin, Germany
+snippet: Pizzeria alte forno in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Deutschland Restaurant, Cafe, Bar - Foursquare
+snippet: Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+
+REL: 2
+POI Name: Muse
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: International, Sandwiches, Burgers, 
+Snippets:
+title: Muse - Home - Redwood&lt;
+snippet: Muse Restaurant is temporarily closed due to the Corona COVID-19 crisis. It is important to us to be responsible members of the community. Therefore we are following all governmental guidelines and advice to not risk the further spread of the virus.
+title: DE 10 BESTE museene i Berlin - Tripadvisor
+snippet: Museer i Berlin: Se anmeldelser og bilder av museer i Berlin, Tyskland på Tripadvisor.
+title: Muse Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Muse Berlin, Berlin: Se 135 objektive anmeldelser av Muse Berlin, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 402 av 8 029 restauranter i Berlin.
+title: Museums in Berlin – Berlin.de
+snippet: With the aim of inhibiting the spread of the coronavirus, Berlin&#39;s theatres, operas, concert halls, clubs, museums, cinemas and other venues will initially be closed until 19 April 2020.
+title: Museer i Berlin – Wikipedia
+snippet: Det finnes i Berlin omkring 160 museer og samlinger. I 2004 hadde museene til sammen 11,3 millioner besøkende. Alfabetisk liste over museene A. Abguss-Sammlung Antiker Plastik, Schlossstraße 69b, Charlottenburg; Ägyptisches Museum und ...
+title: Muse | Upcoming dates
+snippet: The official Muse website. Home of news, tour dates, videos, music, discography, official store and message board.
+title: Muse Berlin - Pankow (Borough) - Menu, Prices &amp; Restaurant ...
+snippet: Muse Berlin, Berlin: See 135 unbiased reviews of Muse Berlin, rated 4.5 of 5 on Tripadvisor and ranked #406 of 7,880 restaurants in Berlin.
+title: Muse 2019 live in Berlin - YouTube
+snippet: Nach ihrer Stadion-Show in Köln kommen Muse im September 2019 in die Mercedes Benz Arena nach Berlin! Tickets &amp; Infos: https://bit.ly/2uTUAfZ.
+title: Muse Berlin - Pankow (Bezirk) - Menü, Preise &amp; Restaurant ...
+snippet: Muse Berlin, Berlin: 135 Bewertungen - bei Tripadvisor auf Platz 407 von 7.888 von 7.888 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: 10 of the best museums in Berlin | Travel | The Guardian
+snippet: Berlin resident and travel writer Rory MacLean chooses some of the city&#39;s most impressive museums, whether you want to taste life in the former DDR or admire works by world famous artists
+
+REL: 2
+POI Name: Bandora
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, German, Burgers, 
+Snippets:
+title: Bandora Berlin - Immer eine Bestellung wert! - lieferando.de
+snippet: Bandora Berlin - Immer eine Bestellung wert! - lieferando.de
+title: Bandora, Berlin - Neukölln (Bezirk) - Restaurant ...
+snippet: Bandora, Berlin: Bewertungen - bei Tripadvisor auf Platz 6.165 von 7.977 von 7.977 Berlin Restaurants; mit 5/5 von Reisenden bewertet.
+title: Bandora, Berlin - Neukolln (Borough) - Restaurant Reviews ...
+snippet: Order food online at Bandora, Berlin with Tripadvisor: See unbiased reviews of Bandora, ranked #6,142 on Tripadvisor among 7,862 restaurants in Berlin.
+title: Pandora Jewelry Store in Berlin OH | Pandora Jewelry ...
+snippet: Pandora Jewelry offers style and elegance. Shop for Pandora Jewelry Berlin Village Gift Barn located at 4755 State Route 39 in Berlin, for rings, bracelets, charms and more!
+title: Bandora - Pizza - Richardstr. 55, Neukölln, Berlin ...
+snippet: 3 reviews of Bandora &quot;My order was 24euro and it was terrible The chicken on sticks had 5 cubes of &#39;tiny&#39; bits of chicken on two sticks. The jacket potato must have been cooked the day before it was brown and soggy and little! The pizza…
+title: Pandora | Offizieller Online Shop » Hochwertiger Schmuck
+snippet: Ich möchte gern Post und elektronische Kommunikation (z. B. E-Mail, SMS) von der Pandora A/S, Kopenhagen, der Pandora Jewellery GmbH, Hamburg, und der Supplies Distributors SA (Betreiber des Pandora eStore), Belgien, zu Pandora Produkten und exklusiven Angeboten erhalten.
+title: Pandora - EXITROOM® - Escape Room Berlin
+snippet: Pandora&#39;s box has been opened and all the evil came out. Find the box and all the treasures with it.
+title: PANDORA Store Berlin
+snippet: Ich möchte gern Post und elektronische Kommunikation (z. B. E-Mail, SMS) von der Pandora A/S, Kopenhagen, der Pandora Jewellery GmbH, Hamburg, und der Supplies Distributors SA (Betreiber des Pandora eStore), Belgien, zu Pandora Produkten und exklusiven Angeboten erhalten.
+title: PANDORA Store Berlin
+snippet: 180_berlin@pandora-deutschland.com E-mail . Add to My Stores Remove Print . Be the first to hear about news and events. PANDORA Club. Bracelets Bangle Pandora Rose Pandora Shine Leather Silver Snake chain Newest Popular. Charms Dangle Silver Glass Pandora Rose Pandora Shine Stones
+title: Pandora Juweliergeschäft - Finde Deinen nächsten Händler
+snippet: Suchst Du nach Ringen, Halsketten, Charms oder Ohrringen? Wir haben Pandora Händler im ganzen Land und bieten exklusive Schmuckstücke aus Sterling-Silber und Gold an.Finde Deinen nächstgelegenen Pandora Concept Store oder Händler hier
+
+REL: 2
+POI Name: Maria Bonita
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Maria Bonita - Home - Berlin, Germany - Menu, Prices ...
+snippet: Maria Bonita, Berlin, Germany. 2.7K likes. Berlin&#39;s original Mexican street food joint, rockin&#39; since 2009, we specialize in messy tacos, quesadillas &amp; burritos. Don&#39;t wear your best shirt &amp; enjoy!
+title: Maria Bonita, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Maria Bonita, Berlin: Se 209 objektive anmeldelser av Maria Bonita, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 647 av 7 870 restauranter i Berlin.
+title: Maria Bonita Berlin - Lecker, Lecker! - Mexikanisch bestellen
+snippet: Essen bestellen bei Maria Bonita Berlin. Beliebte Gerichte. 9,80 € Quesadilla Tinga de Pollo mit Hähnchenfleisch, Tomaten-Chipotlesauce und karamellisierten Zwiebeln 9,00 € Burrito Tinga de Pollo mit Hähnchenfleisch, Tomaten-Chipotlesauce, karamellisierten Zwiebeln und Bohnenmus 9,50 € Burrito Puerco mit knusprig gebratenem Schweinebauch, Guacamole, Crema und roter Salsa
+title: Maria Bonita, Berlin - Pankow (Bezirk) - Menü, Preise ...
+snippet: Maria Bonita, Berlin: 209 Bewertungen - bei Tripadvisor auf Platz 651 von 7.888 von 7.888 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Maria Bonita, Berlin - Pankow (Borough) - Menu, Prices ...
+snippet: Founded in 2009, Maria Bonita has set the bar for Authentic Mexican food in Berlin. Since its creation, a boom in Mexican restaurants has set off, but Maria Bonita has remained the most authentic and the most critically acclaimed, with notable mentions including the New York Times, &quot;Das Feinschmecker&quot; gourmet magazine and National Geographic.
+title: Maria Bonita - Berlin Food Stories
+snippet: Maria Bonita Viva the real Mexico! Apr 9th, 2012. Maria Bonita is a tiny Mexican joint on Danziger Straße where you can eat some of the best Mexican food in Berlin. The perfect spot for a quick meal or some take out, this place has been delivering for years. Don’t order the wrong thing though.
+title: Maria Bonita - Posts - Berlin, Germany - Menu, Prices ...
+snippet: Maria Bonita - Danziger Straße 33, 10435 Berlin, Germany - Rated 4.6 based on 175 Reviews &quot;A burrito a day keeps the hangover away! A shot of mezcal and...
+title: Maria Bonita Berlin - Awesome Mexican Food in Berlin
+snippet: Maria Bonita in Berlin – Mexican food at its best. Finally you can get real Mexican food in Berlin and luckily Maria Bonita serves some of the best Quesadillas and Burritos that we ever tried in our lives.. If you are used to Mexican restaurants in Germany you might not be prepared what you gonna experience here.
+title: MARIA BONITA, Berlin - Omdömen om restauranger - Tripadvisor
+snippet: Maria Bonita, Berlin: Se 209 objektiva omdömen av Maria Bonita, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer647 av 7 875 restauranger i Berlin.
+title: BMI Merchandise | Amusement &amp; Redemption Industry Suppliers
+snippet: Formerly known as Bonita Marie International, BMI Merchandise is a major supplier to the amusement and redemption industry, with over 20 years in business.
+
+REL: 2
+POI Name: Zola
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Zola - Berlin Food Stories
+snippet: Zola is one of the few restaurants in Berlin to boast a proper, wood-fired oven and head pizza maker Lukas truly knows how to work this baby. His pizzas don’t spend more than 60- 90 seconds in his oven, but when they come out their crust is full of slightly charred blisters, ...
+title: ZOLA - Home - Berlin, Germany - Menu, Prices, Restaurant ...
+snippet: ZOLA - Paul-Lincke-Ufer 39-40, 10999 Berlin, Germany - Rated 4.2 based on 148 Reviews &quot;We had probably the best pizza (and espresso) in Berlin. Good...
+title: Zola, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Zola, Berlin: Se 274 objektive anmeldelser av Zola, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 600 av 7 881 restauranter i Berlin.
+title: Zola, Berlin - Friedrichshain-Kreuzberg (Borough ...
+snippet: Zola, Berlin: See 274 unbiased reviews of Zola, rated 4 of 5 on Tripadvisor and ranked #600 of 7,887 restaurants in Berlin.
+title: Zola, Berlin - Friedrichshain-Kreuzberg (Bezirk ...
+snippet: Zola, Berlin: 274 Bewertungen - bei Tripadvisor auf Platz 601 von 7.888 von 7.888 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Chez Zola, Berlin - Schoneberg - Restaurant Reviews ...
+snippet: Chez Zola, Berlin: See 24 unbiased reviews of Chez Zola, rated 5 of 5 on Tripadvisor and ranked #1,707 of 7,859 restaurants in Berlin.
+title: ZOLA, Berlijn - Restaurantbeoordelingen - Tripadvisor
+snippet: Zola, Berlijn: Bekijk 274 onpartijdige beoordelingen van Zola, gewaardeerd als 4 van 5 bij Tripadvisor en als nr. 601 van 7.888 restaurants in Berlijn. &lt;/cf&gt;
+title: Zola :: Pizzeria – Berlin.de
+snippet: Echte neapolitanische Pizza im Herzen Kreuzbergs. Die Zutaten einer echten neapolitanischer Pizza wirken einfach: Teig, Tomaten, Basilikum und Fior di Latte, sonst nichts. Doch wie bei so vielen einfachen Gerichten kommt es auf die Qualität der Zutaten und die Kunst der Zubereitung an, damit am ...
+title: ZOLA, Berlin - Omdömen om restauranger - Tripadvisor
+snippet: Zola, Berlin: Se 272 objektiva omdömen av Zola, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer567 av 7 940 restauranger i Berlin.
+title: Zola - sattundfroh | Essen gehen in Berlin
+snippet: Ein holzbefeuerter Pizzaofen aus Neapel – 90 Sekunden bei rund 450°C und die Pizza ist fertig. Das Problem bei sehr einfachen Gerichten: Alles muss perfekt sein, damit das Ergebnis am Ende stimmt. Hier klappt das ziemlich gut. Während wir (sehr kurz) auf die Pizza warten, bekommen wir Oliven serviert und außerdem steht ein tolles Knoblauchöl am Tisch, mit dem ich später voller ...
+
+REL: 2
+POI Name: Curry 61
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Food Stands, Curry Sausage, 
+Snippets:
+title: Curry61, Berlin - Mitte (Borough) - Restaurant Reviews ...
+snippet: Curry61, Berlin: See 1,321 unbiased reviews of Curry61, ... Currywurst and pommes is a must in Germany. Curry 61 is a must visit whilst in Berlin. Friendly service (who speaks good english) delicious currywurst. Table inside of this takeaway, which you stand up at ...
+title: Curry 61 - Berlin
+snippet: [Qualität] Curry61 ist ein Familienbetrieb und kochen liegt uns im Blut. Unsere Currysauce, zum Beispiel, wird von uns täglich mehrmals frisch gekocht.
+title: Curry 61, Berlin - Mitte (Bezirk) - Restaurant Bewertungen ...
+snippet: Curry 61, Berlin: 1.321 Bewertungen - bei Tripadvisor auf Platz 127 von 7.884 von 7.884 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Curry 61 - Mitte - Berlin, Germany - Yelp
+snippet: 126 reviews of Curry 61 &quot;Friendly staff and inexpensive, good curry wurst! No line when I arrived but as I ate the line got exponentially longer. There&#39;s a small seating area and people seem to loiter around outside in the street as well.&quot;
+title: CURRY61, Berlin - Mitte (Borough) - Updated 2020 ...
+snippet: Curry61, Berlin: See 1,321 unbiased reviews of Curry61, rated 4.5 of 5 on Tripadvisor and ranked #127 of 7,888 restaurants in Berlin. ... Currywurst and pommes is a must in Germany. Curry 61 is a must visit whilst in Berlin. Friendly service (who speaks good english) delicious currywurst. Table inside of this takeaway, which you stand up at ...
+title: Where to Get the Best Currywurst in Berlin
+snippet: Many will argue that Curry 36 is the best currywurst in Berlin. We think its worth coming to your own conclusions. Your best location to begin your wurst journey is here, but try not to get hooked onto your nostalgic first time, we want no bias biting.
+title: CURRY61, Berlin - Omdömen om restauranger - Tripadvisor
+snippet: Curry61, Berlin: Se 1 321 objektiva omdömen av Curry61, ... Vi gick förbi curry 61 och passade på att testa denna curry. Kan man säga bättre betyg än att vi var tillbaka 2 dagar senare för att ät där igen. Smakade riktigt gott. Datum för besöket: september 2014.
+title: Curry 61 in Berlin, Germany - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: CURRY61, Berlín - Mitte (distrito) - Fotos, Número de ...
+snippet: La verdad es que hay cola pero merece la pena si quieres probar un buen curry. Las salchichas con el curry tienen muy buen sabor, aunque tienes que comer en una mesas largas, compartirlas con la gente y no hay taburetes.
+
+REL: 1
+POI Name: MA'LOA Hawaiian Poké Bowl
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Hawaiian, Acai Bowls, 
+Snippets:
+title: MA&#39;LOA — Hawaiian Poké Bowl
+snippet: Poké ist DAS hawaiianische Nationalgericht, welches wir mit MA’LOA – HAWAIIAN POKÉ BOWL nach Deutschland gebracht haben. Gesund, lecker und schnell zubereitet ist Poké das perfekte nachhaltige Gericht, welches wir bereits in Berlin etabliert haben.
+title: MA&#39;LOA Poké Bowl, Berlin - Mitte (Bezirk) - Menü, Preise ...
+snippet: MA&#39;LOA Poké Bowl, Berlin: 132 Bewertungen - bei Tripadvisor auf Platz 3.619 von 7.880 von 7.880 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet. ... Bezeichnet als Hawaii Restaurant. Vielleicht mehr Imbiss. Paar Möglichkeiten, Schuss mit Gemüse, feste Preise ~13 euro wenn ich mich nicht irre.
+title: MA’LOA Hawaiian Poké Bowl - Mitte - Berlin, Germany
+snippet: 29 reviews of MA&#39;LOA Hawaiian Poké Bowl &quot;Great poke you can fully customize. We get a lot of fabulous poke in San Francisco and this place was up to snuff. Fish was a little poorly cut but the product itself was high quality. Ample portions at…
+title: MALOA Hawaiian Poké Bowl - Home - Berlin, Germany - Menu ...
+snippet: MALOA Hawaiian Poké Bowl, Berlin. 2,474 likes · 2 talking about this · 785 were here. Aloha! Endlich ist es soweit! Poké und ein kleines Stück Hawaii kommen nach Berlin! Kennen und lieben gelernt...
+title: MA&#39;LOA Hawaiian Poké Bowl, Berlin - Oberwallstr. 9 - Menü ...
+snippet: MA&#39;LOA Hawaiian Poké Bowl, Berlin: 2 Bewertungen - bei Tripadvisor auf Platz 5.159 von 7.890 von 7.890 Berlin Restaurants; mit 5/5 von Reisenden bewertet.
+title: MA&#39;LOA Poké Bowl - Mitte - 55 tips
+snippet: ma&#39;loa poké bowl berlin • ma&#39;loa poké bowl berlin photos • ma&#39;loa poké bowl berlin location • ma&#39;loa poké bowl berlin address • ... &quot;Super tasty Hawaiian / asian food. The salmon ceviche was excellent. Came with a soup and tea as well.&quot; Z L.
+title: Ma&#39;loa - Hawaiian Poké Bowl — Allesgut.Berlin
+snippet: På jagt efter sund og lækker mad? Så er Ma’loa et godt bud. En klassisk bowl serveret i hyggelige omgivelser. De har en del steder i Berlin, vi har prøvet den i Kantstrasse 48 et par gange. Der er ikke så meget at sige udover, at kvalitet og smag er rigtig god – go for … Læs videre &quot;Ma’loa – Hawaiian Poké Bowl&quot;
+title: Fresh option for lunch - MA&#39;LOA Hawaiian Poke Bowl, Berlin ...
+snippet: MA&#39;LOA Hawaiian Poke Bowl: Fresh option for lunch - See 2 traveller reviews, 2 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: MA&#39;LOA — Hawaiian Poké Bowl
+snippet: About Poké MENU ABOUT US FRANCHISE ... Welcome ORDER ONLINE IMPRESSUM. Maloa Franchise GmbH Charlottenstraße 95 10969 Berlin. Daniel Brandes (Geschäftsführender Gesellschafter) Allon Haymov (Gesellschafter) Bülent Bastürk (Gesellschafter) Murat Topcuoglu (Gesellschafter)
+title: Ma&#39;Loa Poké Bowl Oranienburger Straße Berlin - Vegetarisch ...
+snippet: Ma&#39;Loa Poké Bowl, Oranienburger Straße 7, 10178, Berlin. Online Essen bestellen bei Ma&#39;Loa Poké Bowl über Lieferando.de. Immer eine Bestellung wert!. Wähle aus Poké Your Style, Ma&#39;Loas Poké Bowl, Dessert, Alkoholfreie Getränke oder Alkoholische Getränke
+
+REL: 1
+POI Name: Monsieur Vuong
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Vietnamese, 
+Snippets:
+title: Monsieur Vuong – Berlin
+snippet: Monsieur Vuong ist ein Familienbetrieb und Wegbereiter der vietnamesischen Garküche in Berlin. Dat Vuong kam als Kind nach Deutschland und vermisste die aromatischen, unkomplizierten Gerichte seiner Heimatstadt Saigon. 1999 eröffnete er ein winziges Indochina Café im historischen Berliner Scheunenviertel.
+title: Monsieur Vuong – Berlin
+snippet: Monsieur Vuong is a family run restaurant and a pioneer when it comes to traditional Vietnamese street-style food in Berlin. Dat Vuong came to Germany as a child with his parents. Missing the aromatic, simple dishes of his hometown of Saigon, he opened a tiny Indochina Café in Berlin’s historic Scheunenviertel district in 1999. The restaurant has since moved to Alte Schönhauser Strasse.
+title: Monsieur Vuong, Berlin - Mitte (Borough) - Menu, Prices ...
+snippet: Monsieur Vuong, Berlin: See 3,517 unbiased reviews of Monsieur Vuong, rated 4.5 of 5 on Tripadvisor and ranked #91 of 7,880 restaurants in Berlin.
+title: Monsieur Vuong, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Monsieur Vuong, Berlin: Se 3 517 objektive anmeldelser av Monsieur Vuong, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 92 av 7 880 restauranter i Berlin.
+title: Monsieur Vuong, Berlin - Mitte (Bezirk) - Menü, Preise ...
+snippet: Monsieur Vuong, Berlin: 3.517 Bewertungen - bei Tripadvisor auf Platz 91 von 7.880 von 7.880 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: MONSIEUR VUONG, Berlín - Mitte (distrito) - Menú, Precios ...
+snippet: Monsieur Vuong, Berlín: Consulta 3.517 opiniones sobre Monsieur Vuong con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°93 de 7.880 restaurantes en Berlín.
+title: Monsieur Vuong: Berlin Restaurants Review - 10Best Experts ...
+snippet: Monsieur Vuong Restaurants in Berlin: Read reviews written by 10Best experts and explore user ratings. On any night of the week, this colourful restaurant is packed with locals enjoying the fresh ...
+title: Monsieur Vuong - Home - Berlin, Germany - Menu, Prices ...
+snippet: Monsieur Vuong - Alte Schönhauser Str. 46, 10119 Berlin, Germany - Rated 4.7 based on 875 Reviews &quot;Kind staff, quick to seat a family of three with...
+title: Datenschutz – Monsieur Vuong
+snippet: Wir setzen auf unserer Website auf Grundlage des Art. 6 Abs. 1 S. 1 lit. f DSGVO Social Plug-ins des sozialen Netzwerks Facebook ein, um Monsieur Vuong hierüber bekannter zu machen. Der dahinterstehende werbliche Zweck ist als berechtigtes Interesse im Sinne der DSGVO anzusehen.
+title: Monsieur Vuong, Berlin - Mitte (arr.) - Menu, Prix ...
+snippet: Monsieur Vuong, Berlin : consultez 3 517 avis sur Monsieur Vuong, noté 4,5 sur 5 sur Tripadvisor et classé #92 sur 7 880 restaurants à Berlin.
+
+REL: 1
+POI Name: Berlin Burrito Company
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, Fast Food, 
+Snippets:
+title: Berlin Burrito Company
+snippet: BERLIN BURRITO COMPANY. SCHÖNEBERG Pallasstr. 21 10781 Berlin T 030 23 624 990. BERLIN MITTE Kastanienalle 59 10119 Berlin T 030 41 725 999. CHARLOTTENBURG Kantstr. 51 10625 Berlin T 030 55 60 80 87. Mail Facebook Instagram Foursquare TripAdvisor Yelp.
+title: Berlin Burrito Company Mitte - Restaurantanmeldelser ...
+snippet: Berlin Burrito Company Mitte, Berlin: Se 38 objektive anmeldelser av Berlin Burrito Company Mitte, vurdert til 4 av 5 på TripAdvisor og vurdert som nr. 2 648 av 8 149 restauranter i Berlin.
+title: Berlin Burrito Company Schoeneberg - Restaurantanmeldelser ...
+snippet: Berlin Burrito Company Schoeneberg, Berlin: Se 115 objektive anmeldelser av Berlin Burrito Company Schoeneberg, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 866 av 7 952 restauranter i Berlin.
+title: Berlin Burrito Company - Home | Facebook
+snippet: Berlin Burrito Company - - Rated 4.9 based on 144 Reviews &quot;The guys from the Berlin Burrito Company make the best burritos I ever ate. On top of that,...
+title: Berlin Burrito Company - 2019 All You Need to Know BEFORE ...
+snippet: 28 reviews of Berlin Burrito Company &quot;As many others have been saying, this is not a homestyle kitchen. The food here is about at the same level as Chipotle (only I think Chipotle may be a tad better.) Burrito was of a good size, it was large…
+title: Berlin Burrito Company | visitBerlin.de
+snippet: This family-owned restaurant has been offering a variety of Mexican specialities since 2009. You can choose a classic burrito or create your own. Also recommended are the homemade soup of the day or the classic chili con carne. All dishes are prepared exclusively with fresh ingredients. Second location: Pallasstraße 21, 10119 Berlin
+title: Berlin Burrito Company Mitte - Mitte (Bezirk) - Restaurant ...
+snippet: Berlin Burrito Company Mitte, Berlin: 38 Bewertungen - bei Tripadvisor auf Platz 2.658 von 7.977 von 7.977 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Berlin Burrito Company - Startside | Facebook
+snippet: Berlin Burrito Company – – Vurderingen 4.9 basert på 143 anmeldelser &quot;The guys from the Berlin Burrito Company make the best burritos I ever ate. On top...
+title: Berlin Burrito Company Schoeneberg - Schoneberg - Photos ...
+snippet: Order food online at Berlin Burrito Company Schoeneberg, Berlin with Tripadvisor: See 114 unbiased reviews of Berlin Burrito Company Schoeneberg, ranked #891 on Tripadvisor among 8,151 restaurants in Berlin.
+title: Berlin Burrito Company - Mexican - Kantstr. 51 ...
+snippet: Berlin Burrito Company in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+
+REL: 1
+POI Name: Schnitzelei Mitte
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Schnitzel, 
+Snippets:
+title: Start - Schnitzelei Mitte
+snippet: Unser Motto ist ganz einfach. Kreativ mit Klassikern umgehen. So entstehen neben dem klassischen Wiener Schnitzel und den Deutschen Tapas Kreationen wie das vegane Austernpilz-Schnitzel, ein gesottenes Schnitzel oder auch Fisch als Schnitzel.
+title: Schnitzelei
+snippet: Mitte. Hinterhof über: Chausseestrasse 8 oder Novalisstrasse 11 10115 Berlin | Telefon: 030 32 51 94 22
+title: Home - Schnitzelei Mitte
+snippet: SCHNITZELEI MITTE. Reach backyard via Chausseestr. 8 or Novalisstr. 11. 10115 Berlin. Telephone: 030 32 51 94 22. Fax: 030 32 53 42 09. E-Mail: mitte@schnitzelei.de Our opening hours are:
+title: Schnitzelei, Berlin - Mitte (Borough) - Restaurant Reviews ...
+snippet: Reserve a table at Schnitzelei, Berlin on Tripadvisor: See 1,242 unbiased reviews of Schnitzelei, rated 4.5 of 5 on Tripadvisor and ranked #103 of 7,884 restaurants in Berlin. Flights ... I think they have to location&#39;s in Berlin, I went to the one in Mitte.
+title: Schnitzelei, Berlin - Mitte (Bezirk) - Restaurant ...
+snippet: Schnitzelei, Berlin: 1.242 Bewertungen - bei Tripadvisor auf Platz 103 von 7.887 von 7.887 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: SCHNITZELEI, Berlin - Mitte (Borough) - Updated 2020 ...
+snippet: Reserve a table at Schnitzelei, Berlin on Tripadvisor: See 1,242 unbiased reviews of Schnitzelei, rated 4.5 of 5 on Tripadvisor and ranked #103 of 7,884 restaurants in Berlin. Flights ... I think they have to location&#39;s in Berlin, I went to the one in Mitte.
+title: Menü - Schnitzelei Mitte
+snippet: SCHNITZELEI MITTE. Hinterhof erreichbar über: Chausseestr. 8 oder Novalisstr. 11. 10115 Berlin. Telefon: 030 32 51 94 22. Fax: 030 32 53 42 09. E-Mail: mitte@schnitzelei.de. ... Seien Sie auch hier unser Gast. Nola&#39;s am Weinberg Schnitzelei Charlottenburg. Durch die weitere Nutzung der Seite stimmst du der Verwendung von Cookies zu ...
+title: Menu - Schnitzelei Mitte
+snippet: Berlin rost sausage. Plums wrapped in bacon. Königsberger Klopse (cooked meat balls with a typical caper sauce) ... SCHNITZELEI MITTE. Reach backyard via Chausseestr. 8 or Novalisstr. 11. 10115 Berlin. Telephone: 030 32 51 94 22. Fax: 030 32 53 42 09. E-Mail: mitte@schnitzelei.de.
+title: Schnitzelei, Berlin - Mitte (arr.) - Restaurant Avis ...
+snippet: Réserver une table Schnitzelei, Berlin sur Tripadvisor : consultez 1 242 avis sur Schnitzelei, noté 4,5 sur 5 sur Tripadvisor et classé #103 sur 7 887 restaurants à Berlin. ... Mitte (arr.) 0,7 km de Memorial of the Berlin Wall. Site internet +49 30 32519422. Améliorez cette page.
+title: SCHNITZELEI, Berlin - Mitte (Borough) - Updated 2020 ...
+snippet: Reserve a table at Schnitzelei, Berlin on Tripadvisor: See 1,242 unbiased reviews of Schnitzelei, rated 4.5 of 5 on Tripadvisor and ranked #103 of 7,888 restaurants in Berlin.
+
+REL: 1
+POI Name: Mutter
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Breakfast & Brunch, Cocktail Bars, 
+Snippets:
+title: Mutter, Berlin - Schöneberg - Restaurant Bewertungen ...
+snippet: Mutter, Berlin: 85 Bewertungen - bei Tripadvisor auf Platz 628 von 7.880 von 7.880 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Mutter, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Mutter, Berlin: Se 84 objektive anmeldelser av Mutter, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 626 av 8 132 restauranter i Berlin.
+title: Mutter - Home - Berlin, Germany - Menu, Prices, Restaurant ...
+snippet: Mutter, Berlin. 1K likes. Seit 20 Jahren präsentiert sich das Cafe-Restaurant MUTTER als feste Institution der Schöneberger Tag- und Nachtgastronomie mit Altbewährtem und immer wieder vielem Neuen....
+title: Mutter Berlin - Home - Berlin, Germany - Menu, Prices ...
+snippet: Mutter Berlin - Hohenstaufenstraße 4, 10781 Berlin, Germany - Rated 4.8 based on 59 Reviews &quot;I remember being here when it first opened 20 years ago, it...
+title: Anne-Sophie Mutter - Wikipedia
+snippet: Anne-Sophie Mutter (born 29 June 1963) is a German violinist.She was supported early in her career by Herbert von Karajan, and has had several works composed especially for her, by Sebastian Currier, Henri Dutilleux, Sofia Gubaidulina, Witold Lutosławski, Norbert Moret, Krzysztof Penderecki, André Previn, Wolfgang Rihm, John Williams and others.
+title: Mutter Hoppe, Berlin - Mitte (Borough) - Menu, Prices ...
+snippet: Mutter Hoppe, Berlin: See 1,186 unbiased reviews of Mutter Hoppe, rated 4 of 5 on Tripadvisor and ranked #496 of 7,880 restaurants in Berlin.
+title: Mutter Hoppe, Berlin - Restaurantanmeldelser - TripAdvisor
+snippet: Mutter Hoppe, Berlin: Se 1 148 objektive anmeldelser av Mutter Hoppe, vurdert til 4 av 5 på TripAdvisor og vurdert som nr. 533 av 8 128 restauranter i Berlin.
+title: Anne-Sophie Mutter – Wikipedia
+snippet: Anne-Sophie Mutter (født 29. juni 1963 i Rheinfelden i Baden-Württemberg) er en tysk fiolinist, oppvokst i den badiske landsbyen Wehr. Hun fikk sitt internasjonale gjennombrudd på Luzernfestivalen i 1976. [trenger referanse] Mutter ble kjent som førstefiolinist under Herbert von Karajan i Berliner Philharmoniker og har siden
+title: Anne-Sophie Mutter
+snippet: Official Website of Anne-Sophie Mutter. We use cookies to personalize content and ads, to offer features for social media and to analyze the access to our website.
+title: Mutter :: Thailändisches Restaurant – Berlin.de
+snippet: Thailändisches Restaurant: Mutter, Hohenstaufenstr., Berlin–Schöneberg – Information zu Kontakt, Öffnungszeiten, Anfahrt und mehr.
+
+REL: 1
+POI Name: Rüyam Gemüse Kebab
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Kebab, Food Stands, 
+Snippets:
+title: Rüyam Gemüse Kebab – traumhaft lecker
+snippet: Aus einem Traum , machten wir Wirklichkeit.Rüyam in gemütlicher Atmosphäre mit Gemüse-Kebab, vegetarischem Döner, hausgemachte Falafel,fritiertem Halloumi und treuer Kundschaft verleiht Prenzlauer Berg neuen Glanz.Hier wird nicht nur auf die Qualität geachtet sondern auch auf die Wünsche der Gäste.Die Anrede, das Motto und die Ausstrahlung bei Rüyam ist das A und O. Rüyam gibt dem ...
+title: Rüyam Gemüse Kebab - Home - Schöneberg, Berlin, Germany ...
+snippet: Rüyam Gemüse Kebab - Hauptstraße 133, 10827 Schöneberg, Berlin, Germany - Rated 4.9 based on 311 Reviews &quot;the best food, the best people, 10/10!!!&quot;
+title: Rüyam Gemüse Kebab, Berlin - Schöneberg - Restaurant ...
+snippet: Rüyam Gemüse Kebab, Berlin: 160 Bewertungen - bei Tripadvisor auf Platz 12 von 7.878 von 7.878 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Rueyam Gemuese Kebab, Berlin - Restaurantanmeldelser ...
+snippet: Rueyam Gemuese Kebab, Berlin: Se 160 objektive anmeldelser av Rueyam Gemuese Kebab, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 12 av 7 880 restauranter i Berlin.
+title: Rüyam Gemüse Kebab - Schöneberg - Berlin, Germany
+snippet: 114 reviews of Rüyam Gemüse Kebab &quot;The food is so fresh and tasty here. I ordered the sandwich with everything on it and extra spicy sauce. The portions here are big no matter what you order. I love that it comes packed with fresh vegetables,…
+title: Rüyam Gemüse Kebap - 56 Photos - 196 Reviews - Turkish ...
+snippet: Rüyam Gemüse Kebap - Schönhauser Allee 44 A, 10435 Berlin, Germany - Rated 5 based on 196 Reviews &quot;My friends and I were very disappointed with food in...
+title: Rüyam Gemüse Kebab 2 - Prenzlauer Berg - Berlin, Germany
+snippet: 21 reviews of Rüyam Gemüse Kebab 2 &quot;We were heading to this neighborhood to go to another destination and were looking for a place to grab a bite to eat. We saw the reviews of this place and decided to give it a shot. We were glad we did. The…
+title: Rüyam Gemüse Kebab, Berlin - Restaurant Bewertungen ...
+snippet: Rüyam Gemüse Kebab, Berlin: 9 Bewertungen - bei TripAdvisor auf Platz 2.783 von 8.132 von 8.132 Berlin Restaurants; mit 5/5 von Reisenden bewertet.
+title: Rueyam Gemuese Kebab, Berlin - Schoneberg - Restaurant ...
+snippet: Rueyam Gemuese Kebab, Berlin: See 160 unbiased reviews of Rueyam Gemuese Kebab, rated 4.5 of 5 on Tripadvisor and ranked #12 of 7,878 restaurants in Berlin.
+title: Rueyam Gemuese Kebab, Berlin - recenzje restauracji ...
+snippet: Rueyam Gemuese Kebab, Berlin: zobacz bezstronne recenzje (160 ) na temat Rueyam Gemuese Kebab, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 12 z 7 880 restauracji w Berlinie.
+
+REL: 1
+POI Name: italofritzen
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: www.italofritzen.com
+snippet: Ihr neuer Ganztagsitaliener für Gerichte aus frischen italienischen Zutaten im Herzen Berlins. Neapolitanische Pizza, täglich handgemachte Pasta, gesunde Salate, Frühstück und mehr.
+title: Italofritzen, Berlin - Mitte (Bezirk) - Menü, Preise ...
+snippet: Italofritzen, Berlin: 178 Bewertungen - bei Tripadvisor auf Platz 2.989 von 7.880 von 7.880 Berlin Restaurants; mit 3,5/5 von Reisenden bewertet.
+title: Italofritzen - Home - Berlin, Germany - Menu, Prices ...
+snippet: Italofritzen - Italofritzen, Friedrichstraße 105, 10117 Berlin, Germany - Rated 4.7 based on 48 Reviews &quot;We’re visiting for the month and this is our...
+title: ITALOFRITZEN, Berlin - Mitte (Borough) - Updated 2020 ...
+snippet: Order takeaway and delivery at Italofritzen, Berlin with Tripadvisor: See 178 unbiased reviews of Italofritzen, ranked #3,045 on Tripadvisor among 7,870 restaurants in Berlin.
+title: Italofritzen, Berlin - Mitte (Borough) - Menu, Prices ...
+snippet: Order food online at Italofritzen, Berlin with Tripadvisor: See 175 unbiased reviews of Italofritzen, ranked #3,067 on Tripadvisor among 7,952 restaurants in Berlin.
+title: www.italofritzen.com/Restaurant
+snippet: Wir Italofritzen tischen frische Pizza. Pizza ist Glaubenssache. Und weil wir Italofritzen an das Original glauben, machen wir unsere Pizza streng nach traditionellem neapolitanischen Rezept - und aus den besten originalen Zutaten.
+title: www.italofritzen.com/Kontakt
+snippet: Willkommen - Welcome - Benvenuti! Hier an unserem schönen Fleckchen im Herzen Berlins wollen wir ab sofort für Sie da sein. Jeden Tag auf’s Neue sind wir: Offen für alle.
+title: THE 10 BEST Restaurants Near Italofritzen in Berlin ...
+snippet: Restaurants near Italofritzen, Berlin on Tripadvisor: Find traveler reviews and candid photos of dining near Italofritzen in Berlin, Germany.
+title: italofritzen - Mitte - Berlin, Germany
+snippet: 17 reviews of italofritzen &quot;We totally enjoyed our dinner here the night before the Berlin marathon! Hubby had made reservations, a definite must! They were extremely busy that night. We had a nice table inside, and the waiter was great! He was…
+title: www.italofritzen.com/Café-Bar
+snippet: Auch das ist für uns typisch Italien: Sich Zeit nehmen, für den täglichen Abstecher ins Stammcafé, die Bar an der Ecke – sei es für ein ausführliches Frühstück oder auch nur einen Espresso im Stehen.
+
+REL: 0
+POI Name: Café Wimpernboutique
+POI City: Berlin
+POI Country: DE
+POI Main category: Beauty & Spas
+POI Sub category: Eyelash Service, Cafes, 
+Snippets:
+title: Wimpernboutique Berlin - Herzlich Willkommen im Café ...
+snippet: Da ich finde das die wahre Schönheit von innen wie von außen kommt, habe ich 2013 beides fusioniert. Kommt mich gern in meinem Konzept Café besuchen! Oder schaut vorab auf meine Facebook oder Instagram Seite gleich hier unten auf der Webseite unter weiteres mit einem Klick. Café Wimpernboutique
+title: Café Wimpernboutique, Berlin - Mitte (Bezirk) - Restaurant ...
+snippet: Café Wimpernboutique, Berlin: 14 Bewertungen - bei Tripadvisor auf Platz 4.259 von 7.879 von 7.879 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Café Wimpernboutique - Brunnestr. 57, Wedding, Berlin ...
+snippet: 5 reviews of Café Wimpernboutique &quot;The café section in front of the eyelash studio seems quite new and they didn&#39;t have black tea (yet - it&#39;s on the menu). Great service and a good mixed breakfast more than made up for that lack, though. Hope to…
+title: Café Wimpernboutique, Berlin - recenzje restauracji ...
+snippet: Café Wimpernboutique, Berlin: zobacz bezstronne recenzje (14 ) na temat Café Wimpernboutique, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 4 260 z 7 880 restauracji w Berlinie.
+title: Healthy Food &amp; Beauty / Café Wimpernboutique - Home | Facebook
+snippet: Healthy Food &amp; Beauty / Café Wimpernboutique, Berlin. 334 likes. ... See more of Healthy Food &amp; Beauty / Café Wimpernboutique on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Healthy Food &amp; Beauty / Café Wimpernboutique. Health/Beauty . Community See All. 334 people like this.
+title: CAFE WIMPERNBOUTIQUE, Berlin - Mitte (Borough ...
+snippet: Cafe Wimpernboutique, Berlin: See 14 unbiased reviews of Cafe Wimpernboutique, rated 4 of 5 on Tripadvisor and ranked #4,260 of 7,880 restaurants in Berlin.
+title: Healthy Food &amp; Beauty Salon. Be beautiful inside out!
+snippet: Café Herzlich Willkommen im Cafe Wimpernboutique Healthy Food &amp; Beauty. Entdecke die Vielfalt und Köstlichkeit gesunder Ernährung. Superfood schmeckt und unterstützt die natürliche Schönheit. Du fühlst dich besser und strahlst es aus.
+title: Fantastic Fruhstuck - Review of Cafe Wimpernboutique ...
+snippet: Cafe Wimpernboutique: Fantastic Fruhstuck - See 14 traveler reviews, 10 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: delightfully inviting and cozy - great... - Cafe ...
+snippet: Cafe Wimpernboutique: delightfully inviting and cozy - great for a quick snack or lingering over coffee - See 14 traveler reviews, 10 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: Amazing Coffee and service - Cafe Wimpernboutique
+snippet: Cafe Wimpernboutique: Amazing Coffee and service - See 14 traveler reviews, 10 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+
+REL: 0
+POI Name: Weingalerie und Café NÖ!
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Mediterranean, Flatbread, 
+Snippets:
+title: Café Nö! Weingalerie und Café - erlesene Weine ...
+snippet: Das NÖ! befindet sich in der historischen Mitte von Berlin, dem alten Regierungsviertel und der Friedrichstadt. Verweilen Sie in einer Oase der Großstadt bei einem Glas Wein in unseren über 100 Jahre alten Räumen. Hier treffen Sie Menschen jeglicher Couleur, die vom Aufbruch dieser Stadt begeistert sind.
+title: Weingalerie und Cafe NÖ!, Berlin - Restaurantanmeldelser ...
+snippet: Weingalerie und Cafe NÖ!, Berlin: Se 267 objektive anmeldelser av Weingalerie und Cafe NÖ!, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 97 av 7 859 restauranter i Berlin.
+title: Café Nö! Weingalerie und Café - erlesene Weine ...
+snippet: + Weingalerie und Café NÖ! + Glinkastraße 23 + 10117 Berlin Mitte + Telefon 030-2010871 +
+title: Café Nö! Weingalerie und Café - erlesene Weine ...
+snippet: mit Sauerrahm, Tomate und Mozzarella 4,50 + Weingalerie und Café NÖ! + Glinkastraße 23 + 10117 Berlin Mitte + Telefon 030-2010871 +
+title: Café Nö! Weingalerie und Café - erlesene Weine ...
+snippet: gewerbliche website zur information. + Weingalerie und Café NÖ! + Glinkastraße 23 + 10117 Berlin Mitte + Telefon 030-2010871 +
+title: Weingalerie und Cafe NO!, Berlin - Mitte (Borough ...
+snippet: Weingalerie, Inhaber at Weingalerie und Cafe NO!, responded to this review Responded September 29, 2019 Dear Dimitri, sorry for your bad experiences about the service and the long wait of the meal. in this time of your stay at the NÖ! one of our oven was wrong and I hope that was the reason for the long wait.
+title: Weingalerie und Cafe &quot;No!&quot;, Berlin - Mitte (Bezirk ...
+snippet: Weingalerie und Cafe &quot;No!&quot;, Berlin: 267 Bewertungen - bei Tripadvisor auf Platz 96 von 7.884 von 7.884 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet. ... Dear Custumer, a verry sorry from me, the owner, about your bad experiences at the Café NÖ!. My waitress booked the wrong articel and didn´t realize that.
+title: Weingalerie und Café NÖ! | visitBerlin.de
+snippet: In der Weingalerie und Café Nö! im Stadtteil Mitte gibt es täglich wechselnde Gerichte im Angebot. Im kleinen Weingarten können Sie diese mit einem passenden Glas Wein dazu in der Sonne genießen. Auswahl haben Sie bei einer gut gefüllten Weinkarte mit ca. 170 Sorten. Auch die Innenräume des Nö’ s bieten sich zum gemütlichen Essen an: über 100 Jahre alt und bezaubernd im rustikalen ...
+title: Weingalerie und Cafe NÖ!, Berlin - Mitte (arr ...
+snippet: Weingalerie und Cafe NÖ!, Berlin : consultez 264 avis sur Weingalerie und Cafe NÖ!, noté 4,5 sur 5 sur Tripadvisor et classé #97 sur 8 029 restaurants à Berlin.
+title: Nö! Weingalerie und Cafe Restaurant - Berlin, BE | OpenTable
+snippet: Get menu, photos and location information for Nö! Weingalerie und Cafe in Berlin, BE. Or book now at one of our other 1696 great restaurants in Berlin.
+
+REL: 0
+POI Name: Bauernstube
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Vereinsheim Bauernstube
+snippet: gaststätte vereinsheim live music. Die Gaststätte &quot;Bauernstube&quot; befindet sich inmitten der Kleingartenanlage Bornholm I e.V. Diese liegt an der Grenze des Stadtbezirkes Prenzlauer Berg/Pankow zum Bezirk Wedding, grenzt an die Bornholmer Straße und an die Björnsonstraße.
+title: Bauernstube, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Bauernstube, Berlin: Se 10 objektive anmeldelser av Bauernstube, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 3 769 av 7 859 restauranter i Berlin.
+title: Bauernstube, Berlin - Charlottenburg-Wilmersdorf (Bezirk ...
+snippet: Bauernstube, Berlin: 10 Bewertungen - bei Tripadvisor auf Platz 3.769 von 7.862 von 7.862 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Bauernstube, Berlin - Charlottenburg-Wilmersdorf (Borough ...
+snippet: Bauernstube, Berlin: See 10 unbiased reviews of Bauernstube, rated 4.5 of 5 on Tripadvisor and ranked #3,768 of 7,878 restaurants in Berlin.
+title: Tiroler Bauernstuben, Berlin - Charlottenburg-Wilmersdorf ...
+snippet: Reserve a table at Tiroler Bauernstuben, Berlin on Tripadvisor: See 116 unbiased reviews of Tiroler Bauernstuben, rated 3.5 of 5 on Tripadvisor and ranked #2,802 of 7,880 restaurants in Berlin.
+title: Tiroler Bauernstuben, Berlin - Restaurantanmeldelser ...
+snippet: Tiroler Bauernstuben, Berlin: Se 116 objektive anmeldelser av Tiroler Bauernstuben, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 802 av 7 880 restauranter i Berlin.
+title: Hidden treasure in Berlin-West - Review of Bauernstube ...
+snippet: Bauernstube: Hidden treasure in Berlin-West - See 10 traveler reviews, 4 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: Bauernstube - Berlin, Germany - European Restaurant | Facebook
+snippet: Bauernstube, Berlin, Germany. 16 likes. European Restaurant. Heute den 30.04.2017 hat die Mobildiscotek DJ Sebert ein Tanz in Mai in einer Kneipe.
+title: People &amp; places...in Berlin. - Review of Bauernstube ...
+snippet: Bauernstube: People &amp; places...in Berlin. - See 10 traveler reviews, 4 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: Restaurant Bauernstube
+snippet: 歡迎光臨 : Willkommen
+
+REL: 0
+POI Name: fiori Belli Blumen für Freud und Leid
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, Florists, 
+Snippets:
+title: fiori Belli Blumen für Freud und Leid - Arts ...
+snippet: fiori Belli Blumen für Freud und Leid in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Blumen - Diana Idiakhoa - Charlottenburg - Berlin, Germany
+snippet: Blumen - Diana Idiakhoa in Berlin, reviews by real people. Yelp is a fun and easy way to find, ... fiori Belli Blumen für Freud und Leid. 2 reviews. Arts &amp; Entertainment, Florists. Floristik Blankenberg. 1 review. Florists. Blumeninsel. 1 review. Florists. Browse Nearby. Restaurants. Nightlife. Shopping.
+title: Blumen Gerull - Reinickendorf - Berlin, Germany
+snippet: Blumen Gerull in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Fiori Belli – ein Tag mit Guiseppe › Rainer Jensen Fotografie
+snippet: Im Großmarkt ist Guiseppe mit jedem auf Du und Du. &quot;Fiori belli&quot;, schöne Blumen für Freud und Leid, so hat Guiseppe sein Geschäft getauft. Für ihn sind Blumen ein Lebensgefühl, ein Begleiter durch die Berg- und Talfahrten des Lebens. &quot;Freude und Leid gehören ja zum Leben wie Blumen auch&quot;, sagt Guiseppe.
+title: Blumen vom Italiener - Berliner Morgenpost
+snippet: Sein Angebot: Schöne Blumen für „Freud und Leid“, so lautet sein Motto, das auch auf der blauen Ape steht, dem typisch italienischen Lieferfahrzeug. Blumen also für Menschen, die sich ...
+title: Blütenreich - Spandau - Berlin, Germany
+snippet: Specialties: Wir lieben Blumen und Pflanzen und ergänzen diese mit naturhaftem Beiwerk. Daraus zaubern wir individuelle und charmante Werkstücke! Natürlich finden Sie auch passende Gefäße, Vasen, Töpfe und Gartenaccessoires. Handverlesene…
+title: Der Blumenmann vom Sophie-Charlotte-Platz - Berliner ...
+snippet: Sein Angebot: Schöne Blumen für „Freud und Leid“, so lautet sein Motto, das auch auf der blauen Ape steht, dem typisch italienischen Lieferfahrzeug. Der winzige Kiosk ist mehr als 100 Jahre ...
+title: Ela e belli fiori Gabriele Kunz e.Kfr. Berlin ...
+snippet: Für Ela e belli fiori Gabriele Kunz e.Kfr. in Berlin ist eine Bewertung abgegeben worden. ... Es tut uns leid, es ist ein technischer Fehler ... Friedhofsgärtnerei in Berlin Gartencenter in Berlin Garten- und Landschaftspflege in Berlin Gartenbau in Berlin Fleurop-Dienst in Berlin Baumschule in Berlin Garten- und Landschaftsbau in Berlin ...
+title: Marlene Dietrich UNICEF GALA 1962 &quot; sag mir wo die Blumen ...
+snippet: Marlene Dietrich UNICEF GALA 1962 &quot; sag mir wo die Blumen sind ... Bitte seien Sie so gut und fragen genau wann und wo und was für eine Television Sendung von mir in Stockholm gezeigt ...
+title: Simone Ortenburger Blumen Berlin Grunewald ...
+snippet: Für Simone Ortenburger Blumen in Berlin sind noch keine Bewertungen abgegeben worden. ... Ela e belli fiori Gabriele Kunz e.Kfr. Blumenladen in Berlin. 1. ... Baumpflege in Berlin Gartenbau in Berlin Garten- und Landschaftsbau in Berlin Angebote für Hochzeitsplaner Gartengestaltung in Berlin Friedhofsgärtnerei in Berlin Gartenpflege in ...
+
+REL: 0
+POI Name: Bar Tausend
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Bar Tausend
+snippet: Toggle navigation. Bar Tausend. Bar; Music; Cantina; Art; Event; Kontakt
+title: Bar – Bar Tausend - TAUSEND BERLIN
+snippet: BAR TAUSEND..... Unsere neue Barkarte versteht sich als Hommage an die inspirierendsten und aufregendsten Bezirke in den Metropolen dieser Welt. Erleben Sie das aussergewöhnliche Geschmackserlebnis unserer sorgfältig komponierten Drinks, gemixt mit guten Zutaten aus aller Herren Länder.
+title: Bar Tausend Cantina, Berlin - Restaurantanmeldelser ...
+snippet: Bar Tausend Cantina, Berlin: Se 274 objektive anmeldelser av Bar Tausend Cantina, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 467 av 7 880 restauranter i Berlin.
+title: Cantina – Bar Tausend - TAUSEND BERLIN
+snippet: „Rough and Dirty“, so beschreibt Küchenchef Octavio Osés Bravo seine aromareichen Gerichte, die immer für eine intensive Überraschung gut sind und manchmal mehr an den Nahen Osten, manchmal mehr an den Fernen Osten erinnern.
+title: Bar Tausend (Berlin, Tyskland) - Anmeldelser - Tripadvisor
+snippet: Bar Tausend tilbyr god atmosfære, kvalitetsdrinker og god service. Det er en blanding mellom bar og klubb, der du virkelig kan ha det moro. Det eneste aspektet som krever forbedring etter mitt syn, er innføring av forbud mot røyking, som selv om det ikke er så ille når du er …
+title: Bar Tausend (Berlin) - 2020 All You Need to Know BEFORE ...
+snippet: Bar Tausend offers great atmosphere, quality drinks and good service. It’s a mix between bar and club, where you really can have good fun. The only aspect requiring improvement in my view is the introduction of ban on smoking, as even though when you are inside it is not too …
+title: Music – Bar Tausend - TAUSEND BERLIN
+snippet: Dear fellow Ladies &amp; Gentlemen, because we take our responsibility serious, for You and our team, we will be closed for the foreseeable future.
+title: Bar – Bar Tausend
+snippet: With our new bar menu we pay tribute to the most exciting and inspiring neighborhoods in this worlds metropolises. We hope you like &amp; enjoy the creativity we have strived to achieve with this new menu.
+title: Bar Tausend - Home | Facebook
+snippet: Bar Tausend - Schiffbauerdamm 11, 10117 Berlin, Germany - Rated 4.5 based on 562 Reviews &quot;The place is amazing, the hidden the entrance, the luxury/...
+title: Bar Tausend (Berlin) - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Das Tausend ist mein Place to be in Berlin. Das Essen und der Service in der Cantina sind fantastisch und die Bar eine Wucht. Wegen der Anmerkungen zur Türpolitik: Ich finde die Begrüßung immer sehr freundlich und hatte nie Probleme.
+
+Cand cities: {'Berlin'}

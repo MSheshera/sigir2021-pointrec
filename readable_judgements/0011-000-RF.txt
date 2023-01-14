@@ -1,0 +1,594 @@
+City: Rotterdam
+Country: NL
+Main category: Restaurants and Food
+Description: Hi all - my father and I will be visiting your fair city next week, and we're looking for a place to have dinner on a Sunday night. Are there any places that you would recommend? We like tasty food, good beer, and a non-stuffy atmosphere. Considerations: Open on Sunday (I gather this is somewhat limiting?) Our hotel is right near the Leuvehaven metro stop, and walking distance would be nice Ideally not Asian(-inspired) food - we're from southeast Asia and would rather try something different. Totally up for everything else though! Thank you!
+Rated POIs: 44
+Rel distr: [(0, 4), (1, 10), (2, 20), (3, 10)]
+=================================
+REL: 3
+POI Name: Loetje Rotterdam
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, Modern European, 
+Snippets:
+title: Loetje Kop van Zuid - Loetje Kop van Zuid
+snippet: Loetje Rotterdam. De Kop van Zuid is een plek waar wonen en werken op een bijzondere manier wordt gecombineerd met musea, cafés en restaurants. Loetje is hier gevestigd op een prachtige locatie: aan de voet van de Rijnhavenbrug, direct onder de woontoren Montevideo.
+title: Loetje Rotterdam Centrum - Loetje Rotterdam Centrum
+snippet: At a top location in the center of Rotterdam, we will open the doors of a second Rotterdam Loetje on 7 March 2019. Binnenrotte 192 is the address of the new branch in the city on the Maas. Binnenrotte is a cozy street in the center of Rotterdam where you can experience everything. So you can view the impressive Market Hall or browse the market.
+title: Loetje Kop van Zuid, Rotterdam - Menu, Prices &amp; Restaurant ...
+snippet: Loetje Kop van Zuid, Rotterdam: See 306 unbiased reviews of Loetje Kop van Zuid, rated 4 of 5 on Tripadvisor and ranked #76 of 1,304 restaurants in Rotterdam.
+title: Menukaart - Loetje
+snippet: Natuurlijk onze Ossenhaas biefstuk met de échte Loetje jus. Maar probeer ook eens onze lunchkaart met de Club sandwich (biefstuk Bali, geitenkaas of gerookte zalm), Landbrood (rijk belegd) en Maaltijdsalades. Of wat dacht je van onze voorgerechten Jamón Ibérico, Geitenkaas met rode uienchutney en Garnalenkroketten!
+title: Loetje Rotterdam Centrum - Menu, Prices &amp; Restaurant ...
+snippet: Loetje_Groep, Guest Experience &amp; Care at Loetje Rotterdam Centrum, responded to this review Responded November 28, 2019. Dear Male655, Thankyou for your honest review. We are happy to hear that you enjoyed the food and our collegues.
+title: Drive-In - Loetje
+snippet: Loetje ook. We hebben onze restaurants tijdelijk moeten sluiten maar we willen jullie, onze gasten, toch graag blij maken in deze moeilijke tijden. Daarom hebben we de Loetje Drive In geopend. Bij de Loetje Drive In kun je natuurlijk de lekkerste biefstuk met witbrood bestellen. En voor de liefhebbers hebben we uiteraard de biefstuk Bali. Om
+title: Loetje - Bij Loetje eet je de lekkerste biefstuk in één ...
+snippet: Bij Loetje eet je de lekkerste biefstuk in één van onze sfeervolle restaurants. Onze medewerkers doen er alles aan om je een top beleving te geven
+title: Loetje Rotterdam Centrum | Rotterdam Tourist Information
+snippet: Loetje has been known for more than 40 years for her tasty steak. First from Café Loetje, a neighborhood and billiard café in Amsterdam Zuid, but now from various restaurants throughout the Netherlands, like in the city centre of Rotterdam and also at the Kop van Zuid.. The tender tenderloin steak is baked ‘medium rare’ as standard and served in its own gravy.
+title: Loetje Kop van Zuid, Rotterdam - Restaurantanmeldelser ...
+snippet: Loetje Kop van Zuid, Rotterdam: Se 306 objektive anmeldelser av Loetje Kop van Zuid, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 76 av 1 303 restauranter i Rotterdam.
+title: LOETJE ROTTERDAM CENTRUM - Updated 2020 Restaurant Reviews ...
+snippet: Loetje_Groep, Guest Experience &amp; Care at Loetje Rotterdam Centrum, responded to this review Responded 28 November 2019. Dear Male655, Thankyou for your honest review. We are happy to hear that you enjoyed the food and our collegues.
+
+REL: 3
+POI Name: Ter Marsch & Co
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Lounges, Cafes, 
+Snippets:
+
+
+REL: 3
+POI Name: Firma Pickles
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+
+
+REL: 3
+POI Name: Roffa Streetfood Bar
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Desserts, Cafes, 
+Snippets:
+
+
+REL: 3
+POI Name: Restaurant Bazar
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, 
+Snippets:
+
+
+REL: 3
+POI Name: Simon Lévelt
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+
+
+REL: 3
+POI Name: Picknick
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Breakfast & Brunch, Juice Bars & Smoothies, 
+Snippets:
+
+
+REL: 3
+POI Name: Dertien
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, Brasseries, 
+Snippets:
+
+
+REL: 3
+POI Name: Tandir Evi
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, 
+Snippets:
+
+
+REL: 3
+POI Name: Pinokkio Zuidplein
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Do-It-Yourself Food, 
+Snippets:
+
+
+REL: 2
+POI Name: Golden Tulip Rotterdam Centre
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Hotels, Restaurants, 
+Snippets:
+
+
+REL: 2
+POI Name: Dunya's taartenatelier
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Desserts, Bridal, 
+Snippets:
+
+
+REL: 2
+POI Name: Mangiare
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: El Faro Andaluz
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Gastrobar Hartig
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: International, Gastropubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Bagels & Beans
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Bagels, Coffee & Tea, 
+Snippets:
+
+
+REL: 2
+POI Name: Gusto
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Keurslager van Linschoten
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Butcher, 
+Snippets:
+
+
+REL: 2
+POI Name: Islamitische Slagerij Het Kalf
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Butcher, 
+Snippets:
+
+
+REL: 2
+POI Name: Prachtig
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: E&C meat-wine
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, Meat Shops, Diners, 
+Snippets:
+title: E &amp; C Meat and Wine, Rotterdam - Restaurant Reviews ...
+snippet: E &amp; C Meat and Wine, Rotterdam: See 67 unbiased reviews of E &amp; C Meat and Wine, rated 3.5 of 5 on Tripadvisor and ranked #702 of 1,303 restaurants in Rotterdam.
+title: E&amp;C meat-wine - Rotterdam, Zuid-Holland, The ... - Yelp
+snippet: E&amp;C meat-wine in Rotterdam, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Rotterdam and beyond.
+title: E &amp; C Meat and Wine, Rotterdam - Restaurant Reviews ...
+snippet: E &amp; C Meat and Wine, Rotterdam: See 67 unbiased reviews of E &amp; C Meat and Wine, rated 3.5 of 5 on Tripadvisor and ranked #703 of 1,304 restaurants in Rotterdam.
+title: E &amp; C MEAT AND WINE, Rotterdam - Omdömen om restauranger ...
+snippet: E &amp; C Meat and Wine, Rotterdam: Se 67 objektiva omdömen av E &amp; C Meat and Wine, som fått betyg 3,5 av 5 på Tripadvisor och rankas som nummer701 av 1 305 restauranger i Rotterdam.
+title: E &amp; C MEAT AND WINE, Rotterdam - Restaurantbeoordelingen ...
+snippet: E &amp; C Meat and Wine, Rotterdam: Bekijk 67 onpartijdige beoordelingen van E &amp; C Meat and Wine, gewaardeerd als 3,5 van 5 bij Tripadvisor en als nr. 706 van 1.306 restaurants in Rotterdam. &lt;/cf&gt;
+title: E &amp; C Meat and Wine, Rotterdam - Restaurant Bewertungen ...
+snippet: E &amp; C Meat and Wine, Rotterdam: 67 Bewertungen - bei Tripadvisor auf Platz 702 von 1.303 von 1.303 Rotterdam Restaurants; mit 3,5/5 von Reisenden bewertet.
+title: E &amp; C Meat and Wine, Rotterdam - recenzje restauracji ...
+snippet: E &amp; C Meat and Wine, Rotterdam: zobacz bezstronne recenzje (67 ) na temat E &amp; C Meat and Wine, z oceną 3,5 na 5 w serwisie Tripadvisor, na pozycji 704 z 1 306 restauracji w Rotterdamie.
+title: Friendly staff, average to poor quality. - Review of E &amp; C ...
+snippet: E &amp; C Meat and Wine: Friendly staff, average to poor quality. - See 67 traveler reviews, 21 candid photos, and great deals for Rotterdam, The Netherlands, at Tripadvisor.
+title: E &amp; C Meat-Wine - Rotterdam | Groupon
+snippet: E &amp; C Meat-Wine staat voor royaal eten en drinken in de inmiddels iconische Markthal aan de Grotemarkt in hartje Rotterdam. Wie van vleesspecialiteiten houdt komt hier zeker aan zijn trekken met diverse sappige carnivoor- en hoofdgerechten. Dit restaurant met warmgekleurd houten interieur is een sprankelende plek voor een intiem etentje met z&#39;n tweeën en verwelkomt grote groepen wanneer je
+title: E &amp; C Meat and Wine, Rotterdam - Restaurant Avis &amp; Photos ...
+snippet: E &amp; C Meat and Wine, Rotterdam : consultez 67 avis sur E &amp; C Meat and Wine, noté 3,5 sur 5 sur Tripadvisor et classé #708 sur 1 308 restaurants à Rotterdam.
+
+REL: 2
+POI Name: Maria Bonita
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Brazilian, 
+Snippets:
+title: Home — MARIA BONITA
+snippet: maria bonita salon &amp; spa. 199 Mott Street, New York, NY, 10012, United States. 2124311520 fernanda@mariabonitany.com. Hours. Mon 10am to 7pm. Tue 10am to 7pm. Wed 10am to 7pm. Thu 10am to 9pm. Fri 10am to 9pm. Sat 10am to 9pm. Sun 11am to 6pm. Sign up. For the Latest News. First Name. Last Name. Email Address. Sign Up. We respect your privacy ...
+title: Salão Maria bonita - Home | Facebook
+snippet: Salão Maria bonita, Santa Rosa. 1,808 likes · 13 talking about this · 647 were here. SALÃO MARIA BONITA AQUI VOCÊ ENCONTRA TUDO O QUE ESTA PRECISANDO NA ÁREA DA BELEZA! Cabelereiras Micropgmentação...
+title: Maria Bonita Brazilian Restaurant - Home - Rotterdam ...
+snippet: Maria Bonita Brazilian Restaurant - Antoine Platekade 1013, 3072 ME Rotterdam, Netherlands - Rated 4.1 based on 30 Reviews &quot;A comida estava optima, muito...
+title: Maria Bonita in Rotterdam - Eet.nu
+snippet: Maria Bonita in Rotterdam. Reserveer direct een tafel, lees recensies van gasten, bekijk de beoordeling, adresgegevens, routebeschrijving, openingstijden van de keuken en restaurants in de buurt.
+title: MC Tha - Maria Bonita [faixa 08] - YouTube
+snippet: Acorda Maria Bonita Vai pra janela! Não se deite na trilha dos gados Não se deite no chão Não se prenda na mesa Não se prenda a avareza Não pro mundo cão! Subverta o resto de tudo
+title: Maria Bonita Mexican Grill - Mexican Restaurant in Orem
+snippet: I have been going to Maria Bonita since it was half the size it is now. It is great to see places like these grow and not lose any of its taste and friendliness. I also think that this is best Mexican Food in Utah. You cannot go wrong with anything on the menu. Their tamales are awesome and burritos are hugs and amazing.
+title: Jardín María Bonita - Home | Facebook
+snippet: Jardín María Bonita - Avenida José María Morelos 93Echeverría, 22703 Rosarito, Mexico - Rated 4.8 based on 10 Reviews &quot;El lugar está muy bello además de...
+title: Maria Bonita - Home | Facebook
+snippet: Maria Bonita - - Rated 4.6 based on 44 Reviews &quot;Sou cliente a pelo menos 4 anos e não troco! Ótimas profissionais, recomendo !!!&quot;
+title: Maria Bonita Restaurant - Riverdale, Maryland - Menu ...
+snippet: Maria Bonita Restaurant, Riverdale, Maryland. 64 likes · 1 talking about this · 103 were here. Mexican Restaurant
+title: Maria Bonita, Orem - Photos &amp; Restaurant Reviews - Order ...
+snippet: Order food online at Maria Bonita, Orem with Tripadvisor: See 151 unbiased reviews of Maria Bonita, ranked #9 on Tripadvisor among 241 restaurants in Orem.
+
+REL: 2
+POI Name: Sumo Sushi Express
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, 
+Snippets:
+
+
+REL: 2
+POI Name: Natuurvoedingswinkel An-Dijvie
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Health Markets, 
+Snippets:
+
+
+REL: 2
+POI Name: Nazar
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, Butcher, 
+Snippets:
+
+
+REL: 2
+POI Name: suwannaphom
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: Suwannaphom Thai Restaurant - Home - Rotterdam ...
+snippet: Suwannaphom Thai Restaurant, Rotterdam, Netherlands. 170 likes. Welkom ! bij Suwannaphom Rotterdam voor Thaise gerechten Food dinner..wordt onze klant..wordt onze gast bedankt en tot ziens!
+title: Suwannaphom - Picture of My Thai Son, Rotterdam - Tripadvisor
+snippet: My Thai Son, Rotterdam Picture: Suwannaphom - Check out Tripadvisor members&#39; 36,004 candid photos and videos of My Thai Son
+title: My Thai Son, Rotterdam - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at My Thai Son, Rotterdam with Tripadvisor: See 100 unbiased reviews of My Thai Son, ranked #311 on Tripadvisor among 1,306 restaurants in Rotterdam.
+title: Suwannaphom Thai Restaurant Rotterdam - YouTube
+snippet: Ceremony Suwannaphom Real Thai Restaurant in Rotterdam, the Netherlands on friday 4th november 2011. พีธีเปิดร้านอาหารไทย สุวรรณภูมิ ...
+title: suwannaphom - Rotterdam, Zuid-Holland, The Netherlands
+snippet: 1 review of suwannaphom &quot;A real thai restaurant in Rotterdam city center. Very good, real thai food&quot; suwannaphom - Restaurants - Mariniersweg 58A-84E, Rotterdam, Zuid-Holland, The Netherlands - Restaurant Reviews - Yelp
+title: Top Thai - Review of My Thai Son, Rotterdam, The ...
+snippet: My Thai Son: Top Thai - See 100 traveler reviews, 85 candid photos, and great deals for Rotterdam, The Netherlands, at Tripadvisor.
+title: Best Thai food in Rotterdam - Review of My Thai Son ...
+snippet: My Thai Son: Best Thai food in Rotterdam - See 100 traveler reviews, 85 candid photos, and great deals for Rotterdam, The Netherlands, at Tripadvisor.
+title: Suwannaphom Thai Restaurant - Berichten - Rotterdam - Menu ...
+snippet: Suwannaphom Thai Restaurant, Rotterdam. 168 vind-ik-leuks. Welkom ! bij Suwannaphom Rotterdam voor Thaise gerechten Food dinner..wordt onze klant..wordt onze gast bedankt en tot ziens!
+title: My Thai Son - Stadsdriehoek - Rotterdam, Zuid-Holland
+snippet: Thai Restaurant in Rotterdam, Zuid-Holland Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Suwannaphom Thai Restaurant - Startpagina - Rotterdam ...
+snippet: Suwannaphom Thai Restaurant, Rotterdam. 168 vind-ik-leuks. Welkom ! bij Suwannaphom Rotterdam voor Thaise gerechten Food dinner..wordt onze klant..wordt onze gast bedankt en tot ziens!
+
+REL: 2
+POI Name: Altijd In De Buurt
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), 
+Snippets:
+title: Altijd in de Buurt - Home | Facebook
+snippet: Altijd in de Buurt, Rotterdam. 5,354 likes · 66 talking about this · 3,747 were here. Bar + Beans + Bites + Bookings Lunch/brunch hotspot in the city Centre of Rotterdam located next to R&#39;dam...
+title: Altijd in De Buurt, Rotterdam - Menu, Prices &amp; Restaurant ...
+snippet: Altijd in de Buurt is one of my favorite places to go to for a nice brunch in the weekend. The food is really good (the waffles with chicken are to die for), and the place itself is really cosy and with great ambience.
+title: ALTIJD IN DE BUURT, Rotterdam - Updated 2020 Restaurant ...
+snippet: Altijd in de Buurt is one of my favorite places to go to for a nice brunch in the weekend. The food is really good (the waffles with chicken are to die for), and the place itself is really cosy and with great ambience.
+title: ALTIJD IN DE BUURT, Rotterdam - Restaurantbeoordelingen ...
+snippet: Altijd in De Buurt, Rotterdam: Bekijk 22 onpartijdige beoordelingen van Altijd in De Buurt, gewaardeerd als 3,5 van 5 bij Tripadvisor en als nr. 686 van 1.303 restaurants in Rotterdam. &lt;/cf&gt;
+title: Altijd in de buurt - De Buik van Rotterdam
+snippet: Altijd in de buurt Weena 709 3013 AM Rotterdam Voor goede brunch gerechten zoals chicken en waffles of pancakes kun je in het Groothandelsgebouw bij Altijd in de Buurt goed toeven.
+title: ALTIJD IN DE BUURT, Rotterdam - Updated 2020 Restaurant ...
+snippet: Altijd in De Buurt, Rotterdam: See 22 unbiased reviews of Altijd in De Buurt, rated 3.5 of 5 on Tripadvisor and ranked #688 of 1,305 restaurants in Rotterdam.
+title: Nieuwe ontmoetingsplek in de buurt, bij Altijd in de buurt ...
+snippet: Altijd in de buurt is geopend van maandag tot en met woensdag van 10 uur tot 18.00. Op donderdag en vrijdag kan er ook nog worden geborreld tot 01.00. Zaterdag zijn de mannen open tot 18.00. Later willen zij dit gaan uitbreiden en ook op zondag open gaan. Voor speciale events check de Facebook van Altijd in de buurt.
+title: Pretty awesome - Review of Altijd in De Buurt, Rotterdam ...
+snippet: Altijd in De Buurt: Pretty awesome - See 22 traveler reviews, 15 candid photos, and great deals for Rotterdam, The Netherlands, at Tripadvisor.
+title: Altijd in de Buurt - indebuurt Rotterdam
+snippet: Meest recent over Altijd in de Buurt. 5 x de fijnste werkplekken in Rotterdam (volgens ons dan) Ben je ZZP’ers, student of werk je gewoon lekker voor jezelf? Dan ben je waarschijnlijk soms op zoek naar een fijne werkplek.
+title: Altijd in de Buurt (@altijdindebuurt) • Instagram photos ...
+snippet: 5,267 Followers, 0 Following, 1,038 Posts - See Instagram photos and videos from Altijd in de Buurt (@altijdindebuurt)
+
+REL: 2
+POI Name: Tanger Supermarkten
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+
+
+REL: 2
+POI Name: Juicy Details
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Juice Bars & Smoothies, 
+Snippets:
+
+
+REL: 2
+POI Name: Restaurant Down Under
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Diners, Australian, Cocktail Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Amigo
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Coffeeshops, 
+Snippets:
+
+
+REL: 1
+POI Name: Zeevishandel De Graaf Roos en Zn
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, Seafood Markets, 
+Snippets:
+title: Vishandel De Graaf - Roos &amp; Zn - Al jaren uw visspecialist ...
+snippet: De Graaf-Roos en Zonen heeft nu vijf verkoopwagens en vijf standplaatsen. Het bedrijf telt ruim twintig personeelsleden, waarvan twaalf fulltime. Zes keer per week staat Zeger op de markt in Amsterdam, Lammert staat in Assen, Veenendaal, Hoorn en Hoogkarspel.
+title: Onze markten | Vishandel De Graaf - Roos &amp; Zn
+snippet: Benieuwd waar u ons kunt vinden op de markt? Bekijk onze markten en locaties via onze website.
+title: Zeevishandel A de graaf &amp; Zoon - Home | Facebook
+snippet: Zeevishandel A de graaf &amp; Zoon, ... Vishandel De Graaf Roos En Zn. Retail Company. Bakker &amp; Renden Styling. Home Decor. Dj Janoesj. Public Figure. BuSpa. Media/News Company. Vishandel Bram &amp; Aaltje. Retail Company. Vishandel A de Graaf en Dochter. Company. FishFriend. Fish Market. BK Market Trailers verkoopwagens en foodtrucks. Trailer Dealership.
+title: Vishandel De Graaf Roos En Zn. - Posts | Facebook
+snippet: Vishandel De Graaf Roos En Zn. - - Rated 4.9 based on 22 Reviews &quot;Wat is dit een aanwinst voor de Zaanse markt. Een eerlijke heerlijke vishandel schoon...
+title: Vishandel De Graaf Roos En Zn. - Startpagina | Facebook
+snippet: Vishandel De Graaf Roos En Zn. - - Beoordeling van 4.9 op basis van 21 recensies &#39;Wat is dit een aanwinst voor de Zaanse markt. Een eerlijke heerlijke...
+title: Vishandel De Graaf-Roos &amp; Zn. V.O.F. in Bunschoten ...
+snippet: Vishandel De Graaf-Roos &amp; Zn. V.O.F. in Bunschoten-Spakenburg, De Hooistreep 20, 3751LW - Telefoonnummer, informatie en kaart van Vishandel De Graaf-Roos &amp; Zn. V.O.F. - Rubriek Markthandel
+title: Vishandel De Graaf Roos En Zn. - m.facebook.com
+snippet: Vishandel De Graaf Roos En Zn. 892 likes · 4 talking about this. Ma: Amsterdam Di: Amsterdam Wo: Amsterdam, Hoorn Do: Amsterdam, Zaandam Vrij: Amsterdam, Hoogkarspel ...
+title: Openingstijden van Vishandel De Graaf Roos &amp; Zn. V.o.f. in ...
+snippet: De openingstijden van alle vestigingen van Vishandel De Graaf Roos &amp; Zn. V.o.f. in Nederland vindt u op Openingstijden.com. De meest volledige site met ruim 66.000 openingstijden.
+title: Vishandel De Graaf-Roos &amp; Zn. V.O.F. Bunschoten-Spakenburg ...
+snippet: De vennootschap onder firma Vishandel De Graaf-Roos &amp; Zn. V.O.F. is gevestigd op Kuyperstraat 45 te Bunschoten-Spakenburg en is actief in de branche Markthandel in voedings- en genotmiddelen. Het bedrijf is bij de kamer van koophandel geregistreerd onder kvk nummer 31031212 en is gelegen in Spakenburg in de gemeente Bunschoten. Bij Vishandel De Graaf-Roos &amp; Zn. V.O.F. zijn tussen de 11 en
+title: Street Vendors in Amsterdam - Yelp
+snippet: Find the best Street Vendors on Yelp: search reviews of 26 Amsterdam businesses by price, type, or location. Yelp. Cancel. For Businesses. Log In Sign Up. Restaurants. Home Services. Auto Services. More. Food; Street Vendors; Best Street Vendors in Amsterdam See All Street Vendors (26) Sort By. Best Match. ... Zeevishandel De Graaf Roos en Zn ...
+
+REL: 1
+POI Name: Sari Koering Indonesisch
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indonesian, 
+Snippets:
+
+
+REL: 1
+POI Name: Supersauer
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Food Stands, Asian Fusion, 
+Snippets:
+title: Supersauer - Home - Rotterdam, Netherlands - Menu, Prices ...
+snippet: Supersauer - Rotterdam, 3011GX Rotterdam, Netherlands - Rated 4.9 based on 67 Reviews &quot;In September I had the chance to try the food and it was amazing....
+title: Supersauer
+snippet: Supersauer Supersauer Menu Great Korean Streetfood now available in Rotterdam Sushi Buritto&#39;s Giant Sushi Buritto&#39;s with fresh veggies, great beef or sashimi toppings. Including the secret sauer from &quot;Chef Donny&quot; Salmon in Seoul Fresh Salmon Sashimi, Avocado, Carrot, Sesame Seeds, Cabbage, Cucumber, Daikon, Gochuchang Sauce, Mayonaise; Tuna Pusan
+title: Supersauer - De Buik van Rotterdam
+snippet: Supersauer Dominee Jan Scharpstraat 298 3011 GZ Rotterdam Supersauer in de Markthal wil ons kennis laten maken met de Koreaanse keuken. Dit doen ze met een smakelijke sushiburrito en een goedgevulde bibimbap.
+title: supersauer | ORDER ONLINE
+snippet: Supersauer Menu Great Korean Streetfood now available in Rotterdam Sushi Buritto&#39;s Giant Sushi Buritto&#39;s with fresh veggies, great beef or sashimi toppings. Including the secret sauer from &quot;Chef Donny&quot; Salmon in Seoul Fresh Salmon Sashimi, Avocado, Carrot, Sesame Seeds, Cabbage, Cucumber, Daikon, Gochuchang Sauce, Mayonaise; Tuna Pusan
+title: Supersauer - Rotterdam, Zuid-Holland, The Netherlands - Yelp
+snippet: 1 review of Supersauer &quot;Awesome! I was at Yoyo getting a drink for my kids and the owner made a drink that I really liked. He recommended the Korean bibimbap. I walked around all the food places that mostly have fried fish and meats, and decided…
+title: supersauer | CONTACT
+snippet: Supersauer - Markthal Rotterdam. address &amp; Hours. Supersauer - Markthal Rotterdam, Verlengde Nieuwstraat Rotterdam ...
+title: supersauer
+snippet: Supersauer is opgericht door 2 vrienden Donny en Wing. Donny is van Koreaanse afkomst en geobserdeerd door alles wat te maken heeft met de Koreaans eetcultuur. Wing is grondlegger van het succesvolle Tea concept YoYo! Fresh Tea Bar en heeft een passie voor het ontwikkelen van nieuwe horeca concepten.
+title: 10 najlepszych restauracji w Rotterdamie - Tripadvisor
+snippet: Strona wykorzystuje pliki cookie w celu poprawy bezpieczeństwa i jakości świadczonych usług oraz personalizacji reklam. Kliknij tutaj, by uzyskać więcej informacji lub dostosować ustawienia.Klikanie na stronie lub przeglądanie jej oznacza zgodę na korzystanie przez nas z plików cookie.
+title: DIE 10 BESTEN Restaurants in Rotterdam 2020 (mit Bildern ...
+snippet: Rotterdam Essen und Trinken: Auf Tripadvisor finden Sie 77.381 Bewertungen von 1.374 Rotterdam Restaurants, Bars und Cafés - angezeigt nach Küche, Preis und Lage.
+title: Supersauer - Korean Restaurant in Rotterdam
+snippet: See 11 photos from 22 visitors to Supersauer. Korean Restaurant in Rotterdam, Zuid-Holland Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+
+REL: 1
+POI Name: Rotown
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 1
+POI Name: Strano Café
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Gay Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Zuiderpark
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Parks, Local Flavor, Music Venues, 
+Snippets:
+title: Zuiderpark | Zuiderpark
+snippet: Zuiderpark College - met oog voor jou. Op het Zuiderpark College willen we dat leerlingen zich thuis voelen. Zich gezien voelen. En er samen met ons naar streven het beste uit zichzelf te halen. Op het Zuiderpark College hebben we oog voor ieder talent en doen we ons uiterste best dit talent verder te ontwikkelen.
+title: Nieuwbouw In het Zuiderpark | Rotterdam
+snippet: IN HET ZUIDERPARK. Rotterdam-Zuid bruist en dat merk je. Kijk maar eens om je heen en geniet van de vibes in het tweede stadscentrum in wording. En het wordt nog mooier. Letterlijk ín het Zuiderpark ontstaat een nieuwe woonwijk met een geweldig aanbod aan hoogwaardige en duurzame koopwoningen met tuin.
+title: Zuiderparkloop Rotterdam | 2 februari 2020 | afstanden van ...
+snippet: Op zondag 7 februari 2021 wordt de 7e editie van de Zuiderparkloop georganiseerd. Een unieke loop in de regio Rotterdam, door het schitterende Zuiderpark, langs mooie plassen en paden met start en finish nabij Ahoy.
+title: Rotterdam.nl | Zuiderpark
+snippet: Het Zuiderpark in Rotterdam-Zuid is een van de grootste stadsparken van Rotterdam. U vindt er een aaneenschakeling van bos, gras, sportvelden en volkstuinen. Het park werd vanaf 1952 aangelegd als gebruikspark en niet als sierpark. Een ideale omgeving voor een rustige wandeling, een fietstocht of barbecue in de daarvoor bestemde barbecuezones.
+title: Zuiderpark (Rotterdam, Nederland) - Anmeldelser - Tripadvisor
+snippet: Zuiderpark, Rotterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Zuiderpark i Rotterdam, Nederland på Tripadvisor.
+title: Zuiderpark | Rotterdam Tourist Information
+snippet: The website of Rotterdam Info uses cookies and could gather some information about you. You will agree with our policies by clicking on &#39;Close notification&#39; or by further usage of our website.
+title: Woningaanbod in het Zuiderpark | Nieuwbouw Rotterdam
+snippet: NIEUWBOUW IN ‘T ZUIDERPARK. In ’t Zuiderpark wordt een geweldige nieuwe woonplek, vooral vanwege de ligging in het nieuwe Rotterdam-Zuid. Het project In ’t Zuiderpark bestaat uit twee gespiegelde blokken met drie- en vierlaagse woningen van 118 – 157 m²; uitzonderlijk groot voor een grondgebonden stadswoning in Rotterdam!
+title: Zuiderpark - Uitagenda Rotterdam
+snippet: Elke kamer is een tableau vivant van natuur en kunst. Schouwplaats Rotterdam ligt tussen de Zuiderparkweg en de Volkstuinvereniging De Zandweg. De Blauwe Verbinding Het Zuiderpark is via het water verbonden met de Zuidpolder in Barendrecht en het en het toekomstige landschapspark het Buijtenland van Rhoon.
+title: Zuiderpark | Contact
+snippet: Contactgegevens; Zuiderpark Montessoriweg 26 3083 AN Rotterdam T 010 4848400 E info@zuiderpark.nl. ISK Beumershoek 3 3085 EA Rotterdam T 010 4848400 Dhr W. v/d Kolk,
+title: The 10 best hotels near Zuiderpark in Rotterdam, Netherlands
+snippet: In the heart of Rotterdam in Wijnhaven at the Nieuwe Maas river, ibis Rotterdam City Centre provides free Wi-Fi in all areas and a 24-hour front desk. Metro stop Rotterdam Blaak is 320 yards away. The breakfast was very good, a lot of things, donuts, fruits, fresh orange juice, cheese, ham,...
+
+REL: 1
+POI Name: Parket
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 1
+POI Name: Spot the Loony
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 1
+POI Name: Tasty Donuts & Coffee
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Donuts, 
+Snippets:
+title: Tasty Donuts &amp; Coffee
+snippet: Tasty Donuts &amp; Coffee - It&#39;s fresh! 30 verschiedene leckere Donuts, Erstklassiger Cafe und Latte Macchiato, Erfrischende Softdrinks, Milkshakes, Sandwiches uvm.
+title: Tasty Donuts &amp; Coffee - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee, Frankfurt, Germany. 13K likes. Tasty Donuts &amp; Coffee steht für Franchise Appeal mit persönlichem Flair. Donuts made in Germany! Daily fresh &amp; handmade!
+title: Tasty Donuts &amp; Coffee Antwerpen
+snippet: Do you like cookies? We use cookies to ensure you get the best experience on our website.Learn more I agree I agree
+title: Tasty Donuts &amp; Coffee Nederland - Home | Facebook
+snippet: See more of Tasty Donuts &amp; Coffee Nederland on ... Tasty Donuts &amp; Coffee Nederland. Donut Shop in Amsterdam, Netherlands. Community See All. 3,519 people like this. 3,483 people follow this. 96 check-ins. About See All. Reguliersbreestraat 19H (4,821.16 mi) Amsterdam, Netherlands . Get Directions. www.tasty-donuts.nl. Donut Shop · Coffee Shop ...
+title: International Franchise - Tasty Donuts &amp; Coffee
+snippet: International Franchise We are actively seeking franchise partners throughout Europe who want to grow the brand together with us. We offer more than 25 filled and unfilled donut-creations being one of its kind: From apple jelly filling, chocolate icing, praline, blueberry filling, and ending with peanut butter cream and much more is available for all tastes. Daily fresh and handmade ...
+title: Tasty Donuts &amp; Coffee Hoofddorp - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee Hoofddorp, Hoofddorp. 2,684 likes · 140 were here. Het verschil zit &#39;m in de smaak en dat proef je meteen. Tasty Donut &amp; Coffee is opgebouwd rondom goede smaak, kwaliteit en...
+title: Tasty Donuts &amp; Coffee Antwerpen - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee Antwerpen. 1.4K likes. Coffee I Donuts I Snacks I Frappé I Smoothies I &amp; more
+title: Tasty Donuts &amp; Coffee - Centrum - Amsterdam, Noord-Holland ...
+snippet: With so few reviews, your opinion of Tasty Donuts &amp; Coffee could be huge. Start your review today. John G. Amsterdam, The Netherlands. 97 friends. 578 reviews. 699 photos. Share review. Embed review. 8/1/2016. First to Review and 2 other badges. Oh mai kaaaaawt!! Oh maaaai kaaaaawt!!! Vegan donuts you guys!
+title: Tasty Donuts &amp; Coffee Nederland - Startpagina | Facebook
+snippet: Tasty Donuts &amp; Coffee Nederland, Amsterdam. 3.524 vind-ik-leuks · 1 personen praten hierover · 96 waren hier. Koffieshop
+title: Tasty Donuts &amp; Coffee Winterthur - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee Winterthur - Technikumstrasse 79, 8400 Winterthur, Switzerland - Rated 5 based on 3 Reviews &quot;best Place in Winterthur &quot;
+
+REL: 0
+POI Name: Starbucks
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+
+
+REL: 0
+POI Name: Onderzeebootloods
+POI City: Rotterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 0
+POI Name: Atithi
+POI City: Delft
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indian, Fast Food, Vegetarian, 
+Snippets:
+
+
+REL: 0
+POI Name: Stach Food
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Organic Stores, 
+Snippets:
+title: Stach Food, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Stach Food, Amsterdam: Se 88 objektive anmeldelser av Stach Food, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 808 av 4 233 restauranter i Amsterdam.
+title: STACH-food, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: STACH-food, Amsterdam: Se 44 objektive anmeldelser av STACH-food, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 853 av 4 229 restauranter i Amsterdam.
+title: Winkels | STACH weet wat lekker is - stach-food.nl
+snippet: In de lobby van het Mercure Amsterdam City hotel vind je onze foodshop waar je het bekende lekkers van STACH kunt scoren. Perfect voor wat lekkers voor ’s avonds op de hotelkamer of een snel ontbijtje onderweg om de stad te gaan ontdekken. Vooral onze Hollandse stroopwafels zijn hier in trek.
+title: Stach Food, Amsterdam - Haarlemmerstraat 150, Centrum ...
+snippet: STACH food brings you fresh take away meals, salads, soups, quiches, bread and coffee. For breakfast, lunch, dinner and for delicious snacks like italian ham, french cheeses, glutenfree chips /pocorns / quinoa snacks, muffins, cold drinks, chocolate...
+title: STACH Food | STACH weet wat lekker is!
+snippet: Stach weet wat lekker is Wij bedoelen lekker in de breedste zin van het woord. Lekker vers, lekker gezond, lekker makkelijk, lekker nieuw, lekker lokaal, lekker voor onderweg, lekker om te delen, lekker na de yoga, lekker voor het werk, lekker in het weekend en ook nog eens gewoon heel erg lekker.
+title: STACH-food, Amsterdam - Nieuwe Pijp - Restaurant Reviews ...
+snippet: STACH-food, Amsterdam: See 44 unbiased reviews of STACH-food, rated 4 of 5 on Tripadvisor and ranked #1,852 of 4,227 restaurants in Amsterdam.
+title: Stach Food, Amsterdam - Haarlemmerstraat 150, Centrum ...
+snippet: Stach Food, Amsterdam: See 88 unbiased reviews of Stach Food, rated 4.5 of 5 on Tripadvisor and ranked #808 of 4,227 restaurants in Amsterdam.
+title: Overview - Picture of Stach Food, Amsterdam - Tripadvisor
+snippet: Stach Food, Amsterdam Picture: Overview - Check out Tripadvisor members&#39; 50,388 candid photos and videos of Stach Food
+title: STACH FOOD, Amsterdam - Haarlemmerstraat 150, Centrum ...
+snippet: Order takeaway and delivery at Stach Food, Amsterdam with Tripadvisor: See 88 unbiased reviews of Stach Food, ranked #807 on Tripadvisor among 4,227 restaurants in Amsterdam.
+title: Stach Food, Amsterdam - Haarlemmerstraat 150, Centrum ...
+snippet: Stach Food, Amsterdam: 88 Bewertungen - bei Tripadvisor auf Platz 808 von 4.227 von 4.227 Amsterdam Restaurants; mit 4,5/5 von Reisenden bewertet.
+
+Cand cities: {'Delft', 'Rotterdam', 'Amsterdam'}

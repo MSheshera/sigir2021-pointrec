@@ -1,0 +1,512 @@
+City: London
+Country: GB
+Main category: Nightlife
+Sub category: Bars - Dance Clubs - Music Venues
+Description: I'm from Nashville, TN USA and have a planned trip to London in a couple weeks for work. Will be there over the weekend and would really like to hit a couple bars or clubs that are known for their DJs and House style of music. I checked the wiki and didn't really find exactly what I was looking for so hopefully someone can easily throw me a couple recommendations. I'm in my mid 30's but tend to forget that I'm not in my 20's anymore. Nashville doesn't really have any house music venues so I'm excited to see what European clubs are like. I appreciate the help...
+Rated POIs: 40
+Rel distr: [(0, 7), (1, 6), (2, 14), (3, 13)]
+=================================
+REL: 3
+POI Name: The Social
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: Phonox
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Ministry of Sound
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: LSE Student Union
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: Electric Ballroom
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: KOKO
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: Cargo
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: The Den
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: 333 Mother Bar
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Bars, Music Venues, 
+Snippets:
+
+
+REL: 3
+POI Name: The Cuckoo Club
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Bars, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 3
+POI Name: The CLF Art Cafe
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, Cafes, 
+Snippets:
+
+
+REL: 3
+POI Name: The Hydra
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Corsica Studios
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Denim
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+title: Rivet &amp; Hide | raw japanese selvedge denim | raw indigo denim
+snippet: At Rivet &amp; Hide we source clothes and accessories that are well crafted and built to last. A blend of timeless, understated style with enduring quality.
+title: Men&#39;s Designer Jeans - Stuarts London
+snippet: At Stuarts London you will find a stylish selection of men’s designer denim jeans. Browse the collection of jeans that we have available from top designer brands and high end labels, all of which have been hand selected by us to feature on our site.
+title: Denim Première Vision | The responsible denim fashion event
+snippet: Go online to source your denim fabrics &amp; accessories all-year-long on the Première Vision Marketplace. Make your selection, ask for free samples and order your favourite products! Visit the denim e-shop
+title: Blå Denim Classic London jeans | Please | Baggy bukser ...
+snippet: Kjøp Blå Please Denim Classic London jeans og andre Please produkter på Miinto.no | Fri frakt &amp; retur på ordre over 499,-
+title: E.L.V. Denim | A Zero Waste Sustainable Clothing and ...
+snippet: E.L.V. Denim take stocks of old discarded denim and transforms them into modern, sophisticated and even ‘made to measure’ jeans. We love denim, but not only that we are passionate about the idea of reusing this functional fabric and reworking it into new styles.
+title: Son of a Stag | Globally Selected Men&#39;s Fashion and Lifestyle
+snippet: Son of a Stag is the UKs leading mens jeans store, carrying a huge choice of rare Japanese and American brands. We specialise in top quality denim and footwear.
+title: About British Denim Brand London Denim
+snippet: London Denim Studio / Workshop: We like to keep as much work to ourselves in the London Studio and Kent Workshop as possible. So all hand embroidery, printing, dyeing, macrame, block printing is completed in the London studio and sewing up is completed in the workshop. ...
+title: FRAME | Shop Denim &amp; Clothing
+snippet: Inspired by London, crafted in Los Angeles. Shop the collection of Denim, Clothing &amp; Accessories. Free shipping &amp; returns in the U.S.
+title: Denim Love London | Official Online Store
+snippet: Shop The Latest Discounts From Denim Love. Shop Online At The Denim Love London Official Store;jeans, clothing, shoes &amp; accessories. Discover Our Exclusive Promotion Now. Secure Payment. Easy Checkout.
+title: The London Girl’s Denim Brand | Dresses, Jackets, Skirts ...
+snippet: Shop the full collection of authentic premium denim jeans for women from the M.i.h Jeans Official Online Store.
+
+REL: 2
+POI Name: Fabric
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: The Pickle Factory
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Electrowerkz
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: XOYO
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: The Zoo Bar & Club
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Pleasure Lounge Soho
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Lounges, 
+Snippets:
+
+
+REL: 2
+POI Name: Embargo Republica
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Forro Do Galpao
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Schools, Cocktail Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Brixton Jamm
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, Dance Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Tropicana Beach Club
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Bars, 
+Snippets:
+title: Home | Tropicana Beach Club | Covent Garden | Club | Bar ...
+snippet: Escape the concrete jungle in our beach bar, club and restaurant in London&#39;s Covent Garden. ... The Tropicana Beach Club Cabaret Show and dining experience is not to be missed. ... Chose Tropicana, London’s slice of paradise for your Birthday celebrations.
+title: What&#39;s On | Tropicana Beach Club | Covent Garden | London ...
+snippet: Get your very own slice of paradise in Central London at Tropicana Beach Club. From a ‘lagoon pool’ style dance floor surrounded by VIP beach cabanas, party booths, 30ft palm trees and a jungle of exotic flowers and plants, Tropicana Beach Club is one of the most Instagramable bars in London!
+title: Menus | Tropicana Beach Club | Covent Garden | Food ...
+snippet: Tropicana Beach Club’s exotic drinks are something to behold. Flared together by an expert team of mixologists, these vibrant concoctions combine the finest spirits with the freshest ingredients and fruit juices.
+title: TROPICANA BEACH CLUB, London - Covent Garden - Updated ...
+snippet: Reserve a table at Tropicana Beach Club, London on Tripadvisor: See 135 unbiased reviews of Tropicana Beach Club, rated 3.5 of 5 on Tripadvisor and ranked #7,662 of 22,554 restaurants in London.
+title: Cabaret Show | Tropicana Beach Club | Covent Garden | London
+snippet: | Bringing a tropical party paradise to the heart of London! Hold onto your hats, a new crew has landed in paradise. The Tropicana Cabaret Show is here! As you take your seats around our poolside paradise, your totally tropical host will guide you through a jungle of daring circus acts, fantastical vocal performances and live entertainment from start to finish.
+title: Tropicana Beach Club Covent Garden | London Bar and Club ...
+snippet: Tropicana Beach Club isn&#39;t your usual club, our incredible sound and lighting means we can change the mood and ambience to create sunset, sunrise and twilight scenes and even tropical thunderstorms. As well as stocking a ‘treasure cove’ of rums, Tropicana Beach Club will offer over 50 cocktails from classics to new creations.
+title: Christmas | Tropicana Beach Club | Covent Garden | London ...
+snippet: Tropicana Beach Club is also available for exclusive use with semi-private hire options available for parties of up to 150 guests. Sit-down two- or three-course meals are an option or you can stay standing for cocktails and the samba limbo. Alternatively, guests can make the drinks themselves in a mixology masterclass.
+title: Drinks Areas - Tropicana Beach Club
+snippet: From 10pm Tropicana Beach Club turns into a late night party paradise. We’re joined by our team of entertainers and London’s best DJs who spin a tropical storm until the early hours. For those looking to be in the heart of the action our poolside tables are perfect!
+title: Tropicana Beach Club – Book your dinner, drinks and ...
+snippet: | Bringing a tropical party paradise to the heart of London! Tropicana Beach Club – Book your dinner, drinks and special events Open Thursday to Sunday, reserve for dinner in our Covent Garden restaurant, drinks in the bar or party until the twilight hours.
+title: Tropicana Beach Club - DJ Bar - visitlondon.com
+snippet: Take a break from the busy city and head to Holborn’s Tropicana Beach Club. Lounge at the Lagoon Pool, between palm trees, flamingos and tropical thunderstorms. Have a drink at the themed pool bars and enjoy live music, DJs and cabaret shows until the early hours.
+
+REL: 2
+POI Name: Camden Town Brewery
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Pubs, Breweries, 
+Snippets:
+title: Camden Town Brewery - Home
+snippet: Camden Town Brewery — The Home of Hells Lager. Find out about our great beers brewed at Camden Town Brewery, London.
+title: Brewery Tours - Camden Town Brewery
+snippet: A bunch of beer in our tasting room, a tour around our brew house to try the freshest beer straight from the tank, one of our Camden tour pin badges and a few pints on us afterwards. FIND US. Find us under the railway arches in Camden, a short walk from Camden Town. Our brewery bar is open 7 days a week, with Street Food at weekends too.
+title: Camden Town Brewery - Wikipedia
+snippet: Camden Town Brewery built a new brewery in Enfield by the banks of the River Lee, 12 miles north of their Kentish Town brewery. Completed in Spring 2017, the new brewery will allow production to move to Enfield while the current branch at Wilkin Street Mews is renovated into a pilot brewery. Beers
+title: Jobs - Camden Town Brewery
+snippet: Find &amp; apply for the latest jobs in London at Camden Town Brewery. Join the Beer Team today.
+title: Brewery - Camden Town Brewery
+snippet: A brewery. In Camden. Shortly after he bought the domain name, whilst out and about wandering around Camden, Jasper spotted some Victorian railway arches being done up underneath Kentish Town West Station. They looked like the perfect place for building a brewery, so Jasper decided to rent five, even though he thought that was way more than he ...
+title: Camden Town Brewery Webshop – Camden Town Brewery Webshop
+snippet: Camden Town Brewery&#39;s Online Shop – BEER, MERCH + STUFF
+title: Camden Town Brewery - Pub - visitlondon.com
+snippet: The Camden Town Brewery makes local London beers and serves them at the brewery bar. The range includes lager, pale ale, stout and limited edition beers. Find out more about the brewing process by booking a behind the scenes brewery tour.
+title: Contact Us - Camden Town Brewery
+snippet: Contact Us. Want to talk beer? Great. Us too. There are a few different ways to get in touch with us, depending on what it is you want to know. Have a look at the addresses below to make sure your enquiry ends up in the right inbox.
+title: Find Beer - Camden Town Brewery
+snippet: We are proud to pour Camden Town Brewery beer though the pipes of some most of the outstanding restaurants, bars and pubs in London and the rest of the UK. Our online shop We’ve just launched our very first web shop where you can get all our beers, merch and a bunch of other stuff too.
+title: Beers - Camden Town Brewery
+snippet: Camden Town Brewery makes beer. Great beer. Your nearest beer. Our beers are stocked in bars, shops, pubs, clubs and restaurants across the land.
+
+REL: 2
+POI Name: Montezuma
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Lounges, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 2
+POI Name: Reflex London
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Jazz Live At The Crypt
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Jazz & Blues, 
+Snippets:
+title: Jazzlive at the Crypt
+snippet: Welcome to Jazzlive at the Crypt. Located in the Crypt of St. Giles Church at the heart of Camberwell, we have been putting on jazz concerts since 1995. Each Friday evening at The Crypt you can hear the finest improvised music from the UK&#39;s top jazz musicians.
+title: Jazz Live At The Crypt • Jazz In London Is The Official ...
+snippet: Jazzlive at the Crypt, formerly known as St. Giles Jazz Club is a premier jazz venue established since 1995, and widely known as one of the UK’s most reputable jazz venues. Jazzlive at the Crypt is dedicated to promoting jazz and jazz education. It’s Every Friday night events have featured top quality musicians from London, UK and ...
+title: Gig Guide - Jazzlive at the Crypt
+snippet: Due To The Ongoing Coronavirus Crisis - We Will Remain Closed Until Further Notice
+title: Jazzlive at The Crypt - Home | Facebook
+snippet: Jazzlive at The Crypt, London, United Kingdom. 3,581 likes · 24 talking about this · 1,483 were here. We are one of London&#39;s best live jazz venues. Established in 1995 we are situated in the Crypt...
+title: Jazzlive at the Crypt, Camberwell – jazzlondonlive
+snippet: JAZZLIVE at the Crypt was established in 1995 as St. Giles Jazz Club and quickly gained a deserved reputation as one of the UK’s premier jazz venues. JAZZLIVE teamed up with musicians collective &#39;Jazz Umbrella&#39; in 2000 and the two organisations were merged shortly afterwards to establish a charity and a trading arm dedicated to…
+title: Jazz Nights - St Martin-in-the-Fields
+snippet: The Café in the Crypt may be underground but there’s no secret that it is one of London’s hottest music venues. Listen to some swing, take a sentimental journey or dance to some Dixieland performed by some of the UK’s finest jazz musicians.
+title: JazzLive at The Crypt, Camberwell – jazzlondonlive
+snippet: 06/10/2017 20:00 £8, £5 students Mick Foster Quartet Mick Foster – saxophones, Dominic Ashworth – guitar, Julian Bury – bass, Tristan Mailliot – drums 13/10/2017 20:00 £8, £…
+title: Jazzlive at The Crypt - London | Jazz Club
+snippet: We are one of London&#39;s best live jazz venues. Established in 1995 we are situated in the Crypt of St. Giles&#39; Church Camberwell London SE5. We are open every Friday evening and on some Thursdays and Saturdays (check website for details). Description: We are one of London&#39;s best live jazz venues.
+title: Jazz Live At The Crypt, London Night Club Reviews, Deals ...
+snippet: Jazz Live At The Crypt, London: Jazz Live At The Crypt Night Club in London. See reviews, deals and offers are available
+title: Jazz Live At The Crypt in London, St. Gi 81 Camberwell ...
+snippet: Description. Jazz Live At The Crypt can be found at St. Gi 81 Camberwell Church Street . The following is offered: Night Clubs - In London there are 206 other Night Clubs.
+
+REL: 1
+POI Name: The French Comté
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, Cheese Shops, 
+Snippets:
+title: The French Comte : The Finest Quality just for you
+snippet: With French Comté, you will have the best Comté in London, an exciting range of authentic artisan cheese and the top charcuterie from Franche-Comté directly from Eastern France.
+title: The French Comte - Home | Facebook
+snippet: The French Comte - Borough Market, SE1 London, United Kingdom - Rated 4.7 based on 6 Reviews &quot;Some of the best saucisson I have had. Can definitely...
+title: Cheese - The French Comte
+snippet: It is amazing what happy cows can do! The famous regional ‘Montbéliardes” cows provide the milk used to make all of our hard and soft cheeses. Cows are fed on fresh grass and roam free, enjoying at least 1 hectare each of pasture in the summer. Their milk is used to make rich, creamy cheeses, which develop beautiful complex characters when ageing. In the long and snowy winter months, cows ...
+title: Cheese - The French Comte
+snippet: Their milk is used to make rich, creamy cheeses, which develop beautiful complex characters when ageing. In the long and snowy winter months, cows are kept in the barns and fed on locally harvested hay. The winter milk goes into the production of another star cheese: Mont d’Or.
+title: The French Comte - London - Good Sixty
+snippet: Fabien Joly and Florent Gacon are a couple of young Franc-Comtois with a passion for food, wine and the artisan traditions of their native region of France. ...
+title: Charcuterie - The French Comte
+snippet: It is this traditional process which grant our charcuterie its unique flavours. Franche-Comté is famous for its slow-smoked pork sausages (Montbéliard or Morteau), protected by an AOC and label rouge certifications, which guarantee the quality of the meat used as well as the ‘savoir-faire’ of the region’s artisan producers.
+title: Find Us - The French Comte
+snippet: Bolingbroke Rd. Hammersmith, London W14 0AL. Brook Green. Lloyd Park Market – Every Saturday – 10am till 4pm Forest Rd, London E17 4PP. lloydparkmarket. Contact us. UNIT 16B - Borough Market Stoney Street LONDON SE1 9AH Phone: 0207 231 9091. Monday﻿ to Thursday 9am till 5pm Friday 9am till 6pm Saturday 8am till 6pm.
+title: The French Comte, Borough Market, London (2020)
+snippet: The Best Comte and so much more in London!!!! We are bringing the flavours of our mountains to your table!!!! We are a couple of young Franc-Comtois, with a passion for food, wine and the artisan traditions of our native region of France. We come from a long line of famers and craftsmen who have been producing food and running market stalls for generations, and now we are bringing the flavours ...
+title: The french comte London | Food Hygiene Ratings ...
+snippet: The french comte, London. Here are the food hygiene ratings, address and Local Authority details for The french comte, London. The french comte is listed as Importers/Exporters.
+title: THE FRENCH HOUSE, London - 72 Westow Hl - Restaurant ...
+snippet: The French House, London: See 35 unbiased reviews of The French House, rated 4 of 5 on Tripadvisor and ranked #9,807 of 22,555 restaurants in London.
+
+REL: 1
+POI Name: Pretty Tapas
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Tapas Bars, Mediterranean, 
+Snippets:
+title: Pretty Tapas - Home - London, United Kingdom - Menu ...
+snippet: Pretty Tapas, London, United Kingdom. 398 likes. Pretty Tapas started in July 2014 as a pop up on North Cross Rd in East Dulwich. We serve a great varieties of small plates / tapas. All our goods are...
+title: Pretty Tapas - Tulse Hill - London, United Kingdom
+snippet: 1 review of Pretty Tapas &quot;Spent New Years Eve at this lovely little tapas place in Dulwich. The staff was very warm and courteous, which made spending the new year even better. We were a group of 8 and the waitress was able to help adequately…
+title: The 9 Best Spanish Restaurants And Tapas Bars In London
+snippet: The 9 Best Spanish Restaurants And Tapas Bars In London. ... Tapas Brindisa London Bridge, their restaurant in foodies’ haven Borough Market, showcases Brindisa’s produce and traditional recipes in a cosy environment, complete with photographs of the Spanish countryside and cheerful red walls.
+title: The Best Tapas Restaurants in London | 20 Top Spanish Spots
+snippet: London’s best tapas restaurants From the most traditional of tortillas to exciting nueva cocina takes on the classics, these bars and restaurants are serving up some of the best tapas in London ...
+title: The best tapas restaurants in London | British GQ
+snippet: The best tapas restaurants in London. By Amber Fraser, Olive Pometsey 13 September 2019. Check out our recommendations of the best tapas in London and start learning how to pronounce jamón
+title: 10 Beste Tapas i Covent Garden (London)
+snippet: Beste Tapas i Covent Garden (London): Se 35 654 anmeldelser av TripAdvisor-reisende av Tapas i Covent Garden, London.
+title: THE 10 BEST Restaurants in London - Updated April 2020 ...
+snippet: Best Dining in London, England: See 3,052,034 Tripadvisor traveler reviews of 24,004 London restaurants and search by cuisine, price, location, and more.
+title: #prettycitylondon (@prettycitylondon) • Instagram photos ...
+snippet: 403.6k Followers, 972 Following, 3,071 Posts - See Instagram photos and videos from #prettycitylondon (@prettycitylondon)
+title: Pretty good - Review of Tapas Brindisa London Bridge ...
+snippet: Tapas Brindisa London Bridge: Pretty good - See 1,492 traveler reviews, 314 candid photos, and great deals for London, UK, at Tripadvisor.
+title: Best Tapas Bars London | Best Tapas Restaurants in London ...
+snippet: Best Tapas Bars in London There&#39;s a roaring number of Spanish bars in London that bring authentic food from various regions around Spain to the capital in a buzzy yet laidback atmosphere. Beyond that though, the tapas market is expanding and small plate dining is leading the way across London.
+
+REL: 1
+POI Name: Studio 338
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 1
+POI Name: Aquadrome
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Lakes, 
+Snippets:
+
+
+REL: 1
+POI Name: Village Underground
+POI City: London
+POI Country: GB
+POI Main category: Event Planning & Services
+POI Sub category: Venues & Event Spaces, 
+Snippets:
+
+
+REL: 0
+POI Name: Bamboo Basket
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+
+
+REL: 0
+POI Name: Town House Restaurant
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: British, 
+Snippets:
+title: Town House | At The Kensington
+snippet: Located in the heart of South Kensington, the recently refurbished Town House restaurant is an all-day dining haven, accessed through its own discreet entrance on Manson Place. A home away from home, Town House is the perfect space for breakfast, lunch, dinner or to while away an afternoon over a delicious Afternoon Tea.
+title: Menus | Town House
+snippet: Located in the heart of South Kensington, the recently refurbished Town House restaurant is an all-day dining haven, accessed through its own discreet entrance on Manson Place. A home away from home, Town House is the perfect space for breakfast, lunch, dinner or to while away an afternoon over a delicious Afternoon Tea.
+title: Town House, London - South Kensington - Menu, Prices ...
+snippet: Reserve a table at Town House, London on Tripadvisor: See 758 unbiased reviews of Town House, rated 4.5 of 5 on Tripadvisor and ranked #302 of 22,554 restaurants in London.
+title: De 10 beste restaurantene i London - Tripadvisor
+snippet: Beste restauranter i London, England: Se anmeldelser fra reisende og bilder av spisesteder i London, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Dean Street Townhouse | Restaurant &amp; Hotel in London
+snippet: Dean Street Townhouse is a Hotel with 39 bedrooms including a restaurant, in London&#39;s Soho. See website for more details »
+title: THE 10 BEST Restaurants in London - Updated April 2020 ...
+snippet: Best Dining in London, England: See 3,052,034 Tripadvisor traveler reviews of 24,004 London restaurants and search by cuisine, price, location, and more.
+title: London’s Best Chinatown Restaurants | 21 Places That Rule ...
+snippet: From Sichuanese to dim sum and beyond, there’s so much choice in London&#39;s Chinatown it&#39;s hard to know which one to plump for. But Time Out’s food reviewers have eaten at all of them – here&#39;s ...
+title: Restaurant | Dean Street Townhouse
+snippet: Situated in London&#39;s Soho, Dean Street Townhouse serves British-inspired menus, served all day in an informal setting. See website for food and drinks menus »
+title: Town House Restaurant | The Kensington Hotel, London
+snippet: Located in the heart of South Kensington, Town House restaurant is an all-day dining haven, accessed through its own discreet entrance on Manson Place, or through the Drawing Rooms on the ground floor of the hotel.
+title: Beste spisesteder i nærheten av Number 8 The Town House, Derry
+snippet: Restauranter i nærheten av Number 8 The Town House på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Number 8 The Town House, Derry.
+
+REL: 0
+POI Name: Printworks
+POI City: London
+POI Country: GB
+POI Main category: Event Planning & Services
+POI Sub category: Venues & Event Spaces, 
+Snippets:
+
+
+REL: 0
+POI Name: Chatsworth Woods
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Chatsworth Woods - Parks - Chatsworth Road, Ealing, London ...
+snippet: 1 review of Chatsworth Woods &quot;Nice little diversion from the north circular road. Not very big but a nice little walk, delivering one to Hanger Hill park.&quot; Chatsworth Woods - Parks - Chatsworth Road, Ealing, London, United Kingdom - Yelp
+title: Chatsworth House - Wikipedia
+snippet: Chatsworth House is a stately home in Derbyshire, England, in the Derbyshire Dales 3.5 miles (5.6 km) north-east of Bakewell and 9 miles (14 km) west of Chesterfield.The seat of the Duke of Devonshire, it has been home to the Cavendish family since 1549. Standing on the east bank of the River Derwent, it looks across to the low hills between the Derwent and Wye valleys.
+title: About the park - Chatsworth House
+snippet: The Chatsworth Estate is able to offer four miles of double bank fly fishing on the Chatsworth Fishery running from Baslow through Chatsworth Park to Rowsley on the River Derwent. Enjoying the park You are welcome to walk, picnic and play in the park and Stand Wood for free (parking charges do apply).
+title: Chatsworth House
+snippet: Every day at Chatsworth brings something different - whether you plan to admire the house, explore the garden, have an adventure in the farmyard and playground, indulge in an afternoon tea or browse the shops - tailor your visit to be as eventful or relaxed as you wish. We look forward to welcoming you. Join us this winter to hear hidden stories from a few of our experts, take a walk in the ...
+title: Google Maps
+snippet: Find local businesses, view maps and get driving directions in Google Maps. When you have eliminated the JavaScript , whatever remains must be an empty page. Enable JavaScript to see Google Maps.
+title: Great Conservatory - Chatsworth House
+snippet: History of the Great Conservatory in the gardens. ... the Crystal Palace in London in 1851. Inside there was room for two carriages to pass on the main thoroughfare, and stairs, ... The boiler fumes escaped through flues laid along the ground to a chimney up in Stand Wood, well out of sight of the garden. During and after the First World War ...
+title: Park &amp; estate - Chatsworth House
+snippet: About the park Today the park contains historic and modern architecture and art including James Paine&#39;s bridges and mill, Queen Mary&#39;s Bower and horse jumps from the Chatsworth International Horse Trials. Stand Wood provides an impressive backdrop for the house, and contains an interesting diversity of trees and wildlife.
+title: Pemberley - Wikipedia
+snippet: Chatsworth House, the original inspiration for Pemberley, was used for the exterior scenes for Joe Wright&#39;s 2005 film version of Pride and Prejudice starring Keira Knightley and Matthew Macfadyen. However, Wilton House was used for many of the interior scenes, such as those featuring Georgiana Darcy.
+title: Garden - Chatsworth House
+snippet: Garden View all opening times. Famous for its rich history, historic and modern waterworks and sculptures, its Victorian rock garden and maze, there is something for everyone in the 105-acre Chatsworth Garden.
+title: Chatsworth House (Bakewell) - 2020 All You Need to Know ...
+snippet: We recommend booking Chatsworth House tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 4 Chatsworth House tours on Tripadvisor
+
+REL: 0
+POI Name: Belgrave Rd
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Bumpis Big Adventure
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Kids Activities, 
+Snippets:
+
+
+Cand cities: {'London'}

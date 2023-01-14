@@ -1,0 +1,997 @@
+City: Mountain View
+Country: US
+Main category: Nightlife
+Sub category: Cocktail Bars
+Description: I was wondering if people here have recommendations for bars / restaurants with well-made cocktails. I'm really just trying to optimize for cocktail quality and inventiveness. I don't mind recommendations in South Bay overall, as long as it's not too far.
+Rated POIs: 45
+Rel distr: [(0, 12), (1, 18), (2, 15)]
+=================================
+REL: 2
+POI Name: Blacksmith
+POI City: Redwood City
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Lounges, 
+Snippets:
+
+
+REL: 2
+POI Name: South Bay Fusion
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Dance Studios, 
+Snippets:
+title: SBF - About - South Bay Fusion
+snippet: South Bay Fusion The Original Bay Area Weekly Blues-Fusion Dance We have a weekly dance every Thursday; we usually have lessons, and occasionally live music! SPECIAL NOTICE see: SBF&#39;s New Home After a hiatus to find a new location, SBF has finally found a new home! Every Thursday, we&#39;re at the Masonic Lodge in Mountain View.
+title: South Bay Fusion, 890 Church Street, Mountain View, CA (2020)
+snippet: Blues/Fusion Dancing in the San Francisco Peninsula &amp; South Bay Areas To receive weekly invites to our events, join our South Bay Fusion group: ... Home &gt; United States &gt; Mountain View, CA &gt; South Bay Fusion . South Bay Fusion . Nearby gyms &amp; sports facilities. Napa Dance Club 560 El Camino Real, Redwood City . Health Logic, Inc.
+title: South Bay Fusion - Mountain View, CA, United States
+snippet: South bay fusion is not only run by an incredible host who makes every effort to make sure everyone feels safe and comfortable, it is supported by one of the BEST communities of frequent dancers. The DJs are often the most spot on in the bay area, and the dance studio ambience is cozy and just right.
+title: South Bay Fusion 890 Church St Mountain View, CA Dance ...
+snippet: Get directions, reviews and information for South Bay Fusion in Mountain View, CA. South Bay Fusion 890 Church St Mountain View CA 94041. 7 Reviews. Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Photos for South Bay Fusion - Yelp
+snippet: Photo 2 of 3 for South Bay Fusion - Mountain View, CA. Nancy W. said &quot;Nick is awesome. I&#39;ve been working out twice a week with Nick for six months, after not doing any consistent exercise since…&quot;
+title: Past Events | South Bay Improv Fun (Mountain View, CA ...
+snippet: Past Events for South Bay Improv Fun in Mountain View, CA. A Meetup group with over 2345 Improvisers.
+title: Weekly Blues-Fusion Dancing! - Yelp
+snippet: Photo of South Bay Fusion - &quot;Weekly Blues-Fusion Dancing!&quot; - Mountain View, CA. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . South Bay Fusion; Photos &amp; Videos 3 photos for South Bay Fusion. Add photos Browse ...
+title: South Bay Hydroponics, Mountain View, CA
+snippet: South Bay Hydroponics. 569 E. Evelyn Ave Mountain View, CA 94041-1613 (650) 968-4070 South Bay Hydroponics on E. Evelyn Ave in Mountain View, CA is in the Beach California section(s) Nursery, Garden Center, And Farm Supply Stores.
+title: Mountain View Asian Fusion - SanJose.com
+snippet: Mountain View Asian Fusion. Asian Fusion . Restaurants; Global Cuisine; Spanish Food; American Restaurants
+title: Mountain View Vietnamese Restaurants - SanJose.com
+snippet: Pho Hoa. 220 Castro St, Mountain View, CA 94041 ()2009 BEST OF SILICON VALLEY Reader Survey Winner - Third Place Best Pho +1 650.969.5805
+
+REL: 2
+POI Name: Le Plonc - Mountain View
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Wine Bars, French, 
+Snippets:
+title: Le Plonc
+snippet: Home Locations Sunnyvale Mountain View Melbourne Reservations Melbourne Sunnyvale Mountain View. Scroll . L E P L O N C W I N E B A R . A bar of design. Le Plonc. A place where a highly curated wine list, thoughtfully designed dishes and carefully crafted and sumptuous interiors come together to create a memorable experience.
+title: Le Plonc, Mountain View - Restaurant Reviews &amp; Photos ...
+snippet: Le Plonc, Mountain View: See 4 unbiased reviews of Le Plonc, rated 4.5 of 5 on Tripadvisor and ranked #130 of 302 restaurants in Mountain View.
+title: Le Plonc Mountain View Home — Le Plonc
+snippet: Le Plonc Mountain View Reviews. Le Plonc Mountain View Reviews 1. Le Plonc Mountain View Location . Subscribe to receive the latest Le Plonc news and invitations. Email Address. Sign Up.
+title: Raising a glass at Le Plonc, the new high-end, low-key ...
+snippet: A glass of Maiana negroamaro from Salentino, Italy at Le Plonc wine bar in Mountain View. (Photo by Veronica Weber)While most wine menus might list a wine producer’s name, origin and year, Le Plonc’s aims to go above and beyond to break it down even further for would-be wine fans.
+title: Mountain View wine bar Le Plonc opens | Peninsula Foodist ...
+snippet: Posted by WineLover, a resident of Old Mountain View, on Mar 21, 2018 at 2:52 pm. We heard about Le Plonc and went earlier this week. It was gratifying, and not at all common here in the US, to ...
+title: Photos for Le Plonc - Mountain View - Yelp
+snippet: Photos at Le Plonc - Mountain View - Mountain View, CA.
+title: Le Plonc Wine Bar - Mountain View Restaurant - Mountain ...
+snippet: Le Plonc is a European-style wine bar and restaurant in the heart of downtown Mountain View. With a highly curated wine list and several quality options at $10 - 14 a glass, it is happy hour all day, every day.
+title: Le Plonc Sunnyvale Home — Le Plonc
+snippet: Home Locations Sunnyvale Mountain View Melbourne Reservations Melbourne Sunnyvale Mountain View. Scroll . L E P L O N C S U N N Y V A L E. Resevations . A sensory journey. The Le Plonc experience is a journey into a tantalizing world of food and wine that piques all your senses in surroundings designed to make everything especially delightful.
+title: Le Plonc in Mountain View - Restaurant menu and reviews
+snippet: All info on Le Plonc in Mountain View - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Le Plonc - Mountain View 331 Castro St Ste 100 Mountain ...
+snippet: Located in downtown Mountain View, Le Plonc is a lovely wine bar that also serves a wide variety of cocktails (wine and gin only) along with beer.
+
+REL: 2
+POI Name: Hidden Tap & Barrel
+POI City: Palo Alto
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Bar, Whiskey Bars, Cocktail Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: 55 South
+POI City: San Jose
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, American (New), Cocktail Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Fred's Place
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, 
+Snippets:
+title: FRED&#39;S PLACE
+snippet: * highly scientific, randomized, double-blind study, conducted by credentialed and inebriated Fred&#39;s Place patrons
+title: Fred&#39;s Place - Home | Facebook
+snippet: Fred&#39;s Place - 2534 Old Middlefield Way, Mountain View, California 94043 - Rated 4.7 based on 61 Reviews &quot;Great place to kick back after a long day at...
+title: Fred’s Place - Mountain View, CA - Yelp
+snippet: 107 reviews of Fred&#39;s Place &quot;Was in Palo Alto over the weekend and found this great bar. Typical dive bar but very clean. The owner was there and greeted us with a handshake and a big smile. He then came over and started a conversation with us.…
+title: Fred’s Place - Mountain View, CA - Yelp
+snippet: Fred&#39;s Place is great bar not because they sponsor my former rugby club because the atmosphere is welcoming to all walks of life.It&#39;s the only bar that opens @ 10am on the peninsula &amp; has stiff drinks thanks Paul the awesome bartender on Thursday nights make sure u tip him well.Fred&#39;s Place may look tacky from the outside walk in u will be pleasantly surprised by pool tables,foosba
+title: Fred&#39;s Place, Mountain View, Mountain View - Urbanspoon/Zomato
+snippet: Fred&#39;s Place Mountain View; Fred&#39;s Place, Mountain View; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Fred&#39;s Place Restaurant on Zomato
+title: Fred&#39;s Fish House, Mountain Home - Menu, Prices ...
+snippet: Fred&#39;s Fish House, Mountain Home: See 328 unbiased reviews of Fred&#39;s Fish House, rated 4 of 5 on Tripadvisor and ranked #2 of 65 restaurants in Mountain Home. Flights Vacation Rentals ... Great place with a great view! A welcome surprise . Worth the drive .
+title: Fred’s Place - Mountain View, CA - Yelp
+snippet: 106 reviews of Fred&#39;s Place &quot;What a fun little dive bar! It was the first time I did kareoke and it wasn&#39;t so bad, the crowd was pretty inviting (and a little drunk) and they have soooo many songs to choose from. There&#39;s a pool table and dart…
+title: Fred’s Place in Mountain View is where truck drivers and ...
+snippet: Follow the neon lights to Fred’s Place (photo by @jthepirate) Pauli Partti doesn’t serve fancy, craft cocktails. The owner of Fred’s Place on Old Middlefield Way in Mountain View has intentionally kept his place old school: sports memorabilia covering the walls, pinball machine up front, billiards in the back, and a spirits list that’s not trying to impress anyone.
+title: Fred’s Place - Mountain View, CA - Yelp
+snippet: When I worked in Mountain View, we used to come here often just to relax (drink), chat (drink), and shed some stress (drink). We would also plan bi-weekly trips to this place. Our mission was to drink excessively at Fred&#39;s Place then figure out if we we were going to go anywhere after, which was usually somewhere in Palo Alto or San Jose.
+title: Fred&#39;s Place in Mountain View | Fred&#39;s Place 2534 Old ...
+snippet: Find Fred&#39;s Place in Mountain View with Address, Phone number from Yahoo US Local. Includes Fred&#39;s Place Reviews, maps &amp; directions to Fred&#39;s Place in Mountain View and more from Yahoo US Local
+
+REL: 2
+POI Name: St Stephen's Green
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Pubs, Irish, Sports Bars, 
+Snippets:
+title: Stephens Green | All Sports Irish Bar and Restaurant
+snippet: Hey Folks, Happy Fish Friday! We’ve added some seafood features along with some old favourites to our menus today. Click here to see all of our range of available options, from great food, beer, wine, Cocktails, Irish Coffees &amp; even toilet paper!. Contact us directly for delivery, via call or text on the above numbers.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Stephens Green, Mountain View - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Stephens Green, Mountain View with Tripadvisor: See 49 unbiased reviews of Stephens Green, ranked #49 on Tripadvisor among 302 restaurants in Mountain View. ... 223 Castro St, Mountain View, CA 94041-1203. Website +1 650-964-9151. Improve this listing. Menu.
+title: St. Stephens Green (Mountain View) - 2020 All You Need to ...
+snippet: Gain in-depth knowledge on the history and culture of California&#39;s Silicon Valley during this full-day tour from San Francisco. With round-trip transportation provided, you&#39;ll be able to skip traffic and navigation and simply enjoy the experience.
+title: 223 Castro St. Mountain View, Ca 94041 - Stephens Green
+snippet: Irish Pub Restaurant Bar Night Club Mountain View California. Showing live sports. We serve food seven days a week.DJ and live bands Fri &amp; Sat Nights.
+title: Stephens Green Irish Pub &amp; Restaurant Mountain View CA ...
+snippet: Stephens Green is located in the heart of downtown Mountain View at . 223 Castro Street Mountain View, CA 94041. Just blocks from the Mountain View CalTrain station. Ample free parking is provided in the various city parking lots located along Hope St. and Bryant St. Enter your address below to get detailed directions.
+title: Pub Crawl - Review of St. Stephens Green, Mountain View ...
+snippet: St. Stephens Green: Pub Crawl - See 10 traveler reviews, 8 candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: Stephens Green | Food Menus
+snippet: Click Here for menus &amp; to order online. © 2020 Stephens Green. All Rights Reserved.
+title: Stephens Green - Home | Facebook
+snippet: Stephens Green. 3,084 likes · 15 talking about this · 1,833 were here. Premier All Sports Irish Bar &amp; Restaurant. Early opening on weekends for NFL and college football games Serving Irish favorites...
+title: Stephens Green | Events
+snippet: – 9PM – No cover charge, it’s free to play. Bring along your team, or join one when you get here. Great prizes every week including a jackpot prize of up to $1000 for a perfect score.
+
+REL: 2
+POI Name: Savvy Cellar Wine Bar & Wine Shop
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Beer, Wine & Spirits, 
+Snippets:
+title: Savvy Cellar Wine Bar &amp; Wine Shop | 50+ Wines Available by ...
+snippet: OUR MENU. Our wine and beer can now be ordered online! Enjoy great introductory pricing and FREE shipping through April 14th! Just click on the product for a brief description, and add it to your cart!
+title: Savvy Cellar Wine Bar &amp; Wine Shop - Wine Shop in Mountain View
+snippet: savvy cellar wine bar &amp; wine shop mountain view location • savvy cellar wine bar &amp; wine shop mountain view address • savvy cellar wine bar &amp; wine shop mountain view • savvy cellar mountain view • savvy cellar wine bar &amp; wine shop mountain view • savvy cellar wine bar &amp; wine shop 750 west evelyn ave. (at castro st.) mountain view, ca ...
+title: Savvy Cellar Wine Bar &amp; Wine Shop - Mountain View, CA
+snippet: 241 reviews of Savvy Cellar Wine Bar &amp; Wine Shop &quot;Great wine bar. Nice overall selection. Was hoping for more premium wines, but thouroughly enjoyed the &quot;off the beaten path&quot; wines in the flights.&quot;
+title: Savvy Cellar Wine Bar &amp; Wine Shop - Mountain View, CA
+snippet: Savvy Cellar Wine Bar &amp; Wine Shop, Beer, Wine &amp; Spirits business in Mountain View. See up-to-date pricelists and view recent announcements for this location.
+title: Savvy Cellar Wine Bar &amp; Wine Shop - Mountain View, CA
+snippet: 241 reviews of Savvy Cellar Wine Bar &amp; Wine Shop &quot;I was impressed by their interesting and somewhat seasonal wine selections but even more impressed that their staff was so knowledgeable and friendly. I usually go to downtown campbell for wine…
+title: Savvy Cellar Wine Bar &amp; Wine Shop - Mountain View, CA
+snippet: 241 reviews of Savvy Cellar Wine Bar &amp; Wine Shop &quot;Sadly, my honey and I are leaving Mountain View to move to Texas, of all places. Gotta go where the career takes you, right? Anyway, this gave us the occasion to rent out the entire establishment…
+title: Savvy Cellar Wine Bar &amp; Wine Shop - Mountain View, CA
+snippet: 241 reviews of Savvy Cellar Wine Bar &amp; Wine Shop &quot;This wine bar is by far the only one I&#39;ve seen with great priced happy hour menu. Their small bites are incredible and their wine list is diverse. Me and my friend enjoyed yesterday afternoon with…
+title: Savvy Cellar Wine Bar &amp; Wine Shop Mountain View, CA 94041 ...
+snippet: Latest reviews, photos and ??ratings for Savvy Cellar Wine Bar &amp; Wine Shop at 750 W Evelyn Ave in Mountain View - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Visit Us | savvycellar
+snippet: Savvy Cellar Wine Bar &amp; Wine Shop is located in Mountain View, next to the Caltrain tracks and adjacent to the Mountain View VTA light rail station. We are in the historic Train Depot building, at the corner of Evelyn Ave. and Castro St. Look for the giant palm tree in front of our outdoor patio!
+title: Happy Hour - Menu - Savvy Cellar Wine Bar &amp; Wine Shop ...
+snippet: Happy Hour at Savvy Cellar Wine Bar &amp; Wine Shop &quot;Finally decided to check this place out after so many years living in MV. I met up with a friend and sat at the bar. I made it to the happy hour which ends at 6pm. Cheese and pâté&#39; plates are…
+
+REL: 2
+POI Name: Haberdasher
+POI City: San Jose
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Monte Carlo
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Sports Bars, 
+Snippets:
+title: MC Home - Monte Carlo Nite club
+snippet: Best of luck to you all. We sincerely wish you and your loved ones good health. Thank you for your understanding - Team Monte Carlo _____ Estimados amigos, lamentamos informarles que, con efecto inmediato, Monte Carlo Nite Club permanecerá cerrado hasta fines de marzo. Queremos asegurar el bienestar de nuestro personal y clientes.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Deluxe Room - mountain view - Monte-Carlo Bay Hotel ...
+snippet: Book the Deluxe Room with mountain view at the Monte-Carlo Bay Hotel &amp; Resort in Monaco. The rooms in Tadelakt style have a modern design warmed by Mediterranean colors.
+title: Superior Room - mountain view - Monte-Carlo Bay Hotel ...
+snippet: Book the Superior Room with mountain view at the Monte-Carlo Bay Hotel &amp; Resort in Monaco. The rooms have a modern style warmed by the Mediterranean colors, the furniture is made of light oak and sandstone floors
+title: Montecarlo Pool and Mountain View! | REMAX Jaco Beach ...
+snippet: Montecarlo Pool and Mountain View! ... This two bedroom luxury Monte Carlo Condo is located right in downtown Jaco beach. The city is also conveniently located 1.5 hours from the Juan Santamaria International Airport in San Jose. Two Bedroom Luxury Condo for Sale in downtown Jaco Beach, Costa Rica!
+title: Noel Torres @ Monte Carlo Nigth Club - YouTube
+snippet: Noel Torres 7-13-2014 Monte Carlo Night Club. Mountain View Ca. Media Coverage By: Juan Sanchez Aka. DJ Whity #MendezEnt #HaziendoRuido.
+title: Monte Carlo in Mountain View - Restaurant menu and reviews
+snippet: All info on Monte Carlo in Mountain View - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Monte Carlo, Mountain View, Mountain View - Urbanspoon/Zomato
+snippet: Monte Carlo Mountain View; Monte Carlo, Mountain View; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Monte Carlo Restaurant on Zomato
+title: Monte Carlo - Wikipedia
+snippet: Monte Carlo has been the setting of many films, books, television shows, and video games. Films. Foolish Wives (1922), although it was filmed in California. To Catch a Thief (1954), an Alfred Hitchcock film with Monte Carlo and its famous casino as the setting and starring Cary Grant and Grace Kelly, the future Princess Grace of Monaco.
+
+REL: 2
+POI Name: Mortar & Pestle Bar
+POI City: San Jose
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Indian, 
+Snippets:
+
+
+REL: 2
+POI Name: Sports Page
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Sports Bars, 
+Snippets:
+title: Silicon Valley San Francisco Bay Area Sports Bar | Sports Page
+snippet: The Sports Page is a San Francisco Bay Area sports bar located in the heart of Silicon Valley next to Century 16 Theaters, just down the road from the Shoreline Amphitheater and right off Highway 101 in Mountain View.
+title: Sports Page - Mountain View, CA - Yelp
+snippet: Sports Page is definitely on my top list of sport bars that along with O&#39;Sullivan&#39;s, Stevie&#39;s and Rookies. See all photos from Phil I. for Sports Page. Useful 10 Funny 4 Cool 8. 3/9/2018 Previous review. What a great sport bar right off 101 near Google&#39;s headquarters in Mountain View where the majority of their customers are from.
+title: The Sports Page Bar &amp; Grill (Mountain View) - 2020 All You ...
+snippet: Mountain View is a very nice place, but there&#39;s not a ton to do in the area. Fortunately, the Sports Page offers an option for those of us who appreciate the potent combination of mozzarellas sticks, light domestic beer, and multiple TV&#39;s all showing sports.
+title: Happy Hour - Review of Sports Page, Mountain View, CA ...
+snippet: Sports Page: Happy Hour - See 8 traveler reviews, candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: Google buys Sports Page site | News | Mountain View Online
+snippet: Posted by Jim Neal a resident of Old Mountain View on Apr 14, 2017 at 2:45 pm Jim Neal is a registered user. I hope that Google will find a way to keep The Sports Page as part of the culture of the North Bayshore.
+title: Exclusive: LinkedIn to buy Mountain View dive bar site ...
+snippet: LinkedIn Corp. is buying the site of Mountain View’s iconic dive bar, the Sports Page, as it assembles more land for its proposed new headquarters.
+title: Sports Page Food &amp; Spirits - Welcome to the Sports Page ...
+snippet: The Sports Page Food &amp; Spirits is your hometown restaurant featuring great food, an atmosphere for whatever you want – family, fun, sports and more – special events, and live music. Mike and Don established the Sports Page in 1987 as a place where friends could get together and watch their favorite sports and enjoy great food.
+title: Keystone Ski and Snowboard Rental - Mountain View Sports
+snippet: Mountain View Sports, Keystone’s premier ski board and bike rental shop, is a family owned and operated business since 1983. Since our beginning, we have strived to give our customers the best service and most top of the line equipment available. To sweeten the deal, our online discounted rates blow the competition away.
+title: Mountain View Sports Fly Shop
+snippet: Alaska&#39;s best fly fishing &amp; outdoor shop, locally owned &amp; operated. Top of the Line Brands: Patagonia, Simms, Arc&#39;teryx, Filson, Sage, Orvis, G Loomis and more. Conveniently located at 11124 OLD SEWARD HWY. ANCHORAGE, AK 99515. Call us at (907) 222-6633!
+title: Mountain View HS / Homepage
+snippet: Mountain View High School Principal: Keith Chaney School Hours: 7:20 - 2:10 2351 Sunny Hill Rd. Lawrenceville, Ga. 30043
+
+REL: 2
+POI Name: Mervyn's Umai Sushi Restaurant & Lounge
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Sushi Bars, 
+Snippets:
+title: Mervyn’s Umai Sushi Restaurant &amp; Lounge - Mountain View, CA
+snippet: 294 reviews of Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge &quot;Teaspoon was easily the best boba on Castro, and now it&#39;s gone. Sad. But as compensation, we instead now have the best sushi on Castro, and arguably the best sushi in south bay. This is Umai…
+title: Mervyn’s Umai Sushi Restaurant &amp; Lounge - Mountain View, CA
+snippet: 294 reviews of Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge &quot;Today was the first time I went to a dive bar. Yes, this place is not seen from Castro Street, but once you see Chef Liu&#39;s (on Castro), the bar is BEHIND it, you just need to walk down the…
+title: Mervyn’s Umai Sushi Restaurant &amp; Lounge - Mountain View, CA
+snippet: 294 reviews of Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge &quot;Cute Japanese restaurant in the heart of downtown Mountain View. Excellent service and fresh food ingredients. I always feel very relaxed when dining at Mervyn&#39;s. This is a place I would love…
+title: Mervyn’s Umai Sushi Restaurant &amp; Lounge - Mountain View, CA
+snippet: 294 reviews of Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge &quot;My favorite description of Mervyns is &quot;it looks like you&#39;re walking into a public pool.&quot; I don&#39;t frequent downtown Mtn View&#39;s bar scene often, but when I do, I go to Mervyns. I love the blue…
+title: Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge - yelp.com
+snippet: 294 reviews of Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge &quot;Hilarious little hole in wall bar that had a better girl to guy ratio then I have seen in a long time. Cheap beers too, about $3 for a Corona if I recall. Sports on muted corner tvs. It is…
+title: Mervyn’s Umai Sushi Restaurant &amp; Lounge - Mountain View, CA
+snippet: 294 reviews of Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge &quot;Really cheap drinks, interesting people watching. Friendly bartenders. It&#39;s my favourite dive bar in Mountain View.&quot;
+title: Mervyn&#39;s / Umai Sushi Restaurant &amp; Lounge Mountain View ...
+snippet: Latest reviews, photos and ??ratings for Mervyn&#39;s / Umai Sushi Restaurant &amp; Lounge at 236 Castro St in Mountain View - ⏰hours, ☎️phone number, ☝address and map.
+title: Umai By Mervyns - Mountain View, CA Restaurant | Menu ...
+snippet: Order online! View menu and reviews for Umai By Mervyns in Mountain View, plus most popular items, reviews. Delivery or takeout, online ordering is easy and FREE with Seamless.com.
+title: Online Menu of Mervyns Umai Sushi Restaurant &amp; Lounge ...
+snippet: View the online menu of Mervyns Umai Sushi Restaurant &amp; Lounge and other restaurants in Mountain View, California. Mervyns Umai Sushi Restaurant &amp; Lounge « Back To Mountain View, CA. Open. 0.57 mi. Dive Bars $$ (650) 938-2968. 236 Castro St, Mountain View, CA 94041. Hours. Mon.
+title: Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge Gift Card ...
+snippet: Buy a Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for Mervyn&#39;s Umai Sushi Restaurant &amp; Lounge, 236 Castro St, Mountain View, CA.
+
+REL: 2
+POI Name: OPAL Nightclub
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Lounges, Cocktail Bars, 
+Snippets:
+title: Opal Nightclub
+snippet: Opal is Silicon Valley&#39;s premier nightclub and event venue. ... OPAL NIGHTCLUB 251 CASTRO STREET MOUNTAIN VIEW , CA . Opal Nightclub. Events. Tour of Opal Nightclub. CONTACT US. Opal Lounge. 251 Castro Street, Mountain View, CA, 94041, United States. 650-318-6732 hello@opalgrp.com. Hours.
+title: Events — Opal Nightclub
+snippet: Opal Nightclub A Night to Remember. UPCOMING EVENTS . Hello loyal &amp; future loyal ... we will also be upgrading a few things inside our venue &amp; coming back with a whole new batch of amazing events. ... Mountain View, CA, 94041, United States. 650-318-6732 hello@opalgrp.com.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Opal Nightclub Guest List Sign up — Opal Nightclub
+snippet: RSVP for our events at Opal Nightclub Mountain view CA
+title: VIP Bottle Service — Opal Nightclub
+snippet: Book our VIP Bottle Service now! All rights reserve to Opal Nightclub Mountain View CA. Opal Nightclub Events VIP Media Private Events Say Hello to Michael Guest List Info Events VIP Media Private Events Say Hello to Michael Guest List Info. Opal Nightclub ...
+title: Venue — Opal Nightclub
+snippet: Opal Nightclub Events VIP Media Private Events Say Hello to Michael Guest List Info Events VIP Media Private Events Say Hello to Michael Guest List Info. Opal Nightclub ... Mountain View, CA, 94041, United States. 650-318-6732 hello@opalgrp.com. Hours. Fri 9:30pm to 2am.
+title: OPAL Nightclub - Mountain View, CA - Yelp
+snippet: 289 reviews of OPAL Nightclub &quot;Came to Opal for my friends birthday and we got a VIP table next to the DJ booth - Rachel was incredible with helping us out that night and Mike was great to work with! Even the DJ gave shout outs for her birthday…
+title: OPAL Nightclub - Mountain View, CA - Yelp
+snippet: 290 reviews of OPAL Nightclub &quot;Hit it again last night for a friend&#39;s b&#39;day party! Looks like they&#39;re now open until 2am after all. Great music system and great crowd but not-so-great DJ! Try harder for the 5th star, folks!&quot;
+title: OPAL Nightclub - Mountain View, CA - Yelp
+snippet: 290 reviews of OPAL Nightclub &quot;I met Mike while celebrating a friend&#39;s birthday a few months ago. Ever since, he&#39;s never failed to provide outstanding service. He is friendly, funny and makes sure that every individual at Opal is having a great…
+title: OPAL Nightclub - Mountain View, CA - Yelp
+snippet: 287 reviews of OPAL Nightclub &quot;I&#39;m reviewing this venue from the perspective of an event organizer. We hosted a couple hundred people here for a mixer, and it was very well-coordinated on the side of the venue. For half an hour of setup, it did…
+
+REL: 2
+POI Name: Alberto's Night Club
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Albertos Salsa NightClub &amp; Ultra Lounge
+snippet: salsa night club, rock en espanol. Downtown Mountain View,CA Salsa NightClub, Bachata, Merengue, Salsa, Rock en Español, Mambo, Tango, Cumbia, Reggaeton Ultra Lounge
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Alberto’s Night Club - Mountain View, CA - Yelp
+snippet: 127 reviews of Alberto&#39;s Night Club &quot;I took David&#39;s weekend Salsa beginners&#39; class series at the studio (four sessions totaling 6 hours) a month ago, and enjoyed every minute of it. I am grateful to David for introducing me to the world of Salsa…
+title: Alberto’s Night Club - Mountain View, CA
+snippet: Alberto&#39;s actually didn&#39;t look like how it does now when I started a year ago. They redecorated the inside with more sofas and better lighting so it&#39;s actually a pretty hip and comfortable club. Also check out Bachata night on Wednesdays, it&#39;s super sexy and more fun than salsa.
+title: Alberto&#39;s Night Club 736 W Dana St Mountain View, CA Night ...
+snippet: Get directions, reviews and information for Alberto&#39;s Night Club in Mountain View, CA. Alberto&#39;s Night Club 736 W Dana St Mountain View CA 94041. 127 Reviews (650) 968-3007 Website. Menu &amp; Reservations ... Alberto&#39;s rests quietly among the bustle of downtown&#39;s shops and restaurants. But, ...
+title: Alberto’s Night Club - Mountain View, CA
+snippet: 125 reviews of Alberto&#39;s Night Club &quot;This place has a nice variety of different things going on different nights of the week. Went on a Saturday and it was dance and then live Spanish-language rock. Had a great time inebriated-ly pretending I…
+title: Alberto&#39;s Night Club (Mountain View) - 2020 All You Need ...
+snippet: You will learn about the history of San Francisco and Bay Area as well as why Silicon Valley is here and how it started.&lt;br&gt;&lt;br&gt;We will pick you from your hotel or residence and take you to Silicon Valley. &lt;br&gt;&lt;br&gt;You will see and make pictures in front of Oracle Campus and Trimaran of Larry Ellison, both Facebook campuses, and Garage where Hewlett and Packard started Silic
+title: Albertos Night Club Mountain View | clubZone
+snippet: Albertos Night Club Mountain View. Info; The palace of Latin dance remains the main spot for salsa, cha cha cha bachata and even tango fans. And for those who wish they could move like that, the club offers plenty of lessons, often with live bands.
+title: Milonga at Alberto&#39;s - Home | Facebook
+snippet: Sunday, Mar. 1 7:00 until Midnight $10 Alberto&#39;s Night Club 736 W. Dana St. Mountain View, CA FB page: Milonga at Albertos This is the profile for an event. A global community of tango dancers, performers, DJs, musicians, organizers, vendors, writers, and teachers. A tango resource for events, music...
+
+REL: 1
+POI Name: Cascal
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Tapas Bars, Spanish, Cocktail Bars, 
+Snippets:
+title: Cascal – Spirited Pan-Latin Cuisine
+snippet: Old World taste meets New World at Cascal. This vibrant restaurant brings together the savory flavors of Spain with the exotic culture of Latin America.
+title: Menu – Cascal
+snippet: See our menu.
+title: Cascal, Mountain View - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Cascal, Mountain View on Tripadvisor: See 592 unbiased reviews of Cascal, rated 4 of 5 on Tripadvisor and ranked #1 of 301 restaurants in Mountain View.
+title: Cascal Restaurant - Mountain View, CA | OpenTable
+snippet: Book now at Cascal in Mountain View, CA. Explore menu, see photos and read 3473 reviews: &quot;This was our first time here and we would definitely come back. We had asked for a quiet table when we booked online - they honored that immediately w...&quot;&quot; Skip to Main Content. Sign up Sign in.
+title: Main Menu – Cascal
+snippet: GF-gluten free TAPAS - SOUPS AND SALADS Brazilian Shrimp &amp; Corn Chowder Coconut milk, shrimp and fresh corn GF 12 Cuban Black Bean Soup With steamed rice, chopped onion, and Oloroso sherry GF 9.5 Heart of Palm Salad Marinated heart of palm, sugar snap peas, avocado, arugula and red onions tossed in a lemon herb vinaigrette GF…
+title: Cascal, Mountain View - Restaurantanmeldelser - Tripadvisor
+snippet: Cascal, Mountain View: Se 592 objektive anmeldelser av Cascal, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 av 301 restauranter i Mountain View.
+title: Reservations – Cascal
+snippet: JOIN US! Groups &amp; Private Parties While we welcome walk-ins, reservations are strongly suggested. Reserve through this page or directly on the OpenTable website for groups of 8 or less. If you want to reserve for a larger group, call us or fill the form below. Make our semi-private room the place for your next…
+title: Our Story – Cascal
+snippet: Cascal’s elegant yet casual atmosphere features a lively interior with an expansive bar and rustic chandeliers to create a vibrant experience. Allow us to take you on a journey through the essence of Spain and Latin America at our location in Downtown Mountain View. Salud!
+title: THE 10 BEST Restaurants Near Cascal in Mountain View, CA ...
+snippet: Restaurants near Cascal, Mountain View on Tripadvisor: Find traveler reviews and candid photos of dining near Cascal in Mountain View, California.
+title: Cascal - Mountain View, CA - Yelp
+snippet: Cascal is the place to come for tapas and Latin American fare in downtown Mountain View! There&#39;s both outdoor seating (perfect during nice weather) and a huge indoor dining room (beautifully decorated), and a very casual and colorful atmosphere throughout.
+
+REL: 1
+POI Name: 7-Eleven
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, Coffee & Tea, 
+Snippets:
+title: 7-Eleven Locations in Mountain View | 7-Eleven
+snippet: 6 Locations in Mountain-view. Filters . Clear all. 1905 LATHAM ST Mountain View, CA 94040-2107. 650-965-3762 Get Directions Visit Store Page. 2640 CALIFORNIA ST Mountain View, CA 94040-1206. ... This site is intended for residents of the U.S. and Canada, excluding Quebec. ©2019 7-Eleven, Inc.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 7-Eleven in Mountain View, CA 94040 - Hours Guide
+snippet: 7-Eleven at 1905 Latham St, Mountain View, CA 94040: store location, business hours, driving direction, map, phone number and other services.
+title: Convenience Store - Review of 7-Eleven, Mountain View, CA ...
+snippet: 7-Eleven: Convenience Store - See traveler reviews, candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: 8 reviews of 7-Eleven &quot;I need milk for my rice krispies and I don&#39;t want to go to Safeway late at night. So off to 7-11 ! Hope I don&#39;t get distracted by a donut.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: Come in to any 7-Eleven store and youll find a broad selection of fresh, high-quality products at an everyday fair price, along with speedy transactions in a clean and friendly shopping environment. Visit your neighborhood 7-Eleven in Mountain View for all your everyday needs This location features: alcohol, atm, ...
+title: 7-Eleven - Convenience Store - Mountain View, California ...
+snippet: 7-Eleven, Mountain View. 51 likes · 1 talking about this · 258 were here. At 7-Eleven, our doors are always open, and our friendly store teams are ready to serve you. Our fresh, fast and convenient...
+title: 7-Eleven locations &amp; hours near Mountain View
+snippet: 7-Eleven - Mountain View. 1951 Old Middlefield Way, Mountain View, CA 94043 (650) 961-5913. 7-Eleven locations &amp; hours near Mountain View. 2 miles. 7-Eleven - Palo Alto. 708 Colorado Ave, Palo Alto, CA 94303 (650) 328-6369. 3 miles. 7-Eleven - Sunnyvale. 1002 W Evelyn Ave, Sunnyvale, CA 94086
+title: 7-Eleven, Mountain View - 2640 California St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, rated 5 of 5 on Tripadvisor and ranked #205 of 300 restaurants in Mountain View.
+title: 7-Eleven, Mountain View - 1905 Latham St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, one of 299 Mountain View restaurants listed on Tripadvisor.
+
+REL: 1
+POI Name: 7-Eleven
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, Coffee & Tea, 
+Snippets:
+title: 7-Eleven Locations in Mountain View | 7-Eleven
+snippet: 6 Locations in Mountain-view. Filters . Clear all. 1905 LATHAM ST Mountain View, CA 94040-2107. 650-965-3762 Get Directions Visit Store Page. 2640 CALIFORNIA ST Mountain View, CA 94040-1206. ... This site is intended for residents of the U.S. and Canada, excluding Quebec. ©2019 7-Eleven, Inc.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 7-Eleven in Mountain View, CA 94040 - Hours Guide
+snippet: 7-Eleven at 1905 Latham St, Mountain View, CA 94040: store location, business hours, driving direction, map, phone number and other services.
+title: Convenience Store - Review of 7-Eleven, Mountain View, CA ...
+snippet: 7-Eleven: Convenience Store - See traveler reviews, candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: 8 reviews of 7-Eleven &quot;I need milk for my rice krispies and I don&#39;t want to go to Safeway late at night. So off to 7-11 ! Hope I don&#39;t get distracted by a donut.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: Come in to any 7-Eleven store and youll find a broad selection of fresh, high-quality products at an everyday fair price, along with speedy transactions in a clean and friendly shopping environment. Visit your neighborhood 7-Eleven in Mountain View for all your everyday needs This location features: alcohol, atm, ...
+title: 7-Eleven - Convenience Store - Mountain View, California ...
+snippet: 7-Eleven, Mountain View. 51 likes · 1 talking about this · 258 were here. At 7-Eleven, our doors are always open, and our friendly store teams are ready to serve you. Our fresh, fast and convenient...
+title: 7-Eleven locations &amp; hours near Mountain View
+snippet: 7-Eleven - Mountain View. 1951 Old Middlefield Way, Mountain View, CA 94043 (650) 961-5913. 7-Eleven locations &amp; hours near Mountain View. 2 miles. 7-Eleven - Palo Alto. 708 Colorado Ave, Palo Alto, CA 94303 (650) 328-6369. 3 miles. 7-Eleven - Sunnyvale. 1002 W Evelyn Ave, Sunnyvale, CA 94086
+title: 7-Eleven, Mountain View - 2640 California St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, rated 5 of 5 on Tripadvisor and ranked #205 of 300 restaurants in Mountain View.
+title: 7-Eleven, Mountain View - 1905 Latham St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, one of 299 Mountain View restaurants listed on Tripadvisor.
+
+REL: 1
+POI Name: EMA Karaoke & Bar
+POI City: Santa Clara
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Karaoke, Cocktail Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Amandine Project
+POI City: Los Altos
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Lounges, 
+Snippets:
+
+
+REL: 1
+POI Name: Racarons
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Desserts, Bakeries, Macarons, 
+Snippets:
+title: Racarons - Racarons
+snippet: Racarons, located in the San Francisco Bay Area (Mid-Peninsula/South Bay), is a pop-up bakery that specializes in making French macarons. Using the best ingredients, like Valrhona White Chocolate and European Style Butter, Racarons produces the best tasting macarons possible.
+title: Racarons - Mountain View, CA - Yelp
+snippet: My husband is not a big fan of macarons but he enjoyed these, so I decided to look into ordering some for his 30th birthday. Elizabeth&#39;s macaron service is so convenient, I ordered 3 dozen with 9 different flavors and she delivered to my door! Delivery in Mountain View is free but to SJ it was $5.
+title: Racarons - Local Business - Mountain View, California ...
+snippet: Racarons, Mountain View. 331 likes. Making macarons using the best ingredients
+title: Racarons in Mountain View | Racarons Mountain View, CA ...
+snippet: Find Racarons in Mountain View with Address, Phone number from Yahoo US Local. Includes Racarons Reviews, maps &amp; directions to Racarons in Mountain View and more from Yahoo US Local. Find Racarons in Mountain View with Address, Phone number from Yahoo US Local.
+title: Racarons Mountain View, CA Dessert Preparations - MapQuest
+snippet: Get directions, reviews and information for Racarons in Mountain View, CA.
+title: Racarons, Mountain View, CA (2020)
+snippet: Making macarons using the best ingredients Racarons, located in the San Francisco Bay Area (Peninsula/South Bay), specializes in making French macarons. Using the best ingredients, like Valrhona White Chocolate and Scharffen Berger Dark Chocolate, Racarons produces the best tasting macarons possible. Our macarons are naturally gluten-free and are handcrafted with love. We make all of our own ...
+title: Photos for Racarons - Yelp
+snippet: Photos at Racarons - Mountain View, CA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: THE BEST Macarons in Mountain View (Updated April 2020 ...
+snippet: Best Macarons in Mountain View, California: Find 148 Tripadvisor traveller reviews of THE BEST Macarons and search by price, location, and more.
+title: Racarons LLC in Mountain View, CA | Company Info &amp; Reviews
+snippet: Racarons LLC is a California Domestic Limited-Liability Company filed on July 27, 2015. The company&#39;s filing status is listed as Active and its File Number is 201521010137. The Registered Agent on file for this company is Elizabeth Pham and is located at 2091 Plymouth St, Mountain View, CA 94043.
+title: Top-Macarons in Mountain View auf Tripadvisor: Hier finden ...
+snippet: Beste/r/s Macarons in Mountain View, Kalifornien: Lesen Sie 148 Tripadvisor-Reisebewertungen zu den besten Macarons und filtern Sie die Suchergebnisse nach Preis, Lage und vielem mehr.
+
+REL: 1
+POI Name: The Vesper
+POI City: Campbell
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, American (New), 
+Snippets:
+
+
+REL: 1
+POI Name: The Don's Deli
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sandwiches, Delis, 
+Snippets:
+title: The Don&#39;s Deli
+snippet: Our goal at The Don’s Deli is to provide an all-inclusive &amp; satisfying meal made with high-quality ingredients, delivered in a variety of pairing combinations available at a reasonable price served quickly and always with a smile.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The Don&#39;s Deli Menu
+snippet: In-Store Menu, Freshly Baked Rolls and Sauce Selection
+title: The DONs Deli - Restaurant | 2105 Old Middlefield Way ...
+snippet: The DONs Deli is a business providing services in the field of Restaurant, . The business is located in 2105 Old Middlefield Way, Mountain View, CA 94043, USA. Their telephone number is +1 650-964-4840.
+title: Photos for The Don&#39;s Deli - Yelp
+snippet: Photos at The Don&#39;s Deli - Mountain View, CA.
+title: The Don&#39;s Deli Catering in Mountain View, CA - Delivery ...
+snippet: Get office catering delivered by The Don&#39;s Deli in Mountain View, CA. Check out the menu, reviews, and on-time delivery ratings. Free online ordering from ezCater.
+title: The Don&#39;s Deli Employment
+snippet: If you could eat one sandwich for the rest of your life what would it be?*
+title: The Don&#39;s Deli - Mountain View menu - Mountain View CA ...
+snippet: Restaurant menu, map for The Don&#39;s Deli - Mountain View located in 94043, Mountain View CA, 2105 Old Middlefield Way.
+title: Don&#39;s Deli - Eatery &amp; Market
+snippet: Don’s Deli is Beaver County’s newest destination to grab a darn good meal and unwind. Our menu is an eclectic blend of classic deli fare, Italian specialties and modern favorites, all made with quality Boar’s Head meats and breads from BreadWorks.
+title: Map &amp; Directions - The Don&#39;s Deli, Mountain View, CA 94043 ...
+snippet: Map of The Don&#39;s Deli - Also see restaurants near The Don&#39;s Deli and other restaurants in Mountain View, CA and Mountain View.
+
+REL: 1
+POI Name: SliderBar
+POI City: Palo Alto
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), Burgers, Beer Bar, 
+Snippets:
+
+
+REL: 1
+POI Name: Restaurant ASA
+POI City: Los Altos
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), Cocktail Bars, Spanish, 
+Snippets:
+
+
+REL: 1
+POI Name: Noodle King
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Noodles, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Photos for Noodle King - Yelp
+snippet: Photos at Noodle King - Mountain View, CA. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Noodle King. Noodle King. 20 reviews Add photos All (63) Food (43) Menu (8) Inside (8) Outside (2) Search photos... 63 photos mention &quot;&quot; Clear. Page 1 of 3 1. 2 3
+title: Noodle King 面香小馆 Mountain View, CA 94041 - 29 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Noodle King 面香小馆 at 841 Villa St in Mountain View - ⏰hours, ☎️phone number, ☝address and map.
+title: THE 10 BEST Noodles in Mountain View (Updated March 2020 ...
+snippet: Best Noodles in Mountain View, California: Find 3,292 Tripadvisor traveller reviews of THE BEST Noodles and search by price, location, and more.
+title: King of Thai Noodles House
+snippet: King of Thai Noodles House Our Chef and Staff. With 20 years of experience cooking in Thai restaurants, our chef is excited to present their vision to you and all our guests. Our caring and committed staff will ensure you have a fantastic experience with us. Special Events and Catering.
+title: CRISPY NOODLES - Review of Hong Kong Bistro, Mountain View ...
+snippet: Hong Kong Bistro: CRISPY NOODLES - See 21 traveler reviews, 12 candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: Chinese noodle around Mountain View? - Restaurants - San ...
+snippet: Read the Chinese noodle around Mountain View? discussion from the Chowhound Restaurants, San Francisco food community. Join the discussion today.
+title: Menus for Luu New Tung Kee Noodle - Mountain View ...
+snippet: Online menus, items, descriptions and prices for Luu New Tung Kee Noodle - Restaurant - Mountain View, CA 94040
+title: Noodle Shops in Mountain View - Urbanspoon/Zomato
+snippet: Menus, Photos, Ratings and Reviews for Noodle Shops in Mountain View - Noodle Shops. Zomato is the best way to discover great places to eat in your city. Our easy-to-use app shows you all the restaurants and nightlife options in your city, along with menus, photos, and reviews.
+title: THE 10 BEST Restaurants in Mountain View - Updated April ...
+snippet: Best Dining in Mountain View, California: See 8,556 Tripadvisor traveler reviews of 317 Mountain View restaurants and search by cuisine, price, location, and more.
+
+REL: 1
+POI Name: 7-Eleven
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, Coffee & Tea, 
+Snippets:
+title: 7-Eleven Locations in Mountain View | 7-Eleven
+snippet: 6 Locations in Mountain-view. Filters . Clear all. 1905 LATHAM ST Mountain View, CA 94040-2107. 650-965-3762 Get Directions Visit Store Page. 2640 CALIFORNIA ST Mountain View, CA 94040-1206. ... This site is intended for residents of the U.S. and Canada, excluding Quebec. ©2019 7-Eleven, Inc.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 7-Eleven in Mountain View, CA 94040 - Hours Guide
+snippet: 7-Eleven at 1905 Latham St, Mountain View, CA 94040: store location, business hours, driving direction, map, phone number and other services.
+title: Convenience Store - Review of 7-Eleven, Mountain View, CA ...
+snippet: 7-Eleven: Convenience Store - See traveler reviews, candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: 8 reviews of 7-Eleven &quot;I need milk for my rice krispies and I don&#39;t want to go to Safeway late at night. So off to 7-11 ! Hope I don&#39;t get distracted by a donut.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: Come in to any 7-Eleven store and youll find a broad selection of fresh, high-quality products at an everyday fair price, along with speedy transactions in a clean and friendly shopping environment. Visit your neighborhood 7-Eleven in Mountain View for all your everyday needs This location features: alcohol, atm, ...
+title: 7-Eleven - Convenience Store - Mountain View, California ...
+snippet: 7-Eleven, Mountain View. 51 likes · 1 talking about this · 258 were here. At 7-Eleven, our doors are always open, and our friendly store teams are ready to serve you. Our fresh, fast and convenient...
+title: 7-Eleven locations &amp; hours near Mountain View
+snippet: 7-Eleven - Mountain View. 1951 Old Middlefield Way, Mountain View, CA 94043 (650) 961-5913. 7-Eleven locations &amp; hours near Mountain View. 2 miles. 7-Eleven - Palo Alto. 708 Colorado Ave, Palo Alto, CA 94303 (650) 328-6369. 3 miles. 7-Eleven - Sunnyvale. 1002 W Evelyn Ave, Sunnyvale, CA 94086
+title: 7-Eleven, Mountain View - 2640 California St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, rated 5 of 5 on Tripadvisor and ranked #205 of 300 restaurants in Mountain View.
+title: 7-Eleven, Mountain View - 1905 Latham St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, one of 299 Mountain View restaurants listed on Tripadvisor.
+
+REL: 1
+POI Name: 7-Eleven
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, Coffee & Tea, 
+Snippets:
+title: 7-Eleven Locations in Mountain View | 7-Eleven
+snippet: 6 Locations in Mountain-view. Filters . Clear all. 1905 LATHAM ST Mountain View, CA 94040-2107. 650-965-3762 Get Directions Visit Store Page. 2640 CALIFORNIA ST Mountain View, CA 94040-1206. ... This site is intended for residents of the U.S. and Canada, excluding Quebec. ©2019 7-Eleven, Inc.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 7-Eleven in Mountain View, CA 94040 - Hours Guide
+snippet: 7-Eleven at 1905 Latham St, Mountain View, CA 94040: store location, business hours, driving direction, map, phone number and other services.
+title: Convenience Store - Review of 7-Eleven, Mountain View, CA ...
+snippet: 7-Eleven: Convenience Store - See traveler reviews, candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: 8 reviews of 7-Eleven &quot;I need milk for my rice krispies and I don&#39;t want to go to Safeway late at night. So off to 7-11 ! Hope I don&#39;t get distracted by a donut.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: Come in to any 7-Eleven store and youll find a broad selection of fresh, high-quality products at an everyday fair price, along with speedy transactions in a clean and friendly shopping environment. Visit your neighborhood 7-Eleven in Mountain View for all your everyday needs This location features: alcohol, atm, ...
+title: 7-Eleven - Convenience Store - Mountain View, California ...
+snippet: 7-Eleven, Mountain View. 51 likes · 1 talking about this · 258 were here. At 7-Eleven, our doors are always open, and our friendly store teams are ready to serve you. Our fresh, fast and convenient...
+title: 7-Eleven locations &amp; hours near Mountain View
+snippet: 7-Eleven - Mountain View. 1951 Old Middlefield Way, Mountain View, CA 94043 (650) 961-5913. 7-Eleven locations &amp; hours near Mountain View. 2 miles. 7-Eleven - Palo Alto. 708 Colorado Ave, Palo Alto, CA 94303 (650) 328-6369. 3 miles. 7-Eleven - Sunnyvale. 1002 W Evelyn Ave, Sunnyvale, CA 94086
+title: 7-Eleven, Mountain View - 2640 California St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, rated 5 of 5 on Tripadvisor and ranked #205 of 300 restaurants in Mountain View.
+title: 7-Eleven, Mountain View - 1905 Latham St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, one of 299 Mountain View restaurants listed on Tripadvisor.
+
+REL: 1
+POI Name: Eat On Monday
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Food Trucks, Caterers, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Photos for Eat On Monday - Yelp
+snippet: Photos at Eat On Monday - Mountain View, CA. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Eat On Monday. Eat On Monday. 173 reviews Add photos Search photos... 349 photos mention &quot;&quot; Clear. Page 1 of ...
+title: Eat On Monday Truck Coupons - [] Mountain View, CA
+snippet: $10 off Eat On Monday Truck Coupons and online discounts in Mountain View. Coupons for Eat On Monday Truck and it is a Sandwiches restaurant with a location at [] in Mountain View, CA 94041.
+title: Eat On Monday Gift Cards and Gift Certificates - Mountain ...
+snippet: Buy a gift card to Eat On Monday. Send it online to anyone, instantly. Eat On Monday - Mountain View, CA 94041 - Mountain View, CA
+title: Xanh Restaurant, Mountain View - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Xanh Restaurant, Mountain View with Tripadvisor: See 239 unbiased reviews of Xanh Restaurant, ranked #6 on Tripadvisor among 302 restaurants in Mountain View.
+title: Eat On Monday Truck | Food Trucks In Mountain View CA
+snippet: Buy or Sell a Food Truck, Trailer, Cart, or Stand 01 Feb 2018. You can buy or sell mobile food units on FoodTrucksIn.com. Browse our listings of food trucks, carts, stands, and trailers for sale.
+title: Online Menu of Eat On Monday Restaurant, Mountain View ...
+snippet: View the online menu of Eat On Monday and other restaurants in Mountain View, California.
+title: Sushi Tomi, Mountain View - Menu, Prices &amp; Restaurant ...
+snippet: Sushi Tomi, Mountain View: See 143 unbiased reviews of Sushi Tomi, rated 4.5 of 5 on Tripadvisor and ranked #3 of 302 restaurants in Mountain View.
+title: monday night treat - Review of Mountain View Pub ...
+snippet: Mountain View Pub &amp; Restaurant: monday night treat - See 126 traveler reviews, 16 candid photos, and great deals for Mochdre, UK, at TripAdvisor.
+title: THE 10 BEST Restaurants in Mountain View - Updated April ...
+snippet: Best Dining in Mountain View, California: See 8,556 Tripadvisor traveler reviews of 317 Mountain View restaurants and search by cuisine, price, location, and more.
+
+REL: 1
+POI Name: Flights Restaurant by Alex Hult - Mountain View
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Comfort Food, Tapas/Small Plates, 
+Snippets:
+title: Reservations | FLIGHTS Restaurant
+snippet: Flights Restaurant By Alex Hult - Mountain View. 800 California Street Suite 100 Mountain View, CA 94041 (650) 386-6424 Facebook. Nations First &quot;No Touch Drive Thru&quot; Grocery Store! Flights Family Market Is Open Noon-7pm Daily. No Pre Orders. More. Send a &quot;Care Pack&quot; to someone ...
+title: Flights Restaurant by Alex Hult - Mountain View ...
+snippet: Make online reservations, find open tables, view photos and restaurant information for Flights Restaurant by Alex Hult - Mountain View. Flights is triple the fun! Specializing in serving food and drinks in flights of 3’s. Imagine your favorite drink served in three fun unique flavors and presentations. Comfort food, vegan options, awarded happy hour and an incredible cocktail program makes ...
+title: Home | Flights
+snippet: Welcome to FLIGHTS! Visit us in Las Vegas, NV and Northern California for high quality comfort food meant to be shared. We&#39;re focused on making dining fun by creating shareable plates with unique flavors.
+title: Photos for Flights Restaurant by Alex Hult - Mountain View ...
+snippet: Photos at Flights Restaurant by Alex Hult - Mountain View - Mountain View, CA.
+title: Flights Restaurant by Alex Hult - Mountain View ...
+snippet: Make a restaurant reservation at Flights Restaurant by Alex Hult - Mountain View in Mountain View, CA. Select date, time, and party size to find a table.
+title: Flights Restaurant by Alex Hult - Mountain View - Health ...
+snippet: Public health inspections data for Flights Restaurant by Alex Hult - Mountain View in San Francisco, CA. Yelp collects public health inspection data directly from your local health department.
+title: Flights Restaurant by Alex Hult - Mountain View - Mountain ...
+snippet: FLIGHTS was founded with FUN in mind. Restaurantuer, Alex Hult, and his wife, Sarah Hult, created this concept on a vacation to Hawaii in search of the perfect flight of cocktails. FLIGHTS is a comfort food tapas style restaurant with an incredible cocktail program. Everything on our menu is served as a trio of three different flavors including food, cocktails, wine, beer and even desserts ...
+title: Flights Restaurant by Alex Hult - Mountain View
+snippet: View the online menu of Flights Restaurant by Alex Hult - Mountain View and other restaurants in Mountain View, California.
+title: Flights to replace Shiva&#39;s in Mountain View | Peninsula ...
+snippet: Flights owner Alex Hult opened the first tapas-style restaurant in Campbell last year, then in Los Gatos and Burlingame and now, in downtown Mountain View. Hult has taken over 800 California St ...
+title: Flights opens at the Miracle Mile Shops this summer ...
+snippet: Comfort food served tapas style will land on the Strip this summer when West Coast restaurant Flights debuts inside the Miracle Mile Shops.. Created by restaurateurs Alex and Sarah Hult, the ...
+
+REL: 1
+POI Name: Molly MaGees
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Irish Pub, 
+Snippets:
+title: Molly Magees Irish Pub | Mountain View CA
+snippet: Molly Magees is located in downtown Mountain View on lively Castro Street, just blocks from the Caltrain Station. This authentic Irish Pub is the perfect place to stop for a pint and relaxation with friends.
+title: Molly Magees (Mountain View) - 2020 All You Need to Know ...
+snippet: You will learn about the history of San Francisco and Bay Area as well as why Silicon Valley is here and how it started.&lt;br&gt;&lt;br&gt;We will pick you from your hotel or residence and take you to Silicon Valley. &lt;br&gt;&lt;br&gt;You will see and make pictures in front of Oracle Campus and Trimaran of Larry Ellison, both Facebook campuses, and Garage where Hewlett and Packard started Silic
+title: Menu | Molly Magees Irish Pub | Mountain View CA
+snippet: part a: beer menu ***** part b: whiskey menu (irish, scotch, &amp; japanese) whiskey wednesdays half price on selected whiskeys ***** part c: north american whiskey menu
+title: Molly MaGees - Mountain View, CA - Yelp
+snippet: Time tested, Molly MaGees has been part of Mountain View for quite some time, lots of locals stop in, lots of new people show up as well. It has become a sort of default place to go when out in Mountain View for the night on a Thu/Fri/Sat eve.
+title: Molly MaGees - Mountain View, CA - Yelp
+snippet: For Mountain Views small selection of night life, Molly Magees gets the job done. Usually pretty quiet, so if you&#39;re looking for a place to chat over a few beers this could be your spot. I was turned off by my last visit this week, however, when the only bartender working was extremely rude to another patron and myself.
+title: Molly MaGees - Mountain View, CA - Yelp
+snippet: Molly MaGees has been around for ages! And you can see (and smell might I add) as soon as you get inside the bar. It is somewhat the same layout as the bars I used to hang out in Dublin, Ireland (only more old men and smell of beer).
+title: Molly MaGees 241 Castro St Mountain View, CA Night Clubs ...
+snippet: &lt;p&gt;Molly Magees is a great place to relax and grab a drink after work. The restaurant has a wide selection of imported and domestic beer, wine and spirits.&amp;nbsp;The menu features a few appetizers and entrees, and food is served until 9:30pm daily.
+title: Molly MaGees - Mountain View, CA - Yelp
+snippet: 488 reviews of Molly MaGees &quot;My default place to go to in Mountain View. Drinks are decently priced, and they have a nice selection of beers. I have to say though, out of all the places I&#39;ve been to in MV, Molly&#39;s definitely has the best…
+title: Molly Magees - Mountain View, California - Bar, Dance ...
+snippet: In keeping with the spirit of Super Bowl weekend. We are excited to announce ,for the 2014 football season , Cecil&#39;s Smokin BBQ will be serving our award winning food every Sunday @ Molly Magees Irish pub. Located in the heart of downtown Mt.View on Castro St.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+
+REL: 1
+POI Name: Fairchilds Public House
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), Venues & Event Spaces, Bars, 
+Snippets:
+title: Fairchilds Public House - Restaurant &amp; Bar in Mountain View
+snippet: A one-of-a-kind restaurant and bar in the heart of Mountain View, Fairchilds serving up locally sourced California cuisine and pouring regional beer, wine and spirits. Indoor and outdoor spaces include a lively bar, cozy lounge, fresh-air veranda with fire pit and a group dining room as well as a 2nd-level terrace with views of the Santa Cruz mountains.
+title: Our Location | Fairchilds Public House | Mountain View CA
+snippet: Fairchilds Public House is a one-of-a-kind restaurant/bar at Hyatt Centric Mountain View. Located at 409 San Antonio Road in Mountain View’s Village at San Antonio Center, Fairchilds is part of a vibrant dining-and-entertainment destination in Silicon Valley that&#39;s close to top technology companies, world-class museums and popular regional attractions.
+title: Fairchilds Public House - Home - Mountain View, California ...
+snippet: Fairchilds Public House. 141 likes · 53 talking about this · 224 were here. This one-of-a-kind restaurant/bar in Mountain View CA serves locally sourced California cuisine along with regional craft...
+title: Fairchilds Public House Restaurant - Mountain View, CA ...
+snippet: Located in the Hyatt Centric Hotel in Mountain View, Fairchilds Public House is a terrific place for lunch or dinner. As a new restaurant, there are minor wrinkles that will be worked out but overall it is a lovely atmosphere and beautifully presented food that will please most people&#39;s preferences.
+title: Book Your Event | Fairchilds Public House | Silicon Valley ...
+snippet: EVENTS &amp; PARTIES. Upgrade your Silicon Valley events with a social-centric point of view. Fairchilds Public House is the perfect setting for your gatherings in three great settings – the open-air veranda with firepit, the cozy library lounge, and the group dining room.
+title: Fairchilds Public House - Restaurant | 409 San Antonio Rd ...
+snippet: Fairchilds Public House is a business providing services in the field of Restaurant, . The business is located in 409 San Antonio Rd, Mountain View, CA 94040, USA. Their telephone number is +1 650-966-6949.
+title: Make a Reservation | Fairchilds Public House | Social ...
+snippet: Walk-ins are always welcome at Fairchilds Public House; parties of up to 8 people may make reservations online for seating on the fresh-air veranda, in the library lounge, or in the dining room. To request information on small group dinners or to book event space such as View on 2 or the Cloud Ballroom, please email info@fairchildspublichouse.com.
+title: Fairchilds Public House Mountain View, CA 94040 - 28 ...
+snippet: Latest reviews, photos and ??ratings for Fairchilds Public House at 409 San Antonio Rd in Mountain View - ⏰hours, ☎️phone number, ☝address and map.
+title: Hyatt Centric Mountain View onsite restaurant and bar ...
+snippet: Fairchilds Public House, the onsite restaurant and bar serves as the central gathering place for guests and locals alike. Based on locally-sourced ingredients, the diverse menu serves up favorite fare with a California twist. Open daily for breakfast, lunch, dinner and happy hour, Fairchilds Public House is the perfect spot for a meal or event.
+title: Food and Beverage Menu | Fairchilds Public House
+snippet: Enjoy fresh, locally sourced California cuisine along with regional beer, wine and cocktails in a social-centric atmosphere. This Mountain View restaurant/bar offers a variety of seating, both inside and out, including a lively bar, cozy lounge, fresh-air veranda and 2nd-level terrace with views of the Santa Cruz Mountains.
+
+REL: 1
+POI Name: Lobby Lounge
+POI City: Mountain View
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Nightlife, American (New), Cinema, 
+Snippets:
+title: Showplace Icon Theatres
+snippet: Showplace Icon Theatres Lobby Lounge Select a menu Boston Chicago Minneapolis Mountain View Santa Clara Valley Fair Mall Tysons The LoBBY LOUNGE is located upstairs, or adjacent to our VIP Premium auditoriums.
+title: Lobby Lounge - Mountain View, CA - Yelp
+snippet: 1 review of Lobby Lounge &quot;Tucked away past the the Take 2 dining in the VIP lounge (which serves popcorn, flatbreads, beer and wine) is a full-service restaurant. It&#39;s easy to miss. I ordered nachos at Take 2 before I realized that a full…
+title: Photos for Lobby Lounge - Yelp
+snippet: Photos at Lobby Lounge - Mountain View, CA. Yelp. Cancel
+title: Lobby Lounge 2575 California St Mountain View, CA Night ...
+snippet: Get directions, reviews and information for Lobby Lounge in Mountain View, CA. Lobby Lounge 2575 California St Mountain View CA 94040. 1 Reviews (650) 695-1190 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Lobby Lounge in Mountain View | Lobby Lounge 2575 ...
+snippet: Find Lobby Lounge in Mountain View with Address, Phone number from Yahoo US Local. Includes Lobby Lounge Reviews, maps &amp; directions to Lobby Lounge in Mountain View and more from Yahoo US Local. Find Lobby Lounge in Mountain View with Address, Phone number from Yahoo US Local.
+title: lobby lounge - Picture of Mountain View Grand Resort &amp; Spa ...
+snippet: Mountain View Grand Resort &amp; Spa, Whitefield Picture: lobby lounge - Check out Tripadvisor members&#39; 1,665 candid photos and videos of Mountain View Grand Resort &amp; Spa
+title: 441 Lobby jobs in Mountain View, California, United States ...
+snippet: Today&#39;s top 441 Lobby jobs in Mountain View, California, United States. Leverage your professional network, and get hired. New Lobby jobs added daily.
+title: Lobby Lounge Gift Card - Mountain View, CA | Giftly
+snippet: Buy a Lobby Lounge gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for Lobby Lounge, 2575 California St, Mountain View, CA.
+title: Mountain View Lobby - Northern Arizona University - 63 ...
+snippet: 63 visitors have checked in at Mountain View Lobby. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hotel Review: Fairmont Pacific Rim (Signature Harbour ...
+snippet: The Fairmont Pacific Rim is my favourite hotel in Vancouver, and certainly in ... as it tends to get quite noisy at times. The Lobby Lounge is a Vancouver hotspot and gets very busy at night. The lobby was busy on arrival, although ... They welcomed us back and happily informed us we had been upgraded to a Signature Harbour Mountain View Room.
+
+REL: 0
+POI Name: Comedy Fest
+POI City: Mountain View
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: Comedy Fest - Mountain View, CA - Yelp
+snippet: 1 review of Comedy Fest &quot;Comedy Fest was held on Sept. 20, 2015 at the Shoreline Amphitheater in Mountain View. They opened the doors at 4:30PM and had a DJ start playing music at 6PM. The actual show started at 7PM. *~Lineup~* (Taken from…
+title: DESI COMEDY FEST
+snippet: WHAT: Desi Comedy Fest is the largest South Asian comedy festival in America. Desi, pronounced as “They- See”, is a loose term for the cultures and products of South Asia and their diaspora, derived from the Ancient Sanskrit देश (deśá or deshi), meaning Land or Country.
+title: Comedy Fest 1 Amphitheatre Pkwy Mountain View, CA ...
+snippet: Comedy Fest was held on Sept. 20, 2015 at the Shoreline Amphitheater in Mountain View. They opened the doors at 4:30PM and had a DJ start playing music at 6PM.
+title: Comedy Fest in Mountain View | Comedy Fest 1 Amphitheatre ...
+snippet: Find Comedy Fest in Mountain View with Address, Phone number from Yahoo US Local. Includes Comedy Fest Reviews, maps &amp; directions to Comedy Fest in Mountain View and more from Yahoo US Local. Find Comedy Fest in Mountain View with Address, Phone number from Yahoo US Local.
+title: MOUNTAIN VIEW CENTER FOR THE PERFORMING ARTS (MOUNTAIN ...
+snippet: buy tickets ($30 online / $40 door)
+title: Comedy Fest Mountain View Tickets - 2017 Comedy Fest ...
+snippet: Comedy Fest Mountain View 2017 - See it Before it&#39;s sold out! Probably you are in Mountain View or anywhere all over US, and seeking cheapest tickets for Comedy Fest Mountain View forthcoming concerts, you just look up concert calendar and opt for your ideal seats taking in consideration for Shoreline Amphitheatre performances.
+title: Comedy Fest Shoreline Amphitheatre - CA Mountain View Tickets
+snippet: TonsOfTickets provides all the best Comedy Fest Shoreline Amphitheatre - CA tickets at low prices. Our ticket inventory for Comedy Fest in Shoreline Amphitheatre - CA is updated by the minute and can be purchased by clicking the “Buy” button for any of the dates above.
+title: Mountain View, CA Beer Festival Events | Eventbrite
+snippet: Lining up plans in Mountain View? Whether you&#39;re a local, new in town, ... Save 2nd Annual Beer Mitzvah - Fest Celebrating Craft Beer Coming of Age to your collection. Sat, May 16, ... Share FDR Brewing Comedy Showcase: Free Comedy in the Brewery with your friends.
+title: Comedy Fest feat. Dave Chappelle, Chris Tucker and Tom ...
+snippet: Comedy Fest Concert Tickets. Comedy Fest feat. Dave Chappelle, Chris Tucker and Tom Segura in Mountain View Concert Tickets
+
+REL: 0
+POI Name: Doron Yoga
+POI City: Mountain View
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Doron Yoga - Mountain View, CA - Yelp
+snippet: 15 reviews of Doron Yoga &quot;Doron is an absolutely fantastic teacher. He is intuitive, compassionate, fun, humble and very well-educated and well-practiced -- a true teacher of teachers. His classes are joyful and challenging, and leave room for…
+title: Doron Yoga - Yoga Studio in Mountain View
+snippet: Doron Yoga is a Studio in Mountain View. For complete schedule information, upcoming events and the latest updates, follow Doron Yoga on YogaTrail!
+title: Doron Yoga 509 Sierra Vista Ave Ste 6 Mountain View, CA ...
+snippet: Get directions, reviews and information for Doron Yoga in Mountain View, CA. Doron Yoga 509 Sierra Vista Ave Ste 6 Mountain View CA 94043. 15 Reviews (917) 658-0423 Website. ... Before class begins, Doron warmly greets all of his students, taking note of ...
+title: Doron Yoga in Mountain View | Doron Yoga 509 Sierra Vista ...
+snippet: Find Doron Yoga in Mountain View with Address, Phone number from Yahoo US Local. Includes Doron Yoga Reviews, maps &amp; directions to Doron Yoga in Mountain View and more from Yahoo US Local
+title: Photos for Doron Yoga - Yelp
+snippet: Photos at Doron Yoga - Mountain View, CA. Yelp. Cancel
+title: Doron Yoga - Mountain View, CA | Groupon
+snippet: Whether you&#39;re an experienced yogi or new to the practice, Doron Yoga in Mountain View has classes for every level. Load up the mini-van and bring the kids to this studio ? they&#39;ll love the scene here as much as mom and dad. Shower, anyone? For one of the toughest workouts in town, be sure to check out Doron Yoga&#39;s hot yoga.Easy parking is accessible for Doron Yoga&#39;s customers. If
+title: Doron Yoga Gift Cards and Gift Certificates - Mountain ...
+snippet: Buy a gift card to Doron Yoga. Send it online to anyone, instantly. Doron Yoga - 509 Sierra Vista Ave - Mountain View, CA
+title: Dancer at Esalen in Big Sur - Yelp
+snippet: Photo of Doron Yoga - &quot;Dancer at Esalen in Big Sur&quot; - Mountain View, CA
+title: Four Yoga Retreats In The US - Doron Yoga
+snippet: 4 Yoga Retreats In the U.S. Sometimes the need to get away overwhelms us. Yoga and meditation at home can be part of your beautiful, unique, everyday journey. But if you desire to go deeper and find solitude in nature – and you’re feeling that urge to get away – a yoga retreat center can […]
+title: Doron Yoga - The practical way to bliss.
+snippet: Doron Yoga™ is a holistic yoga approach that offers practical tools for total health and happiness to live a spiritual life within the modern world. Non dogmatic, full of love and laughter. Ninja Body with a Zen Mind, creating both physical and mental balance on and off the mat.
+
+REL: 0
+POI Name: Rumble Fish
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, Sushi Bars, Cocktail Bars, 
+Snippets:
+title: Rumble Fish in Mountain View, Ca
+snippet: Come and visit Rumble Fish in Mountain View for the Freshest and Tastiest Sushi Experience
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Sushi - Rumble Fish - Mountain View, Ca
+snippet: Come visit us at Rumble Fish for the best sushi experience in Mountain View!
+title: Rumble Fish in Mountain View, Ca
+snippet: Thank you for your inquiry about dining with Rumble Fish, proudly setting the gold standard for fine dining in our community. Our guests rightfully expect the finest in luxury and sophistication, delivered by experienced fine dining professionals. ... Mountain View, CA 94041 ...
+title: Rumble Fish - Mountain View, CA - Yelp
+snippet: Rumble fish is our go to sushi place when we know Sushi Tomi is going to be too busy. Here&#39;s the thing about Rumble fish: it isn&#39;t bad! But it&#39;s just not as good as Tomi. And unfortunately, they are even as expensive as Tomi too. I guess that&#39;s to ve expected for a restaurant that&#39;s directly on Castro street.
+title: Rumble Fish | Mountain View, CA 94041 | Location
+snippet: View on map and get directions to our exceptional restaurant near Mountain View, CA
+title: Rumble Fish | Mountain View, CA 94041 | Menu
+snippet: Food Takeout from Rumble Fish, best Asian Fusion, Japanese, Sushi Takeout in Mountain View, CA
+title: Rumble Fish Japanese Restaurant, Mountain View - Photos ...
+snippet: Mountain View doesnt have that much liveliness compared to nearby Palo Alto, but Rumble fish does alright. Good poke bowl (no rice, which is excellent), and perfectly fine nigiri (I had the salmon and tuna, especially tuna was good).
+title: Rumble Fish | Mountain View, CA 94041 | About Us
+snippet: About Us. Rumble Fish offers delicious dining and takeout to Mountain View, CA. Rumble Fish is a cornerstone in the Mountain View community and has been recognized for its outstanding Sushi cuisine, excellent service and friendly staff.
+title: Rumble Fish - Mountain View, CA - Yelp
+snippet: Rumble fish is my new favorite fish. First off the sushi is amazing Second off it&#39;s in that shopping plaza of Mountain View where people go to live the most posh life they can live Third off they actually have house made hot sauce that is actually hot.
+
+REL: 0
+POI Name: The Counter Mountain View
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+title: The Counter, Mountain View - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at The Counter, Mountain View with Tripadvisor: See 88 unbiased reviews of The Counter, ranked #40 on Tripadvisor among 300 restaurants in Mountain View.
+title: Burger Restaurant - Mountain View CA 94040 The Counter 32033
+snippet: The Counter Restaurant Burgers 32033 - Mountain View CA 94040
+title: The Counter, Mountain View - Restaurantanmeldelser ...
+snippet: The Counter, Mountain View: Se 90 objektive anmeldelser av The Counter, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 39 av 300 restauranter i Mountain View.
+title: The Counter - Home - Mountain View, California - Menu ...
+snippet: The Counter, Mountain View, CA. 3.7K likes. Anti-Established in 2003, The Counter is the 21st century’s bold answer to the classic burger joint. The team at The Counter strive to provide friendly,...
+title: Menus for The Counter Mountain View - Mountain View ...
+snippet: The team at The Counter strive to provide friendly, dependable service to make sure that you have a high quality experience with us. Step into The Counter and you’re greeted with a clipboard and an extensive list of fresh mouth-watering ingredients that allow you to build your own gourmet burger. Our 312,120+ different burger combinations make every burger as unique as each customer.
+title: The Counter Mountain View Menu - Mountain View, CA
+snippet: Menu, hours, photos, and more for The Counter Mountain View located at 2580 W El Camino Real, Mountain View, CA, 94040-1308, offering American, Dinner, Salads, Sandwiches, Hamburgers and Lunch Specials. Order online from The Counter Mountain View on MenuPages. Delivery or takeout ...
+title: The Counter Mountain View Mountain View, CA 94040 - Menu ...
+snippet: Latest reviews, photos and ??ratings for The Counter Mountain View at 2580 W El Camino Real in Mountain View - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: The Counter Mountain View 2580 W El Camino Real Mountain ...
+snippet: Get directions, reviews and information for The Counter Mountain View in Mountain View, CA. The Counter Mountain View 2580 W El Camino Real Mountain View CA 94040. 691 Reviews (650) 948-2333 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets ...
+title: The Counter Mountain View - Mountain View, CA - Untappd
+snippet: Find out what&#39;s popular at The Counter Mountain View in Mountain View, CA in real-time and see activity
+title: Photos for The Counter Mountain View - Yelp
+snippet: Photos at The Counter Mountain View - Mountain View, CA.
+
+REL: 0
+POI Name: Kên Wellness
+POI City: Mountain View
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Acupuncture, Traditional Chinese Medicine, Qi Gong, 
+Snippets:
+title: Kên Wellness 2044 Old Middlefield Way Ste 5 Mountain View ...
+snippet: Get directions, reviews and information for Kên Wellness in Mountain View, CA. Kên Wellness 2044 Old Middlefield Way Ste 5 Mountain View CA 94043. 5 Reviews (650) 383-7931 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Wellness in Mountain View, CA - Ask for free quotes
+snippet: Results for Wellness in Mountain View, CA. Get free custom quotes, customer reviews, prices, contact details, opening hours from Mountain View, CA based businesses with Wellness keyword.
+title: Kên Wellness - Mountain View, CA - Alignable
+snippet: Do local business owners recommend Kên Wellness? Visit this page to learn about the business and what locals in Mountain View have to say.
+title: Ken Liu, M.D., OBGYN in Mountain View, CA - Wellness.com
+snippet: Services Ken Liu, M.D., offers OBGYN services in Mountain View, CA at 2485 Hospital Dr Ste 260, Mountain View, CA 94040. Obstetricians &amp; Gynecologists (OBGYN) specialize in female reproductive health issues as well as gynecological health issues. To learn more about OBGYN services, or to make an appointment with Ken Liu, M.D., in Mountain View, CA, please call (650) 988-7588.
+title: Home - Mountain View Healthcare Center
+snippet: A Tradition of Excellence and Commitment Mountain View Healthcare Center is a skilled nursing home and rehabilitation facility that presents an atmosphere that is calm and comfortable. We are a trusted partner because we listen to your needs, understand the life you want for yourself or your loved one, and create a care plan and... Read more »
+title: Kenneth Schwaderer, O.D., F.A.A.O. is an ... - Wellness.com
+snippet: Services Kenneth Schwaderer, O.D., F.A.A.O. practices in Mountain View, CA. Optometrists offer services which typically include the examination and treatment of common vision disorders as well as the fitting and prescription of corrective eye glasses.
+title: What are people saying about Mountain View Wellness ...
+snippet: Read about what people think about their experiences at Mountain View Wellness, our classe, our teachers, our calm and serene space, our supportive and welcoming community.
+title: MOUNTAIN VIEW WELLNESS COMPLEX - Prices &amp; Hotel Reviews ...
+snippet: Book Mountain View Wellness Complex, Yabalkovets on Tripadvisor: See 6 traveler reviews, 22 candid photos, and great deals for Mountain View Wellness Complex, ranked #1 of 1 hotel in Yabalkovets and rated 3 of 5 at Tripadvisor.
+title: Staff – Mountain View Church
+snippet: Ken loves being the campus pastor at Mountain View Church Sunnyside and leading a church that makes Jesus look good. He is lucky to be married to Anna and they have three kids. Ken is a graduate of Mennonite Brethren Biblical Seminary with an M Div degree and Fresno Pacific University with a BA in contemporary Christian ministries.
+title: Kin Folks, Mountain View - Restaurant Reviews, Photos ...
+snippet: Kin Folks, Mountain View: See 96 unbiased reviews of Kin Folks, rated 4 of 5 on Tripadvisor and ranked #7 of 20 restaurants in Mountain View.
+
+REL: 0
+POI Name: Mountain View Tea Village
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Mountain View Tea Village &amp; Gallery - Mountain View, CA
+snippet: Mountain View Tea Village &amp; Gallery, Food business in Mountain View. See up-to-date pricelists and view recent announcements for this location.
+title: Mountain View Tea Village – Ratings &amp; Reviews, Locations ...
+snippet: ↑About Mountain View Tea Village. Mountain View Tea Village is a tea shop located in Mountain View, CA, and owned by Steven and Ann Chien. Mountain View Tea Village exclusively sells loose-leaf, whole leaf tea from Taiwan.In addition to selling tea in their store, the company sells loose-leaf tea online through their website as well.
+title: Mountain View Tea Village 275 Castro St Mountain View, CA ...
+snippet: &lt;p&gt;Mountain View Tea Village is a tea shop located on Castro Street in downtown Mountain View. This family owned and operated business carries a wide variety of teas from Taiwan. Steven and Ann, owners, make several trips to Taiwan annually to get the best tasting and highest quality teas.
+title: Mountain View Tea Village - Community | Facebook
+snippet: Mountain View Tea Village - 361 Castro St, Mountain View, California 94041 - Rated 5 based on 4 Reviews &quot;I recently took up tea as a semi-serious hobby,...
+title: Mountain View Tee Times - Mercer Oaks
+snippet: Mountain View Tee Times Sorry – your browser does not support iframes.
+title: Mountain View Tea Village - TeaMap
+snippet: This is a shop for buying loose-leaf Chinese tea: in other words, you cannot buy a cup of tea or any food here, you cannot sit in the shop and drink a cup of tea, and there are very few, if any, flavored tea blends. However, if you want the kind of teas that Chinese people drink at home, this is a good place to go.
+title: Mountain View Tea Village, GALLERY NO. 275 CASTRO ST ...
+snippet: Mountain View Tea Village at GALLERY NO. 275 CASTRO ST. MOUNTAIN VIEW CA 94041 U.S.A. Find their customers, contact information, and details on 15 shipments.
+title: Mountain View Tea Village And - Mountain View, CA ...
+snippet: Order online! View menu and reviews for Mountain View Tea Village And in Mountain View, plus most popular items, reviews. Delivery or takeout, online ordering is easy and FREE with Seamless.com.
+title: Mountain View Tea Village 275 Castro St, Mountain View, CA ...
+snippet: Get reviews, hours, directions, coupons and more for Mountain View Tea Village. Search for other Tea Rooms on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Mountain View Tea Village at 275 Castro St, Mountain View, CA 94041. Search for other Tea Rooms in Mountain View on The Real Yellow Pages®.
+
+REL: 0
+POI Name: 10 Butchers Korean BBQ
+POI City: Sunnyvale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Barbeque, Wine Bars, 
+Snippets:
+
+
+REL: 0
+POI Name: Timber & Salt
+POI City: Redwood City
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, American (New), 
+Snippets:
+
+
+REL: 0
+POI Name: 7-Eleven
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, Coffee & Tea, 
+Snippets:
+title: 7-Eleven Locations in Mountain View | 7-Eleven
+snippet: 6 Locations in Mountain-view. Filters . Clear all. 1905 LATHAM ST Mountain View, CA 94040-2107. 650-965-3762 Get Directions Visit Store Page. 2640 CALIFORNIA ST Mountain View, CA 94040-1206. ... This site is intended for residents of the U.S. and Canada, excluding Quebec. ©2019 7-Eleven, Inc.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 7-Eleven in Mountain View, CA 94040 - Hours Guide
+snippet: 7-Eleven at 1905 Latham St, Mountain View, CA 94040: store location, business hours, driving direction, map, phone number and other services.
+title: Convenience Store - Review of 7-Eleven, Mountain View, CA ...
+snippet: 7-Eleven: Convenience Store - See traveler reviews, candid photos, and great deals for Mountain View, CA, at Tripadvisor.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: 8 reviews of 7-Eleven &quot;I need milk for my rice krispies and I don&#39;t want to go to Safeway late at night. So off to 7-11 ! Hope I don&#39;t get distracted by a donut.
+title: 7-Eleven - Mountain View, CA - Yelp
+snippet: Come in to any 7-Eleven store and youll find a broad selection of fresh, high-quality products at an everyday fair price, along with speedy transactions in a clean and friendly shopping environment. Visit your neighborhood 7-Eleven in Mountain View for all your everyday needs This location features: alcohol, atm, ...
+title: 7-Eleven - Convenience Store - Mountain View, California ...
+snippet: 7-Eleven, Mountain View. 51 likes · 1 talking about this · 258 were here. At 7-Eleven, our doors are always open, and our friendly store teams are ready to serve you. Our fresh, fast and convenient...
+title: 7-Eleven locations &amp; hours near Mountain View
+snippet: 7-Eleven - Mountain View. 1951 Old Middlefield Way, Mountain View, CA 94043 (650) 961-5913. 7-Eleven locations &amp; hours near Mountain View. 2 miles. 7-Eleven - Palo Alto. 708 Colorado Ave, Palo Alto, CA 94303 (650) 328-6369. 3 miles. 7-Eleven - Sunnyvale. 1002 W Evelyn Ave, Sunnyvale, CA 94086
+title: 7-Eleven, Mountain View - 2640 California St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, rated 5 of 5 on Tripadvisor and ranked #205 of 300 restaurants in Mountain View.
+title: 7-Eleven, Mountain View - 1905 Latham St - Restaurant ...
+snippet: 7-Eleven, Mountain View: See unbiased reviews of 7-Eleven, one of 299 Mountain View restaurants listed on Tripadvisor.
+
+REL: 0
+POI Name: Kitchen at Palo Alto
+POI City: Palo Alto
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), Breakfast & Brunch, Cocktail Bars, 
+Snippets:
+
+
+REL: 0
+POI Name: The Bartender Company - Palo Alto
+POI City: Palo Alto
+POI Country: US
+POI Main category: Event Planning & Services
+POI Sub category: Party & Event Planning, Bartenders, 
+Snippets:
+
+
+REL: 0
+POI Name: Passage To India
+POI City: Mountain View
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Indian, Buffets, Bars, 
+Snippets:
+title: Passage to India Restaurant | Order Online | Mountain View ...
+snippet: View Passage to India Restaurant menu, Order Indian food Pick up Online from Passage to India Restaurant, Best Indian in Mountain View, CA
+title: Mountain View - Passage To India
+snippet: Passage to India | Mountain View. Passage to India Bakery opened its doors in 2001, as the first Indian Bakery in California. Passage to India is the creation of restaurateur Sushma Taneja, who has been innovating Indian Dinning in the Bay Area since 1992.
+title: Passage To India, Mountain View - 1991 W El Camino Real ...
+snippet: Order food online at Passage To India, Mountain View with Tripadvisor: See 74 unbiased reviews of Passage To India, ranked #31 on Tripadvisor among 302 restaurants in Mountain View. Flights ... I had dinner at Passage to India restaurant during December 2019.
+title: Passage to India | Indian Restaurant | Mountain View, CA ...
+snippet: Passage to India Restaurant has been defining Indian dining in the Bay Area since 1992, as one of the first Indian restaurants in the bay. Specializing in fine dining and catering, Passage to India soon became synonymous with authentic cuisine with recipes hand crafted by restaurateur Sushma Taneja. She went on to introduce concepts of Dinner Buffet, Chaat Buffet, and Desi Chinese which have ...
+title: Contact - Passage To India
+snippet: 1100 W. El Camino Real Mountain View, Ca 94040 | 650.964.5532 Hours Monday – Thursday 11:00am – 9:00pm Friday &amp; Saturday 10:00am – 9:30pm Sunday 10:00am – 9:00pm We want to hear from you!
+title: Passage To India
+snippet: Welcome to Passage to India. Restaurant. Bakery
+title: Passage to India Restaurant | Mountain View, CA 94040 | Menu
+snippet: Food Takeout from Passage to India Restaurant, best Indian Takeout in Mountain View, CA
+title: About - Passage To India
+snippet: Passage to India has received accolades from: Mountain View Voice, San Jose Mercury, San Francisco Chronicle, Zagat Survey etc. The name Passage to India has come to be known as one that signifies a certain standard of quality and integrity that Sushma has bestowed upon it. Sushma decided that her next venture would be a restaurant.
+title: Passage To India, Mountain View - 1100 W El Camino Real ...
+snippet: Order food online at Passage To India, Mountain View with Tripadvisor: See 10 unbiased reviews of Passage To India, ranked #119 on Tripadvisor among 302 restaurants in Mountain View.
+title: Indian Restaurant Mountain View | Indian Catering | Indian ...
+snippet: Indian Restaurant in Mountain View serving the best Indian food items. We serve all kind of Indian foods.
+
+Cand cities: {'Santa Clara', 'Campbell', 'Mountain View', 'San Jose', 'Los Altos', 'Sunnyvale', 'Palo Alto', 'Redwood City'}

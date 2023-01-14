@@ -1,0 +1,1408 @@
+City: Madrid
+Country: ES
+Main category: Restaurants and Food
+Description: So I'm a female in my late 20's from New York and will be traveling solo to Europe to bring in the New Year 2020 (I've travelled solo twice before but to different country in the Middle East). Anyway, I will be flying from NY to Lisbon, Portugal on Sunday, Dec 29 and flying back from Barcelona, Spain on Tuesday, Jan 14. Between that time I wanted to visit as many nearby cities as possible within the two countries (7-8 days in the two countries). I even wanted to take the Rail from Portugal to Spain so I can see the scenery, but I read that's like a 9-14hr trip! I might change my mind and go to Spain by plane. Anyway, I wanted to stay in ONE hotel in each of the two countries and just make day trips to the different cities If I have to go back twice, I have time to kill. Is this realistic? I need help planning out an itinerary. I do have a list of the cities I want to see. I'm mostly into seeing the architecture, trying the food and wine, sightseeing, talking to new people here and there, museums, shopping etc. Not crazy about party/ night life. Portugal: Lisbon| Porto| Coimbra| Sintra Spain: Madrid| Barcelona| Granada| Seville What would you recommend? Really, it's just an exploration/ sightseeing vacation. If you see a flaw in my plan please let me know. I really don't know much about Europe and visiting two countries in one vacation will be a new adventure for me. Thank you so much! Also, if you have advice on weather and New Year's Eve ideas let me know too!
+Rated POIs: 50
+Rel distr: [(0, 6), (1, 12), (2, 23), (3, 9)]
+=================================
+REL: 3
+POI Name: Tinto y Tapas
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Tapas Bars, Wine Bars, Tabernas, 
+Snippets:
+title: Tinto y Tapas, Madrid - Centro - Restaurant Reviews ...
+snippet: Tinto y Tapas, Madrid: See 1,254 unbiased reviews of Tinto y Tapas, rated 4.5 of 5 on Tripadvisor and ranked #230 of 11,660 restaurants in Madrid.
+title: TINTO Y TAPAS - Home | Facebook
+snippet: TINTO Y TAPAS, Madrid. 1,013 likes · 7 talking about this · 2,241 were here. Bar de tapas, pizzas y empanadas caseras, quiches, tostas, ensaladas, muy buena selección de vinos, en un ambiente muy...
+title: Tinto y Tapas San Pedro, Madrid - Centro - Menu, Prices ...
+snippet: Tinto y Tapas San Pedro, Madrid: See 234 unbiased reviews of Tinto y Tapas San Pedro, rated 4.5 of 5 on Tripadvisor and ranked #165 of 11,657 restaurants in Madrid.
+title: Tinto y Tapas, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Tinto y Tapas, Madrid: Se 1 254 objektive anmeldelser av Tinto y Tapas, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 230 av 11 659 restauranter i Madrid.
+title: Tinto y Tapas, Madrid - Centro - Restaurant Avis, Numéro ...
+snippet: Tinto y Tapas, Madrid : consultez 1 254 avis sur Tinto y Tapas, noté 4,5 sur 5 sur Tripadvisor et classé #230 sur 11 660 restaurants à Madrid.
+title: TINTO Y TAPAS, Madrid - Centro - Fotos, Número de Teléfono ...
+snippet: Tinto y Tapas, Madrid: Consulta 1.254 opiniones sobre Tinto y Tapas con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°230 de 11.660 restaurantes en Madrid.
+title: TINTO Y TAPAS, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: Tinto y Tapas, Madrid: See 1,254 unbiased reviews of Tinto y Tapas, rated 4.5 of 5 on Tripadvisor and ranked #230 of 11,647 restaurants in Madrid.
+title: TINTO Y TAPAS, Madrid - Centro - Ristorante Recensioni ...
+snippet: Tinto y Tapas, Madrid: su Tripadvisor trovi 1.254 recensioni imparziali su Tinto y Tapas, con punteggio 4,5 su 5 e al n.230 su 11.656 ristoranti a Madrid.
+title: TINTO Y TAPAS, Madrid - Centro - Restaurant Reviews ...
+snippet: Tinto y Tapas, Madrid: See 1,254 unbiased reviews of Tinto y Tapas, rated 4.5 of 5 on Tripadvisor and ranked #230 of 11,656 restaurants in Madrid.
+title: Tinto y Tapas, Madrid - Centro - Restaurant Bewertungen ...
+snippet: Tinto y Tapas, Madrid: 1.254 Bewertungen - bei Tripadvisor auf Platz 230 von 11.647 von 11.647 Madrid Restaurants; mit 4,5/5 von Reisenden bewertet.
+
+REL: 3
+POI Name: Vides
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Tapas Bars, Cheese Shops, Wine Bars, 
+Snippets:
+title: Madrid Vacation Travel Video Guide - YouTube
+snippet: Travel video about destination Madrid in Spain. Madrid is Europe&#39;s most elevated metropolis, a royal capital of history, outstanding buildings and cultural treasures. Most of Spain&#39;s royal palaces ...
+title: Live Cam Madrid - Puerta del Sol - SkylineWebcams
+snippet: Madrid - Puerta del Sol. Puerta del Sol is the heart of Madrid, the symbol of the capital city of Spain, popular rendez-vous point for locals and tourists, wonderful location where many important events take place, a testimony to the history of Madrid, the administrative and commercial center, really worth a visit at night, when bright lights and the colours of the overwhelming Movida ...
+title: Travel Madrid in a Minute - Aerial Drone Video | Expedia ...
+snippet: Travel through the magic of Madrid in this cool drone video from Expedia. See the Spanish city from above, weave through its attractions and get a taste of what a holiday in Madrid will bring you ...
+title: Qué ver en MADRID la capital de España - YouTube
+snippet: ⚽️ ¿VAS A VIAJAR A MADRID? En este vídeo encontrarás un recorrido por los lugares más emblemáticos de la capital española. ¡HOLA! Tengo algo que contarte. Haz click en este enlace ...
+title: Vinoteca Vides, Madrid - Centro - Restaurant Reviews ...
+snippet: Vinoteca Vides, Madrid: See 294 unbiased reviews of Vinoteca Vides, rated 4.5 of 5 on Tripadvisor and ranked #538 of 11,660 restaurants in Madrid.
+title: Real Madrid Videos | Real Madrid CF
+snippet: Discover the best Real Madrid videos of the greatest and best moments in team history including goals, saves, plays, and more on the Official Real Madrid Website.
+title: Barcelona vs Real Madrid (5-0) - YouTube
+snippet: Barcelona 5-0 Real Madrid ( Xavi, Pedro, David Villa*2, Jeffren) Real Madrid were humiliated in the El Clasico on November 29, 2010 as Barcelona thrashed them 5-0 at the Nou Camp. The Spanish ...
+title: Madrid in Spain tourism - Madrid España Turismo - Spanish ...
+snippet: Europe Video Productions travel film: Madrid in Spain tourism - Madrid España Turismo: Spanish capital travel video: visit Plaza Mayor, etc. Capitale de l&#39;Espagne. For more Spain and Europe ...
+title: Vídeos | Real Madrid CF
+snippet: Official Website with information about the next Real Madrid games and the latest news about the football club, games, players, schedule, and tickets.
+title: Videos | Real Madrid CF
+snippet: Official Website with information about the next Real Madrid games and the latest news about the football club, games, players, schedule, and tickets. ... Videos. Basketball ...
+
+REL: 3
+POI Name: Cacao Restobar
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Mediterranean, Venezuelan, Wine Bars, 
+Snippets:
+title: Cacao Restobar — Restaurante latinoamericano en Madrid
+snippet: En Cacao Restobar queremos ser ese lugar en Madrid que te inspira, hace sonreir y disfrutar de la compañía de familiares y amigos. En Cacao Restobar estamos convencidos que podemos hacer un mundo mejor si somos honestos, amables y sonrientes.
+title: Cacao Restobar, Madrid - Centro - Restaurant Reviews ...
+snippet: Cacao Restobar, Madrid: See 1,547 unbiased reviews of Cacao Restobar, rated 4.5 of 5 on Tripadvisor and ranked #45 of 11,659 restaurants in Madrid.
+title: Cacao Restobar, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Cacao Restobar, Madrid: Se 1 547 objektive anmeldelser av Cacao Restobar, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 46 av 11 657 restauranter i Madrid.
+title: Cacao Restobar - Home - Madrid, Spain - Menu, Prices ...
+snippet: Cacao Restobar, Madrid. 1,022 likes · 1 talking about this · 1,623 were here. En Cacao nos esmeramos por brindarles productos de calidad y el mejor servicio. ¡Los esperamos! At Cacao we try hard to...
+title: CACAO RESTOBAR, Madrid - Centro - Fotos, Número de ...
+snippet: Cacao Restobar, Madrid: Consulta 1.547 opiniones sobre Cacao Restobar con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°45 de 11.659 restaurantes en Madrid.
+title: CACAO RESTOBAR, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: Cacao Restobar, Madrid: See 1,547 unbiased reviews of Cacao Restobar, rated 4.5 of 5 on Tripadvisor and ranked #45 of 11,659 restaurants in Madrid.
+title: Cacao Restobar, Madrid - Centro - Restaurant Avis, Numéro ...
+snippet: Cacao Restobar, Madrid : consultez 1 547 avis sur Cacao Restobar, noté 4,5 sur 5 sur Tripadvisor et classé #45 sur 11 660 restaurants à Madrid.
+title: Cacao Restobar, Madrid - Centro - Photos &amp; Restaurant ...
+snippet: Order food online at Cacao Restobar, Madrid with Tripadvisor: See 1,547 unbiased reviews of Cacao Restobar, ranked #46 on Tripadvisor among 11,634 restaurants in Madrid.
+title: THE 10 BEST Restaurants Near Cacao Restobar in Madrid ...
+snippet: Restaurants near Cacao Restobar, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Cacao Restobar in Madrid, Spain.
+title: squid - Picture of Cacao Restobar, Madrid - Tripadvisor
+snippet: Cacao Restobar, Madrid Picture: squid - Check out Tripadvisor members&#39; 53,445 candid photos and videos of Cacao Restobar
+
+REL: 3
+POI Name: Casa Lucas
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Tapas Bars, Wine Bars, 
+Snippets:
+title: Taberna Casa Lucas in La Latina. Tapas and restaurant in ...
+snippet: Gracias a la colaboración conel British Museum, podremos disfrutar en Madrid de piezas expecionales para acercarnos la vida del rio Nilo. Despues un paseo para ver atardecer desde el templo de Debod, paseo por el Palacio Real , y de ahí subir la calle Bailen y estarás en Casa Lucas para cenar unas tapas creativas con un buen vino.
+title: Casa Lucas, Madrid - Centro - Restaurant Reviews, Photos ...
+snippet: Casa Lucas, Madrid: See 1,302 unbiased reviews of Casa Lucas, rated 4.5 of 5 on Tripadvisor and ranked #188 of 11,660 restaurants in Madrid.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: CASA LUCAS, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: Casa Lucas, Madrid: See 1,302 unbiased reviews of Casa Lucas, rated 4.5 of 5 on Tripadvisor and ranked #188 of 11,660 restaurants in Madrid.
+title: PORK AND ONIONS~ - Review of Casa Lucas, Madrid, Spain ...
+snippet: Casa Lucas: PORK AND ONIONS~ - See 1,302 traveler reviews, 356 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: CASA LUCAS, Madrid - Centro - Fotos, Número de Teléfono y ...
+snippet: Casa Lucas, Madrid: Consulta 1.302 opiniones sobre Casa Lucas con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°188 de 11.659 restaurantes en Madrid.
+title: Casa Lucas, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Casa Lucas, Madrid: Se 1 302 objektive anmeldelser av Casa Lucas, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 189 av 11 647 restauranter i Madrid.
+title: Restaurante Casa Lucas, Madrid - Chamartin - Restaurant ...
+snippet: Restaurante Casa Lucas, Madrid: See 27 unbiased reviews of Restaurante Casa Lucas, rated 4 of 5 on Tripadvisor and ranked #4,384 of 11,647 restaurants in Madrid.
+title: Casa Lucas, Madrid - Centro - Restaurant Bewertungen ...
+snippet: Casa Lucas, Madrid: 1.302 Bewertungen - bei Tripadvisor auf Platz 188 von 11.660 von 11.660 Madrid Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: RESTAURANTE CASA LUCAS, Madrid - Chamartín - Fotos, Número ...
+snippet: Restaurante Casa Lucas, Madrid: Consulta 27 opiniones sobre Restaurante Casa Lucas con puntuación 4 de 5 y clasificado en Tripadvisor N.°4.383 de 11.660 restaurantes en Madrid.
+
+REL: 3
+POI Name: La Piraña
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Wine Bars, Beer Bar, 
+Snippets:
+title: La Pirana, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: La Pirana, Madrid: Se 15 objektive anmeldelser av La Pirana, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 3 724 av 11 647 restauranter i Madrid.
+title: La Pirana, Madrid - Gaztambide - Restaurant Reviews ...
+snippet: La Pirana, Madrid: See 15 unbiased reviews of La Pirana, rated 4.5 of 5 on Tripadvisor and ranked #3,728 of 11,660 restaurants in Madrid.
+title: photo0.jpg - Picture of La Pirana, Madrid - Tripadvisor
+snippet: La Pirana, Madrid Picture: photo0.jpg - Check out Tripadvisor members&#39; 53,587 candid photos and videos of La Pirana
+title: 5 stars - Review of La Pirana, Madrid, Spain - Tripadvisor
+snippet: La Pirana: 5 stars - See 15 traveler reviews, 6 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: La Pirana, Madrid - Gaztambide - Restaurant Bewertungen ...
+snippet: La Pirana, Madrid: 15 Bewertungen - bei Tripadvisor auf Platz 3.714 von 11.639 von 11.639 Madrid Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: IMG_20160525_212250_large.jpg - Picture of La Pirana, Madrid
+snippet: La Pirana, Madrid Picture: IMG_20160525_212250_large.jpg - Check out Tripadvisor members&#39; 52,159 candid photos and videos of La Pirana
+title: La Piraña - Madrid, Madrid - Venue Photos - Untappd
+snippet: Photos at La Piraña in Madrid, Madrid on Untappd.
+title: La Piraña - Home - Madrid, Spain - Menu, Prices ...
+snippet: La Piraña - 28015 Madrid, Spain - Rated 4.9 based on 27 Reviews &quot;La cerveza artesana está buenísima y la gestión y trato de las personas del local es muy...
+title: LA PIRANA, Madrid - Gaztambide - Fotos, Número de Teléfono ...
+snippet: La Pirana, Madrid: Consulta 15 opiniones sobre La Pirana con puntuación 4.5 de 5 y clasificado en Tripadvisor N.°3,686 de 11,584 restaurantes en Madrid.
+title: La Piraña - Madrid, Madrid - Venue | Untappd
+snippet: Find out what&#39;s popular at La Piraña in real-time and see activity, reviews and ratings!
+
+REL: 3
+POI Name: El Fogón de Trifón
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Salad, Wine Bars, Gastropubs, 
+Snippets:
+title: EL FOGON DE TRIFON, Madrid - Barrio de Salamanca - Fotos ...
+snippet: El Fogon de Trifon, Madrid: Consulta 258 opiniones sobre El Fogon de Trifon con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°349 de 11.659 restaurantes en Madrid.
+title: El Fogon de Trifon, Madrid - Barrio de Salamanca ...
+snippet: El Fogon de Trifon, Madrid: See 258 unbiased reviews of El Fogon de Trifon, rated 4.5 of 5 on Tripadvisor and ranked #349 of 11,660 restaurants in Madrid.
+title: El Fogon de Trifon, Madrid - Restaurantanmeldelser ...
+snippet: El Fogon de Trifon, Madrid: Se 258 objektive anmeldelser av El Fogon de Trifon, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 349 av 11 659 restauranter i Madrid.
+title: El Fogón de Trifón - Home - Madrid, Spain - Menu, Prices ...
+snippet: El Fogón de Trifón - Calle Ayala 144, 28006 Madrid, Spain - Rated 4.8 based on 131 Reviews &quot;Perfect place. We were lucky to make a reservation at short...
+title: El Fogón de Trifón. Restaurantes en Madrid. De Mercado ...
+snippet: El Fogón de Trifón es uno de esos locales que merece la pena descubrir. En él se reúne todo lo que la mayoría de los amantes de la buena mesa deseamos encontrar: buenos vinos, productos de primera calidad y guisos de toda la vida. El Fogón es un local angosto dotado de un diminuto comedo, que ...
+title: EL FOGON DE TRIFON, Madrid - Barrio Salamanca - Restaurant ...
+snippet: El Fogon de Trifon, Madrid: See 258 unbiased reviews of El Fogon de Trifon, rated 4.5 of 5 on Tripadvisor and ranked #348 of 11,650 restaurants in Madrid. ... Trifon, is the owner of El Fogo De Trifon, and a colorful host of this small yet terrific restaurant in the upscale Salamanca neighborhood of Madrid.
+title: El Fogon de Trifon, Madrid - Barrio Salamanca - Restaurant ...
+snippet: El Fogon de Trifon, Madrid: 258 Bewertungen - bei Tripadvisor auf Platz 349 von 11&#39;659 von 11&#39;659 Madrid Restaurants; mit 4.5/5 von Reisenden bewertet.
+title: El Fogón de Trifón | Turismo Madrid
+snippet: Así destacan, por ejemplo, gamo macerado con vino, tomillo y orégano, ensaladas de tomate de ‘pata negra’ con ventresca o de perdiz escabechada con jamón de pato, rabo de toro estofado, croquetas de morcilla o de jamón ibérico, chipirones encebollados, gamba blanca de Huelva, callos a la madrileña, bacalao al estilo del &#39;Fogón ...
+title: El Fogon de Trifon, Madrid - Barrio de Salamanca ...
+snippet: Quelle place! Trifon est le propriétaire d&#39;El Fogo De Trifon et l&#39;hôte coloré de ce petit mais formidable restaurant dans le quartier huppé de Salamanca à Madrid. C&#39;est un espace minuscule, presque petit, mais rempli de caractère, et Trifon peut remplir toute sa personnalité.
+title: EL FOGON DE TRIFON, Madrid - Barrio Salamanca - Restaurant ...
+snippet: El Fogon de Trifon, Madrid: See 258 unbiased reviews of El Fogon de Trifon, rated 4.5 of 5 on Tripadvisor and ranked #349 of 11,659 restaurants in Madrid. ... Trifon, is the owner of El Fogo De Trifon, and a colorful host of this small yet terrific restaurant in the upscale Salamanca neighborhood of Madrid.
+
+REL: 3
+POI Name: Zúccaru
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, 
+Snippets:
+title: Zúccaru – Con amor, desde Sicilia
+snippet: ¡Bienvenido a Zúccaru, Heladería Siciliana en el corazón de Madrid! Nuestro gelato se prepara exactamente como en tiempos pasados, es un producto que no recurre al uso de colorantes, aromas ni grasas saturadas hidrogenadas.
+title: Zúccaru, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Zúccaru, Madrid: Se 170 objektive anmeldelser av Zúccaru, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 69 av 11 640 restauranter i Madrid.
+title: ZÚCCARU, Madrid - Calle Vergara 16, Austrias - Menú y ...
+snippet: Zúccaru, Madrid: Consulta 169 opiniones sobre Zúccaru con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°68 de 11.660 restaurantes en Madrid.
+title: Zuccaru, Madrid - Calle Vergara 16, Austrias - Menu ...
+snippet: Zuccaru, Propietario at Zuccaru, responded to this review Responded August 9, 2018 Hi Magda, we are not happy you didn&#39;t have the best experience. I can guarantee you that our gelato is handcrafted and 100% natural, we use no colorant or products that could bring fancy effects to our product.
+title: Zuccaru, Madrid - Calle Vergara 16, Austrias - Menu ...
+snippet: Order food online at Zuccaru, Madrid with Tripadvisor: See 170 unbiased reviews of Zuccaru, ranked #71 on Tripadvisor among 11,639 restaurants in Madrid.
+title: Zúccaru - Home | Facebook
+snippet: Zúccaru - Calle Vergara 16, 28013 Madrid, Spain - Rated 5 based on 70 Reviews &quot;One of the best #gelato I&#39;ve had in Europe. Discovered Zúccaru yesterday...
+title: Zúccaru, Madrid - Calle Vergara 16, Austrias - Menü ...
+snippet: Zúccaru, Madrid: 170 Bewertungen - bei Tripadvisor auf Platz 70 von 11.610 von 11.610 Madrid Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Zuccaru, Madrid - Calle Vergara 16, Austrias - Menu ...
+snippet: Zuccaru, Madrid: See 169 unbiased reviews of Zuccaru, rated 4.5 of 5 on TripAdvisor and ranked #65 of 11,465 restaurants in Madrid.
+title: ZUCCARU, Madrid - Calle Vergara 16, Austrias - Menu ...
+snippet: Order takeaway and delivery at Zuccaru, Madrid with TripAdvisor: See 169 unbiased reviews of Zuccaru, ranked #67 on TripAdvisor among 11,446 restaurants in Madrid.
+title: ZÚCCARU, Madrid - Comentários de restaurantes - Tripadvisor
+snippet: Zúccaru, Madrid: Veja 170 dicas e avaliações imparciais de Zúccaru, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 68 de 11.650 restaurantes em Madrid.
+
+REL: 3
+POI Name: Takos al Pastor
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: TAKOS AL PASTOR, Madrid - Calle Abada 2, Centro - Número ...
+snippet: Takos Al Pastor, Madrid: Consulta 1.214 opiniones sobre Takos Al Pastor con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°300 de 11.660 restaurantes en Madrid.
+title: Takos Al Pastor, Madrid - Calle Abada 2, Centro ...
+snippet: Takos Al Pastor, Madrid: See 1,214 unbiased reviews of Takos Al Pastor, rated 4.5 of 5 on Tripadvisor and ranked #300 of 11,660 restaurants in Madrid.
+title: Takos Al Pastor - Home - Madrid, Spain - Menu, Prices ...
+snippet: Takos Al Pastor - Calle de la Abada, 2 Nuevo local en Calle Botoneras, 7, 28013 Madrid, Spain - Rated 4.6 based on 297 Reviews &quot;Friends of ours had...
+title: Takos Al Pastor, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Takos Al Pastor, Madrid: Se 1 213 objektive anmeldelser av Takos Al Pastor, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 300 av 11 658 restauranter i Madrid.
+title: Takos Al Pastor, Madrid - Calle Botoneras 7, Austrias ...
+snippet: Takos Al Pastor, Madrid: See 75 unbiased reviews of Takos Al Pastor, rated 4.5 of 5 on Tripadvisor and ranked #558 of 11,633 restaurants in Madrid.
+title: Takos Al Pastor, Madrid - Calle Abada 2, Centro ...
+snippet: Ich glaube, dass die meisten Menschen zustimmen können, dass Takos al Pastor weiß, was sie tun. Wahrscheinlich einige der besten Tacos in Madrid, die ich je probiert habe. Bei einem fairen Preis von 1 Euro pro Stück war ich mit 3 Cochinita Tacos, 2 Pastor,... 2 Suadero, 2 Tinga und einem Sol-Bier
+title: Takos Al Pastor, Madrid - Calle Abada 2, Centro ...
+snippet: Takos Al Pastor, Madrid: See 1,212 unbiased reviews of Takos Al Pastor, rated 4.5 of 5 on Tripadvisor and ranked #297 of 11,633 restaurants in Madrid.
+title: Takos al Pastor - Sol - Madrid, Spain - Yelp
+snippet: 23 reviews of Takos al Pastor &quot;If I could come here everyday of my life I would! The absolute best tacos . They kept running out of the pastor taco so If you want to try it, i suggest coming earlier! FYI don&#39;t try to grab a table before putting…
+title: Takos Al Pastor, Madrid - Calle Abada 2, Centro ...
+snippet: Takos Al Pastor, Madrid : consultez 1 213 avis sur Takos Al Pastor, noté 4,5 sur 5 sur Tripadvisor et classé #300 sur 11 660 restaurants à Madrid.
+title: Perfekt - Anmeldelse for Takos Al Pastor, Madrid, Spania ...
+snippet: Takos Al Pastor: Perfekt - Se 1 212 reiseanmeldelser, 777 objektive bilder og gode tilbud på Madrid, Spania på Tripadvisor.
+
+REL: 3
+POI Name: Angelita
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Wine Bars, Cocktail Bars, 
+Snippets:
+title: Angelita Madrid | Bar de Vinos, Gastro Coctelería y ...
+snippet: Los vinos Madrid Angelita. Con amplios ventanales a la calle Reina, nuestro “wine bar” está atendido por un equipo de sumilleres (liderados por David Villalón y Rubén Moreiro) que pueden asesorarte dentro de nuestra selección quincenal de más de cincuenta opciones de vino por copa y media copa.
+title: Angelita Madrid | Wine Bar, gastro cocktail bar &amp; cuisine ...
+snippet: The Speakeasy Angelita Madrid. The gastro-cocktail bar (awarded at FIBAR 2018 and FIBAR 2019), is led by Mario Villalón. Here Mario’s team will surprise you with a fun, original and daring cocktail experience made out of local ingredients and with special emphasis in the wine world.
+title: ANGELITA MADRID - Centro - Updated 2020 Restaurant Reviews ...
+snippet: Angelita Madrid, Madrid: See 683 unbiased reviews of Angelita Madrid, rated 4.5 of 5 on Tripadvisor and ranked #92 of 11,660 restaurants in Madrid.
+title: Angelita Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Angelita Madrid, Madrid: Se 683 objektive anmeldelser av Angelita Madrid, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 92 av 11 649 restauranter i Madrid.
+title: Angelita Madrid Reservas | Bar de Vinos, Gastro Coctelería ...
+snippet: Realiza tus reservas en Angelita Madrid a través de nuestro sistema online o en el 915 21 66 78. ¡Te esperamos!
+title: Angelita Madrid - Centro - Restaurant Reviews, Photos ...
+snippet: Angelita Madrid, Madrid: See 683 unbiased reviews of Angelita Madrid, rated 4.5 of 5 on Tripadvisor and ranked #92 of 11,660 restaurants in Madrid.
+title: Angelita Madrid | Bar de Vinos, Gastro Coctelería y ...
+snippet: Angelita Madrid. BAR DE VINOS . El bar de vinos, con amplios ventanales a la calle Reina, que está atendido por un equipo de sumilleres liderados por David Villalón y Rubén Moreiro y que dispone de más de quinientas referencias de vinos junto con más de cincuenta opciones por copa y media copa.
+title: ANGELITA MADRID - Centro - Fotos, Número de Teléfono y ...
+snippet: Angelita Madrid, Madrid: Consulta 683 opiniones sobre Angelita Madrid con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°92 de 11.659 restaurantes en Madrid.
+title: Angelita Madrid - Centro - Restaurant Avis, Numéro de ...
+snippet: Angelita Madrid, Madrid : consultez 683 avis sur Angelita Madrid, noté 4,5 sur 5 sur Tripadvisor et classé #92 sur 11 660 restaurants à Madrid.
+title: De 10 beste restaurantene i nærheten av Angelita Madrid
+snippet: Restauranter i nærheten av Angelita Madrid på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Angelita Madrid, Madrid.
+
+REL: 2
+POI Name: El Sur
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Tapas Bars, 
+Snippets:
+title: Taberna el Sur, Madrid - Centro - Restaurant Reviews ...
+snippet: Taberna el Sur, Madrid: See 6,165 unbiased reviews of Taberna el Sur, rated 4.5 of 5 on Tripadvisor and ranked #35 of 11,659 restaurants in Madrid.
+title: Taberna el Sur, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Taberna el Sur, Madrid: Se 6 165 objektive anmeldelser av Taberna el Sur, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 35 av 11 660 restauranter i Madrid.
+title: El Sur | Official tourism website - Turismo en Madrid ...
+snippet: This tavern, decorated with Spanish movie posters, is a welcoming establishment where you can sit at wooden tables or pull a stool up to the bar with a beer and a tapa (snack).
+title: El Sur de Huertas, Madrid - Centro - Restaurant Reviews ...
+snippet: El Sur de Huertas, Madrid: See 1,570 unbiased reviews of El Sur de Huertas, rated 4.5 of 5 on Tripadvisor and ranked #56 of 11,660 restaurants in Madrid.
+title: Taberna El Sur - 31 Photos - 217 Reviews - Tapas Bar ...
+snippet: Taberna El Sur - Calle de la Torrecilla del Leal 12, 28012 Madrid, Spain - Rated 4.9 based on 217 Reviews &quot;So we came here for dinner and it was...
+title: Taberna El Sur - 31 Photos - 216 Reviews - Tapas Bar ...
+snippet: Taberna El Sur - Calle de la Torrecilla del Leal 12, 28012 Madrid, Spain - Rated 4.9 based on 216 Reviews &quot;What a charming, fun, authentic little place!...
+title: TABERNA EL SUR, Madrid - Centro - Fotos, Número de ...
+snippet: Taberna el Sur, Madrid: Consulta 6.165 opiniones sobre Taberna el Sur con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°35 de 11.659 restaurantes en Madrid.
+title: El Sur in Madrid - Restaurant reviews
+snippet: All info on El Sur in Madrid - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: TABERNA EL SUR, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: Taberna el Sur, Madrid: See 6,165 unbiased reviews of Taberna el Sur, rated 4.5 of 5 on Tripadvisor and ranked #35 of 11,660 restaurants in Madrid.
+title: Prensa: Toda la información de la Zona Sur de Madrid
+snippet: El Ayuntamiento de Arroyomolinos, es una localidad del sur de Madrid, una ciudad que ha visto como por primera vez una mujer Ana Millán es proclamada Alcaldesa, la primera Alcaldesa de esta ciudad y cómo tal así...
+
+REL: 2
+POI Name: Restaurante Bangkok
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+title: De 10 beste restaurantene i Madrid - Tripadvisor
+snippet: Beste restauranter i Madrid, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Madrid, og søk etter pris, beliggenhet og mer på Tripadvisor. Madrid. Turisme i Madrid Hotell i Madrid Bed and Breakfast i Madrid Pakkereiser til Madrid ... Finn en restaurant . Tøm søk .
+title: De 10 beste restaurantene i Bangkok - Tripadvisor
+snippet: Beste restauranter i Bangkok, Thailand: Se anmeldelser fra reisende og bilder av spisesteder i Bangkok, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Madrid Pizzeria and Bar, Bangkok - Bang Rak - Restaurant ...
+snippet: Madrid Pizzeria and Bar, Bangkok: See 43 unbiased reviews of Madrid Pizzeria and Bar, rated 4.5 of 5 on Tripadvisor and ranked #1,175 of 13,283 restaurants in Bangkok.
+title: THE 10 BEST Restaurants in Madrid - Updated April 2020 ...
+snippet: Best Dining in Madrid, Community of Madrid: See 1,318,685 Tripadvisor traveler reviews of 12,304 Madrid restaurants and search by cuisine, price, location, and more.
+title: DIE 10 BESTEN Restaurants in Madrid 2020 (mit Bildern ...
+snippet: Madrid Essen und Trinken: Auf Tripadvisor finden Sie 1.318.685 Bewertungen von 12.304 Madrid Restaurants, Bars und Cafés - angezeigt nach Küche, Preis und Lage.
+title: BANGKOK, Madrid - Austrias - Fotos, Número de Teléfono y ...
+snippet: Bangkok, Madrid: Consulta 68 opiniones sobre Bangkok con puntuación 4 de 5, uno de los 11.617 restaurantes de Madrid en Tripadvisor. Vuelos Alquileres vacacionales ... El restaurante está céntrico pero algo oculto, y más ahora que hay obras por la zona.
+title: Restaurante Bangkok, Madrid - Atrapalo.com
+snippet: Reserva gratis en Atrápalo mesa para el restaurante Bangkok. Uno de los mejores restaurantes de Madrid para iniciarse en la cocina tailandesa. Lo encontrarás a muy pocos pasos de la madrileña Puerta del Sol y se trata de un establecimiento exótico, con una decoración a base de colores vivos y muchos elementos propios de la cultura tailandesa.
+title: Bangkok Thai Sushi Madrid - Home - Madrid, Spain - Menu ...
+snippet: Bangkok Thai Sushi Madrid, Madrid, Spain. 210 likes · 526 were here. Auténtica comida tai en el corazón de Madrid,caracterizado por tener un ambiente agradable, por su servicio esmerado y su...
+title: Restaurante Bangkok Thai Sushi en Madrid, Atocha, Barrio ...
+snippet: Bangkok Thai Sushi en Madrid - Encuentra toda la información sobre este restaurante: fotos, opiniones de usuarios, menú y precios en ElTenedor.
+title: De 10 beste restaurants in Madrid - Tripadvisor
+snippet: De beste restaurants in Madrid, Spanje. Lees Tripadvisor-reizigersbeoordelingen van de beste restaurants in Madrid en zoek op prijs, locatie en meer.
+
+REL: 2
+POI Name: Horcher
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: German, 
+Snippets:
+title: Restaurante HORCHER
+snippet: Alfonso XII, 6 Madrid (+34) 91 522 07 31 / (+34) 91 532 35 96 horcher@restaurantehorcher.com; Política de privacidad; Aviso legal; Política de cookies; Realizado por Timpulsa 2017. Todos los Derechos Reservados
+title: Horcher, Madrid - Jeronimos - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Horcher, Madrid on Tripadvisor: See 344 unbiased reviews of Horcher, rated 4.5 of 5 on Tripadvisor and ranked #570 of 11,660 restaurants in Madrid.
+title: Horcher in Madrid - Restaurant menu and reviews
+snippet: Fantastic place! One of the oldest restaurant in Madrid! I was surprised from the first seconds about service and place! They take care about you from the first moment, took car for parking, opened all doors, put a pillow under the hills (only for women), in the end put car in front of door!
+title: Carta | HORCHER
+snippet: Hamburguesa Horcher con patatas salteadas 39,00€ Rabo de vaca al estilo Horcher 39,00€ Stroganoff a la mostaza de Pommery 42,00€ Riñones de ternera al fino Horcher 38,00€ Escalopines a las trufas con salsa de Oporto 39,00€
+title: Horcher, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Horcher, Madrid: Se 344 objektive anmeldelser av Horcher, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 570 av 11 660 restauranter i Madrid.
+title: Horcher, Madrid - Jeronimos - Menu, Prices &amp; Restaurant ...
+snippet: Horcher, Madrid: See 344 unbiased reviews of Horcher, rated 4.5 of 5 on Tripadvisor and ranked #570 of 11,659 restaurants in Madrid.
+title: Historia | HORCHER
+snippet: Desde entonces, muchas cosas han cambiado en Alemania, Europa y en el mundo entero. Muchos de los protagonistas de la historia de este último siglo han pasado por los salones de los Restaurantes Horcher que se sucedieron en Viena, Londres, Oslo, Riga, Tallin, Lisboa y Madrid.
+title: Baumkuchen | HORCHER
+snippet: Reserva tu Baumkuchen. Puede encargar nuestro Baumkuchen a través de nuestro mail horcher@restaurantehorcher.com o por teléfono en el 915220731 Precios: 1 Baumkuchen (6 anillas) €250
+title: Horcher (Madrid) - Wikipedia, la enciclopedia libre
+snippet: Horcher en Madrid. El Horcher. Ubicado en la calle de Alfonso XII, nº 6, enfrente de los Jardines del Retiro en el barrio de los Jerónimos. Se denomina así en honor al promotor alemán Otto Horcher que en el año 1943 inauguró la sucursal española del restaurante abierto por su padre, Gustav Horcher, en Berlín.
+title: Restaurante HORCHER
+snippet: menu. History; Rooms and Gallery; Our Team; Menu and Wine List; Contact
+
+REL: 2
+POI Name: Venezzia
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, 
+Snippets:
+title: La Venencia (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Voli economici da Venezia a Madrid da 103 € in Iberia
+snippet: Consulti l’offerta di voli da Venezia a Madrid e prenoti il Suo biglietto aereo online. Iberia Le garantisce i migliori prezzi dell’ultimo minuto per la nostra offerta di voli low cost da Venezia a Madrid. I prezzi mostrati corrispondono a ricerche di voli in da Venezia a Madrid realizzate recentemente da clienti.
+title: venezzia madrid - Medical field - St. Mary Medical Center ...
+snippet: View venezzia madrid’s profile on LinkedIn, the world&#39;s largest professional community. venezzia has 2 jobs listed on their profile. See the complete profile on LinkedIn and discover venezzia ...
+title: Billige flyreiser Venezia - Madrid - Jetcost
+snippet: Sammenlign flypriser fra Venezia til Madrid. Med bare et par klikk bestiller du den ideelle flyreisen fra Venezia til Madrid raskt og enkelt: skriv inn reisedatoene dine, og i løpet av noen sekunder kan du sammenligne tusenvis av tilbud på billige flyreiser fra Venezia til Madrid. Jetcost finner og sammenligner de beste tilbudene på billetter på flyreiser fra Venezia til Madrid, og hjelper ...
+title: Fly Venezia - Madrid: Bestill hos Travellink
+snippet: Leter du etter billige fly fra Venezia til Madrid? Stol på Travellink og søk etter restplass-tilbud på fly, gode reisetips og mye mer!
+title: Voli low cost Venezia - Madrid da € 88 - Skyscanner
+snippet: Quando è più economico prenotare un volo Venezia Madrid I mesi migliori per prenotare voli economici da Venezia a Madrid sono quelli che vanno da febbraio e a giugno e anche ottobre, novembre e dicembre. Se puoi prenotare con un certo anticipo, il prezzo medio per i voli diretti Venezia Madrid in questi mesi è di circa 118 euro.
+title: Live Cam Piazza San Marco - Venice - SkylineWebcams
+snippet: Piazza San Marco - Venice live cam View of the Basilica of San Marco and the Procuratie Nuove, excellent point of view to observe the acqua alta in real time
+title: Billige flyreiser Madrid - Venezia - Jetcost
+snippet: Fly Madrid - Venezia: Søk og bestill billige flybilletter fra Madrid til Venezia. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Heladeria Venezzia - Ice Cream Shop - Madrid, Spain ...
+snippet: Heladeria Venezzia, Madrid. 338 likes. Heladeria Venezzia - Desde 1983 Especializados en helados, siempre artesanales de elaboracion propia. Pizzas artesanales y empanadas argentinas, ahora también...
+title: venezzia - Madrid, Madrid - Untappd
+snippet: Find out what&#39;s popular at venezzia in Madrid, Madrid in real-time and see activity
+
+REL: 2
+POI Name: Don Finardo
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Meat Shops, 
+Snippets:
+title: Inicio - Don Finardo
+snippet: Un jamón Don Finardo debes degustarlo de la mejor manera posible: aprende como cortarlo de la mano de nuestros expertos cortadores. Eventos Haz que tus eventos se conviertan en una experiencia única con Don Finardo.
+title: Don Finardo - Turismo Madrid
+snippet: Don Finardo trae a Madrid lo mejor del cerdo ibérico de Guijuelo de Salamanca.
+title: Don Finardo | Official tourism website - Turismo Madrid
+snippet: Don Finardo brings the best of Iberian pork from Guijuelo (Salamanca) to Madrid.
+title: Don Finardo - Home | Facebook
+snippet: Don Finardo. 114 likes · 14 were here. Jamones Don Finardo. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: ... Madrid, Spain 28015. Get Directions +34 914 45 84 83. donfinardo.com. Grocery Store · Restaurant Wholesaler · Foodservice Distributor. Opens tomorrow.
+title: Productos - Don Finardo
+snippet: Nosotros nos distinguimos por ser una empresa que mima muchísimo los productos que ofrecemos y estamos muy atentos a nuevas sugerencias de nuestros clientes. En nuestra tienda intentamos ofrecer los mejores productos ibéricos, productos de calidad, fiables y de confianza. Nuestro abanico de productos curados incluye jamones y paletas Ibéricas, embutidos Ibéricos (lomo, cabecero, morcón, […]
+title: Don Finardo, Santa Cruz de Marcenado 1, Madrid (2020)
+snippet: Información de contacto, mapa y direcciones, formulario de contacto, horario de apertura, servicios, puntuaciones, fotos, videos y anuncios de Don Finardo, Distribuidor de suministros para restaurantes, Santa Cruz de Marcenado 1, Madrid.
+title: DON FINARDO – JAMONES (MADRID) - Guía Maximín
+snippet: Don Finardo lo podéis encontrar en la c/ Santa Cruz de Marcenado 1, local 1. (muy cerca de la plaza de San Bernardo). 28015 Madrid. Teléfono 91 593 44 25. De verdad, daros este capricho, si haces cuentas no es tan caro y comes un artículo de excelente calidad, ...
+title: Don Finardo - Posts | Facebook
+snippet: Jamones Don Finardo. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: Password: Forgot account? Home. About. Photos. Twitter. Reviews. Videos. Posts. Community. See more of Don Finardo on Facebook. Log In. or. Create New Account. See more of Don Finardo on Facebook.
+title: Don Finardo - Inicio | Facebook
+snippet: Don Finardo, Madrid. 115 Me gusta · 1 personas están hablando de esto · 15 personas han estado aquí. Jamones Don Finardo
+title: Don finardo, en Madrid (Madrid)
+snippet: Don finardo en Santa cruz de marcenado, 1, Madrid (Madrid). teléfono, dirección, ofertas, opiniones de usuarios. Pide presupuesto a Don finardo
+
+REL: 2
+POI Name: Botín
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Steakhouses, 
+Snippets:
+title: Restaurante Sobrino de Botín Madrid | Cochinillos y ...
+snippet: Botín, la casa en la que Madrid cocina su historia. Madrid ha crecido casi al mismo tiempo que el Restaurante Botín. En 1590 aparecen los primeros registros del edificio, apenas 30 años después de que Felipe II la nombrase capital del reino.
+title: Botín Restaurant | Centennial Restaurant | Guinness World ...
+snippet: Casa Botín, founded in 1725, is the oldest restaurant in the world according to the Guinness Book of Records and a benchmark of Madrid’s best traditional cuisine. Forbes magazine gave the House third place in the list of the world’s top 10 classic restaurants, together with its two specialties, the delicious suckling pig and lamb roasted in the Castilian style.
+title: Restaurante Botin, Madrid - Austrias - Menu, Prices ...
+snippet: Botin is the oldest restaurant in the world according to the Guinness Book of Records. Located in the heart of Madrid, at the foot of the Arco de Cuchilleros and next to the Plaza Mayor, it was founded in 1725 and was a meeting place for Madrid&#39;s bohemian and literary set.
+title: Restaurante Botin, Madrid - Restaurantanmeldelser ...
+snippet: Restaurante Botin, Madrid: Se 9 416 objektive anmeldelser av Restaurante Botin, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 761 av 11 610 restauranter i Madrid.
+title: Botín Restaurant Madrid | Booking your table at Botín ...
+snippet: If there is no availability, please be aware that you have the possibility of booking any day at 13:00 or at 23:00 (excepting critical days). If, in spite of everything, this booking system does not satisfy you, please call +34 91 366 42 17, a better way of offering you a personal attention.
+title: Menu Botín
+snippet: This website uses its own and third-party cookies to analyze your browsing. Accepting or continuing to browse implies the acceptance of our Política de Cookies Accept
+title: Restaurante Botín en Madrid | Reservas | Guinness World ...
+snippet: Reserve su mesa en el Restaurante Botín. Disfrute del mejor Cochinillo asado de Madrid. Premio al Restaurante más antiguo del Mundo.
+title: Sobrino de Botín - Wikipedia
+snippet: Sobrino de Botín (Calle de los Cuchilleros 17, 28005 Madrid, Spain), founded in 1725, is the oldest restaurant in the world in continuous operation, according to the Guinness Book of Records. The artist Francisco de Goya worked in Cafe Botin as a waiter while waiting to get accepted into the Royal Academy of Fine Arts.
+title: Sobrino de Botin (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: Sobrino de Botin, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Sobrino de Botin i Madrid, Spania på Tripadvisor.
+title: Restaurante Botín in Madrid - Restaurant menu and reviews
+snippet: Restaurante Botin holds the Guinness World Records for being the oldest restaurant in the world since 1725 and there&#39;s a specific reason why this restaurant is still standing to this day! Without a reservation days prior, it is very hard to get a table inside of this historic establishment.
+
+REL: 2
+POI Name: Rosales 20
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Bars, 
+Snippets:
+title: Rosales 20, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Rosales 20, Madrid: Se 85 objektive anmeldelser av Rosales 20, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 10 007 av 11 644 restauranter i Madrid.
+title: Rosales 20, Madrid - Princesa - Menu, Prices &amp; Restaurant ...
+snippet: Rosales 20, Madrid: See 85 unbiased reviews of Rosales 20, rated 3 of 5 on Tripadvisor and ranked #9,983 of 11,639 restaurants in Madrid.
+title: ROSALES 20, Madrid - Princesa - Menú, Precios y ...
+snippet: Rosales 20, Madrid: Consulta 85 opiniones sobre Rosales 20 con puntuación 3 de 5 y clasificado en Tripadvisor N.°10.005 de 11.660 restaurantes en Madrid.
+title: Rosales 20 in Madrid - Restaurant Reviews, Menu and Prices ...
+snippet: Book a table at Rosales 20 in Madrid. Find restaurant reviews, menu, prices, and hours of operation for Rosales 20 on TheFork.
+title: Rosales 20 Bar (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Madrid Bed and Breakfast; Madrid Vacation Rentals; Madrid Vacation Packages; Flights to Madrid; Madrid Restaurants; Things to Do in Madrid; Madrid Shopping; Madrid Travel Forum; Madrid Photos; Madrid Map; Madrid Travel Guide; All Madrid Hotels; Madrid Hotel Deals; Last Minute Hotels in Madrid; By Hotel Type. Madrid Motels; Madrid Hostels ...
+title: THE 10 BEST Restaurants Near Rosales 20 in Madrid ...
+snippet: Restaurants near Rosales 20, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Rosales 20 in Madrid, Spain.
+title: Rosales 20 - Coffee &amp; Tea - Paseo Pintor Rosales, 20 ...
+snippet: Pintor Rosales 20 is a great place! I went last Wednesday night to watch the Copa del Rey version of El Clasico and to have a couple of copas with my wife and friend. (We needed a few copas more in the second half to numb us from the pain of watching Barca thump Real Madrid, but this isn&#39;t a futbol review . . .
+title: Rosales 20 in Madrid - Restaurant Reviews, Menu and Prices ...
+snippet: Rosales 20 in Madrid. Find restaurant reviews, menu, prices, and hours of operation for Rosales 20 on TheFork. Situado en una de las zonas con más encanto de Madrid, el paseo de Rosales, junto al templo de Debod, se encuentra este exclusivo y sofisticado restaurante ...
+title: ROSALES 20 BAR, un clásico de Madrid. - YouTube
+snippet: Rosales 20 Bar, un clásico de Madrid especial, exclusivo y agradable desde 1974, muy de moda en el Madrid de los años 70. Con Juan Pastor, su propietario, que nos detalla desde la decoración ...
+title: Rosales 20, Madrid - Princesa - Menü, Preise &amp; Restaurant ...
+snippet: Rosales 20, Madrid: 85 Bewertungen - bei Tripadvisor auf Platz 10.000 von 11.647 von 11.647 Madrid Restaurants; mit 3/5 von Reisenden bewertet.
+
+REL: 2
+POI Name: Casa de Lin
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, Tapas Bars, Chinese, 
+Snippets:
+title: Casa de Lin - Carabanchel - Madrid, Spain - Yelp
+snippet: Casa de Lin in Madrid, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Madrid and beyond.
+title: Turismo Madrid | Turismo Madrid
+snippet: Ahora toca disfrutar de Madrid desde casa con las originales propuestas digitales del sector cultural y de espectáculos madrileño. Celebra el Día del Libro 2020 con el Instituto Cervantes. El Instituto Cervantes celebra el Día del Libro con numerosas iniciativas culturales por internet (15 al 29 de abril)
+title: Casa de Campo (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Segway Madrid Casa de Campo Private Tour (From $43.89) Madrid eBike Tour with Cable Car + Madrid Tapas Tour - Full Day Pack (From $123.77) Best of Madrid: Experience the top 100 sights your own way, your own pace (From $11.06) See all Casa de Campo experiences on Tripadvisor
+title: Casa de Campo Park | Official tourism website
+snippet: With 1,722.60 hectares of natural space, this location is the most important public park in Madrid. The history of Casa de Campo began with the decision by Philip II to move the Court to Madrid, and reside there. The King built a manor house linking the Palace with the hunting area called El Pardo.
+title: Comunidad de Madrid
+snippet: Portal informativo de la Comunidad de Madrid. En este portal podrá encontrar información segmentada temática de interés para el ciudadano tales como servicios, convocatorias y trámites
+title: Casa de América | Official tourism website
+snippet: Casa de América is one of the most active cultural institutions of our city. With a view to fostering contact between the Latin-American peoples and Spain, it organises all kinds of cultural activities (exhibitions, lectures, film and literary cycles, etc.).
+title: Madrid Teleférico | Official tourism website
+snippet: Casa de Campo, a huge park in the west of the city is a great place to go for a picnic or a long bike ride. It is also home to Parque de Atraccciones amusement park, and the Zoo Aquarium, one of the most important zoos in the world with animals from every continent.
+title: Palacio de Linares - Wikipedia, la enciclopedia libre
+snippet: En 1992, coincidiendo con los actos del Quinto Centenario de la llegada a América de Cristóbal Colón y de la capitalidad cultural europea de Madrid, el Palacio de Linares se reabrió, tras una rehabilitación llevada a cabo por el arquitecto Carlos Puente Fernández, como Casa de América, un centro destinado al intercambio cultural entre ...
+title: Casa Lucio, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Casa Lucio ble sterkt anbefalt av mange Uber-sjåfører mens han var i Madrid. Vi besøkte en mandag kveld, og publikum var utrolig. Jeg vet at de fleste innbyggere i Madrid spiser middag ganske sent, men dette virket altfor opptatt for en mandag kveld.
+title: Casa de lin ibiza restaurant menu - Restaurant Guru
+snippet: User-chosen places to eat at for casa de lin ibiza menu. Read reviews and menu for La Casa De Lin: #516 of 1593 places to eat in Ibiza. Compare ratings and prices of best Asian restaurants, Chinese restaurants.
+
+REL: 2
+POI Name: Los Andes
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Food, 
+Snippets:
+title: Los Andes
+snippet: LO MÁS DESTACADO DE LOS ANDES. Sociedad. 2. Para leer: el día que Di Benedetto se encontró con Claudia Cardinale. Sociedad.
+title: Guesthouse Hostal Los Andes, Madrid, Spain - Booking.com
+snippet: Hostal Los Andes This neighborhood is a great choice for travelers interested in restaurants, ambiance and culture – Check location Gaztambide, 11, Chamberi, 28015 Madrid, Spain – This neighborhood is a great choice for travelers interested in restaurants, ambiance and culture – Check location Excellent location – show map – Subway Access
+title: Hostal Pensión Los Andes (Moncloa/Argüelles, Madrid)
+snippet: Hostal Pensión los andes en Madrid. Situado cerca del centro de la ciudad.
+title: Hostal Los Andes, Madrid – Precios actualizados 2020
+snippet: Hostal Los Andes Este barrio es una opción ideal para los viajeros interesados en los restaurantes, el buen ambiente y la cultura – Comprobar la ubicación Gaztambide, 11, Chamberí, 28015 Madrid, España – Este barrio es una opción ideal para los viajeros interesados en los restaurantes, el buen ambiente y la cultura – Comprobar la ubicación Ubicación excelente - Mostrar mapa ...
+title: Beste spisesteder i nærheten av La Tagliatella Av. de los ...
+snippet: Restauranter i nærheten av La Tagliatella Av. de los Andes, Madrid på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av La Tagliatella Av. de los Andes, Madrid, Madrid.
+title: La Tagliatella Av. de los Andes, Madrid ...
+snippet: La Tagliatella Av. de los Andes, Madrid, Madrid: Se 116 objektive anmeldelser av La Tagliatella Av. de los Andes, Madrid, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 3 616 av 11 647 restauranter i Madrid.
+title: Hielo Madrid - Empresa de Hielos en Madrid
+snippet: El fin de Hielos Los Andes en Madrid, no es otro sino el de aportar comodidad y excelente calidad en el servicio y en los productos elegidos por cada cliente según la situación, y es algo que alcanzamos con el nivel de satisfacción requerido, tanto por profesionales como por clientes directos.
+title: HOSTAL LOS ANDES (Madrid, Spania) - Gjestgiveri ...
+snippet: Hostal Los Andes, Madrid: Se 22 reiseanmeldelser, 7 objektive bilder og gode tilbud for Hostal Los Andes, rangert som nr. 154 av 320 B&amp;B/vertshus i Madrid og vurdert til 4 av 5 på Tripadvisor.
+title: Hostal Los Andes (Madrid) – oppdaterte priser for 2020
+snippet: Hostal Los Andes Dette området passer utmerket for deg som er interessert i restauranter, en hyggelig atmosfære og kultur – Sjekk beliggenhet Gaztambide, 11, Chamberí, 28015 Madrid, Spania – Dette området passer utmerket for deg som er interessert i restauranter, en hyggelig atmosfære og kultur – Sjekk beliggenhet Utmerket beliggenhet – vis kart – Nær T-banen
+title: Hostal Los Andes, Madrid – Updated 2020 Prices
+snippet: Hostal Los Andes This neighbourhood is a great choice for travellers interested in restaurants, ambience and culture – Check location Gaztambide, 11, Chamberi, 28015 Madrid, Spain – This neighbourhood is a great choice for travellers interested in restaurants, ambience and culture – Check location Excellent location - show map – Metro access
+
+REL: 2
+POI Name: Artemisa
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Health Markets, 
+Snippets:
+title: Restaurantes Vegetarianos Artemisa
+snippet: Los Restaurantes Vegetarianos Artemisa nacieron en el año 1990 como los primeros restaurantes vegetarianos en Madrid en ofrecer una cocina sana, pero con una elaboración esmerada, marcando de esta manera la diferencia con los locales que ya existían con una opción vegetariana más básica y definiendo el camino a los que vinieron después.
+title: Artemisa Sol - Huertas, Madrid - Restaurantanmeldelser ...
+snippet: Artemisa Sol - Huertas, Madrid: Se 571 objektive anmeldelser av Artemisa Sol - Huertas, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 487 av 11 648 restauranter i Madrid.
+title: Artemisa Sol - Huertas, Madrid - Centro - Menu, Prices ...
+snippet: Artemisa Sol - Huertas, Madrid: See 573 unbiased reviews of Artemisa Sol - Huertas, rated 4 of 5 on Tripadvisor and ranked #486 of 11,660 restaurants in Madrid.
+title: Peluqueria Artemisa (Madrid) - 2019 All You Need to Know ...
+snippet: Get quick answers from Peluqueria Artemisa staff and past visitors.
+title: ARTEMISA SOL - HUERTAS, Madrid - Centro - Menú, Precios y ...
+snippet: Artemisa Sol - Huertas, Madrid: Consulta 573 opiniones sobre Artemisa Sol - Huertas con puntuación 4 de 5 y clasificado en Tripadvisor N.°486 de 11.660 restaurantes en Madrid.
+title: Artemisa Sol-Gran Via, Madrid - Centro - Menu, Prices ...
+snippet: Artemisa Sol-Gran Via, Madrid: See 359 unbiased reviews of Artemisa Sol-Gran Via, rated 4 of 5 on Tripadvisor and ranked #804 of 11,609 restaurants in Madrid.
+title: Restaurante Vegetariano Artemisa Sol - Gran Vía ...
+snippet: Restaurante Vegetariano Artemisa Sol - Gran Vía: vegetariano, vegano y 100% sin gluten Restaurante Vegetariano Artemisa Sol - Gran Vía es un clásico de la comida vegetariana en Madrid desde el año 1990. Te ofrecemos una cocina vegetariana, vegana y sin gluten, apta para celíacos y con opciones para veganos.
+title: Artemisa - Wikipedia, la enciclopedia libre
+snippet: La infancia de Artemisa no está completamente recogida en ningún mito conservado. La Ilíada reducía la figura de la pavorosa diosa a la de una muchacha que, tras haber sido azotada por Hera, buscaba consuelo en el regazo de Zeus. [28] Un poema de Calímaco dedicado a la diosa «que se deleita en las montañas con el arco» imagina algunas escenas encantadoras.
+title: Artemisa - Sol - Madrid, Spain - Yelp
+snippet: Artemisa, how i miss you! They have excellent food and service! the desert and juices are also delicious so if you are a vegetarian you do not want to miss this place! i went there almost every night when i was in madrid!
+title: Centro de Estética y Peluquería en Arganzuela Artemisa
+snippet: Centro de Estética y Peluquería Artemisa Estética Artemisa es un centro de estética y peluquería en Arganzuela que utiliza productos naturales. Elegimos las marcas y productos viendo sus ingredientes, calidad, tolerancia y claro está su eficacia y resultados. Pedimos que su elaboración siga criterios eco-compatible y de sostenibilidad.
+
+REL: 2
+POI Name: Mozzico
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, 
+Snippets:
+title: Mozzico, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Mozzico, Madrid: Se 26 objektive anmeldelser av Mozzico, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 5 319 av 11 660 restauranter i Madrid.
+title: Mozzico, Madrid - Centro - Restaurant Reviews, Photos ...
+snippet: Mozzico, Madrid: See 26 unbiased reviews of Mozzico, rated 4.5 of 5 on Tripadvisor and ranked #5,322 of 11,650 restaurants in Madrid.
+title: MOZZICO, Madrid - Centro - Fotos, Número de Teléfono y ...
+snippet: Mozzico, Madrid: Consulta 26 opiniones sobre Mozzico con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°5.320 de 11.656 restaurantes en Madrid.
+title: Mozzico Pizzerías - Madrid, Spain - Menu, Prices ...
+snippet: Mozzico Pizzerías, Madrid (Madrid, Spain). 956 likes. La nueva forma de comer auténtica Pizza al Taglio alla Romana. Elaborada 100% con masa madre, sin grasas animales y sin colesterol.
+title: Mozzico Pizzeria - Picture of Mozzico, Madrid - TripAdvisor
+snippet: Mozzico, Madrid Picture: Mozzico Pizzeria - Check out TripAdvisor members&#39; 50,900 candid photos and videos of Mozzico
+title: Que rico!!! - Picture of Mozzico, Madrid - Tripadvisor
+snippet: Mozzico, Madrid Picture: Que rico!!! - Check out Tripadvisor members&#39; 50,560 candid photos and videos of Mozzico
+title: Perfect end of night snack - Review of Mozzico, Madrid ...
+snippet: Mozzico: Perfect end of night snack - See 26 traveler reviews, 22 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: MOZZICO, Madrid - Omdömen om restauranger - Tripadvisor
+snippet: Mozzico, Madrid: Se 26 objektiva omdömen av Mozzico, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer5 320 av 11 647 restauranger i Madrid.
+title: Mozzico, Calle de las Huertas, 17 in Madrid - Restaurant ...
+snippet: All info on Mozzico in Madrid - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Mozzico, Madrid - Centro - Restaurant Bewertungen ...
+snippet: Mozzico, Madrid: 26 Bewertungen - bei Tripadvisor auf Platz 5.322 von 11.650 von 11.650 Madrid Restaurants; mit 4,5/5 von Reisenden bewertet.
+
+REL: 2
+POI Name: Varadero Taberna Marinera
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Tabernas, 
+Snippets:
+title: VARADERO TABERNA MARINERA, Madrid - Centro - Fotos, Número ...
+snippet: Varadero Taberna Marinera, Madrid: Consulta 23 opiniones sobre Varadero Taberna Marinera con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°4.102 de 11.609 restaurantes en Madrid.
+title: VARADERO TABERNA MARINERA, Madrid - Centro - Fotos, Número ...
+snippet: Varadero Taberna Marinera, Madrid: Consulta 23 opiniones sobre Varadero Taberna Marinera con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°4.091 de 11.584 restaurantes en Madrid.
+title: VARADERO TABERNA MARINERA, Madrid - Centro - Fotos, Número ...
+snippet: Varadero Taberna Marinera, Madrid: Consulta 23 opiniones sobre Varadero Taberna Marinera con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°4.127 de 11.647 restaurantes en Madrid.
+title: VARADERO TABERNA MARINERA, Pozuelo de Alarcón - Fotos ...
+snippet: Varadero Taberna Marinera, Pozuelo de Alarcón: Consulta 45 opiniones sobre Varadero Taberna Marinera con puntuación 3 de 5 y clasificado en Tripadvisor N.°138 de 216 restaurantes en Pozuelo de Alarcón.
+title: Varadero Taberna Marinera, Pozuelo de Alarcon - Restaurant ...
+snippet: Varadero Taberna Marinera, Pozuelo de Alarcon: See 45 unbiased reviews of Varadero Taberna Marinera, rated 3 of 5 on Tripadvisor and ranked #138 of 216 restaurants in Pozuelo de Alarcon.
+title: Varadero Taberna Marinera, Pozuelo de Alarcon - Photos ...
+snippet: Order food online at Varadero Taberna Marinera, Pozuelo de Alarcon with Tripadvisor: See 44 unbiased reviews of Varadero Taberna Marinera, ranked #144 on Tripadvisor among 215 restaurants in Pozuelo de Alarcon.
+title: VARADERO TABERNA MARINERA, Pozuelo de Alarcón - Menú ...
+snippet: Reserva Varadero Taberna Marinera, Pozuelo de Alarcón en Tripadvisor: Consulta 44 opiniones sobre Varadero Taberna Marinera con puntuación 3 de 5 y clasificado en Tripadvisor N.°144 de 215 restaurantes en Pozuelo de Alarcón.
+title: Cutre - Varadero Taberna Marinera - Tripadvisor
+snippet: Varadero Taberna Marinera: Cutre - 23 opiniones y 6 fotos de viajeros, y ofertas fantásticas para Madrid, España en Tripadvisor.
+title: Varadero Taberna Marinera - Home - Pozuelo de Alarcón ...
+snippet: See more of Varadero Taberna Marinera on Facebook. Log In. or. Create New Account. See more of Varadero Taberna Marinera on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Varadero Taberna Marinera. Seafood Restaurant in Pozuelo de Alarcón, Madrid. 5. 5 out of 5 stars. Community See All. 13 people like this.
+title: Varadero Taberna Marinera from Pozuelo de Alarcón menu
+snippet: The Menu for Varadero Taberna Marinera from Pozuelo de Alarcón has 41 Dishes. Order from the menu or find more Restaurants in Pozuelo de Alarcón. ... Madrid, 28223 Pozuelo de Alarcón Spain . Open Map. Home / Restaurants / Pozuelo-de-alarcon / Varadero Taberna Marinera.
+
+REL: 2
+POI Name: Sweet Suomi
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, 
+Snippets:
+title: sweet SUOMI
+snippet: o a través de nuestra App Sweet Suomi. Solicítanos información a través de wahstapp y os pasaremos la lista de platos del día. ... Sweet Suomi, Calle Condesa de Venadito, Madrid, Comunidad de Madrid, 28027, Spain ©Sweet Suomi Design: Gabriel Corchero Studio .
+title: Sweet Suomi - Home | Facebook
+snippet: Sweet Suomi - C/ Condesa de Venadito, 3, 28027 Madrid, Spain - Rated 4.7 based on 17 Reviews &quot;Super clean and relax place to eat and feel good. Thank you!&quot;
+title: Sweet Suomi - Ciudad Lineal - Madrid, Spain - Yelp
+snippet: 1 review of Sweet Suomi &quot;I always have a thing with small corner cafés. This one fits the bill, albeit not exactly in the corner but the food...It&#39;s simple and tasty! I love to come here for breakfast and after office snacking (since it&#39;s on a…
+title: Entreluces - Picture of Sweet Suomi, Madrid - Tripadvisor
+snippet: Sweet Suomi, Madrid Picture: Entreluces - Check out Tripadvisor members&#39; 53,432 candid photos and videos of Sweet Suomi
+title: Great coffee, fine cakes - Review of Sweet Suomi, Madrid ...
+snippet: Sweet Suomi: Great coffee, fine cakes - See 40 traveler reviews, 24 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: Tarta de zanahoria, se acaba pronto - Picture of Sweet ...
+snippet: Sweet Suomi, Madrid Picture: Tarta de zanahoria, se acaba pronto - Check out Tripadvisor members&#39; 53,558 candid photos and videos of Sweet Suomi
+title: Un sitio especial - Picture of Sweet Suomi, Madrid ...
+snippet: Sweet Suomi, Madrid Picture: Un sitio especial - Check out Tripadvisor members&#39; 53,596 candid photos and videos of Sweet Suomi
+title: De diseño - Picture of Sweet Suomi, Madrid - Tripadvisor
+snippet: Sweet Suomi, Madrid Picture: De diseño - Check out Tripadvisor members&#39; 53,558 candid photos and videos.
+title: Un sitio especial - Picture of Sweet Suomi, Madrid ...
+snippet: Sweet Suomi, Madrid Picture: Un sitio especial - Check out Tripadvisor members&#39; 53,573 candid photos and videos.
+title: Sweet Suomi - Madrid, Madrid - Untappd
+snippet: Find out what&#39;s popular at Sweet Suomi in Madrid, Madrid in real-time and see activity
+
+REL: 2
+POI Name: La Doña
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Desserts, Bakeries, Cafeteria, 
+Snippets:
+title: La Dona, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: La Dona, Madrid: Se 156 objektive anmeldelser av La Dona, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 698 av 11 638 restauranter i Madrid.
+title: La Dona, Madrid - Conde Duque - Restaurant Reviews, Photos ...
+snippet: La Dona, Madrid: See 156 unbiased reviews of La Dona, rated 4 of 5 on Tripadvisor and ranked #1,703 of 11,660 restaurants in Madrid.
+title: La Doña - Universidad - Madrid, Spain
+snippet: 9 reviews of La Doña &quot;Found this place walking by to the hotel at midnight. What caught out eyes were the Oreo donuts. The donuts are really awesome hot chocolate was really good, for us coming from other countries we are used to a different…
+title: LA DONA, Madrid - Conde Duque - Ristorante Recensioni ...
+snippet: La Dona, Madrid: su Tripadvisor trovi 156 recensioni imparziali su La Dona, con punteggio 4 su 5 e al n.1.704 su 11.647 ristoranti a Madrid.
+title: LA DONA, Madrid - Conde Duque - Updated 2020 Restaurant ...
+snippet: Order takeaway and delivery at La Dona, Madrid with Tripadvisor: See 156 unbiased reviews of La Dona, ranked #1,704 on Tripadvisor among 11,647 restaurants in Madrid.
+title: LA DOÑA, Madrid - Conde Duque - Fotos, Número de Teléfono ...
+snippet: La Doña, Madrid: Consulta 156 opiniones sobre La Doña con puntuación 4 de 5 y clasificado en Tripadvisor N.°1.703 de 11.660 restaurantes en Madrid.
+title: La Doña - Home | Facebook
+snippet: La Doña. 806 likes · 15 talking about this · 960 were here. En c/San Bernardo 57, Madrid.
+title: LA DONA, Madrid - Comentários de restaurantes - Tripadvisor
+snippet: La Dona, Madrid: Veja 156 dicas e avaliações imparciais de La Dona, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 1.703 de 11.647 restaurantes em Madrid.
+title: La Dona, Madrid - Conde Duque - Restaurant Bewertungen ...
+snippet: La Dona, Madrid: 156 Bewertungen - bei Tripadvisor auf Platz 1.703 von 11.659 von 11.659 Madrid Restaurants; mit 4/5 von Reisenden bewertet.
+title: THE 10 BEST Restaurants Near La Dona in Madrid, Community ...
+snippet: Restaurants near La Dona, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near La Dona in Madrid, Spain.
+
+REL: 2
+POI Name: Askuabarra
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Basque, Tapas Bars, 
+Snippets:
+title: Restaurante AskuaBarra | Restaurante de producto en Madrid
+snippet: Restaurante AskuaBarra, de Jorge Gadea y Nacho Gadea: restaurante de producto situado en el centro de Madrid. Cocina honesta y de alta calidad.
+title: AskuaBarra, Madrid - Centro - Restaurant Reviews, Photos ...
+snippet: AskuaBarra, Madrid: See 385 unbiased reviews of AskuaBarra, rated 4.5 of 5 on Tripadvisor and ranked #379 of 11,639 restaurants in Madrid.
+title: ASKUABARRA, Madrid - Centro - Fotos, Número de Teléfono y ...
+snippet: AskuaBarra, Madrid: Consulta 385 opiniones sobre AskuaBarra con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°371 de 11.660 restaurantes en Madrid.
+title: AskuaBarra, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: AskuaBarra, Madrid: Se 385 objektive anmeldelser av AskuaBarra, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 379 av 11 633 restauranter i Madrid.
+title: ASKUABARRA, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: AskuaBarra, Madrid: See 385 unbiased reviews of AskuaBarra, rated 4.5 of 5 on Tripadvisor and ranked #371 of 11,660 restaurants in Madrid.
+title: AskuaBarra, un delicioso vasco en el centro de Madrid
+snippet: AskuaBarra es sin lugar a dudas uno de los mejores vascos de Madrid. El steak tartar, considerado el mejor de Madrid, y su chuletón merecen la pena probarlos.
+title: AskuaBarra | Carta
+snippet: El mercado nos ofrece un amplio abanico de alimentos. De manera periódica, nuestros chefs seleccionan los mejores productos de temporada e invierten todo su talento y creatividad para convertirlos en protagonistas de sus recetas fuera de carta. Guisante lágrima, salmonete, chipirón, sardina… El elemento principal varía en función de la época del año, pero hay una …
+title: AskuaBarra - Home - Madrid, Spain - Menu, Prices ...
+snippet: AskuaBarra - C/ Arlabán, 7, 28014 Madrid, Spain - Rated 4.7 based on 59 Reviews &quot;We had an excellent lunch with outstanding service and can highly...
+title: Askuabarra – Madrid - a MICHELIN Guide Restaurant
+snippet: Askuabarra – a restaurant from the 2020 MICHELIN Guide España. The MICHELIN inspectors’ point of view, information on prices, types of cuisine and opening hours on the MICHELIN Guide&#39;s official website
+title: THE 10 BEST Restaurants Near AskuaBarra in Madrid ...
+snippet: Restaurants near AskuaBarra, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near AskuaBarra in Madrid, Spain.
+
+REL: 2
+POI Name: Alejandro
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Alejandro L. Madrid | Department of Music Cornell Arts ...
+snippet: Since 2013, Alejandro L. Madrid is professor of musicology and ethnomusicology at Cornell University’s Department of Music. Before that, he was on the faculty of the Latino and Latin American Studies program of the University of Illinois at Chicago, and was a visiting professor at Northwestern University and at Texas A&amp;M University.
+title: 200+ &quot;Alejandro Madrid&quot; profiles | LinkedIn
+snippet: View the profiles of professionals named &quot;Alejandro Madrid&quot; on LinkedIn. There are 200+ professionals named &quot;Alejandro Madrid&quot;, who use LinkedIn to exchange information, ideas, and opportunities.
+title: EL MEJOR CONCIERTO DE ALEJANDRO SANZ COMPLETO EN MADRID ...
+snippet: 50+ videos Play all Mix - EL MEJOR CONCIERTO DE ALEJANDRO SANZ COMPLETO EN MADRID YouTube Alejandro Sanz - Mix Románticas - Duration: 41:08. Música de la nueva era 1,749,850 views
+title: Alejandro L. Madrid | Cornell University - Academia.edu
+snippet: Alejandro L. Madrid, Cornell University, Musicology Department, Faculty Member. Studies Critical Musicology, Ethnomusicology, and Microtonal Music. Alejandro L. Madrid is a Professor of musicology and ethnomusicology at Cornell University. He holds a
+title: Alejandro de la Madrid (@alexdelamadrid) • Instagram ...
+snippet: 227.2k Followers, 1,274 Following, 1,197 Posts - See Instagram photos and videos from Alejandro de la Madrid (@alexdelamadrid)
+title: Alejandro Sanz, Camila Cabello - Mi Persona Favorita (LIVE ...
+snippet: Camila Cabello&#39;s FIRST &amp; ONLY LIVE PERFORMANCE of Mi persona favorita. 2019 at the lagira tour in Madrid. Skip ... (En Directo En El Wanda Metropolitano / Madrid / 2019) Artist Alejandro Sanz ...
+title: Alejandro L. Madrid - Wikipedia
+snippet: Alejandro Luis Madrid-González (born August 25, 1968, Houston, Texas) is a music scholar, cultural theorist, and professor, whose research focuses on Latinx and Latin American musics and sound practices. He is professor of musicology and ethnomusicology at Cornell University.
+title: Alejandro de la Madrid - IMDb
+snippet: Alejandro de la Madrid, Actor: El Señor de los Cielos. Alejandro de la Madrid was born on March 23, 1977 in Mexico City, Distrito Federal, Mexico as Alejandro de la Madrid Nogueda. He is an actor, known for El Señor de los Cielos (2013), Palabra de mujer (2007) and Un gancho al corazón (2008).
+title: Alejandro de la Madrid - Wikipedia, la enciclopedia libre
+snippet: Biografía. Nació el 23 de marzo de 1977 en la Ciudad de México. Tiene más de 27 años de carrera actoral ininterrumpida en teatro, cine y televisión.
+title: Alejandro Fernandez Mexico-Madrid: en directo - YouTube
+snippet: Sign in to like videos, comment, and subscribe. Sign in. Watch later
+
+REL: 2
+POI Name: Alhambra
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Tapas/Small Plates, 
+Snippets:
+title: Taberna Alhambra, Madrid - Centro - Restaurant Reviews ...
+snippet: Taberna Alhambra, Madrid: See 1,918 unbiased reviews of Taberna Alhambra, rated 4 of 5 on Tripadvisor and ranked #553 of 11,660 restaurants in Madrid.
+title: Madrid to Alhambra - 8 ways to travel via train, bus ...
+snippet: There are 8 ways to get from Madrid to Alhambra by train, bus, rideshare, car or plane. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.
+title: Alhambra – Wikipedia
+snippet: Alhambra («Det røde slottet») (arabisk: الحمراء) er et palass og et festningskompleks som ble bygget på midten av 1300-tallet av de mauriske herskerne i emiratet Grenada, i dag i den autonome regionen Andalucía i Spania.Festningen står i dag på UNESCOs verdensarvliste og er en av Spanias største turistattraksjoner.
+title: Guesthouse Hostal Alhambra Suites, Madrid, Spain - Booking.com
+snippet: Hostal Alhambra Suites This neighborhood is a great choice for travelers interested in tapas, architecture and food – Check location Espoz y Mina, 8, 2ª Planta, Madrid City Center, 28012 Madrid, Spain – This neighborhood is a great choice for travelers interested in tapas, architecture and food – Check location Excellent location – show map – Subway Access
+title: La Alhambra, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: La Alhambra, Madrid: Se 57 objektive anmeldelser av La Alhambra, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 158 av 11 647 restauranter i Madrid.
+title: Handcrafted guitars | Guitarras Alhambra
+snippet: Guitarras Alhambra Making the finest nylon string guitars in Spain since 1965. Established in 1965, with 50 years of experience in the construction of the best handmade classical, flamenco and steel string guitars in the world.
+title: TABERNA ALHAMBRA, Madrid - Centro - Updated 2020 ...
+snippet: Taberna Alhambra, Madrid: See 1,918 unbiased reviews of Taberna Alhambra, rated 4 of 5 on Tripadvisor and ranked #553 of 11,660 restaurants in Madrid.
+title: Day trip from Madrid to see the Alhambra - Madrid Forum ...
+snippet: Answer 1 of 5: My husband and I will be in Madrid from June 4 to June 10 and would like to plan a day trip to see the Alhambra. We are staying in a friends&#39; flat and will be using public transport. Can any of you recommend the best way to see the Alhambra...
+title: Alhambra - Wikipedia
+snippet: Alhambra has directly inspired musical compositions as Francisco Tárrega&#39;s famous tremolo study for guitar Recuerdos De La Alhambra. Claude Debussy &#39;s piece for two pianos composed in 1901, Lindaraja , and the prelude, La Puerta Del Vino , from the second book of preludes composed from 1912 to 1913.
+title: Alhambra Suites i Madrid | Hotels.com
+snippet: Alhambra Suites ligger i sentrum og nær en undergrunnsstasjon i bydelen Barrio de las Letras i Madrid. Et par kulturelle høydepunkter er Museo Nacional Centro de Arte Reina Sofia og Teatro Nuevo Apolo, mens Puerta del Sol og Paseo del Prado er noen av områdets populære attraksjoner. Du kan se om det skjer noe kult på WiZink Center, og hvis du har tid, bør du også få med deg Madrid ...
+
+REL: 2
+POI Name: América dos
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Desserts, 
+Snippets:
+title: Dulces argentinos Madrid | Pastelería América2
+snippet: Pastelería Argentina. En América-dos podrá encontrar todas las especialidades clásicas de la repostería Argentina. Elaboramos todos los típicos dulces argentinos, desde las clásicas facturas argentinas o los tradicionales alfajores rellenos de dulce de leche hasta la auténtica tarta de ricotta.
+title: Resumen América 0-2 Real Madrid Mundial de Clubes - YouTube
+snippet: Resumen América 0-2 Real Madrid Mundial de Clubes Club América. Loading ... Real Madrid vs Barcelona 2-3 All Goals and Full Highlights English Commentary 23-04-2017 HD - Duration: ...
+title: Museo de America (Madrid) - 2020 All You Need to Know ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Museum of the Americas | Official tourism website
+snippet: The museum was built in April 1941; it was born from an idea that had been in development for a long time with different names: Overseas Museum-Library, Archaeological Museum of Indies, etc. In 1943, the plan for the existing museum was commissioned to the architects Luis Moya and Luis Martínez Feduchi, starting that same year and ending in 1954.
+title: EL PAÍS Edición América: el periódico global
+snippet: Noticias de última hora de América Latina, ... La crisis económica en EE UU amenaza una fuente de ingresos para más de dos millones de hogares en México. ... Madrid. El ministro de la ...
+title: U.S. Embassy Madrid | U.S. Embassy &amp; Consulate in Spain ...
+snippet: The United States Mission in Spain comprises the American Embassy in Madrid and the Consulate General of the United States in Barcelona . The many agencies of the United States Government that constitute the Mission work as a team to advance American interests and promote relations between the American and Spanish governments and people. They shape and carry out American relations with Spain, ...
+title: Avenida de América (Madrid Metro) - Wikipedia
+snippet: Avenida de América (Avenue of the Americas) is a multimodal station in Madrid, Spain that services Madrid Metro Line 4, Line 6, Line 7, and Line 9, as well as city buses and intercity and long-distance coaches.Between 1986 and 1996, it also served Line 8.The station is located below the intersections of Avenida de América and Francisco Silvela and Príncipe de Vergara streets.
+title: Latinoamérica en EL PAÍS - EL PAÍS Edición América ...
+snippet: El autor, ex ministro de Costa Rica y vicedirector de la FAO, cuenta su experiencia de confinamiento por la Covid-19 en este país y cómo, en él y en Italia, la población defiende más el ...
+title: América Noticias y Resultados - ESPNDeportes
+snippet: América realiza primer depósito por Federico Viñas. Las Águilas aseguran la permanencia del uruguayo al iniciar el proceso de compra con Juventud de las Piedras. ... Giovani Dos Santos, M. 1 ...
+title: Metro y Canal de Isabel II: Madrid se estrella en América ...
+snippet: “Madrid prepara una ola de privatizaciones”. El titular aparece en febrero de 2012 en el Financial Times y apunta directamente a las dos empresas públicas más potentes de la Comunidad: Metro ...
+
+REL: 2
+POI Name: Mokäi
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Cafeteria, 
+Snippets:
+title: Fly Mo i Rana - Madrid | MQN - MAD | Expedia.no
+snippet: Når du ser etter fly fra Mo i Rana (MQN) til Madrid (MAD), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Mo i Rana til Madrid.
+title: Yr – Langtidsvarsel for Madrid (Spania)
+snippet: Du kan få svært mye av innholdet på Yr gratis, til bruk i ulike applikasjoner og tjenester. Dersom du utvikler program, nettjenester eller annet med data frå Yr, oppfordrer vi deg til å dele det du har laget med andre!
+title: Yr – Værvarsel for Madrid (Spania)
+snippet: 15. april 2020 kl 21-0: Delvis skyet, Temperatur 13, 0 mm, Svak vind, 3 m/s fra sør-sørøst
+title: Mokäi - Tapas Restaurant in Madrid
+snippet: Tapas Restaurant in Madrid, Madrid Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Fly Mo I Rana - Madrid: Bestill hos Travellink
+snippet: Finn fly fra Mo I Rana - Madrid. Planlegger du en reise til Madrid i forbindelse med jobb, for å besøke familie eller bare for å ta en velfortjent ferie? Da har du kommet til rett sted! Travellink gir deg gode tilbud på flyreiser og billige billetter fra Mo I Rana til det aktuelle reisemålet.
+title: Stol Madrid 74x54x92 cm Svart Textilene - Stoler - Rusta.com
+snippet: Bord Neapel + 4 Stol Madrid. Stablestol med ramme i svart pulverlakkert stål og sete i slitesterk textilene. Bordplate i lettstelt aintwood og stativ i pulverlakkert stål og aluminium.
+title: mokäi - Imperial - 1 visitor
+snippet: 1 visitor has checked in at mokäi. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Fly Trondheim - Madrid: Bestill hos Travellink
+snippet: Planlegger du en reise til Madrid i forbindelse med jobb, for å besøke familie eller bare for å ta en velfortjent ferie? Da har du kommet til rett sted! Travellink gir deg gode tilbud på flyreiser og billige billetter fra Trondheim til det aktuelle reisemålet. ... Fly fra Mo I Rana til Madrid.
+title: Spania – Wikipedia
+snippet: Spania (spansk: España), offisielt Kongeriket Spania (spansk: Reino de España) er et land på Den iberiske halvøy i Sør-Europa.Landet grenser i nord mot Andorra og Frankrike, i sør mot Gibraltar og Middelhavet, og i vest mot Portugal.Spanias hovedstad er Madrid.Det høyeste fjellet i Spania er det vulkanske Teide (3 717 moh.), som ligger på Tenerife.
+title: BILLIGE FLYBILLETTER fra Madrid til Mo i Rana ...
+snippet: Bestill billige flyreiser fra Madrid til Mo i Rana: Søk og sammenlign flybillettpriser på Tripadvisor, for å finne de beste flyreisene for turen din til Mo i Rana. Velg det beste flyselskapet for deg ved å lese anmeldelser og se på hundrevis av billettpriser for flyreiser til og fra reisemålet.
+
+REL: 2
+POI Name: Yokaloka
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Japanese, 
+Snippets:
+title: #YokaIsBack · Yokaloka vuelve | Yokaloka
+snippet: Así nació Yokaloka, el que ya es considerado como el mejor japo de Madrid Hoy te proponemos un viaje. Recorre con nosotros una ruta que se inicia en Japón y cuya primera parada es India. Así, en busca de nuevas experiencias se encu ...
+title: Yokaloka, Madrid - Centro - Menu, Prices &amp; Restaurant ...
+snippet: Yokaloka, Madrid: See 450 unbiased reviews of Yokaloka, rated 4.5 of 5 on Tripadvisor and ranked #413 of 11,633 restaurants in Madrid.
+title: Carta | Yokaloka
+snippet: Aquí puedes encontrar la carta de Yokaloka donde incluimos el que es considerado como el mejor ramen del mundo ...
+title: Yokaloka, Madrid - Restaurantanmeldelser - TripAdvisor
+snippet: Yokaloka, Madrid: Se 430 objektive anmeldelser av Yokaloka, vurdert til 4,5 av 5 på TripAdvisor og vurdert som nr. 414 av 11 538 restauranter i Madrid.
+title: YOKALOKA, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: Yokaloka, Madrid: See 450 unbiased reviews of Yokaloka, rated 4.5 of 5 on Tripadvisor and ranked #431 of 11,660 restaurants in Madrid.
+title: YOKALOKA, Madrid - Centro - Menú, Precios y Restaurante ...
+snippet: Yokaloka, Madrid: Consulta 450 opiniones sobre Yokaloka con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°432 de 11.660 restaurantes en Madrid.
+title: YOKALOKA - Home - Madrid, Spain - Menu, Prices, Restaurant ...
+snippet: YOKALOKA - Calle Santa Isabel, 5, 28012 Madrid, Spain - Rated 4.8 based on 158 Reviews &quot;We are staying in Madrid for 5 nights &amp; my family wanted a break...
+title: Yokaloka - Lavapiés y Embajadores - Madrid, Spain - Yelp
+snippet: Madrid was the last leg of our three week trip in Europe. I was tired of tapas and paella, pizza and pasta, croissants and croque madams, and everything European and just wanted some acceptable Asian comfort food that wouldn&#39;t give us a stomachache.
+title: Ella es Yoka Kamada | Yokaloka · El mejor japo de Madrid
+snippet: &quot;Tiene mérito lo de Yokaloka, una japonesa amante del flamenco que hace ya unos cuantos años–ahora nos puede parecer normal–plantó su diminuto puesto de comida japonesa junto a los puestos de olivas, casquería, encurtidos, pollo y huevos de toda la vida en el Mercado de Antón Martín.
+title: Restaurants Near Yokaloka, Madrid, Spain - TripAdvisor
+snippet: Restaurants near Yokaloka, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Yokaloka in Madrid, Spain.
+
+REL: 2
+POI Name: La Venencia
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Tabernas, Andalusian, 
+Snippets:
+title: La Venencia (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: The One Bar You Must Visit When You&#39;re In Madrid
+snippet: Madrid has more bars per capita than any other city in Europe.But what if you had to choose to visit just one? If you love history, ambience, and sherry wine, the answer is La Venencia, a decades-old watering hole and local favorite, a short walk from Plaza Santa Ana.
+title: La Venencia, Madrid - Centro - Restaurant Reviews, Photos ...
+snippet: For the love of sherry. Nothing beats La Venencia. Scruffy, dusty bar, always packed full, grumpy staff, no music. Love it all. Ask for hueva, mojama &amp; cecina to go with some Manzanilla &amp; Fino its the closest you get to Cadiz in Madrid.
+title: La Venencia, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: La Venencia er en barrio vinbar med atmosfære, karakter og antikvitet, som spesialiserer seg på sherries og amontillados. Men jeg tar alltid bort fornøyelsespunkter hvis den karakteren og atmosfæren blir selvrettferdig og snooty i den grad jeg forbyr å ta bilder.
+title: La Venencia (Madrid) - 2020 Qué saber antes de ir - Lo más ...
+snippet: Suba a bordo del autobús de dos pisos con techo descubierto y recorra la Ruta Uno, la Ruta Dos o ambas. Aprenda sobre la historia de Madrid usando a bordo unos auriculares de cortesía. Baje del autobús para visitar museos, monumentos, plazas y teatros y explore la capital de España con la guía y el mapa facilitados.
+title: La Venencia (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: La Venencia, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for La Venencia i Madrid, Spania på Tripadvisor.
+title: LA VENENCIA, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: For the love of sherry. Nothing beats La Venencia. Scruffy, dusty bar, always packed full, grumpy staff, no music. Love it all. Ask for hueva, mojama &amp; cecina to go with some Manzanilla &amp; Fino its the closest you get to Cadiz in Madrid.
+title: La Venencia - Madrid, Spain - Bar | Facebook
+snippet: La Venencia, Madrid, Spain. 1K likes. Bar. Old school bar that serves sherry. Had some nice mojama (cured tuna) there also.
+title: La Venencia (Madrid) - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Obwohl ich schon so oft in Madrid war, bin ich erst beim letzten Mal erstmals hierher gekommen. (Insidertipp eines spanischen Freundes). In dieser Bar ist die Zeit stehen geblieben - ich stelle mir vor, dass Sherry Bars schon vor hundert Jahren so ausgesehen haben.
+title: La Venencia, Madrid - Centro - Restaurant Avis, Numéro de ...
+snippet: La Venencia, Madrid : consultez 352 avis sur La Venencia, noté 4,5 sur 5 sur Tripadvisor et classé #384 sur 11 659 restaurants à Madrid.
+
+REL: 2
+POI Name: Munich
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Tapas Bars, 
+Snippets:
+title: Billige flyreiser Munich - Madrid - Jetcost
+snippet: Fly Munich - Madrid: Søk og bestill billige flybilletter fra Munich til Madrid. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Billige flyreiser Madrid - Munich - Jetcost
+snippet: Fly Madrid - Munich: Søk og bestill billige flybilletter fra Madrid til Munich. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Cheap flights from Madrid to Munich from 88 € on Iberia
+snippet: A visit to Munich truly is a ‘wish your heart makes’. Check the flight offer from Madrid to Munich and book your plane ticket online. Iberia guarantees the best last-minute prices for our cheap flight offer from Madrid to Munich. Prices shown are for flights that customers have recently searched at from Madrid to Munich.
+title: Cheap Flights from Munich to Madrid (MUC - MAD) from £76 ...
+snippet: Compare flights from Munich to Madrid and find cheap tickets with Skyscanner. Skyscanner is a fast and simple travel search engine that compares hundreds of flights from all major airlines and travel agents, finding you the best deal on cheap plane tickets to Madrid from Munich.
+title: Home - FC Bayern Munich
+snippet: FC Bayern Munich First team squad First team squad Women&#39;s team The FC Bayern Women represent the club in the Bundesliga and Women&#39;s Champions League. Legends team The FC Bayern Legends team was founded in the summer of 2006 with the aim of bringing former players... Matches Fixtures Standings Stats
+title: Munich to Madrid - 8 ways to travel via train, plane, bus ...
+snippet: There are 8 ways to get from Munich to Madrid by plane, train, bus or car. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.
+title: Real Madrid vs Bayern Munich 6-3 - All Goals &amp; Highlights ...
+snippet: Real Madrid vs Bayern Munich 6-3 - All Goals &amp; Highlights - UCL 2016/17 (1st and 2nd leg)
+title: Home - MUNICH X SHOES - Sports &amp; Fashion from Barcelona ...
+snippet: MUNICH® website. FASHION is Massana, Goal, Sapporo, Alpha, Osaka, Barru, Cloud, Heaven, Petanca and more. SPORTS is Gresca, Continental, G3, Barrufet, Mundial ...
+title: Real Madrid 4-2 Bayern Munich | REACCIONES DE AFICIONADOS ...
+snippet: Real Madrid 4-2 Bayern Munich en el Santiago Bernabeu Epic VLOG !! MONEDAS BARATAS Y FIFA POINTS (8% CÓDIGO: mario) https://goo.gl/4TbjFY Mandos personali...
+title: $38 - Cheap flights from Madrid (MAD) to Munich (MUC ...
+snippet: Compare &amp; reserve one-way or return flights from Madrid to Munich from $38 only to get the best flight deals and promotions for your MAD to MUC trip!
+
+REL: 2
+POI Name: Café Green Bakery
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Juice Bars & Smoothies, Breakfast & Brunch, Salad, 
+Snippets:
+title: Cafe Green Bakery Madrid, posiblemente el mejor café del ...
+snippet: Café Green Bakery, no es solo una cafetería, es además un lugar donde sabemos lo importante que es para tí, cuidarte día a día, Un pedacito de mundo en Argüelles. Nos encantan las tendencias gastronómicas, de punta a punta, las cities como NY, Lima o Venecia.
+title: Café Green Bakery - Coffee Shop - Madrid, Spain | Facebook ...
+snippet: Café Green Bakery - melendez valdes 49, 28015 Madrid, Spain - Rated 4.8 based on 24 Reviews &quot;This is one of the best places in Arguelles. Delicious food,...
+title: THE 10 BEST Bakeries in Madrid - Tripadvisor
+snippet: Bakeries in Madrid, Community of Madrid: Find Tripadvisor traveler reviews of Madrid Bakeries and search by price, location, and more. ... “Nice local bakery ... “posiblemente el mejor café de Madrid ...
+title: Café On The Green and Bakery - Home | Facebook
+snippet: Café On The Green and Bakery. 153 likes. Serving Breakfast, Lunch, and Dinner. Along with Catering and the freshest Baked Goods.
+title: Greener Cafe – Restaurante en Madrid
+snippet: Quienes somos. NUESTRO EQUIPO. Nosotros… Un grupo de amigos y hosteleros de prestigio se han unido en una aventura que te gustará… La mejor calidad con los proveedores de las mejores mesas de Madrid, en un ambiente divertido, informal y joven.
+title: IMG_20160108_102208_large.jpg - Picture of Cafe Green ...
+snippet: Cafe Green Bakery, Madrid Picture: IMG_20160108_102208_large.jpg - Check out Tripadvisor members&#39; 53,281 candid photos and videos of Cafe Green Bakery
+title: Cafe Madrid Deli &amp; Bakery - Home | Facebook
+snippet: Cafe Madrid Deli &amp; Bakery - 4502 Curry Ford Rd, Orlando, Florida 32812 - Rated 5 based on 4 Reviews &quot;Just pop in to check this place. I’m very impress,...
+title: Green Bakery &amp; Cafe - LOS ALTOS, CA 94024 (Menu &amp; Order ...
+snippet: Online ordering menu for Green Bakery &amp; Cafe. Here at Green Bakery &amp; Cafe, we serve Vietnamese cuisine such as Vermicelli Noodles, Pho, Banh Mi, and more! We&#39;re located near Los Altos Golf &amp; Country Club on Fremont Avenue. Order online for carryout!
+title: Green Bakery &amp; Cafe - Home
+snippet: We serve fresh and healthy eats all day long. From delicious salads, appetizers, soups, sandwiches and more! Visit us in Los Altos, CA.
+title: Brown Bear Bakery, Madrid - Centro - Restaurant Reviews ...
+snippet: Brown Bear Bakery, Madrid: See 201 unbiased reviews of Brown Bear Bakery, rated 4 of 5 on Tripadvisor and ranked #1,197 of 11,660 restaurants in Madrid.
+
+REL: 1
+POI Name: Boite
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: La Boite - Madrid, Spain - Dance &amp; Night Club, Bar | Facebook
+snippet: La Boite, Madrid, Spain. 706 likes · 3,869 were here. Dance &amp; Night Club
+title: Les 5 meilleures boites de nuit à Madrid | Uniplaces Blog
+snippet: 5 boites de nuit à Madrid où faire la fête jusqu’au bout de la nuit Kapital Madrid. 7 étages. oui, vous avez bien lu, 7 étages! Kapital Madrid est, comme son nom l’indique, la capitale des nuits madrilènes. L’une des plus grandes boites de nuit à Madrid aussi, avec ses 7 étages, où vous pourrez écouter absolument tous les styles ...
+title: Sala Boite en Madrid. Discoteca | Guía del Ocio
+snippet: A escasos minutos de La puerta del Sol y de Gran Vía se encuentra La Boite, discoteca de ambiente mixto de lo más divertida.Una gran pista de baile, un escenario, un amplio vestíbulo, una enorme barra, y las típicas zonas de sillones y reservados, que lucen en una decoración revival de una boite años setenta gracias a paredes de espejos con dibujos de flamencos, flores, grecas en plan ...
+title: Où sortir à Madrid: les boîtes de nuit | La Vida de Marine
+snippet: Le Moondance : où je sortais pendant mon erasmus. Bien évidemment, je n’ai pas connu le Teatro Barceló dès le début, et la première boite de Madrid que j’ai tout de suite préférée pendant mon erasmus à Madrid, c’était le Moondance!Situé dans une petite rue perpendiculaire à la distinguée Calle Montera, le Moondance est une boîte de nuit pas très grande pour une soirée ...
+title: Facebook
+snippet: See posts, photos and more on Facebook.
+title: Boite Live - Madrid, Spain | Facebook
+snippet: Boite Live, Madrid, m. 3,356 likes · 3 talking about this · 3,369 were here. Sala Boite Live
+title: La Boite Madrid, Tickets for Concerts &amp; Music Events 2020 ...
+snippet: Buy tickets for an upcoming concert at La Boite. List of all concerts taking place in 2020 at La Boite in Madrid.
+title: Boite | Official tourism website - Turismo en Madrid ...
+snippet: Club with a predominantly gay atmosphere featuring house and techno music. The club is in the Sol - Gran Vía area and aims to recreate the spirit of the 1980s via the period&#39;s dance music, decor and lighting. It has been designed as a multi-purpose venue, where music ranging from flamenco to rock can be heard, and plays are sometimes performed.
+title: Parche Disco - Home | Facebook
+snippet: Parche Disco - Calle de Ayala, 120, 28006 Madrid, Spain - Rated 4.5 based on 24 Reviews &quot;Hoy he ido a Parche por primera vez y me ha encantado! Un lugar...
+title: Golden Boite Madrid - Home | Facebook
+snippet: Golden Boite Madrid - Calle Duque de Sesto, 54, 28009 Madrid, Spain - Rated 4.5 based on 39 Reviews &quot;Para mi muy bien me siento entre mi familia, todo el...
+
+REL: 1
+POI Name: Hamon & Hamon
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Butcher, 
+Snippets:
+title: Hamon &amp; Hamon, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Spise middag i Madrid: Se 3 anmeldelser fra Tripadvisor-reisende av 11 647restauranter i Madrid, og søk etter kjøkken, pris, sted og mer.
+title: Hamon &amp; Hamon, Madrid - Chamberí - Restaurant Bewertungen ...
+snippet: Hamon &amp; Hamon, Madrid: 3 Bewertungen von Hamon &amp; Hamon sehen, mit 4,5 von 5 bewertet und eines der 11.658 Restaurants in Madrid bei Tripadvisor.
+title: HAMON &amp; HAMON, Madrid - Omdömen om restauranger - Tripadvisor
+snippet: Äta ute i Madrid: Se 3 Tripadvisor-resenärernas omdömen av 11 584Madrid restauranger och sök på kök, pris, plats och så vidare.
+title: Hamon
+snippet: Hamon have taken all necessary measures to protect their personnel and partners against the risks of the Covid 19. Most teams are working to move the projects forward as much as possible: Practically all our offices are operating remotely by teleworking and are available to reply to your requests.
+title: Hamon &amp; Hamon, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Restauranter i Madrid: Se 3 anmeldelser fra rejsende af restauranter i 11.633Madrid, og søg på køkken, pris, sted og meget mere.
+title: Hamon &amp; Hamon, Madrid - Chamberí - Restaurant Avis ...
+snippet: Hamon &amp; Hamon, Madrid : consultez 3 avis sur Hamon &amp; Hamon, noté 4,5 sur 5, l&#39;un des 11 660 restaurants de Madrid sur Tripadvisor.
+title: HAMON &amp; HAMON, Madrid - Restaurantbeoordelingen - Tripadvisor
+snippet: De tekst kan vertalingen bevatten die door Google zijn geleverd. Google biedt geen expliciete of impliciete garanties voor de vertalingen. Dit geldt ook voor de nauwkeurigheid, betrouwbaarheid en alle impliciete garanties voor bruikbaarheid, geschiktheid voor een specifiek doel en niet-inbreuk op rechten van derden.
+title: About - Hamon
+snippet: Hamon have taken all necessary measures to protect their personnel and partners against the risks of the Covid 19. Most teams are working to move the projects forward as much as possible: Practically all our offices are operating remotely by teleworking and are available to reply to your requests.
+title: HAMON | LinkedIn
+snippet: Hamon - B. Grimm Ltd. has just completed the FCT 10 project for Siam Styrene Monomer (Dow Chemical) in Thailand. This project was awarded in 2018 for the replacement of a 4 cells timber cooling ...
+title: HAMON &amp; HAMON, Madrid - Chamberí - Restaurante Opiniones ...
+snippet: Hamon &amp; Hamon, Madrid: Consulta 3 opiniones sobre Hamon &amp; Hamon con puntuación 4.5 de 5, uno de los 11,657 restaurantes de Madrid en Tripadvisor.
+
+REL: 1
+POI Name: Al Andalus
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Meat Shops, Imported Food, 
+Snippets:
+title: Hammam Al Ándalus Madrid - Baños Árabes de Madrid
+snippet: La naturaleza es metáfora y puente que nos conecta en Hammam Al Andalus. Espacio y tiempo para abrir tus sentidos a la experiencia del agua, la luz, los aromas, los sonidos y el silencio, aportando el estado de calma y bienestar necesarios para ese reencuentro con lo que somos.
+title: Hammam Al Ándalus Madrid - Baños Árabes de Madrid
+snippet: Nature is a metaphor and a bridge which connects us at Hammam Al Ándalus. Space and time to awaken your senses to the experience of water, light, aromas, sounds and silence, providing the necessary state of calm and well-being which is necessary in order to reconnect with who we are.
+title: Hammam Al Ándalus Madrid - Baños Árabes de Madrid
+snippet: Vous ne trouverez pas chez nous un hammam traditionnel. Nous sommes une réinterprétation contemporaine des anciens bains d’Al Ándalus : des jardins d’eau et de silence au centre de la ville, riches en soins et relaxation.
+title: Al-Andalus - Wikipedia
+snippet: Al-Andalus became a major educational center for Europe and the lands around the Mediterranean Sea as well as a conduit for cultural and scientific exchange between the Islamic and Christian worlds. For much of its history, al-Andalus existed in conflict with Christian kingdoms to the north.
+title: al-Andalus – Wikipedia
+snippet: al-Andalus er det arabiske navnet på de delene av Iberia som var under muslimsk styre fra 711 til 1492. Som geografisk størrelse varierer derfor al-Andalus med tidsperiode. Al-Andalus er opphavet til Andalucía hvor muslimsk styre varte lengst. Arabiske og berberske styrker invaderte Iberia i 711 og erobret raskt mesteparten av halvøya.
+title: Hammam Al Andalus Madrid - 2020 All You Need to Know ...
+snippet: Response from Hammam Al Andal... M, Guest Relations Manager at Hammam Al Andalus Madrid. Responded Jan 27, 2020. Dear David We would like to thank you for leaving such a good review, an we are very glad to know that you had such a good experience.
+title: Hammam Al Andalus Madrid (Spania) - Anmeldelser
+snippet: Hammam Al Andalus Madrid, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Hammam Al Andalus Madrid i Madrid, Spania på Tripadvisor.
+title: Al Andalus, Spain Dates &amp; Prices - Luxury Train Club
+snippet: Al Andalus Offers and News. CORONAVIRUS I MPORTANT NOTICE. If you have a reservation with the Luxury Train Club for tra vel in 2020, contact us for the current situation.. Go here for general travel and health advice from governments, WHO and other organisations. - Club discount off the published prices of any journey, for Al Andalus and all other listed trains;
+title: Madrid to Al-Andalus - 6 ways to travel via train, bus ...
+snippet: Renfe AVE operates a train from Madrid to Al-Andalus once daily. Tickets cost 50€ - 100€ and the journey takes 2h 56m. Alternatively, you can take a bus from Madrid to Al-Andalus via Granada and Alhama De Granada in around 7h 8m.
+title: Al-Ándalus - Wikipedia, la enciclopedia libre
+snippet: Así pues, «Spania o Hispania se correspondía con el al-Andalus recién incorporado al Imperio islámico», concluye María Jesús Viguera Molins. «El uso del nuevo nombre contiene el propósito de instalar aquí una nueva entidad estatal, ... Barcelona-Madrid: Crítica/Marcial Pons.
+
+REL: 1
+POI Name: Tres Bocas
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, Spanish, 
+Snippets:
+title: - tresbocas
+snippet: +34 917 525 564 tresbocasmadrid@gmail.com Calle de Gaztambide, 11 28015 MADRID, España +34 910 693 998 tresbocassantaana@gmail.com Calle Nuñez de Arce, 6 28012 MADRID, España TRES BOCAS
+title: Restaurante Tres Bocas, Madrid - Gaztambide - Menu, Prices ...
+snippet: Reserve a table at Restaurante Tres Bocas, Madrid on Tripadvisor: See 509 unbiased reviews of Restaurante Tres Bocas, rated 4.5 of 5 on Tripadvisor and ranked #257 of 11,649 restaurants in Madrid.
+title: RESTAURANTE TRES BOCAS, Madrid - Gaztambide - Menú ...
+snippet: Reserva Restaurante Tres Bocas, Madrid en Tripadvisor: Consulta 509 opiniones sobre Restaurante Tres Bocas con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°256 de 11.660 restaurantes en Madrid.
+title: Restaurante Tres Bocas, Madrid - Restaurantanmeldelser ...
+snippet: Restaurante Tres Bocas, Madrid: Se 509 objektive anmeldelser av Restaurante Tres Bocas, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 244 av 11 640 restauranter i Madrid.
+title: Beste spisesteder i nærheten av Restaurante Tres Bocas, Madrid
+snippet: Restauranter i nærheten av Restaurante Tres Bocas på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Restaurante Tres Bocas, Madrid.
+title: Restaurante Tres Bocas en Madrid, Argüelles, Chamberí ...
+snippet: Con postres seductores (a destacar el Cheese-cake cremoso de chocolate blanco y lima con crujiente de coco), precios muy asequibles, una amplia barra que invita a disfrutar de sus elaborados cocktels, su salón privado y un agradable patio interior, en Tres Bocas no descubrirás un restaurante, descubrirás tú restaurante.
+title: Restaurante Tres Bocas en Madrid
+snippet: El restaurante Tres Bocas situado en Madrid (Argüelles) se especializa en cocina moderna y creativa, aporta un concepto diferente plagado de ilusión e innovación en todos sus platos.En el restaurante Tres Bocas se puede encontrar una carta imaginativa con especial atención en la calidad de sus ingredientes y la decoración de sus platos. Podemos encontrar, desde un Hummus de berenjena ...
+title: La carta - Picture of Restaurante Tres Bocas, Madrid ...
+snippet: Restaurante Tres Bocas, Madrid Picture: La carta - Check out Tripadvisor members&#39; 50,590 candid photos and videos of Restaurante Tres Bocas
+title: Tres Bocas in Madrid - Restaurant Reviews, Menu and Prices ...
+snippet: Book a table at Tres Bocas in Madrid. Find restaurant reviews, menu, prices, and hours of operation for Tres Bocas on TheFork.
+title: Restaurante Tres Bocas en Madrid, Moncloa, Chamberí - Menú ...
+snippet: Restaurante Tres Bocas en Madrid - la información del restaurante Tres Bocas: Fotos, opiniones de usuarios, precios y menú. Reserva online de forma gratuita
+
+REL: 1
+POI Name: TeleRicatorta
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, Spanish, Fast Food, 
+Snippets:
+title: TeleRicaTorta | Productos de nuestra tierra
+snippet: TeleRicaTorta. Click here - to select or create a menu; PIDE A TELERICATORTA POR TU APP PREFERIDA
+title: Telericatorta, Madrid - Ciudad Lineal - Restaurant Reviews ...
+snippet: Telericatorta, Madrid: See 4 unbiased reviews of Telericatorta, rated 2.5 of 5 on Tripadvisor and ranked #9,899 of 11,650 restaurants in Madrid.
+title: TELERICATORTA, Madrid - Ciudad Lineal - Restaurant Reviews ...
+snippet: Telericatorta, Madrid: See 4 unbiased reviews of Telericatorta, rated 2.5 of 5 on Tripadvisor and ranked #9,901 of 11,660 restaurants in Madrid.
+title: TeleRicaTorta - Home - Madrid, Spain - Menu, Prices ...
+snippet: TeleRicaTorta, Madrid. 1,780 likes · 4 were here. Deliciosas Tortas de Pan de Aranda artesanal rellenas por productos de nuestra tierra aderezas con tomate natural y aceite de oliva virgen, a domicilio.
+title: TELERICATORTA, Madrid - Ciudad Lineal - Fotos, Número de ...
+snippet: Telericatorta, Madrid: Consulta 4 opiniones sobre Telericatorta con puntuación 2,5 de 5 y clasificado en Tripadvisor N.°9.901 de 11.660 restaurantes en Madrid.
+title: TeleRicaTorta - Home | Facebook
+snippet: TeleRicaTorta, Madrid. 1,797 likes · 4 were here. Deliciosas Tortas de Pan de Aranda artesanal rellenas por productos de nuestra tierra aderezas con tomate natural y aceite de oliva virgen, a domicilio.
+title: TELERICATORTA, Madrid - Omdömen om restauranger - Tripadvisor
+snippet: Telericatorta, Madrid: Se 4 objektiva omdömen av Telericatorta, som fått betyg 2,5 av 5 på Tripadvisor och rankas som nummer9 901 av 11 660 restauranger i Madrid.
+title: TeleRicatorta - Carabanchel - Madrid, Spain
+snippet: TeleRicatorta in Madrid, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Madrid and beyond.
+title: IMG-20160507-WA0058_large.jpg - Picture of Telericatorta ...
+snippet: Telericatorta, Madrid Picture: IMG-20160507-WA0058_large.jpg - Check out Tripadvisor members&#39; 53,445 candid photos and videos of Telericatorta
+title: Telericatorta, Madrid - Ciudad Lineal - Restaurant Avis ...
+snippet: Telericatorta, Madrid : consultez 4 avis sur Telericatorta, noté 2,5 sur 5 sur Tripadvisor et classé #9 903 sur 11 656 restaurants à Madrid.
+
+REL: 1
+POI Name: De Vinos
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Wine Bars, 
+Snippets:
+title: Venta de Vinos De Madrid con DO - La tienda de Vino
+snippet: Venta de &quot;Vinos de Madrid&quot;, con denominación de origen, vinos jóvenes, crianza, dulces y semidulces, bodega fundada en 1963 Virgen De La Poveda
+title: De vinos (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: De vinos, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for De vinos i Madrid, Spania på Tripadvisor.
+title: Delivinos Urban Gourmet | Tienda de Vinos en Madrid
+snippet: Tienda de vinos en Madrid especializada en la venta de productos gourmet, vinos, licores, cervezas, aperitivos y complementos para vino
+title: De vinos (Madrid) - 2020 All You Need to Know Before You ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: De vinos (Madrid) - 2020 Qué saber antes de ir - Lo más ...
+snippet: Suba a bordo del autobús de dos pisos con techo descubierto y recorra la Ruta Uno, la Ruta Dos o ambas. Aprenda sobre la historia de Madrid usando a bordo unos auriculares de cortesía. Baje del autobús para visitar museos, monumentos, plazas y teatros y explore la capital de España con la guía y el mapa facilitados.
+title: Tours, Rutas tapas, Cata vinos, visitas a bodegas, ocio Madrid
+snippet: Comunicado de Gourmet Madrid Tours y Eventos S.L.. Queridos turistas, locales, empleados, guías y en general amigos. Como ya sabéis, el día 11 de marzo de este año 2020 se ha declarado una pandemia por Covid-19 en el mundo.
+title: De 10 beste restaurantene i nærheten av De vinos
+snippet: Restauranter i nærheten av De vinos på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av De vinos, Madrid.
+title: Vinos de Madrid CRDO
+snippet: Parece que tu instalación de PHP no cuenta con la extensión de MySQL, necesaria para hacer funcionar WordPress.
+title: Comprar vino online - Tienda de Vinos - Venta de Vino en ...
+snippet: Comprar vino online.Tienda de Vinos TomeVinos, la gran tienda donde comprar online vino al mejor precio con una amplia selección. Su vinoteca en internet para buscar y regalar vinos y destilados.
+title: Tienda de Vinos Online | Comprar Vino - Vinoseleccion
+snippet: Tienda de Vinos online con los mejores precios. Venta de vinos con las mejores ofertas y los mejores vinos.
+
+REL: 1
+POI Name: Vinoteca Tierra
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Wineries, 
+Snippets:
+title: Vinoteca Tierra
+snippet: Bienvenidos a la web de Vinoteca Tierra. Aquí encontrará información sobre nuestros vinos, establecimientos en los que se pueden degustar, noticias...
+title: Vinoteca | Vinoteca Tierra
+snippet: La VINOTECA TIERRA se encuentra en la Ronda de Segovia, 7 de Madrid.En 2013 abrió una nueva tienda dentro del MERCADO DE LA PAZ, en la Calle Ayala, 28 de Madrid en el Puesto 108.TIERRA es nuestro nombre, porque el vino, nuestra gran pasión, está intimamente ligado a la tierra, al terreno de donde procede.En nuestras pequeñas tiendas encontrarán una cuidada selección de vinos, con una ...
+title: Vinoteca Tierra, Madrid - Barrio de Salamanca - Restaurant ...
+snippet: Vinoteca Tierra, Madrid: See 2 unbiased reviews of Vinoteca Tierra, rated 4.5 of 5 on Tripadvisor and ranked #6,942 of 11,656 restaurants in Madrid.
+title: Vinoteca Tierra, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Vinoteca Tierra, Madrid: Se 2 objektive anmeldelser af Vinoteca Tierra, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 6.940 af 11.658 restauranter i Madrid.
+title: Conócenos | Vinoteca Tierra
+snippet: Sumiller - Responsable Tienda Mercado de la Paz (Ayala, 28), Club de Vinos y RRSS. mercado@vinotecatierra.es. Juan Carlos Ramos
+title: Vinoteca Tierra, Mercado de La Paz, Calle de Ayala, 28 ...
+snippet: All info on Vinoteca Tierra in Madrid - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Madrid | Vinoteca Tierra
+snippet: El pedido mínimo en la web es de 6 botellas.; Puede recoger su pedido en tienda sin coste adicional.; El coste de envío a domicilio para pedidos inferiores a 200€ es de 1€ por botella.; Envío gratuito para pedidos superiores a 200 €.
+title: Club de Vinos | Vinoteca Tierra
+snippet: Germán R. Blanco, es gijonés de nacimiento, estudió Viticultura y Enología en Madrid y cursó un master en Viticultura, Enología y Marketing del vino. Inquieto elaborador que “destila” pasión, cercanía y pone todo el cariño en los vinos que...
+title: VINOTECA TIERRA, Madrid - Barrio de Salamanca - Fotos y ...
+snippet: Vinoteca Tierra, Madrid: Consulta 2 opiniones sobre Vinoteca Tierra con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°6.942 de 11.660 restaurantes en Madrid.
+title: Vinoteca Tierra - Home | Facebook
+snippet: Vinoteca Tierra - Calle Ayala 28 (Mercado de La Paz) y Ronda de Segovia 7, 28001 Madrid, Spain - Rated 4.7 based on 12 Reviews &quot;Preciosa tienda, y una...
+
+REL: 1
+POI Name: Museo del Jamón
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Meat Shops, Sandwiches, Tapas Bars, 
+Snippets:
+title: Museo del Jamon (Madrid) - 2020 All You Need to Know ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Museo del Jamón – Los Museos Más Sabrosos de Madrid
+snippet: Los auténticos Museos del Jamón. Creadores del concepto de restaurante temático especializado en jamones y embutidos, y con una cocina tradicional Museo del Jamón – Los Museos Más Sabrosos de Madrid
+title: Museo del Jamon desde 1978 restaurante, charcuteria, Madrid
+snippet: Los orígenes del Museo del jamón fueron las charcuterías de barrios, de los mercados, era el año 1965 cuando se abrió la primera charcutería Los extremeños y día a día seguimos ofreciendo calidad, garantía y precio en nuestros más de 200 artículos de charcutería.
+title: Madrid - Museo del Jamón desde 1978
+snippet: Servicio de Catering Venga a celebrar con nosotros su evento especial Más Información Maestros cortadores Los pioneros, los genuinos, los auténticos, desde 1978! Los museos mas sabrosos de Madrid, Los Museos del Jamon. Sucesoras de Don Luis Muñoz Descubreel Museo …
+title: Museo del Jamon, Madrid - Calle Atocha 54, Centro ...
+snippet: Museo del Jamon, Madrid: See 338 unbiased reviews of Museo del Jamon, rated 4 of 5 on Tripadvisor and ranked #1,773 of 11,660 restaurants in Madrid.
+title: Museo del Jamón - Home - Madrid, Spain - Menu, Prices ...
+snippet: Museo del Jamón - Calle Gran Vía 72, 28013 Madrid, Spain - Rated 4.3 based on 302 Reviews &quot;First of all: woow.. a must visit place in Madrid. Great food,...
+title: Museo del Jamon (Madrid): AGGIORNATO 2020 - tutto quello ...
+snippet: Il museo del jamon è uno dei locali culinari di Madrid da non perdere. Un atmosfera autentica quella che si respira intorno al bancone dove ti servono. Centinaia di prosciutti appesi al soffitto. Proviamo i classici boccadillos al jamon a €2! Ottimi! Tre boccadillos al jamon …
+title: Avenida de Córdoba – Museo del Jamón
+snippet: AVENIDA DE CÓRDOBA, 3, 7 y 9. Situado en el edificio de nuestro Almacén Central, además de la calidad y el servicio habituales, la sección de charcutería ofrece artículos por piezas enteras a precio mayorista, contando además con la comodidad de aparcamiento exclusivo para nuestros clientes.
+title: Museo del Jamon (Madryt, Hiszpania) - opinie - Tripadvisor
+snippet: Hotele w pobliżu Museo del Jamon: (0.17 km) Madridcito Bed &amp; Breakfast (0.17 km) Hostal Alexis (0.15 km) 11th Principe by Splendom Suites (0.12 km) B&amp;B Hotel Madrid Centro Puerta del Sol (0.08 km) Madrid City Rooms; Zobacz wszystkie hotele w pobliżu Museo del Jamon na stronie Tripadvisor
+title: Museo del Jamon, Madrid - Calle Gran Via 72, Universidad ...
+snippet: Museo del Jamon, Madrid: 7.878 Bewertungen - bei Tripadvisor auf Platz 1.034 von 11.649 von 11.649 Madrid Restaurants; mit 4/5 von Reisenden bewertet.
+
+REL: 1
+POI Name: Alimentación: Pan, Frutos Secos y Fruta
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Fruits & Veggies, 
+Snippets:
+title: Alimentacion Pan Bebidas Y Frutos Secos Melancólicos ...
+snippet: Información completa acerca de Alimentacion Pan Bebidas Y Frutos Secos Melancólicos en Madrid, Paseo de los Melancólicos, 35, 28005 Madrid, Spain,. Dirección, número de teléfono, fax, código postal, dirección del sitio web, horario de trabajo, fotos de la oficina.
+title: Frutos Secos y Semillas - Alimentación Saludable | Prozis
+snippet: Como snack o como ingrediente culinario, estos frutos secos y semillas son una adición deliciosa y saludable a tu dieta diaria. ¡Compra ya online! Frutos Secos y Semillas - Alimentación Saludable | Prozis
+title: Refruiting - Fruta y alimentación saludable para empresas
+snippet: No sólo nos hacen llegar la fruta puntualmente a la oficina, sino que nos están ayudando muchísimo a trasmitir a nuestros empleados la importancia de llevar una alimentación saludable. Cada lunes esperamos que llegue el momento Refruiting. El break saludable que nos hace empezar la semana con vitalidad y de la manera más enérgica y saludable.
+title: Alimentación: Pan, Frutos Secos y Fruta - Boulangeries ...
+snippet: Alimentación: Pan, Frutos Secos y Fruta à Madrid, avis rédigés par de vraies personnes. Yelp permet un moyen facile et amusant pour trouver, recommander et discuter des endroits, que vous aimez ou pas à Madrid et ses alentours.
+title: Proveedores de Frutos Secos en Barcelona
+snippet: Proveedores de Frutos Secos en Barcelona. Contactar con los proveedores de frutos secos en Barcelona es muy fácil. Consulta gratis ahora con las empresas de venta de frutos secos al por mayor que te interesen y consigue respuesta de forma fácil y rápida.Recibe precios de frutos secos...
+title: Frutos Secos y Fruta - Barritas y Snacks para Llevar | Prozis
+snippet: Como snack o con las comidas, los frutos secos y las frutas son alimentos versátiles para comer cuando tienes prisa. ¡Hazte con estas bombas de nutrientes! Frutos Secos y Fruta - Barritas y Snacks para Llevar | Prozis
+title: Patatas fritas, aperitivos y frutos secos - Alimentación ...
+snippet: Compra online productos de Patatas fritas, aperitivos y frutos secos en la sección de alimentación y disfruta de todas nuestras ofertas en Dia.es
+title: Proveedores de Frutos Secos en Madrid
+snippet: Proveedores de Frutos Secos en Madrid. Contactar con los proveedores de frutos secos en Madrid es muy fácil. Consulta gratis ahora con las empresas de venta de frutos secos al por mayor que te interesen y consigue respuesta de forma fácil y rápida.Recibe precios de frutos secos para...
+title: Alimentación Infantil | Comunidad de Madrid
+snippet: Evitar los alimentos duros y pequeños como los frutos secos, las aceitunas, la zanahoria cruda, y acompañar a los niños mientras comen. Esta práctica se conoce como alimentación dirigida por el bebe,o babyled weaning. No añadir a los alimentos azúcar, leche condensada, miel ni sal.
+title: MIL ANUNCIOS.COM - Frutas y verduras. Traspasos de tiendas ...
+snippet: Se traspasa Frutería y Tienda de Alimentación en Reus, en el centro, zona Barrio Santa Anna, en Raval Santa Anna 28. Local de 60 metros, y alquiler del local de 700 euros al mes. Tienda de Fruta y Verdura, con venta de pan, alimentación variada, productos frescos, frutos secos y legumbres a granel, bodega, . . .
+
+REL: 1
+POI Name: La Vinoteca
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Tapas/Small Plates, 
+Snippets:
+title: Nuevo - Home - Vinoteca Barbechera
+snippet: &quot;El vino da brillantez a las campiñas, exalta los corazones, enciende las pupilas y enseña a los pies la danza...&quot; - José Ortega y Gasset -
+title: Vinoteca Barbechera, Madrid - Centro - Restaurant Reviews ...
+snippet: Vinoteca Barbechera, Madrid: See 656 unbiased reviews of Vinoteca Barbechera, ... We sat at a table for two inside and enjoyed a lot of wine and food. The Ensalada Vinoteca was excellent, the tortilla delicious, and the maybe eight wines we tasted in total were great.
+title: La Vinoteca
+snippet: Sitio especializado en vino y licores. Home Wines. Los mas vendidos. Cajas x6 Requingua. Ofertas. FlagPromocion. Venta Especial Diciembre
+title: Vinoteca Moratin: Restauración
+snippet: Vinoteca Moratín. Moratín, 36 · 28014 Madrid. Tel. 0034 911 276 085. contacto@vinotecamoratin.com Debido al reducido número de mesas con el que contamos lamentamos no poder aceptar reservas por email, por favor para reservar llámenos al teléfono
+title: La Tintoreria Vinoteca – Inicio
+snippet: MATROT 1CRU BLAGNY PIECE S BOIS 2014 no valorado € 52,90 Añadir al carrito. BRETON CHINON LES PICASSES 2002
+title: La Fisna Vinos, Madrid - Centro - Restaurant Reviews ...
+snippet: La Fisna Vinos, Madrid: See 141 unbiased reviews of La Fisna Vinos, rated 4.5 of 5 on Tripadvisor and ranked #811 of 11,660 restaurants in Madrid.
+title: Vinacoteca Madrid - Comprar en La vinoteca Vinotecas ...
+snippet: Vinacoteca Madrid. Existen innumerables negocios de vinacoteca Madrid no obstante está lleno de tiendas que te venden vinos de todos los tipos, pero no te ofrecen vinotecas para conservar aquellas botellas a la temperatura correcta.En nuestra tienda online te damos la solución inmediata mostrándote las mejores marcas de neveras para vinos del mercado, y lo que es mejor, a precios muy bajos.
+title: Moratin Vinoteca Bistrot, Madrid - Centro - Restaurant ...
+snippet: Moratin Vinoteca Bistrot, Madrid: See 1,134 unbiased reviews of Moratin Vinoteca Bistrot, rated 4.5 of 5 on Tripadvisor and ranked #18 of 11,660 restaurants in Madrid. ... Not a lot of table space but when you finish eating you will be satisfied. Seafood is wonderful here.
+title: VINOTECA MORATÍN, Madrid - Centro - Fotos, Número de ...
+snippet: Vinoteca Moratín, Madrid: Consulta 1.134 opiniones sobre Vinoteca Moratín con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°18 de 11.660 restaurantes en Madrid. Vuelos ... Hoy estuve en La Vinoteca Moratín y tengo que confesar que la EXPERIENCIA ha sido TREMENDA.
+title: Top 10 de las mejores Vinotecas en Madrid para comprar vino
+snippet: Qué vino seleccionar en una buena Vinoteca. Si tenemos una fiesta elegante, un festejo romántico o algo muy formal, siempre debemos contar con el exquisito sabor de un Cava Español, pero para otras ocasiones, son otros los vinos con los que debemos contar y que podremos encontrar en las mejores vinotecas en Madrid para comprar vino. Para iniciar la velada
+
+REL: 1
+POI Name: El Riojano
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Patisserie/Cake Shop, 
+Snippets:
+title: Confitería El Riojano | Casa fundada en 1855
+snippet: De este modo se ha conseguido acoger a un mayor número de clientes que seguían reclamando un espacio para acudir con sus amigos y familiares, que en muchos casos, ya son varias las generaciones que acuden a degustar los productos de El Riojano en este acogedor salón.
+title: El Riojano, Madrid - Austrias - Restaurant Reviews, Photos ...
+snippet: El Riojano, Madrid: See 294 unbiased reviews of El Riojano, rated 4 of 5 on Tripadvisor and ranked #1,329 of 11,660 restaurants in Madrid.
+title: El Riojano, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: El Riojano, Madrid: Se 294 objektive anmeldelser av El Riojano, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 327 av 11 658 restauranter i Madrid.
+title: EL RIOJANO, Madrid - Austrias - Updated 2020 Restaurant ...
+snippet: El Riojano, Madrid: See 294 unbiased reviews of El Riojano, rated 4 of 5 on Tripadvisor and ranked #1,329 of 11,660 restaurants in Madrid.
+title: EL RIOJANO, Madrid - Austrias - Fotos, Número de Teléfono ...
+snippet: El Riojano, Madrid: Consulta 294 opiniones sobre El Riojano con puntuación 4 de 5 y clasificado en Tripadvisor N.°1.329 de 11.660 restaurantes en Madrid.
+title: El Riojano | Turismo Madrid
+snippet: Fundado en 1855 por un pastelero afincado en Madrid que trabajaba para la Casa Real, Dámaso de la Maza, más conocido por el sobrenombre de El Riojano. No es una pastelería familiar, porque desde que se fundara ha ido pasando de jefes a empleados.
+title: EL RIOJANO, Madrid - Austrias - Ristorante Recensioni ...
+snippet: El Riojano, Madrid: su Tripadvisor trovi 294 recensioni imparziali su El Riojano, con punteggio 4 su 5 e al n.1.329 su 11.660 ristoranti a Madrid.
+title: El Riojano, Madrid - Austrias - Restaurant Bewertungen ...
+snippet: El Riojano, Madrid: 294 Bewertungen - bei Tripadvisor auf Platz 1.325 von 11.656 von 11.656 Madrid Restaurants; mit 4/5 von Reisenden bewertet.
+title: EL RIOJANO, Madrid - Omdömen om restauranger - Tripadvisor
+snippet: El Riojano, Madrid: Se 294 objektiva omdömen av El Riojano, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer1 320 av 11 649 restauranger i Madrid.
+title: EL RIOJANO, Madrid - Comentários de restaurantes - Tripadvisor
+snippet: El Riojano, Madrid: Veja 294 dicas e avaliações imparciais de El Riojano, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 1.327 de 11.658 restaurantes em Madrid.
+
+REL: 1
+POI Name: Maracuya
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Wineries, 
+Snippets:
+title: Maracuya (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: Maracuya, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Maracuya i Madrid, Spania på Tripadvisor.
+title: Maracuya (Madrid) - 2020 Qué saber antes de ir - Lo más ...
+snippet: Visite un máximo de 37 de los principales lugares de interés de Madrid con un billete de 1 o 2 días con paradas libres que le permitirá ver la ciudad a su ritmo. Suba a bordo del autobús de dos pisos con techo descubierto y recorra la Ruta Uno, la Ruta Dos o ambas. Aprenda sobre la historia de Madrid usando a bordo unos auriculares de ...
+title: Maracuya (Madrid) - 2020 All You Need to Know BEFORE You ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: THE 10 BEST Restaurants Near Maracuya in Madrid, Community ...
+snippet: Restaurants near Maracuya, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Maracuya in Madrid, Spain.
+title: Maracuya (Madrid) - 2020 What to Know Before You Go (with ...
+snippet: Maracuya, Madrid: See 22 reviews, articles, and 25 photos of Maracuya, ranked No.396 on Tripadvisor among 966 attractions in Madrid.
+title: Maracuya (Madrid, Spanien) - anmeldelser - Tripadvisor
+snippet: Maracuya, Madrid: Se 22 anmeldelser, artikler og 25 billeder fra Maracuya, nr.395 på Tripadvisor af 966 seværdigheder i Madrid.
+title: Maracuya - Picture of Maracuya, Madrid - Tripadvisor
+snippet: Maracuya, Madrid Picture: Maracuya - Check out Tripadvisor members&#39; 53,580 candid photos and videos of Maracuya
+title: Maracuya (Madrid, Spanien) - omdömen - Tripadvisor
+snippet: Madrid är värd många viktiga landmärken, men det är en utmaning att tjecka dem alla när man reser den sprawling metropolen till fots. Hoppa ombord på en cykel och åka staden med två hjul, fortfarande få en intim upplevelse av populära sevärdheter, såsom Plaza Mayor och Kungliga slottet, samtidigt som det täcker större avstånd än att gå.
+title: Maracuya - Must Visit - Review of Maracuya, Madrid, Spain ...
+snippet: Maracuya: Maracuya - Must Visit - See 22 traveler reviews, 25 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: Maracuya (Madrid): UPDATED 2020 All You Need to Know ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+
+REL: 0
+POI Name: Discoteca la Boite del Pintor
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: La Boite del Pintor en Madrid. Discoteca | Guía del Ocio
+snippet: Toda una veterana de la noche madrileña, La Boîte del Pintor es el prototipo de discoteca para gente con clase (o que aspira a tenerla). Ambiente de alto standing, con cuatro barras y dos pistas, escenarios suficientes y propicios para el ligue a la antigua usanza, entre buenas copas y decoración totalmente setenta.
+title: La Boite del Pintor - Madrid (Salamanca)
+snippet: Encuentra toda la información sobre La Boite del Pintor en Madrid (Salamanca): fotos, opiniones, precios, horarios, teléfono de contacto, etc. Muy buen ambiente, local agradable, con...
+title: Discoteca La boite del Pintor.wmv - YouTube
+snippet: Una discoteca para poder disfrutar de la noche en Madrid. Una discoteca para poder disfrutar de la noche en Madrid. Skip navigation Sign in. ... Discoteca La boite del Pintor.wmv Antonio Baos. ...
+title: Zenith Club Madrid - Home | Facebook
+snippet: Zenith Club Madrid, Madrid. 7.1K likes. Situada en el centro de Madrid en la Calle Atocha, 127. Zenith es una sala multidisciplinar donde se celebran todo tipo de eventos, Fiestas y Conciertos. La...
+title: Noche 22: como reses en La Boite del Pintor | Zona Retiro
+snippet: N. Mendinueta.-Si os digo “La boite del Pintor” de Goya -donde se encuentra el hotel de la cadena Vincci-, ¿qué pensáis? Porque a mí antes de conocerlo me sonaba a una discoteca super-mega-exclusiva de gente ‘bien’ y bastante entrada en años -o puretas, dicho de otra forma-.
+title: VIVAMOS LOS OCHENTA.... EN LA BOÎTE DEL PINTOR - Ludicum
+snippet: La Boîte del Pintor es una conocida discoteca situada en el barrio de Salamanca. Los sábados te esperamos para compartir risas, hacer nuevos amigos y pasar una noche muy, muy especial. Toda una veterana de la noche madrileña, La Boîte del Pintor es el prototipo de discoteca para gente con clase, con cuatro barras y dos pistas, escenarios suficientes y propicios para pasar una noche de ...
+title: BONGOS -La Boite Del Pintor- ***Show Abdel &amp; Lety Cía ...
+snippet: BONGOS -La Boite Del Pintor-. ¡La Sala De Baile Más Grande En Pleno Centro De Madrid! c\ GOYA 79. Metro GOYA. Servicio De Aparcacoches. SALSA, TIMBA, BACHATA, KIZOMBA &amp; REGGAETÓN.
+title: Discoteca la Boite del Pintor – Madrid, Calle Goya 79 (2 ...
+snippet: Consulta la información de contacto y 2 opiniones sobre Discoteca la Boite del Pintor en Calle Goya 79, Madrid o escribe una opinión. Explora un mapa interactivo con lugares cercanos.
+title: La Boite del Pintor (Ahora cerrado) - Club nocturno en Goya
+snippet: &quot;La boite del pintor es una discoteca como cualquier otra donde la gente que suele ir, no se...&quot; Club nocturno en Madrid, Madrid Foursquare utiliza cookies para proporcionarte una experiencia óptima, personalizar anuncios que puedas ver y ayudar a los anunciantes a medir los resultados de sus campañas publicitarias.
+title: Discoteca La Boite del Pintor - 4 opiniones - discotecas ...
+snippet: Discoteca La Boite del Pintor, discotecas en Madrid. Semanuel lo descubrió en marzo de 2008. Super Disco Oldest. Debe de ser una de las discotecas más antiguas de Madrid.
+
+REL: 0
+POI Name: Tempranillo
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Tabernas, Tapas/Small Plates, 
+Snippets:
+title: Tempranillo, Madrid - Centro - Restaurant Reviews, Photos ...
+snippet: Tempranillo, Madrid: See 330 unbiased reviews of Tempranillo, rated 4 of 5 on Tripadvisor and ranked #781 of 11,660 restaurants in Madrid.
+title: Tempranillo, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Tempranillo, Madrid: Se 330 objektive anmeldelser av Tempranillo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 772 av 11 656 restauranter i Madrid.
+title: Tempranillo - Wikipedia
+snippet: Tempranillo (also known as Ull de Llebre, Cencibel, Tinto Fino and Tinta del Pais in Spain, Aragonez or Tinta Roriz in Portugal, and several other synonyms elsewhere) is a black grape variety widely grown to make full-bodied red wines in its native Spain. Its name is the diminutive of the Spanish temprano (&quot;early&quot;), a reference to the fact that it ripens several weeks earlier than most S
+title: Taberna Tempranillo, Madrid - Centro - Restaurant Reviews ...
+snippet: Taberna Tempranillo, Madrid: See 51 unbiased reviews of Taberna Tempranillo, rated 4 of 5 on Tripadvisor and ranked #3,946 of 11,649 restaurants in Madrid.
+title: Taberna El Tempranillo | Official tourism website
+snippet: Located in one of the city&#39;s best areas for tapas, this popular bar offers an extensive range of wines and tapas. It is decorated with exposed brickwork and a huge wooden bar in the middle, behind which is a cage of wine bottles.
+title: Taberna El Tempranillo - Madrid, Spain - Spanish ...
+snippet: Taberna El Tempranillo, Madrid, Spain. 309 likes. Spanish Restaurant
+title: Tempranillo, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Tempranillo, Madrid: Se 330 objektive anmeldelser af Tempranillo, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 776 af 11.649 restauranter i Madrid.
+title: Taberna Tempranillo, Madrid - Restaurantanmeldelser ...
+snippet: Taberna Tempranillo, Madrid: Se 51 objektive anmeldelser av Taberna Tempranillo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 3 850 av 11 660 restauranter i Madrid.
+title: Outside - Bilde av Tempranillo i Madrid - Tripadvisor
+snippet: Tempranillo, Madrid Bilde: Outside - Se Tripadvisor-medlemmers 53 557 objektive bilder og videoer av Tempranillo
+title: Tempranillo | Best restaurant in the Aspen area
+snippet: JAV IE R GONZALES-BRINGAS &amp; . LAURA MAINE. A Madrid native, Javier brings a passion for fine Spanish wine and cuisine to Tempranillo’s expansive menu. Upon coming to America in 1979, Javier blended his talents for spanish cooking with inventive nouveau Italian cuisine at Manhattan’s Mezzaluna Restaurant.
+
+REL: 0
+POI Name: Plaza de Olavide
+POI City: Madrid
+POI Country: ES
+POI Main category: Active Life
+POI Sub category: Public Plazas, 
+Snippets:
+title: Plaza de Olavide (Madrid) - 2020 All You Need to Know ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Plaza de Olavide - Callejero de Madrid - Callejero.net
+snippet: Plaza de Olavide, Madrid, Madrid 28010 España. En Madrid, provincia de Madrid, encontramos la dirección Plaza de Olavide. Si no has encontrado la dirección que estabas buscando utiliza nuestro buscador de calles que encontrarás en la esquina superior izquierda del mapa.
+title: Plaza de Olavide (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: Plaza de Olavide, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Plaza de Olavide i Madrid, Spania på Tripadvisor.
+title: THE 10 BEST Restaurants Near Plaza de Olavide in Madrid ...
+snippet: Restaurants near Plaza de Olavide, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Plaza de Olavide in Madrid, Spain.
+title: De 10 beste restaurantene i nærheten av Plaza de Olavide
+snippet: Restauranter i nærheten av Plaza de Olavide på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Plaza de Olavide, Madrid.
+title: Plaza de Olavide - Wikipedia, la enciclopedia libre
+snippet: La Plaza de Olavide (antes plaza de la Princesa y plaza Industrial), [1] es una amplia glorieta octogonal, corazón del barrio de Trafalgar, [2] en el distrito de Chamberí de Madrid.Confluyen en ella las calles de Trafalgar, Raimundo Lulio, Santa Feliciana, Murillo, Palafox, Jordán, Gonzalo de Córdoba y Olid.Lleva el nombre del ilustrado español del siglo xviii Pablo de Olavide.
+title: Plaza de Olavide (Madrid) - 2020 Qué saber antes de ir ...
+snippet: La plaza de Olavide te ofrece una multitud de terrazas en las que puedes disfrutar de variedad de platos, dede una tortilla de patata con ensalada y pimientos, por un módico preciso hasta comida biología,hay cervecerías, cafeterías y restaurantes italiano .
+title: Plaza de Olavide (Madrid) - 2020 What to Know Before You ...
+snippet: Plaza de Olavide, Madrid: See 55 reviews, articles, and 81 photos of Plaza de Olavide, ranked No.178 on Tripadvisor among 966 attractions in Madrid.
+title: Plaza de Olavide (Madrid): UPDATED 2020 All You Need to ...
+snippet: Plaza de Olavide, Madrid: See 55 reviews, articles, and 81 photos of Plaza de Olavide, ranked No.178 on Tripadvisor among 966 attractions in Madrid.
+title: Die 10 Besten Restaurants nahe Plaza de Olavide, Madrid
+snippet: Restaurants in der Nähe von Plaza de Olavide auf Tripadvisor: Schauen Sie sich 452.328 Bewertungen und 50.644 authentische Fotos von Restaurants in der Nähe von Plaza de Olavide in Madrid, Spanien an.
+
+REL: 0
+POI Name: The Clover
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: The Clover Residential Promora Mateo Inurria - Bolsa de Madrid
+snippet: Cada vivienda en The Clover Residencial tiene 350 metros cuadrados aproximados, un gran salón que ronda los 60 metros con frontales panorámicos de cristal -de suelo a techo y de gran formato- que generan mucha luz, una gran cocina de última generación, 4 ó 5 dormitorios más una zona para el servicio.
+title: Clover Tavern - 3,265 Photos - 53 Reviews - Pub - Valle de ...
+snippet: Clover Tavern, Madrid. 1K likes. Queremos ser la referencia en cervezas de importación, tanto en grifo como en sus diferentes formatos de cristal. Por ello disponemos de una carta con más de 40 tipos...
+title: THE CLOVER HOUSE - CAMPEZO, Madrid - San Blas - Canillejas ...
+snippet: Reserva The Clover House - Campezo, Madrid en Tripadvisor: Consulta 111 opiniones sobre The Clover House - Campezo con puntuación 3 de 5 y clasificado en Tripadvisor N.°5.485 de 11.660 restaurantes en Madrid.
+title: The Clover House - Campezo, Madrid - Restaurantanmeldelser ...
+snippet: The Clover House - Campezo, Madrid: Se 111 objektive anmeldelser av The Clover House - Campezo, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 5 473 av 11 633 restauranter i Madrid.
+title: The Clover House - Campezo, Madrid - San Blas - Canillejas ...
+snippet: Order food online at The Clover House - Campezo, Madrid with Tripadvisor: See 111 unbiased reviews of The Clover House - Campezo, ranked #5,489 on Tripadvisor among 11,657 restaurants in Madrid.
+title: The Clover - Madrid, Spain - Dive Bar | Facebook
+snippet: The Clover, Madrid, Spain. 58 likes. Dive Bar. Recomiendo este bar tipo irlandés que está en el barrio del pilar si les gusta el rock ellos tienen cerveza importadasde la buenas las dobles a 3 pavos se llama the clover
+title: De 10 beste restaurantene i nærheten av The Clover House ...
+snippet: Restauranter i nærheten av The Clover House - Campezo på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av The Clover House - Campezo, Madrid.
+title: POS System &amp; Credit Card Readers | Clover
+snippet: Your browser is out of date! Update your browser to view this website correctly. Update my browser now ×
+title: The Silver Clover | Iberian IP
+snippet: The silver clover WHO WE ARE. IberianIP, boutique founded by professional experts among whom are Lawyers, European Patent and Trademark Attorneys and Technicians with a large experience in comprehensive strategic advice on all Industrial and Intellectual Property matters. ... Madrid. Contact. thesilverclover@iberianip.com.
+title: The Clover Irish Tavern - Madrid, Madrid - Untappd
+snippet: Find out what&#39;s popular at The Clover Irish Tavern in Madrid, Madrid in real-time and see activity
+
+REL: 0
+POI Name: Nine Fitness Sports Club 9F
+POI City: Madrid
+POI Country: ES
+POI Main category: Active Life
+POI Sub category: Fitness & Instruction, 
+Snippets:
+title: Nine Fitness Sports Club 9F - Fitness &amp; Instruction ...
+snippet: Nine Fitness Sports Club 9F in Madrid, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Madrid and beyond.
+title: Nine Fitness - Nine Fitness
+snippet: Nine Fitness. Nine Fitness. Selecciona. TU CLUB. ACACIAS. Paseo de las Acacias 3-5 Madrid (Metro Embajadores) info@ninefitness.es. 911 82 31 74. PINTO. Calle Pablo Picasso, 12, 28320 Pinto, Madrid Centro Comercial Plaza Éboli. info@ninefitness.es. 916 98 72 88.
+title: Nine Fitness - 2,460 Photos - 145 Reviews - Gym/Physical ...
+snippet: Nine Fitness - - Rated 4.8 based on 145 Reviews &quot;BEST GYM IN THE WORLD &quot; ... Gym/Physical Fitness Center in Madrid, Spain. 4.8. 4.8 out of 5 stars. Closed Now. ABOUT NINE FITNESS. ... Nine Fitness Sports Club Pinto. Sports Club. Manager Joueurs De Football. Coach. Plaza Éboli.
+title: Horarios - Nine Fitness - Nine Fitness
+snippet: SELECCIONA TU CLUB. Copyright 2019 © Todos los derechos reservados
+title: Pinto - Nine Fitness
+snippet: Entrenamiento funcional en Nine Fitness Acacias. UN PROCESO REVOLUCIONARIO. ... recibirás las primeras pautas para comenzar en el club. 02. Planning. Lo principal es que disfrutes de la experiencia, por eso te ayudaremos a planear tus entrenamientos de la mejor forma. Todo a tu manera. 03. ... 12, 28320 Pinto, Madrid. Teléfono.
+title: Acacias - Nine Fitness
+snippet: Precios especiales para socios de Nine Fitness. ... es una atmósfera nueva dentro del club. Actividades especiales, dos de las artes marciales más populares en todo el planeta: BOXEO y KICKBOXING. Aprende con los mejores. Plazo de inscripción abierto para la temporada 2017-2018. ... Paseo de las Acacias 3-5 Madrid.
+title: ‎9F Nine Fitness en App Store
+snippet: ‎Lee reseñas, compara valoraciones de los usuarios, visualiza capturas de pantalla y obtén más información sobre 9F Nine Fitness. Descarga la app 9F Nine Fitness y disfrútala en tu iPhone, iPad o iPod touch.
+title: Nine Fitness Sports Club Pinto on Instagram • Photos and ...
+snippet: 1,147 Posts - See Instagram photos and videos taken at ‘Nine Fitness Sports Club Pinto’
+title: OScAR 9F (@oscar_mele) • Instagram photos and videos
+snippet: OScAR 9F has 748 posts on their Instagram profile. ... OScAR 9F has 748 posts on their Instagram profile. Follow their account to see all their photos and videos. oscar_mele Follow. 748 posts; 5,424 followers; 1,184 following; OScAR 9F PaPi de InDiA ️?? ️ •••Fundador y CEO NiNe FiTnEsS Sports Club ...
+title: Gimnasio Fisioten - Home | Facebook
+snippet: With regard to the issue of dues paid both monthly and quarterly, we will put you a solution not to waste that time that has been paid, but since you do not know when you can return the activity will be able to return, in due time we will find a solution.
+
+REL: 0
+POI Name: Bendito
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Wineries, 
+Snippets:
+title: Bendito, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Bendito, Madrid: Se 19 objektive anmeldelser av Bendito, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 2 716 av 11 659 restauranter i Madrid.
+title: Bendito, vinos y vinilos - Home | Facebook
+snippet: Bendito, vinos y vinilos, Madrid. 1.1K likes. Bendito, vinos y vinilos es una tienda-bar de vinos, quesos, cecinas, jamones y embutidos. Acércate al vino desde la diversión y olvida el snobismo
+title: Bendito, Madrid - Centro - Restaurant Reviews &amp; Photos ...
+snippet: Bendito, Madrid: See 18 unbiased reviews of Bendito, rated 5 of 5 on Tripadvisor and ranked #2,824 of 11,584 restaurants in Madrid.
+title: INICIO | Bendito Burrito
+snippet: barranquilla - bucaramanga. contactanos
+title: Bendito. Vinos y vinilos - Mercado de San Fernando
+snippet: Surgió la idea de acercar la cultura del vino y la gastronomía, del productor local al público de Madrid. Un lugar donde comprar y beber vino sea divertido y asequible. El concepto Bendito se basa en un espacio sencillo y cercano en el que ofrecemos un amplio catálogo de vinos naturales
+title: BENDITO, Madrid - Centro - Updated 2020 Restaurant Reviews ...
+snippet: Bendito, Madrid: See 19 unbiased reviews of Bendito, rated 5 of 5 on Tripadvisor and ranked #2,719 of 11,650 restaurants in Madrid.
+title: BENDITO, Madrid - Centro - Fotos y Restaurante Opiniones ...
+snippet: Bendito, Madrid: Consulta 19 opiniones sobre Bendito con puntuación 5 de 5 y clasificado en Tripadvisor N.°2.716 de 11.659 restaurantes en Madrid.
+title: Pan Bendito (Madrid Metro) - Wikipedia
+snippet: Pan Bendito (Madrid Metro) Jump to navigation Jump to search. This article relies largely or ... Pan Bendito is a station on Line 11 of the Madrid Metro. It is located in fare Zone A. References This article about a Spanish railway station is a stub. You can help ...
+title: BENDITO, Madrid - Centro - Ristorante Recensioni &amp; Foto ...
+snippet: Bendito, Madrid: su Tripadvisor trovi 19 recensioni imparziali su Bendito, con punteggio 5 su 5 e al n.2.716 su 11.659 ristoranti a Madrid.
+title: Estudio de grabación Madrid | Agencia Locutores | Bendito ...
+snippet: Estudio de grabación. Una agencia de locutores que ofrece solución a necesidades de audio. Cartera de locutores. Estudio de grabación en Madrid.
+
+Cand cities: {'Madrid'}

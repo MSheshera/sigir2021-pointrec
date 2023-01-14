@@ -1,0 +1,1277 @@
+City: Alexandria
+Country: US
+Main category: Active Life
+Sub category: Hiking
+Description: I moved to Alexandria, VA recently and I’m looking for some hiking spots within driving distance. Any recommendations for cool, picturesque spots to hike and take pictures?
+Rated POIs: 49
+Rel distr: [(0, 25), (1, 12), (2, 10), (3, 2)]
+=================================
+REL: 3
+POI Name: Winkler Botanical Preserve
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Botanical Gardens, 
+Snippets:
+title: Winkler Botanical Preserve (Alexandria) - 2020 All You ...
+snippet: This is a lovely nature preserve right off a freeway in the middle of apartments and housing - but you would never know. Once you are in the preserve it is quiet and peaceful. There are trails, a lake, a waterfall, a big wooden lodge straight out of the Catskills.
+title: Winkler Botanical Preserve - Alexandria, VA - Yelp
+snippet: 16 reviews of Winkler Botanical Preserve &quot;We visit DC all the time and we wanted to try someplace different. Something we haven&#39;t done yet and stumbled on this little hike. It was winter so I am sure during the spring and summer it&#39;s a lot more…
+title: Winkler Botanical Preserve Trail [CLOSED] - Virginia ...
+snippet: Winkler Botanical Preserve Trail is a 1 mile moderately trafficked loop trail located near Alexandria, Virginia that features a great forest setting and is good for all skill levels. The trail offers a number of activity options and is accessible year-round.
+title: Winkler Botanical Preserve - Alexandria, Virginia ...
+snippet: Winkler Botanical Preserve, Alexandria, Virginia. 517 likes · 1 talking about this · 1,266 were here. Wildlife Sanctuary
+title: Winkler Botanical Preserve - Alexandria Living Magazine
+snippet: Winkler Botanical Preserve is a secluded area featuring a variety of nature trails, a mountain lodge and a waterfall flanked by woods. Print Alexandria Living Magazine is your go-to source for exploring the past, present and future of Alexandria’s people, culture and happenings.
+title: Great Green Escape: Winkler Botanical Preserve | Old Town ...
+snippet: This week I had the delightful experience of accompanying 19 first graders on a field trip to the Winkler Botanical Preserve in Alexandria, a 44 ½ -acre collection of plants and trees where ...
+title: A treasure hidden by the trash - Review of Winkler ...
+snippet: Winkler Botanical Preserve: A treasure hidden by the trash - See 6 traveler reviews, 13 candid photos, and great deals for Alexandria, VA, at Tripadvisor.
+title: Winkler Botanical Preserve 5400 Roanoke Ave Alexandria, VA ...
+snippet: Get directions, reviews and information for Winkler Botanical Preserve in Alexandria, VA. Winkler Botanical Preserve 5400 Roanoke Ave Alexandria VA 22311. 15 Reviews (703) 578-7888. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Alexandria: Preserving the Preserve
+snippet: Smolik&#39;s role with Winkler has been two-fold. At the Winkler family&#39;s request, she came to work for them and started an all-encompassing education program in cooperation with the Alexandria City Public Schools (ACPS). Every child in grades one through five in all 13 elementary schools, makes two field trips yearly to the preserve.
+title: Winkler Botanical Preserve (Alejandría) - 2020 Qué saber ...
+snippet: Winkler Botanical Preserve, Alejandría. Estados Unidos ; Virginia (VA) Alejandría ; Qué hacer en Alejandría ; Winkler Botanical Preserve; Buscar. Winkler Botanical Preserve. 6 opiniones. N.º 50 de 76 cosas que hacer en Alejandría. Naturaleza y parques, Parajes naturales. ... Alexandria National Cemetery
+
+REL: 3
+POI Name: Potomac Heritage Trail
+POI City: Arlington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 2
+POI Name: Farrington Park
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Fairfax County Parks - Farrington Park - Alexandria Living ...
+snippet: Farrington Park is a small park with a playground for young children (tot lot). Print Alexandria Living Magazine is your go-to source for exploring the past, present and future of Alexandria’s people, culture and happenings.
+title: Farrington Park - Parks - 2211 Farrington Ave, Alexandria ...
+snippet: 1 review of Farrington Park &quot;Great little park, tucked away in a cute, safe neighborhood. It is fenced with some picnic tables, a small and a large play set, and a see saw. It is not very well known outside of the neighborhood so it is quiet.…
+title: Ribbon Cut at New Farrington Park Playground in Alexandria ...
+snippet: A ribbon-cutting ceremony was held on Saturday, June 24, 2017 to mark completion of the playground replacement at Farrington Park in Alexandria, Virginia. The $185,000 project involved demolition of the old playground, tot lot and picnic area at the site and installation of new playground and tot lot equipment, a timber border, safety surfacing, drainage, benches, picnic tables, fencing and an ...
+title: Farrington Park 2211 Farrington Ave Alexandria, VA Parks ...
+snippet: Get directions, reviews and information for Farrington Park in Alexandria, VA. Farrington Park 2211 Farrington Ave Alexandria VA 22303. 1 Reviews. Menu &amp; Reservations Make Reservations . ... Great little park, tucked away in a cute, safe neighborhood. It is fenced with some picnic tables, a small and a large play set, ...
+title: Photos for Farrington Park - Yelp
+snippet: Photo 3 of 3 for Farrington Park - Alexandria, VA
+title: 2134 Farrington Avenue, Alexandria VA - Walk Score
+snippet: 2134 Farrington Avenue is a 10 minute walk from the Yellow Metrorail Yellow Line at the HUNTINGTON AV METRO STATION stop. This location is in Alexandria. Nearby parks include Huntington Park, Belle Haven Park and Penny Hill Cemetery.
+title: Luna Park, Arlington - Wikipedia
+snippet: Luna Park (also known as Washington Luna Park and Luna Park Washington D.C.) was a trolley park in Alexandria County (now Arlington County), Virginia, that operated between 1906 and 1915. The Washington, Alexandria, and Mount Vernon Electric Railway (later the Washington-Virginia Railway) constructed the amusement park for $350,000 in collaboration with the facility&#39;s designer and operator ...
+title: News - Alexandria Living Magazine
+snippet: Alexandria Living Magazine is your go-to source for exploring the past, present and future of Alexandria’s people, culture and happenings. Come explore with us! 201 N. Union Street, Suite 110, Alexandria, VA 22314. 571-232-1310
+title: Farrington Park, Somerset | Award Winning Golf, Weddings ...
+snippet: Farrington Park offers an award winning golf course, restaurant, wedding venue, function rooms and gym facilities in Somerset. Visit our site to find out more.
+title: Professional Standard Golf in Somerset - Farrington Park
+snippet: Farrington Park is a proud holder of the prestigious England Golf GolfMark award, which recognises our commitment to welcoming families and players of every age, race and gender.Whether you’re a beginner or regular player, golfers of all abilities can enjoy 27 holes of exhilarating golf and a welcoming, relaxed atmosphere within Farrington Park’s 200 acres of idyllic former Duchy of ...
+
+REL: 2
+POI Name: Dora Kelley Nature Park
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Jerome Buddie Ford Nature Center | City of Alexandria, VA
+snippet: Dora Kelley Nature Park. Just outside the Nature Center lies Dora Kelley Nature Park, a 50-acre wildlife sanctuary with a one-mile long nature trail that meanders along streams, wooded hills, and freshwater marshland. Seasonal tours of the park are offered periodically by the City&#39;s Natural Resource Manager, Rod Simmons. Stay tuned for upcoming ...
+title: Dora Kelley Nature Park - Alexandria, VA - Yelp
+snippet: 16 reviews of Dora Kelley Nature Park &quot;I have been going to this park since I have been in middle school. I am now in my late 20s. As a kid, I would just care about riding my bike through the trails. As I got older I use this park as my way to…
+title: Alexandria Parks Listing (A-D) | City of Alexandria, VA
+snippet: Dora M. Kelley (1914-2001) was an avid nature lover and long-time resident of the City of Alexandria. Her desire to preserve the remaining woodlands near her home was realized in 1973 with the acquisition of 25.6 acres (i.e., the &quot;Rolfs tract&quot;) by the City of Alexandria for the establishment of a nature park/wildlife sanctuary.
+title: Dora Kelley Nature Park | Virginia DGIF
+snippet: Dora Kelley Nature Park is an excellent example of conscientious urban planning and conservation efforts. Though surrounded by urban sprawl, this 50-acre nature preserve is a woodland gem nestled in the Holmes Run Stream Valley Gorge. This park is a prime birding spot any time of the year.
+title: Dora Kelley Nature Park in Alexandria, VA | Dog Parks Near ...
+snippet: Is your pup craving some time in nature? Then it’s time for a visit to Dora Kelley Nature Park. This 50 acre gem of a park is a green oasis in the middle of a busy area. Even though your leashed pup is just minutes from city life, they will feel like they are miles away. A one mile nature path meanders through this woofderful pawperty.
+title: Dora Kelly Nature Park - Alexandria, Virginia - Park ...
+snippet: Dora Kelly Nature Park, Alexandria, Virginia. 104 likes · 1,765 were here. Park
+title: Dora Kelley Nature Park - Park - Foursquare
+snippet: She is in Savoy Park, Dowden Terrace &amp; probably hiding in the Holmes Run Trail / Dora Kelly Par. Pink collar&amp;tags. Call us if seen 614.579.4840. Maureen Murray June 18, 2016. Come here for nice nature walks. Not often crowded. ... dora kelley nature park alexandria • dora kelley nature park alexandria photos • dora kelley nature park ...
+title: Dora Kelley Nature Park | Burke, VA Patch
+snippet: Unquestionably, the Dora Kelley Nature Park is a hidden gem that is a tremendous asset to the surrounding community. When planning any park visits, remember to remind children of Leave No Trace ...
+title: Apartments near Dora Kelley Nature Park in West Alexandria, VA
+snippet: Everything you want to do and see is within easy reach, from historic landmarks to riverside activities and water sports on the Potomac. Whether you are looking to simplify your commute to work or school or be close to the trails of Dora Kelley Nature Park, Alexandria West is the place to be.
+title: Alexandria City Parks - Dora Kelley Nature Park ...
+snippet: Dora Kelley Park is close to 50 acres, and as such it is one of the largest parks in Alexandria. The Buddie Ford Nature Center is in the park, and it exhibits live animals, hosts nature classes, and leads guided park walks.
+
+REL: 2
+POI Name: Fort Hunt National Park
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Fort Hunt Park - National Park Service
+snippet: The grounds at Fort Hunt Park are open year-round from sunrise to sunset. Directions. Fort Hunt Park is located on the George Washington Memorial Parkway between Alexandria, Virginia and the Mount Vernon Estate and Gardens. Address. 8999 Fort Hunt Road Alexandria, VA 22308 Tel. 202‑439‑7325. By Car
+title: Fort Hunt Park (Alexandria) - 2020 All You Need to Know ...
+snippet: We experience and walk Fort Hunt Park frequently. It&#39;s a good park for walking and biking, picnics, baseball fields, and pavilion. Lots of trees and open fields and the park is maintained by the National Park Service. It connects to the George Washington Parkway and walking …
+title: Fort Hunt Park - Wikipedia
+snippet: Fort Hunt Park is a public park located in Fort Hunt, Fairfax County, Virginia.It is administered by the National Park Service as part of the George Washington Memorial Parkway.The park preserves the remains of the eponymous Fort Hunt, portions of which date to the time of the Spanish–American War.The park was named after Brigadier General Henry Hunt, who served as chief of artillery of the ...
+title: Fort Hunt National Park, a Virginia National Park located ...
+snippet: Welcome to Fort Hunt Park! The George Washington Memorial Parkway manages this popular area. The park is open year- round, and has several picnic areas with a variety of facilities. Throughout the year,picnic area &quot;E&quot; is available to all visitors on a &quot;first come, first served&quot; basis.
+title: Fort Hunt - George Washington Memorial Parkway (U.S ...
+snippet: It was not until 1930 that Congress finally authorized the Secretary of War to transfer Fort Hunt to the Office of Public Buildings and Public Parks of the National Capital for development as a recreational site along the newly established George Washington Memorial Parkway.
+title: Best Trails in Fort Hunt Park - Virginia | AllTrails
+snippet: Best Trails in Fort Hunt Park. 168 reviews Local Park in Virginia. 417 ... There is no visitor center on the parkway itself. Information, brochures, maps, and National Park Passport stamps are available at parkway headquarters and at visitor centers ... Ft Hunt Park back towards Alexandria to the stone overpass bridge and back is ...
+title: Fort hunt park - Review of Fort Hunt Park, Alexandria, VA ...
+snippet: Ft. Hunt is a free access National Park, and it has National Park Service Offices onsite. It is a former German POW camp, but the best feature of this park is its natural beauty, many trees and paths, and plenty of picnic areas and restrooms.
+title: Fort Hunt, Virginia - Wikipedia
+snippet: Located within Fort Hunt is Fort Hunt Park, currently operated by the National Park Service, with a history of military activity dating from 1676. History. The site of present-day Fort Hunt Park was used as an asset for the United States military beginning in the Spanish–American War.
+title: Photos for Fort Hunt National Park - Yelp
+snippet: Photos at Fort Hunt National Park - Alexandria, VA. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Fort Hunt National Park. Fort Hunt National Park. 8 reviews Add photos Search photos... 57 photos mention &quot;&quot; ...
+title: Fort Hunt Park - Fort Hunt, Virginia - Park, Landmark ...
+snippet: Fort Hunt Park, Fort Hunt, Virginia. 375 likes. ... Autumn in Fort Hunt Park. Alexandria, Virginia — at Fort Hunt Park. Christine Kofman is at Fort Hunt Park. October 26 at 7:33 AM · Instagram · Weekends are for gratuitous fall foliage shots. ... Fort Hunt National Park. National Park.
+
+REL: 2
+POI Name: Adventure To Africa
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Travel Services, Hiking, Surfing, 
+Snippets:
+title: Adventure To Africa - Safari, Dive and Honeymoon Planner
+snippet: Allow us at Adventure to Africa to create your unique trip. Take a look around the website for inspiration. Then contact us to combine your interest, budget and date with our knowledge, expertise and experience to take care of everything. Having lived, worked and travelled in Africa extensively, we will conjure your journey of a lifetime.
+title: Our Story - Adventure To Africa
+snippet: Growing up, living and working in Africa gives us insights that can not be duplicated. We share our time between our offices in Alexandria Virginia and Addo, South Africa to gives us, and in turn you, the best of both worlds. Spending time in South Africa allows us to keep our ears to the ground for information that does not reach the USA.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Adventure To Africa - Travel - Alexandria, VA - WeddingWire
+snippet: Contact Adventure To Africa in Alexandria on WeddingWire. Browse Travel prices, photos and 1 reviews, with a rating of 5.0 out of 5
+title: Adventure To Africa 713 Massey Ln #B Alexandria, VA Travel ...
+snippet: Adventure to Africa advertises themselves as an African Tour Operator. They are not! They are nothing more than a booking agent. They booked me on an 8 night classic safari tour of the Okavango...
+title: Adventure To Africa, Inc. | Better Business Bureau® Profile
+snippet: Travel Agency in Alexandria, VA. See BBB rating, reviews, ... After reading the previous reviews, I can only echo the glowing sentiments for Adventure to Africa&#39;s services.
+title: Alexandria Independent Adventure in Egypt, North Africa ...
+snippet: Delve into legendary Alexandria, Egypt&#39;s capital for a millennium and once home to one of the Seven Wonders of the Ancient World. Wander the Roman amphitheatres, palaces, and catacombs of Egypt&#39;s gateway to the Mediterranean. Starting from Cairo, spend a day and a half exploring Alexandria&#39;s Greek, Roman, and Byzantine history in one of the greatest cities of the Hellenic world. And wi
+title: Amazing adventure - Review of Africa Safari Park ...
+snippet: Africa Safari Park: Amazing adventure - See 50 traveler reviews, 107 candid photos, and great deals for Alexandria Governorate, Egypt, at Tripadvisor.
+title: Cairo to Cape Town Overland Self Drive Safari | 4WD Safari ...
+snippet: We bid farewell to hotels and airports and say hello to Defenders and Oz tent camping equipment as we embark on a guided self drive 4WD adventure for the next 8 weeks from Kenya to South Africa! Our next leg on our Cairo to Cape Town overland.
+title: Alexandria Hiking Trail - Footprint
+snippet: There are many aspects of Southern Africa&#39;s natural beauty that can only be described by such words as stunning and magnificent. To discover such a place as Alexandria is like discovering a new chapter in a book that you thought you had finished. The dunes, the coastal dune forest, and the seascape is quite simply breathtaking.
+
+REL: 2
+POI Name: Kiddie Academy of North Springfield
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Child Care & Day Care, Preschools, Summer Camps, 
+Snippets:
+title: Kiddie Academy of North Springfield, VA
+snippet: Kiddie Academy of North Springfield is an educational childcare center in Alexandria, VA that offers learning-based programs for infants, toddlers, &amp; more. If you are looking for a daycare or preschool for your child, come by and take a tour!
+title: Preschool &amp; Childcare in Alexandria, VA | Kiddie Academy ...
+snippet: Kiddie Academy of Alexandria is an educational childcare center in Alexandria, VA that offers learning-based programs for infants, toddlers, &amp; more. If you are looking for a daycare or preschool for your child, come by and take a tour!
+title: Kiddie Academy of North Springfield - Home | Facebook
+snippet: Kiddie Academy of North Springfield, Alexandria. 234 likes. Our state of the art educational childcare academy opened on June 18, 2018. We are accepting enrollment applications for all classrooms.
+title: Kiddie Academy of North Springfield, VA
+snippet: The Kiddie Academy Difference. Make a difference in your community while obtaining valuable hands-on experience, professional development and training in a supportive environment. At Kiddie Academy of North Springfield, our proprietary curriculum, Life Essentials ®, is at the core of everything we do.
+title: School Age in Alexandria, VA | Kiddie Academy
+snippet: About the School Age Program at Kiddie Academy of North Springfield. Children spend most of their time juggling assignments, friendships and extracurricular activities. They crave the freedom to discover things that interest them most, and Kiddie Academy ® gives them the structure to build essential skills for their future.
+title: Kiddie Academy - Child Care Sydney
+snippet: Kiddie Academy is a purpose built child care centre located in Alexandria, Sydney. With additional centres located in Kellyville and Mudgee. We invest in the highest quality, experienced and qualified child care educators.
+title: Kiddie Academy of Alexandria - Home | Facebook
+snippet: Kiddie Academy of Alexandria, Alexandria. 257 likes · 12 talking about this · 28 were here. Educational Child Care serving children from 6 weeks to Kindergarten Prep (5 years old). Using a...
+title: Kiddie Academy of North Springfield 5290 Shawnee Road ...
+snippet: Get directions, reviews and information for Kiddie Academy of North Springfield in Alexandria, VA. Kiddie Academy of North Springfield 5290 Shawnee Road Alexandria VA 22312. Reviews (703) 559-3361 Website. Menu &amp; Reservations ... We provide educational daycare in the greater Alexandria, ...
+title: Kiddie Academy of North Springfield, 5290 Shawnee Road ...
+snippet: Kiddie Academy of North Springfield&#39;s Grand Opening was held on Saturday, September 8th. Owners Lou and Fatana Campbell were recognized by community representatives, along with current and prospective families enrolled at the Academy, for their outstanding effort to bring an Early Childhood Development Center to the area.
+title: Weekly Menu | Kiddie Academy of North Springfield | Kiddie ...
+snippet: Weekly Menu | Kiddie Academy of North Springfield. Learn about the happenings in your area involving childcare &amp; early child education.
+
+REL: 2
+POI Name: Huntley Meadows Park
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Huntley Meadows Park | Park Authority - Fairfax County
+snippet: Huntley Meadows Park connects you to treasured homes and habitats. The park is home to a nationally significant historic house, majestic forests, wildflower-speckled meadows and vast wetlands bursting with life. Some of the best wildlife watching in the Washington metropolitan area is here ...
+title: Huntley Meadows Park (Alexandria) - 2020 All You Need to ...
+snippet: Alexandria, Virginia 107 contributions 21 helpful votes Great scenic Spot! Huntley Meadows Park is a great place to spend time in nature relaxing and taking a break from the hustle and bustle of the traffic and crazy area.
+title: Restaurants Near Huntley Meadows Park, Alexandria, Virginia
+snippet: Restaurants near Huntley Meadows Park, Alexandria on Tripadvisor: Find traveler reviews and candid photos of dining near Huntley Meadows Park in Alexandria, Virginia.
+title: Huntley Meadows Park - Alexandria, Virginia - Nature ...
+snippet: Huntley Meadows Park, Alexandria, Virginia. 1.1K likes. Huntley Meadows Park, the largest park operated by the Fairfax County Park Authority, is located...
+title: Huntley Meadows Park - Wikipedia
+snippet: Huntley Meadows Park, the largest park operated by the Fairfax County Park Authority (1,452 acres (588 ha)), is located in the Hybla Valley area of Fairfax County, Virginia, south of the city of Alexandria.The park features a visitor center, a beaver-created wetland with boardwalk, wildlife observation platforms, and an interpretative trail system.
+title: Huntley Meadows Trails | Park Authority - Fairfax County
+snippet: Fairfax County, Virginia - Huntley Meadows Trails. To change the language of this website, click the drop-down list and select the desired language.
+title: Friends of Huntley Meadows Park - fohmp home page
+snippet: Nestled in Fairfax County&#39;s Hybla Valley, Huntley Meadows Park is a rich, natural and historical island of over 1,500 acres in the suburban sea of Northern Virginia. It harbors a nationally significant historic house, majestic forests, wildflower-speckled meadows and vast wetlands bursting with life.
+title: Huntley Meadows Park 3701 Lockheed Blvd Alexandria, VA ...
+snippet: &lt;p&gt;Huntley Meadows Park incorporates 1,425 acres of forestry and wetlands. The site is a popular place for bird watchers and families.&lt;/p&gt; &lt;p&gt;Visitors can stroll along the park&#39;s half mile long boardwalk.
+title: Huntley Meadows Park - Alexandria, VA - Yelp
+snippet: Huntley Meadows Park you have restored my life-force!How lovely to find a woods to wander through, protected from the suburbian strip malls (and some delightful little famiy restaurants, it must be noted) that surround it. My first visit here was to go birding with a group of master birders.
+title: Huntley Meadows Park Field Trips | Park Authority
+snippet: Map of Huntley Meadows Park. Finding the Park. Due to known issues with GPS units, please use the street address if you are following GPS to the park. Huntley Meadows has three entrances. The main entrance is at 3701 Lockheed Blvd, Alexandria VA 22306.
+
+REL: 2
+POI Name: Dyke Marsh
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+title: Dyke Marsh Wildlife Preserve - George Washington Memorial ...
+snippet: Dyke Marsh is one of the largest remaining freshwater tidal wetlands in the Washington metropolitan area. Its 485 acres of tidal marsh, floodplain, and swamp forest can be explored by boat or on foot.
+title: Dyke Marsh - Wikipedia
+snippet: Dyke Marsh is located on the west bank of the Potomac River south of Alexandria, Virginia between Old Town Alexandria and Mount Vernon. Dyke Marsh consists of about 380 acres (1.5 km 2) of tidal marsh, floodplain, and swamp forest. It formed 5,000 to 7,000 years ago.
+title: Friends of Dyke Marsh - Friends of Dyke Marsh
+snippet: Friends of Dyke Marsh is a volunteer group dedicated to preserving, restoring and enhancing Dyke Marsh, a freshwater tidal marsh in Fairfax County on the Potomac River just south of Alexandria, Virginia. The Dyke Marsh Wildlife Preserve is administered by the National Park Service.
+title: Dyke Marsh - Fairfax County Parks - Alexandria Living Magazine
+snippet: The Dyke Marsh Wildlife Preserve is a freshwater, tidal marsh on the Virginia side of the Potomac River in Fairfax County. Skip to main content. ... Alexandria Living Magazine is your go-to source for exploring the past, present and future of Alexandria’s people, culture and happenings.
+title: Dyke Marsh, The Belle of the Potomac - Paddle the Potomac
+snippet: Just as rare is Dyke Marsh Preserve, one of the few remaining freshwater tidal wetlands on the Potomac. Best explored by kayak or canoe, Belle Haven Marina’s kayak launch is perfectly located on the protected side of the point for easy access to paddle Dyke Marsh.
+title: Friends of Dyke Marsh - Home | Facebook
+snippet: Friends of Dyke Marsh, Alexandria, Virginia. 1,097 likes · 244 talking about this. Friends of Dyke Marsh is a volunteer group dedicated to preserving, restoring and enhancing Dyke Marsh, a freshwater...
+title: Dyke Marsh Wildlife Preserve (Alexandria) - 2020 All You ...
+snippet: Dyke Marsh is our family’s favorite walking venue. It’s a wonderful, scenic jaunt through the woods with views of the Potomac and National Harbor. It’s about 35 mins round trip from the beginning of the trail.
+title: Map and Directions - Friends of Dyke Marsh
+snippet: Friends of Dyke Marsh is a volunteer group dedicated to preserving, restoring and enhancing Dyke Marsh, a freshwater tidal marsh in Fairfax County on the Potomac River just south of Alexandria, Virginia. The Dyke Marsh Wildlife Preserve is administered by the National Park Service.
+title: Dyke Marsh Wildlife Preserve - Alexandria, Virginia ...
+snippet: Dyke Marsh Wildlife Preserve, Alexandria, Virginia. 277 likes · 5,898 were here. Wildlife Sanctuary
+title: Dyke Marsh in Alexandria | Dyke Marsh Alexandria, VA 22307 ...
+snippet: Find Dyke Marsh in Alexandria with Address, Phone number from Yahoo US Local. Includes Dyke Marsh Reviews, maps &amp; directions to Dyke Marsh in Alexandria and more from Yahoo US Local. Find Dyke Marsh in Alexandria with Address, Phone number from Yahoo US Local.
+
+REL: 2
+POI Name: George Washington Recreational Center
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Amateur Sports Teams, 
+Snippets:
+title: George Washington RECenter | Park Authority
+snippet: Fairfax County is creating a master development plan for the combined property at the Original Mount Vernon High School campus located at 8333 Richmond Highway and the Fairfax County Park Authority’s George Washington Recreation Center and Park located at 8426 Old Mount Vernon Road.
+title: George Washington Recreational Center - Alexandria ...
+snippet: George Washington Recreational Center, Alexandria, Virginia. 40 likes · 1,482 were here. Gym/Physical Fitness Center
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: George Washington Recreational Center in Alexandria ...
+snippet: Find George Washington Recreational Center in Alexandria with Address, Phone number from Yahoo US Local. Includes George Washington Recreational Center Reviews, maps &amp; directions to George Washington Recreational Center in Alexandria and more from Yahoo US Local
+title: George Washington Recreational Center 8426 Old Mount ...
+snippet: Get directions, reviews and information for George Washington Recreational Center in Alexandria, VA. George Washington Recreational Center 8426 Old Mount Vernon Rd Alexandria VA 22309. 6 Reviews (703) 780-8894 Website. Menu &amp; Reservations Make Reservations .
+title: George Washington RECenter Lap Lane Schedule
+snippet: 8426 Old Mt. Vernon Road Alexandria, VA 22309 703-780-8894GEORGE WASHINGTON RECENTER A 2020 WA ... The chart below designates availability of pool spaces for lap lane as well as recreational pool users. ... George Washington RECenter Lap Lane Schedule
+title: George Washington Recreational Center - Alexandria, United ...
+snippet: George Washington Recreational Center. 8426 Old Mount Vernon Rd, Alexandria (VA), 22309, United States. Get Directions (703) 780-8894. ... Alexandria, VA 7950 Audubon Ave, Alexandria (VA), 22306, United States. Gym/Physical Fitness Center, Tennis Court 2.26 km PAC Rugby Alumni
+title: George Washington Recreational Center in Alexandria, VA ...
+snippet: George Washington Recreational Center in Alexandria, VA -- Get driving directions to 8426 Old Mount Vernon Rd Alexandria, VA 22309. Add reviews and photos for George Washington Recreational Center. George Washington Recreational Center appears in: Health Clubs &amp; Gyms, Public &amp; Private Swimming Pools, Recreation Centers
+title: George Washington Recreational Center Health Club in ...
+snippet: George Washington Recreational Center is a Health Club at 8426 Old Mount Vernon Rd, Alexandria, VA 22309. Wellness.com provides reviews, contact information, driving directions and the phone number for George Washington Recreational Center in Alexandria, VA.
+title: George Washington Recreational - 8426 Old Mount Vernon Rd ...
+snippet: Looking for the Gym, Fitness &amp; Recreational Sports Centers in Alexandria, VA? Visit George Washington Recreational located in 8426 Old Mount Vernon Rd, Alexandria, VA. Fell free to call George Washington Recreational at (703) 780-8894 or visit at 8426 Old Mount Vernon Rd, Alexandria, VA to get information about available options, working hours ...
+
+REL: 2
+POI Name: Montgomery Park
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Tennis, Playgrounds, Dog Parks, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Alexandria Parks Listing (M-R) | City of Alexandria, VA
+snippet: Alexandria Parks Listing (M-R) Parks A-D • Parks E-H • Parks I-L • Parks M-R • Parks S-Z Mason Avenue Mini Park Old Cameron Run Channel Park Powhatan Park Metro Linear Park Oronoco Bay Park Ramsay Center Field Park Minnie. ... Montgomery Park has been adopted by the Old Town North Community Association.
+title: Montgomery park, in Alexandria, VA - Alexandria, Virginia ...
+snippet: Find the best Montgomery park, around Alexandria,VA and get detailed driving directions with road conditions, live traffic updates, and reviews of local business along the way.
+title: Alexandria City Parks - Montgomery Park - Alexandria ...
+snippet: Montgomery Park features a fenced-in dog run, tennis courts, picnic tables, a playground and more. Skip to main content. Search. ... Alexandria Living Magazine is your go-to source for exploring the past, present and future of Alexandria’s people, culture and happenings.
+title: Montgomery Park - Alexandria, VA (Address)
+snippet: Montgomery Park, located in Alexandria, VA, is a Park that offers outdoor recreation and nature preservation. A public space open to the general public, the Park offers open spaces under the maintenance of the Alexandria Parks Department.
+title: Photos for Montgomery Park - Yelp
+snippet: Photos at Montgomery Park - Alexandria, VA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Montgomery, Louisiana - Wikipedia
+snippet: Montgomery is part of the Alexandria Metropolitan Statistical Area though it is forty miles north of Alexandria. Founded in 1712, even before New Orleans, Montgomery is situated on U.S. Route 71, close to the boundary with Natchitoches and Winn parishes. It is located on the eastern bank of the Red River.
+title: Facility &amp; Park Rentals | City of Alexandria, VA
+snippet: Facility &amp; Park Rentals. No matter the occasion, City of Alexandria has a venue to suit your needs. Our parks and facilities are great for parties, receptions, weddings, meetings and more. Indoor facilities are available for rental year-round and picnic areas are available for rental April-October, beginning March 1.
+title: Montgomery Park Tennis Courts in Alexandria, VA
+snippet: Montgomery Park is a public tennis establishment located at 379 Montgomery St, Alexandria, VA 22314. There are 4 public tennis courts at this tennis facility.
+title: Montgomery Park - Alexandria, VA - Step Outside
+snippet: Montgomery Park. Share. 901 North Royal Street. Alexandria, VA 22314. Website. ... Step Outside Organization. Subscribe for future Step Outside News! Alexandria Fall Activities. Water Sports. Canoeing, kayaking, and paddleboarding opportunities near you. Hiking. Your local trail guide for all ages and skill levels. Fishing. Local fishing holes ...
+
+REL: 2
+POI Name: Little Hunting Park Club
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Welcome to Little Hunting Park Pool &amp; Tennis Club
+snippet: Discover A Hidden Treasure-- Located on a secluded ten acres just minutes south of Old Town Alexandria, VA, Little Hunting Park Pool and Tennis Club (LHP) offers old-fashioned family fun for hot summer days.Our club is designed to offer families a safe, fun-filled and relaxing atmosphere where you can make lasting memories with family and friends on our grounds.
+title: Little Hunting Park Pool and Tennis Club - Home | Facebook
+snippet: Little Hunting Park Pool and Tennis Club. 712 likes. Little Hunting Park is a private swim and tennis club serving our neighbors in Alexandria, VA.
+title: Little Hunting Park Club 7000 Canterbury Ln Alexandria, VA ...
+snippet: Play tennis, volley ball, basketball, swim, or barbeque in the picnic area.&lt;/p&gt; &lt;p&gt;Found in the midst of a quiet treelined area, Little Hunting Park Club is the ideal place to spend leisure time with family on a lovely day. For further information, check out the website or call.&lt;/p&gt;
+title: Little Hunting Park Club in Alexandria, 7000 Canterbury Ln ...
+snippet: Description. Little Hunting Park Club can be found at 7000 Canterbury Ln . The following is offered: Entertainment Venues - In Alexandria there are 4 other Entertainment Venues.
+title: Little Hunting Park Club in Alexandria | Little Hunting ...
+snippet: Find Little Hunting Park Club in Alexandria with Address, Phone number from Yahoo US Local. Includes Little Hunting Park Club Reviews, maps &amp; directions to Little Hunting Park Club in Alexandria and more from Yahoo US Local.
+title: Little Hunting Park - Alexandria, VA - Foursquare
+snippet: See 2 photos and 1 tip from 71 visitors to Little Hunting Park. &quot;This dude CJ has never been here but sure does check-in a lot&quot;
+title: Little Hunting Park Club Inc - Alexandria, 22307-1561, VA
+snippet: About Little Hunting Park Club Inc and other related information Little Hunting Park Club Inc is one of a number of businesses situated in Alexandria, Virginia . DISQUS is open to all our users and can be used to share comments &amp; pictures about any business, letting others know what you think.
+title: Little Hunting Park Pool and Tennis Club, 7000 Canterbury ...
+snippet: Little Hunting Park is a private swim and tennis club serving our neighbors in Alexandria, VA. Little Hunting Park Pool and Tennis Club, 7000 Canterbury Ln, Alexandria, VA (2019) Home Cities Countries
+title: Home - Little Hunting Park Gators
+snippet: Little Hunting Park members, who are between the ages of 5 and 18 (as of June 1) are eligible to join the Gators. Additionally, swimmers must be able to swim the length of the pool unassisted and be judged by the Head Coach to be capable of effectively participating in 30-minute practice sessions.
+title: Photos at Little Hunting Park - Alexandria, VA
+snippet: See all 2 photos taken at Little Hunting Park by 191 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+
+REL: 1
+POI Name: Monticello Park
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Dog Parks, 
+Snippets:
+title: Monticello Park Nature - Alexandria, VA
+snippet: Monticello Park is in Alexandria, Virginia, near the border with Arlington. It is easily accessible from Northern Virginia, Maryland, and the District of Columbia. Nature lovers of all ages and skill levels come to the park to see the wide variety of birds, plants, insects, and other life forms.
+title: 191. Monticello Park, Alexandria, Virginia - BirdWatching
+snippet: Warblers abound at small, urban Monticello Park each spring and fall. Thirty-six eastern warbler species have been recorded over the years, often in impressive numbers. Early warblers such as Pine and Black-and-white sometimes arrive in March; the show really takes off during April and culminates throughout May.
+title: Monticello Park Real Estate - Monticello Park Alexandria ...
+snippet: Zillow has 1 homes for sale in Monticello Park Alexandria matching. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place.
+title: Monticello Park, Alexandria VA | Flickr
+snippet: Monticello Park is a tiny (6.24-acre) woodland park in a residential neighborhood in Alexandria, Virginia. It&#39;s a known HOTSPOT for migrating warblers and other birds in spring and fall. A small stream that runs the length of the park is a welcome attraction for the birds and the many birders and photographers who visit the park to spot their favorite birds. Over the years, 36 different ...
+title: Alexandria Parks Listing (M-R) | City of Alexandria, VA
+snippet: Alexandria Parks Listing (M-R) Parks A-D • Parks E-H • Parks I-L • Parks M-R • Parks S-Z Mason Avenue Mini Park Old Cameron Run Channel Park Powhatan Park Metro Linear Park Oronoco Bay Park Ramsay Center Field Park Minnie
+title: Monticello Park, Alexandria, VA Real Estate &amp; Homes for ...
+snippet: Check out Monticello Park real estate listings in Alexandria, VA. Take virtual tours, view property details &amp; get home pricing information at realtor.com®.
+title: Monticello Park, Alexandria, VA Apartments for Rent ...
+snippet: Searching for Monticello Park apartments for rent? See 1 apartment rentals in Monticello Park,Alexandria, VA by searching on realtor.com®.
+title: Alexandria City Parks - Monticello Park - Alexandria ...
+snippet: Monticello Park features a walking trail and small off-leash dog area. Skip to main content. Search. Advertising and Partnerships About Us Contact SUBSCRIBE. ... Alexandria Living Magazine is your go-to source for exploring the past, present and future of Alexandria’s people, culture and happenings.
+title: Maps for Monticello Park
+snippet: The closest Metro stop to Monticello Park is at Braddock Road, more than two miles away (at Braddock and North West Street). The Braddock Road station is on both the Blue and Yellow Lines. From the station, you can take a northbound Alexandria DASH Bus AT3 and AT3/4.
+title: Monticello Park, Alexandria, VA Photo Gallery by Paula ...
+snippet: Monticello Park, Alexandria, VA I am in the process of organizing this gallery by bird groups. Within each sub-gallery, represented by a thumbnail photo, you will find birds arranged in taxonomic order.
+
+REL: 1
+POI Name: Yoga2.0
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Yoga River North Chicago | YOGA 2.0 [featured on ABC7 &amp; FOX]
+snippet: YOGA 2.0 was founded by a group of like-minded yogis and an aspiring-yogi entrepreneur. We saw an immense opportunity to up-level the yoga experience and remedy the major pain points we were experiencing and hearing from students.
+title: Reserve - YOGA 2.0
+snippet: Reserve your spot at Yoga2.0 studio. Choose from our diffrent yoga classes, instructctors, times and dates avaliable.
+title: YOGA 2.0 - Yoga Studio - Chicago, Illinois - 100 Photos ...
+snippet: YOGA 2.0. 565 likes · 48 talking about this · 148 were here. YOGA 2.0 was founded by a group of like-minded yogis and an aspiring-yogi entrepreneur. We saw an immense opportunity to up-level the yoga...
+title: YOGA 2.0 | Sports and fitness in River North, Chicago
+snippet: Some of the best yoga teachers in Chicago banded together to open Yoga 2.0, a posh studio in River North that uses infrared heat to fuel its classes. Students w
+title: How Yoga2.0 Aims to Elevate Your Instructors in River ...
+snippet: CARA Chicago will help staff Yoga2.0’s cleaning crew. Yoga2.0 will also, on a quarterly basis, feature a local artist and invite him or her to create a mural on one of their walls; outside of class times, the artist will also have access to the space to display their work as in an art gallery.
+title: #Sweatworking at the BRAND NEW Yoga2.0: 10:00 am class ...
+snippet: #Sweatworking at the BRAND NEW Yoga2.0: 10:00 am class in Chicago, Yoga2.0, Sunday, 28. April 2019 - State-of-the-art facilities, world class instructors, and purposeful community make up the found...
+title: YOGA 2.0 - YouTube
+snippet: Yoga2.0&#39;s mission at Yoga2.0 is to elevate the body and soul connection with mindful intensity, grounded in an experience empowered by you and forged through...
+title: Yoga2.0: Read Reviews and Book Classes on ClassPass
+snippet: Yoga2.0 was founded by a group of like-minded yogis and an aspiring-yogi entrepreneur. We saw an immense opportunity to up-level the yoga experience and remedy the major pain points we were experiencing and hearing from students. You thrive when you change so the Soul Sanctuary was built to eliminate these stressors. Come roll out your mat and feel the difference.All-Star Instructors: Our ...
+title: Shaun Jacob - Principal - Yoga 2.0 | LinkedIn
+snippet: Shaun Jacob Yoga2.0 Greater Chicago Area 500+ connections. Join to Connect. Yoga 2.0. ... Our mission at YOGA 2.0 is to elevate the body and soul connection with mindful intensity, ...
+title: The 12 best yoga studios in Chicago - Time Out Chicago
+snippet: Strike a pose at the best yoga studios in Chicago, from indie spots to big-name studios that help you bend, twist and get down dog.
+
+REL: 1
+POI Name: Sweatvibes
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Dance Studios, 
+Snippets:
+title: SWEATVIBES
+snippet: SWEATVIBES is Changing! We are very thankful to all the Vibers for the love and support that you guys have given us for 4 excellent years. Now, we must announce that SWEATVIBES, LLC will be changing!
+title: Classes | SWEATVIBES
+snippet: Starting VIBES is easy: Just show up! The classes cost just $5 – $10 each. If you’re into being ultra-economical – or you can buy packages to bump your per-class rate even lower.
+title: What is VIBES? | SWEATVIBES
+snippet: VIBES is tons of fun and tons of exercise. It’s feel-good fitness at its best. At VIBES, the intervals are the songs! We’ll fill the hour with music you’ll love to dance to – so you don’t have to think about exercising!
+title: Love | SWEATVIBES
+snippet: VIBES is tons of fun and tons of exercise. It’s feel-good fitness at its best. At VIBES, the intervals are the songs! We’ll fill the hour with music you’ll love to dance to – so you don’t have to think about exercising!
+title: SWEATVIBES: Hot dance fitness | SWEATVIBES
+snippet: Born and raised in Chiba, the capital city of the Chiba Prefecture in Japan that sits about 40 kilometers (25 miles) southeast of the center of Tokyo on Tokyo Bay, Mimi has been the lead dance fitness instructor for the last three years at SWEATVIBES.
+title: Sweatvibes 5641 General Washington Dr Unit C Alexandria ...
+snippet: I purchased a package with Sweatvibes a year ago. A few months following my purchase, I had surgery and couldn&#39;t use my passes. I reached out and was told it would not expire.
+title: Sweatvibes in Alexandria | Sweatvibes 5641 General ...
+snippet: Find Sweatvibes in Alexandria with Address, Phone number from Yahoo US Local. Includes Sweatvibes Reviews, maps &amp; directions to Sweatvibes in Alexandria and more from Yahoo US Local
+title: Sweatvibes - Classes - Alexandria - Yelp
+snippet: Sweatvibes; Classes Classes for Sweatvibes Services Single-Class Rate Expires 4/25/19. $8.00 2018 Groupon 3 Classes. Expires 5/25/18. Introductory Offer First Time Customer Of Pricing Option. 2 reviews. $11.00 Fb Special Offer - 5 Class Package ...
+title: SWEATVIBES - Posts | Facebook
+snippet: 10 years now, I gave everything to dance fitness. I started from Zumba, KAZAXE then my own baby SWEATVIBES. I appreciate every opportunity I have been given and I can’t thank enough to the people who supported me through it all.
+title: Sweatvibes - Alexandria, VA | Groupon
+snippet: When you need something to do on your day off, visit Sweatvibes in Alexandria and indulge in a day filled with fun and adventure. Parking is plentiful, so guests can feel free to bring their vehicles. Sweatvibes is obviously the place to be, so get your calendar out and make plans to visit it soon.
+
+REL: 1
+POI Name: Greendale Golf Course
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf Lessons, 
+Snippets:
+title: Greendale Golf Course | Park Authority - Fairfax County
+snippet: Fairfax County, Virginia - Greendale Golf Course is an 18-hole regulation course featuring 148 acres of rolling terrain with asphalt cart paths. The course provides a challenging design with tight Bermuda fairways and several water hazards. The 17th hole offers a spectacular view o
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Greendale Golf Course in Alexandria, Virginia, USA | Golf ...
+snippet: Greendale Golf Course is an 18-hole regulation course featuring 148 acres of rolling terrain with asphalt cart paths. The course provides a challenging design with tight Bermuda fairways and several water hazards. The 17th hole offers a spectacular view of the entire course and surrounding area.
+title: Greendale Rates and Offers | Park Authority
+snippet: Alexandria, VA 22310. Peter Kim, General Manager. Greendale Rates and Offers. Department Resources. ... All golf courses, ranges, ... More About Greendale Golf Course. Play and Practice Tee Times. Rates and Offers. Course and Clubhouse. Practice Facilities.
+title: Greendale Golf Course (Alexandria) - 2020 All You Need to ...
+snippet: Was in the area for an event at the local high school and arrived a few hours early (to beat the traffic). Had my clubs in the car so I decided to play at Greendale Golf Course, which is run by the Fairfax County Park Authority, and has the feel of a well-run course. It is a …
+title: Greendale Golf Course Tee Times - Alexandria, VA | TeeOff.com
+snippet: Located just outside Washington, D.C. in Alexandria, VA, Greendale Golf Course is a popular track in Fairfax County. Greendale features 148 acres of undulating terrain and a challenging design with several water hazards to keep players honest.
+title: Greendale Golf Course, Alexandria, VA
+snippet: The 18-hole Greendale course at the Greendale Golf Course facility in Alexandria, Virginia features 6,353 yards of golf from the longest tees for a par of 70. The course rating is 70. 9 and it has a slope rating of 128 on Bermuda grass.
+title: THE 10 CLOSEST Hotels to Greendale Golf Course, Alexandria ...
+snippet: Hotels near Greendale Golf Course, Alexandria on Tripadvisor: Find 9,637 traveler reviews, 5,232 candid photos, and prices for 30 hotels near Greendale Golf Course in Alexandria, VA.
+title: Hotell nær Greendale Golf Course, Alexandria | Bestill på ...
+snippet: Leter du etter et hotell i nærheten av Greendale Golf Course i Alexandria? Med Expedia kan du sammenligne priser og lese hotellanmeldelser. Bestill et hotell raskt og enkelt med Expedias søkefunksjoner! For mer informasjon, se her »
+title: Greendale Women&#39;s Golf Association | A friendly group of ...
+snippet: Hi Ladies, Just in case any of you will experience the luxury of having a caddie, there are a couple of new rules that apply this year. Your caddie is no longer allowed to stand on or close to the extended line of play behind you while you are taking your stance until you make your stroke.
+
+REL: 1
+POI Name: Mason Neck National Wildlife Refuge
+POI City: Woodbridge
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Lake Accotink Park
+POI City: Springfield
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Igorzing, LLC.
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trainers, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Igorzing LLC in Alexandria, VA | Company Info &amp; Reviews
+snippet: Igorzing LLC is a Virginia Domestic Limited-Liability Company filed on October 5, 2012. The company&#39;s filing status is listed as 00 Active and its File Number is S425125. The Registered Agent on file for this company is Igor Cvetkovic and is located at 6320 Indian Run Pkwy, Alexandria, VA 22312-0000.
+title: Igorzing, LLC. 6320 Indian Run Pkwy Alexandria, VA ...
+snippet: Get directions, reviews and information for Igorzing, LLC. in Alexandria, VA. Igorzing, LLC. 6320 Indian Run Pkwy Alexandria VA 22312. 3 Reviews (571) 201-0882 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Igorzing, LLC in Alexandria | Igorzing, LLC 6320 Indian ...
+snippet: Find Igorzing, LLC in Alexandria with Address, Phone number from Yahoo US Local. Includes Igorzing, LLC Reviews, maps &amp; directions to Igorzing, LLC in Alexandria and more from Yahoo US Local
+title: IgorZing - Fitness Trainer - Alexandria, Virginia - 5 ...
+snippet: IgorZing - 6320 Indian Run Pkwy, Alexandria, Virginia 22312 - Rated 4.8 based on 5 Reviews &quot;Igor is a good PT. He is patient, hardworking, and he...
+title: IgorZing - Gym/Physical Fitness Center - Alexandria ...
+snippet: IgorZing - 6320 Indian Run Pkwy, Alexandria, Virginia 22312 - Rated 0 based on 5 Reviews &quot;Igor is a good PT. He is patient, hardworking, and he...
+title: 6320 Indian Run Pkwy, Alexandria, VA - Igorzing LLC Public ...
+snippet: Igorzing LLC listed there. Info about Igor Cvetkovic associated with the businesses registered at this address 6320 Indian Run Pkwy, Alexandria, VA - Igorzing LLC Public Records
+title: Igorzing LLC
+snippet: Igorzing LLC specializes in personal and online training in Alexandria.
+title: Igorzing, LLC. Gift Cards and Gift Certificates ...
+snippet: Buy a gift card to Igorzing, LLC.. Send it online to anyone, instantly. Igorzing, LLC. - 6320 Indian Run Pkwy - Alexandria, VA
+title: Welcome | Igor Zing Training
+snippet: IgorZing Training &amp; Nutrition. Book Online - 1:1 or Group . Lose Weight Build Strength &amp; Reduce Stress . Lose Weight Build Strength &amp; Reduce Stress Lose Weight Build Strength &amp; Reduce Stress Lose Weight Build Strength &amp; Reduce Stress Lose Weight Build Strength &amp; Reduce Stress . We Welcome .
+
+REL: 1
+POI Name: Dynamis Academy
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Martial Arts, 
+Snippets:
+title: Learn Martial Arts in Alexandria, VA | Dynamis Academy
+snippet: My family was one of the first to sign up at Dynamis Academy (previously Remarck Sport Taekwondo) when it opened many years ago, and there is a reason that we (me, my brother, and my sister) have stuck with it since 2002. The martial arts and self-defense training that Master Danielle instilled in me is invaluable.
+title: Contact Dynamis Academy | Alexandria, VA
+snippet: Dynamis Academy 703-971-2771 6122 Rose Hill Dr, Alexandria, VA 22310. Thank you for your interest in Dynamis Academy. We are always available to answer any questions you may have via phone, or you may email us directly by using this mail form and a representative will contact you within 24 hours.
+title: About Us | Taekwondo school in Alexandria | Dynamis Academy
+snippet: An Innovative And Holistic Training Center In Alexandria. Master Danielle Remarck started Dynamis Academy to help you become the best version of yourself possible. Dynamis (do-NAH-mees) is an ancient Greek word meaning inner strength or empowerment. Our program is character centered and grounded in discipline.
+title: Dynamis Academy - Home | Facebook
+snippet: Dynamis Academy, Alexandria, Virginia. 281 likes. The Dynamis Academy is an integrated system of athletics, academics &amp; self empowerment, designed to reach the untapped power (or &quot;dynamis&quot;) in each...
+title: Dynamis Academy - Alexandria, VA - Yelp
+snippet: 9 reviews of Dynamis Academy &quot;Most parents know that finding an after-school program for their child(ren) can be a daunting task. Especially if you are not able to get into the School Age Child Care (SACC) Program offered at most Fairfax County…
+title: Dynamis Academy | Summer Camp in Alexandria, Virginia
+snippet: Programs near Alexandria, Springfield, and Arlington. Dynamis Academy Learn Martial Arts in Alexandria&#39;s best Taekwondo School . Free Phone Consultation! 703-971-2771. Toggle navigation. About Our School ... Explore this year&#39;s Summer Camp at Dynamis Academy. Safe and fun activities designed to challenge and educate your child. GETTING STARTED ...
+title: Dynamis Academy | Martial Arts Classes in Alexandria, Virginia
+snippet: Dynamis Academy martial arts classes foster respect and self-discipline. Your children will learn not only to respect others, but to respect themselves as well. Martial arts training teaches leadership, self-control, and stress relief. We provide your child with the tools they need to diffuse a bullying situation.
+title: Dynamis Academy - Photos | Facebook
+snippet: Dynamis Academy, Alexandria, Virginia. 282 likes. The Dynamis Academy is an integrated system of athletics, academics &amp; self empowerment, designed to reach the untapped power (or &quot;dynamis&quot;) in each...
+title: Dynamis Academy, 6122 Rose Hill Dr, Alexandria, VA (2020)
+snippet: The Dynamis Academy is an integrated system of athletics, academics &amp; self empowerment, designed to reach the untapped power (or &quot;dynamis&quot;) in each of us. Dynamis Academy, 6122 Rose Hill Dr, Alexandria, VA (2020)
+title: Dynamis Academy - Posts | Facebook
+snippet: Attention Alexandria Parents! In Part 2 of our Halloween Safety Guide, Master Danielle Remarck, owner of Dynamis Academy in Alexandria, shares some more strategies to ensure everyone has a fun and safe Halloween. Halloween should be filled with fun scares, not real ones.
+
+REL: 1
+POI Name: Shenandoah National Park
+POI City: Luray
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Hiking Trails
+POI City: Austin
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Best Trails near Austin, Texas | AllTrails
+snippet: Looking for a great trail near Austin, Texas? AllTrails has 127 great hiking trails, running trails, mountain biking trails and more, with hand-curated trail maps and driving directions as well as detailed reviews and photos from hikers, campers, and nature lovers like you. If you&#39;re looking for the best trails around McKinney Falls State Park or Bastrop State Park, we&#39;ve got you covered.
+title: THE 10 BEST Austin Hiking Trails (with Photos) - Tripadvisor
+snippet: Top Austin Hiking Trails: See reviews and photos of hiking trails in Austin, Texas on Tripadvisor.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Best Hiking Trails near Austin, Texas | Trails.com
+snippet: Austin has 62 hiking trails. These trails range from 0.1 to 12.2 miles in length. The most popular trails are Three Falls Hike at Barton Creek Greenbelt, Wild Basin Wilderness Preserve and Inga VanNynatten Memorial Trail at Lower Bull Creek Greenbelt. Trails.com member Nathan D. recently completed McKinney Roughs Nature Park, Woodland and Bluff Ridge Trails.
+title: Austin, Texas Trails &amp; Trail Maps | TrailLink
+snippet: Explore the best trails in Austin, Texas on TrailLink. With more than 27 Austin trails covering 120 miles, you’re bound to find a perfect trail like the San Gabriel Park Trail or Veloway Trail. View detailed trail descriptions, trail maps, reviews, photos, trail itineraries, directions and more on TrailLink.
+title: 9 Best Hikes in Austin - Condé Nast Traveler
+snippet: 9 Best Hikes in Austin. 9 Photos. ... A network of hiking trails, stretching north to south and east to west, means every neighborhood has options for easily escaping the city when you need to.
+title: Trail Directory | AustinTexas.gov
+snippet: Download the Trail Directory to view a PDF document with additional information about the trails listed below, including surface types. Trails are organized alphabetically. *A Yes for ADA Accessible indicates a section of the trail that meets ADA at the time it was constructed. It is recommended the ...
+title: River Place Nature Trails - Austin Texas
+snippet: Canyon Trail. The Canyon Trail is the “top dog” of the River Place trail system, extending 2.3 miles from the trailhead at the upper end of River Place Blvd to Panther Junction, where it meets the end of the Little Fern and Panther Hollow trails. The Canyon Trail is a popular training trail, as it has lots of stairs and elevation change.
+title: The 11 best hiking trails in Austin and beyond ...
+snippet: Austin is adorned with a host of outdoor gems just beckoning to be explored. Maybe you&#39;ve always wanted to try hiking, but you weren&#39;t sure where to
+title: 9 Best Hiking Spots in Austin - The Austinot
+snippet: This trail is great even during hot summer months, as it’s relatively flat and shaded. For active dog owners, this is another off-leash trail for your pups, so bring them along for the 2.5-mile hike. 1600 City Park Road. The next time you’re in need of a recharge, head to one of the best hiking spots in Austin. @jpino9 wants to know:
+
+REL: 1
+POI Name: Lynhaven Park
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Playgrounds, Parks, 
+Snippets:
+title: Lynhaven Park - Playgrounds - 5 East Reed Ave, Alexandria ...
+snippet: 2 reviews of Lynhaven Park &quot;GREAT park... Just get here before it gets too dark. The older kids come out and take over everything.&quot;
+title: Alexandria City Parks - Lynhaven Park - Alexandria Living ...
+snippet: Alexandria Living Magazine is your go-to source for exploring the past, present and future of Alexandria’s people, culture and happenings. Come explore with us! 201 N. Union Street, Suite 110, Alexandria, VA 22314. 571-232-1310
+title: Lynhaven Park - Alexandria, VA (Address)
+snippet: Lynhaven Park, located in Alexandria, VA, is a Park that offers outdoor recreation and nature preservation. A public space open to the general public, the Park offers open spaces under the maintenance of the Alexandria Parks Department.
+title: Lynhaven Apartments Apartments - Alexandria, VA ...
+snippet: About Lynhaven Apartments. Experience your new place at Lynhaven Apartments in Alexandria. The location of this community is in Alexandria on Commonwealth Ave. Schedule a time to view the available floorplans. The leasing staff is ready and waiting to show you our community. Life is great at Lynhaven Apartments.
+title: Lynhaven Park 5 E Reed Ave Alexandria, VA Playgrounds ...
+snippet: To me this park looks a bit dilapidated. It was probably built 20 years ago and not very well maintained ever since. The equipment isn&#39;t falling apart, but you can just tell that it&#39;s kind of...
+title: Lynhaven Gateway Park - alexandriava.gov
+snippet: Lynhaven Gateway Park is located at 101 Lynhaven Drive in the Lynhaven neighborhood. There are no documented The park is 0.12 acres and is best identified by the stone studded mounds that line the path that stretches throughout the park. The community commonly calls this park “Rock Park”.
+title: Lynhaven Park - Alexandria, VA - Foursquare
+snippet: See 1 photo from 26 visitors to Lynhaven Park. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Photos for Lynhaven Park - Yelp
+snippet: A photo at Lynhaven Park
+title: Lynhaven Apartments - Alexandria, VA | Apartment Finder
+snippet: Find apartments for rent at Lynhaven Apartments in Alexandria, VA. Get the best value for your money with Apartment Finder.
+title: History and Character
+snippet: Lynhaven Park History and Character Lynhaven Park is located at 5 East Reed Avenue in the Lynhaven neighborhood. There are no documented historic sites within the park. The park is 0.25 acres and features a large playground and sitting area. The Lynhaven Civic Association has adopted the park. The playground features standard equipment and swings
+
+REL: 0
+POI Name: Anytime Fitness
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Anytime Fitness - Gym in Alexandria, MN 56308
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 3,000 gyms, and always open 24/7 convenience.
+title: Alexandria - New South Wales | Find a Gym | Anytime Fitness
+snippet: Your Fitness starts here! Join Anytime Fitness Alexandria and you&#39;re joining Australia&#39;s biggest fitness community. Whatever your fitness goals, you can find them here in-club. We have expert Personal Trainers who will keep you motivated and on track to see improvement and reach your potential.
+title: Anytime Fitness - Gym in Alexandria (Coliseum), LA 71303
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 3,000 gyms, and always open 24/7 convenience.
+title: Anytime Fitness - Home | Facebook
+snippet: Anytime Fitness - 74 McEvoy Street Alexandria, Sydney, Australia 2015 - Rated 3.6 based on 50 Reviews &quot;Doesn&#39;t let you cancel your membership in person,...
+title: Anytime Fitness - Gym in Alexandria (Manchester), VA 22310
+snippet: Welcome to Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 4,000 gyms, and always-open 24/7 convenience. All offered in a welcoming club and supportive member community.
+title: Anytime Fitness - Alexandria - Home | Facebook
+snippet: Anytime Fitness - Alexandria - 301 30th Ave W, Alexandria, Minnesota 56308 - Rated 4.8 based on 31 Reviews &quot;This is a great place to workout, it’s not...
+title: Anytime Fitness Alexandria, Va. - Home | Facebook
+snippet: Anytime Fitness Alexandria, Va., Alexandria. 1,707 likes · 55 talking about this · 5,354 were here. Welcome to your neighborhood 24 hour gym in Alexandria! Affordable and convenient, one membership...
+title: Anytime Fitness - Alexandria, VA - Posts | Facebook
+snippet: Anytime Fitness - Alexandria, VA, Alexandria. 951 likes · 7 talking about this · 4,064 were here. We are a results driven fitness facility offering Coaching, Training, and Gym Membership located at...
+title: Anytime Fitness Alexandria &amp; Pineville - Home | Facebook
+snippet: Anytime Fitness Alexandria &amp; Pineville, Pineville, Louisiana. 3.1K likes. Anytime Fitness Alexandria &amp; Pineville is a 24/7 Fitness Facility. We OFFER custom programs for all your fitness GOALS. Get...
+title: 24 Hour Gyms | Anytime Fitness Australia
+snippet: We have had to temporarily close all Anytime Fitness Australia clubs until further notice due to recent Government requirements. We thank you for your support of our 515 individually owned and operated clubs and the members of our team while we go through this period of uncertainty.
+
+REL: 0
+POI Name: Joy Ribs Korean BBQ & Bar
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Joy Ribs Korean BBQ and Bar - Food in Chicago
+snippet: 2 visitors have checked in at Joy Ribs Korean BBQ and Bar. Food in Chicago, IL Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Korean bbq ribs - Review of Joy Yee Noodle, Chicago, IL ...
+snippet: Joy Yee Noodle: Korean bbq ribs - See 59 traveler reviews, 16 candid photos, and great deals for Chicago, IL, at Tripadvisor.
+title: Joy Ribs Korean BBQ &amp; Bar 6320 N Lincoln Ave Chicago, IL ...
+snippet: Get directions, reviews and information for Joy Ribs Korean BBQ &amp; Bar in Chicago, IL. Joy Ribs Korean BBQ &amp; Bar 6320 N Lincoln Ave Chicago IL 60659. 1 Reviews (773) 509-0211. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: The 15 Best Places for Beef Ribs in Chicago
+snippet: The 15 Best Places for Beef Ribs in Chicago. Created by Foursquare Lists • Published On: March 26, 2020. Share. ... Woo Chon Korean BBQ Restaurant. 8.0. ... and never miss a beat on finding the best places for you. Sign up with Facebook or Sign up with email.
+title: 10 of the Best Korean BBQ Restaurants in Chicago | UrbanMatter
+snippet: Korean BBQ is a special kind of delicacy. It takes the skill and patience of the visitor to actually perfect the meats you personally grill, which creates a unique, fine-dining experience that is full of delicious flavors and seasonings.
+title: Chicago’s Best BBQ: The Full Slab - YouTube
+snippet: Elliott&#39;s on the South Side cooking up turkey tips and Chicago-style barbeque ... Pineapple Whiskey Baby Back Ribs by the BBQ Pit Boys ... Chicago&#39;s Best Burger: Rudy&#39;s Bar &amp; Grille ...
+title: THE 10 BEST BBQ Restaurants in Chicago - Tripadvisor
+snippet: Best BBQ Restaurants in Chicago, Illinois: Find Tripadvisor traveler reviews of Chicago BBQ restaurants and search by price, location, and more.
+title: Korean Girls Try American BBQ - YouTube
+snippet: Korean girls try pulled pork, brisket and American style pork ribs for the first time. Help others learn about American BBQ by sharing this video. Let us know what else you&#39;d like to see them ...
+title: 20 Sizzling Spots for Asian Barbecue, 2017 Edition - Eater ...
+snippet: 20 Sizzling Spots for Asian Barbecue, 2017 Edition. ... 20 Sizzling Spots for Asian Barbecue, 2017 Edition. ... Bill Kim has done much to put Korean cuisine on Chicago’s culinary map.
+
+REL: 0
+POI Name: Cold Stone Creamery
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, Custom Cakes, Cupcakes, 
+Snippets:
+title: Best cakes in Alexandria VA 22314 Cold Stone Creamery ...
+snippet: About Cold Stone ®. Did you know our ice cream is hand-crafted and made fresh in every store? It’s true! Churned from the finest ingredients and mixed with your choice of candy, cakes, fruits or nuts on a frozen granite stone we proudly serve the best tasting, super-premium, made-to-order ice cream you’ve ever had.
+title: Cold Stone Creamery, Alexandria - 239 Swamp Fox Rd ...
+snippet: Cold Stone Creamery, Alexandria: See 20 unbiased reviews of Cold Stone Creamery, rated 4 of 5 on Tripadvisor and ranked #305 of 780 restaurants in Alexandria.
+title: Cold Stone Creamery Egypt - Home | Facebook
+snippet: Cold Stone Creamery Egypt - - Rated 4.4 based on 198 Reviews &quot;Coldstone in Alexandria is a mess. They are trying hard to cheat! With this rate next...
+title: Cold Stone Creamery - Menu
+snippet: Cold Stone Creamery Menu. Did you know our ice cream is made fresh in every store? It’s true! Churned from the finest ingredients and mixed with your choice of candy, cakes, fruits or nuts on a frozen granite stone we proudly serve the best tasting, made-to-order ice cream you’ve ever had.
+title: Cold Stone Creamery - Alexandria, VA - Locu
+snippet: Cold atone signature cakes are our classic and most popular ice cream cakes, all of which possess that unmistakable mark of distinction, quality and taste you&#39;ve come to expect from cold stone creamery. Highlight a cake to learn more.
+title: Cold Stone Creamery - Alexandria, VA - Yelp
+snippet: 60 reviews of Cold Stone Creamery &quot;Stopped in after a movie at Hoffman 22. I&#39;d never been to this location but tried cold stone years ago and remembered the fun concept. We were greeted as soon as we walked in on a Friday night, and were helped…
+title: Cold Stone Creamery 7702 Richmond Hwy #B Alexandria, VA ...
+snippet: Get directions, reviews and information for Cold Stone Creamery in Alexandria, VA. Cold Stone Creamery 7702 Richmond Hwy #B Alexandria VA 22306. 24 Reviews (703) 717-0781 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Cold Stone Creamery Alexandria, VA 22314 - Menu, 65 ...
+snippet: Latest reviews, photos and ??ratings for Cold Stone Creamery at 239 Swamp Fox Rd in Alexandria - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Cold Stone Creamery 239 Swamp Fox Rd Alexandria, VA Ice ...
+snippet: Get directions, reviews and information for Cold Stone Creamery in Alexandria, VA.
+title: Cold Stone Creamery in Alexandria, VA - Menus, Locations ...
+snippet: Cold Stone Creamery nearby in Alexandria, VA: Get restaurant menus, locations, hours, phone numbers, driving directions and more.
+
+REL: 0
+POI Name: The 219 Restaurant
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Southern, Bars, Cajun/Creole, 
+Snippets:
+title: Two NineTeen Restaurant
+snippet: 219 King St, Old Town, Alexandria, VA 22314 Call: 703-549-1141
+title: Two NineTeen Restaurant
+snippet: Two Nineteen Restaurant specializes in New Orleans style French-Creole since 1979. Our Executive had commandeered the Two Nineteen Restaurant, to bring the old dame to her former glory. Chef emphasizes on using carefully sourced local ingredients. Obsessed by finding only the freshest of ingredients from directly from farmers and fish mongers.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The 219 Restaurant - Home | Facebook
+snippet: The 219 Restaurant - 219 King St, Alexandria, Virginia 22314 - Rated 4.4 based on 198 Reviews &quot;I have always wanted to stop by and never did. Until last...
+title: Two NineTeen Restaurant
+snippet: Plan your next party at 219!!! Call 703-549-1141 or visit www.219restaurant.com Live Entertainment every night at the Basin St. Lounge (upstairs)
+title: The 219 Restaurant - Old Town Alexandria - Alexandria, VA
+snippet: 256 reviews of The 219 Restaurant &quot;I think 219 is underrated. Besides Vermilion and the happy hour at Chart House, I&#39;m not the biggest fan of the Old Town dining scene. However, I was impressed with 219. Their chef, Ryan Ross, is fairly new,…
+title: Two Nineteen Restaurant, Alexandria - Old Town - Menu ...
+snippet: Reserve a table at Two Nineteen Restaurant, Alexandria on Tripadvisor: ... In the heart of Old Town Alexandria, 219 is a wonderful place to relax with a cigar and beverage of choice. I&#39;ve been here several times and always have a good time hanging out with coworkers.
+title: The 219 Restaurant - Old Town Alexandria - Alexandria, VA
+snippet: 258 reviews of The 219 Restaurant &quot;I tried this place on a recommendation from a friend.... Maybe I angered her and she was getting revenge. LOL! First, I loved the location and I really liked sitting out on the front patio. Next, the service was…
+title: 219 Restaurant - Alexandria, VA | OpenTable
+snippet: Housed in a historic 19th century townhouse blocks from the waterfront, 219 Restaurant offers modern Southern cuisine with creole influence. Our menu focuses on classic dishes with a southern influence to make for an exceptional dining experience.
+title: The 219 Restaurant - Old Town Alexandria - Alexandria, VA
+snippet: I was born and raised in Alexandria, so I consider myself an &quot;Old Towner&quot;. I&#39;ve been frequenting OT and the local bar/restaurant scene since I was 18 (we&#39;re talking about going back to when Jimmy Carter was President). 219 was (emphasis on the past tense) one of my favorite night spots. The food is great and reasonably priced.
+
+REL: 0
+POI Name: Noodles & Company
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Noodles, Salad, Pasta Shops, 
+Snippets:
+title: Noodles &amp; Company in Alexandria, VA | Noodles, Pasta ...
+snippet: Visit your nearby Noodles &amp; Company at 3105 Duke Street in Alexandria, VA to discover the world’s favorite noodle dishes, pasta, salads and soups. Order online ahead of time for pickup.
+title: Home ~ Noodles &amp; Company
+snippet: If you have a crave card that begins with 884 and are experiencing issues using the card for payment online or through our app, remove the first five digits and enter the remaining 14 numbers.
+title: Noodles &amp; Company, Alexandria - 7702 Richmond Hwy, Old ...
+snippet: Order food online at Noodles &amp; Company, Alexandria with Tripadvisor: See 25 unbiased reviews of Noodles &amp; Company, ranked #284 on Tripadvisor among 780 restaurants in Alexandria.
+title: Noodles &amp; Company Locations in Alexandria, VA | Noodles ...
+snippet: Browse all Noodles &amp; Company Locations in Alexandria to discover the world’s favorite noodle dishes, pasta, salads and soups. All Made. Different. With REAL Food, REAL Cooking and REAL Flavors.
+title: Noodles &amp; Company - Alexandria, VA - Yelp
+snippet: I frequent the noodles &amp; company locations around the area. Unfortunately, this one should&#39;ve been on this list of those that they closed. I walked in two weeks ago and got the butter noodles with shrimp, as I have been getting since I started eating there 15 years ago, and after 3 bites I knew that I was done.
+title: Find the nearest Noodles &amp; Company location near you ...
+snippet: Search Noodles &amp; Company locations to discover the world’s favorite noodle dishes, pasta, salads and soups. All Made. Different. With REAL Food, REAL Cooking and REAL Flavors.
+title: Noodles &amp; Company - Home | Facebook
+snippet: Noodles &amp; Company, Alexandria. 105 likes · 677 were here. Come by your local Noodles &amp; Company at 3105 Duke Street, , Alexandria where its globally inspired dishes including noodles, soups and...
+title: Noodles &amp; Company, Alexandria - 5900 Kingstowne Blvd ...
+snippet: Order food online at Noodles &amp; Company, Alexandria with Tripadvisor: See 20 unbiased reviews of Noodles &amp; Company, ranked #465 on Tripadvisor among 776 restaurants in Alexandria.
+title: Noodles &amp; Company
+snippet: Hello!. Log In | Sign Up. About | Rewards Program | FAQs | Nutritional Information | Gift Cards
+title: Noodles and Company in Alexandria, VA - Menus, Locations ...
+snippet: Noodles and Company nearby in Alexandria, VA: Get restaurant menus, locations, hours, phone numbers, driving directions and more.
+
+REL: 0
+POI Name: Giant Food
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Giant Food at 3131 Duke Street Alexandria, VA | Grocery ...
+snippet: Shop at your local Giant Food at 3131 Duke Street in Alexandria, VA for the best grocery selection, quality, &amp; savings. Visit our pharmacy &amp; gas station for great deals and rewards.
+title: Giant Food at 6800 Richmond Hwy Alexandria, VA | Grocery ...
+snippet: Shop at your local Giant Food at 6800 Richmond Hwy in Alexandria, VA for the best grocery selection, quality, &amp; savings. Visit our pharmacy &amp; gas station for great deals and rewards.
+title: Giant Food at 5870 Kingstowne Blvd Alexandria, VA ...
+snippet: Shop at your local Giant Food at 5870 Kingstowne Blvd in Alexandria, VA for the best grocery selection, quality, &amp; savings. Visit our pharmacy &amp; gas station for great deals and rewards.
+title: Giant Food Locations in Alexandria, VA | Grocery, Pharmacy ...
+snippet: Browse all Giant Food locations in Alexandria, VA for the best grocery selection, quality, &amp; savings. Visit our pharmacy &amp; gas station for great deals and rewards.
+title: Giant Food at 6200 Little River Turnpike Alexandria, VA ...
+snippet: Shop at your local Giant Food at 6200 Little River Turnpike in Alexandria, VA for the best grocery selection, quality, &amp; savings. Visit our pharmacy &amp; gas station for great deals and rewards.
+title: Giant Food at 621 East Glebe Road Alexandria, VA | Grocery ...
+snippet: Shop at your local Giant Food at 621 East Glebe Road in Alexandria, VA for the best grocery selection, quality, &amp; savings. Visit our pharmacy &amp; gas station for great deals and rewards.
+title: Giant Food - Grocery Store, Supermarket, and Pharmacy
+snippet: Looking for a grocery store near you? Our supermarket has a variety of food products like organic food, fresh produce, and more. Visit to start saving!
+title: Giant Food - Alexandria, VA - Yelp
+snippet: Giant Food was down the road from where we were staying so we came on in. I think we were there around 8:30 pm or so on a weeknight, so it was not busy at all. Even at the end of the day, I was impressed at how clean everything looked.
+title: Giant Food at 3480 S Jefferson St Falls Church, VA ...
+snippet: Shop at your local Giant Food at 3480 S Jefferson St in Falls Church, VA for the best grocery selection, quality, &amp; savings. Visit our pharmacy &amp; gas station for great deals and rewards.
+title: Store Locator - Grocery Store Near Me - GiantFood
+snippet: Where&#39;s your closest grocery store? We have many locations with a deli, bakery, and pharmacy. Find a grocery store near you today!
+
+REL: 0
+POI Name: Noodles & Company
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Salad, Noodles, Pasta Shops, 
+Snippets:
+title: Noodles &amp; Company in Alexandria, VA | Noodles, Pasta ...
+snippet: Visit your nearby Noodles &amp; Company at 3105 Duke Street in Alexandria, VA to discover the world’s favorite noodle dishes, pasta, salads and soups. Order online ahead of time for pickup.
+title: Home ~ Noodles &amp; Company
+snippet: If you have a crave card that begins with 884 and are experiencing issues using the card for payment online or through our app, remove the first five digits and enter the remaining 14 numbers.
+title: Noodles &amp; Company, Alexandria - 7702 Richmond Hwy, Old ...
+snippet: Order food online at Noodles &amp; Company, Alexandria with Tripadvisor: See 25 unbiased reviews of Noodles &amp; Company, ranked #284 on Tripadvisor among 780 restaurants in Alexandria.
+title: Noodles &amp; Company Locations in Alexandria, VA | Noodles ...
+snippet: Browse all Noodles &amp; Company Locations in Alexandria to discover the world’s favorite noodle dishes, pasta, salads and soups. All Made. Different. With REAL Food, REAL Cooking and REAL Flavors.
+title: Noodles &amp; Company - Alexandria, VA - Yelp
+snippet: I frequent the noodles &amp; company locations around the area. Unfortunately, this one should&#39;ve been on this list of those that they closed. I walked in two weeks ago and got the butter noodles with shrimp, as I have been getting since I started eating there 15 years ago, and after 3 bites I knew that I was done.
+title: Find the nearest Noodles &amp; Company location near you ...
+snippet: Search Noodles &amp; Company locations to discover the world’s favorite noodle dishes, pasta, salads and soups. All Made. Different. With REAL Food, REAL Cooking and REAL Flavors.
+title: Noodles &amp; Company - Home | Facebook
+snippet: Noodles &amp; Company, Alexandria. 105 likes · 677 were here. Come by your local Noodles &amp; Company at 3105 Duke Street, , Alexandria where its globally inspired dishes including noodles, soups and...
+title: Noodles &amp; Company, Alexandria - 5900 Kingstowne Blvd ...
+snippet: Order food online at Noodles &amp; Company, Alexandria with Tripadvisor: See 20 unbiased reviews of Noodles &amp; Company, ranked #465 on Tripadvisor among 776 restaurants in Alexandria.
+title: Noodles &amp; Company
+snippet: Hello!. Log In | Sign Up. About | Rewards Program | FAQs | Nutritional Information | Gift Cards
+title: Noodles and Company in Alexandria, VA - Menus, Locations ...
+snippet: Noodles and Company nearby in Alexandria, VA: Get restaurant menus, locations, hours, phone numbers, driving directions and more.
+
+REL: 0
+POI Name: Big Panda
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, American (Traditional), 
+Snippets:
+title: Big Panda | Order Online | Alexandria, VA 22306 | Chinese
+snippet: View Big Panda menu, Order Chinese food Delivery Online from Big Panda, Best Chinese Delivery in Alexandria, VA
+title: Big Panda | Alexandria, VA 22306 | Specials
+snippet: See all of Big Panda coupons, discounts and deals exclusive for online orders only
+title: Big Panda | Order Online | Alexandria | BeyondMenu
+snippet: View Big Panda menu, Order Chinese food Delivery Online from Big Panda, Best Chinese Delivery in Alexandria, VA
+title: Big Panda | Order Online | Alexandria | Info &amp; Hours ...
+snippet: Dear customers, We have been carefully keeping our eye on the ongoing national crisis that is COVID-19. With that in mind, we carefully considered the general health and well- being of our staff, customers, and all of your loved ones.
+title: Big Panda | Alexandria, VA 22306 | Gallery
+snippet: View the photos of the restaurant and delicious menu items of Big Panda.
+title: Big Panda | Alexandria, VA 22306 | Reviews
+snippet: While I typically love our food from Big Panda last nights meal made us sad. While I know our food is always good fresh, the steam from the boxes makes everything soggy. eva • 11/4/2018 Hot and Sour Soup tasted watered down. Not a good taste. Johnny ... Alexandria, VA 22306
+title: Big Panda | Alexandria, VA 22306 | Location
+snippet: Big Panda. 7849 H Richmond Hwy Alexandria, VA 22306 Phone: (703) 780-2020. Estimate delivery time is 45 to 55 minutes. Delivery fee is $1.5 in 2 miles range, $2.5 in 3 miles range We do not deliver beyond 3 miles. Store Hours: Mon - Thurs:
+title: Big Panda, Alexandria - Restaurant Reviews &amp; Phone Number ...
+snippet: Big Panda, Alexandria: See 3 unbiased reviews of Big Panda, rated 4 of 5 on Tripadvisor and ranked #492 of 780 restaurants in Alexandria.
+title: Big Panda Alexandria, VA 22306 - 37 Reviews and Photos ...
+snippet: We ordered from Big Panda tonight for the first time. The food came within the window of time we were quoted and was hot and delicious. We ordered some of our basic staples just to get an idea of how good the food would be and we were impressed!
+title: Big Panda 7849 Richmond Hwy Alexandria, VA Restaurants ...
+snippet: Get directions, reviews and information for Big Panda in Alexandria, VA. Big Panda 7849 Richmond Hwy Alexandria VA 22306. 68 Reviews (703) 780-2020 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+
+REL: 0
+POI Name: Central Supermercado
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Central Supermercado 6222 Richmond Hwy Alexandria, VA ...
+snippet: Get directions, reviews and information for Central Supermercado in Alexandria, VA.
+title: Central Supermercados - Onde o seu dinheiro compra mais!
+snippet: Maior variedade com economia e os melhores preços, todos os dias! Você quer economizar? Então venha para o Central Supermercados!
+title: Supermercados em Alexandria, RN - guiamais.com.br
+snippet: Encontre Supermercados perto de Alexandria, RN. Veja dicas, avaliações, mapas, telefone, endereço e descontos
+title: Alexandria Central School District / Homepage
+snippet: Alexandria will be moving to a one day a week meal delivery plan. As things continue to evolve in our county, we are doing what we can to eliminate exposure for our students and staff. The health and safety of everyone involved is our first priority. We will continue to delivery on Tuesday mornings.
+title: Central Supermercado - Home | Facebook
+snippet: Central Supermercado. 66 likes · 1 was here. O Central supermercado, que fica localizado no bairro feliz, está sempre a sua espera para melhor o atender, temos padaria, açougue, e mais,venha conferir!
+title: Central Supermercados - Home | Facebook
+snippet: Central Supermercados. 18,590 likes · 413 talking about this · 280 were here. Central Supermercados, onde seu dinheiro compra mais. #CENTRALSUPERMERCADOS
+title: Central Supermercado - Home | Facebook
+snippet: Central Supermercado. 304 likes. CENTRAL SUPERMERCADO, SUA CENTRAL DE PREÇOS BAIXOS FONE (43) 3432-3648
+title: Ofertas do dia - Central Supermercados
+snippet: Ofertas fresquinhas do Central Supermercados
+title: Alexandra, New Zealand - Wikipedia
+snippet: Alexandra (Māori: Manuherikia or Areketanara) is a town in the Central Otago district of the South Island of New Zealand. It is located on the banks of the Clutha River (at the confluence of the Manuherikia River), on State Highway 8, 188 kilometres (117 mi) by road from Dunedin and 33 kilometres (21 mi) south of Cromwell.. At the time of the 2013 census, the permanent population was 4,800, a ...
+
+REL: 0
+POI Name: Eb & Flow Yoga Studio
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Welcome to Eb &amp; Flow Yoga Studio
+snippet: Welcome to Eb &amp; Flow Yoga Studio LOCATED IN Bucktown/WICKER PARK. Whether you are an advanced student or a beginner, want to work on developing power and strength or take it slower and work on your deep connective tissues we have classes that will bring you deeper into your practice and take you to the next level.
+title: Eb &amp; flow Yoga Studio - Home | Facebook
+snippet: Eb &amp; flow Yoga Studio, Chicago, IL. 1,393 likes · 98 talking about this · 1,320 were here. A family-owned biz in the Bucktown/Wicker Park for over 6 years, you will find us at our temporary yoga...
+title: Class Rates — Eb &amp; Flow Yoga
+snippet: In addition to unlimited yoga classes, members also receive: Free use of studio towels and yoga mats. Complimentary yoga mat storage and rental. 4 guest passes every 6-months. Discounts on workshop and special events. 10% off retail purchases (including books, props &amp; clothing) Free Eb &amp; flow metal water bottle. PUTTING YOUR MEMBERSHIP ON HOLD
+title: Class Schedule — Eb &amp; Flow Yoga
+snippet: Class Schedule Baptiste Power Vinyasa, Hot Yoga, Yin Yoga, Gentle Vinyasa Yoga in Bucktown/ Wicker Park area of Chicago. Great for beginners and advanced students.
+title: Location — Eb &amp; Flow Yoga
+snippet: Location. Baptiste Power Vinyasa, Hot Yoga, Yin Yoga, Gentle Vinyasa Yoga in Bucktown/ Wicker Park area of Chicago. Great for beginners and advanced students. Home Pricing. Class ... Eb &amp; Flow Yoga Studio our new studio is ready for Classes. we are located at 2125 w. north Ave, ...
+title: Teacher Training Programs — Eb &amp; Flow Yoga
+snippet: Eb &amp; flow&#39;s Teacher Training Programs were ignited from passion for yoga and a desire to develop knowledgeable leaders that will practice and teach others in a way that is real, powerful, and creates possibilities for themselves and others. Eb &amp; flow Yoga Studio is a Registered Yoga School (RYS) at the 200 hour level through Yoga Alliance.
+title: Eb and Flow Yoga Studio - Yoga Studio in Chicago
+snippet: Eb and Flow Yoga Studio is a Studio in 1834 W North Ave, Chicago, Illinois. For complete schedule information, upcoming events and the latest updates, follow Eb and Flow Yoga Studio on YogaTrail!
+title: Eb&amp;flow Yoga Studio (@EbandflowYoga) | Twitter
+snippet: The latest Tweets from Eb&amp;flow Yoga Studio (@EbandflowYoga): &quot;Sign of good times at Eb &amp; flow. Thank you to the awesome yogis, Lily Zarnowiecki and Caitlin Costello, who most often make our beautiful signs! ~Feeling grateful!&quot;
+title: Eb &amp; Flow Yoga Studio: Read Reviews and Book Classes on ...
+snippet: Check out Eb &amp; Flow Yoga Studio on ClassPass. See class reviews, instructors, schedules and easily book at less than studio rates.
+title: The 12 best yoga studios in Chicago - Time Out Chicago
+snippet: Strike a pose at the best yoga studios in Chicago, from indie spots to big-name studios that help you bend, twist and get down dog.
+
+REL: 0
+POI Name: Hollin Hall Senior Center
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Senior Centers, 
+Snippets:
+title: Home - Hollin Hall Senior CenterHollin Hall Senior Center ...
+snippet: Hollin Hall Senior Center is open on Friday, March 1. Due to inclement weather, some classes and activities may be canceled. For status information about specific programs, classes or activities, please call the office at (703) 765-4573 before visiting.
+title: Current Programs - Hollin Hall Senior Center
+snippet: Hollin Hall Senior Center is open on Friday, March 1. Due to inclement weather, some classes and activities may be canceled. For status information about specific programs, classes or activities, please call the office at (703) 765-4573 before visiting.
+title: Events and Programs - Hollin Hall Senior Center
+snippet: Hollin Hall Senior Center is open on Friday, March 1. Due to inclement weather, some classes and activities may be canceled. For status information about specific programs, classes or activities, please call the office at (703) 765-4573 before visiting.
+title: Hollin Hall Senior Center - Senior Center in Alexandria
+snippet: Alexandria Senior Centers &gt;&gt; Hollin Hall Senior Center . Hollin Hall Senior Center - Senior Center in Alexandria VA General Information UPDATE. Name. Hollin Hall Senior Center. Address. 1500 Shenandoah Rd, Alexandria, VA 22308 . Map. Phone (703) 765-4573. Contact Name. Alexa Fuerth.
+title: DMV Connect - Hollin Hall Senior Center
+snippet: Hollin Hall Senior Center is open on Friday, March 1. Due to inclement weather, some classes and activities may be canceled. For status information about specific programs, classes or activities, please call the office at (703) 765-4573 before visiting.
+title: Volunteer Opportunities - Hollin Hall Senior Center
+snippet: To see more details about volunteer opportunities at Hollin Hall, or to sign up as a volunteer, check out this page. High School Volunteers: Hollin Hall Senior Center welcomes high school volunteers.Contact the office and let us know what days, times you are available and your interests.
+title: Auto Repair in Alexandria, VA | Hollin Hall Automotive
+snippet: Guaranteed Auto Repair Service–2 Years / 24,000 Miles Auto Repairs For All Makes and Models–Cars, Trucks, SUVs, Hybrids. Hollin Hall Automotive is a local auto repair shop in Alexandria, VA.
+title: Alexandria Senior Centers | Find a Senior Center in ...
+snippet: A senior center in Alexandria is indeed the best place to make the most of the golden years of your life and socialize with other senior citizens. Senior Centers promote healthy aging and well-being of senior citizens by involving them in recreational and social activities. It also gives caregivers the much-needed break from their hectic routine.
+title: Hollin Hall Senior Center 1500 Shenandoah Rd Alexandria ...
+snippet: &lt;p&gt;The Hollin Hall Senior Center is a wellness and health facility serving elderly residents that are members of the Fairfax County senior services program, which offers access to area wellness clubs for an annual membership fee.
+title: Hollin Hall Senior Center Calendar - Fairfax County
+snippet: Hollin Hall Senior Center Address: 1500 Shenandoah Road Alexandria VA Hours: Monday – Friday, 9 a.m. to 4 p.m. Phone: 703-765-4573 March 2020 PROGRAMS / ACTIVITIES Title When Time Description Arthritis Exercise Class
+
+REL: 0
+POI Name: A Child's Place At Hollin Hall
+POI City: Alexandria
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Preschools, Summer Camps, 
+Snippets:
+title: at Hollin Hall in Alexandria
+snippet: Located in the quiet neighborhood of Hollin Hall, just north of George Washington’s Mount Vernon estate, A Child’s Place at Hollin Hall has been serving the needs of children in the local community for over 25 years. We are committed to the care and education of children and strive to make our school a welcoming and fun place for them.
+title: Hollin Hall
+snippet: Hollin Hall Summer Day Camp is an exciting way for your school-aged children to spend the summer. Packed with fun activities and adventurous field trips, your child will have a summer they will never forget! Open Monday-Friday from 7 AM-6 PM. We provide a fun packed day with games, crafts, and/or field trips every day of the summer.
+title: A Child&#39;s Place at Hollin Hall - Home | Facebook
+snippet: A Child&#39;s Place at Hollin Hall - 1500 Shenandoah Road, Alexandria, Virginia 22308 - Rated 5 based on 2 Reviews &quot;Both our children loved A Child&#39;s Place,...
+title: Hollin Hall
+snippet: A Child&#39;s Place, Inc and Vivlow &amp; Co. do not discriminate on the basis of sex, race, religion, or ethnic origin in admission, administration of its educational policies and the enforcement of enrollment policies.
+title: at Hollin Hall in Alexandria
+snippet: Directions to A Child&#39;s Place at Hollin Hall in Alexandria . A Child&#39;s Place at Hollin Hall is approximately 3 miles south of the intersection of Fort Hunt Road and US-1/Richmond Highway. From the West, take 1-95 (Northbound Eastbound towards the Wilson Bridge and Baltimore).
+title: A Child&#39;s Place at Hollin Hall, 1500 Shenandoah Road ...
+snippet: We also provide before and after SACC (School Age Child Care) for children who attend Fort Hunt, Stratford Landing ant Waynewood Elementary Schools. A Child&#39;s Place at Hollin Hall, 1500 Shenandoah Road, Alexandria, VA (2020)
+title: A Child&#39;s Place (Hollin Hall) - Preschool in Alexandria ...
+snippet: A Child&#39;s Place (Hollin Hall) Preschool 1500 Shenandoah Rd Alexandria Unclaimed. Preschool program offering kindergarten readiness education to children through age-appropriate activities. Mother Goose and Appelbaum Training Institute curriculum focus on reading, math, and science.
+title: A Child&#39;s Place At Hollin Hall - Alexandria, VA (Address ...
+snippet: The A Child&#39;s Place At Hollin Hall, located in Alexandria, VA, is a childcare facility that supervises and cares for children. Daycare services support parents and guardians by caring for children too young to be left alone, most often children too young to attend school or school-aged children that require before or after school care.
+title: PRESCHOOL - Hollin Hall
+snippet: A Child&#39;s Place, Inc and Vivlow &amp; Co. do not discriminate on the basis of sex, race, religion, or ethnic origin in admission, administration of its educational policies and the enforcement of enrollment policies.
+title: A Child&#39;s Place, Inc. - 5 great schools in Northern Virginia
+snippet: Hollin Hall - 2 - 12 years 1500 Shenandoah Road, Alexandria, VA 22308 703-765-8811. A Child’s Place at Hollin Hall was established in 1983. The center is located in a retired Fairfax County elementary school building which adjoins the Hollin Hall senior center. This environment of young and old creates a unique setting and learning experience.
+
+REL: 0
+POI Name: Taqueria Senora Lola
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: New Taqueria Opens in Arlandria | ALXnow - Alexandria Now
+snippet: The new Taqueria Senora Lola is now open at 3901 Mount Vernon Avenue in Arlandria. Owner Oswaldo Salinas said the restaurant -- adjacent to Salinas&#39; other eatery, Lilian&#39;s Restaurant, opened two weeks ago and had a grand opening event this past Saturday. &quot;We had kids come by and had ice cream,
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Online Menu of Taqueria Senora Lola Restaurant, Alexandria ...
+snippet: View the online menu of Taqueria Senora Lola and other restaurants in Alexandria, Virginia.
+title: Taqueria Senora Lola 3901 Mount Vernon Ave #B Alexandria ...
+snippet: Get directions, reviews and information for Taqueria Senora Lola in Alexandria, VA. Taqueria Senora Lola 3901 Mount Vernon Ave #B Alexandria VA 22305. 5 Reviews. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Menu - Yelp
+snippet: Photo of Taqueria Senora Lola - &quot;Menu&quot; - Alexandria, VA. Mike H. said &quot;5 starsBUT... They&#39;ll be out of business by March 2020. The check out (POS) process in exhausting.
+title: New Mexican Restaurant Planned for Mount Vernon Avenue ...
+snippet: 3901-B Mount Vernon Avenue, home to the future Taqueria Senora Lola. (Google maps) ALEXANDRIA, VA – Paperwork was filed in mid-May for a new authentic 99-seat Mexican restaurant to go into the vacant spot at 3901-B Mount Vernon Avenue, near the Tiger Market by Four Mile Run Park.
+title: Al pastor taco with all the toppings. - Yelp
+snippet: Photo of Taqueria Senora Lola - &quot;Al pastor taco with all the toppings.&quot; - Alexandria, VA
+title: New Taqueria in the West End Planning to Open in December ...
+snippet: Taqueria Senora Lola ain’t the only new taqueria game coming to town. In the West End, Taqueria Picoso (1472 N. Beauregard Street) is eyeing a December opening at The Shops at Mark Center, according to employees working on the building. The spot was formerly a Thai restaurant, according to Alexandria Living.
+title: Taqueria el Poblano - Alexandria, VA
+snippet: Maybe that&#39;s what Taqueria Poblano is going for. If that&#39;s what you want, this in your place. I think there are a lot of people that do like it, given the fact that this place is often busy and gets lots of good reviews. But it wasn&#39;t what I want in a Mexican restaurant. For me, there are better places on Richmond Highmay, south of Alexandria.
+title: 35+ New Restaurants in Alexandria, VA: Hot Chicken, Old ...
+snippet: Known for its chef-driven independent restaurants in historic buildings, creative comfort food and waterfront eateries, Alexandria, Virginia, just minutes from Washington D.C., has dozens of new dining options waiting to be discovered.Look out for a (sugar) rush of sweet spots, including a bubble tea bonanza and retro frozen custard concoctions. Find mouth-watering pan-Asian cuisine, from ...
+
+REL: 0
+POI Name: 3Fifty Terrace
+POI City: Detroit
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, Venues & Event Spaces, 
+Snippets:
+title: 3Fifty Terrace – Rooftop Detroit
+snippet: 3Fifty Terrace does not own or operate a parking facility, however, we are conveniently located in the heart of Detroit’s entertainment district and there is no shortage of street parking, private lots and parking structures within 100 yards of our entrance. We recommend that customers park in a well lit, and attended parking lot.
+title: 3Fifty Terrace - Detroit, Michigan | Facebook
+snippet: 3Fifty Terrace - 350 Madison St, Detroit, Michigan 48226 - Rated 4.4 based on 258 Reviews &quot;I really do love coming here like this is a spot to be at...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: FAQ – 3Fifty Terrace
+snippet: 3Fifty Terrace does not own or operate a parking facility, however, we are conveniently located in the heart of Detroit’s entertainment district and there is no shortage of street parking, private lots and parking structures within 100 yards of our entrance. We recommend that customers park in a well lit, and attended parking lot.
+title: Table Reservations – 3Fifty Terrace
+snippet: Your booth is not guaranteed. A representative will contact you within 1-2 business days to confirm your reservation. *
+title: 3Fifty Terrace - Detroit, Michigan | Facebook
+snippet: 3Fifty Terrace – 350 Madison St, Detroit, Michigan 48226 – Vurderingen 4.4 basert på 257 anmeldelser &quot;I really do love coming here like this is a spot...
+title: 3Fifty Terrace (@3fiftyterrace) • Instagram photos and videos
+snippet: 3Fifty Terrace 3Fifty Terrace is downtown Detroit&#39;s premier rooftop nightclub 7 floors up! 350 Madison Ave. Detroit, MI 48226. 313.687.4350 www.3fiftyterrace.com
+title: 3Fifty Terrace | Downtown Detroit Night Club &amp; Bar ...
+snippet: Detroit’s premier rooftop nightclub for VIP table service and special events! Mingle with beautiful people, young professionals and more.
+title: 3Fifty Terrace Detroit - Home | Facebook
+snippet: 3Fifty Terrace Detroit. 2,090 likes · 1 talking about this · 1 was here. Dance &amp; Night Club
+title: 3Fifty Terrace in Detroit | 3Fifty Terrace 350 Madison St ...
+snippet: About: 3Fifty Terrace is located on the rooftop of the iconic Music Hall. This exquisite venue, within stumbling distance of city landmarks, offers 360 degree views of downtown Detroit’s picturesque skyline. Tailor-made …
+
+REL: 0
+POI Name: Cold Stone Creamery
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, Custom Cakes, Cupcakes, 
+Snippets:
+title: Best cakes in Alexandria VA 22314 Cold Stone Creamery ...
+snippet: About Cold Stone ®. Did you know our ice cream is hand-crafted and made fresh in every store? It’s true! Churned from the finest ingredients and mixed with your choice of candy, cakes, fruits or nuts on a frozen granite stone we proudly serve the best tasting, super-premium, made-to-order ice cream you’ve ever had.
+title: Cold Stone Creamery, Alexandria - 239 Swamp Fox Rd ...
+snippet: Cold Stone Creamery, Alexandria: See 20 unbiased reviews of Cold Stone Creamery, rated 4 of 5 on Tripadvisor and ranked #305 of 780 restaurants in Alexandria.
+title: Cold Stone Creamery Egypt - Home | Facebook
+snippet: Cold Stone Creamery Egypt - - Rated 4.4 based on 198 Reviews &quot;Coldstone in Alexandria is a mess. They are trying hard to cheat! With this rate next...
+title: Cold Stone Creamery - Menu
+snippet: Cold Stone Creamery Menu. Did you know our ice cream is made fresh in every store? It’s true! Churned from the finest ingredients and mixed with your choice of candy, cakes, fruits or nuts on a frozen granite stone we proudly serve the best tasting, made-to-order ice cream you’ve ever had.
+title: Cold Stone Creamery - Alexandria, VA - Locu
+snippet: Cold atone signature cakes are our classic and most popular ice cream cakes, all of which possess that unmistakable mark of distinction, quality and taste you&#39;ve come to expect from cold stone creamery. Highlight a cake to learn more.
+title: Cold Stone Creamery - Alexandria, VA - Yelp
+snippet: 60 reviews of Cold Stone Creamery &quot;Stopped in after a movie at Hoffman 22. I&#39;d never been to this location but tried cold stone years ago and remembered the fun concept. We were greeted as soon as we walked in on a Friday night, and were helped…
+title: Cold Stone Creamery 7702 Richmond Hwy #B Alexandria, VA ...
+snippet: Get directions, reviews and information for Cold Stone Creamery in Alexandria, VA. Cold Stone Creamery 7702 Richmond Hwy #B Alexandria VA 22306. 24 Reviews (703) 717-0781 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Cold Stone Creamery Alexandria, VA 22314 - Menu, 65 ...
+snippet: Latest reviews, photos and ??ratings for Cold Stone Creamery at 239 Swamp Fox Rd in Alexandria - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Cold Stone Creamery 239 Swamp Fox Rd Alexandria, VA Ice ...
+snippet: Get directions, reviews and information for Cold Stone Creamery in Alexandria, VA.
+title: Cold Stone Creamery in Alexandria, VA - Menus, Locations ...
+snippet: Cold Stone Creamery nearby in Alexandria, VA: Get restaurant menus, locations, hours, phone numbers, driving directions and more.
+
+REL: 0
+POI Name: Mission BBQ
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Barbeque, 
+Snippets:
+title: Pulled Pork, Chicken, Brisket, Ribs - MISSION BBQ
+snippet: Especially for those who protect us all, the hard-workers who get it done every day, the home teams we cheer for, and of course, family and friends. Our mission is to serve you the most authentic, mouth-watering all-American food that’s done right. Learn more about MISSION BBQ’s story
+title: Alexandria, VA | MISSION BBQ - MISSION BBQ
+snippet: 6482 Landsdowne Centre Alexandria, VA 22315 571-932-3100 703-495-2746
+title: Menu - MISSION BBQ
+snippet: Barbeque, ribs, sandwiches and all American food plus takeout in Glen Burnie, MD - Call 410-773-9888
+title: Mission BBQ, Alexandria - 6482 Landsdowne Ctr - Menu ...
+snippet: Mission BBQ, Alexandria: See 49 unbiased reviews of Mission BBQ, rated 4 of 5 on Tripadvisor and ranked #139 of 780 restaurants in Alexandria.
+title: Catering - MISSION BBQ
+snippet: Pick Your Mission BBQ Catering Location. Pick Your Mission BBQ Catering Location. Use your location
+title: MISSION BBQ - Home - Alexandria, Virginia - Menu, Prices ...
+snippet: MISSION BBQ - 6482 Landsdowne Centre, Alexandria, Virginia 22315 - Rated 4.8 based on 2 Reviews &quot;Delicious BBQ and excellent service! Very family...
+title: Mission BBQ - Alexandria, VA - Yelp
+snippet: Mission BBQ&#39;s food was pretty good, but I have to say their staff and service is what stood out on my visit. I went there for a weekend lunch with a large group, and we all enjoyed our experience there. The place is a smorgasbord for meat.
+title: Mission BBQ - Just opened - Review of Mission BBQ ...
+snippet: Mission BBQ opened very recently replacing the previous BBQ place at the same location. The old place got a complete revamp. Mission BBQ is just outside the gates of Ft. Belvoir and perhaps as a result it is a very, very patriotic place with lots of military insignia, photos and flags as decorations.
+title: Mission BBQ Brunch RSVP - MISSION BBQ
+snippet: Mission BBQ RSVPWe&#39;re looking forward to seeing you at our VIP Brunch on December 2, 2017. And feel free to bring guests!Please let us know who will be joining us: brunch-rsvp-form
+title: Excellent experience - Review of Mission BBQ, Alexandria ...
+snippet: Everything at Mission BBQ is focused on celebrating veterans of all services, with excellent BBQ. The menu is entirely a la carte and offers meats, sandwiches and sides. They offer a range of sauces from multiple 6 BBQ hot spots. The remembrance table at the center of the restaurant is a nice touch.
+
+REL: 0
+POI Name: Chilam Balam
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Chilam Balam - BYOB
+snippet: Chilam Balam is a sustainably minded BYOB restaurant serving Mexican shared plates with a farm fresh twist. We strive to provide the tastiest and freshest ingredients while preparing our dishes and other aliments without unnatural additives and ingredients (corn syrup, msg, etc).
+title: Chilam Balam Menu
+snippet: Chicago, IL 60657. tel 773 296 6901 ... Chilam Balam Take Out. for dinner 4-8pm - tue-sat. served family style. 1. corn masa memelas, black beans, fresh goat cheese, arbol salsa, dressed arugula. 2. fried artichoke tacos, chipotle bacon salsa, slaw. 3. albondigas, tomato chipotle, chorizo beans.
+title: Chilam Balam, Chicago - Lake View East - Menu, Prices ...
+snippet: Chilam Balam, Chicago: See 58 unbiased reviews of Chilam Balam, rated 4 of 5 on Tripadvisor and ranked #1,314 of 9,567 restaurants in Chicago.
+title: Chilam Balam Info
+snippet: We&#39;re a Mexican small plates BYOB located on Broadway St. in the heart of Lakeview East. Find us a couple blocks east of the Belmont Red Line and the Wellington Brown Line stops.
+title: Chilam Balam Photos
+snippet: 3023 N. Broadway St. Chicago, IL 60657. tel 773 296 6901 . menu about us photos reviews farmers info
+title: Chilam Balam - Lakeview - Chicago, IL - Yelp
+snippet: Chilam Balam is constantly telling their patrons about their alcohol limits (which I can understand bc they are a BYO restaurant and don&#39;t want ppl hanging out in the restaurant long after they finish their meals), but I find it to be aggressive and alot of time without justification.
+title: Chilam Balam - Wikipedia
+snippet: The Books of Chilam Balam (Mayan pronunciation: [t͡ʃilam ɓahlam]) are handwritten, chiefly 17th and 18th-centuries Maya miscellanies, named after the small Yucatec towns where they were originally kept, and preserving important traditional knowledge in which indigenous Maya and early Spanish traditions have coalesced. Written in the Yucatec Maya language and using the Latin alphabet, the ...
+title: Chilam Balam - About Us
+snippet: Upon graduation from culinary school, Natalie started a pastry chef position in the west loop at Otom restaurant. Here she refined her skills and worked her way up in the Chicago restaurant culture. Three years later, she was asked to help with the pastries at the newly opening Chilam Balam.
+title: Chilam Balam - Lakeview - Chicago, IL - Yelp
+snippet: 712 reviews of Chilam Balam &quot;This is definitely one of my FAVORITE places to eat in Chicago. I have been here a few times, and every single dish has been amazing. It is a great place to catch up with a friend, bring a small group, go on a date, or…
+title: Chilam Balam: A Chicago, IL Restaurant. - Thrillist
+snippet: Chilam Balam: A Chicago, IL Restaurant. Known for BYOBs, Date Spots, Mexican.
+
+REL: 0
+POI Name: Sampan Cafe
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Dim Sum, 
+Snippets:
+title: Sampan Cafe - Alexandria | All Menu Items | Main Menu
+snippet: Order all menu items online from Sampan Cafe - Alexandria for takeout, delivery, and dine in. The best Chinese in Alexandria, VA.
+title: Sampan Cafe - Alexandria in VA | Choose A Menu
+snippet: Taxes &amp; any applicable fees are calculated at checkout. How to contact us. Sampan Cafe - Alexandria
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Sampan Cafe - 6116 Franconia Rd Alexandria VA ...
+snippet: Welcome to Sampan Cafe in Alexandria. Click here to view our menu, hours, and order food online.
+title: Sampan Cafe - Alexandria in VA | Login | Chinese
+snippet: Login or create an account to order takeout, delivery, and dine in from Sampan Cafe - Alexandria. The best Chinese in Alexandria, VA.
+title: Sampan Cafe - Alexandria in VA | Location and Hours
+snippet: Learn what hours Sampan Cafe - Alexandria is open for takeout, delivery, and dine in, and our Alexandria, VA address.
+title: Sampan Cafe :: Best Asian in Alexandria :: Order Online
+snippet: 6116 Franconia Rd, Alexandria, VA 22310. Sampan Cafe is known for its Asian, Cantonese, Chinese, Dinner, Healthy, Lunch Specials, and Vegetarian. Online ordering ...
+title: Sampan Cafe, Alexandria - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Sampan Cafe, Alexandria with Tripadvisor: See 19 unbiased reviews of Sampan Cafe, ranked #577 on Tripadvisor among 780 restaurants in Alexandria. ... Happened by this Chinese restaurant and decided to check it out. The food was good, no real surprises, exactly what you&#39;d expect to find in a Chinese restaurant.
+title: Sampan Cafe - Alexandria, VA - Yelp
+snippet: 180 reviews of Sampan Cafe &quot;Sampan is the closest authentic Chinese restaurant from my home. I tend to come here whenever I have the craving, but doesn&#39;t want to drive to Falls Church. The food can be inconsistent at times and I would only rank…
+title: Sampan Cafe Delivery - 6116 Franconia Rd Alexandria ...
+snippet: Order delivery or pickup from Sampan Cafe in Alexandria! View Sampan Cafe&#39;s March 2020 deals and menus. Support your local restaurants with Grubhub!
+
+REL: 0
+POI Name: Loop Yoga
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Room to Breathe
+snippet: ROOM TO BREATHE Mindful Yoga in the Chicago Loop. Located at 25 East Washington, Suite 1025A info@roomtobreathechicago.com. Yoga is an ancient system of wellness that ultimately aims to connect you with your innate capacity
+title: Loop Yoga: calm the mind, strengthen the body
+snippet: Printers Row, South Loop, yoga Chicago, yoga printers row, yoga south loop, hatha yoga, gentle yoga, beginner yoga, basic yoga
+title: Home - Best Hot Yoga Studio in Chicago. $49 First Month.
+snippet: I highly recommend Bikram yoga in West Loop. I could reap benefits so quickly. I&#39;ve been doing hot yoga for years and absolutely love it! The practice is very structured and therapeutic. It is 90 minutes in heated and very humid room. It …
+title: Yoga in Chicago - The Loop | CorePower Yoga
+snippet: Find directions, yoga classes, yoga instructors and schedules at our The Loop yoga studio located in Chicago, Illinois.Entrance is directly across the street from CTA Washington/Lasalle Bus stop. Take stairs to studio on second floor. ADA accessible entrance with elevator access is around the corner at 100 N. La Salle St., Ste. 250.
+title: Class Schedule — Room to Breathe
+snippet: Room to Breathe is a part of the Center-ChicagoCBM, an integrative psychotherapy practice in the Loop. 25 East Washington Street, Suite 1025A Chicago, Illinois ⁘ (414) 436-7244 ⁘ info@roomtobreathechicago.com *Important disclaimer.*
+title: Shakta Kaur | Yoga Studio | KYL - Chicago | United States
+snippet: In 2003 she opened Kundalini Yoga in the Loop (KYL), in Chicago, Illinois, USA. Since 2004 she’s hosted and organized Chicago’s White Tantric Yoga (WTY) course. From 2004-2008 Shakta represented KRI on the Yoga Alliance (YA) Board of Directors as Board Chair and Interim CEO.
+title: Bottom Line Yoga
+snippet: Bottom Line Yoga is a yoga, meditation, and mindfulness company with two studios in the Chicago Loop. BLY also provides corporate yoga, massage, and meditation in your office, or at our studios.
+title: Best Yoga Studios in Chicago Loop | ClassPass
+snippet: Yoga Studios in Chicago Loop. Emily set a beautiful intention of kindness for this class and introduced me to some new and unique poses (funky warrior 2 :).
+title: South Loop - Yoga Six
+snippet: South Loop Schedule ... Chicago, IL 60605 US +1 (312) 583-0161 Get Your Six On Each of the yoga classes we offer at YogaSix has a specific focus and produces specific body benefits. Whether you&#39;re looking for strength, agility, or flexibility and balance, we have the yoga fit classes for you. Y6 101 . The perfect ...
+title: The 12 best yoga studios in Chicago - Time Out Chicago
+snippet: Strike a pose at the best yoga studios in Chicago, from indie spots to big-name studios that help you bend, twist and get down dog.
+
+REL: 0
+POI Name: Charles Richey Sr Viewpoint
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Charles Richey Sr Viewpoint - Parks | seattle.gov
+snippet: Richey Viewpoint runs parallel to Beach Drive SW roughly from Alki Point to 63rd Ave. SW, and includes Constellation Park and an area of Marine Reserve at the end of 63rd Ave. SW. There is a hand-carry boat ramp near the foot of the western stairway.
+title: Charles Richey Sr Viewpoint - Seattle, Washington - Park ...
+snippet: 50 Seattle places in 50 days. # 50sea50 #32 - Charles Richey Sr viewpoint on Alki Beach. Day #3 of my posts from West Seattle comes from the northwestern tip of the neighborhood. The tide was super far out when I visited allowing time to explore the tide pools in all of their natural wonder.
+title: Charles Richey Viewpoint, Seattle – The Whale Trail
+snippet: This viewpoint is named for Charles Richey Sr., who operated Richey’s Alki Community Drug Store in the early to mid-1900s. Located just south of Alki Point, this is one of the best spots in Seattle to see whales and other marine life.
+title: Charles Richey Sr Viewpoint - Alki - Seattle, WA, United ...
+snippet: 11 reviews of Charles Richey Sr Viewpoint &quot;A nice alternative beach/viewpoint for Alki beach. If you have a hard time finding a parking spot at Alki, you might want to try your luck here. Direction is easy. Just kept on driving and you will see…
+title: Photos for Charles Richey Sr Viewpoint - Yelp
+snippet: Photos at Charles Richey Sr Viewpoint - Seattle, WA.
+title: Evening Beach Walk at Charles Richey Sr. Viewpoint in ...
+snippet: Explore the creatures that hang out on the West Seattle beach at low tide with professional naturalists.Evening Beach Walk,Charles Richey Sr. Viewpoint, Seattle, WA, Fri Jan 18, 7 pm
+title: Charles Richey Sr Viewpoint Reviews - Seattle, Washington ...
+snippet: Find reviews and tips from people like you on Charles Richey Sr Viewpoint Seattle, Washington. &#39;If you&#39;re here during summer, you&#39;ll find that Alki Bea ... Charles Richey Sr Viewpoint. 10.0 1 review. Outdoors, Beaches and Watersports, Scenic Lookout, ...
+title: Parks - Parks | seattle.gov
+snippet: Seattle Parks and Recreation parks and greenspaces. Refine Search Results by Feature Filter results by up to 3 features The refined results will contain at least 1 of the selected features.
+title: Charles A. Richey Sr. Viewpoint - Go Northwest! A Travel Guide
+snippet: Charles Richey Viewpoint is part of a chain of public access spaces that skirt the West Seattle Peninsular along the water&#39;s edge You might also like to visit the West Seattle Lighthouse, and Alki Beach Park to the northeast.
+title: Charles Richey Sr. Viewpoint | Year of Seattle Parks
+snippet: West Seattle residents and visitors are incredibly lucky to have so much public waterfront access. Most people don’t make it past Alki Beach, but there are many other spots to take in views of the Puget Sound, islands and Olympics if you follow the shoreline south. Charles Richey Sr. Viewpoint is one of those spots.
+
+REL: 0
+POI Name: Viva Tequila
+POI City: Alexandria
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Mexican, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Viva Tequila 6244 Little River Tpke Alexandria, VA ...
+snippet: Get directions, reviews and information for Viva Tequila in Alexandria, VA. Viva Tequila 6244 Little River Tpke Alexandria VA 22312. 29 Reviews (703) 642-0031. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Viva Tequila Alexandria, VA 22312 - 65 Reviews and Photos ...
+snippet: Latest reviews, photos and ??ratings for Viva Tequila at 6244 Little River Turnpike C in Alexandria - ⏰hours, ☎️phone number, ☝address and map.
+title: Viva Tequila Restaurant - Alexandria, Virginia - Mexican ...
+snippet: Viva Tequila Restaurant, Alexandria, Virginia. 113 likes. Mexican Restaurant
+title: Man arrested following shooting at an Alexandria ...
+snippet: ALEXANDRIA, Va. — An Alexandria ... At around 9:30 p.m., Fairfax County Police responded to reports of a shooting at the Viva Tequila restaurant located at 6244-C Little River Turnpike.
+title: Alexandria man arrested, charged after Viva Tequila ...
+snippet: The Fairfax County Police Department (FCPD) has arrested and charged an Alexandria man following the New Year’s Day shooting at Lincolnia’s Viva Tequila Mexican restaurant. Officers had responded around 9:27 p.m. on Wednesday, Jan. 1, 2020, to reports of a shooting at the Little River Turnpike restaurant.
+title: Viva Tequila&#39; Restaurante - Tex-Mex Restaurant - Arlington ...
+snippet: Viva Tequila&#39; Restaurante - 6244 Little River Tpke, # C, Arlington, Virginia 22312 - Rated 4.1 based on 86 Reviews &quot;Great service, grate food. Awesome...
+title: Online Menu of Viva Tequila, Alexandria, VA
+snippet: View the menu for Viva Tequila and restaurants in Alexandria, VA. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Viva Tequila - Restaurant | 6244 Little River Turnpike C ...
+snippet: Viva Tequila is a business providing services in the field of Restaurant, . The business is located in 6244 Little River Turnpike C, Alexandria, VA 22312, USA. Their telephone number is +1 703-642-0031.
+title: Online Menu of Viva Tequila Restaurant, Alexandria ...
+snippet: View the online menu of Viva Tequila and other restaurants in Alexandria, Virginia.
+
+REL: 0
+POI Name: SoPac Trail Fisher RD Gateway
+POI City: Dallas
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+title: SoPac Trail Fisher RD Gateway - Lakewood - Dallas, TX - Yelp
+snippet: 1 review of SoPac Trail Fisher RD Gateway &quot;Although not fully and officially opened, the SoPac (Southern Pacific) Trail is quickly being finished and it is in use by cyclists, runners and walkers! From this future Gateway, you can connect to the…
+title: SoPac Trail Fisher RD Gateway 4538 Santa Barbara Dr Dallas ...
+snippet: Get directions, reviews and information for SoPac Trail Fisher RD Gateway in Dallas, TX. SoPac Trail Fisher RD Gateway 4538 Santa Barbara Dr Dallas TX 75214. 1 Reviews. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Friends of the SoPac Trail - Home | Facebook
+snippet: Friends of the SoPac Trail. 713 likes. Friends of the SoPac Trail is a group of neighbors who spent almost 10 years ensuring the funding and completion...
+title: Hike and Bike Trail Plans | Dallas Parks, TX - Official ...
+snippet: Hike and Bike Trail Plans ... planned trail in east Dallas that will run from the Santa Fe Trail just south of White Rock Lake to the Interstate 20 Gateway Park. SoPac Trail Master ... The SoPac Trail Master Plan provides a vision for a seven mile segment of planned trail in east Dallas on an abandoned heavy rail corridor that will connect to ...
+title: Hiking in Dallas - Yelp
+snippet: Find the best Hiking on Yelp: search reviews of 9 Dallas businesses by price, type, or location. Yelp. Find. Near. Cancel. Log In. Sign Up. ... “ Beautiful park to walk in and watch the planes fly right above you to land in Dallas Love Field airport! ... SoPac Trail Fisher RD Gateway. 1 review. Hiking, Parks. Lakewood. 4538 Santa Barbara Dr ...
+title: William Blair Jr. Park - South Dallas - Dallas, TX - Yelp
+snippet: William Blair Jr. Park in Dallas, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Dallas and beyond. ... SoPac Trail Fisher RD Gateway. 1 review. Hiking, Parks. Best of Dallas. Things to do in Dallas. Other Places Nearby.
+title: Parks in Dallas - Yelp
+snippet: The Best Parks in Dallas on Yelp. Read about places like: Klyde Warren Park, White Rock Lake, MUTTS Canine Cantina, White Rock Lake Dog Park, ... Gabriella F. wrote a review for SoPac Trail Fisher RD Gateway. 3/17/2020 We love this trail! A new trail head opened by our house so we frequent the trail at least once daily.
+title: Ridgewood Trail | Texas Trails | TrailLink
+snippet: This is a great trail that goes from Mockingbird dart station in the west to connect to the SoPac trail further east. ... under Greenville Ave then bridges crossing Skillman St and Abrams Rd until beyond Ridgewood Park where it crosses Fisher Rd before heading down a ramp to join the ... The SoPac Trail is a part of the City of Dallas trails ...
+title: Samuell Grand Recreation Center - Dallas, TX - Yelp
+snippet: 1 review of Samuell Grand Recreation Center &quot;Definitely don&#39;t attempt to play soccer here- I joined the dallas sports and social club soccer league and they hold the games here. The fields are trash- mostly dirt with more rocks than a playground.…
+title: Henry C. Beck Park - Downtown - Dallas, TX - Yelp
+snippet: 2 reviews of Henry C. Beck Park &quot;This is how a public space should be done. Maximum value! ... Katy Trail - South Entrance. 5 reviews. Hiking, Parks. SoPac Trail Fisher RD Gateway. 1 review. Hiking, Parks. Reunion Park. 4 reviews. Parks. Abbott Park. 1 review. Parks, Playgrounds. Williams Park. 3 reviews. Parks.
+
+REL: 0
+POI Name: Offshore
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), Cocktail Bars, 
+Snippets:
+title: Offshore Chicago : The Nation&#39;s Largest Rooftop Venue ...
+snippet: Offshore Chicago The Nation&#39;s Largest Rooftop Venue - Chicago&#39;s Navy Pier Offshore. ... 11AM-10PM Reservations **** join the mailing list **** DAYTIME PRIVATE EVENTS AVAILABLE OFFSHORE IS EASILY ACCESSIBLE THROUGH NAVY PIER VALET PARKING IS AVAILABLE DURING ALL HOURS OF OPERATION
+title: Offshore Rooftop &amp; Bar | Navy Pier
+snippet: Offshore is the nation’s largest rooftop venue, adjacent to Navy Pier’s Festival Hall at 1000 East Grand, and offers panoramic, unmatched views of Lake Michigan and the city skyline, providing a completely unique perspective not found anywhere else.
+title: Paddling Warehouse / Offshore Marine | 1-847-283-0400
+snippet: Chicago area&#39;s most complete retailer for canoes, kayaks, and inflatable boats.
+title: Offshore Chicago: Menus
+snippet: **** join the mailing list **** daytime private events available offshore is easily accessible through navy pier valet parking is available during all hours of operation
+title: Offshore Rooftop and Bar, Chicago - Near North Side - Menu ...
+snippet: Reserve a table at Offshore Rooftop and Bar, Chicago on Tripadvisor: See 27 unbiased reviews of Offshore Rooftop and Bar, rated 4 of 5 on Tripadvisor and ranked #1,838 of 9,569 restaurants in Chicago.
+title: Offshore Chicago - Chicago, Illinois | Facebook
+snippet: Offshore Chicago. 2.3K likes. The Guinness Book of World Records&#39;s Largest Rooftop Bar with 52,000 sq ft of luminous views of Lake Michigan &amp; the city...
+title: Offshore Chicago (@drinkoffshore) • Instagram photos and ...
+snippet: 7,306 Followers, 2,818 Following, 103 Posts - See Instagram photos and videos from Offshore Chicago (@drinkoffshore)
+title: Offshore Chicago: Connect
+snippet: Contact Location: 1000 East Grand Chicago, IL 60611 PH: 312-535-6660 Reservations Valet parking is available during all hours of operation for $15 Monday through Thursday, and $20 Friday through Sunday - for up to 6 hours.
+title: Offshore Chicago: About
+snippet: Offshore is led by Simon Downward an English native who has been at the forefront of London Elite Nightlife, Restaurant and Bar scene for the past two decades. Simon was the GM at notorious London celebrity hang outs Whisky Mist and Embargo 59 and most recently Chicago’s own Underground.
+title: Offshore, the ‘Nation’s Largest ... - Eater Chicago
+snippet: The Atlanta-based group behind Offshore is no stranger to rooftop spots. It opened VU Rooftop Bar, now one of the hottest drinking spots in Chicago, in the South Loop last year.A rooftop bar at ...
+
+REL: 0
+POI Name: Meridian Mart
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+title: Meridian Mart - Alexandria, VA - Yelp
+snippet: 1 review of Meridian Mart &quot;Convenient, but WAY over-priced. Two-dollar fee for every purchase not made in cash.&quot; Meridian Mart - Convenience Stores - 401 Holland Ln, Alexandria, VA - Phone Number - Yelp
+title: Meridian Mart 401 Holland Ln Alexandria, VA Convenience ...
+snippet: &lt;p&gt;Meridian Mart is located adjacent to the Meridian at the Caryle apartment building in Old Town. The small convenience store sells some grocery items and sandwiches as well as wine and beer. The store also provides other services such as dry cleaning, alterations and repair. It is open daily.&lt;/p&gt;
+title: fr.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Meridian Mart Inc. in Alexandria, VA | Company Info &amp; Reviews
+snippet: Meridian Mart Inc. is a Virginia Domestic Corporation filed on April 17, 2002. The company&#39;s filing status is listed as Term(Auto Ar/$) Corp-No Report And/Or Fees and its File Number is 0575969. The Registered Agent on file for this company is Ana E Olmos and is located at 401 Holland Lane #1, Alexandria, VA 22314.
+title: Meridian Mart - Miscellaneous Shop in Eisenhower East ...
+snippet: 6 visitors have checked in at Meridian Mart. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Meridian At Carlyle 401 Holland Ln, Alexandria, VA 22314 ...
+snippet: Get reviews, hours, directions, coupons and more for Meridian At Carlyle at 401 Holland Ln, Alexandria, VA 22314. Search for other Furnished Apartments in Alexandria on The Real Yellow Pages®. Browse
+title: E85 Gas Price Map Alexandria, VA - Meridian Mart Inc ...
+snippet: Learn about the 93-octance gas in the Alexandria, VA region, including the driving directions and phone number for Meridian Mart Inc. Locate the 93-octance gas in ALEXANDRIA CITY County, VA and save money on fuel. E85 Prices in Alexandria, Virginia. Meridian Mart Inc.
+title: Meridian Food Market
+snippet: Our History. For more than 30 years, Meridian Food Market has been serving the people of Boston.The Meridian Family prides itself on providing customers with the freshest and most delicious made to order Italian food and sandwiches.Meridian Food Market provides a welcoming atmosphere where patrons are known on a first name basis, making it a truly unique place to eat.
+title: Home | Meridian at Braddock Station | Alexandria, VA Apts
+snippet: Welcome to Meridian at Braddock Station! Our community offers studios &amp; 1-2 bedroom apartments in Alexandria, VA. Call us today to schedule a tour!
+title: Get Walmart hours, driving directions and check out weekly ...
+snippet: Find your local Alexandria, LA Walmart’s hours and driving directions, and learn more about services including
+
+REL: 0
+POI Name: Asian Wok Cafe
+POI City: Alexandria
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: Asian Wok Cafe | Order Online | Alexandria, VA 22314 | Chinese
+snippet: View Asian Wok Cafe menu, Order Chinese food Pick up Online from Asian Wok Cafe, Best Chinese in Alexandria, VA
+title: Asian Wok Cafe Chinese Restaurant Alexandria, VA 22314 ...
+snippet: Asian Wok Cafe Alexandria, VA 22314 Authentic Chinese cuisine available for delivery and carry out. Hunan, Szechuan, Cantonee specialities and lunch specials.
+title: Asian Wok Cafe | Alexandria, VA 22314 | Menu
+snippet: Food Takeout from Asian Wok Cafe, best Asian Fusion, Asian, Chinese, Healthy, Lunch Specials, Noodles, Seafood, Soup, Szechwan, Vegetarian Takeout in Alexandria, VA
+title: Asian Wok Cafe | Alexandria, VA 22314 | Order Online
+snippet: View the menu and order online for Asian Fusion, Asian, Chinese, Healthy, Lunch Specials, Noodles, Seafood, Soup, Szechwan, Vegetarian Takeout at Asian Wok Cafe in Alexandria, VA
+title: Asian Wok Cafe | Alexandria, VA 22314 | About Us
+snippet: About Us. Asian Wok Cafe offers delicious dining and takeout to Alexandria, VA. Asian Wok Cafe is a cornerstone in the Alexandria community and has been recognized for its outstanding Chinese cuisine, excellent service and friendly staff.
+title: Asian Wok Cafe, Alexandria - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Asian Wok Cafe, Alexandria with Tripadvisor: See 23 unbiased reviews of Asian Wok Cafe, ranked #311 on Tripadvisor among 780 restaurants in Alexandria.
+title: Asian Wok Cafe - ALEXANDRIA, VA - Chinese
+snippet: Asian Wok Cafe. Asian Wok Cafe is well known in Old Town for offering delicious and authentic Chinese food. Steamed Shrimp with Vegetables, Moo Shoo Pork, and Twin Flavor Chicken are all prepared quickly and delivered to you right away.
+title: Asian Wok Cafe | Alexandria, VA 22314 | Specials
+snippet: See all of Asian Wok Cafe coupons, discounts and deals exclusive for online orders only
+title: www.yelp.com
+snippet: 114 reviews of Asian Wok Cafe &quot;There are about a bijillion place in Alexandria to get Chinese food and Asian Wok is not the best but it certainly isn&#39;t the worst either. Many of the reviews seem to really slam this place for its sketchy…
+title: Good, Fast Food - Review of Asian Wok Cafe, Alexandria, VA ...
+snippet: I think in another life I was Asian. Not that eating Asian food makes me an expert, but when I travel, I invariably include an Asian meal. My hotel in Alexandria was within walking distance, and unlike previous nights, I did not feel like a long walk or an elegant dinner. Reviews of Asian Wok Cafe are all over the place.
+
+Cand cities: {'Austin', 'Arlington', 'Seattle', 'Springfield', 'Dallas', 'Chicago', 'Luray', 'Alexandria', 'Detroit', 'Woodbridge'}

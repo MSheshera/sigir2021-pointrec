@@ -1,0 +1,1096 @@
+City: Manhattan
+Country: US
+Main category: Restaurants and Food
+Sub category: Italian - Asian Fusion/Cuisine
+Description: I known this is r/Westchester but I'm pretty sure some people here might be able to help me. Can anyone recommend a good, moderately priced restaurant in Manhattan that can accommodate 10-12 people last minute? Italian or an Asian cuisine preferred. If the stars align, a bunch of my friends may be in Manhattan on Saturday Evening. Thanks in advance for any suggestions. Apologies if this I'd the wrong sub and against the rules.
+Rated POIs: 49
+Rel distr: [(0, 7), (1, 15), (2, 25), (3, 2)]
+=================================
+REL: 3
+POI Name: Carbone
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 3
+POI Name: Carmine's Italian Restaurant - Times Square
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Caterers, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 2
+POI Name: Enoteca Maria
+POI City: Staten Island
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Enoteca Maria
+snippet: Enoteca Maria is an Italian wine bar and restaurant located in the St. George section of Staten Island, New York. Our two kitchens at Enoteca Maria will continue to serve regional Italian cuisine from the nonne of Italy, while offering a second menu of a different nonna every night from any and every country in the world. Start following the online book that is being generated at www ...
+title: Enoteca Maria, Staten Island - Menu, Prices &amp; Restaurant ...
+snippet: Enoteca Maria, Staten Island: See 218 unbiased reviews of Enoteca Maria, rated 4.5 of 5 on Tripadvisor and ranked #15 of 949 restaurants in Staten Island.
+title: Enoteca Maria - Home | Facebook
+snippet: Enoteca Maria - 27 Hyatt St, Staten Island, New York 10301 - Rated 4.7 based on 310 Reviews &quot;This place is amazing. We had a Russian and an Italian...
+title: Enoteca Maria
+snippet: Enoteca Maria is an Italian wine bar and restaurant located in the St. George section of Staten Island, New York. Our two kitchens at Enoteca Maria will continue to serve regional Italian cuisine from the nonne of Italy, while offering a second menu of a different nonna every night from any and every country in the world. Start following the online book that is being generated at www ...
+title: ENOTECA MARIA, Staten Island - Updated 2020 Restaurant ...
+snippet: Enoteca Maria, Staten Island: See 218 unbiased reviews of Enoteca Maria, rated 4.5 of 5 on Tripadvisor and ranked #15 of 949 restaurants in Staten Island.
+title: Enoteca Maria – Staten Island - a MICHELIN Guide Restaurant
+snippet: No need to venture far on Staten Island for excellent Italian. Enoteca Maria is just blocks from St. George Terminal and brought to you by Joe Scaravella, whose cookbook, Nonna’s House, has been earning him (and this tiny gem) much applause.
+title: Enoteca Maria - Posts | Facebook
+snippet: Enoteca Maria - 27 Hyatt St, Staten Island, New York 10301 - Rated 4.7 based on 321 Reviews &quot;The service and food was excellent. We a had a veal...
+title: Enoteca Maria | Archive | Menu
+snippet: Enoteca Maria is an Italian wine bar and restaurant located in the St. George section of Staten Island, New York. Our two kitchens at Enoteca Maria will continue to serve regional Italian cuisine from the nonne of Italy, while offering a second menu of a different nonna every night from any and every country in the world. Start following the online book that is being generated at www ...
+title: Enoteca Maria | Our Story
+snippet: Enoteca Maria is an Italian wine bar and restaurant located in the St. George section of Staten Island, New York. Our two kitchens at Enoteca Maria will continue to serve regional Italian cuisine from the nonne of Italy, while offering a second menu of a different nonna every night from any and every country in the world. Start following the online book that is being generated at www ...
+title: Enoteca Maria | Archive | The Experience
+snippet: Enoteca Maria is an Italian wine bar and restaurant located in the St. George section of Staten Island, New York. Our two kitchens at Enoteca Maria will continue to serve regional Italian cuisine from the nonne of Italy, while offering a second menu of a different nonna every night from any and every country in the world. Start following the online book that is being generated at www ...
+
+REL: 2
+POI Name: Natsu Japanese Restaurant
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, 
+Snippets:
+title: Natsu Japanese Restaurant - Civic Center - Manhattan, NY
+snippet: Natsu is a recently opened Japanese Restaurant across from the Federal Building in the Tribeca area. There is a ready to go selection of sushi, sashimi and rolls in the refrigerated cases or, you can choose to order from the kitchen which I did.
+title: Natsu Japanese Restaurant 321 Broadway Manhattan, NY ...
+snippet: Natsu is a recently opened Japanese Restaurant across from the Federal Building in the Tribeca area. There is a ready to go selection of sushi, sashimi and rolls in the refrigerated cases or, you...
+title: fr.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Natsu Japanese Restaurant Coupons - 321 Broadway Manhattan, NY
+snippet: $20 off Natsu Japanese Restaurant Coupons and online discounts in Manhattan. Coupons for Natsu Japanese Restaurant and it is a Japanese restaurant with a location at 321 Broadway in Manhattan, NY 10007.
+title: Online Menu of Natsu Japanese Restaurant, Manhattan, NY
+snippet: View the menu for Natsu Japanese Restaurant and restaurants in Manhattan, NY. See restaurant menus, reviews, hours, photos, maps and directions.
+title: 10 Best Japanese Restaurants in Manhattan (New York City)
+snippet: Best Japanese Restaurants in Manhattan (New York City): See 33,809 Tripadvisor traveler reviews of Japanese Restaurants in Manhattan New York City.
+title: 10 BEST Japanese Restaurants in New York City - Tripadvisor
+snippet: Best Japanese Restaurants in New York City, New York: Find Tripadvisor traveler reviews of New York City Japanese restaurants and search by price, location, and more.
+title: Natsu Japanese Restaurant in New York, NY 10007 - (212 ...
+snippet: Natsu Japanese Restaurant is located at 321 Broadway Frnt A, A Frnt, New York, NY 10007. Natsu Japanese Restaurant can be contacted at (212) 227-8878. Get ratings, reviews, hours, phone numbers, and directions.
+title: Natsu Japanese Restaurant in New York | Natsu Japanese ...
+snippet: Find Natsu Japanese Restaurant in New York with Address, Phone number from Yahoo US Local. Includes Natsu Japanese Restaurant Reviews, maps &amp; directions to Natsu Japanese Restaurant in New York and more from Yahoo US Local
+title: Natsumi | Japanese Sushi Bar Midtown New York
+snippet: Natsumi Restaurant and Natsumi Bar &amp; Lounge are strikingly original and should be your new destination for your private party. Featuring Japanese-Italian fusion cuisine, the menu combines flavors in ways that NYC has not seen before.
+
+REL: 2
+POI Name: Maialino
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Breakfast & Brunch, Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Tidal Tea
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bubble Tea, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Tidal Tea 1520 Amsterdam Ave Manhattan, NY Coffee &amp; Tea ...
+snippet: Get directions, reviews and information for Tidal Tea in Manhattan, NY. Tidal Tea 1520 Amsterdam Ave Manhattan NY 10031. 53 Reviews (646) 726-4868 Website. Menu &amp; Reservations ... there&#39;s very few bubble tea shops in this area and this is a nice addition. I&#39;ve been a few times and I&#39;ve gotten the lychee green tea, passion fruit, ...
+title: Tidal Tea
+snippet: brewed from organic loose-leaf tea, tidal tea drinks are mixed with the highest quality ingredients to create unique flavors.
+title: Tide Times and Tide Chart for Manhattan Beach
+snippet: April Tide charts for Manhattan Beach: The tide charts below show the height, time and date of high and low tides for the next 30 days. Tide Times are PDT (UTC -7.0hrs). Last Spring High Tide at Manhattan Beach was on Sun 22 Mar (height:2.05m 6.7ft). Next high Spring Tide at Manhattan Beach will be on Wed 08 Apr (height:2.32m 7.6ft).
+title: Photos for Tidal Tea - Yelp
+snippet: Photos at Tidal Tea - Manhattan, NY. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Tidal Tea - New York, NY Restaurant | Menu + Delivery ...
+snippet: Order online! View menu and reviews for Tidal Tea in New York, plus most popular items, reviews. Delivery or takeout, online ordering is easy and FREE with Seamless.com.
+title: Tidal Tea - Home | Facebook
+snippet: Tidal Tea. 30 likes. Bubble Tea Shop. Facebook is showing information to help you better understand the purpose of a Page.
+title: 10 Best Coffee &amp; Tea in Manhattan (New York City)
+snippet: Best Coffee &amp; Tea in Manhattan (New York City): See 9,349 Tripadvisor traveler reviews of Coffee &amp; Tea in Manhattan New York City.
+title: TIDAL - High Fidelity Music Streaming
+snippet: TIDAL is the first global music streaming service with high fidelity sound, hi-def video quality, along with expertly curated playlists and original content — making it a trusted source for music and culture.
+title: TIDAL · Sign in
+snippet: TIDAL is the first music service with High Fidelity sound quality, High Definition music videos and Curated Editorial, expertly crafted by music journalists.
+
+REL: 2
+POI Name: Caro Wines and Liquors
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Caro Wines and Liquors - Harlem - Manhattan, NY
+snippet: 4 reviews of Caro Wines and Liquors &quot;Good selection of wines and reasonable prices. Liquor selection is descent, while prices are on par with most liquor stores. Great selection of chilled wines and rosé, still and bubbly. Yes, the employees are…
+title: Caro Wines and Liquors 3139 Broadway Manhattan, NY Liquor ...
+snippet: Get directions, reviews and information for Caro Wines and Liquors in Manhattan, NY. Caro Wines and Liquors 3139 Broadway Manhattan NY 10027. 4 Reviews (212) 749-0994 Website. Menu &amp; Reservations ... Nice selection of various wines and liquors and very reasonable prices. In fact, ...
+title: Garnet Wines &amp; Liquors
+snippet: Garnet Wine is a fine wine and spirits store with over 9000 selections. Lowest Priced Store Wine &amp; Liquor in the COUNTRY! Since 1947.
+title: Caro Wines and Liquors in New York | Caro Wines and ...
+snippet: Find Caro Wines and Liquors in New York with Address, Phone number from Yahoo US Local. Includes Caro Wines and Liquors Reviews, maps &amp; directions to Caro Wines and Liquors in New York and more from Yahoo US Local
+title: Royal Wines and Liquors - Hell&#39;s Kitchen - Manhattan, NY
+snippet: Royal Wines and Liquors is a real asset to Hell&#39;s Kitchen and I wish you many successful, stress-free years. Pretty pricey for the neighborhood but not the worst. Depending on what you&#39;re getting they&#39;re either on point with the price or very expensive.
+title: Buy Fine Wine Online | Caros Wines NZ
+snippet: The finest wines from New Zealand and the world since 1995. Experience the Variety in-store and online. 114 St Georges Bay Road, Parnell, Auckland 14 Mackelvie Street, Grey Lynn, Auckland Find the stores
+title: Manhattan Fine Wines – The Best Selection of Wines in ...
+snippet: Our Wines . The Best Selection of Wines in Manhattan Beach and the South Bay area of Los Angeles. See more »
+title: Caro Wines &amp; Liquors in New York, NY - (212) 749-0994 ...
+snippet: Caro Wines &amp; Liquors is in the Liquor business. View competitors, revenue, employees, website and phone number.
+title: Warehouse Wines &amp; Spirits - Wine Store in Noho New York ...
+snippet: Warehouse Wines &amp; Spirits - Wine Store in at 735 Broadway New York, NY 10003. Call us at (212) 982-7770 for the best Italian wine, French wine, Oregon wine, California wine, Washington wine, German wine, Australian wine, and Spanish wine
+title: Browse Wines | Caros Wines NZ
+snippet: This cheapie over-delivers for the price! It is a new collaboration between one of Halliday&#39;s 5 Star rated &quot;dark horse&quot; producers in the McLaren Vale (who are co-incidentally named 3 Dark ...
+
+REL: 2
+POI Name: Bombay Takeout
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, 
+Snippets:
+title: Bombay Takeout | Healthy Indian Tiffin | NYC and NJ Meal ...
+snippet: Bombay Takeout Tiffin Delivery Service delivering tiffins in nyc and tiffin nj areas. Healthy Indian food delivered. tiffin nyc, tiffin nj, indian tiffin delivery
+title: Bombay Takeout | Tiffin Meals | NYC and NJ
+snippet: As early as 19th century Bombay, “tiffins” were delivered as a means of getting fresh, convenient food to busy people all over the city. We are bringing that same tradition to you with healthy, delicious meals made in our kitchen and delivered to your door, for you to enjoy anytime. Tiffin delivery is available throughout NYC and NJ.
+title: Tiffin Delivery Schedule Serving NJ ... - Bombay Takeout
+snippet: Bombay Takeout Tiffin delivery schedule. NYC tiffin delivery and NJ tiffin delivery Sunday, Manhattan tiffin delivery and Brooklyn Tiffin delivery Mondays. NJ areas include Jersey City, Hoboken, Newport, Secaucus, Weehawken.
+title: COVID19 | Bombay Takeout Tiffins
+snippet: At the center of Bombay Takeout’s purpose is a commitment to deliver healthy, home-style, and always vegetarian (often vegan) food to your doors. In times like these, we appreciate our purpose more than ever and will do everything we can do ensure the safety and well-being of our communities and our people.
+title: Photos for Bombay Takeout - Yelp
+snippet: Photos at Bombay Takeout - Manhattan, NY. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Bombay Takeout - Home | Facebook
+snippet: Bombay Takeout, Manhattan, New York. 3,051 likes · 11 talking about this. Bombay Takeout is an Indian Food Delivery service in the New Jersey and New York area. We deliver fresh, healthy and...
+title: Bombay Takeout, Manhattan, NY (2020)
+snippet: As part of our ode to life and nourishment, we take pride in lightening the burdens of those facing difficulties. Every week, Bombay Takeout donates meals to women&#39;s shelters, the elderly, and people facing financial troubles. Please contact us if someone you know is in need of a meal (we assure the same service and quality for everyone).
+title: Bombay Takeout, Hackensack - Menu, Prices &amp; Restaurant ...
+snippet: Bombay Takeout, Hackensack: See 8 unbiased reviews of Bombay Takeout, rated 3 of 5 on Tripadvisor and ranked #131 of 187 restaurants in Hackensack.
+title: Bombay Takeout New York, NY Restaurants Food Delivery ...
+snippet: Get directions, reviews and information for Bombay Takeout in New York, NY. Bombay Takeout New York NY 10019. 30 Reviews (201) 203-7923 Website. Menu &amp; Reservations ... The food is home style cooking and very good. Since we started ordering from Bombay Tiffin we find Indian restaurant food - even from the best restaurants ...
+title: Bombay Takeout Tiffins | Healthy Indian Meal Delivery ...
+snippet: Our tiffin delivery coverage is constantly expanding. We currently deliver to most of Northern NJ (Most of Bergen County, Hoboken, Jersey City, Weehawken, and surrounding areas) as well as all locations in NYC including Bronx, Manhattan, Queens, and Brooklyn
+
+REL: 2
+POI Name: Lena's Italian Kitchen
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Na Rae Mi Restaurant
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Mi Na Rae Korean BBQ Restaurant - Korean Restaurant in ...
+snippet: mi na rae korean bbq restaurant kuala lumpur location • mi na rae korean bbq restaurant kuala lumpur address • mi na rae korean bbq restaurant kuala lumpur • mi na rae kuala lumpur • mi na rae korean bbq (sri petaling) kuala lumpur •
+title: Mi Na Rae Korean BBQ - Home - Kuala Lumpur, Malaysia ...
+snippet: Mi Na Rae Korean BBQ - No. 39, Jalan Radin Bagus, Bandar Baru Seri Petaling 57000 Kuala Lumpur, 57000 Kuala Lumpur, Malaysia - Rated 4.1 based on 50...
+title: Na Rae and Young Mi sign &quot;Amigar Restaurant&quot; [Radio Star ...
+snippet: Na Rae and Young Mi sign &quot;Amigar Restaurant&quot; [Radio Star Ep 655 ... (Park Na-rae)ㅋㅋ 어서 말을 해(tellme) 7 ... Kim Sa-bu is telling Won Hee about a Good Restaurant [My Little Old ...
+title: HONG KONG | SAR - CHINA - A TRAVEL TOUR - 4K UHD - YouTube
+snippet: Welcome to one of the most famous cities in the world. A global city where East and West meet. A city with one of the most recognizable skylines. You shall find great food, amazing shopping and 24 ...
+title: THE 10 BEST Restaurants in La Habra - Updated April 2020 ...
+snippet: Best Dining in La Habra, Orange County: See 1,151 Tripadvisor traveler reviews of 150 La Habra restaurants and search by cuisine, price, location, and more.
+title: Parrott Tours (New York by) - Anmeldelser - Tripadvisor
+snippet: Parrott Tours, New York by: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Parrott Tours i New York by, New York på Tripadvisor.
+title: Mi Na Rae Korean BBQ, Sri Petaling, Kuala Lumpur - Zomato ...
+snippet: Mi Na Rae Korean BBQ Kuala Lumpur; Mi Na Rae Korean BBQ, Sri Petaling; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Mi Na Rae Korean BBQ Restaurant on Zomato
+title: Sugar Rae&#39;s Cafe&#39;, Evart - Restaurantanmeldelser - Tripadvisor
+snippet: Sugar Rae&#39;s Cafe&#39;, Evart: Se 2 objektive anmeldelser av Sugar Rae&#39;s Cafe&#39;, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 7 av 9 restauranter i Evart.
+title: THE 10 BEST Restaurants in Marina del Rey - Updated April ...
+snippet: Best Dining in Marina del Rey, California: See 11,473 Tripadvisor traveler reviews of 141 Marina del Rey restaurants and search by cuisine, price, location, and more.
+
+REL: 2
+POI Name: Fatim Halal Food
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Fatim Halal Food [200 - 250] Park Ave S Manhattan, NY ...
+snippet: Get directions, reviews and information for Fatim Halal Food in Manhattan, NY.
+title: 10 Best Halal Restaurants in Manhattan (New York City)
+snippet: Best Halal Restaurants in Manhattan (New York City): See 3,083 Tripadvisor traveler reviews of Halal Restaurants in Manhattan New York City.
+title: An Insider’s Guide to Halal Takeout - The New York Times
+snippet: An Insider’s Guide to Halal Takeout A line of customers at Kababish, where Muhammad Tahir is training his 23-year-old daughter, Fatima Kamil, to take over the family business. Credit...
+title: The Most Delicious Halal Restaurants in New York to Check ...
+snippet: Check the top five Halal places that Halal Girl About Town recommends for you to try out when exploring New York. Considering New York is one of the biggest food capitals in the world with restaurants in every nook and cranny of Manhattan, the halal food scene has surprisingly taken a while to pick up over there.
+title: Excellent Halal Food - Review of Fatima&#39;s Halal Kitchen ...
+snippet: Fatima&#39;s Halal Kitchen: Excellent Halal Food - See 24 traveler reviews, 10 candid photos, and great deals for Astoria, NY, at Tripadvisor.
+title: Zabiha Halal Meat Processors – Owners of Fatima Brand
+snippet: Our signature Fatima Brand Beef Franks. Fully cooked and 100% beef made with no fillers or byproducts. Uncured Cooked Chicken Salami. Introducing our FIRST nitrate free chicken salami. Seasoned with a variety of spices, fully cooked and ready to serve! ... Zabiha Halal Meat Processors ...
+title: Fatima&#39;s Halal Kitchen Menu - Urbanspoon/Zomato
+snippet: Fatima&#39;s Halal Kitchen Astoria Menu - View the Menu for Fatima&#39;s Halal Kitchen New York City on Zomato for Delivery, Dine-out or Takeaway, Fatima&#39;s Halal Kitchen menu and prices. Fatima&#39;s Halal Kitchen Menu
+title: 5 Best Halal Food Carts in NYC (6th Ave) - Sameer&#39;s Eats ...
+snippet: In this feature, Sameer takes you uptown along 6th Ave. in Manhattan to share his 5 favorite Halal carts! Be sure to check em out in the near future and let ...
+title: fatimahalalkitchen.com
+snippet: authentic chinese cuisine (718) 278-0080 / (718) 278-1911 eat in * take out * catering. free delivery. $10.00 minimum, limited area . open 7 days a week
+
+REL: 2
+POI Name: Vitahealth Apothecary
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Drugstores, Health Markets, 
+Snippets:
+title: Meet Vitahealth Apothecary - The Healthy Apple
+snippet: You can visit Vitahealth Apothecary in Manhattan, NYC at the below locations or visit them on Facebook and Instagram. Their website is currently under construction. Two Manhattan Locations on the Upper East Side in NYC. 1609 2nd Avenue NYC. and. 1235 1st Avenue NYC. Phone: (212) 772-1110
+title: Vitahealth Apothecary 1609 2nd Ave New York, NY Food ...
+snippet: Angelo, at Vitahealth Apothecary on 2nd Avenue, is hands down, the most wonderful pharmacist I have ever known. He is knowledgeable, caring, and helpful.
+title: Vitahealth Apothecary, 1609 2nd Ave Frnt 1, New York, NY ...
+snippet: Whether it’s an organic supplement, or a fresh-made juice, you can be sure it’s all natural and non-toxic. We know, because we chose it just for you. We’ve created a healthy little oasis in the middle of Manhattan that aligns with our all-natural values and our backgrounds in medicine. Started by husband-and-wife pharmacists who wanted to return to their organic roots, Vitahealth is a ...
+title: Vitahealth Apothecary - 74 Photos - 8 Reviews ...
+snippet: Vitahealth Apothecary, New York, NY. 303 likes · 32 were here. Whether it’s an organic supplement, or a fresh-made juice, you can be sure it’s all natural and non-toxic. We know, because we chose it...
+title: Manhattan | VitaHealth Apothecary Blog
+snippet: Posts about Manhattan written by Carlos Melia. David Restrepo, licensed Pharmacist and owner of VitaHealth Apothecary, was recently featured by Elyn Jacobs on a live radio interview on the All Cancer Network.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Vitahealth Apothecary: Prescription For Health in NYC
+snippet: Vitahealth Apothecary is my go-to for supplements and health supplies. I send all of my clients to David, not only because he is brilliant but also because he is so kind and patient.” The benefits of consulting an integrative pharmacist can be life-changing for those undergoing chemotherapy, and Vitahealth’s First Avenue store is conveniently located steps from Memorial Sloan Kettering.
+title: Vitahealth Apothecary - 74 Photos - 8 Reviews - Pharmacy ...
+snippet: Vitahealth Apothecary, New York, NY. 297 likes · 32 were here. Whether it’s an organic supplement, or a fresh-made juice, you can be sure it’s all natural and non-toxic. We know, because we chose it...
+title: Vitahealth Apothecary in New York | Vitahealth Apothecary ...
+snippet: Find Vitahealth Apothecary in New York with Address, Phone number from Yahoo US Local. Includes Vitahealth Apothecary Reviews, maps &amp; directions to Vitahealth Apothecary in New York and more from Yahoo US Local
+title: Vitahealth Apothecary Inc | 1609 2nd Ave, New York, NY ...
+snippet: Vitahealth Apothecary Inc has been rated by 5 patients. From those 5 patients 2 of those left a comment along with their rating. The overall rating for Vitahealth Apothecary Inc is 4.8 of 5.0 stars. read reviews Write a Review. Location. get directions Vitahealth Apothecary Inc ...
+
+REL: 2
+POI Name: Supper
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Our Heros Food Truck
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Our Heros Truck - Food Truck in New York - Foursquare
+snippet: Food Truck in New York, NY Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: NY Food Truck Lunch: Roast Beef Hero From Downtown Our ...
+snippet: NY Food Truck Lunch: Roast Beef Hero From Downtown Our Heros Truck. ... There’s a fairly new food truck downtown called Our Heros. ... Manhattan’s 7 Best Sandwiches
+title: Our Heros Food Truck | Our Heros | Nationwide Auto Group
+snippet: The Finest Automobiles at Prices You Never Thought Possible. Nationwide Auto Group is a referral-based business specializing in the acquisition and resale of late model high-line cars at substantia
+title: The absolute best food trucks in NYC - Time Out
+snippet: The best food trucks in NYC sling everything from ... Get us in your inbox Sign up to our newsletter for the latest and greatest ... While the Manhattan cart and Queens truck continue ...
+title: Food Truck Map - New York, NY - Catering &amp; Events ...
+snippet: On the other side of the bridge, tight restrictions remain in place for Manhattan food trucks, but parks are an ever-popular spot to catch some local favorites. From Tompkins to Washington to Madison and of course Central, if there&#39;s space to sit and breathe, there&#39;s probably also a food truck parked next to it.
+title: The 21 Best New York, NY Food Trucks (April 2020 ...
+snippet: Buy a Food Truck. Browse the best collection of gourmet food trucks and food carts for sale. Custom Built Food Trucks. Build your perfect food truck, your way. Sell a Food Truck. List your food truck for sale on our food truck marketplace. Lease a Food Truck. Rent or Lease the Perfect Food Truck with Roaming Hunger.
+title: New York City Food Tour - YouTube
+snippet: It was a great first full day in New York City with some incredibly delicious food. Probably my favorite dish of the day was the spicy big tray chicken from Spicy Village, but all the food was so ...
+title: The Legendary Dosa Man of NYC - Street Food Icons - YouTube
+snippet: Thiru Kumar, AKA the Dosa Man, has been running NY Dosas, a food cart in Greenwich Village&#39;s Washington Square Park, since 2001. His dosas-which are made from fermented rice and lentils, and ...
+title: Italian Sandwich Society - DiSO’S Truck 1
+snippet: DiSO&#39;S italian Sandwich Society Follow. ... DiSO’s will be closed today- we will resume our normal schedule for pick up and deliveries again starting tomorrow. ... Disos Italian Sandwich Society is a NYC food truck that offers up the highest quality and authenticity of Italian sandwiches on the streets on New York City.
+
+REL: 2
+POI Name: Terra Market
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, Florists, 
+Snippets:
+title: Terra Market - Midtown West - Manhattan, NY - Yelp
+snippet: It&#39;s much cheaper than a local supermarket and I have never been disappointed by quality. I was rooting for Terra Market since I moved to Hell&#39;s Kitchen, seeing how small businesses are being killed by the chain stores (not always without their own fault).
+title: Terra Market 533 9th Ave Manhattan, NY Farm Markets - MapQuest
+snippet: Get directions, reviews and information for Terra Market in Manhattan, NY.
+title: Snapshot: Terra Market - Manhattan, NY
+snippet: Highly observant readers will notice that, in fact, this store is only two doors down from the Big Apple Meat Market which we saw earlier today! This one appears to be smaller and produce focused, while Big Apple is meat, dairy, and frozen.
+title: Terra - Notícias, esportes, coberturas ao vivo, diversão e ...
+snippet: Veja no Terra as últimas notícias e as melhores coberturas ao vivo do Brasil e do Mundo, Esportes, Diversão, Vida e Estilo e assista os melhores vídeos no TerraTV.
+title: Photos for Terra Market - Yelp
+snippet: Photos at Terra Market - Manhattan, NY. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: View All Terra Heights, Manhattan, KS Homes, Housing ...
+snippet: Discover all homes in Terra Heights, Manhattan, KS, including homes that are for sale &amp; rent. Learn more about Terra Heights with a real estate overview of the current market trends, home values ...
+title: Terra Markets – Wikipedia
+snippet: Terra Markets AS er et verdipapirforetak som ble etablert under navnet Orion Securities i 1999. I 2009 ble Terra Markets kjøpt av Terra-Gruppen og er nå et heleid datterselskap. Selskapet driver virksomhet blant annet innen analyse, megling, online aksjehandel sparing og kapitalplassering.
+title: Google Maps
+snippet: Find local businesses, view maps and get driving directions in Google Maps.
+title: Marked | Finansavisen
+snippet: Markedsoversikt i realtid. Valutakurser, aksjer, olje og råvarer. Ingen norsk avis dekker børsnyheter og finansbransjen tettere og bredere enn Finansavisen.
+title: Terra Winebar and Cicchetti
+snippet: A TriBeCa wine bar and restaurant serving Italian shared plates from cicchetti to insalate, paste, and secondi. Brick walls, wood floors, and plenty of seating (communal and otherwise) make it inviting and easygoing.
+
+REL: 2
+POI Name: IHOP
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, American (Traditional), Burgers, 
+Snippets:
+title: Breakfast Restaurant Near You | IHOP® in Manhattan (Broadway)
+snippet: IHOP MANHATTAN NY. Whether you&#39;re hungry for one of our popular breakfast items or looking for lunch, dinner, or late night dining ideas near you, your IHOP® location at 4168 Broadway in Manhattan is just around the corner and ready to serve.
+title: Breakfast Restaurant Near You | IHOP® in Manhattan ...
+snippet: IHOP MANHATTAN KS. Whether you&#39;re hungry for one of our popular breakfast items or looking for lunch, dinner, or late night dining ideas near you, your IHOP® location at 101 Goodfood Place in Manhattan is just around the corner and ready to serve.
+title: IHOP Breakfast Restaurants in Manhattan, NY
+snippet: IHOP Restaurants Manhattan, Ny. Enter Your Location Use my current location. Go. You are now leaving www.ihop.com and being taken to an external Web site that is not owned, operated, controlled by, or in any way affiliated with, IHOP or Dine Brands Global, and that may not follow the same accessibility policies and practices as IHOP/Dine Brands ...
+title: IHOP, Manhattan - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at IHOP, Manhattan with Tripadvisor: See 42 unbiased reviews of IHOP, ranked #106 on Tripadvisor among 168 restaurants in Manhattan.
+title: IHOP, Manhattan - Restaurantanmeldelser - Tripadvisor
+snippet: IHOP, Manhattan: Se 42 objektive anmeldelser av IHOP, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 106 av 168 restauranter i Manhattan.
+title: Breakfast Restaurant Near You | IHOP® in New York (E 14th St)
+snippet: IHOP® on 235 E 14th St # 237 in New York, is the home of all things breakfast and everything delicious. Pancakes, crepes, waffles, eggs and more – order online all right here.
+title: IHOP Breakfast Restaurants in Manhattan, KS
+snippet: IHOP Restaurants Manhattan, Ks. Enter Your Location Use my current location. Go. You are now leaving www.ihop.com and being taken to an external Web site that is not owned, operated, controlled by, or in any way affiliated with, IHOP or Dine Brands Global, and that may not follow the same accessibility policies and practices as IHOP/Dine Brands ...
+title: IHOP - Home - Manhattan, New York - Menu, Prices ...
+snippet: IHOP - 4168 Broadway, Manhattan, New York 10033 - Rated 3.9 based on 75 Reviews &quot;Treating myself to some breakfast T-BONE STEAK &amp; EGG WHITE AND FRENCH TOAST&quot;
+title: Ihop Restaurant - Review of IHOP, Manhattan, KS - Tripadvisor
+snippet: IHOP: Ihop Restaurant - See 42 traveler reviews, 5 candid photos, and great deals for Manhattan, KS, at Tripadvisor.
+title: IHOP, New York City - 2294 Adam Clayton Powell Jr Blvd ...
+snippet: Visited IHOP in Harlem in New York. Food -8/10 Service - 7.5 /10 Ambience - 9/10 Portion - 9/10 Location- 9/10 Strongly recomm3nd for pan cakes lovers. Best pan cakes I ever tried so far. Must go if you have not tried IHOP.
+
+REL: 2
+POI Name: Mel & Mo's Love Potion 214
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chocolatiers & Shops, Juice Bars & Smoothies, 
+Snippets:
+title: Mel &amp; Mo’s Love Potion 214 - Chocolatiers &amp; Shops - W 96th ...
+snippet: 2 reviews of Mel &amp; Mo&#39;s Love Potion 214 &quot;Mel &amp; Mo&#39;s Love Potion is really versatile, great for a picnic or a club setting. Keep a bottle in your house, any bartender would love to have this on hand.&quot;
+title: THE BEST 10 Chocolatiers &amp; Shops near Upper West Side ...
+snippet: Best Chocolatiers &amp; Shops in Upper West Side, Manhattan, NY, United States - Jacques Torres Chocolate, Kee&#39;s Chocolates, Mondel Chocolates, La Maison Du Chocolat, Läderach, Hotel Chocolat, Kreuther Handcrafted Chocolate, Mel &amp; Mo&#39;s Love Potion…
+title: How to get to West 96th Street in Manhattan by Subway or ...
+snippet: Nearby attractions around West 96th Street in Manhattan West 96th Street W 96th St (96th and Amsterdam Ave) 96th Amst Ave 96th Amsterd Ave 96th Amste 96th St &amp; Amster 96th &amp; Amsterd 96th and Amster W 96th St / Amsterdam 96th St and Amsterdam Amsterdam Ave (96th street amsterdam) metroPCS Gudama Enterprises Mel &amp; Mo&#39;s Love Potion 214 Chez S&amp;M ...
+title: montea r.&#39;s Reviews | Los Angeles - Yelp
+snippet: montea r.&#39;s reviews, photos and other recent activity on Yelp - a fun and easy way to find, recommend and talk about what&#39;s great (and not so great) in your location.
+title: List of comedy films of the 1990s - Wikipedia
+snippet: Comedy films of 1991 Title Director Cast Production country Genre The Addams Family: Barry Sonnenfeld: Anjelica Huston, Raul Julia, Christopher Lloyd: United States: Age Isn&#39;t Everything
+title: How to get to Montclare Children&#39;s School, 747 Amsterdam ...
+snippet: Nearby attractions around Montclare Children&#39;s School, 747 Amsterdam Ave in Manhattan Amsterdam Av/W 96 St Mel &amp; Mo&#39;s Love Potion 214 Havana Central West 96th Street W 96th St (96th and Amsterdam Ave) 96th Amst Ave 96th Amsterd Ave 96th Amste 96th St &amp; Amster 96th &amp; Amsterd 96th and Amster W 96th St / Amsterdam 96th St and Amsterdam Amsterdam ...
+title: Alexander Deadstock Jones | Facebook
+snippet: Alexander Deadstock Jones is on Facebook. Join Facebook to connect with Alexander Deadstock Jones and others you may know. Facebook gives people the power to share and makes the world more open and...
+title: Most Popular Love Potion Movies and TV Shows - IMDb
+snippet: Jaded Carla drugs her stuck up aunt and her daughter with mind-altering aphrodisiac concocted from a rose by an ominous Pan sex cult. The women become crazed nymphos and the only way to cure them is for Carla to give herself to &quot;Pan&quot;.
+title: Beverly Hillbillies - Homestead
+snippet: The Beverly Hillbillies The first of the hillbilly sitcoms was called “The Beverly Hillbillies” and it was unique in the fact that this story was inspired by an incident that occurred when the program’s creator, Paul Henning, visited a log cabin in the hills of Kentucky.
+title: The Hard Way (1991) - IMDb
+snippet: Directed by John Badham. With Michael J. Fox, James Woods, Stephen Lang, Annabella Sciorra. An action movie star researching a role is allowed to tag along with a hardboiled New York City policeman, who finds him superficial and irritating.
+
+REL: 2
+POI Name: Amsterdam Gourmet Deli
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Amsterdam Gourmet, New York City - Upper West Side ...
+snippet: Amsterdam Gourmet is wonderful! I&#39;ve stayed across the street from it 17 nights in the last year, and I am well supplied with all kinds of deli food, fresh fruits, milk, yogurt, etc. Extra special. Can eat at a counter there, or take out.
+title: Amsterdam Gourmet Deli 983 Amsterdam Ave Manhattan, NY ...
+snippet: Get directions, reviews and information for Amsterdam Gourmet Deli in Manhattan, NY. Amsterdam Gourmet Deli 983 Amsterdam Ave Manhattan NY 10025. 1 Reviews (212) 222-1775. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Amsterdam Gourmet - Sandwich Shop - New York, New York ...
+snippet: Amsterdam Gourmet, New York, NY. 177 likes · 1 talking about this · 191 were here. Upper West&#39;s sides local deli/convenience store. The best boar&#39;s Head meat sandwiches, bagels, muffins,...
+title: Amsterdam Deli - New York, NY Restaurant | Menu + Delivery ...
+snippet: Order with Seamless to support your local restaurants! View menu and reviews for Amsterdam Deli in New York, plus popular items &amp; reviews. Delivery or takeout!
+title: 109 Spicy Gourmet Deli - New York, NY Restaurant | Menu ...
+snippet: Order with Seamless to support your local restaurants! View menu and reviews for 109 Spicy Gourmet Deli in New York, plus popular items &amp; reviews. Delivery or takeout!
+title: Amsterdam Deli | New York, NY 10024 | Menu | Order Online
+snippet: Amsterdam Deli with menu, specials, order online for pickup, takeout, carryout, or catering, the best breakfast, bagel, cereals, spreads, hot sandwiches, cold ...
+title: 10 Best Delis in Manhattan (New York City)
+snippet: Best Delis in Manhattan (New York City): See 36,122 Tripadvisor traveler reviews of Delis in Manhattan New York City. New York City. New York City Tourism New York City Hotels New York City Bed and Breakfast New York City Vacation Rentals ... “Fantastic authentic deli shop ...
+title: THE BEST 10 Delis near Upper West Side, Manhattan, NY ...
+snippet: Best Delis in Upper West Side, Manhattan, NY, United States - Barney Greengrass, Andy&#39;s Deli, Mani Market Place, Fine &amp; Schapiro, 88 Gourmet Deli, Amsterdam Gourmet, Cuomo And Sons, Columbus Cafe, Rose&#39;s Italian Deli &amp; Catering, Fair Ridge…
+title: Amsterdam Gourmet - Updated COVID-19 Hours &amp; Services - 11 ...
+snippet: 21 reviews of Amsterdam Gourmet &quot;Top notch local deli. The omelets are unlike any from a bodega or deli I&#39;ve eaten. The veggie omelet is more like a souffle: it&#39;s packed with spinach, mushrooms, peppers. Just terrific. Pleasant enough to eat…
+
+REL: 2
+POI Name: Chelsea Eats
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+title: The 10 Best Chelsea Restaurants (New York City) - Tripadvisor
+snippet: Chelsea Restaurants - New York City, NY: See 77,742 Tripadvisor traveler reviews of 77,742 restaurants in New York City Chelsea and search by cuisine, price, and more.
+title: Chelsea | Serious Eats
+snippet: Chelsea Dolce Gelateria&#39;s Spaghetti Gelato is not What You Think it Is. Dolce Gelateria pushes their vanilla gelato through a potato ricer to make Play-Doh-like spaghetti topped with fruit-flavored &quot;pasta sauce&quot; and gelato meatballs.
+title: Ultimate Chelsea, NYC neighborhood guide with attractions
+snippet: Our guide to Chelsea, NYC includes the best places to eat, drink, shop and things to do in the neighborhood. ... Salumeria Biellese (29th St and Eighth Ave) is my favorite Italian deli in Manhattan.
+title: Chelsea Eats - Chelsea - Manhattan, NY - Yelp
+snippet: 1 review of Chelsea Eats &quot;Awesome food and culture at this outdoor street festival venue. Loving the vast diversity of food&quot; Chelsea Eats - Street Vendors - 8TH Ave, Chelsea, Manhattan, NY - Yelp
+title: Best Chelsea Restaurants In NYC To Eat Great Food 2019
+snippet: From Michelin-starred French cuisine to surprisingly affordable sushi, Manhattan&#39;s Chelsea neighborhood is a great place to eat. ... Best Chelsea Restaurants In NYC To Eat Great Food 2019.
+title: Chelsea, Manhattan Restaurants, Restaurants in Chelsea ...
+snippet: Restaurants in Chelsea, Manhattan; Chelsea, Manhattan, New York City Restaurants - Menus, Reviews, Photos for Restaurants, Pubs, Lounges, and Bars in Chelsea, Manhattan, New York City Zomato is the best way to discover great places to eat in your city.
+title: 12 Best Places to Eat in Manhattan, New York City! - YouTube
+snippet: We found lots of awesome places to eat in Manhattan, arguably the most vibrant borough of New York City. I am salivating just thinking about all the delicious food we ate! We visited over FIFTY ...
+title: 40 Best Manhattan Restaurants in NYC That You Must Try
+snippet: When eating out in the city, it can be hard to know where to start: the borough is packed with top-notch eateries, so much so that the best Manhattan restaurants greatly overlap with the best ...
+title: The Best Restaurants In Chelsea - New York - The Infatuation
+snippet: The best restaurants in Chelsea, according to us. The best restaurants in Chelsea, according to us. Home Cities. Pick the perfect spot ... and you haven’t had these tacos, you should eat these tacos. Tacos. Eat theirs. This is a stand in Chelsea Market that tends to be busy, because a lot of people have heard that they might be the best tacos ...
+title: Chelsea New York - Eater NY
+snippet: At New Chelsea Restaurant Qanoon, a Seasoned Chef Dives Into Palestinian Home Cooking. Tarek Daka, once focused on Italian food, has now created a menu rooted in his childhood growing up on a ...
+
+REL: 2
+POI Name: Neapolitan Express
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Pizza, 
+Snippets:
+title: Neapolitan Express
+snippet: Originally launched in 2012 as the world’s first Eco Friendly Food Truck, Neapolitan Express was officially introduced by lead investors, energy innovators and business tycoons T. Boone Pickens of Clean Energy Fuels and Mayor Michael Bloomberg of Bloomberg L.P. Powered entirely by alternative energies, the Neapolitan Express pizza truck reduces greenhouse gases by up to 99%.
+title: Food Trucks — Neapolitan Express
+snippet: Interested in working with us? Neapolitan Express is hiring part-time and full-time staff and management. We would love to hear from you!
+title: Neapolitan Express, New York City - 1691 Bdwy, Midtown ...
+snippet: Neapolitan Express, New York City: See 11 unbiased reviews of Neapolitan Express, rated 4.5 of 5 on Tripadvisor and ranked #5,454 of 12,752 restaurants in New York City.
+title: Neapolitan Express, New York City - 40 Wall St, Financial ...
+snippet: Order food online at Neapolitan Express, New York City with Tripadvisor: See 109 unbiased reviews of Neapolitan Express, ranked #1,495 on Tripadvisor among 12,745 restaurants in New York City.
+title: Neapolitan Express 512 7th Ave Manhattan, NY Pizza - MapQuest
+snippet: Get directions, reviews and information for Neapolitan Express in Manhattan, NY. Neapolitan Express 512 7th Ave Manhattan NY 10018. 19 Reviews (646) 791-5480. Menu &amp; Reservations ... Went in to get a neopolitan style pie since I just got back from Naples and was craving that taste.
+title: Neapolitan Express Reviews | Manhattan, NY | One Bite
+snippet: Neapolitan Express in Manhattan, NY reviews and ratings for pizza.
+title: New York City — Neapolitan Express
+snippet: NEW LOCATION! MIDTOWN 512 7th Ave, New York, New York
+title: Photos for Neapolitan Express | Food - Yelp
+snippet: Food photos at Neapolitan Express - Manhattan, NY. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Neapolitan Express - Food. Neapolitan Express. 19 reviews Add photos All (22) Food (18) Pizza (18) Inside (3) Search photos... 18 photos mention &quot;&quot; Clear. Page 1 of 1 ...
+title: Neapolitan Express, New York by - Restaurantanmeldelser ...
+snippet: Neapolitan Express, New York by: Se 109 objektive anmeldelser av Neapolitan Express, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 494 av 12 753 restauranter i New York by.
+title: Menu — Neapolitan Express
+snippet: The Neapolitan Express menu is a carefully crafted innovation by world-renowned Master Pizzaiolo, Giulio Adriani. A Naples native with over 30 years of experience working in the Neapolitan-style, Giulio is considered to be one of the best pizza makers alive.
+
+REL: 2
+POI Name: Angeletto Restaurant
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Patrizia's Pizza and Pasta
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Pizza, Caterers, 
+Snippets:
+
+
+REL: 2
+POI Name: 67th Street Flea &  Farmer's Market
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: 67th Street Flea &amp; Farmers Market New York City Flea ...
+snippet: The 67th Street Flea &amp; Farmers Market is located in Manhattan, New York and is held every Saturday morning. This flea market has a variety of vendors and dealers hand hundreds of visitors each week. The 67th Street Flea &amp; Farmers Market features fresh farm produce, baked goods and fresh cut flowers as well antiques and vintage collectibles.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: East 67th Street Market Manhattan, New York - Flea Markets
+snippet: The East 67th Street Market has been an antiques, flea and farmers market since 1979. It is open every Saturday from 6:00 am until 5:00 pm, rain or shine, and admission is free! The Market is located in the outdoor schoolyard and indoor cafeteria of PS 183 on East 66th and East 67th Streets between 1st and York Avenues.
+title: 67th Street Flea &amp; Farmer&#39;s Market 419 E 66th St New York ...
+snippet: Get directions, reviews and information for 67th Street Flea &amp; Farmer&#39;s Market in New York, NY.
+title: Photos for 67th Street Flea &amp; Farmer&#39;s Market - Yelp
+snippet: Photos at 67th Street Flea &amp; Farmer&#39;s Market - Manhattan, NY.
+title: East 67th Street Market - Home | Facebook
+snippet: East 67th Street Market - 408 E 67th St, New York, New York 10065 - Rated 5 based on 2 Reviews &quot;I love this market been shopping here every Saturday for... Jump to. Sections of this page. ... Flea Market · Farmers Market. Price Range $$ Opens Saturday. Closed Now. Page Transparency See More.
+title: East 67th Street Market - fleamapket: the best flea markets
+snippet: One of the nicest flea markets in Manhattan, the East 67th street market is an indoor and outdoor market when the weather permits. It attracts some great vintage and antiques sellers. I like the variety, and I like to talk to the vendors and the shoppers about the objects on the tables.
+title: Manhattan Farmer&#39;s Market
+snippet: The Downtown Manhattan Farmers&#39; Market is a fun place to get to know your neighbors, relax, and enjoy the time with friends, family and community!
+title: Top 10 Best Flea Market near Upper East Side, Manhattan ...
+snippet: Reviews on Flea Market in Upper East Side, Manhattan, NY, United States - Grand Bazaar NYC, The Chelsea Antique &amp; Collectible Flea Market, 41st Street Flea Market, Astoria Market, LIC Flea &amp; Food, Chelsea Market, The Holiday Shops, Sunnyside Thrift Shop, The Upper Rust, Time &amp; Again Galleries
+title: Here Be Old Things: FLEA MARKETS IN NEW YORK CITY
+snippet: Many markets have been replaced by new development in the city. There is much erroneous information still circulating on the web; this page was updated in 2014. manhattan: Greenflea Market at M.S. 44 Here Be Old Things review Sunday 10 am–5:30 pm Indoor and outdoor market with approximately a third of the wares vintage and collectible, with the balance being handmade crafts and fresh farmers ...
+
+REL: 2
+POI Name: Som Bo
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Korean, Chinese, 
+Snippets:
+
+
+REL: 2
+POI Name: Hortus NYC
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Korean, Wine Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Valbella Midtown
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Venues & Event Spaces, 
+Snippets:
+title: Midtown | Valbella Restaurant
+snippet: Valbella Midtown is conveniently located between the prestigious Madison and Fifth Avenues amongst the world’s top designers, hotels, Central Park and New York’s central business district. While dining beneath an impressive display of wines which include over 1,000 labels, ...
+title: Midtown | Valbella Restaurant
+snippet: Valbella Midtown offers two private dining rooms, and the main dining room which can be reserved for large group dinners. The semi-private mezzanine area is perfect for a cocktail reception before dinner and the outdoor patio can be reserved to enjoy beautiful weather.
+title: | Valbella Restaurant
+snippet: with a Valbella gift card. Buy a Gift Card ... View Our Menus » Midtown. 11 E 53rd Street Manhattan, NY 10022 212-888-8955. View Location ...
+title: Valbella Midtown, New York City - Meatpacking District ...
+snippet: Reserve a table at Valbella Midtown, New York City on Tripadvisor: See 69 unbiased reviews of Valbella Midtown, rated 4.5 of 5 on Tripadvisor and ranked #2,661 of 12,745 restaurants in New York City.
+title: Valbella Midtown Restaurant - New York, NY | OpenTable
+snippet: Book now at Valbella Midtown in New York, NY. Explore menu, see photos and read 518 reviews: &quot;The quality of food for the price was disappointing.&quot;
+title: Valbella Midtown, New York by - Restaurantanmeldelser ...
+snippet: Valbella Midtown, New York by: Se 69 objektive anmeldelser av Valbella Midtown, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 2 662 av 12 752 restauranter i New York by.
+title: Valbella Midtown - Midtown East - Manhattan, NY
+snippet: 63 reviews of Valbella Midtown &quot;Elegant, clean &amp; trendy, in appearance, this restaurant sets the stage for a quality dining experience. Our server was friendly, knowledgeable &amp; attentive, but not overly so. The wine selection is impressive &amp; the…
+title: Valbella Midtown - Midtown East - Manhattan, NY
+snippet: An opposite of their lower Manhattan restaurant we found Valbella Midtown to be small, tight and uncomfortable. Visited for a holiday event downstairs which allowed for one bar with two overworked bartenders - one of which looked like she was about to have a nervous breakdown.
+title: Midtown Menu | Valbella Restaurant
+snippet: CARPACCIO DI MANZO 21. Thinly sliced filet mignon over arugula, topped with shaved parmigiano reggiano cheese. CAPRESE 21. Bufala mozzarella, marinated grilled eggplant, roasted peppers, heirloom tomatoes, and fresh basil
+title: Midtown | Valbella Restaurant
+snippet: Reservations: 212-888-8955 • General Manager: . Our floral designer and recommendation is James Anthony Floral 718-472-1208 Our photographer and recommendation is Déjà Vu Studios 516-248-9600
+
+REL: 2
+POI Name: Terry's West Village Wines & Spirits
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Terry&#39;s West Village Wines &amp; Spirits 35 Greenwich Mews ...
+snippet: Get directions, reviews and information for Terry&#39;s West Village Wines &amp; Spirits in Manhattan, NY. Terry&#39;s West Village Wines &amp; Spirits 35 Greenwich Mews Manhattan NY 10014. 22 Reviews (212) 255-0222 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets
+title: Terry&#39;s West Village Wines &amp; Spirits photos
+snippet: Photo of Terry&#39;s West Village Wines &amp; Spirits - &quot;So much wine&quot; - Manhattan, NY
+title: 8 photos for Terry’s West Village Wines &amp; Spirits - Yelp
+snippet: Photo of Terry&#39;s West Village Wines &amp; Spirits - &quot;Roses in Manhattan&quot; - Manhattan, NY
+title: Terry&#39;s West Village Wines &amp; Spirits photos - Yelp
+snippet: Photo of Terry&#39;s West Village Wines &amp; Spirits - &quot;Wines from around the world&quot; - Manhattan, NY
+title: Terrys West Village Wines And Spirit - New York, NY | Drizly
+snippet: Terrys West Village Wines And Spirit is a first-class liquor store that offers a wide selection of beer, wine, and spirits. Place your order on Drizly for delivery to your door!
+title: Terry&#39;s West Village Wines &amp; Spirits | New York | Gift Cards
+snippet: TERRY&#39;S WEST VILLAGE WINES &amp; SPIRITS Gift Cards EMAIL, TEXT OR PRINT AT HOME. For the wine connoisseur who&#39;s tried it all. Terry&#39;s West Village Wines &amp; Spirits&#39; knowledgable and helpful staff will be sure to find them something new to sip!
+title: Terry&#39;s West Village Wines &amp; Spirits, 35 Greenwich Ave ...
+snippet: Terry&#39;s is a friendly neighborhood wine &amp; spirits shop specializing in wines about people for people. And we love dogs. Hi, I&#39;m Terry. I love people &amp; dogs &amp; interacting with both. We are a small family-run wine shp in one of the world&#39;s great neighborhoods, NYC&#39;s West Village.
+title: Terry&#39;s West Village Wines &amp; Spirits in New York | Terry&#39;s ...
+snippet: Find Terry&#39;s West Village Wines &amp; Spirits in New York with Address, Phone number from Yahoo US Local. Includes Terry&#39;s West Village Wines &amp; Spirits Reviews, maps &amp; directions to Terry&#39;s West Village Wines &amp; Spirits in New York and more from Yahoo US Local
+title: our story | Terry&#39;s West Village Wines &amp; Spirits
+snippet: Join our mailing list! First Name. Last Name. Email
+
+REL: 1
+POI Name: Bistro Casa Azul
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, Wine Bars, Cocktail Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Food Palace
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Imported Food, Grocery, International Grocery, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Food Palace 4453 Broadway Manhattan, NY Grocery Stores ...
+snippet: Get directions, reviews and information for Food Palace in Manhattan, NY.
+title: Midtown Manhattan Hotel - Lotte New York Palace | Luxury ...
+snippet: A stately and historic landmark in Midtown Manhattan, Lotte New York Palace has long reigned as New York City’s most iconic and instantly recognizable hotel. A peerless address for business, a glamorous setting for society weddings, and a treasured retreat for family holidays, Lotte New York Palace is woven into the fabric of New York City.
+title: THE 10 BEST Restaurants Near Lotte New York Palace in New ...
+snippet: Restaurants near Lotte New York Palace, New York City on Tripadvisor: Find traveler reviews and candid photos of dining near Lotte New York Palace in New York City, New York.
+title: Manhattan Pizza Place, Hialeah - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Manhattan Pizza Place, Hialeah with Tripadvisor: See 8 unbiased reviews of Manhattan Pizza Place, ranked #46 on Tripadvisor among 404 restaurants in Hialeah.
+title: 10 Best Korean Restaurants in Manhattan (New York City)
+snippet: Best Korean Restaurants in Manhattan (New York City): See 4,976 Tripadvisor traveler reviews of Korean Restaurants in Manhattan New York City. New York City. New York City Tourism New York City Hotels New York City Bed and Breakfast ... “Good Authentic Korean Food, ...
+title: Dim Sum Palace, New York City - 334 W 46th St, Hell&#39;s ...
+snippet: Order food online at Dim Sum Palace, New York City with Tripadvisor: See 309 unbiased reviews of Dim Sum Palace, ranked #656 on Tripadvisor among 12,745 restaurants in New York City.
+title: Beach Chinese Food To Go, Manhattan Beach ...
+snippet: Beach Chinese Food To Go, Manhattan Beach: Se 10 objektive anmeldelser av Beach Chinese Food To Go, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 121 av 167 restauranter i Manhattan Beach.
+title: PALÁC FOOD
+snippet: PALÁC FOOD. Palace food jsou čínské restaurace nabízející pokrmy, které jsou typické právě pro &quot;Říši středu&quot;. Na jejich přípravu dohlíží zkušení šéfkuchaři. Ochutnat můžete například kuřecí speciality nebo několik variant čínské kachny a výborné polévky.
+title: Dim Sum Palace - View our menu, reviews &amp; Order food online
+snippet: We bring a taste of Family to Midtown. A focus on traditional Cantonese dishes and made to order Dim Sum. Dim Sum Palace wants to share with you what we loved eating with our families growing up.
+
+REL: 1
+POI Name: Han Dynasty
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Szechuan, 
+Snippets:
+
+
+REL: 1
+POI Name: Roma Pizzeria & Italian Restaurant
+POI City: Raleigh
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Pizza, 
+Snippets:
+title: Roma Pizzeria &amp; Italian Restaurant, Raleigh - Restaurant ...
+snippet: Roma Pizzeria &amp; Italian Restaurant, Raleigh: See 8 unbiased reviews of Roma Pizzeria &amp; Italian Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #640 of 1,412 restaurants in Raleigh.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Roma Pizzeria menu - Raleigh NC 27604 - (919) 876-2818
+snippet: Restaurant menu, map for Roma Pizzeria located in 27604, Raleigh NC, 3805 Brentwood Rd.
+title: Roma Pizzeria &amp; Italian Restaurant of Raleigh - Home ...
+snippet: Roma Pizzeria &amp; Italian Restaurant of Raleigh - 3805 Brentwood Rd, Raleigh, North Carolina 27604 - Rated 5 based on 13 Reviews &quot;This jolly fella has been...
+title: Roma Pizzeria &amp; Italian Restaurant - Order Online + Menu ...
+snippet: Order online and read reviews from Roma Pizzeria &amp; Italian Restaurant at 3805 Brentwood Rd in Raleigh 27604-1723 from trusted Raleigh restaurant reviewers. Includes the menu, user reviews, photos, and highest-rated dishes from Roma Pizzeria &amp; Italian Restaurant.
+title: Best Italian Food In Raleigh! - Review of Roma Pizzeria ...
+snippet: Roma Pizzeria &amp; Italian Restaurant: Best Italian Food In Raleigh! - See 8 traveler reviews, 3 candid photos, and great deals for Raleigh, NC, at Tripadvisor.
+title: Home Page [raleighpizzashops.com]
+snippet: ROMA PIZZERIA AND ITALIAN RESTAURANT 3805 BRENTWOOD RD RALEIGH, NC 27604-1723 phone: (919) 876-2818: Vincent&#39;s Pizza of N Y 3911 Capital Blvd Raleigh, NC 27604-3411 phone: (919) 876-6700 Raleigh, NC 27605 : Ledo Pizza and Pasta 1707 Hillsborough St. Raleigh, NC 27605-1640 phone: (919) 865-5336
+title: Roma Pizzeria &amp; Italian Restaurant 3805 Brentwood Rd ...
+snippet: Get directions, reviews and information for Roma Pizzeria &amp; Italian Restaurant in Raleigh, NC. Roma Pizzeria &amp; Italian Restaurant 3805 Brentwood Rd Raleigh NC 27604. 36 Reviews (919) 876-2818 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets
+title: Roma Pizzeria &amp; Italian Restaurant of Raleigh in Raleigh ...
+snippet: About Roma Pizzeria &amp; Italian Restaurant of Raleigh: Established in 1982, Roma Pizzeria &amp; Italian Restaurant of Raleigh is located at 3805 Brentwood Rd in Raleigh, NC - Wake County and is a business listed in the categories Pizza Restaurant, Italian Restaurants, Restaurant Italian and Restaurants.
+title: Roma Pizzeria – Italian Restaurant
+snippet: Italian Restaurant. Italian Style Cuisine. About Us. At Roma Pizzeria in Cutchogue we offer the best Pizza variety as well as the best Italian food in town . Menu Contact Us.
+
+REL: 1
+POI Name: Food Passion NY
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Caterers, Gluten-Free, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Photos for Food Passion NY - Yelp
+snippet: Photos at Food Passion NY - Manhattan, NY. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Food Passion, New York, New York City - Urbanspoon/Zomato
+snippet: Food Passion New York City; Food Passion, New York; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Food Passion Restaurant on Zomato
+title: Food Passion NY Official Logo - Yelp
+snippet: Photo of Food Passion NY - &quot;Food Passion NY Official Logo&quot; - Manhattan, NY. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Food Passion NY; Photos &amp; Videos 13 photos for Food Passion NY. Add photos Browse all ...
+title: Food Passion - New York City - Zomato
+snippet: Food Passion New York Menu - View the Menu for Food Passion New York City on Zomato for Delivery, Dine-out or Takeaway, Food Passion menu and prices. Food Passion Menu
+title: Food Passion | Order Online | New York, NY 10028 | Seafood
+snippet: View Food Passion menu, Order Seafood food Delivery Online from Food Passion, Best Seafood Delivery in New York, NY
+title: Online Menu of Food Passion NY Restaurant, Manhattan, New ...
+snippet: View the online menu of Food Passion NY and other restaurants in Manhattan, New York.
+title: Food Passion Restaurant Coupons - 1200 Lexington Ave ...
+snippet: 45% off Food Passion Restaurant Coupons in Manhattan, NY. Get printable Food Passion Restaurant promo codes and other American restaurant discounts, updated for March 2020.
+title: Cuisine of New York City - Wikipedia
+snippet: The cuisine of New York City comprises many cuisines belonging to various ethnic groups that have entered the United States through the city. Almost all ethnic cuisines are well represented in New York City, both within and outside the various ethnic neighborhoods.
+title: 10 Best Manhattan Restaurants (New York City) - Tripadvisor
+snippet: Manhattan Restaurants - New York City, NY: See 732,380 Tripadvisor traveler reviews of 732,380 restaurants in New York City Manhattan and search by cuisine, price, and more.
+
+REL: 1
+POI Name: Bravado International
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Graphic Design, 
+Snippets:
+title: Bravado International - Flatiron - Manhattan, NY - Yelp
+snippet: 1 review of Bravado International &quot;Bravado is the premier music merchandising company in the world.&quot; Bravado International - Music Venues - 245 5th Ave, Flatiron, Manhattan, NY - Phone Number - Yelp Yelp
+title: Photos for Bravado International - Yelp
+snippet: Photo 1 of 1 for Bravado International - Manhattan, NY
+title: Bravado
+snippet: Bravado lives at the crossroads of music and fashion. We understand the power of smart merchandising, and we know how to create products that spark organic, emotional connections between fans and artists.
+title: Bravado International Group in New York, NY 10016 | Citysearch
+snippet: Manhattan &gt; Marketing Consultants &gt; Bravado International Group. Bravado International Group. 245 5th Ave # 8, New York, NY 10016 Map &amp; Directions
+title: Bravado
+snippet: “Bravado is much more than a collection of testimonials - it also assists in closing deals. So far, I’ve received 12 warm intros and referrals from my current customers to fresh prospects.
+title: Bravado International Group 330 7th Ave, New York, NY ...
+snippet: Get reviews, hours, directions, coupons and more for Bravado International Group. Search for other Marketing Consultants on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Bravado International Group at 330 7th Ave, New York, NY 10001. Search for other Marketing Consultants in New York on The Real Yellow Pages®.
+title: Amazon.com: Bravado International
+snippet: Bravado is the only global, 360 degree full service merchandise company that develops and markets high-quality licensed merchandise to a world-wide audience. The company works closely with new and established entertainment clients, creating innovative products carefully tailored to each artist or brand. Product is sold on live tours, via selected retail outlets and Web-based stores. Bravado ...
+title: Bravado (@bravadousa) • Instagram photos and videos
+snippet: 8,306 Followers, 214 Following, 274 Posts - See Instagram photos and videos from Bravado (@bravadousa)
+title: Manhattan International School - Login
+snippet: SCL - School Communication &amp; Learning Management System. Reset Password × Cancel Continue Continue
+title: Bravado International Group Limited, Narvik | bedrift ...
+snippet: Kontaktinformasjon for Bravado International Group Limited Narvik, telefonnummer, adresse, se informasjonen om firmaer.
+
+REL: 1
+POI Name: Ambrosio Italian Restaurant & Banquet Hall
+POI City: Staten Island
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Ambrosio Italian Restaurant &amp; Banquet Hall | Staten Island
+snippet: When you&#39;re looking for delicious, Italian food and relaxing atmosphere, Ambrosio Italian Restaurant &amp; Banquet Hall has it all. Make a reservation today and enjoy lunch, dinner, and dessert with your friends and family. We serve a variety of menu options such as eggplant rollatini, pollo parmigiana, and even homemade tiramisu.
+title: Ambrosio Italian Restaurant &amp; Banquet Hall Party Packages ...
+snippet: When you&#39;re planning a party, gathering, or any other event, turn to Ambrosio Italian Restaurant &amp; Banquet Hall for all your event hosting needs. Use the link below to inquire about a date and time. Our event assistant will help you through the entire planning process.
+title: Ambrosio Italian Restaurant &amp; Banquet Hall Dinner Menu ...
+snippet: Have a lovely dinner with your friends and family at Ambrosio Italian Restaurant &amp; Banquet Hall. Our food is made from quality ingredients, techniques, and family recipes. Our four-course dinner menu consists of appetizers, soups, salads, steaks, and more. Whether you&#39;re in the mood for fried calamari or tomato and onion salad, turn to our ...
+title: Ambrosio Italian Restaurant &amp; Banquet Hall Photo Gallery ...
+snippet: See photos from Ambrosio Italian Restaurant &amp; Banquet Hall. Great food we have on our banquet hall menu. Call 718-524-7174 today. ... 2071 Clove Road Staten Island, NY 10304. Tel: 718-524-7174. ibfconstruction@yahoo.com. Contact us to make a reservation! Book a Private Party.
+title: Ambrosio Italian Restaurant &amp; Banquet Hall Lunch Menu ...
+snippet: Visit Ambrosio Italian Restaurant &amp; Banquet Hall today and indulge in our savory Italian dishes. We have over 10 years of experience, and we are confident in providing you with excellent food at affordable prices. Our lunch is served from 11:30 AM-2:00 PM daily.
+title: Ambrosio Italian Restaurant &amp; Banquet Hall - Home - Staten ...
+snippet: Ambrosio Italian Restaurant &amp; Banquet Hall - 2071 Clove Road, Staten Island, New York 10304 - Rated 4.5 based on 8 Reviews &quot;Rib eye steak was delicious!...
+title: Reviews | Ambrosio Italian Restaurant &amp; Banquet Hall
+snippet: Read or post a review about Ambrosio Italian Restaurant &amp; Banquet Hall. Read or post a review about Ambrosio Italian Restaurant &amp; Banquet Hall. Make a Reservation. Staten Island, NY. 718-524-7174. Home; ... 2071 Clove Road Staten Island, NY 10304. Tel: 718-524-7174. ibfconstruction@yahoo.com.
+title: Ambrosio Italian Restaurant &amp; Banquet Hall, Staten Island ...
+snippet: Order food online at Ambrosio Italian Restaurant &amp; Banquet Hall, Staten Island with Tripadvisor: See 4 unbiased reviews of Ambrosio Italian Restaurant &amp; Banquet Hall, ranked #246 on Tripadvisor among 949 restaurants in Staten Island.
+title: Ambrosio Italian Restaurant &amp; Banquet Hall Party Holiday ...
+snippet: When you&#39;re planning a party, gathering, or any other event, turn to Ambrosio Italian Restaurant &amp; Banquet Hall for all your party package needs. You can choose from four different types of packages to find the one you&#39;re looking for! Reach out to us today!
+title: Ambrosio Italian Restaurant &amp; Banquet Hall - Order Food ...
+snippet: Specialties: Ambrosio Italian Restaurant &amp; Banquet Hall Provides Italian Cuisine, Four-Course Dinner Menu, Wine, Take Out, Catering and a Banquet Hall, in Staten Island, NY Area Established in 2016. Food is served by Award Winning Italian…
+
+REL: 1
+POI Name: Caridad Express Restaurant
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Caribbean, 
+Snippets:
+title: Caridad Express Restaurant - Caribbean - 554 W 181st St ...
+snippet: 6 reviews of Caridad Express Restaurant &quot;Ok. I should have checked the reviews before going. But hey, we sometimes gamble in desperate situations. I rode the train and the bus with coughing sniffling sickly people, so I knew the first thing I…
+title: fr.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Caridad Express Restaurant Coupons - 554 W 181st St ...
+snippet: 40% off Caridad Express Restaurant Coupons in Manhattan, NY. Get printable Caridad Express Restaurant promo codes and other Caribbean restaurant discounts, updated for March 2020.
+title: Caridad Express Restaurant 554 W 181st St New York, NY ...
+snippet: Get directions, reviews and information for Caridad Express Restaurant in New York, NY. Caridad Express Restaurant 554 W 181st St New York NY 10033. 6 Reviews (212) 927-9729 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Caridad Express Restaurant in NYC reviews, menu ...
+snippet: Small and dirty looking. No one speaks English (or anything other than Spanish) Ate here twice (what a mistake). 1st time: Although I asked repeatedly before ordering, they refrained from mentioning that they only accepted cards with a 15$ minimum (exceptionally high for this part of town).
+title: La Caridad 78 Restaurant, New York City - Upper West Side ...
+snippet: La Caridad 78 Restaurant, New York City: See 97 unbiased reviews of La Caridad 78 Restaurant, rated 4 of 5 on Tripadvisor and ranked #3,346 of 12,750 restaurants in New York City.
+title: Caridad Express - 11 Reviews - Latin American - 710 E ...
+snippet: 11 reviews of Caridad Express &quot;This place is about as middle-of-the-road as it gets when it comes to Dominican steam tray places. The food is pretty good and reasonably priced, but it does not impress by any means. I took pretty big issue with…
+title: Caridad Express Menu, Menu for Caridad Express, Norwood ...
+snippet: Caridad Express Bronx Menu - View the Menu for Caridad Express New York City on Zomato for Delivery, Dine-out or Takeaway, Caridad Express menu and prices. Caridad Express Menu
+title: Caridad Express, Bronx, New York City - Urbanspoon/Zomato
+snippet: Port Morris restaurants, Melrose restaurants, Longwood restaurants, Concourse restaurants Frequent searches leading to this page caridad express menu , caridad express new york city , caridad express bronx 0257 zomato , caridad express mott haven menu , 710 caridad express bronx ny
+title: Caridad Restaurant, New York by - Restaurantanmeldelser ...
+snippet: Caridad Restaurant, New York by: Se 4 objektive anmeldelser av Caridad Restaurant, vurdert til 2,5 av 5 på Tripadvisor og vurdert som nr. 10 460 av 12 753 restauranter i New York by.
+
+REL: 1
+POI Name: Jimmy V's
+POI City: Raleigh
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Home | Jimmy V&#39;s
+snippet: Jimmy V&#39;s Osteria + Bar is located in the heart of Downtown Raleigh, providing ease and convenience for all there is to offer! Our dedicated team will work with you to plan the menu, service, and layout for your ideal event.
+title: Jimmy V&#39;s Osteria + Bar - Downtown Raleigh Restaurant ...
+snippet: Book now at Jimmy V&#39;s Osteria + Bar - Downtown Raleigh in Raleigh, NC. Explore menu, see photos and read 634 reviews: &quot;Terrible. Just terrible. Not worth it.&quot;
+title: Jimmy V&#39;s Osteria + Bar - Home - Raleigh, North Carolina ...
+snippet: Jimmy V&#39;s Osteria + Bar - 420 Fayetteville St, Raleigh, North Carolina 27601 - Rated 4.5 based on 316 Reviews &quot;I know this is blasphemy in Raleigh but my...
+title: News &amp; Events | Jimmy V&#39;s
+snippet: Join us every thursday night for Happy Hour! DEALS. Home
+title: Gallery | Jimmy V&#39;s
+snippet: © 2018 Jimmy V&#39;s Osteria + Bar. Gallery ...
+title: Jimmy V&#39;s - Raleigh, NC - Locu
+snippet: Jimmy V&#39;s, Restaurants business in Raleigh. See up-to-date pricelists and view recent announcements for this location.
+title: Jimmy V&#39;s Osteria + Bar, Raleigh - Menu, Prices ...
+snippet: Order food online at Jimmy V&#39;s Osteria + Bar, Raleigh with Tripadvisor: See 314 unbiased reviews of Jimmy V&#39;s Osteria + Bar, ranked #112 on Tripadvisor among 1,412 restaurants in Raleigh.
+title: Jimmy V&#39;s Steak House &amp; Tavern - best steakhouse in cary
+snippet: Jimmy V&#39;s Easter Menu. Cary&#39;s Best Kept Secret for 23 Years! WE DID IT AGAIN!!!!! Watch Our Newest Video!!! Step into our New York Style Steak House or Enjoy our Fine Dining Patio. We specialize in hearty, traditional fare and courteous, friendly service.
+title: Jimmy V&#39;s | Gallery
+snippet: Gallery
+title: Jimmy V&#39;s Osteria + Bar (@jimmyvsraleigh) • Instagram ...
+snippet: Jimmy V&#39;s Osteria + Bar Italian Restaurant A unique &amp; modern Italian eatery where people gather to enjoy fresh local food &amp; drinks while honoring Jim Valvano&#39;s legacy. ?? #jimmyvsraleigh buff.ly/2Fz6xgv
+
+REL: 1
+POI Name: Hit Your V Spot
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Food Trucks, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: G Spot in Women: What It Is, How to Find It, and Sex Positions
+snippet: However, it’s important to clarify that the G spot isn’t actually a distinct part of your anatomy. In fact, in a 2017 study, researchers attempted to find the G spot only to come up empty-handed.
+title: Manhattan Records The Exclusives JAPANES R&amp;B HITS mixed by ...
+snippet: 2011.08.03 Release Manhattan Records The Exclusives JAPANES R&amp;B HITS mixed by DJ HASEBE Spot!! Manhattan Records The Exclusives JAPANES R&amp;B HITS mixed by DJ HASEBE.
+title: Hit Your V SPOT - Home | Facebook
+snippet: See more of Hit Your V SPOT on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Community See All. 191 people like this. 189 people follow this. About See All.
+title: NYC Food Truck Finder | Hit your V Spot
+snippet: Hit your V Spot Links Website Twitter Foursquare Hit your V Spot Tweets. Sorry we are closed for the season and will return next year ! Tue Dec 13, 2016 09:25 PM
+title: Greatest Hits Of The 60’s Best Of 60s Songs - YouTube
+snippet: Greatest Hits Of The 60’s - Best Of 60s Songs. Greatest Hits Of The 60’s - Best Of 60s Songs. Skip navigation Sign in. Search. ... If You Can Believe Your Eyes And Ears; Writers
+title: See the Snow Squall Hit The Tri-State From Several Spots ...
+snippet: See the Snow Squall Hit The Tri-State From Several Spots NBC New York. Loading ... Mesmerising snow squalls hit Colorado, USA ... How supermarkets tamper with your food (CBC Marketplace ...
+title: NYC Food Guide - 13 Must Hit Places to Eat in ... - YouTube
+snippet: NYC Food Guide - 13 Must Hit Places to Eat in New York City ... So come with me as I show you 13 of my personal favorite places to chow down in ... 14 BEST EATS IN MANHATTAN: NYC FOOD GUIDE ...
+title: What Is the A-Spot? | POPSUGAR Love &amp; Sex
+snippet: You probably know about or at least have heard of the female G-spot, a zone responsible for mind-blowing orgasms when hit. But if you&#39;ve never heard of the A-spot — a lesser known (and therefore ...
+title: Sara Bareilles - Manhattan (Lyric Video) - YouTube
+snippet: 50+ videos Play all Mix - Sara Bareilles - Manhattan (Lyric Video) YouTube Sara Bareilles - Send Me The Moon - Duration: 5:04. ricardo rodrigues 2,491,083 views
+
+REL: 1
+POI Name: Tutto Italiano
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Italian Food Chicago | Chicago | Tutto Italiano Restaurant
+snippet: A comfortable elegant neighborhood establishment, where delicious Italian specialties share the spotlight with our warm inviting atmosphere, Tutto Italiano has a long tradition of good food, good service and good friends.
+title: Tutto Italiano Restaurant, Chicago - Downtown / The Loop ...
+snippet: Order food online at Tutto Italiano Restaurant, Chicago with Tripadvisor: See 79 unbiased reviews of Tutto Italiano Restaurant, ranked #827 on Tripadvisor among 9,567 restaurants in Chicago.
+title: Tutto Italiano Menu, 501 S Wells, Chicago IL 60607
+snippet: Tutto Italiano Lunch, Dinner and Party Menus
+title: Tutto Italiano Restaurant, Chicago - Restaurantanmeldelser ...
+snippet: Tutto Italiano Restaurant, Chicago: Se 79 objektive anmeldelser av Tutto Italiano Restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 827 av 9 568 restauranter i Chicago.
+title: Tutto Italiano Restaurant - Home - Chicago, Illinois ...
+snippet: Tutto Italiano Restaurant, Chicago, IL. 1,686 likes · 57 talking about this · 4,098 were here. Comfortable establishment where Italian specialties share the spotlight with our warm inviting atmosphere!
+title: Tutto Italiano - Printer&#39;s Row - Chicago, IL
+snippet: Tutto Italiano makes the best tiramisu in the city!!! The atmosphere is lovely, the food is delicious, and the price is definitely good/fair! The loop is a bit dead at night, but this restaurant is worth the cab/bus/el trip : - ) Perfect first date atmosphere.
+title: Tutto Italiano Restaurant - Posts - Chicago, Illinois ...
+snippet: Tutto Italiano Restaurant, Chicago, IL. 1,689 likes · 8 talking about this · 4,110 were here. Comfortable establishment where Italian specialties share the spotlight with our warm inviting atmosphere!
+title: Tutto Italiano, Stuart - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Tutto Italiano, Stuart: See 90 unbiased reviews of Tutto Italiano, rated 4 of 5 on Tripadvisor and ranked #60 of 271 restaurants in Stuart. Flights ... Picked up pizza several times from Tutto and pretty much good, but decided to stop by for a meal tonight.
+title: Tutto Italiano - Printer&#39;s Row - Chicago, IL
+snippet: Viva Tutto Italiano! Pretty decent food and a fun location. Kind of weird because when you walk in it seems like a bar but you go in the back and there&#39;s this sort of box-car feel. I enjoyed the food - it was big portions - and it was fairly reasonably priced, but I didn&#39;t think it was outstanding.
+title: Tutto Italiano Ristorante Restaurant - Chicago, IL | OpenTable
+snippet: Tutto&#39;s in an Italian restaurant located in Chicago, Illinois that focuses on serving fast, casual, yet authentic Italian cuisine to its guests. Here, the bright flavors of Italy &amp; the Mediterranean are on full display, with classic cuisine guests are sure to enjoy. Pasta, salads, pizza, sandwiches, and grilled platters, Tutto&#39;s has it all.
+
+REL: 1
+POI Name: Zusik
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Asian Fusion, Wine Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Eataly NYC Flatiron
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Grocery, Cafes, 
+Snippets:
+
+
+REL: 1
+POI Name: Taste of Times Square
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Taste of Times Square | Times Square NYC
+snippet: Taste of Times Square 46th St between Broadway &amp; 9th Ave. Taste of Times Square is Times Square&#39;s annual outdoor food and music festival, featuring tastes from neighborhood restaurants and flavors from around the world as well as music from NYC performers, dancing, and more.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Taste of Times Square Reviews - New York City, New York ...
+snippet: I usually avoid Times Square like the plague. Taste of Times Square is one of the few good reasons to venture into the tourist trap. The food and music festival, held in early June, is when restaurants along Manhattan’s historic Restaurant Row offer small bites on the closed-off streets.
+title: Taste of Times Square Questions - New York City Forum ...
+snippet: Answer 1 of 8: I noticed that the Taste of Times square is taking place while we are in NY City on June 2, 2014. Is this an event that you purchase tickets in advance for or do you walk up and buy food tickets from a ticket booth? What time of day is this event...
+title: Taste of Time Square 2018 - YouTube
+snippet: I spoke with Tim Tompkins of the Time Square Alliance about this years Taste of Time Square. I spoke with Tim Tompkins of the Time Square Alliance about this years Taste of Time Square.
+title: Taste Of Times Square 2018 - New Yorkled Magazine
+snippet: Taste Of Times Square Monday, June 4, 2018 from 5:00 – 9:00 pm 46th St. between Broadway and 9th Avenue (including historic Restaurant Row) We’ve been to this festival more than once in the past and it’s surely not our cup of tea.
+title: Taste of Times Square - New York City Forum - Tripadvisor
+snippet: Answer 1 of 2: I have noticed that &quot;Taste of Times Square&quot; is on when we are there...I also noticed that is only for about 5 hours...How busy does it get and will I be queueing for ever to buy tickets to get the food...In fact is it all queues.? Has...
+title: Photos for Taste of Times Square - Yelp
+snippet: Photos at Taste of Times Square - Manhattan, NY. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Taste of Times Square. Taste of Times Square. 20 reviews Add photos Search photos... 100 photos mention &quot;&quot; Clear. Page 1 of 4 1. 2 3 4
+title: Taste of Times Square - Restaurants - Manhattan - Chowhound
+snippet: Read the Taste of Times Square discussion from the Chowhound Restaurants, Manhattan food community. Join the discussion today.
+title: A Taste of New York - YouTube
+snippet: It took us 10 days, a lot of burgers and one helicopter ride to produce this video. 10 days is very little time to discover this city of endless opportunities, so we hardly slept anything and shot ...
+
+REL: 1
+POI Name: Tinajas Restaurant
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, 
+Snippets:
+title: Tinajas Restaurant - Washington Heights - Manhattan, NY
+snippet: 4 reviews of Tinajas Restaurant &quot;Oxtail for lunch? Hell yes. Plantains? More please. Lunch specials for six dollars buys you option of protein with carbohydrates (oxtail, goat stew, pernil with rice and beans or plantains). The oxtail came in…
+title: Tinajas Restaurant 4073 Broadway Manhattan, NY - MapQuest
+snippet: Get directions, reviews and information for Tinajas Restaurant in Manhattan, NY. Tinajas Restaurant 4073 Broadway Manhattan NY 10032. 4 Reviews (212) 740-1616. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: 10 Best Manhattan Restaurants (New York City) - Tripadvisor
+snippet: Manhattan Restaurants - New York City, NY: See 732,380 Tripadvisor traveler reviews of 732,380 restaurants in New York City Manhattan and search by cuisine, price, and more.
+title: De 10 beste restaurantene i New York by - Tripadvisor
+snippet: Beste restauranter i New York by, New York: Se anmeldelser fra reisende og bilder av spisesteder i New York by, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: 10 Best Italian Restaurants in Manhattan (New York City)
+snippet: Best Italian Restaurants in Manhattan (New York City): See 159,009 Tripadvisor traveler reviews of Italian Restaurants in Manhattan New York City.
+title: De 10 beste restaurantene i Manhattan (New York by)
+snippet: Beste restauranter i Manhattan (New York by), New York: Se anmeldelser fra reisende og bilder av spisesteder i Manhattan (New York by), og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Manhattan Restaurants - OpenTable
+snippet: Find Manhattan restaurants. Read the latest reviews, view restaurant photos, see menus, and make online restaurant reservations in Manhattan.
+title: Tinajas Restaurant &amp; Bar - New York, New York - Peruvian ...
+snippet: Tinajas Restaurant &amp; Bar, New York, New York. 25 likes. Peruvian Restaurant
+title: THE 10 BEST Restaurants &amp; Places to Eat in Manhattan (New ...
+snippet: Best Dining in Manhattan (New York City), New York: See 1,451,924 Tripadvisor traveller reviews of 13,457 New York City restaurants and search by cuisine, price, location, and more.
+title: 21 Best Italian Restaurants in New York - Condé Nast Traveler
+snippet: Our top recommendations for the best Italian restaurants in New York with pictures, review, and details. Find the best in dining based on location, cuisine, price, view, and more.
+
+REL: 0
+POI Name: ThePositiveMedium
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Psychic Mediums, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: ThePositiveMedium New York, NY - MapQuest
+snippet: Get directions, reviews and information for ThePositiveMedium in New York, NY.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: ThePositiveMedium photos - yelp.com
+snippet: Photo of ThePositiveMedium - &quot;When will I get? I help you find the answers to your questions.&quot; - Manhattan, NY
+title: $50 for $100 at ThePositiveMedium - Yelp
+snippet: Yelp is a fun and easy way to find, recommend and talk about what&#39;s great - and not so great - in San Francisco and beyond. Members share their favorite recommendations - everything from the latest restaurants and shops, to the best hair salons…
+title: ThePositiveMedium Gift Cards and Gift Certificates ...
+snippet: Buy a gift card to ThePositiveMedium. Send it online to anyone, instantly. ThePositiveMedium - Manhattan, NY 10028 - Manhattan, NY
+title: ThePositiveMedium Gift Card - Manhattan, NY | Giftly
+snippet: Buy a ThePositiveMedium gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for ThePositiveMedium, Manhattan, NY.
+title: Art Gift Cards &amp; Certificates in Central Valley, NY ...
+snippet: The GiftRocket Prepaid Gift is redeemable online for money. You suggest where the recipient spends the money. It demonstrates your thoughtfulness, like choosing the business for a gift card, yet allows the recipient to spend the money wherever they choose.
+title: Art Gift Cards &amp; Certificates in Bear Mountain, NY ...
+snippet: The GiftRocket Prepaid Gift is redeemable online for money. You suggest where the recipient spends the money. It demonstrates your thoughtfulness, like choosing the business for a gift card, yet allows the recipient to spend the money wherever they choose.
+title: Niantic Activity Gift Cards (Page 4 of 4) - Connecticut ...
+snippet: Buy a gift card to any Activity in Niantic, CT. Send by email or mail, or print at home. Deliver in a personalized greeting card. The perfect last minute gift. 100% satisfaction guaranteed. Buy Niantic, CT Activity gift cards online. (Page 4 of 4)
+
+REL: 0
+POI Name: Freud's Last session
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: Freud’s Last session - Hell&#39;s Kitchen - Manhattan, NY
+snippet: 6 reviews of Freud&#39;s Last session &quot;As an atheist who has read the work of Hitchens and Dawkins and have seen them debate, I am familiar with the arguments for and against god. That being said, I have heard many of the arguments addressed in this…
+title: Freud&#39;s Last Session - Video selections - YouTube
+snippet: FREUD&#39;S LAST SESSION By Mark St. Germain Directed by Tyler Marchant Now playing at the Marjorie S. Deane Little Theater, starring Mark H. Dold as C. S. Lewis &amp; Martin Rayner as Sigmund Freud.
+title: Freud&#39;s Last Session - YouTube
+snippet: Arden Theatre Company presents FREUD&#39;S LAST SESSION By Mark St. Germain Directed by Ian Merrill Peakes Featuring David Howey as Sigmund Freud and Todd Scofie...
+title: Freud&#39;s Last Session | in New York - Time Out New York
+snippet: The setup for Freud’s Last Session—an imaginary meeting between the granddaddy of psychoanalysis and budding fantasy writer C.S. Lewis in which they argue about the existence of God—is a bit ...
+title: ‘Freud’s Last Session’ Prepares to Move Closer to Broadway ...
+snippet: Since July 2010 the Off Broadway drama “Freud’s Last Session” has had a relatively long and financially promising run on the Upper West Side of Manhattan.
+title: Freud&#39;s Last session 340 W 50th St Manhattan, NY ...
+snippet: Get directions, reviews and information for Freud&#39;s Last session in Manhattan, NY. Freud&#39;s Last session 340 W 50th St Manhattan NY 10019. 6 Reviews (212) 239-6200 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Time Is Up for &#39;Freud&#39;s Last Session&#39; - The New York Times
+snippet: Unlike most Off Broadway straight plays that run for only a few weeks, “Freud’s Last Session”developed such positive word of mouth among audience members that the play transferred last October from its 145-seat auditorium on the Upper West Side to a 199-seat house at New World Stages, a complex in Manhattan’s theater district.
+title: Play. Freud&#39;s last session - New York City Forum - Tripadvisor
+snippet: Answer 1 of 2: Did anyone see Freud&#39;s Last Session before it closed. What are your Thoughts?
+title: Freuds Last Session | FAQs
+snippet: What is “Freud’s Last Session” play about? It’s about Dr. Sigmund Freud and C.S Lewis clash and debate about God’s existence, life, love, and other things. The two talked about those issues before Freud’s death a few weeks after. How can I buy tickets for your plays and where can I find them?
+title: Freuds Last Session
+snippet: Berries Plums, strawberries, blackberries and blueberries contain many antioxidants that make our skin look young and healthy. Green tea Green tea helps keep bacteria at bay and fights against premature skin aging. salmon This fish is full of Omega-3 and Omega-6, which are a must for beautiful, well-hydrated skin.
+
+REL: 0
+POI Name: Fantasy Cuisine
+POI City: Hartsdale
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Dim Sum, Szechuan, 
+Snippets:
+
+
+REL: 0
+POI Name: Readings By Faith
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Supernatural Readings, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Readings By Faith - Midtown East - Manhattan, NY
+snippet: 22 reviews of Readings By Faith &quot;I had a great reading by Faith this past weekend. Believe the reviews that mention she is warm and friendly - she absolutely is! I called on Sunday morning and made an appointment for later that afternoon - it was…
+title: Readings By Faith 213 E 45th St Manhattan, NY Psychic ...
+snippet: Get directions, reviews and information for Readings By Faith in Manhattan, NY. Readings By Faith 213 E 45th St Manhattan NY 10017. 22 Reviews (917) 436-9131 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Readings By Faith Gift Cards and Gift Certificates ...
+snippet: Buy a gift card to Readings By Faith. Send it online to anyone, instantly. Readings By Faith - 213 E 45th St - Manhattan, NY
+title: Ripoff Report &gt; Readings by Faith (the Review - Manhattan ...
+snippet: Ripoff Report on: Readings by Faith (the fake) 2124701260 - Readings faith the fake unless you want to pay money for a curse go ahead manhattan new york
+title: New York City Psychic Readings - My Psychic Readings
+snippet: Readings By Faith 213 E 45th St Manhattan , NY 10017 (917) 436-9131. Certified Psychic Medium – Emily Stroia 214 W 29th St Manhattan , NY 10001 (917) 684-4183. Psychic Readings NY 220 Bleecker St Manhattan , NY 10014 (917) 388-9611. Choices Book &amp; Gift Store 220 E 78th St New York , NY 10075
+title: Faith - Manhattan
+snippet: Faith is an Evangelical Free Church located in Manhattan Kansas. One of our core desires is to Experience God in all of life.
+title: Readings by Faith in New York | Readings by Faith 213 E ...
+snippet: Find Readings by Faith in New York with Address, Phone number from Yahoo US Local. Includes Readings by Faith Reviews, maps &amp; directions to Readings by Faith in New York and more from Yahoo US Local. Find Readings by Faith in New York with Address, Phone number from Yahoo US Local.
+title: 60+ Bible Verses for Faith When Life Gets Hard - Quotes ...
+snippet: Bible Quotes about Faith - It is so easy to face new failures and fears and to lose faith in God&#39;s plan for your life. We begin to question if God is real and if He cares about us. I want to encourage you with the truth that our Creator and Sustainer is working in and through you while you go through struggles!
+title: psychic readings by faith calgary | Free Psychic Readings ...
+snippet: psychic readings by faith calgary. Tag: psychic readings by ... flint mi psychic readings free online chat rooms psychic readings great yarmouth psychic readings knoxville tn psychic readings manhattan new york psychic readings naples florida psychic readings near me reviews psychic readings near me yelp psychic readings philadelphia pa psychic ...
+
+REL: 0
+POI Name: El Tina Bar
+POI City: Manhattan
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Sports Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Photos for El Tina Bar - Yelp
+snippet: Photos at El Tina Bar - Manhattan, NY. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: El Tina Bar Gift Cards and Gift Certificates - Manhattan ...
+snippet: Buy a gift card to El Tina Bar. Send it online to anyone, instantly. El Tina Bar - 500 W 207th St - Manhattan, NY
+title: El Tina Fish Market 500 W 207th St New York, NY Dance ...
+snippet: Get directions, reviews and information for El Tina Fish Market in New York, NY. El Tina Fish Market 500 W 207th St New York NY 10034. 52 Reviews (212) 569-8838 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Yovanny Polanco @ El Tina Lounge, Manhattan, NY (Nov. 21 ...
+snippet: Yovanny Polanco @ El Tina Lounge, Manhattan, NY (Nov. 21) Royer Santos Media. ... Yovanny Polanco 4K en vivo desde Euro El Tina Bar ... Jicome by la selección tipiaca En el tina lounge ...
+title: El Tina Bar - Reviews - Manhattan, NY - Locality
+snippet: El Tina Bar. About; Reviews; Reviews; Like. Save. About. Edit. Edit info (212) 304-9810 500 W 207th St. Manhattan NY 10034 Reviews. View all reviews on Yelp. 500 W 207th St. Manhattan NY 10034 Edit. ADDRESS. 500 W 207th St. Manhattan NY 10034 PHONE (212) 304-9810. Do you work here? Update this business and complete it&#39;s profile. EDIT BUSINESS INFO.
+title: Tina Lounge - Home | Facebook
+snippet: Tina Lounge. 8.8K likes. Somos una discoteca en uptown Manhattan que de Viernes a Domingo presenta aritistas de la Republica Dominicana en vivo. Ofrecemos servicios de botellas, tragos y cervezas,...
+title: Tina Lounge l Amazing Nights (@tinalounge) • Instagram ...
+snippet: 19.5k Followers, 238 Following, 6,892 Posts - See Instagram photos and videos from Tina Lounge l Amazing Nights (@tinalounge)
+title: URBANDA: El tina lounge (Manhattan NY) - YouTube
+snippet: Siguenos en las redes sociales @chicomambo01 Visita nuestra pagina chicomambopromotions.com
+
+REL: 0
+POI Name: Ugly Kitchen
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Asian Fusion, Filipino, 
+Snippets:
+
+
+REL: 0
+POI Name: Voca People at New World Stages
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: Voca People at New World Stages - Performing Arts - 340 ...
+snippet: 7 reviews of Voca People at New World Stages &quot;It was tough picking a performance I could take my newly-arrived exchange student to in August - her English was good but humor didn&#39;t translate well at this point and she was exhausted by having to…
+title: New World Stages 340 W 50th St Manhattan, NY Performing ...
+snippet: Get directions, reviews and information for New World Stages in Manhattan, NY. New World Stages 340 W 50th St Manhattan NY 10019. 237 Reviews (212) 239-6200 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: New World Stages / Stage 2 340 W 50th St New York, NY ...
+snippet: Get directions, reviews and information for New World Stages / Stage 2 in New York, NY. New World Stages / Stage 2 340 W 50th St New York NY 10019. Reviews. Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Photos for Voca People at New World Stages - Yelp
+snippet: Photo 1 of 2 for Voca People at New World Stages - Manhattan, NY
+title: Best Ways to Get From VOCA PEOPLE at New World Stages to ...
+snippet: 26 minutes — Compare public transit, taxi, biking, walking, driving, and ridesharing. Find the cheapest and quickest ways to get from VOCA PEOPLE at New World Stages to Bronx Alehouse.
+title: igokids | Voca People at New World Stages - New York City ...
+snippet: New World Stages Neighborhood: Midtown West / Theater District 340 W 50th St (Btwn 8th Ave &amp; 9th Ave) New York, NY 10019 (646) 871-1730. Description: Performed by eight snow-white, ruby-lipped aliens with perfect harmony, there are no musical instruments, only vocals in this show. ... Please click on a star rating for Voca People.
+title: New World Stages - Wikipedia
+snippet: New World Stages houses five theaters. Stages 1 and 3 have a maximum of 499 seats each, Stages 2 and 4 have a maximum of 350 seats each, and Stage 5 has a maximum of 199 seats. These capacities, greater than 100, fewer than 500, define New World Stages as an Off-Broadway complex.
+title: The Voca People NYC - New York
+snippet: Summary. Features: The Voca People NYC are a group of amazingly talented alien singers who have crash-landed in New York City&#39;s New World Stages.Capable of emulating any sound, from windshield wipers to drums to rocking chairs, these cute and bubbly performers will dazzle you with their repertoire of hit songs.
+title: Tickets to Voca People at New World Stages / Stage 2 on ...
+snippet: See Voca People on Broadway, New York. The amazing musical Voca People in New York. Buy tickets to Voca People on Broadway here! This innovative, high-energy, heart-pumping musical sensation is now playing on Broadway. You will be amazed by the music, the sound and the moves. Experience a wonderful acapella world with Voca People as they ...
+
+Cand cities: {'New York', 'Raleigh', 'Hartsdale', 'Chicago', 'Manhattan', 'Staten Island'}

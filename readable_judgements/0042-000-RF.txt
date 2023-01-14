@@ -1,0 +1,1088 @@
+City: Dandenong
+Country: AU
+Main category: Restaurants and Food
+Sub category: Vegetarian
+Description: I have searched a bit on google, but wanting to treat my sister to a really nice lunch or dinner before she moves interstate. Any recommendations for the Dandenong and surrounding areas? I’m vegetarian, partner is “flexitarian” and sister is generally not fussy and will eat anything, so long as the place is clean. The price doesn’t bother us much, so long as the venue is worth it - stuffy, uptight, fine dining is generally a pass from us. Thanks in advance for any and all suggestions and have a safe and happy New Year!
+Rated POIs: 46
+Rel distr: [(0, 8), (1, 13), (2, 20), (3, 5)]
+=================================
+REL: 3
+POI Name: Lakshmi Vilas Vegetarian
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, Indian, 
+Snippets:
+title: Lakshmi Vilas - Indian Restaurant - Lakshmi Vilas Lakshmi ...
+snippet: Thalis are a wholesome meal served with rotis, vegetarian curries, dahl and desert. We are now working on introducing our fusion menu, which will be a combination of different cuisines. If you want freshness, originality and taste then Lakshmi Vilas is the place. the Lakshmi Vilas team
+title: Lakshmi Vilas Vegetarian Cafe - Home - Dandenong, Victoria ...
+snippet: Lakshmi Vilas Vegetarian Cafe - Shop 5, 31 Pulteney Street, Dandenong, Victoria 3175 - Rated 4.5 based on 39 Reviews &quot;We have been back to Lakshmi vilas...
+title: LAKSHMI VILAS, Dandenong - Menu, Prices &amp; Restaurant ...
+snippet: Lakshmi Vilas, Dandenong: See 36 unbiased reviews of Lakshmi Vilas, rated 4.5 of 5 on Tripadvisor and ranked #16 of 268 restaurants in Dandenong.
+title: Lakshmi Vilas Vegetarian - Dandenong Victoria, Australia
+snippet: 5 reviews of Lakshmi Vilas Vegetarian &quot;Very tasty South Indian food cooked by chef. All ladies working in kitchen and front house. They cook real South Indian food and sell at budget price. Sure recommend them.&quot;
+title: Honest and awesome Indian vegetarian... - Lakshmi Vilas
+snippet: Lakshmi Vilas: Honest and awesome Indian vegetarian food - See 36 traveler reviews, 6 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Lakshmi Vilas Vegetarian Cafe - Posts - Dandenong ...
+snippet: Lakshmi Vilas Vegetarian Cafe - Shop 5, 31 Pulteney Street, Dandenong, Victoria 3175 - Rated 4.4 based on 42 Reviews &quot;We have been back to Lakshmi vilas...
+title: Lakshmi Vilas Vegetarian Cafe - Home - Dandenong, Victoria ...
+snippet: Lakshmi Vilas Vegetarian Cafe - Shop 5, 31 Pulteney Street, Dandenong, Victoria 3175 - Rated 4.5 based on 39 Reviews &quot;We have been back to Lakshmi vilas...
+title: Good, cheap, vegetarian Indian food. - Lakshmi Vilas
+snippet: Lakshmi Vilas: Good, cheap, vegetarian Indian food. - See 36 traveler reviews, 6 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Purely vegetarian - Review of Lakshmi Vilas, Dandenong ...
+snippet: Lakshmi Vilas: Purely vegetarian - See 36 traveler reviews, 6 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Lakshmi Vilas Vegetarian | Pultney Street, Dandenong, VIC ...
+snippet: Connect with Lakshmi Vilas Vegetarian at Pultney Street, Dandenong, VIC. Find business, government and residential phone numbers, addresses &amp; more on the White Pages®
+
+REL: 3
+POI Name: Luppino Fresh
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Fruits & Veggies, 
+Snippets:
+title: Luppino Fresh
+snippet: Established by Danny Luppino in 1962, Luppino Fresh has evolved from a small family run fruit and vegetable stall, into one of the leading suppliers of fresh fruit and vegetables in Dandenong, Melbourne.
+title: CONTACT - Luppino Fresh
+snippet: Established by Danny Luppino in 1962, Luppino Fresh has evolved from a small family run fruit and vegetable stall, into one of the leading suppliers of fresh fruit and vegetables in Dandenong, Melbourne.
+title: WHOLESALE - Luppino Fresh
+snippet: Wholesale The wholesale branch at Luppino Fresh has been steadily growing to become one of the leading wholesale fruit and vegetable services in the Dandenong area of Melbourne. With our exceptional service and unbeatable prices, we deliver our fresh produce direct to the doors of local businesses across the Dandenong area of Melbourne.
+title: RETAIL - luppinofresh.com.au
+snippet: Retail Selling fresh fruit and vegetables in Melbourne since 1962, the Luppino Fresh stall at the Dandenong markets has become an institution in the area. Local families have come to rely on our commitment to freshness, knowing that at Luppino Fresh they will only get the very best produce, all within a family budget.
+title: ABOUT - Luppino Fresh
+snippet: About Established by Danny Luppino in 1962, Luppino Fresh has evolved from a small family run fruit and vegetable stall, into one of the leading suppliers of fresh fruit and vegetables in Dandenong, Melbourne.
+title: Luppino Fresh - Fruits &amp; Veggies - Cleeland St, Dandenong ...
+snippet: 1 review of Luppino Fresh &quot;Luppino Fresh is Dandenong Markets best fruit and vegetable stand. Outstanding quality is backed up by excellent customer service at this large market stall. For ease of finding in the market, it is situated directly…
+title: Dandenong Market — Mr Fresh
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: Dandenong Market — All Cigarette &amp; Tobacco Supplies
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: Dandenong Market — Sophea Dandy Watches &amp; Toys
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: Dandenong Market — Daily Casual Clothing
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+
+REL: 3
+POI Name: Dandenong Market
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: Dandenong Market — Home
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: Dandenong Market — Visit
+snippet: Dandenong Market is located in the heart of Dandenong, 40 minutes from Melbourne CBD. From the CBD, take Citylink/M1 (includes tolls), and then exit by turning right at Stud Road.Continue along Stud Road for 3 kilometres, then turn right onto King Street.
+title: Dandenong Market - City of Greater Dandenong
+snippet: Dandenong Market Master Plan. The draft Master Plan for the former Dandenong Civic Precinct, including the Dandenong Market, was endorsed by Council in late 2007. Council has commenced a review of the master plan and will prepare a new Market Precinct Urban Design Framework in the future.
+title: Dandenong Market — Contact
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: Dandenong Market — COVID-19 update
+snippet: Dandenong Market and City of Greater Dandenong provide rent relief for traders. As are result of the COVID-19 situation and the challenges it brings, Dandenong Market and the City of Greater Dandenong announces that it will support Market traders with 100% rent relief for an initial period of three months from tomorrow (Wednesday 1 April 2020).
+title: Dandenong Market: UPDATED 2020 All You Need to Know Before ...
+snippet: Dandenong Market, Dandenong: See 223 reviews, articles, and 150 photos of Dandenong Market, ranked No.1 on Tripadvisor among 28 attractions in Dandenong.
+title: Dandenong Market - Home | Facebook
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: Dandenong Market - 2020 All You Need to Know BEFORE You Go ...
+snippet: Hotels near Dandenong Market: (0.38 mi) Quest Dandenong Central (0.58 mi) Quest Dandenong (0.45 mi) Punthill Dandenong (0.25 mi) Ramada Encore by Wyndham Dandenong (0.27 mi) City Edge Dandenong Apartment Hotel; View all hotels near Dandenong Market on Tripadvisor
+title: Dandenong Market (Australia) - Anmeldelser - Tripadvisor
+snippet: Dandenong Market, Dandenong: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Dandenong Market i Dandenong, Australia på Tripadvisor.
+title: Dandenong Market - Wikipedia
+snippet: Dandenong Market is a major-regional market located in the heart of Dandenong, Victoria in the South East of Melbourne, at the corner of Clow and Cleeland Streets. Dandenong Market is one of Melbourne&#39;s oldest markets, established in 1866, and is one of Australia&#39;s largest, with over 200 market traders spread over 8000 square metres and attracting over 5 million visitors a year.
+
+REL: 3
+POI Name: Cafe Villa
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Cafe Villa, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Cafe villa .best in dandenong. I was in Dandenong for the day for work and got here earlier then expected so I decided to go somewhere for breakfast. I googled cafe in Dandenong and this was first to come up and had great reviews so I decided to give it a go. I was not disappointed..
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Cafe Villa - Sandwich Shop | Restaurant | Bar | Dandenong
+snippet: Cafe Villa is a renowned coffee shop in Dandenong that offers the most trustworthy breakfast and lunch restaurants for satisfying the customers’ needs. They provide a wide range of delicious dishes accompanied with a relaxing atmosphere and friendly customer service.
+title: Volume Cafe Menu, Menu for Volume Cafe, Dandenong ...
+snippet: Volume Cafe Dandenong Menu - View the Menu for Volume Cafe Melbourne on Zomato for Delivery, Dine-out or Takeaway, Volume Cafe menu and prices. Volume Cafe Menu. Serves Cafe. Cost A$40 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne. Please type a location... All of Melbourne.
+title: Cafe Villa, Dandenong, Melbourne - 3 reviews - Beanhunter
+snippet: Cafe Villa Melbourne; Cafe Villa Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Cafe Villa cafe on Beanhunter
+title: Home - Cafe Villa
+snippet: Cafe Villa is your local neighborhood pizzeria. Family owned and operated, we opened our doors over 25 years ago and have been serving the community of Chatham and its neighboring towns since. Commitment to serving quality food and a warm inviting atmosphere is what has made us a staple local Italian family restaurant in Chatham.
+title: Cafe Villa | Cafe Ngaio Wellington, Wellington Cafe In ...
+snippet: Café Villa is a licensed cafe located at Ottawa Road, Ngaio, near Khandallah, Wellington. The cafe serves traditional, classic cafe style food with fresh coffee or a glass of wine. Café Villa is open for breakfast, brunch and lunch.
+title: Village Laine - Village Laine
+snippet: Warm and welcoming, we aim to inspire creativity! Curated yarns, with a focus on Canadian-made. Bricks-and-Mortar Store: 109 Old Kingston Rd. #4 Ajax, Ontario Canada L1T 3A6
+title: THE 15 BEST Things to Do in Dandenong - 2020 (with Photos ...
+snippet: Book your tickets online for the top things to do in Dandenong, Australia on Tripadvisor: See 852 traveler reviews and photos of Dandenong tourist attractions. Find what to do today, this weekend, or in April. We have reviews of the best places to see in Dandenong. Visit top-rated &amp; must-see attractions.
+title: BELETTI RESTAURANT CAFE BAR, Dandenong - Updated 2020 ...
+snippet: Reserve a table at Beletti Restaurant Cafe Bar, Dandenong on Tripadvisor: See 159 unbiased reviews of Beletti Restaurant Cafe Bar, rated 4 of 5 on Tripadvisor and ranked #4 of 268 restaurants in Dandenong.
+
+REL: 3
+POI Name: Calcutta Sweets & Indian Take Away
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: Calcutta Sweets, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Calcutta Sweets Melbourne; Calcutta Sweets, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Calcutta Sweets Restaurant on Zomato. Serves Desserts, Indian. Cost A$30 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne. ... Calcutta Sweets, Dandenong Menu
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Calcutta Sweets &amp; Indian Take Away - Restaurants - 52E ...
+snippet: Calcutta Sweets &amp; Indian Take Away Restaurants - Dandenong, Victoria, 3175, Business Owners - Is Calcutta Sweets &amp; Indian Take Away in Dandenong, VIC your business? Attract more customers by adding more content such as opening hours, logo and more - Yellow Pages® directory
+title: Calcutta Sweets &amp; Indian Take Away Dandenong, Melbourne
+snippet: Calcutta Sweets &amp; Indian Take Away Dandenong, Melbourne. Calcutta Sweets &amp; Indian Take Away is an Indian Restaurant Located in Dandenong Suburb in City of Greater Dandenong in South-Eastern, Melbourne Specialising in Authentic Indian Food.
+title: Calcutta Sweets &amp; Indian Take Away in Dandenong, 52 E ...
+snippet: Description. Calcutta Sweets &amp; Indian Take Away can be found at 52 E Foster St . The following is offered: Restaurants - In Dandenong there are 20 other Restaurants.
+title: Punjab Sweet Centre, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Punjab Sweet Centre Melbourne; Punjab Sweet Centre, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Punjab Sweet Centre Restaurant on Zomato. Serves Indian. Cost A$35 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne.
+title: Punjab Sweet Centre Menu, Menu for Punjab Sweet Centre ...
+snippet: Punjab Sweet Centre Dandenong Menu - View the Menu for Punjab Sweet Centre Melbourne on Zomato for Delivery, Dine-out or Takeaway, Punjab Sweet Centre menu and prices. Punjab Sweet Centre Menu
+title: Calcutta Sweets &amp; Indian Take Away: Dandenong Restaurants ...
+snippet: Read about Calcutta Sweets &amp; Indian Take Away Dandenong in Restaurants - General VIC at StartLocal®
+title: Punjab Sweet Centre Photos, Pictures of Punjab Sweet ...
+snippet: Photos of Punjab Sweet Centre, Dandenong, Melbourne. Punjab Sweet Centre Pictures, Punjab Sweet Centre Photos. Serves Indian. Cost A$35 for two people (approx.) Products for Businesses We&#39;re hiring. ... Take-Away. Pubs &amp; Bars. Asian. Desserts &amp; Bakes. Fine Dining. Italian. Search . Log in Create an account.
+title: Calcutta Sweets Photos, Pictures of Calcutta Sweets ...
+snippet: Photos of Calcutta Sweets, Dandenong, Melbourne. Calcutta Sweets Pictures, Calcutta Sweets Photos. ... Take-Away. Pubs &amp; Bars. Asian. Desserts &amp; Bakes. Fine Dining. Italian. Search . Log in Create an account. ... (Opens at 10AM ) · Desserts, Indian · Costs A$30 for two . Overview Menu Reviews ...
+
+REL: 2
+POI Name: The Laughing Owl
+POI City: Belgrave
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Vegan, Vegetarian, 
+Snippets:
+
+
+REL: 2
+POI Name: Maiwand Bakery
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Maiwand Bakery, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Maiwand Bakery Melbourne; Maiwand Bakery, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Maiwand Bakery Restaurant on Zomato. Serves Bakery, Afghani. Cost A$15 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne. ... Maiwand Bakery, Dandenong Menu
+title: Maiwand Bakery Reviews, User Reviews for Maiwand Bakery ...
+snippet: User Reviews for Maiwand Bakery, Dandenong, Melbourne; Maiwand Bakery Reviews; Maiwand Bakery, Melbourne restaurant reviews on Zomato It is an icon with title Location Fill. It is an icon with title Down Triangle It is an icon with title Current Location. Detect current ...
+title: Maiwand Bakery - Dandenong, Victoria - Bakery | Facebook
+snippet: Dandenong - Afghani style bakery (5 stars for me) Never miss this Afghani style bakery. If you miss, that is your lose. Unfortunately the pictures not able to show my feeling. No English, No Chinese, No beautiful decoration, But great bread...
+title: Maiwand Bakery - 7 Scott Street, Dandenong | Reviews ...
+snippet: Maiwand Bakery Establishment, food and bakery at 7 Scott Street, Dandenong, VIC 3175, Australia. Here you will find detailed information about Maiwand Bakery : address, phone, fax, opening hours, customer reviews, photos, directions and more.
+title: Maiwand Bakery Menu, Menu for Maiwand Bakery, Dandenong ...
+snippet: Maiwand Bakery Dandenong Menu - View the Menu for Maiwand Bakery Melbourne on Zomato for Delivery, Dine-out or Takeaway, Maiwand Bakery menu and prices. Maiwand Bakery Menu
+title: Maiwand Bakery in Dandenong - Restaurant menu and reviews
+snippet: All info on Maiwand Bakery in Dandenong - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Maiwand Bakery Photos, Pictures of Maiwand Bakery ...
+snippet: Photos of Maiwand Bakery, Dandenong, Melbourne. Maiwand Bakery Pictures, Maiwand Bakery Photos. Serves Bakery, Afghani. Cost A$15 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne.
+title: Bakeries in Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Bakeries in Dandenong, Melbourne. Menus, Photos, Ratings and Reviews for Bakeries in Dandenong - Bakeries Zomato is the best way to discover great places to eat in your city.
+title: Maiwand Supermarket - Bakery and Supermarket - Dandenong ...
+snippet: Maiwand Supermarket in Bakery and Supermarket on YekBook
+title: Dandenong TV - Home | Facebook
+snippet: Our host Neb sat down recently with the principal of Nazareth College Mr Sam Cosentino to discuss all things relating to the College. Located on Manning Drive, Noble Park North the College is a hidden gem and provides outstanding facilities to its students allowing them to excel in every way.
+
+REL: 2
+POI Name: Rye Crust Bakery
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Polish Rye Crust Bakery, Dandenong, Melbourne - Zomato
+snippet: Polish Rye Crust Bakery Melbourne; Polish Rye Crust Bakery, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Polish Rye Crust Bakery Restaurant on Zomato It is an icon with title Location Fill. It is an icon with title Down Triangle. It is an ... Related to Polish Rye Crust Bakery, Dandenong.
+title: Rye Crust Bakery | Authentic Sourdough Bread Melbourne
+snippet: Authentic European sourdough bread that is highly nutritious, 100% preservative free and delicious, handcrafted from recipes passed down for generations .
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Polish Rye Crust Bakery in Dandenong, Melbourne, VIC ...
+snippet: Polish Rye Crust Bakery is a multi-award winning family owned and operated bakery. Polish Rye Crust Bakery makes the finest cakes, biscuits, pies, sweets, sandwiches, soups, salads, bagels, pretzels, baguettes, croissants, French bread pizzas, cabbage rolls, pierogi, bigos, dumplings and the best polish bread in Australia.
+title: Rye Crust Bakery - Dandenong, Victoria - Bakery, Polish ...
+snippet: Rye Crust Bakery, Dandenong, Victoria. 51 likes · 42 were here. Bakery
+title: POLISH RYE CRUST BAKERY, Dandenong - Restaurant Reviews ...
+snippet: Polish Rye Crust Bakery, Dandenong: See 8 unbiased reviews of Polish Rye Crust Bakery, rated 4.5 of 5 on Tripadvisor and ranked #52 of 268 restaurants in Dandenong.
+title: Rye Crust Bakery in Dandenong - Restaurant menu and reviews
+snippet: All info on Rye Crust Bakery in Dandenong - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Polish Rye Crust Bakery Dandenong Review 2011 | Good Food
+snippet: Clearly, Rye Crust Bakery is outstanding value. Run by Hanna and Andrew Lipiszko, theirs is a cute story. They met when they were both 13, living in Germany and going to the same school.
+title: Polish Rye Crust Bakery, Dandenong - Menus, Phone, Reviews ...
+snippet: Polish Rye Crust Bakery in Dandenong, Melbourne VIC. Cafe cuisine. Get menu, reviews, phone, maps for Polish Rye Crust Bakery from AGFG.
+title: Polish Rye Crust Bakery Reviews, User Reviews for Polish ...
+snippet: Was full and satisfied after. What a cute little authentic Polish bakery, and in Dandenong of all suburbs! Polish Rye Crust Bakery offers traditional homemade Polish fare at such a reasonable price, and affords eat in breakfast and lunch options, sweets and savouries, deli cuts, bread loaves, and decent coffee. What can&#39;t they do?!
+
+REL: 2
+POI Name: Justice Specialty Coffee
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Breakfast & Brunch, 
+Snippets:
+title: Best Cafe | Dandenong | Justice Specialty Coffee
+snippet: We are a specialty coffee cafe in Dandenong showcasing a wide range of Melbourne&#39;s finest coffee, cold drinks, homemade beautiful breakfast, lunch and brunch options. We also give back to community through donating 100% of our retail profits to featured charities.
+title: Menu | Justice Coffee
+snippet: ORDER DELIVERY. &quot;Best Coffee in Dandenong&quot; ~ 5* Google Reviews © Justice Specialty Coffee 2020
+title: JusticeCoffee - Home | Facebook
+snippet: JusticeCoffee, Dandenong, Victoria. 190 likes. Justice Specialty Coffee is passionate about showcasing Melbourne&#39;s finest specialty coffee alongside our beautiful homemade food. &quot;Find your Oasis&quot;
+title: Location | Best Cafe | Dandenong | Justice Specialty Coffee
+snippet: Enter on Clow St. (Search in Maps: 1 Clow St. Dandenong) &quot;Best Coffee in Dandenong&quot; ~ 5* Google Reviews © Justice Specialty Coffee 2018
+title: Justice Specialty Coffee - Dandenong Victoria, Australia
+snippet: 1 review of Justice Specialty Coffee &quot;FIVE STARS! Definitely hands down the best place for coffee in Dandenong! Artisanal coffee was amazing - also tried their cheesy egg wraps - which was really tasty and affordably priced. Great vibes and super…
+title: Reviews | Justice Coffee
+snippet: &quot;How fortunate when the best coffee in Dandenong is located right across the road from your workplace! Friendly staff and excellent coffee (go get your soy latte on) - the perfect place to get your caffeine fix of a morning. Delicious homemade food on offer too!&quot; &quot;Nice, warm decor, friendly staff and good coffee/food.
+title: Gallery | Justice Coffee
+snippet: Log In. &quot;Best Coffee in Dandenong&quot; ~ 5* Google Reviews © Justice Specialty Coffee 2020
+title: Justice Specialty Coffee - Cafes - 50-54 Robinson St ...
+snippet: Justice Specialty Coffee Cafes - Dandenong, Victoria, 3175, Business Owners - Is Justice Specialty Coffee in Dandenong, VIC your business? Attract more customers by adding more content such as opening hours, logo and more - Yellow Pages® directory
+title: DiningHour - Justice Specialty Coffee
+snippet: DiningHour is the world’s first Real-Time Yield Management System (YMS) for restaurants. DiningHour YMS allows restaurants to offer promotions in real-time on an everyday basis to give more guests the opportunity to dine with premium restaurants at affordable prices.
+title: JusticeCoffee - Reviews | Facebook
+snippet: JusticeCoffee, Dandenong, Victoria. 192 likes. Justice Specialty Coffee is passionate about showcasing Melbourne&#39;s finest specialty coffee alongside our beautiful homemade food. &quot;Find your Oasis&quot;
+
+REL: 2
+POI Name: Nesh's Corner Deli
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: International Grocery, 
+Snippets:
+title: Dandenong Market — Nesh’s Corner Deli
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Nesh&#39;s Corner Deli - Deli - Dandenong, Victoria - 67 ...
+snippet: Nesh&#39;s Corner Deli, Melbourne, Victoria, Australia. 94 likes · 15 talking about this. We are stocking a fantastic range of local &amp; imported smallgoods, variety of cheeses, olives, juices, groceries...
+title: Dandenong Market — Traders
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: WHERE TO BUY - Anadolu
+snippet: WHERE TO BUY. We distribute to many locations around Australia. Please see below a list of all the places where you can purchase produce by Anadolu Smallgoods.
+title: Volume Cafe - Dandenong - Home | Facebook
+snippet: Volume Cafe - Dandenong - 108 David Street Dandenong, Dandenong, Victoria 3175 ... Nesh&#39;s Corner Deli. Deli. Little Wild Creations. Home Decor. Con Nichols. Entrepreneur. Begin Bright Berwick. Tutor/Teacher. Lot88onthepark. Restaurant. Looking Foxy Mobile Doggie Wash. Pet Service.
+title: Ivan’s International Deli – Armada Dandenong Plaza
+snippet: VIP Subscription. Become an Armada Dandenong Plaza VIP to receive news on the latest offers, invitations to special events and more.
+title: Dandenong Market — Ross Pecora Cheeses
+snippet: Dandenong Market is a much-loved iconic market located on the corner of Clow and Cleeland Street, Dandenong in Melbourne’s southeast. It first opened in 1866, making it one of the oldest markets in Victoria.
+title: Road Runner Deli Cafe from DANDENONG SOUTH menu
+snippet: The Menu for Road Runner Deli Cafe with category Bistros from DANDENONG SOUTH, 234 Dandenong-Frankston Rd | Unit 1, Dandenong, Victoria 3175, Australia can be viewed here or added.
+
+REL: 2
+POI Name: Dosa Plaza
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, Bakeries, 
+Snippets:
+title: Dosa Plaza
+snippet: © DOSA PLAZA 2013 Copyrights and Trademark Registered by Prem Sagar Dosa Plaza Pvt. Ltd.
+title: Dosa Plaza
+snippet: Camberwell 1101 Toorak Road Camberwell 3124 Ph. No.03- 9809 1999 Opening Hours: Mon to Sun: 11 am to 10 pm (Open FULL days on all Public Holidays)
+title: Dosa Plaza Menu, Menu for Dosa Plaza, Dandenong, Melbourne ...
+snippet: Dosa Plaza Dandenong Menu - View the Menu for Dosa Plaza Melbourne on Zomato for Delivery, Dine-out or Takeaway, Dosa Plaza menu and prices. Dosa Plaza Menu
+title: Dosa Plaza
+snippet: Testimonials: Micheal Says &quot;I Had wonderful experience in Dosa Plaza&quot; Micheal Says &quot;I Had wonderful experience in Dosa Plaza&quot;
+title: Dosa Plaza - Dandenong - Vegetarian/Vegan Restaurant ...
+snippet: Dosa Plaza - Dandenong, Melbourne, Victoria, Australia. 707 likes. Delicious vegetarian and vegan Indian cuisine located in the heart of Dandenong. We offer people quick and easy meal options that...
+title: Dosa Plaza, Dandenong - Restaurantanmeldelser - Tripadvisor
+snippet: Dosa Plaza, Dandenong: Se 28 objektive anmeldelser av Dosa Plaza, vurdert til 2 av 5 på Tripadvisor og vurdert som nr. 220 av 268 restauranter i Dandenong.
+title: Dosa Plaza, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Dosa Plaza Melbourne; Dosa Plaza, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Dosa Plaza Restaurant on Zomato. Serves Indian, Vegetarian. Cost A$55 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne. Please type a location... All of Melbourne.
+title: Takeaway Available All 7 Days Open 5:30... - Dosa Plaza ...
+snippet: Takeaway Available All 7 Days Open 5:30 PM to 10:00 PM 03 8774 4913 10 Princess Highway, Dandenong,VIC 3175 Online marketed by www.mediaclock.com.au #homedelivery #takeaway #freehomedelivery...
+title: Home Delivery ? and Takeaway ? Free... - Dosa Plaza ...
+snippet: See more of Dosa Plaza - Dandenong on Facebook. Log In. or. Create New Account. See more of Dosa Plaza - Dandenong on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Chaat Darbar. Fast Food Restaurant. Bombay Grocery and Cafe. Shopping &amp; Retail. Singh Sweets &amp; Punjabi Restaurant.
+title: Let the resurrection joy lift us from... - Dosa Plaza ...
+snippet: Let the resurrection joy lift us from loneliness and weakness and despair to strength and beauty and happiness. Wishing you a peaceful &amp; Blessed Easter Stay Hand and Stay Safe !! 03 8774 4913 10...
+
+REL: 2
+POI Name: Swat 75
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Steakhouses, 
+Snippets:
+title: Swat 75 Steaks, Wings and Tortillas, Dandenong, Melbourne
+snippet: Swat 75 Steaks, Wings and Tortillas Melbourne; Swat 75 Steaks, Wings and Tortillas, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Swat 75 Steaks, Wings and Tortillas Restaurant on Zomato
+title: SWAT 75 - Home - Dandenong, Victoria - Menu, Prices ...
+snippet: SWAT 75, Dandenong, Victoria. 736 likes. Restaurant, bar and grill, with great food and drink, offering fresh-off-the-grill steaks, ribs, tortillas and burgers. Best quality wings.
+title: Swat 75 Steaks, Wings and Tortillas Menu - Urbanspoon/Zomato
+snippet: Swat 75 Steaks, Wings and Tortillas Dandenong Menu - View the Menu for Swat 75 Steaks, Wings and Tortillas Melbourne on Zomato for Delivery, Dine-out or Takeaway, Swat 75 Steaks, Wings and Tortillas menu and prices. Swat 75 Steaks, Wings and Tortillas Menu. Serves American, Tex-Mex. Cost A$50 for two people (approx.)
+title: SWAT 75 in Dandenong - Restaurant menu and reviews
+snippet: All info on SWAT 75 in Dandenong - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Swat 75 Steaks, Wings and Tortillas, Dandenong ...
+snippet: Swat 75 Steaks, Wings and Tortillas, Dandenong: See 7 unbiased reviews of Swat 75 Steaks, Wings and Tortillas, rated 5 of 5 on Tripadvisor and ranked #45 of 270 restaurants in Dandenong.
+title: SWAT 75 – Armada Dandenong Plaza
+snippet: SWAT 75 is a trendy restaurant, bar and grill, with great food and drink options. They offer fresh-off-the-grill steaks, ribs, tortillas and burgers accompanied by house made sides and sauces.
+title: Menu at SWAT 75 restaurant, Dandenong
+snippet: The restaurant information including the SWAT 75 menu items and prices may have been modified since the last website update. All users are free to download and save the SWAT 75 menu files, but can not duplicate or distribute them for any commercial use without prior written permission of the copyright holder.
+title: SWAT 75
+snippet: A trendy restaurant, bar and grill, with great food and drink, we offer fresh-off-the-grill steaks, ribs, tortillas and burgers accompanied by our house made sides and sauces.
+title: Delicious &amp; affordable food - Review of Swat 75 Steaks ...
+snippet: Swat 75 Steaks, Wings and Tortillas: Delicious &amp; affordable food - See 7 traveler reviews, 3 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Desserts - SWAT 75
+snippet: A trendy restaurant, bar and grill, with great food and drink, we offer fresh-off-the-grill steaks, ribs, tortillas and burgers accompanied by our house made sides and sauces.
+
+REL: 2
+POI Name: Siam Basil Thai Restaurant
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+title: Siam Basil Thai - Dandenong - Thai
+snippet: &quot;At Siam Basil Thai Restaurant in Dandenong on Thomas Street, we bring you the best of Thai cuisine. Our customers love the fresh ingredients and the balance of flavours we offer. Our extensive menu offers many authentic Thai specialties like Pad Kee Mao, Pad Khing, Vegetarian Tom Kha and much more. We offer takeaway and delivery options.
+title: Siam Basil Thai Restaurant Dandenong | 10% Off Your First ...
+snippet: Located in Dandenong, Siam Basil is a fully licensed restaurant that offers takeaway lunch and dinner 7 days a week. Make sure to check out our delivery area if you feel like enjoying a mouth-watering Thai meal in the comfort of your own home.
+title: Siam Basil Thai, Dandenong, Melbourne - Zomato
+snippet: Siam Basil Thai Melbourne; Siam Basil Thai, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Siam Basil Thai Restaurant on Zomato It is an icon with title Left Triangle Restaurants in ... siam basil thai, thai restaurant dandenong, siam basil thai restaurant dandenong vic, thai dandenong, thai restaurants ...
+title: Siam Basil Thai Menu, Menu for Siam Basil Thai, Dandenong ...
+snippet: Siam Basil Thai Dandenong Menu - View the Menu for Siam Basil Thai Melbourne on Zomato for Delivery, Dine-out or Takeaway, Siam Basil Thai menu and prices. Siam Basil Thai Menu
+title: Siam Basil Thai Restaurant Dandenong | 10% Off Your First ...
+snippet: Official Website. Order online at Siam Basil Thai Restaurant. Home Delivery available to Dandenong &amp; surrounding suburbs. - Powered By Zwift
+title: SIAM BASIL THAI RESTAURANT, Dandenong - Updated 2020 ...
+snippet: Siam Basil Thai Restaurant, Dandenong: See 31 unbiased reviews of Siam Basil Thai Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #15 of 268 restaurants in Dandenong.
+title: Siam Basil Thai Restaurant - Home - Dandenong, Victoria ...
+snippet: Siam Basil Thai Restaurant - 195 Thomas Street, Dandenong, Victoria 3175 - Rated 4.3 based on 32 Reviews &quot;The customer service is absolute poor, the...
+title: Siam Basil Thai Reviews, User Reviews for Siam Basil Thai ...
+snippet: User Reviews for Siam Basil Thai, Dandenong, ... Siam Basil Thai, Melbourne restaurant reviews on Zomato. Serves Thai. Cost A$55 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne. Please type a location ... — with Zomato Reviewer. Load More 68. Sponsored &amp; Popular ...
+title: Siam Basil Thai menu Dandenong Takeaway | 10% Off Your ...
+snippet: View the menu from Siam Basil Thai Dandenong &amp; get 10% off when placing your first takeaway or delivery order online. Order from a wide selection of your favourite Thai food which will be delivered directly to your home or office.
+title: 10 Best Thai Restaurants in Dandenong Updated April 2020 ...
+snippet: Best Thai Restaurants in Dandenong, Greater Melbourne: Find Tripadvisor traveller reviews of Dandenong Thai restaurants and search by price, location, and more. Dandenong. Dandenong Tourism ... Siam Basil Thai Restaurant. 31 reviews Closed Now. Asian, Thai $$ - $$$ Menu
+
+REL: 2
+POI Name: Salang
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: Salang Restaurant
+snippet: Salang Restaurant is a traditional Afghan restaurant owned and operated by husband and wife team Farid and Narges Bahrami who are very passionate about giving the best experience for food lovers. Both combined has over 30 years experience catering the very best of Afghan cuisine for any occasion.
+title: AFGHAN SALANG, Dandenong - Updated 2020 Restaurant Reviews ...
+snippet: Afghan Salang, Dandenong: See 182 unbiased reviews of Afghan Salang, rated 4.5 of 5 on Tripadvisor and ranked #2 of 268 restaurants in Dandenong.
+title: Afghan Salang Restaurant Menu, Menu for Afghan Salang ...
+snippet: Afghan Salang Restaurant Dandenong Menu - View the Menu for Afghan Salang Restaurant Melbourne on Zomato for Delivery, Dine-out or Takeaway, Afghan Salang Restaurant menu and prices. Afghan Salang Restaurant Menu
+title: Afghan Salang Restaurant, Dandenong, Melbourne ...
+snippet: As we were bound for Dandenong a search engine check led us to Salang Afghan Restaurant for lunch and what a great choice. A large space that I would imagine to be absolutely pumping during night service ... their main focus.
+title: THE 10 BEST Restaurants Near Afghan Salang in Dandenong ...
+snippet: Restaurants near Afghan Salang, Dandenong on Tripadvisor: Find traveler reviews and candid photos of dining near Afghan Salang in Dandenong, Victoria.
+title: Afghan Salang, Dandenong - Menu, Prices &amp; Restaurant ...
+snippet: Afghan Salang, Dandenong: See 182 unbiased reviews of Afghan Salang, rated 4.5 of 5 on Tripadvisor and ranked #2 of 268 restaurants in Dandenong.
+title: The 10 Best Restaurants Near Afghan Salang, Dandenong ...
+snippet: Restaurants near Afghan Salang, Dandenong on Tripadvisor: Find traveller reviews and candid photos of dining near Afghan Salang in Dandenong, Victoria.
+title: Menu of Afghan Salang restaurant, Dandenong - reviews and ...
+snippet: Afghan Salang is #5 of all Dandenong restaurants: the menu online, 839 visitors&#39; reviews and 22 detailed photos. Find on the map and call to book a table.
+title: Salang in Dandenong - Restaurant reviews
+snippet: All info on Salang in Dandenong - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Afghan Salang Restaurant Reviews, User Reviews for Afghan ...
+snippet: As we were bound for Dandenong a search engine check led us to Salang Afghan Restaurant for lunch and what a great choice. A large space that I would imagine to be absolutely pumping during night service ... their main focus.
+
+REL: 2
+POI Name: Global Vegetarian Cafe
+POI City: Ormond
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Coffee & Tea, 
+Snippets:
+
+
+REL: 2
+POI Name: Chosen Bean
+POI City: Ferntree Gully
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Vegan, Gluten-Free, 
+Snippets:
+
+
+REL: 2
+POI Name: Gopal's Vegetarian Restaurant
+POI City: Melbourne
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Indian, 
+Snippets:
+title: Gopals Pure Vegetarian - Starters
+snippet: Entree. Spinach Rolls, Samosas, Garden Salad. Mains. Rice, Curries, Pastas. Desserts. Exotic Sweets!
+title: Gopals Vegetarian Restaurant - Home - Melbourne, Victoria ...
+snippet: Gopals Vegetarian Restaurant - 139 Swanston Street, Melbourne, Victoria, Australia 3000 - Rated 4.7 based on 126 Reviews &quot;Great value healthy vegetarian...
+title: Gopals Restaurant
+snippet: http://gopals.sg/wp-admin/post.php?vc_action=vc_inline&amp;post_id=2015&amp;post_type=page
+title: Gopal&#39;s Vegetarian, CBD, Melbourne - Restaurants
+snippet: Gopal&#39;s Vegetarian Melbourne; Gopal&#39;s Vegetarian, CBD; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Gopal&#39;s Vegetarian Restaurant on Zomato It is an icon with title Location Fill It is an icon with title Down ... gopals vegetarian restaurant melbourne vic, gopals vegetarian restaurant, gopals, gopal, hare krishna ...
+title: GOPAL&#39;S VEGETARIAN, Melbourne - Central Business District ...
+snippet: Order takeaway and delivery at Gopal&#39;s Vegetarian, Melbourne with Tripadvisor: See 163 unbiased reviews of Gopal&#39;s Vegetarian, ranked #286 on Tripadvisor among 4,805 restaurants in Melbourne.
+title: Gopals Vegetarian Restaurant - Posts - Melbourne, Victoria ...
+snippet: Gopals Vegetarian Restaurant - 139 Swanston Street, Melbourne, Victoria, Australia 3000 - Rated 4.6 based on 134 Reviews &quot;Great value healthy vegetarian...
+title: Gopal&#39;s Vegetarian Menu, Menu for Gopal&#39;s Vegetarian, CBD ...
+snippet: Gopal&#39;s Vegetarian CBD Menu - View the Menu for Gopal&#39;s Vegetarian Melbourne on Zomato for Delivery, Dine-out or Takeaway, Gopal&#39;s Vegetarian menu and prices. Gopal&#39;s Vegetarian Menu
+title: Gopal&#39;s Vegetarian, Melbourne - Restaurantanmeldelser ...
+snippet: Gopal&#39;s Vegetarian, Melbourne: Se 163 objektive anmeldelser av Gopal&#39;s Vegetarian, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 292 av 4 804 restauranter i Melbourne.
+title: Gopal&#39;s Vegetarian Reviews, User Reviews for Gopal&#39;s ...
+snippet: Vegan/vegetarian set (from $9.50) ⭐️ 3.5/5 ⭐️ ?This Indian restaurant serves substantial, affordable #vegan or #vegetarian meals in Melbourne central. The basic not so hungry set comes with rice and choice of 2 salads and 2 veggies for $9.50. Add $2.40 for a dessert and drink and $1 more for soup.
+title: Best vegetarian restaurant in Melbourne - Review of Gopal ...
+snippet: Gopal&#39;s Vegetarian: Best vegetarian restaurant in Melbourne - See 160 traveler reviews, 38 candid photos, and great deals for Melbourne, Australia, at Tripadvisor.
+
+REL: 2
+POI Name: Mélissa Bar Café
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Mediterranean, Cafes, 
+Snippets:
+title: Melissa Bar Cafe, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Melissa Bar Cafe Melbourne; Melissa Bar Cafe, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Melissa Bar Cafe Restaurant on Zomato
+title: Mélissa Bar Café - Dandenong Victoria, Australia
+snippet: 2 reviews of Mélissa Bar Café &quot;Great little night bite here in Dandenong. They have a full menu, with savory dishes, sweet desserts, and coffees. Their pumpkin risotto was delicious and their latte was flavorful. The only part I was a bit…
+title: Melissa Bar Cafe Menu, Menu for Melissa Bar Cafe ...
+snippet: Melissa Bar Cafe Dandenong Menu - View the Menu for Melissa Bar Cafe Melbourne on Zomato for Delivery, Dine-out or Takeaway, Melissa Bar Cafe menu and prices. Melissa Bar Cafe Menu
+title: Melissa Bar Cafe Reviews, User Reviews for Melissa Bar ...
+snippet: Related to Melissa Bar Cafe, Dandenong Restaurants in Melbourne, Melbourne Restaurants, Dandenong restaurants, Best Dandenong restaurants, Eastern Suburb restaurants, Café in Melbourne, Café near me, Café in Eastern Suburb, Café in Dandenong, New Year Parties in Melbourne, Christmas&#39; Special in Melbourne Restaurants around Dandenong
+title: Melissa Bar Cafe Photos, Pictures of Melissa Bar Cafe ...
+snippet: Related to Melissa Bar Cafe, Dandenong Restaurants in Melbourne, Melbourne Restaurants, Dandenong restaurants, Best Dandenong restaurants, Eastern Suburb restaurants, Café in Melbourne, Café near me, Café in Eastern Suburb, Café in Dandenong, New Year Parties in Melbourne, Christmas&#39; Special in Melbourne Restaurants around Dandenong
+title: Mélissa Cakes-Cafe-Bar - Dandenong, Victoria - Restaurant ...
+snippet: Mélissa Cakes-Cafe-Bar, Dandenong, Victoria. 4 likes. Restaurant
+title: Melissa Cakes Cafe Bar, Templestowe, Melbourne
+snippet: Melissa Cakes Cafe Bar Melbourne; Melissa Cakes Cafe Bar, Templestowe; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Melissa Cakes Cafe Bar Restaurant on Zomato It is an icon with title Location Fill. It is an icon with title Down Triangle. It is an ...
+title: Melissa Bar Cafe, Dandenong, Melbourne - 2 reviews ...
+snippet: Melissa Bar Cafe Melbourne; Melissa Bar Cafe Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Melissa Bar Cafe cafe on Beanhunter
+title: Melissas Cafe - Dandenong
+snippet: Melissa Bar Cafe 9m. Upper Room Tongan Wesleyan Methodist Churchi 18m. Dandenong New Civic Square 18m. F45 Training Dandenong 24m. Hazara Shamama Association 24m. ... Melissa Cakes - Dandenong 54m. Mélissa Dandenong 54m. Ista Security 54m. Dandenong Library Study !!! 54m. Miss Pole Dance Victoria 56m.
+title: 10 Best Cafés in Dandenong Updated April 2020 - Tripadvisor
+snippet: Best Cafés in Dandenong, Greater Melbourne: Find Tripadvisor traveller reviews of Dandenong Cafés and search by price, location, and more. Dandenong. Dandenong Tourism Dandenong Accommodation Dandenong Holiday Packages Dandenong Flights ... Bar, Cafe $ Menu. 3.2 km. Melbourne
+
+REL: 2
+POI Name: Dandenong Pavilion
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, Coffee & Tea, 
+Snippets:
+title: Dandenong Pavilion | Voted Best Restaurant in Dandenong
+snippet: Dandenong Pavilion is a multi-award winning restaurant, and has achieved this status by ensuring we deliver the ultimate dining experience to our guests every time. The combination of warm &amp; attentive service, consistently high food quality as well as value-for-money servings has resulted in Dandenong Pavilion securing all the following awards:
+title: DANDENONG PAVILION - Updated 2020 Restaurant Reviews, Menu ...
+snippet: Dandenong Pavilion, Dandenong: See 298 unbiased reviews of Dandenong Pavilion, rated 4 of 5 on Tripadvisor and ranked #3 of 268 restaurants in Dandenong.
+title: Menu — Dandenong Pavilion | Voted Best Restaurant in Dandenong
+snippet: Our diverse and creative menu ensures there is something for everyone. Our diverse and creative menu ensures there is something for everyone. HOME VENUE ... Dandenong Pavilion has implemented a temporary take away menu which can be downloaded for your viewing by clicking the link above.
+title: Dandenong Pavilion - Home - Dandenong, Victoria - Menu ...
+snippet: Dandenong Pavilion - 55 - 61 Princes Highway, Dandenong, Victoria 3175 - Rated 4.5 based on 719 Reviews &quot;Last night, 5 of us mums desperate to have a...
+title: Dandenong Pavilion - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Dandenong Pavilion, Dandenong: See 298 unbiased reviews of Dandenong Pavilion, rated 4 of 5 on Tripadvisor and ranked #3 of 270 restaurants in Dandenong.
+title: Dandenong Pavilion, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Dandenong Pavilion Melbourne; Dandenong Pavilion, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Dandenong Pavilion Restaurant on Zomato. Serves Modern Australian, Burger. Known for A modern family restaurant with a secret burger menu.
+title: Dandenong Pavilion Delivery | Melbourne | Uber Eats
+snippet: Use your Uber account to order a delivery from Dandenong Pavilion in Melbourne. Browse the menu, view popular items and track your order. Use your Uber account to order a delivery from Dandenong Pavilion in Melbourne. Browse the menu, view popular items and track your order.
+title: Dandenong Pavilion, 55-61 Princes Hwy in Dandenong ...
+snippet: Dandenong Pavilion is a family-friendly gem established in 2006. A modern venue for locals and visitors, filling a void in the area. Fast forward to 2019 and Dandenong Pavilion has cemented itself as one of Melbourne’s most popular family restaurants.
+title: Dandenong Pavilion - recenzje restauracji - Tripadvisor
+snippet: Dandenong Pavilion, Dandenong: zobacz bezstronne recenzje (298 ) na temat Dandenong Pavilion, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 3 z 268 restauracji w Dandenong.
+title: Dandenong Pavilion | Family Restaurant &amp; burgers | Review
+snippet: Dandenong Pavilion is celebrating its 10th birthday this year as a stalwart of the dining scene in Melbourne’s outer south-east. It is the original home of some of Melbourne’s best burgers and owner Dani Zeini has taken them from Dandenong Pavilion menu to places such as Grand Trailer Park Taverna, Motorhome Majestic, Truck Stop Deluxe and Royal Stacks.
+
+REL: 2
+POI Name: Beletti Restaurant Cafe Bar
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Dining Menus &amp; Functions - Beletti Restaurant Cafe Bar
+snippet: Our Address. Beletti Restaurant Cafe Bar is located at 159 – 161 Lonsdale Street Dandenong. Ground floor of Punthill Apartments Hotel.
+title: Beletti Restaurant Cafe Bar - Home - Dandenong, Victoria ...
+snippet: Beletti Restaurant Cafe Bar, Dandenong, Victoria. 4,615 likes · 32 talking about this · 16,775 were here. Contemporary Italian Restaurant Open 7 days a week for breakfast lunch &amp; dinner Function &amp;...
+title: Beletti Restaurant Cafe Bar | Dandenong Wedding Venue
+snippet: Beletti Restaurant Cafe Bar is perfect for a a casual breakfast, lunch with new clients, a cosy space to bring family and friends to enjoy a dinner celebration or a formal dining experience in one of our function rooms.
+title: Beletti Restaurant Cafe Bar Reviews, User Reviews for ...
+snippet: Endeavour Hills restaurants, Noble Park restaurants, Keysborough restaurants, Rowville restaurants, Frequent searches leading to this page beletti restaurant cafe bar dandenong vic , beletti restaurant dandenong , beletti dandenong menu , beletti restaurant , beletti ,
+title: BELETTI RESTAURANT CAFE BAR, Dandenong - Updated 2020 ...
+snippet: Reserve a table at Beletti Restaurant Cafe Bar, Dandenong on Tripadvisor: See 159 unbiased reviews of Beletti Restaurant Cafe Bar, rated 4 of 5 on Tripadvisor and ranked #4 of 268 restaurants in Dandenong.
+title: Contact - Beletti Restaurant Cafe Bar
+snippet: Tel: 03 9793 1600 Address: 159 – 161 Lonsdale Street Dandenong, Victoria 3175. Email: admin@beletti.com.au Owners: Robert &amp; Vera Moretti Function Co Ordinator: Vera Moretti 0438 011 725 Fax (03) 9793 1700
+title: Beletti Restaurant Cafe Bar in Dandenong (VIC ...
+snippet: Book a table at Beletti Restaurant Cafe Bar in Dandenong (VIC). Find restaurant reviews, menus, prices, and hours of operation for Beletti Restaurant Cafe Bar on TheFork (formerly Dimmi).
+title: Beletti Restaurant Cafe Bar, Dandenong, Melbourne ...
+snippet: Rated 3.7/5. Located in Dandenong, Melbourne. Serves Modern Australian, Italian. Known for A stylish restaurant cafe serving Dandenong&#39;s favourite Modern Italian and fresh seafood. Cost A$100 for two people (approx.)for Dinner Menu A$60 for two people (approx.)for Lunch Menu
+title: Beverages - Beletti Restaurant Cafe Bar
+snippet: Wines are offered by the glass and by the bottle, there is no better place to indulge in a drop than Beletti. Beletti is a great meeting place to catch up with family, friends or colleagues. Come on in and enjoy a barista made espresso, latte, cappuccino… On behalf of the Beletti team, we invite you to take a break from your busy day and enjoy!
+title: Beletti Restaurant Cafe Bar - Home - Dandenong, Victoria ...
+snippet: Beletti Restaurant Cafe Bar, Dandenong, Victoria. 4,630 likes · 272 talking about this · 16,795 were here. Contemporary Italian Restaurant Open 7 days a week for breakfast lunch &amp; dinner Function &amp;...
+
+REL: 2
+POI Name: Street Pho
+POI City: Noble Park
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Vietnamese, 
+Snippets:
+
+
+REL: 2
+POI Name: Afghan Rahimi Restaurant
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Afghan, 
+Snippets:
+title: Afghan Rahimi Restaurant, Dandenong ...
+snippet: Afghan Rahimi Restaurant, Dandenong: Se 88 objektive anmeldelser av Afghan Rahimi Restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 6 av 270 restauranter i Dandenong.
+title: Afghan Rahimi Restaurant, Dandenong, Melbourne ... - Zomato
+snippet: Afghan Rahimi Restaurant Melbourne; Afghan Rahimi Restaurant, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Afghan Rahimi Restaurant Restaurant on Zomato. Serves Afghani, Middle Eastern. Cost A$80 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne.
+title: Afghan Rahimi Restaurant - Posts - Dandenong, Victoria ...
+snippet: Afghan Rahimi Restaurant - 23 to29 walker street, dandenong, Dandenong, Victoria 3175 - Rated 4.9 based on 225 Reviews &quot;We had banquet 1 on the...
+title: Restaurants Near Afghan Rahimi Restaurant, Dandenong ...
+snippet: Restaurants near Afghan Rahimi Restaurant, Dandenong on Tripadvisor: Find traveler reviews and candid photos of dining near Afghan Rahimi Restaurant in Dandenong, Victoria.
+title: Afghan Rahimi Restaurant, Dandenong - Menu, Prices ...
+snippet: Afghan Rahimi Restaurant, Dandenong: See 88 unbiased reviews of Afghan Rahimi Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #6 of 270 restaurants in Dandenong.
+title: Afghan Rahimi Restaurant
+snippet: Find us at. Afghan Rahimi Restaurant 23 - 29 Walker St Dandenong VIC 3175 Australia (Behind of Tax Office) Tel: 03-97939981; e-mail: afghanrahimirestaurant@yahoo.com.au
+title: Afghan Rahimi Restaurant Dandenong VIC serving Afghan Food ...
+snippet: Afghan Rahimi Restaurant Dandenong serving Afghan Food in Melbourne. 23/29 Walker St Dandenong VIC 3175 Download our FREE Big Review TV App to Create &amp; Share your experiences and video reviews ...
+title: AFGHAN RAHIMI RESTAURANT, Dandenong - Updated 2020 ...
+snippet: Afghan Rahimi Restaurant boasts traditional Afghani Cuisine with over 30 years of experience between the two chefs Rahimi and Hayat. With immaculate marble tables and wooden chairs, the ambiance allows for fine dining while experiencing traditional flavours.
+title: Afghan Rahimi Restaurant | Catering &amp; Functions
+snippet: Catering &amp; Functions. Dear valued customers, We would like to offer all our valued customers the following Catering and Function options: Catering (Takeaway): For all corporate catering inquiries (10+ people) please contact Rahimi on 9793 9981 or at afghanrahimirestaurant@yahoo.com.au We offer a variety of dishes subject to our clients request at $35 per head and are able to cater for all ...
+title: Afghan Masala Restaurant - Home - Dandenong, Victoria ...
+snippet: Afghan Masala Restaurant, Dandenong, Victoria. 567 likes. Afghan Masala is open 7 days we have experienced ethnic Afghan, Iranian &amp; Indian foods and cooks. Employees. Mr Najimi experienced chief &amp;...
+
+REL: 2
+POI Name: Rob's British Butchers
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, 
+Snippets:
+title: Rob&#39;s British &amp; Irish Butchery | British and Irish and ...
+snippet: Where you at Rob? 177 Lonsdale St Dandenong Vic 3175. Don’t worry – I’m not far away – and I’m really easy to find, and if you can’t find me and your order is over $80 we’ll deliver it to you ... Robs British Butchers - Dandenong, South East Suburbs of Melbourne.
+title: Rob&#39;s British Butchers - Butcher Shop - Dandenong ...
+snippet: Rob&#39;s British Butchers, Dandenong, Victoria. 6,512 likes · 328 talking about this · 813 were here. Come down to Rob&#39;s British Butchers for all the best home made UK Produce. Pork Pies, Black Pudding,...
+title: THE HISTORY ROB’S - Robs British Butchers
+snippet: ROB’S British &amp; Irish Butchery “When you taste, you will know!” * Prices as of April 2017 and are subject to change 177 Lonsdale St Dandenong Vic 3175 Phone 03 9792 5188 Fax 03 9792 5118 ROB’S British &amp; Irish Butchery THE HISTORY Jill and I arrived on February 4th in 1984 with an extra passenger we didn’t pay for, whom we later called ...
+title: Rob’s British Butchers - Dandenong Victoria, Australia
+snippet: 4 reviews of Rob&#39;s British Butchers &quot;Slightly homesick for Scotland, I was so keen to stock up on square sausage, tattie scones and some Scottish smoked salmon. Sadly they do not stock Scottish smoked salmon but there is a small selection of…
+title: Rob&#39;s British Butchery a Butcher Shop in Melbourne ...
+snippet: Come down to Rob&#39;s British Butchers for all the best home made UK Produce. Pork Pies, Black Pudding, Haggis, British style Bacon &amp; Gammon, and Award Winning Gourmet Sausages. Come in see for ...
+title: Rob&#39;s British Butchers, 177 Lonsdale Street, Dandenong ...
+snippet: Come down to Rob&#39;s British Butchers for all the best home made UK Produce. Pork Pies, Black Pudding, Haggis, British style Bacon &amp; Gammon, and Award Winning Gourmet Sausages. Not to mention the empressive assorment of Chocolates, Sweets, Pickles, Crisp&#39;s, Tea&#39;s and Biscuits that will be sure to leave you with a smile as you wander down memory lane. Come in see for yourself because
+title: Rob&#39;s British Butchers - Butcher&#39;s shop - Dandenong ...
+snippet: Rob&#39;s British Butchers, Dandenong, Victoria. 6,513 likes · 385 talking about this · 813 were here. Come down to Rob&#39;s British Butchers for all the best home made UK Produce. Pork Pies, Black Pudding,...
+title: Rob&#39;s British Butchers in Dandenong, VIC | Butchers ...
+snippet: Rob&#39;s British Butchers in Dandenong, VIC. Find address, phone numbers, website and other contact details of Rob&#39;s British Butchers. Request Quote, Read Reviews and Get Direction with DizyLocal Australia.
+title: Rob&#39;s British Butchers - Butchers Shop - 177 Lonsdale St ...
+snippet: Rob&#39;s British Butchers Butchers Shop - Dandenong, VIC 3175. Robs When You Will Taste You Will Know. 177 Lonsdale St, Dandenong VIC 3175. Be first to review Phone (03) 9706 0046. Other Contacts. Phone (03) 9792 5188.
+title: Rob&#39;s British Butchers in Dandenong, Melbourne, VIC ...
+snippet: Rob&#39;s British Butchers in Dandenong, VIC, 3175. Business contact details for Rob&#39;s British Butchers including phone number, reviews &amp; map location - TrueLocal
+
+REL: 2
+POI Name: Grand Diamond Restaurant
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: Grand Diamond Menu, Menu for Grand Diamond, Dandenong ...
+snippet: Grand Diamond Dandenong Menu - View the Menu for Grand Diamond Melbourne on Zomato for Delivery, Dine-out or Takeaway, Grand Diamond menu and prices. Grand Diamond Menu
+title: GRAND DIAMOND RESTAURANT, Dandenong - Restaurant Reviews ...
+snippet: Grand Diamond Restaurant, Dandenong: See 10 unbiased reviews of Grand Diamond Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #167 of 268 restaurants in Dandenong.
+title: Grand Diamond Restaurant - Dandenong, Victoria - Afghan ...
+snippet: I visited this restaurant today n we ordered 4 mix kebab each, which was two chicken , 1 lamb and 1 mince. the mince was not cooked.it had the look of a raw marination. the chicken was the worse. i have never seen chicken covered in so much tandoor or red colour that it stained our mouth and our hands!!!! even when we got home, our hands were yellow!!!
+title: Grand Diamond Photos, Pictures of Grand Diamond, Dandenong ...
+snippet: Photos of Grand Diamond, Dandenong, Melbourne. Grand Diamond Pictures, Grand Diamond Photos It is an icon with title Left Triangle Restaurants in ... grand diamond restaurant dandenong vic, grand diamond restaurant dandenong menu, grand diamond restaurant, diamond restaurant dandenong, www.granddiamondrestaurant.com, Select Country. India.
+title: Grand Diamond in Dandenong - Restaurant menu and reviews
+snippet: All info on Grand Diamond in Dandenong - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Yum - Review of Grand Diamond Restaurant, Dandenong ...
+snippet: Grand Diamond Restaurant: Yum - See 10 traveler reviews, 4 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Bad customer service - Review of Grand Diamond Restaurant ...
+snippet: Grand Diamond Restaurant: Bad customer service - See 10 traveler reviews, 4 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Delightful Afghan tucker. - Grand Diamond Restaurant
+snippet: Grand Diamond Restaurant: Delightful Afghan tucker. - See 10 traveler reviews, 4 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Bad customer service - Grand Diamond Restaurant, Dandenong ...
+snippet: Grand Diamond Restaurant: Bad customer service - See 10 traveler reviews, 4 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Worst restaurant - Grand Diamond Restaurant, Dandenong ...
+snippet: Grand Diamond Restaurant: Worst restaurant - See 10 traveler reviews, 4 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+
+REL: 2
+POI Name: Daylight Bakery
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Daylight Bakery, Dandenong, Melbourne - Urbanspoon/Zomato
+snippet: Daylight Bakery Melbourne; Daylight Bakery, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Daylight Bakery Restaurant on Zomato. Serves Bakery, Afghani. Cost A$15 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne. Please type a location...
+title: Daylight Bakery - Bakeries - 239 Thomas Street, Dandenong ...
+snippet: 1 review of Daylight Bakery &quot;This is one of the many Afghan bakeries in Dandenong and it only does one thing, bake breads. Anytime of the day you come here in the opening hours they&#39;ll be cooking for you. The distance it takes the bread to be…
+title: Daylight Bakery in Dandenong - Restaurant menu and reviews
+snippet: All info on Daylight Bakery in Dandenong - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Daylight Bakery Menu, Menu for Daylight Bakery, Dandenong ...
+snippet: Daylight Bakery Dandenong Menu - View the Menu for Daylight Bakery Melbourne on Zomato for Delivery, Dine-out or Takeaway, Daylight Bakery menu and prices. Daylight Bakery Menu
+title: Daylight Bakery, Dandenong - Carta del restaurante y opiniones
+snippet: Daylight Bakery, n.º 214 entre los restaurantes de Dandenong: 21 opiniones y 1 foto detallada. Localízalo en el mapa y llama para reservar mesa. El restaurante ha conseguido un 4,3 en Google y un 5 en Yelp. Prepárate a pagar A$8 por una comida.
+title: Rye Crust Bakery - Dandenong, Victoria - Bakery, Polish ...
+snippet: Rye Crust Bakery, Dandenong, Victoria. 51 likes · 42 were here. Bakery
+title: Bakeries in Dandenong - Yelp
+snippet: Find the best Bakeries on Yelp: search reviews of 112 Dandenong businesses by price, type, or location.
+title: Daylight Bakery, Данденонг - Меню и отзывы о ресторане
+snippet: Daylight Bakery №214 среди ресторанов Данденонг: 21 отзыв и 1 фотография. Забронировать столик. Ресторан получил 4,3 от Google и 5 от Yelp. Будьте готовы отдать A$8 за обед в этом месте.
+title: Dandy Cakes - Home | Facebook
+snippet: Dandy Cakes, Dandenong, Victoria. 495 likes · 43 talking about this · 8 were here. We are a family-owned cake &amp; coffee shop, located in the heart of Dandenong. We have more than 20 years experience...
+title: Daylight Bakery, St. Thomas - Restaurant Reviews, Photos ...
+snippet: Woah, walking into Daylight Bakery and Diamond Barrel for breakfast, is kind of like being back in Hawaii. You can order spam, rice, and scrambled eggs for breakfast! I&#39;m still trying to figure out the prices here, nothing is posted and the counter ladies, add... More. Date of visit: June 2016.
+
+REL: 1
+POI Name: Khazana Indian Restaurant
+POI City: Wantirna South
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 1
+POI Name: Afghan Tasty Food
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Afghan, Halal, Middle Eastern, 
+Snippets:
+title: Afghan Tasty Food, Dandenong, Melbourne - Zomato
+snippet: Afghan Tasty Food Melbourne; Afghan Tasty Food, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Afghan Tasty Food Restaurant on Zomato It is an icon with title Left Triangle Restaurants in ... Related to Afghan Tasty Food, Dandenong.
+title: Afghan Tasty Food - Home - Dandenong, Victoria - Menu ...
+snippet: Afghan Tasty Food - 365 Lonsdale Street, Dandenong, Victoria 3175 - Rated 4.4 based on 21 Reviews &quot;I have never seen such friendly staff in my entire...
+title: Afghan Tasty Food Menu, Menu for Afghan Tasty Food ...
+snippet: Afghan Tasty Food Dandenong Menu - View the Menu for Afghan Tasty Food Melbourne on Zomato for Delivery, Dine-out or Takeaway, Afghan Tasty Food menu and prices. Afghan Tasty Food Menu
+title: AFGHANTASTY FOOD, Dandenong - Restaurant Reviews, Photos ...
+snippet: AfghanTasty Food, Dandenong: ... I haven&#39;t had Afghan food before, but had similar foods (from neighbouring regions). We just ordered a couple of dishes, ... With the higher rating Afghan restaurant nearby closed for lunch, we walked a few doors up to Afghan Tasty Food for lunch today.
+title: AfghanTasty Food, Dandenong - Restaurant Reviews, Photos ...
+snippet: AfghanTasty Food, Dandenong: See 19 unbiased reviews of AfghanTasty Food, ... With the higher rating Afghan restaurant nearby closed for lunch, we walked a few doors up to Afghan Tasty Food for lunch today. We had a plate of minced lamb and veg dumplings topped with a lentil sauce and topped again with a yoghurt sauce,...
+title: Afghan Tasty Food Dandenong Review 2010 | Good Food
+snippet: At Afghan Tasty — shrouded behind a makeshift fence with a giant ditch in front of it — there&#39;s a picture propped on the counter of Dandenong&#39;s proposed boulevard, a vision of green lawn, seats for summery lunches and established trees. No doubt the revitalisation of this increasingly impressive ethnic food hub will be worth it.
+title: The Best Afghan Restaurant in Dandenong - AfghanTasty Food ...
+snippet: AfghanTasty Food: The Best Afghan Restaurant in Dandenong - See 19 traveler reviews, 2 candid photos, and great deals for Dandenong, Australia, at Tripadvisor.
+title: Afghan Tasty Food, 365 Lonsdale St in Dandenong ...
+snippet: Not only should Harmony Square be visited, but also Afghan Tasty Food.The menu of this restaurant is recommended to Afghan cuisine lovers. Try perfectly cooked kebabs, dumplings and chicken skewers that are served at Afghan Tasty Food.Great tea will make your meal better and you&#39;ll certainly come back.. This place is famous for its great service and friendly staff, that is always ready to help
+title: Afghan Tasty Food, Dandenong - The City Lane
+snippet: MELBOURNE | Afghan Tasty Food has been open for almost a decade, and in that time has become an institution for those looking for authentic Afghan food in Melbourne. It was opened by Muheen Bahrami, who moved to Australia in 1991 after fleeing Kabul, and proudly explained to us when we visited that he was one of the first food businesses to open on the strip, which 10 years ago was better ...
+title: Salang Restaurant
+snippet: Salang Restaurant is a traditional Afghan restaurant owned and operated by husband and wife team Farid and Narges Bahrami who are very passionate about giving the best experience for food lovers. Both combined has over 30 years experience catering the very best of Afghan cuisine for any occasion.
+
+REL: 1
+POI Name: Coles
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Coles Dandenong
+snippet: Coles Dandenong Coles Dandenong. 23-26 Princes Hwy, Dandenong, 3175 (03) 9706 8899 Make this my store. Directions to Coles Dandenong opens in new window. Today&#39;s hours. 8am - 10pm Date is 21 April 2020 Special hours. Saturday 25 April 1pm - 8pm; Normal store hours. Monday - Friday 8am - 10pm ...
+title: Coles Dandenong Plaza
+snippet: Coles Dandenong Plaza Coles Dandenong Plaza. Walker St, Dandenong Plaza, 3175 (03) 9791 9700 Make this my store. Directions to Coles Dandenong Plaza opens in new window. Today&#39;s hours. 8am - 10pm Date is 20 April 2020 Special hours. Saturday 25 April 1pm - 8pm ...
+title: Coles Supermarkets
+snippet: Welcome to Coles supermarkets. View your local catalogue. Find your nearest store. Shop online and have your groceries delivered. Discover great recipe ideas.
+title: Coles in Dandenong Plaza, Melbourne, Opening Hours
+snippet: Coles in Dandenong Plaza, Walker St &amp; Mccrae Sts, Dandenong, VIC, 3175, Opening Hours, Phone number, Map, Latenight, Sunday hours, Address, Supermarkets
+title: Coles in Dandenong, Melbourne, Opening Hours
+snippet: Coles in Dandenong, 23 - 26 Princes Hwy, Dandenong, VIC, 3175, Opening Hours, Phone number, Map, Latenight, Sunday hours, Address, Supermarkets
+title: Coles Jobs in Dandenong VIC (with Salaries) | Indeed.com
+snippet: Coles jobs now available in Dandenong VIC. Supply Chain Manager, Test Manager, Deli Manager and more on Indeed.com
+title: Coles Store Locator | Coles
+snippet: Welcome to Coles supermarkets store locator. Find your nearest Coles store here.
+title: Job Search - Coles Careers
+snippet: Team Leader Area Support opportunity in Fremantle &amp; Southern Suburbs. Coles’ newest department is your chance to take the next step in your career and play a leading role in our success. The Coles Services team are accountable for ensuring all aspects of our stores are clean and that trolleys are available for our customers.
+title: Fuel prices at Coles Express Dandenong South | FuelPrice ...
+snippet: While we do not have exact fuel pricing details for Coles Express Dandenong South or other petrol stations in Victoria we are able to provide a estimate of current pricing. Last price change: 55 mins ago Views: 1,326. Historical pricing at Coles Express Dandenong South.
+title: Coles - Springvale, VIC - Opening Hours &amp; Catalogue
+snippet: Coles is positioned at 825 Dandenong Road, a 1.4 km distance of the centre of Springvale (near to Saint John Vianney&#39;s and Springvale North Shopping Centre).This supermarket provides service principally to the locales of Clayton, Sandown Park, Carre Residence, Westall, Waverley Park Estate, Springvale Town Centre and Mulgrave.
+
+REL: 1
+POI Name: Cargills Food & Groceries
+POI City: Dandenong
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Cargills Food &amp; Groceries - Dandenong, Victoria | Facebook
+snippet: Cargills Food &amp; Groceries, Dandenong, Victoria. 14 likes · 1 was here. Specialty Grocery Store
+title: Cargills Food &amp; Groceries, Dandenong, Melbourne ... - Zomato
+snippet: Cargills Food &amp; Groceries Melbourne; Cargills Food &amp; Groceries, Dandenong; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Cargills Food &amp; Groceries Restaurant on Zomato
+title: Cargills Food &amp; Groceries - Supermarkets &amp; Grocery Stores ...
+snippet: Cargills Food &amp; Groceries Supermarkets &amp; Grocery Stores - Dandenong, Victoria, 3175, Business Owners - Is Cargills Food &amp; Groceries in Dandenong, VIC your business? Attract more customers by adding more content such as opening hours, logo and more. Explore similar businesses nearby : Armada Dandenong Plaza - 49 McCrae St Dandenong 3175 VIC - Yellow Pages® directory
+title: Sri Lankan Grocery in Dandenong
+snippet: Cargills Food &amp; Groceries Cargills Food &amp; Groceries. Stud Road 30, Dandenong 3175, Victoria Food &amp; Spices, Sri Lankan Grocery, Sri Lankan Shops, Sri Lankan Sweets, Take Away Food (03) 8774 7331. Add bookmark. Share . Gallery. Business Details. Keywords: Cargills Dandenong, Sri Lankan ...
+title: Cargills Food &amp; Groceries | Stud Road, Dandenong, VIC ...
+snippet: Connect with Cargills Food &amp; Groceries at Stud Road, Dandenong, VIC. Find business, government and residential phone numbers, addresses &amp; more on the White Pages®
+title: Cargills FoodCity Home Delivery Service
+snippet: Cargills FoodCity Home Delivery Service will commence from 31st March 2020 Full List of Delivery Outlets - bit.ly/CargillsFoodCity-HomeDelivery - Delivery within 5km from selected Cargills FoodCity outlets. - Order between 8am to 2pm. - Minimum value of Rs. 2000/- per order.
+title: Cargills Food &amp; Groceries on Shop 1/ 30 Stud Rd, Dandenong ...
+snippet: Cargills Food &amp; Groceries is located in Shop 1/ 30 Stud Rd, Dandenong, VIC 3175. Click through for driving directions on Whereis®.
+title: Sri Lanka Grocery Shops in Melbourne
+snippet: Lakhiru Authentic Sri Lanka Groceries and Foods . Commerce Drive 7, Hampton Park 3976, Victoria 03 8774 7792 » Website; Map Directions ... Cargills Food &amp; Groceries . Stud Road 30, Dandenong 3175, Victoria (03) 8774 7331. Map Directions
+title: Cargills
+snippet: Cargills Food &amp; Groceries . 1/30 Stud Road, Dandenong ph.8774 7331, 0405 129 697 (Jayasriri or Chandrika) Monday Closed, Tue-Sat 9am to 8pm, Sun 10am to 6pm
+title: Nexus | Melbourne
+snippet: Dandenong: Dandenong: Mount Waverley: NEXUS LOGISTICS CARGO PTY LTD 8/112 Hammond Road Dandenong. Tel 0414 874 354: CARGILLS FOOD &amp; GROCERIES 1/30 Stud Road Dandenong. Tel 03 8774 7331 : KJL SPICE CORNER 16 Bellarive Avenue Mount Waverley. Tel 03 9544 7189: Mulgrave: St Albans: Noble Park: TAPROBANE 893 Springvale Road Mulgrave. Tel 9547 6700 ...
+
+REL: 1
+POI Name: Om Vegetarian
+POI City: Melbourne
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, 
+Snippets:
+title: Om Vegetarian Restaurant MelbourneOm best Vegetarian ...
+snippet: Om Vegetarian and Vegan Restaurants are a family run business in Melbourne. Om serves hearty and delicious vegetarian indian food with freshly baked naan bread. Awarded Tripadvisor Certificate of Excellence 2015, 2016, 2017 and 2018.
+title: Om Vegetarian, Melbourne - Restaurantanmeldelser - Tripadvisor
+snippet: Om Vegetarian, Melbourne: Se 165 objektive anmeldelser av Om Vegetarian, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 589 av 4 803 restauranter i Melbourne.
+title: Om Vegetarian, Melbourne - Restaurantanmeldelser - Tripadvisor
+snippet: Om Vegetarian, Melbourne: Se 136 objektive anmeldelser av Om Vegetarian, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 620 av 4 805 restauranter i Melbourne.
+title: MENU GALLERY — Om Vegetarian Restaurant Melbourne
+snippet: Menu for Om Vegetarian and Vegan Restaurant Melbourne. Authetic Indian Vegetarian Food options. Vegan Restaurant Options Melbourne. All you can eat melbourne. tripadvisor award melbourne. Vegan Restaruant. Vegetarian Restaurant melbourne. cheap eats melbourne. cheapest places to eat melbourne. cheap
+title: Om Vegetarian, Melbourne - Shop 4 227 Collins St, Central ...
+snippet: Om Vegetarian has undoubtedly the best value vegetarian food you can get in the CBD. For only $7.50 you now get 3 curries (previously 2), pickle, rice and naan. Service and decor is simple and perfect for a wholesome feed in the city.
+title: Om Vegetarian, Melbourne, CBD, Melbourne - Urbanspoon/Zomato
+snippet: Rated 3.8/5. Located in Elizabeth Street, Melbourne. Serves Indian, Vegetarian. Known for Affordable vegetarian buffet with a homemade feel. Cost A$25 for two people (approx.)
+title: Om Vegetarian, Melbourne - 28 Elizabeth St, Central ...
+snippet: Om Vegetarian has undoubtedly the best value vegetarian food you can get in the CBD. For only $7.50 you now get 3 curries (previously 2), pickle, rice and naan. Service and decor is simple and perfect for a wholesome feed in the city.
+title: Om Vegetarian, Swanston Street, CBD, Melbourne ... - Zomato
+snippet: Om Vegetarian CBD, Melbourne; Om Vegetarian, Swanston Street; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Om Vegetarian Restaurant on Zomato
+title: Om Vegetarian, Melbourne - Capitol Arc, Central Business ...
+snippet: Om Vegetarian, Melbourne: See 31 unbiased reviews of Om Vegetarian, rated 4 of 5 on Tripadvisor and ranked #1,459 of 4,805 restaurants in Melbourne.
+title: STORY — Om Vegetarian Restaurant Melbourne
+snippet: The Story of Om Vegetarian Restaurant . Om Vegetarian is a family owned and run chain of restaurants in Melbourne. Our goal is to share healthy, affordable dining options to all our patrons and promote the benefits of a Vegetarian lifestyle.
+
+REL: 1
+POI Name: Grape and Grain
+POI City: Melbourne
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Beverage Store, Beer, Wine & Spirits, 
+Snippets:
+title: Grain and Grape | home brewing melbourne, speidel ...
+snippet: Grain and Grape | home brewing melbourne, braumeister, craftbrewing, wyeast, all grain brewing, fresh wort kits, home brewing and winemaking
+title: Grain and Grape Melbourne - YouTube
+snippet: This is the YouTube channel for Grain and Grape. We&#39;re a homebrew and winemaking business in Yarraville in Melbourne and have been operating for 25 years. We...
+title: grapengrain.com.au - Grape and Grain
+snippet: Grape And Grain supports the Responsible Service of Alcohol WARNING: Victoria Liquor Control Reform Act 1998: It is an offence to supply alcohol to a person under the age of 18 years (Penalty exceeds $17,000), for a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $700).
+title: Grape &amp; Grain - Wine, Beer &amp; Spirits Store - Moorabbin ...
+snippet: Grape &amp; Grain, Moorabbin, VIC. 3,110 likes · 78 talking about this · 3,784 were here. Melbourne&#39;s friendliest bottleshop &amp; bar with 13 craft beer focused rotating taps, boutique wine, cider, craft...
+title: Product Category | Grain and Grape
+snippet: Closed public holidays. 5/280 Whitehall St, Yarraville VIC 3013. Copyright 2012 Grain and GrapeGrain and Grape
+title: Grape &amp; Grain (Moorabbin): UPDATED 2020 All You Need to ...
+snippet: Grape &amp; Grain, Moorabbin: See 12 reviews, articles, and 2 photos of Grape &amp; Grain, ranked No.2 on Tripadvisor among 3 attractions in Moorabbin.
+title: Your Account | Grain and Grape
+snippet: Closed public holidays. 5/280 Whitehall St, Yarraville VIC 3013. Copyright 2012 Grain and GrapeGrain and Grape
+title: Contact | Grain and Grape
+snippet: Contact. Grain and Grape. 5/280 Whitehall Street. Yarraville VIC 3013. Ph: 03 9687 0061 Grain and Grape is dedicated to keeping your details private. We do not pass on/sell/swap any of your personal details with anyone. For our complete privacy policy see ...
+title: Brewing | Grain and Grape
+snippet: Closed public holidays. 5/280 Whitehall St, Yarraville VIC 3013. Copyright 2012 Grain and GrapeGrain and Grape
+title: Grape &amp; Grain
+snippet: Grape &amp; Grain is a new approach in wine, beer and ‘all things fun’ distribution. It brings Matt Holden’s 25 years of industry experience and knowledge in fine wine wholesaling into the new age of the hospitality, service and supply industries.
+
+REL: 1
+POI Name: Switch Lifestyle
+POI City: Narre Warren
+POI Country: AU
+POI Main category: Nightlife
+POI Sub category: Bars, Modern Australian, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 1
+POI Name: Lunar Drive-in Theatre Dandenong
+POI City: Dandenong
+POI Country: AU
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, 
+Snippets:
+title: Welcome to Lunar Drive-In Website
+snippet: Lunar Drive-in Corona Virus Update. Due to the new Corona virus measures introduced by the Federal Government, the Lunar Drive-in Dandenong has been forced to close from tonight (Sunday March 22). We&#39;d like to thank you all so much for your support.
+title: About Lunar Drive-In
+snippet: About Lunar Drive-In. The Lunar Drive-in Theatre Dandenong is the largest drive-in theatre in Australia. We possess four screens that show all the latest blockbusters Hollywood has to offer. We are open every night of the year except Christmas night and run films for only $30 per carload (only $25 Mon-Wed).
+title: Lunar Drive-in Theatre | Dandenong - Only Melbourne
+snippet: Lunar Drive-in Theatre better known as Lunar Drive-in Theatre. The Lunar Drive-in Theatre in Dandenong is Australia&#39;s largest drive-in theatre. It is open every night and screens first release films on its three massive screens Notice
+title: Movies at Lunar Drive-In
+snippet: About Lunar Drive-in; Contact &amp; location; Now showing. Our highway sign Our Highway sign. Come on in. Come on in. Ready for the show. Ready for the show. Lunar ticket box Lunar ticket box. Lunar Cafe! The Lunar Cafe . Movies at Lunar under the stars! Movies at Lunar under the stars! Coming soon. Bad Boys For Life (MA15+) ... Dandenong VIC 3175.
+title: Lunar Drive In - Home | Facebook
+snippet: Lunar Drive In, Dandenong, Victoria. 43,163 likes · 92 talking about this · 137,370 were here. This is the official Facebook home of the Lunar Drive-in Theatre Dandenong, Australia&#39;s largest drive-in...
+title: Contact Lunar Drive-In
+snippet: Contact details, map and driving directions. Contact us Email: lunar@bigpond.net.au. Location: 115 South Gippsland Hwy Dandenong VIC 3175
+title: Lunar Drive-In Theater in Dandenong, Victoria ...
+snippet: The Lunar Drive-in is a large, 4 screen drive-in theater located in Dandenong, Victoria, Australia just outside of Melbourne, Australia. It is open year round and is the largest drive-in in Australia. Check here for more information such as its location, a
+title: Lunar Drive-In pricing and FAQs
+snippet: Can I smoke at the Drive-in? From Dec 1, 2019 the Lunar Drive-in will introduce new smoking restrictions in line with other outdoor businesses. The only designated smoking areas at the drive-in are the last two rows of each theatre. To smoke at any time, even inside your car, you need to either park on the back two rows, or walk to that area.
+title: Lunar Drive-In Dandenong - Cinema Session Times
+snippet: Check out movies for all major cities and regions. Includes cinema sessions times for Lunar Drive-In Dandenong in Dandenong. You can browse through the Australian Movie Guide by cinema and search for your favourite movies.
+title: Lunar Drive In - Lunar Drive-in Dandenong; enjoy movies ...
+snippet: LUNAR DRIVE-IN CORONA VIRUS (COVID-19) UPDATE Issued 17/3/2020 At present the Lunar Drive-in Theatre Dandenong is continuing to operate whilst observing the advice of the Australian Government Department of Health. The health and safety of our customers and staff are of primary concern for us.
+
+REL: 1
+POI Name: Dandenong RSL
+POI City: Dandenong
+POI Country: AU
+POI Main category: Nightlife
+POI Sub category: Bars, Restaurants, 
+Snippets:
+title: Dandenong RSL Sub Branch Inc.
+snippet: What the Dandenong-Cranbourne RSL can do for you. TO RESUME WHEN RESTRICTIONS ARE LIFTED. Our Welfare department provides free advice, assistance and referrals. You do not need to be a Member of the club to seek assistance from us. We are here to help you and your family. Dandenong RSL’s Welfare Department operates to provide. Read More
+title: Entertainment | Dandenong RSL Sub Branch Inc.
+snippet: Weekend Entertainment The Dandenong RSL has popular live bands playing every Saturday night in the Anzac Function Room which include a stage and dancefloor. For
+title: Dandenong RSL - Home | Facebook
+snippet: Dandenong RSL, Dandenong, Victoria. 1.1K likes. RSL Member&#39;s Bar Oskar&#39;s Bar &amp; Bistro Tea &amp; Coffee area TAB Outlet
+title: Main Menu | Dandenong RSL Sub Branch Inc.
+snippet: Please click on the thumbnail below to enlarge the new Oskar&#39;s Bistro menu:
+title: Weekend Entertainment | Dandenong RSL Sub Branch Inc.
+snippet: Saturday Night Entertainment. Enjoy a great night of dinner and dancing to top bands &amp; duo’s every week. Free entry except on Show Nights. Bistro bookings are essential – 03 9792 1535
+title: RSL
+snippet: The Dandenong/Cranbourne RSL Sub Branch was formed by the amalgamation of the Dandenong and Cranbourne Sub Branches in 2009 and provides members and guests the use of 2 venues at the Dandenong RSL and the Cranbourne RSL.
+title: Dandenong RSL - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Dandenong RSL, Dandenong: See 26 unbiased reviews of Dandenong RSL, rated 4 of 5 on Tripadvisor and ranked #28 of 269 restaurants in Dandenong.
+title: Dining | Dandenong RSL Sub Branch Inc.
+snippet: Simply click on any of the different areas or menus for more information. Dining Areas Oskar&#39;s Bistro &amp; Bar Tropicana Lounge Menus Main Menu Seniors Menu Daily
+title: Seniors Menu | Dandenong RSL Sub Branch Inc.
+snippet: Senior’s Menu (2 courses) Available every day/night of the week except for Saturday nights. Members: $14.90. Guests: $16.90. Choose from either the soup of the day or a senior’s desert to accompany a main.
+title: Bowls Club | Dandenong RSL Sub Branch Inc.
+snippet: Dandenong RSL Recreation Bowling Club . NEW PLAYERS WELCOME. Contact: Daphne Camilleri – President – 97919338 / 0416280242 daphnec1@optusnet.com.au. Julie Galloway – Secretary – 9763 3242 / 0417957623. Coaching available. Indoor Carpet “Social Bowls” are held each Monday evening at 7pm. Come in and see what it’s all about.
+
+REL: 1
+POI Name: Dandenong Oasis
+POI City: Dandenong
+POI Country: AU
+POI Main category: Active Life
+POI Sub category: Swimming Pools, Gyms, Swimming Lessons/Schools, 
+Snippets:
+title: Home | Dandenong Oasis
+snippet: CENTRE CLOSED - In light of the COVID 19 pandemic Greater Dandenong Council has made the difficult decision to temporarily close Dandenong Oasis.
+title: Contact Us | Dandenong Oasis
+snippet: Dandenong Oasis Address: Cnr Heatherton Road and Cleeland Street, Dandenong VIC 3175 Email: oasis@ymca.org.au Phone: (03) 9767 3100. You may also be interested in Memberships. Facilities. Contact Corner Heatherton Rd &amp; Cleeland St Dandenong VIC, 3175 oasis@ymca.org.au ...
+title: Prices | Dandenong Oasis
+snippet: CENTRE CLOSED - In light of the COVID 19 pandemic Greater Dandenong Council has made the difficult decision to temporarily close Dandenong Oasis. Read more. Prices Casual entry fees are available for our pool, gym, group fitness classes and squash courts ...
+title: Dandenong Oasis - Home | Facebook
+snippet: Dandenong Oasis - Cnr Heatherton Rd &amp; Cleeland St, Dandenong, Victoria 3175 - Rated 3.2 based on 44 Reviews &quot;I loved this place growing up. But now it&#39;s...
+title: Fitness | Dandenong Oasis
+snippet: In light of the COVID 19 pandemic Greater Dandenong Council has made the difficult decision to temporarily close Dandenong Oasis. Read more Dismiss. Fitness With so many classes and spaces to work out, you&#39;ll find something you love at Dandenong Oasis ...
+title: Dandenong Oasis - Posts | Facebook
+snippet: Dandenong Oasis - Cnr Heatherton Rd &amp; Cleeland St, Dandenong, Victoria 3175 - Rated 3.2 based on 44 Reviews &quot;My Husband &amp; I have been going there for a...
+title: Swimming Lessons | Dandenong Oasis
+snippet: We offer a vast array of classes within our swimming lessons program to cater for people of all ages and abilities. While our classes teach traditional swimming strokes, they also equip our students with vital lifesaving survival skills, not only for the pool, but for rivers, lakes and the ocean.
+title: Dandenong Oasis - Reviews | Facebook
+snippet: Dandenong Oasis - Cnr Heatherton Rd &amp; Cleeland St, Dandenong, Victoria 3175 - Rated 3.2 based on 44 Reviews &quot;Some of the trainers are okay but this...
+title: Shaping the future of Dandenong Oasis – Your say - City of ...
+snippet: Dandenong Oasis has been servicing the aquatic and leisure needs of residents in the City of Greater Dandenong for four decades. Originally built in 1976, the centre underwent a major redevelopment in 1991 and further upgrades in 2003.
+title: Dandenong Oasis Dandenong Gym - LocalFitness.com.au
+snippet: Dandenong Oasis Leisure Centre is the premier indoor swimming pool and Dandenong gym in the City of Greater Dandenong. The all year round facility services the south eastern suburbs of Melbourne and is staffed by a team of exercise, aquatics and customer service professionals committed to being at your service.
+
+REL: 1
+POI Name: Wholefoods Restaurant and Cafe
+POI City: Clayton
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Vegan, Community Service/Non-Profit, 
+Snippets:
+
+
+REL: 1
+POI Name: Elephant Corridor
+POI City: Glen Waverley
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 1
+POI Name: Supercharger
+POI City: Melbourne
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Gluten-Free, Vegetarian, Vegan, 
+Snippets:
+title: Supercharger | Tesla Australia
+snippet: Supercharger Technology Superchargers deliver energy rapidly, and gradually slow down as the battery fills. Your vehicle automatically alerts you when it has enough energy to continue the trip and with the extensive network of Superchargers along popular routes, charging above 80% isn’t typically necessary.
+title: Supercharger, Melbourne, CBD, Melbourne - Urbanspoon/Zomato
+snippet: Rated 4.0/5. Located in Lonsdale Street, Melbourne. Serves Healthy Food, Vegetarian, Salad, Vegan. Known for All vegan restaurant with the build your own bowl system. Cost A$40 for two people (approx.)
+title: Supercharger Wholefood - Home - Melbourne, Victoria ...
+snippet: Supercharger Wholefood - Level 3 Emporium, 287 Lonsdale Street, Melbourne, Victoria, Australia 3000 - Rated 4.7 based on 99 Reviews &quot;Sooooo yummy! I&#39;m...
+title: Supercharger | Tesla
+snippet: Charge on the Road. Stop along the world’s fastest charging network while you grab a quick bite to eat. With our rapidly expanding Supercharger locations placed on well-traveled routes, Tesla can get you anywhere you want to go.
+title: Superchargers | HARROP | Engineering, Superchargers ...
+snippet: POSITIVE DISPLACEMENT SUPERCHARGERS The Harrop range of Superchargers utilise Eaton’s Twin Vortices Series™ (TVS™) technology. Our range are a Roots-type positive displacement supercharger designed for a variety of engine applications delivering more power and torque for uncompromising, high-performance driving.
+title: supercharger in Melbourne Region, VIC | Cars &amp; Vehicles ...
+snippet: Find supercharger ads in our Cars &amp; Vehicles category from Melbourne Region, VIC. Buy and sell almost anything on Gumtree classifieds.
+title: Melbourne-Richmond | Tesla Australia
+snippet: Melbourne-Richmond . Back to list Melbourne-Richmond. Service Centre; Supercharger; 650 Church Street Building 4 Cremorne 3121. Driving Directions Sales 1 800 686 705 Store 03 9039 6000 Service 1800 646 952 Roadside Assistance 1800 646 952 + 61 2 8015 2834 Email serviceanz@tesla.com Service Hours
+title: West Melbourne, FL Supercharger | Tesla
+snippet: West Melbourne, FL Supercharger. Supercharger; Hammock Landing 206 Palm Bay Road West Melbourne, FL 32904-0000. Roadside Assistance (877) 798-3752. Charging 8 Superchargers, available 24/7, up to 150kW. Wifi Panera Bread. Restrooms Hammock Landing Five Guys Panera Bread
+title: Tesla Superchargers in Australia | Tesla
+snippet: Tesla Superchargers in Australia . Back to list ... Gympie Supercharger Cnr Nash and Monkland Street Gympie 4570 Roadside Assistance: 1 800 64 6952: + 61 2 8015 2834 ... Moonee Ponds Level B2, Hall St Moonee Ponds Melbourne 3039 Roadside Assistance: 1 800 64 6952: + 61 2 8015 2834
+title: Supercharger Menu, Menu for Supercharger, CBD, Melbourne
+snippet: Supercharger CBD Menu - View the Menu for Supercharger Melbourne on Zomato for Delivery, Dine-out or Takeaway, Supercharger menu and prices. Supercharger Menu
+
+REL: 0
+POI Name: Anytime Fitness
+POI City: Dandenong
+POI Country: AU
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: DANDENONG - Victoria | Find a Gym | Anytime Fitness
+snippet: Your fitness starts here. Join Anytime Fitness Dandenong and you’re joining Australia’s biggest fitness community. Whatever fitness means to you, it’s waiting here in-club. There’s all the equipment you need to push yourself harder, with both cardio and floor training areas. There’s 24/7 access to over 3,200 Anytime Fitness gyms ...
+title: Dandenong North - Victoria | Find a Gym | Anytime Fitness
+snippet: Join Anytime Fitness Dandenong North and you’re joining Australia’s biggest fitness community. Whatever fitness means to you, it’s waiting here st our Dandy North club.There’s a range of intensive Anytime Fitness classes to help you vary your workouts.
+title: Anytime Fitness - Home | Facebook
+snippet: Anytime Fitness - 106-114 Walker St, Dandenong, Victoria 3175 - Rated 4.4 based on 28 Reviews &quot;Best thing I have ever done is joining Anytime Fitness...
+title: Anytime Fitness - Home | Facebook
+snippet: Anytime Fitness, Dandenong, VIC. 3.3K likes. At Anytime Fitness Dandenong North, you will find amazing amenities--including the best fitness equipment...
+title: Anytime Fitness - Posts | Facebook
+snippet: Anytime Fitness, Dandenong, VIC. 3.3K likes. At Anytime Fitness Dandenong North, you will find amazing amenities--including the best fitness equipment...
+title: Anytime Fitness Dandenong - Home | Facebook
+snippet: Anytime Fitness Dandenong. 21 likes · 7 were here. Gym/Physical Fitness Center
+title: 24 Hour Gyms | Anytime Fitness Australia
+snippet: We have had to temporarily close all Anytime Fitness Australia clubs until further notice due to recent Government requirements. We thank you for your support of our 515 individually owned and operated clubs and the members of our team while we go through this period of uncertainty.
+title: Gyms in Victoria | Anytime Fitness
+snippet: Discover Anytime Fitness locations close to you and find clubs in your country or region using our gym map today.
+title: Anytime Fitness Dandenong, 106- 114 Walker Street, Dandenong
+snippet: Maps and GPS directions to Anytime Fitness Dandenong and other Anytime Fitness in Australia.Find your nearest Anytime Fitness. Find your local 24 Hour Gyms, Fitness Centers and Health Clubs in Australia. Anytime Fitness fits your busy lifestyle with 24 hour access to thousands of gym locations worldwide.
+title: Dandenong North Anytime Fitness - YouTube
+snippet: Sign in to like videos, comment, and subscribe. Sign in. Watch later
+
+REL: 0
+POI Name: Dandenong Club
+POI City: Dandenong
+POI Country: AU
+POI Main category: Nightlife
+POI Sub category: Bars, Restaurants, 
+Snippets:
+title: The Dandenong Club | Award-Winning Social Venue
+snippet: Welcome to the award winning Dandenong Club, located on the corner of Stud and Heatherton roads just off the Monash Freeway. We are proud of our Club and the welcoming environment for our members and guests. Our facilities are among the best and feature four bars, a cafe, a restaurant, function rooms, wireless internet access and ample car parking.
+title: Bowls Club in Melbourne | Dandenong Club
+snippet: Club Bowls. At Dandenong Club we are doing our best to recognize the value of every bowler and appreciate that individuals have varying levels of interest and commitment. Everyone who bowls at our club is important to us and our aim is to make bowls at Dandenong Club the best, affordable experience we possibly can.
+title: Contact Us | Dandenong Club
+snippet: Contact Us The Dandenong Club 1579 Heatherton Road Dandenong, VIC Melway Ref: 90 G3 Phone: +61 3 9792 1963 Fax: +61 3 9701 3105 Trading Hours Monday &amp; Tuesday –
+title: Dandenong Club Menu, Menu for Dandenong Club, Dandenong ...
+snippet: Dandenong Club Dandenong North Menu - View the Menu for Dandenong Club Melbourne on Zomato for Delivery, Dine-out or Takeaway, Dandenong Club menu and prices. Dandenong Club Menu It is an icon with title Location Fill. It is an icon with title Down Triangle. It is an ...
+title: Dandenong Club Bowls Club - Home | Facebook
+snippet: Dandenong Club Bowls Club. 271 likes. Dandenong Club Bowls Club is situated on corner of Stud &amp; Heatherton Rds Dandenong with two excellent grass greens that enable summer and winter bowls.
+title: Membership | Dandenong Club
+snippet: Membership. There are plenty of great reasons to become a Dandenong Club Member. Simply lodge your application at reception and start enjoying the warm and welcoming, atmosphere the Dandenong Club is renowned for.
+title: Aero Products | Dandenong Club
+snippet: Aero Optima Bowls $475 - $575. Around 15 to 30cm wider than a Dynamic but by no means a wide bowl, the line is just outside of the mid-line Dynamic
+title: Bowls Events | Dandenong Club
+snippet: Roll UpBowls ShopBarefoot BowlsJack AttackCompetition BookingsClub BowlsTry BowlsOur UBC TeamBowls FunctionsBowls Events Bowls Events at The Dandenong Club
+title: Upcoming Events – Dandenong Club
+snippet: Events Search and Views Navigation. Show Events Search Events Search
+title: Club – Dandenong Thunder FC
+snippet: The club was founded by Albanian migrants in 1964 and originally played under the name ‘South Dandenong Soccer Club’. Today, the remnants of the clubs original founders is still seen, with the club still backed by a large majority of Albanian-Australians living in Melbourne and an ever growing football-fan base derived from the local and surrounding suburbs.
+
+REL: 0
+POI Name: Sizzler Ji
+POI City: Carnegie
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Proud Peacock
+POI City: Mount Waverley
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+
+
+REL: 0
+POI Name: Om Vegetarian
+POI City: Melbourne
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: Om Vegetarian Restaurant MelbourneOm best Vegetarian ...
+snippet: Om Vegetarian and Vegan Restaurants are a family run business in Melbourne. Om serves hearty and delicious vegetarian indian food with freshly baked naan bread. Awarded Tripadvisor Certificate of Excellence 2015, 2016, 2017 and 2018.
+title: Om Vegetarian, Melbourne - Restaurantanmeldelser - Tripadvisor
+snippet: Om Vegetarian, Melbourne: Se 165 objektive anmeldelser av Om Vegetarian, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 589 av 4 803 restauranter i Melbourne.
+title: Om Vegetarian, Melbourne - Restaurantanmeldelser - Tripadvisor
+snippet: Om Vegetarian, Melbourne: Se 136 objektive anmeldelser av Om Vegetarian, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 620 av 4 805 restauranter i Melbourne.
+title: MENU GALLERY — Om Vegetarian Restaurant Melbourne
+snippet: Menu for Om Vegetarian and Vegan Restaurant Melbourne. Authetic Indian Vegetarian Food options. Vegan Restaurant Options Melbourne. All you can eat melbourne. tripadvisor award melbourne. Vegan Restaruant. Vegetarian Restaurant melbourne. cheap eats melbourne. cheapest places to eat melbourne. cheap
+title: Om Vegetarian, Melbourne - Shop 4 227 Collins St, Central ...
+snippet: Om Vegetarian has undoubtedly the best value vegetarian food you can get in the CBD. For only $7.50 you now get 3 curries (previously 2), pickle, rice and naan. Service and decor is simple and perfect for a wholesome feed in the city.
+title: Om Vegetarian, Melbourne, CBD, Melbourne - Urbanspoon/Zomato
+snippet: Rated 3.8/5. Located in Elizabeth Street, Melbourne. Serves Indian, Vegetarian. Known for Affordable vegetarian buffet with a homemade feel. Cost A$25 for two people (approx.)
+title: Om Vegetarian, Melbourne - 28 Elizabeth St, Central ...
+snippet: Om Vegetarian has undoubtedly the best value vegetarian food you can get in the CBD. For only $7.50 you now get 3 curries (previously 2), pickle, rice and naan. Service and decor is simple and perfect for a wholesome feed in the city.
+title: Om Vegetarian, Swanston Street, CBD, Melbourne ... - Zomato
+snippet: Om Vegetarian CBD, Melbourne; Om Vegetarian, Swanston Street; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Om Vegetarian Restaurant on Zomato
+title: Om Vegetarian, Melbourne - Capitol Arc, Central Business ...
+snippet: Om Vegetarian, Melbourne: See 31 unbiased reviews of Om Vegetarian, rated 4 of 5 on Tripadvisor and ranked #1,459 of 4,805 restaurants in Melbourne.
+title: STORY — Om Vegetarian Restaurant Melbourne
+snippet: The Story of Om Vegetarian Restaurant . Om Vegetarian is a family owned and run chain of restaurants in Melbourne. Our goal is to share healthy, affordable dining options to all our patrons and promote the benefits of a Vegetarian lifestyle.
+
+REL: 0
+POI Name: Jimmy Grants
+POI City: Melbourne
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: Jimmy Grants – Greek street food, done right. Souvas like ...
+snippet: Jimmy Grants is Greek street food, done right. Prepared slow. Served fast. No greasy late night souvas here, we’re all about fresh tasty ingredients.
+title: Jimmy Grants – Menu
+snippet: Souvas like you wouldn’t expect. Prepared slow. Served fast. Jimmy makes real Greek street food with fresh, tasty ingredients.
+title: Jimmy Grants — Locations
+snippet: Jimmy Grants x Yo-Chi Menu. The full Jimmy Grants menu is available with Yo-Chi soft serve frozen yoghurt as a dessert option. Lucky!
+title: Jimmy Grants — Locations
+snippet: Full Menu. Our standard Jimmy Grants menu is available for your eating pleasure. (Yo-Chi is only available at selected locations. Sadly this isn&#39;t one of them.)
+title: Jimmy Grants – Jimmy&#39;s Story
+snippet: The name Jimmy Grants is a nod to our immigrant ancestors and the stories our grandfathers told us, of the old days working on the Melbourne wharfs. Of the way the Aussies would call everyone else, whether from Greece, Asia or the Middle East — ‘Jimmy Grant’.
+title: Jimmy Grants, Fitzroy, Melbourne - Zomato
+snippet: Jimmy Grants Melbourne; Jimmy Grants, Fitzroy; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Jimmy Grants Restaurant on Zomato It is an icon with title Location Fill It is an icon with title Down Triangle. It is ... Jimmy grants have the best chips in melbourne. My favourite souvlaki at the moment is the Poseidon.
+title: Jimmy Grants — Locations
+snippet: Full Menu. The full Jimmy Grants menu is available with Yo-Chi soft serve frozen yoghurt as a dessert option. Lucky!
+title: Jimmy Grants Menu, Menu for Jimmy Grants, Fitzroy ...
+snippet: Jimmy Grants Fitzroy Menu - View the Menu for Jimmy Grants Melbourne on Zomato for Delivery, Dine-out or Takeaway, Jimmy Grants menu and prices. Jimmy Grants Menu
+title: Jimmy Grants Menu, Menu for Jimmy Grants, Ringwood ...
+snippet: Jimmy Grants Ringwood Menu - View the Menu for Jimmy Grants Melbourne on Zomato for Delivery, Dine-out or Takeaway, Jimmy Grants menu and prices. Jimmy Grants Menu. Serves Greek. Cost A$40 for two people (approx.) Products for Businesses We&#39;re hiring. Melbourne. Please type a location... All of Melbourne.
+title: Jimmy Grants, Melbourne, CBD, Melbourne - Urbanspoon/Zomato
+snippet: Jimmy Grants CBD, Melbourne; Jimmy Grants, Melbourne; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Jimmy Grants Restaurant on Zomato. Serves Greek. Known for George Calombaris&#39; Greek inspired fast food venture. Cost A$40 for two people (approx.) Products for Businesses We&#39;re hiring.
+
+REL: 0
+POI Name: Arya India Restaurant
+POI City: Narre Warren South
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Bowery to Williamsburg
+POI City: Melbourne
+POI Country: AU
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Breakfast & Brunch, 
+Snippets:
+title: Homepage - Bowery to Williamsburg
+snippet: Bowery to Williamsburg is a classic NYC diner style joint, combining the best of America, in a refined style and surroundings that Melbournians have come to expect. Located at 16 Oliver Lane, in Melbourne CBD, Bowery to Williamsburg is an homage to New York City&#39;s Bowery subway station.
+title: Bowery to Williamsburg, CBD, Melbourne - Zomato
+snippet: Bowery to Williamsburg Melbourne; Bowery to Williamsburg, CBD; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Bowery to Williamsburg Restaurant on Zomato
+title: Bowery to Williamsburg, Melbourne - Central Business ...
+snippet: Order food online at Bowery to Williamsburg, Melbourne with Tripadvisor: See 293 unbiased reviews of Bowery to Williamsburg, ranked #79 on Tripadvisor among 4,805 restaurants in Melbourne.
+title: Contact - Bowery to Williamsburg
+snippet: Bowery to Williamsburg 16 Oliver Lane Melbourne VIC 3000 Open daily except public holidays Weekdays 7.30am - 3.00pm Weekends 8.30am - 3.00pm
+title: Bowery To Williamsburg - Melbourne, Victoria, Australia ...
+snippet: Bowery To Williamsburg, Melbourne, Victoria, Australia. 1,336 likes · 1 talking about this · 1,721 were here. FOR ENQUIRIES Call us at 03 9077 0162 Email us at bowerytowilliamsburg@gmail.com OPEN...
+title: Bowery to Williamsburg - Melbourne - Zomato
+snippet: Bowery to Williamsburg Melbourne Menu - View the Menu for Bowery to Williamsburg CBD, Melbourne on Zomato for Delivery, Dine-out or Takeaway, Bowery to Williamsburg menu and prices. Bowery to Williamsburg Menu
+title: Bowery to Williamsburg, Melbourne Review | Concrete ...
+snippet: Read Concrete Playground&#39;s review of Bowery to Williamsburg, Melbourne and find 461 more Melbourne bar reviews. The best guide to bars, restaurants and cafes in Melbourne.
+title: Bowery to Williamsburg - Broadsheet
+snippet: This homage to New York’s Bowery subway station is set up to transport you to an all-American destination, combining the industrial feel of a subway, the efficiency of an American canteen and the level of sophistication that Melbourne food enthusiasts have come to expect from their cafe experience.
+title: Bowery To Williamsburg, Melbourne CBD - The City Lane
+snippet: Bowery to Williamsburg in Melbourne’s CBD is a cafe that, as the name suggests, is inspired by Manhattan’s Bowery, Brooklyn’s Williamsburg and all things cool and New York City in 2013. Run by the same team that own the popular Hardware Societie, the aim is to bring a slice of this New York vibe to Melbourne.
+title: Bowery to Williamsburg - City of Melbourne
+snippet: Enjoy a little slice of New York in the CBD. Bowery to Williamsburg serves American-style bagels, sandwiches and brunches with delicious coffee.
+
+Cand cities: {'Noble Park', 'Melbourne', 'Clayton', 'Narre Warren', 'Ferntree Gully', 'Ormond', 'Carnegie', 'Glen Waverley', 'Belgrave', 'Wantirna South', 'Dandenong', 'Narre Warren South', 'Mount Waverley'}

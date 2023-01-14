@@ -1,0 +1,381 @@
+City: Via San Vitale
+Country: IT
+Main category: Restaurants and Food
+Sub category: Italian
+Description: We are going to Italy for the first time in a couple of weeks. We are staying on the Via San Vitale near the towers - can anyone recommend some good restaurants? We’d very much like to eat the local specialties rather than the usual tourist stuff, but we don’t speak Italian so any recommendations for good places to eat will be very welcome! Thanks!
+Rated POIs: 37
+Rel distr: [(0, 14), (1, 19), (2, 4)]
+=================================
+REL: 2
+POI Name: Trattoria Valerio
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Trattorie, 
+Snippets:
+
+
+REL: 2
+POI Name: Osteria dell'Orsa
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Ristoranti: Cambusa
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Trattoria Antica Osteria Romagnola Di Amura Antonio
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Bistros, 
+Snippets:
+
+
+REL: 1
+POI Name: Osteria Broccaindosso
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Emilian, 
+Snippets:
+
+
+REL: 1
+POI Name: Ristoro della Salute
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Gelato, 
+Snippets:
+title: Ristoro della Salute, Rome - Monti - Menu, Prices ...
+snippet: Our experience at Ristoro della salute was excellent, exactly what we needed after a long day. I couldn’t compliment the service enough. The drinks and food were exactly what we needed for our second meal in Rome, and I would 100% recommend it to anyone...
+title: Restaurant at Colosseum of Rome Ristoro della Salute ...
+snippet: Ristoro della Salute is a historical Pizza Bar Restaurant in the centre of Rome, located right in the beautiful setting of the Piazza del Colosseo. It offers a menu a la carte with several meat and fish dishes, starters, main and second courses, with different side dishes, a variaty of salads and a delicious selection of desserts.
+title: Ristorante Colosseo Roma | Ristoro della Salute - Pizzeria Bar
+snippet: Il Ristoro della Salute è uno storico Ristorante Pizzeria Bar situato al centro di Roma, nella splendida cornice di piazza del Colosseo. Propone un menù à la carte con pietanze a base di carne e pesce, con antipasti, primi piatti, secondi e contorni variegati, un assortimento di insalate e una gustosa scelta di dolci.
+title: Ristoro della Salute, Rome - Monti - Menu, Prices ...
+snippet: Reserve a table at Ristoro della Salute, Rome on Tripadvisor: See 1,904 unbiased reviews of Ristoro della Salute, rated 4.5 of 5 on Tripadvisor and ranked #489 of 12,181 restaurants in Rome.
+title: Ristoro della Salute, Roma - Restaurantanmeldelser ...
+snippet: Ristoro della Salute, Roma: Se 1 904 objektive anmeldelser av Ristoro della Salute, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 494 av 12 179 restauranter i Roma.
+title: RISTORO DELLA SALUTE, Rome - Monti - Updated 2020 ...
+snippet: Reserve a table at Ristoro della Salute, Rome on Tripadvisor: See 1,900 unbiased reviews of Ristoro della Salute, rated 4.5 of 5 on Tripadvisor and ranked #502 of 12,166 restaurants in Rome.
+title: RISTORO DELLA SALUTE, Roma - Monti - Menu, Prezzo ...
+snippet: Prenota Ristoro della Salute, Roma su Tripadvisor: trovi 1.904 recensioni imparziali su Ristoro della Salute, con punteggio 4,5 su 5 e al n.489 su 12.183 ristoranti a Roma.
+title: Ristoro della Salute, Rome - Monti - Menu, Prices ...
+snippet: Ristoro della Salute, Rome: See 1,878 unbiased reviews of Ristoro della Salute, rated 4.5 of 5 on Tripadvisor and ranked #513 of 12,161 restaurants in Rome.
+title: RISTORO DELLA SALUTE, Roma - Monti - Menú, Precios y ...
+snippet: Reserva Ristoro della Salute, Roma en Tripadvisor: Consulta 1.904 opiniones sobre Ristoro della Salute con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°489 de 12.181 restaurantes en Roma.
+title: Ristoro della Salute - Aventino - Rome, Roma, Italy - Yelp
+snippet: 39 reviews of Ristoro della Salute &quot;Solid restaurant. No complaints. Bit of a tourist trap, but the food was good!&quot;
+
+REL: 1
+POI Name: Scrambler Ducati Food Factory
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, Piadina, 
+Snippets:
+
+
+REL: 1
+POI Name: Alce Nero Berbere
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Desserts, Pizza, 
+Snippets:
+
+
+REL: 1
+POI Name: Trattoria Da Leonida
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Bistros, 
+Snippets:
+
+
+REL: 1
+POI Name: Pasta Fresca Naldi
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Pasta Shops, 
+Snippets:
+
+
+REL: 1
+POI Name: Pizzeria La Brace
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 1
+POI Name: Taverna La Mola
+POI City: Stroncone
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 1
+POI Name: Grassilli
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Diners, 
+Snippets:
+
+
+REL: 1
+POI Name: Eataly
+POI City: Bologna
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Bars, Italian, Wineries, 
+Snippets:
+
+
+REL: 1
+POI Name: Forno Brisa
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Bakeries, 
+Snippets:
+
+
+REL: 1
+POI Name: Il Marchese
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Roman, Cocktail Bars, 
+Snippets:
+title: Il Marchese – Osteria · Mercato · Liquori
+snippet: Liberamente ispirato al film Il Marchese del Grillo, il nostro ristorante e cocktail bar nasce dal desiderio di fondere due anime molto diverse, quasi opposte, per creare uno spazio unico e sorprendente.
+title: il Marchese - Osteria Mercato Liquori, Rome - Centro ...
+snippet: Reserve a table at il Marchese - Osteria Mercato Liquori, Rome on Tripadvisor: See 256 unbiased reviews of il Marchese - Osteria Mercato Liquori, rated 4 of 5 on Tripadvisor and ranked #2,127 of 12,183 restaurants in Rome.
+title: Il Marchese - Home | Facebook
+snippet: Il Marchese - via di ripetta 162, 00186 Rome, Italy - Rated 4.8 based on 4 Reviews &quot;Ho letto l’articolo sul gambero rosso e ci sono stata per bere dopo...
+title: Il Marchese – Osteria · Mercato · Liquori
+snippet: Loosely based on the movie Il Marchese del Grillo, we create our restaurant and cocktail bar with the desire to fuse together two different souls and create a unique and surprising space.
+title: Il Marchese, Rome - Via Latina 43/B, San Giovanni ...
+snippet: Il Marchese, Rome: See 4 unbiased reviews of Il Marchese, rated 4.5 of 5 on Tripadvisor and ranked #8,513 of 12,182 restaurants in Rome.
+title: Il Marchese: Rome&#39;s Cocktail Bar &amp; Europe&#39;s First Amaro ...
+snippet: Il Marchese is also Europe’s first Amaro bar who has completely changed my mind about the bitter, after-dinner digestif. My only point of reference previously had been the free offering post-meal at local Roman trattorias. And I was not a huge fan.
+title: il Marchese - Osteria Mercato Liquori, Rome - Centro ...
+snippet: il Marchese - Osteria Mercato Liquori, Rome: See 256 unbiased reviews of il Marchese - Osteria Mercato Liquori, rated 4 of 5 on Tripadvisor and ranked #2,166 of 12,175 restaurants in Rome.
+title: Il Marchese: Europe&#39;s First Amaro Bar Arrives To Rome ...
+snippet: Meet il Marchese, a restaurant &amp; cocktail bar with two souls in Rome’s centro storico. The newly opened Il Marchese unites the best of two worlds: a bar with elegant French salon accents and pompous chandeliers, and a restaurant with the coziness of a Roman trattoria.But it’s not just the décor that’s impressive.
+title: Il Marchese in Rome - Restaurant Reviews, Menu and Prices ...
+snippet: Book a table at Il Marchese in Rome. Find restaurant reviews, menu, prices, and hours of operation for Il Marchese on TheFork.
+title: Il Marchese - Where Rome
+snippet: A short walk from Piazza del Popolo, brand-new eatery Il Marchese brings an authentic dose of local culinary tradition reinterpreted in a modern key—to Rome’s often tourist-restaurant-heavy historic center.
+
+REL: 1
+POI Name: Osteria Bartolini
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, 
+Snippets:
+
+
+REL: 1
+POI Name: La Rustica
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, Mediterranean, 
+Snippets:
+
+
+REL: 1
+POI Name: Trattoria Oberdan da Mario
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Trattorie, Emilian, 
+Snippets:
+
+
+REL: 1
+POI Name: Da Cesari
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 1
+POI Name: La Gardela
+POI City: Ravenna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 0
+POI Name: Bagno Ines N48
+POI City: Villamarina
+POI Country: IT
+POI Main category: Active Life
+POI Sub category: Beaches, 
+Snippets:
+
+
+REL: 0
+POI Name: UGC Cine
+POI City: Savignano Sul Rubicone
+POI Country: IT
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, 
+Snippets:
+
+
+REL: 0
+POI Name: Bottega Portici
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Emilian, Fast Food, 
+Snippets:
+
+
+REL: 0
+POI Name: Gastronomia Stella di Barbetta Gianmarco
+POI City: Ravenna
+POI Country: IT
+POI Main category: Shopping
+POI Sub category: 
+Snippets:
+
+
+REL: 0
+POI Name: Tavola Calda
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Tavola Calda / Rome - Review of Tavola Calda, Rome, Italy ...
+snippet: Tavola Calda: Tavola Calda / Rome - See 116 traveler reviews, 25 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Tavola Calda, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Tavola Calda, Roma: Se 115 objektive anmeldelser av Tavola Calda, vurdert til 2,5 av 5 på Tripadvisor og vurdert som nr. 11 394 av 12 179 restauranter i Roma.
+title: Tavola Calda, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Tavola Calda, Roma: Se 53 objektive anmeldelser av Tavola Calda, vurdert til 2,5 av 5 på Tripadvisor og vurdert som nr. 11 089 av 12 182 restauranter i Roma.
+title: TAVOLA CALDA, Rome - Via Corso 321, Centro - Updated 2020 ...
+snippet: Tavola Calda, Rome: See 115 unbiased reviews of Tavola Calda, rated 2.5 of 5 on Tripadvisor and ranked #11,394 of 12,172 restaurants in Rome.
+title: Avoid - Review of Tavola Calda, Rome, Italy - Tripadvisor
+snippet: Tavola Calda: Avoid - See 116 traveler reviews, 25 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: panino +++++ - Picture of Tavola Calda, Rome - Tripadvisor
+snippet: Tavola Calda, Rome Picture: panino +++++ - Check out Tripadvisor members&#39; 50,104 candid photos and videos of Tavola Calda
+title: Pizzeria Tavola Calda, Roma - Restaurantanmeldelser ...
+snippet: Pizzeria Tavola Calda, Roma: Se 5 objektive anmeldelser av Pizzeria Tavola Calda, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 8 703 av 12 183 restauranter i Roma.
+title: Pizza Famiglia Tavola Calda - Home - Rome, Italy - Menu ...
+snippet: Pizza Famiglia Tavola Calda - VIALE RATTO DELLE SABINE NR 67, 00131 Rome, Italy - Rated 4.8 based on 55 Reviews &quot;Ottima pizza ! Peccato per il servizio...
+title: Bar Tavola calda Tortora, Roma - Restaurantanmeldelser ...
+snippet: Bar Tavola calda Tortora, Roma: Se 12 objektive anmeldelser av Bar Tavola calda Tortora, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 10 007 av 12 182 restauranter i Roma.
+title: Tavola Calda - Rome Message Board - Tripadvisor
+snippet: Answer 1 of 8: Can anyone recommend good inexpensive Tavole Calde cafes in the Prati / Piazza Risorgimento / Borgo areas of Rome for someone on a budget. I have bad experiences in past visits to Rome of expensive tourist ripoff restaurants . Cheers, Jamie Stuart
+
+REL: 0
+POI Name: Bottega Portici - 2 Torri
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, Emilian, 
+Snippets:
+
+
+REL: 0
+POI Name: Wall Street Sport
+POI City: Cesenatico
+POI Country: IT
+POI Main category: Active Life
+POI Sub category: Active Life, 
+Snippets:
+
+
+REL: 0
+POI Name: Bella Venezia
+POI City: Ravenna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 0
+POI Name: Dal Biassanot
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 0
+POI Name: Trattoria Da Gianni
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Bistros, Farmers Market, 
+Snippets:
+
+
+REL: 0
+POI Name: Sfoglia Rina
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Pasta Shops, 
+Snippets:
+
+
+REL: 0
+POI Name: Osteria al 15
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+
+
+REL: 0
+POI Name: Il Salone del Tandem
+POI City: Cesenatico
+POI Country: IT
+POI Main category: Active Life
+POI Sub category: Bikes, Bike Rentals, Bike Repair/Maintenance, 
+Snippets:
+
+
+REL: 0
+POI Name: Osteria dei Grifoni
+POI City: Bologna
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, Trattorie, 
+Snippets:
+
+
+Cand cities: {'Bologna', 'Villamarina', 'Stroncone', 'Savignano Sul Rubicone', 'Cesenatico', 'Rome', 'Ravenna'}

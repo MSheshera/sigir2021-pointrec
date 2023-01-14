@@ -1,0 +1,648 @@
+City: Amsterdam
+Country: NL
+Main category: Nightlife
+Sub category: Bars - Pubs - Beer Garden
+Description: Hello Amsterdamers (if this is a word), I am new to this wonderful city of Amsterdam. Today I am going out with one of my close friends who is just visiting as a tourist here. I want to take her out for a nice fun evening but not to a very touristy or expensive place. Any recommendation of a cool, local chilled out place with a view and maybe nice live music? Something like the biergartens in Germany (moving from Berlin so thats the best context I can provide, my fav there was Klunkerkranich :p) Thank you veryyy much in advance. :) PS: We are 26 years old, just to give a sense of taste :p
+Rated POIs: 44
+Rel distr: [(0, 5), (1, 13), (2, 11), (3, 15)]
+=================================
+REL: 3
+POI Name: Cannibale Royale
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Mulligans
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Café Koosje
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, Modern European, Breakfast & Brunch, 
+Snippets:
+
+
+REL: 3
+POI Name: Cafe Kooper
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Café Kooper - Home | Facebook
+snippet: Café Kooper - Leidseplein 16, 1017 PT Amsterdam, Netherlands - Rated 3.9 based on 128 Reviews &quot;Terrible service! friend and I wanted to have a few pints...
+title: Cafe Kooper - Het bruisend hart van Amsterdam
+snippet: Cafe Kooper. Café Kooper is een gezellig bruin café, midden op het drukke Leidseplein. Kom binnen voor een lekker kopje koffie &#39;s ochtends, een gezellig drankje &#39;s middags of een feestje &#39;s avonds! Donderdagavond is onze gezellige en drukke studentenavond in Café Kooper, vrijdag- en zaterdagavond is &#39;t feest compleet met onze DJ!
+title: Cafe Kooper, Amsterdam - Centrum - Restaurant Reviews ...
+snippet: Cafe Kooper, Amsterdam: See 18 unbiased reviews of Cafe Kooper, rated 1.5 of 5 on Tripadvisor and ranked #3,961 of 4,235 restaurants in Amsterdam.
+title: Cafe Kooper - Het bruisend hart van Amsterdam
+snippet: Cafe Kooper. Cafe Kooper is a cozy pub right on the busy Leidseplein. Come in for a cup of coffee in the morning, a nice afternoon drink or a party night! Thursday night is our cozy and busy student night at Cafe Kooper, Friday and Saturday evening the festival complete with our DJ!
+title: Café Kooper - Amsterdam - Kroegenweb.nl
+snippet: Café Kooper is een gezellig bruin café, midden op het drukke Leidseplein. Kom binnen voor een lekker kopje koffie &#39;s ochtends, een gezellig drankje &#39;s middags of een feestje &#39;s avonds! Donderdagavond is onze gezellige en drukke studentenavond in Café Kooper, vrijdag- en zaterdagavond is &#39;t feest compleet met onze DJ!
+title: Café Kooper - Startpagina | Facebook
+snippet: Café Kooper - Leidseplein 16, 1017 PT Amsterdam - Beoordeling van 3.9 op basis van 126 recensies &#39;Wij gingen zitten en na 15 min waren wij nog steeds... Direct naar. ... The Rock In and Roll Out Cafe, Amsterdam. Cooldown Cafe Leidseplein &#39;&#39;de kleine&#39;&#39; Blinq Amsterdam. 20-22 Luminaa.
+title: Photos for Cafe Kooper - Yelp
+snippet: Photos at Cafe Kooper - Amsterdam, Noord-Holland. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Café Kooper - Amsterdam, Noord-Holland - Untappd
+snippet: Find out what&#39;s popular at Café Kooper in Amsterdam, Noord-Holland in real-time and see activity
+title: UMENU | Cafe Kooper - Amsterdam
+snippet: skrive anmeldelse Cafe Kooper . Navn. E-post. Når du har spist her. ... Princess Arthotel Amsterdam Coffeeshop &#39;Het Gelderse&#39; Red Light Bar The Spirit Vitam. Tilbake. UMENU ™ 2020 ...
+title: CAFE KOOPER, Amsterdam - Restaurantbeoordelingen - Tripadvisor
+snippet: Cafe Kooper, Amsterdam: Bekijk 17 onpartijdige beoordelingen van Cafe Kooper, gewaardeerd als 2 van 5 bij Tripadvisor en als nr. 3.939 van 4.215 restaurants in Amsterdam. &lt;/cf&gt;
+
+REL: 3
+POI Name: Pllek
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Beach Bars, Breakfast & Brunch, 
+Snippets:
+
+
+REL: 3
+POI Name: De Roode Laars
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 3
+POI Name: San Francisco
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: San Francisco Bar - Zeedijk - Home | Facebook
+snippet: San Francisco Bar - Zeedijk - Zeedijk 40, 1012 AZ Amsterdam, Netherlands - Rated 4.4 based on 39 Reviews &quot;Incredibly rude and unhelpful staff. Had...
+title: $583 Flights from San Francisco to Amsterdam: SJC to AMS ...
+snippet: Flights from San Francisco to Amsterdam Flights from San Francisco to Amsterdam, current page ... United Airlines (UA) will also take you to your destination in comfort. Offering 18 flights per month between San Francisco and Amsterdam, it&#39;s another popular airline to look into. Route Information for Flights from San Francisco to Amsterdam.
+title: Billige flybilletter fra San Francisco internasjonale til ...
+snippet: Finn flyreiser fra San Francisco internasjonale til Amsterdam Schiphol med www.skyscanner.no Vi tilbyr en gratis søketjeneste der du kan billige flybilletter fra alle de store flyselskapene fra San Francisco internasjonale til Amsterdam Schiphol.
+title: $272 - Cheap flights from Amsterdam (AMS) to San Francisco ...
+snippet: Compare &amp; reserve one-way or return flights from Amsterdam to San Francisco from $272 only to get the best flight deals and promotions for your AMS to SFO trip! Skip to main content. Welcome to {{displayDomain}}, a US site operated by Expedia, Inc., a Washington corporation.
+title: Billige flyreiser Amsterdam - San Francisco - Jetcost
+snippet: Med Jetcost, finn billige flybilletter og lavprisbilletter fra Amsterdam til San Francisco med ett klikk: Sammenlign billettprisene til de beste flyselskapene og reisebyråene i løpet av sekunder. Bare velg destinasjonen din og reisedatoene dine for å sammenligne priser på flybilletter fra Amsterdam til San Francisco.
+title: Cheap flights from Amsterdam(AMS) to San Francisco(SFO ...
+snippet: If you’ve been planning a romantic holiday with a partner, itching for an adventurous solo escape to one of the globe’s most fascinating destinations, or just looking to soak up some local history and culture, flights from Amsterdam to San Francisco provide the perfect getaway.
+title: Billige flyreiser San Francisco - Amsterdam - Jetcost
+snippet: Fly San Francisco - Amsterdam: Søk og bestill billige flybilletter fra San Francisco til Amsterdam. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Amsterdam Time to San Francisco Time Converter -- TimeBie
+snippet: Amsterdam Netherlands Time and San Francisco Time Converter Calculator, Amsterdam Time and San Francisco Time Conversion Table.
+title: Fly Amsterdam - San Francisco | AMS - SFO | Expedia.no
+snippet: Når du ser etter fly fra Amsterdam (AMS) til San Francisco (SFO), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Amsterdam til San Francisco.
+title: Amsterdam Hostel i San Francisco | Hotels.com
+snippet: Amsterdam Hostel ligger i sentrum og nær en undergrunnsstasjon i bydelen San Francisco sentrum i San Francisco. Et par populære landemerker er Lombard Street og Pier 39, og hvis du er på utkikk etter morsomme aktiviteter, kan du ta turen til Ferjebygningen og Berkeley Marina. Du kan se om det skjer noe kult på Oracle Park, og hvis du har tid, bør du også få med deg San Francisco ...
+
+REL: 3
+POI Name: Door 74
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Café Sound Garden
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Waterkant
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 3
+POI Name: De Kroegtijger
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, Lounges, 
+Snippets:
+title: Café de Kroegtijger - Home | Facebook
+snippet: Café de Kroegtijger, Amsterdam. 2.1K likes. Bediening zoals het hoort in een kroeg met een Amsterdamse ziel , fijne muziek en reet goede cocktails.
+title: Kroegtijger, Amsterdam - Centrum - Restaurant Reviews ...
+snippet: Kroegtijger, Amsterdam: See 94 unbiased reviews of Kroegtijger, rated 5 of 5 on Tripadvisor and ranked #228 of 4,218 restaurants in Amsterdam. Flights ... To visit Amsterdam and not explore De Wallen (the Dutch name for this area) or to go only to gawk at its
+title: KROEGTIJGER, Amsterdam - Centrum - Updated 2020 Restaurant ...
+snippet: Kroegtijger, Amsterdam: See 94 unbiased reviews of Kroegtijger, rated 5 of 5 on Tripadvisor and ranked #210 of 4,228 restaurants in Amsterdam. Flights Holiday Rentals ... To visit Amsterdam and not explore De Wallen (the Dutch name for this area) or to go only to gawk at its
+title: Påsketur - Anmeldelse for Kroegtijger, Amsterdam ...
+snippet: Kroegtijger: Påsketur - Se 94 reiseanmeldelser, 54 objektive bilder og gode tilbud på Amsterdam, Nederland på Tripadvisor.
+title: Kroegtijger, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Kroegtijger, Amsterdam: Se 94 objektive anmeldelser av Kroegtijger, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 200 av 4 235 restauranter i Amsterdam.
+title: Amsterdam - Review of Kroegtijger, Amsterdam, The ...
+snippet: Kroegtijger: Amsterdam - See 94 traveler reviews, 54 candid photos, and great deals for Amsterdam, The Netherlands, at Tripadvisor.
+title: KROEGTIJGER, Amsterdam - Restaurantbeoordelingen - Tripadvisor
+snippet: Kroegtijger, Amsterdam: Bekijk 94 onpartijdige beoordelingen van Kroegtijger, gewaardeerd als 5 van 5 bij Tripadvisor en als nr. 210 van 4.227 restaurants in Amsterdam. &lt;/cf&gt;
+title: Café de Kroegtijger - Posts | Facebook
+snippet: Café de Kroegtijger - Zeedijk 134, 1012bc Amsterdam, Netherlands - Rated 5 based on 49 Reviews &quot;Chilled environment, good beer. What else do you need? An...
+title: Kroegtijger, Amsterdam - Centrum - Restaurant Reviews ...
+snippet: Kroegtijger, Amsterdam: See 94 unbiased reviews of Kroegtijger, rated 5 of 5 on Tripadvisor and ranked #199 of 4,229 restaurants in Amsterdam.
+title: De Kroegtijger - De Wallen - Amsterdam, Noord-Holland, The ...
+snippet: 12 reviews of De Kroegtijger &quot;Amazing place !! Nick is such a great host. We went on our first night in Amsterdam and he made us feel like regulars. Great stories. Amazing tips for enjoying the city. The prices are very reasonable for and taste…
+
+REL: 3
+POI Name: Cafe Dijk 120
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Beer Temple
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Café de Barones
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 3
+POI Name: De Zotte
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Café De Waard
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Rock and Run
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Active Life, 
+Snippets:
+title: Rock + Run
+snippet: CLIMB LIMITED - T/A ROCK + RUN. Shoreline Business Park, Sandside, Cumbria, LA7 7BF. United Kingdom. Company Number: 03252430. VAT Number: GB378556010 . We DO NOT offer in-store purchase, only Click &amp; Collect.
+title: Rock and Run - Home | Facebook
+snippet: Rock and Run, Amsterdam. 6,981 likes · 1 talking about this · 266 were here. NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats vanaf de...
+title: Rock and Run, Noordermarkt, Amsterdam (2020)
+snippet: NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats vanaf de Noordermarkt in Amsterdam. Deze muzikale Fun Run van 6km en 12km wordt georganiseerd door de makers van onder andere The Color Run en Electric Run. Een editie vol muziek, verkleden en een groot feest bij de finish op de Noordermarkt.
+title: Rock and Run - Jordaan - Amsterdam, Noord-Holland, The ...
+snippet: 2 reviews of Rock and Run &quot;My favorite race in Amsterdam! Ok, my only race in Amsterdam so far... I wouldn&#39;t call myself a runner, and likewise this isn&#39;t your typical race. It&#39;s more for fun than anything else -- they don&#39;t even time you! (I…
+title: Rock and Run - Startpagina | Facebook
+snippet: Rock and Run, Amsterdam. 6.909 vind-ik-leuks · 1 personen praten hierover · 261 waren hier. NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats...
+title: Rock And Run - Athletics &amp; Sports in Amsterdam
+snippet: See 3 photos from 57 visitors to Rock And Run. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hardlopen in Amsterdam - Hardloopkalender
+snippet: Amsterdam is een plaats waar u goed kunt hardlopen. In Amsterdam kunt u hardlopen bij de onderstaande hardloopevenementen uit de hardloopkalender. Daarnaast kunt u in Amsterdam hardlopen bij een hardloopvereniging, club of loopgroep. Start to Run of beginnen met hardlopen is ook mogelijk.
+title: Rock and Run, Amsterdam – The Cuban Brothers!
+snippet: Rock and Run, Amsterdam. By Kengo June 5, 2012 No Comments. While everyone in the UK was busy celebrating the Diamond Jubilee, the Brothers were Rocking and Running in Amsterdam. An event that combines music with a 6K run, The Jacks kicked off the stage in the early afternoon as the runners took to the course.
+
+REL: 2
+POI Name: Café Los
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: De Ceuvel
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Mash
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: H. Murray's
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Noorderlicht
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Oslo Beers
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Club Mystique
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Club Mystique Amsterdam - Club nights, Events &amp; Concerts
+snippet: New hotspot in Amsterdam for Club nights, Events &amp; Concerts, and more. With the capacity of 450 and professionally equipped the perfect location in Amsterdam
+title: Club Mystique Amsterdam - Home | Facebook
+snippet: Club Mystique Amsterdam - Smaksteeg 19, 1012 SV Amsterdam, Netherlands - Rated 4.9 based on 47 Reviews &quot;My absolute favorite place to dance in Amsterdam....
+title: Club Mystique (Amsterdam, Nederland) - Anmeldelser
+snippet: Club Mystique, Amsterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Club Mystique i Amsterdam, Nederland på Tripadvisor.
+title: Club Mystique (Amsterdam) - 2020 All You Need to Know ...
+snippet: This club is a bit hidden away from all the other dancing places in Amsterdam and that is also maybe why I personally love it! After learning Cali style Salsa in Colombia and being back in Amsterdam I always wanted to practice as much as...
+title: Club Mystique 1 - Bilde av Club Mystique i Amsterdam ...
+snippet: Club Mystique, Amsterdam Bilde: Club Mystique 1 - Se Tripadvisor-medlemmers 50 325 objektive bilder og videoer av Club Mystique
+title: De 10 beste hotellene i nærheten av Club Mystique
+snippet: Hoteller i nærheten av Club Mystique, Amsterdam: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Club Mystique på Tripadvisor.
+title: Club Mystique (Amsterdam) - 2020 All You Need to Know ...
+snippet: Let me explain something about Club Mystique. Most people that are not from Amsterdam only read the name &quot;Club&quot; and think we are like a discotheque or place with house music. We are not an ordinairy club like that but specialized in latin music for dancers and the Friday night is a night where all the local salsa and bachata dancers come to dance.
+title: Club Mystique (Amsterdam, Nederländerna) - omdömen
+snippet: Club Mystique, Amsterdam: Läs recensioner av resenärer som du och se professionella bilder på Club Mystique i Amsterdam, Nederländerna på Tripadvisor.
+title: Shop - CLUB MYSTIQUE
+snippet: Products Archive - CLUB MYSTIQUE. Home / Shop Shop. No products were found matching your selection.
+title: Club Mystique | I amsterdam
+snippet: The venue accommodates up to 350 guests, and plays host to live music, dance parties, club nights and special events. Events are mostly Latin-oriented, including the salsa, merengue, kizomba, and bachata, but Club Mystique Amsterdam also hosts a wider range of music parties including soul, funk, hip hop, Brazilian, lindy hop and tango.
+
+REL: 2
+POI Name: Supperclub
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Cocktail Bars, Wine Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Hookah Lounge Amsterdam
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Hookah Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: De Groene Olifant
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 1
+POI Name: Hannekes Boom
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, Cafes, Pubs, 
+Snippets:
+
+
+REL: 1
+POI Name: Restaurant Vinkeles
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+
+
+REL: 1
+POI Name: Snackbar 't Vogeltje
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, 
+Snippets:
+
+
+REL: 1
+POI Name: Tasty Donuts & Coffee
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Donuts, 
+Snippets:
+title: Tasty Donuts &amp; Coffee
+snippet: Tasty Donuts &amp; Coffee - It&#39;s fresh! 30 verschiedene leckere Donuts, Erstklassiger Cafe und Latte Macchiato, Erfrischende Softdrinks, Milkshakes, Sandwiches uvm.
+title: Tasty Donuts &amp; Coffee - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee, Frankfurt, Germany. 13K likes. Tasty Donuts &amp; Coffee steht für Franchise Appeal mit persönlichem Flair. Donuts made in Germany! Daily fresh &amp; handmade!
+title: Tasty Donuts &amp; Coffee Antwerpen
+snippet: Do you like cookies? We use cookies to ensure you get the best experience on our website.Learn more I agree I agree
+title: Tasty Donuts &amp; Coffee Nederland - Home | Facebook
+snippet: See more of Tasty Donuts &amp; Coffee Nederland on ... Tasty Donuts &amp; Coffee Nederland. Donut Shop in Amsterdam, Netherlands. Community See All. 3,519 people like this. 3,483 people follow this. 96 check-ins. About See All. Reguliersbreestraat 19H (4,821.16 mi) Amsterdam, Netherlands . Get Directions. www.tasty-donuts.nl. Donut Shop · Coffee Shop ...
+title: International Franchise - Tasty Donuts &amp; Coffee
+snippet: International Franchise We are actively seeking franchise partners throughout Europe who want to grow the brand together with us. We offer more than 25 filled and unfilled donut-creations being one of its kind: From apple jelly filling, chocolate icing, praline, blueberry filling, and ending with peanut butter cream and much more is available for all tastes. Daily fresh and handmade ...
+title: Tasty Donuts &amp; Coffee Hoofddorp - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee Hoofddorp, Hoofddorp. 2,684 likes · 140 were here. Het verschil zit &#39;m in de smaak en dat proef je meteen. Tasty Donut &amp; Coffee is opgebouwd rondom goede smaak, kwaliteit en...
+title: Tasty Donuts &amp; Coffee Antwerpen - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee Antwerpen. 1.4K likes. Coffee I Donuts I Snacks I Frappé I Smoothies I &amp; more
+title: Tasty Donuts &amp; Coffee - Centrum - Amsterdam, Noord-Holland ...
+snippet: With so few reviews, your opinion of Tasty Donuts &amp; Coffee could be huge. Start your review today. John G. Amsterdam, The Netherlands. 97 friends. 578 reviews. 699 photos. Share review. Embed review. 8/1/2016. First to Review and 2 other badges. Oh mai kaaaaawt!! Oh maaaai kaaaaawt!!! Vegan donuts you guys!
+title: Tasty Donuts &amp; Coffee Nederland - Startpagina | Facebook
+snippet: Tasty Donuts &amp; Coffee Nederland, Amsterdam. 3.524 vind-ik-leuks · 1 personen praten hierover · 96 waren hier. Koffieshop
+title: Tasty Donuts &amp; Coffee Winterthur - Home | Facebook
+snippet: Tasty Donuts &amp; Coffee Winterthur - Technikumstrasse 79, 8400 Winterthur, Switzerland - Rated 5 based on 3 Reviews &quot;best Place in Winterthur &quot;
+
+REL: 1
+POI Name: Café Amoi
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indonesian, 
+Snippets:
+title: Café AMOI
+snippet: That is what Cafe AMOI is all about. Located in the lively and up and coming Kinkerstraat, where guests are welcome to enjoy a lengthy and extensive dinner or to grab a beer at the bar. Cafe AMOI has a warm and cosy interior, with a relaxed vibe, allowing both young and old to feel at home.
+title: Cafe AMOI, Amsterdam - Oud West - Menu, Prices ...
+snippet: Order food online at Cafe AMOI, Amsterdam with Tripadvisor: See 91 unbiased reviews of Cafe AMOI, ranked #1,131 on Tripadvisor among 4,233 restaurants in Amsterdam. ... We had a lovely diner at cafe Amoi, a lovely indonesian restaurant with beautiful decor and atmosphere.
+title: Café AMOI, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Café AMOI, Amsterdam: Se 91 objektive anmeldelser av Café AMOI, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 129 av 4 235 restauranter i Amsterdam.
+title: Café AMOI - Indonesian Restaurant - Amsterdam, Netherlands ...
+snippet: Café AMOI. 1,819 likes · 6 talking about this · 815 were here. Café AMOI is an Indonesian eatery offering authentic food and drinks. A place to meet, drink and eat. For the day dreamer, sassy drinker...
+title: Cafe AMOI, Amsterdam - Oud West - Menu, Prices ...
+snippet: Order food online at Cafe AMOI, Amsterdam with Tripadvisor: See 91 unbiased reviews of Cafe AMOI, ranked #1,131 on Tripadvisor among 4,233 restaurants in Amsterdam.
+title: CAFE AMOI, Amsterdam - Oud West - Updated 2020 Restaurant ...
+snippet: Order takeaway and delivery at Cafe AMOI, Amsterdam with Tripadvisor: See 90 unbiased reviews of Cafe AMOI, ranked #1,153 on Tripadvisor among 4,216 restaurants in Amsterdam.
+title: Cafe AMOI, Amsterdam - Oud West - Menu, Prices ...
+snippet: Cafe AMOI, Amsterdam: See 89 unbiased reviews of Cafe AMOI, rated 4 of 5 on Tripadvisor and ranked #1,163 of 4,206 restaurants in Amsterdam.
+title: Café AMOI, Amsterdam - Oud West - Menü, Preise ...
+snippet: Café AMOI, Amsterdam: 91 Bewertungen - bei Tripadvisor auf Platz 1.129 von 4.229 von 4.229 Amsterdam Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: CAFÉ AMOI, Amsterdam - Restaurantbeoordelingen - Tripadvisor
+snippet: Café AMOI, Amsterdam: Bekijk 91 onpartijdige beoordelingen van Café AMOI, gewaardeerd als 4,5 van 5 bij Tripadvisor en als nr. 1.127 van 4.227 restaurants in Amsterdam. &lt;/cf&gt;
+title: CAFE AMOI, Amsterdam - Oud West - Updated 2020 Restaurant ...
+snippet: Order takeaway and delivery at Cafe AMOI, Amsterdam with Tripadvisor: See 91 unbiased reviews of Cafe AMOI, ranked #1,131 on Tripadvisor among 4,233 restaurants in Amsterdam.
+
+REL: 1
+POI Name: Koh-I-Noor
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 1
+POI Name: Cafe cobalt
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Home | Café Kobalt - Cafe Kobalt Homepage
+snippet: Al bijna twee decennia lang een waar begrip in de Haarlemmerbuurt, is Café Kobalt elke dag geopend voor ontbijt, lunch, borrel en diner.
+title: Cafe Kobalt, Amsterdam - Centrum - Restaurant Reviews ...
+snippet: Cafe Kobalt, Amsterdam: See 207 unbiased reviews of Cafe Kobalt, rated 4 of 5 on Tripadvisor and ranked #841 of 4,227 restaurants in Amsterdam.
+title: Café Kobalt in Amsterdam | Amsterdam.info
+snippet: Amsterdam » Cafes » Kobalt. Café Kobalt in Amsterdam. Conveniently tucked around the corner of a major shopping street, Kobalt Café offers reasonable prices for exceptional treats. Spanish tapas and traditional Dutch hapjes (both around 3 Euro), lunches (around 4 euro), deliciously presented dinners ...
+title: Cafe Kobalt, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Kobalt, Amsterdam: Se 207 objektive anmeldelser av Cafe Kobalt, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 841 av 4 227 restauranter i Amsterdam.
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+title: Accueil | Café Cobalt
+snippet: Une littérature neuve, en ligne, et communautaire. « Le Café Cobalt : une coopérative d&#39;auteurs, des histoires aux multiples saveurs.
+title: Café Kobalt - Haarlemmerbuurt - Amsterdam, Noord-Holland ...
+snippet: The Kobalt is in an excellent location if you need to be around the Centraal Station area and you can get to the Cafe via a bridge for pedestrians and cyclists only and then using an underpass. Overall, I would say the Cafe Kobalt is worth a visit.
+title: Cafe Kobalt, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Kobalt, Amsterdam: Se 207 objektive anmeldelser af Cafe Kobalt, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 840 af 4.235 restauranter i Amsterdam.
+title: Cafe Kobalt, Amsterdam - Centrum - Restaurant Bewertungen ...
+snippet: Cafe Kobalt, Amsterdam: 207 Bewertungen - bei Tripadvisor auf Platz 781 von 4.225 von 4.225 Amsterdam Restaurants; mit 4/5 von Reisenden bewertet.
+title: Cafe Kobalt, Amsterdam - recenzje restauracji - Tripadvisor
+snippet: Cafe Kobalt, Amsterdam: zobacz bezstronne recenzje (207 ) na temat Cafe Kobalt, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 841 z 4 227 restauracji w Amsterdamie.
+
+REL: 1
+POI Name: Café Life
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Pubs, 
+Snippets:
+title: Menu | cafe-amsterdam
+snippet: Located in the city center of Oslo, Cafe Amsterdam is a casual dining experience offering a simple yet very delicious menu with fresh, creative takes on classic dishes and drinks, and daring new ventures into the uncharted territories of flavor.
+title: Cafe Amsterdam | Oslo | Norway
+snippet: Cafe Amsterdam is a brilliant venue to hang out whether you are looking to dive into conversations with your family and friends or captivating, professionally-minded people. It&#39;s the perfect venue to celebrate social and corporate occasions from close-knit groups to the crowds of 200 guests! Do not hesitate and contact us now.
+title: Besloten feesten cafe Life
+snippet: Besloten feesten cafe Life
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+title: Café Life - Home | Facebook
+snippet: Café Life, Amsterdam, Netherlands. 15 likes · 1 was here. Besloten Café Life In cafe Life kan je terecht voor al je besloten feesten U bent gegarandeerd van een knalfeest als u uw feest bij ons viert...
+title: Dam Square Live Streaming Webcam, Amsterdam
+snippet: Dam square HD webcam streaming live from the NH Grand Hotel Krasnapolsky in Amsterdam, Netherlands. Here you can see on the left-hand side the beautiful neoclassical building of Royal Palace and the gothic Nieuwe Kerk (new church). On the right side there is the white Natio...
+title: Live Amsterdam Is The One And Only Party Piano Bar In The ...
+snippet: Live Amsterdam is the one and only party piano bar in the City Centre of Amsterdam. We have singing pianists and the best Dj’s who offer you and your friends live entertainment at the highest level. Our artists come from all over the world to sing your fa
+title: De 10 beste restaurantene i Amsterdam - Tripadvisor
+snippet: Beste restauranter i Amsterdam, Nederland: Se anmeldelser fra reisende og bilder av spisesteder i Amsterdam, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Bulldog??Coffee Shop?Amsterdam Live - YouTube
+snippet: Bulldog??Coffee Shop?Amsterdam Live Amsterdam Live. Loading... Unsubscribe from Amsterdam Live? ... Cafe Jazz Music 10 Hours - Relaxing Coffee Shop Background Music - Duration: ...
+title: Live music | Bars, Pubs &amp; Clubs | Amsterdam
+snippet: /Amsterdam/Alto-Jazz-Cafe_93525v. This legendary Amsterdam club is about as long as a train car, ... Popular with young urbanites, Bitterzoet is a club that specialises in live music with an edge from hip-hop to indie rock. Pay your admission on the ground … see more. Live music. Bourbon Street. Leidsekruisstraat 6 - 8
+
+REL: 1
+POI Name: Cafe de Dyck
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Cafe de Dyck - Haarlemmerbuurt - Amsterdam, Noord-Holland ...
+snippet: 1 review of Cafe de Dyck &quot;A truly &#39;local Amsterdam hangout&#39;. Hardly any tourists. The current owner is a woman from Greece who runs the bar with much style and honesty. Annoying people are warned twice, then removed. It is a small place, typical…
+title: Café De Dyck • Amsterdam • Noord-Holland •
+snippet: Café De Dyck, Café De Dyck Amsterdam. Café De Dyck - Amsterdam - Noord-Holland . Haarlemmerdijk 6, 1013 JC. Show on map ...
+title: Cafe de Dyck : Amsterdam
+snippet: Cafe de Dyck in Amsterdam - theAgenda.nl voor informatie op het gebied van vrije tijd, cultuur, kunst, ontspanning en uitgaan. Kies simpelweg wat, waar of wanneer en theAgenda.nl doet de rest
+title: Restaurant De Dyck in Woubrugge - Menu, openingstijden ...
+snippet: Bij restaurant Restaurant De Dyck in Woubrugge eten? Bekijk recensies, openingstijden, foto&#39;s, prijzen, adres, telefoonnummer en meer op TheFork (voorheen IENS).
+title: Menu | cafe-amsterdam
+snippet: Located in the city center of Oslo, Cafe Amsterdam is a casual dining experience offering a simple yet very delicious menu with fresh, creative takes on classic dishes and drinks, and daring new ventures into the uncharted territories of flavor.
+title: Home [www.dedyck.nl]
+snippet: Afhalen of bezorgen vanuit onze winkel Van de Dyck: altijd vers van het land! Vanaf a.s. maandag 23 maart kunt u thuis genieten van de heerlijke, verse en gezonde seizoensproducten uit onze eigen moestuin en akkers.
+title: Cafe de Paris, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe de Paris, Amsterdam: Se 381 objektive anmeldelser av Cafe de Paris, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 2 639 av 4 235 restauranter i Amsterdam.
+title: Cafe Dijk 120 - Amsterdam, Netherlands - Dive Bar, Pub ...
+snippet: Cafe Dijk 120, Amsterdam, Netherlands. 475 likes. Dive Bar
+title: Cafe Amsterdam | Oslo | Norway
+snippet: Cafe Amsterdam is a brilliant venue to hang out whether you are looking to dive into conversations with your family and friends or captivating, professionally-minded people. It&#39;s the perfect venue to celebrate social and corporate occasions from close-knit groups to the crowds of 200 guests! Do not hesitate and contact us now.
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+
+REL: 1
+POI Name: St. George's Argentinian Steakhouse
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, 
+Snippets:
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The 10 Best Argentinian Restaurants in Amsterdam - TheFork
+snippet: &quot;Relevance&quot; sorting ranks restaurants based on your search input and several criteria: average rating over the last 12 months, available offers, distance, ability to make a reservation instantly via TheFork, table availability, accolades in famous guides, and compliance with our standards (including the number of cancellations by the restaurant).
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Cafe St. George, Amsterdam - Centrum - Menu, Prices ...
+snippet: Reserve a table at Cafe St. George, Amsterdam on Tripadvisor: See 283 unbiased reviews of Cafe St. George, rated 4 of 5 on Tripadvisor and ranked #679 of 4,219 restaurants in Amsterdam.
+title: The Best Argentinian Food in Amsterdam - Tripadvisor
+snippet: Best Argentinian Food in Amsterdam: See Tripadvisor traveller reviews of Argentinian Restaurants in Amsterdam. Amsterdam. Amsterdam Tourism Amsterdam Accommodation Amsterdam Bed and Breakfast Amsterdam Holiday Rentals ... Steakhouse, Argentinian $$ - $$$ Menu “ ...
+title: Argentijns Restaurant &amp; Café St. George
+snippet: Argentijns restaurant Café St. George vindt u in hartje Amsterdam. In een historisch pand bevindt zich ons sfeervolle restaurant, waar wij de heerlijkste gerechten uit de Argentijnse keuken voor u bereiden op de houtskoolgrill.
+title: Gauchos Spuistraat Amsterdam - Home - Amsterdam ...
+snippet: Gauchos Spuistraat Amsterdam - Spuistraat 3e, 1012 SP Amsterdam, ... Argentinian Restaurant · Steakhouse. Opens at 5:00 PM. Closed Now. Popular hours. ... St.George Amsterdam. Argentinian Restaurant. Frivolous Fizzy. Public Figure. BV DE WERF Egmond aan Zee. Stadium, Arena &amp; Sports Venue.
+title: Steak is outstanding - Review of Cafe St. George ...
+snippet: Cafe St. George: Steak is outstanding - See 286 traveler reviews, 72 candid photos, and great deals for Amsterdam, The Netherlands, at Tripadvisor.
+title: De 10 beste restaurantene i Amsterdam - Tripadvisor
+snippet: Beste restauranter i Amsterdam, Nederland: Se anmeldelser fra reisende og bilder av spisesteder i Amsterdam, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: The Best Steakhouses in Amsterdam - Thrillist
+snippet: Here are Amsterdam&#39;s 10 best steakhouses. ... Apparently the first Argentinian restaurant to open in the Jordaan (in 1990), this brown cafe-style meatery is definitely no tourist trap.
+
+REL: 1
+POI Name: Sportcentrum Universum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Tennis, Sports Clubs, Climbing, 
+Snippets:
+
+
+REL: 1
+POI Name: café Max
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Do-It-Yourself Food, 
+Snippets:
+title: Cafe Max, Amsterdam - Centrum - Restaurant Reviews, Photos ...
+snippet: Cafe Max, Amsterdam: See 40 unbiased reviews of Cafe Max, rated 4 of 5 on Tripadvisor and ranked #2,297 of 4,227 restaurants in Amsterdam.
+title: MAX Amsterdam - Centrum - Menu, Prices &amp; Restaurant ...
+snippet: MAX Amsterdam, Amsterdam: See 2,322 unbiased reviews of MAX Amsterdam, rated 4.5 of 5 on Tripadvisor and ranked #63 of 4,227 restaurants in Amsterdam.
+title: Home - restaurant max
+snippet: MAX is now open for take away. For reservations mail us at info@maxrestaurant.nl or call +3120 4200 222 . We are open for take away from Thursday till Sunday from 5pm till 8pm. Restaurant MAX Amsterdam Herenstraat 14 1015 CA Amsterdam Jordaan area. Certificate of Excellence 2016. Traveller&#39;s choice in Amsterdam 2014 and 2015
+title: Casual Dining Restaurants in Amsterdam | Hard Rock Cafe ...
+snippet: CASUAL DINING IN AMSTERDAM Hard Rock Cafe Amsterdam Est. March 20, 1999. Enjoy the legendary flavors of classic American dining in an energetic, modern setting right on the waterside at Hard Rock Cafe Amsterdam. We&#39;re located on Max Euweplein, just a two minute walk from the Leidseplein entertainment area.
+title: Café Max - Max Euweplein - Picture of Cafe Max, Amsterdam ...
+snippet: Cafe Max, Amsterdam Picture: Café Max - Max Euweplein - Check out TripAdvisor members&#39; 50,043 candid photos and videos of Cafe Max
+title: Exterieur - Picture of Cafe Max, Amsterdam - Tripadvisor
+snippet: Cafe Max, Amsterdam Picture: Exterieur - Check out Tripadvisor members&#39; 52,650 candid photos and videos of Cafe Max
+title: Cafe Amsterdam | Oslo | Norway
+snippet: Cafe Amsterdam is a brilliant venue to hang out whether you are looking to dive into conversations with your family and friends or captivating, professionally-minded people. It&#39;s the perfect venue to celebrate social and corporate occasions from close-knit groups to the crowds of 200 guests! Do not hesitate and contact us now.
+title: Café Max Stavoren
+snippet: Café Max Stavoren: muziek, eten, drinken. Schans 23, Stavoren, tel. 0514 68 29 26 &gt;
+title: Cafe Amsterdam | Oslo | Norway | Menu
+snippet: Located in the city center of Oslo, Cafe Amsterdam is a casual dining experience offering a simple yet very delicious menu with fresh, creative takes on classic dishes and drinks, and daring new ventures into the uncharted territories of flavor.
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+
+REL: 0
+POI Name: Vergulden Eenhoorn
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+
+
+REL: 0
+POI Name: Wolvenstraat 23
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Asian Fusion, Bistros, 
+Snippets:
+title: Wolvenstraat | Winkels | De 9 Straatjes, Amsterdam
+snippet: De 9 Straatjes is onderdeel van de Amsterdamse grachtengordel, welke op de Unesco Wereld Erfgoedlijst staat sinds 2010. De 9 Straatjes in Amsterdam bieden een gevarieerd aanbod aan winkels, restaurants, hotels, museums, architectuur, cultuur en kunst.
+title: Wolvenstraat 23 - Amsterdam, Netherlands - Burger ...
+snippet: Wolvenstraat 23, Amsterdam, Netherlands. 203 likes · 1,953 were here. Burger Restaurant
+title: Wolvenstraat 23 - Negen Straatjes - Amsterdam, Noord ...
+snippet: 6 reviews of Wolvenstraat 23 &quot;This place without branding, with maybe revoked renaming (was called Cafe Cake for some time - according to Yelp) is very busy at lunchtime. It&#39;s cozy and great to meet up with friends for a decent lunch. The food is…
+title: Wolvenstraat 23 Bar in Amsterdam, The Netherlands travel ...
+snippet: Wolvenstraat 23, Bar in Amsterdam, The Netherlands with the best reviews and photos for Wolvenstraat 23.
+title: Nice atmosphere and good music! - Picture of Wolvenstraat ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Nice atmosphere and good music! - Check out TripAdvisor members&#39; 50,001 candid photos and videos of Wolvenstraat 23. Amsterdam. Amsterdam Tourism Amsterdam Hotels Amsterdam Bed and Breakfast Amsterdam Vacation Rentals Amsterdam Vacation Packages
+title: Wolvenstraat 23 (Now Closed) - Asian Restaurant in Amsterdam
+snippet: wolvenstraat 23 amsterdam • wolvenstraat 23 amsterdam photos • wolvenstraat 23 amsterdam location • wolvenstraat 23 amsterdam address • wolvenstraat 23 amsterdam • wolvensteaat 23 amsterdam • wolvenstraat 23 amsterdam • wolvenstraat 23 grachtengordel-west amsterdam
+title: Wolvenstraat 23 – Amsterdam – J E M S
+snippet: Wolvenstraat 23 changed up their decor in October 2014 (oh Facebook, the source of all such knowledge) and I really like their laidback vibe. The furniture is quirky and fun. There was a lot of artwork on the walls and the bathroom sink was stunning! So if you eat there, also visit the bathroom! I really liked the menu.
+title: Wolvenstraat 23 - Picture of Wolvenstraat 23, Amsterdam ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Wolvenstraat 23 - Check out Tripadvisor members&#39; 50,841 candid photos and videos.
+title: WOLVENSTRAAT 23, Amsterdam - Omdömen om restauranger ...
+snippet: Den här tjänsten kan innehålla översättningar som drivs av Google. Google avsäger sig alla garantier relaterade till översättningar, uttryckta eller underförstådda, inklusive eventuella garantier av korrekthet, pålitlighet och alla underförstådda garantier för säljbarhet, skick för ett särskilt syfte och icke-intrång.
+title: Nice atmosphere and good music! - Picture of Wolvenstraat ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Nice atmosphere and good music! - Check out Tripadvisor members&#39; 50,915 candid photos and videos.
+
+REL: 0
+POI Name: Deli Company
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Sandwiches, Imported Food, 
+Snippets:
+
+
+REL: 0
+POI Name: Café Chaos
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, Pubs, 
+Snippets:
+
+
+REL: 0
+POI Name: O'Casey's
+POI City: Den Haag
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Irish, Pubs, 
+Snippets:
+
+
+Cand cities: {'Den Haag', 'Amsterdam'}

@@ -1,0 +1,1329 @@
+City: Dallas
+Country: US
+Main category: Nightlife
+Sub category: Bars
+Description: Hi r/texas! I'm a guy in my late 20's travelling from Sweden to the US for a series of meetings, and the first one will be in Dallas, TX this evening. I'll arrive around 8PM and looking to read a book and catch up on some work at a nice bar in Downtown Dallas. Anyone got any good recommendations? It would be ideal if it would be a semi-calm, yet somehow populated, rock bar or similar where you can simply take a table and enjoy yourself and do some reading or working. Thanks in advance!
+Rated POIs: 49
+Rel distr: [(0, 11), (1, 6), (2, 9), (3, 23)]
+=================================
+REL: 3
+POI Name: Adair's Saloon
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Music Venues, 
+Snippets:
+title: Home | Adair&#39;s Saloon
+snippet: Live Music, Great Burgers, Awesome Drinks, Country Dancing, Shuffleboard and Golden Tee all in the heart of Deep Ellum, Texas
+title: Live Music | Adair&#39;s Saloon
+snippet: Live Music, Great Burgers, Awesome Drinks, Country Dancing, Shuffleboard and Golden Tee all in the heart of Deep Ellum, Texas
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Location | Adair&#39;s Saloon
+snippet: Live Music, Great Burgers, Awesome Drinks, Country Dancing, Shuffleboard and Golden Tee all in the heart of Deep Ellum, Texas
+title: Food and Drink | Adair&#39;s Saloon
+snippet: Live Music, Great Burgers, Awesome Drinks, Country Dancing, Shuffleboard and Golden Tee all in the heart of Deep Ellum, Texas
+title: Adair&#39;s Saloon - Home | Facebook
+snippet: Adair&#39;s Saloon - 2624 Commerce St, Dallas, Texas 75226 - Rated 4.5 based on 738 Reviews &quot;The best bar food I’ve had.....patty is the best bartender and...
+title: Adair&#39;s Saloon, Dallas - Restaurant Reviews, Photos ...
+snippet: Adair&#39;s Saloon, Dallas: See 37 unbiased reviews of Adair&#39;s Saloon, rated 4 of 5 on Tripadvisor and ranked #621 of 3,893 restaurants in Dallas.
+title: Adair’s Saloon - Deep Ellum - Dallas, TX
+snippet: 223 reviews of Adair&#39;s Saloon &quot;Haven&#39;t eaten the food but I&#39;m giving it five stars for the great atmosphere and because it looks like a large tipsy turtle for those of you from Springfield Missouri. So after having the bacon cheeseburger I give it…
+title: Adair&#39;s Saloon: A Dallas, TX Bar. - Thrillist
+snippet: Adair&#39;s has been been around forever, and their live music, gigantic burgers, and 10$ pitchers of cold beer will make sure that doesn&#39;t change anytime soon.
+title: Adair s Saloon - Dallas
+snippet: Adair&#39;s Saloon. It&#39;s a little bit of country and a little bit of rock n&#39; roll that make Adair&#39;s Saloon come to life as one of the better bars in Dallas. Live country music and great burgers make the dive bar a prime destination for college kids and cowgirls.
+
+REL: 3
+POI Name: Gossip Bar
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Gossip Bar - Review of Hilton Anatole, Dallas, TX ...
+snippet: Hilton Anatole: Gossip Bar - See 4,402 traveler reviews, 1,547 candid photos, and great deals for Hilton Anatole at TripAdvisor.
+title: Gossip Bar - CultureMap Dallas
+snippet: CultureMap Dallas is your daily source for local lifestyle news, ... Gossip Bar is the perfect refuge for travelers and locals looking to take a break from never-ending meetings and catered lunches.
+title: Gossip Bar - Dallas, TX - Untappd
+snippet: Find out what&#39;s popular at Gossip Bar in Dallas, TX in real-time and see activity
+title: Gossip Bar - Picture of Hilton Anatole, Dallas - Tripadvisor
+snippet: Hilton Anatole, Dallas Picture: Gossip Bar - Check out Tripadvisor members&#39; 35,107 candid photos and videos of Hilton Anatole
+title: Gossip Bar - Restaurant in Dallas - Foursquare
+snippet: 9 visitors have checked in at Gossip Bar. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hilton Anatole Hotel in Dallas TX
+snippet: Hilton Anatole hotel in Dallas, TX. Spanning 45 lush acres, just north of downtown, Hilton Anatole is a Dallas icon in the vibrant Design District. Discover our indoor and outdoor facilities including V Spa, Verandah Health Club, the new JadeWaters resort pool complex and a private Sculpture Park.
+title: Gossip Bar in Dallas | Gossip Bar 2201 N Stemmons Fwy ...
+snippet: Find Gossip Bar in Dallas with Address, Phone number from Yahoo US Local. Includes Gossip Bar Reviews, maps &amp; directions to Gossip Bar in Dallas and more from Yahoo US Local
+title: Hilton Anatole - Restaurants in Dallas
+snippet: Start your day with a Full American breakfast, juices and coffee in Terrace Cafe. Seal the deal at Counter Offer for 24-hour grab-n&#39;-go sandwiches, soups, salads and fruit, then unwind and kick back with a few drinks and friends in our ultra-chic Gossip Bar.
+title: Restaurants at Hilton Anatole, Dallas
+snippet: An exciting Dallas steakhouse poised on the 27th floor of the iconic Hilton Anatole hotel with unparalleled views of the Dallas skyline. Experience sophisticated, urban dining featuring the finest steaks, chops, and market-fresh seafood, as well as handcrafted cocktails and an extensive selection of wines.
+
+REL: 3
+POI Name: Long Shots
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: LongShots - Sports Bar - Dallas, Texas - 79 Reviews - 813 ...
+snippet: LongShots - 2709 Mckinney Avenue, Suite 150, Dallas, Texas 74204 - Rated 4.8 based on 79 Reviews &quot;My absolute favorite bar in Dallas. So chill and laid...
+title: Dallas Long - Wikipedia
+snippet: Dallas Crutcher Long (born June 13, 1940) is a retired American track and field athlete, who mostly competed in the shot put. Between 1959 and 1964 he set six official and five unofficial world records. His first was at the 1959 Santa Barbara Easter Relays, the last in 1964 in the USA vs USSR dual meet.Long attended the University of Southern California.
+title: Aimee Mann - Long Shot - Dallas, TX 01-19-2018 - YouTube
+snippet: Aimee Mann performs Long Shot in Dallas, Texas on January 19, 2018.
+title: Dallas Opening and Closing Theme 1978 - 1991 (HD Surround ...
+snippet: Dallas is a long-running American prime time television soap opera that revolves around the Ewings, ... The show was famous for its cliffhangers, including the &quot;Who shot J. R.?&quot;
+title: Long Shot (2019) - Soundtracks - IMDb
+snippet: Long Shot (2019) Soundtracks. Soundtrack Credits . Smoke &#39;em While You Can Written &amp; Performed by Thunderfist Courtesy of ECG Records . Motownphilly Written by Michael Bivins, Dallas L. Austin, Shawn Stockman (as Shawn Patrick Stockman) &amp; Nathan Morris (as Nathan B. Morris) Performed by Boyz II Men Courtesy of MSM Music Group, Inc.
+title: Dallas (TV Series 1978–1991) - IMDb
+snippet: Created by David Jacobs. With Larry Hagman, Ken Kercheval, Patrick Duffy, Linda Gray. J.R. Ewing, a Texas oil baron, uses manipulation and blackmail to achieve his ambitions, both business and personal. He often comes into conflict with his brother Bobby, his arch-enemy Cliff Barnes and his long-suffering wife Sue Ellen.
+title: DALLAS - Original TV Intro 1986 (Theme Song) - YouTube
+snippet: The Life of Laura Ingalls Wilder Tribute ( Little House on the Prairie TV Show Theme Song) - Duration: 9:15. Little House on The Prairie Tribute Videos By me Recommended for you
+
+REL: 3
+POI Name: Checkered Past Winery
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Music Venues, Tapas/Small Plates, 
+Snippets:
+title: Checkered Past Winery - Wine Pub Dallas Texas Food Menu
+snippet: CHECKERED PAST WINERY. 1409 S. Lamar St. #008. Dallas, TX 75215 . 214.242.0411 . Find us easily: Our wine pub is located in Suite 008 of the South Side on Lamar building. Our entrance is on Belleview St. across from the Canvas Hotel back parking lot.
+title: THE Wine Pub of Dallas - Dallas Winery | Checkered Past ...
+snippet: Checkered Past Winery is THE Wine Pub of Dallas. Our Dallas wine pub features quality Texas wines (including wines our own Dallas winery!), local brews and some of the best wines from around the world. Happy Hour every day from 3-6 pm. Our wine pub is located in the South Side building on S. Lamar.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Checkered Past Winery - Wine Pub Dallas TX - Our Checkered ...
+snippet: CHECKERED PAST WINERY. 1409 S. Lamar St. #008. Dallas, TX 75215 . 214.242.0411 . Find us easily: Our wine pub is located in Suite 008 of the South Side on Lamar building. Our entrance is on Belleview St. across from the Canvas Hotel back parking lot.
+title: Dallas Wine Club -No Membership Fees | Checkered Past Wine ...
+snippet: Looking for a Dallas Wine Club w/ no membership fees? Join the Checkered Past Wine Club. Benefits: 6 wine club deliveries/yr - 10% off wine purchases - receive exclusive, limited edition &amp; special release wines - invitations to Dallas winery events: barrel tastings, tours, wine club parties &amp; more.
+title: Dallas Wine Tasting &amp; Private Events | Checkered Past ...
+snippet: Checkered Past is the perfect spot for Dallas wine tasting events and all your special occasions. Whatever you are celebrating - birthdays, engagements, anniversaries, family celebrations, holidays, girls&#39; nights out - let Checkered Past host your next event.
+title: PRESS | checkeredpastwinery
+snippet: CHECKERED PAST WINERY. 1409 S. Lamar St. #008. Dallas, TX 75215 . 214.242.0411 . Find us easily: Our wine pub is located in Suite 008 of the South Side on Lamar building. Our entrance is on Belleview St. across from the Canvas Hotel back parking lot.
+title: Checkered Past|Dallas Wine Bar (@checkeredpastwinery ...
+snippet: 8,127 Followers, 1,358 Following, 1,405 Posts - See Instagram photos and videos from Checkered Past|Dallas Wine Bar (@checkeredpastwinery)
+title: Checkered Past Winery - South Dallas - Dallas, TX
+snippet: Checkered Past Winery is an urban wine pub featuring our own quality wines, over 20 locally brewed craft beers, and some of the best wines from Texas and around the world. We are located in the historic South Side building at 1409 South Lamar Street Suite 008 (Our entrance is on Belleview St).
+title: Checkered Past Winery - Home | Facebook
+snippet: Checkered Past Winery, Dallas, Texas. 2,911 likes · 73 talking about this · 6,656 were here. D Magazine&#39;s Best Bars in Dallas 2017 Wine Bar Category Located in downtown Dallas in the historic South...
+
+REL: 3
+POI Name: Reno's Chop Shop Saloon
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, 
+Snippets:
+title: Renos Chop Shop - Home | Facebook
+snippet: Renos Chop Shop - 210 N Crowdus St, Dallas, Texas 75226 - Rated 4.2 based on 659 Reviews &quot;I love this place!!! I was sad to hear of the back patio being...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Photos for Reno&#39;s Chop Shop Saloon - Yelp
+snippet: Photos at Reno&#39;s Chop Shop Saloon - Dallas, TX. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Reno&#39;s Chop Shop Saloon. Reno’s Chop Shop Saloon. 44 reviews Add photos All (27) Inside (8) Outside (5) Drink (2) Search photos... 27 photos mention &quot;&quot; Clear. Page 1 of 1 ...
+title: Reno&#39;s Chop Shop Saloon - Dallas Observer
+snippet: There&#39;s one bar in Deep Ellum that the bikers, greasers, metalheads and punks can all agree on: Reno&#39;s Chop Shop Saloon. The long, double-sided bar can accommodate even the busiest nights as ...
+title: Renos Chop Shop - Events | Facebook
+snippet: Renos Chop Shop - 210 N Crowdus St, Dallas, Texas 75226 - Rated 4.2 based on 658 Reviews &quot;I love this place!!! I was sad to hear of the back patio being...
+title: Reno&#39;s Chop Shop: A Dallas, TX Bar. - Thrillist
+snippet: Don&#39;t be intimidated by the enormous tatted-up biker-dudes and their tricked-out Harley-Davidsons parked out front; RCC&#39;s an all-are-welcome biker bar that boasts the &quot;cheapest drinks in Deep Ellum&quot;.
+title: Best Rock Bar: Reno&#39;s Chop Shop Saloon | Best of Dallas ...
+snippet: It really doesn&#39;t get more rock than Reno&#39;s Chop Shop Saloon, a Dallas staple nestled in the shadows around the corner from Punk Society on Crowdus and July Alley in Deep Ellum.
+title: Reno&#39;s Chop Shop - Dallas, TX - Locu
+snippet: Reno&#39;s Chop Shop, Music Venues business in Dallas. See up-to-date pricelists and view recent announcements for this location.
+title: Reno&#39;s Chop Shop Saloon | Dallas, USA Nightlife - Lonely ...
+snippet: Reno&#39;s Chop Shop Saloon. Save. ... Slightly off Deep Ellum&#39;s Elm St artery, this is where you&#39;ll find Dallas&#39; friendliest bikers. Hogs line the front while a jovial crowd parties inside. The rear patio has great tables with umbrellas, along with the odd band. There&#39;s lots of leather in the collective wardrobe.
+title: Renos Chop Shop (Dallas) - 2020 All You Need to Know ...
+snippet: The circumstances of JFK’s assassination are controversial. During this guided tour, a historian helps you separate the facts, stories, and theories behind that pivotal day in 1963.
+
+REL: 3
+POI Name: JFKEG & Kitchen
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Jfkeg
+snippet: 1710 Young St #120, Dallas, TX 75201, USA. JFKeg Bar N Grill. My New Restaurant. Join the Club &amp; Get Updates on Special Events ...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: J.F.Keg and Kitchen - American Restaurant - Dallas, Texas ...
+snippet: J.F.Keg and Kitchen. 148 likes. American Restaurant. Facebook is showing information to help you better understand the purpose of a Page.
+title: JFKeg &amp; Kitchen - Dallas, TX - Untappd
+snippet: Find out what&#39;s popular at JFKeg &amp; Kitchen in Dallas, TX in real-time and see activity
+title: JFKeg &amp; Kitchen - American Restaurant in Dallas
+snippet: See 1 photo from 10 visitors to JFKeg &amp; Kitchen. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Bar - Yelp
+snippet: Photo of JFKEG &amp; Kitchen - &quot;Bar&quot; - Dallas, TX. Fatima H. said &quot;When we arrived in Dallas my friend &amp; I were exhausted but we wanted to experience as much as possible. We decided on our…&quot; read more
+title: Menu - Yelp
+snippet: Photo of JFKEG &amp; Kitchen - &quot;Menu&quot; - Dallas, TX. Zarina K. said &quot;I would have given this place 5 stars if only the bartender didnt look directly at me and literally shrug her shoulders like…&quot; read more
+title: JFKEG &amp; Kitchen in Dallas | JFKEG &amp; Kitchen 1710 Young St ...
+snippet: Find JFKEG &amp; Kitchen in Dallas with Address, Phone number from Yahoo US Local. Includes JFKEG &amp; Kitchen Reviews, maps &amp; directions to JFKEG &amp; Kitchen in Dallas and more from Yahoo US Local. Find JFKEG &amp; Kitchen in Dallas with Address, Phone number from Yahoo US Local.
+title: JFKEG &amp; Kitchen 1710 Young St Ste 120 Dallas, TX Bars ...
+snippet: Get directions, reviews and information for JFKEG &amp; Kitchen in Dallas, TX. JFKEG &amp; Kitchen 1710 Young St Ste 120 Dallas TX 75201. 9 Reviews (214) 752-0155 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Live Jazz &amp; Great Food - Kitchen Café Dallas
+snippet: The Kitchen Café serves up Live Jazz and Great Food in Dallas. We feature Dallas’ first-call professional musicians in a unique “showcase” setting. Join us!
+
+REL: 3
+POI Name: Three Links
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, 
+Snippets:
+title: Homepage - Three Links Deep Ellum : Three Links Deep Ellum
+snippet: Three Links Deep Ellum 2704 Elm St. Dallas, TX 75226 Contact: Phone: (214) 484-6011 2704 Elm St. Dallas, TX 75226 Bar Hours: Mon-Thu: 2pm-2am Fri-Sat: 11am-2am Sun: 12pm-2am Happy Hour till 8pm every day Food Menu: Available till 8pm or show doors every day Prohibited Items: NO bad attitudes
+title: Three Links - Deep Ellum, TX - Home | Facebook
+snippet: Three Links - Deep Ellum, TX - 2704 Elm St, Dallas, Texas 75226 - Rated 4.8 based on 694 Reviews &quot;Super fun bar and great place to see both local and...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Contact - Three Links Deep Ellum : Three Links Deep Ellum
+snippet: Three Links Deep Ellum 2704 Elm St Dallas, TX 75226(214) 484-6011 General: contact@threelinksdeepellum.com Booking: booking@threelinksdeepellum.com
+title: About - Three Links Deep Ellum : Three Links Deep Ellum
+snippet: About. Three Links is your neighborhood bar that hosts your favorite national, regional and local artists.We don’t call ourselves a “punk bar”, but if you have a Clash album in your collection, you’ll feel right at home. Three Links opened March 8, 2013 and has quickly established itself as one of the premier spots to see live music in North Texas.
+title: Three Links - Deep Ellum - Dallas, TX - Foursquare
+snippet: Rock Club in Dallas, TX Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: Photos for Three Links - Yelp
+snippet: Photos at Three Links - Dallas, TX. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Three Links Dallas, Tickets for Concerts &amp; Music Events ...
+snippet: Buy tickets for an upcoming concert at Three Links. List of all concerts taking place in 2020 at Three Links in Dallas.
+title: Three Links Tickets &amp; Upcoming Events | SeatGeek
+snippet: 100% Guaranteed Tickets For All Upcoming Events at Three Links Available at the Lowest Price on SeatGeek - Let’s Go!
+title: Three Links Tickets - See Tickets
+snippet: The Hip-Hop Violinist Rhett Price. Friday, May 29. GET TICKETS. Friday, May 29
+
+REL: 3
+POI Name: Double Wide
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Music Venues, 
+Snippets:
+title: Double Wide – A fine Dallas Bar with drinks that hit ...
+snippet: Live music that makes ya wanna holler! From rock to country and just about everything in between, chances are you’ll find it at Double Wide!
+title: Double Wide - Home | Facebook
+snippet: Double Wide - 3510 Commerce St, Dallas, Texas 75226 - Rated 4.4 based on 1,004 Reviews &quot;Great dive bar. No pretense here. Just cold beer and friendly folks.&quot;
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: About – Double Wide
+snippet: Double Wide is one of Dallas’ premiere watering holes serving up the coldest beer, stiffest drinks and best live music this side of the Trinity! Seems like everybody knows about Dallas’ favorite little ol’ trailer park with people coming from far and wide to see what all the fuss is about.
+title: Double Wide Bar, Dallas - Restaurant Reviews, Photos ...
+snippet: Double Wide Bar, Dallas: See 14 unbiased reviews of Double Wide Bar, rated 4.5 of 5 on Tripadvisor and ranked #1,114 of 3,895 restaurants in Dallas.
+title: Double Wide (@doublewide_dallas) • Instagram photos and videos
+snippet: 14.6k Followers, 3,248 Following, 1,084 Posts - See Instagram photos and videos from Double Wide (@doublewide_dallas)
+title: Photos for Double Wide - Yelp
+snippet: Photos at Double Wide - Dallas, TX. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Join the Happy Hour at Double Wide in Dallas, TX 75295
+snippet: Double Wide is located at the crossroads of Exposition Park and Deep Ellum just outside of beautiful Downtown, Dallas. We’re at the corner of Commerce and Exposition. You can’t miss us. Just look for the big silver tornado on top of the building. We’ll keep a cold one on ice for ya! Double Wide one of Dallas premiere watering holes serving up the coldest beer, stiffest drinks and the ...
+title: Drinks – Double Wide
+snippet: Hurritang. Party starts here with our spin on a Hurricane. After a few of these, not even FEMA can help you!
+title: Events – Double Wide
+snippet: one sunday a month at double wide FLEA MARKETS We host a motley crew of outdoor and indoor vendors hawking all manner of classic finds and one-of-a-kinds in antiques, vintage, local art &amp; crafts, vinyl, jewelry, hand-made goods, toys, comic books and even MORE cool stuff than you can shake a stick at.
+
+REL: 3
+POI Name: Windmill Lounge
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Windmill Lounge - Home | Facebook
+snippet: Windmill Lounge - 5320 Maple Ave, Dallas, Texas 75235 - Rated 4.6 based on 228 Reviews &quot;We have found a gem, so I&#39;m almost scared to write a good review...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Windmill Lounge (Dallas) - 2020 All You Need to Know ...
+snippet: If you are in the Medical District area of Dallas for work, make plans to meet co-workers at the Windmill Lounge for Happy Hour. The owners are great friendly people. No loud music, can actually enjoy drinks and conversation. Popular spot for Business Professional. Parking …
+title: Windmill Lounge (Dallas, TX) - Anmeldelser - Tripadvisor
+snippet: Windmill Lounge, Dallas: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Windmill Lounge i Dallas, Texas på Tripadvisor.
+title: Windmill Lounge - Oak Lawn - Dallas, TX
+snippet: I don&#39;t know how I missed this little gem of a dive bar, but apparently it&#39;s been kicking butt for over eight years. The Windmill Lounge was voted one of the best cocktail bars in Dallas by the Dallas Observer and one of the top 10 cocktail bars in the US by Esquire Magazine--pretty impressive accolades...which is why we gave it a shot.
+title: Windmill Lounge - Oak Lawn - Dallas, TX - Yelp
+snippet: 101 reviews of Windmill Lounge &quot;Such a nice surprise...I recently saw that the Windmill won some awards for best cocktails, so we had to check it out. Although this place is a dive bar, it had a really good feel to it...hard to explain, but just…
+title: Windmill Lounge in Dallas - Restaurant menu and reviews
+snippet: All info on Windmill Lounge in Dallas - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: THE 10 CLOSEST Hotels to Windmill Lounge, Dallas ...
+snippet: Hotels near Windmill Lounge, Dallas on Tripadvisor: Find 19,734 traveler reviews, 34,904 candid photos, and prices for 30 hotels near Windmill Lounge in Dallas, TX.
+title: Windmill Lounge | Park Cities | Bars and ... - Dallas Observer
+snippet: There&#39;s a line in bartender Jason Kosmas&#39; book, Speakeasy, that talks about the benefit of hanging out in the old man’s bar. Wisdom is passed down, advice is doled out, strong drinks are poured.
+title: Windmill Lounge in Dallas | Windmill Lounge 5320 Maple Ave ...
+snippet: Find Windmill Lounge in Dallas with Address, Phone number from Yahoo US Local. Includes Windmill Lounge Reviews, maps &amp; directions to Windmill Lounge in Dallas and more from Yahoo US Local
+
+REL: 3
+POI Name: The People's Last Stand
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, American (New), 
+Snippets:
+title: The People&#39;s Last Stand
+snippet: Stand for Something. Affectionately known as People&#39;s, we opened in 2010 with one guiding principle: provide the city of Dallas with a haven for cocktail enthusiasts seeking quality and conviction.. One of our goals has always been to challenge the stigma commonly associated with cocktails as being unapproachable and meant only for the sophisticated drinker.
+title: Menus — The People&#39;s Last Stand
+snippet: Phone: (214) 370-8755 Hours: 4pm-2am, 7 days a week Address: 5319 E Mockingbird Ln, Suite 210, Dallas, TX 75206
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The People&#39;s Last Stand - Home | Facebook
+snippet: The People&#39;s Last Stand - 5319 E Mockingbird Ln, Ste 210, Dallas, Texas 75206 - Rated 4.5 based on 227 Reviews &quot;This weekend we have some wonderful...
+title: The People&#39;s Last Stand - Home | Facebook
+snippet: The People&#39;s Last Stand - 5319 E Mockingbird Ln, Ste 210, Dallas, Texas 75206 - Rated 4.5 based on 226 Reviews &quot;I always tell people local and visitors...
+title: The People&#39;s Last Stand, Dallas - Menu, Prices, Restaurant ...
+snippet: Reserve a table at The People&#39;s Last Stand, Dallas on Tripadvisor: See 10 unbiased reviews of The People&#39;s Last Stand, rated 3 of 5 on Tripadvisor and ranked #1,952 of 3,895 restaurants in Dallas.
+title: The People&#39;s Last Stand Menu - Urbanspoon/Zomato
+snippet: The People&#39;s Last Stand Northeast Dallas Menu - View the Menu for The People&#39;s Last Stand Dallas on Zomato for Delivery, Dine-out or Takeaway, The People&#39;s Last Stand menu and prices. The People&#39;s Last Stand Menu
+title: Zagat
+snippet: Zagat&#39;s guide to the top restaurants. Find reviews on the hottest restaurants, make reservations and see full menus by Zagat.
+title: The People’s Last Stand | Things To Do In Dallas, Tx
+snippet: The People’s Last Stand | Things To Do In Dallas, Tx in Dallas, TX. Conveniently located at the Mockingbird Station, The People’s Last Stand is what you get when you take a New American Gastropub and add in a lively crowd with lively music.
+title: The People&#39;s Last Stand (Dallas) - 2020 All You Need to ...
+snippet: Stopped by this place with my wife and 23-year-old daughter. We had some drinks. I had a great time. The place is lively but not crazily so. We enjoyed the homemade tonic with the Bombay Sapphire and tonic.
+
+REL: 3
+POI Name: Roy G's
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: First Look: Roy G&#39;s in Oak Lawn | Dallas Observer
+snippet: From the minds of Street’s Fine Chicken, Liberty Burger and an old favorite, Snookie’s, comes Roy G’s, a rainbow-themed bar offering a spectrum of shots, cocktails and bar food.
+title: Roy G&#39;s - Home | Facebook
+snippet: Roy G&#39;s, Dallas, Texas. 323 likes. Upscale dive with great bar eats and cheap classic cocktails in the heart of the drag on Cedar Springs. Open late. Everything great
+title: The Streets Talk About Roy G’s, Which ... - Dallas Observer
+snippet: With Roy G’s, the Streets hope to create an approachable hangout spot. ... Make a financial contribution or sign up for a newsletter, and help us keep telling Dallas&#39;s stories with no paywalls.
+title: Roy G&#39;s will be open for lunch on Wednesday - Dallas Voice
+snippet: Roy G’s, the new Street family restaurant on the corner of Cedar Springs and Throckmorton Street, in the space last occupied by Zephyr, held a “soft opening” over the weekend, and will be ...
+title: Street family to open Roy G’s in Zephyr space - Dallas Voice
+snippet: The Street family, which has had a presence on Cedar Springs Road since the 1970s, will open Roy G’s in a space last occupied by Zephyr on the corner of Throckmorton Street. Roy G refers to ROY ...
+title: Roy G&#39;s 4001 Cedar Springs Rd Dallas, TX Bars - MapQuest
+snippet: Get directions, reviews and information for Roy G&#39;s in Dallas, TX. Roy G&#39;s 4001 Cedar Springs Rd Dallas TX 75219. 15 Reviews (972) 803-5181. Menu &amp; Reservations Make Reservations . ... House opening today Tiffany was great thank you so much try to Roy-al and pit dip. Congrats on the opening today guys good job! Read more. 03/05/2020 Paul M.
+title: Roy G&#39;s - Posts | Facebook
+snippet: Roy G&#39;s, Dallas, Texas. 318 likes. Upscale dive with great bar eats and cheap classic cocktails in the heart of the drag on Cedar Springs. Open late....
+title: Highly experienced Bartender with some managerial ...
+snippet: Roy G&#39;s (short for ROY G BIV) will be opening just after the new year. A great pub with great food, Roy G&#39;s Food &amp; Beverage is looking for an experienced bar manager to run this operation. This position is responsible for controlling costs, staffing, and day to day operations. There is very little admin and very little
+title: Dallas restaurant family unfurls rainbow-themed bar on ...
+snippet: There&#39;s a fun new bar lined up to open in Dallas&#39; Cedar Springs district in early 2020. Called Roy G&#39;s, it&#39;s from the legendary Street family and will open at 4001 Cedar Springs Rd., on the corner ...
+
+REL: 3
+POI Name: Centric Bar & Grille
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Burgers, American (Traditional), 
+Snippets:
+title: Centric Bar &amp; Grille - Downtown - Dallas, TX
+snippet: 24 reviews of Centric Bar &amp; Grille &quot;Came here for dinner. Very nice bar with dining room tables/booth around it. Went to the bar got two drinks. The bartender told us it was seat yourself so we sat down at a table. The bus boy immediately saw us…
+title: Centric Bar &amp; Grille, Dallas - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Centric Bar &amp; Grille, Dallas on Tripadvisor: See 27 unbiased reviews of Centric Bar &amp; Grille, rated 3.5 of 5 on Tripadvisor and ranked #1,378 of 3,895 restaurants in Dallas.
+title: Centric Bar and Grill at the Marriott Dallas Restaurant ...
+snippet: Book now at Centric Bar and Grill at the Marriott Dallas in Dallas, TX. Explore menu, see photos and read 8 reviews: &quot;Booked for a group of 10 while attending a national meeting. Awesome private room with view of restaurant - server was outstanding, Brie was amazing!&quot;
+title: Centric Bar &amp; Grille - Dallas Marriott City Center Menu ...
+snippet: Menu (including prices) for Centric Bar &amp; Grille - Dallas Marriott City Center may have changed since the last time the website was updated. Zomato.com does not guarantee prices or the availability of menu items at Centric Bar &amp; Grille - Dallas Marriott City Center.
+title: Centric Bar &amp; Grille in Dallas - Restaurant menu and reviews
+snippet: All info on Centric Bar &amp; Grille in Dallas - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Menu at Centric Bar &amp; Grille, Dallas - Restaurant Guru
+snippet: The restaurant information including the Centric Bar &amp; Grille menu items and prices may have been modified since the last website update. All users are free to download and save the Centric Bar &amp; Grille menu files, but can not duplicate or distribute them for any commercial use without prior written permission of the copyright holder.
+title: Centric Bar &amp; Grill in Dallas, Texas - Picture of Centric ...
+snippet: Centric Bar &amp; Grille, Dallas Picture: Centric Bar &amp; Grill in Dallas, Texas - Check out Tripadvisor members&#39; 34,903 candid photos and videos of Centric Bar &amp; Grille
+title: Centric Bar &amp; Grille - New American - Dallas | D Magazine ...
+snippet: Yoni Heredia, the executive chef, is sprucing up the newish restaurant at the Dallas Marriott City Center, using fresh local ingredients to make memorable meals for hotel guests. Centric Bar &amp; Grille - New American - Dallas | D Magazine Directories
+title: Centric Bar &amp; Grille 650 N Pearl St Dallas, TX Bars - MapQuest
+snippet: Get directions, reviews and information for Centric Bar &amp; Grille in Dallas, TX. Centric Bar &amp; Grille 650 N Pearl St Dallas TX 75201. 24 Reviews (214) 979-9000 Website. Menu &amp; Reservations ... Very nice bar with dining room tables/booth around it. Went to the bar got two drinks. The bartender told us it was seat yourself so we sat down at a table.
+title: Convenient, But Pricy! - Review of Centric Bar &amp; Grille ...
+snippet: Description: Savor American cuisine and craft cocktails prepared with locally sourced ingredients at Centric Bar &amp; Grille, a restaurant in Dallas, Texas located at Dallas Marriott Downtown. Just steps from Plaza of the Americas in downtown Dallas, our restaurant offers all-day dining in a welcoming, sophisticated atmosphere.
+
+REL: 3
+POI Name: Aso Rock Restaurant and Lounge
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, Sports Bars, African, 
+Snippets:
+title: Aso Rock Restaurant and Lounge-Dallas - Home | Facebook
+snippet: Aso Rock Restaurant and Lounge-Dallas - 9220 Skillman Street, Dallas, Texas 75243 - Rated 4 based on 72 Reviews &quot;Was vacationing in Grapevine, TX and...
+title: Aso Rock Restaurant and Lounge, Dallas - Restaurant ...
+snippet: Aso Rock Restaurant and Lounge, Dallas: See unbiased reviews of Aso Rock Restaurant and Lounge, rated 3 of 5 on Tripadvisor and ranked #2,583 of 3,893 restaurants in Dallas.
+title: Aso Rock Restaurant and Lounge menu - Dallas TX 75243 ...
+snippet: Restaurant menu, map for Aso Rock Restaurant and Lounge located in 75243, Dallas TX, 9220 Skillman St Ste 115.
+title: Aso Rock Market - Home | Facebook
+snippet: @ Aso Rock Restaurant and Lounge-Dallas +7. See All. Recommendations and Reviews. Recommended by 3 people · People talk about &quot;rice&quot;, &quot;lunch specials&quot; and &quot;catering&quot; Good place the but food n etc. May 13. Fresh food・Great selection. wonderful concept. one stop shop for all AfroCaribean good stuff.
+title: ASO ROCK RESTAURANT AND LOUNGE DALLAS TEXAS - Dallas ...
+snippet: ASO ROCK RESTAURANT AND LOUNGE DALLAS TEXAS. 4 likes. Local Business
+title: Hotels near Aso Rock Restaurant and Lounge, Dallas (TX ...
+snippet: Discount hotels near Aso Rock Restaurant and Lounge, Dallas (TX). SAVE UP TO 75% OFF hotels near Restaurants and Cafes in Dallas (TX). Rates from USD $45. Book online for instant Confirmation and 24/7 Live Support!
+title: Asorockdallas - Home - Dallas, Texas - Menu, Prices ...
+snippet: Asorockdallas is at Aso Rock Restaurant and Lounge-Dallas. May 5, 2017 · Aso Rock Restaurant and Lounge-Dallas is happy to announce our latest item added to the menu! Come taste our featured dish TURBO CATFISH this weekend! To order call 214.343.1300 • 9220 Skillman St.
+title: Aso Rock Restaurant and Lounge - TripAdvisor
+snippet: Aso Rock Restaurant and Lounge: Less than average - See traveler reviews, candid photos, and great deals for Dallas, TX, at Tripadvisor.
+title: ASO ROCK RESTAURANT AND LOUNGE, Dallas - Phone Number ...
+snippet: Order takeaway and delivery at Aso Rock Restaurant and Lounge, Dallas with Tripadvisor: See unbiased reviews of Aso Rock Restaurant and Lounge, ranked #2,576 on Tripadvisor among 3,886 restaurants in Dallas.
+title: Aso Rock Restaurant and Lounge 9220 Skillman St Dallas, TX ...
+snippet: Get directions, reviews and information for Aso Rock Restaurant and Lounge in Dallas, TX.
+
+REL: 3
+POI Name: Will Call Bar
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Will Call Bar | Dallas
+snippet: © 2020 Will Call Bar | Dallas. All Rights Reserved.
+title: Will Call Bar - Home | Facebook
+snippet: Will Call Bar - 2712 Main Street, Dallas, Texas 75226 - Rated 5 based on 102 Reviews &quot;Honestly best bar in deep ellum, the owner is top notch took care...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Contact Will Call Bar | Dallas
+snippet: Please feel free to get in touch with us via the contact form below, or reach out to us on Facebook!
+title: Will Call Bar in Dallas - Restaurant reviews
+snippet: All info on Will Call Bar in Dallas - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Menu at Will Call Bar, Dallas - Restaurant Guru
+snippet: You can specify the menu items for Will Call Bar using the form above. The unauthorized use of any material about Will Call Bar menu violates copyright laws and may be a subject to a court hearing and penalties.
+title: Will Call Bar - Posts | Facebook
+snippet: Will Call Bar - 2712 Main Street, Dallas, Texas 75226 - Rated 5 based on 102 Reviews &quot;Nice place for a good hang. Usually we get there right before it...
+title: Bar Named Will Call to Replace Liquid ... - Dallas Observer
+snippet: Last fall we told you that Liquid Lounge, the small stage inside Curtain Club, was closing. Now we know what&#39;s opening in its place: a bar called Will Call.
+title: Will Call Bar - Lounges - Dallas | D Magazine Directories
+snippet: Will Call Bar. Category: Lounges Let this business know you found them on D Magazine&#39;s Online Directories. Claim This Listing. SMS. Read More About Will Call Bar ... Dallas Plano Fort Worth Frisco Arlington Richardson McKinney Irving-Las Colinas Park Cities Southlake Allen Garland Addison Carrollton Grapevine
+title: Win tickets to Twenty One Pilots at &quot;Will Call Bar&quot; | ALT ...
+snippet: wanna spend some quality time with ‘twenty-one pilots’!!!?tonight alt 103.7 will be in deep ellum giving you the chance to do that.we’ll be in front of “will call bar”, 2712 main street in dallas.while you’re there check out the amazing food menu.
+
+REL: 3
+POI Name: The Peak Inn
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: The Peak Inn - Home | Facebook
+snippet: The Peak Inn, Dallas, Texas. 687 likes. Cozy little bar in Old East Dallas with fun &amp; tasty eats. Front room is dimly lit bar, back room is comfy with &quot;fireplace&quot;, CD jukebox, and pool table. Great...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The Peak Inn 132 N Peak St Dallas, TX Bars - MapQuest
+snippet: I peeked in at The Peak Inn last night! Thanks to KA for hosting a very successful UYE, I now can brag that I had the best $5.50 burger in Dallas.
+title: The Peak Inn, LLC in Dallas, TX | Company Info &amp; Reviews
+snippet: The Peak Inn, LLC is a Texas Domestic Limited-Liability Company (Llc) filed on July 18, 2019. The company&#39;s filing status is listed as In Existence and its File Number is 0803371035. The Registered Agent on file for this company is Joel S. Morales and is located at 2420 Canton Street, # 6207, Dallas, TX 75201.
+title: The Peak Inn Might Make the Best $5.50 Burger in Dallas ...
+snippet: Eat This Now! The Peak Inn Might Make the Best $5.50 Burger in All of Dallas. It&#39;s hard to find a burger of this quality for this cheap. Don&#39;t take it for granted.
+title: The Peak Inn 132 N Peak St, Dallas, TX 75226 - YP.com
+snippet: Get reviews, hours, directions, coupons and more for The Peak Inn. Search for other Liquor Stores on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for The Peak Inn at 132 N Peak St, Dallas, TX 75226.
+title: The Peak Inn Delivery | Dallas | Uber Eats
+snippet: Use your Uber account to order delivery from The Peak Inn in Dallas. Browse the menu, view popular items, and track your order.
+title: Peak Group Real Estate Investment Company
+snippet: Peak Group Real Estate Investment Company. At The Peak Group, we can help you generate long term wealth through real estate investing. Give us a call today!
+title: Adair&#39;s owner cheers up East Dallas with new neighborhood ...
+snippet: A vintage building in Old East Dallas that used to be a Tex-Mex place is about to become a neighborhood bar. Called The Peak Inn, it&#39;s from two local bar veterans: Joel Morales, co-owner of Adair ...
+title: U.S. cases of COVID-19 will peak in a couple of weeks ...
+snippet: U.S. cases of COVID-19 will peak in a couple of weeks. Only social distancing will break the virus March brought rapid growth in cases. ... He wrote this column for The Dallas Morning News.
+
+REL: 3
+POI Name: Pete's Dueling Piano Bar
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: The Goat
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Jazz & Blues, Karaoke, 
+Snippets:
+title: The Goat - Your Neighborhood Blues Bar
+snippet: WE ARE TEMPORARILY CLOSED AS OF MARCH 17, 2020, PENDING FURTHER ORDERS FROM THE CITY OF DALLAS REGARDING THE COVID-19 VIRUS. The Goat 7248 Gaston Ave, Dallas, TX 75214 - Facebook (Hours 7 AM to 2 AM Monday through Saturday; Noon to 2 AM Sunday.
+title: The Goat&#39;s Gig Calendar
+snippet: WE ARE TEMPORARILY CLOSED AS OF MARCH 17, 2020, PENDING FURTHER ORDERS FROM THE CITY OF DALLAS REGARDING THE COVID-19 VIRUS. Gigin&#39; The Goat. GOAT GIGS - March 2020 - BLUES JAM EVERY THURSDAY - Pete Barbeck Music starts at 10pm, jam starts after first set ACOUSTIC BLUES EVERY TUESDAY - Aaron Burton Delta Blues &amp; special guest - 10pm KARAOKE
+title: The Goat Dallas - Dallas, Texas | Facebook
+snippet: The Goat Dallas - 7248 Gaston Ave, Dallas, Texas 75214 - Rated 4.5 based on 284 Reviews &quot;The thing that stood out the most to me was that all walks of...
+title: The Goat (Dallas) - 2020 All You Need to Know BEFORE You ...
+snippet: You&#39;re always in for a good time at the goat! This is my favorite dive bar in Dallas and best place to dap off a great night out. Cheap beers, pool tables, and the unusual patio out back means there&#39;s always something going on at the goat. You&#39;re in for a real treat if the blues …
+title: The Goat - Gig Photos
+snippet: Your Neighborhood Blues Bar. © The Goat - all rights reserved - privacy policy - in the works - all rights reserved - privacy policy - in the works
+title: The Goat (Dallas, TX) - Anmeldelser - Tripadvisor
+snippet: The Goat, Dallas: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for The Goat i Dallas, Texas på Tripadvisor.
+title: The Goat - Musicians
+snippet: Musicians Jammin&#39; The Goat at some time or another (no particular order) Mark Austin - Hash Brown - Terry Groff - Jimmy Morgan Chuck &quot;Popcorn&quot; Louden - Pete Barbeck - Tim Neilley Rob Menary - Fred Gleber - Texas Slim - Perry Jones Tony DeCicco - James Perkins - Jackie Don Loe - Jay Dronge
+title: The Goat - Karaoke
+snippet: Karaoke. © The Goat - all rights reserved - privacy policy - in the works - all rights reserved - privacy policy - in the works
+title: The Goat, Dallas - YouTube
+snippet: D. R. Suess headlining at The Goat, Dallas Tx. I wish I would of known the amp was not turned on. I had to remaster this on to bring out my harp. Check out the band, (AS.) Good as it Gets.
+
+REL: 3
+POI Name: Wit's End Club
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Wits End - Home | Facebook
+snippet: Wits End - 2724 Elm St, Dallas, Texas 75226 - Rated 4.4 based on 519 Reviews &quot;Amazing beer selection, sometimes they have Mead which is always a plus....
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Wits End (Dallas) - 2020 All You Need to Know BEFORE You ...
+snippet: The circumstances of JFK’s assassination are controversial. During this guided tour, a historian helps you separate the facts, stories, and theories behind that pivotal day in 1963.
+title: Wits End Club 2724 Elm St, Dallas, TX 75226 - YP.com
+snippet: Search for other Night Clubs on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Wits End Club at 2724 Elm St, Dallas, TX 75226. Search for other Night Clubs in Dallas on The Real Yellow Pages®.
+title: Wit&#39;s End Club 2724 Elm St Dallas, TX Bars - MapQuest
+snippet: Get directions, reviews and information for Wit&#39;s End Club in Dallas, TX. Wit&#39;s End Club 2724 Elm St Dallas TX 75226. 74 Reviews (214) 653-3000 Website. Menu &amp; Reservations Make Reservations . ... Ive been going to wits for years and never had a problem.
+title: wits End - Dallas, TX - Locu
+snippet: wits End, Bars business in Dallas. See up-to-date pricelists and view recent announcements for this location.
+title: Wit&#39;s End Club Gift Cards and Gift Certificates - Dallas ...
+snippet: Buy a gift card to Wit&#39;s End Club. Send it online to anyone, instantly. Wit&#39;s End Club - 2724 Elm St - Dallas, TX
+title: Wits End | Fair Park | Bars and Clubs ... - Dallas Observer
+snippet: Taking over the spot that used to be rock &#39;n&#39; roll music venue The Bone, Deep Ellum&#39;s Wit&#39;s End is carrying the torch. With just a handful of beers on tap and a decent liquor selection, Wit&#39;s End ...
+title: Wit&#39;s End Llama Consortium - Dallas, Georgia | Facebook
+snippet: Wit&#39;s End Llama Consortium. 597 likes. Llamas for hire from business promotions, birthday parties, llamagrams, weddings, photoshoots of all types, hiking trips, school educational programs and...
+title: Best 30 Night Clubs in Deep Ellum, Dallas, TX with Reviews ...
+snippet: Night Clubs in Deep Ellum on YP.com. See reviews, photos, directions, phone numbers and more for the best Night Clubs in Deep Ellum, Dallas, TX.
+
+REL: 3
+POI Name: Black Swan Saloon
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, 
+Snippets:
+title: Welcome to Black Swan Saloon | Black Swan Saloon
+snippet: Between the morality-free recreation and the cautionary tale that is Louie Anderson, Vegas can teach a man a lot about life — but the only lesson most guys learn is that they should’ve learned their lesson last time. Actually using his Vegas education to fulfill a downtown Dallas dream, the man behind the Black Swan Saloon.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Black Swan Saloon (Dallas) - 2020 All You Need to Know ...
+snippet: The circumstances of JFK’s assassination are controversial. During this guided tour, a historian helps you separate the facts, stories, and theories behind that pivotal day in 1963.
+title: World Travelers | Black Swan Saloon
+snippet: Hours: Tuesday - Sunday 7pm - 2am 2708 Elm St. Dallas, TX 75226 (map it) (214) 749-4848
+title: Black Swan Saloon: A Dallas, TX Bar. - Thrillist
+snippet: Located on Elm Street in a dimly lit, brick-lined space with no signage, Black Swan Saloon is the type of unsuspecting cocktail bar where you want to become a regular, because the speakeasy feel ...
+title: THE 10 CLOSEST Hotels to Black Swan Saloon, Dallas ...
+snippet: Hotels near Black Swan Saloon, Dallas on Tripadvisor: Find 29,389 traveler reviews, 35,104 candid photos, and prices for 30 hotels near Black Swan Saloon in Dallas, TX.
+title: Black Swan Saloon - Deep Ellum - 2708 Elm St
+snippet: Dallas Observer dubbed Black Swan Saloon &quot;Best Place to Get a Crash Course in Tincutures&quot; in 2012 for Best Best of Dallas. Hector Sandoval December 21, 2014. Highly knowledgeable staff, and great liquor/beer selection. Vince Barnhill December 20, 2014. Everything but ask for the drink &quot;2Sip Vince&quot; gets!
+title: A down-to-earth Deep Ellum bar - Thrillist Dallas
+snippet: A down-to-earth Deep Ellum bar. ... Actually using his Vegas education to fulfill a downtown Dallas dream, the man behind the Black Swan Saloon. ... will hit Black Swan&#39;s tiny corner stage in a ...
+title: Black Swan Saloon - Eater Dallas
+snippet: Food news and dining guides for Dallas. Black Swan Saloon 2708 Elm Street, , TX 75226 (214) 749-4848
+title: Black Swan Saloon – Downtown Dallas Inc
+snippet: 2708 Elm Street . 214-749-4848. Deep Ellum
+
+REL: 3
+POI Name: Mike’s Gemini Twin
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Mike’s Gemini Twin - Home | Facebook
+snippet: Mike’s Gemini Twin, Dallas, Texas. 544 likes. We are a bar with a pool table, a dart board, and no windows.
+title: Mike’s Gemini Twin - South Dallas - Dallas, TX
+snippet: 7 reviews of Mike’s Gemini Twin &quot;I love this place so much. I want to have Chase&#39;s babies, however I do not have ovaries. Anyway, the old fashioned with Grandad is a great time. Anchor Steam, shots, hot dogs with Sriracha ...
+title: Mike’s Gemini Twin - Home | Facebook
+snippet: Mike’s Gemini Twin, Dallas, Texas. 488 likes. We are a bar with a pool table and no windows.
+title: Mike&#39;s Gemini Twin Is a New Bar With an Old Soul - D Magazine
+snippet: “Dive bar” may be a prestigious label that comes with time, but I had to admit, Mike’s Gemini Twin was off to a promising start. The space is ultra low-lit, with a checkered floor, pool ...
+title: Mike&#39;s Gemini Twin Is the Cedars&#39; New Dive Bar | Dallas ...
+snippet: Mike&#39;s Gemini Twin opened this weekend in The Cedars just south of Dallas Farmers Market. It&#39;s being called Dallas&#39; newest &quot;dive bar,&quot; but we don&#39;t know if we can call it that — and neither do ...
+title: Mike&#39;s Gemini Twin Is Keeping It Simple in The Cedars - D ...
+snippet: Mike’s Gemini Twin Is Keeping It Simple in The Cedars. ... “Gemini Twin is an old name in Dallas,” says Wynne, referring to the old drive-in theater at Forest and Central.
+title: Mike’s Gemini Twin 1902 S Harwood St Dallas, TX Bars ...
+snippet: Get directions, reviews and information for Mike’s Gemini Twin in Dallas, TX. Mike’s Gemini Twin 1902 S Harwood St Dallas TX 75215. 7 Reviews (214) 377-9356. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Dallas bar owners partner up to create new dive bar in the ...
+snippet: Two young Dallas bar owners have joined forces to open a bar together. The new bar is called Mike&#39;s Gemini Twin and it&#39;s a collaboration between Sam Wynne, co-owner of Braindead Brewing, and Pasha ...
+title: Mike’s Gemini Twin in Dallas | Mike’s Gemini Twin 1902 S ...
+snippet: Find Mike’s Gemini Twin in Dallas with Address, Phone number from Yahoo US Local. Includes Mike’s Gemini Twin Reviews, maps &amp; directions to Mike’s Gemini Twin in Dallas and more from Yahoo US Local. Find Mike’s Gemini Twin in Dallas with Address, Phone number from Yahoo US Local.
+title: A Laid-Back New Neighborhood Bar Debuts in ... - Eater Dallas
+snippet: Mike’s Gemini Twin, a no-frills new neighborhood bar in the Cedars district just south of Downtown, is officially ready to begin slinging drinks.. Co-owner Sam Wynne tells Eater that the bar will kick open the doors at 1902 South Harwood Street on Thursday, February 14, just in time for some laid-back Valentine’s Day boozing.
+
+REL: 3
+POI Name: Candleroom
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Venues & Event Spaces, Cocktail Bars, 
+Snippets:
+title: Home - candleroom
+snippet: Dallas&#39; Premier Upscale Dance Club, Lounge &amp; Special Events Venue www.candleroomdallas.com * Free Valet * Lighting up Dallas’ Nightlife scene since 2003, Candleroom is the perfect place to see, be seen, socialize &amp; celebrate. Located in the Henderson Avenue entertainment district, ...
+title: Calendar - candleroom
+snippet: Dallas&#39; Premier Upscale Dance Club, Lounge &amp; Special Events Venue www.candleroomdallas.com * Free Valet * Lighting up Dallas’ Nightlife scene since 2003, Candleroom is the perfect place to see, be seen, socialize &amp; celebrate. Located in the Henderson Avenue entertainment district, Candleroom encompasses 3,000 square feet of historic retail space &amp; features state-of-the-art Sound, V
+title: Special Events - candleroom
+snippet: Why Candleroom? Lighting up the Dallas’ Nightlife scene since 2003, Candleroom is the perfect place To Be, Be Seen, Socialize &amp; Celebrate. Captivating style, Cutting edge music and World Class service has separated this exclusive lounge from all the rest and Candleroom has continued to stay current by always evolving.
+title: Candleroom, Dallas - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Candleroom, Dallas: See 5 unbiased reviews of Candleroom, rated 4 of 5 on Tripadvisor and ranked #2,651 of 3,895 restaurants in Dallas.
+title: Reservations - candleroom
+snippet: Dallas&#39; Premier Upscale Dance Club, Lounge &amp; Special Events Venue www.candleroomdallas.com * Free Valet * Lighting up Dallas’ Nightlife scene since 2003, Candleroom is the perfect place to see, be seen, socialize &amp; celebrate. Located in the Henderson Avenue entertainment district, Candleroom encompasses 3,000 square feet of historic retail space &amp; features state-of-the-art Sound, V
+title: Candleroom - Home | Facebook
+snippet: Candleroom - 5039 Willis Ave, Dallas, Texas 75206 - Rated 4.4 based on 296 Reviews &quot;The best word I can think of to sum up our time at the Candleroom is...
+title: Candleroom, Dallas - Restaurantanmeldelser - Tripadvisor
+snippet: Candleroom, Dallas: Se 5 objektive anmeldelser av Candleroom, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 650 av 3 893 restauranter i Dallas.
+title: Candleroom Lounge Nightclub Bottle Service | Dallas VIP
+snippet: Candleroom is upscale, and it does its best to remain this way by keeping the general public out. By allowing only members, it guarantees that the venue won&#39;t stray away from its classy environment. Despite this exclusivity, Candleroom is the hottest party venue in Dallas.
+title: Dallas&#39; Premier Upscale Dance Club &amp; Special ... - candleroom
+snippet: Dallas&#39; Premier Upscale Dance Club, Lounge &amp; Special Events Venue www.candleroomdallas.com * Free Valet * Lighting up Dallas’ Nightlife scene since 2003, Candleroom is the perfect place to see, be seen
+
+REL: 3
+POI Name: Bar 828 Pop Up Bar
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Bar 828 Pop Up Bar 828 W Davis St Dallas, TX Bars - MapQuest
+snippet: This pop up bar (the first in Dallas) is only opened for nine days, so hurry up and experience it before it&#39;s gone forever! Some clever bartenders took a vacant garage in the Tyler-Davis...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Bar 828 Popped Up in Oak Cliff Last ... - Dallas Observer
+snippet: Last night in Oak Cliff, booze enthusiasts swarmed to Bar 828, the city&#39;s first ever pop up bar, to see some of the area&#39;s top mixologists at work. The guerrilla bar, as it&#39;s known to Michael ...
+title: Bar 828 - Drink - Thrillist Dallas
+snippet: Bar 828. By Thrillist Published On 10/12/2011. ... Cedars Social, and Usual Bar, the place suspected of totally messing up Stephen Baldwin&#39;s brain.
+title: Dallas&#39; Ultimate Christmas Bar Pops Up in Deep Ellum: This ...
+snippet: I went to the eclectic, transforming Dallas neighborhood to check out the new Miracle Christmas Pop-Up Bar at HIDE bar at 2816 Elm Street. ... Dallas’ Ultimate Christmas Bar Pops Up in Deep Ellum
+title: A ‘The Office’ Themed Pop-Up Bar Will Open in Dallas ...
+snippet: The Whippersnapper, located at 1806 McMillan Avenue, is on a pop-up streak as of late. Last year the bar temporarily transformed into temples to Harry Potter and Family Guy. Its latest theme is all about the long-running NBC series that made a mockery of the 9-to-5 set with the help of boss Michael Gary Scott (aka Steve Carell).
+title: Pop-Ups - Eater Dallas
+snippet: Pop-Ups. Take A Peek Inside Dallas’s Geeky New ‘Star Wars’ Themed Pop-Up Bar . ... Miracle, NYC’s Christmas-Themed Pop-Up Bar, Is Headed To Dallas. By Amy McCarthy December 8, 2016 John Tesar Is Resurrecting Spoon Via Pop-Up Dinner Series. By Amy McCarthy October 21, 2016 Eat ...
+title: Take a Peek Inside Dallas&#39; New &#39;Family Guy&#39;-Themed Pop-Up ...
+snippet: Take a Peek Inside Dallas&#39; New &#39;Family Guy&#39;-Themed Pop-Up Bar, the Drunken Clam. Taylor Adams | January 4 ... we think you’ll enjoy dropping by and checking out the pop-up bar along with drink ...
+title: The Whippersnapper turns into Dunder Whiplin, an &#39;Office ...
+snippet: The pop-up bar will be in place until Feb. 15. The pop-up bar will be in place until Feb. 15. Skip navigation Sign in. Search. Loading... Close. This video is unavailable. Watch Queue
+title: Whitehall Exchange Bars, Nightlife - Locu
+snippet: Whitehall Exchange, Bars business in Dallas. See up-to-date pricelists and view recent announcements for this location.
+
+REL: 3
+POI Name: Dansungsa
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Korean, Seafood, 
+Snippets:
+title: Dansungsa: Korean Restaurant, Bar, Karaoke In Dallas and ...
+snippet: DanSungSa has welcomed Dallas to join in the pojangmacha experience. Located in the Korea-town district of Dallas, DanSunSa has become a “must go” destination for visitors hungry for authentic, delicious Korean anju and dishes.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Dansungsa Korean Restaurant &amp; Bar - Dallas, Texas - Menu ...
+snippet: Dansungsa Korean Restaurant &amp; Bar, Dallas, TX. 1,944 likes · 132 talking about this · 9,193 were here. Japanese has the Izakaya. Britains has the Gastropub. In Korea, when diners are looking for...
+title: DanSungSa Korean restaurant and bar - Dallas, TX
+snippet: DanSungSa Korean restaurant and bar, Restaurants business in Dallas. See up-to-date pricelists and view recent announcements for this location.
+title: DanSungSa, Dallas - Restaurant Reviews, Phone Number ...
+snippet: Order food online at DanSungSa, Dallas with Tripadvisor: See unbiased reviews of DanSungSa, ranked #2,704 on Tripadvisor among 3,893 restaurants in Dallas.
+title: Dansungsa - Dallas, TX - Yelp
+snippet: DanSungSa has welcomed Dallas to join in the pojangmacha experience. Located in the Korea-town district of Dallas, DanSunSa has become a &quot;must go&quot; destination for visitors hungry for authentic, delicious Korean anju and dishes.
+title: Misconception... - Review of DanSungSa, Dallas, TX ...
+snippet: Description: Look no further for the best authentic Korean food in Dallas! DanSungSa features delicious Korean dishes and tasty drinks! Enjoy Happy Hour everyday from 5:30-9:30PM with specials like $2.50 domestics, $3.50 imports &amp; $2.50 wells!
+title: DanSungSa | The 100 Best Dallas Restaurants of 2020 ...
+snippet: We’re not sure if DanSungSa is the best karaoke venue in the Dallas area, but we’re pretty sure it’s one of the best places to eat while partaking in karaoke night.
+title: Photos for Dansungsa - Yelp
+snippet: Photos at Dansungsa - Dallas, TX. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Dansungsa Dallas | Facebook
+snippet: Dansungsa Dallas is on Facebook. Join Facebook to connect with Dansungsa Dallas and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+
+REL: 2
+POI Name: Barcelona Wine Bar
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Tapas/Small Plates, Spanish, 
+Snippets:
+title: BARCELONA WINE BAR - Barcelona Wine Bar
+snippet: The cuisine is clean and rustic, with tapas shaped by Mediterranean, Spanish, and South American influences. Nearly 400 wines are featured on the wine list.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Knox-Henderson - Barcelona Wine Bar
+snippet: Barcelona Wine Bar: Knox-Henderson. Chef Chad Starling brings an extensive background in whole-animal butchery, farming and farm-to-table cuisine with a global influence. This global influence spans from the Waldorf-Astorias in Key West and Southeast Asia, to a multitude of renowned restaurants across the US.
+title: Food &amp; Drink - Spanish Wine &amp; Tapas - Barcelona Wine Bar
+snippet: Enjoy Spanish, Mediterranean &amp; South American cuisine at Barcelona Wine Bar. We offer the finest seasonal picks from local markets &amp; feature nearly 400 wines. Visit a restaurant location near you!
+title: Del Frisco&#39;s to open two new casual wine and tapas ...
+snippet: Two new restaurants will soon be bringing fancy by-the-glass wines and tapas to Dallas’ Preston Center and Henderson Avenue. EscapeHatch has learned that the Irving-based Del Frisco’s Restaurant Group (Del Frisco’s Grill, Del Frisco’s Double Eagle and Sullivan’s Steakhouse) plans to open Barcelona Wine Bar, an upscale casual dining restaurant that specializes in Spanish and ...
+title: 2 new Spanish restaurants in one Dallas neighborhood ...
+snippet: food Restaurant News. 2 new Spanish restaurants in one Dallas neighborhood: Barcelona Wine Bar and jamon shop Enrique Tomas With Barcelona Wine Bar and jamon shop Enrique Tomas, it’s a good time ...
+title: Wine Bar Locations - Barcelona Wine Bar
+snippet: Barcelona Wine Bar is located in Colorado, Connecticut, Georgia, Massachusetts, North Carolina, Pennsylvania, Tennessee, Virginia &amp; Washington, DC. Find a location near you today!
+title: Contact - Barcelona Wine Bar
+snippet: about us. Barcelona Restaurant and Wine Bar is an award-winning Spanish tapas restaurant group. Barcelona was begun in 1995 by Sasa Mahr-Batuz, based on his memories of years of living in Spain and Portugal, and Andy Pforzheimer, based on his 20 years as a chef at world-famous restaurants in France, California and New York.
+title: The Best Wine Bars in Dallas - Eater Dallas
+snippet: This O.G. wine bar near Addison has legions of loyal followers. There’s plenty of food on the menu, but the wine is the real draw here — this is a place to experiment and learn about wine in the best way possible: by drinking lots of it.
+title: Wine Bar in Dallas? Here&#39;s Our Picks of the 9 Best Wine Bars
+snippet: Dallas has great wine bars, from the cozy and quiet to the bustling with live music. Explore a vast range of wines from the world, and check out the Texas grape too. Here&#39;s our guide to some of the most notable wine bars in Dallas.
+
+REL: 2
+POI Name: The Blue Light Dallas
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, Comfort Food, 
+Snippets:
+title: The Blue Light Dallas | Deep Ellum&#39;s Americana Music Venue
+snippet: Located in the heart of the Deep Ellum district of Downtown Dallas, The Blue Light Dallas serves Americana Music, cold spirits, and comfort food. We are the purveyor of smiles and Good Vibes. Check out our upcoming shows in our Concert Calendar!. We promise you that!
+title: The Blue Light Dallas&#39; Live Music Concert Calendar | The ...
+snippet: Check out our Concert Calendar to view our upcoming concerts!
+title: The Blue Light Dallas - Home | Facebook
+snippet: The Blue Light Dallas - 2811 Main St, Dallas, Texas 75226 - Rated 4.9 based on 24 Reviews &quot;Great place to get real drunk and wake up with a sexy ass she...
+title: About | Location, Map &amp; Hours | The Blue Light Dallas
+snippet: Located in the heart of the Deep Ellum district of Downtown Dallas. The Blue Light Dallas serves Americana Music, cold spirits, and comfort food.
+title: Table RSVP &amp; VIP | Reserve your ... - The Blue Light Dallas
+snippet: If you are wanting to reserve a table or VIP seating for an upcoming concert, please email marc@thebluelightdallas.com Make sure to RSVP your table ASAP!
+title: Live Music, Concerts &amp; Performances - The Blue Light Dallas
+snippet: Are you an Artist, Musician, or Band looking to book a gig at The Blue Light Dallas? Please email us at booking@thebluelightdallas.com
+title: The Blue Light Dallas | Event Calendar
+snippet: Calendar | Buy tickets and find event information for upcoming events at The Blue Light Dallas
+title: The Blue Light Dallas - Photos | Facebook
+snippet: The Blue Light Dallas - 2811 Main St, Dallas, Texas 75226 - Rated 4.9 based on 24 Reviews &quot;Great place to get real drunk and wake up with a sexy ass she...
+title: The City of Dallas has closed all... - The Blue Light ...
+snippet: See more of The Blue Light Dallas on Facebook. Log In. or. Create New Account. See more of The Blue Light Dallas on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Trees Dallas. Performance &amp; Event Venue. The Bomb Factory. Live Music Venue. The Rustic - Dallas. Bar. Fort Worth Live. Bar.
+
+REL: 2
+POI Name: Velvet Elvis
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, 
+Snippets:
+title: Velvet Elvis-Dallas - Home | Facebook
+snippet: Velvet Elvis-Dallas - 3720 Walnut Hill Ln, Dallas, Texas 75229 - Rated 3.9 based on 126 Reviews &quot;Steve,DannyO,Lauren,Y&#39;all ROCK.Every one come out and...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Velvet Elvis - Home | Facebook
+snippet: Velvet Elvis - 3720 Walnut Hill Ln, Dallas, Texas 75229 - Rated 4.6 based on 79 Reviews &quot;I love this bar. Its a great place to go and hang out with the...
+title: The Velvet Elvis, Dallas - Restaurant Reviews &amp; Phone ...
+snippet: The Velvet Elvis, Dallas: See unbiased reviews of The Velvet Elvis, rated 2 of 5 on Tripadvisor and ranked #2,701 of 3,879 restaurants in Dallas.
+title: Velvet Elvis - Wikipedia
+snippet: A Velvet Elvis is a painting of Elvis Presley on velvet.It typically represents a costumed torso of Elvis holding a microphone, painted on black velvet (or velvet of some other dark color, such as navy blue, red or purple).This iconic velvet painting is considered an archetypical example of kitsch.. A brief history of black velvet paintings is presented by Pamela Liflander in Black Velvet ...
+title: Best Dive Bar: Velvet Elvis Lounge | Best of Dallas® 2019 ...
+snippet: This North Dallas bar has changed immensely in the last decade; long gone are the kitschy decor items and the Chuck Norris urban tales painted on the bathroom walls, and most disappointing, the ...
+title: The Velvet Elvis - Dallas, TX - Untappd
+snippet: Find out what&#39;s popular at The Velvet Elvis in Dallas, TX in real-time and see activity
+title: Nice basic bar for relaxing - Yelp
+snippet: Photo of Velvet Elvis - &quot;Nice basic bar for relaxing&quot; - Dallas, TX. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Velvet Elvis; Photos &amp; Videos 22 photos for Velvet Elvis. Add photos Browse all ...
+title: Velvet Elvis in Dallas | Velvet Elvis 3720 Walnut Hill Ln ...
+snippet: Find Velvet Elvis in Dallas with Address, Phone number from Yahoo US Local. Includes Velvet Elvis Reviews, maps &amp; directions to Velvet Elvis in Dallas and more from Yahoo US Local. Find Velvet Elvis in Dallas with Address, Phone number from Yahoo US Local.
+title: Velvet Elvis - Dallas, United States
+snippet: Velvet Elvis is actually the nicer of the two bars in the strip, though that’s a bit like saying someone can win in a Sandra Bernhard look-a-like contest. (Next-door A Step Up Lounge came into this world covered in a thick layer of cigarette smoke and stale beer and keeps forgetting to shower.)
+
+REL: 2
+POI Name: Playground Bar Uptown
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Tacos, 
+Snippets:
+title: Playground Bar Uptown
+snippet: Playground is here for adults to enjoy so all guests must be 21 years of age or older &amp; are sat at a first come first serve basis. Outside food or drink is not allowed. We do not take reservations. For private bookings please refer to our Private Events tab.
+title: Playground Bar Uptown - 500 Photos - 131 Reviews - Bar ...
+snippet: Playground Bar Uptown - 2908 McKinney Avenue, Dallas, Texas 75204 - Rated 4.8 based on 131 Reviews &quot;First time here and this place is so cool! The drink...
+title: Playground Bar Uptown
+snippet: At Playground, we are all about having fun! From our arcade games to the seesaw on the patio, everything we do, incorporates fun and entertainment. Catch your favorite team play on one of our 9 HDTVs or Jumbo Screen!
+title: Best Street Tacos - Playground Bar Uptown
+snippet: Best Street Tacos in Dallas. OPENING HOURS Monday - Friday 4pm - 2am (Kitchen 7pm-2am) Saturday - Sunday
+title: Playground Bar Uptown - 413 Photos - 133 Reviews - Bar ...
+snippet: Playground Bar Uptown, Dallas, Texas. 5K likes. A neighborhood bar serving drinks, street tacos and fun! We combine favorite childhood and adulthood games, ice cold drinks and a fun bar atmosphere in...
+title: Playground Bar Uptown
+snippet: Best bar in uptown dallas, free games, cheap drinks, street tacos
+title: Playground Bar Uptown - 441 Photos - 133 Reviews - Bar ...
+snippet: Playground Bar Uptown, Dallas, Texas. 5.3K likes. A neighborhood bar serving drinks, street tacos and fun! We combine favorite childhood and adulthood games, ice cold drinks and a fun bar atmosphere...
+title: Playground Bar Uptown - Uptown - Dallas, TX - Yelp
+snippet: 56 reviews of Playground Bar Uptown &quot;Hands down, the best concept bar in the uptown area: Design/layout: Very well done. The downstairs will remind you of your days from recess. There&#39;s a seesaw, picnic tables, putt-putt, and one of those spring…
+title: Photos for Playground Bar Uptown - Yelp
+snippet: Photos at Playground Bar Uptown - Dallas, TX. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Playground Bar Uptown. Playground Bar Uptown. 58 reviews Add photos All (104) Inside (34) Drink (24) Menu (9) Outside (9) Food (8) Search photos... 104 photos mention &quot;&quot; Clear ...
+title: It’s hopscotch and tacos in Uptown ... - CultureMap Dallas
+snippet: Bars with fun and games have been a thing around Dallas-Fort Worth since 2008, when Barcadia brought its giant Jenga to Henderson Avenue. Now a new Uptown Dallas bar is taking it to the next level.
+
+REL: 2
+POI Name: Stereo Live Dallas
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+title: Dallas | Stereo Live
+snippet: Texas’ #1 Electronic Music Venue. Stereo Live Dallas. 2711 Storey Lane, Dallas, TX 75220. Powered by Eventbrite
+title: Stereo Live Dallas Events | Eventbrite
+snippet: Stereo Live Dallas is using Eventbrite to organize 21 upcoming events. Check out Stereo Live Dallas&#39;s events, learn more, or contact this organizer.
+title: Carl Cox – Stereo Live Dallas – Tickets – Stereo Live ...
+snippet: TICKET REMINDER: To ensure your satisfaction, NightCulture cannot guarantee tickets purchased from un-authorized 3rd party resellers (individuals or brokers). We recommend that you purchase tickets directly through Stereo Live.com, NightCulture.com, eventbrite.com, our authorized partners, and
+title: Stereo Live Dallas - Home | Facebook
+snippet: Stereo Live Dallas - 2711 Storey Lane, Dallas, Texas 75220 - Rated 4.3 based on 248 Reviews &quot;Great venue! Huge variety of artists being booked, and I...
+title: Tiësto – Stereo Live Dallas – Tickets – Stereo Live Dallas ...
+snippet: TICKET REMINDER: To ensure your satisfaction, NightCulture cannot guarantee tickets purchased from un-authorized 3rd party resellers (individuals or brokers). We recommend that you purchase tickets directly through Stereo Live.com, NightCulture.com, eventbrite.com, our authorized partners, and
+title: Stereo Live Dallas - Check Availability - 61 Photos &amp; 64 ...
+snippet: 64 reviews of Stereo Live Dallas &quot;Definitely one of the best venues in Dallas! Great music and sound system in this place. Service was fast and courteous, our bartender for the night Carly kept the drinks coming all night without having to wait in…
+title: Stereo Live Dallas - Check Availability - 61 Photos &amp; 66 ...
+snippet: 66 reviews of Stereo Live Dallas &quot;Parking is $10 and VIP parking is $20. They check your id before you go in then give you a wristband. Also they don&#39;t pat you down or even check you at all. They have a bar downstairs and one bar upstairs in VIP.…
+title: Stereo Live | Texas’ #1 Electronic Music Venue
+snippet: Houston Dallas . Powered by Eventbrite. Venue Guidelines Texas’ #1 Electronic Music Venue. Select your city. Houston Dallas . Powered by Eventbrite. Venue Guidelines ...
+title: Stereo Live - Dallas Tickets | Tickets.Expert | Concerts ...
+snippet: Buy tickets to all Stereo Live - Dallas events. Tickets.Expert is a resale marketplace, not a box office or venue. Ticket prices may be above or below face value.
+
+REL: 2
+POI Name: Guitars & Growlers
+POI City: Richardson
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Bar, Guitar Stores, American (New), 
+Snippets:
+
+
+REL: 2
+POI Name: Clutch
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Home - Clutch - Bar
+snippet: © 2020 So Clutch Group. All Rights Reserved.
+title: Dallas - Clutch
+snippet: 2520 Cedar Springs Road Dallas, Texas 75201. Hours of Operation. Friday 5 pm – 2 am; Saturday 2 pm – 2 am; Sunday 11 am – 2 am
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Brake &amp; Clutch Event Space
+snippet: DALLAS WEDDING + EVENT VENUE. This 1930&#39;s warehouse was historically Brake &amp; Clutch Service Company. Keeping the original name and character throughout, the space has been renovated into a wedding and event space perfect for your next event!
+title: Venue Info — Brake &amp; Clutch Event Space
+snippet: The Brake &amp; Clutch building was built in the 1930’s and operated as Brake &amp; Clutch Service Co. for many of the years following, closing in the 80’s. For years, it sat waiting to be renovated into the space it is today! The venue opened in 2017 and is operated by a mom and two daughters that created this space specifically for special events.
+title: Clutch Bar &amp; Restaurant (@clutch_bar_dallas) • Instagram ...
+snippet: 7,850 Followers, 1,715 Following, 645 Posts - See Instagram photos and videos from Clutch Bar &amp; Restaurant (@clutch_bar_dallas)
+title: Clutch Bar and Restaurant - Dallas, TX | OpenTable
+snippet: Get menu, photos and location information for Clutch Bar and Restaurant in Dallas, TX. Or book now at one of our other 5896 great restaurants in Dallas.
+title: Ducati OEM Parts, Accessories, and Clothing Specialist ...
+snippet: Advanced Motorsports Ducati Dallas is a leader in Ducati service and sales in the United States. Advanced Motorsports is fully stocked with the latest Ducati Motorcycles, Ducati Performance Parts, Ducati Apparel, Ducati Accessories and Merchandise.
+title: Clutch - Uptown - Dallas, TX - Yelp
+snippet: Clutch is a pretty consistent place for me and my group of friends. We almost always have a nice table so that makes the experience better. If you don&#39;t want to splurge on a table, the bar area can get pretty crowded quickly but it&#39;s still a good and fun scene.
+title: Clutch | So Clutch Group
+snippet: Yes, Clutch Dallas provides in house catering should you need it. Clutch Dallas has 300 available parking spaces for our customers. Valet Parking is available for all of our Clutch Dallas guests.
+
+REL: 2
+POI Name: The Grapevine Bar
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Music Venues, Cocktail Bars, 
+Snippets:
+title: The Grapevine Bar
+snippet: DALLAS’ MOST INFAMOUS DIVE BAR! The Grapevine Bar is a beloved neighborhood dive that’s been around since 1996. From prom queens to drag queens, everyone is welcome! The Grapevine has been voted “Best Dive Bar”, “Best Straight Bar”, “Best Gay Bar”, “Best Happy Hour”, and more. Whether your famous or infamous (like our ...
+title: The Grapevine Bar (Dallas) - 2020 All You Need to Know ...
+snippet: The circumstances of JFK’s assassination are controversial. During this guided tour, a historian helps you separate the facts, stories, and theories behind that pivotal day in 1963.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: The Grapevine Bar (Dallas, TX) - Anmeldelser - Tripadvisor
+snippet: The Grapevine Bar, Dallas: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for The Grapevine Bar i Dallas, Texas på Tripadvisor.
+title: The Grapevine Bar - Oak Lawn - Dallas, TX - Yelp
+snippet: The Grapevine Bar gets four stars for their frozen drinks, if not for the fun backdoor patio great for soaking up some rays as you soak up some liquor. I recommend the Bellini, if you like peach. The targarita is as quirky as it sounds, tasting like an adult, frozen Sunny D, and they have great things on draft.
+title: THE 10 BEST Restaurants Near The Grapevine Bar in Dallas ...
+snippet: Restaurants near The Grapevine Bar, Dallas on Tripadvisor: Find traveler reviews and candid photos of dining near The Grapevine Bar in Dallas, Texas.
+title: The Grapevine Bar - Oak Lawn - Dallas, TX
+snippet: 297 reviews of The Grapevine Bar &quot;Fun, crazy, wacky, all walks of life bar on Maple in Dallas. A beloved dive bar that has somehow eluded my grasp, visited with friends on a recent Sunday (busy!) and parked up on the roof top deck to chat with…
+title: THE 10 CLOSEST Hotels to The Grapevine Bar, Dallas ...
+snippet: Hotels near The Grapevine Bar, Dallas on Tripadvisor: Find 23,873 traveler reviews, 35,048 candid photos, and prices for 30 hotels near The Grapevine Bar in Dallas, TX.
+title: The Grapevine Bar - Oak Lawn - Dallas, TX - Yelp
+snippet: 296 reviews of The Grapevine Bar &quot;This could be one of my favorite patios in Dallas. The lights are so pretty and the music sets a really nice vibe, although it can get really loud and smokey. There&#39;s a relaxed feel to it, and a little basketball…
+title: The Grapevine Bar | Things To Do In Dallas, Tx
+snippet: The Grapevine Bar | Things To Do In Dallas, Tx in Dallas, TX. Dive Bars are known for having an extremely loyal customer base, and in the Dallas area, very few dive bars generate the kind of customer loyalty that The Grapevine Bar does.
+
+REL: 2
+POI Name: Parliament
+POI City: Dallas
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Parliament (Dallas) - 2020 All You Need to Know BEFORE You ...
+snippet: The circumstances of JFK’s assassination are controversial. During this guided tour, a historian helps you separate the facts, stories, and theories behind that pivotal day in 1963.
+title: Parliament - Home | Facebook
+snippet: Parliament - 2418 Allen St, Dallas, Texas 75204 - Rated 4.9 based on 222 Reviews &quot;Always top notch service here. As soon as you walk in you get a warm...
+title: Parliament: A Dallas, TX Bar.
+snippet: With craft cocktail icon Eddie &quot;Lucky&quot; Campbell at the helm, this bordello-lit drinking den in State Thomas boasts a lengthy leather-bound menu that has something for everyone.
+title: Parliament in Dallas - Restaurant menu and reviews
+snippet: All info on Parliament in Dallas - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Parliament (@parliament_dallas) • Instagram photos and videos
+snippet: 2,482 Followers, 1,438 Following, 382 Posts - See Instagram photos and videos from Parliament (@parliament_dallas)
+title: Parliament - Uptown - 28 tips
+snippet: Parliament has a 1920’s vibe that’s perfect for happy hour. The space is a bit small, but it adds to the prohibition era ambiance. If you aren’t sure what to order, ask the bartender. They’re GOOD.
+title: THE 10 BEST Restaurants Near Parliament in Dallas, TX ...
+snippet: Restaurants near Parliament, Dallas on Tripadvisor: Find traveler reviews and candid photos of dining near Parliament in Dallas, Texas.
+title: Menu at Parliament pub &amp; bar, Dallas - Restaurant Guru
+snippet: The restaurant information including the Parliament menu items and prices may have been modified since the last website update. All users are free to download and save the Parliament menu files, but can not duplicate or distribute them for any commercial use without prior written permission of the copyright holder.
+title: Parliament
+snippet: Parliament is a new establishment in the State &amp; Allen neighborhood, offering fine cocktails and friendly service in our timeless lounge. Open 5pm to 2am Monday through Saturday. Closed Sundays. 2418 Allen St Dallas, TX 75204 (469)804-4321.
+
+REL: 1
+POI Name: Lockhart Smokehouse
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Barbeque, Bars, Smokehouse, 
+Snippets:
+title: Lockhart Smokehouse - Dallas BBQ Restaurant, Best BBQ ...
+snippet: Imagine, the great BBQ joints of Lockhart, Texas just a short trip from anywhere in the Dallas-Fort Worth area. Lockhart Smokehouse has three locations - the Bishop Arts District of Dallas, Downtown Plano and Texas Live! in Arlington.
+title: Menu - Lockhart Smokehouse
+snippet: Lockhart Smokehouse: True Central Texas BBQ without I-35. Download PDF of Restaurant Menu Download PDF of Catering Menu. Most of the legendary meat palaces in Central Texas use the counter service method, and Lockhart Smokehouse is no different.
+title: Dallas - Lockhart Smokehouse
+snippet: Lockhart Smokehouse (Dallas) 400 West Davis Dallas, Texas 75208 - Directions 214-944-5521. Lockhart Smokehouse (Plano) 1026 East 15th Street Plano, Texas 75074 - Directions 972-516-8900. Lockhart ...
+title: Locations - Lockhart Smokehouse
+snippet: Lockhart Smokehouse - Dallas. 400 West Davis Dallas, TX 75208 214-944-5521. Lockhart Smokehouse - Plano. 1026 East 15th Street Plano, TX 75074 972-516-8900. Lockhart Smokehouse - Arlington. 1650 E. Randol Mill Road, Suite 130 Arlington, TX 76011 817-769-1747
+title: Lockhart Smokehouse, Dallas - Menu, Prices &amp; Restaurant ...
+snippet: Lockhart Smokehouse, Dallas: See 901 unbiased reviews of Lockhart Smokehouse, rated 4.5 of 5 on Tripadvisor and ranked #53 of 3,895 restaurants in Dallas.
+title: Lockhart Smokehouse - Home - Dallas, Texas - Menu, Prices ...
+snippet: Lockhart Smokehouse - 400 W Davis St, Dallas, Texas 75208 - Rated 4.6 based on 1,472 Reviews &quot;Walked into The Smoke House and worked our way to the back...
+title: News &amp; Events - Lockhart Smokehouse
+snippet: Lockhart Smokehouse (Dallas) 400 West Davis Dallas, Texas 75208 - Directions 214-944-5521. Lockhart Smokehouse (Plano) 1026 East 15th Street Plano, Texas 75074 - Directions 972-516-8900. Lockhart ...
+title: Lockhart Smokehouse, Dallas - Restaurantanmeldelser ...
+snippet: Lockhart Smokehouse, Dallas: Se 900 objektive anmeldelser av Lockhart Smokehouse, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 56 av 3 877 restauranter i Dallas.
+title: Lockhart Smokehouse - Bishop Arts District - Dallas, TX
+snippet: 1949 reviews of Lockhart Smokehouse &quot;I got a 1/2 pound of the brisket and a small order of cobbler. Both were phenomenal. The brisket was very tender, and it was very moist. The dry seasoning and texture of the outer edges contrasted well with…
+title: Lockhart Smokehouse, Plano - Menu, Prices &amp; Restaurant ...
+snippet: Lockhart Smokehouse, Plano: See 367 unbiased reviews of Lockhart Smokehouse, rated 4 of 5 on Tripadvisor and ranked #17 of 981 restaurants in Plano. Flights ... One of the best bbq in Dallas. ... We looked on the web and saw that Lockhart’s was open until 10 PM.
+
+REL: 1
+POI Name: Gorditas Los Comales
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, Bars, Breakfast & Brunch, 
+Snippets:
+title: Gorditas Los Comales, Dallas - Restaurant Reviews, Photos ...
+snippet: Gorditas Los Comales, Dallas: See 7 unbiased reviews of Gorditas Los Comales, rated 3.5 of 5 on Tripadvisor and ranked #1,895 of 3,893 restaurants in Dallas.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Gorditas los Comales - Home - Dallas, Texas - Menu, Prices ...
+snippet: Gorditas los Comales - 13247 Montfort Dr suite 100, Dallas, Texas 75240 - Rated 4.3 based on 219 Reviews &quot;First time here and I was very surprised. With...
+title: Gorditas los Comales - Home | Facebook
+snippet: Gorditas los Comales - 13247 Montfort Dr suite 100, Dallas, Texas 75240 - Rated 4.3 based on 219 Reviews &quot;First time here and I was very surprised. With...
+title: Gorditas los Comales - Photos - Dallas, Texas - Menu ...
+snippet: Gorditas los Comales - 13247 Montfort Dr suite 100, Dallas, Texas 75240 - Rated 4.3 based on 218 Reviews &quot;First time here and I was very surprised. With...
+title: Gorditas Los Comales Dallas - Reviews and Deals at ...
+snippet: Gorditas Los Comales offers a pleasant, inviting atmosphere that is perfect for casual dining with families and friends. The menu features an array of selections, with something sure to please every member of your group. Gorditas Los Comales also features a professional staff of friendly people, who will ensure that your visit is a pleasant one.
+title: Gorditas Los Comales - North Dallas - Dallas, TX
+snippet: 84 reviews of Gorditas Los Comales &quot;The food was ok not great. And for the price not worth it in my opinion. I had the taco plate with rice and beans. Nothing special. And the salsa that came with the chips was the size of a dollar coin .&quot;
+title: Gorditas Los Comales Menu - Dallas, TX Restaurant
+snippet: Menu, hours, photos, and more for Gorditas Los Comales located at 13247 Montfort Dr, Dallas, TX, 75240-5289, offering Mexican, Dinner, Fast Food, Chicken, Sandwiches, Late Night and Lunch. View the menu for Gorditas Los Comales on MenuPages and find your next meal ...
+title: Gorditas los Comales - Home - Dallas, Texas - Menu, Prices ...
+snippet: Gorditas los Comales - 13247 Montfort Dr suite 100, Dallas, Texas 75240 - Rated 4.3 based on 222 Reviews &quot;Taco Tuesday for Ashani&#39;s last day! Best...
+title: Gorditas Los Comales 13247 Montfort Dr Ste 100 Dallas, TX ...
+snippet: Get directions, reviews and information for Gorditas Los Comales in Dallas, TX. Gorditas Los Comales 13247 Montfort Dr Ste 100 Dallas TX 75240. 84 Reviews (972) 385-2455. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+
+REL: 1
+POI Name: Adelmo's Ristorante
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Wine Bars, Desserts, 
+Snippets:
+title: Adelmo&#39;s Ristorante
+snippet: Adelmo&#39;s features cuisine inspired by the Italian/Mediterranean region as well as the herbs, spices and grains indigenous to its shores. Made with the freshest ingredients.
+title: Menus | Adelmo&#39;s Ristorante
+snippet: Adelmo&#39;s features cuisine inspired by the Italian/Mediterranean region as well as the herbs, spices and grains indigenous to its shores. Made with the freshest ingredients.
+title: Adelmo&#39;s Ristorante, Dallas - Oak Lawn - Menu, Prices ...
+snippet: Order food online at Adelmo&#39;s Ristorante, Dallas with Tripadvisor: See 78 unbiased reviews of Adelmo&#39;s Ristorante, ranked #475 on Tripadvisor among 3,895 restaurants in Dallas.
+title: Adelmo&#39;s Ristorante Restaurant - Dallas, TX | OpenTable
+snippet: His work took him all over the world from ships to hotels, and finally, Dallas, Texas , where he worked at the legendary Fairmont Hotel&#39;s Pyramid Room, the Mansion On Turtle Creek, and the Crescent Court Hotel. In 1989, he and his wife Eliza, who hails from the Mediterranean region, opened Adelmo&#39;s Ristorante to rave reviews.
+title: Adelmo&#39;s Ristorante - Dallas, Texas - Menu, Prices ...
+snippet: Adelmo&#39;s Ristorante, Dallas, Texas. 8.5K likes. Adelmo&#39;s features cuisine inspired by the Italian/Mediterranean region as well as the herbs, spices and grains indigenous to its shores. Made with the...
+title: Hours + Location | Adelmo&#39;s Ristorante
+snippet: Adelmo&#39;s features cuisine inspired by the Italian/Mediterranean region as well as the herbs, spices and grains indigenous to its shores. Made with the freshest ingredients.
+title: Photos for Adelmo&#39;s Ristorante - Yelp
+snippet: Photos at Adelmo&#39;s Ristorante - Dallas, TX. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: Adelmo&#39;s Ristorante Dallas, TX 75209 - Menu, 94 Reviews ...
+snippet: Latest reviews, photos and ??ratings for Adelmo&#39;s Ristorante at 5450 W Lovers Ln #225 in Dallas - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Contact Us | Adelmo&#39;s Ristorante
+snippet: Contact Us. Send us a message and we’ll get back to you as soon as possible. You can also reach us by phone at (214) 559-0325.Looking forward to hearing from you!
+title: Private Dining | Adelmo&#39;s Ristorante
+snippet: Private Dining Room. Family owned and operated since 1989. We pride ourselves in serving the best quality in veal, seafood, beef and pastas, all in a rare old world setting, complemented with personalized service, and an award winning wine list.
+
+REL: 1
+POI Name: The Rustic
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), Bars, Music Venues, 
+Snippets:
+title: The Rustic – AT THE RUSTIC, WE’RE BRINGING SAVORY ...
+snippet: Welcome Dallas KITCHEN. BACKYARD. BAR. LIVE MUSIC. Down-home offerings sourced from Texas ranchers and farmers. Cold, local craft beers and Texas-spirit-driven cocktails and drinks.
+title: MUSIC+EVENTS – The Rustic
+snippet: The Powell Brothers have been selected to support numerous top national and regional acts, including sharing the stage with names like Lee Brice, Billy Currington, Josh Turner, Gary Allan, Granger Smith, Mark Chesnutt, Suzy Bogguss, The Bellamy Brothers, Pat Green, Cody Johnson, Randy Rogers Band, Jack Ingram and many more.
+title: Dallas – The Rustic
+snippet: The Rustic Dallas. 3656 Howell St Dallas, Texas 75204. CURRENT HOURS. Monday to Thursday 11 am – 11 pm Friday 11 am – 12 am Saturday 10 am – 12 am Sunday 10 am – 11 pm. HOLIDAY HOURS. Thanksgiving Closed Christmas Eve 11am-8pm Christmas Day 4pm-9pm New Year’s Eve 11am-12am
+title: The Rustic, Dallas - Restaurant Reviews, Photos &amp; Phone ...
+snippet: The Rustic, Dallas: See 465 unbiased reviews of The Rustic, rated 4.5 of 5 on Tripadvisor and ranked #75 of 3,895 restaurants in Dallas.
+title: The Rustic, Dallas - Restaurantanmeldelser - Tripadvisor
+snippet: The Rustic, Dallas: Se 465 objektive anmeldelser av The Rustic, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 75 av 3 895 restauranter i Dallas.
+title: The Rustic - Dallas - Home | Facebook
+snippet: The Rustic - Dallas - 3656 Howell St, Dallas, Texas 75204 - Rated 4.4 based on 1,332 Reviews &quot;My husband and I are from Maryland and went to the Vistor’s...
+title: The Rustic Dallas (@therusticdallas) • Instagram photos ...
+snippet: The Rustic Dallas Bar Takeout orders are available now. Call our number below to place an order. Delivery available on @favor &amp; @doordash Link in bio to donate a sandwich! linktr.ee/therusticdallas
+title: KITCHEN+BAR – The Rustic - Dallas, TX
+snippet: DEEP ELLUM DALLAS BLONDE (Dallas, Texas) FOUR CORNERS LOCAL BUZZ (Dallas, Texas) LONESTAR (Fort Worth, Texas) TUPPS BREWERY DAY OF THE DEAD (McKinney, Texas) SAINT ARNOLD BREWING ORANGE SHOW (Houston, Texas) NINE BAND BREWING THE HONEY BADGE (Allen, Texas) HOPFUSION FIESTY BLONDE (Fort Worth, Texas) REAL ALE FIREMANS #4 (Blanco, Texas)
+title: The Rustic - Dallas - Startside | Facebook
+snippet: The Rustic - Dallas – 3656 Howell St, Dallas, Texas 75204 – Vurderingen 4.4 basert på 1 334 anmeldelser &quot;My husband and I are from Maryland and went to...
+title: THE RUSTIC - Coeval StudioCoeval Studio
+snippet: CLIENT: The Rustic. Among the top 10 performing concepts in Texas. The Rustic has set the tone for entertainment in the heart of Dallas. Architecture Bar Building Design Master Planning Restaurant Schematic Design Site Design Space Layout
+
+REL: 1
+POI Name: i Fratelli Pizza Downtown Dallas
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Food Delivery Services, 
+Snippets:
+title: i Fratelli | Never trust a round pizza | FREE DELIVERY
+snippet: Thin-n-crispy pizza delivery with 16 DFW locations and 2 Austin locations to serve you. NOW OPEN in Houston! NOW OPEN in Downtown Dallas, Frisco, and Fort Worth. We are committed to exceeding your expectations with exemplary service, fast delivery, and hot pizza.
+title: Downtown Dallas – i Fratelli Pizza
+snippet: Downtown Dallas – i Fratelli Pizza ... Downtown Dallas
+title: I Fratelli Pizza, Dallas - Menu, Prices &amp; Restaurant ...
+snippet: I Fratelli is my &quot;go to&quot; pizza in Dallas. They&#39;re fast, reliable, and the flavors are really good. I love their thin crust and the proportion of sauce, cheese, and ingredients. It&#39;s just right in my opinion.
+title: Photos for i Fratelli Pizza Downtown Dallas - Yelp
+snippet: Photos at i Fratelli Pizza Downtown Dallas - Dallas, TX. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for i Fratelli Pizza Downtown Dallas. i Fratelli Pizza Downtown Dallas. 12 reviews Add photos All (18) Food ...
+title: i Fratelli Pizza Downtown Dallas 1001 Ross Ave Ste 122 ...
+snippet: Get directions, reviews and information for i Fratelli Pizza Downtown Dallas in Dallas, TX. i Fratelli Pizza Downtown Dallas 1001 Ross Ave Ste 122 Dallas TX 75202. 12 Reviews (469) 399-1679 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets ...
+title: I FRATELLI PIZZA, Dallas - Updated 2020 Restaurant Reviews ...
+snippet: I Fratelli Pizza, Dallas: See 27 unbiased reviews of I Fratelli Pizza, rated 4.5 of 5 on Tripadvisor and ranked #798 of 3,893 restaurants in Dallas.
+title: i Fratelli Pizza Downtown Dallas - USA TODAY Supports ...
+snippet: STEP ONE. Head over to this link to buy the gift card for i Fratelli Pizza Downtown Dallas BUY GIFT CARD. Clicking this link redirects you to a third party website and you are leaving Gannett&#39;s website.
+title: I Fratelli Pizza, Dallas - Restaurant Reviews, Phone ...
+snippet: I Fratelli Pizza, Dallas: See 26 unbiased reviews of I Fratelli Pizza, rated 4.5 of 5 on TripAdvisor and ranked #647 of 3,649 restaurants in Dallas.
+title: i Fratelli Pizza - Home - Dallas, Texas - Menu, Prices ...
+snippet: See more of i Fratelli Pizza on Facebook. ... Not Now. i Fratelli Pizza (Downtown Dallas) Pizza Place in Dallas, Texas. 5. 5 out of 5 stars. Closed Now. ABOUT I FRATELLI PIZZA. Always Free Delivery. Now with 18 locations in DFW, Austin, and Houston. Coming soon to Fossil Creek and Southwest Fort W... See More. Community See All.
+title: I Fratelli Pizza in Downtown Dallas, Dallas, TX with ...
+snippet: Find 17 listings related to I Fratelli Pizza in Downtown Dallas on YP.com. See reviews, photos, directions, phone numbers and more for I Fratelli Pizza locations in Downtown Dallas, Dallas, TX.
+
+REL: 1
+POI Name: Chip's Old Fashioned Hamburgers - Lakewood
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, American (Traditional), Seafood, 
+Snippets:
+title: Chip&#39;s Old Fashioned Hamburgers
+snippet: The best burger ever in Dallas Park Cities, Lakewood and Plano. Family owned and operated since 1981. Serving burgers, salads, Tex Mex and sandwiches.
+title: Menu - Chip&#39;s Old Fashioned Hamburger
+snippet: Our menu is full of burgers, salads, Tex Mex, sandwiches and more.The best burger ever in Dallas Park Cities, Lakewood and Plano since 1981. Our menu is full of burgers, salads, Tex Mex, sandwiches and more.The best burger ever in Dallas Park Cities, ... Chip’s Old Fashioned Poppy Seed Butter Bun / Whole Wheat / White / Gluten Free Option ($1.95)
+title: Chip&#39;s Old Fashioned Hamburgers Lakewood - Chip&#39;s Old ...
+snippet: lakewood brewing lakewood lager – 4.6% texas ale project fire ant funeral – 6% deep ellum dallas blonde – 5.2% community mosaic – 8.6% four corners el chingon – 7% local buzz – 5.4% revolver blood &amp; honey – 7%
+title: Chip&#39;s Old Fashioned Hamburgers - Lakewood - Home - Dallas ...
+snippet: Chip&#39;s Old Fashioned Hamburgers - Lakewood - 6115 La Vista Dr, Dallas, Texas 75214 - Rated 4.5 based on 103 Reviews &quot;Daytime service was poor ..ordered -...
+title: Chip&#39;s Old Fashioned Hamburgers - Lakewood Delivery in ...
+snippet: Get delivery from Chip&#39;s Old Fashioned Hamburgers - Lakewood super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: About Us - Chip&#39;s Old Fashioned Hamburger
+snippet: About Us. Our restaurant is a collective of amazing people striving to build delightful Italian Cuisine. Lectus fringilla occaecat iste pretium fugiat convallis a, veniam conubia qui leo quod sodales! Nemo hendrerit laborum, error! Reiciendis, voluptas officiis, placerat ratione blanditiis! Habitasse dui proin cupidatat fringilla, ipsum dolor quidem, convallis nam, nulla quis optio, iure ...
+title: Chip&#39;s Old Fashioned Hamburgers - Lakewood - Posts ...
+snippet: Chip&#39;s Old Fashioned Hamburgers - Lakewood. 1,750 likes · 51 talking about this · 6,195 were here. Since 1981, Chip’s Old Fashioned Hamburgers remains one of the most popular restaurants in Dallas...
+title: Chips Old Fashioned Hamburgers - Lakewood Delivery ...
+snippet: Use your Uber account to order delivery from Chips Old Fashioned Hamburgers - Lakewood in Dallas. Browse the menu, view popular items, and track your order.
+title: Chip&#39;s Old Fashioned Hamburgers, Dallas - 6115 La Vista Dr ...
+snippet: Order food online at Chip&#39;s Old Fashioned Hamburgers, Dallas with Tripadvisor: See 14 unbiased reviews of Chip&#39;s Old Fashioned Hamburgers, ranked #1,475 on Tripadvisor among 3,895 restaurants in Dallas.
+title: Chip&#39;s Old Fashioned Hamburgers Park Cities - Chip&#39;s Old ...
+snippet: The best burger ever in Dallas Park Cities. Family owned and operated since 1981. Serving burgers, salads, Tex Mex and sandwiches.
+
+REL: 0
+POI Name: Thrive Restaurant
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), 
+Snippets:
+title: Thrive Restaurant, Dallas - Menu, Prices &amp; Restaurant ...
+snippet: Thrive Restaurant, Dallas: See 62 unbiased reviews of Thrive Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #1,244 of 3,895 restaurants in Dallas.
+title: Thrive Restaurant - Downtown - Dallas, TX
+snippet: 56 reviews of Thrive Restaurant &quot;Five stars to the most underrated lunch buffet in downtown Dallas. For $10 (including tax and tip, but not drink), I challenge anyone to come up with another place downtown where you can get absolutely stuffed on…
+title: Very poor for a Dallas restaurant... - Thrive Restaurant
+snippet: Thrive Restaurant: Very poor for a Dallas restaurant downtown - See 62 traveler reviews, 5 candid photos, and great deals for Dallas, TX, at Tripadvisor.
+title: THE 10 BEST Restaurants Near Thrive Restaurant in Dallas ...
+snippet: Restaurants near Thrive Restaurant, Dallas on Tripadvisor: Find traveler reviews and candid photos of dining near Thrive Restaurant in Dallas, Texas.
+title: Menus for Thrive Restaurant - Dallas - SinglePlatform
+snippet: Featuring luxury designs, state-of-the-art lighting and sound, and the utmost in service, Thrive Nightclub, Thrive Restaurant and Thrive Lounge at the Crown Plaza Dallas Downtown are the ultimate destination for high-energy entertainment and fine dining. The Crowne Plaza Dallas Downtown is the place to meet in downtown Dallas, offering 22,000 sq. ft. of versatile meeting, banquet, wedding, and ...
+title: Online Menu of Thrive Restaurant, Dallas, TX
+snippet: View the menu for Thrive Restaurant and restaurants in Dallas, TX. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Thrive Restaurant - Downtown - Dallas, TX
+snippet: 56 reviews of Thrive Restaurant &quot;Went on a Thursday night. The club is small, you can literally stand on one side of the club and see directly across to the other side. Drinks cost pretty much the same for a Dallas nightclub. The club was sparse…
+title: Thrive - Review of Thrive Restaurant, Dallas, TX - Tripadvisor
+snippet: Thrive Restaurant: Thrive - See 62 traveler reviews, 5 candid photos, and great deals for Dallas, TX, at Tripadvisor.
+title: Photos for Thrive Restaurant - Yelp
+snippet: Photos at Thrive Restaurant - Dallas, TX. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Thrive Restaurant. Thrive Restaurant. 56 reviews Add photos All (32) Inside (6) Food (4) Menu (1) Search photos... 32 photos mention &quot;&quot; Clear. Page 1 of 2 1. 2 Next.
+title: Restaurants Near Dallas Downtown - Crowne Plaza
+snippet: Find the best restaurants near Crowne Plaza Dallas Downtown, selected by our staff Official site of Crowne Plaza Downtown Dallas. Our upscale hotel is located in the heart of downtown Dallas near the Convention Center, West End district + more.
+
+REL: 0
+POI Name: Oddfellows
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, American (Traditional), Diners, 
+Snippets:
+title: HOME | Oddfellows in the Bishop Arts District
+snippet: Oddfellows also features a specialty coffee and tea program, as well as a full cocktail offering. Oddfellows is on a premier corner of the Bishop Arts District, which is located in Oak Cliff, Texas. The original vision for Oddfellows was that it would be a hub for community activity and a vibrant cornerstone of their streetcar-stop-turned-district.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: HOURS &amp; DIRECTIONS | Oddfellows
+snippet: Oddfellows is open from 7 a.m. to 10 p.m. Monday through Saturday, and from 7 a.m. to 3 p.m. on Sunday. We are located on West Seventh Street in the Bishop Arts District.
+title: Oddfellows, Dallas - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Oddfellows, Dallas: See 216 unbiased reviews of Oddfellows, rated 4 of 5 on Tripadvisor and ranked #206 of 3,895 restaurants in Dallas.
+title: Oddfellows - Dallas, TX - Locu
+snippet: Oddfellows, Restaurants business in Dallas. See up-to-date pricelists and view recent announcements for this location.
+title: Oddfellows, Dallas - Restaurantanmeldelser - Tripadvisor
+snippet: Oddfellows, Dallas: Se 216 objektive anmeldelser av Oddfellows, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 206 av 3 893 restauranter i Dallas.
+title: PROVISIONS | Oddfellows
+snippet: Whole Coffee Beans - Cafe Vida Brunca. Price $12.99. Quick View
+title: Daytime | Oddfellows
+snippet: hours &amp; directions. order online. provisions
+title: MENUS | Oddfellows
+snippet: Oddfellows has a Daytime menu and a Dinner menu. We serve the Daytime menu 7 days a week from 7 a.m. to 4 p.m. and the dinner menu Monday through Saturday from 4 p.m. til 10 p.m.
+title: ODDFELLOWS, Dallas - Updated 2019 Restaurant Reviews, Menu ...
+snippet: Oddfellows, Dallas: See 209 unbiased reviews of Oddfellows, rated 4 of 5 on TripAdvisor and ranked #206 of 3,647 restaurants in Dallas.
+
+REL: 0
+POI Name: Exxon - Lakewood
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Gas Stations, Convenience Stores, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Exxon - Lakewood 1701 Skillman St Dallas, TX Gas Stations ...
+snippet: My partner and I have been a customer of this Exxon since we moved to Dallas 15 years ago. Everyone that works there is very friendly. My partner and I have not had one issue or bad experience.
+title: Photos for Exxon - Lakewood - Yelp
+snippet: Photos at Exxon - Lakewood - Dallas, TX. Find. Near
+title: Exxon - Lakewood in Dallas | Exxon - Lakewood 1701 ...
+snippet: Find Exxon - Lakewood in Dallas with Address, Phone number from Yahoo US Local. Includes Exxon - Lakewood Reviews, maps &amp; directions to Exxon - Lakewood in Dallas and more from Yahoo US Local
+title: Lakewood, Dallas Public Group | Facebook
+snippet: Lakewood, Dallas has 15,596 members. For discussions of all things Lakewood, like: Finger-pointing and blame-storming: Unruly lawns Tacky...
+title: Find Gas Stations Near Me | Exxon and Mobil
+snippet: Use the Exxon and Mobil Fuel Finder to find a gas station near you. View station maps, addresses, hours, amenities, and driving directions.
+title: ExxonMobil
+snippet: At ExxonMobil’s research facility in Clinton, New Jersey, scientists and engineers develop breakthrough technologies, collaborating with universities, national labs and companies across the globe to solve the dual energy challenge — to provide energy to a growing global population while reducing greenhouse gas emissions.
+title: Gasoline, Gas Cards, and Gas Savings | Exxon and Mobil
+snippet: Exxon Mobil Rewards+ is a rewards program available at participating Exxon- and Mobil-branded service stations. Terms and conditions apply. You must fully enroll to become a member and use points. See exxonmobilrewardsplus.com to complete enrollment. Points have no monetary value and expire after 1 year.
+title: Career opportunities | ExxonMobil
+snippet: Over the last 125 years ExxonMobil has evolved from a regional marketer of kerosene in the U.S. to the largest publicly traded petroleum and petrochemical enterprise in the world. Today we operate in most of the world&#39;s countries and are best-known by our familiar brand names: Exxon, Esso and Mobil.
+title: Lakewood, Dallas - Wikipedia
+snippet: Lakewood is a neighborhood in East Dallas, Texas ().It is adjacent to White Rock Lake and Northeast of Downtown Dallas.Lakewood is directly east of the West Village and Highland Park neighborhoods in Dallas. Skillman St. and Abrams Rd run South to North through Lakewood.
+
+REL: 0
+POI Name: OAKFIT
+POI City: Dallas
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: OAKFITSports Performance and Fitness Training in Dallas, TX
+snippet: We are your solution to optimal human performance. Founded in 2014, our core philosophy combines strategic methods based on scientific research and years of hands on experience with elite athletes, business executives, and average Joe&#39;s to soccer moms alike.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Strength &amp; Conditioning Classes — OAKFIT
+snippet: results driven strength training programs . Our Group Fitness Classes are designed by our Certified Strength Coaches, with a focus on maximizing human performance.
+title: Personal Training — OAKFIT
+snippet: We offer some of the most exclusive Personal Training Programs available worldwide. Our Staff of Personal Trainers hold National and International Certifications, Specializing in: ... OAKFIT, 423 Singleton Boulevard, Dallas, TX, 75212, United States (469)288-9045 info@oakfitdallas.com.
+title: OAKFIT - Home | Facebook
+snippet: OAKFIT, Dallas, Texas. 3,671 likes · 42 talking about this · 4,352 were here. Fitness facility offering a dynamic approach for improving athleticism and healthy lifestyle using realistic methods for...
+title: Community Vibes — OAKFIT
+snippet: Community Vibes Membership Holla Instagram Feed. Back To Top. OAKFIT, 423 Singleton Boulevard, Dallas, TX, 75212, United States (469)288-9045 info@oakfitdallas.com. Powered by Squarespace. Cart (0) ...
+title: Dallas Boot Camp — OAKFIT
+snippet: Ready to make some changes, but not know where to start? Look no further. Our 21 Day Transformation Boot Camp is a classic, straight-forward, no-frills Training Program designed to give you the kick start you need to elevate your mental and physical resilience.
+title: AMBJJ at Oakfit - Dallas, Texas - Gym/Physical Fitness ...
+snippet: 2318 Beatrice st Dallas 75208 — at AMBJJ at Oakfit. Alex Martins shared a memory — at AMBJJ at Oakfit. October 16, 2017 · Dallas, TX · 3 Years Ago. See Your Memorieschevron-right. Alex Martins is with Jaime Jimmy Sosa and 4 others at Klyde Warren Park. October 16, 2016 · Dallas, TX ·
+title: OAKFIT (@oakfitdallas) | Twitter
+snippet: The latest Tweets from OAKFIT (@oakfitdallas). Fitness Training and Sports Performance in Dallas. Dallas, TX
+title: OAKFIT (@oakfit) • Instagram photos and videos
+snippet: OAKFIT NEW LOCATION! 423 Singleton Blvd! Dallas, TX 75212 Strength Training Center offering: - Private &amp; Semi-Private Training - Group Classes www.oakfitdallas.com
+
+REL: 0
+POI Name: White Rock Yoga
+POI City: Dallas
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: White Rock Yoga Dallas – Yoga for all
+snippet: Start your day off right! Join the Wake-Up Yoga classes 7-8am. All experience levels welcome. The response to the Wake-Up Yoga classes has been great so we are committed to continuing these classes. Check the online schedule to register for this and any classes at White Rock Yoga Dallas....
+title: Class Schedule – White Rock Yoga Dallas
+snippet: Class Schedule. We encourage preregistration for our classes through our WHITE ROCK YOGA DALLAS app for Apple and Android devices in the App Store. (See link buttons below the schedule. To set up your online account visit the White Rock Yoga Dallas login page and set up a client profile and create a user name and password.
+title: Prices – White Rock Yoga Dallas
+snippet: Prices. New Student Specials: Students new to White Rock Yoga can select one of the following two options. Option 1 – Get 30 Days for $30: This special offer new students the opportunity to ramp up their practice at an amazing discount. You can take unlimited classes for any and all of those 30 days.
+title: About Us – White Rock Yoga Dallas
+snippet: About Us. White Rock Yoga classes blend a focus on alignment to assure your practice is safe and healing with a heart-oriented approach that assists you in living your yoga off the mat. Our classes are more than just a physical workout.
+title: Class Descriptions – White Rock Yoga Dallas
+snippet: Class Descriptions Weekly Classes Follow this LINK to Sign In or Register and then sign up for classes. Beginner Yoga is a basic class for students who are new to Yoga or desire a more gentle yoga experiences.This class focuses on poses to stretch and strengthen the legs, back, and shoulders.
+title: White Rock Yoga - Home | Facebook
+snippet: White Rock Yoga, Dallas, Texas. 278 likes. White Rock Yoga is dedicated to a style of yoga that aligns body, mind, and heart to facilitate the awakening of our inherent creative potential as humans.
+title: White Rock Yoga - Yoga - 9225 Garland Rd, Lakewood, Dallas ...
+snippet: White Rock Yoga is a safe place for anyone to study yoga--and it is a beautifully calming place, as well. Marianna and Caroline create very welcoming and caring classes. I might feel like the &quot;odd duck&quot; anywhere else, but here I feel accepted for who I am and what I can try on any given day.
+title: White Rock Yoga Dallas Reviews, Dallas, TX | Yoga Studio ...
+snippet: White Rock Yoga Dallas in Dallas, TX - Yoga Studio, see class schedules and staff bios, 10 Reviews from happy customers. Find Yoga Studio near me in Dallas, TX
+title: White Rock - Dallas - Yoga Six
+snippet: Yoga doesn&#39;t have to be a mystery. We&#39;re not an exclusive insiders-only club. We deliver energizing, empowering, and fun yoga classes for all levels of students. We welcome you as you are. We are committed to supporting you in where you want to go with your yoga practice.
+title: White Rock Yoga Dallas Class Schedule, Dallas, TX | Yoga ...
+snippet: White Rock Yoga Dallas in Dallas, TX - Yoga Studio, see class schedules and staff bios, 10 Reviews from happy customers. Find Yoga Studio near me in Dallas, TX
+
+REL: 0
+POI Name: The Loft
+POI City: Dallas
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+title: The Loft (Dallas) - 2020 All You Need to Know BEFORE You ...
+snippet: One of eight venues in the Gilley&#39;s Dallas complex, possibly the smallest &amp; most intimate. Indoor space is adequate for about 450 people (SRO), and the patio adds 3,000 square feet with a killer view of the Dallas skyline. I saw Clara-Nova &amp; Poliça there March 12, 2016, and …
+title: The Loft Dallas – Review
+snippet: The Loft is my favorite place in Dallas when it comes to live music. I love it for its location. The view from the rooftop is breathtaking. The hall can take 450 persons at one time. You can almost touch the band while they are playing, which makes a great experience.
+title: The Loft (Dallas, TX) - Anmeldelser - Tripadvisor
+snippet: The Loft, Dallas: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for The Loft i Dallas, Texas på Tripadvisor.
+title: LOFT: Women&#39;s Clothing, Petites, Dresses, Pants, Shirts ...
+snippet: LOFT is all about style. Our women&#39;s clothing is feminine and casual, including women&#39;s pants, dresses, sweaters, blouses, denim, skirts, suits, accessories, petites, tall sizes and more. Shop online or in one of our 500 stores.
+title: THE LOFT | GILLEY&#39;S DALLAS
+snippet: THE LOFT. Bask on the Loft balcony cabanas during your wedding reception, corporate party or networking outing and enjoy the expansive view of the downtown lights. This space is one of the most popular here at Gilley’s Dallas and it is no question why.
+title: Home | The Lofts at Mockingbird Station | Welcome
+snippet: Some of the Most Stunning Luxury Apartments Dallas Has to Offer. Welcome to The Lofts at Mockingbird Station! Our studio, one, and two-bedroom apartments and penthouses are ideally situated in a historic building, providing incredible views of downtown Dallas and SMU, as well as quick access to Uptown Dallas.
+title: Dallas, TX Loft Tour! - YouTube
+snippet: Enjoy the tour of this amazing loft in Dallas, TX! For all of your real estate needs: Ben@RogersHealy.com.
+title: The Loft, 4320 Lovers, Dallas, TX (2020)
+snippet: Home . Check out the press release below! Come tour The Loft during our first Happy Hour tomorrow from 6-10. theloftpressrelease.businesscatalyst.com The Osgood O’Neil Salon Group was founded in 1998 by Bruce Osgood and Allane O’Neil,and currently operates three locations in Highland Park, Texas. Over the past eighteen years, the salon has trained over 100 stylists and colorists.
+title: Book Aloft Dallas Downtown in Dallas | Hotels.com
+snippet: Located in Dallas, Aloft Dallas Downtown is in the city center and near a metro station. Victory Park and Bishop Arts District are worth checking out if shopping is on the agenda, while those wishing to experience the area&#39;s popular attractions can visit Dallas World Aquarium and Dallas Zoo. Looking to enjoy an event or a game? See what&#39;s going on at American Airlines Center, or consider .
+title: The Loft - Home | Facebook
+snippet: The Loft, Poughkeepsie, New York. 7,028 likes · 1 talking about this · 8,047 were here. Above The Jack Daniel&#39;s Saloon at The Gilley&#39;s Complex. Check out the amazing view of the Dallas skyline from...
+
+REL: 0
+POI Name: Midnight Rambler
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), Cocktail Bars, 
+Snippets:
+title: Midnight Rambler Bar, A new craft cocktail salon at the Joule.
+snippet: A new craft cocktail salon at the Joule. 1530 Main street Downtown Dallas.
+title: Midnight Rambler - Downtown - Dallas, TX
+snippet: Midnight Rambler is a discreet speakeasy-style cocktail bar in the basement of the Joule Hotel. We dropped by just for an after-dinner drink, but even that was a pretty memorable experience thanks to their team of down-to-earth, talented mixologists.
+title: Midnight Rambler, Dallas - Menu, Prices &amp; Restaurant ...
+snippet: Midnight Rambler, Dallas: See 16 unbiased reviews of Midnight Rambler, rated 4.5 of 5 on Tripadvisor and ranked #836 of 3,893 restaurants in Dallas.
+title: Midnight Rambler - Home | Facebook
+snippet: Midnight Rambler - 1530 Main St, Dallas, Texas 75201 - Rated 4.6 based on 101 Reviews &quot;Drinks and atmosphere were fantastic! Bartenders were on point...
+title: Midnight Rambler: A Dallas, TX Bar.
+snippet: Just a few steps from the Joule Hotel lobby hangs a bright neon sign that reads, &quot;COCKTAILS&quot;. Go there. Two flights of stairs down, and you’re in cocktail heaven.
+title: Midnight Rambler Dallas, TX 75201 - 98 Reviews and Photos ...
+snippet: Latest reviews, photos and ??ratings for Midnight Rambler at 1530 Main St in Dallas - ⏰hours, ☎️phone number, ☝address and map.
+title: WORST BAR EVER - Review of Midnight Rambler, Dallas, TX ...
+snippet: Midnight Rambler: WORST BAR EVER - See 16 traveler reviews, 5 candid photos, and great deals for Dallas, TX, at Tripadvisor.
+title: Midnight Rambler - Downtown - Dallas, TX - Yelp
+snippet: 190 reviews of Midnight Rambler &quot;We had drinks only, no food. Both cocktails I tried were fantastic. Service was great. Wanted to try all of the drinks on the menu. Vibe was fun, too, but I&#39;m an old man apparently and wished the music was a…
+title: CHAINMAIL WETSUIT 14 NIGHT MARCHER 16 ... - Midnight Rambler
+snippet: MIDNIGHT RAMBLER BARTENDERS ARE ADEPT AT BUILDING, SHAKING, AND STIRRING ALL MANNER OF CLASSIC COCKTAILS UPON REQUEST, OR FEEL FREE TO ASK FOR A RECOMMENDATION. CHAINMAIL WETSUIT 14 Officers Reserve London Dry Gin, Vermouth de Marseille, Allspice Leaf, Quinine, Absinthe, Preserved Meyer Lemon SHARK FISHING WITH MACHINE GUNS 14
+
+REL: 0
+POI Name: Bakeries
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: THE 10 BEST Bakeries in Dallas - Tripadvisor
+snippet: Bakeries in Dallas, Texas: Find Tripadvisor traveler reviews of Dallas Bakeries and search by price, location, and more.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Best 30 Bakeries in Dallas, TX with Reviews - YP.com
+snippet: Bakeries in Dallas on YP.com. See reviews, photos, directions, phone numbers and more for the best Bakeries in Dallas, TX.
+title: THE 10 BEST Bakeries in Fort Worth - Tripadvisor
+snippet: Bakeries in Fort Worth, Texas: Find Tripadvisor traveler reviews of Fort Worth Bakeries and search by price, location, and more.
+title: Best 30 Bakeries in North Dallas, Dallas, TX with Reviews ...
+snippet: Bakeries in North Dallas on YP.com. See reviews, photos, directions, phone numbers and more for the best Bakeries in North Dallas, Dallas, TX.
+title: Where To Find Dallas&#39; Best Baked Treats - Eater Dallas
+snippet: Where To Find Dallas&#39; Best Baked Treats. Cakes, cookies, pie, ... If you don&#39;t have a sweet tooth, many of these bakeries also offer plenty of savory options that will satisfy. Consider this list of Dallas&#39; 15 essential sweet shops your bakery bucket list. Go forth, and eat cake, pie, and cookies to your heart&#39;s content.
+title: THE 10 BEST Bakeries in Plano - Tripadvisor
+snippet: Bakeries in Plano, Texas: Find Tripadvisor traveler reviews of Plano Bakeries and search by price, location, and more.
+title: THE 10 BEST Bakeries in Richardson - Tripadvisor
+snippet: Bakeries in Richardson, Texas: Find Tripadvisor traveler reviews of Richardson Bakeries and search by price, location, and more. Richardson. Richardson Tourism Richardson Hotels Richardson Vacation Rentals Richardson Vacation Packages ... “Cheap Eats in Dallas, TX ...
+title: Bakeries in Dallas County, TX: wedding cake shops, donut ...
+snippet: We have 168 bakeries in Dallas County. Check the map below in order to situate all the bakeries found in the Dallas County. Numbers indicate when there are more than one business in the same area. Zoom in or out to see where they are situated in detail.
+title: Bakeries in Dallas Center - Yelp
+snippet: Find the best Bakeries on Yelp: search reviews of 63 Dallas Center businesses by price, type, or location.
+
+REL: 0
+POI Name: School of Rock Dallas
+POI City: Dallas
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Specialty Schools, Musical Instruments & Teachers, Performing Arts, 
+Snippets:
+title: School of Rock Dallas | Music Lessons &amp; Programs
+snippet: School of Rock Dallas&#39;s Adult Program is for students over 18 years old who are looking to either improve their musical proficiency or pick up an instrument with no prior musical experience. As with most School of Rock music programs, the Adult Program uses a performance-based music education approach.
+title: School of Rock Dallas - Home | Facebook
+snippet: School of Rock Dallas, Dallas. 2,130 likes · 8 talking about this · 763 were here. We believe the best way to learn music is to play music! In our performance based program, we take students ages 5...
+title: Upcoming Dallas Concerts | School of Rock Dallas
+snippet: Upcoming School of Rock Dallas Shows. See our talented students perform live at these upcoming School of Rock events and concerts in Dallas.
+title: School of Rock DFW - Home | Facebook
+snippet: School of Rock DFW, Dallas, TX. 1.1K likes. For more than a decade, School of Rock has been inspiring kids to rock on stage and in life. Founded as a single school in Philadelphia, PA in 1998, School...
+title: Music Camps in Dallas at School of Rock
+snippet: School of Rock Dallas Music Camps. School of Rock Dallas’s music camps offer a wide selection of various music experiences. From beginner music camps to intermediate and advanced sessions, our music camps and workshops near you will further a student&#39;s musical foundation.
+title: Explore School of Rock Dallas
+snippet: Resources from School of Rock Dallas. Music resources and tips from School of Rock Dallas for all musicians. This will help Dallas students improve their musical proficiency and become successful performers.
+title: School of Rock Dallas (5606 Dyer Street,... - School of ...
+snippet: School of Rock Dallas (5606 Dyer Street, Dallas) added a cover video. August 9, 2019 · Related Videos. 0:26. We are so excited for our Fall Season to start this week and even more excited that it’s Halloween this month! School of Rock Dallas (5606 Dyer Street, Dallas)
+title: School of Rock Dallas
+snippet: 21st Century Modern Rock Camp Sessions run from 9am-3pm.There will be a concert Friday at 12pm Students must have gone through 1st Grade to attend, and be at least 7-17 years old. Parents must sign waivers for yourself and your child before camp starts
+title: School of Rock Dallas, Dallas Texas (TX) - LocalDatabase.com
+snippet: School of Rock Dallas, Dallas Texas (TX) School of Rock is the leader in performance-based music education. We teach guitar, bass, drums, keyboard and vocals, and our students put on amazing ...
+title: School of Rock Dallas | Music Teachers &amp; Studio
+snippet: School of Rock in Your Community. Every day, we watch our students grow from beginner musicians to confident and inspiring rock stars in their community. Browse photos, videos, posts and more to find out why School of Rock Dallas is more than just your local music school.
+
+REL: 0
+POI Name: Granada Theater
+POI City: Dallas
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Venues & Event Spaces, 
+Snippets:
+title: Granada Theater
+snippet: The Granada Theater, a live music Dallas staple, has been entertaining audiences of all ages from North Texas and beyond since 1946.
+title: Calendar | Granada Theater
+snippet: The Granada Theater is an award winning live music venue in the heart of Dallas, TX
+title: Photos | Granada Theater
+snippet: The Granada Theater is an award winning live music venue in the heart of Dallas, TX
+title: About Us | Granada Theater
+snippet: The Granada Theater, a Dallas staple, has been entertaining audiences of all ages from North Texas and beyond since 1946. Located in the historic Lower Greenville neighborhood, it was originally built as a post-WWII movie theater.
+title: Granada Theater (Dallas) - 2020 All You Need to Know ...
+snippet: If you are making a trip to the Granada Theatre in Dallas, do yourself a favor and use Uber or Lyft to get there. ... This was our first time to the Granada Theater and we loved it. We can&#39;t wait to return for more concerts. It has such a cool vibe.
+title: Granada Theater (Dallas) - Wikipedia
+snippet: The Granada Theater is a theatre located in Lower Greenville, in Dallas, TX. The theatre was built in 1946 as a movie house. In 1977, it was converted to a concert hall, only to revert to a movie theater soon after. In 2004 it was again opened as a concert hall.
+title: Granada Theater - Home | Facebook
+snippet: Granada Theater, Dallas, TX. 111,719 likes · 150 talking about this · 163,620 were here. Best Live Music Venue 2007-2015. Love Music, Love Life. granadatheater.com Sign up for our newsletter for...
+title: THE 10 CLOSEST Hotels to Granada Theater, Dallas ...
+snippet: Hotels near Granada Theater, Dallas on Tripadvisor: Find 18,246 traveler reviews, 35,129 candid photos, and prices for 30 hotels near Granada Theater in Dallas, TX.
+title: Private Events | Granada Theater
+snippet: The Theater’s state-of-the-art lighting system and renowned sound production team create a truly unique background for private events. The Granada Theater has an open-tiered, multi-level floor plan that is customizable to your preferred style and guest count.
+title: Granada Theatre, The Dalles OR performing Arts Venue and ...
+snippet: We are proud to announce our collaboration with FAIRFIELD INN &amp; SUITES by MARRIOTT, The Dalles, OR. They offer a 15% room discount for Granada Theatre patrons when you spend. the night in The Dalles after a concert or event held at the theatre.
+
+REL: 0
+POI Name: Don Peppes
+POI City: Dallas
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Don Pepes Rancho Mexican Grill - Home - Dallas, Texas ...
+snippet: Don Pepes Rancho Mexican Grill - 15615 Coit Rd, Ste 250, Dallas, Texas 75248 - Rated 4.5 based on 138 Reviews &quot;I feel as though a 3 is generous. The food...
+title: Don Pepe&#39;s Rancho Mexican Grill relocates to new location ...
+snippet: Don Pepe&#39;s Rancho Mexican Grill is relocating to 14909 Coit Road, Dallas, and is expected to open in late February or early March, according to a restaurant spokesperson. The business has been ...
+title: Don Peppes - Dallas, TX, United States - Yelp
+snippet: 8 reviews of Don Peppes &quot;Decor: 3.5/5 -Looks can be deceiving. Don Pepe&#39;s looks sketch, even in broad daylight. Seating is similar to an old Wendy&#39;s with hard wood booth-style tables -The music box has a good thump Service: 4/5 -Friendly service…
+title: Don Peppes in Dallas | Don Peppes 3616 N Hampton Rd ...
+snippet: Find Don Peppes in Dallas with Address, Phone number from Yahoo US Local. Includes Don Peppes Reviews, maps &amp; directions to Don Peppes in Dallas and more from Yahoo US Local
+title: Don Peppes 3616 N Hampton Rd Dallas, TX - MapQuest
+snippet: Get directions, reviews and information for Don Peppes in Dallas, TX.
+title: Don Pepes Restaurant Dallas, TX - Mexi-Go Restaurant in ...
+snippet: Don Pepe’s Rancho and Mexi-Go Restaurants opened their doors to the North Dallas area in 1990. The humble beginnings of their first restaurant sat ten patrons comfortably and was a taqueria style set up.
+title: Our Menu - Mexi-Go Restaurant in Allen, TX | Don Pepes ...
+snippet: Pollo Asado. Grilled chicken breast with Mexican potatoes, served with white rice. 11; Chile Relleno. Roasted poblano pepper stuffed with your choice of cheese, shredded chicken or ground beef w/ nuts &amp; raisin, served with white rice &amp; black beans
+title: Don Pepe&#39;s 3416 Harston St Dallas, TX Restaurants - MapQuest
+snippet: Get directions, reviews and information for Don Pepe&#39;s in Dallas, TX.
+title: Don Pablo&#39;s Pizza
+snippet: Don Pablo’s Pizza startet i Ski 17. desember 1977, av Camilla og Pablo Lopez. De er fortsatt eiere og involvert i den daglige driften. Vår avdeling i Askim åpnet 23. september 1981. Don Pablo’s Pizza fremstår i dag som en liten familiebedrift med over 40 års erfaring i bransjen. Vi serverer ekte, håndlaget pizza fra eget bakeri på Ski.
+
+Cand cities: {'Dallas', 'Richardson'}

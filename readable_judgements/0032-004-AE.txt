@@ -1,0 +1,1303 @@
+City: Sintra
+Country: PT
+Main category: Arts & Entertainment
+Sub category: Museums
+Description: So I'm a female in my late 20's from New York and will be traveling solo to Europe to bring in the New Year 2020 (I've travelled solo twice before but to different country in the Middle East). Anyway, I will be flying from NY to Lisbon, Portugal on Sunday, Dec 29 and flying back from Barcelona, Spain on Tuesday, Jan 14. Between that time I wanted to visit as many nearby cities as possible within the two countries (7-8 days in the two countries). I even wanted to take the Rail from Portugal to Spain so I can see the scenery, but I read that's like a 9-14hr trip! I might change my mind and go to Spain by plane. Anyway, I wanted to stay in ONE hotel in each of the two countries and just make day trips to the different cities If I have to go back twice, I have time to kill. Is this realistic? I need help planning out an itinerary. I do have a list of the cities I want to see. I'm mostly into seeing the architecture, trying the food and wine, sightseeing, talking to new people here and there, museums, shopping etc. Not crazy about party/ night life. Portugal: Lisbon| Porto| Coimbra| Sintra Spain: Madrid| Barcelona| Granada| Seville What would you recommend? Really, it's just an exploration/ sightseeing vacation. If you see a flaw in my plan please let me know. I really don't know much about Europe and visiting two countries in one vacation will be a new adventure for me. Thank you so much! Also, if you have advice on weather and New Year's Eve ideas let me know too!
+Rated POIs: 50
+Rel distr: [(0, 12), (1, 18), (2, 17), (3, 3)]
+=================================
+REL: 3
+POI Name: Palácio Nacional de Queluz
+POI City: Sintra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Landmarks & Historical Buildings, 
+Snippets:
+title: National Palace and Gardens of Queluz | Parques de Sintra ...
+snippet: The National Palace of Queluz and its historical gardens are one of the most remarkable examples of the harmonious link between landscape and palatial architecture in Portugal. They illustrate the evolution of the Court’s tastes in the 18th and 19th centuries, a period that was marked by the baroque, rococo and neoclassicism.
+title: Palácio Nacional e Jardins de Queluz | Parques de Sintra ...
+snippet: O Palácio Nacional de Queluz e os seus jardins históricos constituem um dos exemplos mais extraordinários da ligação harmoniosa entre paisagem e arquitetura palaciana em Portugal. Ilustram a evolução do gosto da Corte nos séculos XVIII e XIX, período marcado pelo barroco, o rococó e o neoclassicismo.
+title: Palácio Nacional e Jardins de Queluz (Sintra, Portugal ...
+snippet: Palácio Nacional e Jardins de Queluz, Sintra: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Palácio Nacional e Jardins de Queluz i Sintra, Portugal på Tripadvisor.
+title: Palácio Nacional de Queluz - Sintra Romântica
+snippet: O Palácio Real de Queluz, também chamado de Palácio Nacional de Queluz, consiste num palácio do século XVIII. Um dos últimos grandes edifícios em estilo rococó erguidos na Europa, o imóvel foi construído como um recanto de verão para D. Pedro de Bragança.
+title: Palácio Nacional de Queluz – Wikipédia, a enciclopédia livre
+snippet: O Palácio Nacional de Queluz é um palácio do século XVIII localizado na localidade de Queluz no concelho de Sintra, distrito de Lisboa.Um dos últimos grandes edifícios em estilo rococó erguidos na Europa, marcado também pelo barroco e o neoclassicismo ilustra nas suas divisões e jardins os ambientes e vivências da Família Real e da corte portuguesa na segunda metade do século XVIII ...
+title: Palácio Nacional de Queluz, Sintra, Portugal
+snippet: Palácio. Iniciado no ano de 1747 pelo infante D. Pedro, futuro D. Pedro III , o Palácio de Queluz, classificado como Monumento Nacional, foi acabado após o seu casamento com D. Maria I , em 1760.. Queluz, que tem sido não poucas vezes comparado com o Palácio de Versailles, difere do conjunto de Luís XIV (aliás um pouco anterior) no sentido de escala e de proporções que a sua traça ...
+title: Palácio Nacional e Jardins de Queluz | Parques de Sintra ...
+snippet: ©PSML | Emigus Residência real de duas gerações de monarcas situada a cerca de 15 minutos de Lisboa, ao Palácio Nacional de Queluz estão intimamente ligadas importantes figuras da história de Portugal. Constitui um conjunto patrimonial de referência na arquitetura e no paisagismo portugueses e contém um importante acervo que reflete o gosto da corte nos séculos XVIII e XIX ...
+title: Queluz National Palace, Sintra, Portugal
+snippet: Pena National Palace. Sintra National Palace. Quinta da Regaleira. Monserrate Palace. Castle of the Moors. Seteais Palace. Queluz National Palace - Wikipedia. What to see in Sintra Museums of Sintra Shopping in Sintra Beaches of Sintra Where to stay in Sintra Public Transportation in Sintra Sintra&#39;s Map
+title: Parques de Sintra
+snippet: Criada em 2000, no seguimento da classificação pela UNESCO da Paisagem Cultural de Sintra como Património da Humanidade. Gere o Parque e Palácio da Pena,
+title: Palacio de Queluz - Wikipedia, la enciclopedia libre
+snippet: El Palacio Real de Queluz (en portugués, Palácio Real de Queluz), también conocido como el Palacio Nacional de Queluz, es uno de los principales palacios de la familia real portuguesa, que a partir de su construcción se convirtió en la principal residencia de los miembros de la Casa de Braganza.
+
+REL: 3
+POI Name: Palácio Nacional de Sintra
+POI City: Sintra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Landmarks & Historical Buildings, 
+Snippets:
+title: Palacio Nacional - National Palace, Sintra: A Tourist Guide
+snippet: The Palacio Nacional Sintra is the best-preserved medieval royal palace in Portugal and was a favourite with the Portuguese nobility. The minimalistic gothic exterior of the palace hides a wonder of decorative state rooms and the national palace is a highly recommended attraction while visiting Sintra.
+title: Palácio Nacional de Sintra | Sintra, Portugal Attractions ...
+snippet: The star of Sintra-Vila is this palace, with its iconic twin conical chimneys and lavish, whimsical interior, which is a mix of Moorish and Manueline styles, with arabesque courtyards, barley-twist columns and 15th- and 16th-century geometric azulejos that are among Portugal’s oldest. Of Moorish ...
+title: National Palace of Sintra | Parques de Sintra | Parques de ...
+snippet: The National Palace of Sintra, located in the historic town centre combines various architectural styles among with Gothic and Manueline elements. ... Parques de Sintra picks up the World Travel Award for “Best Conservation Company in the World” for the seventh consecutive year.
+title: Palácio Nacional de Sintra | Parques de Sintra | Parques ...
+snippet: Palácio Nacional de Sintra. Devido a intervenções de restauro, os seguintes espaços encontram-se com acesso limitado ou alterado, ou incompletos: Fachada Manuelina, Capela, Jardim da Preta e zona superior dos jardins. Pedimos desculpa pelo incómodo e tentaremos ser breves.
+title: Palacio Nacional de Sintra - 2020 All You Need to Know ...
+snippet: Palácio Nacional de Sintra can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 221 Palácio Nacional de Sintra tickets and tours on Tripadvisor.
+title: Palácio Nacional de Sintra – Wikipedia
+snippet: Der Palácio Nacional de Sintra (auch Palácio Nacional oder Paço Real oder Palácio da Vila genannt, zu Deutsch Nationalpalast von Sintra) ist ein ehemaliger königlicher Palast. Geschichtliches. Der bereits im 10. Jahrhundert während der muslimischen ...
+title: Palacio Nacional de Sintra - 2020 All You Need to Know ...
+snippet: Palácio Nacional de Sintra can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 211 Palácio Nacional de Sintra tickets and tours on Tripadvisor.
+title: Sintra National Palace - Wikipedia
+snippet: The Palace of Sintra (Portuguese: Palácio Nacional de Sintra), also called Town Palace (Palácio da Vila), is located in the town of Sintra, in the Lisbon District of Portugal.It is a present-day historic house museum.. It is the best-preserved medieval royal residence in Portugal, being inhabited more or less continuously from at least the early 15th century to the late 19th century.
+title: Palácio Nacional e Jardins de Queluz (Sintra, Portugal ...
+snippet: Palácio Nacional e Jardins de Queluz, Sintra: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Palácio Nacional e Jardins de Queluz i Sintra, Portugal på Tripadvisor.
+title: Palacio Nacional de Sintra - 2020 All You Need to Know ...
+snippet: Palácio Nacional de Sintra. 4,987 Reviews #15 of 67 things to do in Sintra. Sights &amp; Landmarks, Historic Sites, Architectural Buildings. Palácio Nacional de Sintra. 4,987 Reviews #15 of 67 things to do in Sintra. Sights &amp; Landmarks, Historic Sites, Architectural Buildings. Get the full experience and book a tour.
+
+REL: 3
+POI Name: NewsMuseum
+POI City: Sintra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: NewsMuseum | Media Age Experience
+snippet: O NewsMuseum é um espaço experiencial dedicado às notícias, aos media e à comunicação, que irá ocupar o antigo Museu do Brinquedo em Sintra. Este projeto irá proporcionar aos seus visitantes a maior experiência de media e comunicação da Europa.
+title: NewsMuseum (Sintra) - ATUALIZADO 2020 O que saber antes de ...
+snippet: Você pode visitar duas das cidades mais charmosas de Portugal em uma viagem de um dia, saindo de Lisboa, que vai além da cidade para explorar a Serra de Sintra, um lugar notoriamente difícil de chegar de forma independente.
+title: NewsMuseum (Sintra, Portugal) - Anmeldelser - Tripadvisor
+snippet: NewsMuseum, Sintra: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for NewsMuseum i Sintra, Portugal på Tripadvisor.
+title: NewsMuseum (Sintra) - 2020 All You Need to Know BEFORE You ...
+snippet: Old town Sintra has lots of restaurants and tourist shops and the National Palace. It also has the Newsmuseum which I would highly recommend. The museum puts news in context with our modern world and with evolving technology. News has changed and the way it is delivered has all …
+title: NewsMuseum - Wikipedia
+snippet: The NewsMuseum is a museum dedicated to news, media and communication located in Sintra, Portugal. Inspired by the Washington’s Newseum (), it was inaugurated in the first minutes of April 25, 2016, in an event attended by the President of the Portuguese Republic, Marcelo Rebelo de Sousa.. It occupies the former facilities of the Museu do Brinquedo (Toy Museum) and presents, in a physical ...
+title: NewsMuseum - Museum - Sintra, Portugal | Facebook - 103 ...
+snippet: NewsMuseum - Rua Visconde de Monserrate, 26, 2710 - 591 Sintra, Portugal - Rated 4.8 based on 103 Reviews &quot;One of the best museums I&#39;ve been to. And the...
+title: NewsMuseum - YouTube
+snippet: O NewsMuseum é um espaço experiencial dedicado às notícias, aos media e à comunicação. As estórias do país e do mundo, através do olhar mediático. NewsMuseum...
+title: THE 10 BEST Restaurants Near NewsMuseum in Sintra, Sintra ...
+snippet: Restaurants near NewsMuseum, Sintra on Tripadvisor: Find traveler reviews and candid photos of dining near NewsMuseum in Sintra, Portugal.
+title: NewsMuseum (Sintra, Portugalia) - opinie - Tripadvisor
+snippet: Stare miasto Sintra ma wiele restauracji i sklepów turystycznych oraz Pałac Narodowy. Ma także Newsmuseum, które gorąco polecam. Muzeum umieszcza wiadomości w kontekście naszego współczesnego świata i ewoluującej technologii.
+title: Gazeta Coffee House @ News Museum, Sintra ...
+snippet: Gazeta Coffee House @ News Museum, Sintra: Se 96 objektive anmeldelser av Gazeta Coffee House @ News Museum, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 79 av 298 restauranter i Sintra.
+
+REL: 2
+POI Name: Basílica de la Sagrada Familia
+POI City: Barcelona
+POI Country: ES
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, Churches, 
+Snippets:
+title: Sagrada Família - Wikipedia
+snippet: The Basílica de la Sagrada Família (Catalan: [bəˈzilikə ðə lə səˈɣɾaðə fəˈmiljə]; Spanish: Basílica de la Sagrada Familia; (&#39;Basilica of the Sacred Family&#39;)), also known as the Sagrada Família, is a large unfinished Roman Catholic minor basilica in Barcelona, Catalonia, Spain.
+title: La Sagrada Familia - Proveïdors oficials d&#39;entrades
+snippet: Blog oficial d’arquitectura de la Sagrada Família. Des d’aquí podràs seguir l’evolució de l’obra magna de Gaudí, que està previst que sigui una realitat el 2026, i conèixer-ne tots els detalls. Blog oficial d’arquitectura de la Sagrada Família.
+title: Templo Expiatorio de la Sagrada Familia - Wikipedia, la ...
+snippet: El Templo Expiatorio de la Sagrada Familia (en catalán, Temple Expiatori de la Sagrada Família), conocido simplemente como la Sagrada Familia, es una basílica católica de Barcelona (), diseñada por el arquitecto Antoni Gaudí.Iniciada en 1882, todavía está en construcción.Es la obra maestra de Gaudí, y el máximo exponente de la arquitectura modernista catalana.
+title: Basilica of the Sagrada Familia, Barcelona - Tripadvisor
+snippet: Basilica of the Sagrada Familia admission prices can vary. Entrance tickets currently cost $34.83, while a popular guided tour starts around $46.00 per person. See all 346 Basilica of the Sagrada Familia tickets and tours on Tripadvisor
+title: La Sagrada Família Basilica By Antonio Gaudí - Barcelona
+snippet: Click here to book your skip the line tickets online for Gaudi&#39;s Sagrada Familia Basilica. ... controversy surrounding the Sagrada Família it is a truly magnificent building and an absolute must-see when you visit Barcelona. Address: La Sagrada Familia Carrer Mallorca, 401 08013 Barcelona, España ... Modernist building by Gaudí on Passeig de ...
+title: History of the Temple - Sagrada Família - Sagrada Familia
+snippet: The Sagrada Família is a truly exceptional temple, the result of the work of genius architect Antoni Gaudí. Today, more than 135 years after the laying of the cornerstone, construction continues on the Basilica and is expected to be completed in 2026.
+title: Sagrada Família – Wikipedia
+snippet: Sagrada Família (norsk: Den hellige familie) er en stor basilika i Barcelona, Catalonia, som ble tegnet av arkitekten Antoni Gaudí.Det katalanske navnet på basilikaen er Temple Expiatori de la Sagrada Família.Den ble påbegynt i 1883, men er fremdeles ikke ferdigbygd. Mesteparten av byggearbeidet har vært finansiert med innsamlede private midler.
+title: Basílica de la Sagrada Família | Barcelona Bus Turístic
+snippet: Basílica de la Sagrada Família. ... Their objective is to indicate the path to the basilica for pilgrims. Barcelona cannot be conceived of without this expiatory church, to which Antoni Gaudí dedicated 40 years of his life. ... Sagrada Familia opening times, prices and tickets.
+title: Sagrada Família de Barcelona - Monumento mais famoso de ...
+snippet: Visita guiada à Sagrada Família sem filas; Sagrada Familia com subida às torres; O símbolo da cidade. A Basílica da Sagrada Família se tornou o símbolo de Barcelona e sua visita é imprescindível. Como sempre costuma haver muita fila para visitá-la, você pode comprar os ingressos online para não perder tempo. Site da Sagrada Familia
+title: Sagrada familia (Barcelona, Spania) - Anmeldelser
+snippet: Sagrada familia, Barcelona: Se anmeldelser fra reisende, ... Billetter til Basilica of Sagrada Familia. ... Placa de la Sagrada Familia (149) 2 min. Severdigheter og landemerker. Se alle. Bli kjent med området. Hopp-på-hopp-av-turer. Sightseeing i Barcelona City med hopp-på-hopp-av-tur
+
+REL: 2
+POI Name: Centro de Arte Moderna José Azeredo Perdigão
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Centro de Arte Moderna José de Azeredo Perdigão
+snippet: Centro de Arte Moderna José de Azeredo Perdigão Museums and Palaces It also has an exhibition of British art from the 1960´s to the present day, Armenian art, particularly works by Arshile Gorky (1904-1948) and a significant collection of works by Vieira da Silva and Arpad Szenes.
+title: Centro de Arte Moderna José Azeredo Perdigão Museum and ...
+snippet: Centro de Arte Moderna José Azeredo Perdigão, Museum and Gallery in Lisbon, Portugal with the best reviews and photos for Centro de Arte Moderna José Azeredo Perdigão.
+title: Centro de Arte Moderna José Azeredo Perdigão - Museums ...
+snippet: Centro de Arte Moderna José Azeredo Perdigão in Lisbon, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Lisbon and beyond.
+title: Museu Calouste Gulbenkian
+snippet: O Museu Calouste Gulbenkian tem duas coleções de arte - Coleção do Fundador e Coleção Moderna - e uma extensa programação de exposições temporárias. Saltar para o conteúdo principal. ... Conheça a maior coleção de arte moderna e contemporânea portuguesa, desde o final do século XIX até aos dias de hoje. Mais.
+title: Centro de Arte Moderna José de Azeredo Perdigão | Museu ...
+snippet: O roteiro apresenta artistas e obras da colecção do CAMJAP. Contém nota prévia sobre a organização do roteiro, um texto sobre a história do CAMJAP e da sua colecção, referências individualizadas a 139 artistas considerados representativos do acervo, em que se procura estabelecer o percurso biográfico de cada artista e o entendimento interpretativo e, em …
+title: CENTER OF MODERN ART JOSÉ DE AZEREDO PERDIGÃO | Lisboa Cool
+snippet: Until, in 1983, a new building was inaugurated with the purpose of hosting the activities and pieces from the field of contemporary art. Thus, the Center of Modern Art José de Azeredo Perdigão (CAM-JAP) belongs to the Calouste Gulbenkian Foundation and is named after its first President. Here you’ll find hundreds of fascinating works.
+title: Centro de Arte Moderna José de Azeredo Perdigão
+snippet: Centro de Arte Moderna José de Azeredo Perdigão Museus e Palácios A Colecção inclui também arte britânica dos anos 60 até hoje, arte arménia, nomeadamente obras de Arshile Gorky (1904-1948) e ainda um núcleo significativo de obras de Vieira da Silva e Arpad Szenes.
+title: Centro de Arte Moderna - José de Azeredo Perdigão | Visit ...
+snippet: Linha de Sintra - Rossio, Linha de Cascais - Cais do Sodré. Entrada gratuita em 25 museus, monumentos e outros locais de interesse.10% a 50% de desconto em locais e serviços de interesse turístico e cultural.5% a 10% de desconto em algumas lojas de artigos genuinamente portugueses. Conforme condições gerais de compra.
+title: Modern Collection Calouste Gulbenkian Museum ...
+snippet: The Centro de Arte Moderna José de Azeredo Perdigão, now known as the Modern Collection of the Calouste Gulbenkian Museum, holds an important collection of contemporary art by mainly Portuguese and British artists.
+title: Category:Centro de Arte Moderna - Wikimedia Commons
+snippet: This page was last edited on 11 November 2018, at 17:53. Files are available under licenses specified on their description page. All structured data from the file and property namespaces is available under the Creative Commons CC0 License; all unstructured text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply.
+
+REL: 2
+POI Name: Parque e Palácio Nacional da Pena
+POI City: Sintra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Landmarks & Historical Buildings, Castles, 
+Snippets:
+title: Parque e Palácio Nacional da Pena | Parques de Sintra ...
+snippet: Parque e Palácio Nacional da Pena Devido a intervenções de restauro, os seguintes espaços encontram-se com acesso limitado ou alterado, ou incompletos: Aposentos de D. Manuel II, Sala de Jantar (centro de mesa retirado para restauro), Sala do Telefone, Sala de Visitas e Sala Verde.
+title: Parque e Palácio Nacional da Pena (Sintra) - Tripadvisor
+snippet: Parque e Palácio Nacional da Pena pode estar sobrelotado, por isso, recomendamos que reserve bilhetes eletrónicos atempadamente para garantir o seu lugar. Se reservar com o Tripadvisor, pode cancelar com uma antecedência de, pelo menos, 24 horas da data de início da excursão para receber um reembolso total.
+title: Parques de Sintra - Criada em 2000, no seguimento da ...
+snippet: Criada em 2000, no seguimento da classificação pela UNESCO da Paisagem Cultural de Sintra como Património da Humanidade. Gere o Parque e Palácio da Pena,
+title: Parque e Palácio Nacional da Pena (Sintra) - Tripadvisor
+snippet: Visitei o palácio da Pena com minha filha em setembro de 2019, fomos muito bem recebidas, não tivemos nenhuma dificuldade e nem espera para a visitação, vimos tudo, andamos por todo palácio, a única dificuldade que tivemos foi o imenso calor da época, andamos por todo parque, …
+title: Ticket Office | Parques de Sintra - Monte da Lua
+snippet: Buy tickets online for the Park and Palace of Pena, Palace of Sintra, Palace of Queluz, Moorish Castle, Park and Palace of Monserrate, Convent of the Capuchos and Chalet of the Countess of Edla.
+title: Park and National Palace of Pena | Parques de Sintra ...
+snippet: Park and National Palace of Pena Due to the restoration work ongoing, the following areas currently have access limitations or are incomplete: King Manuel&#39;s apartments, Dining Room (table centrepiece removed for restauration), Sitting Room, Telephone Room and Green Room.
+title: Parque e Palácio Nacional da Pena (Sintra) - Tripadvisor
+snippet: Atividades em Sintra ; Parque e Palácio Nacional da Pena; Pesquisar. Parque e Palácio Nacional da Pena. 18 227 avaliações. N.º 2 de 67 atividades em Sintra. Locais Turísticos e Monumentos, Castelos, Edifícios arquitetónicos. Parque e Palácio Nacional da Pena. 18 227 avaliações.
+title: Horários e Preços | Parques de Sintra - Monte da Lua
+snippet: Início &gt; Parques, Jardins e Monumentos &gt; Parque e Palácio Nacional da Pena &gt; Horários e Preços. Horários e Preços Horário 2019/2020. PARQUE De 28/03 a 30/10: 09h30 – 20h00, último bilhete e última entrada 19h00 De 31/10 a 27/03: 10h00 – 18h00, último bilhete e última entrada 17h00
+title: Parque e Palácio Nacional da Pena (Sintra) - Tripadvisor
+snippet: Palácio da Pena é imperdível, pra quem gosta de história e antiguidade é um sonho! No palácio podemos ver os quartos, e o banheiro, cozinha do castelo, louças e muito mais, é lindissimo. Mas vá bem cedinho, e suba até o castelo de bondinho (principalmente se estiver com …
+
+REL: 2
+POI Name: Palácio de Monserrate
+POI City: Sintra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Castles, Landmarks & Historical Buildings, 
+Snippets:
+title: Palacio de Monserrate (Monserrate Palace) Sintra Tourist Guide
+snippet: The Palacio de Monserrate (Monserrate Palace), is one of the most beautiful and visually striking mansions of Sintra, but as it 3.5km from the historic centre many visitors simply overlook this stunning palace.
+title: Park and Palace of Monserrate | Parques de SIntra ...
+snippet: Not very far from the historic centre of Sintra is one of the most beautiful architectural and landscape Romantic creations in Portugal: the Park and Palace of Monserrate, unique representatives of 19 th century eclecticism. The Palace combines gothic and Indian influences as well as Moorish suggestions together with exotic and plant motifs which are harmoniously extended to the exterior.
+title: Monserrate Palace - Wikipedia
+snippet: The Monserrate Palace (Portuguese: Palácio de Monserrate) is a palatial villa located near Sintra, the traditional summer resort of the Portuguese court in the foothills overlooking the Atlantic Ocean north of the capital, Lisbon.
+title: Palacio de Monserrate (Sintra) - 2020 All You Need to Know ...
+snippet: Palácio de Monserrate can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 156 Palácio de Monserrate tickets and tours on Tripadvisor
+title: Parque e Palácio de Monserrate | Parques de Sintra ...
+snippet: Próxima do centro histórico de Sintra, situa-se uma das mais belas criações arquitetónicas e paisagísticas do Romantismo em Portugal: o Parque e Palácio de Monserrate, testemunhos ímpares dos ecletismos do século XIX.
+title: Palácio de Monserrate – Wikipédia, a enciclopédia livre
+snippet: Saúl Fradesso da Silveira de Salazar Moscoso Saragga (1894-1964), comerciante de antiguidades de Lisboa, compra o palácio e irá vendê-lo em 1949 ao Estado Português, que compra ainda 143 hectares da Tapada de Monserrate. A Serra de Sintra, onde o palácio se localiza, é classificada como Paisagem Cultural - Património da Humanidade pela ...
+title: Palácio de Monserrate | Parques de Sintra - Monte da Lua
+snippet: ©PSML | Emigus A quatro quilómetros do centro histórico de Sintra, situa-se o Parque de Monserrate, que integra exuberantes jardins e um palácio, testemunho ímpar dos ecletismos do século XIX, onde os motivos exóticos e vegetalistas da decoração interior se prolongam harmoniosamente no exterior. Concluído em 1866, num estilo que combina influências góticas, indianas e sugestões ...
+title: Ticket Office | Parques de Sintra - Monte da Lua
+snippet: Buy tickets online for the Park and Palace of Pena, Palace of Sintra, Palace of Queluz, Moorish Castle, Park and Palace of Monserrate, Convent of the Capuchos and Chalet of the Countess of Edla.
+title: Palácio de Monserrate - Sintra Romântica
+snippet: A quatro quilómetros do centro histórico de Sintra, situam-se o Palácio e o Parque de Monserrate, testemunhos ímpares dos ecletismos do século XIX, onde os motivos exóticos e vegetalistas da decoração interior se prolongam harmoniosamente no exterior.
+title: Parques de Sintra
+snippet: Criada em 2000, no seguimento da classificação pela UNESCO da Paisagem Cultural de Sintra como Património da Humanidade. Gere o Parque e Palácio da Pena,
+
+REL: 2
+POI Name: Castelo dos Mouros
+POI City: Sintra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Landmarks & Historical Buildings, Castles, 
+Snippets:
+title: Castelo dos Mouros (Sintra) - 2020 All You Need to Know ...
+snippet: We recommend booking Castelo dos Mouros tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 177 Castelo dos Mouros tours on Tripadvisor
+title: Castle of the Moors - Wikipedia
+snippet: The Castle of the Moors (Portuguese: Castelo dos Mouros) is a hilltop medieval castle located in the central Portuguese civil parish of Santa Maria e São Miguel, in the municipality of Sintra, about 25km northwest of Lisbon.Built by the Moors in the 8th and 9th centuries, it was an important strategic point during the Reconquista, and was taken by Christian forces after the fall of Lisbon in ...
+title: Castelo dos Mouros (Sintra) – Wikipédia, a enciclopédia livre
+snippet: Embora o Castelo de Sintra tenha se entregue voluntariamente após a queda de Lisboa, reza a lenda que, nessa ocasião, receoso de um ataque de surpresa às suas forças, por parte dos mouros de Sintra, o soberano incumbiu D. Gil, um cavaleiro templário, que formasse um grupo com vinte homens da mais estrita confiança, para secretamente ali ...
+title: Castelo dos Mouros Moors Castle Sintra
+snippet: The Castelo dos Mouros was destined to be forgotten and permanently ruined. That was until King Ferdinand II transformed the entire Sintra region. Ferdinand II was a king obsessed by art, drama and the good life - he romanticised the middle ages and ordered the reconstruction of the castle.
+title: Castelo dos Mouros Sintra - Sintra Portugal Guide
+snippet: O castelo mantém o charme de uma ruína antiga, com uma floresta densa em torno das muralhas antigas que oferecem vistas espetaculares sobre a região de Sintra. O Castelo dos Mouros é uma atração altamente recomendável em Sintra e é bastante diferente dos outros palácios da cidade, ou das casas senhoriais que apresenta.
+title: Moorish Castle | Parques de Sintra - Monte da Lua
+snippet: O Castelo dos Mouros permite admirar, ao longo dos caminhos de ronda, por entre penedos e sobre penhascos, uma paisagem única que se estende até ao oceano Atlântico. Sobranceiro à Serra de Sintra, e de configuração irregular, consiste numa fortificação construída em torno do século X após a conquista muçulmana da Península Ibérica, sendo ampliada depois da reconquista cristã.
+title: Castelo dos Mouros (Sintra) - 2020 All You Need to Know ...
+snippet: Fantastic view on this 10th century Castelo-dos-Mouros high up on the hills of Sintra. Not far from the Palace da Pena but significantly less tourists. Great to spend a couple of nights in town hiking on the castle and the surrounding forest and hills. The reason I gave 4 stars …
+title: Castelo dos Mouros (Sintra) - Aktuelle 2020 - Lohnt es ...
+snippet: Wir empfehlen Ihnen, Touren für Castelo dos Mouros frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 177 Touren für Castelo dos Mouros auf Tripadvisor an.
+title: Castelo dos Mouros (Sintra) - Wikipedia, la enciclopedia libre
+snippet: El Castillo de Sintra (en portugués Castelo de Sintra), también conocido como Castelo dos Mouros, se encuentra en la villa de Sintra, concretamente en la freguesía de São Pedro de Penaferrim, Concejo de Sintra, Distrito de Lisboa, en Portugal.. Erigido sobre un macizo rocoso, aislado en una de las cumbres de la sierra de Sintra, desde sus murallas se disfruta de una vista privilegiada de ...
+title: Castelo dos Mouros - Sintra | www.visitportugal.com
+snippet: Castelo dos Mouros - Sintra. Über Die Meinung der Nutzer. Castelo dos Mouros - Sintra Monumente Das maurische Kastell erstreckt sich serpentinenförmig über zwei Bergspitzen des Sintragebirges. Es stammt aus der Anfangszeit der maurischen Besetzung auf der Iberischen Halbinsel - dem 8. Jh.
+
+REL: 2
+POI Name: Museu Militar
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Militar de Lisboa (Lisbon) - 2020 All You Need to ...
+snippet: Museu Militar de Lisbon Visit. My wife and I went to the Lisbon Military Museum while on a cruise. The museum is very close to the main cruise terminal. It is a fabulous museum with many historical artifacts. So many cannons! The museum is not only artifacts but is a military art museum.
+title: Museu Militar in Lisbon&#39;s Alfama District
+snippet: The Museu Militar in the Alfama District is one of two military museums in Lisbon Portugal. (The other is located in Belem.) The museum contains weaponry, uniforms and other military artifacts from Portuguese history. It also has a small art collection.
+title: MILITARY MUSEUM (Museu Militar), Lisbon
+snippet: L ocated on the site of a 16th-century shipyard, this museum has an artillery collection that is said to be the world&#39;s biggest, and extensive displays of guns, pistols and swords, including 14th-century cannon and Vasco da Gama&#39;s sword. Some of the rooms have rich Baroque decoration, large spreads of tiles portraying battle scenes, and paintings on military themes.
+title: Museu Militar de Lisboa - ATUALIZADO 2020 O que saber ...
+snippet: Hotéis perto de Museu Militar de Lisboa: (0.12 km) Sweet Lisbon Guesthouse (0.27 km) Alfama Terrace (0.34 km) Santa Clara 1728 (0.19 km) Story Flat Lisbon - Alfama (0.35 km) Casa dell&#39;Arte Club House; Veja todos os hotéis perto de Museu Militar de Lisboa no Tripadvisor
+title: Museu Militar de Lisboa (Lisbon) - 2020 All You Need to ...
+snippet: My wife and I went to the Lisbon Military Museum while on a cruise. The museum is very close to the main cruise terminal. It is a fabulous museum with many historical artifacts. So many cannons! The museum is not only artifacts but is a military art museum.
+title: Museu Militar de Lisboa (Portugal) - Anmeldelser - Tripadvisor
+snippet: Museu Militar de Lisbon Visit. Min kone og jeg dro til Lisboa militære museum mens vi var på cruise. Museet ligger i nærheten av cruiseterminalen. Det er et fantastisk museum med mange historiske gjenstander. Så mange kanoner! Museet er ikke bare gjenstander, men er et militært kunstmuseum.
+title: Museu Militar de Lisboa (Lisbon) - All You Need to Know ...
+snippet: Museu Militar de Lisboa, Lisbon: See 225 reviews, articles, and 533 photos of Museu Militar de Lisboa, ranked No.58 on Tripadvisor among 704 attractions in Lisbon.
+title: Lisbon’s Military Museum - Lisbon, Portugal
+snippet: The Military Museum is on the waterfront in Lisbon’s Alfama neighborhood, just down the hill from Santa Engracia (the National Pantheon). It’s on the site of a 16th-century cannon foundry and munitions depot.
+title: Museu Militar de Lisboa (Lisbon) - 2020 All You Need to ...
+snippet: Hotels near Museu Militar de Lisboa: (0.09 mi) Sweet Lisbon Guesthouse (0.17 mi) Alfama Terrace (0.21 mi) Santa Clara 1728 (0.12 mi) Story Flat Lisbon - Alfama (0.22 mi) Casa dell&#39;Arte Club House; View all hotels near Museu Militar de Lisboa on Tripadvisor
+title: Spennende museum - Anmeldelse for Museu Militar de Lisboa ...
+snippet: Museu Militar de Lisboa: Spennende museum - Se 224 reiseanmeldelser, 532 objektive bilder og gode tilbud på Lisboa, Portugal på Tripadvisor.
+
+REL: 2
+POI Name: Museu Nacional de Arte Antiga
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Página inicial - SAPO Codebits
+snippet: PEETER BALTEN &quot;Calendário&quot; OBRA CONVIDADA Sé de Miranda do Douro Museu da Terra de Miranda
+title: National Museum of Ancient Art - Wikipedia
+snippet: The Museu Nacional de Arte Antiga (Portuguese pronunciation: [muˈzew nɐsiuˈnaɫ dɨ ˈaɾtɐ̃ˈtiɡɐ]; MNAA), also known in English as the National Museum of Ancient Art, is the Portuguese national art museum, located in Lisbon.The MNAA has one of the largest art collections in the world, with over 40,000 items spanning a vast collection of painting, sculpture, goldware, furniture ...
+title: Museu Nacional de Arte Antiga (Lisboa) - ATUALIZADO 2020 O ...
+snippet: Recomendamos que reserve as excursões em Museu Nacional de Arte Antiga atempadamente para garantir o seu lugar. Se reservar com o Tripadvisor, pode cancelar até 24 horas antes do início da excursão para receber um reembolso total. Veja as 16 excursões de Museu Nacional de Arte Antiga no Tripadvisor
+title: Museu Nacional de Arte Antiga - Lisbon, Portugal | Facebook
+snippet: Museu Nacional de Arte Antiga - Rua das Janelas Verdes, 1249-017 Lisbon, Portugal - Rated 4.8 based on 246 Reviews &quot;So amazing collection, displayed...
+title: Highlights of the Museu Nacional de Arte Antiga in Lisbon
+snippet: In this article, we will explore one of the most fascinating museums in Portugal, the Museu Nacional de Arte Antiga, its most famous and unmissable artworks, as well as visiting tips. This Museum contains objects of Art which describe the roots of Portugal´s history and culture.
+title: Collections | NMAA Museu Nacional de Arte Antiga
+snippet: Namban Folding Screens. 1st pair: seal of Kano Naizen (1570-1616); 2nd pair: Kano Domi (attrib.) - Wooden lattice covered with paper, gold leaf, polychrome tempera painting, silk, lacquer, copper gilt - Momoyama (1568-1603)/Edo (1603-1868) periods, c. 1606 These important historical and artistic documents about the relationship between Portugal and Japan depict the arrival of the Portuguese ...
+title: Restaurant Museu Nacional de Arte Antiga, Lisbon ...
+snippet: Restaurant Museu Nacional de Arte Antiga, Lisbon: See 48 unbiased reviews of Restaurant Museu Nacional de Arte Antiga, rated 3.5 of 5 on Tripadvisor and ranked #2,042 of 5,026 restaurants in Lisbon.
+title: Museu Nacional de Arte Antiga - Lisbon, Portugal | Facebook
+snippet: Museu Nacional de Arte Antiga - Rua das Janelas Verdes, 1249-017 Lisbon, Portugal - Rated 4.8 based on 248 Reviews &quot;So amazing collection, displayed...
+title: Museu Nacional de Arte Antiga (Lissabon) - Aktuelle 2020 ...
+snippet: Wir empfehlen Ihnen, Touren für Museu Nacional de Arte Antiga frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 16 Touren für Museu Nacional de Arte Antiga auf Tripadvisor an.
+title: National Museum of Ancient Art (Lisbon) - 2020 All You ...
+snippet: We recommend booking National Museum of Ancient Art tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 16 National Museum of Ancient Art tours on Tripadvisor
+
+REL: 2
+POI Name: Paço dos Duques
+POI City: Guimarães
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Museu Nacional do Teatro e da Dança
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Nacional do Teatro e da Dança
+snippet: Site do Museu Nacional do Teatro e da Dança, situado em Lisboa, Portugal. Aqui pode encontrar informação sobre o Museu, as suas colecções, exposições, serviço educativo, biblioteca, serviços de apoio e publicações.
+title: Museu Nacional do Teatro e da Dança - Home | Facebook
+snippet: Museu Nacional do Teatro e da Dança - Estrada do Lumiar, n.º10, 1600-495 Lisbon, Portugal - Rated 4.7 based on 44 Reviews &quot;Being specifically created,...
+title: Museu Nacional do Teatro e da Dança - Programação
+snippet: Site do Museu Nacional do Teatro e da Dança, situado em Lisboa, Portugal. Aqui pode encontrar informação sobre o Museu, as suas colecções, exposições, serviço educativo, biblioteca, serviços de apoio e publicações.
+title: Museu Nacional do Teatro e da Dança
+snippet: Museu Nacional do Teatro e da Dança Estrada do Lumiar, 10 1600-495 Lisbon PORTUGAL Phone number : 00 351 21 75674/10
+title: Museu Nacional do Teatro e da Dança - Horário e contactos
+snippet: Site do Museu Nacional do Teatro e da Dança, situado em Lisboa, Portugal. Aqui pode encontrar informação sobre o Museu, as suas colecções, exposições, serviço educativo, biblioteca, serviços de apoio e publicações.
+title: Museu Nacional do Teatro e da Dança - Picture of Museu ...
+snippet: Museu Nacional do Teatro, Lisbon Picture: Museu Nacional do Teatro e da Dança - Check out Tripadvisor members&#39; 50,598 candid photos and videos of Museu Nacional do Teatro. Lisbon. Lisbon Tourism Lisbon Hotels Lisbon Bed and Breakfast Lisbon Vacation Rentals Lisbon Vacation Packages
+title: Museu Nacional do Teatro e da Dança, Estrada do Lumiar, n ...
+snippet: 18/10/2019 . INFORMAÇÃO Por motivos de obras de reparação e manutenção, o Palácio do Monteiro Mor, onde se situa a Exposição Permanente e a Biblioteca do Museu Nacional do Teatro e da Dança, encontra-se temporariamente encerrado, facto pelo qual apresento as minhas desculpas.
+title: MUSEU NACIONAL DO TEATRO E DA DANÇA - UM PÉ AQUI - YouTube
+snippet: Embarcamos em uma encantadora viagem pelo Museu Nacional do Teatro e da Dança para conhecer um pouco mais da História e das memórias do Teatro Português. Inscreva-se no canal aqui: https://goo ...
+title: Museu Nacional do Teatro e da Dança | Museus | Lumiar, Lisboa
+snippet: Museu Nacional do Teatro e da Dança. Museu Nacional do Teatro e da Dança. Museus Lumiar 3 /5 estrelas. 2 /5 estrelas (1 comentário) Museu Nacional do Teatro. A Time Out diz. 3 /5 estrelas. Localizado no ...
+title: Museu Nacional do Teatro e da Dança • Lisboa • Portugal ...
+snippet: An excellent collection of remembrances, among scenarios, posters, costumes and stage props, covering the performing arts’ history in Portugal! This is the National Theatre and Dance Museum ...
+
+REL: 2
+POI Name: Museu do Dinheiro
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu do Dinheiro (Lisbon) - 2020 All You Need to Know ...
+snippet: We recommend booking Museu do Dinheiro tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Museu do Dinheiro tours on Tripadvisor
+title: Destaques - Museu do Dinheiro - Banco de Portugal
+snippet: O Museu do Dinheiro apresenta o tema do dinheiro e a sua história em Portugal através de programação cultural e educativa para todas as idades. O Museu do Dinheiro apresenta o tema do dinheiro e a sua história em Portugal através de programação cultural e educativa para todas as idades.
+title: Museu do Dinheiro (Lisboa, Portugal) - Anmeldelser
+snippet: Museu do Dinheiro, Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Museu do Dinheiro i Lisboa, Portugal på Tripadvisor.
+title: Money Museum - Museu do Dinheiro - Banco de Portugal
+snippet: This museum is aware of its social role and also of the symbolic presence that it enjoys in the city as well as in the country; it is a place where contact with diverse audiences takes priority, and one that invests in educational and cultural programming, preserving strong ties to both the community and the city of Lisbon. The Money Museum ...
+title: Museu do Dinheiro (Lissabon) - Aktuelle 2020 - Lohnt es ...
+snippet: Wir empfehlen Ihnen, Touren für Museu do Dinheiro frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 2 Touren für Museu do Dinheiro auf Tripadvisor an.
+title: Museu do Dinheiro (Lisboa) - ATUALIZADO 2020 O que saber ...
+snippet: Ora, o Museu do Dinheiro é um museu gratuito localizado mesmo no coração de Lisboa, ao lado da Câmara Municipal. Tem várias partes, todas elas relacionadas naturalmente com a história do dinheiro e a sua criação e crescente importância e a verdade é que é bastante informador e …
+title: Museu do Dinheiro (Lisbon) - 2020 All You Need to Know ...
+snippet: Lisbon Tourism; Lisbon Hotels; Lisbon Bed and Breakfast; Lisbon Vacation Rentals; Lisbon Vacation Packages; Flights to Lisbon; Lisbon Restaurants; Things to Do in Lisbon
+title: Museu do Dinheiro (Lizbona, Portugalia) - opinie - Tripadvisor
+snippet: Zalecamy wcześniejszą rezerwację wycieczek w Museu do Dinheiro w celu zapewnienia sobie miejsca. Rezerwację dokonaną na stronie Tripadvisor możesz anulować co najmniej 24 godziny przed rozpoczęciem wycieczki, by uzyskać pełny zwrot pieniędzy. Zobacz wszystkie wycieczki w Museu do Dinheiro (2) na stronie Tripadvisor
+title: Museu do Dinheiro (Lisbon) - 2020 What to Know Before You ...
+snippet: Book your tickets online for Museu do Dinheiro, Lisbon: See 142 reviews, articles, and 284 photos of Museu do Dinheiro, ranked No.30 on Tripadvisor among 704 attractions in Lisbon.
+title: Museu do Dinheiro (Lisbon) - All You Need to Know BEFORE ...
+snippet: Book your tickets online for Museu do Dinheiro, Lisbon: See 138 reviews, articles, and 259 photos of Museu do Dinheiro, ranked No.30 on Tripadvisor among 700 attractions in Lisbon.
+
+REL: 2
+POI Name: The Painter's Garden
+POI City: Sintra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Restaurants, 
+Snippets:
+title: THE 10 BEST Restaurants in Sintra - Updated April 2020 ...
+snippet: Best Dining in Sintra, Sintra Municipality: See 48,174 Tripadvisor traveler reviews of 305 Sintra restaurants and search by cuisine, price, location, and more.
+title: The Painter’s Garden, Sintra - Restaurant Bewertungen ...
+snippet: The Painter’s Garden, Sintra: 21 Bewertungen von The Painter’s Garden sehen, mit 1,5 von 5 bewertet und eines der 296 Restaurants in Sintra bei TripAdvisor.
+title: The Painter&#39;s Garden, Sintra - Sintra - WorldPlaces
+snippet: Get address of The Painter&#39;s Garden, Sintra - Sintra, submit your review or ask any question about The Painter&#39;s Garden, Sintra, search nearby places on map.
+title: The Painter&#39;s Garden, Sintra - Sintra, Portugal - Cafe ...
+snippet: The Painter&#39;s Garden, Sintra, Sintra, Portugal. 4 likes · 48 were here. Cafe
+title: Sintra - Wikipedia
+snippet: Sintra is similarly known for its numerous gardens and nature parks, including the Sintra-Cascais Nature Park and the Sintra Mountains. Sintra&#39;s landmarks include the mediaeval Castle of the Moors, the romanticist Pena National Palace and the Portuguese Renaissance Sintra National Palace.
+title: THE PAINTER`S GARDEN, Sintra - Comentários de restaurantes ...
+snippet: The Painter`s Garden, Sintra: See 21 unbiased reviews of The Painter`s Garden, rated 1,5 of 5, and one of 297 Sintra restaurants on TripAdvisor.
+title: Discover the Gardens of the Romantic Sintra. Portugal ...
+snippet: Surrounding the cosmopolitan Lisbon, Sintra appears as an adorable village mostly known by its romantic and inspiring gardens. Nobody stays indifferent to them even those who say that aren’t romantic. Discovering the Gardens of Sintra. Sintra is the Portuguese perfect place to show biodiversity, environmental sustainability and natural beauty.
+title: Mystic gardens - Review of Quinta da Regaleira, Sintra ...
+snippet: Quinta da Regaleira is a breathtaking place to visit. Palacio is beautiful but looks much better from outside than inside, the garden is another story. There is a great collection of turrets, gardens, wells, towers, statues, mysterious grottoes, ponds, providing breathtaking views.
+title: Razoavelmente caro, mas bacana - The Painter`s Garden
+snippet: The Painter`s Garden: Razoavelmente caro, mas bacana - Veja 21 avaliações de viajantes 2 fotos reais e ótimas ofertas para Sintra, Portugal no Tripadvisor.
+title: Sintra Tourism 2020: Best of Sintra, Portugal - Tripadvisor
+snippet: Sintra’s many castles include the Palácio Nacional de Sintra (a main abode of Portuguese royalty until the early 20th century), the hilltop and storybook Palácio da Pena, Quinta de Regaleira (incorporating several architectural styles and with gorgeous surrounding gardens), the Castelo dos Mouros (Moorish Castle), and the Palácio de ...
+
+REL: 2
+POI Name: Museu Nacional do Azulejo
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Museu Nacional do Azulejo - Museu N Azulejo
+snippet: Dear visitors, we would like to inform you that Museu Nacional do Azulejo is temporarily closed to the public. We will keep you informed through this website. Chère visiteur, nous vous informons que le Museu Nacional do Azulejo est temporairement fermé au publique. ...
+title: Museu Nacional do Azulejo
+snippet: O Museu Nacional do Azulejo encontra-se encerrado ao público, por tempo indeterminado, desde o dia 14 de Março, conforme estabelecido pelo plano de emergência e salvaguarda da saúde pública. Gratos pela vossa compreensão, fazemos votos de que possamos voltar a reabrir brevemente.
+title: Museu Nacional do Azulejo (Lisbon) - 2020 All You Need to ...
+snippet: According to Tripadvisor travelers, these are the best ways to experience Museu Nacional do Azulejo: Lisbon Tiles and Tales: Tile Workshop and Private Tour Including National Tile Museum (From $154.81) City Sightseeing Lisbon Hop-On Hop-Off Bus Tour (From $24.33) The tiles of Lisbon (From $266.60) Discovering Tile and Wine: South Lisbon (From ...
+title: Museu Nacional do Azulejo (Lisbon): UPDATED 2020 All You ...
+snippet: Book your tickets online for Museu Nacional do Azulejo, Lisbon: See 4,181 reviews, articles, and 3,556 photos of Museu Nacional do Azulejo, ranked No.20 on Tripadvisor among 704 attractions in Lisbon.
+title: Museu Nacional do Azulejo - Home | Facebook
+snippet: Museu Nacional do Azulejo - Rua da Madre de Deus, 4, 1900-312 Lisbon, Portugal - Rated 4.9 based on 299 Reviews &quot;It is one of the best in the world. It...
+title: Museu Nacional do Azulejo - Your Visit
+snippet: Contacts Museu Nacional do Azulejo (National Tile Museum) Rua da Madre de Deus, 4, 1900-312 Lisboa Phone: (+351) 218 100 340 E-mail: geral@mnazulejo.dgpc.pt Opening Hours:
+title: Museu Nacional do Azulejo (Lisbon) - 2020 All You Need to ...
+snippet: Things to Do in Lisbon ; Museu Nacional do Azulejo; Search. Museu Nacional do Azulejo. 4,180 Reviews #20 of 704 things to do in Lisbon. Museums, Specialty Museums, Art Museums. Museu Nacional do Azulejo. 4,180 Reviews #20 of 704 things to do in Lisbon. Museums, Specialty Museums, Art Museums.
+title: Museu Nacional do Azulejo (Lisbon) - 2020 All You Need to ...
+snippet: We recommend booking Museu Nacional do Azulejo tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 20 Museu Nacional do Azulejo tours on Tripadvisor
+title: National Museum of the Azulejo - Wikipedia
+snippet: The Museu Nacional do Azulejo (Portuguese for National Museum of the Azulejo), occasionally known in English as the National Tile Museum, is an art museum in Lisbon, Portugal dedicated to the azulejo, traditional tilework of Portugal and the former Portuguese Empire, as well as of other Iberophone cultures.
+title: Museu Nacional do Azulejo (Lisbon) - 2020 All You Need to ...
+snippet: Things to Do in Lisbon ; Museu Nacional do Azulejo; Search. Museu Nacional do Azulejo. 4,169 Reviews #19 of 703 things to do in Lisbon. Museums, Specialty Museums, Art Museums. Museu Nacional do Azulejo. 4,169 Reviews #19 of 703 things to do in Lisbon. Museums, Specialty Museums, Art Museums.
+
+REL: 2
+POI Name: Nova Lapa
+POI City: Lisbon
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, Diners, 
+Snippets:
+title: Nova Wine Bar, Lisbon - Baixa, Rossio &amp; Restauradores ...
+snippet: Nova Wine Bar, Lisbon: See 479 unbiased reviews of Nova Wine Bar, rated 5 of 5 on Tripadvisor and ranked #12 of 5,026 restaurants in Lisbon.
+title: Lapa Quarter (Lisbon) - 2020 All You Need to Know BEFORE ...
+snippet: This fascinating area is known in Lisbon as The Special Quarter and Lisboetas regard it as one of the best areas to live. For 300 years, Lapa was a favourite summer holiday destination for the English aristocracy. Today the atmosphere of that bygone, elegant age is to be found …
+title: A local&#39;s guide to Lisbon, Portugal - The Washington Post
+snippet: Breakfast. A Nova Pombalina. The brunch culture, slow to arrive to Lisbon, has taken over quickly. But the bustling Nova Pombalina, a five-minute walk from Lisbon’s main square, Terreiro do ...
+title: OLISSIPPO LAPA PALACE (Lisboa, Portugal) - Hotell ...
+snippet: Olissippo Lapa Palace, Lisboa: Se 1 303 reiseanmeldelser, 1 507 bilder og gode tilbud for Olissippo Lapa Palace, vurdert som nr. 15 av 289 hotell i Lisboa og vurdert til 5 av 5 på Tripadvisor.
+title: De 10 beste restaurantene i Lisboa - Tripadvisor
+snippet: Beste restauranter i Lisboa, Portugal: Se anmeldelser fra reisende og bilder av spisesteder i Lisboa, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Nova Lapa Fotos de Nova Lapa, Lapa-Estrela, Lisboa ...
+snippet: Fotos de Nova Lapa, Lapa-Estrela, Lisboa na Zomato. Cozinha: Portuguesa, Pastelaria — 15 € para duas pessoas (aprox.) Política de cookies. A Zomato usa cookies para melhorar a tua experiência de utilização. Lê a nossa Política de cookies. Fechar mensagem.
+title: Universidade NOVA de Lisboa
+snippet: Instituição universitária com investigação reconhecida internacionalmente e ensino de qualidade.
+title: Apartments for rent in Lisbon | Furnished Flats &amp; Rooms ...
+snippet: Lisbon Apartments for Rent Lisbon Furnished Apartments and Rooms for Rent. Lisbon is one of those cities with a really special charm. In fact, many compare it to San Francisco, although in this case located on the Atlantic coast.
+title: Lua Nova, Lapa-Estrela, Lisboa - Zomato Portugal
+snippet: Lapa-Estrela, Greater Lisbon 3.1 Santo António. Lapa-Estrela, Greater Lisbon 3.0 1a Fase. Lapa-Estrela, Greater Lisbon 3.6 Mercearia do Campo. Campo de Ourique, Greater Lisbon Obter ... Relacionados com Lua Nova, Lapa-Estrela
+title: Lisboa OFFICIAL Site | Visit Lisboa
+snippet: When visiting Lisbon, discover this Natural History and Science Museum with a garden, amphitheatre, chemical laboratory, observatory and an old riding school. São Roque Museum. São Roque Museum is one of the most beautiful and complete museums of Portuguese religious art.
+
+REL: 2
+POI Name: Museu Nacional de Arte Contemporânea do Chiado
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: MNAC: Museu Nacional de Arte Contemporânea do Chiado
+snippet: Museu N acional de A rte C ontemporânea do Chiado. pt / en. Museu. História; Edifício; Centro de ... Face à atual conjuntura de prevenção e salvaguarda da saúde pública, o ... o MNAC mostra a sua coleção de desenhos. Exposição temporária. A Coleção. Museu Nacional de Arte Contemporânea, Museu do Chiado. Rua Serpa Pinto, 4 | Rua ...
+title: MNAC: Museu Nacional de Arte Contemporânea do Chiado
+snippet: Museu N acional de A rte C ontemporânea do Chiado. pt / en. Museum. History; Building; Documentation Center; Colection; Editions; Videos and ... Curated by Maria de Aires Silveira, MNAC shows a collection of drawings. Temporary Exhibition. The Colection. Museu Nacional de Arte Contemporânea, Museu do Chiado. Rua Serpa Pinto, 4 | Rua Capelo ...
+title: MNAC - MUSEU NACIONAL DE ARTE CONTEMPORÂNEA DO CHIADO, Lisboa
+snippet: O Museu Nacional de Arte Contemporânea do Chiado abriu em 1911, num antigo convento que foi completamente remodelado em 1994, ano em que Lisboa foi a Capital Europeia da Cultura. Reúne cerca de 5.000 obras de artistas portugueses de 1850 à atualidade (e alguma escultura francesa dos finais do século XIX), mas a maioria é anterior a 1950.
+title: MNAC: ScheduleAccesses - MNAC: Museu Nacional de Arte ...
+snippet: _ 25,00 €_8 Lisbon museums (Casa -Museu Anastácio Gonçalves + Museu da Música +MNAC-Museu do Chiado+ Museu Nacional de Arte Antiga + Museu Nacional do Azulejo+ Museu Nacional do Traje + Museu Nacional do Teatro + Panteão Nacional) ... Museu Nacional de Arte Contemporânea, Museu do Chiado. Rua Serpa Pinto, 4 | Rua Capelo, 13 1200-444 Lisboa.
+title: Museu do Chiado (Lisbon) - 2020 All You Need to Know ...
+snippet: Museu Nacional de Arta Contemporanea do Chiado is a modern art museum with paintings and sculpture. When I visited there was a temporary exhibition of photography from the foremost Portugese photographer, Carlos Revlas; I enjoyed how they mixed classic work with new 3D …
+title: Museu Nacional de Arte Contemporanea (Lisbon) - All You ...
+snippet: Museu Nacional de Arte Contemporanea, Lisbon: See 4 reviews, articles, and 2 photos of Museu Nacional de Arte Contemporanea, ranked No.433 on Tripadvisor among 701 attractions in Lisbon.
+title: Museu do Chiado (Lisboa, Portugal) - Anmeldelser
+snippet: Museu Nacional de Arta Contemporanea do Chiado er et moderne kunstmuseum med malerier og skulpturer. Da jeg besøkte, var det en midlertidig utstilling av fotografi fra den fremste portugisiske fotografen Carlos Revlas; Jeg likte hvordan de blandet klassisk arbeid med ny 3 …
+title: Museu Nacional de Arte Contemporânea - Home | Facebook
+snippet: Museu Nacional de Arte Contemporânea - Rua Serpa Pinto, 4, Lisboa, 1200 -444 Lisbon, Portugal - Rated 4.5 based on 86 Reviews &quot;Stunning Arts Space in the...
+title: Museu Nacional de Arte Contemporânea - Museu do Chiado
+snippet: Museu Nacional de Arte Contemporânea - Museu do Chiado. About Feedback from users. Museu Nacional de Arte Contemporânea - Museu do Chiado Museums and Palaces Located in one of Lisbon&#39;s most historic neighbourhoods, the Chiado, the National Museum of Modern Art, was founded in 1911.
+title: Museu Nacional de Arte Contemporanea (Lisbon) - 2020 All ...
+snippet: Hotels near Museu Nacional de Arte Contemporânea: (0.08 mi) Corpo Santo Lisbon (0.13 mi) Martinhal Lisbon Chiado Family Suites (0.14 mi) Residentas Apóstolos (0.15 mi) Lost Inn Lisbon Hostel (0.16 mi) Dream Chiado; View all hotels near Museu Nacional de Arte Contemporânea on Tripadvisor
+
+REL: 2
+POI Name: Museu da Guarda Nacional Republicana
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Arquivo Histórico da Guarda Nacional Republicana
+snippet: CARMO AGUARDA. No âmbito das comemorações do seu 108.º aniversário, a Guarda Nacional Republicana abre as portas do Quartel do Carmo ao público, com entrada livre, entre os dias 23 de abril e 25 de maio de 2019, das 10H00 às 17H00.
+title: Museu da Guarda Nacional Republicana (Lisboa) - ATUALIZADO ...
+snippet: A visita ao Museu Nacional da Guarda Republicana não foi algo planejado, mas após conhecer o Convento do Carmo, optei por conhecer, visto que fica ao lado. O acervo é bem conservado e conta a história militar de Portugal. É uma visita oportuna, interessante e sem custos.
+title: Museum of National Republican Guard (Lisbon) - 2020 All ...
+snippet: On our way to the Museu Arqueológico do Carmo, we passed the Guarda Nacional Republicana and went in because it was for free on this day. We are not really interested in military stuff, but for those who are this museum had a nice display of history, with uniforms, guns,…
+title: Museu da GNR: Memórias de Abril, um Convento e um Quartel ...
+snippet: A partir de 1868 tornou-se Comando Geral das Guardas Municipais de Lisboa e do Porto; Guarda Republicana em 1910 e Guarda Nacional Republicana em 1911, mantendo-se desde a República até aos nossos dias como Comando Geral da GNR. O Museu da GNR. O Museu da GNR aberto desde Maio de 2015, não pertence à categoria dos museus mais conhecidos dos ...
+title: Guarda Nacional Republicana Museum (Lisbon) - 2020 All You ...
+snippet: Attractions near Guarda Nacional Republicana Museum: (0.12 mi) Igreja de São Roque (0.09 mi) Chiado (0.03 mi) Carmo Archaeological Museum (0.11 mi) Cidade Baixa (0.05 mi) Lisbon Tram &amp; Funicular Network; View all attractions near Guarda Nacional Republicana Museum on Tripadvisor
+title: Museu Guarda Nacional Republicana. - Review of Guarda ...
+snippet: Guarda Nacional Republicana Museum: Museu Guarda Nacional Republicana. - See 20 traveler reviews, 52 candid photos, and great deals for Lisbon, Portugal, at Tripadvisor.
+title: Restaurants Near Guarda Nacional Republicana Museum ...
+snippet: Restaurants near Guarda Nacional Republicana Museum, Lisbon on Tripadvisor: Find traveler reviews and candid photos of dining near Guarda Nacional Republicana Museum in Lisbon, Portugal.
+title: Guarda Nacional Republicana Museum (Lisboa, Portugal ...
+snippet: Guarda Nacional Republicana Museum, Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Guarda Nacional Republicana Museum i Lisboa, Portugal på Tripadvisor.
+title: Museu Guarda Nacional Republicana, Lisbon – Portugal Up Close
+snippet: Guards outside Museu Guarda Nacional Republicana, Lisbon. The Museu Guarda Nacional Republicana (Republican National Guard Museum) may not be the most enticing name for a museum, but we stumbled across the building next to the Carmo Archaeological Museum in the Chiado district of Lisbon and were drawn to it by the guard on duty, dressed in a smart dark-blue uniform complete with horse hair ...
+title: Museu Guarda Nacional Republicana, Lisbon – Portugal Up Close
+snippet: The Museu Guarda Nacional Republicana (Republican National Guard Museum) may not be the most enticing name for a museum, but we stumbled across the building next to the Carmo Archaeological Museum in the Chiado district of Lisbon and were drawn to it by the guard on duty, dressed in a smart dark-blue uniform complete…
+
+REL: 2
+POI Name: Museo de Artes Decorativas
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Museu De Artes Decorativas Portuguesas (Lisbon) - 2020 All ...
+snippet: Restaurants near Museu De Artes Decorativas Portuguesas: (0.07 mi) Cervejaria Marisqueira Crispim (0.10 mi) Li28oa - Wine and Tapas (0.07 mi) Grenache (0.08 mi) O Vinhaca Tapas &amp; Vinhos (0.09 mi) Quase Café; View all restaurants near Museu De Artes Decorativas Portuguesas on Tripadvisor
+title: Museu de Artes Decorativas - Lisbon Lux
+snippet: See Lisbon on foot, from an open-tup bus, tram, or even boat or helicopter, or take a day trip to Sintra, the beaches of Cascais and Estoril, or even to Évora or Fátima. Check out all the available LISBON TOURS › Passeie por Lisboa a pé, num autocarro panorâmico, de eléctrico, ou até de ...
+title: Museu De Artes Decorativas Portuguesas (Lisbon) - 2020 All ...
+snippet: Restaurants near Museu De Artes Decorativas Portuguesas: (0.10 km) Cervejaria Marisqueira Crispim (0.15 km) Li28oa - Wine and Tapas (0.11 km) Grenache (0.13 km) O Vinhaca Tapas &amp; Vinhos (0.14 km) Quase Café; View all restaurants near Museu De Artes Decorativas Portuguesas on Tripadvisor
+title: Museo de Artes Decorativas de Lisboa - Turismo.org
+snippet: También conocido como Fundación Ricardo do Espirito San Silva, el Museo de Artes Decorativas se localiza en el Largo das Portas do Sol y fue fundado en el año 1947 con la finalidad de exponer las mejores obras artísticas decorativas de Portugal y debe su nombre al mencionado Santo Silva, un banquero que adquirió el famoso Palacio Azurara (Siglo XVIII) para resguardar la valiosa colección ...
+title: Portada - Museo Nacional de Artes Decorativas - Ministerio ...
+snippet: [Cerrados temporalmente al público] Abiertos a la prevención. Suspendemos la actividad de cara al público hasta nuevo aviso. Esta medida está sujeta a la evolución de la situación extraordinaria provocada por el COVID-19 y es susceptible de ser modificada según las directrices de las autoridades sanitarias.
+title: Museo Nacional de Artes Decorativas - Wikipedia
+snippet: The Museo Nacional de Artes Decorativas (National Museum of Decorative Arts; originally, &quot;National Museum of Industrial Arts&quot;) is located at 12 Montalbán Street, in Madrid, Spain, to the south of the Puerta de Alcalá and the western side of the Buen Retiro Park.It is one of the oldest museums in the city, situated within the Golden Triangle of Art.
+title: Museu De Artes Decorativas Portuguesas (Lisboa, Portugal ...
+snippet: Museu De Artes Decorativas Portuguesas, Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Museu De Artes Decorativas Portuguesas i Lisboa, Portugal på Tripadvisor.
+title: Restaurants Near Museu De Artes Decorativas Portuguesas ...
+snippet: Restaurants near Museu De Artes Decorativas Portuguesas, Lisbon on Tripadvisor: Find traveler reviews and candid photos of dining near Museu De Artes Decorativas Portuguesas in Lisbon, Portugal.
+title: Museu de Artes Decorativas Portuguesas in Lisbon ...
+snippet: Museu de Artes Decorativas Portuguesas . Largo das Portas do Sol, 2 About our rating system. Our Rating. ... Decorative Arts is housed in an exquisite aristocratic abode on Portas do Sol square, overlooking the narrow lanes of Lisbon&#39;s medieval Alfama neighborhood.
+title: Museo Nacional de Artes Decorativas - Wikipedia, la ...
+snippet: El Museo Nacional de Artes Decorativas dispone actualmente de 60 salas repartidas en cinco plantas. Varias de ellas recrean ambientes de otras épocas, mediante mobiliario y demás piezas originales. Sobresale la reconstrucción de una cocina valenciana de finales del siglo XVIII recubierta con 1.536 azulejos, adquirida en 1941.
+
+REL: 1
+POI Name: Museu Nacional de Machado de Castro
+POI City: Coimbra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Nacional Machado de Castro - MNMC
+snippet: A Pietà da autoria de Frei Cipriano da Cruz é uma das maiores realizações da escultura portuguesa de seiscentos. Ler mais &#39;Portugal: Arte e Património&#39; ... Museu Nacional de Machado de Castro Coimbra Telefone +351 239 853 070 geral@mnmc.dgpc.pt servicoseducativos@mnmc.dgpc.pt
+title: Museu Nacional de Machado de Castro (Coimbra) - 2020 All ...
+snippet: We recommend booking Museu Nacional de Machado de Castro tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 3 Museu Nacional de Machado de Castro tours on Tripadvisor
+title: Museu Nacional de Machado de Castro – Wikipédia, a ...
+snippet: O Museu Nacional de Machado de Castro é um dos mais importantes museus de Belas-Artes de Portugal.Foi assim denominado em homenagem ao destacado escultor conimbricense Machado de Castro.O seu espólio inclui importantes núcleos de escultura, pintura e Artes decorativas.Ocupa as antigas instalações do Paço Episcopal de Coimbra e um amplo edifício novo, inaugurado em 2012.
+title: Machado de Castro National Museum - Wikipedia
+snippet: The National Museum Machado de Castro (Museu Nacional de Machado de Castro) is an art museum in Coimbra, Portugal, named after the renowned Portuguese sculptor Joaquim Machado de Castro.It first opened in 1913 and its latest renovation (2004-2012), which included the addition of a new building, was awarded the Piranesi/Prix de Rome Prize 2014.
+title: Museu Nacional Machado de Castro
+snippet: Museu Nacional Machado de Castro Coimbra Phone +351 239 853 070 Fax +351 239 853 079 mnmc@imc-ip.pt ...
+title: Museu Nacional de Machado de Castro | Coimbra, Portugal ...
+snippet: Museu Nacional de Machado de Castro. Save. ... showing how the arrival of Renaissance masters from across Europe paved the way for a distinctive Coimbra tradition. You can admire terracotta figures from a 16th-century Last Supper by the mysterious French artist Hodart and some stunning panels by the Flemish painter Quentin Metsys.
+title: Museu Nacional de Machado de Castro, Coimbra, Portugal ...
+snippet: It was a Roman Forum during the early years of the Christian era, an Episcopal Palace after Portugal was established and a Museum after the founding of the Portuguese Republic. The name chosen for this Museum was a deserved tribute to Joaquim Machado de Castro, an important Portuguese sculptor who was originally from Coimbra.
+title: Museu Nacional de Machado de Castro (Coimbra) - ATUALIZADO ...
+snippet: Recomendamos que reserve as excursões em Museu Nacional de Machado de Castro atempadamente para garantir o seu lugar. Se reservar com o Tripadvisor, pode cancelar até 24 horas antes do início da excursão para receber um reembolso total. Veja as 3 excursões de Museu Nacional de Machado de Castro no Tripadvisor
+title: Museu Nacional de Machado de Castro - Home | Facebook
+snippet: Museu Nacional de Machado de Castro - Largo Dr. José Rodrigues, 3000-236 Coimbra, Portugal - Rated 4.7 based on 63 Reviews &quot;Simply one of the best...
+title: Museo Nacional Machado de Castro, Coímbra
+snippet: El Museo Nacional Machado de Castro se encuentra albergado en el antiguo palacio episcopal de Coímbra.Cuenta con una logia del siglo XVI que da a la Sé Velha (Catedral Vieja de Coímbra) y al barrio antiguo.Este museo de arte conserva una de las colecciones de esculturas de los siglos XIV al XVI más importantes de Portugal.
+
+REL: 1
+POI Name: Casa-Museu Medeiros e Almeida
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Home - Casa-Museu Medeiros e Almeida
+snippet: A Casa-Museu Medeiros e Almeida abriga um importante acervo de artes decorativas portuguesas e estrangeiras, que inclui núcleos de Relógios, Porcelanas da China, Pintura, Mobiliário, Ourivesaria, Joalharia, Arte Sacra, Escultura e Têxteis, num total de cerca nove mil obras de arte.
+title: Casa Museu Medeiros e Almeida - Home | Facebook
+snippet: Casa Museu Medeiros e Almeida - Rua Rosa Araújo, 41, 1250-194 Lisbon, Portugal - Rated 4.9 based on 79 Reviews &quot;A gem in the middle of the city! Highly...
+title: Museu Medeiros de Almeida (Lisboa) - ATUALIZADO 2020 O que ...
+snippet: Medeiros de Almeida foi um empresário português que se destacou com a importação de carros ingleses, na aviação e na indústria da cana de açúcar. O seu sucesso e gosto pela arte faz com que no período pós 2 guerra mundial ele adquira peças de grande valor. Transforma a sua casa …
+title: Medeiros e Almeida Museum (Lisbon) - 2020 All You Need to ...
+snippet: Hotels near Medeiros e Almeida Museum: (0.19 mi) Britania Hotel, a Lisbon Heritage Collection (0.22 mi) Lisboa Central Hostel (0.04 mi) Vincci Liberdade (0.16 mi) PortoBay Marques (0.23 mi) Inspira Santa Marta Hotel; View all hotels near Medeiros e Almeida Museum on Tripadvisor
+title: Casa-Museu Medeiros e Almeida - Lisbon Lux
+snippet: Casa-Museu Medeiros e Almeida. I f you enjoy private residences that were turned into museums, such as New York&#39;s Frick Collection or London&#39;s Wallace Collection, you&#39;ll want to visit Lisbon&#39;s Medeiros e Almeida Museum. It&#39;s housed in a late-1800s mansion where António de Medeiros e Almeida ...
+title: Casa Museu Medeiros e Almeida - Posts | Facebook
+snippet: Casa Museu Medeiros e Almeida - Rua Rosa Araújo, 41, 1250-194 Lisbon, Portugal - Rated 4.8 based on 82 Reviews &quot;A must-see in Lisbon!!! One of the most...
+title: Casa-Museu - Casa-Museu Medeiros e Almeida
+snippet: No início da década de setenta, ao decidir deixar uma Casa-Museu ao seu País, Medeiros e Almeida amplia a casa destruindo para isso o jardim, de modo a poder albergar toda a sua coleção de artes decorativas. O casal muda-se então para uma casa ao lado que entretanto adquire e onde habita até ao fim da vida.
+title: Casa-Museu Medeiros e Almeida | PortugalVisitor - Travel ...
+snippet: Casa-Museu Medeiros e Almeida, Lisbon. The original mansion is kept very much as it was when inhabited by Medeiros e Almeida and his family, including Medeiros e Almeida&#39;s fitness machines in the bathroom. The dining room is set as it was for a celebrated dinner with fado diva Amália Rodrigues.
+title: Casa-Museu Medeiros e Almeida - Picture of Medeiros e ...
+snippet: Medeiros e Almeida Museum, Lisbon Picture: Casa-Museu Medeiros e Almeida - Check out Tripadvisor members&#39; 50,023 candid photos and videos of Medeiros e Almeida Museum
+title: Casa Museu Medeiros e Almeida - Picture of Medeiros e ...
+snippet: Medeiros e Almeida Museum, Lisbon Picture: Casa Museu Medeiros e Almeida - Check out Tripadvisor members&#39; 50,060 candid photos and videos of Medeiros e Almeida Museum. Lisbon. Lisbon Tourism Lisbon Hotels Lisbon Bed and Breakfast Lisbon Vacation Rentals Lisbon Vacation Packages
+
+REL: 1
+POI Name: Museu da Marioneta
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu da Marioneta
+snippet: Há um museu em Lisboa a contar histórias. Museu da Marioneta, um mundo de histórias. Um museu ao serviço de todos os públicos, de todas as idades, que apoia e promove este campo específico da arte e do teatro, a sua história e o seu carácter inovador e contemporâneo.
+title: Museu da Marioneta (Lisbon) - 2020 All You Need to Know ...
+snippet: Hotels near Museu da Marioneta: (0.12 mi) Lisbon Cheese &amp; Wine Suites (0.13 mi) Lisbon Check-In (0.10 mi) The Saints Suites (0.12 mi) City Lofts Lisbon (0.19 mi) A Boemia; View all hotels near Museu da Marioneta on Tripadvisor
+title: Museum – Museu da Marioneta
+snippet: In November 2001 Museu da Marioneta relocated at the Convento das Bernardas. It is the first and only Portuguese museum solely dedicated to the interpretation and dissemination of the history of puppets and puppet theatres, featuring the history of this utmost fascinating art throughout the world, t
+title: Museu da Marioneta (Lisboa) - ATUALIZADO 2020 O que saber ...
+snippet: Hotéis perto de Museu da Marioneta: (0.19 km) Lisbon Cheese &amp; Wine Suites (0.21 km) Lisbon Check-In (0.16 km) The Saints Suites (0.19 km) City Lofts Lisbon (0.31 km) A Boemia; Veja todos os hotéis perto de Museu da Marioneta no Tripadvisor
+title: Museu da Marioneta (Lisboa, Portugal) - Anmeldelser
+snippet: Museu da Marioneta, Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Museu da Marioneta i Lisboa, Portugal på Tripadvisor.
+title: Informações Úteis – Museu da Marioneta
+snippet: O Museu está encerrado às segundas-feiras, e nos dias 1 de Janeiro, 1 de Maio, 24 , 25 e 31 de Dezembro . Localização e Acessos. Museu da Marioneta Convento das Bernardas, 146 Lisboa Coordenadas GPS: Latitude = 38.707917, Longitude = -9.156117
+title: O Museu – Museu da Marioneta
+snippet: Há um museu em Lisboa a contar histórias. Museu da Marioneta, um mundo de histórias. Um museu ao serviço de todos os públicos, de todas as idades, que apoia e promove este campo específico da arte e do teatro, a sua história e o seu carácter inovador e contemporâneo.
+title: THE 10 BEST Restaurants Near Museu da Marioneta in Lisbon ...
+snippet: Restaurants near Museu da Marioneta, Lisbon on Tripadvisor: Find traveler reviews and candid photos of dining near Museu da Marioneta in Lisbon, Portugal.
+title: Museu da Marioneta (Lisbon) - 2020 All You Need to Know ...
+snippet: Lisbon Tourism; Lisbon Hotels; Lisbon Bed and Breakfast; Lisbon Vacation Rentals; Lisbon Vacation Packages; Flights to Lisbon; Lisbon Restaurants; Things to Do in Lisbon
+title: Museu da Marioneta - Wikipedia
+snippet: The Museu da Marioneta (Museum of Puppetry) has been located since November 2001 in the Convent of Bernardas in Lisbon, Portugal, establishing itself as the first museum in Portugal entirely dedicated to the interpretation and dissemination of the history of puppetry, covering the history of this art form across the world, presenting the different types of puppets and the different approaches ...
+
+REL: 1
+POI Name: Museu de Marinha
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu de Marinha
+snippet: Museu de Marinha. 11. MAR. Encerrado | Covid-19. Museu de Marinha. 07. MAR. 7 março 1808 | Chegada da Família Real ao Brasil. Museu de Marinha Atividades. no Museu. Saber mais MANTENHA O CONTACTO CONNOSCO. MUSEU DE MARINHA +351 21 097 7388; geral.museu@marinha.pt; Redes Sociais. Sobre Nós. O Museu; Horários; Serviços ...
+title: Museu de Marinha, Lisbon - Tripadvisor
+snippet: We recommend booking Museu de Marinha tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 7 Museu de Marinha tours on Tripadvisor
+title: Museu de Marinha (Lisboa, Portugal) - Anmeldelser
+snippet: Museu de Marinha, Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Museu de Marinha i Lisboa, Portugal på Tripadvisor.
+title: MARITIME MUSEUM (Museu de Marinha), Lisbon
+snippet: T he interesting Maritime Museum (often also referred to as the &quot;Navy Museum&quot;) is one of the most important in Europe, evoking Portugal&#39;s domination of the seas. Its colossal 17,000 items are installed in the west wing of Jeronimos Monastery, and include model ships from the Age of Discovery onward. The oldest exhibit is a wooden figure representing the Archangel Raphael that accompa
+title: Museu de Marinha, Lisbon - Tripadvisor
+snippet: Things to Do in Lisbon ; Museu de Marinha; Search. Museu de Marinha. 1,193 Reviews #59 of 704 things to do in Lisbon. Museums, History Museums, Military Museums. Museu de Marinha. 1,193 Reviews #59 of 704 things to do in Lisbon. Museums, History Museums, Military Museums. Plan your visit. The Portuguese Colonial Empire. $269.84 per adult. Quick ...
+title: Museu de Marinha, Lisbon - Tripadvisor
+snippet: Book your tickets online for Museu de Marinha, Lisbon: See 1,188 reviews, articles, and 1,223 photos of Museu de Marinha, ranked No.59 on Tripadvisor among 701 attractions in Lisbon.
+title: The Museu de Marinha, Lisbon - model ships
+snippet: The Museu de Marinha, Lisbon . The maritime museum of Lisbon is located in a wing of the Jeronimos Monastry, close to the Belem Tower. It is a major tourist attraction. It holds a large and fine collection of items focusing on the age of discovery (16th century maps, astrolabes, paintings, ship models) and ceremonial barges.
+title: Navy Museum (Portugal) - Wikipedia
+snippet: The Navy Museum (Portuguese: Museu de Marinha) is a maritime museum in Lisbon, dedicated to all aspects of the history of navigation in Portugal.The museum is administered by the Portuguese Navy and is located in the tourist district of Belém.It occupies a part of the neo-Manueline Western wing of the Jerónimos Monastery with the National Museum of Archaeology, as well as a modern annex ...
+title: Museu de Marinha - Lissabon - Bewertungen und Fotos
+snippet: Wir empfehlen Ihnen, Touren für Museu de Marinha frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 7 Touren für Museu de Marinha auf Tripadvisor an.
+title: Museu de Marinha, Lisbon - Tripadvisor
+snippet: Things to do in Lisbon ; Museu de Marinha; Search. Museu de Marinha. 1,193 Reviews #59 of 704 things to do in Lisbon. Museums, History Museums, Military Museums. Museu de Marinha. 1,193 Reviews #59 of 704 things to do in Lisbon. Museums, History Museums, Military Museums. Plan your visit. The Portuguese Colonial Empire. US$265.22 per adult.
+
+REL: 1
+POI Name: Museu Coleção Berardo
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Berardo - Belém, Lisboa / Lisbon
+snippet: The Most Visited Museum in Portugal (The Art Newspaper, april 2019).Located in Belém, Lisbon, the Museu Coleção Berardo is the main Modern and Contemporary Art Museum in the country. Open every day, from 10 a.m. to 7 p.m. (last entrance: 6:30 p.m.) Admission Ticket (adult): 5€, discounts available (check Tickets). Free admission on Saturdays, all day.
+title: Museu Colecao Berardo (Lisbon) - 2020 All You Need to Know ...
+snippet: Museu Coleção Berardo can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 3 Museu Coleção Berardo tickets and tours on Tripadvisor
+title: Museu Coleção Berardo - Formulário de pesquisa
+snippet: O Museu Mais Visitado em Portugal, segundo dados do The Art Newspaper (abril 2019). Localizado em Belém, Lisboa, o Museu Coleção Berardo é o principal Museu de Arte Moderna e Contemporânea do país. Aberto todos os dias, das 10h00 às 19h00 (última entrada: 18h30)
+title: Current exhibitions | Museu Berardo - Museu Coleção Berardo
+snippet: The Museu Coleção Berardo presents the most significant artistic movements from the twentieth century to the present day, establishing its position as the main museum for modern and contemporary art in Portugal.
+title: Restaurants Near Museu Colecao Berardo, Lisbon, Portugal
+snippet: Restaurants near Museu Colecao Berardo, Lisbon on Tripadvisor: Find traveler reviews and candid photos of dining near Museu Colecao Berardo in Lisbon, Portugal.
+title: Berardo Collection Museum - Wikipedia
+snippet: History. In 2006, after 10 years of negotiations, José Berardo signed an agreement with the Portuguese government to loan art from his collection on a long-term basis to the Centro Cultural de Belém in Lisbon. Under the partnership agreement the Portuguese state incurs the costs of displaying Berardo’s collection. The art holdings themselves are owned and managed by a company known as the ...
+title: Museu Coleção Berardo, Lisboa / Lisbon, Portugal — Google ...
+snippet: The Museu Coleção Berardo presents the most significant artistic movements from the twentieth century to the present day. In this museum, it is possible to find works by artists from the most diverse cultural contexts and with the most varied forms of expression, all of whom would come to make up the art history of the last century.
+title: The Berardo Collection
+snippet: Online exhibition of modern art, traditional Portuguese ceramic tiles, early 20th century advertising art, African sculptures and minerals.
+title: Bilheteira - Museu Coleção Berardo
+snippet: AVISO | COVID-19: O Museu Coleção Berardo está temporiamente encerrado ao público, em articulação com as orientações da DGS relativas ao COVID-19 e devido ao estado de emergência em vigor no país. Mais informação aqui.. O Servico Educativo está a preparar um conjunto de atividades online, para crianças, jovens, famílias e adultos.
+title: Berardo Museum for moderne kunst og samtidskunst (Lisboa ...
+snippet: Berardo Museum for moderne kunst og samtidskunst kan være fullpakket, så vi anbefaler å bestille e-billetter på forhånd for å sikre deg en plass. Hvis du bestiller med Tripadvisor, kan du avbestille minst 24 timer før startdagen for turen for å få full refusjon.
+
+REL: 1
+POI Name: Museu Arqueológico do Carmo
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Arqueológico do Carmo
+snippet: O Museu Arqueológico do Carmo instalado nas Ruínas do Carmo integra peças de valor histórico, arqueológico e artístico, numa cronologia ampla que contempla artefactos e obras desde a Pré-História à época contemporânea. Fale connosco . Fale connosco, enviando-nos os seus comentários.
+title: Museu Arqueológico do Carmo
+snippet: The Carmo Archaeological Museum offers free guided tours in Portuguese, English, French, Italian and Spanish to its visitors (upon purchasing a ticket).The tour takes approximately 30 minutes. If you are interested, ask at the ticket office when the next guided tour will take place. The museum offers free wi-fi for visitors.
+title: Carmo Archaeological Museum, Lisbon - Tripadvisor
+snippet: We recommend booking Carmo Archaeological Museum tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 18 Carmo Archaeological Museum tours on Tripadvisor
+title: Museu Arqueológico do Carmo (Lisboa) - Tripadvisor
+snippet: Recomendamos que reserve as excursões em Museu Arqueológico do Carmo atempadamente para garantir o seu lugar. Se reservar com o Tripadvisor, pode cancelar até 24 horas antes do início da excursão para receber um reembolso total. Veja as 18 excursões de Museu Arqueológico do Carmo no Tripadvisor
+title: Museu Arqueológico do Carmo
+snippet: O Museu Arqueológico do Carmo disponibiliza a todos os seus visitantes visitas guiadas gratuitas (mediante a aquisição do bilhete ao museu) em Português, Espanhol, Francês, Inglês e Italiano. As visitas têm a duração aproximada de 30 minutos. Informe-se na bilheiteira se há alguma visita prevista quando visita. Serviços
+title: Carmo Convent - Wikipedia
+snippet: Nowadays the ruined Carmo Church is used as an archaeological museum (the Museu Arqueológico do Carmo or Carmo Archaeological Museum). [ citation needed ] The nave and apse of the Carmo Church are the setting for a small archaeological museum, with pieces from all periods of Portuguese history.
+title: Museu Arqueológico do Carmo - Posts | Facebook
+snippet: A Associação dos Arqueólogos Portugueses informa que o Museu Arqueológico do Carmo encerrará a partir do dia 16 de Março de 2020. Esta medida preventiva foi tomada no seguimento da aplicação do plano de contingência delineado pela AAP e na sequência das orientações da Direcção-Geral de Saúde, face à Pandemia de COVID-19.
+title: CONVENTO DO CARMO, Lisboa | Museu Arqueológico do Carmo
+snippet: A s ruínas do Convento do Carmo são das imagens mais belas e comoventes de Lisboa. São um monumento à devastação causada pelo terramoto de 1755, apesar de a sua arquitetura gótica datar do século XIV. No antigo altar (que mantém a antiga cobertura) encontra-se agora um museu arqueológico com uma coleção eclética de pequenos tesouros, como umas misteriosas múmias da América do Sul.
+title: Museu Arqueológico do Carmo - Reviews | Facebook
+snippet: Museu Arqueológico do Carmo - Largo do Carmo, 1200-092 Lisbon, Portugal - Rated 4.9 based on 59 Reviews &quot;This place is just stunning! The best emotion is...
+title: Serviço Educativo Museu Arqueológico do Carmo - Home ...
+snippet: Serviço Educativo Museu Arqueológico do Carmo, Lisboa (Lisbon, Portugal). 1.2K likes. Serviço Educativo do Museu Arqueológico do Carmo
+
+REL: 1
+POI Name: Sociedade de Geografia de Lisboa
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Music Venues, Landmarks & Historical Buildings, 
+Snippets:
+title: Sociedade de Geografia de Lisboa | (English) Apenas mais ...
+snippet: Mensagem. Dentro das paredes da Sociedade de Geografia de Lisboa (SGL) guarda-se, ao lado do património imaterial das ideias de Luciano Cordeiro e de Ernesto de Vasconcelos, seus primeiros secretários gerais e dos vários presidentes de Antonio Augusto de Aguiar, a Bernardino Machado ou de Adriano Moreira a Sousa Leitão que a dirigiram firme e sabiamente, um riquíssimo espólio material ...
+title: Contactos | Sociedade de Geografia de Lisboa
+snippet: Veja a Sociedade Geografia de Lisboa num mapa maior. Rua das Portas de Santo Antão, 100 1150-269 Lisboa, Portugal Telefone Geral+351 213425401 – 935425401. Biblioteca: 210434035 – 210434036 – biblioteca@socgeografialisboa.mail.pt
+title: Sociedade de Geografia de Lisboa (SGL) - ATUALIZADO 2020 O ...
+snippet: Hotéis perto de Sociedade de Geografia de Lisboa (SGL): (0.19 km) Hotel Avenida Palace (0.19 km) O Artista Boutique Suites (0.20 km) Heritage Avenida Liberdade, a Lisbon Heritage Collection (0.13 km) Goodmorning Solo Traveller Hostel (0.06 km) Lisbon Wine Hotel; Veja todos os hotéis perto de Sociedade de Geografia de Lisboa (SGL) no Tripadvisor
+title: Sociedade de Geografia de Lisboa (SGL) (Lisbon) - 2020 All ...
+snippet: Hotels near Sociedade de Geografia de Lisboa (SGL): (0.12 mi) Hotel Avenida Palace (0.13 mi) Heritage Avenida Liberdade, a Lisbon Heritage Collection (0.12 mi) O Artista Boutique Suites (0.08 mi) Goodmorning Solo Traveller Hostel (0.04 mi) Lisbon Wine Hotel; View all hotels near Sociedade de Geografia de Lisboa (SGL) on Tripadvisor
+title: Sociedade de Geografia de Lisboa - Lisbon, Portugal ...
+snippet: ‎ منى حوا ‎ is at Sociedade de Geografia de Lisboa. February 5 · Lisbon, Portugal · في مكان زرته في لشبونة وتقريبًا كان من أكثر الأماكن التي تركت وهج غريب وتأثير بالغ على نفسي.
+title: Sociedade de Geografia de Lisboa (SGL) (Portugal ...
+snippet: Sociedade de Geografia de Lisboa (SGL), Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Sociedade de Geografia de Lisboa (SGL) i Lisboa, Portugal på Tripadvisor.
+title: Sociedade de Geografia de Lisboa (SGL) (Lisbon) - 2020 All ...
+snippet: Hotels near Sociedade de Geografia de Lisboa (SGL): (0.19 km) Hotel Avenida Palace (0.19 km) O Artista Boutique Suites (0.20 km) Heritage Avenida Liberdade, a Lisbon Heritage Collection (0.13 km) Goodmorning Solo Traveller Hostel (0.06 km) Lisbon Wine Hotel; View all hotels near Sociedade de Geografia de Lisboa (SGL) on Tripadvisor
+title: Lisbon Geographic Society - Wikipedia
+snippet: The Lisbon Geographic Society (Portuguese: Sociedade de Geografia de Lisboa) is a Portuguese scientific society created in Lisbon in the year of 1875, aiming to &quot;promote and assist the study and progress of geography and related sciences in Portugal.&quot;. The Society was created in the context of the European movement of exploration and colonization, having its activity particular emphasis
+title: Sociedade de Geografia de Lisboa – Wikipédia, a ...
+snippet: A 10 de Novembro de 1875, um grupo de 74 subscritores requereu ao rei D. Luís, a criação de uma sociedade, a designar por Real Sociedade de Geografia de Lisboa, tendo como objectivo promover e auxiliar o estudo e progresso das ciências geográficas e correlativas, no país.
+title: Sight MUSEU DA SOCIEDADE DE GEOGRAFIA DE LISBOA in Lisbon,
+snippet: sights, Lisbon, , MUSEU DA SOCIEDADE DE GEOGRAFIA DE LISBOA, museums, topranking, best sights, luxury, museums, visit, europe
+
+REL: 1
+POI Name: Museo Nacional del Prado
+POI City: Madrid
+POI Country: ES
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museo Nacional del Prado
+snippet: A través de una selección de obras destacadas de su colección, el Museo del Prado y RNE le invitan a un fascinante recorrido por la mitología clásica. Marta Pérez Reinoso y Fernando Pérez Suescun, Jefe de Contenidos Didácticos de Educación del Museo Nacional del Prado, comentan 40 mitos de la colección del Museo.
+title: Collection - Museo Nacional del Prado
+snippet: Welcome to the Museo del Prado, an institution dating back almost 200 years and one whose origins and unique nature are largely due to the collecting tastes of Spain’s 16th- and 17th-century monarchs. Collecting at that period differed from the present day.
+title: Museo del Prado - Wikipedia
+snippet: The Prado Museum (/ ˈ p r ɑː d oʊ / PRAH-doh; Spanish: Museo del Prado [muˈseo ðel ˈpɾaðo]), officially known as Museo Nacional del Prado, is the main Spanish national art museum, located in central Madrid.It is widely considered to have one of the world&#39;s finest collections of European art, dating from the 12th century to the early 20th century, based on the former Spanish Royal ...
+title: Explore the collection - Museo Nacional del Prado
+snippet: Check out the 5788 Explore the collection of Museo Nacional del Prado
+title: Museo del Prado - Wikipedia, la enciclopedia libre
+snippet: El Museo Nacional del Prado, en Madrid, España, es uno de los más importantes del mundo, [5] [6] así como uno de los más visitados (el decimoctavo en 2013 entre los museos de arte). [7] Singularmente rico en cuadros de maestros europeos de los siglos XVI al XIX, según el historiador del arte e hispanista Jonathan Brown «pocos se atreverían a poner en duda que es el museo más importante ...
+title: Explora la colección - Museo Nacional del Prado
+snippet: Consulta los 18418 Explora la colección de Museo Nacional del Prado. RDF. El ... MUSEO NACIONAL DEL PRADO. Calle Ruiz de Alarcón 23. 28014 Madrid. 913 30 28 00. Museo Nacional del Prado. Con el apoyo de: Abierto. De lunes a sábado de 10.00 a 20.00 h. Domingos y festivos de 10.00 a 19.00 h.
+title: The 3rd of May 1808 in Madrid, or “The Executions” - The ...
+snippet: Along with its companion, The 2nd of May 1808 in Madrid: the charge of the Mamelukes , this ... Maurer, G. y otros: Goya en tiempos de guerra, Museo Nacional del Prado, Madrid:, 2008, pp. 353-369, n. 124. Andioc, R., En torno a los cuadros del Dos y Tres de Mayo en Goya, letra y figuras, Casa de Velázquez, Madrid, 2008, pp. 3-37.
+title: Learn - Museo Nacional del Prado
+snippet: MUSEO NACIONAL DEL PRADO. Calle Ruiz de Alarcón 23. 28014 Madrid. 913 30 28 00. Museo Nacional del Prado. Supported by: Opening hours. Monday to Saturday from 10 a.m. to 8 p.m. Sundays and holidays from 10 a.m. to 7 p.m. Closed. ... Museo Nacional del Prado. Calle Ruiz de Alarcón 23.
+title: Museo Nacional del Prado (@museoprado) Instagram profile ...
+snippet: 695.3k Followers, 161 Following, 626 Posts - See Instagram photos and videos from Museo Nacional del Prado (@museoprado)
+title: Museo Nacional del Prado - YouTube
+snippet: La colección del Museo del Prado ha influido en el arte contemporáneo y las obras de artistas como Picasso, Francis Bacon, Richard Hamilton, Cy Twombly, Alberto Schommer, Thomas Struth o Cai Guo ...
+
+REL: 1
+POI Name: Museu Nacional de Arqueologia do Dr. Leite de Vasconcelos
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Nacional de Arqueologia
+snippet: imprensa nacional associa museu nacional de arqueologia... A Imprensa Nacional, a Editora do Estado, criou mais um projecto de verdadeiro serviço público, que ganha especial... Para saber mais
+title: National Archaeology Museum, Portugal - Wikipedia
+snippet: The National Museum of Archaeology (Portuguese: Museu Nacional de Arqueologia) is the largest archaeological museum in Portugal and one of the most important museums devoted to ancient art found in the Iberian Peninsula. Located in Lisbon, the museum was founded in 1893 by the archaeologist José Leite de Vasconcelos.
+title: Archaeology Museum - Hours, prices and how to get ... - Lisbon
+snippet: The National Archaeology Museum (Museu Nacional de Arqueologia) of Lisbon contains the most impressive archaeological collection in Portugal. The Museum is housed in the building adjacent to Jerónimos Monastery, in the district of Belém.. It was founded in 1893 by the renowned archaeologist José Leite de Vasconcelos and features artefacts that date from the Palaeolithic to the Middle Ages.
+title: Museu Nacional de Arqueologia - Updated for 2020! | Lisbon ...
+snippet: T he Museu Nacional de Arqueologia (National Archaeology Museum) is located in Belém district and was founded in 1893 by the Portuguese archaeologist José Leite de Vasconcelos. It is housed in the western wing of the remarkable Jerónimos Monastery, where the monks had their dormitory, and it has one of the largest archeological records found in the Iberian Peninsula.
+title: National Archaeology Museum of Lisbon (Lisbon) - Reviews ...
+snippet: The Museu Nacional de Arqueologia (National Archaeology Museum of Portugal) is a museum in Lisbon. The museum is housed in the World Heritage Site, the Mosteiro dos Jerónimos in Belém, one of the most important buildings in Portugal, built in the Manueline style.
+title: Museu Nacional de Arqueologia | Art in Belém, Lisbon
+snippet: The museum was established in 1893 by Dr. José Leite de Vasconcelos. ... Change city Lisbon (en) Português English Español. Popular cities ... Near Museu Nacional de Arqueologia.
+title: História - Museu Nacional de Arqueologia
+snippet: O Museu Nacional de Arqueologia. Instituição centenária, o atual Museu Nacional de Arqueologia (MNA) foi fundado, em Dezembro de 1893, por proposta de Leite de Vasconcelos (e daí a designação oficial mais completa do Museu, conforme publicação em 1989, no “Diário da República”: Museu Nacional de Arqueologia, do Doutor Leite de Vasconcelos).
+title: National Archaeology Museum of Lisbon (Lissabon ...
+snippet: National Archaeology Museum of Lisbon is een museum in Lissabon in Portugal. Alternatieve naam: pt Museu Nacional de Arqueologia do Dr. Leite de Vasconcelos
+title: Museu Nacional de Arqueologia - Arqueologia portuguesa em ...
+snippet: O Museu Nacional de Arqueologia de Lisboa contém a coleção arqueológica mais importante de Portugal.O museu está localizado no edifício contíguo ao Mosteiro dos Jerônimos.. O museu foi fundado em 1893 por José Leite de Vasconcelos e tem objetos que vão desde o Paleolítico até a Idade Média.No início, seu nome era Museu Etnográfico Português.
+title: Museu Nacional de Arqueologia - About | Facebook
+snippet: Museu Nacional de Arqueologia, Lisboa, Portugal. 15K likes. O actual Museu Nacional de Arqueologia (MNA) foi fundado em 1893 pelo Doutor José Leite de Vasconcelos. Abriu ao público em 1906, no...
+
+REL: 1
+POI Name: Museu Do Ar
+POI City: Vila Franca de Xira
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Palácio Nacional de Mafra
+POI City: Mafra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Landmarks & Historical Buildings, 
+Snippets:
+
+
+REL: 1
+POI Name: Museu Nacional da Música
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Nacional da Música
+snippet: 18-11-2015 A Associação de Amigos do Museu Nacional da Música (AAMNM) desenvolveu um formulário online para inscrição de novos sócios.Se ainda não é sócio da Associação, mas deseja ajudar o Museu e beneficiar das vantagens associadas, então faça a sua inscrição na AAMNM.
+title: Museu Nacional da Música | Museu da Música
+snippet: Museu Nacional da Música Estação do Metropolitano Alto dos Moinhos Rua João de Freitas Branco Lisboa 1500-359 Portugal + 351 21 771 09 90 - 8 +...
+title: National Music Museum, Lisboa, Portugal — Google Arts ...
+snippet: National Music Museum Lisboa, Portugal The Museu Nacional da Música houses one of Europe’s richest collections of musical instruments, some of them classified as Portuguese National Treasures, such as the Stradivarius cello – King of Portugal, the Antunes harpsichord or the Pascal Taskin harpsichord.
+title: Museu Nacional da Música - Home | Facebook
+snippet: Museu Nacional da Música - Estação do Metropolitano Alto dos Moinhos - Rua João de Freitas Branco, 1500 Lisbon, Portugal - Rated 4.9 based on 22 Reviews...
+title: Museu Nacional da Música - Events | Facebook
+snippet: Museu Nacional da Música - Estação do Metropolitano Alto dos Moinhos - Rua João de Freitas Branco, 1500 Lisbon, Portugal - Rated 4.9 based on 24 Reviews...
+title: Museu Nacional da Música - Wikipedia
+snippet: The Museu da Música (Museum of Music) is a museum in Lisbon, Portugal. The museum primarily features musical instruments; among its holdings is a 1725 Stradivarius cello once owned and played by King Luís I of Portugal (ruled 1861-1889.
+title: Museu Nacional da Música | Visit Lisboa
+snippet: Localizado numa estação do Metropolitano de Lisboa, o Museu Nacional da Música possui uma das mais ricas coleções de instrumentos musicais da Europa, alguns deles classificados como Tesouros Nacionais, como é o caso do Violoncelo Stradivarius Chevillard - Rei de Portugal, do Cravo Antunes, ou do Cravo de Pascal Taskin.
+title: Museu Nacional da Música - Topic - YouTube
+snippet: The Museu da Música is a museum in Lisbon, Portugal. The museum primarily features musical instruments; among its holdings is a 1725 Stradivarius cello once ...
+title: Museu da Musica (Lisbon) - 2020 All You Need to Know ...
+snippet: Hotels near Museu da Musica: (0.84 mi) Corinthia Lisbon (0.51 mi) Upon Lisbon Prime Residences (0.91 mi) Mercure Lisboa (0.75 mi) Lisbon Marriott Hotel (0.99 mi) SANA Metropolitan Hotel; View all hotels near Museu da Musica on Tripadvisor
+title: Museu da Musica (Lisbon) - Reviews &amp; Visitor Information ...
+snippet: The Museu da Música (Museum of Music) is a museum in Lisbon that exhibits musical instruments. A highlight in the collection of the Museu da Musica is the 1725 Stradivarius cello once owned and played by King Luís I of Portugal who ruled from 1861 to 1889.
+
+REL: 1
+POI Name: Espaço Natural
+POI City: Lisbon
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Pharmacy, Weight Loss Centers, Health Markets, 
+Snippets:
+title: Espaço Natural - Home | Facebook
+snippet: Espaço Natural - Rua das Laranjeiras nº 2 A, 1600-141 Lisbon, Portugal - Rated 5 based on 1 Review &quot;Depois de um fim de semana bom para a praiá,esperamos...
+title: Espaço Natural, Rua das Laranjeiras nº 2 A, Lisbon (2020)
+snippet: Informações para nos contactar, mapa e direções, formulário para nos contactar, horário de funcionamento, serviços, classificações, fotos, vídeos e anúncios de Espaço Natural, Serviço médico, Rua das Laranjeiras nº 2 A, Lisbon.
+title: Espaço Bio-Natural - Linda-A-Velha, Lisboa, Portugal ...
+snippet: Espaço Bio-Natural, Linda-A-Velha, Lisboa, Portugal. 607 likes. Saúde e Bem-Estar Aulas On-line Fisiologista do Exercício - PT Pilates Clínico Yoga Aromaterapia &quot;doTerra&quot; Massagens Terapêuticas
+title: THE 10 BEST Parks &amp; Nature Attractions in Lisbon - Tripadvisor
+snippet: Top Lisbon Parks &amp; Nature Attractions: See reviews and photos of parks, gardens &amp; other nature attractions in Lisbon, Portugal on Tripadvisor.
+title: Espaco Lisboa, Lisbon - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Espaco Lisboa, Lisbon: See 78 unbiased reviews of Espaco Lisboa, rated 4 of 5 on Tripadvisor and ranked #2,171 of 5,018 restaurants in Lisbon.
+title: Espaço Exibicionista - Lisbon, Portugal | Facebook
+snippet: Espaço Exibicionista, Lisbon, Portugal. 20 k liker dette. Galeria do Espaço Exibicionista é um lugar único que procura divulgar e comercializar arte e peças de joalharia de diferentes marcas e designers.
+title: Mob - Espaco Cultural (Lisboa, Portugal) - Anmeldelser
+snippet: Mob - Espaco Cultural, Lisboa: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Mob - Espaco Cultural i Lisboa, Portugal på Tripadvisor.
+title: DE 10 BESTE ting å gjøre i Lisboa - Tripadvisor
+snippet: Bike Tours Lisbon - sentrum av Lisboa til Belém. 125 anmeldelser. USD 10,67 per voksen. Kulturreiser. Lisboa: 1-timers bytur på en privat tuk. 178 anmeldelser. USD 31,42 per voksen. Privatturer. Private 90 minutter Lisboa Kickstart Tour. 220 anmeldelser. USD 22,24 per voksen. Se alle. Vannsport.
+title: Instituto de Astrofísica e Ciências do Espaço
+snippet: A team from Instituto de Astrofísica e Ciências do Espaço (IA) found evidence which suggests this type of exoplanet, apparently with very low densities, might be similar to Uranus, with rings more than 2.5 times the size of the planet.
+title: Lisboa OFFICIAL Site | Visit Lisboa
+snippet: When visiting Lisbon, discover this Natural History and Science Museum with a garden, amphitheatre, chemical laboratory, observatory and an old riding school. São Roque Museum. São Roque Museum is one of the most beautiful and complete museums of Portuguese religious art.
+
+REL: 1
+POI Name: Restaurante Alcobaça
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Portuguese, 
+Snippets:
+title: Restaurante Alcobaca, Sintra - Restaurant Reviews, Photos ...
+snippet: Restaurante Alcobaca, Sintra: See 435 unbiased reviews of Restaurante Alcobaca, rated 3 of 5 on Tripadvisor and ranked #247 of 298 restaurants in Sintra.
+title: RESTAURANTE ARCOBAÇA, Sintra - Comentários de restaurantes ...
+snippet: Restaurante Arcobaça, Sintra: Veja 435 dicas e avaliações imparciais de Restaurante Arcobaça, com classificação Nº 3 de 5 no Tripadvisor e classificado como Nº 247 de 298 restaurantes em Sintra.
+title: Restaurante Alcobaca, Sintra - Restaurantanmeldelser ...
+snippet: Restaurante Alcobaca, Sintra: Se 435 objektive anmeldelser av Restaurante Alcobaca, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 247 av 298 restauranter i Sintra.
+title: Restaurants Near Restaurante Alcobaca, Sintra, Portugal
+snippet: Restaurants near Restaurante Alcobaca, Sintra on Tripadvisor: Find traveler reviews and candid photos of dining near Restaurante Alcobaca in Sintra, Portugal.
+title: Restaurante Alcobaça - Sintra, Portugal
+snippet: 9 reviews of Restaurante Alcobaça &quot;It was an okay place. I just had the clams appetizer which was actually pretty good considering it didn&#39;t have butter. My friends got the spaghetti which wasn&#39;t good and the fish soup, which was very good. There…
+title: RESTAURANTE ALCOBACA, Sintra - Updated 2020 Restaurant ...
+snippet: Restaurante Alcobaca, Sintra: See 435 unbiased reviews of Restaurante Alcobaca, rated 3 of 5 on Tripadvisor and ranked #247 of 298 restaurants in Sintra.
+title: Alcobaça Menu, Menu de Alcobaça, Sintra Centro, Lisboa ...
+snippet: Menu Alcobaça Sintra Centro - Encontra o menu e preços de refeições, bebidas, take-away e entregas de Alcobaça Lisboa na Zomato. . Alcobaça Menu. ... restaurante alcobaça, restaurante alcobaca sintra, alcobaça, restaurant alcobaca sintra menu, zomato alcobaça. Português (PT)
+title: RESTAURANTE ALCOBACA, Sintra - Ristorante Recensioni ...
+snippet: Restaurante Alcobaca, Sintra: su Tripadvisor trovi 435 recensioni imparziali su Restaurante Alcobaca, con punteggio 3 su 5 e al n.247 su 298 ristoranti a Sintra.
+title: Restaurante Alcobaça - Sintra, Portugal - Portuguese ...
+snippet: Restaurante Alcobaça, Sintra, Portugal. 73 likes · 616 were here. Portuguese Restaurant
+title: Restaurante Alcobaca, Sintra - Restaurant Bewertungen ...
+snippet: Restaurante Alcobaca, Sintra: 434 Bewertungen - bei TripAdvisor auf Platz 242 von 296 von 296 Sintra Restaurants; mit 3/5 von Reisenden bewertet.
+
+REL: 1
+POI Name: Sightsintra
+POI City: Sintra
+POI Country: PT
+POI Main category: Active Life
+POI Sub category: Active Life, 
+Snippets:
+title: SightSintra - Tour Agency - Sintra, Portugal | Facebook ...
+snippet: SightSintra - AVª Dr. Álvaro de Vasconcelos, nº 1 C, 2710-421 Sintra, Portugal - Rated 5 based on 11 Reviews &quot;We had a great day using sight sintra...
+title: Sight Sintra
+snippet: Quem Somos . Somos uma equipa que procura oferecer a quem visita Sintra uma forma diferente, divertida, ecológica e inovadora de o fazer ( saber mais) link para a empresa ...
+title: SightSintra - Tour Agency - Sintra, Portugal | Facebook ...
+snippet: SightSintra - AVª Dr. Álvaro de Vasconcelos, nº 1 C, 2710-421 Sintra, Portugal - Rated 5 based on 12 Reviews &quot;Perfect way to view magical Sintra at your...
+title: SightSintra - Sintra Romântica
+snippet: Esta empresa procura oferecer a quem visita Sintra uma forma diferente, divertida, ecológica e inovadora de conhecer a nossa região. Para isso, dispõem de veículos ecológicos, com capacidade para duas pessoas, equipados com sistema de GPS que guiará o visitante e contará a história e as lendas dos palácios, castelos, parques e recantos desta vila e serra que são património cultural ...
+title: Sight Sintra Tours - ATUALIZADO 2020 O que saber antes de ...
+snippet: Resposta de sightsintra, Gerente geral em Sight Sintra Tours. Respondeu a 17/07/2018. Welson, Muito obrigado pelo seu comentário, quando voltar a Sintra venha-me ver. Um abraço João. Ler mais. Carla B escreveu uma avaliação a nov de 2016. Uberlândia, MG 4 contributos 3 votos úteis.
+title: Sight Sintra - Contacts
+snippet: Find Us Address. Rua João de Deus, Parque de Estacionamento da Estação da CP 2710-580 Sintra GPS Coordinates. 38º47’54.33” N 9º23’11.99”O. Telephone Numbers +351 21 924 28 56 +351 91 784 54 27 +351 91 784 54 27. Email. info@sightsintra.pt. Points of Sale. Sintra&#39;s Train Station, close to the west exit
+title: Sight Sintra
+snippet: About Us . We are a team who wants to offer a fun, ecological and innovative way to visit Sintra .... Reservations . Make your reservation here in the most convenient way ...
+title: SightSintra - Sintra - WorldPlaces
+snippet: Get address of SightSintra - Sintra, submit your review or ask any question about SightSintra, search nearby places on map.
+title: SightSintra - Sintra
+snippet: Get address of SightSintra - Sintra, submit your review or ask any question about SightSintra, search nearby places on map.
+title: Sight Sintra
+snippet: Hiding Places of Sintra. This tour lets you visit some of the less known spots of this marvelous village which are not covered by the usual turist tours in Sintra. The Vigia Garden, the São Pedro de Penaferrim Church and the Santa Maria Church are some of these places. This tour lasts for 30 minutes.
+
+REL: 1
+POI Name: Museu da Água Coimbra
+POI City: Coimbra
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu da Água Coimbra - Coimbra, Portugal | Facebook
+snippet: Museu da Água Coimbra, Coimbra. 7,348 likes · 51 talking about this · 563 were here. O Museu da Água de Coimbra tem vindo a afirmar-se como um espaço único no dialogo com a Cidade. Entrada...
+title: Museu da Água (Coimbra) - ATUALIZADO 2020 O que saber ...
+snippet: Atrações perto de Museu da Água: (0.83 km) Complexo Balnear (1.58 km) Biblioteca Joanina (1.58 km) Universidade de Coimbra (1.38 km) Mondego Paddle School (1.41 km) Universidade de Coimbra Alta &amp; Sofia; Veja todas as atrações perto de Museu da Água no Tripadvisor
+title: Museu da Água Coimbra - Coimbra, Portugal | Facebook
+snippet: O Museu da Água de Coimbra, em parceria com a Sociedade Ponto Verde, promove um conjunto de iniciativas para sensibilizar o público jovem e adulto para a importância da reciclagem.. A atividade, complementada com vídeos da SPV, tem como objetivo principal associar a temática da reciclagem à problemática dos plásticos e micropolasticos, que estão a poluir cada vez mais os nossos mares.
+title: Museu da Água Coimbra - Página inicial | Facebook
+snippet: Museu da Água Coimbra, Coimbra, 7320 gostos · 24 falam sobre isto. O Museu da Água de Coimbra tem vindo a afirmar-se como um espaço único no dialogo com a Cidade. Entrada gratuita. (+ info)...
+title: Museu da Água — Câmara Municipal de Coimbra
+snippet: Museu da Água: Ocupa a antiga estação elevatória e de tratamento de água para abastecimento da rede pública que ainda ostenta a data da sua construção: CMC 1922. De referir também o aproveitamento do túnel subterrâneo que conduz atualmente a uma esplanada junto às margens do rio.
+title: Museu da Água Coimbra - Coimbra | Facebook
+snippet: Museu da Água Coimbra, Coimbra. 7.330 curtidas · 17 falando sobre isso · 561 estiveram aqui. O Museu da Água de Coimbra tem vindo a afirmar-se como um espaço único no dialogo com a Cidade. Entrada...
+title: Museu da Água Coimbra - Coimbra | Facebook
+snippet: Museu da Água Coimbra, Coimbra. Mi piace: 7352 · 30 persone ne parlano · 563 persone sono state qui. O Museu da Água de Coimbra tem vindo a afirmar-se como um espaço único no dialogo com a Cidade....
+title: Museu da Água // Coimbra - YouTube
+snippet: No Parque Dr. Manuel Braga em Coimbra, junto ao rio Mondego, temos acesso a vários espaços e experiências: uma delas é o Museu da Água. Com 8 anos de actividade, celebrados no Dia Mundial da ...
+title: Museu Da Água Coimbra - Viral Agenda
+snippet: Museu Da Água Coimbra » Viral Agenda Os eventos publicados estão sujeitos a adiamento ou cancelamento devido ao surto de Coronavírus . Recomendamos que confirmem junto dos promotores se estes vão ocorrer.
+title: Museu da Água Coimbra, Parque Dr. Manuel Braga, Coimbra ...
+snippet: Museu da Água de Coimbra inaugura exposição dedicada aos primórdios da água “Coimbra e a Água, dos primórdios até meados do séc. XIX”, vai estar patente até ao dia 15 de dezembro, de 2019. Ao entrar no Museu da Água de Coimbra podemos ver a exposição “Coimbra e a Água, dos primórdios até meados do séc.
+
+REL: 1
+POI Name: Casa do Preto
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, Social Clubs, 
+Snippets:
+title: CASA DO PRETO, Sintra - Comentários de restaurantes ...
+snippet: Casa do Preto, Sintra: Veja 224 dicas e avaliações imparciais de Casa do Preto, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 72 de 298 restaurantes em Sintra.
+title: Casa do Preto, Sintra - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Casa do Preto, Sintra: See 224 unbiased reviews of Casa do Preto, rated 4 of 5 on Tripadvisor and ranked #72 of 298 restaurants in Sintra.
+title: Casa do Preto, Sintra - Restaurantanmeldelser - Tripadvisor
+snippet: Casa do Preto, Sintra: Se 224 objektive anmeldelser av Casa do Preto, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 70 av 298 restauranter i Sintra.
+title: Casa do Preto - Home | Facebook
+snippet: Casa do Preto. 1,766 likes · 63 talking about this. Food &amp; Beverage Company
+title: CASA DO PRETO, Sintra - Updated 2020 Restaurant Reviews ...
+snippet: Casa do Preto, Sintra: See 224 unbiased reviews of Casa do Preto, rated 4 of 5 on Tripadvisor and ranked #72 of 298 restaurants in Sintra.
+title: Casa do Preto, Sintra Centro, Lisboa - Zomato Portugal
+snippet: Casa do Preto Lisboa; Casa do Preto, Sintra Centro; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Casa do Preto na Zomato. Cozinha: Pastelaria, Snacks — Mini queijadas e mini travesseiros — 12 € para duas pessoas (aprox.) Política de cookies.
+title: HappySintra GuestHouse by Casa do Preto, Sintra – Updated ...
+snippet: Close to Quinta da Regaleira, HappySintra GuestHouse by Casa do Preto is located in Sintra and has a garden. Free WiFi is featured. Guests wishing to travel lightly can make use of the free towels and linens. A continental breakfast can be enjoyed at the property. The bed and breakfast offers a terrace. Cycling can be enjoyed nearby.
+title: Casa do Preto - Restaurante &amp; Hotel - Início
+snippet: Casa do Preto Pitões das Júnias. Powered by Crie o seu próprio site exclusivo com modelos personalizáveis. Vamos começar. Início Hotel Restaurante Aldeia A Visitar Sobre Contatos ...
+title: HappySintra GuestHouse by Casa do Preto (Portugal Sintra ...
+snippet: A Casa do Preto está localizada em Sintra, perto da Quinta da Regaleira, e tem um jardim. O acesso Wi-Fi é gratuito. Os hóspedes que desejam viajar leve podem utilizar as toalhas e a roupa de cama gratuitamente.
+title: Casa do Preto - Página inicial | Facebook
+snippet: Casa do Preto 16 de março às 03:44 · Dada a evolução do novo Coronavírus -COVID 19-, Portugal está agora em alerta, o que traduz numa fase de contenção alargada, através de medidas preventivas.
+
+REL: 1
+POI Name: Casa Restaurante Petiscaria Bar
+POI City: Várzea de Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Portuguese, Bars, 
+Snippets:
+title: CASA Restaurante Petiscaria Bar - Home - Várzea De Sintra ...
+snippet: CASA Restaurante Petiscaria Bar - Rua D.Antonio Correia de Sá n;2 Varzea de Sintra, 2710-634 Várzea De Sintra, Lisboa, Portugal - Rated 4.9 based on 197...
+title: CASA RESTAURANTE PETISCARIA BAR, Sintra - Comentários de ...
+snippet: Casa Restaurante Petiscaria Bar, Sintra: Veja 134 dicas e avaliações imparciais de Casa Restaurante Petiscaria Bar, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 58 de 298 restaurantes em Sintra.
+title: CASA Restaurante Petiscaria Bar - Posts - Várzea De Sintra ...
+snippet: CASA Restaurante Petiscaria Bar - Rua D.Antonio Correia de Sá n;2 Varzea de Sintra, 2710-634 Várzea De Sintra, Lisboa, Portugal - Rated 4.9 based on 198...
+title: Casa Restaurante Petiscaria Bar, Sintra - Rua Dom Antonio ...
+snippet: Reserve a table at Casa Restaurante Petiscaria Bar, Sintra on Tripadvisor: See 134 unbiased reviews of Casa Restaurante Petiscaria Bar, rated 4.5 of 5 on Tripadvisor and ranked #58 of 298 restaurants in Sintra.
+title: CASA Restaurante Petiscaria Bar - Página inicial - Várzea ...
+snippet: CASA Restaurante Petiscaria Bar – Rua D.Antonio Correia de Sá n;2 Varzea de Sintra, 2710-634 Várzea De Sintra, Lisboa, Portugal – Classificada com 4.9...
+title: Petiscaria Casa, Sintra Centro, Lisboa - Restaurants
+snippet: Petiscaria Casa Lisboa; Petiscaria Casa, Sintra Centro; Encontra menus, contactos, telefone, ... Bar completo. It is an icon with title Check Circle. Menu de almoço It is an ... petiscaria casa, petiscaria casa várzea de sintra, restaurante a casa sintra, petiscaria casa varzea, petiscaria, It is an icon with title Back
+title: CASA Restaurante Petiscaria Bar - Publicações - Várzea De ...
+snippet: CASA Restaurante Petiscaria Bar – Rua D.Antonio Correia de Sá n;2 Varzea de Sintra, 2710-634 Várzea De Sintra, Lisboa, Portugal – Classificada com 4.9...
+title: CASA Restaurante Petiscaria Bar - Facebook
+snippet: CASA Restaurante Petiscaria Bar, Várzea De Sintra, Lisboa, Portugal. 3,936 likes · 78 talking about this · 1,335 were here. Comida Caseira. Facebook. CASA Restaurante Petiscaria Bar is on Facebook. To connect with CASA Restaurante Petiscaria Bar, join Facebook today. Join. or. Log In.
+title: CASA - Restaurante Petiscaria Bar - Várzea de Sintra ...
+snippet: CASA - Restaurante Petiscaria Bar. Várzea de Sintra. Rua António Correia de Sá, 2 (Várzea de Sintra) (Sintra) 219 243 490. Enviar E-mail. É proprietário desta empresa? Clique para Editar. Informação Comida caseira . restaurantes. Avaliação.
+title: CASA Restaurante Petiscaria Bar, Várzea de Sintra ...
+snippet: New customers can now instantly discover and get in touch with places like CASA Restaurante Petiscaria Bar in Várzea de Sintra. Your online presence on Top Local Places looks great on all devices, especially mobile. Now you can focus more on your stuff ;) ADVERTISING. Your basic listing on Top Local Places in Várzea de Sintra is free of charge.
+
+REL: 0
+POI Name: Café da Natália - Explorações Hoteleiras
+POI City: Sintra
+POI Country: PT
+POI Main category: Nightlife
+POI Sub category: Bars, Restaurants, 
+Snippets:
+title: Café da Natália - Explorações Hoteleiras - Sintra, Portugal
+snippet: Café da Natália - Explorações Hoteleiras in Sintra, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Sintra and beyond.
+title: CAFÉ DA NATÁLIA - EXPLORAÇÕES HOTELEIRAS, LDA - Telefone e ...
+snippet: cafÉ da natÁlia - exploraÇÕes hoteleiras, lda em lisboa (uniao freguesias sintra santa maria sao miguel martinho pedro penaferrim). telefone de contato 21924..., nif 50356..., r 1º de dezembro 3/5, 2710-497, uniÃo das freguesias de sintra (santa maria e sÃo miguel.
+title: Café da Natália - Explorações Hoteleiras, Lda. em Sintra ...
+snippet: Café da Natália - Explorações Hoteleiras, Lda. Travessa do Lavrador, 2 ,1º - F São Pedro 2710-489 SINTRA Telefone: 219235679 Fax: 219241526 A entidade Café da Natália - Explorações Hoteleiras, Lda. tem a sua sede localizada na freguesia de União das Freguesias de Sintra (santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim) , concelho de Sintra, distrito de Lisboa.
+title: Café da Natália - Explorações Hoteleiras Lda
+snippet: Informações financeiras e estruturais sobre a Café da Natália - NIF 503568171, como Volume de Faturação, Lucros ou Prejuízos, Morada da Sede, Atividade, Capital Social existência de acções em tribunal e dívidas fiscais
+title: Café Da Natália - Explorações Hoteleiras Lda
+snippet: A empresa Café Da Natália - Explorações Hoteleiras Lda tem a sua sede no concelho de Sintra, exerce a atividade de cafés e está atualmente classificada como Ativa.
+title: Café da Natália - Explorações Hoteleiras, Lda - Sintra
+snippet: Café da Natália - Explorações Hoteleiras, Lda - CAFÉS, BARES E TABERNAS, Sintra, 2710, Rua Primeiro de Dezembro 3, TEL: 219235..., Portugal, Nesta página ...
+title: Cafe da Natalia Explorações Hoteleiras Lda. - Onde comer ...
+snippet: Cafe da Natalia Explorações Hoteleiras Lda. - Onde comer - Restauração, Cafés e Snack-Bars em São Pedro, Sintra, Lisboa, Portugal
+title: Café Da Natalia - Explorações Hoteleiras, Lda, Rua 1º De ...
+snippet: Agricultura &amp; Alimentação; Produtos Químicos, Farmacêuticos e Plásticos; Construção; Energia, Ambiente; Educação, Formação e Organizações
+title: Os melhores endereços para Café, Bar &amp; Club a Sintra ...
+snippet: Encontre os melhores endereços para Café, Bar &amp; Club a Sintra. Visualizar localizações, mapas, comentários, horários de funcionamento, fotos, vídeos, informações financeiras e todos os detalhes de cada empresa da seleção. Existem 132 resultados para a sua busca. Infobel Portugal
+title: Toca do Javali - Realizações Hoteleiras e Turisticas ...
+snippet: Toca do Javali - Realizações Hoteleiras e Turisticas in Sintra, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Sintra and beyond.
+
+REL: 0
+POI Name: Tea Cosy
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: Cosy Sintra (Sintra) – oppdaterte priser for 2020
+snippet: Situated in Sintra, 2.1 km from Quinta da Regaleira, Cosy Sintra features accommodation with a bar, private parking, a shared lounge and a garden. All rooms boast a flat-screen TV with satellite channels and a private bathroom. The guest house has family rooms.
+title: Cosy Sintra, Sintra - 2019 Updated Price, Reviews &amp; HD ...
+snippet: The front desk is open daily from 3:30 PM - midnight. This property doesn&#39;t offer after-hours check-in. Guests arriving late won&#39;t be able to check in until the next morning. To m
+title: Cosy Sintra, Sintra: Info, Photos, Reviews | Book at ...
+snippet: The front desk is open daily from 3:30 PM - midnight. This property doesn&#39;t offer after-hours check-in. Guests arriving late won&#39;t be able to check in until the next morning. To m
+title: Cosy Sintra, Sintra | Book at Hotels.com
+snippet: The front desk is open daily from 3:30 PM - midnight. This property doesn&#39;t offer after-hours check-in. Guests arriving late won&#39;t be able to check in until the next morning. To m
+title: TEA COSY, LDA - Telefone e endereço | Empresite
+snippet: tea cosy, lda em lisboa (uniao freguesias sintra santa maria sao miguel martinho pedro penaferrim). telefone de contato 91980..., nif 51050..., vol do duche 12, 2710-631, uniÃo das freguesias de sintra (santa maria e sÃo miguel.
+title: De 10 beste restaurantene i nærheten av Cosy Sintra
+snippet: Restauranter i nærheten av Cosy Sintra på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Cosy Sintra, Sintra.
+title: Book Cosy Sintra in Sintra | Hotels.com
+snippet: The front desk is open daily from 3:30 PM - midnight. This property doesn&#39;t offer after-hours check-in. Guests arriving late won&#39;t be able to check in until the next morning. To m
+title: Amazon.co.uk: tea cosy
+snippet: Amazon.co.uk: tea cosy. Skip to main content. Try Prime Hello, Sign in Account &amp; Lists Sign in Account &amp; Lists Returns &amp; Orders Try Prime Basket. All
+title: Cosy Sintra (Sintra, Portugal), Sintra hotel discounts ...
+snippet: The front desk is open daily from 3:30 PM - midnight. This property doesn&#39;t offer after-hours check-in. Guests arriving late won&#39;t be able to check in until the next morning. To m
+title: Cosy Sintra (Sintra, Portugal), Sintra hotel discounts ...
+snippet: The front desk is open daily from 3:30 PM - midnight. This property doesn&#39;t offer after-hours check-in. To make arrangements for check-in please contact the property at least 24 h
+
+REL: 0
+POI Name: Sousa's Tertulia Dos Sabores
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Buffets, Fast Food, 
+Snippets:
+title: Sousa&#39;S - Tertúlia dos Sabores, Abrunheira, Lisboa ...
+snippet: Foi provavelmente dos piores buffets que provei até hoje, pouca variedade de comida e a que está disponível não está bem cozinhada, o rolo de carne estava duríssimo, as batatas fritas bastante gordurosas, etc. O atendimento é bastante lento, practicamente 1 empregado para 30 mesas... o preço é em conta e o espaço parece-me um pouco mal aproveitado, definitivamente não fiquei fã.
+title: Sousa&#39;S - Tertúlia dos Sabores - Sintra
+snippet: Get address of Sousa&#39;S - Tertúlia dos Sabores - Sintra, submit your review or ask any question about Sousa&#39;S - Tertúlia dos Sabores, search nearby places on map.
+title: Sousa&#39;S - Tertúlia dos Sabores Opiniões de utilizadores ...
+snippet: Encontra opiniões de utilizadores sobre Sousa&#39;S - Tertúlia dos Sabores, Abrunheira, Lisboa na Zomato. Cozinha: Portuguesa, Grelhados — 30 ... Albarraque restaurantes, Sintra Centro restaurantes, Rio de Mouro restaurantes ... tertulia dos sabores, sousas restaurante, sousas tertulia do comer, restaurante sousa albarraque, sousas tertulia ...
+title: Sousa&#39;s Tertulia Dos Sabores - Linhó, Lisboa, Portugal ...
+snippet: Sousa&#39;s Tertulia Dos Sabores, Linhó, Lisboa, Portugal. 63 likes. Food &amp; Beverage
+title: THE 10 BEST Restaurants Near Sabores do Mercado in Sintra ...
+snippet: Restaurants near Sabores do Mercado, Sintra on TripAdvisor: Find traveler reviews and candid photos of dining near Sabores do Mercado in Sintra, Portugal.
+title: Sousa&#39;s - Tertúlia de sabores - Sintra
+snippet: Sousa&#39;s - Tertúlia de sabores Sintra. Ver 2 páginas sociais, incluindo Facebook e Google, Website e mais para este estabelecimento. Pontuação Cybo 0.5. Sousa&#39;s - Tertúlia de sabores está funcionando como Restaurantes. Deixe um comentário no Cybo.
+title: THE 10 BEST Restaurants Near Casa Portuguesa in Sintra ...
+snippet: Restaurants near Casa Portuguesa, Sintra on Tripadvisor: ... Tertulia Cafe. Be the first to review this restaurant . Largo Afonso de Albuquerque 9 . 0.5 miles from Casa Portuguesa. Queijadas e travesseiros Dona Estefania em Sintra. ... Lugar Dos Sabores. 14 reviews. Praca Dom Fernando II 27 S .
+title: Os 10 melhores restaurantes: Santarém Atualizado em Abril ...
+snippet: Este site utiliza cookies para melhorar a sua experiência, otimizar a segurança do mesmo e mostrar-lhe publicidade personalizada. Clique aqui para saber mais ou controlar as suas definições.Ao clicar ou navegar no site, aceita que utilizemos cookies.
+title: Sintra - Tertúlia de Sabores
+snippet: Um breve passeio por Sintra, a imprescindível subida ao Castelo dos Mouros e ao Palácio da Pena, a imaginação deixa-se levar por histórias de moiras encantadas, depois calcorreamos pequenas ruelas apreciando o casario, paramos obrigatoriamente na Piriquita para um chá e um travesseiro (doce típico de Sintra feito à base de massa folhada recheada com ovos moles e amêndoa), e logo ali ...
+title: Sousas &amp; Moreira, Lda • Chaves • Vila Real •
+snippet: Sousa&#39;s Tertúlia de Sabores - Novo Restaurante em Sintra. Destinado a servir maioritariamente os almoços a toda a Zona Empresarial da ... IIP, também conhecida como Igreja de São Paio. Data do século XVIII. Capela de Sto. António: edifício barroco, dos séculos XVII/XVIII, em Vila ... Sousas &amp; Moreira, Lda Av. D. Afonso Duque de ...
+
+REL: 0
+POI Name: O Regional
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Portuguese, Seafood, 
+Snippets:
+title: RESTAURANTE REGIONAL DE SINTRA - Comentários de ...
+snippet: Restaurante Regional de Sintra, Sintra: Veja 769 dicas e avaliações imparciais de Restaurante Regional de Sintra, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 31 de 298 restaurantes em Sintra.
+title: O Regional de Sintra, Sintra Centro, Lisboa - Zomato Portugal
+snippet: O Regional de Sintra Lisboa; O Regional de Sintra, Sintra Centro; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para O Regional de Sintra na Zomato. Cozinha: Portuguesa, Francesa — Restaurante clássico, com cozinha de sabores nacionais e franceses. — 35 € para duas pessoas (aprox.)
+title: Restaurante Regional de Sintra - Restaurant Reviews ...
+snippet: Restaurante Regional de Sintra, Sintra: See 769 unbiased reviews of Restaurante Regional de Sintra, rated 4.5 of 5 on Tripadvisor and ranked #31 of 298 restaurants in Sintra.
+title: O Regional de Sintra - Sintra Romântica
+snippet: CÂMARA MUNICIPAL DE SINTRA Largo Dr. Virgílio Horta 2714-501 Sintra Telefone: + 351 21 923 61 14 Email: dtur@cm-sintra.pt. Ver no Google Maps
+title: O Regional
+snippet: O Restaurante O Regional existe desde 1998 e a sua cozinha tem como base a comida regional portuguesa. Aqui poderá deliciar-se com receitas tradicionais portuguesas, especialidades no carvão, vinhos de excelente qualidade e doçaria caseira.
+title: THE 10 BEST Restaurants in Sintra - Updated April 2020 ...
+snippet: Best Dining in Sintra, Sintra Municipality: See 48,176 Tripadvisor traveler reviews of 305 Sintra restaurants and search by cuisine, price, location, and more.
+title: O Regional - Sintra, Portugal - Yelp
+snippet: 7 reviews of O Regional &quot;Seafood rice is very good - highly recommend it. It has a lot of seafood ingredients (shrimps, crab, mussels) and is pretty large portion for the price. Other dishes are just ok. I would come here just for the seafood…
+title: O Regional de Sintra Menu, Menu de O Regional de Sintra ...
+snippet: O menu (incluíndo os preços) de O Regional de Sintra pode ter sofrido alterações desde a última vez em que atualizamos no nosso website. A Zomato.com não garante os preços ou a disponibilidade dos menus no O Regional de Sintra.
+title: Sintra - Wikipedia
+snippet: Sintra (/ ˈ s ɪ n t r ə, ˈ s iː n t r ə /, Portuguese: ()) is a town and municipality in the Greater Lisbon region of Portugal, located on the Portuguese Riviera.The population of the municipality in 2011 was 377,835, in an area of 319.23 square kilometres (123.26 sq mi). Sintra is a major tourist destination in Portugal, famed for its picturesqueness and for its numerous historic ...
+title: Restaurante Tradicional O Regional - Sintra
+snippet: Get address of Restaurante Tradicional O Regional - Sintra, submit your review or ask any question about Restaurante Tradicional O Regional, search nearby places on map.
+
+REL: 0
+POI Name: Kebabish
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Kebab, 
+Snippets:
+title: Kebabish sintra - Home - Sintra, Portugal - Menu, Prices ...
+snippet: Kebabish sintra - Largo Afonso Albuquerque no9,9a estefania, 2710-566 Sintra, Portugal - Rated 4.6 based on 4 Reviews &quot;Detestei... Pedi um naan com...
+title: Kebabish - Sintra, Portugal - Yelp
+snippet: 13 reviews of Kebabish &quot;Wonderful food and great service. You can&#39;t beat the Thali/combo deal they have. Must eat food while in Sintra. Beats the expensive rubbish you typically get in the Tourist Trap they call City Center.&quot;
+title: Kebabish.pt - Home - Venda Do Pinheiro, Lisboa, Portugal ...
+snippet: Kebabish.pt - Av 9 de Julho no 64, 2665/521 Venda Do Pinheiro, Lisboa, Portugal - Rated 4.8 based on 12 Reviews &quot;Muito bom. Simpatia e boa comida...
+title: Kebabish, Sintra Centro, Lisboa - Zomato Portugal
+snippet: Kebabish Lisboa; Kebabish, Sintra Centro; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Kebabish na Zomato. Cozinha: Kebab — 15 € para duas pessoas (aprox.) Política de cookies. A Zomato usa cookies para melhorar a tua experiência de utilização.
+title: Kebabish, Sintra Centro, Lisboa - Zomato Portugal
+snippet: Kebabish Lisboa; Kebabish, Sintra Centro; Encuentra el Menú, Comentarios, Ubicación, Teléfono, Mapas y más para Restaurante Kebabish en Zomato. Sirve Kebab. Precio 15 € para dos personas (aprox.) Políticas de Cookie. Zomato usa cookies para mejorar la experiencia de usuario.
+title: Sintra – The Mystery Traveler
+snippet: Kebabish is an Indian restaurant in Sintra. It is located within walking distance of the train station. The restaurant is on the smaller side, and there are several tables outside along the sidewalk. Garlic Naan. The Garlic Naan had some nice char marks with a smattering of garlic.
+title: Kebabish - Sintra - WorldPlaces
+snippet: Get address of Kebabish - Sintra, submit your review or ask any question about Kebabish, search nearby places on map.
+title: 10 Cheap Places to Eat in Sintra - Discover Walks Blog
+snippet: Kebabish is one of the only spots in Sintra, and the menu is a mix of kebab, pizzas and Indian curries. Everything is unfathomably cheap, and actually equally as delicious! I loved their falafel; I actually look forward to eating here again the next time I am in Sintra.
+title: The 10 Must-Try Restaurants In Sintra, Portugal - Discover ...
+snippet: Kebabish in Sintra “Cheap and cheerful” are two words that come to mind when I think of this little kebab house at the entrance to Sintra. A tiny hole-in-the-wall where you can do fantastic kebab plates, shawarmas, curries, pizzas and ice cream sandwiches for next to nothing.
+title: Kebabish sintra - portugal.worldplaces.me
+snippet: Get address of Kebabish sintra, submit your review or ask any question about Kebabish sintra, search nearby places on map.
+
+REL: 0
+POI Name: Lugar Dos Sabores
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, Cafes, Portuguese, 
+Snippets:
+title: Lugar dos Sabores - 13 Photos - 4 Reviews - Mediterranean ...
+snippet: Lugar dos Sabores - Largo D. Fernando II nº 27 S. Pedro de Sintra, 2710-483 Lisbon, Portugal - Rated 5 based on 4 Reviews &quot;Espetacular explanada, sitio...
+title: Lugar dos Sabores, Sintra Centro, Lisboa - Zomato Portugal
+snippet: Lugar dos Sabores Lisboa; Lugar dos Sabores, Sintra Centro; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Lugar dos Sabores na Zomato. Cozinha: Portuguesa — 15 € para duas pessoas (aprox.) Política de cookies.
+title: Lugar dos Sabores Menu, Menu de Lugar dos Sabores, Sintra ...
+snippet: Menu Lugar dos Sabores Sintra Centro - Encontra o menu e preços de refeições, bebidas, take-away e entregas de Lugar dos Sabores Lisboa na Zomato. . Lugar dos Sabores Menu
+title: Lugar dos Sabores - Sintra Romântica
+snippet: Lugar dos Sabores. Praça D. Fernando II, 27 R/Chão 2710-483 S. Pedro de Penaferrim Telefone: +351 219 231 470 Telemóvel: +351 917 140 806 ... CÂMARA MUNICIPAL DE SINTRA Largo Dr. Virgílio Horta 2714-501 Sintra Telefone: + 351 21 923 61 14 Email: dtur@cm-sintra.pt. Ver no Google Maps.
+title: Sabor &amp; Vinho - Restaurant - Sintra, Portugal | Facebook ...
+snippet: Restaurant in Sintra, Portugal. 5. 5 out of 5 stars. Closed Now. ABOUT SABOR &amp; VINHO. Sabor &amp; Vinho . Restaurante com ambiente familiar que serve a melhor comida caseira. ... Lugar dos Sabores. Mediterranean Restaurant. C.Alves cabeleireiro. Regional Website. Café brazil. Internet Cafe. Bem-me-quer. Interest. Marina by Luís Lavrador.
+title: Lugar Dos Sabores - Sintra - portugal.worldplaces.me
+snippet: Get address of Lugar Dos Sabores - Sintra, submit your review or ask any question about Lugar Dos Sabores, search nearby places on map.
+title: Lugar dos Sabores - 13 fotos - 4 críticas - Restaurante ...
+snippet: Lugar dos Sabores – Largo D. Fernando II nº 27 S. Pedro de Sintra, 2710-483 Lisboa – Classificada com 5 com base em 4 críticas &quot;Espetacular explanada,...
+title: Lugar dos Sabores - Sintra - WorldPlaces
+snippet: Get address of Lugar dos Sabores - Sintra, submit your review or ask any question about Lugar dos Sabores, search nearby places on map.
+title: Sabores de Sintra – Restaurante em São Pedro de Sintra
+snippet: O restaurante Sabores de Sintra fica em S. Pedro de Penaferrim, Sintra, num edifício de traça antiga na Rua Primeiro de Dezembro, um lugar pitoresco e acolhedor. O espaço interior é composto por um labirinto de pequenas salas que nos fazem sentir numa casa tipicamente portuguesa, num ambiente familiar, confortável e intimista.
+title: Lugar dos Sabores - 48 visitors - Foursquare
+snippet: See 6 photos from 48 visitors to Lugar dos Sabores. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+
+REL: 0
+POI Name: Somos um Regalo
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Barbeque, 
+Snippets:
+title: Churrasqueira Somos Um Regalo - Franguinho Guia
+snippet: Somos um restaurante e churrasqueira que prima pela qualidade dos seus pratos e que tem como especialidade Franguinho à moda da Guia. Temos serviço de Take Away. Venha experimentar as nossas diversas especialidades aqui mesmo em Sintra. Encerramos às segundas-feiras.
+title: CHURRASCARIA SOMOS UM REGALO, Sintra - Comentários de ...
+snippet: Churrascaria Somos Um Regalo, Sintra: Veja 163 dicas e avaliações imparciais de Churrascaria Somos Um Regalo, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 16 de 298 restaurantes em Sintra.
+title: Churrascaria Somos Um Regalo, Sintra - Restaurant Reviews ...
+snippet: Churrascaria Somos Um Regalo, Sintra: See 163 unbiased reviews of Churrascaria Somos Um Regalo, rated 4.5 of 5 on Tripadvisor and ranked #16 of 298 restaurants in Sintra.
+title: Somos um Regalo, Cascais Centro, Lisboa - Zomato Portugal
+snippet: Somos um Regalo Lisboa; Somos um Regalo, Cascais Centro; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para Somos um Regalo na Zomato. Cozinha: Churrasco — 30 € para duas pessoas (aprox.) Política de cookies.
+title: Churrascaria Somos Um Regalo, Sintra ...
+snippet: Churrascaria Somos Um Regalo, Sintra: Se 150 objektive anmeldelser av Churrascaria Somos Um Regalo, vurdert til 4,5 av 5 på TripAdvisor og vurdert som nr. 18 av 297 restauranter i Sintra.
+title: CHURRASCARIA SOMOS UM REGALO, Sintra - Updated 2020 ...
+snippet: Churrascaria Somos Um Regalo, Sintra: See 163 unbiased reviews of Churrascaria Somos Um Regalo, rated 4.5 of 5 on Tripadvisor and ranked #16 of 298 restaurants in Sintra.
+title: Restaurants Near Churrascaria Somos Um Regalo, Sintra ...
+snippet: Restaurants near Churrascaria Somos Um Regalo, Sintra on Tripadvisor: Find traveler reviews and candid photos of dining near Churrascaria Somos Um Regalo in Sintra, Portugal.
+title: CHURRASCARIA SOMOS UM REGALO, Sintra - Omdömen om ...
+snippet: Churrascaria Somos Um Regalo, Sintra: Se 163 objektiva omdömen av Churrascaria Somos Um Regalo, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer16 av 298 restauranger i Sintra.
+title: Franguinho da Guia - Churrasqueira Somos Um Regalo
+snippet: Visite a Churrasqueira Somos um Regalo. Prove a nossa especialidade, Franguinho da Guia, que é provavelmente o melhor frango do mundo! Visite a Churrasqueira Somos um Regalo. ... 2710-541 SINTRA ...
+title: CHURRASCARIA SOMOS UM REGALO, Sintra - Fotos, Número de ...
+snippet: Churrascaria Somos Um Regalo, Sintra: Consulta 163 opiniones sobre Churrascaria Somos Um Regalo con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°16 de 298 restaurantes en Sintra.
+
+REL: 0
+POI Name: Funbike
+POI City: Sintra
+POI Country: PT
+POI Main category: Active Life
+POI Sub category: Bikes, Bike Rentals, Bike tours, 
+Snippets:
+title: FunBike (Sintra, Portugal) - Anmeldelser - Tripadvisor
+snippet: FunBike, Sintra: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for FunBike i Sintra, Portugal på Tripadvisor.
+title: Funbike Shop - Home | Facebook
+snippet: Funbike Shop, Sintra. 4,107 likes · 18 talking about this · 273 were here. Funbike shop é uma loja de bicicletas,oficina,rent a bike especializada em Sintra e Algarve
+title: Funbike Shop - Página inicial | Facebook
+snippet: Funbike Shop, Sintra, 4115 gostos · 48 falam sobre isto · 275 estiveram aqui. Funbike shop é uma loja de bicicletas,oficina,rent a bike especializada em Sintra e Algarve
+title: Funbike (Sintra) - 2020 All You Need to Know BEFORE You Go ...
+snippet: You can visit two of Portugal&#39;s most charming towns on a day trip from Lisbon that goes beyond the city to explore the Sintra Mountains, a place notoriously difficult to reach independently. You&#39;ll tour Sintra&#39;s Pena National Palace and the town&#39;s UNESCO-listed historic center, and than travel to the Atlantic coast to see Cascais and Cabo da Roca, the westernmost point in continent
+title: FunBike (Sintra) - 2020 All You Need to Know Before You Go ...
+snippet: We used Funbike for two different guided mountain bike rides during our time staying in Sintra. The 2 of us were provided e-bikes which made the whole ride that much more enjoyable (yeah, we were nay-...
+title: THE 10 BEST Restaurants Near FunBike in Sintra, Sintra ...
+snippet: Restaurants near FunBike, Sintra on Tripadvisor: Find traveler reviews and candid photos of dining near FunBike in Sintra, Portugal.
+title: FunBike (Sintra) - ATUALIZADO 2020 O que saber antes de ir ...
+snippet: Utilizamos Funbike para dois passeios de bicicleta de montanha diferentes durante o nosso tempo hospedado em Sintra. Os 2 de nós eram providos e - bicicletas que fizeram o passeio inteiro que muito mais agradável (sim, nós éramos sim - sayers no princípio também mas uma vez você …
+title: Funbike - Sintra, Portugal - Yelp
+snippet: 1 review of Funbike &quot;Come to this shop for your rentals, tours, etc. We had a guided tour on great bikes, and are forever thankful. The quality is like no other and the guide was perfect if that is what you are looking for. If not guided, go for…
+title: FunBike (Sintra) - 2020 What to Know Before You Go (with ...
+snippet: Book your tickets online for FunBike, Sintra: See 23 reviews, articles, and 14 photos of FunBike, ranked No.28 on Tripadvisor among 60 attractions in Sintra.
+title: Visit FunBike on your trip to Sintra or Portugal • Inspirock
+snippet: FunBike is located in Sintra. Plan to visit FunBike and other customer-reviewed, writer-recommended Sintra attractions using our Sintra vacation maker site.
+
+REL: 0
+POI Name: Museu Monográfico de Conimbriga
+POI City: Condeixa-a-Nova
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 0
+POI Name: Café Paris
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Portuguese, 
+Snippets:
+title: Cafe de Paris, Sintra - Restaurant Reviews, Photos &amp; Phone ...
+snippet: &quot;Café de Paris&quot; is the most romantic Restaurant in Sintra, situated at the Historical Center of &quot;the World Heritage Town&quot;: Sintra, in front of the National Palace and it is an obligation stop for those visiting Sintra! We serve international and Regional Cuisine and are opened from 9 a.m. until 10 p.m.
+title: Café Paris, Espaços - Silva Carvalho Restauração – Sintra ...
+snippet: Um &quot;must&quot; no Centro Histórico de Sintra. Aberto desde 1945, O Café Paris, situado no centro histórico de Sintra, é um espaço com ambiente único, com uma história recheada de saber e receber. Tornou-se num local de convívio, hoje considerado o mais emblemático do centro histórico.
+title: CAFÉ DE PARIS, Sintra - Comentários de restaurantes ...
+snippet: Café de Paris, Sintra: Veja 1.527 dicas e avaliações imparciais de Café de Paris, com classificação Nº 3,5 de 5 no Tripadvisor e classificado como Nº 123 de 298 restaurantes em Sintra.
+title: Café de Paris, Sintra - Restaurantanmeldelser - Tripadvisor
+snippet: Café de Paris, Sintra: Se 1 526 objektive anmeldelser av Café de Paris, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 122 av 298 restauranter i Sintra.
+title: Café Paris, Venues - Silva Carvalho Restauração - Sintra ...
+snippet: Café Paris. A “must-visit” in Sintra’s historical centre. The restaurant is located in the historic centre opposite the Royal Palace. It has been open since 1945 and is a venue with a unique atmosphere and decades of outstanding service. It has become a place for socializing, ...
+title: Café Paris in sintra - Review of Cafe de Paris, Sintra ...
+snippet: Description: &quot;Café de Paris&quot; is the most romantic Restaurant in Sintra, situated at the Historical Center of &quot;the World Heritage Town&quot;: Sintra, in front of the National Palace and it is an obligation stop for those visiting Sintra! We serve international and Regional Cuisine and are opened from 9 a.m. until 10 p.m.
+title: CAFÉ DE PARIS, Sintra - Fotos, Número de Teléfono y ...
+snippet: Café de Paris, Sintra: Consulta 1.527 opiniones sobre Café de Paris con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°123 de 298 restaurantes en Sintra.
+title: Café Paris - Home - Sintra, Portugal - Menu, Prices ...
+snippet: Café Paris. 615 likes. Café Paris Um &quot;must&quot; no Centro Histórico de Sintra Tornou-se um local de convívio, hoje considerado o mais emblemático do Centro...
+title: Café Paris - Sintra, Portugal - Coffee Shop, Portuguese ...
+snippet: Café Paris, Sintra, Portugal. 684 likes. Coffee Shop
+title: Familielunsj - Anmeldelse for Café de Paris, Sintra ...
+snippet: Café de Paris: Familielunsj - Se 1 526 reiseanmeldelser, 549 objektive bilder og gode tilbud på Sintra, Portugal på Tripadvisor.
+
+REL: 0
+POI Name: Museu Nacional dos Coches
+POI City: Lisbon
+POI Country: PT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museu Nacional dos Coches (Belem) - 2020 All You Need to ...
+snippet: We recommend booking Museu Nacional dos Coches tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 22 Museu Nacional dos Coches tours on Tripadvisor
+title: Museu Nacional dos Coches
+snippet: O Museu Nacional dos Coches e o Antigo Picadeiro Real encontram-se temporariamente encerrados ao público, na sequência do Plano Nacional de Preparação e Resposta à doença do novo Coronavírus – COVID – 19. Agradecemos a máxima compreensão, lamentando o incómodo causado.
+title: COACHES MUSEUM (Museu dos Coches), Lisbon
+snippet: O ne of Lisbon&#39;s most visited sights, the Coaches Museum (&quot;Museu Nacional dos Coches&quot;) has the largest and most valuable collection of its type in the world. It opened in 1905 in a richly-decorated 18th-century royal riding school that was part of Belem Palace, illustrating the ostentation and staggering wealth of the old Portuguese elite.On its 110th anniversary, it moved across the
+title: Museu Nacional dos Coches (Belem, Portugal) - Anmeldelser
+snippet: Vi anbefaler å bestille turer i Museu Nacional dos Coches på forhånd for å sikre deg en plass. Om du bestiller med Tripadvisor, kan du avbestille opptil 24 timer før turen begynner for å få full refusjon. Se alle turer 22 Museu Nacional dos Coches på Tripadvisor
+title: National Coach Museum - Hours, prices and how to ... - Lisbon
+snippet: The National Coach Museum (Museu Nacional dos Coches) houses an important horse-drawn carriage collection of vehicles are from the seventeenth, eighteenth and nineteenth century. The Museum is housed in an old riding school and was inaugurated on the 23 May 1905 by Queen Amélia of Orleans and Bragança, the Princess of France married to King Carlos I of Portugal.
+title: Museu Nacional dos Coches (Belem) - ATUALIZADO 2020 O que ...
+snippet: Recomendamos que reserve as excursões em Museu Nacional dos Coches atempadamente para garantir o seu lugar. Se reservar com o Tripadvisor, pode cancelar até 24 horas antes do início da excursão para receber um reembolso total. Veja as 22 excursões de Museu Nacional dos Coches no Tripadvisor
+title: Museu Nacional dos Coches (Coach Museum) - Lisbon Travel Guide
+snippet: T he Museu Nacional dos Coches is located in Lisbon’s Belém district and boasts one of the finest collections of historic carriages in the world. The museum was created in 1905 by Queen Amélia and houses an extensive collection of carriages belonging to the Portuguese royal family and to the Catholic Church.It gives a full picture of the historical development of carriages from the late ...
+title: Museu Nacional dos Coches (Belem, Portugal) - Anmeldelser
+snippet: Museu Nacional dos Coches, Belem: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Museu Nacional dos Coches i Belem, Portugal på Tripadvisor.
+title: Museu Nacional dos Coches - Lisbon / Belem - YouTube
+snippet: Museu Nacional dos Coches - Lisbon / Belem For 91 Days Travel Blog. Loading... Unsubscribe from For 91 Days Travel Blog? Cancel Unsubscribe. Working... Subscribe Subscribed Unsubscribe 60.3K.
+title: Museu Nacional dos Coches | www.visitportugal.com
+snippet: Museu Nacional dos Coches Museums and Palaces It contains an exceptional and unique collection of richly adorned royal vehicles, from the 17th to 19th centuries (coaches, berlins, carriages, chaises, litters, sedan-chairs), used by the Portuguese other European courts, the Patriarchs of Lisbon and Portuguese noble houses up until the advent of the motor car.
+
+REL: 0
+POI Name: Midori
+POI City: Sintra
+POI Country: PT
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Japanese, 
+Snippets:
+title: Midori, Sintra - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Midori, Sintra on Tripadvisor: See 42 unbiased reviews of Midori, rated 4.5 of 5 on Tripadvisor and ranked #106 of 298 restaurants in Sintra.
+title: MIDORI, Sintra - Comentários de restaurantes - Tripadvisor
+snippet: Midori, Sintra: Veja 42 dicas e avaliações imparciais de Midori, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 106 de 298 restaurantes em Sintra.
+title: Sintra Japanese Restaurants - Japanese Restaurants in ...
+snippet: Within a contemporary space overlooking the Sintra Mountains, Midori is one of the hotel’s two restaurants to earn a Michelin star. Products from all over Portugal are used to craft dishes that are Japanese in both their artful presentation and subtle, layered flavors.
+title: Midori, Sintra - Restaurantanmeldelser - Tripadvisor
+snippet: Midori, Sintra: Se 42 objektive anmeldelser av Midori, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 106 av 298 restauranter i Sintra.
+title: Midori - Sintra : a Michelin Guide restaurant
+snippet: Midori – a restaurant from the Michelin Guide Find all the information you need on the Midori restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… Midori - a Michelin Guide restaurant.
+title: Midori | Penha Longa Resort
+snippet: Midori’s cuisine is not fusion, but distinct: Japanese with Portuguese touches. The restaurant proudly carries the mark of a Michelin star and features sophisticated, light-filled interior and intimate surroundings, complemented by breathtaking views of the Sintra Mountains. Reservation required.
+title: Midori - Sintra, Portugal - Japanese Restaurant | Facebook
+snippet: Midori, Sintra, Portugal. 386 likes. Japanese Restaurant. Wow wow wow... what a great evening we had at Midori. I have eaten in many great restaurants in the world but Midori is now on top of that list.
+title: De 10 beste restaurantene i Sintra - Tripadvisor
+snippet: Beste restauranter i Sintra, Portugal: Se anmeldelser fra reisende og bilder av spisesteder i Sintra, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Midori - Sintra, Portugal - Yelp
+snippet: 6 reviews of Midori &quot;This is it....search no more you have found bliss: hic sunt dracones (here there be dragons). The culinary gods have blessed us with Midori. Located in the outskirts of Sintra in the Penha Longa Resort is Midori, one of two…
+title: Midori | Restaurants in Sintra, Lisbon - Time Out Lisbon
+snippet: And, behold, at the end of 25 years Midori has changed. Of the hundred and many places there are only 18, the gigantic room is reduced to just a small chuck, mo
+
+Cand cities: {'Coimbra', 'Madrid', 'Lisbon', 'Mafra', 'Sintra', 'Várzea de Sintra', 'Guimarães', 'Vila Franca de Xira', 'Barcelona', 'Condeixa-a-Nova'}

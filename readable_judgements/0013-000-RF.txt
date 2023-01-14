@@ -1,0 +1,1162 @@
+City: Prague
+Country: CZ
+Main category: Restaurants and Food
+Description: Hi there! I'll be traveling to Prague next week, and I'm looking for some recommendations on where to eat and what to see...I'm not a fan of the big touristy spots--I much prefer mom&pop and hole in the wall places. Thanks in advance!
+Rated POIs: 45
+Rel distr: [(0, 1), (1, 7), (2, 29), (3, 8)]
+=================================
+REL: 3
+POI Name: Lidl
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Lidl Česká republika – jednička v čerstvosti - www.lidl.cz
+snippet: Jsme řetězec prodejen s potravinami ale i spotřebním zbožím. Pravidelně máme v nabídce tematické týdny národních kuchyní. Velkou část výrobků prodáváme pod vlastními značkami.
+title: Lidl supermarket in Prague - KASADOO
+snippet: Lidl supermarket in Prague. On map. Tweet. Lidle is one of the most affordable supermarket chains in the city of Prague. If you are already familiar with it, you will be happy to know that there is a Lidl supermarket not so far from the city center of Prague.
+title: LIDL-SHOP.CZ | Vždy.Více.Online
+snippet: Při trvalém přihlášení se již nemusíte při každé návštěvě přihlašovat do vašeho osobního účtu. Váš účet a výrobky uložené v košíku tak budou vždy snadno dostupné pro pokračování v nákupu.
+title: Opening Hours for Lidl in Prague | Opening Times Nearby
+snippet: Opening Hours for Lidl in Prague. Find opening hours to Lidl near me. Closing times when nearest shop is open and closed on weekdays, weekends, holidays, late night and Sunday shopping.
+title: Móda - LIDL-SHOP.CZ
+snippet: Při trvalém přihlášení se již nemusíte při každé návštěvě přihlašovat do vašeho osobního účtu. Váš účet a výrobky uložené v košíku tak budou vždy snadno dostupné pro pokračování v nákupu.
+title: Dílna a zahrada - LIDL-SHOP.CZ
+snippet: Při trvalém přihlášení se již nemusíte při každé návštěvě přihlašovat do vašeho osobního účtu. Váš účet a výrobky uložené v košíku tak budou vždy snadno dostupné pro pokračování v nákupu.
+title: Google Maps
+snippet: Find local businesses, view maps and get driving directions in Google Maps. When you have eliminated the JavaScript , whatever remains must be an empty page. Enable JavaScript to see Google Maps.
+title: Naše značky - LIDL-SHOP.CZ
+snippet: QUESTIONS FOR ORDERS AND PRODUCTS IN THE LIDL ONLINESHOP. DÁLE. Naše značky; Výhoda privátních značek je jednoznačná – jsme to my, kdo rozhoduje o kvalitě, vzhledu i obalu výrobku. Velmi podstatnou výhodou je i cena, která je vždy nižší než u značkových produktů, přestože kvalita je srovnatelná, nebo i lepší.
+title: Lidl Czech Republic | Prague Food Shopping | Shopping in ...
+snippet: Discounter, Catering to the foodies of the Czech Republic, Prague TV&#39;s food listing below will help you in the search to sate your appetite. Luckily, these days you can find just about any specialty foods you ...
+title: Lidl - Prague, Czech Republic - Supermarket | Facebook
+snippet: Lidl, Prague, Czech Republic. 2 were here. Supermarket. •tak toto zapadá do seba ako puzzle ? ? ️ pomocníci na cestu ?? •bezlaktozový kokosový jogurt k tomu mini ,,chladnička,, a môže sa cestovať
+
+REL: 3
+POI Name: Portfolio restaurant
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, 
+Snippets:
+title: Portfolio Restaurant | Praha
+snippet: Restaurace Portfolio. Místo, které spojuje dokonalou chuť a krásu restaurace.
+title: Portfolio Restaurant | Prague
+snippet: Portfolio restaurant. Place, which combines perfect taste and the beauty of the restaurant.
+title: Portfolio restaurant, Prague - Nove Mesto (New Town ...
+snippet: Portfolio restaurant, Prague: See 1,420 unbiased reviews of Portfolio restaurant, rated 4.5 of 5 on Tripadvisor and ranked #43 of 5,897 restaurants in Prague.
+title: Portfolio restaurant, Praha - Restaurantanmeldelser ...
+snippet: Portfolio restaurant, Praha: Se 1 420 objektive anmeldelser av Portfolio restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 43 av 5 898 restauranter i Praha.
+title: Portfolio - Prague : a Michelin Guide restaurant
+snippet: Portfolio – a restaurant from the Michelin Guide Find all the information you need on the Portfolio restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… Portfolio - a Michelin Guide restaurant.
+title: Portfolio Restaurant Prague - Review of Portfolio ...
+snippet: Portfolio Restaurant Prague. Fantastic experience here- the food was some of the best we&#39;ve ever had!! And the service was super friendly and knowledgeable without bring pretentious- would definitely come back! Date of visit: October 2016. Ask Michelle F about Portfolio restaurant.
+title: De 10 beste restaurantene i nærheten av Portfolio restaurant
+snippet: Restauranter i nærheten av Portfolio restaurant på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Portfolio restaurant, Praha.
+title: Portfolio restaurant, Prag - Nové Město (Neustadt) - Menü ...
+snippet: Portfolio restaurant, Prag: 1.420 Bewertungen - bei Tripadvisor auf Platz 43 von 5.898 von 5.898 Prag Restaurants; mit 4,5/5 von Reisenden bewertet. ... Prague Marriott Hotel. 2.772 Bewertungen . 0,12 km Entfernung . Die besten Restaurants in der Umgebung Alle anzeigen. Le Grill Restaurant. 1.185 Bewertungen .
+title: Portfolio restaurant - Nové Město - Prague, Czech Republic
+snippet: 33 reviews of Portfolio restaurant &quot;This is my favorite restaurant in Prague. My sister suggested it and I fell in love. We with my friend and we did the 5-6 course tasting menu. I did option B with the more aged wines. Heavy pours and was full…
+title: PORTFOLIO RESTAURANT, Praga - Nové Město (Città Nuova ...
+snippet: Portfolio restaurant, Praga: su Tripadvisor trovi 1.420 recensioni imparziali su Portfolio restaurant, con punteggio 4,5 su 5 e al n.43 su 5.897 ristoranti a Praga.
+
+REL: 3
+POI Name: U Kurelů
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Brasseries, Pubs, 
+Snippets:
+title: Vítejte v restauraci U Kurelů, ikonické žižkovské hospodě ...
+snippet: U Kurelů je ikonická žižkovská hospůdka, v níž se již přes 110 let čepuje světově proslulé české pivo. V roce 2014 jsme hospodu kompletne zrenovovali. U Kurelů je ikonická žižkovská hospůdka, v níž se již přes 110 let čepuje světově proslulé české pivo.
+title: Welcome to U Kurelů, ikonické žižkovské hospodě založené r ...
+snippet: U Kurelů je ikonická žižkovská hospůdka, v níž se již přes 110 let čepuje světově proslulé české pivo. V roce 2014 jsme hospodu kompletne zrenovovali. U Kurelů je ikonická žižkovská hospůdka, v níž se již přes 110 let čepuje světově proslulé české pivo.
+title: U Kurelů - Prague, Czech Republic | Facebook
+snippet: U Kurelů, Prague, Czech Republic. 2,130 likes · 103 talking about this · 1,639 were here. American diner-style burgers, tasty Tex-Mex &amp; Southern-style smoked BBQ! Dinner 4pm-10pm every night...
+title: U Kurelů - Prague, Czech Republic | Facebook
+snippet: U Kurelů, Prague, Czech Republic. 2,068 likes · 93 talking about this · 1,584 were here. Vítejte U KURELŮ (zal. 1907), v původní a jedné z mála žižkovských hospod svého druhu.
+title: U Kurelů - Prague, Czech Republic - expats.cz
+snippet: U Kurelů is an iconic Zizkov neighborhood pub that has been pouring world-famous Czech beer for over 110 years.
+title: U Kurelů - Prague.eu
+snippet: U Kurelů. U Kurelů has been a functioning pub since 1907 and is one of the oldest original pubs in Žižkov. In 2014 the collective around successful restaurant The Tavern took the place over. The restored interior reflects the beauty of the original pub ambience.
+title: History - U Kurelů
+snippet: The rich history of U Kurelů. In 1907, Jan Kurel finished constructing his building in Prague’s working-class quarter of Žižkov and proudly opened the doors to his new corner pub, U Kurelů. Throughout the following decades, U Kurelů served as a community hub that housed a stage for local theater, band performances, and poetry readings.
+title: Jídelní lístek - U Kurelů
+snippet: UPDATE APRIL 2020: U Kurelů on WOLTU mezi 17:00-21:00 kazdy den! „The Tavern-U Kurelů“ A nebo Volejte na 725319226 nebo si objednejte jídlo s sebou přímo u našeho výdejního okénka v The Tavern, Chopinova 26, ve všední dny od 11:00 do 21:00 a o víkendech již od 10:30.
+title: Food - U Kurelů
+snippet: “The Tavern-U Kurelů” Not looking for Delivery and would rather order take-away? Call our sister restaurant down the street The Tavern 725319226 from 11:00-21:00 and you pick it up at your convenience: The Tavern, Chopinova 26–three blocks away.
+title: U Kurelů, Žižkov, Praha 3 - Lunchtime/Zomato
+snippet: U Kurelů Praha 3; U Kurelů, Žižkov; Podívej se na menu, recenze, fotky, kontakty, polohu a další informace o podniku U Kurelů na Zomatu. Podává Burger, Mexická, Americká. ... On my last night in Prague I searched for something different and found this place.
+
+REL: 3
+POI Name: Thai Asian food shop
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: International Grocery, Imported Food, 
+Snippets:
+title: THE 10 BEST Thai Restaurants in Prague - Tripadvisor
+snippet: Best Thai Restaurants in Prague, Bohemia: Find Tripadvisor traveler reviews of Prague Thai restaurants and search by price, location, and more.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Czech Please: Thai&#39;s Asian Food Shop
+snippet: But Thai&#39;s Asian Food Shop is making things a whole lot easier. Even more so for us since it moved from Gorazdova in Prague 2 up to Francouska in Prague 10. The shop is just two small rooms, but in that limited space, you&#39;ll see a respectable selection of hard-to-find stuff. In the front room, there is a freezer holding a wide variety of seafood.
+title: Asian Food Shop CZ - Specialty Grocery Store - Prague ...
+snippet: Asian Food Shop CZ, Prague, Czech Republic. 87 likes · 1 was here. Specializovaný obchod s potravinami - A specialized shop with food a také běžné denní potraviny - and with a normal day&#39;s food...
+title: Zebra asian noodle bar - Home - Prague, Czech Republic ...
+snippet: Zebra asian noodle bar, Prague, Czech Republic. 3,258 likes · 38 talking about this · 8,395 were here. Moderní asijská kuchyně přímo v srdci Prahy. Modern Asian cuisine in the heart of Prague.
+title: Tasty - Review of Long Street Food - Asian Restaurant ...
+snippet: Long Street Food - Asian Restaurant: Tasty - See 150 traveler reviews, 127 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: THE 10 BEST Restaurants &amp; Places to Eat in Prague 2020 ...
+snippet: Best Dining in Prague, Bohemia: See 690,172 Tripadvisor traveller reviews of 6,121 Prague restaurants and search by cuisine, price, location, and more.
+title: Hjem - Asian Food Import AS
+snippet: ASIAN FOOD IMPORT. En av Norges største importør og distributør . ... ZAB MIKE Fermented fish sauce 24x350ml Mam nem goi Thai TH. NANG FAH Papaya salad dressing 48x400ml Mam nem goi Thai TH. NY MIYAKO Ramune soft drink ORANGE Nuoc uong Nhat 30x200ml JP.
+title: THE 10 BEST Restaurants in Prague Updated April 2020 ...
+snippet: Dining in Prague, Bohemia: See 690,799 Tripadvisor traveller reviews of 6,124 Prague restaurants and search by cuisine, price, location, and more.
+title: Street Food Thai Market
+snippet: Street Food Thai Market is mom and pop run restaurant and grocery store locating in Houston Heights. Our restaurant serves the traditional Thai and Laos/Esarn Style foods.
+
+REL: 3
+POI Name: Globus
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: GLOBUS
+snippet: Then you’ll love the Globus Aureli hotel, the position of which offers the opportunity to go out into the greenery of Prague’s largest forest park - Krcský les. You will also appreciate the peace and quiet of the vicinity, the helpful personnel and 157 comfortable rooms if you are traveling with children.
+title: Globus Praha–Zličín
+snippet: Vámi výše poskytnuté osobní údaje budou zpracovány společností Globus ČR, v.o.s. se sídlem Praha 9 - Čakovice, Kostelecká 822/75, PSČ 196 00, IČO: 634 73 291 (dále jen „Globus&quot;), jakožto správcem osobních údajů.
+title: Contact - GLOBUS
+snippet: HOTEL GLOBUS, a.s., Gregorova 2115/10, 148 00 Praha 4 – Czech Republic ID number: 290 10 357
+title: Hotel Globus, Prague, Czech Republic - Booking.com
+snippet: Hotel Globus is located 1,950 feet from the Roztyly metro station, on the edge of a park in Prague&#39;s Horní Roztyly quarter. Wenceslass Square is 5 mi from the hotel. Guests can make use of the exchange office and the services of a 24-hour front desk.
+title: Budapest, Vienna &amp; Prague Tour - Escapes by Globus
+snippet: Illuminated Prague with Tavern Visit Discover the magic of Prague on this guided walking tour featuring the city&#39;s illuminated icons, Czech beer and music at a local tavern, and a stroll across the world-famous Charles Bridge! Price Range: $
+title: HOTEL GLOBUS $21 ($̶3̶9̶) - Updated 2020 ... - TripAdvisor
+snippet: Now $21 (Was $̶3̶9̶) on Tripadvisor: Hotel Globus, Prague. See 508 traveler reviews, 343 candid photos, and great deals for Hotel Globus, ranked #475 of 668 hotels in Prague and rated 3 of 5 at Tripadvisor.
+title: Globus, Prague - Sarska 133/5, Trebonice - Menu &amp; Prices ...
+snippet: Globus, Prague: See 27 unbiased reviews of Globus, rated 4 of 5 on Tripadvisor and ranked #1,938 of 5,897 restaurants in Prague.
+title: Prague Tours - Globus® Prague Guided Travel
+snippet: Kafka died here at age 35 or tuberculosis and was buried in the Jewish Cemetery. Most of his work was published posthumously, to huge acclaim. Today, improbably enough, Kafka’s gaunt portrait is reproduced all over Prague on souvenir T-shirts, coffee mugs and key chains. But maybe he wouldn’t have disapproved entirely.
+title: Globus
+snippet: Poctivá výroba Globus. V každém hypermarketu pro vás denně pečeme čerstvé pečivo, bouráme čerstvé maso a vaříme čerstvá jídla. Zjistit více.
+title: Globus, Prague - Chlumecka 765/6, Praha 14 - Menu &amp; Prices ...
+snippet: Globus, Prague: See 15 unbiased reviews of Globus, rated 3.5 of 5 on Tripadvisor and ranked #2,942 of 5,898 restaurants in Prague.
+
+REL: 3
+POI Name: U Pravdů
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Czech, 
+Snippets:
+title: Restaurace U Pravdu, Zitna 15, Praha - Úvod | uPravdu.cz
+snippet: Denní nabídka. Historie. Menu
+title: U Pravdu, Prague - Nove Mesto (New Town) - Menu, Prices ...
+snippet: U Pravdu, Prague: See 1,431 unbiased reviews of U Pravdu, rated 4.5 of 5 on Tripadvisor and ranked #359 of 5,897 restaurants in Prague.
+title: U Pravdů | Restaurants | Prague - In Your Pocket
+snippet: Like an old country store, U Pravdů is waiting to welcome you with a nice cold one and plates of tasty Czech cooking. Basic is the design, simple is the cooking – both in a satisfying way. Choose from a variety of meals like “mother-in-law’s chicken” (chicken with spicy sal
+title: Restaurace U Pravdů - Home - Prague, Czech Republic - Menu ...
+snippet: Restaurace U Pravdů, Prague, Czech Republic. 1.9K likes. Restaurace s tradiční českou kuchyní v příjemném staročeském stylu / Traditional Old Bohemian restaurant U Pravdů / Традиционный старочешский...
+title: U Pravdů restaurant, Prague - Restaurant menu and reviews
+snippet: U Pravdů, #104 among Prague pubs &amp; bars: 3224 reviews by visitors and 21 detailed photos. The overall score of this restaurant is 4.5 on Google and 8.3 on Foursquare. This place provides dishes for CZK 160 - 370. Find on the map and call to book a table.
+title: Restaurace U Pravdů - Posts - Prague, Czech Republic ...
+snippet: Restaurace U Pravdů, Prague, Czech Republic. 1.9K likes. Restaurace s tradiční českou kuchyní v příjemném staročeském stylu / Traditional Old Bohemian restaurant U Pravdů / Традиционный старочешский...
+title: Restaurace U Pravdů v Praze 1, obědy, obědové menu ...
+snippet: Denní menu Restaurace U Pravdů,Praha 1, včetně otevírací doby, kontaktních údajů pro rezervaci či Vaše dotazy. Podívejte se, co dnes vaří Restaurace U Pravdů dobrého. Restaurace aktuálně umožňují výdej jídla s sebou, rozvoz jídla či donášku jídla.
+title: Restaurace U Pravdů - Prague
+snippet: Get address of Restaurace U Pravdů - Prague, submit your review or ask any question about Restaurace U Pravdů, search nearby places on map.
+title: U Pravdů - Prague
+snippet: Get address of U Pravdů - Prague, submit your review or ask any question about U Pravdů, search nearby places on map.
+title: U Pravdu - Picture of U Pravdu, Prague - Tripadvisor
+snippet: U Pravdu, Prague Picture: U Pravdu - Check out Tripadvisor members&#39; 50,031 candid photos and videos of U Pravdu. Prague. Prague Tourism Prague Hotels Prague Bed and Breakfast Prague Vacation Rentals Prague Vacation Packages Flights to Prague Prague Restaurants Things to Do in Prague Prague Travel Forum
+
+REL: 3
+POI Name: Bifé restaurant
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Cafeteria, 
+Snippets:
+title: De 10 beste restaurantene i Praha - Tripadvisor
+snippet: Beste restauranter i Praha, Tsjekkia: Se anmeldelser fra reisende og bilder av spisesteder i Praha, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: KOBE Steak Grill Sushi Restaurant Vaclavske nam., Praha ...
+snippet: KOBE Steak Grill Sushi Restaurant Vaclavske nam., Praha: Se 712 objektive anmeldelser av KOBE Steak Grill Sushi Restaurant Vaclavske nam., vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 454 av 5 897 restauranter i Praha.
+title: De 10 beste restaurantene i Staré Město (gamlebyen) (Praha)
+snippet: Beste restauranter i Staré Město (gamlebyen) (Praha), Tsjekkia: Se anmeldelser fra reisende og bilder av spisesteder i Staré Město (gamlebyen) (Praha), og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Stejkarna, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Stejkarna, Praha: Se 216 objektive anmeldelser av Stejkarna, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 89 av 5 897 restauranter i Praha.
+title: Mlýnec Restaurant | Fine Dining right next to the Charles ...
+snippet: Top Restaurant in Prague with modern Czech and international cuisine, open kitchen, terrace with a view on the Charles Bridge, Sunday brunch, private or business parties.
+title: Moderní samoobslužný restaurant 21. století - BIFÉ ...
+snippet: VÁŽENÍ ZÁKAZNÍCI. I v týdnu od 14.4-17.4.2020, bude pro Vás BIFÉ restaurant otevřen v omezeném režimu s otevírací dobou od 8:00 - do 16:00.
+title: Den beste pizzaen i Praha - Tripadvisor
+snippet: Beste pizzarestauranter i Praha, Tsjekkia: Se anmeldelser fra reisende og bilder av pizzasteder i Praha, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: THE 10 BEST Restaurants in Prague - Updated April 2020 ...
+snippet: Best Dining in Prague, Bohemia: See 690,172 Tripadvisor traveler reviews of 6,121 Prague restaurants and search by cuisine, price, location, and more.
+title: THE 10 BEST Restaurants &amp; Places to Eat in Prague 2020 ...
+snippet: Best Dining in Prague, Bohemia: See 690,172 Tripadvisor traveller reviews of 6,121 Prague restaurants and search by cuisine, price, location, and more.
+title: The 8 Best New Restaurants in Prague - Eater
+snippet: The 8 Hottest New Restaurants in Prague . From a beer hall by Prague’s famous Pivovar Matuška microbrewery to a ramen joint from an Ippudo vet, here’s where to eat in the City of a Hundred Spires
+
+REL: 3
+POI Name: Pizzeria Sicilia
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+title: Pizza Sicilia, Prague - Nove Mesto (New Town) - Restaurant ...
+snippet: Pizza Sicilia, Prague: See 11 unbiased reviews of Pizza Sicilia, rated 4.5 of 5 on Tripadvisor and ranked #2,432 of 5,897 restaurants in Prague.
+title: Pizza Sicilia, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Pizza Sicilia, Praha: Se 11 objektive anmeldelser av Pizza Sicilia, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 2 437 av 5 899 restauranter i Praha.
+title: Pizzeria Sicilia - Home - Prague, Czech Republic - Menu ...
+snippet: Pizzeria Sicilia - korunni 50, 12000 Prague, Czech Republic - Rated 3.8 based on 18 Reviews &quot;Příšerná restaurace, která by měla raději zavřít. Ty dva...
+title: THE 10 BEST Pizza Places in Prague, Updated April 2020 ...
+snippet: Best Pizza in Prague, Bohemia: Find Tripadvisor traveller reviews of Prague Pizza places and search by price, location, and more.
+title: Pizza Sicilia - Home - Prague, Czech Republic - Menu ...
+snippet: Pizza Sicilia, Prague, Czech Republic. 110 likes. typical Italian food from Sicily/typické italské jídlo ze Sicílie/ il cibo tipico italiano dalla Sicilia
+title: Pizza Pizza Pizza Sicilia.. - Picture of Pizza Sicilia, Prague
+snippet: Pizza Sicilia, Prague Picture: Pizza Pizza Pizza Sicilia.. - Check out Tripadvisor members&#39; 50,284 candid photos and videos of Pizza Sicilia
+title: Pizzeria a reštaurácia Sicília - Pizzeria Sicilia
+snippet: 4 Formaggi 480 g . paradajková salsa,štyri druhy syra: niva, eidam, mozzarella, gorgonzola /1,3,7,12/
+title: Sicilia Italiano, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Sicilia Italiano, Praha: Se 9 objektive anmeldelser av Sicilia Italiano, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 837 av 5 897 restauranter i Praha.
+title: PIZZA SICILIA, Prag - Omdömen om restauranger - Tripadvisor
+snippet: Pizza Sicilia, Prag: Se 11 objektiva omdömen av Pizza Sicilia, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer2 432 av 5 897 restauranger i Prag.
+title: Pizzeria Sicilia - Prague
+snippet: Get address of Pizzeria Sicilia - Prague, submit your review or ask any question about Pizzeria Sicilia, search nearby places on map.
+
+REL: 2
+POI Name: Havelská Koruna
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Czech, 
+Snippets:
+title: Havelská Koruna - Traditional cousine in the heatrh of Prague
+snippet: Welcome to Havelská Koruna, traditional cousine in the heatrh of Prague. Welcome to the paradise for gourmands of Czech cuisine. The restaurant Havelská Koruna specializes in traditional Czech cuisine. The great variety of meals offered is unique not only in Prague but in the Czech Republic itself.
+title: Havelská Koruna - Tradiční česká kuchyně v srdci Prahy
+snippet: Tradiční česká kuchyně míří k vám domů. Vážení a věrní zákazníci, pro velký zájem Havelská Koruna zahájila rozvoz jídel v centru Prahy a okolí. Objednávky přijímáme na telefonním čísle 725 501 501 denně od 10 do 20:00 hodin. Aktuální nabídka jídel zde
+title: Restaurant Havelska Koruna, Prague - Stare Mesto (Old Town ...
+snippet: Restaurant Havelska Koruna, Prague: See 1,164 unbiased reviews of Restaurant Havelska Koruna, rated 4 of 5 on Tripadvisor and ranked #830 of 5,897 restaurants in Prague.
+title: Restaurant Havelska Koruna, Prague - Staré Město (Vieille ...
+snippet: Restaurant Havelska Koruna, Prague : consultez 1 164 avis sur Restaurant Havelska Koruna, noté 4 sur 5 sur Tripadvisor et classé #829 sur 5 897 restaurants à Prague.
+title: Restaurant Havelska Koruna, Praha - Restaurantanmeldelser ...
+snippet: Restaurant Havelska Koruna, Praha: Se 1 164 objektive anmeldelser av Restaurant Havelska Koruna, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 829 av 5 897 restauranter i Praha.
+title: Nabídka jídel - Havelská Koruna - Tradiční česká kuchyně v ...
+snippet: Stálá nabídka jídel. Výdej pokrmů &quot;přes okénko&quot; je nyní pozastaven, připravujeme se na rozvoz jídel.
+title: Restaurant Havelska Koruna, Prague - Stare Mesto (Old Town ...
+snippet: Restaurant Havelska Koruna, Prague: See 1,164 unbiased reviews of Restaurant Havelska Koruna, rated 4 of 5 on Tripadvisor and ranked #839 of 5,898 restaurants in Prague.
+title: Restaurants Near Restaurant Havelska Koruna, Prague, Czech ...
+snippet: Restaurants near Restaurant Havelska Koruna, Prague on Tripadvisor: Find traveler reviews and candid photos of dining near Restaurant Havelska Koruna in Prague, Czech Republic.
+title: Restaurant Havelska Koruna, Prag - Staré Město (Altstadt ...
+snippet: Restaurant Havelska Koruna, Prag: 1.164 Bewertungen - bei Tripadvisor auf Platz 829 von 5.897 von 5.897 Prag Restaurants; mit 4/5 von Reisenden bewertet.
+title: Restaurant Havelska Koruna, Praga - recenzje restauracji ...
+snippet: Restaurant Havelska Koruna, Praga: zobacz bezstronne recenzje (1 164 ) na temat Restaurant Havelska Koruna, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 839 z 5 898 restauracji w Pradze.
+
+REL: 2
+POI Name: Pizza Da Pjetro
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, Pizza, 
+Snippets:
+title: Pizza Da Pjetro, Prague - Nove Mesto (New Town ...
+snippet: Pizza Da Pjetro, Prague: See 19 unbiased reviews of Pizza Da Pjetro, rated 4 of 5 on Tripadvisor and ranked #2,344 of 5,900 restaurants in Prague.
+title: Pizza Da Pjetro, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Pizza Da Pjetro, Praha: Se 19 objektive anmeldelser av Pizza Da Pjetro, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 339 av 5 897 restauranter i Praha.
+title: Yummy Pizza - Review of Pizza Da Pjetro, Prague, Czech ...
+snippet: Pizza Da Pjetro: Yummy Pizza - See 19 traveler reviews, 4 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Late Night New York Style Pizza - Pizza Da Pjetro
+snippet: Pizza Da Pjetro: Late Night New York Style Pizza - See 19 traveler reviews, 4 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Best pizza slice in Prague - Review of Pizza Da Pjetro ...
+snippet: Pizza Da Pjetro: Best pizza slice in Prague - See 19 traveler reviews, 4 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Always Fresh and Tasty - Review of Pizza Da Pjetro, Prague ...
+snippet: Pizza Da Pjetro: Always Fresh and Tasty - See 19 traveler reviews, 4 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Always Fresh and Tasty - Pizza Da Pjetro, Prague Traveller ...
+snippet: Pizza Da Pjetro: Always Fresh and Tasty - See 19 traveller reviews, 4 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Pizza Da Pjetro, Praga - recenzje restauracji - Tripadvisor
+snippet: Pizza Da Pjetro, Praga: zobacz bezstronne recenzje (19 ) na temat Pizza Da Pjetro, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 2 346 z 5 899 restauracji w Pradze.
+title: Best pizza slice in Prague - Pizza Da Pjetro, Prague ...
+snippet: Pizza Da Pjetro: Best pizza slice in Prague - See 19 traveller reviews, 4 candid photos, and great deals for Prague, Czech Republic, at TripAdvisor.
+title: PIZZA DA PJETRO, Praga - Nové Město (Città Nuova ...
+snippet: Pizza Da Pjetro, Praga: su Tripadvisor trovi 19 recensioni imparziali su Pizza Da Pjetro, con punteggio 4 su 5 e al n.2.347 su 5.899 ristoranti a Praga.
+
+REL: 2
+POI Name: Pasta Fresca
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Italian restaurant Pasta Fresca - Ambiente
+snippet: Handmade pasta, traditional Italian recipes, ... Pasta Fresca. Celetná 11 110 00 Prague 1 +420 224 230 244 celetna@ambi.cz. Free WIFI. Non-smoking restaurant. Show on map. ... Metropolitan Court in Prague Section C, File No. 56304. Amaso supplies us with Czech meat and charcuterie.
+title: Pasta Fresca, Prague - Stare Mesto (Old Town) - Menu ...
+snippet: Pasta Fresca, Prague: See 4,508 unbiased reviews of Pasta Fresca, rated 4.5 of 5 on Tripadvisor and ranked #307 of 5,897 restaurants in Prague.
+title: Pasta Fresca, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Pasta Fresca, Praha: Se 4 508 objektive anmeldelser av Pasta Fresca, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 307 av 5 897 restauranter i Praha.
+title: Italská restaurace Pasta Fresca - Ambiente
+snippet: Ručně vyráběné těstoviny, tradiční italské receptury, čerstvé ryby a k tomu rušná atmosféra moderní trattorie s hvězdou Ambiente.
+title: Italian Restaurant in Niagara Falls | Pasta Fresca
+snippet: Pasta Fresca is a family owned and operated pasta shop that has been serving the Niagara Region for over 25 years. Whether you are looking for a hot pasta dish to feed your hungry family, or serving a big meal to a large group, Pasta Fresca delivers great food for every occasion.
+title: Ambiente Pasta Fresca Restaurant - Prague, Czech Republic ...
+snippet: Ambiente Pasta Fresca Restaurant, Prague, Czech Republic. 1,763 likes · 4 talking about this · 8,709 were here. Italian Restaurant
+title: Pasta Fresca - Prague.eu
+snippet: Pasta Fresca. A popular Italian restaurant right in the heart of the tourist turmoil. Drop in for a quick lunch from the daily menu, a glass of wine with a selection of delicacies or even a multi-course dinner.
+title: Pasta Fresca Celetná - Home - Prague, Czech Republic ...
+snippet: Pasta Fresca Celetná - Celetná 11, 11000 Prague, Czech Republic - Rated 4.9 based on 24 Reviews &quot;Food was not that good as we think, it will be . Staff -...
+title: Pasta Fresca, Prag - Staré Město (Altstadt) - Menü, Preise ...
+snippet: Das Pasta Fresca ist ein stilvoll eingerichtetes Restaurant in Prag. Dieses ist sehr weitläufig und groß, so, dass man ohne Probleme mittags einen Tisch bekommt. Der Service ist sehr freundlich und aufmerksam. Das Essen war sehr gut, der Preis dafür okay.
+title: Pasta Fresca - Best Italian Restaurant in Singapore
+snippet: Offering a romantic aura, Pasta Fresca Da Salvatore is one of the best Italian family restaurants in Singapore. View our sumptuous menu and exclusive deals!
+
+REL: 2
+POI Name: Smíchovský radniční sklípek
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Czech, Brasseries, 
+Snippets:
+title: Smíchovský radniční sklípek - smichovskysklipek.cz
+snippet: Smíchovský radniční sklípek nabízí svým hostům kromě tradiční české kuchyně, také tradiční česká piva. Našim šlágrem jsou pečená kolena, kachničky či pečená žebra. V pracovní dny nabízíme polední menu.
+title: Smichovsky Radnicni Sklipek, Prague - AndEl - Menu, Prices ...
+snippet: Smichovsky Radnicni Sklipek, Prague: See 218 unbiased reviews of Smichovsky Radnicni Sklipek, rated 4 of 5 on Tripadvisor and ranked #602 of 5,897 restaurants in Prague.
+title: Smíchovský radniční sklípek, Praha - recenze restaurace ...
+snippet: Smíchovský radniční sklípek, Praha: Přečtěte si 218 objektivních recenzí zařízení Smíchovský radniční sklípek, které bylo na webu Tripadvisor ohodnocené známkou 4 z 5 a zaujímá 602 pozicí z 5 897 restaurací v Praze.
+title: Smíchovský Radniční Sklípek - Prague&#39;s Pub &amp; Beer Guide
+snippet: Listed as one of the best Pilsner Urquell pubs in Prague, Smíchovský Radniční Sklípek serves not only fresh, fantastic Pilsner, but also some serious Czech cuisine.Offering a huge menu with at least 3 different sorts of rizek (schnitzel), goulash, pork cooked every way possible, ribs, chicken wings, and for the extremely hungry, a few ‘XXL’ dishes, it’s safe to say everyone will ...
+title: Smíchovský radniční sklípek - Smíchov - Praha, Hlavní ...
+snippet: best place in Prague i&#39;ve been. excellent food with good beer and nice interior. good prices,too. only cash, no cards. 10/10. Sergiu Triboi June 30, 2015. ... smíchovský radniční sklípek praha location • smíchovský radniční sklípek praha address • smíchovský radniční sklípek praha •
+title: Smíchovský radniční sklípek » Polední menu
+snippet: Smíchovský radniční sklípek nabízí svým hostům kromě tradiční české kuchyně, také tradiční česká piva. Našim šlágrem jsou pečená kolena, kachničky či pečená žebra. V pracovní dny nabízíme polední menu.
+title: SMICHOVSKY RADNICNI SKLIPEK, Praga - Anděl - Menú, Precios ...
+snippet: Smichovsky Radnicni Sklipek, Praga: Consulta 218 opiniones sobre Smichovsky Radnicni Sklipek con puntuación 4 de 5 y clasificado en Tripadvisor N.°602 de 5.897 restaurantes en Praga.
+title: Radnicni sklipek, Prague - AndEl - Menu, Prices ...
+snippet: Radnicni sklipek, Prague: See 288 unbiased reviews of Radnicni sklipek, rated 4.5 of 5 on Tripadvisor and ranked #375 of 5,898 restaurants in Prague.
+title: Smíchovský Radniční Sklípek - Prague, Czech Republic ...
+snippet: Smíchovský Radniční Sklípek, Prague, Czech Republic. 174 likes · 6 talking about this · 2,570 were here. Gastropub
+title: Photos at Smíchovský radniční sklípek - Smíchov - Praha ...
+snippet: See all 225 photos taken at Smíchovský radniční sklípek by 3,035 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. ... Planning a trip to Prague?
+
+REL: 2
+POI Name: La Veranda
+POI City: Praha 1
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, 
+Snippets:
+
+
+REL: 2
+POI Name: Rebels
+POI City: Prague
+POI Country: CZ
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Rebels Team Prague - Home | Facebook
+snippet: Rebels Team Prague, Praha. 138 likes · 1 talking about this. Oficiální stránky nového týmu Rebels Team Prague, který spadá pod sportovní odvětví Fitness dětí a mládeže, pod záštitou ICN-ČSNS.
+title: Rebels - Home | Facebook
+snippet: Rebels. 219 likes. Bar Rebels - příjemné místo na kterém si můžete vybrat ze čtyř druhů čepovaného pivka, připravíme Vám míchané drinky a k jídlu třeba poctivý tatarák. Ochutnat můžete výběrové rumy...
+title: MADONNA - Rebel Heart Tour - Prague (07.11.2015.) - YouTube
+snippet: Licensed to YouTube by UMG (on behalf of Eagle Rock Entertainment); UNIAO BRASILEIRA DE EDITORAS DE MUSICA - UBEM, SOLAR Music Rights Management, LatinAutor - SonyATV, LatinAutor, Sony ATV ...
+title: Rebel &amp; Glory - Because everyone needs a fighter in their ...
+snippet: We exist to build a bright future for brands. We create pioneering products and brand experiences that blur the line between the physical &amp; digital, and invent fresh takes on conventional forms. Our technical capabilities lie in virtual and augmented reality, machine learning, postproduction, 3D &amp; digital production.
+title: Restaurant Rebel Wings, Praha - Restaurantanmeldelser ...
+snippet: Restaurant Rebel Wings, Praha: Se 111 objektive anmeldelser av Restaurant Rebel Wings, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 861 av 5 897 restauranter i Praha.
+title: Prague - Wikipedia
+snippet: Peasant rebels, led by the general Jan Žižka, along with Hussite troops from Prague, defeated Emperor Sigismund, in the Battle of Vítkov Hill in 1420. During the Hussite Wars when the City of Prague was attacked by &quot;Crusader&quot; and mercenary forces, the city militia fought bravely under the Prague Banner.
+title: REBEL WINGS - Restaurant and Bar
+snippet: Ze zahraničních trhů se dodává pivo Rebel do Francie, USA, na Ukrajinu a do několika dalších zemí. V další řadě chce projekt „Rebel Wings“ nabídnout hostům a návštěvníkům propojení kvalitní kuchyně, gastronomické úrovně a moderní zábavy. Tento formát momentálně na českém trhu a v tuzemské gastronomii chybí.
+title: TV Rebel - jediná rocková televize
+snippet: Program TV REBEL můžete přijímat také přes kabelové vysílání. Jsme zařazeni do nabídky UPC - více na www.upc.cz. Naladit nás můžete i na satelitu prostřednictvím největší české satelitní služby Skylink.
+title: Bad experince - Anmeldelse for Restaurant Rebel Wings ...
+snippet: Restaurant Rebel Wings: Bad experince - Se 111 reiseanmeldelser, 77 objektive bilder og gode tilbud på Praha, Tsjekkia på Tripadvisor.
+
+REL: 2
+POI Name: Spice India
+POI City: Praha-3
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Indian, Bangladeshi, 
+Snippets:
+
+
+REL: 2
+POI Name: Pizzeria VendeMaria
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Pizzeria Vendemaria, Prague - Zizkov - Menu, Prices ...
+snippet: Pizzeria Vendemaria, Prague: See 34 unbiased reviews of Pizzeria Vendemaria, rated 4.5 of 5 on Tripadvisor and ranked #948 of 5,895 restaurants in Prague.
+title: Pizzeria Vendemaria
+snippet: Rodinný podnik VendeMaria nabízí mimo jiné 37 druhů pizzy, těstoviny a domácí tiramisu. Každá pizza je lahodný originál, který vzniká přímo před vašima očima z těch nejkvalitnějších a nejčerstvejších surovin.
+title: Pizzeria Vendemaria, Praha - Restaurantanmeldelser ...
+snippet: Pizzeria Vendemaria, Praha: Se 34 objektive anmeldelser av Pizzeria Vendemaria, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 949 av 5 898 restauranter i Praha.
+title: Pizzeria Vendemaria - Prague, Czech Republic - Pizza Place ...
+snippet: The Picante delivered from Pizzeria Vendemaria. Salami, onion, hot peppers, mozzarella, olives with fresh oregano and tomato sauce. The whole black olives didn&#39;t work that well, but overall, we liked it a lot and would get it again. 279 czk for the large, plus 80 czk for delivery.
+title: Great - Review of Pizzeria Vendemaria, Prague, Czech ...
+snippet: Pizzeria Vendemaria: Great - See 34 traveler reviews, 12 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Pizzeria Vendemaria, Prag - Žižkov - Restaurant ...
+snippet: Pizzeria Vendemaria, Prag: 33 Bewertungen - bei TripAdvisor auf Platz 935 von 5.828 von 5.828 Prag Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: PIZZERIA VENDEMARIA, Prag - Omdömen om restauranger ...
+snippet: Pizzeria Vendemaria, Prag: Se 34 objektiva omdömen av Pizzeria Vendemaria, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer949 av 5 897 restauranger i Prag.
+title: Pizzeria Vendemaria, Prague - Žižkov - Menu, Prix ...
+snippet: Pizzeria Vendemaria, Prague : consultez 34 avis sur Pizzeria Vendemaria, noté 4,5 sur 5 sur Tripadvisor et classé #949 sur 5 898 restaurants à Prague.
+title: Pizzeria Vendemaria - Pizza, bruschetta
+snippet: 1. Pizza con rosmarino . ex.p.olivový olej, česnek, sůl, rozmarýn . Olive oil, garlic, salt, rosermary. 99 Kč-2. Pizza con pomodori e pesto . rajčata, domácí pesto dle šéfa pizzare . Home made pesto by pizza chef on a tomato base. 129 Kč-3. Margherita . rajčata, mozzarella, čerstvá bazalka . Mozzarella and fresh basil leaves on a ...
+title: Pizzeria Vendemaria, Praga - recenzje restauracji ...
+snippet: Pizzeria Vendemaria, Praga: zobacz bezstronne recenzje (34 ) na temat Pizzeria Vendemaria, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 949 z 5 898 restauracji w Pradze.
+
+REL: 2
+POI Name: Osteria da Clara
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Wine Bars, 
+Snippets:
+title: Home | Da Clara | Pravá středomořská kuchyně | www.daclara.com
+snippet: Vyhlášená restaurace Osteria Da Clara byla založena roku 2008 šéfkuchařem Glennem Zdenkem Svarcem, který zde po dlouhá léta s láskou vařil a servíroval tu nejlepší La Cucina Italiana. V roce 2019 byla Da Clara zcela renovována a stále navazuje na koncept tradiční středomořské kuchyně, ...
+title: Osteria Da Clara, Prague - Praha 10 - Restaurant Reviews ...
+snippet: Osteria Da Clara, Prague: See 203 unbiased reviews of Osteria Da Clara, rated 4.5 of 5 on Tripadvisor and ranked #379 of 5,897 restaurants in Prague.
+title: Osteria Da Clara - Home - Prague, Czech Republic - Menu ...
+snippet: Osteria Da Clara - Mexická 7, 10100 Prague, Czech Republic - Rated 4.7 based on 114 Reviews &quot;We had some troubles with the reservation at the hegining...
+title: Osteria Da Clara, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Osteria Da Clara, Praha: Se 203 objektive anmeldelser av Osteria Da Clara, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 376 av 5 898 restauranter i Praha. Fly Restauranter ... Outback Prague Shooting Range. 301 anmeldelser . 0,24 km unna .
+title: OSTERIA DA CLARA, Prague - Prague 10 - Updated 2020 ...
+snippet: Osteria Da Clara, Prague: See 203 unbiased reviews of Osteria Da Clara, rated 4.5 of 5 on Tripadvisor and ranked #376 of 5,898 restaurants in Prague.
+title: Osteria Da Clara, Prag - Prag 10 - Restaurant Bewertungen ...
+snippet: Osteria Da Clara, Prag: 203 Bewertungen - bei Tripadvisor auf Platz 374 von 5.900 von 5.900 Prag Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Osteria Da Clara, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Osteria Da Clara, Praha: Se 203 objektive anmeldelser av Osteria Da Clara, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 386 av 5 900 restauranter i Praha.
+title: Osteria da Clara - Prague.eu
+snippet: Osteria da Clara. If your time in Prague puts you in the mood for some honest-togoodness Italian cuisine in a casual setting, Osteria da Clara is a proven local treasure, worth making a little detour. Served here you’ll find genuine and unpretentious Tuscan cuisine.
+title: Osteria da Clara pub &amp; bar, Prague - Restaurant menu and ...
+snippet: Osteria da Clara #166 among Prague restaurants: 842 reviews by visitors and 20 detailed photos. This restaurant has earned 4.6 on Google and 8.7 on Foursquare. Be ready to pay CZK 370 - 490 for a meal. Find on the map and call to book a table.
+title: Osteria Da Clara, Praha - recenze restaurace - Tripadvisor
+snippet: Osteria Da Clara, Praha: Přečtěte si 203 objektivních recenzí zařízení Osteria Da Clara, které bylo na webu Tripadvisor ohodnocené známkou 4,5 z 5 a zaujímá 376 pozicí z 5 898 restaurací v Praze.
+
+REL: 2
+POI Name: U Medvídka Pandy
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Desserts, Ice Cream & Frozen Yogurt, 
+Snippets:
+title: U Medvidku - restaurant, brewery and hotel in the center ...
+snippet: U Medvidku - Traditional Prague restaurant. True Czech dishes, excellent beer from our brewery and quality accommodation in a hotel in the center of Prague.
+title: U Medvídka pandy, Radotín, Praha 5 - Lunchtime/Zomato
+snippet: U Medvídka pandy Praha 5; U Medvídka pandy, Radotín; Podívej se na menu, recenze, fotky, kontakty, polohu a další informace o podniku U Medvídka pandy na Zomatu
+title: U Medvidku, Prague - Stare Mesto (Old Town) - Menu, Prices ...
+snippet: The founding of the U Medvidku restaurant can be dated to 1466. This former brewery, which was also the location of the first Prague cabaret, was converted in the last century into one of the largest pubs in Prague.
+title: U Medvídků - historický hotel, restaurace a pivovar v ...
+snippet: Založení restaurace „U Medvídků“ se datuje již od roku 1466. Bývalý pivovar, ve kterém byl rovněž i první pražský kabaret, byl v minulém století přestavěn na jednu z největších pražských pivnic.
+title: U Medvídka Pandy - Desserts - Vrážská 357, Radotín, Prague ...
+snippet: U Medvídka Pandy in Prague, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Prague and beyond. U Medvídka Pandy - Desserts - Vrážská 357, Radotín, Prague, Czech Republic - Yelp
+title: U Medvídka pandy - Radotín - 2 tips from 32 visitors
+snippet: See 5 photos and 2 tips from 32 visitors to U Medvídka pandy. &quot;Nejlepší cukrárna v okolí.&quot; Dessert Shop in Praha, Hlavní město Praha. ... &quot;One of the best and oldest ice cream shops in Prague. Even my first childhood memories are related to it. Recommended.&quot; Jan P.
+title: U Medvídků, Prag - Staré Město (Altstadt) - Menü, Preise ...
+snippet: Meine Frau und ich können die vielen schlechten Bewertungen für dieses Lokal nicht nachvollziehen. Wir gehen seit vielen Jahren ins &quot;U Medvídků&quot; und waren bisher immer zufrieden mit Essen und Service.
+title: U Medvídka pandy, cukrárna, Vrážská, 463/6, Praha — 2GIS
+snippet: U Medvídka pandy, cukrárna: adresy se vstupy na mapě, recenze, fotografie, telefonní čísla, pracovní doba a jak se na místo dostat. Parkování
+title: Restaurace U Medvídků - vyhlášená česká kuchyně a výborné ...
+snippet: Založení restaurace U Medvídků se datuje již od roku 1466. Bývalý pivovar, ve kterém byl rovněž i první pražský kabaret, byl v minulém století přestavěn na jednu z největších pražských pivnic.
+title: Kontakt - U Medvídků
+snippet: Zároveň je povinen zaevidovat přijatou tržbu u správce daně online; v případě technického výpadku pak nejpozději do 48 hodin. V případě, že dojde mezi námi a klientem ke vzniku spotřebitelského sporu z kupní smlouvy nebo ze smlouvy o poskytování služeb, ...
+
+REL: 2
+POI Name: Happy Place
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Organic Stores, Dance Studios, 
+Snippets:
+title: Happy Place &amp; Happy Salsa - Home | Facebook
+snippet: Happy Place &amp; Happy Salsa - Chvalova 11, 130 00 Prague, Czech Republic - Rated 5 based on 8 Reviews &quot;Můžu jen doporučit&quot;
+title: Happy Prague Apartments, Czech Republic - Booking.com
+snippet: Happy Prague Apartments This neighborhood is a great choice for travelers interested in history, architecture and culture – Check location Betlemske Namesti 254/3, Prague, 110 00, Czech Republic – This neighborhood is a great choice for travelers interested in history, architecture and culture – Check location Excellent location – show map – Subway Access
+title: Happy place - Review of Staromestske namesti, Prague ...
+snippet: Staromestske namesti: Happy place - See 55,476 traveler reviews, 31,654 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: My Happy Place in Prague - Review of Kampa Park, Prague ...
+snippet: Kampa Park: My Happy Place in Prague - See 3,755 traveler reviews, 2,104 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Erotic massages | Adult Entertainment | Prague
+snippet: Spoiler alert: For some reason the Czech government has decided not to classify Prague&#39;s various world famous adult entertainment destinations as &#39;essential businesses&#39;, and they&#39;ve thus been closed indefinitely like most other companies due to the global Coronavirus pandemic. On the bright side, t
+title: Happy place. - Review of Cafe Trojka, Prague, Czech ...
+snippet: Cafe Trojka: Happy place. - See 10 traveler reviews, 25 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Happy place - Prague - Places on Czech Republic map, 25 ...
+snippet: Get address of Happy place - Prague, submit your review or ask any question about Happy place, search nearby places on map.
+title: My happy place! - Review of Charles Bridge, Prague, Czech ...
+snippet: Charles Bridge: My happy place! - See 72,060 traveler reviews, 44,713 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: A happy place - Review of Old Town Square, Prague, Czech ...
+snippet: Old Town Square: A happy place - See 523 traveler reviews, 448 candid photos, and great deals for Old Town Square at Tripadvisor.
+title: Vegan Restaurants in Prague, Czech Republic
+snippet: Vegan and vegetarian restaurants in Prague, Czech Republic, directory of natural health food stores and guide to a healthy dining. ... Offers pizza, burger, salad, and dessert. Previously delivery only, since March 2017 opened as an eat-in and take away place at the same address.
+
+REL: 2
+POI Name: Vše pro zdraví
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Organic Stores, Health Markets, 
+Snippets:
+title: Prozdravi.cz - Přírodní cestou ke skutečnému zdraví
+snippet: Zpět Vše. Problematiky. Detoxikace organismu Překyselení organismu Dýchací cesty Hubnutí Cholesterol Imunita Probiotika, prebiotika Klouby, šlachy, kosti Kůže Ledviny a močové cesty Zapomnětlivost, paměť Oběhový systém ... Udělejte něco pro své zdraví.
+title: Vše pro zdraví - Řepy - 1 tip
+snippet: See 1 tip from 10 visitors to Vše pro zdraví. &quot;Je zde výdejna MIXIT.&quot; Health Food Store in Praha, CZ, Řepy. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. ... Planning a trip to Prague?
+title: Vysoká škola ekonomická v Praze - VŠE
+snippet: Poskytuje vzdělání v ekonomických oborech na stupních bakalářském, magisterském a doktorandském. Informace pro uchazeče o studium, fakulty, aktuality, kontakty, vědecká činnost.
+title: Centrum Cvičení pro zdraví - Zbraslav, U Lékárny 597 ...
+snippet: Centrum Cvičení pro zdraví ... Ostatní Tělocvičny ve měste Prague (ukázat vše) SportGym TJ ÚVN Ústřední Vojenská Nemocnice Prague, 16200 . Zábava, hry, skvělý kolektiv dětí od 4 do 18 let, vyškolení trenéři a perfektní všestranná příprava pro všechny druhy sportů!
+title: Vše pro zdraví - Řepy - Prague, Czech Republic
+snippet: Vše pro zdraví in Prague, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Prague and beyond.
+title: Eshop Vše pro zdraví a TČM
+snippet: Vítáme vás na stránkách e-shopu Všeprozdraví-TCM. Převlékli jsme kabát, aby naše nabídka pro vás byla přehlednější a nakupování ještě snazší. Vše ostatní zůstává - široká nabídka potravin, doplňků stravy, přístrojů i kosmetiky - vše pro Vaše zdraví.
+title: Vše pro zdraví a krásu - Posts | Facebook
+snippet: Vše pro zdraví a krásu. 17 likes · 1 talking about this. Pomáhám lidem udržet si zdraví, které jsem si vylepšila díky bylinkám a vím ,že pomáhají :-) ... Poliklinika Prosek · Prague, Czech Republic. 21 people interested. Vše pro zdraví a krásu shared a photo.
+title: Oční operace kvalitně | Vše pro zdraví
+snippet: V současné době má čím dál tím více lidí potíže s očima a nošení brýlí či kontaktních čoček se stává téměř módním trendem. V některých případech, kdy člověk nosí vysoké dioptrie a kdy si člověk díky tomu nemůže vybrat takové obroučky brýlí, jaké by s
+title: Potraviny schválené přírodou | Balíčekzdraví.cz
+snippet: U nás si vyberete potraviny a doplňky výživy, které budou udržovat váš organismus zdravý. Řada produktů pochází z naší vlastní výroby, například Superprotein, ořechová másla nebo proteinové tyčinky.
+title: Grilcentrum.cz - Vše pro grilování - Bar &amp; Grill - Prague ...
+snippet: Grilcentrum.cz - Vše pro grilování - Modřanská 80, 14300 Prague, Czech Republic - Rated 4 based on 8 Reviews &quot;Krasny obchod, super vino aj majitelia.....
+
+REL: 2
+POI Name: Restaurace Století
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, Czech, 
+Snippets:
+title: Restaurace Století
+snippet: Restaurace dbá na stylovou pestrost v jídlech připravovaných z kvalitních surovin podávaných v domácky příjemném prostředí. Kromě stálého jídelního lístku lze vybírat i z denní nabídky včetně poledního menu. Restaurace Století je místem, kde je postaráno o vás, nikoli o čas.
+title: Restaurace Stoleti, Prague - Stare Mesto (Old Town ...
+snippet: Restaurace Stoleti, Prague: See 1,543 unbiased reviews of Restaurace Stoleti, rated 4.5 of 5 on Tripadvisor and ranked #204 of 5,897 restaurants in Prague.
+title: Restaurace Stoleti, Prague - Staré Město (Vieille Ville ...
+snippet: Restaurace Stoleti, Prague : consultez 1 543 avis sur Restaurace Stoleti, noté 4,5 sur 5 sur Tripadvisor et classé #204 sur 5 897 restaurants à Prague.
+title: Restaurace Století, Praha - recenze restaurace - Tripadvisor
+snippet: Restaurace Století, Praha: Přečtěte si 1 543 objektivních recenzí zařízení Restaurace Století, které bylo na webu Tripadvisor ohodnocené známkou 4,5 z 5 a zaujímá 204 pozicí z 5 897 restaurací v Praze.
+title: Restaurace Století - Home | Facebook
+snippet: Restaurace Století, Prague, Czech Republic. 3.1K likes. V naší restauraci zažijete příjemnou domácí atmosféru a ochutnáte inovovanou českou kuchyni doplněnou o mezinárodní inspiraci.
+title: Restaurace Stoleti, Praha - Restaurantanmeldelser ...
+snippet: Restaurace Stoleti, Praha: Se 1 543 objektive anmeldelser av Restaurace Stoleti, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 204 av 5 897 restauranter i Praha.
+title: Restaurace Století - Picture of Restaurace Stoleti, Prague ...
+snippet: Restaurace Stoleti, Prague Picture: Restaurace Století - Check out Tripadvisor members&#39; 50,059 candid photos and videos of Restaurace Stoleti
+title: Restaurace Století, Staré Město, Praha 1
+snippet: Restaurace Století Praha 1; Restaurace Století, Staré Město; Podívej se na menu, recenze, fotky, kontakty, polohu a další informace o podniku Restaurace Století na Zomatu. It is an icon ... The hotel I stayed in had this as a recommended restaurant in Prague.
+title: Ve Století – Restaurace &amp; Pension
+snippet: Ve Století - Přijďte posedět do příjemného prostředí naší restarurace. Hezké chvíle u dobrého jídla a pití můžete strávit v různých částech našeho objektu. Nechybí tu krb, zahrádka s grilem, ani dětské hřiště pro nejmenší návštěvníky.
+title: interiér Století restaurace - Bilde av Restaurace Stoleti ...
+snippet: Restaurace Stoleti, Praha Bilde: interiér Století restaurace - Se Tripadvisor-medlemmers 50 382 objektive bilder og videoer av Restaurace Stoleti. Praha. Turisme i Praha Hotell i Praha Bed and Breakfast i Praha ... Hotell i nærheten av Prague Airport Transfers ...
+
+REL: 2
+POI Name: Mini Market
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+title: Manni Mini Market :::...
+snippet: Market Mini Market ::::..... Non Stop ..... 24 Hours .....:::: M M M ::::.....
+title: Prague Markets - Market Information Guide
+snippet: Prague Markets A-Z The most famous Prague markets are the Christmas markets and Easter markets, when the city fills with festive delights.Aside from these, Prague has two permanent markets, a farmers&#39; market, street vendors and pop-up markets.
+title: Mint Market
+snippet: Vánoce, Vánoce přicháázejí… a vy už si určitě začínáte lámat hlavu s tím, čím potěšíte své nejbližší. Můžeme se zaručit, že nejkrásnější dárky jsou buď ty vlastnoručně vyrobené, nebo ty pečlivě vybrané a vyrobené s láskou českými designéry.
+title: Mini Market - Prague
+snippet: Get address of Mini Market - Prague, submit your review or ask any question about Mini Market, search nearby places on map.
+title: Mini Market - Prague 1, Prague - Untappd
+snippet: Find out what&#39;s popular at Mini Market in Prague 1, Prague in real-time and see activity
+title: Farmers markets in Prague: Where to go and what to taste ...
+snippet: While we rarely visit them during our Prague food tours, Prague farmers markets are, without a doubt, one of the best things to do in Prague.As a Prague attraction, they are authentic, genuine and popular among the locals. Prague markets are on throughout the year, most typically on Saturday mornings, with an ever-shorter pause in January and February.
+title: Mini market , by lift - Picture of Best Western City Hotel ...
+snippet: Best Western City Hotel Moran, Prague Picture: Mini market , by lift - Check out Tripadvisor members&#39; 50,013 candid photos and videos of Best Western City Hotel Moran
+title: Mini Market Praha 6 - Grocery Store in Prague
+snippet: See photos, tips, similar places specials, and more at Mini Market Praha 6. Grocery Store in Praha, Hlavní město Praha. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, ... Planning a trip to Prague? Foursquare can help you find the best places to go to.
+title: Minimarket Aida - 1,285 Photos - 15 Reviews - Specialty ...
+snippet: Minimarket Aida - Holečkova 1205/93, 15000 Prague, Czech Republic - Rated 5 based on 15 Reviews &quot;Perfect shopping experience&quot;
+title: Holesovice - a mini guide to Prague&#39;s coolest district
+snippet: A mini guide to Holesovice, Prague - the coolest district in the Czech capital. What to see, where to eat, shop, hang out and sleep!
+
+REL: 2
+POI Name: Mlejnice
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Czech, Barbeque, 
+Snippets:
+title: Restaurace Mlejnice, Prague - Stare Mesto (Old Town ...
+snippet: Restaurace Mlejnice, Prague: See 4,107 unbiased reviews of Restaurace Mlejnice, rated 4.5 of 5 on Tripadvisor and ranked #593 of 5,897 restaurants in Prague.
+title: Menu - Mlejnice
+snippet: Menu. Restaurant Mlejnice I Kožná 14, Prague 1, Phone number: +420 224 228 635 email: kozna@restaurace-mlejnice.cz Restaurant Mlejnice II Žatecká 17, Prague 1, Phone number: +420 222 316 604 email: zatecka@restaurace-mlejnice.cz Open Daily from 11:00 till 23:00. Links.
+title: Mlejnice
+snippet: Vítejte na stránkách restaurace Mlejnice. Restaurace Mlejnice v Kožné ulici v bezprostřední blízkosti Staroměstského náměstí byla otevřena v r. 1999 a patří v této lokalitě mezi velice vyhledávané restaurace díky útulnému a stylovému prostředí a vyhlášené kuchyni, doplněnou o nabídku alkoholických a nealko nápojů.
+title: Mlejnice, Prague - Stare Mesto (Old Town) - Restaurant ...
+snippet: Mlejnice, Prague: See 1,404 unbiased reviews of Mlejnice, rated 4 of 5 on Tripadvisor and ranked #482 of 5,897 restaurants in Prague.
+title: Restaurace Mlejnice, Praha - Restaurantanmeldelser ...
+snippet: Restaurace Mlejnice, Praha: Se 4 106 objektive anmeldelser av Restaurace Mlejnice, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 595 av 5 898 restauranter i Praha.
+title: MLEJNICE, Prague - Staré Město (Old Town) - Updated 2020 ...
+snippet: Mlejnice, Prague: See 1,404 unbiased reviews of Mlejnice, rated 4 of 5 on Tripadvisor and ranked #484 of 5,899 restaurants in Prague.
+title: Restaurace Mlejnice, Prague - Staré Město (Vieille Ville ...
+snippet: Restaurace Mlejnice, Prague : consultez 4 107 avis sur Restaurace Mlejnice, noté 4,5 sur 5 sur Tripadvisor et classé #593 sur 5 897 restaurants à Prague.
+title: De 10 beste restaurantene i Praha - Tripadvisor
+snippet: Beste restauranter i Praha, Tsjekkia: Se anmeldelser fra reisende og bilder av spisesteder i Praha, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Racists - Restaurace Mlejnice, Prague Traveller Reviews ...
+snippet: Restaurace Mlejnice: Racists - See 4,107 traveler reviews, 2,512 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Mlejnice | TasteAtlas | Recommended authentic restaurants
+snippet: Mlejnice is a recommended authentic restaurant in Prague, Czech Republic, famous for Guláš
+
+REL: 2
+POI Name: Pekařství Fall
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Delicatessen, Bakeries, 
+Snippets:
+title: Pekařství PAUL, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Pekařství PAUL, Praha: Se 220 objektive anmeldelser av Pekařství PAUL, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 561 av 5 897 restauranter i Praha.
+title: Pekařství - Bistro Pance &amp; Landi - Prague, Czech Republic ...
+snippet: Pekařství - Bistro Pance &amp; Landi - Podlipného 810/14, 180 00 Prague, Czech Republic - Rated 4.9 based on 2 Reviews &quot;A heartfull bakery ♥&quot;
+title: pekařství PAUL, Praha - recenze restaurace - Tripadvisor
+snippet: pekařství PAUL, Praha: Přečtěte si 220 objektivních recenzí zařízení pekařství PAUL, které bylo na webu Tripadvisor ohodnocené známkou 4 z 5 a zaujímá 561 pozicí z 5 898 restaurací v Praze. Lety ... Hi evzat, Thank you for taking the time to share your feedback on Prague - Paul Václavské náměstí.
+title: Pekařství Martin Černý - Kobylisy - Prague, Czech Republic
+snippet: Pekařství Martin Černý in Prague, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Prague and beyond.
+title: NÁŠ CHLÉB - Prague, Czech Republic | Facebook
+snippet: Bakery in Prague, Czech Republic. 4.3. 4.3 out of 5 stars. Closed Now. Community See All. 832 people like this. 848 people follow this. 1 check-in. About See All +420 724 426 049. Contact NÁŠ CHLÉB on Messenger. Www.vasepekarna.cz. Bakery · Retail Company. ... Pekařství Šumava group a.s.
+title: Pekařství PAUL - Picture of Pekarstvi PAUL, Prague ...
+snippet: Pekarstvi PAUL, Prague Picture: Pekařství PAUL - Check out Tripadvisor members&#39; 50,016 candid photos and videos of Pekarstvi PAUL. Prague. Prague Tourism Prague Hotels Prague Bed and Breakfast Prague Vacation Rentals Prague Vacation Packages Flights to Prague Prague Restaurants Things to Do in Prague
+title: Pekařství Nopek - pobočky Praha - Cupcake Shop - Prague ...
+snippet: Pekařství Nopek - pobočky Praha - Spálená 16, 11000 Prague, Czech Republic - Rated 4.9 based on 10 Reviews &quot;Bezlepkové obložené housky a jiné pečivo .....
+title: Pekařství Mareš &amp; synové, K Nouzovu 2181/1, Prague (2020)
+snippet: Prague; Pekařství Mareš &amp; synov ... Pekařství Mareš &amp; synové ... v nabídce MAXI rohlíky a housky ? chybět nebudou vánočky, výběr z domácího cukroví, koláčky, chleba a jiné pekařské pochutiny ? navi.. 18/11/2019 . Teď už nás uvidíte na míle daleko! ?
+title: Antonínovo pekařství - Grocery Store - Prague, Czech ...
+snippet: Antonínovo pekařství. 10,187 likes · 83 talking about this. V Antonínově pekařství připravujeme čerstvý chleba, rohlíky, koláče, polévky a mnoho dalších dobrot. Na Vinohradech, ve Vršovicích, v...
+title: Antonín Bakery (Antonínovo pekařství) - Prague.eu
+snippet: Antonín Bakery (Antonínovo pekařství) A place where bakers perform wonders with dough before the eyes of their customers, where they bake the best bread rolls and the tastiest bread. A place where people go to shop s chutí, where every time they can fall in love with a new type of sweets, delicious soup or the aroma of freshly roasted coffee.
+
+REL: 2
+POI Name: Čapátí
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: capati.cz - ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY
+snippet: ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY. Budečská 2165 / 35 120 00 Praha 2, Vinohrady Czech Republic Call us: +420 776 627 415, +420 775 627 415 Email us: info@capati.cz
+title: Čapátí Spices
+snippet: ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY. Your Best Resource for Indian Groceries and Herbal Products. We do not collect your personal information on our site.
+title: Contact us - ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY
+snippet: ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY. Budečská 2165 / 35 120 00 Praha 2, Vinohrady Czech Republic Call us: +420 776 627 415, +420 775 627 415 Email us: info@capati.cz
+title: - Swagat
+snippet: Vážení zákazníci, dovolujeme si Vás informovat ohledně současné situace doručování zásilek. s ohledem na nařízení vlády České republiky z 15.3.2020 jsou dočasně pozastavená možnost doručování zásilek prostřednictvím Zásilkovna. Zásilky prostřednictvím České pošty budou se doručovat na poštu každou středu a pátek…
+title: ČAPÁTÍ
+snippet: ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY. Your Best Resource for Indian Groceries and Herbal Products. We do not collect your personal information on our site.
+title: Our Products - ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY
+snippet: ČAPÁTÍ VEGETARIÁNSKÉ POTRAVINY. Your Best Resource for Indian Groceries and Herbal Products. We do not collect your personal information on our site.
+title: Čapátí - Gourmet Shop in Praha
+snippet: See 1 tip from 5 visitors to Čapátí. &quot;Každé pondělí večer dovážejí nové zásoby.&quot; Gourmet Shop in Praha, Hlavní město Praha. ... Planning a trip to Prague? Foursquare can help you find the best places to go to. Find great things to do.
+title: INDICKÝ / INDIAN SHOP - INDICKÝ A PAKISTANI OBCHOD ...
+snippet: No new products at this time. Specials; New products; Top sellers; Contact us; TERMS AND CONDITIONS; CONTACT US
+title: Prague Holi - Festival of Colors - Posts | Facebook
+snippet: Prague Holi &amp; Baisakhi show 2019 – Bharat Sangh Czech Republic, in cooperation with the Embassy of India, invites you to celebrate Prague Holi &amp; Baisakhi show When? On 13.4.2019 tickets sold from 16.30 the actual program begins at 17.45 at Congress center entrance no 5, Prague 4 Metro Vysehrad. Come, enjoy and have fun at the festival.
+title: Punjabi Food
+snippet: Casually Cool &amp; Friendly Restaurant in Prague. Step into the warm and upbeat surrounding of Punjabi Food where you experience the most treasured and welcoming hospitality. With wide assortment of happy meals combined with local and seasonal mixtures, we offer a place where kids are kids and parents become kids too.
+
+REL: 2
+POI Name: Lavička
+POI City: Praha-3
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, Czech, 
+Snippets:
+
+
+REL: 2
+POI Name: Natálie Steklová shop&café
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Natalie Steklova – Fashion, Art &amp; Style
+snippet: Born in Ostrava, Czech Republic on 5.7.1975, Natalie studied Postgradual Studies at SPSO in Prague and at SPST in Liberec. Right after being expelled from the school (for “cheekyness”) she made it in the final round of “Smirnoff International Fashion Award” for young talents.
+title: Natálie Steklová shop&amp;café - Nové Město - Prague, Czech ...
+snippet: Natálie Steklová shop&amp;café in Prague, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Prague and beyond.
+title: Natálie Steklová shop&amp;café in Praha, Hlavní město Praha ...
+snippet: Sep 16, 2015 - Natálie Steklová shop&amp;café in Praha, Hlavní město Praha. Sep 16, 2015 - Natálie Steklová shop&amp;café in Praha, Hlavní město Praha. Stay safe and healthy. Please practice hand-washing and social distancing, and check out our resources for adapting to these times.
+title: Natálie Steklová shop&amp;café - Praha 1 - Jungmannovo náměstí 17
+snippet: Planning a trip to Prague? Foursquare can help you find the best places to go to. Find great things to do. See all 20 photos. ... natálie steklová shop&amp;café praha location • natálie steklová shop&amp;café praha address • natálie steklová shop&amp;café praha •
+title: Natálie Steklová shop&amp;café - Prague
+snippet: Get address of Natálie Steklová shop&amp;café - Prague, submit your review or ask any question about Natálie Steklová shop&amp;café, search nearby places on map.
+title: Natálie Steklová - Home | Facebook
+snippet: Natálie Steklová, Prague, Czech Republic. 2,289 likes · 9 talking about this. - sustainable fashion &amp; jewelry
+title: Natálie Steklová - Home | Facebook
+snippet: Natálie Steklová, Prague, Czech Republic. 2,292 likes. - sustainable fashion &amp; jewelry
+title: Natálie Steklová - Praha 6 - Prague, Czech Republic
+snippet: Natálie Steklová in Prague, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Prague and beyond. Natálie Steklová - Video/Film Production - Šmolíkova 907/9, Praha 6, Prague, Czech Republic - Yelp
+title: Natalie Steklova ecological collection for Prague fashion ...
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: Fashion – Natalie Steklova
+snippet: Born in Ostrava, Czech Republic on 5.7.1975, Natalie studied Postgradual Studies at SPSO in Prague and at SPST in Liberec. Right after being expelled from the school (for “cheekyness”) she made it in the final round of “Smirnoff International Fashion Award” for young talents.
+
+REL: 2
+POI Name: Quick Apetit
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Kebab, Mediterranean, Pizza, 
+Snippets:
+title: Quick Apetit, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Quick Apetit, Praha: Se objektive anmeldelser av Quick Apetit, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 4 196 av 5 898 restauranter i Praha.
+title: Quick Apetit, Prague - Praha 5 - Restaurant Reviews ...
+snippet: Quick Apetit, Prague: See unbiased reviews of Quick Apetit, rated 5 of 5 on Tripadvisor and ranked #4,197 of 5,898 restaurants in Prague.
+title: Quick Apetit, Prague - Prague 5 - Restaurant Reviews ...
+snippet: Quick Apetit, Prague: See unbiased reviews of Quick Apetit, rated 5 of 5 on Tripadvisor and ranked #4,189 of 5,896 restaurants in Prague.
+title: Quick Meal Before Concert - Review of Apetit, Prague ...
+snippet: Apetit: Quick Meal Before Concert - See 244 traveler reviews, 91 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Great little hole in the wall place! - Quick Apetit
+snippet: Quick Apetit: Great little hole in the wall place! - See traveler reviews, candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: QUICK APETIT, Prag - Omdömen om restauranger - Tripadvisor
+snippet: Quick Apetit, Prag: Se objektiva omdömen av Quick Apetit, som fått betyg 5 av 5 på Tripadvisor och rankas som nummer4 194 av 5 897 restauranger i Prag.
+title: Quick Apetit, Prague - Prague 5 - Restaurant Avis &amp; Numéro ...
+snippet: Quick Apetit, Prague : consultez avis sur Quick Apetit, noté 5 sur 5 sur Tripadvisor et classé #4 199 sur 5 900 restaurants à Prague.
+title: Apetit, Prague - Dlouha 23, Stare Mesto (Old Town ...
+snippet: Apetit, Prague: See 244 unbiased reviews of Apetit, rated 4 of 5 on Tripadvisor and ranked #586 of 5,898 ... This is not fancy restaurant just self service restaurant with honest typical Czech fare for a quick but yummy lunch. For the tourist part of the town great value for money. Restaurant clean, toilets just down next ...
+title: Ideal for a quick lunch - Review of Apetit, Prague, Czech ...
+snippet: Apetit: Ideal for a quick lunch - See 245 traveler reviews, 91 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Quick Apetit, Praga - recenzje restauracji - Tripadvisor
+snippet: Quick Apetit, Praga: zobacz bezstronne recenzje na temat Quick Apetit, z oceną 5 na 5 w serwisie Tripadvisor, na pozycji 4 194 z 5 897 restauracji w Pradze.
+
+REL: 2
+POI Name: Cafe No 3
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, Cafes, 
+Snippets:
+title: Cafe No 3, Prague - Stare Mesto (Old Town) - Restaurant ...
+snippet: Cafe No 3, Prague: See 540 unbiased reviews of Cafe No 3, rated 4.5 of 5 on Tripadvisor and ranked #70 of 5,897 restaurants in Prague.
+title: Cafe No 3, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe No 3, Praha: Se 536 objektive anmeldelser av Cafe No 3, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 65 av 5 889 restauranter i Praha.
+title: Cafe No. 3 - Home | Facebook
+snippet: Cafe No. 3 - Jakubská 3, 110 00 Prague, Czech Republic - Rated 5 based on 36 Reviews &quot;A magical little spot in Prague. Had the tuna sandwich (so yummy),...
+title: CAFE NO 3, Prague - Staré Město (Old Town) - Updated 2020 ...
+snippet: Cafe No 3, Prague: See 540 unbiased reviews of Cafe No 3, rated 4.5 of 5 on Tripadvisor and ranked #70 of 5,897 restaurants in Prague.
+title: Cafe No. 3, Praha - recenze restaurace - Tripadvisor
+snippet: Cafe No. 3, Praha: Přečtěte si 540 objektivních recenzí zařízení Cafe No. 3, které bylo na webu Tripadvisor ohodnocené známkou 4,5 z 5 a zaujímá 70 pozicí z 5 897 restaurací v Praze.
+title: Cafe No 3, Prague - Restaurant menu and reviews
+snippet: Cafe No 3, #5 among Prague cafes: 584 reviews by visitors and 20 detailed photos. The restaurant gained 5 on Facebook and 7.8 on Foursquare. This place offers you meals for CZK 150 - 360. Find on the map and call to book a table.
+title: Cafe No 3, Prague - Staré Město (Vieille Ville ...
+snippet: Cafe No 3, Prague : consultez 540 avis sur Cafe No 3, noté 4,5 sur 5 sur Tripadvisor et classé #70 sur 5 897 restaurants à Prague.
+title: CAFE NO 3, Praga - Staré Město (Città Vecchia ...
+snippet: Cafe No 3, Praga: su Tripadvisor trovi 540 recensioni imparziali su Cafe No 3, con punteggio 4,5 su 5 e al n.70 su 5.897 ristoranti a Praga.
+title: Cafe No 3 - Staré Město - Prague, Czech Republic - Yelp
+snippet: 8 reviews of Cafe No 3 &quot;Great coffee spot. Nice ambience and you can feel someone has taken the time to develop the concept.&quot; Cafe No 3 - 14 Photos - Bistros - Jakubska 3, Staré Město, Prague, Czech Republic - Restaurant Reviews - Phone Number - Yelp
+title: Cafe No 3, Prag - Staré Město (Altstadt) - Restaurant ...
+snippet: Cafe No 3, Prag: 540 Bewertungen - bei Tripadvisor auf Platz 70 von 5.897 von 5.897 Prag Restaurants; mit 4,5/5 von Reisenden bewertet.
+
+REL: 2
+POI Name: The Bašta brewery
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Czech, Breweries, 
+Snippets:
+title: Sousedský pivovar Bašta and U Bansethů Restaurant - Prague.eu
+snippet: Sousedský pivovar Bašta and U Bansethů Restaurant. A small family business, which comprises the “U Bansethů” Pilsner beerhall and the “Bašta” neighbourhood brewery located a short walk from Vyšehrad Castle.
+title: Sousedský Pivovar Bašta - Microbrewery, Prague - Pubs ...
+snippet: Sousedský Pivovar Bašta The most authentic of Czech neighborhood brewpubs Sarah K. 20 May 2016 Few places in Prague offer visitors everything; but with Pivovar Bašta’s in-house brewed, supremely fresh lagers on tap, delicious Czech cuisine, and a down-to-earth atmosphere, everyone feels at home.
+title: Beer - Prague.eu
+snippet: Prague is, simply put, a beer lover’s paradise. While the pale lager - or pilsner - is still king, variety now thrives and many different kinds of beer are brewed here. There are over 40 breweries and brewpubs in Prague, plus dozens of beer bars, pubs, and beer-centric restaurants.
+title: U Fleku - Microbrewery, Prague - Beer Tourism | Prague&#39;s ...
+snippet: U Fleků’s tour is fun, educational, and a feast for your eyes- the architecture in the brewery is amazing. You have a unique chance to feel the history that makes Prague and Czech beer so special. Book the U Fleku brewery tour including a classic Czech lunch. Beer. Since 1843, U Fleků has served their critically acclaimed special dark 13 ...
+title: Pivovar Bašta | Prague Stay
+snippet: Prague-Stay.com &gt; Lifestyle &gt; Pivovar Bašta . Located in the residential area of Nusle, across from the Prague 4 City Hall and close to Náměstí Bratří Synků is Pivovar Bašta (in English, Basta Brewery). This is one of the best breweries that the city of Prague has to offer. With fresh, ...
+title: Brewery | Prague Stay
+snippet: Pivovar Bašta Located in the residential area of Nusle, across from the Prague 4 City Hall and close to Náměstí Bratří Synků is Pivovar Bašta (in English, Basta Brewery). This is one of the best breweries that the city of Prague has to offer.
+title: Breweries | Prague Stay
+snippet: Pivovar Bašta Located in the residential area of Nusle, across from the Prague 4 City Hall and close to Náměstí Bratří Synků is Pivovar Bašta (in English, Basta Brewery). This is one of the best breweries that the city of Prague has to offer.
+title: Pivovar Bašta - Pubs | Prague&#39;s Beer Guide
+snippet: The Pivovar Bašta brewery is located in Prague. Drink beer from this Czech brewery in Prague.
+title: Ubansethu
+snippet: Welcome to the website of U Bansethů and next door Bašta brewery
+title: Sousedský Pivovar Bašta - Brewery - Nusle, Hlavní Město ...
+snippet: Sousedský Pivovar Bašta - Táborská 389/49, 14000 Nusle, Hlavní Město Praha, Czech Republic - Rated 4.8 based on 50 Reviews &quot;Excellent beer and food! You...
+
+REL: 2
+POI Name: Futurama Kantýna Éčko
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Czech, 
+Snippets:
+title: Kantýna ÉČKO, Jídelna Kantýna Éčko Karlín | Jídelna Praha ...
+snippet: Jídelna, kantýna Éčko Kantýna je do odvolání uzavřena. Děkujeme za pochopení. Jídelna ÉČKO v Praze 8 nabízí denní stravování nejen pro zaměstnance office parku Futurama, ale i stravování pro širokou veřejnost.
+title: Denní menu jídelny ÉČKO. Kantýna je ... - Prague catering
+snippet: Denní menu jídelny ÉČKO. Kantýna je do odvolání uzavřena. Denní doprodej pokrmů jídelny ÉČKO. Připraven denní výprodej pokrmů, sendvičů, dezertů, pečiva, teplého a salátového buffetu z denní nabídky kantýny ÉČKO. Doprodej je za 50% cenu původní hodnoty pokrmů.
+title: Futurama
+snippet: Amenities Green Factory Canteen ÉČKO Canteen Futurama Kindergarten Malvína ČEZ Client Centre VZP Client Centre Candy Hoover Showroom Scott Sport Prague Vo2max - holistic therapy &amp; sports Bicycle storage and changing rooms Parcel Collection / Drop Location ČSOB ATM Chinese Visa Application Service Center
+title: Neighborhood &gt; Futurama - Futurama Business Park
+snippet: and on the border of Prague&#39;s prime Karlin neighborhood, Futurama Business Park provides its tenants with excellent city-wide access.Walk out the front door and stroll to the residential and social conveniences of Karlin, including numerous coffee shops, restaurants, bars and pubs, offering a variety of hangouts nearby for after-work drinks.
+title: ECKO canteen | Canteen ECKO Karlin | Canteen Prague 8 ...
+snippet: Éčko canteen. ÉČKO canteen in Prague 8 offers daily catering not only for the employees of Futurama office park but for public as well. If you do not know where to eat in Prague 8 in a cosy environment, where to find the best dishes and where to have quick but tasty lunch, then ÉČKO canteen in Prague 8, situated right at the underground stop “Invalidovna”, offers you everything ...
+title: Kantýna ÉČKO - Karlín - Praha, Hlavní město Praha
+snippet: futurama kantýna ečko praha • futurama kantýna éčko praha • kantýna ečko praha • kantýna éčko praha • éčko praha • kantýna éčko karlín praha ... The 15 Best Places That Are All You Can Eat in Prague; Česká republika » Hlavní město Praha » Praha » Professional &amp; Other Places » Office » Corporate Cafeteria. Is ...
+title: Kantýna Éčko Karlín, Sokolovská 136e, Praha 8, Praha ...
+snippet: Denní menu, recenze, jídelní lístek, kontakt, fotky, akční nabídky a slevy restaurace Kantýna Éčko Karlín - Jídelna ÉČKO v Praze 8 nabízí denní stravování nejen pro zaměstnance office parku Futurama, ale i stravování pro širokou veřejnost. Nevíte, kde se najíst v Praze 8 v příjemném prostředí, kde najdete ty nejlepší jídla a kde si dáte rychlý, přitom ...
+title: Photos at Kantýna ÉČKO - Karlín - Praha, Hlavní město Praha
+snippet: See all 13 photos taken at Kantýna ÉČKO by 410 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, ... Planning a trip to Prague? Foursquare can help you find the best places to go to. Find great things to do.
+title: Kantýna - řeznictví a restaurace
+snippet: Naše Kantýna voní řemeslem a ohněm, na kterém ho pečeme. Butchers fill the counter with Czech meat, which chefs grill over open flame. Load up your tray or pick up for home. Butchers fill the counter with Czech meat, which chefs grill over open flame. Load up your tray or pick up for home.
+title: Canteen Futurama Prague | Daily Sale Futurama Canteen ...
+snippet: If you do not know where to go and eat in a cosy atmosphere in Prague 8, where to find the best dishes and where to have quick but good lunch, go to Futurama canteen in Prague 8, right at the underground stop Invalidovna, there you will find everything mentioned above. In the section of Daily menu we
+
+REL: 2
+POI Name: Czech Slovak Restaurant & Lounge
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Slovakian, Czech, 
+Snippets:
+title: Restaurace Praha 1, české pokrmy - czechslovak.cz ...
+snippet: Restaurace Praha 1 - Centrum. České a Slovenské speciality v moderním pojetí. Představujeme vám první ryze československý koncept restaurantu, jehož hlavním posláním jevzkřísit historicky nejoblíbenější pokrmy z našich luhů a hájů, ve víru 21. století.
+title: Restaurant - czechslovak.cz
+snippet: restaurant of real family character in Prague.” BOOK NOW. Czech and Slovak specialities in modern style. We present the first and only Czechoslovak concept restaurant, where our main mission is to rise the historically most favourite dishes from our meadows and groves, ...
+title: Czech Slovak Restaurant Lounge Bar, Prague - Praha 1 (City ...
+snippet: Czech Slovak Restaurant Lounge Bar, Prague: See 681 unbiased reviews of Czech Slovak Restaurant Lounge Bar, rated 5 of 5 on Tripadvisor and ranked #17 of 5,897 restaurants in Prague.
+title: Czech Slovak Restaurant Lounge Bar, Praha ...
+snippet: Czech Slovak Restaurant Lounge Bar, Praha: Se 681 objektive anmeldelser av Czech Slovak Restaurant Lounge Bar, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 17 av 5 897 restauranter i Praha.
+title: Czech Slovak Restaurant Lounge Bar, Prague - Praha 1 (City ...
+snippet: Czech Slovak Restaurant Lounge Bar, Prague: See 660 unbiased reviews of Czech Slovak Restaurant Lounge Bar, rated 5 of 5 on TripAdvisor and ranked #19 of 5,867 restaurants in Prague.
+title: Czech Slovak Restaurant Lounge Bar, Prag - Prag 1 ...
+snippet: Czech Slovak Restaurant Lounge Bar, Prag: 681 Bewertungen - bei Tripadvisor auf Platz 17 von 5.897 von 5.897 Prag Restaurants; mit 5/5 von Reisenden bewertet.
+title: Czech Slovak Restaurant Lounge Bar, Prague - Prague 1 ...
+snippet: Czech Slovak Restaurant Lounge Bar, Prague : consultez 681 avis sur Czech Slovak Restaurant Lounge Bar, noté 5 sur 5 sur Tripadvisor et classé #17 sur 5 897 restaurants à Prague.
+title: Czech Slovak Restaurant &amp; Lounge - Posts - Prague, Czech ...
+snippet: Czech Slovak Restaurant &amp; Lounge - Újezd 20, 11000 Prague, Czech Republic - Rated 4.9 based on 54 Reviews &quot;We just visited Prague for 8 days and I ate at...
+title: CZECH SLOVAK RESTAURANT LOUNGE BAR, Praga - Comentários de ...
+snippet: Czech Slovak Restaurant Lounge Bar, Praga: Veja 681 dicas e avaliações imparciais de Czech Slovak Restaurant Lounge Bar, com classificação Nº 5 de 5 no Tripadvisor e classificado como Nº 17 de 5.897 restaurantes em Praga. ... Of all restaurants in Prague, this was my favourite.
+title: CZECH SLOVAK RESTAURANT LOUNGE BAR, Praga - Comentários de ...
+snippet: Czech Slovak Restaurant Lounge Bar, Praga: Veja 681 dicas e avaliações imparciais de Czech Slovak Restaurant Lounge Bar, com classificação Nº 5 de 5 no Tripadvisor e classificado como Nº 17 de 5.897 restaurantes em Praga.
+
+REL: 2
+POI Name: U Houdků
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Czech, 
+Snippets:
+title: U Houdků, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: U Houdků, Praha: Se 476 objektive anmeldelser av U Houdků, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 356 av 5 900 restauranter i Praha.
+title: U HOUDKU, Prague - Zizkov - Updated 2020 Restaurant ...
+snippet: U Houdku, Prague: See 476 unbiased reviews of U Houdku, rated 4.5 of 5 on Tripadvisor and ranked #356 of 5,897 restaurants in Prague.
+title: Uhoudku
+snippet: Těšíme se na Vás denně vždy od 11 do 24 hodin ve Vaší oblíbené tradiční restauraci v ulici Bořivojova 693/110, Žižkov
+title: U Houdků - Home | Facebook
+snippet: U Houdků - Bořivojova 110, 13000 Prague, Czech Republic - Rated 4.4 based on 19 Reviews &quot;The place that&#39;s been dear to me since the moment of my arrival...
+title: U Houdků, Prague - Žižkov - Restaurant Avis, Numéro de ...
+snippet: U Houdků, Prague : consultez 476 avis sur U Houdků, noté 4,5 sur 5 sur Tripadvisor et classé #356 sur 5 897 restaurants à Prague.
+title: Restaurace U Houdků | Location in Prague - LikeALocal Guide
+snippet: The location of Restaurace U Houdků in Prague. Why locals love it. This cosy place located just 3 tram stops from the Venceslas square is well known especially among students.
+title: U Houdků, Prag - Žižkov - Restaurant Bewertungen ...
+snippet: U Houdků, Prag: 476 Bewertungen - bei Tripadvisor auf Platz 356 von 5.897 von 5.897 Prag Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: U Houdků, Praga - recenzje restauracji - Tripadvisor
+snippet: U Houdků, Praga: zobacz bezstronne recenzje (476 ) na temat U Houdků, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 356 z 5 898 restauracji w Pradze.
+title: Restaurace U Houdků, Praha - recenze restaurace - Tripadvisor
+snippet: Restaurace U Houdků, Praha: Přečtěte si 476 objektivních recenzí zařízení Restaurace U Houdků, které bylo na webu Tripadvisor ohodnocené známkou 4,5 z 5 a zaujímá 356 pozicí z 5 897 restaurací v Praze.
+title: Restaurace U Houdků, Žižkov, Praha 3
+snippet: Restaurace U Houdků Praha 3; Restaurace U Houdků, Žižkov; Podívej se na menu, recenze, fotky, kontakty, polohu a další informace o podniku Restaurace U Houdků na Zomatu ... Praha 3 restauracích, Žižkov restaurace, Nejlepší Žižkov restaurace, Praha 3 restaurace, Česká restaurace Prague, Podniky v okolí ...
+
+REL: 2
+POI Name: Billa
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+title: BILLA | PŘESNĚ PODLE MÉHO GUSTA
+snippet: BILLA váš expert na potraviny BILLA váš expert na potraviny Připojte se k nám a objevte, co znamená čerstvost. Více zde. BILLA Bonus club Výhody BBC Výhody BBC Staňte se členem světa atraktivních nabídek a slev. Více zde. Magazín Gusto ZDARMA Magazín Gusto ZDARMA ...
+title: BILLA | Akční letáky
+snippet: Leták BILLA Bonus clubu Leták BILLA Bonus clubu Platí od středy 8. 4. do úterý 21. 4. 2020 Nedělní jackpot Nedělní jackpot Ukázat akci. Stáhněte si aplikaci Gusto Academy Radio BILLA Ochrana osobních údajů Dárkové karty. BILLA ...
+title: Billa | Vaclav Havel Airport Prague, Ruzyne
+snippet: The government measure shutting down restaurants and shops applies to the airport too, the restriction includes the airport lounges as well. The passengers at Václav Havel Airport Prague can shop at Billa supermarket, pharmacy or newsagent&#39;s shops, which remain open.
+title: Billa Supermarket at Prague Main Train Station--Wilson ...
+snippet: Billa is not the best grocery chain in Prague but I am impressed with the high quality of their relatively new store in Wilson Station. It is large enough to have a good selection; it is bright and clean; the prices are normal and therefore good value.
+title: Billa - Prague, Czech Republic - Supermarket, Shopping ...
+snippet: Ve spolupráci s obchodním řetězcem Billa jsem pro vás připravila veganské papriky - Bonvia. Jsou dny, kdy máte čas a chcete si s přípravou pokrmu vyhrát. Pak jsou ale dny, kdy nestíháte, máte toho za celý den v práci nad hlavu a chcete připravit nenáročné a rychlé jídlo hotové do 30 minut.
+title: BILLA | Recepty
+snippet: V BILLE 7× ušetříte! Bonus club ShowSubNavigation Bonus club. BILLA Bonus club; Magazín Gusto ZDARMA; Podmínky členství v BILLA Bonus clubu; Sleva s BILLA TRAVEL za BILLA body; Naše značky ShowSubNavigation Naše značky. BILLA značka; BILLA Premium; BILLA naše BIO; BILLA Easy; Česká farma; BILLA Bon Via; Clever; Vocílka; FREE ...
+title: BILLA Czech Republic | Prague Food Shopping | Shopping in ...
+snippet: Billa (supermarket) stores in Prague - 8.Listopadu 228/1a, 160 00 Praha 6 - Archeologická 2256, 155 00 Praha 5 - Aviatická 1017, 161 00 Praha 6 - Budějovická 1667/64m 140 00 Praha 4 For more Billa stores please visit www.billa.cz
+title: BILLA Praha 7 - Holešovice, Letenské Náměstí - akce, slevy ...
+snippet: Prohlédněte si akční leták BILLA, pobočka Praha 7 - Holešovice, Letenské Náměstí a ušetřete na vašem příštím nákupu potravin, nápojů a dalšího sortimentu.. Přidejte si BILLA Praha 7 - Holešovice, Letenské Náměstí do oblíbených obchodů prostřednictvím tlačítka &quot;Přidat obchod do oblíbených&quot;.
+title: Luxury Family Hotel Bila Labut Reviews, Prague - TripAdvisor
+snippet: Book Luxury Family Hotel Bila Labut, Prague on Tripadvisor: See 1,125 traveller reviews, 357 candid photos, and great deals for Luxury Family Hotel Bila Labut, ranked #366 of 667 hotels in Prague and rated 3.5 of 5 at Tripadvisor.
+title: Prague- Supermarkets - Prague Forum - Tripadvisor
+snippet: Answer 1 of 7: Hi folks We are having three weeks in Prague starting later this week, the first week in a place near the National Technical Museum and the last two in the Josevof quarter. What are the best nearby supermarkets to get supplies for the odd...
+
+REL: 2
+POI Name: Arslan Kebab
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Turkish, Fast Food, 
+Snippets:
+title: Best kebab in prague! - Review of Arslan Kebap, Prague ...
+snippet: Arslan Kebap: Best kebab in prague! - See 11 traveler reviews, 4 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: Arslan Kebap, Prague - AndEl - Restaurant Reviews, Photos ...
+snippet: Arslan Kebap, Prague: See 11 unbiased reviews of Arslan Kebap, rated 3.5 of 5 on Tripadvisor and ranked #4,073 of 5,897 restaurants in Prague.
+title: Arslan Kebab, Praha - Restaurantanmeldelser - Tripadvisor
+snippet: Arslan Kebab, Praha: Se 9 objektive anmeldelser av Arslan Kebab, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 460 av 5 899 restauranter i Praha.
+title: Arslan Kebab, Prague - AndEl - Restaurant Reviews, Phone ...
+snippet: Arslan Kebab, Prague: See 9 unbiased reviews of Arslan Kebab, rated 4 of 5 on Tripadvisor and ranked #2,462 of 5,898 restaurants in Prague.
+title: Arslan Kebab cz - Prague, Czech Republic - Menu, Prices ...
+snippet: Arslan Kebab cz - Bozděchova 3, 15000 Prague, Czech Republic - Rated 5 based on 13 Reviews &quot;Great falafel, really friendly guy.&quot;
+title: Arslan Kebap, Smíchov, Praha 5 - zomato.com
+snippet: Arslan Kebap Praha 5; Arslan Kebap, Smíchov; Podívej se na menu, recenze, fotky, kontakty, polohu a další informace o podniku Arslan Kebap na Zomatu ... arslan kebab, kebab andel, arslan kebab prague, kebab praha 5, arslan martina, It is an icon with title Back. Notifications. Settings. It is an icon with title Gear. Select ...
+title: Arslan Kebab, Bozděchova 3, Praha 5, Praha | MenuPraha.cz
+snippet: Denní menu, recenze, jídelní lístek, kontakt, fotky, akční nabídky a slevy restaurace Arslan Kebab - Vážení zákazníci,v našem stravovacím zařízení ARSLAN KEBAB vám nabízíme výborný Döner Kebab,kuřecí nebo hovězí a vždy čerstvou zeleninu. Pečivo si pečeme výhradně sami,yufka,chléb. Pripravujeme i vegetariánské speciality jako Falafel,grilovaný sýr Halloumi ...
+title: Arslan Kebab, Prague - Anděl - Restaurant Avis, Numéro de ...
+snippet: Arslan Kebab, Prague : consultez 9 avis sur Arslan Kebab, noté 4 sur 5 sur Tripadvisor et classé #2 462 sur 5 898 restaurants à Prague.
+title: Arslan Kebab - Smíchov - Bozděchova 3
+snippet: See 36 photos and 82 tips from 863 visitors to Arslan Kebab. ... Best kebab in Prague. Im...&quot; Doner Restaurant in Praha, Hlavní město Praha. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Arslan Kebap, Prague - Anděl - Restaurant Avis, Numéro de ...
+snippet: Arslan Kebap, Prague : consultez 11 avis sur Arslan Kebap, noté 3,5 sur 5 sur Tripadvisor et classé #4 082 sur 5 899 restaurants à Prague.
+
+REL: 2
+POI Name: Burrito Loco
+POI City: Prague
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Burrito Loco – Burrito Loco Mexican Fast Food
+snippet: BURRITO GRANDE 135 BURRITO BOWL 135 TACO SALAD 135 TACOS 55. Snacks, Desserts and Small Dishes. CHIPS &amp; SALSA 55 CHIPS, SALSA &amp; GUACAMOLE 69 KIDS QUESADILLA 55 BROWNIE 45 CHIPOTLE BROWNIE 45. ... Burrito Loco is the perfect choice. Order online from ...
+title: Burrito Loco – Burrito Loco Mexican Fast Food
+snippet: Burrito Loco u tebe doma. Všechny naše mexické pokrmy a nápoje lze objednat přes naše partner Dáme Jídlo. Pořádáte párty, sledujete sportovní zápas, nebo jen máte chuť na něco dobrého a nechcete opouštět klid domova? Právě vám je určena tato služba!
+title: Burrito Loco Masna, Prague - Stare Mesto (Old Town) - Menu ...
+snippet: Burrito Loco Masna, Prague: See 247 unbiased reviews of Burrito Loco Masna, rated 4 of 5 on Tripadvisor and ranked #1,032 of 5,898 restaurants in Prague.
+title: Burrito Loco - Home - Prague, Czech Republic - Menu ...
+snippet: Burrito Loco, Prague, Czech Republic. 10,273 likes · 4 talking about this · 1,361 were here. Vždy čerstvé a chutné mexické speciality bez dlouhého čekání. To je Burrito Loco! U nás si můžete...
+title: Burrito Loco Andel, Prague - AndEl - Menu, Prices ...
+snippet: Burrito Loco Andel, Prague: See 59 unbiased reviews of Burrito Loco Andel, rated 4 of 5 on Tripadvisor and ranked #1,654 of 5,900 restaurants in Prague.
+title: Burrito Loco Andel, Praha - Restaurantanmeldelser ...
+snippet: Burrito Loco Andel, Praha: Se 59 objektive anmeldelser av Burrito Loco Andel, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 652 av 5 900 restauranter i Praha.
+title: Burrito Loco Spalena, Prague - Nove Mesto (New Town ...
+snippet: Burrito Loco Spalena, Prague: See 77 unbiased reviews of Burrito Loco Spalena, rated 4 of 5 on Tripadvisor and ranked #1,906 of 5,901 restaurants in Prague.
+title: Burrito Loco Vinohradska, Praha - Restaurantanmeldelser ...
+snippet: Burrito Loco Vinohradska, Praha: Se 42 objektive anmeldelser av Burrito Loco Vinohradska, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 532 av 5 898 restauranter i Praha.
+title: Burrito Loco Vinohradska, Prague - Flora - Menu, Prices ...
+snippet: Burrito Loco Vinohradska, Prague: See 42 unbiased reviews of Burrito Loco Vinohradska, rated 4 of 5 on Tripadvisor and ranked #1,533 of 5,898 restaurants in Prague.
+title: Burrito Loco Hradcanska, Prague - Dejvice - Restaurant ...
+snippet: Burrito Loco Hradcanska, Prague: See 30 unbiased reviews of Burrito Loco Hradcanska, rated 4 of 5 on Tripadvisor and ranked #2,004 of 5,898 restaurants in Prague.
+
+REL: 1
+POI Name: La Casa Blů
+POI City: Prague
+POI Country: CZ
+POI Main category: Nightlife
+POI Sub category: Bars, Latin American, Mexican, Brazilian, 
+Snippets:
+title: La Casa Blů - sms reservé: +420 723 446 002
+snippet: La Casa Blů založena roku 1996 chilským Pražákem a současným většinovým majitelem Jorgem Zúňigou Pavlovem a jeho tehdejším společníkem je jedinečné místo v Praze. Je to malá oáza, kde se střetávají rozličné kultury, jazyky a myšlenky, doprovázeny vřelou péčí obsluhy a tím zvláštním kouzlem Latinské Ameriky.
+title: La Casa Blů - Home | Facebook
+snippet: La Casa Blů, Prague, Czech Republic. 3,857 likes · 5 talking about this · 8,951 were here. One of the oldest pub in Prague. Since 1996. Still the same owner. Filmed in Lowners (Samotáři) from...
+title: La casa blů, Praha - recenze restaurace - Tripadvisor
+snippet: La casa blů, Praha: Přečtěte si 379 objektivních recenzí zařízení La casa blů, které bylo na webu Tripadvisor ohodnocené známkou 4 z 5 a zaujímá 492 pozicí z 5 897 restaurací v Praze.
+title: La Casa Blů - Home - Prague, Czech Republic - Menu, Prices ...
+snippet: La Casa Blů, Prague, Czech Republic. 3,820 likes · 21 talking about this · 8,822 were here. One of the oldest pub in Prague. Since 1996. Still the same owner. Filmed in Lowners (Samotáři) from...
+title: LA CASA BLU, Prague - Staré Město (Old Town) - Updated ...
+snippet: For years, La Casa Blu has been my favourite Latin American pub in Prague. I appreciate the bohemian atmosphere, and really delicious food. I like to meet my friends there and to celebrate my birthday with my family.
+title: La Casa Blů - Home | Facebook
+snippet: La Casa Blů, Prague, Czech Republic. 3,859 likes · 31 talking about this · 8,917 were here. One of the oldest pub in Prague. Since 1996. Still the same owner. Filmed in Lowners (Samotáři) from...
+title: Rezervace - La Casa Blů | …tvoje španělská vesnice…
+snippet: Firemní akce a večírky na fakturu: 45 Kč rezervační poplatek (náhrada dýček pro personál) Pokud potřebujete rezervaci na dnešek, spojte se s námi telefonicky. Stoly držíme maximálně 15 minut po dohodnuté hodině. Poprosíme o dodržování nočního klidu v okolí La Casa Blů po 22 hodině. Děkujeme za pochopení
+title: La Casa Blů Bar in Prague, Czech Republic travel guide ...
+snippet: La Casa Blů, Bar in Prague, Czech Republic with the best reviews and photos for La Casa Blů.
+title: Menu - lacasablu.cz
+snippet: Nabídka La Casa Blů – Covid-19. Quesadilla (Hovězí, Kuřecí, Vege) 90 Kč. Burritos (Hovězí, Kuřecí, Vege) 90 Kč. Nachos pro 1 (Hovězí, Kuřecí, Vege) 90 Kč . CHURRASCO JIHOAMERICKÉ 136 Kč. TACOS DE RES (HOVĚZÍ) Á 135 Kč. ROZVOZ – DELIVERY – PRAHA 1 – ZDARMA. Jinak někam na Metro nad 249 Kč – Rozvoz 37 Kč.
+title: Kontakt - La Casa Blů
+snippet: Nabídka La Casa Blů – Covid-19. Quesadilla (Hovězí, Kuřecí, Vege) 90 Kč. Burritos (Hovězí, Kuřecí, Vege) 90 Kč. Nachos pro 1 (Hovězí, Kuřecí, Vege) 90 Kč . CHURRASCO JIHOAMERICKÉ 136 Kč. TACOS DE RES (HOVĚZÍ) Á 135 Kč. ROZVOZ – DELIVERY – PRAHA 1 – ZDARMA. Jinak někam na Metro nad 249 Kč – Rozvoz 37 Kč.
+
+REL: 1
+POI Name: Bibimbap Korea Praha
+POI City: Praha 3
+POI Country: CZ
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Specialty Food, Asian Fusion, 
+Snippets:
+
+
+REL: 1
+POI Name: Fittop Wellness Centrum
+POI City: Prague
+POI Country: CZ
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Fittop Wellness Centrum official - Home | Facebook
+snippet: Fittop Wellness Centrum official. 1.3K likes. Naším cílem je poskytovat kvalitní služby v oblasti aktivního životního stylu v kombinaci s různými druhy relaxace. Wellness centrum se nachází v těsné...
+title: FitTop - Fitness a wellness centrum v Praze
+snippet: Rezervaci si můžete provést pouze online, telefonicky, nebo osobně na recepci FitTop (nelze přes email). Rezervace jsou z důvodu kapacity závazné a lze je rušit 24 hodin předem online, nebo po tel s recepcí, nejpozději však 3hod předem.
+title: Fittop Wellness Centrum - Home | Facebook
+snippet: Fittop Wellness Centrum, Prague, Czech Republic. 56 likes · 66 were here. Naším cílem je poskytovat kvalitní služby v oblasti aktivního životního stylu v kombinaci s různými druhy relaxace. Wellness...
+title: Fitness Praha 3 - Fitness a wellness centrum v Praze
+snippet: Fittop karta (časová, celodenní, studentská, seniorská, dobíjecí) zvýhodněné vstupné v různých hladinách. Časové vstupné: Týden 390,- Kč/Měsíční: 1200,-Kč/Čtvrtletní karta: 3150,-Kč. Dobíjecí karta: ceny viz přehled. Minimum pro první nabití je 1000,- Kč, opětovné dobíjení je 500 a více.
+title: Wellness Centrum Fittop | MultiSport
+snippet: Wellness centrum Fittop bylo otevřeno s cílem poskytovat kvalitní služby v oblasti aktivního životního stylu v kombinaci s různými druhy relaxace. Wellness se nachází v těsné blízkosti centra Prahy a je velmi snadno dostupné městskou hromadnou dopravou.
+title: FitTop Wellness Centrum | Prague Fitness Centers | Health ...
+snippet: , Prague TV&#39;s listing of fitness centers helps you to locate a variety of gyms throughout the Czech capital. You&#39;ll find a range of health and wellness centers making it easy to find a center fit ...
+title: Fittop wellness centrum - Gym in Praha 3 - Foursquare
+snippet: See 8 tips from 269 visitors to Fittop wellness centrum. &quot;Nice, clean and suficiently equiped Gym.&quot;
+title: Fittop wellness centrum in Prague, Hlavní město Praha
+snippet: 2 reviews for Fittop wellness centrum | Gym / Fitness Center in Prague, Hlavní město Praha | There&#39;s a pay as you go at Olsanska hotel, also across th... Fittop wellness centrum in Prague, Hlavní město Praha
+title: Fittop wellness centrum - CityOut Prague
+snippet: Klimatizovaná posilovna Technogym s nadstandardním vybavením. Aerobic, Kalanetika, P-class, Fitball, Tae-bo, Pilates, Body form, Active Wellness Class, Indoor Cycling.
+title: Fittop Wellness Centrum official, Seifertova 560/49 ...
+snippet: Wellness centrum se nachází v těsné blízkosti centra Prahy a je velmi snadno dostupné městskou hromadnou dopravou. Fittop Wellness Centrum official, Seifertova 560/49, Prague (2020) Domů Města Země
+
+REL: 1
+POI Name: Mrtvá ryba
+POI City: Prague
+POI Country: CZ
+POI Main category: Arts & Entertainment
+POI Sub category: Social Clubs, Beer Gardens, Pubs, 
+Snippets:
+title: Mrtvá ryba - Home | Facebook
+snippet: Mrtvá ryba, Prague, Czech Republic. 2,852 likes · 4 talking about this. Klub Přírodovědecké fakulty UK. Přes FB rezervace neudělujeme. Pouze přes tel. uvedený na stránce, u kterého je na baru diář,...
+title: Mrtvá ryba - Home | Facebook
+snippet: Mrtvá ryba, Prague, Czech Republic. 2,839 likes · 13 talking about this. Klub Přírodovědecké fakulty UK. Přes FB rezervace neudělujeme. Pouze přes tel. uvedený na stránce, u kterého je na baru diář,...
+title: Mrtva Ryba (Praha, Tsjekkia) - Anmeldelser - Tripadvisor
+snippet: Mrtva Ryba, Praha: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Mrtva Ryba i Praha, Tsjekkia på Tripadvisor.
+title: Mrtva Ryba (Prague) - 2020 All You Need to Know BEFORE You ...
+snippet: Prague Bed and Breakfast; Prague Vacation Rentals; Prague Vacation Packages; Flights to Prague; Prague Restaurants; Things to Do in Prague; Prague Travel Forum; Prague Photos; Prague Map; Prague Travel Guide; All Prague Hotels; Prague Hotel Deals; Last Minute Hotels in Prague; By Hotel Type. Prague Campgrounds; Prague Hostels; Prague Business ...
+title: De 10 beste hotellene i nærheten av Mrtva Ryba - Tripadvisor
+snippet: Hoteller i nærheten av Mrtva Ryba, Praha: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Mrtva Ryba på Tripadvisor.
+title: Mrtvá ryba - Social Clubs - Benátská 4, Praha 2, Prague ...
+snippet: 4 reviews of Mrtvá ryba &quot;Not sure how I&#39;m the first English review as this place beats all the typical tourist places out of the water. The Dead Fish is a cozy place with outdoor seating located near one of Prague&#39;s botanical gardens. The beer is…
+title: Mrtvá ryba - Hlavní stránka | Facebook
+snippet: Mrtvá ryba, Praha. 2 866 To se mi líbí · Mluví o tom (8). Klub Přírodovědecké fakulty UK. Přes FB rezervace neudělujeme. Pouze přes tel. uvedený na stránce, u kterého je na baru diář, nejlépe mezi...
+title: THE 10 CLOSEST Hotels to Mrtva Ryba, Prague - Tripadvisor ...
+snippet: Hotels near Mrtva Ryba, Prague on Tripadvisor: Find 18,868 traveler reviews, 50,018 candid photos, and prices for 30 hotels near Mrtva Ryba in Prague, Czech Republic.
+title: Mrtva Ryba (Prague) : 2020 Ce qu&#39;il faut savoir pour votre ...
+snippet: Mrtva Ryba, Prague : consultez 6 avis, articles et photos de Mrtva Ryba, classée n°177 sur 773 activités à Prague sur Tripadvisor.
+title: Mrtva Ryba (Prague) - 2020 What to Know Before You Go ...
+snippet: Mrtva Ryba, Prague: See 6 reviews, articles, and photos of Mrtva Ryba, ranked No.174 on Tripadvisor among 773 attractions in Prague.
+
+REL: 1
+POI Name: Febiofest
+POI City: Prague
+POI Country: CZ
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Prague International Film Festival - Febiofest
+snippet: V průběhu let se Febiofest proměnil ve velký meznárodní filmový festival, který si ale stále zachovává svůj původní profil a cíl: všechno pro diváka.
+title: Febiofest - Wikipedia
+snippet: Prague International Film Festival - Febiofest is the largest film festival in the Czech Republic and the second most prestigious festival in the country (after Karlovy Vary).The festival presents a wide spectrum of contemporary and retrospective examples of high-quality film including alternative, film-school and amateur works to a diverse viewing public.
+title: Festival guide - Prague International Film ... - Febiofest
+snippet: New dates of 27th edition of Prague IFF – Febiofest are announced: 18 - 25 September 2020. PRAGUE. From 19 to 27 March 2020 festival in Prague is cancelled. New dates are annouced for September from 18 to 25 2020. Festival places in Prague: multiplex CineStar Anděl, Ponrepo Cinema of the National Film Archive, Cinema Edison Filmhub.
+title: Festival profile - Prague International Film ... - Febiofest
+snippet: The Prague International Film Festival – Febiofest . Festival was founded in 1993 by FEBIO, an independent film and TV company. Starting as an enthusiastically organized, basically no-budget event for a couple of friends and film buffs, Febiofest has grown during the past years into one of the largest film festivals in the Czech Republic.
+title: History - Prague International Film Festival - Febiofest
+snippet: info@febiofest.cz +420 725 739 901 INTERNATIONAL FILM FESTIVAL PRAGUE - FEBIOFEST s.r.o. Růžová 13, 110 00 Praha 1, Česká republika
+title: Czech Republic - Febiofest
+snippet: Founded in 1993, over the years the Febiofest film festival has been visited by thousands of fans and has hosted renowned celebrities. To name just a few – there was Charlie Chaplin’s daughter Geraldine Chaplin presenting her film here, director Roman Polanski, beautiful Italian actress Claudia Cardinale and Alan Rickman who portrayed Professor Snape in the Harry Potter films.
+title: Febiofest festivals disrupted in Prague and Bratislava in ...
+snippet: Just as one of the largest film festivals in the Czech Republic, the Prague International Film Festival – Febiofest, was getting ready to fling open its doors on 19 March and welcome a host of international guests, such as Woody Harrelson, Hirokazu Kore-eda, Atom Egoyan and Oren Moverman, the Czech government issued a decree banning all events with attendance levels of more than 100 people ...
+title: Febiofest - Home | Facebook
+snippet: Zůstaňte s námi!? --- ?We are delighted to announce replacement dates for the 27th edition of the Prague IFF – Febiofest, which will take place on 18 –25.9.2020? The festival’s opening ceremony will be held at the traditional Municipal House in Prague, while the main venue for screenings will be CineStar Anděl, as originally ...
+title: Woody Harrelson coming to Prague International Film ...
+snippet: More guests and films have been announced for this year’s edition of Febiofest, which runs in Prague from March 19 to 27, with most screenings at CineStar Anděl. The top star at Prague International Film Festival – Febiofest will be Woody Harrelson.
+title: Prague International Film Festival - Febiofest 2020 ...
+snippet: Prague International Film Festival - Febiofest 2020. CineStar Praha – Anděl, Radlická 3179/1E, Praha 5 - Smíchov, 150 00 Provided by: MEZINÁRODNÍ FILMOVÝ FESTIVAL PRAHA – FEBIOFEST s.r.o.
+
+REL: 1
+POI Name: The Rabbit Hole
+POI City: Prague
+POI Country: CZ
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, 
+Snippets:
+title: The Rabbit Hole (Prague) - 2020 All You Need to Know ...
+snippet: Hidden gem! The Rabbit Hole is tucked out the way up small arcade and down in a cellar. Looks a bit intimidating initially especially late at night, but once you open the door you will be pleasantly surprised. Fantastic cocktail selection at a reasonable price for near centre …
+title: The Rabbit Hole - Home | Facebook
+snippet: The Rabbit Hole. 2,466 likes · 12 talking about this · 1,395 were here. Design &amp; Art music bar in the centre of Prague. Cocktails, DJ&#39;s, live music, exhibitions, etc. Feel free to contact us if you...
+title: The Rabbit Hole (Praha, Tsjekkia) - Anmeldelser - Tripadvisor
+snippet: The Rabbit Hole, Praha: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for The Rabbit Hole i Praha, Tsjekkia på Tripadvisor.
+title: The Rabbit Hole (Prague) - 2020 All You Need to Know ...
+snippet: Prague Tourism; Prague Hotels; Prague Bed and Breakfast; Prague Vacation Rentals; Prague Vacation Packages; Flights to Prague; Prague Restaurants; Things to Do in Prague; Prague Travel Forum; Prague Photos; Prague Map; Prague Travel Guide; All Prague Hotels; Prague Hotel Deals; Last Minute Hotels in Prague; By Hotel Type
+title: The Rabbit Hole (Prague) - 2020 What to Know Before You Go ...
+snippet: The Rabbit Hole, Prague: See 20 reviews, articles, and 19 photos of The Rabbit Hole, ranked No.129 on Tripadvisor among 769 attractions in Prague.
+title: THE 10 BEST Restaurants Near The Rabbit Hole in Prague ...
+snippet: Restaurants near The Rabbit Hole, Prague on Tripadvisor: Find traveler reviews and candid photos of dining near The Rabbit Hole in Prague, Czech Republic.
+title: THE 10 CLOSEST Hotels to The Rabbit Hole, Prague ...
+snippet: Hotels near The Rabbit Hole, Prague on Tripadvisor: Find 50,018 traveler reviews, 50,264 candid photos, and prices for 30 hotels near The Rabbit Hole in Prague, Czech Republic.
+title: The Rabbit Hole (Prague): UPDATED 2020 All You Need to ...
+snippet: The Rabbit Hole, Prague: See 20 reviews, articles, and 19 photos of The Rabbit Hole, ranked No.128 on Tripadvisor among 773 attractions in Prague.
+title: Great bar - Review of The Rabbit Hole, Prague, Czech ...
+snippet: The Rabbit Hole: Great bar - See 18 traveler reviews, 19 candid photos, and great deals for Prague, Czech Republic, at Tripadvisor.
+title: The Rabbit Hole (Prague) - All You Need to Know BEFORE You ...
+snippet: The Rabbit Hole, Prague: See 20 reviews, articles, and 19 photos of The Rabbit Hole, ranked No.129 on Tripadvisor among 774 attractions in Prague.
+
+REL: 1
+POI Name: Baráčnická rychta
+POI City: Prague
+POI Country: CZ
+POI Main category: Nightlife
+POI Sub category: Pubs, Czech, 
+Snippets:
+title: Welcome – Baráčnická rychta
+snippet: Welcome •. Baráčnická rychta is the traditional Czech restaurant with a long history, slightly nostalgic and relaxing atmosphere, excellent traditional Czech cuisine, Pilsner Urquell, Malastrana and Svijany draught beer as horseradish and original spirits from local distilleries.
+title: Vítáme Vás – Baráčnická rychta
+snippet: Vítáme Vás •. Baráčnická rychta je tradiční česká restaurace s dlouhou tradicí a lehce nostalgickou a pohodovou atmosférou, vynikající domácí českou kuchyní, točeným pivem jako křen a původními destiláty z lokálních palíren.
+title: Baracnicka Rychta, Prague - Praha 1 (City Center) - Menu ...
+snippet: Baracnicka Rychta, Prague: See 961 unbiased reviews of Baracnicka Rychta, rated 4.5 of 5 on Tripadvisor and ranked #342 of 5,897 restaurants in Prague.
+title: Menu – Baráčnická rychta
+snippet: „Baráčnická Rychta“ plate with duck leg confit, smoked pork meat, grilled sausage, white and red sauerkraut, assorted homemade dumplings 425 CZK In dark beer marinated, baked beef ribs, served on wooden board, coleslaw, garlic dip
+title: Baráčnická rychta - Home - Prague, Czech Republic - Menu ...
+snippet: Baráčnická rychta - Tržiště 23/555, 11800 Prague, Czech Republic - Rated 4.8 based on 65 Reviews &quot;&quot;Traditional Czech Republic&quot; Fantastic place on the...
+title: Restaurace Baráčnická rychta - Prague.eu
+snippet: Restaurace Baráčnická rychta. A typical Czech restaurant, which history dates back to 1885, when the householders’ society was founded. The householders’ societies were patriotic associations of craftsmen and farmers, whose main focus became the revival of traditions, organizing fancy-dress balls and other dances, etc.
+title: Prague Hall – Baráčnická rychta
+snippet: The Prague Hall had been known as the hall of famous Baracnicka rychta, an old mansion with a history lasting for centuries and tradition supervised by their formal owners, society called &quot;Svobodná obec baráčníků&quot; (the &#39;Free Townsmen Society&#39;).
+title: Baráčnická rychta - Events - Prague, Czech Republic - Menu ...
+snippet: Baráčnická rychta - Tržiště 23/555, 11800 Prague, Czech Republic - Rated 4.7 based on 67 Reviews &quot;We had our first meal in Prague at this place. The...
+title: Baracnicka Rychta, Prague - Prague 1 (centre-ville) - Menu ...
+snippet: Baracnicka Rychta, Prague : consultez 961 avis sur Baracnicka Rychta, noté 4,5 sur 5 sur Tripadvisor et classé #342 sur 5 897 restaurants à Prague.
+title: Baráčnická Rychta, Praha - recenze restaurace - Tripadvisor
+snippet: Baráčnická Rychta, Praha: Přečtěte si 961 objektivních recenzí zařízení Baráčnická Rychta, které bylo na webu Tripadvisor ohodnocené známkou 4,5 z 5 a zaujímá 342 pozicí z 5 897 restaurací v Praze.
+
+REL: 0
+POI Name: Page five
+POI City: Prague
+POI Country: CZ
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, Education, 
+Snippets:
+title: PageFive s.r.o.
+snippet: Knihkupectví a nakladatelství specializující se na prodej a produkci výtvarných publikací, autorských tisků a uměleckých periodik. Jsme posedlí papírem, knihami a různými formami vizuální kultury.
+title: Page Five_eng
+snippet: We are Page Five! We are a young bookstore and publisher specializing in sale and publishing of art books, periodicals, and original prints. We are obsessed with paper, books, and various forms of visual culture!
+title: Page Five - Prague, Czech Republic
+snippet: We are Page Five! We are a young bookstore and publisher specializing in sale and publishing of art books, periodicals and original prints. We are obsessed with paper, books, and various forms of visual culture! We offer a wide range of Czech and foreign publications on subject of fine art and theory, design, architecture, photography and poetry.
+title: Page Five - Prague
+snippet: Get address of Page Five - Prague, submit your review or ask any question about Page Five, search nearby places on map.
+title: Page Five, Veverkova 5, Prague (2020)
+snippet: knihkupectví s výtvarnými a teoretickými publikacemi, časopisy, autorské knihy, tisky a plakáty. &gt; artbookshop with magazines, zines and posters. Jsme mladé knihkupectví a vydavatelství specializující se na prodej a produkci výtvarných publikací, autorských tisků a uměleckých periodik. * Jsme Page Five! Jsme mladé knihkupectví a vydavatelství specializující se na prodej ...
+title: Barceló Praha Five - Prague, Czech Republic - Hotel | Facebook
+snippet: We had a wonderful experience in Prague. Barcelo Praha Five was a big part of it. Room was clean and just right. Strongest points were: 1. great location - close to transit and walkable to river, 2. Staff were super helpful in helping us find our way around and to book buses, etc 3. The breakfast was awesome.
+title: Page Five - Prague, República Checa
+snippet: We are Page Five! We are a young bookstore and publisher specializing in sale and publishing of art books, periodicals and original prints. We are obsessed with paper, books, and various forms of visual culture! We offer a wide range of Czech and foreign publications on subject of fine art and theory, design, architecture, photography and poetry.
+title: Prague Jobs server and Job listings for Czech Republic ...
+snippet: Jobs in Prague for Foreigners. Expats.cz offers the option of finding jobs in Prague for foreigners. For a full and updated list of Prague jobs, please see the list above. Finding Prague jobs in the Czech Republic may not be easy, but we will do our best to simplify your job search and to find the right position for you.
+title: MSD IT - Five - Prague, Czech Republic - Pharmaceutical ...
+snippet: MSD IT - Five, Prague, Czech Republic. 1 like. Pharmaceutical Company. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: Password: Forgot account? Explore local businesses on Facebook. Sign up for Facebook today to discover local businesses near you.
+title: The 11 Best Restaurants in Prague | Page 5 of 9 | Elite ...
+snippet: Elite Traveler recommends some of the best restaurants in Prague for an elevated insight into where to eat in the Czech capital. ... warm tangerine walls and dramatic light fixtures are all part of the appeal. A five-course degustation menu is served with recommend wines, comprising fried tiger prawns, tom yam and strip-loin steak to name a few.
+
+Cand cities: {'Praha 1', 'Praha-3', 'Prague', 'Praha 3'}

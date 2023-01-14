@@ -1,0 +1,1318 @@
+City: Paris
+Country: FR
+Main category: Nightlife
+Sub category: Dance Clubs
+Description: I'm traveling with a couple of friends to Paris. We'll be there from 1st - 5th June, 2016. It would be great if you could recommend some good night clubs for us to visit. Places where you could dance all night, meet different and relaxed people and such. Electronic music, rock, etc. Basically anything goes except for those ultra-fancy clubs where you can't get in if you're wearing Converse shoes and a check shirt because you're not "dressed well enough". 
+Rated POIs: 48
+Rel distr: [(0, 10), (1, 7), (2, 9), (3, 22)]
+=================================
+REL: 3
+POI Name: Folies Pigalle
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Folies Pigalle (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: Folies Pigalle, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Folies Pigalle i Paris, Frankrike på Tripadvisor.
+title: Folies Pigalle (Paris) - 2020 All You Need to Know Before ...
+snippet: See more of Paris via an open-top, double-decker bus and put aside worries about navigating the streets or using public transportation. With multiple routes, this bus tour makes it easy to hop on and off near main Paris attractions, plus hear audio commentary or listen to a live guide on the city’s history, monuments, and museums.
+title: Restaurants Near Folies Pigalle, Paris, France - TripAdvisor
+snippet: Restaurants near Folies Pigalle, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near Folies Pigalle in Paris, France.
+title: Folies Pigalle (Paris) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Erleben Sie mehr von Paris mit einem offenen Doppeldeckerbus und nehmen Sie sich keine Sorgen um die Navigation durch die Straßen oder die Nutzung öffentlicher Verkehrsmittel. Mit zwei Routen und mehreren Haltestellen können Sie bei dieser Bustour ganz einfach in der Nähe der wichtigsten Pariser Sehenswürdigkeiten ein- und aussteigen.
+title: Folies Pigalle Paris - Dance &amp; Night Club - Paris, France ...
+snippet: Folies Pigalle Paris - 11, Place Pigalle, 75009 Paris, France - Rated 3.4 based on 7 Reviews &quot;Excellent after !! excellente ambiance&quot;
+title: Folies Pigalle à Paris: visite, infos, avis, prix, plan ...
+snippet: Tourisme à Paris : Petite par la taille, grande par l&#39;ambiance, l&#39;une des plus queer de la capitale. Des célèbres DJ s&#39;y sont succédésEn allant aux Folies Pigalle vous n&#39;êtes pas prêts de vous coucher ! Pourquoi ? Pour deux raisons. D&#39;abord,
+title: Le Folie&#39;s Pigalle | Clubs in Saint-Georges, Paris
+snippet: The racy Folie&#39;s Pigalle&#39;s programme has everything from dancehall and hip hop to techno and electro, go-go dancers, striptease shows and Paris&#39;s only transsexual spectacle on Sunday evenings.
+title: Jonte live in Paris @ BBB Folies Pigalle - YouTube
+snippet: Jonte performing with Zack Reece and Sisco Gomez No copyright infrigement...I DO NOT own any rights... March 2013.
+title: Folies Pigalle Paris - Dance &amp; Night Club - Paris, France ...
+snippet: Folies Pigalle Paris - 11, Place Pigalle, 75009 Paris, France - Rated 4.3 based on 8 Reviews &quot;Vous êtes sur le trottoir, la file d&#39;attente n&#39;est pas...
+title: Folies Pigalle 1959 ~ Paris Cabaret Performances &amp; Show ...
+snippet: Still in business today as a night club, this footage is of original cabaret shows and inside the club in 1959. The famous Pigalle red light district in Paris is still an active entertainment ...
+
+REL: 3
+POI Name: Le Velvet Bar
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, 
+Snippets:
+title: Velvet Bar Paris
+snippet: Dans un cadre au style urbain, le Velvet est un bar spécialisé dans les cocktails où se mêlent des gens de tout âge. C’est un point de rencontre dans une ambiance cosy en plein cœur de CHÂTELET-LES-HALLES, l’accès est simple et bien desservi (métro, R.E.R, bus, Noctilien). Venez déguster nos créations dans une ambiance conviviale, […]
+title: Le Velvet Bar | Réserver &amp; Privatiser en Ligne | Privateaser
+snippet: En plein cœur du quartier Les Halles à Paris 1 er, le Velvet Bar est un bar à cocktails festif, toujours partant pour des soirées déjantées. Ouvert du mardi au samedi jusqu&#39;à 2h du matin, et même jusqu&#39;à 5h vendredi et samedi (sur devis), les habitués s&#39;y retrouvent pour toutes leurs occasions, et en profitent pour boire un coup, danser et passer un bon moment entre amis...
+title: fr.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Velvet Bar Paris - Home | Facebook
+snippet: Velvet Bar Paris, Paris, France. 2,341 likes · 7 talking about this · 4,528 were here. Velvet Bar en plein coeur de Paris à moins de 5min de Châtelet est un bar à cocktail atypique où vous passerez...
+title: Le Velvet, Paris - gay bar in Paris - Travel Gay
+snippet: « view all Paris Gay Bars. Coronavirus Update: Please note that some venues will be closed in line with local government advice. Please check the venue&#39;s own website for the latest opening hours and information before making your journey. Le Velvet . 43 rue Saint-Honoré, Paris, France, 75001
+title: Photos - Velvet Bar Paris
+snippet: Velvet Bar Paris 43 rue Saint-Honoré, 75001 Paris. Menu. Concept; Horaires &amp; Adresse; Privatisation; Contact; Photos
+title: Le Velvet Bar Paris - Nighttours gay guide
+snippet: Le Velvet Bar is a 2 floor gay bar at Le Marais, with different theme parties throughout the week and a daily happy hour.
+title: Le Velvet Bar (Paris) - Le Carnet des Bars
+snippet: Le Carnet des Bars est un site de référencement dédié à tous les bars de France, c&#39;est un site participatif et social. Partagez et aidez les autres visiteurs, en donnant votre avis et en ajoutant des informations sur les bars que vous connaissez.
+title: Velvet chicha bar paris 19ème - YouTube
+snippet: Voici les soirées foot au Velvet chicha bar paris 19ème.
+title: Le Velvet Paris - Gay Bars Guide│misterb&amp;b
+snippet: Learn more about Le Velvet with pictures, ... Home / Gay Guide / France / Paris / Bars &amp; Clubs / Le Velvet Bars &amp; Clubs. Le Velvet 43 rue Saint Honoré, 75001, Paris, France Tiny and friendly gay and lesbian bar with a very young crowd in the Halles neighborhood, in the heart of Paris.
+
+REL: 3
+POI Name: Djoon
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: DJOON - Bar Club Paris 13
+snippet: 23.05 the djoon experience @ Rex Club 24.05 the djoon experience (Marseille) 29.05 &gt; 02,06 the djoon experience sicily 2020 (festival) 22.07 &gt; 27.07 djoon residents @ suncebeat festival 2020, tisno croatia. tu cherches une date qui n’apparaît pas ? le club est ouvert tous les vendredis &amp; samedis. plus d’infos contact@djoon.fr
+title: DJOON - Paris, France | Facebook
+snippet: DJOON, Paris. 68,738 likes · 119 talking about this · 30,667 were here. Soulful Club Paris
+title: RA: Djoon - Paris nightclub - Resident Advisor
+snippet: RA: Resident Advisor. A shelter for dancers &amp; music lovers, DJOON has been a first step in Paris for many artists, bringing artists such as Lil&#39; Louis, Kerri Chandler, Black Coffee, Dixon, Âme, Levon Vincent, The Martinez Brothers to France (and sometimes Europe) for the very first time, and playing a key role in bringing the afro-house sound to the old continent.
+title: Djoon - YouTube
+snippet: Soulful Club Paris. Sign in to like videos, comment, and subscribe. Sign in
+title: Djoon - Bar Club Paris 13
+snippet: Djoon - Bar Club Paris 13
+title: Djoon, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Spise middag i Paris: Se 102 anmeldelser fra Tripadvisor-reisende av 17 638restauranter i Paris, og søk etter kjøkken, pris, sted og mer.
+title: Djoon | Free Listening on SoundCloud
+snippet: Soulful Club Paris - Since 2003. Paris. 325 Tracks. 14991 Followers. Stream Tracks and Playlists from Djoon on your desktop or mobile device.
+title: Shimza @ Djoon 12.04.19 • #OMS Paris Edition - YouTube
+snippet: Shimza took his #OMS event to Paris for the first time in April for a night of deep &amp; afro house with some of South Africa&#39;s most promising ... Shimza @ Djoon 12.04.19 • #OMS Paris Edition YouTube;
+title: Le Djoon | Clubs in Austerlitz, Paris - Time Out Paris
+snippet: Don your glad rags and get ready to party NYC style: with its loft-style lounge, large bay windows and a vast curved bar, Le Djoon wouldn’t look amiss in Manhat
+title: Train Dijon - Paris pas cher - OUI.sncf
+snippet: Quel est le prix d&#39;un billet de train Dijon - Paris ? Avec OUI.sncf, trouvez votre billet de train Dijon - Paris à partir de 20 euros. Astuce : en s&#39;organisant à l&#39;avance (si possible trois mois avant votre départ) et en créant une alerte sur notre espace &quot; petits prix &quot;, soyez le premier à recevoir par mail les trains Dijon - Paris pas cher.
+
+REL: 3
+POI Name: Le Montana - Club
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Le Montana | Clubbing à Saint-Germain-des-Prés, Paris
+snippet: Le Montana est peut-être le club le plus sélect de la capitale, plus encore que le Baron car on y croise quelquefois des VIP. Il est d’ailleurs tenu par la même équipe de La Clique, situé rive gauche et attenant au Flore.
+title: Le Montana - Black Bar - St Germain des Prés, Paris 7ème
+snippet: Teintes sourdes et formes arrondies, Gris Paris invite à un voyage dans le temps, articulé autour d’une somptueuse moquette en anamorphose, toile de fond d’un décor excentrique chic : appliques années 20, bureau ancien, canapé Malabar et sièges turquoises années 50, lustre comme un tourbillon au plafond, miroir fémur et lampes sculptures… partout des surprises pour le regard, et ...
+title: Le Montana | Clubs in Saint-Germain-des-Prés, Paris
+snippet: It&#39;s hard to believe any place could out-hype Le Baron, and yet this exclusive club manages it. Revamped by über-cool graphic artist André, Le Montana is a VIP
+title: Le Montana - Home - Paris, France - Menu, Prices ...
+snippet: Le Montana - 28, rue Saint-Benoît, 75006 Paris, France - Rated 4.6 based on 72 Reviews &quot;Best place to watch the sky with a cocktail&quot;
+title: Le Montana: Paris Nightlife Review - 10Best Experts and ...
+snippet: Le Montana Nightlife in Paris: Read reviews written by 10Best experts. This club and bar is located on a small St. Germain-des-Prés street and happens to be right next to Café Flore. Hence, it&#39;s ...
+title: Le Montana - Home | Facebook
+snippet: Le Montana, Paris. 5,548 likes · 1 talking about this · 8,868 were here. Page officielle du Montana: Hôtel, restaurant, bar ET rooftop au cœur de Saint...
+title: Le Montana - Saint-Germain-des-Prés - 15 tips from 649 ...
+snippet: See 32 photos and 15 tips from 649 visitors to Le Montana. &quot;Special occasion, posh posh, trendy, ... Le Montana is Paris’s 21st century answer to Studio 54. Quentin Lafon December 12, 2013. ... &quot;Incredible upper class club experience.
+title: Le Montana
+snippet: Dull shades and rounded shapes, Gris Paris invites you on a journey through time, articulated around a sumptuous anamorphic carpet, the backdrop of a chic eccentric décor: 20&#39;s wall lights, antique desk, Malabar sofa and 50&#39;s turquoise seats, ceiling chandelier like a whirlwind, femur mirror and sculpture lamps... everywhere surprises for the eyes, and the arty spirit of Paris.
+title: Le Montana, Paris, Boite - infos et adresse - Le Parisien ...
+snippet: Le Montana @twitter Paris @cp : infos, contacts, prog, accès... Le Parisien Le Parisien éco. Accueil Orientation Jobs/Stages Se loger Sortir à Paris Forums. ... O’CHUPITO Bar-Club c’est le lieu inédit directement importé d’Espagne, d’Ibiza et de Barcelone ! Découvrez un parfait mélange entre le... Paris 75001
+title: Paris Night Clubs, Dance Clubs: 10Best Reviews
+snippet: Paris is a town where dance clubs stay open until 5 and 6 in the morning. So, ... It&#39;s more of a cozy space at Le Montana so while the dance floor is ample, it&#39;s not ginormous.
+
+REL: 3
+POI Name: La Cave St. Germain
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: La Cave Saint-Germain - Home | Facebook
+snippet: La Cave Saint-Germain - 17 rue des Canettes, 75006 Paris, France - Rated 4.3 based on 33 Reviews &quot;Love this place. Great people and the best bartender in...
+title: La Cave Saint-Germain, à réserver ou privatiser sur ...
+snippet: La Cave Saint-Germain est une cave localisée dans le quartier de Saint-Germain.Jusqu&#39;ici, pas de surprises : mais ce bar du 6 ème arrondissement de Paris est surtout une perle, un lieu festif et coloré où on aime danser !. Ce bar dansant est surtout connu pour sa cave voûtée, toute en pierres apparentes, qui devient un véritable dancefloor au cours de la soirée.
+title: La Cave Saint Germain - Home | Facebook
+snippet: La Cave Saint Germain. 105 likes · 146 were here. Un bar du haut plein de surprises animées.... et au sous-sol, l&#39;ambiance de la rue de la soif, un grand bar, une piste de danse pour danser jusqu&#39;a...
+title: La Cave Saint-Germain - Accueil | Facebook
+snippet: La Cave Saint-Germain - 17 rue des Canettes, 75006 Paris - Note de 4.3 sur la base de 33 avis «30 euros pour 2 pintes merci Louis :)»
+title: Cave Saint-Germain • Aurèle Morf • Vigneron-encaveur • Moutier
+snippet: Cave Saint-Germain, Aurèle Morf, Rue Saint-Germain 6, 2740 Moutier. 079 321 07 20. Vigneron-encaveur. Vin rouge, vin blanc, mousseux et liquoreux de la Prévôté. Grappa et Grappa barrique.
+title: La Cave Saint Germain - Saint-Germain-Des-Prés - Paris, France
+snippet: La Cave Saint Germain in Paris, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Paris and beyond.
+title: Bar La Cave Saint-Germain à Paris - Réserver avec LesBarrés
+snippet: Réserver ou privatiser gratuitement La Cave Saint-Germain à Paris et bénéficier de nos tarifs négociés : Sur la pinte de bière
+title: LA CAVE ST GERMAIN - Discotheque à Paris
+snippet: Venez boire un verre et faire la fête en toute convivialité à Saint-Germain-des-Prés: au top pour l&#39;apéro, le Before, le Club, et l&#39;After! Pour bien terminer la journée, et poursuivre la nuit dans la joie et l&#39;allégresse, rendez-vous au bar dansant-discothèque La Cave Saint Germain de Paris: Pour se &quot;pinter&quot; pas cher de 18h à 0h!
+title: La Cave Saint Germain - Bar à Paris 6 (75006)
+snippet: La Cave Saint Germain - Bar situé à Paris 6 (75006) vous permet de privatiser ses espaces pour vos anniversaires, EVJF, et autres événements festifs.
+
+REL: 3
+POI Name: Prune de Nuit
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Prune de Nuit (Paris) - 2020 All You Need to Know BEFORE ...
+snippet: Paris Vacation Packages; Flights to Paris; Paris Restaurants; Things to Do in Paris; Paris Shopping; Paris Travel Forum; Paris Photos; Paris Map; Paris Travel Guide; All Paris Hotels; Paris Hotel Deals; Last Minute Hotels in Paris; By Hotel Type. Paris Motels; Paris Hostels; Paris Campgrounds; Paris Business Hotels; Romantic Hotels in Paris ...
+title: Prune de Nuit (Paris) - 2020 All You Need to Know Before ...
+snippet: Paris Tourism; Paris Hotels; Bed and Breakfast Paris; Paris Holiday Rentals; Paris Holiday Packages; Flights to Paris; Paris Restaurants; Paris Attractions; Paris Shopping; Paris Travel Forum; Paris Photos; Paris Map; Paris Guide; All Paris Hotels; Paris Hotel Deals; Last Minute Hotels in Paris; By Hotel Type. Paris Motels; Paris Hostels; Paris ...
+title: Homophobic? - Review of Prune de Nuit, Paris, France ...
+snippet: Prune de Nuit: Homophobic? - See 4 traveler reviews, candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Prune de Nuit (Paris) - 2020 What to Know Before You Go ...
+snippet: Prune de Nuit, Paris: See 4 reviews, articles, and photos of Prune de Nuit, ranked No.418 on Tripadvisor among 537 attractions in Paris.
+title: Prune de Nuit (Paris) - All You Need to Know BEFORE You Go ...
+snippet: Prune de Nuit, Paris: See 4 reviews, articles, and photos of Prune de Nuit, ranked No.418 on Tripadvisor among 537 attractions in Paris.
+title: Prune de Nuit (Paris): UPDATED 2020 All You Need to Know ...
+snippet: Prune de Nuit, Paris: See 4 reviews, articles, and photos of Prune de Nuit, ranked No.418 on Tripadvisor among 538 attractions in Paris.
+title: Prune de Nuit (Paris, Frankrike) - omdömen - Tripadvisor
+snippet: Prune de Nuit, Paris: Läs recensioner av resenärer som du och se professionella bilder på Prune de Nuit i Paris, Frankrike på Tripadvisor.
+title: Prune de Nuit (Paris) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Pensionen Paris; Ferienwohnungen Paris; Pauschalreisen Paris; Flüge Paris; Reiseforum Paris; Restaurants Paris; Sehenswürdigkeiten Paris; Fotos Paris; Karte Paris; Alle Hotels in Paris; Hotelangebote in Paris; Last Minute Paris; Nach Hoteltyp. Motels in Paris; Hostels in Paris; Campingplätze in Paris; Tagungshotels in Paris; Familienhotel ...
+title: Die 10 Besten Hotels nahe Prune de Nuit, Paris - Tripadvisor
+snippet: Hotels in der Nähe von Prune de Nuit, Paris: Auf Tripadvisor finden Sie 14.335 bewertungen von reisenden, 50.111 authentische Reisefotos und Top-Angebote für 30 hotels Hotels in Paris.
+title: PRUNE De NUIT - 21 Photos - Bar - 12 RUE MARIE ET LOUISE ...
+snippet: Prune De Nuit · Paris, France. 4 people interested. PRUNE De NUIT added an event. April 24, 2017 · THU, MAY 4, 2017. Update Finissage De L&#39;Exposition de FENNI HABIB. PRUNE De NUIT · Paris, France. See All.
+
+REL: 3
+POI Name: Le Glam
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Le Glam&#39;s Hôtel SITE OFFICIEL
+snippet: Le Glam&#39;s Hôtel Paris 47 rue Beaunier. 75014 Paris | +33 (1) 45 40 93 53. reception@leglamshotel.com. Contact us. RCS PARIS 31551782100015 N°TVA intracommunautaire FR24315517821
+title: Le Glam&#39;s Hotel, Paris, France - Booking.com
+snippet: Le Glam&#39;s Hotel This neighborhood is a great choice for travelers interested in monuments, museums and culture – Check location 47 Rue Beaunier, 14th arr., 75014 Paris, France – This neighborhood is a great choice for travelers interested in monuments, museums and culture – Check location Great location - show map – Subway Access
+title: Le Glam&#39;s Hotel, Paris – Updated 2020 Prices
+snippet: Le Glam&#39;s Hotel This neighbourhood is a great choice for travellers interested in convenient public transport, monuments and tourist attractions – Check location 47 Rue Beaunier, 14th arr., 75014 Paris, France – This neighbourhood is a great choice for travellers interested in convenient public transport, monuments and tourist attractions – Check location Great location - show map ...
+title: Paris Le Glam - Home | Facebook
+snippet: Paris Le Glam. 13 likes. Makeup Artist. Facebook is showing information to help you better understand the purpose of a Page.
+title: LE GLAM&#39;S HOTEL $42 ($̶5̶2̶) - Prices &amp; Reviews - Paris ...
+snippet: Now $42 (Was $̶5̶2̶) on Tripadvisor: Le Glam&#39;s Hotel, Paris. See 52 traveler reviews, 25 candid photos, and great deals for Le Glam&#39;s Hotel, ranked #1,451 of 1,842 hotels in Paris and rated 3.5 of 5 at Tripadvisor.
+title: LE GLAM&#39;S HOTEL (Paris, Frankrike) - Hotell - anmeldelser ...
+snippet: Le Glam&#39;s Hotel, Paris: Se 52 reiseanmeldelser, 25 bilder og gode tilbud for Le Glam&#39;s Hotel, vurdert som nr. 1 452 av 1 842 hotell i Paris og vurdert til 3,5 av 5 på Tripadvisor.
+title: Le Glam&#39;s Hôtel i Paris | Hotels.com
+snippet: Le Glam&#39;s Hôtel ligger nær en undergrunnsstasjon i bydelen 14. arrondissement i Paris. Er par populære landemerker er Katakombene i Paris og Tour Montparnasse, mens Aquaboulevard og Paris zoologiske park er noen av områdets populære attraksjoner. Du kan se om det skjer noe kult på AccorHotels Arena, og hvis du har tid, bør du også få med deg Moulin Rouge, en svært populær attraksjon.
+title: Beauty Glam Paris - YouTube
+snippet: Hey Mes Glamistas!! Bienvenue à toutes!! Je suis Jenifer, Beauty addict comme beaucoup d&#39;entre vous j&#39;imagine mais fauchée (PTDR) . Je vais donc en conséquen...
+title: Le Glam - Saint-Michel/Odéon - Paris, France - Yelp
+snippet: Ouvert le vendredi et samedi, le lieu se loue aussi pour organiser des évènements ou des… Le Glam - Dance Clubs - 26 rue de la Parcheminerie, Saint-Michel/Odéon, Paris, France - Yelp Yelp
+title: PARIS Le Glam - YouTube
+snippet: Reportaje documental realizado por Paula Costa y Daniel Alegrete sobre Paris LeGlam. La música no ha sido utilizada con fines comerciales.
+
+REL: 3
+POI Name: Nouveau M
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Google Maps
+snippet: Find local businesses, view maps and get driving directions in Google Maps. When you have eliminated the JavaScript , whatever remains must be an empty page. Enable JavaScript to see Google Maps.
+title: Louvre Museum Official Website
+snippet: The Musée du Louvre, Tuileries Garden and Cour Carrée will remain closed until further notice. All those who have purchased a ticket online will automatically receive a refund – no action is required. Due to the number of refunds we have to process, this operation may take up to three months.
+title: Art Nouveau - Wikipedia
+snippet: Naming. The term Art Nouveau was first used in the 1880s in the Belgian journal L&#39;Art Moderne to describe the work of Les Vingt, twenty painters and sculptors seeking reform through art.The name was popularized by the Maison de l&#39;Art Nouveau (&quot;House of the New Art&quot;), an art gallery opened in Paris in 1895 by the Franco-German art dealer Siegfried Bing.
+title: Nouveau | Definition of Nouveau by Merriam-Webster
+snippet: Nouveau definition is - newly arrived or developed. Recent Examples on the Web Muriel Spark’s more astringent, nouveau roman–style performances may be another starting place for comparisons—or maybe Ottessa Moshfegh’s delicious cruelties. — Christopher Tayler, Harper&#39;s magazine, &quot;New Books,&quot; 19 Aug. 2019 Bad boy Vice Media is suddenly nouveau riche, everyone wants a piece of BuzzFeed
+title: Nouveautés | Vêtements petit garçon | H&amp;M FR
+snippet: Le contenu de ce site est protégé par la loi du copyright et appartient à H &amp; M Hennes &amp; Mauritz AB. Le concept du groupe H&amp;M est de proposer mode et qualité au meilleur prix et de façon durable. Depuis sa création en 1947, H&amp;M est devenu l&#39;un des principaux groupes de prêt-à-porter du monde. LIRE LA SUITE
+title: Photos for Nouveau M - Yelp
+snippet: Photos at Nouveau M - Paris. Yelp. Cancel
+title: MAISON&amp;OBJET PARIS
+snippet: MAISON&amp;OBJET PARIS, an international trade fair dedicated to lifestyle fashions and trends that is reserved for professionals takes place in January and September at the Parc des Expositions at Paris Nord Villepinte.
+title: Maxim&#39;s - Wikipedia
+snippet: Maxim&#39;s is a restaurant in Paris, France, located at No. 3 rue Royale in the 8th arrondissement. It is known for its Art Nouveau interior decor. In the mid 20th century Maxim&#39;s was regarded as the most famous restaurant in the world.
+title: Vêtements de Bébé | Nouveau-né 0 - 9 mois | H&amp;M FR
+snippet: Découvrez la gamme H&amp;M de vêtements pour nouveau né de 0 à 9 mois. Choisissez vos nouveaux coups de cœur parmi notre sélection de vêtements de bébé et notre collection pour enfants. Découvrez aussi nos combinaisons et nos robes pour nouveau né.
+title: Paris.fr, site officiel de la Ville de Paris
+snippet: 09h09 · Pratique sportive.Sur décision de la Ville de Paris et de la préfecture de police, les règles du confinement sont renforcées en limitant la pratique sportive individuelle. À compter du 8 avril, les sorties pour des activités sportives individuelles ne seront plus autorisées entre 10h et 19h sur l’ensemble du territoire de Paris.
+
+REL: 3
+POI Name: Les Planches
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Les Planches Paris
+snippet: Les Planches. Connu pour recevoir la jeunesse dorée, Les Planches, club privé du prestigieux 8ème arrondissement, est, de par sa configuration et sa grande modularité, adapté à tout type d’événement (Cocktails, soirées dansantes…).
+title: Les Planches de Paris
+snippet: Everyone says the best thing to do in Paris is sit on a terrace and watch the world go by, lets clarify – the best thing to do is to share a planche and a bottle of wine whilst watching the world go by. Planches come in all shapes and sizes, they are available in most brasseries and bars in Paris but the level of quality is massively variable.
+title: LES PLANCHES - Club – Discothèque - Paris (75008)
+snippet: LES PLANCHES - Paris 75008 - 40, rue du Colisée Club - Discothèque : Ce mini - club se veut le passage obligé de la jeunesse dorée de l&#39;ouest parisien.
+title: la-bringue - Les Planches Paris
+snippet: © 2020 Les Planches Paris. All Rights Reserved. Theme By: DrSLash.com.Un lieu Noctis-collectionNoctis-collection
+title: Événementiel - Les Planches Paris
+snippet: Les Planches. Connu pour recevoir la jeunesse dorée, Les Planches, club privé du prestigieux 8ème arrondissement, est, de par sa configuration et sa grande modularité, adapté à tout type d’événement (Cocktails, soirées dansantes…).
+title: Les Planches Paris - Home | Facebook
+snippet: Les Planches Paris. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: Password: Forgot account? Home. About. Photos. Events. Videos. Posts. Community. See more of Les Planches Paris on Facebook. Log In. or. Create New Account. See more of Les Planches Paris on Facebook. Log In.
+title: Infos &amp; réservations - Les Planches Paris
+snippet: Infos &amp; Réservations. LES PLANCHES 40, rue du Colisée 75008 Paris. Email: contact@lesplanches-paris.com Infoline: 06 21 70 52 56 http://lesplanches-paris.com
+title: Les Planches - Boite de nuit - Paris 8eme arrondissement
+snippet: Les Planches - Boite de nuit dans le 8eme arrondissement de Paris : Les Planches est une discothèque dédiée à une clientèle jeune - Entre 18 et 25 ans en moyenne. Ouverte du Mercredi au Samedi elle propose chaque soir une soirée thêmatique différen... - Adresse &amp; Téléphone, Avis sur le Les Planches à Paris.
+title: Le théâtre comme si vous y étiez - Toutes les vidéos en ...
+snippet: La Nuit du Cerf par le Cirque... diffusé le 20/01 87 min . Passage des arts. Vous n&#39;aurez pas ma haine . diffusé le 16/11 87 min “Christophe Alévêque revient... diffusé le 25/04 86 min . Accueil Le théâtre comme si vous y étiez. chaînes et émissions; le replay de France 2 les émissions de France 2;
+title: Les Planches Paris - Accueil | Facebook
+snippet: Les Planches Paris, Paris. 12 K J’aime. Les Planches Paris
+
+REL: 3
+POI Name: La Frange
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, 
+Snippets:
+title: Paris — Wikipédia
+snippet: Paris [p a. ʁ i] [a] Écouter est la ville la plus peuplée et la capitale de la France [1].. Elle se situe au cœur d&#39;un vaste bassin sédimentaire aux sols fertiles et au climat tempéré, le bassin parisien, sur une boucle de la Seine, entre les confluents de celle-ci avec la Marne et l&#39;Oise.Paris est également le chef-lieu de la région Île-de-France et le centre de la métropole du ...
+title: Luxury Hotel in Paris | Shangri-La Hotel, Paris
+snippet: In the former home of Prince Roland Bonaparte, overlooking the Eiffel Tower and River Seine, ultimate Parisian elegance lives on in the French capital. After being lovingly restored to its former grandeur, No.10 avenue d’Iéna’s “Palais” was reborn as Shangri-La Hotel, Paris in December 2010.
+title: France — Wikipédia
+snippet: Depuis la présidence du général de Gaulle (1958-1969), la politique étrangère de la France est caractérisée par une volonté d’indépendance, notamment vis-à-vis des États-Unis [147], ce qui s’est traduit par la mise au point par la France d’armes nucléaires et par le retrait de la France du commandement intégré de l’OTAN de ...
+title: La Norvège en France - Norgesportalen
+snippet: La population mondiale augmente, s’acheminant immanquablement vers des besoins croissants en produits alimentaires et en énergie. Dans ce contexte, l’exploitation durable des ressources marines est l’une des clefs qui permettront de résoudre bon nombre des défis auxquels se trouve confrontée la planète.
+title: Accueil - La France insoumise
+snippet: La France insoumise est le mouvement créé par Jean-Luc Mélenchon. Retrouvez nos actualités, participez à un événement local, ou faites un don.
+title: La Défense - Wikipedia
+snippet: La Défense (French: [la de.fɑ̃s]) is a major business district located three kilometres west of the city limits of Paris.It is part of the Paris metropolitan area in the Île-de-France region, located in the department of Hauts-de-Seine in the communes of Courbevoie, La Garenne-Colombes, Nanterre, and Puteaux.. La Défense is Europe&#39;s largest purpose-built business district, covering 560 ...
+title: Stade de France - Wikipedia
+snippet: Stade de France (French pronunciation: [stad də fʁɑ̃s]) is the national stadium of France, located just north of Paris in the commune of Saint-Denis.Its seating capacity of 80,698 makes it the eighth-largest stadium in Europe.The stadium is used by the France national football team and French rugby union team for international competition.
+title: PARIS | FRANCE - A TRAVEL TOUR - HD 1080P - YouTube
+snippet: A walking tour around the city of Paris, France. #Paris #France #TripToParis Please comment, subscribe and share! ... PARIS | FRANCE - A TRAVEL TOUR - HD 1080P GlobeTrotterAlpha. Loading ...
+title: Prêt Garanti par l&#39;État
+snippet: Le dispositif de Prêt Garanti par l&#39;État permet aux entreprises de demander une garantie par l&#39;État sur leur prêt. Obtenez l&#39;Attestation Prêt Garanti par l&#39;État obligatoire pour en bénéficier
+title: Shangri-La Hotel, Paris, France - Booking.com
+snippet: Shangri-La Hotel, Paris This neighborhood is a great choice for travelers interested in shopping, food and romance – Check location 10 Avenue D&#39;Iéna, 16th arr., 75016 Paris, France – This neighborhood is a great choice for travelers interested in shopping, food and romance – Check location Excellent location – show map – Subway Access
+
+REL: 3
+POI Name: 3W Kafé
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: 3W kafé - Home | Facebook
+snippet: 3W kafé, Paris, France. 5,617 likes · 34 talking about this · 20,839 were here. 3W kafé = lieu emblématique de la nuit LGBT parisienne Nouveau programme à découvrir ! LE 3W Kafé révéle l’artiste...
+title: 3W kafé - Home | Facebook
+snippet: 3W kafé, Paris, France. 5,627 likes · 31 talking about this · 20,853 were here. 3W kafé = lieu emblématique de la nuit LGBT parisienne Nouveau programme à découvrir ! LE 3W Kafé révéle l’artiste...
+title: 3W Kafe, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: 3W Kafe, Paris: Se 23 objektive anmeldelser av 3W Kafe, vurdert til 2,5 av 5 på Tripadvisor og vurdert som nr. 15 939 av 17 678 restauranter i Paris.
+title: 3W Kafe, Paris - Saint-Gervais - Restaurant Reviews ...
+snippet: 3W Kafe, Paris: See 23 unbiased reviews of 3W Kafe, rated 2.5 of 5 on Tripadvisor and ranked #15,915 of 17,664 restaurants in Paris.
+title: 3W kafé - Accueil | Facebook
+snippet: 3W kafé, Paris. 5 634 J’aime · 87 en parlent · 20 842 personnes étaient ici. 3W kafé = lieu emblématique de la nuit LGBT parisienne Nouveau programme à découvrir ! LE 3W Kafé révéle l’artiste qui...
+title: Le 3W Kafé | Bars and pubs in Le Marais, Paris
+snippet: A convivial place where beautiful women go to have a drink, meet other women and listen to good music. There&#39;s a small dance space in the basement, and a number of theme nights every month.
+title: Le 3W Kafé | Bars à Le Marais, Paris
+snippet: Le 3W Kafé. Bars Le Marais ... agréable pour écouter de la bonne minimale ou de la house mixée par des DJs pointus. L’avantage de ce bar, c’est que l’happy hour est long (18 à 21h) et que des mini-sandwichs sont servis à volonté pour accompagner vos verres.
+title: Charmant - Review of 3W Kafe, Paris, France - Tripadvisor
+snippet: 3W Kafe: Charmant - See 23 traveler reviews, 13 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: 3W Kafe, Paris - Saint-Gervais - Restaurant Bewertungen ...
+snippet: 3W Kafe, Paris: 23 Bewertungen - bei Tripadvisor auf Platz 15.941 von 17.681 von 17.681 Paris Restaurants; mit 2,5/5 von Reisenden bewertet.
+title: 3W Kafe, Paris - Saint-Gervais - Restaurant Avis, Numéro ...
+snippet: 3W Kafe, Paris : consultez 23 avis sur 3W Kafe, noté 2,5 sur 5 sur Tripadvisor et classé #15 939 sur 17 679 restaurants à Paris.
+
+REL: 3
+POI Name: Concrete
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Supersonic
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Bars, Music Venues, 
+Snippets:
+title: Supersonic - Concerts gratuits et Nuits rock à Paris
+snippet: Sélectionner une page. Facebook; Twitter; Instagram; Youtube; LinkedIn; Pinterest; Facebook; Twitter
+title: Supersonic (Paris) - 2020 All You Need to Know BEFORE You ...
+snippet: See more of Paris via an open-top, double-decker bus and put aside worries about navigating the streets or using public transportation. With multiple routes, this bus tour makes it easy to hop on and off near main Paris attractions, plus hear audio commentary or listen to a live guide on the city’s history, monuments, and museums.
+title: Supersonic - Home | Facebook
+snippet: Supersonic, Paris, France. 49K likes. Concerts gratuits et Nuits rock à Paris contact@supersonic-club.fr
+title: Supersonic (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: Supersonic, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Supersonic i Paris, Frankrike på Tripadvisor.
+title: Programmation | Supersonic
+snippet: Sélectionner une page. Agenda détaillé. Newsletter
+title: Supersonic Paris - YouTube
+snippet: Concerts gratuits et Nuits rock à Paris ! Sur cette chaîne youtube, vous trouverez les playlists mensuelles de la salle et les vidéos report des soirées du S...
+title: Supersonic (Paris) - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Erleben Sie mehr von Paris mit einem offenen Doppeldeckerbus und nehmen Sie sich keine Sorgen um die Navigation durch die Straßen oder die Nutzung öffentlicher Verkehrsmittel. Mit zwei Routen und mehreren Haltestellen können Sie bei dieser Bustour ganz einfach in der Nähe der wichtigsten Pariser Sehenswürdigkeiten ein- und aussteigen.
+title: Oasis - Supersonic (Live French TV 1994) - YouTube
+snippet: 15 June 1994. Performance on French TV show &#39;Nulle Part Ailleurs&#39;
+title: Oasis: Supersonic (2016) - IMDb
+snippet: Directed by Mat Whitecross. With Paul Arthurs, Christine Biller, Mark Coyle, Debbie Turner. An in-depth look at the life and music of Manchester-based rock band, Oasis.
+
+REL: 3
+POI Name: Le Cavern
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Bars, Music Venues, 
+Snippets:
+title: Le Cavern – Bar – Concerts – DJ sets – Privatisation
+snippet: Pub classique à l&#39;étage et salle de concert voûtée et intimiste, aux murs de pierres apparentes, en sous-sol. Privatisation et réservation possibles à des tarifs avantageux.
+title: Le Cavern (Paris) - 2020 All You Need to Know BEFORE You ...
+snippet: See more of Paris via an open-top, double-decker bus and put aside worries about navigating the streets or using public transportation. With multiple routes, this bus tour makes it easy to hop on and off near main Paris attractions, plus hear audio commentary or listen to a live guide on the city’s history, monuments, and museums.
+title: Le Cavern (Paris, Frankrike) - Anmeldelser - TripAdvisor
+snippet: Le Cavern, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Le Cavern i Paris, Frankrike på TripAdvisor.
+title: Le Cavern (Paris) : 2020 Ce qu&#39;il faut savoir pour votre ...
+snippet: Un symbole emblématique connu dans le monde entier, la tour Eiffel est une attraction incontournable pour tous ceux qui viennent à Paris. Lors de cette excursion, économisez des heures d’attente avec un billet coupe-file, et profitez au maximum de votre visite avec des commentaires de présentation.
+title: De 10 beste restaurantene i nærheten av Le Cavern
+snippet: Restauranter i nærheten av Le Cavern på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Le Cavern, Paris.
+title: THE 10 BEST Restaurants Near Le Cavern in Paris, Ile-de ...
+snippet: Restaurants near Le Cavern, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near Le Cavern in Paris, France.
+title: Le Cavern Club Paris - Home | Facebook
+snippet: Le Cavern Club Paris, Paris, France. 7,363 likes · 1 talking about this · 5,067 were here. Bar à ambiance ouvert 7 jours sur 7. Soirées à thèmes, concert, cabaret, open mic, humour et DJ sets le...
+title: De 10 beste hotellene i nærheten av Le Cavern - Tripadvisor
+snippet: Hoteller i nærheten av Le Cavern, Paris: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Le Cavern på Tripadvisor.
+title: Le Cavern | Bar boîte à privatiser et réserver | Paris ...
+snippet: Bar idéalement situé , en plein centre de Paris , entre Chatelet , Saint Michel et Saint Germain , le Cavern est le lieu incontournable du quartier . Ouvert 7 jours sur 7 , l&#39;équipe est toujours prete à vous accueillir dans un cadre chaleureux et festif
+title: Le Cavern (Paris) - 2020 All You Need to Know BEFORE You ...
+snippet: Paris Vacation Packages; Flights to Paris; Paris Restaurants; Things to Do in Paris; Paris Shopping; Paris Travel Forum; Paris Photos; Paris Map; Paris Travel Guide; All Paris Hotels; Paris Hotel Deals; Last Minute Hotels in Paris; By Hotel Type. Paris Motels; Paris Hostels; Paris Campgrounds; Paris Business Hotels; Romantic Hotels in Paris ...
+
+REL: 3
+POI Name: Keur Samba
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: KEUR SAMBA FOREVER – Le club privé Afro de Paris
+snippet: Soirée Korité au KEUR SAMBA organisée par Zeina Dimanche 9 juin 2019 à partir de Minuit Show Case : Adama Diagne Sing Sing Beaucoup de surprises… Infoline : 06 69 44 40 62 / 01 43 59 03 10 . Read more Soirée Korité au Keur Samba
+title: Keur Samba (Paris) - 2020 All You Need to Know BEFORE You ...
+snippet: See more of Paris via an open-top, double-decker bus and put aside worries about navigating the streets or using public transportation. With multiple routes, this bus tour makes it easy to hop on and off near main Paris attractions, plus hear audio commentary or listen to a live guide on the city’s history, monuments, and museums.
+title: Keur Samba (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: Keur Samba, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Keur Samba i Paris, Frankrike på Tripadvisor.
+title: ALBUMS PHOTOS – KEUR SAMBA FOREVER
+snippet: Les Soirées Tribal Night au Keur Samba Retrouvez nous sur Facebook ! Secondary Menu. Keur Samba réalisé par Fawocom ...
+title: Keur Samba (Paris) : 2020 Ce qu&#39;il faut savoir pour votre ...
+snippet: Un symbole emblématique connu dans le monde entier, la tour Eiffel est une attraction incontournable pour tous ceux qui viennent à Paris. Lors de cette excursion, économisez des heures d’attente avec un billet coupe-file, et profitez au maximum de votre visite avec des commentaires de présentation.
+title: De 10 beste hotellene i nærheten av Keur Samba - Tripadvisor
+snippet: Hoteller i nærheten av Keur Samba, Paris: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Keur Samba på Tripadvisor.
+title: Keur Samba (Paris) - 2020 All You Need to Know Before You ...
+snippet: See more of Paris via an open-top, double-decker bus and put aside worries about navigating the streets or using public transportation. With two routes and multiple stops, this bus tour makes it easy to hop on and off near main Paris attractions, plus hear audio commentary or listen to a live guide on the city’s history, monuments, and museums.
+title: KEUR SAMBA - Home | Facebook
+snippet: Les rythmes envoutant de l’Afrique viennent raisonner à Paris aux portes du Keur samba pour une 3ième édition de la Tribal Night ? Traversez les champs Elysées, bifurquez vers la rue de la Boétie, arrêtez-vous au numéro 79 et vous y êtes. Bienvenue dans lieu mythique, magique et intemporel des soirées africaines.
+
+REL: 3
+POI Name: Les Caves Saint-Sabin
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Les Caves Saint-Sabin
+snippet: Les Caves Saint-Sabin est un lieu mythique situé près de Bastille.A l’origine fief des soirées Gothiques et Médiévales, il est aujourd’hui convoité par les noctambules parisiens issus de tous les milieux.
+title: LA TAVERNE MÉDIÉVALE - Les Caves Saint-Sabin
+snippet: La Taverne Médiévale est LA Soirée Médiévale parisienne! Cette dernière a vu le jour il y a déjà presque 20 ans grâce a une bande de passionnés. La Taverne perdure dans son cadre atypique et insolite : de très belles caves aménagées, en plein cœur de Paris.
+title: Les Caves Saint Sabin, Paris, Boite - infos et adresse ...
+snippet: Les Caves Saint Sabin : programmation, adresse, plan accès Boite Caves Saint Sabin à Paris : contact, téléphone, plan d&#39;accès pour Les Caves Saint Sabin - Sortir à Paris. Les Caves Saint Sabin @twitter Paris @cp : infos, contacts, prog, accès... Le Parisien Le Parisien éco.
+title: Les Caves Saint Sabin - Home | Facebook
+snippet: Les Caves Saint Sabin, Paris, France. 16,452 likes · 131 talking about this · 23,101 were here. Boîte de nuit, soirées, danse.
+title: ÉVÈNEMENTS À VENIR - Les Caves Saint-Sabin
+snippet: Les Caves Saint-Sabin est un lieu mythique situé près de Bastille.A l’origine fief des soirées Gothiques et Médiévales, il est aujourd’hui convoité par les noctambules parisiens issus de tous les milieux.
+title: Les Caves Saint Sabin, à réserver ou privatiser sur ...
+snippet: Le quartier de Bastille recèle de nombreuses pépites : les Caves Saint Sabin en font partie. Ce bar atypique a su trouver sa place dans ce quartier animé, grâce à son ambiance clubbing et à sa décoration incroyable !. Ce qui fait avant tout le charme des Caves Saint Sabin, c&#39;est bien entendu le lieu lui-même : une authentique cave voûtée du vieux Paris du XI ème siècle, en pierres ...
+title: PROFITEZ DE NOS OFFRES EXCLUSIVES - Les Caves Saint-Sabin
+snippet: Les Caves Saint-Sabin est un lieu mythique situé près de Bastille.A l’origine fief des soirées Gothiques et Médiévales, il est aujourd’hui convoité par les noctambules parisiens issus de tous les milieux.
+title: Les Caves Saint Sabin, 50 Rue Saint-Sabin, Paris (2020)
+snippet: Les Caves Saint-Sabin, lieu mythique des soirées parisiennes, accueillent des soirées en tout genre, allant du milieu Goth à l’électro, en passant par le milieu médiéval et les Jam-sessions. Datant du XVIIème siècle, les Caves Saint-Sabin étaient à l’origine les caves d’une maison seigneuriale de Bastille.
+title: Caves Saint Sabin à Paris - Agenda Culturel de Paris
+snippet: Les caves est situé au 50, Rue St Sabin à Paris 11ème. Au programme de Les caves, les spectateurs peuvent découvrir de nombreux concerts. Retrouvez ci-dessous le programme de Les caves avec les tarifs pour la réservation de vos places, ainsi que l&#39;adresse et les horaires de Les caves à Paris 11ème.
+title: TAVERNE MEDIEVALE des Caves Saint-Sabin, Paris
+snippet: La Taverne Médiévale. Tous les 2e et 4 jeudi du mois, soirées médiévales et fantasy aux Caves Saint-Sabin. Boissons et plats médiévaux, musiques renaissance.
+
+REL: 3
+POI Name: Trocadéro Ozu Club
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Trocadéro Ozu Club, Paris, Boite - infos et adresse - Le ...
+snippet: Le TROCADERO OZU CLUB met le feu dans l’ouest parisien. Le Trocadéro Ozu Club se mérite, il faut savoir le trouver quelque part au milieu des jardins du Trocadéro. Une adresse d’initiés pour ceux qui l’ont déjà repérée et vont y faire une fête chic et choc le samedi soir.
+title: Trocadéro OZU CLUB VIP - Home | Facebook
+snippet: Trocadéro OZU CLUB VIP - 5 avenue Albert De Mun, 75016 Paris, France - Rated 3.6 based on 5 Reviews &quot;J&#39;ai 2 copines qui se sont fait dépouiller ce soir (...
+title: night club in Paris - YouTube
+snippet: night club in Paris MrShiva&#39;n Prod. Loading... Unsubscribe from MrShiva&#39;n Prod? ... QUEEN CLUB Paris Fashion Week 2011 [STYLE &amp; IMAGE for Best Clubs In] - Duration: 2:18.
+title: Trocadéro Ozu Club Paris - Adresse Téléphone Trocadéro Ozu ...
+snippet: Discotheque Trocadéro Ozu Club Paris. Discothèque: Photo: Soirée: Pass: Soirées au Trocadéro Ozu Club. Entrée gratuite fille. Soirée clubbing. Be Glam, Be Yourself. Trocadéro Ozu Club. Mardi 30 avril 2013. Soirée étudiante. LOVE UNDERWATER by BDE Fame&#39;Us. Trocadéro Ozu Club. Jeudi 14 fevrier 2013.
+title: Trocadéro Ozu Club (Now Closed) - Muette - 4 tips from 228 ...
+snippet: See 10 photos and 4 tips from 228 visitors to Trocadéro Ozu Club. &quot;Best club on Paris!! The place to be!&quot; Nightclub in Paris, Île-de-France. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Photos at Trocadéro Ozu Club (Now Closed) - Muette - 4 ...
+snippet: See all 10 photos taken at Trocadéro Ozu Club by 228 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, ... Planning a trip to Paris? Foursquare can help you find the best places to go to. Find great things to do.
+title: OZU Restaurant and Bar-Lounge Club In Paris France
+snippet: OZU Restaurant and Bar-Lounge Club in Paris, is situated in the heart of the Trocadero Gardens within the Cineaqua, and this is where the finest Japanese cuisine meets French refinement, where art and nature combine, in an unforgettable experience of the Ozu.
+title: Trocadéro Ozu Club - Trocadéro/Iéna - Paris, France
+snippet: 2 reviews of Trocadéro Ozu Club &quot;Cool interior with the fish fairly organized line all things considered and okay crowd&quot; Trocadéro Ozu Club - Dance Clubs - 5 ave Albert de Mun, Trocadéro/Iéna, Paris, France - Phone Number - Yelp
+title: DJ JOS AT OZU CLUB PARIS TROCADERO - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: JACKERS WEAR PARIS @ TROCADERO OZU CLUB - YouTube
+snippet: video realisÉe par axel rlb montage par romain levy co production avec cyril gÉrard diance show by diane distribution by jackers wear paris http://www.facebo...
+
+REL: 3
+POI Name: Rex Club
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: RexClub
+snippet: Rex club. 5, bd poissonniere 75002 paris Metro bonne nouvelle +33(0)1 42 36 10 96. Contact: infos@rexclub.com. Opening time from Thursday to Saturday
+title: Rex Club Paris - Home | Facebook
+snippet: Rex Club Paris - 5 boulevard Poissonnière, 2e, 75002 Paris, France - Rated 4.4 based on 1,858 Reviews &quot;No open smoking area made me give it four stars....
+title: RexClub
+snippet: nous suivre. Name. Email
+title: RA: Rex Club - Paris nightclub - Resident Advisor
+snippet: Started by Laurent Garnier in 1992, Paris&#39; Rex Club is one of the city&#39;s oldest and longest-running spots for techno and house parties. With a fully lit stage, walls lined with booths and seating, and a dance floor that stretches all the way to the bar, Rex Club offers plenty of options for clubbers.
+title: Rex Club (Paris) - 2020 All You Need to Know BEFORE You Go ...
+snippet: We decided to go to Rex after seeing it being honoured as the best club in Paris after a quick google search. Entry was cheap, the venue was quite basic (little lighting and overall set up by the decks), I thought the techno was okay but quite basic (this probably varies by …
+title: Live @ Rex Club Paris — Daft Punk | Last.fm
+snippet: Listen free to Daft Punk – Live @ Rex Club Paris (Alive, Musique and more). 13 tracks (72:37). Discover more music, concerts, videos, and pictures with the largest catalogue online at Last.fm.
+title: THIS IS REX CLUB - YouTube
+snippet: Nicolas Jaar, Nina Kraviz, Heartthrob, Magda, Troy Pierce ... etc THIS IS HOW WE PARTY AT REX. Skip navigation Sign in. Search. Loading ... Col. J Live at Rex Club Paris - Electronic Feeling ...
+title: THE 10 BEST Restaurants Near Rex Club in Paris, Ile-de ...
+snippet: Restaurants near Rex Club, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near Rex Club in Paris, France.
+
+REL: 3
+POI Name: Alimentation Générale
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: ALG L&#39;Alimentation Générale Paris 11ème | Concert Club Bar ...
+snippet: Agenda des prochains évènements à l&#39;Alimentation Générale. 64, rue jean pierre timbaud 75011 Paris Paris - Île-de-France FR 01 43 55 42 50. alimentation-generale.net. Créé en mai 2005 par Said Messous, L&#39;Alimentation Générale(ALG pour les intimes) est à la fois club et salle de concerts, bar et cantine. l’ALG accueille sur ses rayons la diversité dans une ambiance populaire et ...
+title: L&#39;alimentation Generale (Paris) - 2020 All You Need to ...
+snippet: See more of Paris via an open-top, double-decker bus and put aside worries about navigating the streets or using public transportation. With multiple routes, this bus tour makes it easy to hop on and off near main Paris attractions, plus hear audio commentary or listen to a live guide on the city’s history, monuments, and museums.
+title: L&#39;Alimentation Générale - Home | Facebook
+snippet: L&#39;Alimentation Générale - 64 rue Jean-Pierre Timbaud, 75011 Paris, France - Rated 4 based on 375 Reviews &quot;Loved it. Went on a Thursday night and not busy...
+title: L&#39;alimentation Generale (Paris) : 2020 Ce qu&#39;il faut ...
+snippet: Un symbole emblématique connu dans le monde entier, la tour Eiffel est une attraction incontournable pour tous ceux qui viennent à Paris. Lors de cette excursion, économisez des heures d’attente avec un billet coupe-file, et profitez au maximum de votre visite avec des commentaires de présentation.
+title: ALG | Alimentari/restaurant - alimentation-generale.net
+snippet: L’Alimentari est la cantine italienne de l’Alimentation Générale. Avec un savant tralala de décor sixties, détendu de la mozza, entretenant un bon train de petits plats trattoria et de craquantes pizzas, des effluves de jazz, des meubles Sixties brocantés en Belgique, des suspensions boules orange, des radiateurs XIXe et, au f ond, des cuistots affairés derrière un grand comptoir ...
+title: L&#39;alimentation Generale (Paris, Frankrike) - Anmeldelser
+snippet: L&#39;alimentation Generale, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for L&#39;alimentation Generale i Paris, Frankrike på Tripadvisor.
+title: La plateforme Alimentation Générale | AG
+snippet: Alimentation Générale, la plateforme des cultures du goût rassemble une communauté engagée pour une alimentation plus durable. Parallèlement à notre magazine en ligne, l’Agence conseille les entreprises ou les acteurs publics qui veulent penser l’alimentation « du champ à l’assiette ».
+title: L&#39;Alimentation Générale (ALG) - Time Out Paris
+snippet: It might translate as General Foods, but Alimentation Générale is no supermarket – rather, it’s a bar, restaurant, concert hall and club all rolled into one. Ev
+title: Alimentation Générale - Home | Facebook
+snippet: Alimentation Générale, Paris, France. 7,483 likes · 46 talking about this. Magazine en ligne indépendant qui défend une information sur l&#39;alimentation la fourche à la fourchette.
+title: Pratique - ALG L&#39;Alimentation Générale Paris 11ème
+snippet: les mercredis et jeudis. de 19h à 2h . les vendredis et samedis. de 19h à 5h . Ouvertures certains dimanches - consultez le programme ! de 19h à 2h
+
+REL: 3
+POI Name: Jean-Louis la Nuit
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: JEAN-LOUIS LA NUIT
+snippet: Jean-Louis La Nuit est Un lieu hors du commun pour un personnage extraordinaire ; un concept-club dédié à la fête et à la création mode, art et design. Plongez Dans un espace en forme de grotte 70′s ouverte à toutes les expérimentations, Une expérience rétro-futuriste unique à Paris.
+title: Jean-Louis La Nuit - Home | Facebook
+snippet: Jean-Louis La Nuit, Paris. 6.1K likes. Jean Louis La Nuit est un tout nouvel espace de 600m² dédié à la création. Espace polymorphe situé au coeur du 1er arrondissement, il héberge sans distinction...
+title: JEAN-LOUIS LA NUIT (PARIS 1) Chiffre d&#39;affaires, résultat ...
+snippet: JEAN-LOUIS LA NUIT, société par actions simplifiée à associé unique est active depuis 1 an. Localisée à PARIS 1 (75001), elle est spécialisée dans le secteur d&#39;activité de l&#39;organisation de foires, salons professionnels et congrès.
+title: Jean Louis La Nuit (Paris, 75001) : siret, TVA, adresse...
+snippet: Société Jean Louis La Nuit (Paris, 75001) : numéro siret, siren, information, adresse, contact, numero tva intracommunautaire, bilan...
+title: Jean-Louis La Nuit | Clubbing à Les Halles, Paris
+snippet: Bref, Jean-Louis a tout pour se faire un nom dans la nuit. Chez Time Out, tous les établissements sont testés anonymement par nos journalistes, en payant l&#39;addition à chaque fois, comme n&#39;importe quel client !
+title: Jean Louis — JEAN-LOUIS LA NUIT
+snippet: Pour découvrir la gamme rendez-vous chez Jean-Louis La Nuit ou sur notre eshop. Sahra Benlama 6 mars 2020 Jean-Louis La Nuit . Facebook 0 Twitter LinkedIn 0 Tumblr Pinterest 0 0 Likes. Précédent. ... 75001 PARIS DU mercredi au jeudi : voir la programmation Du vendredi au samedi : 23h à 5h. Jean-Louis La Nuit.
+title: Paris : le club Jean Louis La Nuit ouvre avec un système ...
+snippet: Depuis février dernier, Jean-Louis La Nuit s’est installé dans le 1er arrondissement de Paris entre club, galerie et concept store de mode. Cet été, des travaux de rénovation ont eu lieu pour insonoriser tout le lieu, et notamment rénover le système-son afin de le transformer en club de pointe.
+title: Bar Jean-Louis La Nuit in Paris - Le Fooding®
+snippet: Bar Jean-Louis La Nuit, 66, rue Jean-Jacques Rousseau Paris 75001. Craving : Bar-club. The extras : DJ set, After 2am, See and be seen.
+title: Bar Jean-Louis La Nuit à Paris - Le Fooding®
+snippet: Jean-Louis roi de la nuit ! Après l’avoir traînée dans les salons mode Who’s Next et Première Classe, Xavier Clergerie a installé sa mascotte moustachue dans son cool concept-store souterrain – à la fois showroom, galerie d’art, bar et club. Là, dans un espace de 600 m 2 looké comme ...
+title: Jean-Louis la Nuit - Châtelet/Les Halles - Paris, France
+snippet: Jean-Louis la Nuit in Paris, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Paris and beyond.
+
+REL: 3
+POI Name: le Madam
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: LE MADAM
+snippet: LE MADAM 128 Rue la Boétie 75008 Paris, France. UNIQUEMENT pour les résa du week end: 0603170827 (sms only) Email : ouikend(@)lemadam.com
+title: Dates | LE MADAM
+snippet: © 2020 LE MADAM. All Rights Reserved. Theme By: Dr/Slash. Réservations Week end ouikend@lemadam.com
+title: Madam Paris
+snippet: Madam Paris strictly selects only natural fibers of the highest quality. (100% virgin wool, fine merino wool, cotton, alpaca…..) Every scarf is rested at least 5 days to fully stabilize its delicate stitching.
+title: Le Madam | Lieu à privatiser en Ligne | Privateaser
+snippet: Le Madam, situé à deux pas des Champs-Elysées, dans le 8 ème arrondissement de Paris, est facilement accessible par le métro Franklin Roosevelt. Au cœur du Triangle d&#39;or, cette discothèque est la coqueluche des soirées parisiennes depuis longtemps...
+title: Infos | LE MADAM
+snippet: LE MADAM 128 Rue la Boétie 75008 Paris, France. UNIQUEMENT pour les résa du week end: 0603170827 (sms only) Email : ouikend(@)lemadam.com
+title: Villa Madame Hotel, Paris - TripAdvisor
+snippet: Now $188 (Was $̶2̶1̶6̶) on Tripadvisor: Villa Madame, Paris. See 796 traveler reviews, 471 candid photos, and great deals for Villa Madame, ranked #163 of 1,842 hotels in Paris and rated 4.5 of 5 at Tripadvisor.
+title: Le MadaM in Paris - Suggestme
+snippet: Save to your city map Le Mada is one of Paris&#39; most relaxed clubs, known for its good vibe, electro music, laid-back atmosphere, and mixed crowd.It is located on the Rue La Boétie, just a few steps away from Avenue des Champs-Élysées and the Arc de Triomphe in the heart of Paris.
+title: Le 27 Madame, Paris - 6th Arr. - Luxembourg - Menu, Prices ...
+snippet: Reserve a table at Le 27 Madame, Paris on Tripadvisor: See 76 unbiased reviews of Le 27 Madame, rated 4.5 of 5 on Tripadvisor and ranked #2,026 of 17,679 restaurants in Paris.
+title: Le Madam, Paris, Boite - infos et adresse - Le Parisien ...
+snippet: Tout le club est entièrement climatisé, viens au frais ;) Le mini club des champs Elysées ! Au coeur du triangle d&#39;or parisien, à 2 pas des Champs Elysées, le Madam accueille des soirées et After Work. Toujours chic et branché, le lieu est select. Décoration baroque, lustres tendances en font un lieu cosy et élégant.
+title: Le Madam - Paris Society : Paris Society
+snippet: Sur les Champs-Elysées, il peut être difficile de savoir où aller, perdu dans la jungle des boîtes qui animent le quartier. Situé rue de la Boétie, le Madam reconnu comme le club Rock de Paris ne désempli pas depuis 10 ans recevant tous les week-ends une clientèle de privilégiés.
+
+REL: 3
+POI Name: Silencio
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Bars, 
+Snippets:
+title: Accueil - SILENCIO
+snippet: Located in a historic and central Parisian district, rue Montmartre, Silencio is a member club, created in 2011, designed by David Lynch. Its festive and cultural programming is built in echo with French and international artistic and cultural actuality. Silencio gathers a movie theater, a stage, a smoking room, two bars, a dark room and the 1SQM Gallery
+title: Hunton Silencio® Thermo - Hunton Fiber
+snippet: Hunton Silencio Thermo gir inntil ti ganger raskere reguleringstid på temperatur sammenliknet med rør som ligger nedstøpt i betong. Teknisk godkjennelse. Hunton Silencio Thermo har Teknisk Godkjenning fra SINTEF Byggforsk. SINTEF Byggforsk Teknisk Godkjenning Silencio Thermo.
+title: Silencio, Paris - Mail - Restaurant Reviews, Photos ...
+snippet: Silencio, Paris: See 63 unbiased reviews of Silencio, rated 3.5 of 5 on Tripadvisor and ranked #9,610 of 17,682 restaurants in Paris.
+title: In Review: David Lynch&#39;s Silencio Club in Paris
+snippet: When cult filmmaker David Lynch opened a semi-private club for artists and performers in Paris&#39; Grands Boulevards district, naming it Silencio after the eponymous and eerie club in his film Mulholland Drive, it instantly generated incredible buzz.Would it be as weird and creepy as Lynch&#39;s films?
+title: Inside David Lynch&#39;s Paris nightclub | Film | The Guardian
+snippet: In fact, by the time Silencio, David Lynch&#39;s new Paris nightclub-cum-salon-cum-laboratory of the weird closed its doors at dawn on Wednesday after its first night, nothing truly bizarre had happened.
+title: Silencio - Home | Facebook
+snippet: Silencio - 142 rue Montmartre, 75002 Paris, France - Rated 4.4 based on 609 Reviews &quot;Amazing venue and great music. Silencio is definitely a must.&quot;
+title: SILENCIO CLUB PARIS (@silencio_club) • Instagram photos ...
+snippet: 9,910 Followers, 6 Following, 225 Posts - See Instagram photos and videos from SILENCIO CLUB PARIS (@silencio_club)
+title: Andre Rieu - Il Silenzio - YouTube
+snippet: 50+ videos Play all Mix - Andre Rieu - Il Silenzio YouTube Melissa Venema (17) plays live Il Silenzio at Carré Amsterdam - Duration: 3:46. Trompet8310 5,107,500 views
+title: Silencio | Clubbing à Sentier, Paris
+snippet: Le Silencio de David Lynch, qui tient son blaze du rade fétiche où les personnages de Mulholland Drive viennent chercher de quoi irriguer leurs veines, se targue d’être l’un des clubs les plus privés, les plus selects et les plus convoités de la capitale. Peut-être un peu trop, d’ailleurs : dans le fief du réalisateur américain, la carte de membre n’est délivrée qu’à ceux ...
+title: Silencio | Clubs in Sentier, Paris - Time Out Paris
+snippet: If there’s one thing Paris has been missing for years it’s a decent private club - one that encourages artistic networking, before letting the general public in. ... Cue the Silencio ...
+
+REL: 2
+POI Name: Amnesia Paris
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: www.yelp.fr
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Paris Hilton Foam &amp; Diamonds Opening Party @ Amnesia Ibiza ...
+snippet: Paris returned to Amnesia last night on her 4th season, the most danceable tracks and fun for granted on the most open mind party in Ibiza. Supported by thousand of fans from around the world ...
+title: Amnésia Café (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: Amnésia Café, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Amnésia Café i Paris, Frankrike på Tripadvisor.
+title: Amnesia Paris Hilton - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: Société AMNESIA PARIS à Paris 15e Arrondissement (Chiffre ...
+snippet: AMNESIA PARIS, SA par action simplifiée à associé unique au capital de 3 000 000€, a débuté son activité en décembre 2002. Philippe FATIEN est président de la société AMNESIA PARIS. Le siège social de cette entreprise est actuellement situé 33 Avenue du Maine - 75015 Paris 15e arrondissement AMNESIA PARIS évolue sur le secteur d&#39;activité : Restauration
+title: Ibiza 2016. Amnesia, Paris Hilton, Foam &amp; Diamonds. - YouTube
+snippet: Night with Psris Hilton. This video is unavailable. Watch Queue Queue
+title: Paris Hilton Foam and Diamonds Closing Party Amnesia 27.08 ...
+snippet: Ibiza Amnesia Paris Hilton Foam and Diamonds Closing Party 2017.
+title: Amnesia-Paris Hilton Foam&amp;Diamond Night. 2016 16th July ...
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: Amnesia paris à Paris 15eme arrondissement 75015 ...
+snippet: Toutes les informations sur Amnesia Paris à Paris 15eme arrondissement 75015: Horaires, téléphone, tarifs et avis des internautes. situé sur la grande esplanade près de la tour de montparnasse, l’amnesia c’est l’un des clubs branchés de la capitale. ici, on peut y danser à partir du mardi et tous les soirs les ambiances diffé...
+title: Amnesia Paris (Paris, 75015) : siret, TVA, adresse, bilan ...
+snippet: Société Amnesia Paris (Paris, 75015) : numéro siret, siren, bilan gratuit, adresse, contact, numero tva intracommunautaire...
+
+REL: 2
+POI Name: 3 Pièces Cuisine
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Bistros, 
+Snippets:
+title: 3 Pieces Cuisine, Paris - 17th Arr. - Batignolles-Monceau ...
+snippet: 3 Pieces Cuisine, Paris: See 112 unbiased reviews of 3 Pieces Cuisine, rated 3.5 of 5 on Tripadvisor and ranked #5,376 of 17,682 restaurants in Paris.
+title: 3 Pieces Cuisine, Paris - 17e Arr. - Batignolles-Monceau ...
+snippet: 3 Pieces Cuisine, Paris : consultez 112 avis sur 3 Pieces Cuisine, noté 3,5 sur 5 sur Tripadvisor et classé #5 375 sur 17 675 restaurants à Paris.
+title: Le 3 Pièces Cuisine - Home - Paris, France - Menu, Prices ...
+snippet: Le 3 Pièces Cuisine - 101 Rue des Dames, 75017 Paris, France - Rated 4.3 based on 72 Reviews &quot;Really great place for everyone! Services and food perfect!...
+title: 3 Pièces Cuisine - Malesherbes/Villiers - Paris, France
+snippet: 84 reviews of 3 Pièces Cuisine &quot;This AMAZING place was our first stop for drinks and dinner after settling into vacation and I cannot he happier we did!! Coming from USA and not knowing the language, the staff here went above and beyond to…
+title: Cosy Little bar - Review of 3 Pieces Cuisine, Paris ...
+snippet: 3 Pieces Cuisine: Cosy Little bar - See 112 traveler reviews, 7 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Great ambience! - Review of 3 Pieces Cuisine, Paris ...
+snippet: 3 Pieces Cuisine: Great ambience! - See 112 traveler reviews, 7 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: 3 Pièces Cuisine - Paris, Île-de-France - Untappd
+snippet: Find out what&#39;s popular at 3 Pièces Cuisine in Paris, Île-de-France in real-time and see activity
+title: Good value, great atmosphere - Review of 3 Pieces Cuisine ...
+snippet: 3 Pieces Cuisine: Good value, great atmosphere - See 112 traveler reviews, 7 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Brunch 3 pièces-cuisine (75017 Paris) - OuBruncher
+snippet: Brunch Paris 17 › 3 pièces-cuisine . Retour. Brunch 3 pièces-cuisine. 21 € 101 rue des Dames. 75017 Paris. Partager par : ... 3 pièces-cuisine 101 rue des Dames 75017 Paris Metro : Rome Villiers. Ouverture. Dimanche (11h00 - 16h30) Envie de donner votre avis ? Excellent (10/10) Très bien (8/10)
+title: Le 3 Pièces Cuisine - Eating &amp; Nightlife in Paris ...
+snippet: With inexpensive prices, a friendly atmosphere, decent music, original décor and great staff, 3PC is a well-known bar amongst locals of the 17th district. It&#39;s a place of diversity where people of various generations and backgrounds gather. You can easily meet people and have a chat at the bar ...
+
+REL: 2
+POI Name: Club 8&9
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Sports Bars, Pool Halls, Pool & Billiards, 
+Snippets:
+title: Club 8&amp;9
+snippet: La salle du Club 8&amp;9 a été créée il y a plus de 20 ans au centre de Paris et s&#39;apprête parfaitement pour les jeux aussi bien que pour partager une bière devant un match. Vous y trouverez 20 tables de billard américain et 2 caramboles (français), ainsi que d&#39;autres jeux divers comme les échecs ou le backgammon.
+title: Club 8&amp;9 - Paris, France | Facebook
+snippet: Club 8&amp;9 - 9 cour Debille, 75011 Paris, France - Rated 4.9 based on 15 Reviews &quot;Awesome place for Cue sport lovers. Great service and soothing atmosphere.&quot;
+title: Club 8&amp;9 - Ledru-Rollin - Paris, France - Yelp
+snippet: 1 review of Club 8&amp;9 &quot;Great tables and friendly staff. They have a great happy hour price throughout the week. It was ten euro for like unlimited play until 1900! They had some really good tables for members only that I would have loved to play…
+title: Le Club - La magie de Paris [Clip Officiel] - YouTube
+snippet: 50+ videos Play all Mix - Le Club - La magie de Paris [Clip Officiel] YouTube Moha La Squale - Bienvenue à la Banane - Duration: 2:47. Moha La Squale 34,949,601 views
+title: Club 75
+snippet: Club 75 &quot;Greetings from Paris&quot; heavy hoodie - Black. $83.50 Club 75 &quot;Nite Life&quot; Eisenhower Dickies jacket. $117.89 Club 75 &quot;Greetings from Paris&quot; heavy hoodie - White. $83.50 La MJC for Mizuno Mondo Control &quot;Or Noir&quot; $157.18 STÉPHANE MANEL ... Club 75. Ed Banger.
+title: Club de Paris
+snippet: The Paris Club is an informal group of official creditors whose role is to find coordinated and sustainable solutions to the payment difficulties experienced by debtor countries. As debtor countries undertake reforms to stabilize and restore their macroeconomic and financial situation, Paris Club creditors provide an appropriate debt treatment.
+title: Club de Paris
+snippet: Le Club de Paris est un groupe informel de créanciers publics dont le rôle est de trouver des solutions coordonnées et durables aux difficultés de paiement de pays endettés. Les créanciers du Club de Paris leur accordent un allègement de dette pour les aider à rétablir leur situation financière.
+title: Golf Disneyland | Disneyland Paris
+snippet: Juste à la sortie de Disneyland Paris, ce magnifique parcours de golf de 27 trous vous offrira un grand moment de détente après lequel vous pourrez vous restaurer ou vous rafraîchir sur la terrasse de son club-house.
+title: ParisPictureClub
+snippet: About. Contact. Clients
+title: Best Nightclub in LA, Exclusive Nightclub Beverly Hills ...
+snippet: Best Nightclub in LA: An exclusive nightclub in Beverly Hills, LA. Get the best bars, exclusive dance clubs and live music, every Thur, Fri &amp; Sat night.
+
+REL: 2
+POI Name: La Java
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: La Java
+snippet: Club &amp; Live 105 rue du Faubourg du Temple 75010 Paris
+title: La Java - Home | Facebook
+snippet: La Java - 105 rue du Faubourg du Temple, 75010 Paris, France - Rated 3.9 based on 497 Reviews &quot;Bullshit! Came here for a Grime/UK garage night and got...
+title: La Java de Paris - Guérino et son Orchestre Musette - 1935 ...
+snippet: LA JAVA DE PARIS (Paroles de musique de G. Derveaux) avec refrain chanté exécutée par Guérino et son Orchestre Musette Disque Odéon n° 250.974 / mx. KI 7415 Paris, Octobre 1935 * Guérino ...
+title: Programmation | La Java
+snippet: La Java. Avril 2020. ven. 03 Souldancer invite : Lola Palmer, Dust Yard &amp; More Club. 23:59 - Aube 8€+FEE EN PRÉVENTE, 5€ AVANT 1H, 10€ ENSUITE LOLA PALMER. DUST YARD. Nikita Sisov. Atlhas. ven. 10 Habibi Love // Oriental vibes Party Club ... 75010 Paris. Facebook
+title: La Java Paris | Spotted by Locals
+snippet: Tucked away at the back of an attractive, but now little-used 1920s art deco shopping arcade is La Java, the oldest nightclub in Paris. Follow the iron staircase underground for a trip back to a Paris of another era! Opened in 1923, La Java was named after a particular dance style that was popular in the city at the time.
+title: Mistinguett - La Java - YouTube
+snippet: Écouter ce disque à la vitesse de 80 tours à la minute, et commencer par l&#39;extérieur La Java - (Maurice Yvain) Paroles de A. Willemerz &amp; J. Charles Chantée par Mlle Mistinguett du Casino de ...
+title: La Java Bar and Club: For a Slice of Edith Piaf&#39;s Paris
+snippet: La Java is one of those rare dance clubs in Paris where a DJ can mix ska, punk, and classic ballads, without ever emptying the dance floor. The crowd at La Java seem content to dance to whatever the DJ dishes up, and the characteristic self-conscious shuffle of &quot;trendier&quot; nightclubs is absent here.
+title: La Java / Bistrot - Brasserie / Paris
+snippet: La Java. Bistrot - Brasserie - Paris. Juste derrière les Grands Boulevards, le Palais Brongniart dans le rétroviseur, la Java, sa grande devanture rouge et sa terrasse gorgée de soleil, est un nouveau café de quartier, rendez-vous du Paris gai et métissé.
+title: La Java, Paris, Boite - infos et adresse - Le Parisien ...
+snippet: La Java : club parisien au sous-sol de la galerie « le Palais du commerce ». Créée en 1923, cette salle a accueilli notamment Django Reinhardt, Jean Gabin, Fréhel et les débuts de Maurice Chevalier et Édith Piaf.
+title: La Java | Clubs in 10e arrondissement, Paris
+snippet: At the back of a superb Art Deco building, La Java has been the venue for Parisian night owls since the 1930s.In this working-class area of Belleville, Django Reinhardt, Edith Piaf and Jean Gabin ...
+
+REL: 2
+POI Name: La Boîte à Frissons
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Gay Bars, 
+Snippets:
+title: La Boîte à Frissons
+snippet: La Boîte à Frissons, Le Tango : discothèque gay et lesbienne à Paris. Mado, la drag-queen de Montréal est de retour à Paris pour trois uniques soirées en avril 2017.
+title: Le Tango (La Boîte à Frissons) - Dance &amp; Night Club ...
+snippet: Le Tango (La Boîte à Frissons), Paris, France. 7,436 likes · 119 talking about this · 11,062 were here. Suivez l&#39;actualité de La Boîte à Frissons Au Tango
+title: Tango - La Boîte à Frissons - Paris tourist office
+snippet: Tango - La Boîte à Frissons 13 rue au Maire - 75003 Paris. Le Marais - 3e Arrondissement Description. A warm and friendly club in the spirit of an old popular dance hall, which hosts a gay and lesbian ball on Friday and Saturday ...
+title: Tango Boite a Frissons (Paris) - 2020 All You Need to Know ...
+snippet: See more of Paris via an open-top, double-decker bus and put aside worries about navigating the streets or using public transportation. With two routes and multiple stops, this bus tour makes it easy to hop on and off near main Paris attractions, plus hear audio commentary or listen to a live guide on the city’s history, monuments, and museums.
+title: Tango Boite a Frissons (Paris, Frankrike) - Anmeldelser
+snippet: Tango Boite a Frissons, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Tango Boite a Frissons i Paris, Frankrike på Tripadvisor.
+title: Tango Boite a Frissons (Paris) : 2020 Ce qu&#39;il faut savoir ...
+snippet: Un symbole emblématique connu dans le monde entier, la tour Eiffel est une attraction incontournable pour tous ceux qui viennent à Paris. Lors de cette excursion, économisez des heures d’attente avec un billet coupe-file, et profitez au maximum de votre visite avec des commentaires de présentation.
+title: Le Tango - La Salle - La Boîte à Frissons
+snippet: C&#39;est ce commerce qui est choisi comme premier siège social d&#39;une union corporative, &quot;La Cabrette&quot;, que créent en 1895 les musiciens auvergnats de Paris. &quot;La Cabrette&quot; organisera de nombreuses réunions de ses membres à la Salle Chanal et défendra leurs intérêts contre certains patrons de bals-musette qui commencent à recruter des ...
+title: La Boite à Frissons Paris - Discothèque (adresse)
+snippet: La Boite à Frissons à Paris - Discothèque : Trouvez les horaires, les coordonnées et contactez ce professionnel.
+title: Le Tango (La Boîte à Frissons) - Time Out Paris
+snippet: Come too early in the evening and you’ll be more than welcome to join the couple’s tango class at this old dance hall. If that’s not your thing, wait until arou
+title: La Boite à Frissons, Paris Marais - eVous
+snippet: Le Tango Paris. Trouver une discothèque, un night club gay et lesbien dans le Marais à Paris, une boîte de nuit gay friendly et mixte, Le Tango alias la Boîte à Frissons, haut lieu de ...
+
+REL: 2
+POI Name: Chez Prune
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Bars, Bistros, 
+Snippets:
+title: Chez Prune, Paris - 10th Arr. - Entrepot - Restaurant ...
+snippet: Chez Prune, Paris: See 429 unbiased reviews of Chez Prune, rated 4 of 5 on Tripadvisor and ranked #2,826 of 17,680 restaurants in Paris.
+title: Chez Prune, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Chez Prune, Paris: Se 429 objektive anmeldelser av Chez Prune, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 858 av 17 664 restauranter i Paris.
+title: Chez Prune | Bars and pubs in République, Paris
+snippet: Chez Prune is an excellent lunch spot, and still one of the best places to spend an evening on the Canal St-Martin. The local bobo HQ, this traditional café, with high ceilings and low lighting ...
+title: Chez Prune, Paris - 10th Arr. - Entrepôt - Restaurant ...
+snippet: Chez Prune, Paris: 429 Bewertungen - bei Tripadvisor auf Platz 2.826 von 17.675 von 17.675 Paris Restaurants; mit 4/5 von Reisenden bewertet.
+title: Chez Prune, Paris - 10e Arr. - Entrepôt - Restaurant Avis ...
+snippet: Chez Prune, Paris : consultez 429 avis sur Chez Prune, noté 4 sur 5 sur Tripadvisor et classé #2 826 sur 17 675 restaurants à Paris.
+title: CHEZ PRUNE, Paris - Omdömen om restauranger - Tripadvisor
+snippet: Chez Prune, Paris: Se 429 objektiva omdömen av Chez Prune, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer2 827 av 17 676 restauranger i Paris.
+title: Chez prune, Canal St martin - Paris, France - Restaurant ...
+snippet: Chez prune, Canal St martin, Paris, France. 505 likes · 10 talking about this · 4,066 were here. Restaurant
+title: De 10 beste restaurantene i nærheten av Chez Prune
+snippet: Restauranter i nærheten av Chez Prune på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Chez Prune, Paris.
+title: Chez Prune - Eating in Paris - LikeALocal Guide
+snippet: If you walk along Canal St-Martin, you cannot miss Chez Prune. Located on the right of a canal bridge, it&#39;s a nice bistro serving quality meals at moderate prices. There are usually three or four meal choices and the menu changes daily, so you’ll never get bored of the food. The best part is the view from the terrace.
+title: Chez Prune - Paris tourist office
+snippet: At aperitif time, people meet up with friends at Chez Prune for a glass of wine and to share a platter of charcuterie. This bistro with its view of the Canal Saint-Martin has retained all its bygone charm of the Paris of Arletty.
+
+REL: 2
+POI Name: Le Mauri7
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Bars, French, 
+Snippets:
+title: Le Mauri7 | Bars à Strasbourg-Saint-Denis, Paris
+snippet: Et pourtant, on aime le Mauri7. Car l’endroit respire davantage la chaleur humaine que chez ses voisins. Les prix sont abordables, les serveurs toujours disponibles et serviables (ce qui n’est pas un pléonasme à Paris), le coin idéal en somme pour finir une soirée arrosée à la bonne franquette.
+title: Le Mauri 7 - Home | Facebook
+snippet: Le Mauri 7 - 46 rue du faubourg saint denis, 75010 Paris, France - Rated 4.6 based on 111 Reviews &quot;You go and ask for a drink, if your drinks tastes bad,...
+title: www.yelp.fr
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Le Mauri7 | Bars and pubs in Strasbourg-Saint-Denis, Paris
+snippet: What should I drink? A wallet-friendly pint or a cocktail. Le Mauri7 is the perfect antidote to its rival over the road, the achingly hip Chez Jeanette. Wher
+title: Le Mauri7 - Paris tourist office
+snippet: Located in the buzzing Strasbourg Saint-Denis district in the 10th arrondissement, Le Mauri7 is a must! This bar has a kitsch decor (cinema posters and album covers on the walls, neon red signs behind the bar, etc.) and is welcoming, affordable and endearing.
+title: Le Mauri7 - Office de tourisme Paris
+snippet: Dans le bouillant quartier Strasbourg - Saint-Denis, dans le 10e arrondissement, il faut pousser la porte du Mauri7 ! Ce bar à la décoration kitsch (affiches de cinéma et pochettes de disques au mur, néon rouge derrière le comptoir…) est ultra chaleureux, attachant et abordable.
+title: Le Mauri7 Reviews - Paris, France - Skyscanner
+snippet: This bar is always packed at night, with people spilling out into the street and the covered alleyway next door. Music is loud and often rock but you can also hear hip-hop, electro and r&amp;b. With no room for dancing, le mauri7 is more of a place to get cheap drinks and meet people: mainly hipsters and laid-back locals.
+title: Le Mauri7 - Fremdenverkehrsamt Paris
+snippet: Im heißen Viertel Strasbourg – Saint-Denis (10. Arrondissement) führt kein Weg am Mauri7 vorbei! Diese Bar mit gewollt kitschiger Inneneinrichtung (an der Wand hängen Filmplakate und Plattencover, hinter dem Tresen gibt es rote Leuchtreklame zu bewundern...) bietet ein warmes und unvergessliches Ambiente sowie günstige Preise.
+title: Le Mauri7 – Paris à chier
+snippet: Adresse : 46 Rue du Faubourg Saint-Denis, 75010 Paris Téléphone : 09 52 50 70 66 Parfait pour croiser des hipsters parisiens insuffisamment novateurs pour être créatifs. Fausse barbe ou moustache dégueulasse, ces énergumènes ne reculent devant aucune stupidité pour se fondre dans le moule. Lorsqu&#39;un d&#39;entre eux franchit le seuil d&#39;entrée, il se retrouve toisé de pied en cap, et ...
+title: Le Mauri7 Reviews - Paris, France - Skyscanner
+snippet: Find reviews and tips from people like you on Le Mauri7 Paris, France. &#39;This bar is always packed at night, with people spilling out into the street an ... Le Mauri7. 9.0 ...
+
+REL: 2
+POI Name: La Florida
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Google Maps
+snippet: Find local businesses, view maps and get driving directions in Google Maps.
+title: Spanish Florida - Wikipedia
+snippet: Contraction of Spanish Florida. The extent of Spanish Florida began to shrink in the 1600s, and the mission system was gradually abandoned due to native depopulation. Between disease, poor management, and ill-timed hurricanes, several Spanish attempts to establish new settlements in La Florida ended in failure.
+title: www.paris.cl
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Disneyland Paris - tickets, deals, family holidays ...
+snippet: Welcome to the official website of Disneyland Paris. Discover 2 Disney Parks, 7 Disney Hotels, a golf course and Disney Village for even more magic and fun.
+title: Disneyland Paris - Wikipedia
+snippet: Disneyland Paris, formerly Euro Disney Resort, is an entertainment resort in Chessy, France, a new town located 32 km (20 mi) east of the centre of Paris.It encompasses two theme parks, many resort hotels, Disney Nature Resorts, a shopping, dining, and entertainment complex, and a golf course, in addition to several additional recreational and entertainment venues.
+title: Disneyland Resort
+snippet: Disneyland Resort
+title: Géographie de la Floride — Wikipédia
+snippet: La limite nord de la Floride commence sur la côte à Fernandina Beach et suit vers l&#39;ouest le fleuve Saint Marys. Puis elle devient rectiligne jusqu&#39;au lac Séminole : là, elle longe l&#39;axe tracé par le lac puis la Chattahoochee River avant de suivre le 31 e parallèle nord jusqu&#39;à la Perdido River.
+title: Disneyland Paris - YouTube
+snippet: Découvrez toute la magie et la diversité de Disneyland Paris au travers de vidéos officielles sur les attractions, les parcs, les restaurants, les Cast Membe...
+title: Le Cafe De Paris - Home - Orlando, Florida - Menu, Prices ...
+snippet: Le Cafe De Paris - 5170 Dr Phillips Blvd, Orlando, Florida 32819 - Rated 4.8 based on 238 Reviews &quot;Today was our second time going for breakfast and they...
+title: Responsabilidad de manutención de hijos en la Florida
+snippet: En Florida, la manutención de los hijos es un derecho que le pertenece a los hijos, y los padres no pueden enajenar ese derecho, ni uno de los padres pretender no aceptar ese apoyo. Los estatutos de la Florida imponen un obligacion financiera a ambos padres.
+
+REL: 2
+POI Name: Au Bonheur des Dames
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Kit broderie point compté, matériel ... - Bonheur des Dames
+snippet: Ajouter au panier Aperçu rapide Bienvenue mai. 37,40 ... Le Bonheur des Dames, Permin of Copenhagen, Thea Gouverneur, Clover, DMC. en savoir plus. ... Le Bonheur des Dames Vente par Correspondance 63, Avenue de la Résistance 93100 Montreuil France. Appelez-nous : 01 42 87 70 94.
+title: Le Bonheur des Dames broderies
+snippet: Le Bonheur des Dames est une marque de kits à broder au point de croix, point compté et de façon traditionnelle. Créations de Cécile Vessière C&#39;est en 1979 que Cécile Vessière ouvre à Paris sa première boutique appelée « Le Bonheur des Dames » et commence à s&#39;intéresser à la broderie à point compté.
+title: Résumé chapitre par chapitre de Au bonheur des Dames ...
+snippet: Notre Résumé chapitre par chapitre de Au bonheur des Dames d&#39;Émile Zola se finit par le chapitre 14 de ce livre. Tel le capitalisme naissant, qui n&#39;arrête pas de grossir, de se transformer et d&#39;annihiler les petits commerçants, le Bonheur des Dames connait un succès démesuré , en février, un nouveau magasin est inauguré, toutes les femmes sont au rendez-vous.
+title: Lumni | Enseignement - Au bonheur des dames, l&#39;invention ...
+snippet: Nés dans la seconde partie du XIXe siècle, les grands magasins ont profondément modifié les habitudes de consommation et le statut des femmes. Un prodige que l&#39;on doit à un modeste vendeur de bonneterie ambulant, Aristide Boucicaut, monté à Paris avec du flair et la bosse du commerce. Il déborde d&#39;idées qu&#39;il mettra en pratique au Bon Marché. La saga fascinante de l&#39;émergence des .
+title: Au Bonheur des Dames - Wikipedia
+snippet: Au Bonheur des Dames (French pronunciation: [obɔnœʁ deˈdam]; The Ladies&#39; Delight or The Ladies&#39; Paradise) is the eleventh novel in the Rougon-Macquart series by Émile Zola.It was first serialized in the periodical Gil Blas and published in novel form by Charpentier in 1883.. The novel is set in the world of the department store, an innovative development in mid-nineteenth century retail ..
+title: Au bonheur des dames, ou la révolution des grands magasins
+snippet: Au bonheur des dames, ou la révolution des grands magasins, généralistes mais attirant les foules de clientes friandes de nouveautés. Au bonheur des dames, illustration du roman de E Zola -1883 Emile Zola décrit dans ce chef d’œuvre l’avènement d’un nouveau commerce : les grands magasins.
+title: Au Bonheur Des Dames - Les Planches Paris
+snippet: Au Bonheur Des Dames Tous Les Jeudi. La soirée « Au Bonheur Des Dames » apparait aujourd’hui comme LA soirée dédiée aux Parisiennes. Dans une atmosphère feutrée, profitez d’une ambiance boudoir et glamour strictement réservée aux Dames! Chaque semaine, une nouvelle thématique, des shows surprenants &amp; des surprises.
+title: Au Bonheur des Dames — Wikipédia
+snippet: Au Bonheur des Dames est un roman d’Émile Zola publié en 1883, prépublié dès décembre 1882 dans Gil Blas, onzième volume de la suite romanesque Les Rougon-Macquart. À travers une histoire sentimentale, le roman entraîne le lecteur dans le monde des grands magasins, l’une des innovations du Second Empire (1852-1870).
+title: Au Bonheur des Cartes
+snippet: Au Bonheur des Cartes. Voir les messages sans réponses Le Bonheur jour après jour Sujets Messages. Derniers Messages. Je recherche: 6: 168: Recherche la mar... Hier à 12:21 capucine ... Membres connectés au cours des 24 dernières heures : -Véro-, 100drion, A.R.T., Alexandra, ...
+title: Au Bonheur des Dames - Accueil | Facebook
+snippet: Au Bonheur des Dames - Club Au Bonheur des Dames - 40 rue du Colisée -75008, 75008 Paris - Note de 3.9 sur la base de 460 avis «J&#39;adooore aller au...
+
+REL: 1
+POI Name: Indiana Café
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Tapas Bars, Breakfast & Brunch, 
+Snippets:
+title: Indiana Café | Restaurant américain et mexicain avec ...
+snippet: Indiana Café est un restaurant à la frontière entre restaurant américain et mexicain, proposant un large choix de plats Tex-Mex : burger, tacos, quesadillas, salade Caesar, nachos, guacamole, brunch… Venez profiter de nos restaurants à thème et de nos terrasses pendant l’happy hour !
+title: Indiana Cafe - Montparnasse, Paris - Montparnasse - Menu ...
+snippet: Indiana Cafe - Montparnasse, Paris: See 797 unbiased reviews of Indiana Cafe - Montparnasse, rated 3 of 5 on Tripadvisor and ranked #14,681 of 17,680 restaurants in Paris.
+title: Indiana Café, Paris - Montparnasse - Menu, Prix ...
+snippet: Indiana Café, Paris : consultez 797 avis sur Indiana Café, noté 3 sur 5 sur Tripadvisor et classé #14 649 sur 17 688 restaurants à Paris.
+title: Indiana Café - La Villette, Paris - Restaurantanmeldelser ...
+snippet: Indiana Café - La Villette, Paris: Se 64 objektive anmeldelser av Indiana Café - La Villette, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 12 931 av 17 682 restauranter i Paris.
+title: Indiana Cafe - Soufflot, Paris - Sorbonne - Menu, Prices ...
+snippet: Indiana Cafe - Soufflot, Paris: See 15 unbiased reviews of Indiana Cafe - Soufflot, rated 3.5 of 5 on Tripadvisor and ranked #11,329 of 17,682 restaurants in Paris.
+title: Indiana Cafe - Maine, Paris - Montparnasse - Menu, Prices ...
+snippet: Indiana Cafe - Maine, Paris: See 81 unbiased reviews of Indiana Cafe - Maine, rated 3 of 5 on Tripadvisor and ranked #15,490 of 17,676 restaurants in Paris.
+title: Indiana Cafe - Denfer Rochereau, Paris - Montparnasse ...
+snippet: Indiana Cafe - Denfer Rochereau, Paris: See 284 unbiased reviews of Indiana Cafe - Denfer Rochereau, rated 3 of 5 on Tripadvisor and ranked #14,828 of 17,638 restaurants in Paris.
+title: Indiana Cafe - Ternes, Paris - Faubourg Saint-Honore ...
+snippet: Indiana Cafe - Ternes, Paris: See 278 unbiased reviews of Indiana Cafe - Ternes, rated 3 of 5 on Tripadvisor and ranked #15,568 of 17,675 restaurants in Paris.
+title: indiana cafe - Bilde av Indiana Cafe - Bonne Nouvelle i Paris
+snippet: Indiana Cafe - Bonne Nouvelle, Paris Bilde: indiana cafe - Se Tripadvisor-medlemmers 51 351 objektive bilder og videoer av Indiana Cafe - Bonne Nouvelle. Paris. Turisme i Paris Hotell i Paris Bed and Breakfast i Paris Pakkereiser til Paris Flyreiser til Paris Restauranter i Paris Ting å gjøre i Paris
+title: Restaurants Indiana | Indiana Café
+snippet: Les Indiana Tous Restaurants Clubs Les Indiana... Indiana Café. Les Halles. Lire
+
+REL: 1
+POI Name: Côme
+POI City: Paris-2E-Arrondissement
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Salad, Soup, Sandwiches, 
+Snippets:
+title: HOTEL PARIS 2E ARRONDISSEMENT : Hotels near Paris 2e ...
+snippet: HOTEL PARIS 2E ARRONDISSEMENT : Find the best hotel among all the hotels near Paris 2e Arrondissement and BOOK NOW for your trip in France ! 75002 Paris
+title: Côme - Bourse - Paris-2E-Arrondissement, Paris, France
+snippet: 3 avis pour Côme &quot;Quand au boulot ça se passe mal généralement je compense en cherchant dès 10h30 l&#39;endroit où je vais pouvoir me goinfrer en oubliant mes tracas. C&#39;est le dernier né de Côme qui ce jour-là m&#39;a comblé l&#39;estomac. Situé rue de la…
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Airbnb® | Paris - Ferieboliger og steder å bo - Île-de ...
+snippet: In the heart of Paris,near the place des Vosges and the Marais,in the lively Bastille neighborhood but away from the noise, please come and discover your future apartment where you can enjoy a typical &quot; marais&quot; home:wooden beams with a seventies touch. Very lively neighborhood with many shops and two daily farmer&#39;s markets nearly.
+title: Airbnb® | 2nd arrondissement–Vacation Rentals &amp; Places to ...
+snippet: Apr 17, 2020 - Rent from people in 2nd arrondissement, Paris, France from $28 CAD/night. Find unique places to stay with local hosts in 191 countries. Belong anywhere with Airbnb.
+title: Le D&#39;Argout — Organic Restaurant in Paris-2E-Arrondissement
+snippet: Le D&#39;Argout is your organic restaurant located in the 2nd district of Paris, close to the Bourse and Sentier metro stops and close to Louvre and Les Halles. Come and discover delicious dishes prepared directly on site with many organic ingredients and quality.
+title: Livraison - Côme - Bourse | Paris-2E-Arrondissement | Uber ...
+snippet: Paris-2E-Arrondissement : utilisez votre compte Uber pour commander chez Côme - Bourse et vous faire livrer. Parcourez le menu, découvrez les plats populaires et suivez votre commande.
+title: How to get from Charles de Gaulle Airport to Paris City Centre
+snippet: The RER is a regional train network with stops at major railroad stations and Métro hubs in Paris. From the RER platforms at Charles de Gaulle Airport, you can reach the Gare du Nord, a very busy station, Châtelet-Les Halles, Saint-Michel, Luxembourg, and other stations of RER Line B.
+title: Creperie Traditionnelle, Paris - Gaillon - Menu, Prices ...
+snippet: Creperie Traditionnelle, Paris: See 155 unbiased reviews of Creperie Traditionnelle, rated 4 of 5 on Tripadvisor and ranked #3,357 of 17,673 restaurants in Paris.
+title: Airbnb® | II Arrondissement, Paris - Vacation Rentals ...
+snippet: Mar 14, 2020 - Rent from people in II Arrondissement, Paris, France from $20/night. Find unique places to stay with local hosts in 191 countries. Belong anywhere with Airbnb.
+
+REL: 1
+POI Name: Le Comptoir de la Gastronomie
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: The restaurant — Le comptoir de la gastronomie
+snippet: Le comptoir de la gastronomie. During this lock down period, we still continue to deliver in Paris . Close. The restaurant. Home. The restaurant. We always leave places free for people passing through. Come directly, we will do our best to install you as soon as possible!
+title: Comptoir de la Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de la Gastronomie, Paris: See 1,277 unbiased reviews of Comptoir de la Gastronomie, rated 4.5 of 5 on Tripadvisor and ranked #598 of 17,679 restaurants in Paris.
+title: COMPTOIR DE LA GASTRONOMIE, Paris - Les Halles - Updated ...
+snippet: Comptoir de la Gastronomie, Paris: See 1,277 unbiased reviews of Comptoir de la Gastronomie, rated 4.5 of 5 on Tripadvisor and ranked #598 of 17,679 restaurants in Paris.
+title: Comptoir de la Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de la Gastronomie, Paris: 1.278 Bewertungen - bei Tripadvisor auf Platz 598 von 17.679 von 17.679 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Comptoir de la Gastronomie, Paris - Restaurantanmeldelser ...
+snippet: Comptoir de la Gastronomie, Paris: Se 1 277 objektive anmeldelser av Comptoir de la Gastronomie, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 608 av 17 680 restauranter i Paris.
+title: Accueil — Le comptoir de la gastronomie
+snippet: Le comptoir de la gastronomie. Durant cette période de confinement, nous continuons à vous livrer sur Paris avec des délais plus importants. Fermer. Accueil. e-boutique Notre sélection de produits. Le Restaurant Reservations. Nos produits livrés chez vous. Foie gras. Charcuterie.
+title: Comptoir de la Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de la Gastronomie, Paris: See 1,278 unbiased reviews of Comptoir de la Gastronomie, rated 4.5 of 5 on Tripadvisor and ranked #598 of 17,680 restaurants in Paris.
+title: Comptoir de la Gastronomie - Home - Paris, France - Menu ...
+snippet: Comptoir de la Gastronomie - 34, rue Montmartre, 75001 Paris, France - Rated 4.8 based on 263 Reviews &quot;Very good yummy food We had the escargots, beef...
+title: Comptoir de La Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de La Gastronomie, Paris : consultez 1 278 avis sur Comptoir de La Gastronomie, noté 4,5 sur 5 sur Tripadvisor et classé #598 sur 17 679 restaurants à Paris.
+
+REL: 1
+POI Name: Fox Club
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Gay Bars, Social Clubs, Pubs, 
+Snippets:
+title: www.yelp.fr
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: ParisVox - L&#39;information libre en Île-de-France
+snippet: Paris Vox - Les mesures d&#39;interdictions de pratiquer du sport entre 10h00 et 19h00 viennent d&#39;être levées dans plusieurs départements.… 16 avril 2020. À la une / Politique La Mairie de Paris présente des mesures pour les plus modestes Paris ...
+title: The Fox Club Hotel Review, Mayfair, London | Travel
+snippet: Read The Fox Club, Mayfair, London hotel review on Telegraph Travel. See great photos, full ratings, facilities, expert advice and book the best hotel deals.
+title: FOX CLUB (PARIS 9) Chiffre d&#39;affaires, résultat, bilans ...
+snippet: FOX CLUB à PARIS 9 (75009) RCS, SIREN, SIRET, bilans, statuts, chiffre d&#39;affaires, dirigeants, cartographie, alertes, annonces légales, enquêtes, APE, NAF, TVA ...
+title: ken club | ken group (@kenclubparis) • Instagram photos ...
+snippet: 14.9k Followers, 43 Following, 53 Posts - See Instagram photos and videos from ken club | ken group (@kenclubparis)
+title: Private members clubs London | The Fox Club
+snippet: This friendly private members club in Mayfair offers a haven of tranquillity in the heart of London. The Fox Club, with its unique characteristics, is a welcoming, relaxing retreat a short stroll away from Green Park station, where you and your guests can feel completely at home..
+title: THE BEST Nightlife in Paris - Tripadvisor
+snippet: “We went to the dinner show and the food was amazing, the wine kept flowing with good service, the show was great with a good variety of entertainment, the comedian, jugglers and mime where great.
+title: Fox Club Parking Map - Amazon Web Services
+snippet: Fox Club Parking PUBLIC PARKING Third Baptist Church Contemp-orary Art Museum Powell Hall Strauss Park KETC Fox Theatre Continental Building Pulitzer Sheldon Art Gallery OLIVE ST NOR TH GR AND BL VD WASHINGT ON BLVD SPRING A VE W ON BLVD V ANDE VENTER A VE T o Highways 40/I-64 and I-44 SPRING A VE Tays 40/I-64 o D ownt To Highway I-70 NOR TH GR ...
+title: Paris Night Clubs, Dance Clubs: 10Best Reviews
+snippet: The clubs in Paris are getting posher and are often full of beautiful people, especially during fashion week. Paris is a town where dance clubs stay open until 5 and 6 in the morning. So, For ...
+
+REL: 1
+POI Name: Le Divan du Monde
+POI City: Paris
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Performing Arts, 
+Snippets:
+title: Bienvenue - Divan du monde - Madame Arthur
+snippet: au Divan du Monde &amp; chez Madame Arthur. ACCÈS. 75 rue des Martyrs 75018 Paris M/ 12 Abbesses / 2 et 12 Pigalle Parkings : Anvers / Paris – Parc Pigalle Théâtres. CONTACT. ... Suite à l’annonce du Directeur général de la Santé et le passage en stade 3, ...
+title: Le Divan du Monde (Paris) - 2020 All You Need to Know ...
+snippet: Went to Le Divan du Monde for a gig. I had read reviews after booking tickets saying negative things about staff and security and I was a bit concerned that I had made a mistake in doing so.
+title: Le Divan du Monde (Paris) : 2020 Ce qu&#39;il faut savoir pour ...
+snippet: Un symbole emblématique connu dans le monde entier, la tour Eiffel est une attraction incontournable pour tous ceux qui viennent à Paris. Lors de cette excursion, économisez des heures d’attente avec un billet coupe-file, et profitez au maximum de votre visite avec des commentaires de présentation.
+title: Le Divan du Monde - Pigalle - Paris, France - Yelp
+snippet: 68 reviews of Le Divan du Monde &quot;Le Divan du Monde is a really unique venue in Paris. I have seen all kinds of music there, and there are often interesting extras like video displays. You can see live music, often avant-garde acts, and they also…
+title: Le Divan du Monde (Paris, Frankrike) - Anmeldelser
+snippet: Le Divan du Monde, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Le Divan du Monde i Paris, Frankrike på Tripadvisor.
+title: Le Divan du Monde (Paris) - 2020 All You Need to Know ...
+snippet: Went to Le Divan du Monde for a gig. I had read reviews after booking tickets saying negative things about staff and security and I was a bit concerned that I had made a mistake in doing so. This could not have been further from the truth . Door staff were really friendly and …
+title: HEAVENLY @t PMFF , Paris Divan du monde 13.01.2013 - YouTube
+snippet: HEAVENLY @t PMFF , Paris Divan du monde 13.01.2013 France Metal Live. Loading ... THE SIRENS LIVE IN PARIS AU DIVAN DU MONDE CINQUIEME PARTIE PARIS LE 20 DECEMBRE 2014 - Duration: 1:00:12.
+title: Le Divan du Monde - Wikipedia
+snippet: Le Divan du Monde (&#39;The World Divan&#39;) is a converted theatre, now functioning as a concert space, located at 75 rue des Martyrs, in the 18th arrondissement, in the Pigalle neighborhood of Paris. History. At the beginning of the 19th century, there was a ballroom called the Saint-Flour Musette.
+title: De 10 beste restaurantene i nærheten av Le Divan du Monde
+snippet: Restauranter i nærheten av Le Divan du Monde på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Le Divan du Monde, Paris.
+title: Le Divan du Monde — Wikipédia
+snippet: En 1901, le Divan est transformé en Théâtre de la Comédie mondaine, en 1935 en Théâtre de la Nouvelle-Comédie [4]. Il est remplacé bien plus tard par un cinéma spécialisé dans les films pornographiques [5]. Aujourd&#39;hui. En 1994, le lieu rouvre ses portes sous son nom actuel de « Divan du Monde », pour accueillir essentiellement des ...
+
+REL: 1
+POI Name: A.S Passy Full Contact et Kick Boxing
+POI City: Paris
+POI Country: FR
+POI Main category: Active Life
+POI Sub category: Sports Clubs, 
+Snippets:
+title: AS passy full contact et kickboxing : club de boxe et ...
+snippet: A.S. PASSY. Découvrez notre nouveau site Web. Les principaux sports de combat réunis dans un club à Paris : kick boxing , MMA, full contact, K1, boxe thaï, baby boxing ... Des cours de boxe à partir de 4 ans dans les quartiers de Passy et Auteuil Numéro 1 en France en nombre d&#39;adhérents !
+title: www.yelp.fr
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Présentation de l&#39; association passy full contact et ...
+snippet: Ce que nous proposons à l&#39;A.S. Passy est assez unique : pour le prix d&#39;une seule cotisation, vous allez avoir accès à l&#39;enseignement de tous les sports de combat pieds/poings. Ceux-ci comprennent le kick boxing, le full contact, le K1, la boxe thaï.
+title: AS Passy - Full Contact et Kick Boxing Public Group | Facebook
+snippet: AS Passy - Full Contact et Kick Boxing has 1,015 members. L&#39;AS Passy a été créé en 2003 par Laurent et Gilles, les deux entraîneurs de l&#39;AS Evry, l&#39;un...
+title: Groupe public AS Passy - Full Contact et Kick Boxing ...
+snippet: AS Passy - Full Contact et Kick Boxing a 1 017 membres. L&#39;AS Passy a été créé en 2003 par Laurent et Gilles, les deux entraîneurs de l&#39;AS Evry, l&#39;un des...
+title: Actualité de l&#39;AS Evry et AS Passy Full Contact &amp; Kickboxing
+snippet: Les infos et évènements de l&#39;AS Evry Full Contact &amp; Kickboxing. Interruption provisoire des cours. C&#39;est avec beaucoup de tristesse que nous vous annonçons que nous sommes obligés d&#39;interrompre nos cours à Paris comme à Evry pour une durée indéterminée.
+title: A.S. Passy Full Contact &amp; Kick Boxing | La boxe pieds ...
+snippet: 75 - Paris; A.S. Passy Full Contact &amp; Kick Boxing; Clubs de France 75 - Paris. A.S. Passy Full Contact &amp; Kick Boxing. Ville : Paris 16. Disciplines pratiquées : full contact et kickboxing. Mardi : 18h45 à 20h30 : cours jeunes (à partir de 10 ans) ... Association Arts et Danse. Fight School Biarritz. Club de Savate Fabre .
+title: AS Evry et AS Passy full contact et kickboxing
+snippet: Tout sur l&#39;AS Passy et l&#39;AS Evry full contact et kick boxing, clubs de boxe et de sports de combat très réputés à Paris et Evry. Photos, vidéos, actualité, forum, cours, histoire du club, renseignements, les jeunes champions du club.
+title: Reportage AS Passy Full Contact &amp; KickBoxing (IEJ, 1ère ...
+snippet: AS PASSY. Club sportif amateur de Kick Boxing et Full Contact. Mars 2012.
+title: Amazonia - Glacière/Cité Universitaire - Paris, France
+snippet: Amazonia in Paris, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Paris and beyond. ... A.S Passy Full Contact et Kick Boxing. 1 review. Sports Clubs. Paris Université Club Rugby. 7 reviews. Sports Clubs, Soccer. Browse Nearby. Restaurants. Nightlife. Shopping. Show all.
+
+REL: 1
+POI Name: Chiaapas
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Chiaapas, Paris - Restaurantanmeldelser - TripAdvisor
+snippet: Spise middag i Paris: Se 14 anmeldelser fra TripAdvisor-reisende av 17 613restauranter i Paris, og søk etter kjøkken, pris, sted og mer.
+title: Chiaapas - Paris, Île-de-France | Groupon
+snippet: Le restaurant Chiaapas vous accueille dans le 10e arrondissement de Paris, entre la gare du Nord, la gare de l&#39;Est et Louis Blanc. Ce restaurant propose la découverte du Mexique et de sa cuisine ensoleillée dans un cadre agréable. La maison concocte les spécialités traditionnelles du pays, à découvrir ou à redécouvrir, avec par exemple les fajitas, le chili con carne, les quesadillas ...
+title: Yr – Værvarsel for París, Chiapas (Mexico)
+snippet: Værvarsel for 9,3 millioner steder i verden!
+title: Chiapas - Wikipedia
+snippet: Chiapas (Spanish pronunciation: ), officially the Free and Sovereign State of Chiapas (Spanish: Estado Libre y Soberano de Chiapas), is one of the 32 states that make up the 32 federal entities of Mexico. It is divided into 124 municipalities as of September 2017 and its capital city is Tuxtla Gutiérrez.
+title: CHIAAPAS, Paris - Comentários de restaurantes - Tripadvisor
+snippet: Chiaapas, Paris: See 14 unbiased reviews of Chiaapas, rated 2 of 5, and one of 17.603 Paris restaurants on Tripadvisor.
+title: Chiaapas Paris, tél, adresse, horaires, Restaurant
+snippet: Chiaapas à Paris, Restaurant, horaires d&#39;ouverture, téléphone, avis, plan d&#39;accès. Toutes les infos et recommandations sur Chiaapas 171 Rue La Fayette
+title: Chiapas: guía de viaje y costos - YouTube
+snippet: Detalles de la ruta y costos https://bit.ly/2zJ27A4 Ubicado al sur de México, Chiapas es uno de los estados más bonitos del país. Aquí te explico cómo hacer una ruta por los principales ...
+title: Chiaapas - Gare du Nord/La Chapelle - Paris, France - Yelp
+snippet: Chiaapas in Paris, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Paris and beyond.
+title: May 68 - Wikipedia
+snippet: The movement was largely centered around the Paris metropolitan area, and not elsewhere. Had the rebellion occupied key public buildings in Paris, the government would have had to use force to retake them. The resulting casualties could have incited a revolution, with the military moving from the provinces to retake Paris as in 1871.
+title: The World Clock — Search Results - Time and Date
+snippet: World time and date for cities in all time zones. International time right now. Takes into account all DST clock changes.
+
+REL: 0
+POI Name: Café le Commerce
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: restaurant brasserie à Paris - Le café du commerce Paris
+snippet: LA CARTE Les produits sont artisanaux et sont sélectionnés avec passion par Etienne Guerraud. Le Café du Commerce c&#39;est la cuisine de tradition par excellence, des recettes authentiques à redécouvrir.
+title: Le Cafe du Commerce, Paris - 51 rue du Commerce, 15th Arr ...
+snippet: Le Cafe du Commerce, Paris: See 1,649 unbiased reviews of Le Cafe du Commerce, rated 4 of 5 on Tripadvisor and ranked #1,747 of 17,675 restaurants in Paris.
+title: Le commerce café - Paris-Bistro
+snippet: A ne pas confondre avec le classique Café du Commerce situé à quelques numéros de là, cette grande brasserie de la rue du Commerce joue la carte tendance face à son classique voisin estampillé 1930. Une affaire en forme de L majuscule avec un long comptoir et à l’arrière une salle toute en profondeur. LeVoir l&#39;article
+title: Le Café du Commerce - 51 rue du Commerce, 15ème, Paris ...
+snippet: Le Café du Commerce is a beautiful, classy, laid back French restaurant in the XVè district of Paris. The restaurant itself has three floors and it has been serving customers since 1921! I order La pièce de boeuf, frites maison, sauce du jour.
+title: Le café du commerce Paris - Restaurant Brasserie Paris
+snippet: Le Café du Commerce est une grande brasserie parisienne indépendante - Cuisine française - 51, rue du Commerce, Paris 15e. Le Café du Commerce est une grande brasserie parisienne indépendante - Cuisine française - 51, rue du Commerce, Paris 15e. cuisine maison &amp; vins de propriétés.
+title: Le Commerce, Bresles - Home | Facebook
+snippet: Le Commerce, Bresles, Bresles. 393 likes · 21 talking about this · 4 were here. Tabac, Bar, PMU, FDJ, Vapote,presse
+title: Le Cafe du Commerce (パリ) の口コミ1,649件 - トリップアドバイザー
+snippet: Le Cafe du Commerce(パリ)に行くならトリップアドバイザーで口コミ、地図や写真を事前にチェック！Le Cafe du Commerceはパリで1,747位(17,674件中)、4点の評価を受けています。
+title: Le Café du Commerce - Home - Paris, France - Menu, Prices ...
+snippet: Le Café du Commerce, Paris, France. 2,424 likes · 2 talking about this · 14,129 were here. Unique à Paris, le Café du Commerce vous accueille le long de ses 3 étages ornés de plantes et ouverts sur...
+title: Le Cafe du Commerce, Paris - 33 boulevard de Reuilly ...
+snippet: Le Cafe du Commerce, Paris: See 16 unbiased reviews of Le Cafe du Commerce, rated 4.5 of 5 on Tripadvisor and ranked #8,223 of 17,676 restaurants in Paris.
+title: Café du Commerce, Paris - 13e Arr. - Gobelins - Menu, Prix ...
+snippet: Café du Commerce, Paris : consultez 133 avis sur Café du Commerce, noté 4,5 sur 5 sur Tripadvisor et classé #2 537 sur 17 680 restaurants à Paris. ... Nous avons été attirés par le commentaires dithyrambiques sur ce restaurants et ils étaient à la hauteur de la réalité.
+
+REL: 0
+POI Name: Terrains de Tennis Championnet
+POI City: Paris
+POI Country: FR
+POI Main category: Active Life
+POI Sub category: Tennis, 
+Snippets:
+title: Championnet Sports : Tennis
+snippet: Championnet Sports, reconnu pour la qualité de sa formation et de ses animations, a été désigné Club Réfèrent Tennis Féminin de la Ligue de Paris . Ecole de tennis : Pédagogie de l’apprentissage du tennis par le jeu, avec des situations ludiques et des apports technico-tactiques.
+title: Terrains de Tennis Championnet - Tennis - 172 rue ...
+snippet: Terrains de Tennis Championnet in Paris, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Paris and beyond.
+title: Terrains de Tennis Championnet - 3 Tennis Courts in Paris ...
+snippet: Terrains de Tennis Championnet Tennis courts in Paris France 75018. 3 total tennis courts.
+title: Réserver un terrain de tennis à Paris : location de court ...
+snippet: Faites confiance au leader de la réservation en ligne de terrain de tennis, badminton, squash et padel pour réserver un terrain de tennis à Paris ou en île de France. Vous pouvez également faire une location de court de tennis à proximité grâce à notre appli.
+title: Terrain de Sport Jesse Owens ex Championnet - Ville de Paris
+snippet: Terrain de Sport Jesse Owens ex Championnet 172 rue Championnet 75018 Paris Métro. Porte de Saint-Ouen, ligne 13. Velib. Station 18034, 50 rue leibnitz Station 18028, 195 rue championnet Station 18027, 102 rue ... Paris.fr utilise des cookies à des fins statistiques, ...
+title: Stade Championnet - Terrain et club de tennis, 172 rue ...
+snippet: Découvrez Stade Championnet (172 rue Championnet, 75018 Paris) avec toutes les photos du quartier, le plan d&#39;accès, les avis et les infos pratiques : horaires, ... Mappy Lieux. ... Stade Championnet Terrain et club de tennis 172 rue Championnet 75018 Paris. Itinéraires SITE WEB;
+title: Couverture des terrains de tennis au stade Championnet - Paris
+snippet: Le projet consiste à couvrir les deux terrains de tennis situés dans le stade Championnet. La couverture des terrains permettra de pratiquer de manière régulière le tennis, dans des conditions de sécurité adaptées à la pratique. Les nuisances sonores et lumineuses seront atténuées pour le voisinage.
+title: Terrains de Tennis Championnet – Paris, 172 rue ...
+snippet: Consulte detalhes de contato e 4 avaliações para Terrains de Tennis Championnet em 172 rue Championnet, Paris, França, ou escreva uma avaliação. Explore um mapa interativo com locais próximos.
+title: Tennis municipaux : réservez un court - Ville de Paris
+snippet: Pour vous permettre d’utiliser ces tickets dans le nouveau Paris Tennis, la Ville de Paris avait mis en place une procédure spécifique d&#39;échange. Celle-ci a été arrêtée, un an après la mise en service de Paris Tennis le 29 novembre 2018, afin de vous permettre de déposer vos derniers tickets pendant leur période de validité.
+title: Clubs de tennis : guide
+snippet: Liste des clubs de tennis et terrains connus par Tennissables Liste non exhaustive des clubs de tennis analysées par le site , si votre club n’est pas présent , n’hésitez pas à me contacter en m’envoyant une description unique, objectif et détaillée ( avec photos originales) Clubs de tennis en France Albi : Tennis Club d’Albi …
+
+REL: 0
+POI Name: Musée du Louvre
+POI City: Paris
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Louvre Museum Official Website
+snippet: The Musée du Louvre, Tuileries Garden and Cour Carrée will remain closed until further notice. All those who have purchased a ticket online will automatically receive a refund – no action is required. Due to the number of refunds we have to process, this operation may take up to three months.
+title: Site officiel du musée du Louvre
+snippet: Le musée du Louvre, le jardin des Tuileries et la Cour Carrée sont fermés jusqu&#39;à nouvel ordre. Les visiteurs ayant acheté un billet en ligne pour le musée seront remboursés. Vous n’avez aucune démarche à effectuer. En raison du nombre élevé de billets à rembourser, le délai de ce traitement est estimé à trois mois.
+title: Visites en ligne | Musée du Louvre | Paris
+snippet: Visites en ligne . Pénétrez dans les salles du musée, contemplez les façades du palais et admirez la vue ! Le Louvre, grâce au mécénat de Shiseido, vous invite à une visite virtuelle.
+title: Visites en ligne | Musée du Louvre | Paris
+snippet: Le musée du Louvre, le jardin des Tuileries et la Cour Carrée sont fermés jusqu&#39;à nouvel ordre. Les visiteurs ayant acheté un billet en ligne pour le musée seront remboursés. Vous n’avez aucune démarche à effectuer. En raison du nombre élevé de billets à rembourser, le délai de ce traitement est estimé à trois mois.
+title: Louvre – Wikipedia
+snippet: Louvre, fransk Musée du Louvre («Louvre-museet»), er et av verdens største museer og det mest besøkte kunstmuseum i verden. Det er i seg selv et historisk monument og et sentralt landemerke i Paris på høyrebredden av elven Seinen i distriktet 1. arrondissement.Rundt 35 000 objekter fra forhistorisk tid og fram til 1800-tallet er utstilt på et område som dekker 60 600 kvadratmeter.
+title: Louvre - Wikipedia
+snippet: The Louvre (English: / ˈ l uː v (r ə)/ LOOV(-rə)), or the Louvre Museum (French: Musée du Louvre [myze dy luvʁ] ), is the world&#39;s largest art museum and a historic monument in Paris, France. A central landmark of the city, it is located on the Right Bank of the Seine in the city&#39;s 1st arrondissement (district or ward).
+title: Musée du Louvre — Wikipédia
+snippet: Dans un discours prononcé devant le Conseil du département de Paris, le 15 décembre 1791, Armand de Kersaint suggère l&#39;achèvement du palais du Louvre et la création du Musée : « Que Paris devienne l&#39;Athènes moderne, et que la capitale des abus, peuplée d&#39;une race d&#39;hommes régénérés par la liberté, devienne par vos soins la ...
+title: Horaires, tarifs, accès | Musée du Louvre | Paris
+snippet: Horaires, tarifs, accès . Le musée du Louvre, le jardin des Tuileries et la Cour Carrée sont fermés jusqu&#39;à nouvel ordre. Les visiteurs ayant acheté un billet en ligne pour le musée seront remboursés.
+title: Musee du Louvre (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: Musee du Louvre kan være fullpakket, så vi anbefaler å bestille e-billetter på forhånd for å sikre deg en plass. Hvis du bestiller med Tripadvisor, kan du avbestille minst 24 timer før startdagen for turen for å få full refusjon. Se alle 516 billetter og turer i Musee du Louvre på Tripadvisor
+title: Musée du Louvre (Paris) - A Virtual Tour through the ...
+snippet: Musée du Louvre (Paris) - A Virtual Tour through the Louvre Museum in Paris, France The Louvre or the Louvre Museum (French: Musée du Louvre) is one of the world&#39;s largest museums and a historic ...
+
+REL: 0
+POI Name: Indiana Cafe Gare de l'Est
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Tex-Mex, American (Traditional), 
+Snippets:
+title: Indiana Café | Restaurant américain et mexicain avec ...
+snippet: Indiana Café est un restaurant à la frontière entre restaurant américain et mexicain, proposant un large choix de plats Tex-Mex : burger, tacos, quesadillas, salade Caesar, nachos, guacamole, brunch… Venez profiter de nos restaurants à thème et de nos terrasses pendant l’happy hour !
+title: Indiana Cafe, Gare De L&#39;est, Paris, France - Review of ...
+snippet: Indiana Cafe - Montparnasse: Indiana Cafe, Gare De L&#39;est, Paris, France - See 797 traveler reviews, 202 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Indiana Cafe, Gare de l&#39;Est - Brunch - Avis de voyageurs ...
+snippet: Indiana Café: Indiana Cafe, Gare de l&#39;Est - Brunch - consultez 797 avis de voyageurs, 202 photos, les meilleures offres et comparez les prix pour Paris, France sur Tripadvisor.
+title: Indiana Cafe, Paris - 129 rue du Faubourg Saint Martin ...
+snippet: Indiana Cafe, Paris: See 54 unbiased reviews of Indiana Cafe, rated 3 of 5 on Tripadvisor and ranked #14,943 of 17,688 restaurants in Paris.
+title: Indiana Cafe, Gare De L&#39;est, Paris, France - Indiana Cafe ...
+snippet: Indiana Cafe - Montparnasse: Indiana Cafe, Gare De L&#39;est, Paris, France - See 797 traveler reviews, 202 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Brunch Indiana Café Gare de l&#39;Est (75010 Paris) - OuBruncher
+snippet: Description de la Rédaction Dans le 10ème arrondissement, juste en face de la gare de l&#39;Est, se trouve la deuxième franchise de la chaîne Indiana Café ! On aime à s&#39;y retrouver pour le brunch du dimanche. Pour le brunch, plusieurs options sont disponibles. Assiettes brunch :
+title: Indiana Café, Paris - 129 rue du Faubourg Saint Martin ...
+snippet: Indiana Café, Paris : ... Restaurant bien placé, a une minute de la gare de l&#39;Est. Les plats sont corrects, sans surprise, pas de &quot;fait maison&quot; pour ce que nous avons mangé, ... Chez Aldo Cafe. 148 avis . À 0,1 km . Meilleures attractions proches Tout afficher. Paris-Gare de L&#39;Est.
+title: Le Cafe de l&#39;Est, Paris - 10th Arr. - Entrepôt ...
+snippet: Le Cafe de l&#39;Est, Paris: 470 Bewertungen - bei Tripadvisor auf Platz 8.459 von 17.679 von 17.679 Paris Restaurants; mit 3,5/5 von Reisenden bewertet. ... Der Bahnhof Gare de l&#39;Est ist besonders und passt eher in ein deutsches Kurbad. Leider fehlt dort ein gemütliches Café.
+title: Beste spisesteder i nærheten av Holiday Inn Paris-Gare de ...
+snippet: Restauranter i nærheten av Holiday Inn Paris-Gare de L&#39;Est på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Holiday Inn Paris-Gare de L&#39;Est, Paris.
+title: Restaurants Indiana | Indiana Café
+snippet: Les Indiana Tous Restaurants Clubs Les Indiana... Indiana Café. Les Halles. Lire
+
+REL: 0
+POI Name: Ofr. Librairie,Galerie
+POI City: Paris
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Newspapers & Magazines, Bookstores, Art Galleries, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 0fr - Home | Facebook
+snippet: 0fr, Paris. 7,934 likes · 7 talking about this. Instagram @ofrparis
+title: 0fr. (@ofrparis) • Instagram photos and videos
+snippet: 36.5k Followers, 583 Following, 4,846 Posts - See Instagram photos and videos from 0fr. (@ofrparis)
+title: Ofr. Librairie : horaires, adresse, téléphone, plan, avis
+snippet: Ofr. est une librairie et galerie dans laquelle on trouve aussi une sélection d&#39;accessoires. Boutique ouverte du lundi au samedi de 10h à 20h et le dimanche de 14h à 19h (métro Filles du Calvaire, République ou Temple)
+title: Ofr. Librairie,Galerie – Paris, 20 rue Dupetit Thouars (11 ...
+snippet: Afficher les informations de contact et 11 avis pour Ofr. Librairie,Galerie à 20 rue Dupetit Thouars, Paris, ou écrire un avis. Explorer une carte interactive avec des adresses proches.
+title: Ofr. Librairie,Galerie - - , &amp; 1 Photo - Reviews, Phone ...
+snippet: &amp; - Visit and Check Out Ofr. Librairie,Galerie- Your Best Local Partner Today! See Relevant Information, Reviews, Phone Number. 20 Rue Dupetit Thouars 75003 Paris France Marais Nord, 3ème.
+title: Librairie 0fr. book store - eVous
+snippet: New concept store qui fait librairie et galerie, il y a même des événements tels que des concerts, dédicaces, braderie et ventes privées, cocktails de lancement, minis expos et vernissages ...
+title: Ofr. Librairie,Galerie - Marais Nord - Paris, France
+snippet: 13 avis pour Ofr. Librairie,Galerie &quot;Les avis précédents reflètent si bien cet univers à part et cette sélection pointue que je me contenterais simplement un ajout concernant les actualités trépidantes de OFR: régulièrement, des vernissages et…
+title: Ofr. Librairie,Galerie – Paris, 20 rue Dupetit Thouars (11 ...
+snippet: 11 bewertungen, Kontaktinformationen und Geschäftszeiten von Ofr. Librairie,Galerie in 20 rue Dupetit Thouars, Paris, Frankreich. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Ofr. Librairie,Galerie – Paris, 20 rue Dupetit Thouars (11 ...
+snippet: Opening hours, contacts and 11 reviews for Ofr. Librairie,Galerie at 20 rue Dupetit Thouars, Paris, France. View nearby places on a map. Leave a review.
+
+REL: 0
+POI Name: Flirt'The
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, 
+Snippets:
+title: Flirt&#39;The, Paris - 7th Arr. - Palais-Bourbon - Restaurant ...
+snippet: Flirt&#39;The, Paris: See 15 unbiased reviews of Flirt&#39;The, rated 4.5 of 5 on Tripadvisor and ranked #8,353 of 17,635 restaurants in Paris.
+title: Flirt&#39;The, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Flirt&#39;The, Paris: Se 15 objektive anmeldelser av Flirt&#39;The, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 8 384 av 17 664 restauranter i Paris.
+title: FLIRT&#39;THE, Paris - 7th Arr. - Palais-Bourbon - Restaurant ...
+snippet: Flirt&#39;The, Paris: See 15 unbiased reviews of Flirt&#39;The, rated 4.5 of 5 on Tripadvisor and ranked #8,394 of 17,674 restaurants in Paris.
+title: Flirt&#39;The, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Flirt&#39;The, Paris: Se 15 objektive anmeldelser af Flirt&#39;The, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 8.394 af 17.689 restauranter i Paris.
+title: FLIRT&#39;THE, Paris - Omdömen om restauranger - Tripadvisor
+snippet: Flirt&#39;The, Paris: Se 15 objektiva omdömen av Flirt&#39;The, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer8 394 av 17 675 restauranger i Paris.
+title: Flirt&#39;The - Picture of Flirt&#39;The, Paris - Tripadvisor
+snippet: Flirt&#39;The, Paris Picture: Flirt&#39;The - Check out Tripadvisor members&#39; 51,336 candid photos and videos of Flirt&#39;The
+title: Flirt&#39;The, Paris - 7th Arr. - Palais-Bourbon - Restaurant ...
+snippet: Flirt&#39;The, Paris: 15 Bewertungen - bei Tripadvisor auf Platz 8.364 von 17.612 von 17.612 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Flirt&#39;The, Paris - 7e Arr. - Palais Bourbon - Restaurant ...
+snippet: Flirt&#39;The, Paris : consultez 15 avis sur Flirt&#39;The, noté 4,5 sur 5 sur Tripadvisor et classé #8 394 sur 17 674 restaurants à Paris.
+title: Flirt&#39;The, Paryż - recenzje restauracji - Tripadvisor
+snippet: Flirt&#39;The, Paryż: zobacz bezstronne recenzje (15 ) na temat Flirt&#39;The, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 8 395 z 17 675 restauracji w Paryżu.
+title: Meet Flirty Local Singles with Online Dating Site Flirt.com
+snippet: At Flirt.com, we offer a welcoming environment that allows you to chat securely with people you’re interested in. Whether you plan to meet singles in person, flirt in our chat rooms or you only plan to browse personals, you can rest assured that your safety and wellbeing is our number priority.
+
+REL: 0
+POI Name: Ney's
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Food Delivery Services, 
+Snippets:
+title: Michel Ney - Wikipedia
+snippet: Michel Ney was born in the town of Sarrelouis, in the French province of the Three Bishoprics, along the French–German border. He was the second son of Pierre Ney (1738–1826), a master cooper and veteran of the Seven Years&#39; War, and his wife Margarethe Greiveldinger [citation needed] (1739–1791).
+title: Michel Ney – Wikipedia
+snippet: Michel Ney (født 10. januar 1769 i Saarlouis som da var i Frankrike, henrettet 7. desember 1815 i Paris), kalt Le Rougeaud og le Brave des Braves, var en fransk offiser og feltmarskalk.Han kjempet under revolusjonskrigene og Napoleonskrigene.Han begynte sin militære løpebane i 1787, og markerte seg som en impulsiv og modig soldat som skulle bli et eksempel på hva det innebærer å «lede ...
+title: Ney Immobilière Sàrl
+snippet: Les cookies peuvent être utilisés à la fois par le propriétaire du site et des tiers et peuvent être facilement désactivés par vos soins. Ney Immobilière Sàrl, afin de fournir ses services, a besoin d&#39;utiliser des cookies, y compris des cookies tiers, à travers notre site.
+title: Ney&#39;s Sushi, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Ney&#39;s Sushi, Paris: Se objektive anmeldelser av Ney&#39;s Sushi, vurdert til 1 av 5 på Tripadvisor og vurdert som nr. 15 442 av 17 682 restauranter i Paris.
+title: Disneyland Paris - tickets, deals, family holidays ...
+snippet: Welcome to the official website of Disneyland Paris. Discover 2 Disney Parks, 7 Disney Hotels, a golf course and Disney Village for even more magic and fun.
+title: Ney - YouTube
+snippet: ⬇️ Présentation : ? Salut, je m’appelle Ney (connu sous le prénom de Vincent), je suis créateur de contenu sur YouTube et je réalises aussi des diffusions ...
+title: Neys
+snippet: Le Groupe Neys, c’est avant tout des hommes et des femmes qui œuvrent au quotidien pour le développement de leur entreprise et au service de la satisfaction client. La responsabilisation du personnel et les investissements récurrents dans les outils de production permettent de maintenir une totale implication des équipes.
+title: Michel Ney – Store norske leksikon
+snippet: Michel Ney var en fransk hærfører og marskalk av Frankrike fra 1804. Han var hertug av Elchingen (1808) og fyrste av Moskva (1812). Ney startet sin militære karriere under den franske revolusjonen. Da Imperiet blir proklamert (18. mai 1804) ble han oppnevnt marskalk. 14. oktober 1805 vant han slaget ved Elchingen mot østerrikerne og slaget ved Friedland mot Det russiske keiserriket (14.
+title: NEY &amp; Partners | Actualités | News | Evénements
+snippet: La nouvelle crèche, située dans les Jardins de Fontenay-sous-Bois peut accueillir 160 enfants. Avec ce nouveau bâtiment entièrement passif et financé sur fonds propres pour un montant de 9,9 millions d’euros, la commune d’Etterbeek entend répondre concrètement aux conséquences du boom démographique de la capitale.
+title: Michel Ney – Wikipedia
+snippet: Lebenslauf auf dem Sockel des Ney-Denkmals in Paris. Anlässlich seiner Kaiserkrönung ernannte Napoleon I. Ney 1804 zum Marschall des Empire. Als Befehlshaber eines Korps eröffnete Ney den Feldzug von 1805. Einheiten seines Armeekorps schlugen die Österreicher Erzherzog Ferdinands bei Günzburg am 9.
+
+REL: 0
+POI Name: Le Colisée
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Dance Clubs, 
+Snippets:
+title: Hotel Le Colisée Paris | Official Site | Save 20% Now!
+snippet: Hotel Le Colisée Paris is a modern 3-star hotel near Champs-Elysees and Concorde Paris. Book here to have the best rates online.
+title: Hôtel Le Colisée Paris | Site officiel | Économisez 20 % ...
+snippet: L’hôtel Le Colisée Paris est un hôtel moderne, 3 étoiles, près des Champs-Elysées et de la Concorde à Paris. Réservez ici pour obtenir les meilleurs tarifs en ligne.
+title: coliseeparis.fr - Manfield
+snippet: Livraison gratuite en magasin et relais Colisee Paris retour gratuit livraison express paiement sécurisé Appstore
+title: Hôtel Le Colisée, Paris, France - Booking.com
+snippet: Hôtel Le Colisée This neighborhood is a great choice for travelers interested in shopping, restaurants and romance – Check location 6, rue du Colisée, 8th arr., 75008 Paris, France – This neighborhood is a great choice for travelers interested in shopping, restaurants and romance – Check location Excellent location – show map – Subway Access
+title: Colisée — Wikipédia
+snippet: Le Colisée était entouré d&#39;une place de 17,5 m de large pavée de travertin et délimité par les bornes fixées [39] dans le sol dont la fonction est discutée (ancrage des cordes de rappel du velarium, portes pour filtrer et réguler les accès au monument) [40].
+title: Hôtel Le Colisée, Paris – Updated 2020 Prices
+snippet: Hôtel Le Colisée This neighbourhood is a great choice for travellers interested in shopping, restaurants and romance – Check location 6, rue du Colisée, 8th arr., 75008 Paris, France – This neighbourhood is a great choice for travellers interested in shopping, restaurants and romance – Check location Excellent location - show map – Metro access
+title: Le Colisée - Les monuments du Monde
+snippet: Le Colisée est le nom d&#39;un amphithéâtre romain datant de l&#39;antiquité, construit sous les règnes des empereurs Vespasien et Titus, puis modifié par Domitien. On l&#39;appelle parfois l&#39;amphithéâtre Flavien, son nom actuel est un dérivé de l&#39;adjectif &#39;colossal&#39;, qui est l&#39;une de ces caractéristiques.
+title: Hotel Le Colisée Paris | 3-star hotel | Save 20% Now!
+snippet: Enjoy the 3-star Hotel Le Colisée Paris near the Champs-Elysees. Wi-Fi, HD TV, Air conditioning. Closed to famous districts in Paris.
+title: Le colisee wagram, Paris - Plaine de Monceaux - Restaurant ...
+snippet: Le colisee wagram, Paris: See 32 unbiased reviews of Le colisee wagram, rated 4 of 5 on Tripadvisor and ranked #7,344 of 17,679 restaurants in Paris.
+title: HOTEL LE COLISEE (Paris, Frankrike) - Hotell - anmeldelser ...
+snippet: Hotel Le Colisee, Paris: Se 302 reiseanmeldelser, 96 bilder og gode tilbud for Hotel Le Colisee, vurdert som nr. 574 av 1 842 hotell i Paris og vurdert til 4 av 5 på Tripadvisor.
+
+REL: 0
+POI Name: Poco Loco
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Latin American, Mexican, 
+Snippets:
+title: Poco Loco - Paris, France - Mexican Restaurant | Facebook
+snippet: Poco Loco, Paris, France. 79 likes · 373 were here. Mexican Restaurant
+title: Anthony Gonzalez, Gael García Bernal - Un Poco Loco (From ...
+snippet: 50+ videos Play all Mix - Anthony Gonzalez, Gael García Bernal - Un Poco Loco (From &quot;Coco&quot;) YouTube Coco All Full Songs (2018) Disney HD - Duration: 11:05. Viral MEDIA 4,440,468 views
+title: Luis Ángel Gómez Jaramillo, Gael García Bernal - Un Poco ...
+snippet: Un Poco Loco (De &quot;Viva - A Vida é uma Festa&quot;/Versão da Trilha sonora) Artist Arthur Salerno, Leandro Luna; Licensed to YouTube by
+title: Restaurant Poco Loco Paris 10 ème - chilien
+snippet: &quot; Ambiance Chilienne cool et décontractée &quot;Chloé nous emmène à la découverte du Poco Loco qu&#39;elle a découvert sur le Quai de Valmy Paris 10e. A cette époque le restaurant ne désemplissait pas et subissait l&#39;effet de mode &quot;latino&quot; et celui du quartier sur la voie de &quot;branchitude&quot;.
+title: Poco Loco, Chamonix - Restaurantanmeldelser - Tripadvisor
+snippet: Poco Loco, Chamonix: Se 1 538 objektive anmeldelser av Poco Loco, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 31 av 242 restauranter i Chamonix.
+title: Klær og mote på 1980-tallet - Norsk Folkemuseum
+snippet: Nye norske klesmerker, som Bik Bok og Poco Loco. kom på markedet på 1980-tallet. Poco Loco-dresser var drømmen for den unge konfirmanten, Poco Loco laget også smokinger for velkledde herrer. Andre merker var In Wear og Taverniti. Bjørg og Kari, en forretning i Lille Grensen i Oslo, solgte kvinneklær med applikasjoner. Det var en pyntet stil, som samtidig var løs og ledig. Den italienske ...
+title: Andrea Santamaria, Damien Ferrette - Un Poco Loco (De ...
+snippet: Un Poco Loco (De &quot;Viva - A Vida é uma Festa&quot;/Versão da Trilha sonora) Artist Arthur Salerno, Leandro Luna; Licensed to YouTube by
+title: Choco Loco, Fredrikstad - Restaurantanmeldelser - Tripadvisor
+snippet: Choco Loco, Fredrikstad: Se 35 objektive anmeldelser av Choco Loco, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 12 av 95 restauranter i Fredrikstad.
+title: Meet Miguel from Disney&#39;s Pixar COCO at Disneyland Paris ...
+snippet: Meet Miguel from Disney&#39;s Pixar COCO at Disneyland Paris Subscribe to ... Meet Miguel from Disney&#39;s Pixar COCO at Disneyland Paris Subscribe to our ... Disney pixar coco Un poco loco cover ...
+
+REL: 0
+POI Name: L'International
+POI City: Paris
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Bars, Dance Clubs, 
+Snippets:
+title: L&#39;INTERNATIONAL - 359 Photos - Live Music Venue - 5 Rue ...
+snippet: L&#39;INTERNATIONAL, Paris, France. 42K likes. BAR • LIVE • CLUB Pour toute demande de programmation : prog@linternational.fr Pour toute demande de...
+title: L&#39;international (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: L&#39;international, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for L&#39;international i Paris, Frankrike på Tripadvisor.
+title: L&#39;International, Paris, Bar - infos et adresse - Le ...
+snippet: Situé en plein coeur du 11ème arrondissement, l’International réunit les qualités d’une salle de concerts et l’ambiance chaleureuse d’un bar, et s&#39;est installé au fil du temps comme un lieu incontournable de la découverte musicale à Paris. L&#39;International - Horaires
+title: De 10 beste restaurantene i nærheten av L&#39;international
+snippet: Restauranter i nærheten av L&#39;international på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av L&#39;international, Paris.
+title: The Internationale - Wikipedia
+snippet: The original French words were written in June 1871 by Eugène Pottier (1816–1887, previously a member of the Paris Commune) and were originally intended to be sung to the tune of &quot;La Marseillaise&quot;. In 1888 Pierre De Geyter (1848–1932) set the earlier lyrics to a new melody, composed especially for Pottier&#39;s lyrics.
+title: L&#39;international - Picture of L&#39;international, Paris ...
+snippet: L&#39;international, Paris Picture: L&#39;international - Check out Tripadvisor members&#39; 51,175 candid photos and videos of L&#39;international
+title: L&#39;international à Paris - Agenda Culturel de Paris
+snippet: L&#39;international est une salle de concert à Paris 11ème qui accueille une programmation musicale variée. L&#39;international est situé au 5-7 Rue Moret à Paris 11ème. Retrouvez ci-dessous le programme de L&#39;international avec les tarifs pour la réservation de vos places, ainsi que l&#39;adresse et les horaires de L&#39;international à Paris 11ème.
+title: Beste hoteller i nærheten av Biguine - L&#39;International ...
+snippet: Hoteller i nærheten av Biguine - L&#39;International Marbeuf, Paris: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Biguine - L&#39;International Marbeuf på Tripadvisor.
+title: De 10 beste hotellene i nærheten av L&#39;international
+snippet: Hoteller i nærheten av L&#39;international, Paris: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av L&#39;international på Tripadvisor.
+title: L&#39;International Paris, Tickets for Concerts &amp; Music Events ...
+snippet: Buy tickets for an upcoming concert at L&#39;International. List of all concerts taking place in 2020 at L&#39;International in Paris.
+
+Cand cities: {'Paris', 'Paris-2E-Arrondissement'}

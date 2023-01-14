@@ -1,0 +1,1273 @@
+City: Madrid
+Country: ES
+Main category: Nightlife
+Sub category: Bars
+Description: Hola! Can anyone recommend any trendy, vibey bars in Madrid that have a cool atmosphere, maybe a live DJ and some house/techno? Not a club but more a place to have a drink but in a cool, late night “before/pres” atmosphere? Thanks!
+Rated POIs: 47
+Rel distr: [(0, 5), (1, 15), (2, 14), (3, 13)]
+=================================
+REL: 3
+POI Name: Bee Beer
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Beer Bar, 
+Snippets:
+title: Bee Beer - Home | Facebook
+snippet: Echoing the comments of everyone else: a gem in Madrid! Good beer with great people! Difficult to fi... nd international craft beer in Spain but this place is fantastic. Not far from the Hop-off Hop-on bus stops near Parque de el Retiro &amp; Prado Museum.
+title: Bee Beer - Posts | Facebook
+snippet: Bee Beer - - Rated 4.9 based on 79 Reviews &quot;Echoing the comments of everyone else: a gem in Madrid! Good beer with great people! Difficult to fi ... ¡No olvides comprobar cómo puede afectarte Madrid Central!. # BeeFriends # CraftBeerMadrid # BeeHappy # EnTripAdvisor # CervezasArtesanalesMadrid. See More. Bee Beer is thinking about Valentine&#39;s ...
+title: Madrid Archives - Bee Beer
+snippet: Xavier Losada At the beginning of 2019, the 3rd anniversary of Bee Beer was approaching and we wanted to celebrate it with a new recipe, without a doubt that some triple would do the job.
+title: Bee Beer, Chueca, Madrid - Picture of Bee Beer, Madrid ...
+snippet: Bee Beer, Madrid Picture: Bee Beer, Chueca, Madrid - Check out Tripadvisor members&#39; 53,596 candid photos and videos of Bee Beer. Madrid. Madrid Tourism Madrid Hotels Madrid Bed and Breakfast Madrid Vacation Rentals Madrid Vacation Packages Flights to Madrid Madrid Restaurants Things to Do in Madrid Madrid Shopping
+title: BEE BEER, Madrid - Calle Augusto Figueroa 30, Centro ...
+snippet: Bee Beer, Madrid: Consulta 129 opiniones sobre Bee Beer con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°192 de 11.659 restaurantes en Madrid.
+title: Bee Beer - Picture of Bee Beer, Madrid - Tripadvisor
+snippet: Bee Beer, Madrid Picture: Bee Beer - Check out Tripadvisor members&#39; 53,445 candid photos and videos of Bee Beer
+title: The 15 Best Places for Beer in Madrid - Foursquare
+snippet: Steven Stewart: After visiting most best places in Madrid and Barcelona with good Spanish tortillas, this bar had my favourite. Try the truffled brie tortilla with a local La Virgen draft beer. ... Bee Beer. 9.3. C. Augusto Figueroa, 30, Madrid City Center, Madrid. Beer Store · Chueca · 18 tips and reviews.
+title: Bee Beer - Chueca - Madrid, Spain - Yelp
+snippet: I loooooove Bee Beer. Amazing rotating brews, fridges filled with several European crafts, and plenty of fancy cheese and meat. Bee is extremely small, so be cognizant that you may be doing some standing if you go during peak hours, but damn, it&#39;s worth it.
+title: Bee Beer, Madryt - recenzje restauracji - Tripadvisor
+snippet: Bee Beer, Madryt: zobacz bezstronne recenzje (129 ) na temat Bee Beer, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 181 z 11 644 restauracji w Madrycie.
+title: We Are Bee Beer
+snippet: Gipsy Brewers with two Craft Beer Bars in Madrid, inspired by unique, good vibe &amp; cozy moments with friends. We try, explore and discover new flavors around the world´s most celebrated drink. Phonetically – in Spanish – Bee Beer sounds “Live”, and that´s what we do every day in this ecosystem: live with optimism and joy staying true to the values that craft beer lovers hold dear ...
+
+REL: 3
+POI Name: Macera
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Modern European, Tapas Bars, 
+Snippets:
+title: MACERA - Bebidas artesanales en Madrid
+snippet: Macera TallerBar es un concepto que surge de la observación y la reflexión con un claro fin de cambio y evolución. Visítanos en pleno corazón de Malasaña.
+title: Macera TallerBar, Madrid - Centro - Restaurant Reviews ...
+snippet: Macera TallerBar, Madrid: See 323 unbiased reviews of Macera TallerBar, rated 4.5 of 5 on Tripadvisor and ranked #353 of 11,660 restaurants in Madrid.
+title: Macera TallerBar, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Macera TallerBar, Madrid: Se 321 objektive anmeldelser av Macera TallerBar, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 352 av 11 657 restauranter i Madrid.
+title: MACERA, Madrid - Centro - Fotos, Número de Teléfono y ...
+snippet: MACERA, Madrid: Consulta 323 opiniones sobre MACERA con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°353 de 11.660 restaurantes en Madrid.
+title: Macera - Justicia - Madrid, Spain - Yelp
+snippet: Macera is a super solid bar. Definitely one of the better bars in Madrid, but not among the best. They have great drinks that focus and showcase the liquors that they use. The space is also fun, and popular with locals as well. If you got later, do not expect to sit down or to have a nice, quiet conversation. That said, not a dancing bar either.
+title: Macera TallerBar, Madrid - Centro - Restaurant Bewertungen ...
+snippet: Macera TallerBar, Madrid: 323 Bewertungen - bei Tripadvisor auf Platz 353 von 11.660 von 11.660 Madrid Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Macera TallerBar - Home | Facebook
+snippet: Macera TallerBar, Madrid. 8.1K likes. MACERA es un concepto que surge de la observación y la reflexión con un claro fin de cambio y evolución. Descubre y comparte nuestro espacio múltiple. Ahora...
+title: Macera TallerBar - Startside | Facebook
+snippet: Macera TallerBar – Calle San Mateo, 21, 28004 Madrid, Spain – Vurderingen 4.8 basert på 222 anmeldelser &quot;Excelente lugar con una calidad precio sin...
+title: Macera Taller Bar, Barcelona - Restaurantanmeldelser ...
+snippet: Macera Taller Bar, Barcelona: ... Jeg har hørt at Macera startet i Madrid og kom til Barcelona basert på den opprinnelige suksess. Jeg håper jeg kan ha det bra gin &amp; Tonic så mye og ofte som mulig i Spania. Mer. Dato for besøk: mai 2017. Takk for at du sender inn en endring. Vi gjennomgår forslaget ditt.
+title: MACERA TALLERBAR, Madrid - Centro - Updated 2020 ...
+snippet: Macera TallerBar, Madrid: See 323 unbiased reviews of Macera TallerBar, rated 4.5 of 5 on Tripadvisor and ranked #353 of 11,660 restaurants in Madrid.
+
+REL: 3
+POI Name: 1862 Dry Bar
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Lounges, Cocktail Bars, Pubs, 
+Snippets:
+title: 1862 Dry Bar (Madrid) - 2020 All You Need to Know Before ...
+snippet: Without a shadow of a doubt one of the best bars my twin brother Stephen and I visited on our recent nine days holiday to Madrid was 1862 Dry Bar. The bar itself is the type of bar I love to visit, s...
+title: 1862DryBar - Home | Facebook
+snippet: 1862DryBar - Pez 27, 28004 Madrid, Spain - Rated 4.8 based on 229 Reviews &quot;Truly the best bar in Madrid for cocktails. I work in Los Angeles at...
+title: 1862 Dry Bar (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Without a shadow of a doubt one of the best bars my twin brother Stephen and I visited on our recent nine days holiday to Madrid was 1862 Dry Bar. The bar itself is the type of bar I love to visit, set over two floors, exposed brickwork, cool decor and furnishings including a …
+title: 1862 Dry Bar (Madrid) - 2020 Qué saber antes de ir - Lo ...
+snippet: Qué hacer en Madrid ; 1862 Dry Bar; Buscar. 1862 Dry Bar. 260 opiniones. N.º 14 de 715 Vida nocturna en Madrid. Vida nocturna, Bares y discotecas. Lo sentimos, no hay rutas ni actividades disponibles para reservar online en las fechas seleccionadas. Elija otra fecha. 1862 Dry Bar.
+title: De 10 beste restaurantene i nærheten av 1862 Dry Bar
+snippet: Restauranter i nærheten av 1862 Dry Bar på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av 1862 Dry Bar, Madrid.
+title: 1862 Dry Bar | Official tourism website - Drupal
+snippet: Central cocktail bar located in an 1862 palace. This cocktail bar is located in Triball, one of the neighbourhoods of Madrid with the liveliest nightlife, paying tribute to the classic mixes and recovering original recipes and techniques.
+title: 1862 Dry Bar (Madrid) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Ohne Zweifel war eine der besten Bars, die mein Zwillingsbruder Stephen und ich in unseren letzten neun Tagen Urlaub in Madrid besuchten, 1862 Dry Bar. Die Bar selbst ist die Art von Bar, die ich sehr gerne besuche. Sie erstreckt sich über zwei Etagen und besteht aus …
+title: De 10 beste hotellene i nærheten av 1862 Dry Bar
+snippet: Hoteller i nærheten av 1862 Dry Bar, Madrid: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av 1862 Dry Bar på Tripadvisor.
+title: 1862 Dry Bar, staggeringly chic cocktail bar on Calle Pez ...
+snippet: What I particularly loved about 1862 Dry Bar, was the clearly knowledgeable and creative bar staff. The menu has all the classics in place, but also offers up some truly unique cocktails made by guest mixologists ranging from Trailer Happiness (hailing from Hoxton), with another one being from The Ritz Madrid.
+title: 1862 Dry Bar | Bars and pubs in Malasaña, Madrid
+snippet: Bars and pubs, Cocktail bars Malasaña Time Out says High ceilings, austere and minimalist décor and an infinite number of glass bottles are the order of the day in this Malasaña cocktail bar.
+
+REL: 3
+POI Name: Tuareg
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: VOLKSWAGEN Touareg de segunda mano en Madrid | Coches.net
+snippet: 131 VOLKSWAGEN Touareg de particulares y concesionarios de segunda mano en Madrid. ¡Encuentra VOLKSWAGEN Touareg al mejor precio en Madrid !
+title: Tuareg Heavy Rock Bar - Bar - Madrid, Spain | Facebook ...
+snippet: Tuareg Heavy Rock Bar, Madrid. 2,078 likes · 107 talking about this · 714 were here. Tu bar de siempre ahora en Facebook. La mejor música en un ambiente agradable, donde todos somos conocidos, hasta...
+title: MIL ANUNCIOS.COM - Volkswagen touareg en Madrid ...
+snippet: Se vende Volkswagen Touareg 3. 0 TDI V6, 215. 000km, cambio automático, todos los extras, AVERíA MOTORES DE LA ADMISIóN, itv y papeles en regla, pegatina anti contaminación, se acepta prueba mecánica sin compriso, mejor ver y probar, transferencia incluida en el precio. Color Negro
+title: Tuareg sevilla - Home | Facebook
+snippet: Tuareg sevilla, Sevilla. 170K likes. Especialistas en prendas y complementos de mujer para cualquier tipo de eventos, bodas, comuniones, puestas de...
+title: MIL ANUNCIOS.COM - Volkswagen Touareg en Madrid ...
+snippet: Volkswagen-touareg premiun-3. 0 tdi 204 cv tiptronic bmt , bluedition, vehiculo nacional , un solo propietario , todo al dia revisiones , pasada itv , con extras : cambio tiptronic de 8 velocidades , climatizador bizona, sensores con camara de aproximacion, esclusive dynamic light assit para faros bixenon, navegador tactil , manos libres integrado , asientos en tela corrugada style , color ...
+title: Viajes de Aventura - Viajes Tuareg
+snippet: Viajes de aventura con Viajes Tuareg. Viajes y expediciones a destinos inéditos o culturalmente diferentes. Viajes en grupo reducido y viajes a medida para individuales
+title: Tinariwen en Madrid: Imidiwan Winakalin - YouTube
+snippet: Concierto del grupo maliense touareg Tinariwen en el teatro Lara de Madrid, el 20/03/2012 con su blues del desierto. Imidiwan Winakalin - Amigos de mi país Traducción al inglés de la letra ...
+title: 2018 Volkswagen Tuareg - Exterior - Salon Madrid Auto 2018 ...
+snippet: Automobile Classics shows short clips of cars taken at international automobile shows. We are interested in the evolution of cars, and show their future, present &amp; past. Every day we upload new ...
+title: Tuareg: los hombres libres del Sahara
+snippet: En mi último viaje al desierto del Sahara, al sur de Argelia, volví a encontrarme con los Tuareg. Durante mucho tiempo fue el pueblo con el que soñaba y del que leía ávidamente lo poco que caía en mis manos.
+title: VOLKSWAGEN Touareg 4x4 gasolina de segunda mano | Coches.net
+snippet: 31 VOLKSWAGEN Touareg gasolina 4x4 de particulares y concesionarios de segunda mano . ¡Encuentra VOLKSWAGEN Touareg 4x4 gasolina al mejor precio !
+
+REL: 3
+POI Name: Bar Luzon
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Bar Luzon, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Bar Luzon, Madrid: Se 14 objektive anmeldelser av Bar Luzon, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 5 766 av 11 660 restauranter i Madrid.
+title: Bar Luzon, Madrid - Ciudad Jardin - Restaurant Reviews ...
+snippet: Bar Luzon, Madrid: See 14 unbiased reviews of Bar Luzon, rated 4 of 5 on Tripadvisor and ranked #5,754 of 11,610 restaurants in Madrid.
+title: BAR LUZON, Madrid - Ciudad Jardín - Fotos, Número de ...
+snippet: Bar Luzon, Madrid: Consulta 14 opiniones sobre Bar Luzon con puntuación 4 de 5 y clasificado en Tripadvisor N.°5.741 de 11.596 restaurantes en Madrid.
+title: Bar Luzon, Madrid - Ciudad Jardín - Restaurant Avis ...
+snippet: Bar Luzon, Madrid : consultez 14 avis sur Bar Luzon, noté 4 sur 5 sur Tripadvisor et classé #5 766 sur 11 656 restaurants à Madrid.
+title: TA_IMG_20180531_215549_large.jpg - Bild von Bar Luzon, Madrid
+snippet: Bild von Bar Luzon, Madrid: TA_IMG_20180531_215549_large.jpg - Schauen Sie sich 53.595 authentische Fotos und Videos von Bar Luzon an, die von Tripadvisor-Mitgliedern gemacht wurden.
+title: TA_IMG_20180531_215549_large.jpg - Picture of Bar Luzon ...
+snippet: Bar Luzon, Madrid Picture: TA_IMG_20180531_215549_large.jpg - Check out Tripadvisor members&#39; 53,595 candid photos and videos.
+title: TA_IMG_20180531_215549_large.jpg - Bild från Bar Luzon, Madrid
+snippet: Bar Luzon, Madrid Bild: TA_IMG_20180531_215549_large.jpg - Kolla in Tripadvisor-medlemmarnas 53 597 bilder och videoklipp från Bar Luzon
+title: MUY BUENO - Opiniones sobre Bar Luzon, Madrid, España ...
+snippet: Bar Luzon: MUY BUENO - 14 opiniones y fotos de viajeros, y ofertas fantásticas para Madrid, España en Tripadvisor.
+title: TA_IMG_20180531_215549_large.jpg - Foto Bar Luzon, Madrid ...
+snippet: Bar Luzon, Madrid Foto: TA_IMG_20180531_215549_large.jpg - Lihat 53.557 foto dan video asli tentang Bar Luzon dari anggota Tripadvisor
+title: De 10 beste restaurantene i Madrid - Tripadvisor
+snippet: Beste restauranter i Madrid, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Madrid, og søk etter pris, beliggenhet og mer på Tripadvisor.
+
+REL: 3
+POI Name: La Cruz de Malta
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: La Cruz de Malta, Madrid - Centro - Restaurant Reviews ...
+snippet: We visited La Cruz De Malta was an absolutely fantastic tavern we visited last year, had a great time and so it proved on our latest visit. I love the look of this tavern, it&#39;s got a really good,authentic look to it,superb decor and furnishings...
+title: LA CRUZ DE MALTA, Madrid - Centro - Fotos, Número de ...
+snippet: La Cruz de Malta, Madrid: Consulta 47 opiniones sobre La Cruz de Malta con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°5.028 de 11.660 restaurantes en Madrid.
+title: Cerveceria La Cruz de Malta, Madrid ...
+snippet: Cerveceria La Cruz de Malta, Madrid: Se 98 objektive anmeldelser av Cerveceria La Cruz de Malta, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 4 755 av 11 648 restauranter i Madrid.
+title: Cerveceria La Cruz de Malta, Madrid - Centro - Restaurant ...
+snippet: Cerveceria La Cruz de Malta, Madrid: See 98 unbiased reviews of Cerveceria La Cruz de Malta, rated 3.5 of 5 on Tripadvisor and ranked #4,753 of 11,650 restaurants in Madrid.
+title: LA CRUZ DE MALTA, Madrid - Centro - Restaurant Reviews ...
+snippet: La Cruz de Malta, Madrid: See 47 unbiased reviews of La Cruz de Malta, rated 3.5 of 5 on Tripadvisor and ranked #5,030 of 11,639 restaurants in Madrid.
+title: LA CRUZ DE MALTA, Madrid - Comentários de restaurantes ...
+snippet: La Cruz de Malta, Madrid: Veja 47 dicas e avaliações imparciais de La Cruz de Malta, com classificação Nº 3,5 de 5 no Tripadvisor e classificado como Nº 5.032 de 11.658 restaurantes em Madrid.
+title: La Cruz de Malta, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: La Cruz de Malta, Madrid: Se 47 objektive anmeldelser af La Cruz de Malta, som har fået 3,5 af 5 på Tripadvisor og er placeret som nr. 5.027 af 11.659 restauranter i Madrid.
+title: Cerveceria Cruz de Malta - Home | Facebook
+snippet: Cerveceria Cruz de Malta - Calle de la Victoria 3, 28012 Madrid, Spain - Rated 4.2 based on 528 Reviews &quot;I am veryvery dissapointed with this restaurant....
+title: Portada | Orden de Malta
+snippet: Madrid: La Orden de Malta obtiene el Sello ONG Acreditada de la Fundación Lealtad «ALMA», inspirado en una historia real a raíz de una carta anónima que apareció en uno de nuestros comedores sociales. CoVid-19 Un Aliento de Esperanza . El mensaje ...
+title: CERVECERIA LA CRUZ DE MALTA, Madrid - Centro - Fotos ...
+snippet: Cerveceria La Cruz de Malta, Madrid: Consulta 98 opiniones sobre Cerveceria La Cruz de Malta con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°4.753 de 11.649 restaurantes en Madrid.
+
+REL: 3
+POI Name: Café Doré
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Café Doré Lavapiés, Madrid - Opiniones del restaurante
+snippet: Café Doré Lavapiés, n.º 199 entre los cafés de Madrid: 151 opiniones y 22 fotos detalladas. Localízalo en el mapa y llama para reservar mesa. Este restaurante logró un 4,5 en Google y un 4,9 en Facebook. Prepárate a pagar 2-9 € por una comida.
+title: Café Doré en Madrid: 1 opiniones - Minube
+snippet: Café Doré en Madrid: compara precios antes de reservar, encuentra fotos y lee opiniones. Uno de los sitios mas acogedores y recomendables para disfrutar en Madrid, es el Café Doré. Se trata de un pequeño pero amistoso café que ofrece un ambiente relajado y entretenido.
+title: Doré - Atocha - 0 tips
+snippet: Café in Madrid, Madrid Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: Filmoteca Espanola (Cine Dore) (Madrid) - 2020 All You ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Café Viralata - Coffee Shop - Madrid, Spain | Facebook - 5 ...
+snippet: Café Viralata, Madrid, Spain. 639 likes. Café Arte mestizo, salvaje y callejero como el corazón de Lavapiés. La cerveza Artesanal, los ricos Bokatas, toda nuestra comida preparada con amor y en...
+title: DE 10 BESTE ting å gjøre i Madrid - Tripadvisor
+snippet: Ting å gjøre i Madrid: Se anmeldelser og bilder av ting å gjøre i Madrid, Spania på Tripadvisor.
+title: Cine Doré Filmoteca Española | Cinemas in Lavapiés, Madrid
+snippet: Known affectionately as la filmo and featured in films by Almodóvar, this chic art nouveau national film theatre was founded more than 50 years ago. The neon-li
+title: CAFE DORE - Home | Facebook
+snippet: Cafe Dore. #cafedore #yomequedohome #barcelona #cafedoremandri #mandri. Translated. CAFE DORE. March 13 at 12:48 PM · Cerramos. Cafe Dore se queda en casa. Esperamos vernos pronto. # cafedore # yomequedoencasa # barcelona # cafedoremandri # mandri. We close. Cafe Dore stays at home.
+title: Doré en casa on Vimeo
+snippet: Join the web’s most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.
+title: Besøk Madrid i 2020: Det beste innen Madrid, Spania ...
+snippet: Så mange av Madrids bygninger ser ut som slott, at du tror at du har snublet inn i et eventyr.Til og med rådhuset er overveldende, med sine hvite tårn og neogotiske stil.En selvguidet arkitektonisk omvisning kan starte ved den store bjørnestatuen midt i Puerta del Sol.Ta en vandretur forbi det fantasifulle kongelige palasset, før du suger inn den naturskjønne Retiro-parken og deretter ...
+
+REL: 3
+POI Name: La Mulata
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: La Mulata, Cartagena - Restaurant Reviews, Photos &amp; Phone ...
+snippet: La Mulata, Cartagena: See 3,809 unbiased reviews of La Mulata, rated 4.5 of 5 on Tripadvisor and ranked #62 of 929 restaurants in Cartagena.
+title: La Mulata – Madrid, Calle del Almendro, 22 (3 Bewertungen ...
+snippet: 3 bewertungen, Kontaktinformationen und Geschäftszeiten von La Mulata in Calle del Almendro, 22, Madrid, Spanien. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Cartagena Restaurants: La Mulata Restaurant
+snippet: Leave it to other restaurants to deal with &#39;fusion cuisine&#39;, La Mulata&#39;s foodentity is rooted in the coast’s culinary gems. We&#39;re talking straight up honest, healthy and homely dishes with no genetically modified bad guys sullying the menu. Seafood defines la vida Caribeña, so fish is the main attention seeker on the menu.
+title: LA MULATA, Cartagena - Updated 2020 Restaurant Reviews ...
+snippet: La Mulata, Cartagena: See 3,803 unbiased reviews of La Mulata, rated 4.5 of 5 on Tripadvisor and ranked #62 of 925 restaurants in Cartagena.
+title: La Gata Mulata - Madrid, Spain | Facebook
+snippet: La Gata Mulata, Madrid. 485 likes. Ganchillo, punto y otras artes decorativas :) Si te gusta algo de lo que ves aquí ¡pídelo!
+title: Restaurante La Mulata: MENU
+snippet: Between India Catalina and Parque Fernandez Madrid! Restaurante &quot;La Mulata&quot; ofrece comida tipica de la Costa: Mote de queso, filete marinero, robalo en champiñones, arroz de mariscos, ajiaco con pollo,costillitas bbq, pechuga mulata, cazuela de mariscos y otros platos mas.
+title: Restaurante La Mulata
+snippet: Between India Catalina and Parque Fernandez Madrid! Restaurante &quot;La Mulata&quot; ofrece comida tipica de la Costa: Mote de queso, filete marinero, robalo en champiñones, arroz de mariscos, ajiaco con pollo,costillitas bbq, pechuga mulata, cazuela de mariscos y otros platos mas.
+title: Wbff Diva Champion Usa?? (@mulatafit) • Instagram photos ...
+snippet: Wbff Diva Champion Usa??&#39;s Instagram profile has 1,418 photos and videos. Follow them to see all their posts.
+
+REL: 3
+POI Name: Dr. Resaca
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Dr. Resaca en Madrid. Bar de Copas | Guía del Ocio
+snippet: El diminuto escenario, al fondo del bar, define la identidad al espacio, junto a una iluminación tenue, con visuales que cambian al ritmo de la música. Presidiendo todo, un gran logo del mismísimo Dr. Resaca, muy parecido a la imagen de marca del Festival Dr. Music.
+title: DoctorResacaTV - YouTube
+snippet: Paseando por internet - Camisetas graciosas - playeras chistosas - remeras con frases divertidas - Duration: 3 minutes, 10 seconds.
+title: Real Madrid CF | Реал Мадрид | ВКонтакте
+snippet: ⚪ Добро пожаловать на самое большое сообщество о футбольном клубе &quot;Реал Мадрид&quot; &quot;ВКонтакте&quot;.
+title: Resaca, GA Real Estate - Resaca Homes for Sale | realtor.com®
+snippet: View 29 homes for sale in Resaca, GA at a median listing price of $144900. Browse MLS listings in Resaca and take real estate virtual tours at realtor.com®.
+title: Los Zigarros &amp; Fito - Resaca + Voy a Bailar encima de ti ...
+snippet: Con Fito de Fito y Fitipaldis, concierto de Los Zigarros del dia 30 de Enero 2020 en el Teatro Circo Price de Madrid.
+title: Dr. William L. Madrid, Cardiologist in Lakewood, CA | US ...
+snippet: Dr. William L. Madrid is a Cardiologist in Lakewood, CA. Find Dr. Madrid&#39;s phone number, address, insurance information, hospital affiliations and more.
+title: Hjem | madridista.no
+snippet: Sergio Reguilón: – Jeg er fra Madrid og ville elsket å lykkes i Real Madrid
+title: Artículo de Dr. Resaca
+snippet: Madrid + info. Desde hace tres meses, a caballo entre Lavapiés y Antón Martín, está abierto el Dr. Resaca, un nuevo bar de copas que retoma el espíritu de los años dorados de la zona, en la década de los ochenta, cuando se formó un circuito de garitos alternativos como El Mosquito, ...
+title: DR | TV, radio, nyheder og meget mere
+snippet: Her finder du nyheder fra DR og alle vores TV- og radiokanaler live og on demand — når du har lyst.
+
+REL: 3
+POI Name: Eduardo
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Eduardo, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Eduardo, Madrid: Se 48 objektive anmeldelser av Eduardo, vurdert til 2,5 av 5 på Tripadvisor og vurdert som nr. 10 408 av 11 660 restauranter i Madrid.
+title: Eduardo Madrid Panadería Respostería Gourmet - Home | Facebook
+snippet: Eduardo Madrid Panadería Respostería Gourmet, Envigado, Colombia. 6.8K likes. Tienda Gourmet de Panes 험헻혃헶헴헮헱헼 Tel. 3328811 Cl. 31 Sur # 45a-22 헣헼헯헹헮헱헼, 험헱헶헳헶헰헶헼 헠헶헹헹헮 헱헲 헢헿헼 Tel. 4798454 Cra. 42 #...
+title: Eduardo Madrid Panadería Respostería Gourmet - Inicio ...
+snippet: Eduardo Madrid Panadería Respostería Gourmet, Envigado. 6,9 mil Me gusta. Tienda Gourmet de Panes 험헻혃헶헴헮헱헼 Tel. 3328811 Cl. 31 Sur # 45a-22 헣헼헯헹헮헱헼, 험헱헶헳헶헰헶헼 헠헶헹헹헮 헱헲 헢헿헼 Tel. 4798454 Cra. 42 # 3sur-81
+title: Eduardo Madrid Profiles | Facebook
+snippet: View the profiles of people named Eduardo Madrid. Join Facebook to connect with Eduardo Madrid and others you may know. Facebook gives people the power...
+title: Eduardo - La Latina - Madrid, Spain - Yelp
+snippet: Eduardo was my go-to breakfast establishment while we were in Madrid. There aren&#39;t a lot of breakfast places open because Spain is just on a different schedule. I found Eduardo by yelp and luck. I took a chance and I am so glad I did. I love establishments that the locals go to and this is one of them.
+title: Eduardo Camavinga &#39;would prefer to join Real Madrid&#39; over ...
+snippet: Highly rated 17-year-old Eduardo Camavinga would prefer to join Real Madrid after attracting interest from several European teams. Liverpool, Paris Saint-Germain and Borussia Dortmund are all ...
+title: Eduardo Madrid - Partner - Madrid Law Firm, A Professional ...
+snippet: View Eduardo Madrid’s profile on LinkedIn, the world&#39;s largest professional community. Eduardo has 1 job listed on their profile. See the complete profile on LinkedIn and discover Eduardo’s ...
+title: Eduardo Camavinga Welcome to Real Madrid 2020 ⚪ - YouTube
+snippet: Eduardo Camavinga Real Madrid, Eduardo Camavinga 2020, Eduardo Camavinga Real Madrid, Eduardo Camavinga 2019/2020, Eduardo Camavinga Real Madrid *If you have anything against my uploads (use of ...
+title: Panadería Eduardo Madrid - YouTube
+snippet: En la Panadería Eduardo Madrid Tienda Gourmet de Panes todo es delicioso, único, hecho a mano y sin conservantes. Teléfono 3328811. Envigado - Antioquia - Co...
+title: 200+ &quot;Eduardo Madrid&quot; profiles | LinkedIn
+snippet: View the profiles of professionals named &quot;Eduardo Madrid&quot; on LinkedIn. There are 200+ professionals named &quot;Eduardo Madrid&quot;, who use LinkedIn to exchange information, ideas, and opportunities.
+
+REL: 3
+POI Name: Sports Bar Madrid
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Sports Bars, Tapas Bars, 
+Snippets:
+title: Sports bars in Madrid | Official tourism website
+snippet: Madrid is a city that loves bars and loves sport, so it is not surprising that the two pleasures come together. Practically any Madrid bar could be a sports bar when a major competition is on, particularly if it is football and the national side or one of the city’s big teams is playing. However, many establishments have made sport their main purpose.
+title: Bars where to watch sports in Madrid - Sports Bar Madrid
+snippet: La Comunidad de Madrid ha ordenado el cierre de bares y restaurantes a partir del 14 de marzo 2020. Además el Ayuntamiento de Madrid ha emitido un decreto por el que se suspende la actividad de las terrazas de hostelería y restauración desde el día de hoy, 13 de marzo, y hasta que se supriman las medidas adoptadas para contener la evolución del coronavirus.
+title: Madrid&#39;s best sport bar! - Review of s10bar, Madrid, Spain ...
+snippet: s10bar: Madrid&#39;s best sport bar! - See 152 traveler reviews, 69 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: Sports Bar Madrid - Home | Facebook
+snippet: Sports Bar Madrid, Madrid. 612 likes. Enjoy your favorite Sports: UEFA Champions League, Premier League, LaLiga &amp; Copa del Rey, Bundesliga, Ligue 1, Serie A, NFL, ATP Tennis Tour and others sport...
+title: Sport | Official tourism website - Turismo en Madrid ...
+snippet: There’s a lot more to sport in Madrid than just football. You can also go cycling or running, play golf, attend a horserace and do much more! ... Sports bars in Madrid. Discover some of the most appealing sports bars to follow the feats of your favourite team. DON&#39;T MISS.
+title: Sportsbars in Madrid | Tourismus Madrid
+snippet: Madrid ist eine sportbegeisterte Stadt mit unzähligen Bars; daher ist eine Kombination dieser beiden Annehmlichkeiten nicht verwunderlich. Fast jede Madrider Bar wird bei wichtigen Meisterschaften zur Sportsbar - besonders, wenn es um Fußball geht und die Nationalmannschaft oder ein wichtiger Madrider Verein spielt.
+title: Bares de Fútbol - Sports Bar Madrid
+snippet: UEFA Champions League, Premier League, LaLiga, Bundesliga, Ligue 1, Serie A, Copa del Rey, LaLiga 123, Major League Soccer, UEFA Europa League, EURO 2020, FIFA World Cup.
+title: Bars sportifs à Madrid | Madrid Tourisme
+snippet: N’importe quel bar de Madrid peut être un bar sportif lorsqu’une compétition importante a lieu, surtout s’il s’agit d’un match de football et que la sélection espagnole ou une grande équipe de la ville y participe. De nombreux établissements ont ainsi fait du sport leur véritable raison d’être.
+title: James Joyce Irish Pub Madrid
+snippet: The James Joyce Irish Pub Madrid, for live sport, live music and great food. Join us at our Irish pub with an English and Spanish speaking team.
+title: American Football - Sports Bar Madrid
+snippet: Bars where to watch American Football in Madrid: NFL Regular Season, Playoffs, Super Bowl, NCAA College Football.
+
+REL: 3
+POI Name: Bar Díaz
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Tapas Bars, 
+Snippets:
+title: Bar Díaz - Arganzuela - Madrid, Madrid
+snippet: Café in Madrid, Madrid Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: De 10 beste restaurantene i Madrid - Tripadvisor
+snippet: Beste restauranter i Madrid, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Madrid, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Madrid&#39;s oldest restaurants and bars offer tapas, vino and ...
+snippet: Madrid is a historic city that has witnessed a succession of monarchs, revolutions and artistic movements. Vestiges of this storied past can be found in… Madrid’s centenarios are restaurants, bars and cafes over 100 years old, still offering excellent traditional food and drink.
+title: Dos Días Bar - Home - Madrid, Spain - Menu, Prices ...
+snippet: Dos Días Bar - Calle Tumaco, 6, 28027 Madrid, Spain - Rated 5 based on 72 Reviews &quot;Anoche cenamos allí con unos amigos. No vivimos cerca pero...
+title: DE 10 BESTE ting å gjøre i Madrid - Tripadvisor
+snippet: Ting å gjøre i Madrid: Se anmeldelser og bilder av ting å gjøre i Madrid, Spania på Tripadvisor.
+title: Pub y bar Díaz y Larrouy, Madrid - Opiniones del restaurante
+snippet: Díaz y Larrouy, n.º 441 entre los restaurantes de Madrid: 347 opiniones y 20 fotos detalladas. Localízalo en el mapa y llama para reservar mesa. Este restaurante ganó un 4,6 en Google y un 7,8 en Foursquare. Prepárate a pagar 11-20 € por una comida.
+title: Bar Díaz - Arganzuela - Madrid, Madrid
+snippet: Foursquare utiliza cookies para proporcionarte una experiencia óptima, personalizar anuncios que puedas ver y ayudar a los anunciantes a medir los resultados de sus campañas publicitarias.
+title: Restaurante Bar Diaz - Posts | Facebook
+snippet: Restaurante Bar Diaz - Puerto Roque. Carretera Nacional 521, Km 150 s/n, 10514 Valencia de Alcántara - Rated 4.8 based on 19 Reviews &quot;Estuvimos muy bien...
+title: Bar Diaz Cafetería - Embajadores - Madrid | Tengoplan.es
+snippet: Nuevo local de ocio Bar-Restaurante Hermanos Ordas. Hermanos Ordas es un restaurante de cocina tradicional asturiana donde encontrarás platos tan típicos como la fabada o el cachopo (ganadores del mejor cachopo de Madrid en 2016), pero su carta no acab ... más información
+title: 15 Best Bars in Madrid - Condé Nast Traveler
+snippet: Our top recommendations for the best bars in Madrid, Spain, with pictures, reviews, and details. Find the best spots to drink, including fun, trendy, rooftop bars and more.
+
+REL: 3
+POI Name: Scruffy Murphy's
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Scruffy Murphy’s – Ekte irsk atmosfære, live musikk og god ...
+snippet: Scruffy Murphy’s har holdt til på Fisketorget siden sommeren 1995, og er den eneste ekte irske puben i Bergen. Her tilbyr vi live-musikk fra profesjonelle musikere, fotballkamper og en fantastisk god atmosfære. Vi tilbyr også gratis utleie av lokaler ved arrangementer og har plass til både små og store selskaper.
+title: Scruffy Murphy&#39;s - Pub - Bergen, Hordaland | Facebook ...
+snippet: Scruffy Murphy&#39;s - Torget 15, 5014 Bergen, Hordaland - Rated 4.5 based on 107 Reviews &quot;Many thanks to all the management and staff for looking after...
+title: Live musikk – Scruffy Murphy’s
+snippet: Scruffy Murphy’s har i tillegg til å være en av Bergens mest kjente og kjære puber, også fått et velfortjent godt rykte som stedet for live-musikk utenfor Bergen. Da Scruffy Murphy’s åpnet sommeren 1995 var målet å tilby en ekte irsk pub-opplevelse i Bergen sentrum med irsk kultur og topp stemning.
+title: Scruffy Murphy&#39;s (Madrid, Spain): Address, Phone Number ...
+snippet: Madrid Photos; Madrid Map; Madrid Travel Guide; All Madrid Hotels; Madrid Hotel Deals; Last Minute Hotels in Madrid; By Hotel Type. Madrid Motels; Madrid Hostels; Madrid Campgrounds; Madrid Business Hotels; Madrid Family Hotels; Romantic Hotels in Madrid; Madrid Luxury Hotels; Madrid Spa Resorts; Madrid Green Hotels; Madrid Casinos; Madrid ...
+title: Scruffy Murphy&#39;s Irish Pub Bangkok | Bangkok, Thailand&#39;s ...
+snippet: Scruffy Murphy’s is open from 10 a.m. – 1 a.m. Reservations are recommended for holidays and major sporting events. Private parties and meeting space is also available. Please call us anytime 10 a.m.- midnight at +66-(0)2-661-7417.
+title: Scruffy Murphys Worcester
+snippet: Here at Scruffy Murphys, we aim to bring the Tatnuck neighborhood a fun place they can go to get a bite to eat and a cold pint whilst you catch whatever sporting event is on. We are a family dining restaurant that is affordable and delicious.
+title: Scruffy Murphys (Benidorm, Spania) - Anmeldelser
+snippet: Vi dro til Scruffy Murphys på vei opp til Cafe Benidorm, det var død, men levende musikk som spilte. Jeg vil gjerne se puben når den er opptatt, da jeg vil si at den ville være litt craic. De tar bare kontanter uten kort.
+title: Fotballpub – Scruffy Murphy’s
+snippet: Fotball er en naturlig del av pubmiljøet – også hos Scruffy Murphy’s! Vi har i dag hele 17 TV-skjermer fordelt på to etasjer + uteservering. Liverpool sin supporterklubb i Bergen «Liverbirds Bergen» med alle sine medlemmer bruker oss som stamsted for Liverpools fotballkamper.
+title: Murphy’s Diner – Scruffy Murphy’s
+snippet: Murphy’s Diner. Vi byr på god, hjemmelaget mat inspirert av kontinentale mattradisjoner, smakfulle, sunne alternativer og desserter du aldri kan få nok av.
+title: Scruffy Murphys (Benidorm) - 2020 All You Need to Know ...
+snippet: Response from scruffy_murphys, Owner at Scruffy Murphys. Responded 25 Nov 2019. Glad to hear you enjoyed your time in Scruffys. Hope you come back next time you&#39;re in benidorm, cheers. Read more. Adele S wrote a review Nov 2019. Manchester, United Kingdom 10 contributions 11 helpful votes.
+
+REL: 2
+POI Name: The Room
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Sports Bars, Cocktail Bars, 
+Snippets:
+title: The Room Madrid &quot; Cocktail, Hookah &amp; Dance Bar&quot; - Home ...
+snippet: The Room Madrid &quot; Cocktail, Hookah &amp; Dance Bar&quot;. 1K likes. El Mejor bar de Copas del Centro de Madrid &quot;Cocktails - Shishas - Copas - Gente guapa y el mejor ambiente de la Capital. Abrimos todos los...
+title: THE 10 BEST Madrid Room Escape Games (with Photos ...
+snippet: Top Madrid Room Escape Games: See reviews and photos of room escape games in Madrid, Spain on Tripadvisor.
+title: Madrid Apartments: Cheap Apartments For Rent in Madrid ...
+snippet: Madrid Apartments for Rent Furnished Apartments, Rooms and Flatshares for Rent in Madrid. With its progressive fashion scene and academic weight, Madrid today stands tall amongst even the biggest European cities. The Spanish capital has furnished apartments for every taste that are accessible, modern and with their own distinct charm.
+title: THE ROOM MADRID - Picture of The Room Madrid - Tripadvisor
+snippet: The Room Madrid, Madrid Picture: THE ROOM MADRID - Check out Tripadvisor members&#39; 53,597 candid photos and videos of The Room Madrid
+title: The Captain | 59:59 Escape – Madrid
+snippet: The Captain es nuestra primera creación, llena tanto de puzzles de nueva generación, como de puzzles clásicos y candados. ¡Esperamos que os guste! El nivel de la sala es medio, aunque si eres novato, te recomendamos que para disfrutar de la experienccia mejor, vengas con un equipo de 3 personas o más.. Este juego esta disponible tanto en Inglés como en Español
+title: The Room Madrid - Sol - Calle De Barcelona
+snippet: See 1 photo from 123 visitors to The Room Madrid. Nightclub in Madrid, Madrid. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, ...
+title: Rooms Madrid Habitaciones por horas – Habitaciones con ...
+snippet: En Rooms Madrid ofrecemos habitaciones por horas o noches completas para parejas. Nos caracteriza la discreción y habitaciones temáticas para diferentes gustos. Nuestros hoteles están a disposición de todos los públicos a partir de 18 años.
+title: Hotel Air Rooms Madrid Airport Premium, Spain - Booking.com
+snippet: Air Rooms Madrid Airport By Premium Traveller This neighborhood is a great choice for travelers interested in history, city trips and friendly locals – Check location Aeropuerto de Madrid, Barajas, Terminal T4, Planta -1 (Zona tierra), Barajas, 28042 Madrid, Spain – This neighborhood is a great choice for travelers interested in history, city trips and friendly locals – Check location ...
+title: HOTEL AIR ROOMS MADRID BY PREMIUM TRAVELLER, MADRID
+snippet: Rooms &amp; Availability Air Rooms Madrid Airport By Premium Traveller is a property in Madrid that comes with 22 rooms and provides climate control, a private safe, a dressing area, a wardrobe and a work desk. They offer bathrooms fitted with a shower, a hairdryer and bath sheets.
+title: Boutique Hotels in the Center of Madrid | Room Mate Hotels
+snippet: At Room Mate Hotels, we love having satisfied guests who leave with a smile from ear to ear, which is why we tell you about the best things to do in the city.We share information that locals are privy to and the places you should visit for a truly authentic Madrid experience.
+
+REL: 2
+POI Name: La Bruta
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: La Bruta, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: La Bruta er veldig enkelt å finne på Calle Pez i Malas na-distriktet, som er et område med barer, restauranter og en fantastisk arkitektur og et stort turistmål. Åpningstider er; Mandag til torsdag kl 9 til 1 am.
+title: LA BRUTA, Madrid - Universidad - Fotos, Número de Teléfono ...
+snippet: La Bruta, Madrid: Consulta 178 opiniones sobre La Bruta con puntuación 4 de 5, uno de los 11.660 restaurantes de Madrid en Tripadvisor.
+title: La Bruta - Picture of La Bruta, Madrid - Tripadvisor
+snippet: La Bruta, Madrid Picture: La Bruta - Check out Tripadvisor members&#39; 53,445 candid photos and videos of La Bruta
+title: La Bruta in Madrid - Restaurant Reviews, Menu and Prices ...
+snippet: El restaurante La Bruta es un establecimiento que no puedes pasar desapercibido en el corazón de Madrid. Lo descubres en el barrio de Malasaña y regala momentos para el recuerdo gracias a su buena atmósfera y a su buen hacer en cocina española, mediteránea y de mercado.
+title: Comprar Lotería Online | La Bruja de Oro | La nº1 de Europa
+snippet: Tu sitio de confianza para adquirir lotería de La Bruja de Oro. La Administración número 1 de Europa. Visita nuestra web, compra lotería online sin gastos. También puedes jugar Euromillones, Primitiva, Bonoloto, Quiniela, ...
+title: La Bruta, Madrid - Universidad - Restaurant Bewertungen ...
+snippet: La Bruta, Madrid: 178 Bewertungen von La Bruta sehen, mit 4 von 5 bewertet und eines der 11.650 Restaurants in Madrid bei Tripadvisor.
+title: Restaurante La Bruta en Madrid, Malasaña, Centro ...
+snippet: El restaurante La Bruta es un establecimiento que no puedes pasar desapercibido en el corazón de Madrid. Lo descubres en el barrio de Malasaña y regala momentos para el recuerdo gracias a su buena atmósfera y a su buen hacer en cocina española, mediteránea y de mercado.
+title: LA BRUTA, Madrid - Omdömen om restauranger - Tripadvisor
+snippet: Äta ute i Madrid: Se 178 Tripadvisor-resenärernas omdömen av 11 594Madrid restauranger och sök på kök, pris, plats och så vidare.
+title: La Bruta in Madrid - Restaurant reviews
+snippet: All info on La Bruta in Madrid - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: LA BRUTA, Madrid - Universidad - Ristorante Recensioni ...
+snippet: La Bruta, Madrid: su Tripadvisor trovi 178 recensioni imparziali su La Bruta, con punteggio 4 su 5 e uno di 11.638 ristoranti a Madrid.
+
+REL: 2
+POI Name: Club 567
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Spanish, 
+Snippets:
+
+
+REL: 2
+POI Name: Sala Cool
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Cool Madrid Discoteca Listas y Reservados 652305899 - Home ...
+snippet: Cool Madrid Discoteca Listas y Reservados 652305899, Madrid, Spain. 1,302 likes · 4,402 were here. Para entrar Gratis en lista en esta Discoteca y en todas las de Madrid llama o whatsapp al tlf 652...
+title: MalaMala - Party Entertainment Service - Madrid, Spain ...
+snippet: MalaMala, Madrid. 3,453 likes · 2 talking about this. La mejor discoteca POP de Madrid
+title: Sala COOL MADRID (@SalaCoolMadrid) | Twitter
+snippet: The latest Tweets from Sala COOL MADRID (@SalaCoolMadrid). Sala COOL MADRID, La única discoteca de moda en Madrid vuelve abrir sus puertas. C/ de Isabel la Católica 6 Madrid, Spain #LolGayClub #SalaCool #DiscotecaCOOL. Calle de Isabel la Católica 6
+title: Sala Cool Madrid. Fiestas, listas y reservas VIP.
+snippet: Sala Cool Madrid. Apúntate en listas o reserva tu mesa con botella para la fiesta Fucking Monday.
+title: Sala Cool entradas y conciertos 2020 2021 | Wegow España
+snippet: Sala de conciertos en el centro de Madrid, la mejor musica en directo. Musica en directo, aforo para 600 personas.
+title: 511 Events Sala Cool Madrid 2019 @Leodavincipro - YouTube
+snippet: Video por @LeodavinciPro. How to create a 3D Terrain with Google Maps and height maps in Photoshop - 3D Map Generator Terrain - Duration: 20:32. Orange Box Ceo 8,661,638 views
+title: Sala Cool, Madrid | Guest List &amp; Tickets | Xceed
+snippet: Sala Cool, with its Underground atmosphere, is one of the top venues in Madrid specialized in Techno &amp; Tech house music. Tickets, Guest List &amp; Bottle Service.
+title: Sala Cool in Madrid - BPREMIUM
+snippet: Sala Cool is a classic at night in Madrid, as it is one of the best-known nightclubs in the city, from Erasmus, university student to local public ... In this club, dozens of different sessions have been held, with styles of music and environment of all kinds. Madrid
+title: Sala Cool, Madrid | Listas y Entradas | Xceed
+snippet: Sala Cool con su ambiente Underground, es una de las mejores discotecas en Madrid especializada en Techno &amp; Tech house. Entradas, Lista, Mesas y Botellas VIP.
+
+REL: 2
+POI Name: The Balcony
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Lounges, 
+Snippets:
+title: The Balcony Pool Deck &amp; Bar (Madrid) - 2020 Qué saber ...
+snippet: Visite un máximo de 37 de los principales lugares de interés de Madrid con un billete de 1 o 2 días con paradas libres que le permitirá ver la ciudad a su ritmo. Suba a bordo del autobús de dos pisos con techo descubierto y recorra la Ruta Uno, la Ruta Dos o ambas. Aprenda sobre la historia de Madrid usando a bordo unos auriculares de ...
+title: The Balcony Pool Deck &amp; Bar (Madrid, Spania) - Anmeldelser
+snippet: The Balcony Pool Deck &amp; Bar, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for The Balcony Pool Deck &amp; Bar i Madrid, Spania på Tripadvisor.
+title: The Balcony in Madrid: 1 reviews and 4 photos
+snippet: The Balcony is the rooftop bar of the Innside Madrid Suecia hotel and, in my humble opinion at least, one of the best rooftop bars in downtown Madrid for a couple of reasons. First, it’s free and usually not very crowded. See, most tourists head to the spectacular rooftop of the Circulo de Bellas Artes (which happens to be right around the corner) as it does offer what are perhaps the best ...
+title: The Balcony Pool Deck &amp; Bar (Madrid) - 2020 All You Need ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: THE 10 BEST Madrid Hotels with Balconies - Apr 2020 (with ...
+snippet: “Just returned from Madrid and had a fantastic trip.The hotel is in position A and the rooftop bars are something special.Pretty much everything about the hotel is excellent the room had a balcony and in summer thi...
+title: The Balcony. Innside Suecia by Melia hotel ...
+snippet: The INNSIDE Suecia by Melia hotel is a 4 star hotel located in calle Marqués de Casa Riera, next to the historic Círculo de Bellas Artes de Madrid and near Gran Via, calle Alcalá and Plaza de las Cortes. Located near the important tourist attractions in Madrid: Paseo del Prado, Plaza de Cibeles, Plaza de Neptuno, El Retiro Park, Puerta del Sol, Puerta de Alcalá, Thyssen Bornemisza Museum ...
+title: The 10 Best Madrid Hotels with Balconies of 2020 (with ...
+snippet: Madrid Hotels with Balconies: Find 54025 traveller reviews, candid photos, and the top ranked Hotels with Balconies in Madrid on Tripadvisor. ... fascinating classic car museum within the hotel, best views in Madrid, best balcony (7th floor) in Madrid, most comfortable beds, nices ...
+title: De 10 beste hotellene i nærheten av The Balcony Pool Deck ...
+snippet: Hoteller i nærheten av The Balcony Pool Deck &amp; Bar, Madrid: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av The Balcony Pool Deck &amp; Bar på Tripadvisor.
+title: The Balcony Pool Deck &amp; Bar (Madrid, Spanien) - omdömen
+snippet: The Balcony Pool Deck &amp; Bar, Madrid: Läs recensioner av resenärer som du och se professionella bilder på The Balcony Pool Deck &amp; Bar i Madrid, Spanien på Tripadvisor.
+
+REL: 2
+POI Name: La Mesa
+POI City: Barcelona
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: La Mesa Barcelona - YouTube
+snippet: En La Mesa se comparte, se escucha, se aprende y se intercambia. Todo esto, no sólo a través de la santa planta, sino también de las actividades que aquí os ofrecemos.
+title: Barcelona Cannabis Club Review: La Mesa - Marijuana Games
+snippet: La Mesa cannabis club is located on Carrer del Rec, in the Borne district of Barcelona. As one of Barcelona’s finest cannabis social clubs, La Mesa encourages its members to hang out, relax, meet other people, work, share ideas and promote initiatives as entrepreneurs instead of just as quick in-and-out smoker’s club customers.
+title: La Masia - Wikipedia
+snippet: La Masia de Can Planes, usually shortened to La Masia (Catalan pronunciation: [lə məˈzi.ə]; English: &quot;The Farmhouse&quot;), is a term used for FC Barcelona&#39;s youth academy.The academy includes more than 300 young players. It has been a significant factor in Barcelona&#39;s European success, and produced some world class players in the early 2000s.
+title: La Masia | Official FC Barcelona Website
+snippet: The latest news from FC Barcelona — schedule, tickets, injury updates, player info, video, match stats and highlights, ... La Masia closed its doors and awaited its destiny.
+title: Teatro en La Mesa (Barcelona, Spain): Address, Phone ...
+snippet: Restaurants near Teatro en La Mesa: (0.11 mi) Cellarer Wine Bar (0.02 mi) Debutis (0.08 mi) La Pastisseria Barcelona (0.12 mi) Buenos Aires Grill Restaurant Eixample (0.07 mi) Kame House Kitchen; View all restaurants near Teatro en La Mesa on Tripadvisor
+title: Hotel La Casa del Sol Barcelona – Official Website – Hotel ...
+snippet: Hotel La Casa del Sol lies in the heart of the Gracia neighbourhood and at 5 minutes to P aseo de Gracia. The hotel is also well connected by public transport (Paseo de Gracia is a reference known by every tourists, not Fontana) .
+title: La Mafia Se Sienta a la Mesa, Barcelona ...
+snippet: Spise middag i Barcelona: Se 66 anmeldelser fra Tripadvisor-reisende av 10 138restauranter i Barcelona, og søk etter kjøkken, pris, sted og mer.
+title: De 10 beste hotellene i nærheten av Teatro en La Mesa
+snippet: Hoteller i nærheten av Teatro en La Mesa, Barcelona: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Teatro en La Mesa på Tripadvisor.
+title: Facebook
+snippet: See posts, photos and more on Facebook.
+title: La Mesa Barcelona | Mixcloud
+snippet: La Mesa Barcelona is on Mixcloud. Listen for free to their radio shows, DJ mix sets and Podcasts
+
+REL: 2
+POI Name: Paddock Club
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+title: Paddock Madrid - Dance &amp; Night Club - Madrid, Spain ...
+snippet: Paddock Madrid - Paseo de Recoletos 16, 28001 Madrid, Spain - Rated 3.6 based on 77 Reviews &quot;LISTA JAIME MENDEZ en en el 652 305 899 whatsapp , entrada...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Paddock Club – Madrid, Paseo de Recoletos, 16 (6 opiniones ...
+snippet: Consulta la información de contacto y 6 opiniones sobre Paddock Club en Paseo de Recoletos, 16, Madrid o escribe una opinión. Explora un mapa interactivo con lugares cercanos.
+title: Paddock Club – Madrid, Paseo de Recoletos, 16 (6 reviews ...
+snippet: 6 reviews, contact details and business hours of Paddock Club at Paseo de Recoletos, 16, Madrid, Spain. Check out nearby places on a map. Write a review.
+title: Paddock Club – Madrid, Paseo de Recoletos, 16 (6 ...
+snippet: Öffnungszeiten, Kontaktinformationen und 6 bewertungen für Paddock Club in Paseo de Recoletos, 16, Madrid, Spanien. Sehen Sie Orte in der Nähe auf der Karte an. Hinterlassen Sie eine Bewertung.
+title: F1 Paddock Club™ (@f1paddockclub) • Instagram photos and ...
+snippet: 267.1k Followers, 161 Following, 1,286 Posts - See Instagram photos and videos from F1 Paddock Club™ (@f1paddockclub)
+title: Paddock Club – Madrid, Paseo de Recoletos, 16 (6 avis ...
+snippet: 6 avis, informations de contact et horaires d&#39;ouverture de Paddock Club à Paseo de Recoletos, 16, Madrid, Espagne. Consulter les adresses proches sur une carte. Laisser un avis.
+title: The Paddock Club Columbia | Luxury Apartments in Columbia ...
+snippet: The Paddock Club Columbia offers a beautiful resort atmosphere and upscale amenities. Select apartments feature luxurious jetted garden tubs, fireplaces, large walk-in closets, and gourmet kitchens. Roommate-friendly floorplans are available, too.
+title: Club Paddock Madrid
+snippet: Der Nachtclub Paddock ist einer der bedeutendsten Sälen Madrids, der sich auf dem Paseo de Recoletos befindet und die besten Nächte der Hauptstadt inszeniert. Paddock ist auch für seine exklusive Sitzung am Samstag bekannt, mit einer Kapazität von 900 Personen verteilt über zwei gut differenzierte Etagen. Dort gibt es Spaß, sexy, Schläger, eine andere Partei, die sich an Ihr ...
+title: Paddock Club | F1 Experiences
+snippet: Paddock Club guests enjoy mid-morning tea and pastries, gourmet luncheons with fine wines and open champagne bars. Additional benefits include daily pit lane walks, driving tours of the track, live entertainment and appearances by F1 drivers.
+
+REL: 2
+POI Name: La Suïssa
+POI City: Barcelona
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, Specialty Food, 
+Snippets:
+title: La Suissa | Charcutería selecta - Rotisserie
+snippet: Charcutería selecta - Rotisserie, en la calle Major de Sarrià en Barcelona.
+title: La Suïssa – Barcelona, Carrer Major de Sarrià,… (3 ...
+snippet: Consulta la información de contacto y 3 opiniones sobre La Suïssa en Carrer Major de Sarrià, 1, Barcelona o escribe una opinión. Explora un mapa interactivo con lugares cercanos.
+title: La Suïssa - Sarrià - Sant Gervasi - Barcelona, Spain
+snippet: La Suïssa in Barcelona, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Barcelona and beyond.
+title: La Suïssa – Barcelona, Carrer Major de Sarrià,… (3 ...
+snippet: 3 bewertungen, Kontaktinformationen und Geschäftszeiten von La Suïssa in Carrer Major de Sarrià, 1, Barcelona, Spanien. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: la Suïssa Catalana to Barcelona Airport (BCN) - 3 ways to ...
+snippet: There are 5 ways to get from la Suïssa Catalana to Barcelona Airport (BCN) by train, bus, taxi, car or towncar. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.
+title: Barcelona Airport (BCN) to la Suïssa Catalana - 4 ways to ...
+snippet: There are 5 ways to get from Barcelona Airport (BCN) to la Suïssa Catalana by train, bus, taxi, car or towncar. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.
+title: La Suïssa – Barcelona, Carrer Major de Sarrià,… (3 reviews ...
+snippet: 3 reviews, contact details and business hours of La Suïssa at Carrer Major de Sarrià, 1, Barcelona, Spain. Check out nearby places on a map. Write a review.
+title: Granja La Suïssa - Café in Barcelona
+snippet: 38 visitors have checked in at Granja La Suïssa. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Escola Suïssa de Barcelona - Viquipèdia, l&#39;enciclopèdia lliure
+snippet: L&#39;Escola Suïssa de Barcelona (ESB) (en alemany: Schweizerschule Barcelona) és un centre docent d&#39;educació infantil, primària, secundària i de batxillerat, situat a la ciutat de Barcelona (Barcelonès).Forma part de l&#39;Associació de Col·legis Internacionals de Barcelona ().Entre els seus graduats es troben els empresaris Víctor Grifols i Joël Jean-Mairet.
+title: La Suissa — BLOG — BARCELONA FOOD EXPERIENCE
+snippet: Your trusted guide to eating in Barcelona: best restaurants, cool bars and cafes, food experiences and healthy eating.
+
+REL: 2
+POI Name: Sidecar
+POI City: Barcelona
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+title: Sidecar
+snippet: GRANT-LEE PHILLIPS live at Sidecar, Barcelona (04/24/2017) LEIF VOLLEBEKK live at Sidecar, Barcelona (03/29/2020) Destacat. Degut a la situació actual, Sidecar ha suspès temporalment totes les seves activitats. Les entrades anticipades adquirides a través de sidecar.es ja s’han retornat.
+title: Programació – Sidecar
+snippet: Plaça Reial 7 08002 Barcelona info@sidecar.es. Vols treballar amb nosaltres? Política de privacitat i condicions generals. Subscriu-te al newsletter i entera&#39;t de tot Ok Un altre dia ...
+title: Barcelona Sidecar – Sidecar Private Tours in Barcelona
+snippet: HOP ON FOR HILARIOUS FUN AND GREAT MEMORIES. Driven tours by a local, ... Early Birds 2H30. 180,00 € 150,00 € Enjoy the freshness of Barcelona during the peaceful morning. while the city slowly awakes. AFTERNOON SUNSET 3H. ... BARCELONA SIDECAR 2017. ALL RIGHTS RESERVED. ...
+title: Barcelona Sidecar Tours, Private Tours &amp; Experiences ...
+snippet: Fall in love with Barcelona with BrightSide Tours.. Cruise the charming alleys and majestic avenues on a classic sidecar motorcycle or van, driven by your private Barcelona tour guide. Join us and discover the real Barcelona, unveil the local foodie sanctuaries and personally experience the authentic Mediterranean lifestyle.
+title: Sidecar - Home | Facebook
+snippet: Sidecar, Barcelona, Spain. 26,884 likes · 80 talking about this · 22,646 were here. Bar, club y sala de conciertos. Agitando las noches de Barcelona desde 1982. www.sidecar.es Bar, live venue &amp;...
+title: Bcn Sidecar (Barcelona) - 2020 All You Need to Know BEFORE ...
+snippet: Barcelona Sidecar Tours, The Most Exclusive way to explore the city.Personalised and private Routes for 1-2 passengers. Pick up service wherever you are.Local and expert drivers Avoid queues!Book now and start Getting Fun!
+title: Sidecar - Barcelona
+snippet: Sidecar - Barcelona. Sidecar fonctionne comme un night-club ouvert jusqu’à 5 heures du matin. Récemment redécoré de manière assez élégante il offre un restaurant assez abordable. Programmation éclectique allant de tubes connus au DJ’s locaux mais talentueux..
+title: Sidecar Factory Club (Barcelona) - 2020 All You Need to ...
+snippet: The Sagrada Familia, as one of Barcelona&#39;s most-important landmarks, draws large crowds of visitors every day. Avoid those crowds and save time with this ticket that includes fast-track, skip-the-line admission.
+title: Sidecar in Barcelona
+snippet: Sidecar works like a &quot;Club Disco&quot; opened till 5 o&#39;clock in the morning. It&#39;s has been recently redesign with an elegant decoration. Among the innovations a restaurant at affordable prices. Very eclectic programming going from known music and DJ&#39;s to local and talented DJ&#39;s.
+title: Sidecar - Plaça Reial, 7, Barri Gòtic, Barcelona, Spain ...
+snippet: Side Car should just really be unlatched the main car altogether. Let me just say: house music should die. This DJ, sure beat it half way there. I really also don&#39;t love being trampled on, watching couples straight, gay, unsure what, almost fornicate in front of me.
+
+REL: 2
+POI Name: Los Barriletes
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Los Barriletes (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: Los Barriletes, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Los Barriletes i Madrid, Spania på Tripadvisor.
+title: TERRAZA BAR LOS BARRILETES, Madrid - Nueva España - Fotos ...
+snippet: Terraza Bar Los Barriletes, Madrid: Consulta 28 opiniones sobre Terraza Bar Los Barriletes con puntuación 3 de 5 y clasificado en Tripadvisor N.°7.778 de 11.660 restaurantes en Madrid.
+title: Los Barriletes (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Madrid Bed and Breakfast; Madrid Vacation Rentals; Madrid Vacation Packages; Flights to Madrid; Madrid Restaurants; Things to Do in Madrid; Madrid Shopping; Madrid Travel Forum; Madrid Photos; Madrid Map; Madrid Travel Guide; All Madrid Hotels; Madrid Hotel Deals; Last Minute Hotels in Madrid; By Hotel Type. Madrid Motels; Madrid Hostels ...
+title: Los Barriletes (Madrid) - 2020 Qué saber antes de ir - Lo ...
+snippet: Visite un máximo de 37 de los principales lugares de interés de Madrid con un billete de 1 o 2 días con paradas libres que le permitirá ver la ciudad a su ritmo. Suba a bordo del autobús de dos pisos con techo descubierto y recorra la Ruta Uno, la Ruta Dos o ambas.
+title: THE 10 BEST Restaurants Near Los Barriletes in Madrid ...
+snippet: Restaurants near Los Barriletes, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Los Barriletes in Madrid, Spain.
+title: Los Barriletes, Calle de Costa Rica, 15 in Madrid ...
+snippet: If you want to remember Santa Iglesia Catedral de los Santos Andres y Demetrio, come to this bar first.Spanish dishes are on the menu at Los Barriletes.The truth is that you will really like nicely cooked tapas, salmorejo and amuse bouches.Many people come to order good churros.Delicious beer is the most popular drinks of this place. Visit this place and have great coffee.
+title: Terraza Bar Los Barriletes, Madrid - Nueva Espana ...
+snippet: Terraza Bar Los Barriletes, Madrid: See 28 unbiased reviews of Terraza Bar Los Barriletes, rated 3 of 5 on Tripadvisor and ranked #7,769 of 11,610 restaurants in Madrid.
+title: Los Barriletes (Madrid) - All You Need to Know BEFORE You ...
+snippet: Los Barriletes, Madrid: See 11 reviews, articles, and 3 photos of Los Barriletes, ranked No.139 on Tripadvisor among 714 attractions in Madrid.
+title: THE 10 CLOSEST Hotels to Los Barriletes, Madrid ...
+snippet: Hotels near Los Barriletes, Madrid on Tripadvisor: Find 25,981 traveler reviews, 53,281 candid photos, and prices for 30 hotels near Los Barriletes in Madrid, Spain.
+title: De 10 beste hotellene i nærheten av Los Barriletes
+snippet: Hoteller i nærheten av Los Barriletes, Madrid: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Los Barriletes på Tripadvisor.
+
+REL: 2
+POI Name: Vinícola Mentridana
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dive Bars, 
+Snippets:
+title: Vinicola Mentridana (Madrid) - 2020 All You Need to Know ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Vinícola Mentridana (Madrid, Spania) - Anmeldelser
+snippet: Vinícola Mentridana, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Vinícola Mentridana i Madrid, Spania på Tripadvisor.
+title: Vinicola Mentridana (Madrid) - 2020 All You Need to Know ...
+snippet: Madrid Bed and Breakfast; Madrid Vacation Rentals; Madrid Vacation Packages; Flights to Madrid; Madrid Restaurants; Things to Do in Madrid; Madrid Shopping; Madrid Travel Forum; Madrid Photos; Madrid Map; Madrid Travel Guide; All Madrid Hotels; Madrid Hotel Deals; Last Minute Hotels in Madrid; By Hotel Type. Madrid Motels; Madrid Hostels ...
+title: Vinícola Mentridana (Madrid) - 2020 Qué saber antes de ir ...
+snippet: Visite un máximo de 37 de los principales lugares de interés de Madrid con un billete de 1 o 2 días con paradas libres que le permitirá ver la ciudad a su ritmo. Suba a bordo del autobús de dos pisos con techo descubierto y recorra la Ruta Uno, la Ruta Dos o ambas. Aprenda sobre la historia de Madrid usando a bordo unos auriculares de ...
+title: Vinicola Mentridana (Madrid) - All You Need to Know BEFORE ...
+snippet: Apr 4, 2020 - Charming tavern with an exquisite selection of wines, cheeses, sausages, toasts and Mediterranean salads. In addition to good wine and quality food you can enjoy cocktails prepared with care, in a...
+title: Restaurants Near Vinicola Mentridana, Madrid ... - TripAdvisor
+snippet: Restaurants near Vinicola Mentridana, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Vinicola Mentridana in Madrid, Spain.
+title: Vinícola Mentridana - Home | Facebook
+snippet: Vinícola Mentridana. 66 likes · 2 talking about this · 34 were here. Vinoteca tradicional de Madrid en la que disfrutar de los mejores vinos, cervezas, tapas ...
+title: Vinicola Mentridana (Madrid) - 2020 All You Need to Know ...
+snippet: Madrid Hotels; Bed and Breakfast Madrid; Madrid Holiday Rentals; Madrid Holiday Packages; Flights to Madrid; Madrid Restaurants; Madrid Attractions; Madrid Shopping; Madrid Travel Forum; Madrid Photos; Madrid Map; Madrid Guide; All Madrid Hotels; Madrid Hotel Deals; Last Minute Hotels in Madrid; By Hotel Type. Madrid Motels; Madrid Hostels ...
+title: Vinícola Mentridana (Madrid, Spanien) - anmeldelser
+snippet: Vinícola Mentridana, Madrid: Se 112 anmeldelser, artikler og 50 billeder fra Vinícola Mentridana, nr.26 på Tripadvisor af 714 seværdigheder i Madrid.
+title: Vinícola Mentridana | Bars and pubs in Lavapiés, Madrid
+snippet: Frequented by the bohemian hip element of the Lavapiés, this cool wine bar, with tall windows that open on to the street, is gently evocative of the old bodega
+
+REL: 2
+POI Name: Kikekeller
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Home Decor, Cocktail Bars, Furniture Stores, 
+Snippets:
+title: Kikekeller, Madrid - Universidad - Restaurant Reviews ...
+snippet: KikeKeller is a very nice bar in the trendy neighborhood of Malasaña in Madrid , and incredible set up, an Art Gallery during the week and Art Gallery/Bar during the weekends with great crowd and excellent cocktails, a great place to enjoy drinks and good...
+title: Kikekeller, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Kikekeller, Madrid: Se 35 objektive anmeldelser av Kikekeller, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 923 av 11 647 restauranter i Madrid.
+title: KIKEKELLER – kikekeller
+snippet: home,page-template-default,page,page-id-4,theme-vigor,edgt-core-1.2,woocommerce-demo-store,woocommerce-no-js,ajax_fade,page_not_loaded,,vigor child-child-ver-1.0.0 ...
+title: Best Bar in Madrid - Review of Kikekeller, Madrid, Spain ...
+snippet: Kikekeller: Best Bar in Madrid - See 35 traveler reviews, 31 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: KIKEKELLER, Madrid - Universidad - Fotos, Número de ...
+snippet: Kikekeller, Madrid: Consulta 35 opiniones sobre Kikekeller con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°1.923 de 11.660 restaurantes en Madrid.
+title: Kikekeller, Madrid - Universidad - Restaurant Reviews ...
+snippet: Kikekeller, Madrid: See 34 unbiased reviews of Kikekeller, rated 4.5 of 5 on Tripadvisor and ranked #1,994 of 11,586 restaurants in Madrid.
+title: Kikekeller Madrid | Spotted by Locals
+snippet: &quot;Kikekeller&quot; Madrid is a very stylish bar with all kinds of bizarre things from designer lamps and tables, to cups molded like pretty creepy babyfaces.
+title: Kikekeller - Picture of Kikekeller, Madrid - TripAdvisor
+snippet: Kikekeller, Madrid Picture: Kikekeller - Check out TripAdvisor members&#39; 50,723 candid photos and videos of Kikekeller
+title: About – KIKEKELLER
+snippet: KIKEKELLER | About. 50437. ... Situada a las afueras de Madrid, es un espacio en el que poder experimentar con nuevas técnicas, materiales y descontextualizar la forma de trabajar con éstos, dando lugar a interesantes piezas de mobiliario a medida y estructuras para sus proyectos de interior.
+title: Kikeller | Official tourism website - Turismo Madrid
+snippet: Kikekeller is a company dedicated to cutting edge design and decoration. It allows you to enjoy a space where art, music and gastronomy come together in a very unusual way. The store is specialized in the creation of points of natural light that work with a simple candle that can be replaced when it is used up.
+
+REL: 2
+POI Name: Tux
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Linuxeros LUG Madrid
+snippet: Para el FLISOL Madrid del proximo año 2012 hay una propuesta de estas que son de manitas ! Hacer un taller artesanal ?!?!?!? si un taller ti...
+title: Tux - Bars - Calle de Marcenado, 29, Chamartín, Madrid ...
+snippet: Tux in Madrid, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Madrid and beyond.
+title: Linuxeros LUG Madrid: A small TV aerial (UDA(*) YAGI)
+snippet: I made two longer ones (66.5 cm, 20 elements). One with domestic electrical tubing (gray) that does not work and another one with a wooden stick (7x7 mm²) that gives me three dB&#39;s more (I expected five).
+title: 9 Best The Madrid images | Groomsmen tuxedos, Tuxedo ...
+snippet: Nov 21, 2016 - The Madrid is a black, two button, single breasted style tuxedo with a non vented back. This tux features a slim satin notch lapel and satin covered buttons. This tuxedo is made with luxurious Super 130&#39;s wool. See more ideas about Groomsmen tuxedos, Tuxedo and Tuxedo rental.
+title: TuxMath
+snippet: Lanzador de TuxMath. Descripción. Con TuxMath se pueden trabajar las matemáticas de una forma lúdica Es enormemente divertida. Se plantea como un juego de matar marcianitos, donde Tux será quien dispare sobre las operaciones matemáticas que van apareciendo, siempre que se escriba bien el resultado.
+title: Nux Taku - YouTube
+snippet: Welcome to my YouTube channel! I make videos based on whatever I&#39;m passionate about which generally entails anime and video games, and my style varies from s...
+title: Hotels.com – Tilbud og rabatter for hotellbestillinger fra ...
+snippet: Hotels.com er et ledende nettsted for bestilling av overnatting. Vi er lidenskapelig opptatt av reiser. Hver dag inspirerer og når vi ut til millioner av reisende på 90 lokale nettsider på 41 språk.
+title: Tux Bar - Madrid, Spain - Bar, Tapas Bar &amp; Restaurant ...
+snippet: Tux Bar, Madrid, Spain. 29 likes. Bar. Sign up for Facebook today to discover local businesses near you.
+title: Tux Bar (Tuxla) en Madrid: 1 opiniones y 5 fotos
+snippet: Tux Bar (Tuxla) en Madrid: compara precios antes de reservar, encuentra fotos y lee opiniones. El Tux Bar, antes llamdo tuxla es un pequeño bar del barrio de Prosperidad que se encuentra entre la calle Marcenado y Juan Valdés. Es el típico bar para ir a tomar unas cañas tranquilamente si estás por el barrio.
+title: Tuxedo Rental, Men&#39;s Tuxedos for Rent | Men&#39;s Wearhouse
+snippet: Get your tuxedo rental today from Men&#39;s Wearhouse. View our collection of men&#39;s tuxedos and formalwear for weddings, proms &amp; formal events. Rent a tux now!
+
+REL: 2
+POI Name: Ginkgo Sky Bar
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Lounges, 
+Snippets:
+title: Home - Restaurante con terraza madrid | Ginkgo Sky Bar Madrid
+snippet: Ginkgo Sky Bar, exclusivo restaurante fusión y coctelería con terraza en madrid. Disfruta del diseño, lujo, la mejor música en vivo y eventos en Madrid.
+title: Home - Restaurant with terrace madrid | Ginkgo Sky Bar Madrid
+snippet: Ginkgo Restaurant &amp; Sky Bar offers a nourishing menu with dishes that pay deep respect to the product and mix traditional preparations with touches of market cuisine, some of them with an Asian influence.. From the heights of Madrid, discover this fashionable venue with the best views of the city. At the centre of everything! We inform you that it will be necessary to acquire your ticket ...
+title: Restaurante con terraza madrid - Ginkgo Restaurante &amp; Sky Bar
+snippet: Ginkgo Sky Bar, exclusivo restaurante fusión y coctelería con terraza en madrid. Disfruta del diseño, lujo, la mejor música en vivo y eventos en Madrid.
+title: GINKGO RESTAURANTE &amp; SKY BAR, Madrid - Austrias - Menú ...
+snippet: Ginkgo Restaurante &amp; Sky Bar, Madrid: Consulta 781 opiniones sobre Ginkgo Restaurante &amp; Sky Bar con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°1.464 de 11.659 restaurantes en Madrid.
+title: Ginkgo Restaurante &amp; Sky Bar, Madrid - Austrias - Menu ...
+snippet: Ginkgo Restaurante &amp; Sky Bar, Madrid: See 781 unbiased reviews of Ginkgo Restaurante &amp; Sky Bar, rated 3.5 of 5 on Tripadvisor and ranked #1,464 of 11,659 restaurants in Madrid.
+title: Ginkgo Restaurante &amp; Sky Bar | Rooftop Madrid | VP Plaza ...
+snippet: Visite la web de Ginkgo . En la planta 12 del hotel brilla Ginkgo Restaurante &amp; Sky Bar, una espectacular terraza con acceso directo desde la calle que presenta zonas cubiertas y descubiertas, y que enamora con sus vistas 360º a la ciudad de Madrid.. La evocadora piscina* exterior y con fondo transparente es uno de los grandes atractivos de Ginkgo Restaurante &amp; Sky Bar, todo un espectáculo
+title: Book Online - Restaurant with terrace madrid | Ginkgo Sky ...
+snippet: Ginkgo Sky Bar, exclusive fusion restaurant and cocktail bar with terrace in Madrid. Enjoy design, luxury, the best live music and events in Madrid.
+title: Ginkgo Restaurant &amp; Sky Bar | Rooftop Madrid | VP Plaza España
+snippet: Visit the Ginkgo website . Ginkgo Restaurant &amp; Sky Bar shines out from floor 12 the hotel. This spectacular terrace with direct access from the street provides covered and uncovered areas and will win your heart with its almost 360-degree views of the city of Madrid.
+title: Cocktail Bar - Restaurant with terrace madrid | Ginkgo Sky ...
+snippet: Ginkgo Sky Bar, exclusive fusion restaurant and cocktail bar with terrace in Madrid. Enjoy design, luxury, the best live music and events in Madrid.
+title: Ginkgo Restaurante &amp; Sky Bar - Restaurant - Madrid, Spain ...
+snippet: Ginkgo Restaurante &amp; Sky Bar - Plaza de España, 3 - Planta 12, 28008 Madrid, Spain - Rated 4.5 based on 39 Reviews &quot;So not recommended. Client treatment...
+
+REL: 1
+POI Name: La Coquette
+POI City: Madrid
+POI Country: ES
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+title: La Coquette Blues Bar - Live Music Venue - Madrid, Spain ...
+snippet: La Coquette Blues Bar, Madrid. 19,553 likes · 217 talking about this · 6,010 were here. Fundado en 1982, dedicado única y exclusivamente a la música BLUES y sus diferentes estilos, por cuyo escenario...
+title: La Coquette (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: La Coquette (Madrid) - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Besuchen Sie bis zu 37 der beliebtesten Sehenswürdigkeiten Madrids mit einem 1- oder 2-tägigen Hop-on-Hop-off-Busticket, mit dem Sie die Stadt auf Ihre Weise sehen können.
+title: La Coquette (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: La Coquette, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for La Coquette i Madrid, Spania på Tripadvisor.
+title: La Coquette | Official tourism website - Turismo Madrid
+snippet: This venue, located right by Madrid’s Teatro Real – Opera House, is one of the last temples to Blues music in the city, with live performances every week. It is a small underground bar, one of those brick caverns so typical of the city, with a cosy atmosphere and guaranteed spectacle thanks to some magnificent jams and solos.
+title: De 10 beste restaurantene i nærheten av La Coquette
+snippet: Restauranter i nærheten av La Coquette på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av La Coquette, Madrid.
+title: La Coquette | Madrid | UPDATED March 2020 Top Tips Before ...
+snippet: La Coquette, Madrid: See 115 reviews, articles, and 38 photos of La Coquette, ranked No.24 on Tripadvisor among 715 attractions in Madrid.
+title: La Coquette Blues Bar - m.facebook.com
+snippet: La Coquette Blues Bar, Madrid. 19,556 likes · 10 talking about this · 6,010 were here. Fundado en 1982, dedicado única y exclusivamente a la música BLUES y sus diferentes estilos, por cuyo escenario...
+title: La Coquette (Madrid) - All You Need to Know BEFORE You Go ...
+snippet: La Coquette, Madrid: See 115 reviews, articles, and 38 photos of La Coquette, ranked No.24 on Tripadvisor among 715 attractions in Madrid.
+
+REL: 1
+POI Name: Debonair La Latina
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Cocktail Bars, 
+Snippets:
+title: Debonair la Latina, Madrid - Restaurantanmeldelser ...
+snippet: Denne tjenesten kan inneholde oversettelser levert av Google. Google fraskriver seg alle garantier knyttet til oversettelser, uttrykte eller underforståtte, inkludert alle garantier for nøyaktighet, pålitelighet og eventuelle implisitte garantier for salgbarhet, egnethet for et bestemt formål og ukrenkelighet.
+title: Debonair La latina in Madrid - Restaurant Reviews, Menu ...
+snippet: Debonair La latina in Madrid. Find restaurant reviews, menu, prices, and hours of operation for Debonair La latina on TheFork. Entre las calles estrechas y entrelazadas de uno de los barrios con más movimiento de Madrid, damos con un edificio modernista de finales del siglo XIX...
+title: Restaurante Debonair La latina en Madrid, La Latina ...
+snippet: De la mar, el Bacalao al pil-pil en lascas con piquillos y de la tierra, Solomillo de vaca a la parrilla. Para terminar no puede faltar la Tarta de queso casera al horno. El restaurante Debonair La Latina ofrece cuatro espacios diferentes pensados para cada ocasión.
+title: IMG_20151101_174107_large.jpg - Picture of Debonair la ...
+snippet: Debonair la Latina, Madrid Picture: IMG_20151101_174107_large.jpg - Check out Tripadvisor members&#39; 51,033 candid photos and videos of Debonair la Latina
+title: Detalles - Picture of Debonair la Latina, Madrid - Tripadvisor
+snippet: Debonair la Latina, Madrid Picture: Detalles - Check out Tripadvisor members&#39; 50,026 candid photos and videos of Debonair la Latina
+title: Gulasch de Venado - Picture of Debonair la Latina, Madrid ...
+snippet: Debonair la Latina, Madrid Picture: Gulasch de Venado - Check out TripAdvisor members&#39; 50,027 candid photos and videos of Debonair la Latina
+title: Entrada al bar - Picture of Debonair la Latina, Madrid ...
+snippet: Debonair la Latina, Madrid Picture: Entrada al bar - Check out TripAdvisor members&#39; 50,413 candid photos and videos of Debonair la Latina
+title: Debonair la Latina, Madrid - Centro - Restaurant Avis ...
+snippet: Debonair la Latina, Madrid : consultez 86 avis sur Debonair la Latina, noté 4,5 sur 5, l&#39;un des 11 584 restaurants de Madrid sur Tripadvisor.
+title: Debonair La Latina (Now Closed) - Tapas Restaurant in Madrid
+snippet: Ya solo ver la carta te das cuenta que todo esta rico, pero después de pedir, se confirma. Recomiendo las mollejas, las croquetas y la guinda el postre de pastel de queso.
+title: The 10 Best Bars In La Latina, Madrid
+snippet: La Latina provides a homely atmosphere where visitors can enjoy drinks on outdoor patios and on restaurant terraces. Each bar has their own style in this small area. Read on for more information about the 10 best bars in La Latina, Spain.
+
+REL: 1
+POI Name: Yes Sushi
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Japanese, 
+Snippets:
+title: SUSHI YES | Order Online | Shelby Charter Township ...
+snippet: Order sushi online from Sushi Yes - Shelby Charter Twp in Shelby Charter Township, MI for takeout. Browse our menu and easily choose and modify your selection.
+title: Yes Group - Ye&#39;s Sushi
+snippet: We don’t just serve food. We serve skill, passion &amp; experience. Our skilled artisans of fresh, comfort cuisine will provide you with a remarkable experience that is authentic, creative, and original.
+title: De 10 beste restaurantene i Madrid - Tripadvisor
+snippet: Beste restauranter i Madrid, Spania: Se anmeldelser fra reisende og bilder av spisesteder i Madrid, og søk etter pris, beliggenhet og mer på Tripadvisor. Madrid. Turisme i Madrid Hotell i Madrid Bed and Breakfast i Madrid Pakkereiser til Madrid Flyreiser til Madrid ... Sushi (302) Reserver bord på internett.
+title: Yes Sushi dining - valid 7 days – itison
+snippet: 2 courses for two or upgrade to include a glass of wine or beer each for two or four people at Yes Sushi, Edinburgh; serving authentic Japanese food on Hanover Street - save up to 62%
+title: THE BEST Sushi in Madrid - Tripadvisor
+snippet: Best Madrid, Community of Madrid Sushi: Find Tripadvisor traveler reviews of Madrid Sushi restaurants and search by cuisine, price, location, and more.
+title: Yes Sushi, Edinburgh - New Town - Menu, Prices ...
+snippet: Order food online at Yes Sushi, Edinburgh with Tripadvisor: See 371 unbiased reviews of Yes Sushi, ranked #1,075 on Tripadvisor among 2,276 restaurants in Edinburgh.
+title: Yes sushi, Pasadena - Photos &amp; Restaurant Reviews - Order ...
+snippet: Order food online at Yes sushi, Pasadena with Tripadvisor: See 39 unbiased reviews of Yes sushi, ranked #126 on Tripadvisor among 676 restaurants in Pasadena.
+title: Yes Sushi delivery from New Town - Order with Deliveroo
+snippet: Serving up amazing food, Yes Sushi sits in the heart of New Town. With dishes you’re guaranteed to love, order now for delivery within 32 minutes
+title: Restaurante Yes Sushi - Home - Porto, Portugal - Menu ...
+snippet: Restaurante Yes Sushi - Av. da Boavista 1711, 4100-132 Porto, Portugal - Rated 4.7 based on 44 Reviews &quot;Cute place. Food is fresh and tasty. Family run...
+title: Yes Sushi, Hanover Street, New Town, Edinburgh - Zomato UK
+snippet: I visited Yes Sushi for the first time recently, and had a fantastic meal. I was impressed with the sushi quality and freshness, and found the menu selection to be quite extensive. The service was friendly and prompt as well. I tried a dragon roll, salmon skin roll, and a prawn tempura roll - all of which were delicious.
+
+REL: 1
+POI Name: La Negra Tomasa
+POI City: Madrid
+POI Country: ES
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Cuban, Cocktail Bars, 
+Snippets:
+title: La Negra Tomasa · Restaurante Espectáculo en Madrid
+snippet: Decorado con tonos cálidos y plagado de imágenes que nos recuerdan a la Cuba soñada, nuestro restaurante ofrece una cocina tradicional cubana con platos típicos criollos. Nuestro plato estrella es la Negra Tomasa que puedes saborear acompañado del mejor de los mojitos.
+title: la negra tomasa, Madrid - Centro - Menu, Prices ...
+snippet: la negra tomasa, Madrid: See 657 unbiased reviews of la negra tomasa, rated 4 of 5 on Tripadvisor and ranked #1,090 of 11,660 restaurants in Madrid.
+title: la negra tomasa, Madrid - Centro - Menu, Prices ...
+snippet: la negra tomasa, Madrid: See 657 unbiased reviews of la negra tomasa, rated 4 of 5 on Tripadvisor and ranked #1,090 of 11,659 restaurants in Madrid.
+title: la negra tomasa, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: la negra tomasa, Madrid: Se 657 objektive anmeldelser av la negra tomasa, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 090 av 11 659 restauranter i Madrid.
+title: La Carta · La Negra Tomasa · Restaurante Espectáculo
+snippet: Descubre la carta de La Negra Tomasa. Nuestro restaurante ofrece una cocina tradicional cubana con platos típicos criollos.
+title: Contacto · La Negra Tomasa · Restaurante Espectáculo
+snippet: Ponte en contacto con nosotros. La Negra Tomasa se encuentra en C/ Cádiz, 9, 28012, Madrid. Reservas en el 91 523 58 30. E-mail: info@lanegratomasa.com
+title: LA NEGRA TOMASA, Madrid - Centro - Menú, Precios y ...
+snippet: la negra tomasa, Madrid: Consulta 657 opiniones sobre la negra tomasa con puntuación 4 de 5 y clasificado en Tripadvisor N.°1.090 de 11.659 restaurantes en Madrid.
+title: Caifanes - La Negra Tomasa - YouTube
+snippet: Sencillo del primer album de Caifanes. La Negra Tomasa es un cover, originalmente una canción cubana.
+title: La Sra. Tomasa - Ella ft Ahyvin Bruno I Live Sessions #1 ...
+snippet: La Sra. Tomasa - Ella ft Ahyvin Bruno I Live ... La Sra. Tomasa - Timba Negra ft. Niño Maldito I Live ... 50+ videos Play all Mix - La Sra. Tomasa - Ella ft Ahyvin Bruno I Live Sessions #1 ...
+
+REL: 1
+POI Name: La Chilostra
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Tapas Bars, 
+Snippets:
+title: La Chilostra, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: La Chilostra, Madrid: Se 42 objektive anmeldelser av La Chilostra, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 3 660 av 11 615 restauranter i Madrid.
+title: La Chilostra, Madrid - Centro - Restaurant Reviews, Photos ...
+snippet: La Chilostra, Madrid: See 42 unbiased reviews of La Chilostra, rated 4 of 5 on Tripadvisor and ranked #3,655 of 11,609 restaurants in Madrid.
+title: La Chilostra - Lavapiés y Embajadores - Madrid, Spain
+snippet: 8 reviews of La Chilostra &quot;Fantastic service! You know you&#39;re in good hands when you&#39;re asked to order LESS to avoid wasting food and money on too many plates! Charming little spot that I hope to visit again on another trip to Madrid. Great…
+title: LA CHILOSTRA, Madrid - Centro - Fotos, Número de Teléfono ...
+snippet: La Chilostra, Madrid: Consulta 41 opiniones sobre La Chilostra con puntuación 4 de 5 y clasificado en Tripadvisor N.°3.671 de 11.660 restaurantes en Madrid.
+title: Taberna La Chilostra 2.0 - Home | Facebook
+snippet: Taberna La Chilostra 2.0, Madrid (Madrid, Spain). 146 likes · 4 talking about this · 46 were here. Tapas, tostas, raciones y buena música. A cinco minutos de Tirso de Molina, cerca de Lavapies y la...
+title: Bar - Picture of La Chilostra, Madrid - Tripadvisor
+snippet: La Chilostra, Madrid Picture: Bar - Check out Tripadvisor members&#39; 53,439 candid photos and videos of La Chilostra
+title: Decent for drinks, food is mediocre - La Chilostra
+snippet: La Chilostra: Decent for drinks, food is mediocre - See 42 traveler reviews, 10 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: La Chilostra, Madrid - Centro - Restaurant Bewertungen ...
+snippet: La Chilostra, Madrid: 42 Bewertungen - bei TripAdvisor auf Platz 3.575 von 11.397 von 11.397 Madrid Restaurants; mit 4/5 von Reisenden bewertet.
+title: EXCELLENT Everything - Review of La Chilostra, Madrid ...
+snippet: La Chilostra: EXCELLENT Everything - See 41 traveler reviews, 10 candid photos, and great deals for Madrid, Spain, at Tripadvisor.
+title: La Chilostra, La Latina / Lavapiés, Madrid | Party Earth
+snippet: La Latina / Lavapiés, Madrid – Tapas bars are a dime a dozen in Madrid, but La Chilostra offers a truly authentic atmosphere where patrons can find an amiable mix of bohemian and no-frills locals from the Lavapiés and Tirso neighborhoods who spill out into the street with drinks and tapas in hand.
+
+REL: 1
+POI Name: Porteno Bar
+POI City: Barcelona
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, Tapas Bars, 
+Snippets:
+title: Porteño Bar - Home | Facebook
+snippet: Porteño Bar - Carrer dels Carders, 32, 08003 Barcelona, Spain - Rated 4.9 based on 41 Reviews &quot;The cocktails are great and the people are so welcoming...
+title: Porteno Cocktail Bar (Barcelona) - All You Need to Know ...
+snippet: Porteno Cocktail Bar, Barcelona: See 86 reviews, articles, and 24 photos of Porteno Cocktail Bar, ranked No.131 on Tripadvisor among 623 attractions in Barcelona.
+title: Porteño Bar - Home | Facebook
+snippet: Porteño Bar - Carrer dels Carders, 32, 08003 Barcelona, Spain - Rated 4.9 based on 40 Reviews &quot;The cocktails are great and the people are so welcoming...
+title: Porteño Cocktail Bar (Barcelona, Spania) - Anmeldelser
+snippet: Porteño Cocktail Bar, Barcelona: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Porteño Cocktail Bar i Barcelona, Spania på Tripadvisor.
+title: Porteno Cocktail Bar (Barcelona) - 2020 All You Need to ...
+snippet: Visited Porteno cocktail bar in Barcelona last night and at first very welcoming staff. When choosing our drinks they said the special cocktail was €16 so we decided on moijto , 2 G&amp;T’s , small beer and then 2 small bottles of water ... When it came to paying the bill it was €59 …
+title: De 10 beste restaurantene i nærheten av Porteño Cocktail Bar
+snippet: Restauranter i nærheten av Porteño Cocktail Bar på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Porteño Cocktail Bar, Barcelona.
+title: Best cocktails in Barcelona ! - Review of Porteno Cocktail ...
+snippet: Porteno Cocktail Bar: Best cocktails in Barcelona ! - See 85 traveler reviews, 23 candid photos, and great deals for Barcelona, Spain, at TripAdvisor.
+title: Porteño Cocktail Bar (Barcelona, Spanien) - anmeldelser
+snippet: Porteño Cocktail Bar, Barcelona: Se 86 anmeldelser, artikler og 24 billeder fra Porteño Cocktail Bar, nr.128 på Tripadvisor af 623 seværdigheder i Barcelona. ... Besøgte Porteno cocktailbar i Barcelona i går aftes og i første omgang meget imødekommende personale.
+title: Porteno Bar - Bars - Carrer dels Carders, 32, Sant Pere ...
+snippet: 9 reviews of Porteno Bar &quot;If you&#39;re in el born, check this place out. Good drinks, good price, good service. The bartenders are from Italy but speak English. Super friendly and recommend a few good restaurants in the area&quot;
+title: Cool little bar - Review of Porteno Cocktail Bar ...
+snippet: Porteno Cocktail Bar: Cool little bar - See 86 traveller reviews, 24 candid photos, and great deals for Barcelona, Spain, at Tripadvisor.
+
+REL: 1
+POI Name: Azotea del Círculo de Bellas Artes
+POI City: Madrid
+POI Country: ES
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, 
+Snippets:
+title: Azotea del Círculo de Bellas Artes
+snippet: La azotea del Círculo de Bellas Artes (CBA) cuenta con una de las mejores y más espectaculares vistas de Madrid, y ofrece a sus visitantes una perspectiva inigualable del paisaje urbano de la ciudad.
+title: Reservas | Azotea del Círculo
+snippet: Por política de actividades propias del Círculo de Bellas Artes, no está permitido reservar en la Azotea con más de una semana de antelación. Para cambio o anulación de la reserva o para mesas de más de 8 comensales, por favor llame al 91 530 17 61
+title: Azotea del Círculo de Bellas Artes - Mirador Madrid
+snippet: Foto Círculo de Bellas Artes. En Madrid disponemos de unos cuantos miradores para admirar la ciudad desde las alturas. Uno de los mejores es la Azotea del Círculo de Bellas Artes. La Azotea se ha convertido en parada habitual de los madrileños y de los visitantes de la ciudad.
+title: Cómo subir a la azotea Círculo Bellas Artes (Madrid ...
+snippet: La azotea del Círculo de Bellas Artes es uno de los mejores lugares para disfrutar de vistas panorámicas de las céntricas zonas de Alcalá, Gran Vía y Cibeles en Madrid; aquí tienes toda la información que necesitas saber para subir a dicha terraza, con fotos, horarios y precios de entradas
+title: AZOTEA DEL CIRCULO, Madrid - Centro - Updated 2020 ...
+snippet: Azotea del Circulo, Madrid: See 1,835 unbiased reviews of Azotea del Circulo, rated 4 of 5 on Tripadvisor and ranked #917 of 11,660 restaurants in Madrid. Flights ... The fee is charged by &#39;El círculo de bellas artes&#39; for entering its facilities (as in any museum).
+title: Azotea del Circulo, Madrid - Centro - Restaurant Reviews ...
+snippet: Azotea del Circulo, Madrid: See 1,835 unbiased reviews of Azotea del Circulo, rated 4 of 5 on Tripadvisor and ranked #917 of 11,660 restaurants in Madrid. Flights ... The fee is charged by &#39;El círculo de bellas artes&#39; for entering its facilities (as in any museum).
+title: Cartas | Azotea del Círculo
+snippet: Nunca el cielo fue tan divertido. Azotea de Cïrculo
+title: Azotea del Círculo - Home | Facebook
+snippet: Azotea del Círculo, Madrid. 8,119 likes · 3 talking about this · 15,152 were here. La Azotea del Círculo es conocida por tener las mejores vistas de Madrid, un mirador único en la capital donde poder...
+title: Reservations | Azotea del Círculo
+snippet: By policy of activities typical of the Circle of Fine Arts, it is not allowed to book in the Azotea more than a week in advance. For change or cancellation of the reservation or for tables of more than 8 diners, please call 91 530 17 61
+title: Events | Azotea del Círculo
+snippet: Azotea is a hospitality group with spaces in some of the most emblematic and spectacular places in Madrid. Formed by a young team of professionals from different fields, each of our spaces is something unique thanks to the care in the attention, the gastronomic proposal and the location.
+
+REL: 1
+POI Name: Live
+POI City: Barcelona
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, 
+Snippets:
+title: FC Barcelona - YouTube
+snippet: ?? Welcome to FC Barcelona&#39;s official YouTube channel! ? Highlights, challenges, interviews, vlogs, live shows and much more ? Turn your notifications on and...
+title: Live Cam Barcelona - Barceloneta - SkylineWebcams
+snippet: 30dec17-- A Thank You to our host, Playamedia - community management, and online marketing , for sponsoring this &#39;live cam&#39; view on the beach along Passeig del Mare Nostrum of Barcelona, Barceloneta, stunning.
+title: Spanish La Liga Live Streams. Watch free Barcelona live ...
+snippet: Spanish La Liga live streams are very stable so you don’t have to reload the page over and over again. All Premier League fans are welcomed to tune in to our Barcelona live streams to watch all the games for free.
+title: FC Barcelona | Official website
+snippet: Official FC Barcelona website. All news about the team, ticket sales, member services, supporters club services and information about Barça and the Club
+title: Barcelona TV Schedules, Fixtures, Results ... - Live Soccer TV
+snippet: Barcelona - Live Soccer TV - Football TV Listings, Official Live Streams, Live Soccer Scores, Fixtures, Tables, Results, News, Pubs and Video Highlights
+title: Barcelona 2020 - Barcelona Webcams - live webcams ...
+snippet: Barcelona Webcams Barcelona live webcams. Updated list of live webcams in and near Barcelona. See live video and webcams of streets, traffic and and weather in Barcelona . There are very few live streaming webcams where you can see people on Barcelona streets but on this page you can find traffic webcams, ...
+title: Videos | FC Barcelona Official Channel
+snippet: The organisation that unites ex-players from all FC Barcelona football teams. Confederació Mundial de penyes. Supporters Clubs around the world. Barça Rookies. Barça&#39;s most special fans!
+title: Livesenter
+snippet: Livesenter ... Livesenter
+title: Webcam Sagrada Familia, Barcelona, Spain - Online Live Cam
+snippet: Sagrada Familia. In our live broadcast, there is a unique construction, the Spanish city of Barcelona symbol - Sagrada Familia cathedral, the creation of the great architect Antonio Gaudi.. The famous cathedral, which is perfectly visible in the webcam, has been built for over 100 years, and it grows and changes.This is a unique occasion in world history, when a long-lived object has earned ...
+title: Live - YouTube
+snippet: YouTube Live - Watch great live streams, such as live gaming, live music, live sports, and live news.
+
+REL: 1
+POI Name: La Burbuja que Ríe
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Spanish, Asturian, Tapas/Small Plates, 
+Snippets:
+title: La burbuja que ríe - Restaurante en Madrid - Cocina ...
+snippet: Así como la forma de contacto para enviarnos sugerencias, comentarios y poder reservar mesa para cualquier dia de la semana. Desde el equipo que formamos &quot;La Burbuja&quot; les mandamos un cordial saludo y esperamos verles pronto.
+title: LA BURBUJA QUE RÍE, Madrid - Centro - Menú, Precios y ...
+snippet: La Burbuja que ríe, Madrid: Consulta 379 opiniones sobre La Burbuja que ríe con puntuación 3 de 5 y clasificado en Tripadvisor N.°6.047 de 11.660 restaurantes en Madrid.
+title: La Burbuja que ríe - Picture of La Burbuja que Rie, Madrid ...
+snippet: La Burbuja que Rie, Madrid Picture: La Burbuja que ríe - Check out Tripadvisor members&#39; 53,443 candid photos and videos of La Burbuja que Rie
+title: La Burbuja que ríe - Picture of La Burbuja que Rie, Madrid ...
+snippet: La Burbuja que Rie, Madrid Picture: La Burbuja que ríe - Check out Tripadvisor members&#39; 53,580 candid photos and videos of La Burbuja que Rie
+title: Restaurante La Burbuja que ríe en Madrid: 8 opiniones y 18 ...
+snippet: Mi experiencia en La Burbuja que ríe fue muy buena, fui a ellos a través de LA PULSERITA FAMARA, me atendieron rápido, comida abundante y una relación calidad precio inmejorable de todo el paquete. Parece un restaurante enclavado en un entorno asturiano típico. Genial
+title: LA BURBUJA QUE RÍE - Madrid | JOB TODAY
+snippet: LA BURBUJA QUE RÍE. SIDRERÍA. ... Restaurante en el centro de Madrid de comida asturiana. Madrid, Spain. Follow us to get job updates! 28 Followers. Follow. Hiring by. ALBERTO BRAÑAS. ACTIVE 5 HOURS AGO. Chat. Report Company. Employers. Post a job for free Hire Staff Advertising Reach Employers Blog.
+title: La Burbuja que ríe. Restaurantes en Madrid. Asturiana ...
+snippet: Cocina de especialidades asturianas que tantos partidarios tiene en Madrid. La tentación de la sidra se complementa con un excelente cabrales. Tres días a la semana tiene un menú de almuerzo bien pensado por 6,70 euros ...
+title: La Burbuja que Ríe - Home - Madrid, Spain - Menu, Prices ...
+snippet: La Burbuja que Ríe - C/ Angel 16, 28005 Madrid, Spain - Rated 4.1 based on 139 Reviews &quot;Un clásico en una zona genial para comer y tapear como La Latina....
+title: La Burbuja que Ríe - 248 opiniones y 53 fotos ...
+snippet: La Burbuja que Ríe, restaurantes asturianos en Madrid. Estuve este fin de semana y tomamos el menu de fin de semana que cuesta alrededor de 17 € e Incluye bebidas, de primero pedimos fabada asturiana (q esta ok, pero con poco embutido) y revuelto de Gambas que estaba muy rico.
+
+REL: 1
+POI Name: La Fídula
+POI City: Madrid
+POI Country: ES
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Jazz & Blues, 
+Snippets:
+title: La Fídula Madrid | Música en vivo: Canción de Autor en ...
+snippet: Bienvenidos a la sala de espectáculos con Canción de Autor de todos los géneros. Cada día abrimos las puertas para presentar en el centro de Madrid a los mejores Cantautores de nuestro tiempo. La sala cuenta con dos espacios, la zona de barra y la de espectáculos. En la barra podemos conversar y hacer vida social.
+title: La Fidula (Madrid) - 2020 All You Need to Know BEFORE You ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: La Fidula (Madrid, Spania) - Anmeldelser - Tripadvisor
+snippet: La Fidula, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for La Fidula i Madrid, Spania på Tripadvisor.
+title: La Historia de la Fídula Madrid: Música en vivo desde 1978
+snippet: En 1978, cuando nació La Fídula la cosa era diferente. En Huertas 57 se gestó uno de los primeros locales con este tipo de actividad, luego vinieron muchos más y la cultura y la música se apoderaban de la ciudad durante abundantes y provechosos años.
+title: THE 10 BEST Restaurants Near La Fidula in Madrid ...
+snippet: Restaurants near La Fidula, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near La Fidula in Madrid, Spain.
+title: La Fidula (Madrid) - All You Need to Know BEFORE You Go ...
+snippet: Apr 4, 2020 - La Fídula is a live music bar in the historial Barrio de las Letras in Madrid. We have concerts every day with the best spanish songwriters in a lovely and quiet atmosphere. Come to visit our...
+title: De 10 beste restaurantene i nærheten av La Fidula
+snippet: Restauranter i nærheten av La Fidula på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av La Fidula, Madrid.
+title: Contacto · La Fídula Madrid
+snippet: Carta Durante las funciones de «Taquilla Inversa» las consumiciones llevan un suplemento de 50 Céntimos.
+title: Blog · La Fídula Madrid
+snippet: Hasta nuevo aviso damos por suspendida la programación de La Fídula. Intentaremos reprogramar fechas y horarios pero todo será cuando esto haya pasado. Nos encontramos en una situación difícil, esta mañana escuchaba en la TV a un periodista decir: “Yo estoy muy concienciado, voy de casa al trabajo y... 12 / marzo / 2020; leer más
+title: Martin Alvarado en La Fídula - Picture of La Fidula, Madrid
+snippet: La Fidula, Madrid Picture: Martin Alvarado en La Fídula - Check out Tripadvisor members&#39; 53,576 candid photos and videos of La Fidula
+
+REL: 1
+POI Name: El Copetín
+POI City: Barcelona
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: El Copetín (Barcelona) - 2020 Qué saber antes de ir - Lo ...
+snippet: Es increíble que en un lugar como El Copetin cobren un vaso pequeño de vermut a 7 euros. Lo peor de todo es que en la carta no aparece el precio de esta bebida y cuando nos entregaron la cuenta lo marcaron como una bebida combinada, la cuál nunca pedimos, y reclamar ahí, es una …
+title: El Copetin (Barcelona) - 2020 All You Need to Know BEFORE ...
+snippet: The Sagrada Familia, as one of Barcelona&#39;s most-important landmarks, draws large crowds of visitors every day. Avoid those crowds and save time with this ticket that includes fast-track, skip-the-line admission.
+title: El Copetin (Barcelona, Spania) - Anmeldelser - Tripadvisor
+snippet: El Copetin, Barcelona: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for El Copetin i Barcelona, Spania på Tripadvisor.
+title: El Copetin - Home | Facebook
+snippet: El Copetin - Passeig del Born, 19, 08003 Barcelona, Spain - Rated 4.4 based on 148 Reviews &quot;TO BE AVOIDED...The worst place of all Barcelona without...
+title: De 10 beste restaurantene i nærheten av El Copetin
+snippet: Restauranter i nærheten av El Copetin på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av El Copetin, Barcelona.
+title: El Copetin barcelona - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: THE 10 BEST Restaurants Near El Copetin in Barcelona ...
+snippet: Restaurants near El Copetin, Barcelona on TripAdvisor: Find traveler reviews and candid photos of dining near El Copetin in Barcelona, Province of Barcelona.
+title: El Copetin (Barcelona) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Mein bester Freund und ich stammen aus den USA und sind im Dezember nach einem Abendessen durch die Gegend von El Born gelaufen. Wir suchten nach guter spanischer Musik und hörten die Musik von El Copetin und wussten SOFORT, dass wir sie uns ansehen mussten.... Nun, wir hatten eine wirklich tolle Zeit beim Tanzen und Trinken.
+title: El Copetin (Barcelona, Spanien) - omdömen - Tripadvisor
+snippet: El Copetin, Barcelona: Läs recensioner av resenärer som du och se professionella bilder på El Copetin i Barcelona, Spanien på Tripadvisor.
+title: El Copetin (Barcelona) - 2020 All You Need to Know Before ...
+snippet: Lovely atmosphere with good music. Nice bar and door staff with friendly service. Would be better if the price was a bit cheaper but some of the best cocktails we had in Barcelona!
+
+REL: 1
+POI Name: Kzen
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Japanese, 
+Snippets:
+title: Kzen, Madrid - Barrio de Salamanca - Restaurant Reviews ...
+snippet: Kzen, Madrid: See 180 unbiased reviews of Kzen, rated 4.5 of 5 on Tripadvisor and ranked #780 of 11,660 restaurants in Madrid.
+title: KZEN, Madrid - Barrio de Salamanca - Fotos, Número de ...
+snippet: Kzen, Madrid: Consulta 180 opiniones sobre Kzen con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°780 de 11.660 restaurantes en Madrid.
+title: Kzen, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Kzen, Madrid: Se 180 objektive anmeldelser av Kzen, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 780 av 11 660 restauranter i Madrid.
+title: Carta - Restaurante Kzen
+snippet: En restaurantekzen.com utilizamos cookies para conseguir la mejor experiencia de navegación en nuestra web, si continuas, asumimos que estás de acuerdo con el uso de las mismas.
+title: Nuestra Carta - Restaurante Kzen
+snippet: En restaurantekzen.com utilizamos cookies para conseguir la mejor experiencia de navegación en nuestra web, si continuas, asumimos que estás de acuerdo con el uso de las mismas.
+title: THE 10 BEST Restaurants Near Kzen in Madrid, Community of ...
+snippet: Restaurants near Kzen, Madrid on Tripadvisor: Find traveler reviews and candid photos of dining near Kzen in Madrid, Spain.
+title: Restaurante Kzen - Home | Facebook
+snippet: Restaurante Kzen - C/ Odonnell, 31, 28009 Madrid, Spain - Rated 4.9 based on 6 Reviews &quot;A+&quot;
+title: KZEN, Madrid - Barrio Salamanca - Photos &amp; Restaurant ...
+snippet: Order takeaway and delivery at Kzen, Madrid with Tripadvisor: See 180 unbiased reviews of Kzen, ranked #760 on Tripadvisor among 11,609 restaurants in Madrid.
+title: Kzen, Madrid - Barrio Salamanca - Photos &amp; Restaurant ...
+snippet: Order food online at Kzen, Madrid with Tripadvisor: See 180 unbiased reviews of Kzen, ranked #778 on Tripadvisor among 11,658 restaurants in Madrid.
+title: KZEN, Madrid - Comentários de restaurantes - Tripadvisor
+snippet: Kzen, Madrid: Veja 180 dicas e avaliações imparciais de Kzen, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 780 de 11.660 restaurantes em Madrid.
+
+REL: 1
+POI Name: El Cortijo
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Peruvian, 
+Snippets:
+title: El Cortijo, Taberna Flamenco, Madrid
+snippet: Restaurante con espectáculo. Flamenco puro en Madrid «A tan solo 15 minutos del corazón de Madrid, Taberna Flamenca El Cortijo esta situado en el barrio más flamenco de la ciudad. Acerca el flamenco de alta calidad a los vecinos y a visitantes de este barrio trayendo a algunos de los artistas flamencos más destacados del momento a su ...
+title: Taberna Flamenca El Cortijo (Madrid) - 2020 All You Need ...
+snippet: Taberna Flamenca El Cortijo admission prices can vary. Entrance tickets currently cost $46.44, while a popular guided tour starts around $27.64 per person. See all 3 Taberna Flamenca El Cortijo tickets and tours on Tripadvisor
+title: Restaurante El Cortijo - El Cortijo, Eventos, Bodas ...
+snippet: Restaurante El Cortijo, Eventos, Catering para Empresas, Menus de Fin de semana,Bodas y Finca para Bodas en Madrid propia, Comuniones, Servicios de Catering a Empresas, Ofertas y Menus adaptados a cada bolsillo.
+title: El Cortijo De Bayron (Madrid, Spania) - Anmeldelser
+snippet: El Cortijo De Bayron, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for El Cortijo De Bayron i Madrid, Spania på Tripadvisor.
+title: Finca El Cortijo de Mónico ⇨ De Grupo Mónico
+snippet: No es fácil encontrar en Madrid una casa de campo con tanto encanto como el Cortijo de Mónico. Está ubicada en Majadahonda donde a pocos kilómetros de la ciudad podréis disfrutar de un increíble entorno campestre.
+title: El Cortijo Lucero - Home - Madrid, Spain - Menu, Prices ...
+snippet: El Cortijo Lucero - CALLE ALMAZÁN 4, 28026 Madrid, Spain - Rated 4.2 based on 10 Reviews &quot;Y el pan pq no lo ponen en los menus o carta?? Comer sin pan es...
+title: El Cortijo, Madrid - C/General Ricardos 168, Vista Alegre ...
+snippet: El Cortijo, Madrid: See 7 unbiased reviews of El Cortijo, rated 4 of 5 on Tripadvisor and ranked #6,242 of 11,660 restaurants in Madrid.
+title: Taberna Flamenca El Cortijo (Madrid, Spania) - Anmeldelser
+snippet: Taberna Flamenca El Cortijo, Madrid: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Taberna Flamenca El Cortijo i Madrid, Spania på Tripadvisor.
+title: AIRSOFT El Cortijo · Madrid · STRM - YouTube
+snippet: Licensed to YouTube by AdRev for a 3rd Party (on behalf of 1998 Music Publishing, ASCAP, Music Et Al, BMI (Spirit Production Music - Audio Horizons)); AdRev Publishing, and 1 Music Rights ...
+
+REL: 1
+POI Name: Areia Chill Out
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Cocktail Bars, 
+Snippets:
+title: AREIA COLONIAL CHILLOUT | Madrid
+snippet: Un local ubicado en pleno centro de Madrid que permite escapar a latitudes mucho más cálidas. Desde hace más de 10 anos Areia cuenta con el apoyo del público, que llena el local para relajarse en sus sillones y camas, disfrutar de su reputada coctelería y escuchar a los mejores DJs de la ciudad.
+title: Areia Chill Out, Madrid - Centro - Restaurant Reviews ...
+snippet: Areia Chill Out, Madrid: See 286 unbiased reviews of Areia Chill Out, rated 4 of 5 on Tripadvisor and ranked #702 of 11,659 restaurants in Madrid.
+title: AREIA CHILL OUT, Madrid - Centro - Updated 2020 Restaurant ...
+snippet: Areia Chill Out, Madrid: See 286 unbiased reviews of Areia Chill Out, rated 4 of 5 on Tripadvisor and ranked #702 of 11,660 restaurants in Madrid.
+title: Areia Chill Out, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Areia Chill Out, Madrid: Se 285 objektive anmeldelser av Areia Chill Out, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 688 av 11 657 restauranter i Madrid.
+title: ENTRA EN AREIA · AREIA COLONIAL CHILLOUT | Madrid
+snippet: Un chill out en el que escapar por unas horas del estrés y diario y el ritmo frenético de la ciudad, relajándose en los diferentes rincones, camas y reservados. Con un té, un café, un batido natural… y una conversación pausada.
+title: Areia Chill Out, Madrid - Centro - Restaurant Avis, Numéro ...
+snippet: Areia Chill Out, Madrid : consultez 286 avis sur Areia Chill Out, noté 4 sur 5 sur Tripadvisor et classé #702 sur 11 660 restaurants à Madrid.
+title: AREIA CHILL OUT, Madrid - Centro - Fotos, Número de ...
+snippet: Areia Chill Out, Madrid: Consulta 286 opiniones sobre Areia Chill Out con puntuación 4 de 5 y clasificado en Tripadvisor N.°702 de 11.660 restaurantes en Madrid.
+title: Areia Chill Out, Madrid - Centro - Restaurant Bewertungen ...
+snippet: Areia Chill Out, Madrid: 281 Bewertungen - bei Tripadvisor auf Platz 715 von 11.575 von 11.575 Madrid Restaurants; mit 4/5 von Reisenden bewertet.
+title: QUÉ HAY ESTA NOCHE · AREIA COLONIAL CHILLOUT | Madrid
+snippet: Acércate a Areia y disfruta de los mejores DJ&#39;s de la ciudad. Aquí tienes la programación completa para estar al tanto de todas las sesiones. House, Funksoul, Freestyle, ... Areia Colonial ChillOut · Calle Hortaleza, 92. Madrid. Metro: Tribunal · Chueca · Alonso Martínez
+title: De 10 beste restaurantene i nærheten av Areia Chill Out
+snippet: Restauranter i nærheten av Areia Chill Out på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Areia Chill Out, Madrid.
+
+REL: 1
+POI Name: BarCo
+POI City: Madrid
+POI Country: ES
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Music Venues, 
+Snippets:
+title: Sala Barco. Sala de conciertos en directo en Madrid
+snippet: Sala Barco. Sala de conciertos en directo en Madrid. Donde vives la música: Blues, Funk, Jazz, Indie, Pop, Rock, Hard Rock, Flamenco y el mejor Clubbing
+title: BarCo (Madrid) - 2020 All You Need to Know BEFORE You Go ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Inspired sight and sharing solutions - Barco
+snippet: Discover how Barco can improve your business with impressive visualization and innovative collaboration solutions. For professional healthcare, enterprise and entertainment environments.
+title: Barco - Nightlife in Madrid - LikeALocal Guide
+snippet: Why you should visit it. Nice bands and musicians and a wide range of genres. Get there early or it might be crowded. The concerts are sometimes free so I recommend to check the website or by the door (they have the monthly program there).
+title: Apartment Calle del Barco (Spania Madrid) - Booking.com
+snippet: Apartment Calle del Barco Dette området passer utmerket for deg som er interessert i tapas, arkitektur og god mat – Sjekk beliggenhet Calle del Barco 41 , Madrid sentrum, 28004 Madrid, Spania – Dette området passer utmerket for deg som er interessert i tapas, arkitektur og god mat – Sjekk beliggenhet Vis kart
+title: Barco rooms, Madrid – Precios actualizados 2020
+snippet: Barco rooms Este barrio es una opción ideal para los viajeros interesados en comer tapas, la arquitectura y la comida – Comprobar la ubicación Calle del Barco 12, Centro de Madrid, 28004 Madrid, España – Este barrio es una opción ideal para los viajeros interesados en comer tapas, la arquitectura y la comida – Comprobar la ubicación Ubicación ideal.
+title: Sala BarCo - Home | Facebook
+snippet: Sala BarCo, Madrid. 15,671 likes · 35 talking about this · 7,489 were here. Sala de conciertos: Jam session de soul, funk, rock, jazz, sesiones de clubbing. Abrimos todos los días de lunes a domingo.
+title: Paco Roncero @ Hard Rock Hotel Ibiza - Barco
+snippet: Since setting up his own restaurant in the center of Madrid in 2000, however, Roncero started using that scientific knowledge to play with more than just taste. In June 2012, he launched Paco Roncero Taller, his personal culinary workshop. Unprecedented emotional experience
+title: El Barco, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: El Barco, Madrid: Se 9 objektive anmeldelser av El Barco, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 8 562 av 11 639 restauranter i Madrid.
+title: Barco Loft i Madrid | Hotels.com
+snippet: Ta en titt på bilder, les anmeldelser fra tidligere gjester og bestill hotell med vår prismatch. Vi vil også fortelle deg om hemmelige tilbud og salg når du registrerer deg for å motta våre e-poster.
+
+REL: 0
+POI Name: Café Central
+POI City: Madrid
+POI Country: ES
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Breakfast & Brunch, Cafeteria, 
+Snippets:
+title: Café Central Madrid | Club de jazz y restaurante en Madrid
+snippet: Café Central Madrid Plaza del Ángel 10. 28012 – 913694143 Todas las noches mezclando la música y la vida en el corazón de Madrid. Programación. Actuaciones cada noche del año. Un concierto diario Desde las 21 h hasta las 23 h. Para contactar con nuestro programador: programacion@cafecentralmadrid.com.
+title: Programación | Café Central Madrid
+snippet: La esencia del Jazz en nuestro país que con sus interpretaciones del flamenco sigue siendo una referencia para cualquier intento de fusionar la música que se considere purista en ambos campos. Se siguen reeditando y estudiando sus discos como el grabado en el Café Central Una noche en el Central (Nueva Década, 1994).
+title: Cafe Central (Madrid) - 2020 All You Need to Know BEFORE ...
+snippet: Madrid hosts many significant landmarks, but ticking them all off when traveling the sprawling metropolis by foot can be a challenge. Hop on board a bicycle and tour the city by two wheels, still getting an intimate experience of popular attractions, such as Plaza Mayor and the Royal Palace, while also covering greater distance than by walking.
+title: Café Central Madrid | Club de jazz y restaurante en Madrid
+snippet: Café Central Madrid Plaza del Ángel 10. 28012 – +34 913694143 Combining music and life every night in the heart of Madrid
+title: EVENT CALENDAR | Café Central Madrid
+snippet: We use cookies to ensure that we provide the best experience on our website. By continuing to navigate through this site, you agree to our use of cookies.
+title: Cafe Central Madrid - YouTube
+snippet: Sign in to like videos, comment, and subscribe. Sign in. Watch Queue Queue
+title: Café Central - Madrid - Home | Facebook
+snippet: Café Central - Madrid, Madrid, m. 20K likes. 1982 - 2018 Café Central Madrid 36 aniversario. Más de 13.000 conciertos. Todas las noches mezclando la música y la vida en el corazón de Madrid.
+title: Contacto | Café Central Madrid
+snippet: La delegada de protección de datos es Etola S.A. que es la empresa que administra el Café Central y cuyo C.I.F. es A-79400321 y tiene su direción en el mismo local que el Central en la Plaza del Ángel 10, Madrid 28012. Sus datos serán conservados mientras esté dado de alta en el e-mailing.
+title: Café Central Madrid | Spotted by Locals
+snippet: I almost never pass up a chance to see some live music, and Madrid has a lot to offer. Café Central has had concerts every single day of the week for the last 36 years – it’s an emblematic venue.
+title: Cafe Central, Ayia Napa - Menu, Prices &amp; Restaurant ...
+snippet: Cafe Central, Ayia Napa: See 201 unbiased reviews of Cafe Central, rated 4.5 of 5 on Tripadvisor and ranked #31 of 185 restaurants in Ayia Napa.
+
+REL: 0
+POI Name: Lucky Dragon
+POI City: Arlington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+
+
+REL: 0
+POI Name: Faborit
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, Breakfast & Brunch, 
+Snippets:
+title: Faborit Fresh Bar: café, zumos y comida saludable
+snippet: Variados ingredientes de primera calidad para que prepares la ensalada que más te apetezca y la aliñes al gusto con nuestros aceites aromatizados. Paninos y wraps preparados a diario para que los disfrutes a cualquier hora del día. Y de postre… fruta o alguna dulce tentación Faborit.
+title: Faborit Fresh Bar, establecimientos en Madrid, Barcelona ...
+snippet: Madrid, Barcelona, Logroño y Alcobendas son ciudades en las que encontrarás nuestros establecimientos Faborit Fresh Bar. Descúbrelos. ¡Te esperamos!
+title: Faborit Plaza de Espana, Madrid - Princesa - Restaurant ...
+snippet: Faborit Plaza de Espana, Madrid: See 186 unbiased reviews of Faborit Plaza de Espana, rated 4 of 5 on Tripadvisor and ranked #1,174 of 11,657 restaurants in Madrid.
+title: Faborit Cortes, Madrid - Centro - Restaurant Reviews ...
+snippet: Faborit Cortes, Madrid: See 148 unbiased reviews of Faborit Cortes, rated 3.5 of 5 on Tripadvisor and ranked #2,440 of 11,660 restaurants in Madrid.
+title: Faborit Plaza de España, Madrid - Restaurantanmeldelser ...
+snippet: Faborit Plaza de España, Madrid: Se 186 objektive anmeldelser av Faborit Plaza de España, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 168 av 11 640 restauranter i Madrid.
+title: Faborit Cuzco, Madrid - Restaurantanmeldelser - Tripadvisor
+snippet: Faborit Cuzco, Madrid: Se 22 objektive anmeldelser av Faborit Cuzco, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 4 998 av 11 659 restauranter i Madrid.
+title: Faborit, Madrid - Calle de Pedro Teixeira 8, Tetuan ...
+snippet: Faborit, Madrid: See 14 unbiased reviews of Faborit, rated 4 of 5 on Tripadvisor and ranked #5,456 of 11,656 restaurants in Madrid.
+title: Faborit Alcala 61, Madrid - Barrio de Salamanca ...
+snippet: Faborit Alcala 61, Madrid: See 113 unbiased reviews of Faborit Alcala 61, rated 4 of 5 on Tripadvisor and ranked #2,442 of 11,650 restaurants in Madrid.
+title: Faborit Chamartín, Madrid - Restaurantanmeldelser ...
+snippet: Faborit Chamartín, Madrid: Se 34 objektive anmeldelser av Faborit Chamartín, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 5 246 av 11 650 restauranter i Madrid.
+title: Beste spisesteder i nærheten av Faborit Cortes, Madrid
+snippet: Restauranter i nærheten av Faborit Cortes på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Faborit Cortes, Madrid.
+
+REL: 0
+POI Name: Artemisa
+POI City: Madrid
+POI Country: ES
+POI Main category: Restaurants and Food
+POI Sub category: Health Markets, 
+Snippets:
+title: Restaurantes Vegetarianos Artemisa
+snippet: Los Restaurantes Vegetarianos Artemisa nacieron en el año 1990 como los primeros restaurantes vegetarianos en Madrid en ofrecer una cocina sana, pero con una elaboración esmerada, marcando de esta manera la diferencia con los locales que ya existían con una opción vegetariana más básica y definiendo el camino a los que vinieron después.
+title: Artemisa Sol - Huertas, Madrid - Restaurantanmeldelser ...
+snippet: Artemisa Sol - Huertas, Madrid: Se 571 objektive anmeldelser av Artemisa Sol - Huertas, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 487 av 11 648 restauranter i Madrid.
+title: Artemisa Sol - Huertas, Madrid - Centro - Menu, Prices ...
+snippet: Artemisa Sol - Huertas, Madrid: See 573 unbiased reviews of Artemisa Sol - Huertas, rated 4 of 5 on Tripadvisor and ranked #486 of 11,660 restaurants in Madrid.
+title: Peluqueria Artemisa (Madrid) - 2019 All You Need to Know ...
+snippet: Get quick answers from Peluqueria Artemisa staff and past visitors.
+title: ARTEMISA SOL - HUERTAS, Madrid - Centro - Menú, Precios y ...
+snippet: Artemisa Sol - Huertas, Madrid: Consulta 573 opiniones sobre Artemisa Sol - Huertas con puntuación 4 de 5 y clasificado en Tripadvisor N.°486 de 11.660 restaurantes en Madrid.
+title: Artemisa Sol-Gran Via, Madrid - Centro - Menu, Prices ...
+snippet: Artemisa Sol-Gran Via, Madrid: See 359 unbiased reviews of Artemisa Sol-Gran Via, rated 4 of 5 on Tripadvisor and ranked #804 of 11,609 restaurants in Madrid.
+title: Restaurante Vegetariano Artemisa Sol - Gran Vía ...
+snippet: Restaurante Vegetariano Artemisa Sol - Gran Vía: vegetariano, vegano y 100% sin gluten Restaurante Vegetariano Artemisa Sol - Gran Vía es un clásico de la comida vegetariana en Madrid desde el año 1990. Te ofrecemos una cocina vegetariana, vegana y sin gluten, apta para celíacos y con opciones para veganos.
+title: Artemisa - Wikipedia, la enciclopedia libre
+snippet: La infancia de Artemisa no está completamente recogida en ningún mito conservado. La Ilíada reducía la figura de la pavorosa diosa a la de una muchacha que, tras haber sido azotada por Hera, buscaba consuelo en el regazo de Zeus. [28] Un poema de Calímaco dedicado a la diosa «que se deleita en las montañas con el arco» imagina algunas escenas encantadoras.
+title: Artemisa - Sol - Madrid, Spain - Yelp
+snippet: Artemisa, how i miss you! They have excellent food and service! the desert and juices are also delicious so if you are a vegetarian you do not want to miss this place! i went there almost every night when i was in madrid!
+title: Centro de Estética y Peluquería en Arganzuela Artemisa
+snippet: Centro de Estética y Peluquería Artemisa Estética Artemisa es un centro de estética y peluquería en Arganzuela que utiliza productos naturales. Elegimos las marcas y productos viendo sus ingredientes, calidad, tolerancia y claro está su eficacia y resultados. Pedimos que su elaboración siga criterios eco-compatible y de sostenibilidad.
+
+REL: 0
+POI Name: Sala X
+POI City: Seville
+POI Country: ES
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Dance Clubs, 
+Snippets:
+title: Sala X Sevilla - Sala de Conciertos / Club de Baile
+snippet: Sala de conciertos y eventos en Sevilla con música en directo y club de baile con sesiones de djs. Artistas nacionales e internacionales de indie - rock.
+title: Eventos archivo - Sala X Sevilla
+snippet: Navegación entre vistas de Eventos Ver como ... Eventos Desde
+title: Sala X (Seville) - 2020 All You Need to Know BEFORE You Go ...
+snippet: Seville, Spain 1,544 contributions 254 helpful votes Intimate live music venue with old and new A little way from the centre, Sala X never fails to surprise and entertain - punk, funk , soul, jazz, rock and roll - Bands from the past and the future, from the US, UK and beyond as well as local bands make for a rich and busy schedule of gigs.
+title: SALA X - 2,977 Photos - Dance &amp; Night Club
+snippet: @[196033178114729:844:The Hangmen en Sala X, Sevilla] concert scheduled for tonight has been CANCELLED due to the current situation Tickets are already returned through official points of sale. Sorry for the inconvenience Meanwhile we leave you a concert of them to kill the worm. #stay home, play and enjoy!
+title: Sala X (Sevilla, Spania) - Anmeldelser - Tripadvisor
+snippet: Sala X, Sevilla: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Sala X i Sevilla, Spania på Tripadvisor.
+title: THE 10 CLOSEST Hotels to Sala X, Seville - Tripadvisor ...
+snippet: Hotels near Sala X, Seville on Tripadvisor: Find 19,471 traveler reviews, 78,044 candid photos, and prices for 30 hotels near Sala X in Seville, Spain.
+title: De 10 beste hotellene i nærheten av Sala X - Tripadvisor
+snippet: Hoteller i nærheten av Sala X, Sevilla: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Sala X på Tripadvisor.
+title: Sala X (Sevilla) - Aktuelle 2020 - Lohnt es sich? (Mit fotos)
+snippet: Etwas abseits vom Zentrum versäumt Sala X immer wieder zu überraschen und zu unterhalten - Punk, Funk, Soul, Jazz, Rock&#39;n&#39;Roll - Bands aus der Vergangenheit und der Zukunft, aus den USA, Großbritannien und darüber hinaus, sowie lokale Bands sorgen dafür ein reichhaltiges …
+title: Sala X (Sevilla) - 2020 Qué saber antes de ir - Lo más ...
+snippet: Un poco lejos del centro, Sala X nunca deja de sorprender y entretener: punk, funk, soul, jazz, rock and roll. Las bandas del pasado y del futuro, de los EE. UU., El Reino Unido y más allá, así como las bandas locales hacen un horario rico y ocupado de conciertos.
+title: Sala X (Seville) - All You Need to Know BEFORE You Go ...
+snippet: Mar 18, 2020 - The best Live Venue in town. Concerts and Dj sessions. Indie, Rock, Reggae, Balkan, Electronic
+
+Cand cities: {'Seville', 'Madrid', 'Arlington', 'Barcelona'}

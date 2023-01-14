@@ -1,0 +1,415 @@
+City: Amsterdam
+Country: NL
+Main category: Active Life
+Sub category: Gyms
+Description: Hi guys, I moved to Amsterdam a month ago and after enjoying a lot of tasty food and not looking after myself properly I think it's time I joined a gym. I'm not a serious gym person but would like somewhere where I can swim and do weights. Just wondering if you fine people had any recommendations. The one I'm looking at is body time. Thanks
+Rated POIs: 43
+Rel distr: [(0, 11), (1, 6), (2, 10), (3, 16)]
+=================================
+REL: 3
+POI Name: Only 4 Ladies
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Fitness Zuidas
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Vondelgym Oost
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Yoga, Boxing, Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Palestra Sports
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Ten Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Vondelgym
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Trainers, Gyms, Boxing, 
+Snippets:
+
+
+REL: 3
+POI Name: SportCity
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Health Club Jordaan
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Great
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Het Marnix
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Swimming Pools, 
+Snippets:
+
+
+REL: 3
+POI Name: HIGH45
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Sport Natural
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Splash Healthclub Leidseplein
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: CrossFit AKA
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Poollokaal De Gracht
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pool Halls, 
+Snippets:
+
+
+REL: 2
+POI Name: TrainMore Amsterdam de Pijp
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: SportPlaza Mercator
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Sports Clubs, Swimming Pools, Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Sportcentrum Universum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Tennis, Sports Clubs, Climbing, 
+Snippets:
+
+
+REL: 2
+POI Name: The Doors Palace
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Lounges, Pool Halls, 
+Snippets:
+
+
+REL: 2
+POI Name: David Lloyd
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Sports Clubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Fit For Free
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Clubsportive Mahler Zuidas
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 1
+POI Name: Deli Company
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Sandwiches, Imported Food, 
+Snippets:
+
+
+REL: 1
+POI Name: STACH
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Do-It-Yourself Food, Specialty Food, 
+Snippets:
+
+
+REL: 1
+POI Name: Pahop Thai
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Steakhouses, 
+Snippets:
+
+
+REL: 1
+POI Name: Restaurant Vinkeles
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+
+
+REL: 1
+POI Name: Final Touch
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pool Halls, 
+Snippets:
+
+
+REL: 1
+POI Name: Concertgebouw
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 0
+POI Name: Mash
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 0
+POI Name: The Poolhole
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pool Halls, Bars, 
+Snippets:
+
+
+REL: 0
+POI Name: Proeflokaal A. van Wees
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, Cafes, 
+Snippets:
+
+
+REL: 0
+POI Name: Rancho
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Argentine, 
+Snippets:
+
+
+REL: 0
+POI Name: Koh-I-Noor
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Surinam Express
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Caribbean, Halal, Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Popeye Coffeeshop
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Coffeeshops, 
+Snippets:
+
+
+REL: 0
+POI Name: San Francisco
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: San Francisco Bar - Zeedijk - Home | Facebook
+snippet: San Francisco Bar - Zeedijk - Zeedijk 40, 1012 AZ Amsterdam, Netherlands - Rated 4.4 based on 39 Reviews &quot;Incredibly rude and unhelpful staff. Had...
+title: $583 Flights from San Francisco to Amsterdam: SJC to AMS ...
+snippet: Flights from San Francisco to Amsterdam Flights from San Francisco to Amsterdam, current page ... United Airlines (UA) will also take you to your destination in comfort. Offering 18 flights per month between San Francisco and Amsterdam, it&#39;s another popular airline to look into. Route Information for Flights from San Francisco to Amsterdam.
+title: Billige flybilletter fra San Francisco internasjonale til ...
+snippet: Finn flyreiser fra San Francisco internasjonale til Amsterdam Schiphol med www.skyscanner.no Vi tilbyr en gratis søketjeneste der du kan billige flybilletter fra alle de store flyselskapene fra San Francisco internasjonale til Amsterdam Schiphol.
+title: $272 - Cheap flights from Amsterdam (AMS) to San Francisco ...
+snippet: Compare &amp; reserve one-way or return flights from Amsterdam to San Francisco from $272 only to get the best flight deals and promotions for your AMS to SFO trip! Skip to main content. Welcome to {{displayDomain}}, a US site operated by Expedia, Inc., a Washington corporation.
+title: Billige flyreiser Amsterdam - San Francisco - Jetcost
+snippet: Med Jetcost, finn billige flybilletter og lavprisbilletter fra Amsterdam til San Francisco med ett klikk: Sammenlign billettprisene til de beste flyselskapene og reisebyråene i løpet av sekunder. Bare velg destinasjonen din og reisedatoene dine for å sammenligne priser på flybilletter fra Amsterdam til San Francisco.
+title: Cheap flights from Amsterdam(AMS) to San Francisco(SFO ...
+snippet: If you’ve been planning a romantic holiday with a partner, itching for an adventurous solo escape to one of the globe’s most fascinating destinations, or just looking to soak up some local history and culture, flights from Amsterdam to San Francisco provide the perfect getaway.
+title: Billige flyreiser San Francisco - Amsterdam - Jetcost
+snippet: Fly San Francisco - Amsterdam: Søk og bestill billige flybilletter fra San Francisco til Amsterdam. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Amsterdam Time to San Francisco Time Converter -- TimeBie
+snippet: Amsterdam Netherlands Time and San Francisco Time Converter Calculator, Amsterdam Time and San Francisco Time Conversion Table.
+title: Fly Amsterdam - San Francisco | AMS - SFO | Expedia.no
+snippet: Når du ser etter fly fra Amsterdam (AMS) til San Francisco (SFO), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Amsterdam til San Francisco.
+title: Amsterdam Hostel i San Francisco | Hotels.com
+snippet: Amsterdam Hostel ligger i sentrum og nær en undergrunnsstasjon i bydelen San Francisco sentrum i San Francisco. Et par populære landemerker er Lombard Street og Pier 39, og hvis du er på utkikk etter morsomme aktiviteter, kan du ta turen til Ferjebygningen og Berkeley Marina. Du kan se om det skjer noe kult på Oracle Park, og hvis du har tid, bør du også få med deg San Francisco ...
+
+REL: 0
+POI Name: Burger Fabriek
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+
+
+REL: 0
+POI Name: Restaurant Dubbel
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, 
+Snippets:
+
+
+REL: 0
+POI Name: Snackbar 't Vogeltje
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, 
+Snippets:
+
+
+Cand cities: {'Amsterdam'}

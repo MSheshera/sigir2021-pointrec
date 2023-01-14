@@ -1,0 +1,734 @@
+City: London
+Country: GB
+Main category: Restaurants and Food
+Description: I want to take my Dad out for a nice meal for a big birthday (really soon). Wondering if anyone can suggest anywhere? He is basically the typical grumpy old man, likes plenty on his plate, no waiters flapping over you (like good service!), no loud music, good ale on tap is a definite bonus and can't cost an arm and leg. It also has to be in walking distance of Charing Cross as he won't use the tube. Pubs or restaurants would be fine as long as they aren't crowded/noisy and meet the above criteria. Any suggestions?
+Rated POIs: 49
+Rel distr: [(0, 6), (1, 7), (2, 25), (3, 11)]
+=================================
+REL: 3
+POI Name: Sartori Restaurant
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+
+
+REL: 3
+POI Name: Mackie's at Taypack
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, 
+Snippets:
+
+
+REL: 3
+POI Name: Steak & Co
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, British, 
+Snippets:
+
+
+REL: 3
+POI Name: Boat House Cafe
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+
+
+REL: 3
+POI Name: McDonald's
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, Burgers, 
+Snippets:
+title: McDonald’s UK: Burgers, Fries, Salads &amp; More. Quality ...
+snippet: Welcome to the official website of McDonald’s UK. Learn more about our menu items, promotions, and much more. This website uses cookies to give you the best online experience. If you&#39;d like to know more or change your settings, our Cookie Policy ...
+title: Restaurant Locator | McDonald’s UK
+snippet: We have taken the difficult decision to close all McDonald&#39;s restaurants in the UK and Ireland by 7pm on Monday 23rd March. This is not a decision we are taking lightly, but one made with the best interests of our employees and customers in mind. We look forward to seeing you all again as soon.
+title: McDonalds, London - Restaurantanmeldelser - Tripadvisor
+snippet: McDonalds, London: Se 163 objektive anmeldelser av McDonalds, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 14 407 av 22 531 restauranter i London.
+title: Our Menu - From Burgers to Breakfasts | McDonald&#39;s UK
+snippet: Discover the McDonald&#39;s Menu, with every one of our meals, snacks, drinks, and more. Discover the McDonald&#39;s Menu, with every one of our meals, snacks, drinks, and more. This website uses cookies to give you the best online experience. If you&#39;d like to know more or change your settings, our ...
+title: McDonald&#39;s Locations: Restaurants Nearby | McDonald&#39;s Canada
+snippet: Find the nearest McDonald&#39;s and get information on restaurant hours, services, and more using our Restaurant Locator. McDonald&#39;s Locations: Restaurants Nearby | McDonald&#39;s Canada 365
+title: McDonald&#39;s: Mer enn bare burgere
+snippet: Denne nettsiden bruker cookies for å gi deg en bedre brukeropplevelse. Om du vil vite mer om hvordan du endrer dine instillinger, finner du det under vår Cookie policy.
+title: Trying British McDonald&#39;s (London, England) - YouTube
+snippet: 50+ videos Play all Mix - Trying British McDonald&#39;s (London, England) YouTube Mix Play all Mix - jasonhorton YouTube Trying McDonald’s Breakfast &amp; Lunch in INDIA - Duration: 8:57.
+title: McDonald&#39;s Menu, Menu for McDonald&#39;s, Waterloo, London
+snippet: McDonald&#39;s Waterloo Menu - View the Menu for McDonald&#39;s London on Zomato for Delivery, Dine-out or Takeaway, McDonald&#39;s menu and prices. McDonald&#39;s Menu
+title: McDonald&#39;s Prices and Locations - Menu With Price
+snippet: McDonald&#39;s latest prices and the whole menu. Taste burgers, chicken, chicken sandwiches, French fries, soft drinks, breakfast, wraps and salads.
+title: Fast Food Prices McDonald&#39;s, Burger King, KFC London 2017
+snippet: The centre of London can be an expensive city and often prices are higher than outside London in regional cities. Fast food price check February 2017 in Earl&#39;s Court Kensington London . Every year, we take note of the prices at McDonald’s, KFC and Burger King in the Earl&#39;s Court hotel district of London.
+
+REL: 3
+POI Name: Quartieri
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: QUARTIERI, London - Updated 2020 Restaurant Reviews ...
+snippet: Reserve a table at Quartieri, London on Tripadvisor: See 84 unbiased reviews of Quartieri, rated 4.5 of 5 on Tripadvisor and ranked #4,464 of 22,464 restaurants in London.
+title: Quartieri, London - Restaurant Reviews, Photos ...
+snippet: Order food online at Quartieri, London with Tripadvisor: See 84 unbiased reviews of Quartieri, ranked #4,487 on Tripadvisor among 22,556 restaurants in London.
+title: Quartieri - Kilburn, London | Bookatable
+snippet: Quartieri Kilburn’s rotating beverage list showcases the finest Italian wines, including the restaurant’s own selection of Quartieri House Wines, as well as an extensive beer selection. Quartieri restaurant is located a mere 1-minute walk from Buckley Road Bus Stop, or a 2-minute walk from Brondesbury Train Station.
+title: Quartieri, London - Restaurant Reviews, Phone Number ...
+snippet: Quartieri, London: See 84 unbiased reviews of Quartieri, rated 4.5 of 5 on Tripadvisor and ranked #4,464 of 22,472 restaurants in London.
+title: Food - Picture of Quartieri, London - Tripadvisor
+snippet: Quartieri, London Picture: Food - Check out Tripadvisor members&#39; 57,666 candid photos and videos of Quartieri
+title: Quartieri - Home - London, United Kingdom - Menu, Prices ...
+snippet: Quartieri - 300 Kilburn High Road, NW6 2DB London, United Kingdom - Rated 4.9 based on 149 Reviews &quot;Been here after few friends recommended me to try...
+title: QUARTIERI, London - Restaurant Reviews, Photos ...
+snippet: Reserve a table at Quartieri, London on Tripadvisor: See 84 unbiased reviews of Quartieri, rated 4.5 of 5 on Tripadvisor and ranked #4,473 of 22,478 restaurants in London.
+title: Quartieri delivery from Kilburn - Order with Deliveroo
+snippet: Quartieri is an authentic Neapolitan pizzeria delivering the classics as well as contemporary pizza flavours. We are all about the ingredients with weekly imported high quality produce direct from Naples. Time Out Love London Award Winner 2018
+title: I migliori 10 quartieri a Greater London - Tripadvisor
+snippet: Quartieri a Greater London: vedi le recensioni e le foto su Tripadvisor di quartieri a Greater London, Inghilterra.
+title: Quartieri - London, | OpenTable
+snippet: Book now at Quartieri in London. Explore menu, see photos and read 1 reviews: &quot;Very good pizza, but terrible service and ambiance unfortunately.&quot;
+
+REL: 3
+POI Name: Whipped London
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Desserts, Coffee & Tea, Ice Cream & Frozen Yogurt, 
+Snippets:
+title: About Us - Whipped Cheesecake. Coffee. Sprinkles. Prepare ...
+snippet: Whipped is a brand new and exciting independent dessert concept just arrived in London! The first of its kind and will offer Londoners an alternative dessert option along with awesome coffee.We have designed a delicious and completely unique range of chilled and frozen whipped cheesecakes. Try our signature cheesecake combinations or builde your own unique creation!
+title: Whipped | Restaurants in Covent Garden, London
+snippet: Whipped is a colourful dessert bar on Drury Lane from Alice Churchill ... I’m leaving London soon and my visits to whipped will be high up on the list of things I will genuinely greatly miss.
+title: Whipped London - 20 Photos - Desserts - 160 Drury Lane ...
+snippet: 4 reviews of Whipped London &quot;Amazing amazing place to come for dessert or something sweet. We got the Honey bee which was whipped cheesecake ( very smooth like mousse) with Graham cracker crumbs and Carmel or brown suggest and then chunks of honey…
+title: Amazing! - Review of Whipped London, London, England ...
+snippet: Whipped London: Amazing! - See 60 traveler reviews, 145 candid photos, and great deals for London, UK, at Tripadvisor.
+title: Best Cheesecakes - Review of Whipped London, London ...
+snippet: Whipped London: Best Cheesecakes - See 59 traveler reviews, 145 candid photos, and great deals for London, UK, at Tripadvisor.
+title: Cheesecake|Coffee|Cookie Dough (@whipped_london) Instagram ...
+snippet: 22.7k Followers, 388 Following, 615 Posts - See Instagram photos and videos from Cheesecake|Coffee|Cookie Dough (@whipped_london)
+title: Amazing - a must visit in London - Review of Whipped ...
+snippet: Whipped London: Amazing - a must visit in London - See 60 traveler reviews, 145 candid photos, and great deals for London, UK, at Tripadvisor.
+title: Whipped London - Home | Facebook
+snippet: Whipped London. 823 likes. Whipped is a brand new dessert and coffee concept! We have reinvented cheesecake with a unique range of chilled and frozen...
+title: Well worth a visit! - Review of Whipped London, London ...
+snippet: Whipped London: Well worth a visit! - See 60 traveler reviews, 145 candid photos, and great deals for London, UK, at Tripadvisor.
+title: Whipping Tom - Wikipedia
+snippet: &quot;Whipping Tom&quot; was the nickname given to two sexual attackers in London and the nearby village of Hackney. Both would attack women walking alone and beat them on the buttocks.
+
+REL: 3
+POI Name: Sweet Joy
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+
+
+REL: 3
+POI Name: Homeslice
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+
+
+REL: 3
+POI Name: Tandoor Chop House
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 3
+POI Name: The Marquis
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Pubs, British, 
+Snippets:
+
+
+REL: 2
+POI Name: Mama Wang's
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+
+
+REL: 2
+POI Name: Kerb Street Food Festival
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+title: KERB | Incubating and accelerating London street food ...
+snippet: Creating a new kind of street food market for London: a curated crew of talented traders, serving exciting menus in the city&#39;s most iconic spaces. KERB makes it happen.
+title: Markets - KERB - The Best of London Street Food
+snippet: Creating a new kind of street food market for London: a curated crew of talented traders, serving exciting menus in the city&#39;s most iconic spaces. KERB makes it happen.
+title: Kerbanists - KERB - The Best of London Street Food
+snippet: Creating a new kind of street food market for London: a curated crew of talented traders, serving exciting menus in the city&#39;s most iconic spaces. KERB makes it happen.
+title: KERB Caters - KERB - The Best of London Street Food
+snippet: Exceptional food for every event. You want to serve the best of London street food at your event? You’ve come to the right place. Because 30 out of Time Out’s 44 ‘Top Street Food Traders in London’ are KERB members, available exclusively to KERB…and you.
+title: About Us - KERB - The Best of London Street Food
+snippet: Creating a new kind of street food market for London: a curated crew of talented traders, serving exciting menus in the city&#39;s most iconic spaces. KERB makes it happen.
+title: JAM ON RYE FESTIVAL 2019 - KERB - The Best of London ...
+snippet: KERB’S JAM ON RYE FESTIVAL! BACK FOR 2019. Last year we threw our first festival on Peckham Rye, bringing together everything we love – from David Rodigan on decks and Reggae Roast hosting the main stage, to a 25 trader KERB street food village and Peckham Levels’ local artists’ tent – and over 4000 of …
+title: These Are The Best Summer 2019 Food Festivals In London ...
+snippet: London food festivals in May 2019 ... Street food company KERB’s Peckham festival is back for its second year, this time headlined by the R&#39;n&#39;B superstar behind hit song Milkshake, Kelis.
+title: Weds 12th February - KERB - The Best of London Street Food
+snippet: Creating a new kind of street food market for London: a curated crew of talented traders, serving exciting menus in the city&#39;s most iconic spaces. KERB makes it happen.
+title: KERB – London’s favourite street food market is at King&#39;s ...
+snippet: KERB speaks. We caught up with food visionary Petra Barran – the lady behind London’s most popular street food collective, to find out what she had to say about KERB King’s Cross and why the two go perfectly together. Petra began in the mobile food business in 2005 trading from Britain’s only dedicated chocolate van, Choc Star.
+title: Food festival guide: The best spring and summer festivals ...
+snippet: Street food market sensation KERB will take over the next day, celebrating the day off with music from reggae, afrobeat and new wave jazz artists, as well as food from some of its trusty street ...
+
+REL: 2
+POI Name: Bombay Bustle
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: Bombay Bustle Indian restaurant Maddox street Mayfair London
+snippet: Bombay Bustle restaurant Maddox street Mayfair London. Bombay Bustle in Mayfair Inspired by the bustling metropolis, Mumbai, Bombay Bustle pays homage to the culture, people, whose expanse of origins from across India have influenced its culinary history.
+title: Find Bombay Bustle restaurant 29 Maddox Street Mayfair W1S ...
+snippet: Find Bombay Bustle restaurant at 29 Maddox Street Mayfair W1S 2PA London
+title: Bombay Bustle, London - Restaurantanmeldelser - Tripadvisor
+snippet: Bombay Bustle, London: Se 388 objektive anmeldelser av Bombay Bustle, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 024 av 22 528 restauranter i London.
+title: Bombay Bustle food drinks menus restaurant in Mayfair London
+snippet: Bombay Bustle food drinks menus restaurant in Mayfair London. Skip to navigation (Press Enter) Skip to main content (Press Enter) toggle menu. toggle menu. Book a ... Food &amp; Drinks. Subscribe to find out more Subscribe. 29 Maddox Street Mayfair W1S 2PA
+title: BOMBAY BUSTLE, London - Mayfair - Updated 2020 Restaurant ...
+snippet: Reserve a table at Bombay Bustle, London on Tripadvisor: See 389 unbiased reviews of Bombay Bustle, rated 4.5 of 5 on Tripadvisor and ranked #1,020 of 22,556 restaurants in London.
+title: A Series of Wellness Brunches at Bombay Bustle Mayfair ...
+snippet: Bombay Bustle: COVID -19 update As with many restaurants around London, we have made the difficult decision to temporarily close our doors at BOMBAY BUSTLE. As always, it has been our top priority to give our guests the best dining experience that we possibly can, and at this time we must take into consideration the safety and wellness of every visitor.
+title: Bombay Bustle - London, | OpenTable
+snippet: Book now at Bombay Bustle in London. Explore menu, see photos and read 576 reviews: &quot;Everything was fantastic. Some of the best food I had in London. Will definitely be going back. The service was great as well&quot;
+title: Bombay Bustle, London - Mayfair - Menu, Prices ...
+snippet: Bombay Bustle, London: See 388 unbiased reviews of Bombay Bustle, rated 4.5 of 5 on Tripadvisor and ranked #1,029 of 22,531 restaurants in London.
+title: Bombay Bustle Restaurant - London, | OpenTable
+snippet: Book now at Bombay Bustle in London. Explore menu, see photos and read 576 reviews: &quot;Everything was fantastic. Some of the best food I had in London. Will definitely be going back. The service was great as well&quot;
+title: Bombay Bustle – Mayfair - a MICHELIN Guide Restaurant
+snippet: Bombay Bustle – a restaurant from the 2020 MICHELIN Guide United Kingdom. The MICHELIN inspectors’ point of view, information on prices, types of cuisine and opening hours on the MICHELIN Guide&#39;s official website
+
+REL: 2
+POI Name: Starbucks
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+
+
+REL: 2
+POI Name: Leon
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Juice Bars & Smoothies, Fast Food, 
+Snippets:
+title: LEON, Naturally Fast Food
+snippet: Why can&#39;t fast food be good food? Our mission is to make it easy for everyone to eat well. &quot;The Future of Fast Food&quot; - The Times
+title: Home - Leon Restaurants
+snippet: LEON near me. Meny. Frokost Lunsj &amp; Middag Kaker &amp; Snacks Kaffe Drikke Barnemeny. Restauranter Delivery Feedback. Meny. Frokost Lunsj &amp; Middag Kaker &amp; Snacks Kaffe Drikke Barnemeny. Restauranter Delivery Feedback Bærekraft Visjon. Visjon Ernæring Grunnleggere. Jobbe med oss Kaffe Personvern Instagram Instagram
+title: Restaurants - Leon Restaurants
+snippet: We could make the obvious joke, but we&#39;re not going to. This site uses cookies. You can read our cookie policy here.
+title: More London - Leon Restaurants
+snippet: LEON More London is situated immediately south-west of Tower Bridge, and boasts a plethora of local sights. Head down to the sunken amphitheatre The Scoop (often used as a performance venue), gaze at Royal Navy museum ship HMS Belfast, take a look at City Hall (and imagine what it’s like to be an Apprentice candidate in the final – Eep!), and try to keep your head at the Tower of London.
+title: All day - Leon Restaurants
+snippet: All day. Served from 11am onwards. We handle all allergens in our kitchen and cannot guarantee our dishes are allergen-free. For allergen information, click and expand the dishes.. And if you want to find out more about our thoughts on food, click here.
+title: Leon London: Rocket Yoga and Fitness Coach; London, UK ...
+snippet: Leon London will welcome you to the world of Rocket. This Immersion is for those intermediate or advanced practitioners, with multiple practices a day, this immersion is design to jump-start your personal practice! There will be an emphasis on the graceful flow and floating aspects of the practice, eliminating heavy landings and bumpy transitions.
+title: Leon&#39;s - Canada&#39;s Leading Furniture Store
+snippet: Leon&#39;s is Canada&#39;s #1 choice for quality furniture online and in stores. Find amazing deals for every room in your home.
+title: Leon Restaurants - Wikipedia
+snippet: Leon is backed by Active Private Equity and, in May 2017, Spice Private Equity became a major investor to support further global expansion plans. Restaurants. By 2015 Leon had 57 restaurants, and in June 2016 the first Leon outside England opened in Amsterdam.
+title: Billige flyreiser Leon - London - Jetcost
+snippet: Tilbud på flybilletter fra Leon til London. Sammenlign priser på flybilletter fra Leon til London og finn flybilletten din til lav pris. Med Jetcost, finn billige flybilletter og lavprisbilletter fra Leon til London med ett klikk: Sammenlign billettprisene til de beste flyselskapene og reisebyråene i løpet av sekunder.
+title: LEON - Home | Facebook
+snippet: And abundance of other non vegan dishes also present, one would have liked to see the restaurant keep its best and healthiest vegan dish on the menu. It also removed some other vegan choices. (Those that remained are not that good unfortunately or have good protein/carb balance). The &#39;Leon dream&#39; ended with that visit!
+
+REL: 2
+POI Name: Horn Ok Please
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+
+
+REL: 2
+POI Name: Prezzo
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+
+
+REL: 2
+POI Name: Leon
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Mediterranean, Fast Food, 
+Snippets:
+title: LEON, Naturally Fast Food
+snippet: Why can&#39;t fast food be good food? Our mission is to make it easy for everyone to eat well. &quot;The Future of Fast Food&quot; - The Times
+title: Home - Leon Restaurants
+snippet: LEON near me. Meny. Frokost Lunsj &amp; Middag Kaker &amp; Snacks Kaffe Drikke Barnemeny. Restauranter Delivery Feedback. Meny. Frokost Lunsj &amp; Middag Kaker &amp; Snacks Kaffe Drikke Barnemeny. Restauranter Delivery Feedback Bærekraft Visjon. Visjon Ernæring Grunnleggere. Jobbe med oss Kaffe Personvern Instagram Instagram
+title: Restaurants - Leon Restaurants
+snippet: We could make the obvious joke, but we&#39;re not going to. This site uses cookies. You can read our cookie policy here.
+title: More London - Leon Restaurants
+snippet: LEON More London is situated immediately south-west of Tower Bridge, and boasts a plethora of local sights. Head down to the sunken amphitheatre The Scoop (often used as a performance venue), gaze at Royal Navy museum ship HMS Belfast, take a look at City Hall (and imagine what it’s like to be an Apprentice candidate in the final – Eep!), and try to keep your head at the Tower of London.
+title: All day - Leon Restaurants
+snippet: All day. Served from 11am onwards. We handle all allergens in our kitchen and cannot guarantee our dishes are allergen-free. For allergen information, click and expand the dishes.. And if you want to find out more about our thoughts on food, click here.
+title: Leon London: Rocket Yoga and Fitness Coach; London, UK ...
+snippet: Leon London will welcome you to the world of Rocket. This Immersion is for those intermediate or advanced practitioners, with multiple practices a day, this immersion is design to jump-start your personal practice! There will be an emphasis on the graceful flow and floating aspects of the practice, eliminating heavy landings and bumpy transitions.
+title: Leon&#39;s - Canada&#39;s Leading Furniture Store
+snippet: Leon&#39;s is Canada&#39;s #1 choice for quality furniture online and in stores. Find amazing deals for every room in your home.
+title: Leon Restaurants - Wikipedia
+snippet: Leon is backed by Active Private Equity and, in May 2017, Spice Private Equity became a major investor to support further global expansion plans. Restaurants. By 2015 Leon had 57 restaurants, and in June 2016 the first Leon outside England opened in Amsterdam.
+title: Billige flyreiser Leon - London - Jetcost
+snippet: Tilbud på flybilletter fra Leon til London. Sammenlign priser på flybilletter fra Leon til London og finn flybilletten din til lav pris. Med Jetcost, finn billige flybilletter og lavprisbilletter fra Leon til London med ett klikk: Sammenlign billettprisene til de beste flyselskapene og reisebyråene i løpet av sekunder.
+title: LEON - Home | Facebook
+snippet: And abundance of other non vegan dishes also present, one would have liked to see the restaurant keep its best and healthiest vegan dish on the menu. It also removed some other vegan choices. (Those that remained are not that good unfortunately or have good protein/carb balance). The &#39;Leon dream&#39; ended with that visit!
+
+REL: 2
+POI Name: West Cornwall Pasty Co
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, 
+Snippets:
+
+
+REL: 2
+POI Name: Isarn
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Saint Espresso
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+title: Saint Espresso | Neighbourhood Cafés &amp; Coffee Roasters
+snippet: Saint Espresso started with a simple aim, to bring excellent coffee to the local neighbourhood in a beautiful setting, with top, friendly service. We invested in the best equipment and well-trained, experienced staff to ensure we serve consistently great coffee.
+title: Angel | Saint Espresso | Neighbourhood Cafés &amp; Coffee Roasters
+snippet: Angel, Islington Angel House, 26-30 Pentonville Rd. Where the coffee takes centre stage. Located in the buzzing Angel Islington, our first Saint Espresso cafe broke boundaries in local coffee shop design, creating an environment described by The Telegraph as &quot;an instagrammer&#39;s dream, with austere, graphic interiors bathed in light streaming through the floor to ceiling windows.&quot;
+title: Saint Espresso, London - London NW1 5RT 214 Baker St ...
+snippet: Saint Espresso, London: See 17 unbiased reviews of Saint Espresso, rated 4 of 5 on Tripadvisor and ranked #9,684 of 22,556 restaurants in London.
+title: Baker Street | Saint Espresso | Neighbourhood Cafés ...
+snippet: When we&#39;re not hanging out at Saint Espresso Baker Street, we&#39;re: taking our coffee out for a stroll around Regents Park, a haven of peace and serenity in the heart of London. taking a stroll around the neighbourhood, eying up the prime real estate and historic London buildings.
+title: Store | Saint Espresso | Neighbourhood Cafés &amp; Coffee Roasters
+snippet: Saint Espresso x Saint Coffee Roasters Tote Bag. 14.00. Saint Coffee Roasters - Black 6 Panel Cap
+title: SAINT ESPRESSO, London - 26 Pentonville Rd, Clerkenwell ...
+snippet: Saint Espresso, London: See 63 unbiased reviews of Saint Espresso, rated 4 of 5 on TripAdvisor and ranked #7,063 of 22,311 restaurants in London.
+title: Saint Espresso &amp; Kitchen, London - Restaurant Reviews ...
+snippet: Saint Espresso &amp; Kitchen, London: See 30 unbiased reviews of Saint Espresso &amp; Kitchen, rated 4 of 5 on Tripadvisor and ranked #6,730 of 22,510 restaurants in London.
+title: Saint Espresso - Islington - London, United Kingdom - Yelp
+snippet: Saint Espresso is a small coffee shop located on a busy road though the cute decor makes you forget that just a few feet away is one of the busiest roads in London. There are only a few tables in this tiny shop but if you visit off-peak, you should have no issues finding anywhere to sit, after all, they don&#39;t offer wifi, so there are no loiterers like myself pounding away on laptops.
+title: SAINT ESPRESSO &amp; KITCHEN, London - Updated 2020 Restaurant ...
+snippet: Saint Espresso &amp; Kitchen, London: See 30 unbiased reviews of Saint Espresso &amp; Kitchen, rated 4 of 5 on Tripadvisor and ranked #6,746 of 22,556 restaurants in London.
+title: Saint Espresso &amp; Kitchen London | Spotted by Locals
+snippet: Saint Espresso &amp; Kitchen – Coffee near Camden Last checked: Mar 14th, 2020 | By: Peter Clayburn Many London visitors know Camden, and with good reason, but few of them escape the crowds by venturing the few hundred yards up the road to Kentish Town.
+
+REL: 2
+POI Name: You Doughnut
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Donuts, 
+Snippets:
+
+
+REL: 2
+POI Name: Pizza Express
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+
+
+REL: 2
+POI Name: Top Taste
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, 
+Snippets:
+title: Top Taste - London - Chinese - www.toptaste-e2.co.uk
+snippet: Best Chinese (for want of a better description because they serve great regional dishes) food in the area, I’d go so far to say it’s better than some of the fancier places around Spitalfields -. service was impeccable - the drink was forgotten but restaurant was very apologetic and immediately sent the driver to buy my drink from a local shop. love this place!
+title: Top Taste Chinese Restaurant, London ...
+snippet: Top Taste Chinese Restaurant, London: Se 7 objektive anmeldelser av Top Taste Chinese Restaurant, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 15 535 av 22 557 restauranter i London.
+title: Top Taste Menu, Menu for Top Taste, Bethnal Green, London ...
+snippet: Top Taste Bethnal Green Menu - View the Menu for Top Taste London on Zomato for Delivery, Dine-out or Takeaway, Top Taste menu and prices. Top Taste Menu
+title: The World&#39;s Greatest Food Festival in London | Taste of London
+snippet: The world&#39;s greatest food festivals, in London. Join us at the ultimate foodie paradise 17-21 June 2020 in Regent’s Park &amp; 19-22 November 2020 at Tobacco Dock.
+title: TOP TASTE, London - Updated 2020 Restaurant Reviews ...
+snippet: Top Taste, London: See unbiased reviews of Top Taste, rated 5 of 5 on Tripadvisor and ranked #15,442 of 22,556 restaurants in London.
+title: Top Taste, LONDON | Caribbean Restaurants - Yell
+snippet: Find Top Taste in LONDON, N19. Get contact details, videos, photos, opening times and map directions. Search for local Caribbean Restaurants near you on Yell.
+title: Top Taste Caribbean Cuisine &amp; Grill restaurant menu in ...
+snippet: View the full menu from Top Taste Caribbean Cuisine &amp; Grill in London SW18 1DY and place your order online. Wide selection of Caribbean food to have delivered to your door.
+title: THE 10 BEST Restaurants in London - Updated April 2020 ...
+snippet: Best Dining in London, England: See 3,052,034 Tripadvisor traveler reviews of 24,004 London restaurants and search by cuisine, price, location, and more.
+title: Top 10 British Foods to Try in London | Free Tours by Foot
+snippet: Top 10 British Foods to Try in London. Below is our list of 10 traditional British foods that you need to try when you are in London, including a few places where you can taste them.
+title: TOP TASTE CHINESE RESTAURANT, London - Restaurant Reviews ...
+snippet: Top Taste Chinese Restaurant, London: See 7 unbiased reviews of Top Taste Chinese Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #15,516 of 22,532 restaurants in London.
+
+REL: 2
+POI Name: Thai Pot
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Wine Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: White Mulberries
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+
+
+REL: 2
+POI Name: Le Kitchen
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Food Delivery Services, 
+Snippets:
+title: De 10 beste restaurantene i London - Tripadvisor
+snippet: Beste restauranter i London, England: Se anmeldelser fra reisende og bilder av spisesteder i London, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Forsiden - Kitchn.no
+snippet: Denne uka har vi tilbud som passer både til hjemmekos og ut på tur. Tilbudene gjelder kun på kitchn.no t.o.m. 19. april. Klikk HER for å se alle våre kampanjer og nyheter.
+title: Le Kitchen Divas - London, United Kingdom | Facebook
+snippet: Le Kitchen Divas, London. 786 likes. Le Kitchen Divas is a catering company that offers Afro Caribbean and Oriental delicacies at highest possible...
+title: Le Kitchen Divas - London, United Kingdom | Facebook
+snippet: Le Kitchen Divas, London. 786 likes. Le Kitchen Divas is a catering company that offers Afro Caribbean and Oriental delicacies at highest possible...
+title: African Corporate Caterers | London | Le Kitchen Divas
+snippet: Welcome . Le Kitchen Divas evolved from a very humble background and it has grown organically into its present form. We have an unquestionable passion for what we do and we offer a flawless service.
+title: Le Kitchen Divas - London, United Kingdom | Facebook
+snippet: Le Kitchen Divas, London. 790 likes · 1 talking about this. Le Kitchen Divas is a catering company that offers Afro Caribbean and Oriental delicacies at highest possible quality levels.
+title: Le Cordon Bleu London Culinary School, Wine &amp; Management
+snippet: At Le Cordon Bleu London, you will be inspired to develop your passion for the culinary arts, wine and management under the direction of our chef instructors and lecturers.Our Le Cordon Bleu Master Chefs are both classically trained and qualified teachers, whilst our lecturers contribute a wealth of knowledge gained through years of experience in both education and the hospitality industry.
+title: Le Gavroche - The Restaurant
+snippet: Le Gavroche 43 Upper Brook Street London W1K 7QR Tel: 020 7408 0881 / 020 7499 1826
+title: Le Kitchen - London Fields - 2 tips from 26 visitors
+snippet: See 11 photos and 2 tips from 26 visitors to Le Kitchen. &quot;EVERYTHING is delicious, generous and super great value for money. Staff is FRIENDLY. ... le kitchen london photos • le kitchen london location • le kitchen london address • le kitchen london • cafe coco london •
+title: Aubergine (London restaurant) - Wikipedia
+snippet: Aubergine was a restaurant in Chelsea, London. Owned by A-Z Restaurants, it was opened under chef Gordon Ramsay in 1993. Aubergine was awarded two Michelin stars in 1997, which it held until Ramsay left the restaurant in July 1998 following the sacking of Marcus Wareing from sister restaurant L&#39;Oranger.
+
+REL: 2
+POI Name: Lidl
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+
+
+REL: 2
+POI Name: Cafe Etape
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Sandwiches, 
+Snippets:
+
+
+REL: 2
+POI Name: Herman Ze German
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: German, 
+Snippets:
+
+
+REL: 2
+POI Name: Randys Wing Bar
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Chicken Wings, American (Traditional), 
+Snippets:
+title: Randy&#39;s Wing Bar | American-style wings are the speciality ...
+snippet: Randy’s was formed from a mutual love of chicken wings and strong family bond. The Randy’s duo, Andy &amp; Emma have embarked on a mission to bring the best selection of gourmet chicken wings to London and the UK. They have two restaurants in London, their flagship in Here East, Hackney Wick and their new Tower Bridge spot on Minories.
+title: Randy&#39;s Wing Bar Tower Hill (Aldgate) - Book restaurants ...
+snippet: Award winning, world renowned chicken wing restaurant and bourbon bar offering the finest selection of high end American dining in London. Please note any groups of 12 or more may not be seated together however we will do our best to accommodate requests. Any groups of over 21 guests, please contact the venue.
+title: Randy&#39;s Wing Bar (Tower Bridge), London - Whitechapel ...
+snippet: Randy&#39;s Wing Bar (Tower Bridge), London: See 70 unbiased reviews of Randy&#39;s Wing Bar (Tower Bridge), rated 4 of 5 on Tripadvisor and ranked #6,271 of 22,556 restaurants in London.
+title: Randy&#39;s Wing Bar Hackney Wick - Book restaurants online ...
+snippet: Randy&#39;s Wing Bar Hackney Wick restaurant in London. StreetFoodStyle restaurant cuisine. See 230 visitor reviews! Rated 4.6/5 stars! Book Online at Randy&#39;s Wing Bar Hackney Wick with ResDiary.
+title: Menus | Randy&#39;s Wing Bar
+snippet: This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website.
+title: Randy&#39;s Wing Bar - Menu, Prices, Restaurant Reviews | Facebook
+snippet: Randy&#39;s Wing Bar. 2.6K likes. London&#39;s Original Wing Bar Award Winning Wings 磊 Voted No1 Wing Restaurant in Europe! 磊Scored 10/10 by Buzzfeed “Kings of Wings” by Squaremeal Hackney Wick Tower...
+title: Randy&#39;s Wing Bar | Restaurants in Aldgate, London
+snippet: No one goes to Fenchurch Street to hang out. It’s just one massive thoroughfare, which is a shame because just off it is the lip-smacking second outpost of chicken specialist Randy’s Wing Bar.
+title: Randy&#39;s Wing Bar: Chicken wings, Hackney, London
+snippet: Is this London’s first restaurant dedicated to chicken wings? We’re not sure, but Rich and Andy from Randys Wing Bar in Hackney at least caught our attention with their ‘beak to wing’ signature dishes. There’s the traditional North American Buffalo Wing (fried, tossed in buffalo sauce with truffle blue cheese) spicy Bombay wings and Hanoi Tuk Tuk – an intriguing wing, fried in ...
+title: Randy’s Wing Bar - City - London - The Infatuation
+snippet: Randy’s is a casual spot for getting dirty with some fairly messy wings, Add a couple of your pals and several of their Kentucky juleps in to the mix, and you’ve got yourself a party. The wings are prepared in imaginative sauces, for example, the Casablanca wings, which are infused with harissa, and served with pomegranate seeds and a mint dressing.
+title: Randys Wing Bar Delivery | London | Uber Eats
+snippet: Randys Wing Bar has a FHRS rating of 4. This information was updated on 15/03/2020. The current rating is on their page on the FSA Website.Allergies, intolerances and dietary requirements: Before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs.
+
+REL: 2
+POI Name: The Chandos
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Pubs, British, 
+Snippets:
+
+
+REL: 2
+POI Name: Tesco Express
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+
+
+REL: 2
+POI Name: Kerridges Bar and Grill
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: British, 
+Snippets:
+
+
+REL: 2
+POI Name: Leon
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, 
+Snippets:
+title: LEON, Naturally Fast Food
+snippet: Why can&#39;t fast food be good food? Our mission is to make it easy for everyone to eat well. &quot;The Future of Fast Food&quot; - The Times
+title: Home - Leon Restaurants
+snippet: LEON near me. Meny. Frokost Lunsj &amp; Middag Kaker &amp; Snacks Kaffe Drikke Barnemeny. Restauranter Delivery Feedback. Meny. Frokost Lunsj &amp; Middag Kaker &amp; Snacks Kaffe Drikke Barnemeny. Restauranter Delivery Feedback Bærekraft Visjon. Visjon Ernæring Grunnleggere. Jobbe med oss Kaffe Personvern Instagram Instagram
+title: Restaurants - Leon Restaurants
+snippet: We could make the obvious joke, but we&#39;re not going to. This site uses cookies. You can read our cookie policy here.
+title: More London - Leon Restaurants
+snippet: LEON More London is situated immediately south-west of Tower Bridge, and boasts a plethora of local sights. Head down to the sunken amphitheatre The Scoop (often used as a performance venue), gaze at Royal Navy museum ship HMS Belfast, take a look at City Hall (and imagine what it’s like to be an Apprentice candidate in the final – Eep!), and try to keep your head at the Tower of London.
+title: All day - Leon Restaurants
+snippet: All day. Served from 11am onwards. We handle all allergens in our kitchen and cannot guarantee our dishes are allergen-free. For allergen information, click and expand the dishes.. And if you want to find out more about our thoughts on food, click here.
+title: Leon London: Rocket Yoga and Fitness Coach; London, UK ...
+snippet: Leon London will welcome you to the world of Rocket. This Immersion is for those intermediate or advanced practitioners, with multiple practices a day, this immersion is design to jump-start your personal practice! There will be an emphasis on the graceful flow and floating aspects of the practice, eliminating heavy landings and bumpy transitions.
+title: Leon&#39;s - Canada&#39;s Leading Furniture Store
+snippet: Leon&#39;s is Canada&#39;s #1 choice for quality furniture online and in stores. Find amazing deals for every room in your home.
+title: Leon Restaurants - Wikipedia
+snippet: Leon is backed by Active Private Equity and, in May 2017, Spice Private Equity became a major investor to support further global expansion plans. Restaurants. By 2015 Leon had 57 restaurants, and in June 2016 the first Leon outside England opened in Amsterdam.
+title: Billige flyreiser Leon - London - Jetcost
+snippet: Tilbud på flybilletter fra Leon til London. Sammenlign priser på flybilletter fra Leon til London og finn flybilletten din til lav pris. Med Jetcost, finn billige flybilletter og lavprisbilletter fra Leon til London med ett klikk: Sammenlign billettprisene til de beste flyselskapene og reisebyråene i løpet av sekunder.
+title: LEON - Home | Facebook
+snippet: And abundance of other non vegan dishes also present, one would have liked to see the restaurant keep its best and healthiest vegan dish on the menu. It also removed some other vegan choices. (Those that remained are not that good unfortunately or have good protein/carb balance). The &#39;Leon dream&#39; ended with that visit!
+
+REL: 1
+POI Name: The London Beer House
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Local Flavor, Pubs, 
+Snippets:
+
+
+REL: 1
+POI Name: Boyds Grill & Wine Bar
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Steakhouses, 
+Snippets:
+
+
+REL: 1
+POI Name: Aquadrome
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Lakes, 
+Snippets:
+
+
+REL: 1
+POI Name: The Duke of Cornwall
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 1
+POI Name: Secret Cinema
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, 
+Snippets:
+
+
+REL: 1
+POI Name: Uncorked Theatre
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Jazz & Blues, Cabaret, 
+Snippets:
+
+
+REL: 1
+POI Name: K. S. Food And Wine
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Internet Cafes, 
+Snippets:
+title: Is it Safe to Eat at K S Food And Wine in Wallington ...
+snippet: K S Food And Wine was last inspected by Food Safety Officers from Sutton Council on Wed 18 Apr 2018 and was awarded a Food Safety Score of 4 (Good). In Wallington Greater London SM6 9AY. K S Food And Wine on Stafford Road is in the town of Wallington in the county of Greater London within the area of Sutton council. Last updated 28th March 2020.
+title: K S Food, London | Grocers &amp; Convenience Stores - Yell
+snippet: Find K S Food in London, WC2H. Get contact details, videos, photos, opening times and map directions. Search for local Grocers &amp; Convenience Stores near you on Yell.
+title: K S Food &amp; Wine, 35 Charing Cross Road, London ...
+snippet: K S Food &amp; Wine, 35 Charing Cross Road, London - Convenience Stores near Leicester Square Tube Station - All In London
+title: K S Food &amp; Wine - Miscellaneous Shop in London
+snippet: 10 visitors have checked in at K S Food &amp; Wine. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: K R FOOD AND WINE Delivery | London | Uber Eats
+snippet: Use your Uber account to order delivery from K R FOOD AND WINE in London. Browse the menu, view popular items, and track your order.
+title: T S K Food &amp; Wine, London | Off Licences - Yell
+snippet: Find T S K Food &amp; Wine in London, SW11. Get contact details, videos, photos, opening times and map directions. Search for local Off Licences near you on Yell.
+title: The London Women Behind the U.K.&#39;s Most ... - Food &amp; Wine
+snippet: Food and Wine presents a new network of food pros delivering the most cookable recipes and delicious ideas online. ... The London Women Behind the U.K.&#39;s Most Exciting Food Movement
+title: Food &amp; Wine Magazine | Recipes, Menus, Chefs, Wine ...
+snippet: Food &amp; Wine Magazine | Recipes, Menus, Chefs, ... Food and Wine presents a new network of food pros delivering the most cookable recipes and delicious ideas ... London&#39;s Prosecco &#39;ATMs&#39; Aren&#39;t ...
+title: Luxury Food &amp; Wine | Harrods.com
+snippet: Shop luxury Food &amp; Wine at Harrods and earn Rewards points, in-store and online.
+title: London prices - food prices, beer prices, hotel prices ...
+snippet: London is popular throughout the year, as it’s not dependent on pleasant weather to draw visitors. The months of June through August bring the biggest crowds and the highest hotel prices, so if you are planning on a visit during the summer months it’s a good idea to book as early as possible.
+
+REL: 0
+POI Name: Pimlico Gardens
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Pimlico - Wikipedia
+snippet: Pimlico (/ ˈ p ɪ m l ɪ k oʊ /) is an area of Central London in the City of Westminster, built as a southern extension to neighbouring Belgravia. It is known for its garden squares and Regency architecture.It is demarcated to the north by Victoria Station, and bounded by the River Thames to the south, Vauxhall Bridge Road to the east and the former Grosvenor Canal to the west.
+title: Pimlico Gardens - SW1.London
+snippet: The statue was originally intended for Liverpool Customs House, for which it proved too large and it was subsequently erected at the Royal Exchange in the City of London, and eventually moved to Pimlico Gardens 1915. The statue was described by Sir Osbert Sitwell as “boredom rising from the bath”.
+title: Pimlico Gardens - Parks &amp; Gardens
+snippet: Pimlico Gardens is situated by the River Thames at the southern end of St George&#39;s Square. This small riverside park is laid out with trees and grass, and has seating and a drinking fountain. John Gibson&#39;s marble statue of 1836 of William Huskisson MP, the first railway fatality, was erected here…
+title: Westminster City Council Parks — Parks — Pimlico Gardens
+snippet: Welcome to Pimlico Gardens This is a small Thames-side park with river frontage along its whole length. It consists of a very simple layout with grass, mature London Plane trees and statues.
+title: Pimlico Garden House, London – Updated 2020 Prices
+snippet: Pimlico Garden House This neighbourhood is a great choice for travellers interested in shopping, parks and city walks – Check location 132 Alderney St The Garden House, Westminster Borough, London, SW1V 4HA, United Kingdom – This neighbourhood is a great choice for travellers interested in shopping, parks and city walks – Check location Show map
+title: The Pimlico Gardens - StayBeyond
+snippet: Right in the heart of Pimlico only a short walk away from Victoria station, the neighbourhood offers great coffee shops, restaurants, bars and shops. Sloane Square and the Kings Road are not far and with the tube a few steps away, you have easy access to anywhere in London and can walk to most areas of central London in under 25 minutes. Amenities
+title: Churchill Gardens - Wikipedia
+snippet: Churchill Gardens is a large housing estate in the Pimlico area of Westminster, London.The estate was developed between 1946 and 1962 to a design by the architects Powell and Moya, replacing Victorian terraced houses extensively damaged during the Blitz.. Comprising 1,600 homes in 32 blocks, the estate is notable as the only housing project completed under the ambitious Abercrombie Plan to ...
+title: Veeve - Pristine by Pimlico Gardens, London – Updated 2020 ...
+snippet: Veeve - Pristine by Pimlico Gardens is situated in the Westminster Borough district of London, 1.
+title: Pimlico Gardens - What&#39;s On - visitlondon.com
+snippet: PIMLICO GARDENS GROSEVNOR ROAD London SW1V 3JY Is Pimlico Gardens your ... London &amp; Partners is the official promotional agency for London. We promote London and attract businesses, events, congresses, students and visitors to the capital.
+title: Pimlico Gardens - Battersea - London, United Kingdom
+snippet: 1 review of Pimlico Gardens &quot;A tiny little green space along the Thames in Pimlico which I didn&#39;t know was there until recently walking past. Definitely the sort of park that is great for a picnic or a relaxing pause on a bench, as opposed to the…
+
+REL: 0
+POI Name: Absolute Studios
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Pilates, Trainers, Cycling Classes, 
+Snippets:
+title: Absolute Studios
+snippet: Whilst the studio is temporarily closed (due to Covid-19), our mission to help everybody Move, Look and Feel Better continues. Classes are still on! We know it’s an uncertain time at the moment and now more than ever our clients are telling us they need a form of exercise that helps them rebalance their bodies, challenge themselves and ultimately improve their health (both physical and mental).
+title: Absolute Studios London - Cylex UK
+snippet: Absolute Studios, London, opening hours, Discover your body&#39;s key stabilising muscles and learn how to incorporate them into your day-to-day movements
+title: Absolute Studios, London | Pilates - Yell
+snippet: Find Absolute Studios in London, SW6. Get contact details, videos, photos, opening times and map directions. Search for local Pilates near you on Yell.
+title: Absolute Dance - Home
+snippet: &quot; Absolute Dance is a not-for-profit organization run by parents and volunteers. Our prices are often up to half the cost of other dance studios! Absolute Dance offers recreational and competitive dance instruction to both boys and girls in a variety of dance and performance disciplines.
+title: Absolute Studios: Read Reviews and Book Classes on ClassPass
+snippet: Absolute dynamic reformer classes are a brilliant fusion of the best aspects of Pilates, strength and conditioning and circuit training disciplines. We combine the key Pilates principles of precise movement, control and core muscle activation, amongst others, with functional strength promoting exercises. This ensures that not only do you get leaner, stronger and more balanced, but you also ...
+title: Absolute Studios Parsons Green, Services Available In ...
+snippet: Boutique Dynamic Reformer Pilates and Fitness Studio based in Parsons Green. Absolute Pilates is a boutique fitness studio based in Parsons Green and is fast becoming THE reformer pilates studio of West London! Specialising in one of the most talked about workouts of the moment-Reformer Pilates! Favoured by celebrities for its rapid and very visible results, Reformer Pilates is a versatile and ...
+title: Thank you! — Absolute Studios
+snippet: Home About Us Timetable Prices Pilates Success Stories Login About Us Timetable Prices Pilates Success Stories Login
+title: Absolute Dance - Dance Studio - London, Ontario - 17 ...
+snippet: Absolute Dance - 22425 Jefferies Road Unit #9, London, Ontario N0L1R0 - Rated 4.5 based on 17 Reviews &quot;Absolute dance is a wonderful little gem in the...
+title: Absolute Studios - Parsons Green - London, United Kingdom
+snippet: 1 review of Absolute Studios &quot;I&#39;m still a fan as I still think this is a wonderful studio.. until I took their spin class this past Tuesday night. There were a lot of nice touches like really small studio so it feel very intimate, candlelit class…
+title: Studios | Absolute Music
+snippet: absolute music studios. Our Bournemouth-based recording studio is run by experienced engineers with prices starting at a very reasonable £40 per hour! We offer all kinds of services, from recording band demos to our STUDIO STAR experience, ideal for family get-togethers or birthday bashes.
+
+REL: 0
+POI Name: Cork & Bottle
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Wine Bars, 
+Snippets:
+
+
+REL: 0
+POI Name: Benk Bo
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Yoga, Bakeries, 
+Snippets:
+
+
+REL: 0
+POI Name: The Harp
+POI City: London
+POI Country: GB
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 0
+POI Name: Bumpis Big Adventure
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Kids Activities, 
+Snippets:
+
+
+Cand cities: {'London'}

@@ -1,0 +1,1170 @@
+City: Montreal
+Country: CA
+Main category: Active Life
+Sub category: Skydiving
+Description: Hey! I have been dreaming of getting my licence for four years now but I have not been in the financial position to do so. As a recovering student, I am now able to afford my licence and would love to know if anybody has a recommendation for a skydiving academy in the Montreal region. Thanks a bunch! 
+Rated POIs: 44
+Rel distr: [(0, 18), (1, 14), (2, 8), (3, 4)]
+=================================
+REL: 3
+POI Name: Parachutisme Atmosphair
+POI City: Lévis
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Skydiving, 
+Snippets:
+
+
+REL: 3
+POI Name: Wudang Martial Arts School
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Specialty Schools, Sporting Goods, Martial Arts, 
+Snippets:
+title: internal style - WuDang Martial Art and Qi Gong Center
+snippet: Wudang Internal must suspend its activities. for 2 weeks from Monday 16th, 2020. Sorry for the inconvenience. Thank you for your collaboration. Hai Yang . Located in Montreal, we are teaching original and authentic Chinese internal style of martial arts (Kung Fu), including Xing Yi, Tai Chi and Ba Gua in the traditional way.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Wudang-Martial-Arts-School in Montreal QC | YellowPages.ca™
+snippet: Locate and compare Wudang-Martial-Arts-School in Montreal QC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.
+title: Martial Arts | China | Wudang Wushu
+snippet: Study Traditional Martial Arts in Wudangshan, ... Join us in Wudang and experience Daoist Martial Arts right from the roots. Master Yuan Xiu Gang. Wudangshan Daoist Traditional Kungfu Academy. TaiChi Lake Shan Shui Jie Wudang Mountain, Hubei Province Shiyan City, China 442714. School : (0086)13597886695.
+title: About the School | Wudang Daoist Kungfu Academy
+snippet: Wudang Daoist Martial Arts Academy is a kungfu school located high up in Wudang ... About the School . ... There are many kungfu schools in Mt. Wudang. As a Taoist kungfu school we receive foreign students every year and we are dedicated to offering authentic Wudang kungfu classes for those who journey over the world to seek the true ...
+title: Wudang-Martial-Arts-School - Montreal, Quebec - Sports ...
+snippet: Wudang-Martial-Arts-School, Montreal, Quebec. 5 likes. Sports &amp; Recreation. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: Password: Forgot account? Explore local businesses on Facebook. Sign up for Facebook today to discover local businesses near you.
+title: Learning the traditional Wudang Sanfengpai Martial Arts ...
+snippet: Master Chen Shiyu (15th generation San Feng lineage) is the founder and chief instructor at the Wudang Daoist Martial Arts Academy. Read more. Study Traditional Content. The Wudang Daoist Martial Arts Academy features all doctrines of the San Feng lineage. Read more. Visit Plan Your Trip.
+title: Wudang-Martial-Arts-School in Anjou Montreal QC ...
+snippet: Locate and compare Wudang-Martial-Arts-School in Anjou Montreal QC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.
+title: Wudang Sanfeng Martial Arts School - YouTube
+snippet: Wudang sanfeng Martial Arts School was established in 1993 by Master You Xuande, the 14th generation descendant of the Wudang Clan, and was later restructured by the 15th generation descendants ...
+title: Wudang Wudao -武当悟道- - Home | Facebook
+snippet: Martial Arts School. American Wudang. Education. Wudang Hongdao Kung Fu School. Travel Agency. Five Immortals Temple. ... Wudang Arts, Oxford, UK. Pages Businesses Education School Wudang Wudao -武当悟道-English ... Keep warm post-training this winter with an organic cotton and recycled polyester Wudang Wudao hoodie.
+
+REL: 3
+POI Name: Essentrics Studio
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Dance Studios, 
+Snippets:
+title: Essentrics Studio- Montréal Flaghship Studio of Esmonde ...
+snippet: Essentrics is based on eccentric strengthening which stretches the muscles then strengthens them in the elongated position creating a lean toned body. Essentrics™ is intended to make the waist thinner, the stomach flatter, the legs leaner and the butt toned, leaving the entire body more flexible and agile.
+title: Essentrics Studio
+snippet: Flagship studio of Essentrics. Essentrics is based on eccentric strengthening which stretches the muscles then strengthens them in the elongated position creating a lean toned body. Essentrics is intended to make the waist thinner, the stomach flatter, the legs leaner and the butt toned, leaving the entire body more flexible and agile.
+title: Essentrics Studio- Montreal Flaghship Studio of Esmonde ...
+snippet: Essentrics is based on eccentric strengthening which stretches the muscles then strengthens them in the elongated position creating a lean toned body. Essentrics™ is intended to make the waist thinner, the stomach flatter, the legs leaner and the butt toned, leaving the entire body more flexible and agile.
+title: www.essentricsstudio.com
+snippet: Flagship studio of Essentrics. Essentrics is based on eccentric strengthening which stretches the muscles then strengthens them in the elongated position creating a lean toned body. Essentrics is intended to make the waist thinner, the stomach flatter, the legs leaner and the butt toned, leaving the entire body more flexible and agile.
+title: Essentrics - STUDIO ÉQUILIBRE
+snippet: Les cours peuvent être utilisés pour n&#39;importe quel cours (Essentrics, Pilates au sol, Reformer, Barre Fitness, Yoga...) dans n&#39;importe lequel de nos 4 studios. Vous pouvez suivre tous les cours que vous désirez, ne pas venir une semaine, venir plus souvent la semaine suivante.
+title: Essentrics Studio Humanix – Studio spécialisé en Technique ...
+snippet: Avec Essentrics, les muscles sont sollicités en douceur et en profondeur. Si certaines postures ressemblent à celle du Yoga à prime abord, vous remarquerez qu’à l’inverse de ce dernier, on ne tient pas de position statique. ... STUDIO HUMANIX, ENTRAINEMENT HUMANIX 2019.
+title: Dynamic Stretch Workout | Essentrics
+snippet: ESSENTRICS TV Stream 300+ workouts on your computer, smartphone, tablet or TV. Get access to our full collection of Classical Stretch and Essentrics workouts, health challenges, exclusive content, documentaries and more.
+title: Essentrics Studio- Montreal Flaghship Studio of Esmonde ...
+snippet: FLAGSHIP STUDIO &amp; ESSENTRICS ®. The ESSENTRICS ® technique is based on the concept of eccentric muscle contractions, which strengthen the muscles in the lengthened position. This type of muscle activation increases tension on the muscles as they lengthen, creating a long, lean and toned physique, helping to relieve aches and pains and to prevent injuries.
+title: Essentrics Studio Montreal - Home | Facebook
+snippet: Essentrics Studio Montreal, Montreal, QC. 1,928 likes · 1 talking about this. The MAA now runs the Essentrics® Studio space; Essentrics classes are still offered. | Le Club Sportif MAA offre toujours...
+title: Horaire et tarifs – Essentrics Studio Humanix
+snippet: Essayez ESSENTRICS ® . Vous pouvez vous joindre à notre groupe en tout temps. Téléphonez-nous au préalable et selon la disponibilité, présentez-vous 15 minutes avant le cours au Studio Humanix situé au 1300 Henri-Bourassa Est à Montréal.
+
+REL: 3
+POI Name: Parachutisme Adrénaline
+POI City: Saint-Jérôme
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Skydiving, 
+Snippets:
+
+
+REL: 2
+POI Name: Kung-Fu Sil Lum Hung Gar
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Martial Arts, 
+Snippets:
+title: Kung Fu montreal - Hong Kung Fu Montreal
+snippet: Hong Sil Lum Hung Gar Kung Fu, Montreal Oldest Sil Lum Hung Gar Kung Fu, Taught by Masters Sifu Hong
+title: HONG SIL LUM HUNG GAR - HOME
+snippet: HONG SIL LUM HUNG GAR. HOME Hung Gar Style Tai Chi History Class Schedule Promotion Media Contact Established in Montreal since 1983 372 St Catherine W., Suite 111 Place des Arts Tel : (514) 879-1533. Discover the Sil Lum Hung Gar Style (Shaolin Kung Fu) Develop your ... Hung Gar Kung-Fu was developed through observation and imitation of ...
+title: Hong Kung Fu Sil Lum Hung Gar - Home | Facebook
+snippet: Hong Kung Fu Sil Lum Hung Gar - 372 St Catherine W., Suite 111, Montreal, Quebec H3B 1A2 - Rated 4.8 based on 17 Reviews &quot;I have been a part of this...
+title: HONG SIL LUM Hung Gar Kung Fu 34th Annual Show , Montreal ...
+snippet: Montreal&#39;s traditional Southern Shaolin Hung Kuen called &quot;SIL LUM HUNG GAR&quot; (Five Animals Form) Kung Fu style school for 34 years by both Masters HONG . We also offer HONG traditional TAI CHI kuen ...
+title: Drunken style _ Sil Lum Hung Gar Montreal 2017 - YouTube
+snippet: SIL LUM HUNG GAR 34th Annual Kung Fu show , Montreal 2017. Phong Vuong
+title: History - HONG SIL LUM HUNG GAR
+snippet: Presently, the Kung-Fu Sil-Lum Hung-Gar School has many dedicated and loyal students dating back to the 1980s. Some of the senior students are teaching in different cities across Canada and even in different countries. The new generation of Hung-Gar students will continue to train in the Hung-Gar tradition to carry on the legacy of Sil-Lum Hung ...
+title: Sil Lum Kung Fu and Tai Chi Academy
+snippet: Sil Lum Kung Fu and Tai Chi Academy. If you think you have what it takes and want to get away from the mundane &quot;going to the gym&quot; or &quot;dance class&quot;, then give us a call or stop in at the school and challenge both your body and your mind. 509 Pittston Ave., 3rd floor Scranton, PA 18505 Contact The Sifu 570-479-4089
+
+REL: 2
+POI Name: Ecole Angelo Dibella Karate & Kickboxing
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Kickboxing, 
+Snippets:
+title: Di Bella Kickboxing School – Montreal, Quebec
+snippet: CARDIO KICKBOXING. Classes For Every Skill Level. LEARN KICKBOXING. Best Coaches In The Country. BLACK BELT FIGHTERS. Train hard everyday ©ANGELO DI BELLA KICKBOXING 2015 | WEB &amp; GRAPHIC DESIGN BY 23MEDIA.CA ...
+title: Team Di Bella KickBoxing Martial Arts - Home | Facebook
+snippet: Team Di Bella KickBoxing Martial Arts, Vector. 719 likes. Martial Arts School. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: ... Montreal, Quebec H1H 5G6. Get Directions +1 514-387-5425. Contact Team Di Bella KickBoxing Martial Arts on Messenger.
+title: ANGELO DI BELLA | Di Bella Kickboxing School – Montreal ...
+snippet: Shihan Angelo Di Bella received his black belt 1st Dan at the young age of 12. Although he continued his Martial Arts training for many years that followed and still does, as the years passed, his love for boxing and his lack of interest in point fighting lead him to pursue Kickboxing.
+title: Ecole Angelo DiBella Karaté &amp; Kickboxing - Horaire d ...
+snippet: Numéro de téléphone, site web, adresse et heures d&#39;ouverture de Ecole Angelo DiBella Karaté &amp; Kickboxing – Montréal à QC - Écoles et cours d&#39;arts martiaux et d&#39;autodéfense.
+title: Ecole Angelo DiBella Karaté &amp; Kickboxing - Hours &amp; Reviews ...
+snippet: Ecole Angelo DiBella Karaté &amp; Kickboxing, Health clinic in Montréal, Québec, 9620 Boulevard Saint-Michel, Montréal, QC H1H 5G6 – Hours of Operation &amp; Customer Reviews.
+title: Ecole Angelo DiBella Karaté &amp; Kickboxing in Montréal, QC
+snippet: Company description Ecole Angelo DiBella Karaté &amp; Kickboxing offers Clubs &amp; Organizations services in Montreal, QC area. To get more details you can call us on (514) 387-5425.
+title: Ecole Angelo DiBella Karaté &amp; Kickboxing - Opening Hours ...
+snippet: Ecole Angelo DiBella Karaté &amp; Kickboxing - Montréal - phone number, website, address &amp; opening hours - QC - Martial Arts Lessons &amp; Schools.
+title: Ecole Angelo Dibella Karate &amp; Kickboxing - Montreal, QC ...
+snippet: Get information, directions, products, services, phone numbers, and reviews on Ecole Angelo Dibella Karate &amp; Kickboxing in Montreal, undefined Discover more Amusement Services companies in Montreal on Manta.com
+title: 514-387-5425: Ecole Angelo DiBella Karate &amp; Kickboxing ...
+snippet: Ecole Angelo DiBella Karate &amp; Kickboxing 514-387-5425, Martial Arts in Montreal, 9620, Boulevard Saint-Michel - Opening times, address, phone number
+title: Ecole Angelo DIBELLA Karate &amp; Kickboxing in Montreal, QC ...
+snippet: Learn more about Ecole Angelo DIBELLA Karate &amp; Kickboxing | Montreal, QC. Find directions and contact info, read reviews and browse photos on their 411 business listing.
+
+REL: 2
+POI Name: Sino-Wushu Academy
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Tai Chi, Chinese Martial Arts, Qi Gong, 
+Snippets:
+title: Sino Wushu Academy: a Taichi, Qigong, KungFu, Wushu School ...
+snippet: Closure of Academy: till May 1, 2020! We closed all classes till May 1, 2020 depending on government requirement, due to the covid-19 virus outbreak, Please check the website regularly for updates! Sorry for any inconvenience, Stay safe and take care.
+title: Downtown, Montreal - Sino Wushu Academy: a Taichi, Qigong ...
+snippet: The training hall is huge with high ceiling equiped with professional carpet. It is very convenient to go to this branch which is located by the side of Metro (Place-d&#39;Armes) in Downtown. Cities and regions covered: Downtown Montreal, Ville-Marie, Westmount, Mont-Royal, Outremont, Cote-des-Neiges, Rosemont etc.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Schedule - Sino Wushu Academy: a Taichi, Qigong, KungFu ...
+snippet: There are different programs and schedules in many branches in different cities and areas, like Ottawa, Vaudreuil-Dorion, West Island, Montreal, South Shore etc. Detail schedules are showed below. Branches: Ottawa, Brossard , Montreal Downtown, Pointe-Claire, Lachine, St-Lazare etc.
+title: Ottawa - Sino Wushu Academy: a Taichi, Qigong, KungFu ...
+snippet: ﻿In Ottawa branch, you may find classes of Chen&#39;s Taichi (orginal one of all other styles of Taichi) and Qigong which is one of Chinese Wellness Exercise involving relaxed breathing, gentle movements or poses and quiet mind to cultivate and strengthen the internal energy (Qi/Chi) of our body
+title: Brossard - Sino Wushu Academy: a Taichi, Qigong, KungFu ...
+snippet: In this area, south shore of Montreal, we provide classes of Chen&#39;s Taichi and Push Hands, a traditional original style of all the other kinds of Taichi. After you learn and excercise every day, you can relax your body and mind easily. Depending on you level, you may choose a right class with specific level to join. Parking is free.
+title: Sino-Wushu Academy - Posts | Facebook
+snippet: Sino-Wushu Academy, Montreal, QC. 1,785 likes · 7 talking about this. Sino-Wushu Academy in Montreal is a Chinese Martial Arts school. The program contains internal and external styles, like Wushu,...
+title: Sino-Wushu Academy, Montreal, QC (2020)
+snippet: Sino-Wushu Academy in Montreal is a Chinese Martial Arts school. The program contains internal and external styles, like Wushu, Kung Fu and Tai Chi etc. Sino-Wushu Academy is located in Montreal, Canada, to teach Chinese Martial Arts, Wushu, Jet Li style, self-defence, Kung Fu and Taichi.
+title: Lachine - ipage.sinowushuacademy.com
+snippet: Chen&#39;s Taichi class is suitable for all ages. Taichi Push Hands is designed for feeling the Qi, and understanding internal style application. Free parking and comfortable...
+title: Sino-Wushu Academy - Home | Facebook
+snippet: Sino-Wushu Academy, Montreal, QC. 1,797 likes. Sino-Wushu Academy in Montreal is a Chinese Martial Arts school. The program contains internal and external styles, like Wushu, Kung Fu and Tai Chi etc.
+
+REL: 2
+POI Name: Luna Yoga
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Luna Yoga Montreal | Jivamukti, Yoga Flo, Teacher Training
+snippet: Luna Yoga is a yoga studio located in Old Montreal, offering Yoga Flo and Jivamukti yoga classes that incorporate asana, meditation, vinyasa flow, music, awareness, philosophy and chanting.
+title: Schedule &amp; Staff — Luna Yoga Montreal | Jivamukti, Yoga ...
+snippet: This 10-month, 250-hour teacher training in the Luna Yoga Flo (or vinyasa-based) style incorporates a practical approach to yoga philosophy, history and mythology, with a strong emphasis on applying the teachings to a modern-day setting.
+title: Workshops &amp; Events — Luna Yoga Montreal | Jivamukti, Yoga ...
+snippet: Yoga + Barre with Jennifer Silver Sunday, April 26th, 2020, 2:00 - 3:30pm. An invigorating 90 minute class that incorporates 45 minutes of Ballet and Pilates inspired moves that stretch, tone and sculpt followed by a 45 minute gentle yoga flow practice. $5 per yogi who attends this class will go to the Jewish General Hospital Foundation.
+title: Luna Yoga - Home | Facebook
+snippet: Luna Yoga, Montreal, QC. 7,431 likes · 50 talking about this · 1,453 were here. Luna Yoga is a Montreal based studio offering Yoga Flo &amp; Jivamukti classes + Teacher Training + Workshops &amp; Retreats.
+title: Contact &amp; location — Luna Yoga Montreal | Jivamukti, Yoga ...
+snippet: Contact information, location, message, comments. 231 St. Paul West, Suite 200 Montréal, Québec Canada H2Y 2A2 Telephone: (514) 845-1881
+title: Luna Yoga (@lunayogamtl) • Instagram photos and videos
+snippet: 1,643 Followers, 576 Following, 2,275 Posts - See Instagram photos and videos from Luna Yoga (@lunayogamtl)
+title: Horaire &amp; Professeurs — Luna Yoga Montreal | Jivamukti ...
+snippet: Notre formation professorale de yoga de style Luna Yoga Flo est d’une durée de 250 heures repartie en 10 mois. Inspirée du yoga vinyasa, cette formation présente une approche pratique à la philosophie, l’histoire et la mythologie du yoga, avec un accent sur l&#39;application moderne des enseignements traditionnels.
+title: Luna Yoga | YogaMontreal | Old Montreal Griffintown, QC
+snippet: Luna Yoga. Founded in 2003, Luna Yoga is an environmentally-conscious, community-based yoga studio nestled in the heart of Old Montreal. Offering active and dynamic Yoga Flo &amp; Jivamukti classes, the studio houses a calm and welcoming atmosphere in which students are encouraged to explore and discover their yoga path.
+title: Luna Yoga, 231 Saint Paul Rue O Suite 200, Montreal, QC (2020)
+snippet: Luna Yoga is a Montreal based studio offering Yoga Flo &amp; Jivamukti classes + Teacher Training + Workshops &amp; Retreats. Luna Yoga&#39;s unique approach to yoga incorporates peace and joy into a dynamic and active Vinyasa practice. This invigorating and challenging flow encourages openness with constant breath awareness, an overall sense of bliss and peace, and a deep connection to the earth
+
+REL: 2
+POI Name: Festival Eurêka!
+POI City: Montreal
+POI Country: CA
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: La plus grande fête de sciences au Québec ... - Eureka!
+snippet: Parce que trois jours ne suffisent pas pour faire rayonner la science de chez nous, le Festival Eurêka! déploie ses ailes et développe présentement un volet à l’année!Surveillez les nouveautés en nous visitant régulièrement!
+title: La plus grande fête de sciences au Québec ... - Eureka!
+snippet: Due to the COVID-19 pandemic, the Eurêka! Festival has been postponed to JUNE 2021. more information here. Three days of fun with over 100 FREE outdoor activities for the whole family! At the Montreal Old Port
+title: Festival Eurêka! - programmation
+snippet: Consultez programmation du Festival Eurêka! Bombes de semence. Présenté par: Fonds mondial pour la nature Canada (WWF-Canada)
+title: Festival Eurêka! - Home | Facebook
+snippet: Festival Eurêka!, Montréal. 9.5K likes. La plus grande fête de science au Québec! Prochaine édition: 12, 13, 14 juin 2020! Activités gratuites! --- The biggest science festival in Québec! Next...
+title: Festival Eureka, Montreal 2018 - YouTube
+snippet: Science festival in Montreal (Canada, Quebec) at the Old Port, 2018. Science festival in Montreal (Canada, Quebec) at the Old Port, 2018. ... Festival Eureka, Montreal 2018 Tatiana Mueller ...
+title: Horaires et accès - Eureka!
+snippet: En raison de la situation liée à la pandémie de COVID-19, la prochaine édition du Festival Eurêka! est reportée à JUIN 2021. ACCÈS. Le Festival Eurêka! a lieu au Vieux-Port de Montréal, près du Centre des sciences, entre le Grand Quai et le Quai Jacques-Cartier.
+title: THE 10 CLOSEST Hotels to Festival Eureka!, Montreal ...
+snippet: Hotels near Festival Eureka!, Montreal on Tripadvisor: Find 37,274 traveler reviews, 50,578 candid photos, and prices for 30 hotels near Festival Eureka! in Montreal, Quebec.
+title: Eureka festival 2019 | Old Port of Montréal
+snippet: This free event offers a variety of original activities, developed and delivered by passionate people. It is an invitation to discover, experiment, exchange and reflect on technological, social and environmental issues that are faced collectively. During the Festival, the general public is invited to meet with researchers, engineers, technicians, students etc.Thanks to interactive activities ...
+title: Festival Eurêka! | Tourisme Montréal
+snippet: Trois jours de plaisir et de découvertes scientifiques et une foule d’activités gratuites. Plus d’une centaine d’activités interactives originales développées par des passionnés de science et de technologie. Rencontrez des scientifiques allumés lors de démonstrations, d&#39;ateliers et de spectacles. Posez des questions, échangez, créez, rêvez et rigolez avec eux.
+title: Eurêka! Festival | Montréal Old Montréal - Vieux-Port ...
+snippet: Eurêka! Festival. The biggest science celebration in Québec! Eurêka! is an outdoor science extravaganza in the Old Port of Montreal. Eurêka! features over a hundred fun activities for all ages:
+
+REL: 2
+POI Name: Parc du Mont-Royal
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Mount Royal in Montréal: Come Visit, Help or Volunteer ...
+snippet: Activities in Mount Royal Park Experience this spectacular outdoor setting in a whole new way thanks to unique activities inspired by the seasons. Les amis de la montagne invites both young and old to enjoy this great urban park and learn more about its conservation.
+title: Parc du Mont-Royal Reviews | U.S. News Travel
+snippet: Parc du Mont-Royal is ranked #4 out of 15 things to do in Montreal. See pictures and our review of Parc du Mont-Royal.
+title: Mount Royal - Wikipedia
+snippet: The mountain is the site of Mount Royal Park (French: Parc du Mont-Royal), one of Montreal&#39;s largest greenspaces. The park was originally designed by Frederick Law Olmsted (who also co-designed New York City&#39;s Central Park) and was inaugurated in 1876, although not completed to his design.
+title: Ville de Montréal - Réseau des grands parcs - Fiche Parc
+snippet: Règlements des grands parcs. Pour en prendre connaisance: Connaissez-vous les règlements des grands parcs?
+title: Mount Royal Park (Montreal) - 2020 All You Need to Know ...
+snippet: When you drive into mount royal park at night, it takes you about ten minutes to reach the parking lot at the top, where you can see the whole Montreal city at night. I went there last Christmas, and when I went up there, I remember a little raccoon going through the trash can …
+title: Le mont Royal: à visiter, à protéger et à aimer - Les amis ...
+snippet: Activités dans le parc du Mont-Royal Découvrez de nouvelles façons de visiter ce magnifique espace extérieur grâce à des activités uniques, peu importe la saison! Les amis de la montagne vous invitent à profiter de ce grand parc urbain et à en apprendre plus sur sa conservation!
+title: Parc du Mont-Royal - Montreal, Quebec - Mountain | Facebook
+snippet: Continuing with the series of the week about Montreal (Canada), today I&#39;m going to talk about a wonderful tourist point in the city, parc du Mont-Royal, one of the biggest symbols in the city and possibly originated He is so charming because he was created by the same architect responsible for New York Central Park. .
+title: Parc du Mont-Royal — Wikipédia
+snippet: Le parc du Mont-Royal se situe du côté Ouest. À ce niveau, outre le monument Cartier, on retrouve le kiosque Mordecai Richler et le Quartier général du Service de sécurité incendie de Montréal. La Côte Placide se rend jusqu&#39;à l&#39;avenue du Mont-Royal et la voie Camilien-Houde avant de bifurquer et
+title: Parc du Mont-Royal - Portail officiel
+snippet: Parc du Mont-Royal. Situé dans Ville-Marie. Adresse. 1260, chemin Remembrance Montréal (Québec) H3H 1A2. Voir la carte. Heures d&#39;ouverture. Horaire. En raison de la situation critique qui sévit actuellement et afin de protéger la population contre la propagation du coronavirus, certains sentiers et les stationnements sont actuellement fermés.
+title: The 10 Best Parc du Mont-Royal Restaurants (Montreal)
+snippet: Parc du Mont-Royal Restaurants - Montreal, Quebec: See 1,741 Tripadvisor traveler reviews of 1,741 restaurants in Montreal Parc du Mont-Royal and search by cuisine, price, and more.
+
+REL: 2
+POI Name: Vie En Forme
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Trainers, 
+Snippets:
+title: Gym Vie En Forme - Fitness Life Gym - Home | Facebook
+snippet: Gym Vie En Forme - Fitness Life Gym - 680 Rue. St- Catherine Oest, Montreal, Quebec H3B 1A2 - Rated 3 based on 55 Reviews &quot;You will find stupid one work...
+title: Vie En Forme in Montréal, QC - fyple.ca
+snippet: Vie En Forme offers Gyms services in Montreal, QC area. To get more details you can call us on (514) 871-1111.
+title: vie-en-forme in Montreal QC | YellowPages.ca™
+snippet: Locate and compare vie-en-forme in Montreal QC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.
+title: Vie En Forme - Ville-Marie - Montreal, QC - Yelp
+snippet: 3 reviews of Vie En Forme &quot;This is a women only gym club. Pros: The location is central, very easy to access. Its very cheap, about 150$ for a year, which is very decent for a gym. Many great work-out courses to choose from. Cons: Most of the…
+title: Vie en Forme - Gym in Montréal - Foursquare
+snippet: See 2 tips from 44 visitors to Vie en Forme. &quot;Meilleur prix en ville mais tout a rénover. Les ames sensibles prendront la douche chez eux&quot; Gym in Montréal, QC. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Vie en forme - Entraînement - Montréal
+snippet: Signaler une erreur sur cette page. Merci de votre participation. Des milliers de Québécois pourront bénéficier de votre contribution. Si vous êtes le responsable de ce service, vous pouvez compléter votre inscription afin d&#39;obtenir un profil détaillé (logo, site Web, description complète, etc.) ainsi qu&#39;un positionnement prioritaire dans le répertoire Index Santé.
+title: Vie-En-Forme à Montreal QC | PagesJaunes.ca(MC)
+snippet: Sous la rubrique Vie-En-Forme à Montreal QC, des Pages Jaunes, découvrez et comparez rapidement les informations et les coordonnées des entreprises locales qui s&#39;y trouvent.
+title: FitnessCA - Clinique de Perte de Poids et Entraînement ...
+snippet: Avec votre abonnement annuel la Vie En Forme et Fitness Life Gym Montréal, vous avez accès illimité à notre salle d&#39;entraînement, tous nos cours de groupe, les vestiaires et douches. Notre salle de d&#39;entraînement est mixte, comportant 2 salles d&#39;appareils de musculation et une gamme complète d&#39;appareils cardiovasculaires.
+title: Vie En Forme, Montréal QC | Ourbis
+snippet: Vie En Forme; EDIT THIS PROFILE REPORT AN ERROR CLAIM OWNERSHIP OF LISTING. Vie En Forme. 372 Rue Sainte-Catherine Ouest Montréal, QC H3B 1A2 514-871-1111. ADD TO ADDRESS BOOK. Profile. Vie En Forme offers these services: gym, studio, fitness, exercise, fitness training.
+title: Bras, Panties, Lingerie, Swimwear and Pyjamas | la Vie en Rose
+snippet: Free standard shipping is offered on all online orders of $50 or more, shipped within Canada. Shipping costs will automatically be deducted at checkout from all eligible orders, after applicable discounts and before taxes.
+
+REL: 2
+POI Name: Square Phillips
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Hôtel Montréal - Chambres au Centre-ville | Le Square Phillips
+snippet: Le. Square Phillips Hôtel &amp; Suites. Un séjour à l’hôtel Square Phillips représente le confort, le luxe et le bien-être. L’hôtel se distingue d’abord et avant tout grâce à sa réputation d’institution de qualité dans le centre-ville de Montréal, en plus d’offrir la proximité à des établissements de grande renommée.
+title: Hotel in Montreal - Rooms Downtown | Le Square Phillips
+snippet: Square Phillips Hotel &amp; Suites. A visit at the Square Phillips hotel means comfort, luxury and well-being. The hotel is mostly renowned thanks to its immaculate name in the industry. Square Phillips hotel is quality establishment in downtown Montreal that offers proximity to famous attractions only a few steps away.
+title: 1 Square Phillips Condo – MONTRÉAL’S TALLEST RESIDENTIAL TOWER
+snippet: 1 Square Phillips will be built between Place Phillips and Saint Alexandre streets, in the block bordered by Sainte Catherine Street and René Lévesque Boulevard, an important crossroads between the business district, Montreal’s shopping district, McGill University and Place des Festivals.
+title: Phillips Square - Wikipedia
+snippet: Phillips Square (French: square Phillips) is a public square located in downtown Montreal, Quebec, Canada.It is named for Thomas Phillips, a building contractor and city councillor who bought the land from fur trader Joseph Frobisher.Phillips died in 1842 and the land the square sits on was donated by his widow to be used as a perpetual memorial to her husband.
+title: Montreal Downtown Accommodation - Rooms | Le Square Phillips
+snippet: Located in the heart of downtown Montreal you will find Le Square Phillips Hotel &amp; Suites, an historical building from famed architect Ernest Cormier which was completely transformed in 2003 to become one of Montreal most popular hotel.
+title: 1 Square Phillips
+snippet: 1 Square Phillips is proud to sponsor Diving Canada and support the development of our athletes. Project 61 storeys in the sky. 498 prestigious units ranging from 365 to 3,500 sq. ft. Experience and admire Montréal from above! Common areas. Highly distinguished spaces. Condominiums.
+title: 1 Square Phillips | Nouveau projet de condos à Montréal
+snippet: 1 Square Phillips est fière de s’associer à Plongeon Canada et de soutenir le développement de nos athlètes. Projet 61 étages dans les nuages. 498 unités de prestige de 365 à 3 500 pieds carrés. Pour vivre et contempler Montréal – de très haut. Espaces communs.
+title: 1 Square Phillips | MONTREAL
+snippet: montreal, square phillips, canada. 1 Square Phillips is a new condo development by Brivia Group currently in preconstruction at 1201 Place Phillips, Montréal.
+title: Le Square Phillips Hotel &amp; Suites, Montreal - TripAdvisor
+snippet: Now $107 (Was $̶1̶2̶3̶) on Tripadvisor: Le Square Phillips Hotel &amp; Suites, Montreal. See 2,656 traveler reviews, 1,269 candid photos, and great deals for Le Square Phillips Hotel &amp; Suites, ranked #14 of 169 hotels in Montreal and rated 4.5 of 5 at Tripadvisor.
+title: Home - 1 Square Phillips | New Condo Project In Downtown ...
+snippet: 1 Square Phillips is for who ? 1, Square Phillips for residents who are seeking a lively, hip experience of downtown Montreal and its entertainment district, while enjoying an intimate, private setting. Upon entering the interior garden, a true oasis in the heart of the project, you’ll be filled with a feeling of calm.
+
+REL: 1
+POI Name: Centre Communautaire Roussin
+POI City: Pointe-aux-Trembles
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Community Centers, Recreation Centers, Venues & Event Spaces, 
+Snippets:
+title: Roussin | LA DESTINATION Loisirs
+snippet: 12125, rue Notre-Dame Est, Montréal (Québec) H1B 2Y9 info@centre-roussin.org 514 645-4519: Contactez-nous HEURE D&#39;OUVERTURE DU CENTRE Lundi au vendredi : 6 h 30 à 22 h
+title: Centre communautaire Roussin, 12125 rue Notre-Dame, Pointe ...
+snippet: Le Centre communautaire Roussin est situé à la pointe Est de l&#39;Île de Montréal dans un bâtiment patrimonial datant de 1907. Sa vocation s’est transformée avec le temps, mais il est aujourd’hui un milieu de vie communautaire et un centre de loisirs dynamique et convivial pour chaque personne qui le fréquente.
+title: 50+ - centre-roussin.org
+snippet: Vous voilà fin prêt pour profiter pleinement de la retraite et utiliser le temps qui vous convient à développer des amitiés précieuses sans oublier d’entretenir et améliorer votre condition physique et mentale! Les activités offertes aux 50 ans et plus par le Centre communautaire Roussin vous permettront de réaliser tout cela.
+title: Roussin | Location de salles - centre-roussin.org
+snippet: La salle de spectacle Marie-Claire et Richard Séguin du Centre communautaire Roussin dispose de 212 places. Climatisée, son environnement est très agréable. Les sièges sont confortables et la salle est accessible aux personnes à mobilité réduite. Elle offre le confort recherché pour tous les types de clientèle.
+title: Roussin | Renseignements généraux - centre-roussin.org
+snippet: Le Centre communautaire Roussin peut retirer une activité au programme si le nombre d’inscriptions est insuffisant, ou pour toute autre raison. Dans ce cas, le remboursement est total. CHÈQUE SANS PROVISION Le Centre se réserve le droit de refuser un chèque personnel.
+title: Centre communautaire Roussin
+snippet: au Centre communautaire Roussin Au nom du conseil d’administration de la Société Ressources-Loisirs de Pointe-aux-Trembles et de toute notre équipe, je désire vous souhaiter la bienvenue au Centre communautaire Roussin ! Nous profi tons de l’occasion pour vous remercier de votre fi délité et
+title: Centre communautaire Roussin - Home | Facebook
+snippet: Centre communautaire Roussin, Montreal, QC. 2,712 likes · 94 talking about this · 4,474 were here. Le Centre communautaire Roussin offre des activités de loisirs et un milieu de vie actif pour...
+title: Centre communautaire Roussin à Pointe-aux-Trembles - Salle ...
+snippet: Centre communautaire Roussin - 12125 Rue Notre-Dame E, Pointe-aux-Trembles, QC, H1B 2Y9, (514) 645-4519
+title: société ressources-loisirs de pointe-aux-trembles - centre ...
+snippet: SOCIÉTÉ RESSOURCES-LOISIRS DE POINTE-AUX-TREMBLES - CENTRE COMMUNAUTAIRE ROUSSIN : Activités récréatives, culturelles, sportives et aquatiques. Camps de jour (été et hiver).Services sociocommunautaires.Casse-croûte et traiteur.
+title: Centre communautaire Roussin - About | Facebook
+snippet: Le Centre communautaire Roussin est situé à la pointe Est de l&#39;Île de Montréal dans un bâtiment patrimonial datant de 1907. Sa vocation s’est transformée avec le temps, mais il est aujourd’hui un milieu de vie communautaire et un centre de loisirs dynamique et convivial pour chaque personne qui le fréquente.
+
+REL: 1
+POI Name: Chop Crazy Creations
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Salad, 
+Snippets:
+title: Chop Crazy
+snippet: Copyright 2008, Chop Crazy Creation: Home. Menu. Catering Menu. Photos. Franchise. Contact. In the news. ChopCrazy Locations: CASSI DESIGN
+title: Chop Crazy
+snippet: Copyright 2008, Chop Crazy Creation: Home. Menu. Nutrition Facts. Catering Menu. Photos. Franchise. Contact. In the news. ChopCrazy Locations
+title: Chop Crazy
+snippet: menu | valeur nutritive | menu traiteur | photos | franchise | nouvelles | nos locations
+title: Chop Crazy Créations - Ville-Marie - Montreal, QC, Canada
+snippet: 5 reviews of Chop Crazy Créations &quot;This place is in Les Halles de la Gare, the little shopping complex that surrounds the VIA Rail Central Station in Montreal (Gare Centrale). The whole complex is open Monday-Friday, but only a few stores are…
+title: Great salad option for lunch - Chop Crazy Creations
+snippet: Chop Crazy Creations: Great salad option for lunch - See 3 traveler reviews, 4 candid photos, and great deals for Montreal, Canada, at Tripadvisor.
+title: Chop Crazy Creations - Menu, Hours &amp; Prices - 977, rue ...
+snippet: Chop Crazy Creations - Montréal - phone number, website, address &amp; opening hours - QC - Restaurants. Come taste a yummy meal at Chop Crazy Creations and discover a menu featuring wrap, priced at 11$ to 25$.
+title: Chop Crazy Creations - Montréal, QC | OpenTable
+snippet: Get menu, photos and location information for Chop Crazy Creations in Montréal, QC. Or book now at one of our other 4144 great restaurants in Montréal.
+title: Chop Crazy Creations, Montréal - Ville-Marie - Avis ...
+snippet: Chop Crazy Creations, Montréal : consultez 3 avis sur Chop Crazy Creations, noté 3,5 sur 5 sur Tripadvisor et classé #3 619 sur 5 655 restaurants à Montréal. Vols Locations de vacances Restaurants À voir/À faire ... Le Westin Montreal. 2 178 avis .
+title: Photos for Chop Crazy Créations - Yelp
+snippet: Asian chicken salad $9.57 (I asked for all spinach instead of spinach and romaine).
+title: Chop Crazy Creations Inc - Hours &amp; Reviews - 977 Rue ...
+snippet: Chop Crazy Creations Inc, Restaurant in Montréal, Québec, 977 Rue Sainte-Catherine Ouest, Montréal, QC H3B 4W3 – Hours of Operation &amp; Customer Reviews.
+
+REL: 1
+POI Name: Physio Steve
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Physical Therapy, Trainers, 
+Snippets:
+title: Physio Steve - Montreal’s Best-Rated Physio
+snippet: Montreal’s Best-Rated Physio . Three Best-Rated® (2016-2020) Google 5-Stars (210+ Reviews) Sunlife 5-Stars (260 Reviews) PHYSIO STEVE, MScPT. Physio Steve is trained as a physiotherapist, physiologist and personal Trainer. Between these various titles, Steve has over 16 years between fitness and healthcare including:
+title: Physiothérapie en ligne — Physio Steve
+snippet: Physio Steve est formé en tant que physiothérapeute, physiologiste et coach sportif. Steve a aussi plus de 16 ans d&#39;expérience dans le monde de la santé et du fitness dont: Sport professionnel: Ligue nationale de hockey, Maple Leafs de Toronto, olympiens et athlètes professionnels
+title: Newsletter — Physio Steve
+snippet: Physio Steve (Fr) Rendez-Vous Other Domains Physio Steve (En) ... (Fr) Rendez-Vous Other Domains TMJ BPPV. Montreal&#39;s Best-Rated Physiotherapist. Physio Steve (En) Booking Newsletter. Newsletter. Join the Physio Steve Newsletter! A couple times a year you will get a friendly email with draws for free prizes as well as some timely tips and updates.
+title: Vestibular (BPPV) Physiotherapy — Physio Steve
+snippet: Montreal&#39;s Best-Rated Physiotherapist. Vestibular Physiotherapy. Vestibular System and the inner ear: ... working with Physio Steve: Learn more about Physio Steve. Booking information. Ask a clinical question. Physio Steve. 1100 Rue Sherbrooke Ouest Building - 3rd Floor, Montréal, QC H3A 1G7,
+title: TMJ Physiotherapy — Physio Steve
+snippet: Temporomandibular Joint (TMJ) Physiotherapy - Provided downtown by Montreal’s Best-Rated Physio. Temporomandibular Joint (TMJ) Physiotherapy - Provided downtown by Montreal’s Best-Rated Physio. Physio Steve
+title: Physio Steve Procter - Home | Facebook
+snippet: Physio Steve Procter - 1100 Sherbrooke St W 3rd Floor, Montreal, Quebec H3A 1G7 - Rated 5 based on 16 Reviews &quot;I&#39;ve been seeing Steve for an injury over...
+title: Physio Steve Procter - Reviews | Facebook
+snippet: Physio Steve Procter - 1100 Sherbrooke St W 3rd Floor, Montreal, Quebec H3A 1G7 - Rated 5 based on 15 Reviews &quot;I&#39;ve been seeing Steve for an injury over...
+title: Advanced Physio Care - Tech-driven physiotherapy
+snippet: Advanced Physio Care is technology-driven, holistic physiotherapy service run by Steven Xuelong Qin (steven physio). We treat office and sports injuries. Advanced Physio Care is technology-driven, ... Steven Procter is the best therapist in Montreal.
+title: Physio Steve - Opening Hours - QC - YellowPages.ca
+snippet: Physio Steve - phone number, website, address &amp; opening hours - Physiotherapists &amp; Physical Rehabilitation.
+title: Physio Steve - Montreal Business Information &amp; Company Guide
+snippet: Physio Steve is a physiotherapist located at 2070 Peel St in Montreal, Quebec. You can contact Physio Steve at (438) 274-3357.
+
+REL: 1
+POI Name: YMCA du Québec
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Community Service/Non-Profit, Gyms, 
+Snippets:
+title: Accueil - YMCA
+snippet: YMCA du Québec 3 octobre 2019. Voir tous les blogues . Plus qu’un gym. Une cause. Tellement plus! «Je cherchais un endroit où je pouvais être libre, faire du sport, apprendre, socialiser, avoir du plaisir, me sentir comme une famille. ...
+title: Home - YMCA - YMCA Quebec.
+snippet: YMCA du Québec 18 November 2019 The YMCA at the Quebec International Solidarity Days YMCAs of Québec 6 November 2019. THANK YOU 550,000 times for supporting the YMCA Peace Medals YMCAs of Québec 4 October 2019 The YMCAs of Québec Peace Medals presented by Desjardins ...
+title: YMCA du Québec - Home | Facebook
+snippet: YMCA du Québec. 18K likes. Bienvenue sur la page officielle des YMCA du Québec. Welcome to the official page of The YMCAs of Québec. Plein de vies / Building healthy communities
+title: YMCA centre: Find the nearest centre - YMCAs - YMCA Quebec.
+snippet: We have many YMCA centres in Montreal, find easily the one that suits you on our website. ... Saint-Roch YMCA (Québec) - Opening in June 2020. 500 Du Pont Street Québec City G1K 6N4. Hours &amp; Map. Opening hours. Opening in June 2020. See centre. Westmount YMCA.
+title: Centre YMCA: Trouvez un centre près de vous - YMCA - YMCA
+snippet: 1440, rue Stanley Montreal H3A 1P7. 514 849-8393. Heures et carte. Heures d’ouverture. Fermé jusqu’à nouvel ordre. Voir le centre. YMCA du Parc. 5550, avenue du Parc Montréal H2V 4H1. ... Droits d&#39;auteur 2020, Les YMCA du Québec No d’organisme de bienfaisance : 11900 1790 RR0001.
+title: Emplois - YMCA - YMCA Quebec.
+snippet: Les YMCA du Québec Accueil Trouver un Y Horaires Devenir membre Contact Recherche English Afin de contribuer aux efforts publics pour freiner la progression du Covid-19, nos centres et programmes seront fermés jusqu’à nouvel ordre.
+title: YMCA Du Quebec Montreal, QC Youth Organizations &amp; Centers ...
+snippet: Get directions, reviews and information for YMCA Du Quebec in Montreal, QC.
+title: Schedules - YMCA - YMCA Quebec.
+snippet: YMCA International Language School Please note that we suspended our activities until further notice due to the COVID-19 pandemic. During this period, we offer you a virtual alternative offer to continue to keep you fit and healthy on a daily basis.
+title: YMCA centre: Find the nearest centre - YMCAs - YMCA
+snippet: We have many YMCA centres in Montreal, ... YMCA du Québec February 18, 2020. NEW FALL EVENT 2019 Downtown YMCA October 16, 2019. New Running Program Downtown YMCA September 17, 2019. Try our small group training and &quot;à la carte“ courses Downtown YMCA January 4, 2019. See more. Y Blog. Find an Activity About Us. Blog Become a Member Jobs ...
+title: YMCAQuebec - YouTube
+snippet: Les YMCA du Québec ... This summer, come and try something new at the YMCA! ymcaquebec.org Show less ... YMCA Montreal Language School - Channel.
+
+REL: 1
+POI Name: Place Sun Yat-Sen
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Place Sun-Yat-Sen | Montréal, Canada Attractions - Lonely ...
+snippet: On any given day here you will find old-timers sitting on stone stools...
+title: Category:Place Sun Yat-Sen, Montreal - Wikimedia Commons
+snippet: Category:Place Sun Yat-Sen, Montreal. From Wikimedia Commons, the free media repository. Jump to navigation Jump to search. Français : La place Sun Yat-Sen est un espace public du quartier chinois de Montréal situé au nord de la rue De La Gauchetière, à l&#39;est de la rue Clark.
+title: Place Sun Yat-Sen - 10 Photos - Parcs - Coin Clark et de ...
+snippet: 1 avis pour Place Sun Yat-Sen &quot;C&#39;est le cœur du quartier chinois de Montréal et le point à ne pas manquer si vous vous baladez dans les parages. À l&#39;angle des rues Clark et de la Gauchetière, vous découvrirez une belle pagode érigée en l&#39;honneur…
+title: Place Sun-Yat-Sen - Hours &amp; Reviews - Rue Clark, Montréal ...
+snippet: Place Sun-Yat-Sen – Park in Montréal, QC – Rue Clark, Montréal, Québec. Read verified and trustworthy customer reviews for Place Sun-Yat-Sen or write your own review.
+title: Sun Yat-sen Park (Montreal) - Wikipedia
+snippet: Sun Yat-sen, or Place Sun Yat-sen, is a park in Montreal&#39;s Chinatown, in Quebec, Canada. The space, named after Sun Yat-sen, hosts many cultural events and other festivals. It features a bust of Sun Yat-sen. See also. List of parks in Montreal; References
+title: Sun Yat-sen - Wikipedia
+snippet: Sun Yat-sen (/ ˈ s ʌ n ˈ j æ t ˈ s ɛ n /; born Sun Wen; 12 November 1866 – 12 March 1925) was a Chinese philosopher, physician, and politician, who served as the provisional first president of the Republic of China and the first leader of the Kuomintang (Nationalist Party of China). He is referred as the &quot;Father of the Nation&quot; in the Republic of China for his instrumental role in the ...
+title: Photos for Place Sun Yat-Sen - Yelp
+snippet: Photos at Place Sun Yat-Sen - Montréal, QC.
+title: Parc Sun-Yat-Sen - Ville-Marie - Montréal, QC
+snippet: Découvre les 17 photos et les 3 conseils des 83 visiteurs de Parc Sun-Yat-Sen. &quot;Belle petite place au coeur du Quartier Chinois, mais il y a trop...&quot; Parc à Montréal, QC. ... Montreal. Crée par Jessica Lee 22 éléments. Canada » Québec » » Montréal » Extérieur et loisirs » Parc.
+title: Place Sun Yat Sen Stock Photos - Download 151 Royalty Free ...
+snippet: Download 151 Place Sun Yat Sen Stock Photos for FREE or amazingly low rates! New users enjoy 60% OFF. 129,936,325 stock photos online.
+title: Parc Sun-Yat-Sen - Ville-Marie - Montréal, QC
+snippet: See 17 photos and 3 tips from 83 visitors to Parc Sun-Yat-Sen. &quot;Authentic little park with plenty of older immigrant Chinese playing games.&quot; Park in Montréal, QC Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+
+REL: 1
+POI Name: Yoga Vieux Montréal
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Yoga Vieux Montreal - Yoga Vieux Montreal - Yoga Old Montreal
+snippet: Yoga Vieux Montreal, Yoga Montreal classes, yoga old Montreal, Yoga Montreal
+title: Yoga Vieux Montreal - Schedule
+snippet: Yoga Vieux Montreal -The best Yoga in the heart of old Montreal located at 50 Rue St-Jacques, Montréal, Canada, H2Y 1l2
+title: Luna Yoga Montreal | Jivamukti, Yoga Flo, Teacher Training
+snippet: Luna Yoga is a yoga studio located in Old Montreal, offering Yoga Flo and Jivamukti yoga classes that incorporate asana, meditation, vinyasa flow, music, awareness, philosophy and chanting.
+title: Yoga Vieux Montreal - Yoga Vieux Montreal - Yoga Old Montreal
+snippet: Yoga Vieux Montreal, Yoga Montreal classes, yoga old Montreal, Yoga Montreal Contact; Newsletter ... Montréal, Québec, H2Y 1L2 . Contactez-Nous. Téléphone: 514 992-9642 Courriel: Hello @ yogavieuxmontreal.com. Heures D&#39;Ouverture. Classes tous les jours. Consultez le calendrier.
+title: Yoga Vieux Montreal - Home | Facebook
+snippet: Yoga Vieux Montreal, Montreal, Quebec. 2,602 likes · 13 talking about this · 355 were here. Yoga Vieux Montréal est ouvert pour les yogis de tous niveaux. Les débutants sont les bienvenus. -- Yoga...
+title: Yoga Vieux Montreal - Bachelorette
+snippet: Yoga Vieux Montreal -The best Yoga in the heart of old Montreal located at 50 Rue St-Jacques, Montréal, Canada, H2Y 1l2
+title: Yoga Sangha Montréal - Cours de yoga à Montréal
+snippet: Depuis vingt ans, l&#39;oasis à Montréal. Le Centre Yoga Sangha offre des cours pour tous les niveaux. Yoga hatha, vinyasa, détente, prénatal, postnatal, sénior. Retraites à travers le monde, ateliers, massothérapie, etc...
+title: Home - Sivananda Yoga Vedanta Centre Montreal
+snippet: Montreal English Newsletter Montreal French Newsletter First Name. Last Name. Email address: I agree to receive updates and newsletters from Sivananda Yoga Vedanta Montreal Centre
+title: Yoga Vieux Montréal (@yogavieuxmtl) • Instagram photos and ...
+snippet: 10.2k Followers, 3,746 Following, 313 Posts - See Instagram photos and videos from Yoga Vieux Montréal (@yogavieuxmtl) 10.2k Followers, 3,750 Following, 310 Posts - See Instagram photos ... Yoga Vieux Montréal Yoga Studio in Montreal&#39;s beautiful Old Port. Corporate yoga classes.
+title: Horaire – Atma Yoga Montréal
+snippet: Horaire des cours en ligne. Pour participer aux cours en ligne, il vous suffit de cliquer à l’heure prévue sur le lien ci-dessous. Vous serez automatiquement redirigé vers la plateforme zoom pour profiter de votre séance de Yoga.
+
+REL: 1
+POI Name: BoulZeye
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Laser Tag, Bowling, 
+Snippets:
+title: BoulZeye | Laser Tag - Sortir à Montréal au Laser tag ...
+snippet: BoulZeye est l&#39;endroit idéal où sortir à Montréal. Rendez-nous visite pour une partie de laser tag, de quilles ou de la réalité virtuelle entre amis. Pour un 5 à 7, célébrer un anniversaire ou un party de bureau, visitez-nous.
+title: Going out in Montreal, laser tag ... - BoulZeye | Laser Tag
+snippet: Boulzeye is the perfect place to go out in Montreal. Come enjoy a game of laser tag, bowling or virtual reality with friends. Whether for a happy hour, a birthday celebration or a wedding, visit us.
+title: BoulZeye (Montreal) - 2020 All You Need to Know BEFORE You ...
+snippet: Get an insider’s take on Old Montreal during this guided walking tour, which lets you leave the navigating to someone else. Choose a shorter walk of either the east or west sides or a longer walk that covers both.
+title: Laser Tag à Montréal | Jouer au ... - BoulZeye | Laser Tag
+snippet: Venez jouer au Laser Tag chez Boulzeye à Montréal. Plusieurs modes de jeux sont disponibles pour vous offrir une expérience amusante et divertissante entre amis ou avec vos collègues.
+title: BoulZeye (Montreal, Canada) - Anmeldelser - Tripadvisor
+snippet: BoulZeye, Montreal: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for BoulZeye i Montreal, Canada på Tripadvisor.
+title: Laser tag in Montreal | Play laser tag at Boulzeye ...
+snippet: Come play laser tag at Boulzeye in Montreal. Several types of games are available so that you can enjoy a fun and entertaining experience with friends or colleagues.
+title: Contact us | Boulzeye
+snippet: All contact details for Boulzeye. Contact us by email, phone or in person, and we&#39;ll be happy to answer your questions and welcome you.
+title: BoulZeye - Home | Facebook
+snippet: BoulZeye - 3655, boul. du Tricentenaire, Pointe-aux-Trembles, Quebec H1B 5X4 - Rated 4.5 based on 251 Reviews &quot;If you want a great place for your kids...
+title: Boulzeye (Montréal) : 2020 Ce qu&#39;il faut savoir pour votre ...
+snippet: Découvrez le Vieux-Montréal pendant cette visite guidée à pied, qui vous permet de laisser la navigation à quelqu&#39;un d&#39;autre. Choisissez une marche plus courte des côtés est ou ouest ou une marche plus longue qui couvre les deux. À travers les commentaires de votre guide, venez comprendre l&#39;histoire, la culture et l&#39;architecture de la ville.
+title: BoulZeye, Pub &amp; Attractions | Tourisme Montréal
+snippet: For a fun day out with your crew, head over to BoulZeye! With 16 bowling lanes, laser tag, virtual reality, arcade and escape games, a bistro-pub with a full kitchen and 12 craft beers on tap, a large patio and a reception hall for up to 120 guests, BoulZeye is an ideal spot to host special events and celebrations, or even just to get out for a great time with your buddies!
+
+REL: 1
+POI Name: Skydive Vancouver
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Skydiving, 
+Snippets:
+title: Skydive Vancouver - BC&#39;s Most Experienced Skydive Team
+snippet: Skydive Vancouver. Offers first time Tandem Skydiving, this is the safest, most enjoyable way to experience Skydiving. Our Accelerated Freefall Program offers full courses for those who wish to learn to Solo Skydive .
+title: Skydive Vancouver Island | Skydive in BC | Qualicum ...
+snippet: We specialize in creating the ultimate Tandem Skydiving adventure, so if it&#39;s your first jump or 100th, Skydive Vancouver Island can create an experience that you will remember for a lifetime. We can accommodate all group sizes! There is nothing like jumping over the ocean.
+title: Skydive Vancouver (Abbotsford) - 2020 All You Need to Know ...
+snippet: I had an incredible time at Skydive Vancouver! The instructors were so great and very experienced, they made me feel at ease especially in the nerve wracking time! I would recommend it to everyone. The only downside was that the centre is not very accessible via public …
+title: First Jump Tandem Skydive | Skydive Vancouver | BC Canada
+snippet: first jump tandem skydive After a short briefing, you and your professional instructor will take to the skies in one of our unique aircraft. Enjoy the 15 minute flight to altitude, taking in the scenic views of snow-capped mountains, rivers, lakes, downtown Vancouver and the Gulf Islands.
+title: Skydive Vancouver (Abbotsford) - All You Need to Know ...
+snippet: Skydive Vancouver, Abbotsford: See 35 reviews, articles, and 19 photos of Skydive Vancouver, ranked No.2 on Tripadvisor among 9 attractions in Abbotsford.
+title: THE DROP ZONE - ABBOTSFORD - Skydive Vancouver - Tandem ...
+snippet: Less than an hour drive from downtown Vancouver, Skydive Vancouver’s drop zone is a privately owned airpark dedicated to skydiving operations. Situated in the heart of the beautiful Fraser Valley in Abbotsford with panoramic views to Vancouver, Mt Baker (USA) and Vancouver Island from jump altitude, Skydive Vancouver’s scenery is world class. The drop zone has been an active …
+title: VIDEO PACKAGES - Skydive Vancouver - Tandem Skydiving ...
+snippet: Have all the action of your jump captured on USB Flash Drive for all of your friends and family to see. We offer high quality photographs and two styles of video; a third person cameraman or instructor filmed. You can pre-book your video or organize it on the day of your jump when you are checking in …
+title: iFLY Indoor Skydiving - Vancouver, BC (Canada ...
+snippet: Indoor Skydiving is coming to Vancouver. Experience the sensation of freefall without jumping out of a plane! Indoor skydiving is an exhilarating and safe sport for people of all ages. iFLY Indoor Skydiving is where the [...] FLY. What is Indoor Skydiving? Find a Location; SPORT.
+title: Skydive Vancouver Island (Nanoose Bay) - 2020 All You Need ...
+snippet: Come experience the thrill of Skydiving on Vancouver Island. Phenomenal views and the time of your life as you Tandem Skydive at Skydive Vancouver Island. You will be attached to one of our qualified instructors who will bring you from 3km in the sky up to 200 km/h down in freefall and then safely back to the ground.
+title: Skydive Vancouver Island - YouTube
+snippet: Our favorite skydiving videos taken mostly at Skydive Vancouver Island in Qualicum Beach, BC. Pretty much everyone in these videos are doing it for the first...
+
+REL: 1
+POI Name: The Force Academy
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Martial Arts, 
+Snippets:
+title: Saber Combat in Montreal - The Force Academy
+snippet: Experience legendary saber combats in a one-time experience! Force Academy is the Activity Center where you will become a knight for one day or a battle master of tomorrow. Meet up in Montreal in a unique, tremendously fun, and organized universe. No prior experience required. Open to all levels. Awaken the knight in you!
+title: Combat au sabre à Montreal - The Force Academy™
+snippet: Force Academy est le centre d&#39;activités ou vous deviendrez le chevalier d&#39;un jour ou un combattant aguerri. Venez partager et vous rencontrer à Montréal dans un univers unique, organisé et extrêmement amusant. Aucune expérience préalable requise, ouvert à tous!
+title: Choose your side / Choisissez votre coté - The Force Academy
+snippet: Choose your side English Français Choisissez votre coté. Tickets. Individual Tickets; Private Group Bookings; Videos; Contact; Français; Login
+title: The Force Academy (Montreal) - 2020 All You Need to Know ...
+snippet: Get an insider’s take on Old Montreal during this guided walking tour, which lets you leave the navigating to someone else. Choose a shorter walk of either the east or west sides or a longer walk that covers both.
+title: Contact - The Force Academy
+snippet: Contact The Force Academy ... Montreal, Qc, H4C 1L8. Head office: By appointment only. Sports DodgeBow Inc. 102-121 Elmire Street Montreal, Qc, H2T 1J9. About. Experience legendary saber combats in a one-time experience! Force Academy is the Activity Center where you will become a knight for one day or a battle master of tomorrow.
+title: The Force Academy - Sports &amp; Recreation Venue - Montreal ...
+snippet: The Force Academy. 2,289 likes · 9 talking about this · 1,077 were here. Learn how to wield a saber and spar with your friends in Montreal! Affronter vos amis avec des sabres à Montréal!
+title: The Force Academy - Montreal Center - The Force Academy
+snippet: Force Academy is the Activity Center where you will become a knight for one day or a battle master of tomorrow. Meet up in Montreal in a unique, tremendously fun, and organized universe. No prior experience required.
+title: The Force Academy (Montreal) - All You Need to Know BEFORE ...
+snippet: Apr 15, 2020 - Experience legendary combats in a one-time experience! Force Academy is THE Activity Center where you will become a knight for one day, or a battle master of tomorrow. Meet up in Montreal in a...
+
+REL: 1
+POI Name: Segal Centre for Performing Arts
+POI City: Montreal
+POI Country: CA
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, Performing Arts, Jazz & Blues, 
+Snippets:
+title: Segal Centre | The Heart of English Theatre in Montreal
+snippet: Segal Centre for Performing Arts 5170 Côte-Ste-Catherine Montreal, Québec H3W 1M7
+title: Segal Centre for Performing Arts - Centre Segal | Upcoming ...
+snippet: Cannot find any performances matching the criteria Please revise your search.
+title: The Segal Centre for Performing Arts - Home | Facebook
+snippet: The Segal Centre for Performing Arts - 5170 ch. de la Côte-Ste-Catherine, Montreal, Quebec H3W 1M7 - Rated 4.9 based on 88 Reviews &quot;I discovered the...
+title: SEGAL THEATRE | Segal Centre
+snippet: While our Box Office phone lines remain open as per the schedule below, please note that the Segal Centre is currently closed to the public. WHERE TO FIND US Segal Centre for Performing Arts 5170, chemin de la Côte-Ste-Catherine Montreal (QC) H3W 1M7. BOX OFFICE - SCHEDULE Monday - Thursday 12:00 P.M. – 5:30 P.M. Friday 12:00 P.M. – 4:30 P.M.
+title: Calendar | Centre Segal
+snippet: Segal Centre for Performing Arts 5170 Côte-Ste-Catherine Montreal, Québec H3W 1M7
+title: Segal Centre for Performing Arts (Montreal) - All You Need ...
+snippet: Apr 6, 2020 - The Segal Centre is a meeting place for all of the performing arts, showcasing the best professional artists from here and abroad and playing a leading role in the artistic development of Montreal’s...
+title: Segal Centre for Performing Arts (Montreal) - 2020 All You ...
+snippet: Attractions near Segal Centre for Performing Arts: (0.01 mi) Montreal Holocaust Memorial Centre (0.98 mi) Saint Joseph&#39;s Oratory of Mount Royal (0.13 mi) Cafe Solaris; View all attractions near Segal Centre for Performing Arts on Tripadvisor
+title: Segal Centre for Performing Arts - Wikipedia
+snippet: The Segal Centre for Performing Arts, formerly the Saidye Bronfman Centre for the Arts, is a theatre in Montreal, Quebec, Canada. It is located at 5170 chemin de la Côte-Sainte-Catherine, in the borough of Côte-des-Neiges–Notre-Dame-de-Grâce.
+title: Mandate + History | About Us | Segal Centre
+snippet: OUR MANDATE &amp; HISTORY. THE SEGAL CENTRE: THE HEART OF ENGLISH THEATRE IN MONTREAL The Segal Centre for Performing Arts is dedicated to creating, producing, and presenting world-class English-language theatre, and to showcasing the best professional artists from Montreal and beyond.
+title: Contact Us | About Us | Segal Centre
+snippet: As with all performing arts centers, ticket sales, subscriptions, academy registrations and rentals do not fully cover our operational costs. Ongoing support through the Director’s Circle will allow us to continue to bring world-class entertainment to the community and to confidently plan for future seasons.
+
+REL: 1
+POI Name: Le Confessionnal
+POI City: Montreal
+POI Country: CA
+POI Main category: Nightlife
+POI Sub category: Lounges, 
+Snippets:
+title: Le Confessionnal
+snippet: En plein cœur du Vieux-Montréal, le Bar Le Confessionnal vous invite à venir passer une soirée inoubliable du mercredi au dimanche. 431 rue McGill.
+title: Le Confessionnal (Montreal) - 2020 All You Need to Know ...
+snippet: Get an insider’s take on Old Montreal during this guided walking tour, which lets you leave the navigating to someone else. Choose a shorter walk of either the east or west sides or a longer walk that covers both.
+title: Le Confessionnal (Montreal) - All You Need to Know BEFORE ...
+snippet: Le Confessionnal, Montreal: See 17 reviews, articles, and 8 photos of Le Confessionnal, ranked No.75 on Tripadvisor among 191 attractions in Montreal.
+title: Le Confessionnal (Montreal, Canada) - Anmeldelser
+snippet: Le Confessionnal, Montreal: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Le Confessionnal i Montreal, Canada på Tripadvisor.
+title: Le Confessional - Montreal, Quebec - Bar | Facebook
+snippet: Posts about Le Confessional. Rani Gharfeh is with Toddy Flores at Le Confessional. July 15, 2018 · Montreal, QC, Canada · Sunday vibes bout to pop off in here @ Le Confessionnal .: ... Started this morning in Montreal, Flew to Toronto for a Boat Party (Hit the Deck) &amp; after party ...
+title: THE 10 BEST Restaurants Near Le Confessionnal in Montreal ...
+snippet: Restaurants near Le Confessionnal, Montreal on Tripadvisor: Find traveler reviews and candid photos of dining near Le Confessionnal in Montreal, Quebec.
+title: Le Confessionnal | Postproduction sonore
+snippet: Le Confessionnal est un lieu qui rassemble plusieurs services reliés à la postproduction, quelle que soit la plateforme de diffusion. De plus, l’entreprise possède de l’équipement technique de pointe et se tient à l’affût des exigences sans cesse grandissantes de l’industrie.
+title: Le Confessionnal - Ville-Marie - Montreal, QC
+snippet: Le Confessionnal was highly recommended to us. Pluses: - Staff was friendly and attentive - Crowd was fun and not your pretentious club crowd - Music was great The club has several areas for bottle service and a large bar when you enter, along with a bar in the back.
+title: Le Confessionnal (Montreal): UPDATED 2020 All You Need to ...
+snippet: Le Confessionnal, Montreal: See 17 reviews, articles, and 8 photos of Le Confessionnal, ranked No.75 on Tripadvisor among 191 attractions in Montreal.
+title: Le confessionnal (1995) - IMDb
+snippet: Directed by Robert Lepage. With Lothaire Bluteau, Patrick Goyette, Jean-Louis Millette, Kristin Scott Thomas. The year is 1952, in Québec City, Québec. Rachel (Suzanne Clément), sixteen, unmarried, and pregnant, works in the church. Filled with shame, she unburdens her guilt to a young Priest under the confidentiality of the confessional.
+
+REL: 1
+POI Name: Body Quest Gym
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Trainers, 
+Snippets:
+title: Holistic Nutritionist | Cambridge, ON - BodyQuest
+snippet: Get into the best shape of your life with BodyQuest in Cambridge, ON. Our owner is an experienced holistic nutritionist.
+title: Body Quest Gym Inc - Montreal, Quebec - Gym/Physical ...
+snippet: Body Quest Gym Inc, Montreal, Quebec. 45 likes. Gym/Physical Fitness Center
+title: Body Quest Gym Inc - Montréal - Salle de sport / centre de ...
+snippet: Publications concernant Body Quest Gym Inc. Mirza Jawad Baig a ajouté une publication de 2005 à son journal — fait de la musculation à Body Quest Gym Inc. 2005 · Montréal, Québec, Canada · · Body Quest Gym Inc. Salle de sport / centre de remise en forme · Montréal, Québec, Canada.
+title: BodyQuest Studio - Westport Barre Classes
+snippet: Join us for class. Experience a whole new level of bar fitness by signing up for a BodyQuest Studio class. We offer three levels of class from beginner to advanced and you can sign up for any of our classes offered at our Westport or Fairfield studios online or by calling the studios directly.
+title: Body Quest Health &amp; Fitness, Gymnasiums, Gauteng, ...011 815 3
+snippet: Body Quest Health &amp; Fitness Phone and Map of Address: Shop 28 The Avenue, Springs, 1559, South Africa, Gauteng, Business Reviews, Consumer Complaints and Ratings for Gymnasiums in Gauteng. Contact Now!
+title: BodyQuest - Health and Fitness Centre
+snippet: BodyQuest Health and Fitness gym is the largest Local, Private Health Club in Springs and is run by founder and owner Ian Erasmus, and wife Marinda. We pride ourselves on being a Family orientated health Club / Gym allowing Mom, Dad and the children to train together.
+title: Body Quest Personal Training - Home | Facebook
+snippet: Body Quest Personal Training, Louisville, Kentucky. 1,321 likes · 2 talking about this · 904 were here. BodyQuest Personal Training for fitness &amp; weight loss in Louisville, KY. Learn more @...
+title: Body Quest Gym, 514-875-2766, 680 Rue Sainte-Catherine O ...
+snippet: Body Quest Gym 680 Rue Sainte-Catherine O Ste 300, Montreal, H3B 1C2, Phone Number 514-875-2766 or 15148752766, Montreal Radio Broadcasting Station, Business Reviews &amp; Ratings, Hours of Operation, Body Quest Gym Deals and Promotions, Phone Pages
+title: Gym Montreal - Home | Facebook
+snippet: Gym Montreal. 59 likes. The go-to website to find the best deals for gyms in Montreal.
+title: Body Quest Fitness &amp; Aerobics - Home | Facebook
+snippet: Body Quest Fitness &amp; Aerobics - 2707 Highway 90, Ste 13, Gautier, Mississippi 39553 - Rated 4.7 based on 51 Reviews &quot;A bunch a steroid heads working...
+
+REL: 1
+POI Name: YWCA de Montréal
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hotels, Trainers, 
+Snippets:
+title: Y des femmes de Montréal - Bâtir ensemble un avenir ...
+snippet: MESURES PRÉVENTIVES FACE À LA COVID-19 Le Y des femmes de Montréal suspend temporairement toutes ses activités ouvertes au public. Un plan d&#39;action a été mis en place pour maintenir à distance certains de nos services.
+title: YWCA Montreal - Working together to build a better future ...
+snippet: The YWCA Montreal is temporarily suspending the services it offers to the public. An action plan has been put in place to provide some of our services remotely. You will find in it the various measures we have taken to keep connected with you as much as possible, while respecting the directives issued by the government.
+title: Centre YMCA: Trouvez un centre près de vous - YMCA - YMCA
+snippet: Nous avons de nombreux centres YMCA à Montréal, trouvez facilement celui qui vous convient sur notre site internet. N&#39;hésitez pas à nous contacter en cas de besoin.
+title: Y des femmes de Montréal - Home | Facebook
+snippet: Y des femmes de Montréal, Montreal, QC. 11K likes. Y des femmes de Montréal (YWCA) - 1355 René-Lévesque O, Montréal (Qc) H3G 1T3 info@ydesfemmesmtl.org...
+title: Auberge YWCA | Tourisme Montréal
+snippet: Located on the 6th floor of the YWCA Montreal, the Auberge YWCA provides comfort and peace in the heart of downtown, close to museums, the Bell Centre, and shops on Sainte-Catherine Street. When you stay at the Auberge, you are not only enjoying good quality for money, but you are also supporting a nonprofit organization. The 32 rooms can accommodate up to three people. Bathrooms and showers ...
+title: Y des femmes de Montréal - Posts | Facebook
+snippet: Le Y des femmes de Montréal appartient à la grande famille de la YWCA mondiale qui, présente dans 120 pays à travers le monde, agit auprès de plus de 25 millions de femmes et de filles. Au Canada, le mouvement des YWCA constitue la plus ancienne et la plus importante organisation de services polyvalents pour les femmes avec 33 associations membres.
+title: YWCA des femmes de Montréal, Condition féminine à Montréal
+snippet: YWCA des femmes de Montréal, depuis 1875, le Y des femmes de Montréal et sa Fondation travaillent pour la prévention des violences, pour le développement des compétences, de l&#39;estime de soi et de l&#39;autonomie, ainsi qu&#39;à l&#39;épanouissement personnel des femmes et des filles. Il contribue ainsi à bâtir un avenir meilleur pour les femmes et les filles, dans la perspective d&#39;une soci
+title: Accueil - YMCA
+snippet: «Le YMCA n’est pas juste de l’entraînement. C’est une source de confiance, d’amélioration, de réadaptation.» Éric, 42 ans, ayant reçu de l&#39;aide financière pour s&#39;abonner au YMCA. Voir d’autres témoignages. Pourquoi votre don compte Qui vous aidez Comment aider.
+title: YWCA Montreal - 1355, boul René-Lévesque O, Montréal, QC
+snippet: Numéro de téléphone, site web et adresse de YWCA Montreal – Montréal à QC - Service de formation à l&#39;emploi, Associations humanitaires et services sociaux.
+title: Y des femmes de Montréal (YWCA) - centraide-mtl.org
+snippet: Y des femmes de Montréal (YWCA) ... Renforcer les rôles économique et social des femmes de tous âges et de toutes origines et favoriser leur développement personnel et leurs aptitudes de leadership. Comment? Résidence et logement pour femmes en difficulté, réintégration sociale, ...
+
+REL: 1
+POI Name: Latin Groove
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Dance Studios, Dance Schools, 
+Snippets:
+title: Latin Groove Dance School | Fitness - MONTREAL&#39;S BEST ...
+snippet: Latin Groove offers dance and fitness classes in downtown Montreal. Join montreal’s best rated dance school where you can take salsa, bachata, kizomba, fitness classes and much more. For beginners to the multi advanced with or without a partner, group or private lessons.
+title: Schedule | Start Dancing now - Latin Groove
+snippet: Our mission is to keep the dance community growing, one step at a time.. Our commitment is to meet our clients’ high standards and offer the best dance training while keeping it fun at fair prices.. Our passion is conveyed by sharing our expertise with our students and by offering a wide range of dance and fitness classes for all ages and levels so everyone can dance.
+title: École de danse LATIN GROOVE - Latin Groove Dance School
+snippet: Latin Groove est une école de danse incroyable et vraiment très amusante! Les professeurs sont excellents, un beau studio sur St. Catherine, des gens sympas pour danser avec n&#39;importe quel niveau, et l&#39;ambiance est tellement sympa. J&#39;adore cet endroit et très heureux je l&#39;ai découvert il y a 3 ans!
+title: Contact Us | Latin Groove Dance School
+snippet: Our main objective for Latin Groove dance school is to get you to enjoy, feel, live and love latin music. It might even change your life! Dancing is our passion, let us make it yours! For all levels, we have been teaching for more than 20 years and specializing in Salsa, Bachata, Cha cha, Merengue, Samba, kizomba and much more.
+title: Latin Groove | Learn Dominican Bachata | Sensual Bachata ...
+snippet: Bachata with it’s beautifully executed footwork, playful partnerwork, sexy body isolations and sensual movements, the only risk of taking our classes is that you will become even more addicted to this beautiful, passionate, sensual, challenging and very addictive dance and music called BACHATA! Join the fun.
+title: Latin Groove Dance School - Posts | Facebook
+snippet: Latin Groove Dance School, Montreal, Quebec. 4.4K likes. Award winning &amp; best rated dance school. Dance &amp; fitness classes plus Latin entertainment for your events. Teaching the world to dance one...
+title: Latin Groove Dance School - Reviews | Facebook
+snippet: Latin Groove Dance School - 1184 Sainte-Catherine Ouest (4ème étage), Montreal, Quebec H3B-1K1 - Rated 4.9 based on 66 Reviews &quot;This place easily became...
+title: Latin Groove Dance School was live. - Latin Groove Dance ...
+snippet: Latin Groove Dance School was live. Latin Groove Dance School was live. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. ... Club 649, Latin Club in Montreal. 5,579 Followers · Dance &amp; Night Club. Horacio, notre héros. 56,514 Followers · Fan Page. Studio LG. 318 Followers · Dance Studio.
+title: Latin Groove Amateur troupe at the Bachata Invasion Social ...
+snippet: Latin Groove Amateur troupe at the Bachata Invasion Social on October 14 2017 (Choreographed by Maude) Montreal, Canada Filmed by Salsamaniacs!
+
+REL: 0
+POI Name: Chocolaterie Joane l'Heureux
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Chocolatiers & Shops, 
+Snippets:
+title: Accueil - Joane Lheureux Chocolats
+snippet: Joane L’Heureux. Traditionnelles, mais audacieuses, ses friandises au chocolat combinent des harmonies de saveurs sublimes avec une touche de luxe finale. Associant son talent et son expertise à une sélection d’ingrédients de qualité supérieure, elle transforme le chocolat en une expérience de dégustation inoubliable.
+title: fr.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Homemade chocolates! - Review of Joane L&#39;Heureux Chocolats ...
+snippet: Joane L&#39;Heureux Chocolats: Homemade chocolates! - See 3 traveler reviews, 6 candid photos, and great deals for Montreal, Canada, at Tripadvisor.
+title: Boutique - Joane Lheureux Chocolats
+snippet: Joane L’Heureux. Notre chocolaterie compte plus de dix années d’expérience et un grand nombre de clients satisfaits, incluant Justin Trudeau et les Canadiens de Montréal. +1-514-914-3957 info@joanelheureux.ca 5180 Beaubien Est, Montreal. FOLLOW US ON INSTAGRAM
+title: Chocolat Joane L&#39;Heureux - Picture of Joane L&#39;Heureux ...
+snippet: Joane L&#39;Heureux Chocolats, Montreal Picture: Chocolat Joane L&#39;Heureux - Check out Tripadvisor members&#39; 50,646 candid photos and videos of Joane L&#39;Heureux Chocolats. Montreal. Montreal Tourism Montreal Hotels Montreal Bed and Breakfast Montreal Vacation Rentals Montreal Vacation Packages
+title: Joane L&#39;Heureux Chocolats (Montréal) : 2020 Ce qu&#39;il faut ...
+snippet: Hôtels à proximité de Joane L&#39;Heureux Chocolats : (2.52 Km) A la Carte Bed &amp; Breakfast (3.26 Km) Le Gite Dezery (2.61 Km) Gite du Survenant Montreal (3.02 Km) Charming spot 15 min downtown (1.34 Km) Beautiful Studio apartment 20 min from downtown! Voir tous les hôtels à proximité de Joane L&#39;Heureux Chocolats sur Tripadvisor
+title: Chocolaterie Joane l’Heureux - Chocolatiers &amp; Shops - 5180 ...
+snippet: 2 reviews of Chocolaterie Joane l&#39;Heureux &quot;I have found one of my favorite dark chocolate bars. Joane L&#39;Heureux is very knowledgeable about chocolate, and I&#39;m glad I had the privilege of meeting her. She talked to me about her chocolate sourcing,…
+title: Les meilleures chocolateries de Montréal | Tourisme Montréal
+snippet: Joane L’Heureux Chocolats De facture classique, les bouchées chocolatées de Joane L’Heureux sont préparées à partir des meilleurs ingrédients et avec un tour de main nourri de douze années d’expérience. Chocobel Dans Villeray, cette petite boutique vend ses spécialités et ses chocolats dans une grande palette de saveurs.
+title: Chocolaterie Joane L&#39;Heureux, Montréal QC | Ourbis
+snippet: Chocolaterie Joane L&#39;Heureux at 7016 avenue Casgrain, Montréal QC H2S 3A2, 514-495-8151
+title: Joane L&#39;Heureux Chocolats | Culinary Experience | Quebec ...
+snippet: The chocolate maker has nearly ten years of experience and a solid background at the Chocolate Learning Academy in St-Jérôme. She is also established at Jean-Talon markets, while also running her own workshops. You will find Joane L’Heureux Chocolats in the Rosemont-La Petite-Patrie area.
+
+REL: 0
+POI Name: Picks
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Fast Food, 
+Snippets:
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Montreal Canadiens Future Draft Pick Status
+snippet: Montreal Canadiens Future Draft Pick Status ... Traded • Marco Scandella to Blues for • 2020 second round pick (?-?) • 2021 conditional fourth round pick (if Blues re-sign Scandella before 10-07 or if Blues advance to third round of 2020 playoffs and Scandella plays in least half of the games) ...
+title: NHL Entry Draft Picks - Habs Prospects
+snippet: 5th round pick, 138th overall - Frederik Dichow (from Arizona via Chicago via Los Angeles - Hossa trade, Kubalik trade, Thompson trade) 6th round pick, 170th overall - Arsen Khisamutdinov: 7th round pick, 201st overall - Rafaël Harvey-Pinard (from Philadelphia - pick #201 traded for a 2020 7th round pick)
+title: Montreal Pictures - Traveler Photos of Montreal, Quebec ...
+snippet: Montreal photos: Check out Tripadvisor members&#39; 50,706 candid images and videos of landmarks, hotels, and attractions in Montreal.
+title: PICKS - Home - Montreal, Quebec - Menu, Prices, Restaurant ...
+snippet: PICKS - 1407 St Marc, Montreal, Quebec h3h2g4 - Rated 4.7 based on 36 Reviews &quot;I love Picks! Their delicious burgers and poutine are perfectly prepared...
+title: List of Montreal Canadiens draft picks - Wikipedia
+snippet: List of Montreal Canadiens draft picks. Jump to navigation Jump to search. The ... This is a complete list of ice hockey players who were drafted in the National Hockey League Entry Draft by the Montreal Canadiens franchise. It includes every player who was drafted, regardless of whether they played for the team.
+title: Montreal Photos - Featured Images of Montreal, Quebec ...
+snippet: Montreal pictures: Check out Tripadvisor members&#39; 50,685 candid photos and videos of landmarks, hotels, and attractions in Montreal.
+title: Category:Montreal Canadiens draft picks - Wikipedia
+snippet: Pages in category &quot;Montreal Canadiens draft picks&quot; The following 200 pages are in this category, out of approximately 371 total. This list may not reflect recent changes ().(previous page) ()
+title: Montreal Canadiens Draft History at hockeydb.com
+snippet: Montreal Canadiens Draft History. 2019 Entry NHL Totals; Draft Num. Round Player Pos Drafted From GP G A Pts PIM; 2019 Entry
+title: Official Montréal Canadiens Website | NHL.com
+snippet: The most up-to-date breaking news for the Montréal Canadiens including highlights, roster, schedule, scores and archives.
+
+REL: 0
+POI Name: Tim Hortons
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Breakfast & Brunch, 
+Snippets:
+title: All Tim Hortons Locations in Montreal | Coffee, Breakfast ...
+snippet: Browse all Tim Hortons in Montreal for great-tasting, freshly-brewed coffee. Try our lattes, cappuccinos, espresso, hot chocolate and tea.
+title: Tim Hortons
+snippet: Home of Canada&#39;s favourite coffee. Join Tims™ Rewards and start earning rewards today.
+title: Tim Hortons in 323 Rue Jean-talon Est Montreal, QC ...
+snippet: Located at 323 Rue Jean-talon Est, Montreal, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.
+title: Tim Hortons in 1599 Rue St Denis Montreal, QC | Coffee ...
+snippet: Located at 1599 Rue St Denis, Montreal, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.
+title: Tim Hortons in 6500, Cote St-luc Montreal, QC | Coffee ...
+snippet: Located at 6500, Cote St-luc, Montreal, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.
+title: Tim Hortons in 15560 Rue Sherbrooke Est Montreal, QC ...
+snippet: Located at 15560 Rue Sherbrooke Est, Montreal, QC, Tim Hortons is the perfect place to go for great-tasting, freshly brewed coffee. Our coffee is made with 100% Arabica beans, sourced from the world&#39;s most renowned growing regions.
+title: Tim Hortons, Montreal - Restaurantanmeldelser - Tripadvisor
+snippet: Tim Hortons, Montreal: Se 56 objektive anmeldelser av Tim Hortons, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 146 av 5 649 restauranter i Montreal.
+title: Tim Hortons Jobs in Montréal, QC (with Salaries) | Indeed.com
+snippet: Tim Hortons. About Reviews Salaries Q&amp;A. Did you mean jobs with Tim Hortons in the job posting? Tim Hortons jobs in Montréal, QC. Sort by: relevance - date. Page 1 of 13 jobs. Displayed here are job ads that match your query. Indeed may be compensated by these employers, helping keep Indeed free for job seekers.
+title: Tim Hortons, Montreal - 895 Rue De La Gauchetiere Ouest ...
+snippet: Tim Hortons, Montreal: See 56 unbiased reviews of Tim Hortons, rated 4 of 5 on Tripadvisor and ranked #1,146 of 5,652 restaurants in Montreal.
+title: Tim Hortons in Montreal | Locations &amp; Phone Numbers
+snippet: Here you can find all the Tim Hortons stores in Montreal. To access the details of the store (location, opening hours, Tim Hortons online and current flyers) click on the location or the store name. More information about Tim Hortons View all Tim Hortons stores Tim Hortons in Montreal - Flyers, coupons and deals .
+
+REL: 0
+POI Name: Bastix Souvenirs
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: French, Shopping, 
+Snippets:
+title: Souvenir du Quebec (Montreal) - 2020 All You Need to Know ...
+snippet: Attractions near Souvenir du Quebec: (0.27 mi) Cirque du Soleil (0.32 mi) Studio De Jeux Virtuels Oratek360 Brossard (0.07 mi) Notre-Dame-de-Bon-Secours Chapel (0.21 mi) La Grande Roue de Montreal (0.14 mi) Old Port of Montreal - Longueuil Ferry; View all attractions near Souvenir du Quebec on Tripadvisor
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Bastix Souvenir - Montreal, Quebec - Gift Shop, Souvenir ...
+snippet: Bastix Souvenir, Montreal, Quebec. 5 likes. Gift Shop. I was wondering if anyone that works at this souvenir shop sees these I have a question and I would like to not have to make an international call to speak to someone
+title: SDC Vieux-Montréal | Bastix Souvenirs
+snippet: Bastix Souvenirs. Boutiques. Bastix souvenirs est une boutique de souvenirs dans le Vieux-Montréal. 88 rue Notre-Dame Ouest, Montréal, Québec, H2Y 1S6.
+title: Souvenir Shop | Québec | Souvenir du Quebec
+snippet: Well they ended up staying here for 50 years plus. They birth the business which was passed down to there son Mike Singh who presently runs it with his wife and son. Now the third generation of the family is helping run the business, so I guess so much for not planning on staying in Montreal.
+title: Souvenirs Caribou - Montreal Souvenirs Gift Shop
+snippet: Visit Souvenirs Caribou, the best souvenir gift shop in Montreal.Our store is located in the Old Port of Montreal on St-Paul Street. Find the perfect gifts for everyone on your list. Click Here to Contact Us.
+title: Des souvenirs montréalais vraiment cools | Tourisme Montréal
+snippet: Tout le monde aime rapporter un objet d’une destination qui lui rappellera de magnifiques souvenirs de voyage. Mais les boutiques de souvenirs manquent parfois d’originalité. Heureusement, il existe des adresses montréalaises offrant des articles 100 % montréalais qui ont de la gueule.
+title: Souvenir du Quebec - Montreal, Quebec | Facebook
+snippet: Souvenir du Quebec, Montreal, Quebec. 236 likes. Oldest store in Montreal to buy souvenirs. We have unique souvenirs for everyone. From post cards and framed prints to jewelry and apparel, everything!
+title: Bastix Souvenirs - Gift Shop in Vieux-Montréal
+snippet: See 3 photos and 1 tip from 92 visitors to Bastix Souvenirs. &quot;Get all of your Montréal and Québec souvenirs here&quot; ... &quot;It doesn’t matter when you visit Montreal, you can always find an ornament four your next Christmas tree back home...&quot; Ricardo G. Quebec Fine Crafts Boutique.
+title: Bastix Souvenir in Montréal, QC - fyple.ca
+snippet: Bastix Souvenir offers Gift Shops, and Home Goods Stores services in Montreal, QC area. To get more details you can call us on (514) 845-27...
+
+REL: 0
+POI Name: Saint Burger
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Fast Food, 
+Snippets:
+title: Saint Burger - Updated in 2020 - Info, Reviews &amp; more ...
+snippet: Saint Burger, 475, boul. St-Laurent, Old Montreal Restaurant, Montreal, Burgers &amp; Poutine, Tel., Address, Map, Photos, Verified Reviews &amp; Up-to-date Menus,
+title: This New Gourmet Burger Bar In Montreal&#39;s Old Port Is Open ...
+snippet: Saint Burger has just opened in the Montreal Old Port... and they haven&#39;t shut their doors since. The 24/7 gourmet burger spot has super cool decor and delicious burgers perfect for you next late-night walk home from the bar.
+title: Saint Burger - Ville-Marie - Montreal, QC, Canada
+snippet: 3 reviews of Saint Burger &quot;Four of my friends and I stopped in here and honestly this is the best service we have ever received. The man working was beyond kind, and considering he was the only staff present he made the food quickly and it was all…
+title: SAINT BURGER, Montreal - Ville-Marie - Restaurant Reviews ...
+snippet: Saint Burger, Montreal: See 2 unbiased reviews of Saint Burger, rated 4 of 5 on Tripadvisor and ranked #3,055 of 5,655 restaurants in Montreal.
+title: QDC BURGER
+snippet: Located in the heart of mile end, QDC Burger Rue Saint-Viateur became the neighborhood favorite burger joint ! Learn more. dOWNTOWN mONTREAL Mountain Street. QDC Burger back alley was the first to open it’s door right behind La Queue de Cheval Steakhouse giving a street burger concept not seen in Montreal before !
+title: Burger King Locations in Montreal | Burgers, Chicken and More
+snippet: Browse Burger King locations near you in Montreal for the flame-broiled, made-to-order meals you love. Enjoy your favorite BK burgers, chicken sandwiches, salads, breakfast and more.
+title: 24/7 Burger joint in the Old Port of Montreal - Saint ...
+snippet: Saint Burger: 24/7 Burger joint in the Old Port of Montreal - See 2 traveler reviews, 6 candid photos, and great deals for Montreal, Canada, at Tripadvisor.
+title: Burger de Ville, Montreal - 59 avenue Westminster Nord ...
+snippet: Burger de Ville, Montreal: See 108 unbiased reviews of Burger de Ville, rated 4 of 5 on Tripadvisor and ranked #811 of 5,647 restaurants in Montreal.
+title: Burger de Ville, Montreal - 5282 Saint Laurent Blvd., Le ...
+snippet: Order food online at Burger de Ville, Montreal with Tripadvisor: See 60 unbiased reviews of Burger de Ville, ranked #681 on Tripadvisor among 5,655 restaurants in Montreal.
+title: Saint Burger - Mis à jour 2020 - Info, Avis &amp; plus ...
+snippet: Saint Burger, 475, boul. St-Laurent, Vieux-Montréal Restaurant, Montréal, Burgers &amp; Poutines, Tél., Addresse, Photos, Avis vérifiés &amp; Menus mis à jour,
+
+REL: 0
+POI Name: Café Van Houtte
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Trouver un Café – Café Van Houtte
+snippet: Trouver un Café Van Houtte. This website uses cookies to improve your experience while you navigate through the website.
+title: Café Van Houtte – Master Roaster Since 1919
+snippet: Give yourself a moment to savour a well-deserved Fairtrade certified coffee or specialty beverage prepared in one of our Cafés Van Houtte.
+title: Café Van Houtte – Maître torréfacteur depuis 1919
+snippet: Venez vous sucrer le bec pendant le temps des sucres chez Café Van Houtte! DÉCOUVRIR LES NOUVEAUTÉS. Accueil. Dicit Omittantur. Lorem ipsum dolor sit amet, ad eos vulputate abhorreant conclusionemque, mea cu dicit omittantur definitiones. Mei purto vivendum comprehensam an, facete splendide rationibus eos ei.
+title: Menu – Café Van Houtte
+snippet: Prepared by our master roasters, the robust and sweet flavors of our Van Houtte Espresso Superiore has conquered the finest palettes in the world. Its taste has woody notes and intense body that you will enjoy from the first sip.
+title: Master Roaster since 1919® | Van Houtte
+snippet: Van Houtte® Master Roaster proudly offers you carefully selected Arabica beans in a range of formats, including ground coffee, whole-bean coffee and convenient recyclable K-cup pods. Explore the art of coffee culture, discover delicious recipes, shop online and enjoy the best quality beans, blends and roasts that Van Houtte® has to offer.
+title: Find a Café – Café Van Houtte
+snippet: Find a Café Van Houtte. This website uses cookies to improve your experience while you navigate through the website.
+title: Catering Service – Café Van Houtte
+snippet: Hosting a special occasion or a meeting ? Van Houtte catering service make it easy with an enticing range of fresh menu choices to satisfy all tastes.
+title: Van Houtte | Café, capsules K-Cup &amp; Accessoires | Keurig
+snippet: Van Houtte ® - Café, capsules K-Cup ® et accessoires. En 1919, Albert-Louis Van Houtte ouvre sa première épicerie fine à Montréal. Très vite, il se concentre sur sa véritable passion : le café.
+title: Services de café Van Houtte : Solutions café pour entreprises
+snippet: Chez les Services de café Van Houtte, la santé et la sécurité de nos clients et de nos employés sont une priorité. En cette période critique, nos équipes travaillent sans relâche à la mise en place des mesures qui s’imposent pour assurer la continuité de nos services en toute sécurité, conformément aux recommandations de l’Organisation mondiale de la santé, des autorités de ...
+title: Cafe Van Houtte, Montreal - 20 Notre-Dame East, Ville ...
+snippet: Cafe Van Houtte, Montreal: See 47 unbiased reviews of Cafe Van Houtte, rated 4 of 5 on Tripadvisor and ranked #1,044 of 5,649 restaurants in Montreal.
+
+REL: 0
+POI Name: Licence IV
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Licence IV - Bistro Restaurant Griffintown, Montreal
+snippet: LICENCE IV Le Bistro + Bar à Gin du Vieux-Montréal Un restaurant dans le Vieux-Montréal qui vous offre une authentique expérience de bistro français au centre-ville de Montréal. Venez déguster les grands classiques de la cuisine française réinterprétés par notre chef.
+title: Licence IV - Bistro + Bar à Gin
+snippet: LICENCE IV BISTRO FRANÇAIS Licence IV offers France to Old Montréal, a bistro and an atmosphere of French tradition. A unique know-how and an artisanal production that makes everyone…
+title: LICENCE IV - Home - Montreal, Quebec - Menu, Prices ...
+snippet: Tapas Bar &amp; Restaurant in Montreal, Quebec. ABOUT LICENCE IV. Le Bistro + Bar à Gin du Vieux-Montréal. Le LICENCE IV, maintenant installé dans le Vieux-Montréal, vous offre une adresse bon chic bon genre... See More. Community See All. 2,720 people like this. 2,819 people follow this.
+title: Menu | Licence IV | Restaurant | Bistro + Bar à Gin du ...
+snippet: Licence IV | Restaurant français qui vous fait redécouvrir les classiques des Bistros Francais. Consultez notre menu et reservez votre experience.
+title: LICENCE IV, Montreal - Le Sud-Ouest (Southwest District ...
+snippet: Sassy &amp; Sophisticated Gin Bar serving delicious, Market-Fresh, Tapas in Old Montreal Le LICENCE IV, maintenant installé dans le Vieux-Montréal, vous offre une adresse bon chic bon genre pour un TÊTE À TÊTE ROMANTIQUE, un BRUNCH DU WEEKEND et une FÊTE ENTRE AMIS.
+title: Menu - Licence IV - Bistro Restaurant Griffintown, Montreal
+snippet: Menu - Licence IV - Bistro Restaurant Griffintown, Montreal ... Previous Next
+title: LICENCE IV, Vieux-Montréal (@licenceiv) • Instagram photos ...
+snippet: LICENCE IV, Vieux-Montréal Tapas Bar &amp; Restaurant ? « Sexy &amp; Sympathique » Le Bistro + Bar à Gin! • 70 GIN[s]⠀⠀⠀⠀ • WKEND BRUNCH | Cuisine du Marché⠀⠀ • jeudis deuxmoiselle, Ladies Night 2 x 1⠀ bit.ly/LicenceIV
+title: LICENCE IV - Posts - Montreal, Quebec - Menu, Prices ...
+snippet: Dear family, clients &amp; friends . Following the public health recommendations, we have decided to temporarily close our doors. Your health and safety, including the well-being of our employees, are important to us.
+title: Licence IV - Restaurant Griffintown - Page Contact
+snippet: Licence IV - Restaurant Griffintown - Bistro Français au centre-ville de Montréal! Page Contact: Heures d&#39;ouverture, réservation et coordonnées.
+title: Licence IV Apologized For A Coronavirus Joke That Some ...
+snippet: An incident at Montreal restaurant has created a stir on social media and has led to the owners issuing a public apology. Licence IV, a bistro-bar in Old Montreal was accused of racism by a Vancouverite of Asian descent who was visiting Montreal. As she walked by the restaurant, she says two people knocked on the window, gestured at her, and pointed at the phrase &quot;no coronavirus here,&quot; w
+
+REL: 0
+POI Name: Yoga Sangha
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Yoga Sangha Montréal - Cours de yoga à Montréal
+snippet: Depuis vingt ans, l&#39;oasis à Montréal. Le Centre Yoga Sangha offre des cours pour tous les niveaux. Yoga hatha, vinyasa, détente, prénatal, postnatal, sénior. Retraites à travers le monde, ateliers, massothérapie, etc...
+title: Yoga Sangha - Home | Facebook
+snippet: Yoga Sangha, Montreal, QC. 6.5K likes. Dynamisme et renommée à Montréal. Cours et Programme en Enseignement du yoga offrent une expérience complète de la discipline, tant physique que spirituel.
+title: HORAIRE | Yoga Sangha Montréal
+snippet: Cours de hatha, vinyasa, détente, prénatal, postnatal, respiration, sénior.
+title: Yoga Sangha - Yoga Studio, Yoga, Yoga Classes
+snippet: Ashtanga Yoga, Vinyasa Yoga, Hatha Yoga, Power Yoga, Beginner Yoga. Yoga Sangha is located at 13 North Ocean Avenue in Patchogue, NY 11772.
+title: Formation de professeurs | Yoga Sangha Montréal
+snippet: Formation en enseignement du yoga. Yoga Sangha est reconnue par la fédération internationale de yoga et la fédération francophone de yoga.
+title: Yoga Sangha - Ville-Marie - Montreal, QC, Canada
+snippet: 7 reviews of Yoga Sangha &quot;Prior to coming here, I had never noticed this lovely &quot;Chateau Frontenac&quot; style building in the Old Port. The yoga studio is in the same location as the Lole head office. The reception and lounge area is phenomenal and…
+title: Yoga Sangha Montreal, QC Yoga - MapQuest
+snippet: Get directions, reviews and information for Yoga Sangha in Montreal, QC.
+title: Class Schedule | Yoga Sangha
+snippet: Tonight&#39;s class is a wonderful introduction to yoga! Renee will guide you through a beginner class that will end your day perfectly! All lev...
+title: Yoga Sangha - Reviews | Facebook
+snippet: Yoga Sangha - 4412, Boul St-Laurent, Montreal, Quebec H2Y 1A6 - Rated 4.9 based on 95 Reviews &quot;When I passed this old Viger Hotel and noticed there was a...
+title: Yoga Sangha - Montreal - YouTube
+snippet: This feature is not available right now. Please try again later.
+
+REL: 0
+POI Name: North Star
+POI City: Montreal
+POI Country: CA
+POI Main category: Nightlife
+POI Sub category: Bars, Arcades, 
+Snippets:
+title: N O R T H S T A R North Star Pinball
+snippet: North Star Pinball is Montréal pinball bar. Vintage pinball, home-made ginger beer, tavern snacks, and great cocktails.
+title: NORTHSTAR - Empowering humanity to preserve our planet
+snippet: A sustainable Earth Safe and secure space A living infrastructure and platform to serve future generations Empowering humanity to preserve our planet Conserving mangrove ecosystems worldwide is equivalent to removing 150 millions cars from the road.
+title: North Star Machines à Piastres - Home | Facebook
+snippet: North Star Machines à Piastres - 3908 Blvd St. Laurent, Montreal, Quebec H2W 1Y2 - Rated 4.9 based on 86 Reviews &quot;hIGHLY HIGHLY RECOMMENDS 5$ ALL YOU CAN...
+title: 1980-Stanley Cup Quarter Finals - North Stars vs Canadiens ...
+snippet: April 27 th, 1980. Quarter final matchup between the Minnesota North Stars and the 4 times defending champions the Montreal Canadiens. Montreal finished 19 points ahead of the North Stars during ...
+title: Global Team - NorthStar Earth &amp; Space Inc.
+snippet: Combining 40 years of experience and a unique diversity of expertise, talents and cultures, Thales Alenia Space architects design and deliver high technology solutions for telecommunications, navigation, Earth observation, environmental management, exploration, science and orbital infrastructures.
+title: Montreal ‘barcade’ North Star opens its doors on St ...
+snippet: North Star is now open, with its official grand opening date on Jan. 23. An earlier version of this story incorrectly identified the owners of North Star barcade. The Montreal Gazette regrets the ...
+title: North Star Academy Laval
+snippet: North Star Academy Laval students were privileged to welcome Sophie Grégoire Trudeau on stage last Monday, to present WE Well Being and talk about the need to go upstream and empower educators, youth and families with well-being prevention and promotion support.
+title: North Star reunites pinball and booze after decades-old ...
+snippet: Montreal North Star reunites pinball and booze after decades-old ban. A new bar on St. Laurent Boulevard is bringing back a dying pastime and helping to change a borough’s laws that forbade it.
+title: Courtiers North Star Montreal, QC Financing - MapQuest
+snippet: Get directions, reviews and information for Courtiers North Star in Montreal, QC.
+title: North Star Academy Laval
+snippet: North Star Academy Laval (NSAL) is an academic organization that meets the needs of the student-no matter how diverse his/her style of learning may be. With much dedication and perseverance, Mme. Pepin has laid the school’s foundation- one that speaks to each child: “You can succeed.
+
+REL: 0
+POI Name: Bar K Karaoke
+POI City: Montreal
+POI Country: CA
+POI Main category: Nightlife
+POI Sub category: Karaoke, 
+Snippets:
+title: Bar K Karaoke
+snippet: Suite aux directives du Gouvernment du Québec de fermer tous les bars, nous sommes fermés jusqu&#39;à nouvel avis. ... K Karaoke 2110 rue Crescent, 2nd Floor Montreal, QC, H3G 2B8 (514)903-7799 View my complete profile. Total Pageviews. Blog Archive.
+title: Bar K Karaoke - Home | Facebook
+snippet: Bar K Karaoke - 2110 Crescent, Montreal, Quebec H3G 2B8 - Rated 4.4 based on 70 Reviews &quot;My friends and I rented the large room on Dec 16th. The service...
+title: Les 8 meilleurs bars à karaoké de Montréal | Nightlife
+snippet: Le bar K Karaoke est un autre bar de type asiatique ou tu peux te faire une petite soirée privée. Évidemment, la sélection y est principalement anglophone, mais elle est assez grande. Tu pourras aussi manger des bouchées comme des dumplings et boire à petit prix.
+title: Bar K Karaoke (Montreal) - 2020 All You Need to Know ...
+snippet: Get an insider’s take on Old Montreal during this guided walking tour, which lets you leave the navigating to someone else. Choose a shorter walk of either the east or west sides or a longer walk that covers both.
+title: Bar K Karaoke - Accueil | Facebook
+snippet: Bar K Karaoke - 2110 Crescent, Montréal H3G 2B8 - Note de 4.4 sur la base de 70 avis «Notre salle hier était laide et sans espace pour 5. Ça faisait...
+title: Bar K Karaoke (Montreal) - All You Need to Know BEFORE You ...
+snippet: Bar K Karaoke, Montreal: See 5 reviews, articles, and photos of Bar K Karaoke, ranked No.111 on Tripadvisor among 191 attractions in Montreal.
+title: Best Montreal Karaoke Bars - MTL Blog
+snippet: Drinks + singing = magic.
+title: Top Karaoke Bars in Centre-Ville (Downtown) (Montreal ...
+snippet: Top Karaoke Bars in Centre-Ville (Downtown): See reviews and photos of Karaoke Bars in Centre-Ville (Downtown), Montreal (Quebec) on Tripadvisor.
+title: Bar K Karaoke (Montréal) : 2020 Ce qu&#39;il faut savoir pour ...
+snippet: Bar K Karaoke, Montréal : consultez 5 avis, articles et photos de Bar K Karaoke, classée n°110 sur 191 activités à Montréal sur Tripadvisor.
+title: Bar K Karaoke: Facebook
+snippet: facebook.com / k karaoke. Email This BlogThis! Share to Twitter Share to Facebook Share to Pinterest. No comments: Post a Comment. Home. Subscribe to: Posts (Atom) K Karaoke 2110 rue Crescent, 2nd Floor Montreal, QC, H3G 2B8 (514)903-7799 View my complete profile. Total Pageviews. Blog Archive.
+
+REL: 0
+POI Name: Depanneur Saint-Paul
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Depanneur Saint-Paul - Ville-Marie - Montreal, QC
+snippet: Depanneur Saint-Paul is a delightful little coffee and sundries shop in the heart of Old Montreal. The coffee bar carries your traditional coffee/espresso beverages plus a smattering of pastries and prepared foods like salads, wraps, etc.
+title: Depanneur LA Reserve St Paul • Montreal • Quebec •
+snippet: ★ Depanneur LA Reserve St Paul ★ , Montreal, Quebec, 5148425663 ★ Paul ... in the hunting or fishing industry, Beauchene La Reserve ... Call Caron Paul Pavillon. Caron Paul Pavillon will be ... Depanneur Du Boutte is the only choice you&#39;ll ever need to ...
+title: Dépanneurs in Montreal QC | YellowPages.ca™
+snippet: Locate and compare Dépanneurs in Montreal QC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for. ... Tian Xia Sushi &amp; Depanneur. 928, av du Mont-Royal E, Montréal, QC H2J 1X2 Get directions. Restaurants, Sushi Restaurant.
+title: Dépanneur Aviron - Hours &amp; Reviews - 8 Rue Saint Paul Est ...
+snippet: Dépanneur Aviron, Convenience store in Montréal, Québec, 8 Rue Saint Paul Est, Montréal, QC H2Y 1G1 – Hours of Operation &amp; Customer Reviews.
+title: Dépanneur Paul - Hours &amp; Reviews - 50 Avenue des Pins ...
+snippet: Dépanneur Paul, Convenience store in Montréal, Québec, 50 Avenue des Pins, Montréal, QC H2W 1N5 – Hours of Operation &amp; Customer Reviews.
+title: Le Depanneur Cafe - 330 Photos - 162 Reviews - Breakfast ...
+snippet: Le Depanneur Cafe - 206 Rue Bernard O, Montreal, Quebec H2T 2K4 - Rated 4.7 based on 162 Reviews &quot;Super cool place, good food, drinks, terrasse and had...
+title: SDC Old Montreal | Dépanneur St-Paul
+snippet: Vieux-Montréal SDC. Old Montreal is a business district and a historic place in Montreal. Discover our actions and find a hotel, office or a place to shop in Montreal.
+title: Le Depanneur Cafe, Montreal - Le Plateau Mont-Royal ...
+snippet: Le Depanneur Cafe, Montreal: See 42 unbiased reviews of Le Depanneur Cafe, rated 4.5 of 5 on Tripadvisor and ranked #769 of 5,655 restaurants in Montreal.
+title: Depanneur Aviron - Opening Hours - 8 Rue St Paul E ...
+snippet: Depanneur Aviron - Montréal - phone number, website, address &amp; opening hours - QC - Convenience Stores. Find everything you need to know about Depanneur Aviron on Yellowpages.ca Please enter what you&#39;re searching for
+title: Dépanneurs à Saint-Michel Montreal QC | PagesJaunes.ca(MC)
+snippet: Sous la rubrique Dépanneurs à Saint-Michel Montreal QC, des Pages Jaunes, découvrez et comparez rapidement les informations et les coordonnées des entreprises locales qui s&#39;y trouvent. ... Depanneur Les 3 Cousins. 4195, 51E rue, Montréal QC H1Z 1J2 Itinéraire. Épiceries. Ouvert à 08:00.
+
+REL: 0
+POI Name: Sky Venture
+POI City: Laval
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Skydiving, 
+Snippets:
+
+
+REL: 0
+POI Name: Gazette Restaurant
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Tapas/Small Plates, French, 
+Snippets:
+title: Gazette Restaurant Montreal - gaZette… where alchemy matters
+snippet: Contemporary, yet steeped in history. Downtown, yet on the steps of historic Montreal. Modern and urban, yet soothing and welcoming. gaZette restaurant… located in the former Gazette building. Québec terroir… inspired and constantly evolving, “Chef Paul Little makes the experience emotional” more info
+title: Local Food Reviews | Montreal Gazette
+snippet: Visit Montreal Gazette for the latest food reviews from local critics. Find local restaurant reviews and recommendations on local places to visit.
+title: menu - The Gazette Restaurant | Old Port Montreal
+snippet: * Our Chef has crafted these delicious dishes with your well-being in mind, giving you the freedom to choose when it comes to portion size, nutritional balance and quality of ingredients.
+title: Montreal Gazette
+snippet: The woman, who had more than 25 years of experience, had increased the number of shifts she worked at CHSLD Grace Dart until she fell ill from the virus after last working on April 11. &quot;(E)even in ...
+title: Gazette Restaurant Montreal - Montréal, QC | OpenTable
+snippet: Book now at Gazette Restaurant Montreal in Montréal, QC. Explore menu, see photos and read 121 reviews: &quot;Service was poor&quot;
+title: gaZette Restaurant Montreal - Home | Facebook
+snippet: gaZette Restaurant Montreal, Montreal, QC. 405 likes · 1 talking about this · 1,115 were here. Restaurant &amp; bar, salle à manger privée disponible Restaurant &amp; bar, private dining room available...
+title: gaZette Restaurant and Lounge in Le Westin Montreal ...
+snippet: gaZette Restaurant and Lounge in Le Westin Montreal, Montreal: See 197 unbiased reviews of gaZette Restaurant and Lounge in Le Westin Montreal, rated 4 of 5 on Tripadvisor and ranked #332 of 5,654 restaurants in Montreal.
+title: Gazette Restaurant - Ville-Marie - Montreal, QC
+snippet: The Gazette is located in the Westin hotel in Old Montreal. It&#39;s kind of a sleek bar/restaurant but then there&#39;s TVs everywhere so not really sure what they&#39;re aiming for. They were also playing country music which confused me even more. There&#39;s a very long bar and two, also very long narrow community tables.
+title: menus - The Gazette Restaurant | Old Port Montreal
+snippet: 300 Rue St. Antoine Ouest, Montreal, QC H2Y 0A3. Toggle navigation Français; find a table
+title: about - The Gazette Restaurant | Old Port Montreal
+snippet: The Chef: Born and raised in Montreal, Quebec, Paul Little unknowingly began his culinary career at his mom’s side in the kitchen at home preparing for family gatherings. Schooled at McGill University and then at the Pearson Culinary Academy, he went on to own and operate a successful modern Italian restaurant – Ristorante D’Oro for […]
+
+REL: 0
+POI Name: Cafe Aunja
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Café Aunja - Home | Facebook
+snippet: Café Aunja - 1448 rue Sherbrooke O, Montreal, Quebec H3G 1K4 - Rated 4.7 based on 170 Reviews &quot;I went for the first time, because I was closeby and...
+title: Cafe Aunja, Montreal - Ville-Marie - Menu, Prices ...
+snippet: Cafe Aunja, Montreal: See 86 unbiased reviews of Cafe Aunja, rated 4.5 of 5 on Tripadvisor and ranked #417 of 5,650 restaurants in Montreal.
+title: THE 10 BEST Restaurants Near Cafe Aunja in Montreal ...
+snippet: Restaurants near Cafe Aunja, Montreal on Tripadvisor: Find traveler reviews and candid photos of dining near Cafe Aunja in Montreal, Quebec.
+title: CAFE AUNJA, Montreal - Ville-Marie - Updated 2020 ...
+snippet: Cafe Aunja, Montreal: See 86 unbiased reviews of Cafe Aunja, rated 4.5 of 5 on Tripadvisor and ranked #417 of 5,654 restaurants in Montreal.
+title: Café Aunja - Accueil | Facebook
+snippet: Café Aunja - 1448 rue Sherbrooke O, Montréal H3G 1K4 - Note de 4.7 sur la base de 170 avis «Déçue que le personnel ne parle pas français et n&#39;essaie même...
+title: Cafe Aunja, Montreal - recenzje restauracji - Tripadvisor
+snippet: Cafe Aunja, Montreal: zobacz bezstronne recenzje (86 ) na temat Cafe Aunja, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 419 z 5 649 restauracji w Montrealu.
+title: Cafe Aunja - Mis à jour 2020 - Info, Avis &amp; plus ...
+snippet: Cafe Aunja, 1448, rue Sherbrooke O, Centre-ville Restaurant, Montréal, Cafés &amp; Déjeuners, Tél., Addresse, Photos, Avis vérifiés &amp; Menus mis à jour, Venez nous rejoindre dans notre café charmant et confortable, à quelques...
+title: Adorable persian cafe - Cafe Aunja, Montreal Traveller ...
+snippet: Cafe Aunja: Adorable persian cafe - See 86 traveler reviews, 80 candid photos, and great deals for Montreal, Canada, at Tripadvisor.
+title: Café Aunja - Posts | Facebook
+snippet: Café Aunja - 1448 rue Sherbrooke O, Montreal, Quebec H3G 1K4 - Rated 4.7 based on 173 Reviews &quot;I went for the first time, because I was closeby and...
+title: Cafe Aunja, Montréal - Ville-Marie - Menu, prix et avis ...
+snippet: Cafe Aunja, Montréal : consultez 86 avis sur Cafe Aunja, noté 4,5 sur 5 sur Tripadvisor et classé #417 sur 5 655 restaurants à Montréal.
+
+REL: 0
+POI Name: Restaurant Sum Sushi
+POI City: Montreal
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: THE BEST Sushi in Montreal - Tripadvisor
+snippet: Best Montreal, Quebec Sushi: Find Tripadvisor traveler reviews of Montreal Sushi restaurants and search by cuisine, price, location, and more.
+title: Restaurant Sumo Sushi, Montreal - Pointe-aux-Trembles ...
+snippet: Restaurant Sumo Sushi, Montreal: See 5 unbiased reviews of Restaurant Sumo Sushi, rated 4 of 5 on Tripadvisor and ranked #2,731 of 5,652 restaurants in Montreal.
+title: Sum Sushi Montreal, QC H3G 2W4 - Reviews - Restaurantji
+snippet: Latest reviews and ??ratings for Sum Sushi at 1360 RenÃ©-LÃ©vesque Blvd W in Montreal - ☎️phone number, ☝address and map.
+title: Restaurant Sum Sushi - Montréal, QC | OpenTable
+snippet: Get menu, photos and location information for Restaurant Sum Sushi in Montréal, QC. Or book now at one of our other 4144 great restaurants in Montréal.
+title: THE BEST Dim Sum in Montreal (Updated April 2020 ...
+snippet: Best Dim Sum in Montreal, Quebec: Find 3,153 Tripadvisor traveller reviews of THE BEST Dim Sum and search by price, location, and more.
+title: The 10 Best Chinatown Restaurants (Montreal) - Tripadvisor
+snippet: Chinatown Restaurants - Montreal, Quebec: See 5,570 Tripadvisor traveler reviews of 5,570 restaurants in Montreal Chinatown and search by cuisine, price, and more.
+title: Online Menu of Restaurant Sumo Sushi, Pointe-Aux-Trembles, QC
+snippet: View the menu for Restaurant Sumo Sushi and restaurants in Pointe-Aux-Trembles, QC. See restaurant menus, reviews, hours, photos, maps and directions.
+title: THE BEST Montreal Sushi, Updated April 2020 - Tripadvisor
+snippet: Best Sushi in Montreal, Quebec: Find Tripadvisor traveller reviews of Montreal Sushi restaurants and search by price, location, and more.
+title: Sumo - Restaurant i Bergen og Oslo | Sushi | Asiatisk
+snippet: Vær forøvrig ansvarlig og trygg samt følg retningslinjene til Fhi! Og hvis du skal å spise ute eller hjemme i helgen, vil vi være der for deg. Hos oss vil du alltid finne akkurat den samme menyen med et bredt utvalget av sushi og varmmat, med den samme gode smaken, uavhengig av hvilke Sumo du besøker eller bestiller fra.
+title: Montreal Sushi Restaurants | RestoMontreal
+snippet: Find Montreal Sushi Restaurants - Updated Menus, Verified Reviews, Photos for Montreal Sushi Restaurants- places to eat, such as Shoji Sushi, Mikasa Sushi Bar Chiisai, Zento, Sushi Sama, Atelier de Cuisine Table Rouge...
+
+REL: 0
+POI Name: Club Copacabana
+POI City: Montreal
+POI Country: CA
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, 
+Snippets:
+title: Club CopaCabana - Dance &amp; Night Club - Montreal, Quebec ...
+snippet: Club CopaCabana - 1469 Rue Crescent, Montreal, Quebec H3G 2B2 - Rated 4.1 based on 497 Reviews &quot;I was all up for a good night, when me and my friends...
+title: Copacabana (dance club video) - YouTube
+snippet: Club Copacabana 1106 de Maisonneuve W. Montreal Open Friday- Saturday- and Sunday, when is Long week-end www.copacabanamontreal.com 18+
+title: Club Copacabana - Ville-Marie - Montreal, QC, Canada
+snippet: 3 reviews of Club Copacabana &quot;During my recent visit to Montreal, I was walking down Crescent street when a promoter called me over and asked if I wanted to have a good time. Given Montreal&#39;s reputation for bachelor parties galore, I wasn&#39;t sure…
+title: Montreal&#39;s Club Copacabana Is Latest Institution To Close ...
+snippet: After 21 years of entertaining Crescent Street club-goers with tropical and Latino rhythms, Montreal&#39;s Club Copacabana is closing and will be replaced by a brand-new club. The news was announced on the founder&#39;s Facebook page early this month. Club Copacabana was a popular spot for tourists and locals, alike, with a packed house every weekend.
+title: Copacabana (nightclub) - Wikipedia
+snippet: The Copacabana is a New York City nightclub that has existed in several locations. It is currently located in Times Square.. In earlier locations, many entertainers, such as Danny Thomas, Pat Cooper and the comedy team of Martin and Lewis, made their New York debuts at the Copacabana.The Barry Manilow song &quot;Copacabana&quot; (1978) is named after the club.
+title: Club CopaCabana - Dance &amp; Night Club - Montreal, Quebec ...
+snippet: Club CopaCabana, Montreal, Quebec. 14,754 likes · 11 talking about this · 27,141 were here. MAMBO Supperclub, Eat &amp; Party, this is a SupperClub with Latin Ambiance from 7pm to 3am Food service open...
+title: Copacabana Montreal - YouTube
+snippet: Copacabana
+title: THE 10 BEST Montreal Bars &amp; Clubs (with Photos) - Tripadvisor
+snippet: Top Montreal Bars &amp; Clubs: See reviews and photos of bars &amp; clubs in Montreal, Quebec on Tripadvisor.
+title: Club CopaCabana - Pub - Montreal, Quebec - 506 Reviews ...
+snippet: Club CopaCabana - 1469 Rue Crescent, Montreal, Quebec H3G 2B2 - Rated 4.1 based on 506 Reviews &quot;I was all up for a good night, when me and my friends...
+title: Copacabana Montréal - Montreal - 1469 Rue Crescent, Montréal
+snippet: À propos de Copacabana Montréal: BIENVENUE AU COPACABANA MONTRÉAL Elle a été nommée « La boîte de nuit la plus chaude au Nord de la Havane ». Le Copacabana offre à ses clients une ambiance tropicale en plein coeur du Centre-Ville de Montréal. discotheque
+
+REL: 0
+POI Name: Le Square Dorchester
+POI City: Montreal
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Square Dorchester — Wikipédia
+snippet: Situation et accès. Le square situé en centre-ville, est bordé à l&#39;est par la rue Metcalfe où l&#39;on retrouve l&#39;Édifice Sun Life, à l&#39;ouest par la rue Peel, l&#39;édifice du Dominion Square au nord et le boulevard René-Lévesque au sud. On retrouve au sud du boulevard René-Lévesque la place du Canada.. Origine du nom. Il rend honneur à Guy Carleton, baron de Dorchester.
+title: Dorchester Square - Wikipedia
+snippet: Dorchester Square (officially in French: square Dorchester, originally Dominion Square, French: square Dominion) is a large urban square in downtown Montreal.Together with Place du Canada, the area is just over 21,000 m 2 (230,000 sq ft) or 2.1 ha of manicured and protected urban parkland bordered by René Lévesque Boulevard to the south, Peel Street to the west, Metcalfe Street to the east ...
+title: Dorchester Square (Montreal) - 2020 All You Need to Know ...
+snippet: Hotels near Dorchester Square: (0.21 mi) Ritz-Carlton, Montreal (0.30 mi) Hôtel Le Crystal (0.16 mi) Le Mount Stephen (0.20 mi) Loews Hotel Vogue (0.23 mi) Four Seasons Hotel Montreal; View all hotels near Dorchester Square on Tripadvisor
+title: The 5 Best Dorchester Square (Le Square Dorchester) Tours ...
+snippet: Check out the best tours and activities to experience Dorchester Square (Le Square Dorchester). Don&#39;t miss out on great deals for things to do on your trip to Montreal! Reserve your spot today and pay when you&#39;re ready for thousands of tours on Viator.
+title: Héritage Montreal - Dorchester Square
+snippet: Come discover the recently restored Dominion Square, a symbol of prestige from the Victorian era, when Montreal became an unstoppable economic force in North America. Both a testament to and crucial element in the creation of a new downtown, the architecture of Dorchester Square and its monuments will lay bare its secrets to you.
+title: Square Dorchester (Montréal) : 2020 Ce qu&#39;il faut savoir ...
+snippet: Nous vous recommandons de réserver votre visite de Square Dorchester à l&#39;avance pour vous assurer d&#39;avoir une place. Si vous réservez sur Tripadvisor, vous avez jusqu&#39;à 24 heures avant le début de la visite pour obtenir un remboursement complet si vous annulez. Voir les 6 visites à Square Dorchester sur Tripadvisor
+title: Le « nouveau » square Dorchester inauguré à Montréal ...
+snippet: Une fontaine, des passerelles en hauteur, des trottoirs plus larges : la mairesse de Montréal, Valérie Plante, a officiellement ouvert le square Dorchester, jeudi, après des travaux qui auront ...
+title: Dorchester Square (Montreal) - All You Need to Know BEFORE ...
+snippet: We recommend booking Dorchester Square tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 6 Dorchester Square tours on Tripadvisor
+title: THE 10 BEST Restaurants Near Dorchester Square in Montreal ...
+snippet: Restaurants near Dorchester Square, Montreal on Tripadvisor: Find traveler reviews and candid photos of dining near Dorchester Square in Montreal, Quebec.
+title: Square Dorchester – Place du Canada, Montréal - Projet de ...
+snippet: Afin de rehausser le caractère prestigieux et emblématique du square Dorchester et de la place du Canada, la Ville de Montréal procède, depuis 2008, à leur réaménagement et leur mise en valeur.Ce projet est développé par la Ville de Montréal et le ministère de la Culture, des Communications et de la Condition féminine, dans le cadre de l’Entente sur le développement culturel de ...
+
+REL: 0
+POI Name: Montreal West Curling Club
+POI City: Montreal-Ouest
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Sports Clubs, 
+Snippets:
+title: Montreal West Curling Club
+snippet: The MWCC is a fun and active curling club which has been rocking the sheets for over 100 years! Come join us for a fun-filled season of great curling and special events! On our new website you can find information about our leagues, competitions, upcoming events (below), and our club calendar.
+title: Montreal West Curling Club - MWCC - Home | Facebook
+snippet: Montreal West Curling Club - MWCC. 243 likes. The Montreal West Curling Club welcomes members from age 8 to 108. Come and check out our 4 sheets of superb ice and our relaxing lounge. Check out the...
+title: Montreal West Curling Club
+snippet: Bienvenue! Venez vous joindre à nous pour une saison de curling haute en couleurs! Sur ce site web vour trouverez des renseignements au sujet de nos différentes ligues, des événements à venir (voir ci-dessous), ainsi que le calendrier du club. Pour savoir plus, veuillez voir notre paquet d’information pour la saison 2019-2020, ainsi que les frais d’inscription.
+title: leagues – Montreal West Curling Club
+snippet: Group Reservation Leagues. The following groups have reserved our ice on Sundays: Rolling Stones The Rolling Stones group curls at 9:00 AM on Sundays. West Montreal Sunday Curling. The West Montreal Sunday Curling group curls at 1:00 PM on Sundays. Canfir Canfir is a mixed social league of various ages and skill levels.
+title: Rentals – Montreal West Curling Club
+snippet: Facility Rentals. The Montreal West Curling Club facilities may be rented for special events or parties. For more info take a look at our Rentals Brochure &amp; MWCC Rental Information for 2019-20
+title: Réservations – Montreal West Curling Club
+snippet: Un représentant du Club de curling Montréal-Ouest doit être présent avant le début de l’activité pour donner les consignes de sécurité. Un cours d’initiation de base est offert pour la somme de 40 $, payable à l’instructeur. Les frais incluent l’utilisation des balais et des chaussures de glisse (sliders) du club.
+title: Montreal West Curling Club - MWCC - Home | Facebook
+snippet: Montreal West Curling Club - MWCC. 256 likes. The Montreal West Curling Club welcomes members from age 8 to 108. Come and check out our 4 sheets of superb ice and our relaxing lounge. Check out the...
+title: Montreal West Curling Club Montreal West, QC Curling Clubs ...
+snippet: Get directions, reviews and information for Montreal West Curling Club in Montreal West, QC.
+title: Royal Montreal Curling Club - Facility
+snippet: This is the official website for The Royal Montreal Curling Club (RMCC), the oldest active sports club in North America, situated in downtown Montreal, Quebec, Canada. Renowned for its strategic play, proud history, lasting traditions and great friendships, curling is increasingly popular with major competitions often broadcast live on television.
+title: Montreal West Curling Club - Hours &amp; Reviews - 17 Chemin ...
+snippet: Montreal West Curling Club, Gym in Montréal-Ouest, Québec, 17 Chemin Ainslie, Montréal-Ouest, QC H4X 1K4 – Hours of Operation &amp; Customer Reviews.
+
+Cand cities: {'Vancouver', 'Laval', 'Saint-Jérôme', 'Lévis', 'Montreal', 'Pointe-aux-Trembles', 'Montreal-Ouest'}

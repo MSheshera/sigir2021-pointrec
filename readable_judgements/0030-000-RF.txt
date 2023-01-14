@@ -1,0 +1,1066 @@
+City: Victoria
+Country: CA
+Main category: Restaurants and Food
+Description: Restaurant Recommendation HELP!? My wife and I are looking to have a good night out. Neither of us are big on the food scene and are kind of new to the Victoria area. We are NOT looking for anywhere: I need to wear a suit She needs to wear a dress/go over the top The bill will cost us more than our car payment We needed to book reservations 6 months ago We ARE looking for: Good portion sizes Quiet, intimate experience Good selection in foods, drinks and deserts Non-seafood (as I allergy and want to not die) So r/VictoriaBC, throw out your best recommendations and help me show my wife a good time! Thanks in advance!
+Rated POIs: 38
+Rel distr: [(0, 4), (1, 11), (2, 14), (3, 9)]
+=================================
+REL: 3
+POI Name: OLO Restaurant
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Canadian (New), Bars, 
+Snippets:
+title: OLO Restaurant, Victoria - Restaurantanmeldelser - Tripadvisor
+snippet: OLO Restaurant, Victoria: Se 634 objektive anmeldelser av OLO Restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 34 av 1 077 restauranter i Victoria.
+title: OLO Restaurant, Victoria - Downtown - Restaurant Reviews ...
+snippet: Reserve a table at OLO Restaurant, Victoria on Tripadvisor: See 634 unbiased reviews of OLO Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #34 of 1,076 restaurants in Victoria.
+title: OLO RESTAURANT, Victoria - Downtown - Updated 2020 ...
+snippet: Reserve a table at OLO Restaurant, Victoria on Tripadvisor: See 634 unbiased reviews of OLO Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #34 of 1,076 restaurants in Victoria.
+title: Olo - Picture of OLO Restaurant, Victoria - Tripadvisor
+snippet: OLO Restaurant, Victoria Picture: Olo - Check out Tripadvisor members&#39; 35,397 candid photos and videos of OLO Restaurant
+title: Scandic Victoria | Hotell i Oslo | Scandic Hotels
+snippet: Spør oss om anbefaling for en av Oslo sine mange restauranter og nyt noe godt å spise og drikke. Hotellet ligger 5 minutter fra Nationaltheateret T-banestasjon, og kommer du med bil har vi tilgang til garasje. Kort avstand til flytoget som tar 21 minutter til Oslo Lufthavn Gardermoen.
+title: OLO
+snippet: OLO Restaurant . 509 Fisgard Street, Victoria BC 250.590.8795 info@olorestaurant.com Sunday - Thursday 5-10pm Friday &amp; Saturday 5-11pm
+title: Victorias café &amp; Tapas AS, Nordstrand, Oslo - 1881.no
+snippet: Victorias café &amp; Tapas AS fra Nordstrand, Oslo. Restaurant. Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers…; Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjen…; Bar Vulkan Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med ...
+title: OLO Restaurant - Victoria, BC | OpenTable
+snippet: The Victoria dining scene has a gem in Olo. The team at Olo has built a superb menu from cocktails, to wine and rounded out with food creations sure to please your palate. Don’t walk past this spot. Open the door and walk right in, take a seat. Stay a while. You won’t regret it.
+title: Beste spisesteder i nærheten av Scandic Victoria, Oslo
+snippet: Restauranter i nærheten av Scandic Victoria på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Scandic Victoria, Oslo.
+title: OLO Restaurant in Victoria - Restaurant menu and reviews
+snippet: All info on OLO Restaurant in Victoria - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+
+REL: 3
+POI Name: Nourish In The Harbour
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, 
+Snippets:
+title: Nourish Kitchen &amp; Cafe
+snippet: Some of our very favourite ingredients &amp; prepared items from our kitchen for your home. EDIBLE ESSENTIALS are available for pick up only on the date that corresponds to your order.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Breakfast &amp; Lunch — Nourish Kitchen &amp; Cafe
+snippet: The days here at Nourish is casual &amp; bustling. There are two different areas, each with their own experience style in our home. One area is a full service, the other a counter service cafe; both spaces offer the breakfast &amp; lunch menu below.
+title: Nourish In The Harbour - Victoria, BC, Canada - Yelp
+snippet: 161 reviews of Nourish In The Harbour &quot;We had THE BEST breakfast: the pancakes are different than any other that I had. Tasty, soft, thick and it&#39;s a darker dough than the regular pancake mix. Super! Pouched eggs with sweet potatoes were also…
+title: Nourish In The Harbour - Victoria - Zomato
+snippet: Related to Nourish In The Harbour, Victoria Restaurants in City of Victoria, City of Victoria Restaurants, Victoria restaurants, Best Victoria restaurants, Victoria restaurants, Casual Dining in Victoria, Casual Dining near me, Casual Dining in Victoria Frequent searches leading to this page
+title: Nourish In The Harbour - Victoria - Zomato
+snippet: Nourish In The Harbour City of Victoria; Nourish In The Harbour, Downtown Victoria; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Nourish In The Harbour Restaurant on Zomato
+title: Nourish in the Harbour - Victoria, BC - Untappd
+snippet: Find out what&#39;s popular at Nourish in the Harbour in Victoria, BC in real-time and see activity
+title: Nourish In The Harbour - Victoria - Zomato
+snippet: Nourish In The Harbour Downtown Victoria Menu - View the Menu for Nourish In The Harbour City of Victoria on Zomato for Delivery, Dine-out or Takeaway, Nourish In The Harbour menu and prices. Nourish In The Harbour Menu
+title: Nourish in the Harbour Cafe Area - Picture of Nourish ...
+snippet: Nourish Kitchen &amp; Cafe, Victoria Picture: Nourish in the Harbour Cafe Area - Check out Tripadvisor members&#39; 35,322 candid photos and videos of Nourish Kitchen &amp; Cafe. Victoria. Victoria Tourism Victoria Hotels Victoria Bed and Breakfast Victoria Vacation Rentals
+
+REL: 3
+POI Name: The Apple Box
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Health Markets, 
+Snippets:
+title: The Apple Box- Victoria`s Frozen Meals - Hours &amp; Reviews ...
+snippet: The Apple Box- Victoria`s Frozen Meals, Restaurant in Victoria, British Columbia, 1725 Cook Street, Victoria, BC V8T 3P4 – Hours of Operation &amp; Customer Reviews.
+title: The Apple Box Victoria&#39;s Local Frozen Meals - 1725 Cook ...
+snippet: Write the first review of The Apple Box Victoria&#39;s Local Frozen Meals located at 1725 Cook Street Victoria Bc#2, Victoria, BC. Read and write Business and Trade Organizations reviews on n49
+title: TV - Apple (CA)
+snippet: Apple TV — with the Apple TV app, Apple TV+ and Apple TV 4K — puts you in control of what you watch, where you watch and how you watch.
+title: The Apple Box Victoria&#39;s Local Frozen Meals - Deli ...
+snippet: 1 visitor has checked in at The Apple Box Victoria&#39;s Local Frozen Meals. Deli / Bodega in Victoria, BC Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Kjøp Apple TV HD - Apple (NO)
+snippet: På Apple TV kan du velge og vrake i alt fra TV-programmer, filmer og direktesendt sport til mange tusen spill og apper. Se innhold fra iTunes og apper på App Store, eller bruk Siri Remote til å finne akkurat det du er på jakt etter.
+title: TV - Apple (AU)
+snippet: It’s TV that puts you in control of what you watch, where you watch and how you watch. And it’s all in one place — on every screen.
+title: Apple TV 4K - Apple (CA)
+snippet: Apple TV 4K lets you watch movies and shows in amazing 4K HDR and with Dolby Atmos sound. 1 It has great content from apps like Crave, Disney+ and Amazon Prime 2 — and streaming now, Apple Original shows and movies from Apple TV+. 3 You can use Siri to control it all with just your voice.
+title: Apple
+snippet: Apple Footer. iPhone SE is splash, water, and dust resistant and was tested under controlled laboratory conditions with a rating of IP67 under IEC standard 60529 (maximum depth of 1 meter up to 30 minutes).
+title: Victoria&#39;s Local Frozen Meals Victoria BC -The Apple Box ...
+snippet: Victoria&#39;s Local Frozen Meals Victoria BC -The Apple Box Victoria&#39;s Local Frozen Meals 1725 Cook Street Victoria Bc#2, Victoria, V8T 3P4, Phone Number 250-590-6257 or 12505906257, Victoria Radio Broadcasting Station, Business Reviews &amp; Ratings, Hours of Operation, Victoria&#39;s Local Frozen Meals Victoria BC -The Apple Box Victoria&#39;s Local Frozen Meals Deals and Promotions, Phone
+title: Apple Box The in Victoria, BC | 2505906257 | 411.ca
+snippet: Learn more about Apple Box The | Victoria, BC. Find directions and contact info, read reviews and browse photos on their 411 business listing. Business solutions Add your business FR ...
+
+REL: 3
+POI Name: Standard Pizza
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, 
+Snippets:
+title: STANDARD PIZZA
+snippet: Standard Pizza is a small, independently owned neighbourhood pizzeria, in Victoria BC, that focuses on quality ingredients delivered to you at the best of our abilities. We serve up two sizes of wood fired pizza for, take-out or dine-in, to nice people like you.
+title: STANDARD PIZZA
+snippet: Standard Pizza is an independently owned neighbourhood pizzeria, in Victoria BC, that focuses on quality ingredients delivered to you at the best of our abilities. We serve up two sizes of wood fired pizza for, take-out or dine-in, to nice people like you.
+title: STANDARD PIZZA, Victoria - Updated 2020 Restaurant Reviews ...
+snippet: Standard Pizza, Victoria: See 23 unbiased reviews of Standard Pizza, rated 4.5 of 5 on Tripadvisor and ranked #274 of 1,077 restaurants in Victoria.
+title: Standard Pizza - Home - Victoria, British Columbia - Menu ...
+snippet: Standard Pizza - 1515 Cook st, Victoria, British Columbia v8t 5e5 - Rated 5 based on 64 Reviews &quot;Toppings are a bit minimal, but it&#39;s still by far the...
+title: Standard Pizza in Victoria - Restaurant menu and reviews
+snippet: Besides George Mason&#39;s Heritage Home, visit Standard Pizza in the vicinity. Canadian food will be what you are offered to taste at this pizzeria. Enjoy tasty garlic pizza, salami and pies Standard Pizza offers. Try the delicious margaritas offered here.. Most users state that the staff is energetic.
+title: Standard Pizza, Victoria - Menu, Prices &amp; Restaurant ...
+snippet: Standard Pizza, Victoria: See 23 unbiased reviews of Standard Pizza, rated 4.5 of 5 on Tripadvisor and ranked #274 of 1,077 restaurants in Victoria.
+title: Standard Pizza Co.
+snippet: **Due to the growing concern over the spread of covid-19 and the recommendation of the buncombe co. dept. of health and human services, we will no longer be open for dine-in customers. we are moving to &quot;curbside&quot; carry out/delivery only, until further notice. we ask that you please call in carry out orders ahead of time. we will take payment over the phone and bring your order out to car
+title: THE 10 BEST Pizza Places in Victoria, Updated April 2020 ...
+snippet: Best Pizza in Victoria, Victoria Capital Regional District: Find Tripadvisor traveller reviews of Victoria Pizza places and search by price, location, and more. Victoria. Victoria Tourism Victoria Hotels ... Standard Pizza. 23 reviews. Pizza, Canadian $ Menu. 0.9 km. Vancouver Island
+title: The Best Pizza In North America - Review of Standard Pizza ...
+snippet: Standard Pizza: The Best Pizza In North America - See 22 traveler reviews, 9 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+title: Standard Pizza Victoria, BC V8T 3N7 - 51 Reviews and ...
+snippet: Loved it - ordered the Margherita pizza with anchovies, the pizza was cooked perfectly and was damn good. I bought this at the same time as I purchased a pizza from another joint close by (great opportunity to compare two new places); the other shop was actually quite good too but this version was nearly spot on perfect (needed more basil and definitely more anchovy, don&#39;t be stingy guys).
+
+REL: 3
+POI Name: Il Covo Trattoria
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Il Covo Trattoria: Authentic Italian Restaurant in ...
+snippet: Trattoria – “an Italian style eating establishment serving classic home-cooked Italian cuisine in a warm and welcoming neighborhood atmosphere” – Located in historic James Bay steps from the Inner Harbour in a 100 year old heritage building, Il Covo Trattoria opened in June 2014, is family run and authentically Italian.
+title: Menu - Il Covo Trattoria
+snippet: crisp romaine tossed with freshly made croutons, crispy pancetta &amp; capers, dressed with Il Covo house-made dressing &amp; topped with parmigiano cheese 11. Spinaci e Gorgonzola. spinach, candied pecan, gorgonzola cheese &amp; strawberries tossed with a strawberry vinaigrette 16 . Insalata Toscana
+title: Il Covo Trattoria, Victoria - Menu, Prices &amp; Restaurant ...
+snippet: Il Covo Trattoria, Victoria: See 839 unbiased reviews of Il Covo Trattoria, rated 4.5 of 5 on Tripadvisor and ranked #29 of 1,076 restaurants in Victoria.
+title: Il Covo Trattoria - Victoria, BC, Canada - Yelp
+snippet: Located in Victoria&#39;s historical district in James Bay, steps from the Inner Harbour, Il Covo Trattoria is a memorable and unique dining experience. Being a Trattoria, it&#39;s the perfect spot for any occasion where you can enjoy casual, rustic Italian cuisine in a warm, old world Tuscan ambience.
+title: Reservations &amp; Contact - Il Covo Trattoria
+snippet: Dinner Hours: Monday ~ Sunday from 5pm Take out Available *Garden patio open seasonally Reservations are not available for the patio. Dinner Reservations
+title: Image Gallery - Il Covo Trattoria
+snippet: Contact Us. 106 Superior St, Victoria, BC; Reservations: 250-380-0088; Dinner Hours: Monday ~ Sunday from 5:00pm
+title: Il Covo Trattoria - 1,921 Photos - 129 Reviews - Italian ...
+snippet: Il Covo Trattoria - 106 Superior Street, Victoria, British Columbia V8V 1T1 - Rated 4.8 based on 129 Reviews &quot;We would have given IL Cove 5 stars had we...
+title: Reviews - Il Covo Trattoria
+snippet: Reviews “I don’t generally send emails out to restaurants after a meal, but I had to today… my family ate at Il Covo last night, capping off 4 days together that started with Andrea Bocelli in Vancouver. ... Blog Review: A great big slice of Italian passion in Victoria B.C. – Il Covo Trattoria
+title: Il Covo Trattoria, Victoria - Restaurantanmeldelser ...
+snippet: Il Covo Trattoria, Victoria: Se 839 objektive anmeldelser av Il Covo Trattoria, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 29 av 1 076 restauranter i Victoria.
+title: THE 10 BEST Restaurants Near Il Covo Trattoria in Victoria ...
+snippet: Restaurants near Il Covo Trattoria, Victoria on Tripadvisor: Find traveler reviews and candid photos of dining near Il Covo Trattoria in Victoria, British Columbia.
+
+REL: 3
+POI Name: Be Love
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Vegan, Vegetarian, Gluten-Free, 
+Snippets:
+title: be love restaurant – Pure Nourishment
+snippet: be love opened in October, 2013 and is the collaborative vision of siblings Heather and Joe Cunliffe and their dad, Ayrie. A full service, modern restaurant serving organic, local, plant based cuisine that is as delicious as it is nourishing and energizing.
+title: Be love, Victoria - Menu, Prices &amp; Restaurant Reviews ...
+snippet: be love is an offering of sustainable organic cuisine to nourish and heal the body, mind &amp; soul. Here to honor our earth community and one another, we mindfully source our ingredients, fostering change to provide a future of health, love &amp; respect for all.
+title: BE LOVE, Victoria - Updated 2020 Restaurant Reviews, Menu ...
+snippet: be love is an offering of sustainable organic cuisine to nourish and heal the body, mind &amp; soul. Here to honor our earth community and one another, we mindfully source our ingredients, fostering change to provide a future of health, love &amp; respect for all.
+title: Could this be Love - Victoria Acosta - YouTube
+snippet: Could This Be Love (An Instrumental Lullaby) Licensed to YouTube by Audiam (Label) (on behalf of Jeff Durand); UMPI, Audiam (Publishing), and 10 Music Rights Societies
+title: be love - Home - Victoria, British Columbia - Menu, Prices ...
+snippet: be love - 1019 Blanshard St, Victoria, British Columbia v8w 2h4 - Rated 4.7 based on 203 Reviews &quot;It was absolutely and completely awesome! A huge thank...
+title: Could This be Love ~ Victoria Acosta - YouTube
+snippet: Could This Be Love - by Victoria Acosta Woke up this morning, Just sat in my bed, 8 a.m first thing in my head, Is a certain someone, Who&#39;s always on my mind, He treats me like a lady in everyway ...
+title: Be Love (@belovevictoria) • Instagram photos and videos
+snippet: 3,053 Followers, 174 Following, 319 Posts - See Instagram photos and videos from Be Love (@belovevictoria)
+title: Could This Be Love-Victoria Acosta - YouTube
+snippet: could this be love no copyright offense intended I do not own this song
+title: Vegan in Victoria - Review of Be love, Victoria, British ...
+snippet: Be love: Vegan in Victoria - See 306 traveler reviews, 102 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+
+REL: 3
+POI Name: Little Yunnan Restaurant
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Chinese, 
+Snippets:
+title: Little Yunnan Restaurant, Victoria - Restaurant Reviews ...
+snippet: Little Yunnan Restaurant, Victoria: See 56 unbiased reviews of Little Yunnan Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #165 of 1,076 restaurants in Victoria.
+title: Little Yunnan Restaurant - Victoria, British Columbia ...
+snippet: Little Yunnan Restaurant - 546 Fisgard St, Victoria, British Columbia V8W 1R4 - Rated 5 based on 5 Reviews &quot;Very authentic! The owner and his family cook...
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: LITTLE YUNNAN RESTAURANT, Victoria - Updated 2020 ...
+snippet: Little Yunnan Restaurant, Victoria: See 56 unbiased reviews of Little Yunnan Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #165 of 1,077 restaurants in Victoria.
+title: Exotic - Review of Little Yunnan Restaurant, Victoria ...
+snippet: Little Yunnan Restaurant: Exotic - See 52 traveler reviews, 46 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+title: Excellent Lunch - Review of Little Yunnan Restaurant ...
+snippet: Little Yunnan Restaurant: Excellent Lunch - See 56 traveler reviews, 48 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+title: Authentic Yunnan cuisine, solidly... - Little Yunnan ...
+snippet: Little Yunnan Restaurant: Authentic Yunnan cuisine, solidly delicious! - See 54 traveler reviews, 46 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+title: Photos for Little Yunnan Restaurant - Yelp
+snippet: Photos at Little Yunnan Restaurant - Victoria, BC. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Little Yunnan Restaurant. Little Yunnan Restaurant. 79 reviews Add photos All (140) Food (123) Inside (6) Outside (3) Menu (1) Drink (1) Search photos... 140 photos mention
+title: Little Yunnan Restaurant Victoria, BC V8W 1R4 - 93 Reviews ...
+snippet: Latest reviews, photos and ??ratings for Little Yunnan Restaurant at 546 Fisgard St in Victoria - ⏰hours, ☎️phone number, ☝address and map.
+title: Little Yunnan - Little Yunnan Restaurant, Victoria ...
+snippet: Little Yunnan Restaurant: Little Yunnan - See 51 traveler reviews, 44 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+
+REL: 3
+POI Name: The Flying Pig
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Canadian (New), Wine Bars, 
+Snippets:
+title: The Flying Pig
+snippet: The Flying Pig Group of Restaurants is a collection of culinary experiences that deliver authentic food made by genuine people. Based on the West Coast of Canada, our restaurants draw inspiration from the diversity of fresh ingredients readily available here, and the tradition of unforgettable but humble family feasts.
+title: Menu | The Flying Pig Restaurant
+snippet: I know what you’re thinking. The Flying Pig? You must have lots of pork on the menu, right? Nothing could be further from the truth. To be honest, our menu breakdown has a wide range of items and, yes, a small portion can be pork.
+title: THE FLYING PIG WHARF STREET, Victoria - Updated 2020 ...
+snippet: The Flying Pig Wharf Street, Victoria: See 104 unbiased reviews of The Flying Pig Wharf Street, rated 4.5 of 5 on Tripadvisor and ranked #144 of 1,077 restaurants in Victoria.
+title: The Flying Pig Wharf Street, Victoria - Menu, Prices ...
+snippet: The Flying Pig Group of Restaurants is a collection of culinary experiences that deliver authentic food made by genuine people. Based on the West Coast of Canada, our restaurants draw inspiration from the diversity of fresh ingredients readily available here, and the tradition of unforgettable but humble family feasts.
+title: The Flying Pig - Home - Victoria, British Columbia - Menu ...
+snippet: The Flying Pig. 230 likes · 5 talking about this · 778 were here. Based on the West Coast of Canada, our restaurants draw inspiration from the diversity of fresh ingredients readily available here,...
+title: Contact | The Flying Pig Restaurant
+snippet: The Flying Pig takes reservations for lunch and brunch at all locations and accepts dinner reservations at our Olympic Village and Victoria locations. We reserve a portion of our available tables for walk-ins and we’d be happy to add your name to our wait list if we are busy when you drop by and we’ll call you when your table is almost ready.
+title: The Flying Pig (Victoria) Victoria, BC V8W 1T9 - 48 ...
+snippet: Latest reviews, photos and ??ratings for The Flying Pig (Victoria) at 1245 Wharf St in Victoria - ⏰hours, ☎️phone number, ☝address and map.
+title: Reservations | The Flying Pig Restaurant
+snippet: The Flying Pig has locations in Yaletown, Gastown, Olympic Village and in Downtown Victoria, BC. Please note that our Gastown and Yaletown locations take reservations for Lunch and Brunch only – Dinner is first come first served.
+title: Flying Pig Victoria | Reservation, map and reviews | Bookenda
+snippet: The Flying Pig accepts online reservations for up to 16 people. Happy Hour is all first come first served. If you have a larger party or do not see a time that works below please call the restaurant directly 250.483.3814
+title: About Us | The Flying Pig Restaurant
+snippet: The Flying Pig Group of Restaurants is a collection of culinary experiences that deliver authentic food made by genuine people. Based on the West Coast of Canada, our restaurants draw inspiration from the diversity of fresh ingredients readily available here, and the tradition of unforgettable but humble family feasts. In short, we create experiences that feel like home – come eat with us!
+
+REL: 3
+POI Name: Virtuous Pie
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Vegan, Ice Cream & Frozen Yogurt, 
+Snippets:
+title: Victoria - Virtuous Pie
+snippet: Virtuous Pie offers a range of plant-based pizza and ice cream that is delicious, supports a healthier you and the planet.
+title: Virtuous Pie | Pizza + Ice Cream made from Plants
+snippet: Virtuous Pie is an elevated fast-casual restaurant with locations in Canada &amp; USA, focused on handcrafted pizza and ice-cream, made 100% from plants.
+title: Restaurant - Virtuous Pie
+snippet: Virtuous Pie offers a range of plant-based pizza and ice cream that is delicious, supports a healthier you and the planet.
+title: Virtuous Pie Vancouver Chinatown | Pizza + Ice Cream made ...
+snippet: Virtuous Pie Vancouver Chinatown is an elevated fast-casual restaurant, focused on handcrafted pizza and ice-cream, made 100% from plants.
+title: Virtuous Pie Victoria - Home - Victoria, British Columbia ...
+snippet: Virtuous Pie Victoria. 869 likes · 114 talking about this · 215 were here. An elevated fast-casual restaurant, focused on handcrafted pizza and ice...
+title: About - Virtuous Pie
+snippet: Virtuous Pie is in our people. Everyday our restaurant team members bring the Virtuous Pie vision to life, whether it be in kitchen executing a special-order pizza, assisting a customer to select the perfect scoop for dessert, or by sharing their insights and knowledge with the head office team.
+title: Virtuous Pie (@virtuous_pie) • Instagram photos and videos
+snippet: 39.3k Followers, 1,622 Following, 1,110 Posts - See Instagram photos and videos from Virtuous Pie (@virtuous_pie)
+title: Virtuous Pie - 530 Pandora Avenue, Victoria, BC, Canada ...
+snippet: Virtuous Pie has sprung up in several locations in Vancouver and finally made its way to the Island. I finally took the dive and tried out the restaurant and thoroughly enjoyed it. I had been putting off trying Virtuous Pie because of &quot;Pie&quot; in the name, but to my surprise they offered savoury dinner items like pizza and pasta.
+title: Plant-based pizzeria Virtuous Pie opens ... - Victoria Buzz
+snippet: Virtuous Pie is officially open for business! This Canadian-born, plant-based pizza joint has had its eye on Victoria for their newest location for over a year now. On Friday evening evening, the restaurant celebrated its official soft-launch and Victoria Buzz was invited to attend.
+title: Virtuous Pie - Home - Vancouver, British Columbia - Menu ...
+snippet: Virtuous Pie - 583 Main Street, Vancouver, British Columbia V6A 2V1 - Rated 4.8 based on 175 Reviews &quot;I have a gluten allergy. I did not get glutened at...
+
+REL: 2
+POI Name: Little Jumbo
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Canadian (New), Bars, 
+Snippets:
+title: Little Jumbo Restaurant and Bar, Victoria - Menu, Prices ...
+snippet: Reserve a table at Little Jumbo Restaurant and Bar, Victoria on Tripadvisor: See 330 unbiased reviews of Little Jumbo Restaurant and Bar, rated 4.5 of 5 on Tripadvisor and ranked #23 of 1,077 restaurants in Victoria.
+title: Little Jumbo :: Victoria&#39;s Best Restaurant and Bar Takeout ...
+snippet: Little Jumbo Restaurant and Bar, Victoria’s best takeout, pickup and delivery service offering exceptional service. Located in Victoria BC.
+title: Little Jumbo :: Pix : Little Jumbo - Victoria&#39;s Best ...
+snippet: Check out some pictures of Little Jumbo Restaurant and Bar, Victoria’s best new restaurant history.
+title: Little Jumbo - Home | Facebook
+snippet: Little Jumbo, Victoria, British Columbia. 3.9K likes. Victoria&#39;s best restaurant and bar. Great food using local &amp; sustainable ingredients and a rounded beverage program to match. Award winning team.
+title: Little Jumbo Restaurant &amp; Bar - Victoria, BC | OpenTable
+snippet: Book now at Little Jumbo Restaurant &amp; Bar in Victoria, BC. Explore menu, see photos and read 551 reviews: ... We pay homage to these two and our Little Jumbo emphasizes the fine craft of preparing fresh local food with a focus on continental and contemporary and pairing it with fine wines and the best of classic and modern mixology.
+title: Little Jumbo Restaurant &amp; Bar | Tourism Victoria
+snippet: In the last year, it has been mentioned in Forbes, The Washington Post, New York Times as Victoria’s place to dine and drink. In 2018 Little jumbo was named Best Cocktail Bar in Victoria by YAM Magazine.
+title: Little Jumbo - Picture of Little Jumbo Restaurant and Bar ...
+snippet: Little Jumbo Restaurant and Bar, Victoria Picture: Little Jumbo - Check out Tripadvisor members&#39; 35,454 candid photos and videos of Little Jumbo Restaurant and Bar
+title: Little Jumbo - Cocktails in Victoria BC - YouTube
+snippet: A cozy speakeasy in downtown Victoria. Enjoy innovative craft cocktails or design your own. A cozy speakeasy in downtown Victoria. Enjoy innovative craft cocktails or design your own.
+title: Home - Little Jumbo Ladders
+snippet: Little Jumbo Ladders is also a Ladder Repairer and as such we carry a very large supply of Spare Parts. We aim to provide you with Outstanding Customer Service to supply Quality Products at Competitive Prices.
+
+REL: 2
+POI Name: Good Earth Coffeehouse
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+title: Good Earth Coffeehouse | Coffee Breakfast Lunch
+snippet: Our Peruvian Feature Coffee Notes of citrus, toasted almond, stone fruit, and honey in our Feature Light Roast
+title: Find a Coffeehouse
+snippet: Find a Coffeehouse Please Select A City Airdrie Banff Calgary Canmore Cochrane Edmonton Red Deer Sherwood Park St. Albert Sylvan Lake Kelowna Lower Mainland North Vancouver Vancouver Victoria Regina Saskatoon Winnipeg Ottawa Toronto Montreal
+title: Good Earth Coffeehouse - Home | Facebook
+snippet: Good Earth Coffeehouse, Victoria, BC. 144 likes · 2 talking about this · 26 were here. At Good Earth RJH, we use wholesome food and great coffee to create a genuine coffee shop experience with...
+title: Good Earth Coffeehouse | Our Food Menu
+snippet: Our NEW Kits are a great way to take good food to go. The Edamame Hummus &amp; Egg Kit features house-made edamame hummus and herbed walnut goat cheese balls. The Charcuterie Kit has a variety of delicious deli meats, heirloom tomatoes, house-made tomato walnut tapenade and herbed walnut goat cheese balls.
+title: GOOD EARTH COFFEEHOUSE, Victoria - 1971 Oak Bay Ave ...
+snippet: Good Earth Coffeehouse, Victoria: See 36 unbiased reviews of Good Earth Coffeehouse, rated 3 of 5 on Tripadvisor and ranked #906 of 1,076 restaurants in Victoria. ... Good Earth is open, spacious and a good place for a large group to meet if you don&#39;t need to consider parking.
+title: Good Earth Coffeehouse | Coffee Franchise Locations Available
+snippet: Locations Available Do good. Feel good. With your own Good Earth Coffeehouse. We have exciting new locations ready to franchise and build. There are also some exceptional coffeehouses up and running, available to franchise now.
+title: Good Earth Coffeehouse - Victoria, British Columbia | Facebook
+snippet: WIN A $25 GC to Good Earth Coffeehouse Capital Park – now open in James Bay! To enter, “like” Good Earth Coffeehouse and tag a friend to share the GC with! 2 winners chosen Friday March 1, the day of our Grand Open Party! Join us 12 – 3 PM for live music, food, drink + gelato sampling, prizes and free brewed coffee all day!
+title: Good Earth Coffeehouse - Home | Facebook
+snippet: Good Earth Coffeehouse - 3450 Uptown Blvd # 109, Victoria, British Columbia V8Z 0B9 - Rated 4 based on 50 Reviews &quot;Tuesday I had my first visit to Good...
+title: Good Earth Coffeehouse - Village Walk - Oak Bay, Victoria ...
+snippet: Good Earth Coffeehouse - Village Walk - Oak Bay, Victoria, Victoria, British Columbia. 315 likes. A world of good in your cup of coffee. Exceptional coffee, wholesome food, and a down-to-earth...
+title: Good Earth Coffeehouse, Victoria - 1971 Oak Bay Ave ...
+snippet: Good Earth Coffeehouse, Victoria: See 36 unbiased reviews of Good Earth Coffeehouse, rated 3 of 5 on Tripadvisor and ranked #902 of 1,077 restaurants in Victoria.
+
+REL: 2
+POI Name: Hanks A Restaurant
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Canadian (New), Bars, 
+Snippets:
+title: Hanks *a restaurant - Victoria, BC
+snippet: 1001 Douglas StreetVictoria, BC Wednesday Thursday Friday Saturday 5pm – 10pm5pm – 10pm5pm – 10pm5pm – 10pm Hanks is a small place. we serve an ever-rotating selection of powerfully flavoured dishes, local beers, continental wines and handcrafted cocktails. Recent Menu MAKE A RESERVATION Find Us.
+title: Hanks A Restaurant, Victoria - Restaurant Reviews, Photos ...
+snippet: Hanks A Restaurant, Victoria: See 129 unbiased reviews of Hanks A Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #99 of 1,077 restaurants in Victoria.
+title: Hanks *A Restaurant - Victoria, BC | Tock
+snippet: Victoria, BC · Farm to Table · $$ Hanks is a small restaurant of 18 seats, consisting of mostly kitchen counter seating. We serve the highest quality local meats and vegetables we can get our hands on focusing on a home-made approach every step of the way! To Go Orders. Pickup.
+title: Hanks A Restaurant - 5,716 Photos - 95 Reviews - Canadian ...
+snippet: Hanks A Restaurant, Victoria, British Columbia. 1.3K likes. We work closely with local farms in the Cowichan Valley for all of our produce and Two Rivers Meats. Our menu rotates constantly, we...
+title: HANKS A RESTAURANT, Victoria - Updated 2020 Restaurant ...
+snippet: Hanks A Restaurant, Victoria: See 129 unbiased reviews of Hanks A Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #99 of 1,076 restaurants in Victoria.
+title: Hanks A Restaurant, Victoria - Restaurant Bewertungen ...
+snippet: Hanks A Restaurant, Victoria: 129 Bewertungen - bei Tripadvisor auf Platz 99 von 1.076 von 1.076 Victoria Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Hanks A Restaurant - 5,515 Photos - 104 Reviews - Canadian ...
+snippet: Hanks A Restaurant, Victoria. 1.3K likes. We work closely with local farms in the Cowichan Valley for all of our produce and Two Rivers Meats. Our menu rotates constantly, we play loud music.
+title: Hanks *A Restaurant - Reservations - Victoria, BC | Tock
+snippet: Victoria, BC · Farm to Table · $$ Hanks is a small restaurant of 18 seats, consisting of mostly kitchen counter seating. We serve the highest quality local meats and vegetables we can get our hands on focusing on a home-made approach every step of the way! Reservations.
+title: Light &amp; pictures - Hanks A Restaurant, Victoria - Tripadvisor
+snippet: Hanks A Restaurant, Victoria: Light &amp; pictures - Check out Tripadvisor members&#39; 35,396 candid photos and videos.
+title: Hanks A Restaurant in Victoria - Restaurant menu and reviews
+snippet: All info on Hanks A Restaurant in Victoria - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+
+REL: 2
+POI Name: Fishhook
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Indian, French, 
+Snippets:
+title: Fish Hook Restaurant
+snippet: Victoria’s Gluten-Free Foodies Try Fishhook at Mermaid Wharf November 12, 2017. If you like the fantastically gluten-free Fishhook (FH) creations at 805 Fort Street, you are going to love Mermaid Wharf at their second location at 407 Swift Street.
+title: Fishhook, Victoria - 805 Fort St - Menu, Prices ...
+snippet: Fishhook, Victoria: See 867 unbiased reviews of Fishhook, rated 4.5 of 5 on Tripadvisor and ranked #8 of 1,077 restaurants in Victoria.
+title: Fish Hook Restaurant
+snippet: Indo-French influenced sustainable local seafood. Serving both sit down and take away customers, fishhook offers not only tartines, but a wide selection of salads, soups and daily-produced pickles, all featuring a variety of sustainable, locally sourced and farm fresh ingredients. fishhook’s rotating menu offers a total of five tartines, two salads, house pickled seasonal organic veggies ...
+title: FISHHOOK, Victoria - 805 Fort St - Updated 2020 Restaurant ...
+snippet: Fishhook, Victoria: See 867 unbiased reviews of Fishhook, rated 4.5 of 5 on Tripadvisor and ranked #8 of 1,077 restaurants in Victoria.
+title: Fishhook, Victoria - 100-407 Swift St - Menu, Prices ...
+snippet: Reserve a table at Fishhook, Victoria on Tripadvisor: See 112 unbiased reviews of Fishhook, rated 4.5 of 5 on Tripadvisor and ranked #101 of 1,076 restaurants in Victoria.
+title: Fishhook, Victoria - Restaurantanmeldelser - Tripadvisor
+snippet: Fishhook, Victoria: Se 866 objektive anmeldelser av Fishhook, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 8 av 1 078 restauranter i Victoria.
+title: Fishhook - Home - Victoria, British Columbia - Menu ...
+snippet: Fishhook, Victoria, British Columbia. 1,262 likes · 10 talking about this · 1,808 were here. Proud to present FishHook! The result of a collaboration between Chef Kunal Ghose (of &#39;Top Chef&#39; and Red...
+title: Fishhook - Mermaid Wharf - Victoria, BC | OpenTable
+snippet: Book now at Fishhook - Mermaid Wharf in Victoria, BC. Explore menu, see photos and read 282 reviews: &quot;Nice restaurant, good for a romantic dinner. I apreciate halibut burger and my wife like her salmon much.&quot;
+title: Fishhook Menu, Menu for Fishhook, Victoria, City of ...
+snippet: Fishhook Victoria Menu - View the Menu for Fishhook City of Victoria on Zomato for Delivery, Dine-out or Takeaway, Fishhook menu and prices. Fishhook Menu
+title: Fishhook - Victoria, BC - Yelp
+snippet: Fishhook looked like something new and different. Fusing seafood with Indian spices, how can you go wrong? You can&#39;t. People in Victoria must agree because they&#39;ve opened a second location at Mermaid Wharf.
+
+REL: 2
+POI Name: Rabba Fine Foods Stores
+POI City: Toronto
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Rabba Fine Foods
+snippet: Rabba Fine Foods remains open to serve you 24/7. We are well stocked with a wide range of available products including dairy, bakery, fresh produce, health and wellness products and toiletries. We are doing everything we can to protect our staff and customers including the integration of glass barriers now installed at all cashiers in every store.
+title: About us – Rabba Fine Foods
+snippet: Yet, more than 50 years later, Rabba continues to grow and expand, still building on the foundation established by Jack when he opened the first location. Variety Food Fair, forerunner of Rabba Fine Foods, was a small grocery store located at Charles and Balmuto in downtown Toronto.
+title: Flyer – Rabba Fine Foods
+snippet: 2019 © Rabba Fine Foods. All Rights Reserved
+title: Our store – Rabba Fine Foods
+snippet: Our Store. Rabba Fine Foods. We’re not just a store. We’re your neighbourhood store. Which means a Rabba community. We live here too, so we understand your needs first-hand. From late night snacks to gourmet items to everyday groceries and conveniences, we’ve got you covered – 24 hours a day, 7 days a week.
+title: Newsroom – Rabba Fine Foods
+snippet: TORONTO, June 13, 2019 – Rabba Fine Foods, the GTA’s neighbourhood market, announces today its support of the annual Rooftop Festival of Student Family Housing of the University of Toronto. The event, which takes place on the rooftop garden located at 30 Charles Street West, on Saturday, June 15, allows for residents of Student Family…
+title: Rabba Fine Foods Stores Locations, Hours of Operation ...
+snippet: Rabba Fine Foods Stores hours and Rabba Fine Foods Stores locations in Canada along with phone number and map with driving directions.
+title: Toronto Grocery Stores – Rabba Fine Foods
+snippet: Mississauga, Ont., March 5, 2020 – Rabba Fine Foods, the GTA’s neighborhood market, will provide breakfasts to some 2,500 children in GTA schools as part of The Grocery Foundation’s annual Toonies for Tummies fundraising campaign.
+title: Rabba Fine Foods lends its support to University of ...
+snippet: TORONTO, June 13, 2019 – Rabba Fine Foods, the GTA’s neighbourhood market, announces today its support of the annual Rooftop Festival of Student Family Housing of the University of Toronto. The event, which takes place on the rooftop garden located at 30 Charles Street West, on Saturday, June 15, allows for residents of Student Family…
+title: Rabba Fine Foods Stores - Toronto, Ontario - Grocery Store ...
+snippet: Rabba Fine Foods Stores, Toronto, Ontario. 13 likes. Grocery Store
+title: Rabba Fine Foods Stores - 2019 All You Need to Know BEFORE ...
+snippet: 5 reviews of Rabba Fine Foods Stores &quot;croissants baked on site are delicious and very reasonably priced also for dairy and fresh produce this location has a very good selection of produce and even carried fresh picked farmers market strawberries…
+
+REL: 2
+POI Name: The Very Good Butchers
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Butcher, 
+Snippets:
+title: Menu – The Very Good Butchers
+snippet: The Very Good Butchers Hot Food Menu. Available all day every day at our Vegan Butcher Shop in Victoria B.C. The Very Good Butcher&#39;s Brunch Menu. 10am-3pm on Saturday and 11am-5pm on Sunday.
+title: All Products – The Very Good Butchers
+snippet: Due to overwhelming demand, fulfillment time on new orders will be 3-4 weeks. Click to read our full COVID-19 update &amp; extra precautions to learn more.
+title: The Very Good Butchers - Victoria, BC - Yelp
+snippet: We visited the Very Good Butchers this past weekend. The first time we stopped in for lunch. We got a couple of burgers, a chicken platter, a side of mac and cheese and a large poutine. I do, unfortunately have to agree with other yelp reviews that the mac and cheese was a little underwhelming, but everything else made up for that.
+title: Victoria Butcher Shop | The Very Good Butchers
+snippet: Nestled in the heart of Victoria, B.C., our flagship butcher shop is a plant-based dream come true. Order a mouthwatering vegan meal off the hot food menu and visit the deli for some freshly-sliced Roast Beast or a pack of Bangers to take home.
+title: The Very Good Butchers | Whole-food, Vegan Meats ...
+snippet: We butcher beans, not animals. Plant-based meats handcrafted in Victoria, BC with 100% real, whole-food ingredients. We butcher beans, not animals. ... Indulge in vegan comfort food featuring all of your favourite Very Good products. See menu There&#39;s a new butcher on the block. ... The Very Good Butchers;
+title: About Us – The Very Good Butchers
+snippet: There’s a new butcher on the block - and we do things differently. Really. At The Very Good Butchers, we believe in butchering beans, not animals. We’re on a mission to show that making good choices doesn’t mean sacrificing flavour. We want to make plant-based eating as approachable, nutritious and delicious as possibl
+title: The Very Good Butchers - Posts - Victoria, British ...
+snippet: The Very Good Butchers - 1701 Douglas Street #6, Victoria, British Columbia V8W 0C1 - Rated 4.9 based on 237 Reviews &quot;Finally got to try this place out...
+title: The Very Good Butchers - Home - Victoria, British Columbia ...
+snippet: The Very Good Butchers - 1701 Douglas Street #6, Victoria, British Columbia V8W 0C1 - Rated 4.9 based on 222 Reviews &quot;Finally got to try this place out...
+title: The Very Good Butchers (1701 Douglas St, Victoria, BC ...
+snippet: Order food delivery and take out online from The Very Good Butchers (1701 Douglas St, Victoria, BC, Canada). Browse their menu and store hours.
+title: The Very Good Butchers - Home - Victoria, British Columbia ...
+snippet: The Very Good Butchers - 1701 Douglas Street #6, Victoria, British Columbia V8W 0C1 - Rated 4.9 based on 219 Reviews &quot;The best poutine west of Montreal...
+
+REL: 2
+POI Name: Il Terrazzo Ristorante
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: About Il Terrazzo - Il Terrazzo
+snippet: Il Terrazzo has been a landmark in the Victoria dining scene for more than 25 years thanks to all your support. We will be closed until further notice to do our part to help stop the spread of Covid 19. Updates will be posted on this page as they develop, hopefully we will be able to enjoy your company again soon.
+title: Menus - Il Terrazzo
+snippet: Menus. Choose from below to browse one of our sample menus: Lunch; Dinner; Sweet Treats; Wine
+title: IL Terrazzo, Victoria - Downtown - Restaurant Reviews ...
+snippet: IL Terrazzo, Victoria: See 4,095 unbiased reviews of IL Terrazzo, rated 4.5 of 5 on Tripadvisor and ranked #3 of 1,076 restaurants in Victoria.
+title: Dinner - Il Terrazzo
+snippet: Dinner. INSALATA. INSALATA CAESAR 12. Crisp romaine lettuce with traditional caesar dressing, shaved Parmigiano-Reggiano and house-made croutons. INSALATA MISTA 11. Mixed baby greens dressed with a light balsamic vinaigrette, toasted pine nuts, tomato and cucumber. FUNGHI ARROSTO 15.
+title: Contact - Il Terrazzo
+snippet: Contact For all Reservations. Please phone the Restaurant directly. ... To reach us by Mail: Il Terrazzo Ristorante 555 Johnson Street Victoria, B.C. V8W 1M2. We are located in Waddington Alley, directly behind Willie&#39;s Bakery at 537 Johnson Street. For reservations, please call 250-361-0028.
+title: IL TERRAZZO, Victoria - Downtown - Updated 2020 Restaurant ...
+snippet: IL Terrazzo, Victoria: See 4,094 unbiased reviews of IL Terrazzo, rated 4.5 of 5 on Tripadvisor and ranked #3 of 1,076 restaurants in Victoria.
+title: Dinner Reservation Policies - Il Terrazzo
+snippet: Dinner Reservation Policies. We are open for Dinner every night at 5pm; our kitchen closes at 10pm. Reservations are highly recommended and can be made by calling the restaurant directly. Reservation Line: 250 361-0028. Reservations are accepted up to 30 days prior to the reservation date.
+title: Il Terrazzo Ristorante - Review of IL Terrazzo, Victoria ...
+snippet: IL Terrazzo: Il Terrazzo Ristorante - See 4,067 traveler reviews, 758 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+title: il Terrazzo Restaurant - Victoria, BC | OpenTable
+snippet: Il Terrazzo offers Linguine Marco Polo, for example, which mixes linguine noodles and chicken breast, with an unexpected twist of toasted cashews, mango, fresh basil and pimentos served in a lemon cream sauce. An innovative approach is one of the many reasons Il Terrazzo continues to receive Victoria&#39;s Best Italian Restaurant vote.
+title: IL Terrazzo, Victoria - Downtown - Restaurant Reviews ...
+snippet: IL Terrazzo, Victoria: See 4,053 unbiased reviews of IL Terrazzo, ... Our waitress was excellent as was the food Very busy restaurant We made a reservation for 6 pm the place was full A bit of a noisy restaurant other wise perfect. Date of visit: December 2019.
+
+REL: 2
+POI Name: Cafe Brio
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Cafe Brio
+snippet: notice: due to the recent events surrounding corvid-19, cafe brio will be closed until we feel it is safe for our guests and our employees to reopen. we have listened to the recommendations of the government and health officials and feel this is the socially responsible course of action to take.
+title: Menu — Cafe Brio
+snippet: Menu. At Cafe Brio, everything is prepared in house. The menu is designed to encourage sharing. Fresh bread is baked daily to compliment an array of house made salumi. Fresh salads, pastas, seafood and meat dishes are available as half portions to allow you to try more.
+title: Cafe Brio, Victoria - Harris Green - Menu, Prices ...
+snippet: Hello Traveler, Welcome to Victoria! Cafe Brio is right downtown Victoria. The cruise ships arrive very near downtown, so it is only about a 3.3km walk to Cafe Brio at 944 Fort Street. It takes 35 minutes to walk there or a 10 minute taxi ride. Cafe Brio is open Tuesday-Saturday 5:30pm-9pm (closed Sundays &amp; Mondays).
+title: CAFE BRIO, Victoria - Updated 2020 Restaurant Reviews ...
+snippet: Hello Traveler, Welcome to Victoria! Cafe Brio is right downtown Victoria. The cruise ships arrive very near downtown, so it is only about a 3.3km walk to Cafe Brio at 944 Fort Street. It takes 35 minutes to walk there or a 10 minute taxi ride. Cafe Brio is open Tuesday-Saturday 5:30pm-9pm (closed Sundays &amp; Mondays).
+title: Wine — Cafe Brio
+snippet: Wine. Our wine list comprises close to 300 selections from around the world, with a strong focus on BC and Italy. There are always a featured producer, over 15 intriguing options by the glass, extensive sparkling, dessert, and fortified wines.
+title: Cafe Brio, Victoria - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Brio, Victoria: Se 984 objektive anmeldelser av Cafe Brio, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 15 av 1 076 restauranter i Victoria.
+title: Location — Cafe Brio
+snippet: notice: due to the recent events surrounding corvid-19, cafe brio will be closed until we feel it is safe for our guests and our employees to reopen. we have listened to the recommendations of the government and health officials and feel this is the socially responsible course of action to take.
+title: Reservations — Cafe Brio
+snippet: notice: due to the recent events surrounding corvid-19, cafe brio will be closed until we feel it is safe for our guests and our employees to reopen. we have listened to the recommendations of the government and health officials and feel this is the socially responsible course of action to take.
+title: Cafe Brio | Victoria - Dine Here
+snippet: Cafe Brio seems to have a reputation as one of the better restaurants in Victoria, so we were looking forward to a meal there. What a disappointment! After being given menus and water by a disinterested underling, we waited 13 minutes (I know because I was set to walk out at 15) for any service.
+title: A big disappointment - Cafe Brio, Victoria Traveller ...
+snippet: Cafe Brio: A big disappointment - See 987 traveler reviews, 69 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+
+REL: 2
+POI Name: Zambri's
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Zambri&#39;s
+snippet: Web ordering from 2:30 to 7:30 pm Tuesday through SaturdayOrder Pickup from 4:00 to 8:00 pm Tuesday through Saturday Click the Order Online button to the left to order through our online ordering system! Take-Out Menu Meat Lasagna / 18Spaghetti Aglio Olio Peperoncino / 16Tagliatelle with Meat Sauce / 16Penne with Peas &amp; Gorgonzola / …
+title: Zambri&#39;s
+snippet: Menus . February 27, 2017 . Zambri’s offers the best Italian food in Victoria. Since the very first days in 1999, Chef Peter Zambri has created menus inspired by his Italian heritage, using seasonal and local ingredients.
+title: Zambri&#39;s, Victoria - Downtown - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Zambri&#39;s, Victoria on Tripadvisor: See 609 unbiased reviews of Zambri&#39;s, rated 4 of 5 on Tripadvisor and ranked #75 of 1,076 restaurants in Victoria. Flights Vacation Rentals ... I’ve eaten at a lot of restaurants in Victoria and can honestly say that Zambris tops the list ...
+title: Zambri&#39;s Restaurant - Victoria, BC | OpenTable
+snippet: For over almost 20 years, Zambri’s has been fortunate enough to serve Victorians Italian soul food paired with all the best wines of Italy. We’ve grown as Victoria has grown, but at our heart, we have remained true to our roots.
+title: ZAMBRI&#39;S, Victoria - Downtown - Updated 2020 Restaurant ...
+snippet: Zambri&#39;s is an award winning restaurant specializing in Classic Italian cuisine, paired with a unique selection of Italian Wines. &quot;Best Italian Restaurant in B.C….maybe Canada&quot;, is just one of the many accolades bestowed on them.
+title: Zambri&#39;s - Home - Victoria, British Columbia - Menu ...
+snippet: Zambri&#39;s - 820 Yates Street, Victoria, British Columbia V8W 1L8 - Rated 4.6 based on 192 Reviews &quot;All 3 stars in this review are for the food and...
+title: Blog | Zambri&#39;s
+snippet: We have just been Green Certified this year again. And Surfrider approved. And we got the sticker to show for. But this is not just about stickers for us. This is how we do business. Responsible today, for tomorrow. And we are very proud that these local businesses agree with us.
+title: Zambris-lunch-menu | Zambri&#39;s
+snippet: Zambris-lunch-menu . April 20, 2017 . Zambris-lunch-menu. Facebook Twitter YouTube TripAdvisor . 820 Yates Street Victoria BC V8W 1L8 . 250 360 1171 . info@zambris.ca ...
+title: News | Zambri&#39;s
+snippet: News . February 27, 2017 . Zambri’s is Victoria’s best Italian restaurant. Our award winning menu, our unique wine list, our stunning location and our great staff will make your next experience a memorable one.
+title: Zambri&#39;s | Tourism Victoria
+snippet: Zambris is an award winning restaurant specializing in Classic Italian cuisine. &quot;Best Italian Restaurant in B.C….maybe Canada&quot;, is just one of the many accolades bestowed on them. They also recently won both Best Wine List and Most Diner Friendly Wine List on Vancouver Island for their unique selection of Italian Wines. Their stunning location in the Atrium Building is just another reaso
+
+REL: 2
+POI Name: Canadian Liquor Cabinet Corporation
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Canadian Liquor Cabinet Corp, 250-361-3530, 1153 Esquimalt ...
+snippet: Canadian Liquor Cabinet Corp 1153 Esquimalt Rd Ste 12, Victoria, V9A 3N7, Phone Number 250-361-3530 or 12503613530, Victoria Radio Broadcasting Station, Business Reviews &amp; Ratings, Hours of Operation, Canadian Liquor Cabinet Corp Deals and Promotions, Phone Pages
+title: Canadian Liquor Cabinet Corp in Victoria, BC | 2503613530 ...
+snippet: Learn more about Canadian Liquor Cabinet Corp | Victoria, BC. Find directions and contact info, read reviews and browse photos on their 411 business listing. Business solutions Add your business FR ...
+title: Canadian Liquor Cabinet Corp in Victoria, BC | 2503613533 ...
+snippet: Learn more about Canadian Liquor Cabinet Corp | Victoria, BC. Find directions and contact info, read reviews and browse photos on their 411 business listing. Business solutions Add your business FR ...
+title: Canadian Liquor Cabinet Corp 1153 Esquimalt Rd Esquimalt ...
+snippet: Get directions, reviews and information for Canadian Liquor Cabinet Corp in Esquimalt, BC. Canadian Liquor Cabinet Corp 1153 Esquimalt Rd Esquimalt BC V9A 3N7. Reviews (250) 361-3530 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Liquor Cabinet - 12-1153 Esquimalt Rd, Victoria, BC
+snippet: Liquor Cabinet - Victoria - phone number, website &amp; address - BC - Spirit &amp; Liquor Stores. Find everything you need to know about Liquor Cabinet on Yellowpages.ca Please enter what you&#39;re searching for
+title: Tudor House Liquor Store - Victoria, BC - Yelp
+snippet: Victoria, BC V9A 2N5. Get directions. Mon. 9:00 ... You could be the first review for Tudor House Liquor Store. 1 review that is not currently recommended. Business website. tudorhouseliquorstore.com. Phone number (250) 590-5883. Get Directions. Message the Business. People Also Viewed. Canadian Liquor Cabinet Corporation. 1 review ...
+title: Canadian Liquor Cabinet Corp Victoria, BC | 2503613530 ...
+snippet: Pour en savoir plus à propos de Canadian Liquor Cabinet Corp à Victoria, BC. L&#39;annuaire professionnel 411 regorge d&#39;indications routières, de coordonnées, de commentaires et de photos.
+title: Hutches &amp; Display Cabinets in Victoria - Kijiji
+snippet: Buy modern and vintage hutches and cabinets in Victoria. Find a buffet, bar or kitchen cabinet, sideboard, or trunk on Kijiji, Canada&#39;s #1 Local Classifieds. It takes a village to flatten the curve ... China hutch and buffet cabinet like new but must go! Liquor cab.
+
+REL: 2
+POI Name: The Vitamin Shop
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Health Markets, Vitamins & Supplements, 
+Snippets:
+title: The Canadian Vitamin Shop
+snippet: The Vitamin Shop is Canada&#39;s premier vitamin, herbal remedy and nutritional supplement dispensary. The Canadian Vitamin Shop provides you with the highest quality brand name vitamins, herbal remedies &amp; nutritional supplements at everyday low, low prices.
+title: Login to The Vitamin Shop
+snippet: The Vitamin Shop is Canada&#39;s premier vitamin, herbal remedy and nutritional supplement dispensary. The Canadian Vitamin Shop provides you with the highest quality brand name vitamins, herbal remedies &amp; nutritional supplements at everyday low, low prices.
+title: Supplements - The Canadian Vitamin Shop
+snippet: Welcome to The Canadian Vitamin Shop the online Division of The Vitamin Shop. The Vitamin Shop was established in 1984 by founder Bruce D. Reid. His mission is to offer consumers high quality brand-name nutritional supplements at discounted prices with uncompromising customer service.
+title: Coupons - The Canadian Vitamin Shop
+snippet: The Vitamin Shop is Canada&#39;s premier vitamin, herbal remedy and nutritional supplement dispensary. The Canadian Vitamin Shop provides you with the highest quality brand name vitamins, herbal remedies &amp; nutritional supplements at everyday low, low prices.
+title: The Vitamin Shoppe® | Vitamins, Supplements, Protein ...
+snippet: Save big on top quality vitamin &amp; supplement brands. Save an additional 10% with auto delivery subscriptions. From protein powders and probiotics to collagen &amp; keto diet basics, The Vitamin Shoppe has all your best-self-supplies.
+title: Vitamin Shop Online - Vitamins &amp; Supplements Online Store
+snippet: Vitamin Shop Online is a leading Australian Health Store stocking a large range of superfoods, vitamins, health supplements, natural proteins and organic skin care. Free Shipping over $50, Buy online with us and save.
+title: The Vitamin Shop, 1212 Broad Street, Victoria, BC (2020)
+snippet: Welcome to The Canadian Vitamin Shop — the online Division of The Vitamin Shop — located in Victoria, B.C. Established in 1984, The Vitamin Shop has grown to become Canada&#39;s Premier Vitamin and Nutritional Supplement Dispensary.
+title: Contact The Vitamin Shop
+snippet: The Vitamin Shop is Canada&#39;s premier vitamin, herbal remedy and nutritional supplement dispensary. The Canadian Vitamin Shop provides you with the highest quality brand name vitamins, herbal remedies &amp; nutritional supplements at everyday low, low prices.
+title: The Vitamin Shop - Home | Facebook
+snippet: The Vitamin Shop, Victoria, BC. 6,289 likes · 99 talking about this · 118 were here. Canada&#39;s Premier Vitamin and Nutritional Supplement Dispensary - Located in Victoria, BC - Free shipping within...
+title: The Vitamin Store | Vitamins and Supplements | Best Prices ...
+snippet: Green food concentrates and antioxidants derived from nutrient dense, pesticide free plant foods are a superior source of vitamins and minerals for individuals. The Vitamin Store offers a wide variety of organic vitamins, minerals, and herbal supplements to support every healthy lifestyle.
+
+REL: 2
+POI Name: M&M Food Market
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: M&amp;M Food Market - Food Store - Online Grocery Shopping
+snippet: M&amp;M Food Market, formerly known as M&amp;M Meat Shops, is a Canadian frozen food retail chain. The company is headquartered in Kitchener, Ontario, and has locations in all ten provinces, the Yukon and Northwest Territories; the company formerly had operations in the Midwestern United States under the MyMenu brand that operated between 2008 and 2013.
+title: M&amp;M Food Market - Grocery Store Victoria - Online Groceries
+snippet: Ordering online &amp; picking up groceries has never been easier. Discover what your local Victoria M&amp;M Food Market has on sale!
+title: Market Hall Victoria | London&#39;s Best Food Hall | Victoria ...
+snippet: Market Hall Victoria showcases a diverse and eclectic offering of food and drink across three floors with eleven kitchens, a coffee shop, a roof terrace and three bars championing independent British-made beers &amp; spirits. We take bookings on Sundays &amp; Mondays, all other days are walk ins only.
+title: M&amp;M Food Market - Online - Click &amp; Collect
+snippet: M&amp;M Food Market, formerly known as M&amp;M Meat Shops, is a Canadian frozen food retail chain. The company is headquartered in Kitchener, Ontario, and has locations in all ten provinces, the Yukon and Northwest Territories; the company formerly had operations in the Midwestern United States under the MyMenu brand that operated between 2008 and 2013.
+title: M&amp;M Food Market - Grocery Stores - Victoria
+snippet: M&amp;M Food Market - Victoria - phone number, website, address &amp; opening hours - BC - Grocery Stores, Frozen Food Stores. M&amp;M Food Market is proud to be Canada&#39;s largest retail chain of specialty frozen foods with locations coast to coast.
+title: M&amp;M Food Market - Simple Meals For One - Dinner Ideas For One
+snippet: Supreme Homestyle Lasagna 4lb. Our best and heartiest Lasagna simply overflows with meat, cheese and sauce! Dive into this homestyle favourite made with a savoury combination of beef and pork in a tangy, white wine-infused tomato sauce layered between fluted lasagna noodles and a blend of mozzarella, ricotta and Romano cheeses.
+title: M&amp;M Food Market - New In Store Shopping Experience
+snippet: M&amp;M Food Market, formerly known as M&amp;M Meat Shops, is a Canadian frozen food retail chain. The company is headquartered in Kitchener, Ontario, and has locations in all ten provinces, the Yukon and Northwest Territories; the company formerly had operations in the Midwestern United States under the MyMenu brand that operated between 2008 and 2013.
+title: M&amp;M Food Market - Seafood Market - Seafood Dishes
+snippet: M&amp;M Food Market Seafood Dishes Make the catch of the day tonight’s dinner or this weekend’s appetizer with our extensive selection of seafood delights. Crustaceans. View All. Seafood. Garlic Shrimp. These jumbo butterflied shrimp are deliciously marinated with savoury garlic and herbs.
+title: M&amp;M Food Market - Soups
+snippet: M&amp;M Food Market, formerly known as M&amp;M Meat Shops, is a Canadian frozen food retail chain. The company is headquartered in Kitchener, Ontario, and has locations in all ten provinces, the Yukon and Northwest Territories; the company formerly had operations in the Midwestern United States under the MyMenu brand that operated between 2008 and 2013.
+title: M&amp;M Food Market - Opening Hours - 2526 Quance Street ...
+snippet: M&amp;M Food Market is proud to be Canada&#39;s largest retail chain of specialty frozen foods with locations coast to coast. We offer a delectable selection of more than 375 mouth-watering products. You’ll find your trusted family favourites plus exciting new tastes to satisfy the most selective palates.
+
+REL: 2
+POI Name: Lola's Burger Bar
+POI City: Victoria
+POI Country: CA
+POI Main category: Nightlife
+POI Sub category: Bars, Burgers, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Lola&#39;s - Home - Alexandra, Victoria - Menu, Prices ...
+snippet: Lola&#39;s, Alexandra, Victoria. 452 likes. American style diner serving the best burgers for miles along with indulgent comfort food like loaded fries, loaded hot dogs, fried chicken, tacos, nachos and...
+title: Lola Burger
+snippet: Lola Burger, the popular spin-off of Nantucket landmark “Lola 41°” is located at 1 Sparks Ave, Nantucket, MA. Starting in 2008, Lola Burger began serving up the finest quality burgers available anywhere in the world down on “the strip.” Now Lola Burger is all grown up and has moved to its new location by the Rotary.
+title: Lola&#39;s Tapas and Carnivore Restaurant, Victoria Falls ...
+snippet: Lola&#39;s Tapas and Carnivore Restaurant, Victoria Falls: See 544 unbiased reviews of Lola&#39;s Tapas and Carnivore Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #23 of 39 restaurants in Victoria Falls.
+title: Chuck&#39;s Burger Bar, Victoria - 538 Yates St - Menu, Prices ...
+snippet: Order food online at Chuck&#39;s Burger Bar, Victoria with Tripadvisor: See 44 unbiased reviews of Chuck&#39;s Burger Bar, ranked #236 on Tripadvisor among 1,076 restaurants in Victoria. Flights ... I would like to tell everyone about Chucks Burger Bar located @ 538 Yates St in Victoria BC right across the road from the Yates st parkade.
+title: Menus – Lola&#39;s Lakehouse
+snippet: MENUS DINNER LUNCH BAR DESSERT KIDS BREAKFAST DINNER MENU Starts at 4:00 Daily – SOUPS AND SALADS – Lola’s New England Clam Chowder Cup 5 | Bowl 7 Lobster Bisque Cup 5 | Bowl 7 Lola’s House Salad (gf) baby field greens, baby cucumber, grape tomato, shaved parmesan, herb vinaigrette. 7 Caeser (gf) chopped romaine, garlic croutons, …
+title: Welcome to Lola&#39;s Cupcakes | The #1 London Cake Shop
+snippet: London&#39;s most delicious cupcakes and cakes, handcrafted in our North London bakery. Fresh everyday, available to order online for delivery or collection.
+title: LOLA&#39;S CAFE, Bacchus Marsh - Restaurant Reviews, Photos ...
+snippet: Lola&#39;s Cafe, Bacchus Marsh: ... Have been to Lola’s a fair few times for Breakfast and it always been really good. Burger and Lunch menu has always looked interesting so dropped in when I had the spare time for the double chilli burger.
+title: Lola&#39;s Tapas &amp; Carnivore Restaurant - Home - Victoria ...
+snippet: Lola&#39;s Tapas &amp; Carnivore Restaurant - 8B Landela Complex, ZW Victoria Falls, Zimbabwe - Rated 4.1 based on 19 Reviews &quot;Very friendly staff and good food.... Jump to. Sections of this page. ... But overall very good quality and I truly enjoyed the zebra burger and selection of local meats.
+
+REL: 2
+POI Name: Agrius
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Seafood, Tapas/Small Plates, 
+Snippets:
+title: Victoria - Agrius Restaurant
+snippet: Agrius is an organic restaurant in Victoria BC. We strive to bring the best regional ingredients to the plate.
+title: Agrius, Victoria - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Agrius, Victoria on Tripadvisor: See 186 unbiased reviews of Agrius, rated 4.5 of 5 on Tripadvisor and ranked #88 of 1,076 restaurants in Victoria.
+title: AGRIUS, Victoria - Updated 2020 Restaurant Reviews, Menu ...
+snippet: Reserve a table at Agrius, Victoria on Tripadvisor: See 186 unbiased reviews of Agrius, rated 4.5 of 5 on Tripadvisor and ranked #88 of 1,076 restaurants in Victoria.
+title: Victoria, BC - Fol Epi Organic Bread and Pastry, Agrius ...
+snippet: Fol Epi Organic Bread &amp; Pastry, Victoria, BC. at Dockside Green and 732 Yates Wood fired brick oven artisan Bread, Agrius Restaurant
+title: Agrius - Victoria, BC | OpenTable
+snippet: Agrius is probably the best restaurant in Victoria. Have been there several times for dinner and brunch. First time for lunch. Food was up to the usual excellent quality and value for money was actually quite good. I paid $14 for a generous vegetarian sandwich on their amazing home-made bread, accompanied by a heart home-made soup.
+title: Paul&#39;s Diner by Fol Epi
+snippet: Branching out of Fol Epi Bakery, Paul’s Diner strives to provide Victoria with a unique organic diner experience. With the help of our cooks and bakers at Fol Epi and Agrius Restaurant, we work to promote regional food and farmers at our diner.
+title: Fol Epi Bakery — Agrius
+snippet: Products currently available at Fol Epi. (Certain products are subject to availability.) We are now offering deliveries to the following communities; Downtown, Vic West, Fernwood, Cook st Village, Fairfield, James Bay, Esquimalt and Oak Bay.
+title: Agrius - Home | Facebook
+snippet: Agrius - 732 Yates Street, Victoria, British Columbia V8W1L4 - Rated 4.7 based on 61 Reviews &quot;Came in for brunch today. We have been here before but...
+title: Buy Wine — Agrius
+snippet: Wines purchased online will be available for IN STORE PICK UP ONLY at our downtown Fol Epi location (732 Yates St) the following day, between 10am - 3pm.
+title: Agrius, Victoria - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Agrius, Victoria: See 186 unbiased reviews of Agrius, rated 4.5 of 5 on Tripadvisor and ranked #88 of 1,076 restaurants in Victoria.
+
+REL: 1
+POI Name: Bao
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Chinese, Japanese, 
+Snippets:
+title: baovictoria.webs.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: BAO, Victoria - Updated 2020 Restaurant Reviews, Menu ...
+snippet: Bao, Victoria: See 78 unbiased reviews of Bao, rated 4.5 of 5 on Tripadvisor and ranked #147 of 1,076 restaurants in Victoria.
+title: Vietnamese Newspaper in Melbourne - Bao Viet tai Uc
+snippet: Tình trạng Khẩn cấp ở Victoria đã được kéo dài đến nửa đêm hôm 11/5, nhưng có thể sẽ tiếp tục được gia hạn thêm sau ngày đó. Hãy bảo vệ bạn, gia đình và cộng đồng mùa dịch COVID-19. ... Không bao giờ quên anh
+title: Online Menu of Bao, Victoria, BC - menupix.com
+snippet: View the menu for Bao and restaurants in Victoria, BC. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Bao - Home - Victoria, British Columbia - Menu, Prices ...
+snippet: Bao - 626 Fisgard St., Victoria, British Columbia V8W 1R6 - Rated 4.7 based on 52 Reviews &quot;Until now I cannot honestly say that Victoria has had anything...
+title: Bao, Victoria - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Bao, Victoria: See 78 unbiased reviews of Bao, rated 4.5 of 5 on Tripadvisor and ranked #147 of 1,077 restaurants in Victoria.
+title: BAO London
+snippet: The original BAO destination in London. Known for our steamed buns and range of contemporary Taiwanese dishes. We have 3 locations in London.
+title: Bao (@bao_victoria_chinatown) • Instagram photos and videos
+snippet: 1,851 Followers, 288 Following, 255 Posts - See Instagram photos and videos from Bao (@bao_victoria_chinatown)
+title: Bao Victoria Profiles | Facebook
+snippet: View the profiles of people named Bao Victoria. Join Facebook to connect with Bao Victoria and others you may know. Facebook gives people the power to...
+title: Báo Mới - Tin tức nóng nhất, tin tức mới nhất cập nhật ...
+snippet: Báo Mới - Trang tin tự động cập nhật các tin tức Việt Nam và thế giới từ các báo và trang tin điện tử hàng đầu
+
+REL: 1
+POI Name: Saveur
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: French, Cocktail Bars, 
+Snippets:
+title: Victoria’s Best French Restaurant | Saveur Restaurant ...
+snippet: Saveur Restaurant in downtown Victoria, BC offers fine dining food in a casual urban setting. Award-winning chef, Robert Cassels, delivers French-inspired contemporary cuisine. The best Victoria French Restaurant with exceptional service, Romantic atmosphere, food, wine and cocktails.
+title: Food Menu, Brunch, Vegetarian Menu Victoria BC | Saveur ...
+snippet: Eat Saveur offers a seasonally inspired tasting menu, which change regularly. The tasting experience is what we specialize in at Saveur, and we strongly recommend it to all of our guests.
+title: Saveur Restaurant, Victoria - Photos &amp; Restaurant Reviews ...
+snippet: Order food online at Saveur Restaurant, Victoria with Tripadvisor: See 451 unbiased reviews of Saveur Restaurant, ranked #4 on Tripadvisor among 1,077 restaurants in Victoria.
+title: SAVEUR RESTAURANT, Victoria - Updated 2020 Restaurant ...
+snippet: Order takeaway and delivery at Saveur Restaurant, Victoria with Tripadvisor: See 451 unbiased reviews of Saveur Restaurant, ranked #4 on Tripadvisor among 1,077 restaurants in Victoria.
+title: Saveur Restaurant, Victoria - Restaurantanmeldelser ...
+snippet: Saveur Restaurant, Victoria: Se 451 objektive anmeldelser av Saveur Restaurant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 4 av 1 077 restauranter i Victoria.
+title: Reservations | Saveur Restaurant | Victoria BC
+snippet: Saveur Restaurant offers fine dining food in a casual urban setting.Award-winning chef, Robert Cassels, delivers French-inspired contemporary cuisine through playful and elegant tasting menus, using local ingredients wherever possible.
+title: Saveur Restaurant - Victoria, BC | OpenTable
+snippet: This restaurant is one of our fave top 3 in Victoria and will continue to be as it just keeps delivering quality culinary treats and great service. If at all possible, I try to make sure to thank the kitchen staff and because the Saveur kitchen is open, it&#39;s easy to get a message to them. Terrific job, team! Thank you so much.
+title: Contact | Saveur Restaurant | Victoria BC
+snippet: Saveur Restaurant offers fine dining food in a casual urban setting.Award-winning chef, Robert Cassels, delivers French-inspired contemporary cuisine through playful and elegant tasting menus, using local ingredients wherever possible.
+title: Saveur - Recipes, Food Travel, How to Cook and Eat the World
+snippet: SAVEUR is the global guide to cooking, entertaining, and food travel. Bring the world&#39;s best recipes, drinks, seasonal dishes, and kitchen tips to your home.
+title: Saveur Restaurant, Victoria - Restaurant Reviews, Photos ...
+snippet: Saveur Restaurant, Victoria: See 451 unbiased reviews of Saveur Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #4 of 1,076 restaurants in Victoria.
+
+REL: 1
+POI Name: Special Teas
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Tea Rooms, 
+Snippets:
+title: Special Teas Inc. Good Tea is Better Value! Loose Leaf Teas.
+snippet: Special Teas Inc. Premium black, oolong, green, and white teas. Blends, flavoured teas, decaf. Herbals and fruit blends.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Special Teas - Downtown Victoria Business Association
+snippet: Info: Special Teas Inc. Premium black, oolong, green, and white teas. Blends, flavoured teas, decaf. Herbals and fruit blends.
+title: Special Teas - Downtown Victoria - 0 tips
+snippet: See 1 photo from 34 visitors to Special Teas. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Special Teas, 610 YATES ST , Victoria Harris Green
+snippet: Victoria / Harris Green / Special Teas / Tea Room; rated 5.0 out of 5 from 1 reviews Update 196 visits to this page. You are the 196 th. Local Tea store and Tea Blender All Organic or Bio-Grown All teas Blended in House. Special Teas Rating. excellent. 5.0 out of 5 from 1 ...
+title: Special Teas Inc - Community | Facebook
+snippet: Special Teas Inc - 610 Yates Street, Victoria, British Columbia V8W 1K9 - Rated 5 based on 3 Reviews &quot;The best tea I have ever had in my life/ Creamy...
+title: Special Teas Inc in Victoria, 803 Fort Street - Food ...
+snippet: Description. Special Teas Inc can be found at 803 Fort Street . The following is offered: Food &amp; Beverage Stores - In Victoria there are 53 other Food &amp; Beverage Stores.
+title: Victoria Police Special Operations Group - Wikipedia
+snippet: The Special Operations Group (SOG) is the Police Tactical Group of the Victoria Police who wear iconic black coveralls synonymous of the SOG. Formed in 1977, the SOG was Australia&#39;s first full time, and also, dedicated Police Tactical Group.
+title: Victoria | Special Olympics Australia
+snippet: Special Olympics Victoria. Special Olympics Victoria is proud to be part of the Special Olympics Australia network that provides weekly sports training and regular competition for people with intellectual disability.
+title: Tea at the Empress, Victoria - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Tea at the Empress, Victoria on Tripadvisor: ... Please know that all of your comments are important to us and will be shared amongst our leadership team for review. We hope to have the pleasure... More. Familyvacayer. ... I figured it was a special occasion and we never done tea before so why not.
+
+REL: 1
+POI Name: Sushi Mura
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, Sushi Bars, 
+Snippets:
+title: About us | Mura Sushi
+snippet: Order Online for pickup at Sushi Mura! We are serving delicious traditional Japanese food.Try our delicious Nigiri and Sashimi, big Sushi Rolls, Udon, Tempura or Party Trays! We are located at 6485 Oak St, Vancouver, BC.
+title: Sushi Mura Menu, Menu for Sushi Mura, Oakridge, Vancouver
+snippet: Sushi Mura Oakridge Menu - View the Menu for Sushi Mura Vancouver on Zomato for Delivery, Dine-out or Takeaway, Sushi Mura menu and prices. Sushi Mura Menu
+title: SUSHI MURA, Vancouver - 6485 Oak St, Oakridge - Updated ...
+snippet: Sushi Mura, Vancouver: See 43 unbiased reviews of Sushi Mura, rated 4 of 5 on Tripadvisor and ranked #832 of 3,443 restaurants in Vancouver.
+title: Sushi Mura - Menu, Hours &amp; Prices - 6485 Oak St, Vancouver, BC
+snippet: Sushi Mura - Vancouver - phone number, website, address &amp; opening hours - BC - Japanese Restaurants, Sushi &amp; Japanese Restaurants.
+title: Sushi Mura, Oakridge, Vancouver
+snippet: Sushi Mura Vancouver; Sushi Mura, Oakridge; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Sushi Mura Restaurant on Zomato It is an icon with title Location Fill. It is an icon with title Down Triangle. It is an ...
+title: Sushi Mura - Vancouver, British Columbia - Sushi ...
+snippet: Sushi Mura, Vancouver, British Columbia. 3 likes. Sushi Restaurant
+title: Sushi Mura – Welcome to Sushi Mura
+snippet: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+title: Sushi Mura, 6485 Oak St, VANCOUVER Oakridge
+snippet: Sushi Mura, 6485 Oak St, Oakridge VANCOUVER BC Sushi Restaurant Restaurant
+title: Vancouver&#39;s newest Japanese restaurant &#39;Sushi Mura&#39; to ...
+snippet: Vancouver&#39;s newest Japanese restaurant is set to open next week. Sushi Mura, located at 3545 Sawmill Crescent, is officially opening its doors on July 8.
+title: Online Menu of Sushi Mura, Vancouver, BC
+snippet: Sushi Mura is a hybrid between a good traditional sushi restaurant and one of those crummy fusion sushi restaurants that is all show. It&#39;s tasty, expansive selection and while the price point is a bit higher than a sushi bar, the portions are generous. Good value, good quality, good people.
+
+REL: 1
+POI Name: Burgoo Bistro
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Comfort Food, Bistros, 
+Snippets:
+title: Burgoo
+snippet: While our Bistros may be closed during this difficult time, our Delivery Kitchen is open to safely bring comfort to your door. Please help support our small business by ordering through your favourite delivery app.
+title: Locations - burgoo.ca
+snippet: Due to the cosy size of our bistro, Burgoo North Vancouver can only accept limited reservations. Please call us at 604 904 0933 to check availability. As a consideration for our other guests, groups with reservations who arrive more than 15 minutes late or with fewer numbers than originally confirmed may lose their reservation.
+title: Burgoo Bistro - Home - Vancouver, British Columbia - Menu ...
+snippet: Burgoo Bistro, Vancouver, British Columbia. 1,795 likes · 30 talking about this · 3,360 were here. Food for comfort. A Vancouver classic for seventeen years. Find us in Point Grey, North Van, Mt....
+title: Food for Comfort - Burgoo
+snippet: smashed avocado on toasted Ciabatta, Tajin seasoning, sea salt, cilantro, with tomato, cucumber &amp; fresh lime served with Side Bistro Salad Darn Good Soup +2, Chèvre +1.50, real bacon bits +2
+title: Story - Burgoo
+snippet: Our original bistro opened in December 2001 in Point Grey in Vancouver’s West Side. Through the heartwarming support of our local guests, we quickly experienced what neighbourhood and community mean to our bistro concept and our personal well being.
+title: Contact - Burgoo
+snippet: Have a Question or Comment? If you have any questions or comments, we’d like to hear from you. Thank you for contacting Burgoo Bistro.
+title: Burgoo Bistro - Point Grey - Vancouver, BC, Canada
+snippet: 116 reviews of Burgoo Bistro &quot;Let me tell you something about French Onion Soup.. I was a young boy when I was introduced to this tasty soup, which is an onion broth with bread clumps topped with tons of cheese and baked. I first had it at the…
+title: Burgoo Bistro - Mount Pleasant - Vancouver, BC, Canada
+snippet: 439 reviews of Burgoo Bistro &quot;Ordered the Crab Bisque with Kale Caesar. Bisque was very flavourful. Caesar could&#39;ve used a little more dressing, but still good. The French Onion soup was loaded ... loaded with cheese. Again, tasty. Wait staff…
+title: Burgoo, Vancouver - Restaurantanmeldelser - Tripadvisor
+snippet: Burgoo, Vancouver: Se 216 objektive anmeldelser av Burgoo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 150 av 3 442 restauranter i Vancouver.
+title: www.yelp.com
+snippet: 195 reviews of Burgoo Bistro &quot;Great location, great staff, cozy place and good food. I never had an amazing dish for lunch, but their dishes are usually good enough and I love the deserts. My opinion: - Macaroni &amp; Cheese (good, but not very…
+
+REL: 1
+POI Name: Artisan Bistro
+POI City: Victoria
+POI Country: CA
+POI Main category: Nightlife
+POI Sub category: Wine Bars, Bistros, 
+Snippets:
+title: Artisan Bistro | Broadmead Village | Victoria BC
+snippet: Artisan Bistro is a French inspired restaurant and cafe located in Broadmead Village Shopping Centre, Victoria BC. We serve breakfast, lunch and dinner using locally sourced ingredients wherever possible.
+title: Dinner - Artisan Bistro | Broadmead Village | Victoria BC
+snippet: Dinner. Served 5pm — Last Seating @ 8pm. Below Menu are not available during Covid-19. ... Artisan Bistro Broadmead Village 350-777 Royal Oak Drive Victoria, BC V8X 4V1. info@artisanbistro.ca. Sitemap. Reservations* 250-590-9333 *For tables of 8 or more are subject to 18% Auto Gratuity .
+title: Artisan Bistro - Home - Victoria, British Columbia - Menu ...
+snippet: Artisan Bistro - 350-777 Royal Oak Drive, Broadmead Village, Victoria, British Columbia V8X4V1 - Rated 4.8 based on 66 Reviews &quot;Had a great lunch a week...
+title: Lunch Restaurants Victoria BC | Artisan Bistro
+snippet: Craving for some delicious food for lunch? Visit us at Artisan Bistro right away. We are the top restaurant choice for many.
+title: ARTISAN BISTRO, Victoria - Updated 2020 Restaurant Reviews ...
+snippet: Artisan Bistro, Victoria: See 118 unbiased reviews of Artisan Bistro, rated 4.5 of 5 on Tripadvisor and ranked #219 of 1,077 restaurants in Victoria.
+title: Artisan Bistro, Victoria - Menu, Prices &amp; Restaurant ...
+snippet: Artisan Bistro, Victoria: See 118 unbiased reviews of Artisan Bistro, rated 4.5 of 5 on Tripadvisor and ranked #219 of 1,076 restaurants in Victoria.
+title: Contact - Artisan Bistro | Broadmead Village | Victoria BC
+snippet: artisan Bistro 350 - 777 Royal Oak Drive Victoria BC V8X 4V1 250.590.9333 *For Private Functions and/or tables of 8 or more reservations are appreciated.
+title: Artisan Bistro - Victoria, BC | OpenTable
+snippet: We enjoyed our evening at Artisan Bistro and overall rated it highly (5). Our server was charming and personable and the food was tasty! Our slightly lower rating on service was related to a longer than expected wait for our food. Some dishes seemed pricey - e.g. fish and chips - but we found everything zoo be of high quality.
+title: Best Breakfast Victoria Bc - artisanbistro.ca
+snippet: When you and your family are looking for the best breakfast in Victoria, BC, stop in to Artisan Bistro for something truly spectacular. We offer an extraordinary breakfast experience for guests dining with us, whether you come in for breakfast, lunch, or dinner.
+title: ARTISAN BISTRO, Victoria - Omdömen om restauranger ...
+snippet: Artisan Bistro, Victoria: Se 118 objektiva omdömen av Artisan Bistro, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer218 av 1 076 restauranger i Victoria.
+
+REL: 1
+POI Name: Pagliacci's
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Steakhouses, 
+Snippets:
+title: Welcome to Pagliacci’s Restaurant, Victoria BC, Canada
+snippet: Pagliacci’s is centrally located in downtown Victoria, across from the Bay Centre. It’s situated on Broad Street, between Fort Street and Broughton Street. If you’re looking for parking, the View Street Parkade is only a block away. Phone: 1 (250) 386-1662 Email: eat@pagliaccis.ca. 1011 Broad St Victoria, BC V8W 2A1
+title: Pagliacci&#39;s, Victoria - Downtown - Photos &amp; Restaurant ...
+snippet: Order food online at Pagliacci&#39;s, Victoria with Tripadvisor: See 1,622 unbiased reviews of Pagliacci&#39;s, ranked #49 on Tripadvisor among 1,076 restaurants in Victoria.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Pagliacci&#39;s Restaurant - 190 Photos - 354 Reviews ...
+snippet: Pagliacci&#39;s Restaurant, Victoria, British Columbia. 4,260 likes · 127 talking about this · 12,768 were here. Take a chance. come to Pags! You might meet your next wife — or your ex-wife — life’s a drama.
+title: Pagliacci Pizza (@pagliaccipizza) • Instagram photos and ...
+snippet: Follow Pagliacci Pizza&#39;s Instagram account to see all 902 of their photos and videos.
+title: Online Menu of Pagliaccis, Victoria, BC
+snippet: View the menu for Pagliaccis and restaurants in Victoria, BC. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Pagliacci&#39;s Menu, Menu for Pagliacci&#39;s, Victoria, City of ...
+snippet: Pagliacci&#39;s menu in image format shown on this website has been digitised by Zomato.com. Customers are free to download and save these images, but not use these digital files (watermarked by the Zomato logo) for any commercial purpose, without prior written permission of Zomato
+title: Pagliacci Pizza: Local Seattle Pizza Delivery &amp; Takeout ...
+snippet: Pagliacci Pizza, serving Seattle&#39;s best pizza since 1979. Offering pizza by the slice and pizza delivery service to homes and businesses.
+title: www.yelp.com
+snippet: 473 reviews of Pagliacci&#39;s &quot;Great Italian food. The seafood lasagna (Mr Roberts) and spicy seafood penne (Big Easy) were delicious. Bread also tasty and perfect for dipping in pasta. Only disappointment was no Cannoli on dessert menu. Always…
+title: Pagliacci&#39;s | Tourism Victoria
+snippet: CARVED FROM LIFE IN LAUGHTER Welcome to Pagliacci’s! Pagliacci’s is one of those timeless places, born in passion, carved from life and bathed in laughter. From the focaccia bread and soup through the Broadway-style cheesecake, every morsel is made on the spot, served with style by someone hustling for you. And there’s more than enough pasta or steak to bring home to Asta. Step back into ...
+
+REL: 1
+POI Name: Île Sauvage Brewing Company
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Breweries, 
+Snippets:
+title: îLE SAUVAGE BREWING | Wild and Sour Beer on Vancouver Island
+snippet: Wild and Sour Beer on Vancouver Island
+title: île Sauvage Brewing Company - Victoria, bc - Untappd
+snippet: Explore île Sauvage Brewing Company from Victoria, bc on Untappd. Find ratings, reviews, and where to find beers from this brewery.
+title: Beer List | îLE SAUVAGE BREWING
+snippet: This Saison was a split batch where half was soured and the other half fermented with our Saison strain. The beers were blended back and aged on Alberta Rosehips. Collaboration with Blindman Brewing. Aztèque Stout – 7.0% ABV. This Export Stout was brewed with 6 different types of malt including Chocolate Malt and Roasted Barley.
+title: Ile Sauvage Brewing - Victoria, BC - Untappd
+snippet: Find out what&#39;s popular at Ile Sauvage Brewing in Victoria, BC in real-time and see activity. Find out what&#39;s popular at Ile Sauvage Brewing in Victoria, BC in real-time and see activity. ... Jordan is drinking a Tropique by île Sauvage Brewing Company at Ile Sauvage Brewing. Purchased at Category 12 Brewing. Draft. Earned the Find the Source ...
+title: About Us | îLE SAUVAGE BREWING
+snippet: We believe in all things delicious. Île Sauvage is French for “Wild Island” and is a dual reference to the wilderness of Vancouver Island and our main focus on Belgian-style wild ales and sour beers. We make use of Kveik, Lactobacillus, and Brettanomyces fermentations, as well as secondary fermentations with fruit.
+title: île Sauvage Brewing Company - Victoria, BC - Beers and ...
+snippet: île Sauvage Brewing Company from Victoria, BC on Untappd. Complete with Full Beers, Ratings, Reviews, Suggestions and more!
+title: Gallery | îLE SAUVAGE BREWING
+snippet: îLE SAUVAGE BREWING Wild and Sour Beer on Vancouver Island . Gallery Gallery. ilesauvagebrewing. Wow - that was fast! We are ... Victoria, BC. Tasting Room Hours. Monday: 2pm – 6pm Tuesday: 2pm – 6pm Wednesday: 2pm – 6pm Thursday: 2pm – 6pm Friday: 2pm – 6pm Saturday: 12pm – 4pm
+title: Ile Sauvage Brewing Co. (@ilesauvagebrewing) • Instagram ...
+snippet: 6,152 Followers, 257 Following, 304 Posts - See Instagram photos and videos from Ile Sauvage Brewing Co. (@ilesauvagebrewing)
+title: Our Beer Store | îLE SAUVAGE BREWING
+snippet: https://ile-sauvage-brewing-co-ltd.square.site. We are temporarily selling our beer on our Square Site with pick-up and delivery options in Victoria, BC.
+title: île Sauvage Brewing Company - BC Craft Brewers Guild
+snippet: île Sauvage Brewing Company. ... Stephane Turcotte; Established: 2018; Brewing Wild and Sour beers on Vancouver Island. 2960 Bridge St, Victoria, BC ... www.ilesauvage.com; Temporary Business Operations. Pick Up: YES Delivery: YES Online Orders: https://ile-sauvage-brewing-co-ltd.square.site/ Back To Brewery list. Home / COVID-19 Update: Today ...
+
+REL: 1
+POI Name: Red Fish Blue Fish
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Fish & Chips, Food Stands, Seafood, 
+Snippets:
+title: Red Fish Blue Fish
+snippet: Red Fish Blue Fish is an outdoor waterfront eatery in an up-cycled cargo container on a wooden pier in Victoria’s Inner Harbour. A unique, fresh and sustainable approach to the old fish ‘n’ chip shop.
+title: Red Fish Blue Fish, Victoria - Restaurant Reviews, Photos ...
+snippet: Red Fish Blue Fish, Victoria: See 2,860 unbiased reviews of Red Fish Blue Fish, rated 4.5 of 5 on Tripadvisor and ranked #15 of 1,076 restaurants in Victoria.
+title: Menu — Red Fish Blue Fish
+snippet: Menu Location + Hours Our Story Ocean Wise* Jobs Contact daily menu. Back To Top. Red Fish Blue, 1006 Wharf Street, Victoria, B.C. V8W 1T4 250-298-6877 hello@redfish-bluefish.com. copyright 2016 250.298.6877 Email Us photography by ...
+title: Red Fish Blue Fish - Home - Victoria, British Columbia ...
+snippet: Red Fish Blue Fish - 1006 Wharf Street, Victoria, British Columbia V8W 1T4 - Rated 4.8 based on 515 Reviews &quot;What a gem of a place !!! Best clam chowder...
+title: RED FISH BLUE FISH, Victoria - Updated 2020 Restaurant ...
+snippet: Red Fish Blue Fish, Victoria: See 2,860 unbiased reviews of Red Fish Blue Fish, rated 4.5 of 5 on Tripadvisor and ranked #15 of 1,076 restaurants in Victoria.
+title: Red Fish Blue Fish, Victoria - Restaurant Bewertungen ...
+snippet: Red Fish Blue Fish, Victoria: 2.856 Bewertungen - bei Tripadvisor auf Platz 18 von 1.077 von 1.077 Victoria Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Red Fish Blue Fish
+snippet: Redfish Bluefish was founded by Claire and Mike Emmett. Our team of great people includes photographers, ... Victoria, Australia. We love the surroundings, and know that since we moved here, ... The joy of fish Friday, May 28th, 2010.
+title: Red Fish Blue Fish | Victoria, Canada Restaurants - Lonely ...
+snippet: On the waterfront boardwalk at the foot of Broughton St, this freight-container takeout shack serves fresh-made, finger-licking sustainable seafood. Highlights include jerk fish poutine, amazing chowder and tempura-battered oysters (you can also get traditional fish-and-chips, of course). Expanded ...
+title: Red Fish Blue Fish (ヴィクトリア) の口コミ2,860件 - トリップアドバイザー
+snippet: Red Fish Blue Fish(ヴィクトリア)に行くならトリップアドバイザーで口コミ、地図や写真を事前にチェック！Red Fish Blue Fishはヴィクトリアで15位(1,076件中)、4.5点の評価を受けています。
+
+REL: 1
+POI Name: Burgoo Bistro
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Comfort Food, Bistros, 
+Snippets:
+title: Burgoo
+snippet: While our Bistros may be closed during this difficult time, our Delivery Kitchen is open to safely bring comfort to your door. Please help support our small business by ordering through your favourite delivery app.
+title: Locations - burgoo.ca
+snippet: Due to the cosy size of our bistro, Burgoo North Vancouver can only accept limited reservations. Please call us at 604 904 0933 to check availability. As a consideration for our other guests, groups with reservations who arrive more than 15 minutes late or with fewer numbers than originally confirmed may lose their reservation.
+title: Burgoo Bistro - Home - Vancouver, British Columbia - Menu ...
+snippet: Burgoo Bistro, Vancouver, British Columbia. 1,795 likes · 30 talking about this · 3,360 were here. Food for comfort. A Vancouver classic for seventeen years. Find us in Point Grey, North Van, Mt....
+title: Food for Comfort - Burgoo
+snippet: smashed avocado on toasted Ciabatta, Tajin seasoning, sea salt, cilantro, with tomato, cucumber &amp; fresh lime served with Side Bistro Salad Darn Good Soup +2, Chèvre +1.50, real bacon bits +2
+title: Story - Burgoo
+snippet: Our original bistro opened in December 2001 in Point Grey in Vancouver’s West Side. Through the heartwarming support of our local guests, we quickly experienced what neighbourhood and community mean to our bistro concept and our personal well being.
+title: Contact - Burgoo
+snippet: Have a Question or Comment? If you have any questions or comments, we’d like to hear from you. Thank you for contacting Burgoo Bistro.
+title: Burgoo Bistro - Point Grey - Vancouver, BC, Canada
+snippet: 116 reviews of Burgoo Bistro &quot;Let me tell you something about French Onion Soup.. I was a young boy when I was introduced to this tasty soup, which is an onion broth with bread clumps topped with tons of cheese and baked. I first had it at the…
+title: Burgoo Bistro - Mount Pleasant - Vancouver, BC, Canada
+snippet: 439 reviews of Burgoo Bistro &quot;Ordered the Crab Bisque with Kale Caesar. Bisque was very flavourful. Caesar could&#39;ve used a little more dressing, but still good. The French Onion soup was loaded ... loaded with cheese. Again, tasty. Wait staff…
+title: Burgoo, Vancouver - Restaurantanmeldelser - Tripadvisor
+snippet: Burgoo, Vancouver: Se 216 objektive anmeldelser av Burgoo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 150 av 3 442 restauranter i Vancouver.
+title: www.yelp.com
+snippet: 195 reviews of Burgoo Bistro &quot;Great location, great staff, cozy place and good food. I never had an amazing dish for lunch, but their dishes are usually good enough and I love the deserts. My opinion: - Macaroni &amp; Cheese (good, but not very…
+
+REL: 1
+POI Name: Finn's Seafood Chops Cocktails
+POI City: Victoria
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Cocktail Bars, 
+Snippets:
+title: Finn&#39;s Seafood Restaurant | Restaurant with a View | Wharf ...
+snippet: Welcome to Finn’s Seafood, Chops &amp; Cocktails restaurant in beautiful Victoria, BC, Canada. Whether you’re craving fresh local seafood, AAA house cut steak, our famous double thick pork chops, juicy burgers, prawn tacos or classically prepared fish &amp; chips, Executive Chef Richard Luttman and his team have created a menu offering fresh and delicious cuisine for all tastes, including ...
+title: Restaurant &amp; Cocktail Menus - Finn&#39;s ... - Finns Seafood
+snippet: Finn’s Seafood, Chops &amp; Cocktails 1208 Wharf St. Victoria, BC V8W 1T9 (250) 360-1808
+title: Finn&#39;s Seafood, Chops and Cocktails Restaurant - Victoria ...
+snippet: Book now at Finn&#39;s Seafood, Chops and Cocktails in Victoria, BC. Explore menu, see photos and read 399 reviews: &quot;My husband and I celebrated our 20th wedding anniversary here - being from the Prairies, we wanted some local seafood.
+title: About Us - Finn&#39;s Seafood Restaurant
+snippet: He accompanied James Douglas in the selection of the site for Fort Victoria, and went on to become on of the very few men to see the evolution of Victoria from bare land, to its transformation into the bustling capital of British Columbia.
+title: Classic Cocktails on Wharf Street - Finn&#39;s Seafood Restaurant
+snippet: At Finn’s restaurant, as we do with our seafood, steaks, and chops, we source the best ingredients for our cocktails. We mix our signature drinks using top-shelf alcohol, fresh juices, and juicy garnishes. Our casual, friendly atmosphere and stunning views make Finn’s the ideal place for cocktails in Victoria.
+title: Our Restaurant Blog - Finn&#39;s ... - Home - Finns Seafood
+snippet: Finn&#39;s Seafood Restaurant blog. Get the inside scoop on our newest dishes, specials, hours, contests etc. Be the first to know by following our blog.
+title: Finn&#39;s Seafood Chops Cocktails (@finns_restaurant_victoria ...
+snippet: 875 Followers, 865 Following, 113 Posts - See Instagram photos and videos from Finn&#39;s Seafood Chops Cocktails (@finns_restaurant_victoria)
+title: Finn&#39;s Seafood Chops Cocktails Victoria, BC V8W 1T9 - 67 ...
+snippet: Latest reviews, photos and ??ratings for Finn&#39;s Seafood Chops Cocktails at 1208 Wharf St in Victoria - ⏰hours, ☎️phone number, ☝address and map.
+title: Finn&#39;s Seafood chops cocktails - Review of Finn&#39;s ...
+snippet: Finn&#39;s: Finn&#39;s Seafood chops cocktails - See 511 traveler reviews, 224 candid photos, and great deals for Victoria, Canada, at Tripadvisor.
+title: Finn&#39;s Seafood, Chops and Cocktails reservations in ...
+snippet: Make a restaurant reservation at Finn&#39;s Seafood, Chops and Cocktails in Victoria, BC. Select date, time, and party size to find a table.
+
+REL: 0
+POI Name: Mount Douglas Golf Course
+POI City: Victoria
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: Welcome to Mt. Doug Golf Course - Mount Douglas Golf Course
+snippet: Update on COVID-19 Mt. Doug Golf Course is closed until further notice. A decision has been made based on direction from the Public Health Agency of Canada regarding Coronavirus (COVID-19) precautions and physical distancing measures. To prioritize the health and safety of our staff and guests, Mount Douglas Golf Course has now made the difficult […]
+title: Online Tee-Time bookings - Mount Douglas Golf Course
+snippet: If there has been heavy rainfall within 24 hours of your tee time please check the homepage for information on course closures and conditions or call the clubhouse (250) 477-8314. Mount Douglas Golf Course has a very high demand for tee-times.
+title: Contact Us - Mount Douglas Golf Course
+snippet: Golf Course Address – 4225 Blenkinsop Road, Victoria BC, V8X2C3. Email the Mount Doug clubhouse. Email us your customer comments (This email is Private and Confidential). Email us with your tournament inquiries – Please leave requested date, time, number of golfers and your contact information.. Email us your gift gard inquiries – Please leave full contact information.
+title: 2020 Course Rates - Mount Douglas Golf Course
+snippet: Winter Green Fees for 9 holes We offer one winter rate for all ages which is $13.00 for every 9 holes. This has been discounted from our regular rates of $17 per Adult and $15 per Senior/Student/Military. SAVE with the 2020 Winter Green fees Punch Card : $130 (11 games for the price of 10 […]
+title: Employment - Mount Douglas Golf Course
+snippet: This is a great opportunity to become a member of a dynamic work environment at Mount Douglas Golf Course. We are an executive 9 hole golf course in the beautiful Blenkinsop Valley offering 4 par 4’s and 5 par 3’s. Please f eel free to drop off a resume at any time for us to keep on file or give us a call if you have any questions. Thank you for considering Mount Douglas Golf Course.
+title: Scorecard - Mount Douglas Golf Course
+snippet: Our Scorecards are created by Benchcraft Co. Contact Benchcraft with any questions by clicking here. Click images below to view larger.
+title: Mount Douglas Golf Course, Victoria, BC
+snippet: The 9-hole Mount Douglas Golf course at the Mount Douglas Golf Course facility in Victoria, British Columbia features all the hallmarks of British Columbia golf. Mount Douglas Golf golf course opened in 1978. Lindy Lovett manages the course as the General Manager.
+title: Course Photos - Mount Douglas Golf Course
+snippet: Mount Douglas Golf Course. Home; About; COVID-19 Health &amp; Safety; Scorecard; 2020 Course Rates; Gift Cards; Tournaments; Advanced Season Bookings; Course Photos; Lost &amp; Found; Employment; Contact Us; Book Tee Times Powered by Genesis. Course Photos. Mount Douglas Golf Course | 4225 Blenkinsop Road, Victoria BC V8X 2C3 | (250) ...
+title: Mount Douglas Golf Course Tee Times - Victoria BC
+snippet: Discount tee times are available at Mount Douglas Golf Course. Book now and save up to 80% at Mount Douglas Golf Course. Earn reward points good toward future tee times. Book Hot Deals tee times and receive 100% weather protection at Mount Douglas Golf Course.
+title: Send a Gift at Mount Douglas Golf Course in Victoria | ItsOnMe
+snippet: Send a Gift at Mount Douglas Golf Course in Victoria. Using ItsOnMe. ItsOnMe allows you to send digital gift cards instantly for the best local bars and restaurants. Its the perfect way to say &#39;It&#39;s on me&#39;!
+
+REL: 0
+POI Name: Langham Court Theatre
+POI City: Victoria
+POI Country: CA
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: Ticket Info « Langham Court Theatre
+snippet: Give the gift of live theatre! Langham Court Theatre Gift Certificates are available anytime. We will require the name and phone number of the recipient. Box Office Policies. No Refunds; all ticket sales are non-refundable. Tickets may be exchanged for another performance within that production, subject to availability.
+title: Calendar « Langham Court Theatre
+snippet: Costume Loft 250.384.2025 costumeloft@langhamtheatre.ca. Mailing Address 805 Langham Court Victoria, BC V8V 4J3 Canada Google Maps »
+title: Langham Court Theatre - Arts Victoria - Calendar and Directory
+snippet: Langham Court Theatre is an intimate 177 seat theatre in the historic residential Rockland neighbourhood, just minutes from downtown Victoria, BC. The 2019 2020 Season is Langham&#39;s 91st, making it the longest running Community Theatre in Western Canada. We are fully equipped with a rehearsal room, dressing rooms, green room and a licensed lounge.
+title: Langham Court Theatre
+snippet: Dear Friends of Langham, In light of the latest local, national and international news and both government and health advice about COVID-19, the Langham Court Theatre building is now closed to the public until further notice.We are all incredibly sad to close our doors, but we know the safety of our audiences, volunteers and staff must be the priority at this time.
+title: Seating « Langham Court Theatre
+snippet: Costume Loft 250.384.2025 costumeloft@langhamtheatre.ca. Mailing Address 805 Langham Court Victoria, BC V8V 4J3 Canada Google Maps »
+title: Blithe Spirit « Langham Court Theatre
+snippet: THEATRE CLOSED AND TICKET SALES SUSPENDED UNTIL FURTHER NOTICE. 2018 / 2019 Season. Buy Tickets. Sep 26 – Oct 13, 2018 Blithe Spirit A Comedy by Noël Coward Directed by Toshik Bukowiecki ... 805 Langham Court Victoria, BC V8V 4J3 Canada
+title: Langham Court Theatre (Victoria, Canada) - Anmeldelser
+snippet: Langham Court Theatre, Victoria: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Langham Court Theatre i Victoria, Canada på Tripadvisor.
+title: I and You « Langham Court Theatre
+snippet: Feb 26 – Mar 14, 2020 I and You Written by Lauren Gunderson Directed by John Han. REMAINING SHOWS CANCELLED AS OF MARCH 13, 2020. One afternoon, Anthony arrives unexpectedly at classmate Caroline’s door bearing a beat-up copy of Walt Whitman’s Leaves of Grass, an urgent assignment from their English teacher. Home-bound due to illness, Caroline hasn’t been to school in months, but she ...
+title: Rope « Langham Court Theatre
+snippet: THEATRE CLOSED AND TICKET SALES SUSPENDED UNTIL FURTHER NOTICE. 2019 / 2020 Season. Buy Tickets. Nov 6 – 23, 2019 Rope A Thriller by Patrick Hamilton Directed by Alan Penty Can one commit the perfect murder? SUSPENSEFUL, INTRIGUING &amp; SHOCKING ... 805 Langham Court Victoria, BC V8V 4J3 Canada
+title: Langham Court Theatre - Home | Facebook
+snippet: Langham Court Theatre - 805 Langham Court, Victoria, British Columbia V8V 4J3 - Rated 4.6 based on 54 Reviews &quot;Next to Normal. What can I say. It was an...
+
+REL: 0
+POI Name: Victoria Athletic Club
+POI City: Victoria
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Victoria Athletic Club Closure Notice - Hotel Grand Pacific
+snippet: Victoria Athletic Club Closure Notice. In light of the evolving COVID-19 Coronavirus and in following the recommendations from experts at the BC Centre for Disease Control, Public Health Agency of Canada (PHAC), World Health Organization (WHO), as well as our local health departments, the Victoria Athletic Club will be closed as of Thursday, March 19th at 10:00pm until further notice.
+title: Athletics Victoria
+snippet: Victoria’s premier track &amp; field club. Athletics Victoria is a non-profit athletics club serving athletes aged 9 to 90 in the Greater Victoria Area. With experienced coaches in all disciplines of track and field, we are the region’s most robust track and field club.
+title: Athletic Club Schedule - Hotel Grand Pacific
+snippet: Victoria Athletic Club offers a selection of regularly scheduled fitness classes including Yoga, Pilates, Zumba, Aquafit, and more. Included in full memberships and available at a drop-in rate for the public and hotel guests. Please be aware that late arrivals to our yoga classes are not permitted.
+title: Victoria Athletic Club - Home | Facebook
+snippet: Victoria Athletic Club, Victoria, BC. 829 likes · 308 were here. The Victoria Athletic Club at Hotel Grand Pacific in Victoria, BC is a full-service fitness facility offering everything you need to...
+title: Victoria Athletic Club - Gyms - 463 Belleville Street ...
+snippet: 3 reviews of Victoria Athletic Club &quot;When I travel abroad, I&#39;m typically disappointed with the hotel gyms. Not this one! While it did not have the array of dumbbells I would like (50# limit) it had a robust array of machines that afforded every…
+title: Home - Athletics Victoria
+snippet: XCR’20. Athletics Victoria’s XCR series is a cross country and road racing platform which welcomes runners of all ages and abilities. The vision for XCR is to bring Victoria’s most enthusiastic long distance runners together for a competition series which offers a number of open, master and junior divisions.
+title: Home · Athletics Victoria
+snippet: If you are NOT an Athletics Victoria member or do NOT have an existing profile on the AV online system, please create a profile.
+title: Victoria Athletic F.C. - Belfast | Facebook
+snippet: Victoria Athletic F.C., Belfast. 546 likes · 179 talking about this. Victoria Athletic football club DAWFL division 2 Sponsors; Carryduff Hardware Connswater Homes RJC Electrics Gary Hutchinson...
+title: Victoria Park &amp; Connswater Athletics Club - Home | Facebook
+snippet: Victoria Park &amp; Connswater Athletics Club, Belfast. 380 likes. Victoria Park &amp; Connswater Athletics Club - We value athletes of all abilities who want to be the best that they can be.
+title: University of Victoria Athletics - Official Athletics Website
+snippet: The official athletics website for the University of Victoria Vikes
+
+REL: 0
+POI Name: Mothering Touch Centre
+POI City: Victoria
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Yoga, Childbirth Education, Baby Gear & Furniture, 
+Snippets:
+title: Home - 2020 Temp. • Mothering Touch
+snippet: The Mothering Touch Centre is an owner-operated, family-run enterprise in Victoria BC. Our mission is to provide prenatal and postnatal support, classes and information to new and expectant parents. Our retail store features products to make pregnancy and early parenting and babyhood more comfortable, more convenient and more fun!We are mothers, daughters, doulas and friends - we&#39;re here for y
+title: Contact Us • Mothering Touch
+snippet: Mothering touch is so much more than a baby store. It&#39;s been a haven during times of insecurity and isolation while embarking on the project of parenting little people. It&#39;s such a big job, being a parent, so thank you for all you do and the ongoing, continuous support you show to moms and dads.
+title: Mothering Touch Centre - Victoria, BC, Canada - Yelp
+snippet: 1 review of Mothering Touch Centre &quot;The retail products in this store are super cute but far to high for me. A onesie for $40? I realize its made from ethically sourced organic plants but unless it can change a diaper I&#39;m not going to be able to…
+title: Mothering Touch - Home | Facebook
+snippet: Mothering Touch - 975 Fort St, Victoria, British Columbia V8V 3K3 - Rated 4.7 based on 50 Reviews &quot;Love this place!! The baby drop in groups are very...
+title: Our Staff • Mothering Touch
+snippet: Linda Shubert. Our Retail Purchaser. Linda has been working at Mothering Touch since May 2010. She loves and is excited by the entire concept of. the Centre and how it offers a safe place for parents to meet, get support, or just have a chat about what is going on in their day.
+title: Mothering Touch Centre 975 Fort St Victoria, BC Infant ...
+snippet: Get directions, reviews and information for Mothering Touch Centre in Victoria, BC. Mothering Touch Centre 975 Fort St Victoria BC V8V 3K3. Reviews (250) 595-4905 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Doula Training at Mothering Touch • Mothering Touch
+snippet: Doula Training at Mothering Touch is warm, evidence-based, interactive and approved by DONA International. Eva Bild AdvCD(DONA), BDT(DONA), LCCE has been training doulas in Victoria since 2005. A doula accompanies pregnant people and their partners, friends and family during labour to facilitate a satisfying birth experience.
+title: Mothering Touch - Services | Facebook
+snippet: Mothering Touch - 975 Fort St, Victoria, British Columbia V8V 3K3 - Rated 4.7 based on 49 Reviews &quot;Love this place!! The baby drop in groups are very...
+title: Resources – Finding a Doctor or Midwife - Mothering Touch
+snippet: In Victoria, under BC&#39;s Medical Services Plan, you can choose either a Doctor or Midwife to be your primary caregiver during pregnanc. ... Home / Resources and Links / Resources – Finding a Doctor or Midwife. ... The Mothering Touch Centre.
+title: Mothering Touch Centre and Birth Services
+snippet: The Mothering Touch Centre is an owner-operated, family-run enterprise in Victoria BC. Our mission is to provide prenatal and postnatal support, classes and information to new and expectant parents. We are mothers, daughters, doulas and friends - we&#39;re here for you. Services.
+
+Cand cities: {'Vancouver', 'Victoria', 'Toronto'}

@@ -1,0 +1,1273 @@
+City: Wilmington
+Country: US
+Main category: Active Life
+Sub category: Mini Golf
+Description: Anybody have a mini golf recommendation for Newark/Wilmington? I see Vince's, Delcastle, and Riverwalk on Google but wasn't sure which to check out. Just looking for a family friendly place to take my in-laws in a few weeks when they come visit. Thanks!
+Rated POIs: 48
+Rel distr: [(0, 15), (1, 19), (2, 12), (3, 2)]
+=================================
+REL: 3
+POI Name: Riverwalk Mini Golf
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+title: Riverwalk Mini Golf • Riverfront Wilmington • Great Family ...
+snippet: Riverwalk Mini Golf is an 18-hole miniature golf course located right along the Wilmington Riverwalk! This beautifully lanscaped mini golf course was designed by Harris Miniature Golf of Wildwood, New Jersey and features many of the colors and plant life found along the Riverfront, including the iconic Tom Burke birdhouses.
+title: Riverwalk Mini Golf (Wilmington) - 2020 All You Need to ...
+snippet: This is a nice mini golf course in a good location on the riverfront, right next to the children&#39;s museum and a lot of popular restaurants. They sell ice cream at the ticket booth as well. The course itself seemed a bit on the smaller side but was fun to play, a great way to …
+title: THE 10 CLOSEST Hotels to Riverwalk Mini Golf, Wilmington ...
+snippet: Hotels near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find 6,339 traveler reviews, 3,190 candid photos, and prices for 30 hotels near Riverwalk Mini Golf in Wilmington, DE.
+title: Riverwalk Mini Golf - Home | Facebook
+snippet: Riverwalk Mini Golf, Wilmington, Delaware. 2,581 likes · 4 talking about this · 4,338 were here. 18 Holes of Mini Golf &amp; featuring 9 flavors of soft serve ice cream, milk shakes,&amp; more! $8.00 per...
+title: Riverwalk Mini Golf | IN Wilmington
+snippet: Riverwalk Mini Golf is an 18-hole miniature golf course located right along the Wilmington Riverwalk! This beautifully lanscaped mini golf course was designed by Harris Miniature Golf of Wildwood, New Jersey and features many of the colors and plant life found along the Riverfront, including the iconic Tom Burke birdhouses...
+title: Restaurants Near Riverwalk Mini Golf, Wilmington, Delaware
+snippet: Restaurants near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find traveler reviews and candid photos of dining near Riverwalk Mini Golf in Wilmington, Delaware.
+title: Riverwalk Mini Golf ticket window - Picture of Riverwalk ...
+snippet: Riverwalk Mini Golf, Wilmington Picture: Riverwalk Mini Golf ticket window - Check out Tripadvisor members&#39; 3,189 candid photos and videos of Riverwalk Mini Golf
+title: Riverwalk Mini Golf (Wilmington, DE) - opinie - Tripadvisor
+snippet: Riverwalk Mini Golf, Wilmington: zobacz recenzje, artykuły i zdjęcia dotyczące Riverwalk Mini Golf w serwisie Tripadvisor w Wilmington, Delaware
+title: Riverwalk Mini Golf (Wilmington) - 2020 All You Need to ...
+snippet: Wilmington Tourism; Wilmington Accommodation; Wilmington Bed and Breakfast; Wilmington Holiday Rentals; Wilmington Holiday Packages; Wilmington Flights; Wilmington Restaurants; Wilmington Attractions; Wilmington Travel Forum
+title: The 10 Best Restaurants Near Riverwalk Mini Golf, Wilmington
+snippet: Restaurants near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find traveller reviews and candid photos of dining near Riverwalk Mini Golf in Wilmington, Delaware.
+
+REL: 3
+POI Name: Delcastle Golf Center Driving Range
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Mini Golf, 
+Snippets:
+title: Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Golf | Delcastle Golf Course
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Delcastle Golf Center Driving Range Millcreek Rd ...
+snippet: Get reviews, hours, directions, coupons and more for Delcastle Golf Center Driving Range at Millcreek Rd, Wilmington, DE 19801. Search for other Golf Instruction in Wilmington on The Real Yellow Pages®.
+title: Delcastle Golf Center Driving Range - Wilmington, DE | Groupon
+snippet: Delcastle Golf Driving Range in Wilmington offers a safe haven for golfers, beginners and pros. Delcastle Golf Driving Range offers a professional practice facility, including a spacious driving range.Delcastle Golf Driving Range&#39;s patrons can find places to park in the area. So if you&#39;re hoping to boost your athleticism, try your hand (or your golf swing) at Delcastle Golf Driving Range i
+title: Delcastle Golf Center Driving Range 3601 Millcreek Rd ...
+snippet: Get directions, reviews and information for Delcastle Golf Center Driving Range in Wilmington, DE. Delcastle Golf Center Driving Range 3601 Millcreek Rd Wilmington DE 19808. 2 Reviews (302) 995-6889. Menu &amp; Reservations Make Reservations . Order Online Tickets ...
+title: Delcastle Golf Driving Range - Wilmington, Delaware ...
+snippet: Delcastle Golf Driving Range, Wilmington, Delaware. 118 likes. Driving Range
+title: Delcastle Golf Center &amp; Driving Range - Wilmington, DE ...
+snippet: The Delcastle Golf Center &amp; Driving Range, located in Wilmington, DE, is a Golf Course that offers playing grounds, practice areas for driving and putting, and other facilities for golfers.
+title: Academy | Delcastle Golf Course
+snippet: Visit Delcastle Golf Course in Wilmington, DE to fine-tune your game at our practice facility and learn at the Delcastle Golf Academy.
+title: Dining - Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: The Delcastle Restaurant is located on the first floor of the clubhouse, adjacent to the pro shop. Enjoy a pub style menu offering our crowd favorite half-pound burgers and over 30 beer options along with a full bar. Come out and dine with us in the bar or on our patio overlooking the course.
+title: Book a Tee Time | Delcastle Golf Course | Wilmington Delaware
+snippet: Book a Tee Time at Delcastle Golf Course located in Wilmington Delaware
+
+REL: 2
+POI Name: Rock Manor Golf Course
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: Golf Courses in Wilmington, DE | Rock Manor Golf Club
+snippet: Rock Manor Golf Club, located in Wilmington, DE, right off I-95 is an 18 hole championship golf course designed by renowned course architect Lester George.
+title: Golf | Rock Manor Golf Club
+snippet: Learn about Rock Manor Golf Club, located in Wilmington, DE, an 18 hole championship course designed by renowned course architect Lester George.
+title: Tee Times in Wilmington, DE - Rock Manor Golf Course
+snippet: Book your Wilmington, DE golf tee time at Rock Manor Golf Club. Lowest price available online. No booking fees. Join us and book your tee time today.
+title: Rock Manor Golf Club in Wilmington, Delaware, USA | Golf ...
+snippet: Rock Manor Golf Club in Wilmington, Delaware: details, stats, scorecard, course layout, tee times, photos, ... Rock manor is one of our favorite courses, ... A view of a green flanked by sand traps at Rock Manor Golf Club Rock Manor GC. A view over the water from Rock Manor Golf Club.
+title: Membership - Rock Manor Golf Course
+snippet: We invite you to join Rock Manor Golf Club as a member of our 365 program! We look forward to providing you with an outstanding experience in the heart of Wilmington. We are confident that you’ll find our memberships to be a great value and one of the most accommodating membership programs around!
+title: Academy | Rock Manor Golf Club
+snippet: Visit Rock Manor Golf Club in Wilmington, DE to fine-tune your game at our practice facility and learn from our skilled LPGA &amp; PGA instructors.
+title: Rock Manor Golf Course Tee Times - Wilmington DE
+snippet: Discount tee times are available at Rock Manor Golf Course. Book now and save up to 80% at Rock Manor Golf Course. Earn reward points good toward future tee times. Book Hot Deals tee times and receive 100% weather protection at Rock Manor Golf Course.
+title: Rock Manor Golf Course - Home | Facebook
+snippet: Rock Manor Golf Course, Wilmington, DE. 1.3K likes. Established in 1921, Rock Manor has been lengthened from 5,779 yards to an 18 hole, 6,405 yard championship design by renowned golf-course...
+title: Rock Manor Golf Course Corporation | Wilmington, DE
+snippet: The Rock Manor Golf Course Corporation administers and enforces the requirements of the operation and maintenance of the municipal golf course known as Rock Manor, owned by the city. The corporation may enter into an agreement with an operator of such a facility to carry out the day-to-day operations and maintenance of the facility.
+title: Rock Manor Golf Club in Wilmington, DE - PGA Junior Golf Camps
+snippet: The course boasts new tee boxes, greens, bunkers and fairways. Your junior golfer will enjoy honing new golf skills at the Rock Manor practice facility that includes a large undulating putting green, chipping green, driving range and short game area.
+
+REL: 2
+POI Name: Delcastle Golf Club
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Golf Lessons, 
+Snippets:
+title: Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Golf | Delcastle Golf Course
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Delcastle Golf Club (Wilmington, DE): Address, Phone ...
+snippet: Things to Do in Wilmington ; Delcastle Golf Club; Search. Delcastle Golf Club. Is this your business? #7 of 7 Outdoor Activities in Wilmington. Outdoor Activities, Golf Courses. 801 McKennans Church Rd, Wilmington, DE 19808-2183. Share. Write a Review Have you been to Delcastle Golf Club? Post photos Write Review.
+title: Delcastle Golf Club Tee Times - Wilmington DE
+snippet: Discount tee times are available at Delcastle Golf Club. Book now and save up to 80% at Delcastle Golf Club. Earn reward points good toward future tee times. Book Hot Deals tee times and receive 100% weather protection at Delcastle Golf Club.
+title: Join - Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: We invite you to join Delcastle Golf Course as a member of our Delcastle 365 program! This new program offers membership options valid for a full year from the date of purchase. We look forward to providing you with an outstanding golfing experience, and we are confident you will find a membership with unbeatable value!
+title: Outings | Delcastle Golf Club - Golf Course in Wilmington, DE
+snippet: Have your next golf outing or tournament at Delcastle Golf Course in Wilmington, DE! Let us customize a package for your group.
+title: Delcastle Golf Course Tee Times - Wilmington, DE | TeeOff.com
+snippet: Delcastle Golf Course, located in Wilmington, Delaware, is a challenging 18-hole, par 72 championship golf course. The Ed Ault-design opened in 1971, and features rolling hills, wide fairways, and large bent grass greens. Delcastle also offers a full-service restaurant and bar, a driving range, miniature golf course and golf instruction.
+title: Book a Tee Time | Delcastle Golf Course | Wilmington Delaware
+snippet: Book a Tee Time at Delcastle Golf Course located in Wilmington Delaware
+title: Delcastle Golf Club, Wilmington, DE
+snippet: The 18-hole Del Castle course at the Delcastle Golf Club facility in Wilmington, Delaware features 6,628 yards of golf from the longest tees for a par of 72. The course rating is 70. 4 and it has a slope rating of 116 on Rye grass.
+title: Delcastle Golf Club (Wilmington) - All You Need to Know ...
+snippet: Delcastle Golf Club, Wilmington: See reviews, articles, and photos of Delcastle Golf Club, ranked No.7 on Tripadvisor among 7 attractions in Wilmington.
+
+REL: 2
+POI Name: Boulder Falls Miniature Golf
+POI City: Downingtown
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Amusement Parks, Mini Golf, 
+Snippets:
+
+
+REL: 2
+POI Name: Fox Point State Park
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Fox Point - Delaware State Parks
+snippet: The Delaware River has long been a working river, and Fox Point State Park provides front row seats for watching the river at work. With the shipping channel a scant hundred yards away, the view of tugs and tankers will truly be up close and personal. Interpretive displays describe the functions of the various watercraft plying the river.
+title: Fox Point State Park (Wilmington) - 2020 All You Need to ...
+snippet: Fox Point State Park is right on the Delaware river. Great spot to bike and it is relatively easy to access via the Delaware Greenway trail. I say relatively because you need to cross Governer Printz Boulevard to get there. There is plenty of free Parking if you drive and it …
+title: Fox Point State Park - Wikipedia
+snippet: Fox Point State Park is a Delaware state park on 108 acres (44 ha) along the Delaware River in New Castle County, Delaware in the United States.The park, which opened in 1995, has been built atop a former hazardous waste site that has been rehabilitated under an adaptive reuse program that was spearheaded by S. Marston Fox and the Fox Point Civic Association.
+title: Campground Details - Fox Point State Park, DE - ReserveAmerica
+snippet: Fox Point State Park provides front row seats for watching the river at work. With the shipping channel a scant hundred yards away, the view of the tugs and tankers will truly be up close and personal. In addition, the park features interpretive displays describing the functions of the various watercraft plying the river. Geography:
+title: Fox Point State Park in Wilmington | Delaware - on ...
+snippet: Did you know that the Delaware River has been a working river for a very long time, and if you want a great view of it in action, PLUS a great day out with the family, Fox Point State Park could be for you!
+title: Fox Point State Park (Wilmington, England): Address ...
+snippet: This site uses cookies to improve your experience, to enhance site security and to show you personalised advertising. Click here to learn more or control your settings.By clicking on or navigating the site, you agree to our use of cookies.
+title: Wilmington State Parks - Delaware State Parks
+snippet: About Wilmington State Parks. Find recreation, history, education, and sports and community events right in the heart of Wilmington. These parks are the perfect place to relax, hike, picnic, or just enjoy the beauty of the Brandywine River.
+title: Fox Point State Park 1149 Lighthouse Rd Wilmington, DE ...
+snippet: Get directions, reviews and information for Fox Point State Park in Wilmington, DE.
+title: Fox Point State Park, Wilmington | Roadtrippers
+snippet: Fox Point State Park is a Delaware state park on 171 acres along the Delaware River in New Castle County, Delaware in the United States. The park, which opened in 1995, has been built atop a former hazardous waste site that has been rehabilitated under an adaptive reuse program that was spearheaded by S. Marston Fox and the Fox Point Civic Association. Fox Point State Park is open for year ...
+title: Fox Point Park - Edgemoor, Delaware - State Park, Sports ...
+snippet: Fox Point Park, Edgemoor, Delaware. 33 likes · 1,599 were here. State Park. Jump to. Sections of this page. ... State Park. 4.6 ★ · 307 public ratings. Brandywine Creek State Park. State Park. 4.6 ★ · 365 public ratings. Wilmington Blue Rocks. Professional Sports Team.
+
+REL: 2
+POI Name: Ed Oliver Golf Club
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: Ed Oliver Golf Club - Wilmington, DE - Managed by Billy ...
+snippet: Ed Oliver Golf Club is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Golf | Ed Oliver Golf Club | Wilmington Delaware
+snippet: Ed Oliver Golf Club, located on the original site of the Wilmington Country Club, has attracted golfers for over 100 years. Of the original golf course design, all that remains is a 100-year-old chimney located on our signature 18th hole.
+title: Online Tee Times | Ed Oliver Golf Club | Wilmington Delaware
+snippet: Book a Tee Time at Ed Oliver Golf Club in Wilmington, DE 19807
+title: Weddings &amp; Banquets - Ed Oliver Golf Club - Wilmington, DE
+snippet: Our spacious 4,000 sq ft clubhouse, overlooking the Ed Oliver Golf Club and the Wilmington skyline, has the capacity to seat up to 190 guests. The Dover Room accommodates 140 guests and the Wilmington Room, perfect for a business meeting or a small private event, can seat up to 50 guests.
+title: Event Calendar | Ed Oliver Golf Club - Wilmington, DE
+snippet: View, RSVP and register for all upcoming events at Ed Oliver Golf Club, managed by Billy Casper Golf, located in Wilmington, Delaware 19807
+title: Ed Oliver Golf Club - Home | Facebook
+snippet: Ed Oliver Golf Club - 800 N Dupont Rd, Wilmington, Delaware 19807 - Rated 4 based on 72 Reviews &quot;Attended a private party here. The staff was, in a word,...
+title: Contact | Ed Oliver Golf Club | Wilmington Delaware
+snippet: Get directions to Ed Oliver Golf Club in Wilmington, DE, as well as information on how to contact our professional staff.
+title: Ed Oliver Golf Club: Dining
+snippet: Enjoy a bite to eat at the Greenhill Pub located at Ed Oliver Golf Club in Wilmington, DE.
+title: Ed Oliver (golfer) - Wikipedia
+snippet: Edward Stewart &quot;Porky&quot; Oliver, Jr. (September 6, 1915 – September 21, 1961) was a professional golfer from the United States. He played on what is now known as the PGA Tour in the 1940s and 1950s. Born in Wilmington, Delaware, Oliver started as a caddy at age 11 at Wilmington Country Club and turned pro at age 18.
+title: Top 25 Hotels Near Ed Oliver Golf Club in Wilmington, DE ...
+snippet: Hotels4Teams has your hotels near Ed Oliver Golf Club in Wilmington, DE No one knows sports travel better than Hotels4Teams. We make it easy for individuals and groups to find the best hotels at the lowest rates closest to Ed Oliver Golf Club in Wilmington, DE!
+
+REL: 2
+POI Name: CoreTen Fitness
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trainers, Gyms, 
+Snippets:
+title: CoreTen Fitness | Wilmington, DE
+snippet: CoreTen Fitness is Wilmington, DE’s premier fitness facility offering a variety of membership options for any type of exerciser with superior service in an intimate atmosphere.
+title: CoreTen Fitness | CoreTen Fitness - Wilmington, DE
+snippet: CoreTen Fitness is Wilmington, DE’s premier fitness facility offering a variety of membership options for any type of exerciser with superior service in an intimate atmosphere. In addition to our state-of-the-art cardio equipment and extensive weight room, ...
+title: About - CoreTen Fitness | Wilmington, DE
+snippet: CoreTen Fitness has served as the premier fitness facility in Wilmington, Delaware since we opened our doors in 2015. We are proud to offer superior service in an intimate atmosphere with a variety of membership options for anyone from the first-time exerciser to the elite athlete.
+title: Class Schedule | CoreTen Fitness - Wilmington, DE
+snippet: CoreTen Fitness is happy to provide a variety of small group training offerings for everyone from the brand new beginner to the advanced athlete! Current options include Athletic Conditioning, Yoga, Cardio Kickboxing and more. Explore our schedule below!
+title: Membership | CoreTen Fitness - Wilmington, DE
+snippet: Become A CoreTen Fitness Member. Ready to take your fitness experience to a new level? CoreTen is happy to offer a variety of membership options to fit anyone’s fitness needs. Contact us today for more information and a complimentary trial pass and allow us to show you everything that we have to offer at CoreTen!
+title: CoreTen Fitness - Home | Facebook
+snippet: CoreTen Fitness, Wilmington, Delaware. 1.6K likes. CoreTen Fitness is Wilmington&#39;s premier fitness facility offering a variety of membership options for any type of exerciser with superior service in...
+title: CoreTen Fitness - About | Facebook
+snippet: CoreTen Fitness is Wilmington&#39;s premier fitness facility offering a variety of membership options for any type of exerciser with superior service in an intimate atmosphere. State-of-the-art cardio equipment, training programs, classes, CrossFit &amp; more!
+title: Photos for CoreTen Fitness - Yelp
+snippet: Photos at CoreTen Fitness - Wilmington, DE. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: CoreTen Fitness - Wilmington, DE | Groupon
+snippet: CoreTen Fitness was started to offer superior service in an intimate atmosphere catered towards everyone from the brand new exerciser to the elite athlete. 3. What do you love most about your job? Interacting with all of our members on a daily basis and having the opportunity to witness them reach all of their fitness goals. 4.
+title: CoreTen Fitness - YouTube
+snippet: Learn how CoreTen Fitness has made it easy and convenient for Wilmington police officer Anthony Easterling to stay in shape to keep up with the demands of his job and his two athletic daughters.
+
+REL: 2
+POI Name: Wilmington Country Club
+POI City: Wilmington
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Country Clubs, 
+Snippets:
+title: Members | Wilmington Country Club
+snippet: Click here for the searchable Member Directory Catch up on the latest Club news. Click here for the February Newsletter Want more information on Bridge?
+title: Golf | Wilmington Country Club
+snippet: Wilmington Country Club, Wilmington, DE 19807 © 2020 Wilmington Country Club. All Rights Reserved. Golf Course Website Design
+title: Dining | Wilmington Country Club
+snippet: Wilmington Country Club features seven different food and beverage venues encompassing everything from elegant formal dining to casual fare pool side. Our world class culinary team rotates menus seasonally to bring in fresh ingredients to every dish.
+title: Membership | Wilmington Country Club
+snippet: Membership. For more than 100 years, we have embraced a unique, sophisticated and welcoming culture that caters to the new and old generations alike; creating lasting memories and a home away from home. As our members already know, Wilmington Country Club is truly a special place. With that said, ...
+title: Wilmington Country Club 4825 Kennett Pike Wilmington, DE ...
+snippet: Wilmington Country Club is a private country clubs in the United States. It offers a variety of entertainment opportunities for people of all ages. The club features north and south golf courses, greenways and fairways. It employs service staff members who provide a variety of food options and beverages.
+title: Application | Wilmington Country Club
+snippet: The Wilmington Country Club is a prestigious private club that offers its members a full range of recreational and social amenities. Our Club has an outstanding reputation for its commitment to excellence in the quality of services and experiences we provide to our members.
+title: Wilmington Country Club (South) - Delaware - Best In State ...
+snippet: The Robert Trent Jones-designed South course at Wilmington Country Club has twice played host to the US Junior Amateur. In 1978, for the first time in history, the USGA scheduled the Junior Amateur over the South course of Wilmington Country Club, while the Girls’ Junior was simultaneously staged on the North course. Sticking with the US Junior Amateur, the longest 18-hole final match in ...
+title: Wilmington Country Club - Country Clubs - Kennett Pike ...
+snippet: Wilmington country club is total 5 stars they truly do the country club thing right. Everything is meticulously maintained, the clubhouses are spectacular, the long driveway in giving you plenty of great views of the course is a nice touch. Everyone on the staff is superb in what they do.
+title: Wilmington Country Club 4825 Kennett Pike Wilmington, DE ...
+snippet: Get directions, reviews and information for Wilmington Country Club in Wilmington, DE. Wilmington Country Club 4825 Kennett Pike Wilmington DE 19807. Reviews (302) 655-7206 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Wilmington Country Club - North - Course Profile | Course ...
+snippet: Heated hitting bays provide the perfect opportunity to practice your swing and stay tuned year round. Our courteous, professional golf staff is always available to assist with club fittings, equipment purchases and golf instruction. Wilmington Country Club has always had a long standing commitment to amateur golf.
+
+REL: 2
+POI Name: Fair Blue Swim Club
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Swimming Pools, 
+Snippets:
+title: Fair Blue Swim Club in Wilmington, De
+snippet: Fair Blue is nestled in a secluded area of North Wilmington, and is a true hidden gem offering one of the best maintained properties of all of the area’s neighborhood pools. Our club is located at the end of Fair Blue Lane, just off Grubb Road, behind Fair Woods, Chalfonte &amp; Foulk Woods on just over 6 acres of wooded land.
+title: SWIM TEAM - Fair Blue Swim Club in Wilmington, De
+snippet: All associate members 18&amp;U by June 1, 2020 and who have passed the Fair Blue Safety test, are eligible to join the club swim team. Members who would like to participate should complete the swim team online registration that will be sent to all Fair Blue Bondholders separately. Additionally, please complete the Swimmer Eligibility Form below.
+title: MEMBERS - Fair Blue Swim Club in Wilmington, De
+snippet: Fair Blue Swim Club. Online Registration will be available beginning March 1, ... +1.302.409.0454 (Off Season) 2005 Fairblue Lane, Wilmington, DE, United States ... *Associate members are immediate family of bondholder only or other persons permanently residing in his/her home.
+title: Fair Blue Swim Club - Home | Facebook
+snippet: Fair Blue Swim Club, Wilmington. 59 likes. Sports &amp; Recreation
+title: Fair Blue Swim Club - Wilmington DE - Home | Facebook
+snippet: Fair Blue Swim Club - Wilmington DE, Wilmington, DE. 299 likes · 1,217 were here. For more than fifty years Fair Blue Swim Club has been one of the true hidden gems in the Brandywine Hundred. Fair...
+title: Contact Us - Fair Blue Swim Club
+snippet: Fair Blue Swim Club. 2005 Fairblue Lane, Wilmington, DE, United States . Phone: +1.302.475.8133 (Summer) +1.302.409.0454 (Off Season) Email: communications ...
+title: Fair Blue Swim Club 2005 Fairblue Ln Wilmington, DE ...
+snippet: Get directions, reviews and information for Fair Blue Swim Club in Wilmington, DE. Fair Blue Swim Club 2005 Fairblue Ln Wilmington DE 19810. 2 Reviews (302) 475-8133 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Fair Blue Swim Club in Wilmington | Fair Blue Swim Club ...
+snippet: Find Fair Blue Swim Club in Wilmington with Address, Phone number from Yahoo US Local. Includes Fair Blue Swim Club Reviews, maps &amp; directions to Fair Blue Swim Club in Wilmington and more from Yahoo US Local
+title: Fair Blue Swim Club - 17 visitors - Foursquare
+snippet: See 3 photos from 17 visitors to Fair Blue Swim Club. Pool in Wilmington, DE Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Fair Blue Swim Club - Wilmington DE - Community | Facebook
+snippet: Fair Blue Swim Club - Wilmington DE, Wilmington, DE. 298 likes · 8 talking about this · 1,216 were here. For more than fifty years Fair Blue Swim Club has been one of the true hidden gems in the...
+
+REL: 2
+POI Name: Central Branch YMCA
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Child Care & Day Care, 
+Snippets:
+title: Central YMCA | YMCA of Delaware
+snippet: Central YMCA. 501 West Eleventh St., Wilmington, DE 19801 (302) 254-9622. Join Today! Child Care. Check out our childcare options including Preschool, Before and After School Care, School is Out care and more! Learn More. Take a Tour. Take a look inside our facilities from the comfort of your home.
+title: Central YMCA (Downtown Wilmington) - Home | Facebook
+snippet: Central YMCA (Downtown Wilmington), Wilmington, DE. 2,097 likes · 17 talking about this · 15,067 were here. The YMCA is a leading non-profit organization committed to strengthening community through...
+title: Central Branch YMCA - Wilmington, DE - Yelp
+snippet: 4 reviews of Central Branch YMCA &quot;My go-to gym for working out in Downtown Wilmington, DE. Friendly staff mixed with a great atmosphere and modern workout equipment makes for an excellent workout experience. Parking in the back of the Y at times…
+title: Central Branch YMCA 501 W 11th St Wilmington, DE Health ...
+snippet: The Central YMCA is a nonprofit organization that specializes in youth and community development programs. The organization is a part of the YMCA of Delaware, which operates several locations throughout Delaware. It offers various health and fitness programs. It conducts swimming lessons and yoga classes for children and adults.
+title: Central Y Schedules | YMCA of Delaware
+snippet: Find schedules by branch, or download our mobile app from itunes or the Google Play store. Mobile App. Download the YMCA app today to view current schedules, scan in without your membership card and more! Learn More. Connect with Us Central YMCA 501 W 11th Street Wilmington, DE 19801 Phone: (302) 254-9622.
+title: Central Branch YMCA opening hours Wilmington, DE
+snippet: Find opening times and closing times for Central Branch YMCA in 501 W 11Th St, Wilmington, DE, 19801 and other contact details such as address, phone number, website, interactive direction map and nearby locations.
+title: YMCA - Central Branch in Wilmington, DE | Hours and Reviews
+snippet: Driving directions and contact information for YMCA - Central Branch in Wilmington, DE, along with other local charities. Our site has detailed information about the YMCA in Wilmington, DE. You can view their location, business hours below: YMCA listings in Wilmington, Delaware.
+title: Find a YMCA Near You | YMCA of ... - YMCA of Delaware
+snippet: There are over 10 YMCA locations and facilities throughout Delaware. Find or contact the YMCA of Delaware location nearest you.
+title: CENTRAL BRANCH YMCA | YMCA of Greater Fort Wayne
+snippet: Central Branch YMCA Summer Day Camps Registration Now Open for Summer Day Camp at Central Branch YMCA To download the flyer, click here . If you have questions, please contact...
+title: Join the YMCA of Delaware Today!
+snippet: From friendly staff dedicated to your success, to state-of-the-art fitness equipment and a variety of programs, we are here for everyone at every stage of life.
+
+REL: 2
+POI Name: Vital Pilates
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, Pilates, 
+Snippets:
+title: Experienced Pilates Instructor | Wilmington, DE | Vital ...
+snippet: Vital Pilates in Wilmington, DE, offers private and small group instruction in a personal, welcoming setting.Our instructors are comprehensively trained and provide encouragement and support as clients learn and grow towards improved body alignment, awareness, and quality of life.
+title: Pilates Method | Wilmington, DE | Vital Pilates
+snippet: Vital Pilates in Wilmington, DE can be reached at 302-888-1212. Schedule a pilates session today. Our instructors are ready to help.
+title: Our Classes | Wilmington, DE | Vital Pilates
+snippet: Vital Pilates in Wilmington, DE offers classes and workshops in pilates mat, yoga, slackline, acro yoga and more. Call us at 302-888-1212.
+title: Vital Pilates - Home | Facebook
+snippet: Vital Pilates, Wilmington. 355 likes. Personalized, friendly Pilates instruction for rehabilitation, posture, and overall fitness!!
+title: Common Questions | Wilmington, DE | Vital Pilates
+snippet: Vital Pilates in Wilmington, DE can be reached at 302-888-1212. We welcome all new appointments. Call today.
+title: Vital Pilates - Wilmington, DE - Yelp
+snippet: 2 reviews of Vital Pilates &quot;Suzie is a FABULOUS Pilates instructor. She knows exactly how to challenge you, but with more of a positive cheerleader attitude than a drill sergeant. Regardless of ability level, she will suit her instruction, be…
+title: Our Photos | Wilmington, DE | Vital Pilates
+snippet: Vital Pilates in Wilmington, DE offers classes and workshops in pilates mat, yoga, slackline, acro yoga and more. Call a certified pilates instructor at 302-888-1212 and sign up for a class.
+title: Learn More | Wilmington, DE | Vital Pilates
+snippet: Vital Pilates in Wilmington, DE offers classes and workshops in pilates mat, yoga, slackline, acro yoga and more. Call a certified pilates instructor at 302-888-1212.
+title: Vital Pilates 1901 West 11th Street Wilmington, DE Pilates ...
+snippet: Get directions, reviews and information for Vital Pilates in Wilmington, DE. Vital Pilates 1901 West 11th Street Wilmington DE 19805. 2 Reviews (302) 888-1212 Website. Menu &amp; Reservations ... Suzie is a FABULOUS Pilates instructor. She knows exactly how to challenge you, but with more of a positive cheerleader attitude than a drill sergeant.
+title: Vital Pilates - Posts | Facebook
+snippet: Vital Pilates, Wilmington. 351 likes. Personalized, friendly Pilates instruction for rehabilitation, posture, and overall fitness!!
+
+REL: 2
+POI Name: CrossFit Diamond State
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Interval Training Gyms, 
+Snippets:
+title: Personal Training | Crossfit Diamond State | United States
+snippet: CrossFit Diamond State is the place to go if you are interested in living a healthier life. The coaching is personal and individualized. The classes are fun and challenging. If you don&#39;t learn something new you&#39;re just not paying attention. This place will change you if you let it.
+title: CrossFit Diamond State - Home | Facebook
+snippet: CrossFit Diamond State, Wilmington, Delaware. 2K likes. Voted Readers&#39; Choice BEST CrossFit, Bootcamp and Personal Trainer in Delaware! Try out a class for free, see for yourself why we&#39;re the best!
+title: CrossFit Diamond State - Wilmington, DE - Yelp
+snippet: 1 review of CrossFit Diamond State &quot;Gia and her staff are wonderful. Im not in the best shape and was looking for private one-on-one training and this place is the best! Everyone is super friendly and the location is excellent. The prices are…
+title: CrossFit Diamond State :: Triib, Inc
+snippet: CrossFit Diamond State
+title: Affiliate: CrossFit Diamond State | CrossFit Games
+snippet: CrossFit Diamond State. United States. Location . 486-488 First State Blvd. Wilmington, DE, 19804 . Phone . 2018031159 . Website . crossfitdiamondstate.com. Bio. Voted Readers&#39; Choice BEST CrossFit, Bootcamp and Personal Trainer in Delaware and home of the Fittest Male AND Female in the state!
+title: CrossFit Diamond State - Services | Facebook
+snippet: CrossFit Diamond State, Wilmington, Delaware. 2K likes. Voted Readers&#39; Choice BEST CrossFit, Bootcamp and Personal Trainer in Delaware! Try out a class for free, see for yourself why we&#39;re the best!
+title: CrossFit Diamond State in Wilmington | CrossFit Diamond ...
+snippet: Find CrossFit Diamond State in Wilmington with Address, Phone number from Yahoo US Local. Includes CrossFit Diamond State Reviews, maps &amp; directions to CrossFit Diamond State in Wilmington and more from Yahoo US Local
+title: CrossFit Diamond State - Wilmington, DE | Groupon
+snippet: Wilmington&#39;s CrossFit Diamond State, DE makes working out just a little bit more enjoyable. Focus, determination, and perseverance are all the tools you&#39;ll need to finally complete the cross fit challenge.
+title: CrossFit Diamond State 486 First State Blvd #488 ...
+snippet: CrossFit Diamond State is a community of hard-working, extremely passionate, goal driven personal trainers that promise to always challenge you and forever change you using CrossFit fitness methodologies!
+title: CrossFit Diamond State, 486-488 First State Blvd ...
+snippet: Voted Readers&#39; Choice BEST CrossFit, Bootcamp and Personal Trainer in Delaware! Try out a class for free, see for yourself why we&#39;re the best! CrossFit Diamond State is unbreakable, unalterable and strong. Our purpose is to bring unity, strength and brilliance to our community, to help them build goals, to teach hard work, to have fun and to accomplish the impossible.
+
+REL: 2
+POI Name: Gino's Drive Range & Miniature Golf
+POI City: Mantua
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Paintball, Kids Activities, 
+Snippets:
+
+
+REL: 1
+POI Name: Korean Martial Arts Institute
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Martial Arts, 
+Snippets:
+title: Korean Martial Arts Institute Classes | Wilmington, DE
+snippet: Wilmington, DE, with surrounding areas in Stanton, Newport, Pike Creek, Elsemere, Newark, NewCastle or New Castle County, is home to Korean Martial Arts Institute, a Martial Arts facility focusing on programs in Adult Martial Arts, Kids Martial Arts, Birthday Parties, Hapkido, and Family Martial Arts.
+title: Korean Martial Arts Institute - kmaiweb.com
+snippet: Click on any of the buttons above for the martial arts school nearest you. Regardless of which Korean Martial Arts Institute you choose, we promise you three things: 1. A Safe, Clean Facility. Hygiene and safety come first. A clean facility is a positive environment for learning, growth and inspiration.
+title: Korean Martial Arts Institute - Wilmington - Gym/Physical ...
+snippet: Korean Martial Arts Institute - Wilmington, Wilmington. 845 likes · 5 talking about this · 2,803 were here. Building the leaders of tomorrow one class at a time.
+title: About Korean Martial Arts Institute in Wilmington, DE
+snippet: Come join our Wilmington, DE Martial Arts facility! We offer programs in Adult Martial Arts, Kids Martial Arts, Birthday Parties, Hapkido, and Family Martial Arts. Choose a program that most interests you and have the opportunity to sign-up right here on our site for one of our awesome web specials.
+title: Wilmington Martial Arts Classes For Kids &amp; Adults ...
+snippet: Korean Martial Arts Institute in Wilmington, DE is the number one source for world class Adult Martial Arts, Kids Martial Arts, Birthday Parties, Hapkido, and Family Martial Arts!
+title: Contact Korean Martial Arts Institute | Wilmington, DE
+snippet: Contact Korean Martial Arts Institute. We are located at 2419 W. Newport Pike, Wilmington, DE 19804. To learn more about our programs you can reach us at (302) 992-7999...
+title: Kids Martial Arts Sign Up | Wilmington, DE
+snippet: Visit us at Korean Martial Arts Institute, home of the kidslovemartialarts.com program! If you live in the following towns of Stanton, Newport, Pike Creek, Elsemere, Newark, NewCastle or New Castle County then you are close enough to come train with us!
+title: Korean Martial Arts Institute - Wilmington, 2419 W Newport ...
+snippet: Korean Martial Arts in Stanton is the best place for your child to learn martial arts. My son has been there for over a year, it has taught him confidence, respecting himself and others, hand eye coordination and he gets great exercise while in class!
+title: Korean Martial Arts Institute - Home | Facebook
+snippet: Korean Martial Arts Institute. 907 likes. Excellence through Leadership Since 1986
+
+REL: 1
+POI Name: Can Do Playground
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Kids Activities, Playgrounds, 
+Snippets:
+title: Can-Do Playground
+snippet: The Can-Do Playground is a Boundless Playground® Located at Alapocas Run State Park just outside of Wilmington, Delaware. It was conceived in 2003 as a gift to the community in celebration of the Centennial of Rotary International. It has been a joint effort of the Wilmington Delaware Area Rotary Clubs Community Fund,
+title: Can Do Playground (Wilmington) - 2020 All You Need to Know ...
+snippet: My son is in a wheelchair and we had been searching for a place that can adapt to his needs. This Can Do playground fits his wheelchair going up and around and has so many activities. Its great. The only downfall is you have to be careful in the summer the playground gets very …
+title: About – Can-Do Playground
+snippet: About The Can-Do Playground is a Boundless Playground® located at Alapocas Run State Park just outside of Wilmington, Delaware. It was conceived in 2003 as a gift to the community in celebration of the Centennial of Rotary International. It has been a joint effort of the Wilmington Delaware Area
+title: Can-Do Playground - Home | Facebook
+snippet: Your help is needed to expand New Castle County&#39;s first and only barrier-free playground! In July of 2017, the Can-Do Playground in Wilmington, DE will celebrate its 10th anniversary. This playground-which benefits children of all abilities-was built through the efforts of area Rotary Clubs. Rot...
+title: Can-Do Playground - Delaware State Parks
+snippet: The 27,000 square foot Can-Do Playground, is the first Boundless Playground™ in Delaware. Designed to be accessible to every child, regardless of physical, mental and sensory abilities, the playground was made possible with the help of six Wilmington-area Rotary Clubs.
+title: Can-Do Playground - Posts | Facebook
+snippet: Can-Do Playground, Wilmington, Delaware. 928 likes · 4 talking about this · 4,026 were here. All abilities playground within Alapocas Run State Park. This spring a Storybook Trail will be opening.
+title: Can Do Playground (Wilmington) - 2020 What to Know Before ...
+snippet: Can Do Playground, Wilmington: See 37 reviews, articles, and 11 photos of Can Do Playground, ranked No.19 on Tripadvisor among 66 attractions in Wilmington.
+title: Can DO Playground 1914 W Park Dr Wilmington, DE ...
+snippet: Get directions, reviews and information for Can DO Playground in Wilmington, DE. Can DO Playground 1914 W Park Dr Wilmington DE 19803. Reviews (302) 577-1164 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ... Can DO Playground ...
+title: De 10 beste restaurantene i nærheten av Can Do Playground
+snippet: Restauranter i nærheten av Can Do Playground på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Can Do Playground, Wilmington.
+title: Neat playground for kids of most ages - Review of Can Do ...
+snippet: Can Do Playground: Neat playground for kids of most ages - See 37 traveler reviews, 11 candid photos, and great deals for Wilmington, DE, at Tripadvisor.
+
+REL: 1
+POI Name: Planet Fitness
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Wilmington (South Kerr), NC - Planet Fitness
+snippet: We strive to create a workout environment where everyone feels accepted and respected. That’s why at Planet Fitness Wilmington (South Kerr), NC we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help.
+title: Wilmington (Justison St), DE - Planet Fitness
+snippet: That’s why at Planet Fitness Wilmington (Justison St), DE we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help. Whether you’re a first-time gym user or a fitness veteran, you’ll always have a home in our Judgement Free Zone™.
+title: Gym in Wilmington, OH | 1215 Rombach Ave | Planet Fitness
+snippet: That’s why at Planet Fitness Wilmington, OH we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help. Whether you’re a first-time gym user or a fitness veteran, you’ll always have a home in our Judgement Free Zone™.
+title: Gym in Wilmington (Middlesex Ave), MA - Planet Fitness
+snippet: That’s why at Planet Fitness Wilmington (Middlesex Ave), MA we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help. Whether you’re a first-time gym user or a fitness veteran, you’ll always have a home in our Judgement Free Zone™.
+title: Wilmington (Monkey Junction), NC - Planet Fitness
+snippet: We strive to create a workout environment where everyone feels accepted and respected. That’s why at Planet Fitness Wilmington (Monkey Junction), NC we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help.
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness - 6400 Carolina Beach Rd, Wilmington, North Carolina 28412 - Rated 4.6 based on 32 Reviews &quot;Just joined a couple months ago. The staff is...
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness (1215 Rombach Ave, Wilmington, OH) Gym/Physical Fitness Center in Wilmington, Ohio. 4.7. 4.7 out of 5 stars. Open Now. Community See All. 323 people like this. ... Planet Fitness member and Biggest Loser trainer Erica Fit Love is partnered with us to help you get real about fitness. Take control.
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness (Wilmington, NC - Temporarily Closed) March 18 at 2:38 PM · Out of an abundance of caution, this Planet Fitness will be temporarily closed effective Tuesday, March 17th. We recognize that you were recently billed for your monthly dues and we will credit your payment for our closed days on your next monthly bill upon reopening.
+title: Planet Fitness - Gym/Physical Fitness Center - Wilmington ...
+snippet: Planet Fitness - 68A S Kerr Ave, Wilmington, North Carolina 28403 - Rated 4.8 based on 117 Reviews &quot;I love this gym but that parking lot is a nightmare....
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness - 2201 Farrand Dr, Wilmington, Delaware 19808 - Rated 4.5 based on 59 Reviews &quot;The music is always too loud. 95% of attendees wear...
+
+REL: 1
+POI Name: Fitbody Personal Training
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trainers, Boot Camps, 
+Snippets:
+title: Fitbody Personal Training - PERSONAL TRAINING
+snippet: _One on One Personal Training taught by Certified, highly experienced, male and female Personal Trainers and competition bodybuilders. From Competition to Tone-Ups to Weight Loss, learn the endless array of exercises that lead to total body fitness, while under constant supervision to ensure proper technique, motivation and safety.
+title: FITBODY PERSONAL TRAINING
+snippet: FitBody Personal Training is an exclusive Personal Training Studio located in Downtown Wilmington Delaware. We are committed to giving you a fun, effective, fitness experience each time you walk in. Unlike most fitness centers, we are not in the business of giving our members access to equipment .
+title: FitBody Personal Training - Home | Facebook
+snippet: FitBody Personal Training, Wilmington, Delaware. 1K likes. &quot;Outstanding Fitness at an Outstanding Price&quot; FITBODY Personal Training Will help you achieve your fitness goals from Fat Loss to Group Classes!
+title: FitBody Personal Training, 207 N Market St, Wilmington, DE ...
+snippet: &quot;Outstanding Fitness at an Outstanding Price&quot; FITBODY Personal Training Will help you achieve your fitness goals from Fat Loss to Group Classes! &quot;Outstanding Fitness at an Outstanding Price&quot; FITBODY Personal Training Will help you achieve your fitness goals from Fat Loss to Group Classes!
+title: Personal Training in Wilmington | Wilmington Fit Body Boot ...
+snippet: We Welcome All Fitness Levels at Wilmington Fit Body Boot Camp. With great personal training, there are no barriers between you and amazing fitness. Our friendly coaches are prepared to help people of ALL backgrounds and experience levels. You can come to us lacking coordination and athletic skills or even with a current injury.
+title: Fitness Boot Camp in Wilmington | Wilmington Fit Body Boot ...
+snippet: Discover how Wilmington Fit Body Boot Camp&#39;s fun, energetic fitness boot camp workouts can transform your life in just 30 minutes a day. ... Our group workout format allows you to enjoy the coaching, guidance, and encouragement of a certified personal trainer at a fraction of the cost of a conventional gym.
+title: FitBody Personal Training - Services | Facebook
+snippet: FitBody Personal Training, Wilmington. 1K likes. &quot;Outstanding Fitness at an Outstanding Price&quot; FITBODY Personal Training Will help you achieve your fitness goals from Fat Loss to Group Classes!
+title: Fitbody Personal Training 727 N Market St Wilmington, DE ...
+snippet: Get directions, reviews and information for Fitbody Personal Training in Wilmington, DE. Fitbody Personal Training 727 N Market St Wilmington DE 19801. 3 Reviews (302) 689-3481 Website. Menu &amp; Reservations ... Discovered Fitbody Personal Training through personal freelance.
+title: FitBody Personal Training in Wilmington, DE - Outdoor ...
+snippet: FitBody Personal Training is a business providing services in the field of Outdoor Sports &amp; Recreation. The business is located in Wilmington, Delaware, United States. Their telephone number is 1 (302) 442-3685. Find over 27 million businesses in the United States on The Official Yellow Pages Directory website. Find trusted, reliable customer reviews on contractors, restaurants, doctors ...
+title: Fitbody Personal Training in Wilmington | Fitbody Personal ...
+snippet: Find Fitbody Personal Training in Wilmington with Address, Phone number from Yahoo US Local. Includes Fitbody Personal Training Reviews, maps &amp; directions to Fitbody Personal Training in Wilmington and more from Yahoo US Local
+
+REL: 1
+POI Name: Retro Fitness Kirkwood Highway
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Retro Fitness - Wilmington, DE - Home | Facebook
+snippet: Retro Fitness - Wilmington, DE - 5810 Kirkwood Highway, Wilmington, Delaware 19808 - Rated 3.7 based on 123 Reviews &quot;I only go here for convenience. It&#39;s...
+title: Retro Fitness Kirkwood Highway - Wilmington, DE - Yelp
+snippet: 14 reviews of Retro Fitness Kirkwood Highway &quot;I&#39;ve been a member here for like 7 years now... if you&#39;re here to lift your weights and break a sweat, it&#39;s a great gym. I personally love it... same faces in here day in and out. Staff recognizes you,…
+title: Retro Fitness 5810 Kirkwood Highway Wilmington, DE Health ...
+snippet: Get directions, reviews and information for Retro Fitness in Wilmington, DE. Retro Fitness 5810 Kirkwood Highway Wilmington DE 19808. 14 Reviews (302) 483-7262 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Retro Fitness - Wilmington, DE - Reviews | Facebook
+snippet: Retro Fitness - Wilmington, DE - 5810 Kirkwood Highway, Wilmington, Delaware 19808 - Rated 3.7 based on 123 Reviews &quot;The only reason I am still a member...
+title: Retro Fitness - Wilmington, DE - Home | Facebook
+snippet: Retro Fitness - Wilmington, DE - 5810 Kirkwood Highway, Wilmington, Delaware 19808 - Rated 3.7 based on 123 Reviews &quot;This is my home gym, I&#39;m there...
+title: Photos for Retro Fitness Kirkwood Highway - Yelp
+snippet: Photos at Retro Fitness Kirkwood Highway - Wilmington, DE. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Retro Fitness Kirkwood Highway. Retro Fitness Kirkwood Highway. 14 reviews Add photos Search photos... 12 photos mention &quot;&quot; Clear. Page 1 of 1 About. About Yelp ...
+title: Retro Fitness Kirkwood Highway - All Photos Fitness ...
+snippet: Retro fitness bear de first sight laser center wilmington vallée de chamonix mont blanc retro fitness you are so pretty hotel in hannibal best western on the To The That Was At Retro Fitness You Are SoRetro Fitness Cancel CancelsRetro Fitness 5810 Kirkwood Hwy Wilmington De 19808 YpMent Aller à Veterans Affairs Medical Center WilmingtonHotel […]
+title: Retro Fitness in Wilmington, 5810 Kirkwood Hwy - Fitness ...
+snippet: Description. Retro Fitness is a gym located in Wilmington, that believes in helping you achieve your goals your way. With state-of-the-art classes, heart rate monitoring, nutritional analysis, and a rewards program at your fingertips, they&#39;ll help you achieve your fitness goals in no time.
+title: Retro Fitness in Wilmington, 5810 Kirkwood Highway ...
+snippet: Description. Retro Fitness can be found at 5810 Kirkwood Highway . The following is offered: Fitness - In Wilmington there are 15 other Fitness.
+title: Gym in Wilmington (Farrand Dr), DE | 2201 ... - Planet Fitness
+snippet: That’s why at Planet Fitness Wilmington (Farrand Dr), DE we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help. Whether you’re a first-time gym user or a fitness veteran, you’ll always have a home in our Judgement Free Zone™.
+
+REL: 1
+POI Name: PhysiCore
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trainers, Pilates, Yoga, 
+Snippets:
+title: PhysiCore - Boutique Pilates &amp; Personal Training Studio
+snippet: PhysiCore Trainers (certified in Pilates, Functional Resistance, yoga and Golf Fitness) are educated and experienced in safe and effective fitness programs, to construct a personalized approach for achieving your wellness goals. ... 3704 Kennett Pike, Wilmington, DE, 19807 (302) 994-CORE.
+title: Wilmington Delaware — PhysiCore - Boutique Pilates ...
+snippet: Quality, not quantity. Career trainers, not check chasers. PhysiCore Trainers (certified in Pilates, Functional Resistance, yoga and Golf Fitness) are educated and experienced in safe and effective fitness programs, to construct a personalized approach for achieving your wellness goals.
+title: Pilates, Personal Training &amp; Yoga in Wilmington Delaware ...
+snippet: Fitness for Daily Living. What can a Certified Personal Trainer do for you? Some individuals only need a few training sessions to get them motivated. Other people know they won’t commit themselves unless they have an appointment with a trainer. Others want a program to perform on their own or to have their form evaluated to prevent injury.
+title: Pilates Personal Training and Yoga in Wilmington at ...
+snippet: PhysiCore Pilates &amp; Personal Training Studios, 3704 Kennett Pike, Wilmington, DE, 19807 (302) 994-CORE. PhysiCore, established 2001 ...
+title: PhysiCore - Trainers - 3704 Kennett Pike, Wilmington, DE ...
+snippet: 2 reviews of PhysiCore &quot;Simply - the best! Personalized training and fitness programs by careing, professional people. After one year I&#39;m still at-it, and enjoying the mix of Pilates and exercises. They make it fun and worthwhile. Strongly…
+title: Personal Training in Wilmington, Greenville ... - PhysiCore
+snippet: Training at the PhysiCore studios is a unique experience, different from the MegaMall Gym up the street. PhysiCore Certified Trainers genuinely care about you and your needs and aren’t interested in selling you on anything but training services.
+title: PhysiCore - Gym/Physical Fitness Center - Wilmington ...
+snippet: PhysiCore, Wilmington, Delaware. 501 likes. PhysiCore, with locations in Greenville and Pike Creek Delaware, is the original STOTT Pilates studio in the area with private fitness and Pilates training
+title: PhysiCore, 4021 Kennett Pike, Wilmington, DE (2020)
+snippet: PhysiCore, with locations in Greenville and Pike Creek Delaware, is the original STOTT Pilates studio in the area with private fitness and Pilates training PhysiCore, 4021 Kennett Pike, Wilmington, DE (2020)
+title: PhysiCore in Wilmington | PhysiCore 3704 Kennett Pike ...
+snippet: Find PhysiCore in Wilmington with Address, Phone number from Yahoo US Local. Includes PhysiCore Reviews, maps &amp; directions to PhysiCore in Wilmington and more from Yahoo US Local
+title: PhysiCore 3704 Kennett Pike Wilmington, DE Personal ...
+snippet: Get directions, reviews and information for PhysiCore in Wilmington, DE.
+
+REL: 1
+POI Name: Newport Family Restaurant
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), Breakfast & Brunch, 
+Snippets:
+title: Newport Family Restaurant - The Original Newport Restaurant
+snippet: Located in Graystone Plaza, this is the Original Newport Family Restaurant. A dining original for over 30 years. When Maria and her husband Sam opened the Newport Family Restaurant in 1982 their goal was to provide wholesome, flavorful meals for the working family.
+title: Newport Family Restaurant, Wilmington - Restaurant Reviews ...
+snippet: Newport Family Restaurant, Wilmington: See 11 unbiased reviews of Newport Family Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #288 of 500 restaurants in Wilmington.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Delicious - Review of Newport Family Restaurant ...
+snippet: Newport Family Restaurant: Delicious - See 11 traveler reviews, candid photos, and great deals for Wilmington, DE, at Tripadvisor.
+title: Photos for Newport Family Restaurant - Yelp
+snippet: Photos at Newport Family Restaurant - Wilmington, DE. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Newport Family Restaurant. Newport Family Restaurant. 37 reviews Add photos All (29) Food (16) Inside (5) Menu (4) Outside (2) Drink (1) Search ...
+title: Newport Family Restaurant in Wilmington - Restaurant menu ...
+snippet: All info on Newport Family Restaurant in Wilmington - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: THE 5 BEST Restaurants in Newport - Updated April 2020 ...
+snippet: Best Dining in Newport, Delaware: See 22 Tripadvisor traveler reviews of 5 Newport restaurants and search by cuisine, price, location, and more.
+title: Newport Family Restaurant Wilmington, DE 19804 - 77 ...
+snippet: Latest reviews, photos and ??ratings for Newport Family Restaurant at 601 W Newport Pike in Wilmington - ⏰hours, ☎️phone number, ☝address and map.
+title: Newport Family Restaurant 601 W Newport Pike Wilmington ...
+snippet: Get directions, reviews and information for Newport Family Restaurant in Wilmington, DE. Newport Family Restaurant 601 W Newport Pike Wilmington DE 19804. 37 Reviews (302) 998-1073 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Newport Family Restaurant in Wilmington | Newport Family ...
+snippet: Find Newport Family Restaurant in Wilmington with Address, Phone number from Yahoo US Local. Includes Newport Family Restaurant Reviews, maps &amp; directions to Newport Family Restaurant in Wilmington and more from Yahoo US Local
+
+REL: 1
+POI Name: Gentle Palm Karate Academy
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Karate, 
+Snippets:
+title: Gentle Palm Martial Arts - Gentle Palm Tang Soo Do Academy
+snippet: gentle palm 2020 together games. check out march 2018 black belt photos. black belt test march 2018. check out the tai chi day photos. all takes is... &quot;practice&quot;! basic form 1 and 2. practice and video me your form. call 798-8699 to start classes today! go to our birthday party page
+title: Gentle Palm Karate Academy 1500 Philadelphia Pike ...
+snippet: Get directions, reviews and information for Gentle Palm Karate Academy in Wilmington, DE. Gentle Palm Karate Academy 1500 Philadelphia Pike Wilmington DE 19809. Reviews (302) 798-8699 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Gentle Palm Karate Academy - Wilmington , DE - Business ...
+snippet: Explore the Gentle Palm Karate Academy business page in Wilmington , DE . Find more businesses with the D&amp;B Business Directory at DandB.com.
+title: Gentle Palm Martial Arts Center - Wilmington, DE | Groupon
+snippet: Martial arts at Wilmington&#39;s Gentle Palm Martial Arts Center is a great workout that will leave you feeling Zen. Patrons will appreciate the detailed and easy-to-follow MMA classes at this establishment. Personal trainers are perfect for helping personalize your workout and creating a timetable for your body&#39;s workout results. There is nothing more impressive than being strong and independ
+title: Gentle Palm Karate Academy Health Club in Wilmington, DE 19809
+snippet: Gentle Palm Karate Academy is a Health Club at 1500 Philadelphia Pike, Wilmington, DE 19809. Wellness.com provides reviews, contact information, driving directions and the phone number for Gentle Palm Karate Academy in Wilmington, DE.
+title: Gentle Palm Tang Soo Do Academy - Martial Arts Dojo in ...
+snippet: See 1 photo from 11 visitors to Gentle Palm Tang Soo Do Academy. Martial Arts Dojo in Wilmington, DE Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Gentle Palm Karate Academy - myhuckleberry.com
+snippet: News, information and reviews about Gentle Palm Karate Academy, located in Wilmington, Delaware.
+title: Gentle Palm Martial Arts - Home | Facebook
+snippet: Gentle Palm Martial Arts - 1500 Philadelphia Pike, Wilmington, Delaware 19809 - Rated 4.9 based on 10 Reviews &quot;I truly can&#39;t say enough good things about...
+title: Gentle Palm Karate Academy - Wilmington, DE - Martial Arts ...
+snippet: Gentle Palm Karate Academy is a privately held company in Wilmington, DE and is a Single Location business. Categorized under Martial Arts Instructors. Our records show it was established in 1988 and incorporated in Delaware.
+title: 302-798-8699 - Gentle Palm Karate Academy Phone Number ...
+snippet: Gentle Palm Karate Academy is located in Wilmington, DE and can be reached at: 302-798-8699. Get more information on Gentle Palm Karate Academy by viewing our in-depth profile. Check it out Today!
+
+REL: 1
+POI Name: Bowlero Wilmington
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Bowling, Venues & Event Spaces, Eatertainment, 
+Snippets:
+title: Bowling Alley &amp; Party Venue in Wilmington | Bowlero
+snippet: Head to Bowlero Wilmington for a night of fun with interactive games, free Wi-Fi, a lounge area, and a sports bar. Did we mention bowling too?
+title: Specials | Bowlero Wilmington | Bowlero
+snippet: Your health and safety are important to us, which is why, out of an abundance of caution, we are temporarily closing our centers across the country to prevent the spread of COVID-19.We want you to have fun, but your safety is our first priority.
+title: Attractions | Bowlero Wilmington | Bowlero
+snippet: The hippest lanes to hit your zip code are here at Bowlero! Our lanes are some of the coolest and most stunning in the game, featuring black lights, soft lounge seats, and huge HD video walls that play everything from live sports and music videos to classic family films.
+title: Party &amp; Social Events | Bowlero Wilmington | Bowlero
+snippet: Our bowling parties for kids are fun and easy to plan! Choose a convenient party package or let our event planners design the perfect birthday party, complete with unlimited bowling, arcade games, kid-friendly menus, and fun features like bowling bumpers (no gutter balls ever!)
+title: Bowlero Wilmington 3215 Kirkwood Hwy Wilmington, DE ...
+snippet: Get directions, reviews and information for Bowlero Wilmington in Wilmington, DE. Bowlero Wilmington 3215 Kirkwood Hwy Wilmington DE 19808. 9 Reviews (302) 998-8806 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: BOWLERO ROLLS INTO WILMINGTON | Bowlero Corporation
+snippet: Bowlero Corp the world leader in bowling entertainment, is excited to announce the transformation of AMF Price Lanes into the all-new Bowlero. The brand’s Wilmington location will be the first Bowlero to open in Delaware, marking a new era in bowling, dining, and entertainment for New Castle County residents.
+title: THE BEST Wilmington Bowling Alleys (with Photos) - Tripadvisor
+snippet: Top Wilmington Bowling Alleys: See reviews and photos of bowling alleys in Wilmington, Delaware on Tripadvisor.
+title: Prices Lane Bowling Alley - Wilmington, Delaware - Bowling ...
+snippet: Prices Lane Bowling Alley, Wilmington, Delaware. 34 likes · 7 talking about this · 1,459 were here. Bowling Alley
+title: Bowlero Wilmington debuts with 52 black light lanes, high ...
+snippet: Bowlero Wilmington debuts with 52 black light lanes, high definition video walls &amp; free bowling. The 45,000-square-foot bowling center also has an all-new interactive arcade and upgraded kitchen.
+title: Photos for Bowlero Wilmington - Yelp
+snippet: Photos at Bowlero Wilmington - Wilmington, DE. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+
+REL: 1
+POI Name: Gallucio's
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Cheesesteaks, Burgers, Italian, 
+Snippets:
+title: Gallucio&#39;s Italian Restaurant – Excellent Italian Food ...
+snippet: Excellent Italian Food &amp; Pub in Wilmington, Delaware. Wilmington’s Favorite Italian Restaurant and Irish Pub We are housed in an original brownstone built in 1865 and has been a restaurant since it opened in the 1970’s, serving the freshest casual Italian fare at a reasonable price.
+title: Gallucio&#39;s, Wilmington - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Gallucio&#39;s, Wilmington with Tripadvisor: See 31 unbiased reviews of Gallucio&#39;s, ranked #137 on Tripadvisor among 501 restaurants in Wilmington.
+title: Full Dinner Menu for Our Irish Pub and Italian Restaurant ...
+snippet: Full Dinner Menu - Irish Pub &amp; Italian Restaurant Delaware local favorite in Wilmington offering all the traditional Italian fare plus a fully stocked bar.
+title: Events - Excellent Italian Food &amp; Pub in Wilmington, Delaware
+snippet: Daily Events at Gallucio&#39;s Italian Restaurant in Wilmington, DE; karaoke, live music, special drinks, food specials, etc....
+title: Full Lunch Menu for Our Irish Pub and ... - gallucios-de.com
+snippet: Lunch Menu for Our Irish Pub &amp; Italian Restaurant Delaware,a local favorite in Wilmington offering all the traditional Italian fare plus a fully stocked bar
+title: Gallucio&#39;s - Wilmington - Menu &amp; Hours - Order Delivery (5 ...
+snippet: Get 5% off your pizza delivery order - View the menu, hours, address, and photos for Gallucio&#39;s in Wilmington, DE. Order online for delivery or pickup on Slicelife.com
+title: Gallucios Italian Restaurant - Home - Wilmington, Delaware ...
+snippet: Gallucios Italian Restaurant - 1709 Lovering Ave, Wilmington, Delaware 19806 - Rated 4.8 based on 50 Reviews &quot;I love the food and the service! I do not...
+title: Delicious Bar Menu for Our Irish Pub ... - gallucios-de.com
+snippet: Delicious Bar Menu for Irish Pub and Italian Restaurant Delaware located in Wilmington, local favorite |appetizers, salads, burgers, pizza and sandwiches.
+title: Gallucio&#39;s Pub/Restaurant Wilmington - Reviews and Deals ...
+snippet: Gallucios Pub/Restaurant in Wilmington, DE verified diner reviews, deals, pictures and menus at Restaurant.com.
+title: The Original Gallucio&#39;s - Home - Wilmington, Delaware ...
+snippet: The Original Gallucio&#39;s - 1709 Lovering Ave, Wilmington, Delaware 19806 - Rated 4.6 based on 78 Reviews &quot;Great family friendly place. Best karaoke with...
+
+REL: 1
+POI Name: Anytime Fitness
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Anytime Fitness - Gym in Wilmington, NC 28403
+snippet: She started working for Anytime Fitness here in Wilmington in October 2015. Ella graduated from UNCW with a Bachelors degree in Exercise Science and is set out to change the way people think about their bodies, lifting weights, and the importance of nutritious food.
+title: Anytime Fitness - Gym in Wilmington, OH 45177
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 3,000 gyms, and always open 24/7 convenience.
+title: Anytime Fitness - Gym in Wilmington, NC 28412
+snippet: She started working for Anytime Fitness here in Wilmington in October 2015. Ella graduated from UNCW with a Bachelors degree in Exercise Science and is set out to change the way people think about their bodies, lifting weights, and the importance of nutritious food.
+title: Anytime Fitness Wilmington - Home | Facebook
+snippet: Anytime Fitness Wilmington, Wilmington, Ohio. 2,716 likes · 19 talking about this · 10,144 were here. Get to a healthier place with Anytime Fitness Wilmington, OH! Our members receive 24/7 gym...
+title: Anytime Fitness - Gym in Wilmington (Marsh Road), DE 19810
+snippet: Welcome to Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 4,000 gyms, and always-open 24/7 convenience. All offered in a welcoming club and supportive member community.
+title: Anytime Fitness Wilmington - Home | Facebook
+snippet: Anytime Fitness Wilmington - 1812 Marsh Road, Branmar Plaza, Wilmington, Delaware 19810 - Rated 4.4 based on 77 Reviews &quot;Great place. Has what i need for...
+title: Anytime Fitness Wilmington - Gym/Physical Fitness Center ...
+snippet: Anytime Fitness Wilmington, Wilmington, North Carolina. 2,500 likes · 25 talking about this · 3,855 were here. Anytime Fitness is your friendly 24-hour co-ed fitness gym in Wilmington, NC. We are...
+title: Anytime Fitness Fulton Station - Home | Facebook
+snippet: Anytime Fitness Fulton Station - 3715 Patriot Way, Wilmington, North Carolina 28412 - Rated 4.9 based on 40 Reviews &quot;The entire staff is friendly,...
+title: Anytime Fitness - Gyms - 3715 Patriot Way, Wilmington, NC ...
+snippet: Anytime Fitness is just what we were looking for- friendly staff, well maintained equipment, clean facility, you can workout anytime of the day and the owner Steve is a very nice guy! They also offer classes and personal training. They have 2 locations and this location will be expanding over the summer.
+title: Anytime Fitness - Gym in Savannah (Charlotte Rd), GA 31410
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 4,000 gyms, and always open 24/7 convenience.
+
+REL: 1
+POI Name: Brandywine Bikes
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Bikes, Bike Rentals, Bike Repair/Maintenance, 
+Snippets:
+title: Brandywine Bikes
+snippet: Brandywine Bikes 1812 Marsh Rd Wilmington, DE 19810. Opening hours Show timetable and details. Contact Phone: 302-475-7433 Email: BrandywineBikes@BrandywineBikes.com. Find your bike. Find your gear. Service. Latest news. BikeRadar Features Reign 29 in its Bike of the Year Awards! April 3, 2020.
+title: Brandywine Bikes - Home | Facebook
+snippet: Brandywine Bikes, Wilmington, DE. 805 likes · 14 talking about this · 281 were here. Under new ownership and management since January 2017, our goal is to be the friendliest and best quality bike...
+title: About us | Giant Bicycles Brandywine Bikes
+snippet: Here at Giant - Brandywine Bikes we serve all cyclists around the Wilmington area. including the surrounding areas of New Jersey, Delaware Valley, New Castle, and Philly Region. Our store is very convenient to the trailhead for the Brandywine Valley State Park Trails, too.
+title: Contact | Giant Bicycles Brandywine Bikes
+snippet: Brandywine Bikes 1812 Marsh Rd Wilmington, DE 19810 302-475-7433 BrandywineBikes@BrandywineBikes.com. Contact us. Opening hours. Monday - Tuesday - Thuresday - Friday 9am to 5:30pm. Wednesday 9am to 7pm. Sunday 11am - 4pm Saturday 9am - 4pm. Address. Brandywine Bikes 1812 Marsh Rd Wilmington, DE 19810 . Features. Contact;
+title: Service | Giant Bicycles Brandywine Bikes
+snippet: We’ll keep your bike in tip-top shape. Our skilled technicians service all types of bicycles. From a wheel true to a major overhaul, we do it all. We also offer a professional fit service to get you precisely dialed on your machine. Feel free to call to schedule an appointment.
+title: Brandywine Bikes - Services | Facebook
+snippet: Brandywine Bikes, Wilmington, DE. 783 likes · 10 talking about this · 278 were here. Under new ownership and management since January 2017, our goal is to be the friendliest and best quality bike...
+title: Trolley Bikes - Bicycle Shop - Wilmington, Delaware - 11 ...
+snippet: Trolley Bikes - 1812 marsh rd, Wilmington, Delaware 19806 - Rated 4.6 based on 11 Reviews &quot;Went to three different bike shops in the area and these guys...
+title: Brandywine Bikes 1812 Marsh Rd Wilmington, DE Bicycle ...
+snippet: Get directions, reviews and information for Brandywine Bikes in Wilmington, DE. Brandywine Bikes 1812 Marsh Rd Wilmington DE 19810. 10 Reviews (302) 475-7433 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Trek Bicycle Wilmington | Trek Bikes
+snippet: Trek Bicycle Wilmington is your destination for the latest products from Trek and Bontrager, service and tune-ups for bikes of any brand, and the best local advice about riding throughout Delaware and Southeastern Pennsylvania.
+title: Brandywine Bikes, 1812 Marsh Rd Ste 308, Wilmington, DE (2020)
+snippet: Under new ownership and management since January 2017, our goal is to be the friendliest and best quality bike sales and full-service family bike shop in Wilmington. With a full line of bikes from GIANT, Fuji, and Kona we offer quality and value at every price point for every member of your family. We also have a full-service shop to meet your tune-up and bike fix needs.
+
+REL: 1
+POI Name: Reflex Squash and Fitness
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Reflex Squash &amp; Fitness
+snippet: For information on current membership promotions and to schedule a personal tour, please call 302-888-1415 or e-mail frontdesk@reflexsquash.com.
+title: Reflex Squash and Fitness - Wilmington, DE - Yelp
+snippet: 1 review of Reflex Squash and Fitness &quot;I became a member of Reflex Squash and Fitness in the fall of 2007 and terminated my membership in the spring of 2009. When I joined Reflex the facilities were very clean and the staff was professional and…
+title: Reflex Squash and Fitness - About Us
+snippet: Reflex Squash &amp; Fitness has 6 international squash courts with 1 doubles and 1 all glass show court. Alongside this you will find a state-of-the-art fitness area housed on two levels. Our upper mezzanine overlooks the squash courts and ... Wilmington, DE 19801 ...
+title: Reflex Squash and Fitness 524 S Walnut St Wilmington, DE ...
+snippet: Get directions, reviews and information for Reflex Squash and Fitness in Wilmington, DE. Reflex Squash and Fitness 524 S Walnut St Wilmington DE 19801. 1 Reviews (302) 888-1415 Website. Menu &amp; Reservations ... I became a member of Reflex Squash and Fitness in the fall of 2007 and terminated my membership in the spring of 2009.
+title: Reflex Squash and Fitness - Visit Delaware
+snippet: Reflex Squash in Wilmington is Delaware’s world class squash &amp; fitness club where they provide professional attention to your sport, health and fitness needs. Reflex Squash had 6 squash courts and state of the art fitness equipment.
+title: Reflex Squash &amp; Fitness - Fitness
+snippet: Every member is entitled to a free induction which is tailored to meet your personal health and fitness aspirations. We have a well balanced range of cardiovascular machines on our mezzanine including Life Fitness treadmills, upright and recumbent bikes, and the fit stride total body trainers.
+title: Reflex Squash &amp; Fitness Club Reviews - Wilmington, DE ...
+snippet: See reviews for Reflex Squash &amp; Fitness Club in Wilmington, DE at 524 S Walnut St from Angie&#39;s List members or join today to leave your own review.
+title: Reflex Squash &amp; Fitness Club - Wilmington, Delaware - Gym ...
+snippet: Reflex Squash &amp; Fitness Club, Wilmington, Delaware. 37 likes. Gym/Physical Fitness Center
+title: Reflex Squash and Fitness in Wilmington | Reflex Squash ...
+snippet: Find Reflex Squash and Fitness in Wilmington with Address, Phone number from Yahoo US Local. Includes Reflex Squash and Fitness Reviews, maps &amp; directions to Reflex Squash and Fitness in Wilmington and more from Yahoo US Local
+title: Game of Squash - Reflex Squash &amp; Fitness
+snippet: Game of Squash Squash is a fun, competitive and dynamic game that can be played by all. The fundamentals are easy to pick up at any age and it is a great sport to experience with family, friends or work colleagues.
+
+REL: 1
+POI Name: King Garden Chinese Restaurant
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: King Garden Chinese Restaurant | Order Online | Wilmington ...
+snippet: View King Garden Chinese Restaurant menu, Order Chinese food Delivery Online from King Garden Chinese Restaurant, Best Chinese Delivery in Wilmington, DE
+title: King Garden Chinese Restaurant | Wilmington, DE 19810 | Menu
+snippet: Food Delivery from King Garden Chinese Restaurant, best Chinese Delivery in Wilmington, DE
+title: King Garden Chinese Restaurant1
+snippet: King Garden Chinese Restaurant. 3466 Naamans Road, Wilmington, Delaware 19810, United States (302) 478-8789
+title: King Garden Restaurant - Wilmington, DE 19805 | Chinese
+snippet: View King Garden Restaurant menu, Order Chinese food Delivery Online from King Garden Restaurant, Best Chinese Delivery in Wilmington, DE
+title: King Garden Chinese Restaurant | Order Online | Wilmington ...
+snippet: View King Garden Chinese Restaurant menu, Order Chinese food Delivery Online from King Garden Chinese Restaurant, Best Chinese Delivery in Wilmington, DE
+title: King Garden Chinese Restaurant | Wilmington, DE 19810 ...
+snippet: View the menu and order online for Chinese Delivery at King Garden Chinese Restaurant in Wilmington, DE
+title: Kampo Garden (King Street) | Order Online | Wilmington, DE ...
+snippet: Kampo Garden offers delicious Chinese food for dine-in, takeout and delivery in Wilmington, DE. It also provides online food ordering service.
+title: King Garden Chinese Restaurant | Wilmington, DE 19810 ...
+snippet: View the photos of the restaurant and delicious menu items of King Garden Chinese Restaurant.
+title: King Garden Restaurant, Wilmington - Menu, Prices ...
+snippet: King Garden Restaurant, Wilmington: See 20 unbiased reviews of King Garden Restaurant, rated 4 of 5 on Tripadvisor and ranked #156 of 501 restaurants in Wilmington. ... This is best Chinese take out in Wilmington. The staff and delivery folks are friendly and punctual.
+title: King Garden - 10 Reviews - Chinese - 2511 W 4th St ...
+snippet: I&#39;ll probably only order from King garden when I want Chinese food .. Great food for a great price! I order from here often, and they are always quick, consistent, and very friendly. It&#39;s a small, family owned restaurant, and their kids are often there to help ring you up and give you your food.
+
+REL: 1
+POI Name: Friendly's
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Ice Cream & Frozen Yogurt, American (Traditional), 
+Snippets:
+title: Friendly&#39;s Wilmington · Friendly&#39;s
+snippet: $4.99 Big- Two- Do Breakfast, $6.99 Omelets 7 day. Breakfast is the most important meal of the day. Visit Friendly&#39;s to get a Big- Two- Do for $4.99 or an omelet for just $6.99 any day you choose!
+title: Friendly&#39;s Wilmington - Order Online
+snippet: Bacon Cheeseburger. $10.99 1070 Calories No one can resist a juicy Friendly’s Big Beef® burger topped with melted American cheese, applewood-smoked bacon, fresh lettuce, tomato and mayo on a grilled Brioche bun. Served with golden fries. DOUBLE Bacon Cheeseburger. $13.19 1360 Calories It’s hard to resist one juicy burger patty, but two 4.75 ounce patties, now that’s irresistible.
+title: Friendly Gift Shop - 1,412 Photos - Gift Shop - 1812 Marsh ...
+snippet: Friendly Gift Shop, Wilmington, DE. 1.7K likes. Located at the intersection of Marsh and Silverside in Wilmington, DE we are a privately owned Hallmark gold grown store carrying a variety of products.
+title: Friendly&#39;s, Wilmington - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Friendly&#39;s, Wilmington with Tripadvisor: See 19 unbiased reviews of Friendly&#39;s, ranked #167 on Tripadvisor among 505 restaurants in Wilmington.
+title: THE 10 BEST Family Restaurants in Wilmington - Tripadvisor
+snippet: Best Kid Friendly Restaurants in Wilmington, North Carolina Coast: Find Tripadvisor traveler reviews of THE BEST Wilmington Kid Friendly Restaurants and search by price, location, and more.
+title: Home · Friendly&#39;s
+snippet: Friendly&#39;s has been a favorite family restaurant and ice cream purveyor for over 80 years! Get to know us!
+title: Friendlys Coupons - 5501 Concord Pike - Route 202 ...
+snippet: $15 off Friendlys Coupons and online discounts in Wilmington. Coupons for Friendlys and it is a American restaurant with a location at 5501 Concord Pike - Route 202 in Wilmington, DE 19803.
+title: Friendly&#39;s - Restaurant in Wilmington - Foursquare
+snippet: friendly&#39;s wilmington • friendly&#39;s wilmington photos • friendly&#39;s wilmington location • friendly&#39;s wilmington address • friendly&#39;s wilmington • friend&#39;s restaurant wilmington • friendly&#39;s wilmington • friendlys wilmington • friends restaurant wilmington • friendly&#39;s brandywine town center wilmington
+title: Home · Friendly&#39;s
+snippet: style.min.css: 5/1/19 1:38PM friendlys-retail.min.js: 8/23/18 12:04PM. 172.31.14.81. Happiness in Your Home · Friendly&#39;s Retail
+title: Where to Buy · Friendly&#39;s
+snippet: Happiness in Your Home · Friendly&#39;s Retail . Friendly&#39;s. Toggle navigation. Friendly&#39;s; ... Varieties. Cartons. Naturally Friendly&#39;s ™ Sundae Cups. Rolls. Bars, Cones &amp; More. Dessert Cups. Cakes. Cake Singles. Search more Locations. Making the world Friendly one scoop at a time. About Story; Press Room; Careers; Contact; Business Carry ...
+
+REL: 1
+POI Name: A-1 Deli & Groceries
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Cheesesteaks, Burgers, 
+Snippets:
+title: A-1 Deli Groceries Pizza &amp; Fried Chicken - Wilmington ...
+snippet: Get 5% off your pizza delivery order - View the menu, hours, address, and photos for A-1 Deli Groceries Pizza &amp; Fried Chicken in Wilmington, DE. Order online for delivery or pickup on Slicelife.com
+title: A-1 Deli &amp; Groceries 215 W 4th St Wilmington, DE Grocery ...
+snippet: Get directions, reviews and information for A-1 Deli &amp; Groceries in Wilmington, DE. A-1 Deli &amp; Groceries 215 W 4th St Wilmington DE 19801. 1 Reviews (302) 384-7400. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: A-1 Deli &amp; groceries - Home | Facebook
+snippet: A-1 Deli &amp; groceries - 215 W 4th St, Wilmington, Delaware 19702 - Rated 5 based on 2 Reviews &quot;Ordered food for me and my children and it was good. I will...
+title: A-1 Deli Groceries Pizza &amp; Fried Chicken Menu - Wilmington ...
+snippet: Order PIZZA delivery from A-1 Deli Groceries Pizza &amp; Fried Chicken in Wilmington instantly! View A-1 Deli Groceries Pizza &amp; Fried Chicken &#39;s menu / deals + Schedule delivery now.
+title: A-1 Deli &amp; groceries, 215 W 4th St, Wilmington, DE (2020)
+snippet: Be the first to know and let us send you an email when A-1 Deli &amp; groceries posts news and promotions. Your email address will not be used for any other purpose, and you can unsubscribe at any time.
+title: About A-1 Deli Groceries Pizza &amp; Fried Chicken ...
+snippet: A-1 Deli Groceries Pizza &amp; Fried Chicken is currently located at 215 W 4th St, Wilmington, DE 19801. Order your favorite pizza, pasta, salad, and more, all with the click of a button. A-1 Deli Groceries Pizza &amp; Fried Chicken accepts orders online for pickup and delivery.
+title: A-1 Deli ,Groceries ,Pizza &amp; Fried chicken Wilmington, DE ...
+snippet: Latest reviews, photos and ??ratings for A-1 Deli ,Groceries ,Pizza &amp; Fried chicken at 215 W 4th St in Wilmington - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Bellettini Foods - Grocery Store, Wilmington IL
+snippet: Weekly Ads : Weekly Ads : Gift Cards
+title: Online Menu of A-1 Deli &amp; Groceries Restaurant, Wilmington ...
+snippet: View the online menu of A-1 Deli &amp; Groceries and other restaurants in Wilmington, Delaware.
+title: A-1 Deli Groceries &amp; Fried Chicken - Downtown Wilmington ...
+snippet: See 1 tip from 3 visitors to A-1 Deli Groceries &amp; Fried Chicken. &quot;Only place open on Sunday around here&quot;
+
+REL: 1
+POI Name: Axxiom Escape Rooms
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Escape Games, 
+Snippets:
+title: Exodus Escape Rooms
+snippet: Welcome . Axxiom is an Exodus Escape Rooms company and is the first escape room experience in Delaware! We are also the largest! We bring the best fun in town and provide the most entertaining experience! Our rooms are exciting and challenging yet very rewarding. Each room is enriched with mystery, treasure, and tradition.
+title: Exodus
+snippet: Exodus Escape Rooms is here! We bring the best fun in town and provide the most entertaining experience! Our rooms are exciting and challenging yet very rewarding. Each room is enriched with mystery, treasure, and tradition. They each have their own specific escape plan that requires puzzle solving, clue finding, and teamwork to find your way out!
+title: Axxiom Escape Rooms Wilmington - Home | Facebook
+snippet: Axxiom Escape Rooms Wilmington - 1708 Marsh Rd, Wilmington, Delaware 19810 - Rated 4.9 based on 81 Reviews &quot;The rooms here are impressive and the...
+title: What is an Escape Room? | Axxiomwilmington
+snippet: What is an escape room? Axxiom Escape Rooms put you in the middle of the action! Your team is led into a room, wished good luck and locked inside. From there, you will have one hour and you must work as a group finding clues, solving puzzles and piecing the solution together that will unlock the door to let you escape.
+title: Axxiom Escape Rooms (an Exodus Escape Rooms company ...
+snippet: Axxiom Escape Rooms (an Exodus Escape Rooms company), Wilmington: Address, Phone Number, Axxiom Escape Rooms (an Exodus Escape Rooms company) Reviews: 4.5/5. United States ; Delaware (DE) Wilmington ; Things to Do in ... We visited Axxiom in Wilmington because we have done most of yhe experiences in Newark and truly enjoy the quality of yheir ...
+title: Contact Us/Location | Axxiomwilmington
+snippet: Axxiom Escape Rooms. 1708 Marsh Road, Wilmington, DE 19810. Located in the Shops of Graylyn center. exodusescaperooms@gmail.com. www.axxiomwilmington.com. Follow Us Link. Become a Fan. Subscribe. Hours of Operation for Public Booking: Monday through Thursday 4pm-9pm. Friday 4pm-11pm. Saturday 11am-11pm.
+title: THE 10 BEST Restaurants Near Axxiom Escape Rooms (an ...
+snippet: Restaurants near Axxiom Escape Rooms (an Exodus Escape Rooms company), Wilmington on Tripadvisor: Find traveler reviews and candid photos of dining near Axxiom Escape Rooms (an Exodus Escape Rooms company) in Wilmington, Delaware.
+title: Exodus Escape Rooms
+snippet: Axxiom is an Exodus Escape Rooms company and is the first escape room experience in Delaware! We are also the largest! We bring the best fun in town and provide the most entertaining experience! Our rooms are exciting and challenging yet very rewarding. Each room is enriched with mystery, treasure, and tradition.
+title: Corporate Events | Axxiomwilmington
+snippet: Axxiom Escape Rooms has quickly become the team building event of choice for the greater Delaware, Maryland, and eastern Pennsylvania areas. Escape rooms offer a creative and challenging way to develop your professional teams.
+title: Group/Birthday Events | Axxiomwilmington
+snippet: Birthday Events: Escape rooms offer a creative and exciting form of entertaining experience. Our escape rooms will challenge you and your friends and family; peak your curiosities; and provide a rewarding feeling of accomplishment… even if you don’t get out.
+
+REL: 1
+POI Name: Planet Fitness
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Wilmington (South Kerr), NC - Planet Fitness
+snippet: We strive to create a workout environment where everyone feels accepted and respected. That’s why at Planet Fitness Wilmington (South Kerr), NC we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help.
+title: Wilmington (Justison St), DE - Planet Fitness
+snippet: That’s why at Planet Fitness Wilmington (Justison St), DE we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help. Whether you’re a first-time gym user or a fitness veteran, you’ll always have a home in our Judgement Free Zone™.
+title: Gym in Wilmington, OH | 1215 Rombach Ave | Planet Fitness
+snippet: That’s why at Planet Fitness Wilmington, OH we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help. Whether you’re a first-time gym user or a fitness veteran, you’ll always have a home in our Judgement Free Zone™.
+title: Gym in Wilmington (Middlesex Ave), MA - Planet Fitness
+snippet: That’s why at Planet Fitness Wilmington (Middlesex Ave), MA we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help. Whether you’re a first-time gym user or a fitness veteran, you’ll always have a home in our Judgement Free Zone™.
+title: Wilmington (Monkey Junction), NC - Planet Fitness
+snippet: We strive to create a workout environment where everyone feels accepted and respected. That’s why at Planet Fitness Wilmington (Monkey Junction), NC we take care to make sure our club is clean and welcoming, our staff is friendly, and our certified trainers are ready to help.
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness - 6400 Carolina Beach Rd, Wilmington, North Carolina 28412 - Rated 4.6 based on 32 Reviews &quot;Just joined a couple months ago. The staff is...
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness (1215 Rombach Ave, Wilmington, OH) Gym/Physical Fitness Center in Wilmington, Ohio. 4.7. 4.7 out of 5 stars. Open Now. Community See All. 323 people like this. ... Planet Fitness member and Biggest Loser trainer Erica Fit Love is partnered with us to help you get real about fitness. Take control.
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness (Wilmington, NC - Temporarily Closed) March 18 at 2:38 PM · Out of an abundance of caution, this Planet Fitness will be temporarily closed effective Tuesday, March 17th. We recognize that you were recently billed for your monthly dues and we will credit your payment for our closed days on your next monthly bill upon reopening.
+title: Planet Fitness - Gym/Physical Fitness Center - Wilmington ...
+snippet: Planet Fitness - 68A S Kerr Ave, Wilmington, North Carolina 28403 - Rated 4.8 based on 117 Reviews &quot;I love this gym but that parking lot is a nightmare....
+title: Planet Fitness - Home | Facebook
+snippet: Planet Fitness - 2201 Farrand Dr, Wilmington, Delaware 19808 - Rated 4.5 based on 59 Reviews &quot;The music is always too loud. 95% of attendees wear...
+
+REL: 1
+POI Name: Franklin Square Mini Golf
+POI City: Philadelphia
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+
+
+REL: 0
+POI Name: Johnny's Food Market
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, Meat Shops, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Johnny&#39;s Food Market 1200 Maryland Ave Wilmington, DE ...
+snippet: Get directions, reviews and information for Johnny&#39;s Food Market in Wilmington, DE.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Johnny&#39;s Food Market - Wilmington, DE | Groupon
+snippet: When you&#39;re looking for a grocery store in Wilmington, Johnny&#39;s Food Market presents the perfect option to keep your kitchen well-stocked with the food that will keep your energy up. Health nuts will be pleased with the menu at Johnny&#39;s Food Market, which includes a number of fresh, nutritious items. You&#39;ll want to taste the exquisite meats available at this location. If you love t
+title: Johnny&#39;s Food Market - Wilmington, DE - Foursquare
+snippet: 5 visitors have checked in at Johnny&#39;s Food Market. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Online Menu of Johnnys Food Market Restaurant, Wilmington ...
+snippet: View the online menu of Johnnys Food Market and other restaurants in Wilmington, Delaware.
+title: Johnnys Market in Wilmington, DE with Reviews - YP.com
+snippet: Find 11 listings related to Johnnys Market in Wilmington on YP.com. See reviews, photos, directions, phone numbers and more for Johnnys Market locations in Wilmington, DE.
+title: Johnny&#39;s Fine Foods | Store Locator - Johnny&#39;s Fine Foods
+snippet: Johnny&#39;s Fine Foods / Store Locator . Store Locator. The following is a list of stores by state that carry our products. The amount ... County Market Sentry Foods Festival Foods Dick’s Fresh Market Woodman Metcalfes Pat’s Jack’s Fresh Market Tadych’s Gordy’s Marketplace Foods. Wyoming. Costco Wal Mart
+title: Dinner - JohnnyLukes KitchenBar, Wilmington, NC
+snippet: Tortilla chips layered with in house slow-roasted North Carolina pulled pork or shredded chicken, house-made queso, fresh jalapenos, diced tomatoes, black olives and scallions.
+title: Johnny’s Markets | A Local Convenience Store
+snippet: Johnny’s Markets came to life in 2013 when the family-owned company Walters-Dimmick Petroleum, Inc. (WDP) decided to re-imagine its Shell branded convenience stores. Johnny’s offers a friendly place where customers can find fresh coffee, healthy snacks, household goods, and bright, stylish interiors with sparkling clean restrooms around the clock.
+
+REL: 0
+POI Name: McLaren's Irish Pub
+POI City: Wilmington
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Pool Halls, Bars, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: McLaren&#39;s Irish Pub - Wilmington, Delaware - Pool ...
+snippet: McLaren&#39;s Irish Pub, Wilmington, Delaware. 433 likes · 11 talking about this · 5,783 were here. Pool &amp; Billiard Hall
+title: McLaren&#39;s Irish Pub Wilmington, DE 19803 - 44 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for McLaren&#39;s Irish Pub at 3211 Concord Pike in Wilmington - ⏰hours, ☎️phone number, ☝address and map.
+title: McLaren&#39;s Irish Pub, Wilmington - Restaurant Reviews ...
+snippet: McLaren&#39;s Irish Pub, Wilmington: See unbiased reviews of McLaren&#39;s Irish Pub, one of 500 Wilmington restaurants listed on Tripadvisor.
+title: McLaren&#39;s Irish Pub 3211 Concord Pike Wilmington, DE Bars ...
+snippet: Get directions, reviews and information for McLaren&#39;s Irish Pub in Wilmington, DE. McLaren&#39;s Irish Pub 3211 Concord Pike Wilmington DE 19803. 10 Reviews (302) 478-7522. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: McLaren&#39;s Irish Pub, Wilmington - Restaurantanmeldelser ...
+snippet: Spise middag i Wilmington: Se anmeldelser fra Tripadvisor-reisende av 499restauranter i Wilmington, og søk etter kjøkken, pris, sted og mer.
+title: McLaren&#39;s Irish Pub, Wilmington, Wilmington - Urbanspoon ...
+snippet: McLaren&#39;s Irish Pub Wilmington; McLaren&#39;s Irish Pub, Wilmington; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for McLaren&#39;s Irish Pub Restaurant on Zomato
+title: McLaren&#39;s Irish Pub - Restaurant | 3211 Concord Pike ...
+snippet: McLaren&#39;s Irish Pub is a business providing services in the field of Restaurant, . The business is located in 3211 Concord Pike, Wilmington, DE 19803, USA. Their telephone number is +1 302-478-7522.
+title: McLaren&#39;s Irish Pub in Wilmington - Menu, Reviews ...
+snippet: If you thought Famous Jacks had great prices, you need to check out McLaren&#39;s. I have only been here once, but on a Wednesday night, it has the best deals in the area. Â The special is $2.50 for any bottled beer, and they are have good selection of beers as well. Â The service was also great, as the bartender made sure I always had a drink.
+title: Mclarens Irish Pub in Wilmington, DE with Reviews - YP.com
+snippet: Find 2 listings related to Mclarens Irish Pub in Wilmington on YP.com. See reviews, photos, directions, phone numbers and more for Mclarens Irish Pub locations in Wilmington, DE.
+
+REL: 0
+POI Name: Golf Galaxy
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Sports Wear, Golf Equipment, Golf Lessons, 
+Snippets:
+title: Golf Galaxy - Clubs, Apparel and Equipment in Newark, DE ...
+snippet: About the Newark Store. Get ready to raise your game and lower your scores with top gear and expert services from Golf Galaxy in Christiana. Shop the Newark area&#39;s best selection of golf clubs, apparel, footwear, tech and accessories.Test the latest clubs in one of our hitting bays, or try out new putters on our huge indoor putting green. Schedule a custom club fitting with our Certified ...
+title: Golf Galaxy - Official Website
+snippet: Visit Golf Galaxy to shop a wide selection of golf clubs, apparel &amp; equipment from the top brands! Improve your game with services from our expert golf pros
+title: Golf Galaxy - Clubs, Apparel, and Equipment in Delaware
+snippet: Visit a Golf Galaxy store in Delaware. Find store hours, phone number, address &amp; in-store services a the Golf Galaxy in Delaware.
+title: Golf Galaxy Newark - Golf Equipment
+snippet: At Golf Galaxy, they understand you search for ways to gain more distance, hit more fairways and make more one-putts. You want more advice from experts on the latest golf equipment. You look for more tips to help improve your game. They get that. Once you equip your game like a pro, get dressed like… Read More
+title: Golf Galaxy in Newark | Golf Galaxy 1295 Churchmans Rd ...
+snippet: Find Golf Galaxy in Newark with Address, Phone number from Yahoo US Local. Includes Golf Galaxy Reviews, maps &amp; directions to Golf Galaxy in Newark and more from Yahoo US Local
+title: Golf Galaxy 1295 Churchmans Rd New Newark, DE Factory ...
+snippet: Get directions, reviews and information for Golf Galaxy in Newark, DE. Golf Galaxy 1295 Churchmans Rd New Newark DE 19713. 6 Reviews (302) 338-9005 Website. Menu &amp; Reservations ... Had a great experience at Golf Galaxy today. I got a gift card for Christmas and went into the store at Christiana.
+title: Golf Galaxy (Golf Store #1377)
+snippet: Golf Galaxy (Golf Store #1377) Opened in 2005, Golf Galaxy is a golf store located in Newark, Delaware with approx. 14,000 square feet of retail space dedicated to golf clubs, golf clothing or other golf equipment essential for avid Delaware golfers.
+title: Golf Technology - Golf GPS, Simulators &amp; Watches | Golf Galaxy
+snippet: Shop the latest golf technology &amp; golf electronics at Golf Galaxy. Use a GPS watch or golf simulator to enhance your game &amp; knowledge of the course. Read user reviews and find the right golf technology to fit your playing style.
+title: Store Closing: Golf Galaxy in Christiana, Delaware, 19713
+snippet: Information about possible store closing and store hours for: Golf Galaxy in Christiana, Delaware, 19713
+title: Golf Accessories Deals | Golf Galaxy
+snippet: Shop Golf Accessories Deals at Golf Galaxy. If you find a lower price on Golf Accessories Deals somewhere else, we&#39;ll match it with our Best Price Guarantee.
+
+REL: 0
+POI Name: The Sikar Cigar Lounge
+POI City: Wilmington
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, Hookah Bars, Social Clubs, 
+Snippets:
+title: The Sikar Cigar Lounge - Wilmington, DE - Yelp
+snippet: Sikar is a great, small cigar lounge in Wilmington with an unassuming quality. The one-butt humidor has been paired down to the finest sticks, so your cigar selection will be from the best national and boutique brands.
+title: SIKAR Cigar Lounge - Sikar Lounge of Wilmington: Home
+snippet: World leading brand bearing supplier . Since 2003, we have provided quality bearings for more than 8,000 customers from all over the world. We now have the most professional sales in the industry and are confident to provide you with the best service.
+title: Sikar Lounge | IN Wilmington
+snippet: SIKAR’s Cigar Lounge the premiere cigar lounge is located in the heart of Trolley Square located Wilmington, Delaware. Our enormous walk-in humidor keeps a world class selection of premium cigars humidified to perfection. Our private lounge allows the cigar aficionado and casual smoker alike an unforgettable experience: watch the game or catch the fight on one of the enormous
+title: Sikar Lounge of Wilmington - Home | Facebook
+snippet: Sikar Lounge of Wilmington, Wilmington, Delaware. 1,549 likes · 21 talking about this · 3,270 were here. Delaware&#39;s premiere cigar lounge located in the heart of Trolley Square!
+title: Photos for The Sikar Cigar Lounge - Yelp
+snippet: Photos at The Sikar Cigar Lounge - Wilmington, DE. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for The Sikar Cigar Lounge. The Sikar Cigar Lounge. 24 reviews Add photos Search photos... 76 photos mention &quot;&quot; Clear. Page 1 of 3 1. 2 3 Next.
+title: Sikar Cigar Lounge | Wilmington, DE 19806
+snippet: SIKAR’s Cigar Lounge the premiere cigar lounge is located in the heart of Trolley Square located Wilmington, Delaware. Our enormous walk-in humidor keeps a world class selection of premium cigars humidified to perfection.
+title: The Sikar Cigar Lounge 1624 Delaware Ave Wilmington, DE ...
+snippet: Get directions, reviews and information for The Sikar Cigar Lounge in Wilmington, DE. The Sikar Cigar Lounge 1624 Delaware Ave Wilmington DE 19806. 24 Reviews (302) 468-6146 Website. Menu &amp; Reservations ... Sikar is a great, small cigar lounge in Wilmington with an unassuming quality.
+title: The Sikar Cigar Lounge Reviews | Wilmington Restaurants &amp; Bars
+snippet: View customer reviews of The Sikar Cigar Lounge in Wilmington, Delaware.
+title: The Sikar Cigar Lounge in Wilmington - Menu, Reviews ...
+snippet: Sikar Lounge is a very classy cigar lounge in Trolley Square, Wilmington, DE. It is extremely clean, and the product is fresh. I enjoyed a cigar, watched golf, and Willy was very cordial and helpful to me.
+
+REL: 0
+POI Name: Makers Alley
+POI City: Wilmington
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Gardens, 
+Snippets:
+title: Makers alley
+snippet: Makers Alley, 804 North Orange Street, Wilmington, DE, 19801, United States 302.482.1299 info@makersalleyde.com
+title: Menus — Makers alley
+snippet: Makers Alley, 804 North Orange Street, Wilmington, DE, 19801, United States 302.482.1299 info@makersalleyde.com
+title: Makers Alley - Home | Facebook
+snippet: Makers Alley. 1,105 likes · 138 talking about this · 743 were here. A joint for bites, sips and outdoor vibes, discovered off the beaten path in downtown Wilmington, DE. Open from 3pm-close Tuesday...
+title: Makers Alley (@makersalleyde) • Instagram photos and videos
+snippet: Makers Alley A joint for bites, sips, and outdoor vibes, discovered off the beaten path in downtown Wilmington, DE. Hangout with us Tuesday-Saturday from 3pm-1am? www.makersalleyde.com
+title: Makers Alley, downtown Wilmington&#39;s newest beer garden ...
+snippet: Makers Alley, downtown Wilmington&#39;s newest beer garden, now open. Twenty-four beers are on tap and food is served out of a vintage Airstream trailer-turned-kitchen.
+title: Makers Alley - Home | Facebook
+snippet: Makers Alley. 944 likes · 63 talking about this · 453 were here. A joint for bites, sips and outdoor vibes, discovered off the beaten path in downtown Wilmington, DE.
+title: Makers Alley brings &#39;American cool&#39; to Wilmington&#39;s Orange ...
+snippet: A look inside Makers Alley, downtown Wilmington&#39;s new $3.3 million beer garden. The beer garden with food served from a sleek, retro Airstream food truck, is expected to open by the end of the month.
+title: Makers Alley creates beer garden competition in downtown ...
+snippet: In the ever-growing beer garden market in Wilmington, a new entry hopes to &quot;make&quot; its mark. Makers Alley opened Monday just off the corner of 8th &amp; Orange streets, joining Torbert Street Social in ...
+title: Makers Alley | IN Wilmington
+snippet: A joint for bites, sips and outdoor vibes, discovered off the beaten path in downtown Wilmington, DE. Open from 3pm-close Tuesday through Saturday! 24 beers on tap, a converted airstream kitchen, outdoor hangout, games and hammocks...
+title: Maker&#39;s Alley Wilmington, DE 19801 - 15 Reviews and Photos ...
+snippet: Makers Alley is a fun new addition to the downtown Wilmington scene. The beer garden/bar quietly opened just off of Market Street within the past few weeks and boasts a gorgeous outdoor space with picnic tables and Adirondack chairs set up among heating units and fire pits.
+
+REL: 0
+POI Name: Brandywine Liquors
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Brandywine Liquors, 2718 NAAMANS ROAD, Wilmington, DE (2020)
+snippet: Brandywine Liquors is located across the street from Concord High School on Naamans Road, Wilmington, Delaware. We have huge selection of wine, Liquor, Craft Beer and domestic beer. Sales runs all around the year. Tastings are also available on weekends. We offer excellent customer service, good recommendation on wine liquor. It is the store you will love to go.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Brandywine Liquors - Wilmington, Delaware - Wine, Beer ...
+snippet: Brandywine Liquors, Wilmington, Delaware. 17 likes. Wine, Beer &amp; Spirits Store
+title: Opening times of Brandywine Liquors in 2718 Naamans Rd ...
+snippet: Find opening times and closing times for Brandywine Liquors in 2718 Naamans Rd, Wilmington, DE, 19810 and other contact details such as address, phone number, website, interactive direction map and nearby locations.
+title: Brandywine Liquors 2718 Naamans Rd, Wilmington, DE 19810 ...
+snippet: Search for other Liquor Stores on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Brandywine Liquors at 2718 Naamans Rd, Wilmington, DE 19810. Search for other Liquor Stores in Wilmington on The Real Yellow Pages®.
+title: Brandywine Liquors 2718 Naamans Rd Wilmington, DE Wines ...
+snippet: Get directions, reviews and information for Brandywine Liquors in Wilmington, DE. Brandywine Liquors 2718 Naamans Rd Wilmington DE 19810. 4 Reviews (302) 475-9420. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Brandywine Liquors - Store | 2718 Naamans Rd, Wilmington ...
+snippet: Brandywine Liquors is a business providing services in the field of Store, . The business is located in 2718 Naamans Rd, Wilmington, DE 19810, USA. Their telephone number is +1 302-475-9420.
+title: Brandywine Liquors in Wilmington, DE with Reviews - YP.com
+snippet: Find 7 listings related to Brandywine Liquors in Wilmington on YP.com. See reviews, photos, directions, phone numbers and more for Brandywine Liquors locations in Wilmington, DE.
+title: Brandywine Liquor
+snippet: Brandywine Liquor Store in North Deland is located in the Brandywine Shopping Center. Providing exceptional customer service with a wide selection of beer, wine, cigars, and liquor.
+title: Brandywine Fuel - Home Heating Oil
+snippet: Brandywine Fuel, Inc. is a family operated fuel service provider that is there to serve your family. We take pride in providing you with friendly and reliable services that you can count on time and time again. Become a member of our family, never a number like other companies.
+
+REL: 0
+POI Name: Chick-fil-A
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, 
+Snippets:
+title: Chick-fil-A, Wilmington - 5123 Market St - Menu, Prices ...
+snippet: Chick-fil-A, Wilmington: See 38 unbiased reviews of Chick-fil-A, rated 4.5 of 5 on Tripadvisor and ranked #176 of 674 restaurants in Wilmington.
+title: Chick-fil-A, Wilmington - Restaurantanmeldelser - Tripadvisor
+snippet: Chick-fil-A, Wilmington: Se 74 objektive anmeldelser av Chick-fil-A, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 140 av 673 restauranter i Wilmington.
+title: Chick-fil-A, Wilmington - Menu, Prices &amp; Restaurant ...
+snippet: Chick-fil-A, Wilmington: See 13 unbiased reviews of Chick-fil-A, rated 4.5 of 5 on TripAdvisor and ranked #121 of 503 restaurants in Wilmington.
+title: Chick-fil-A, Wilmington - 3389 Oleander Dr - Menu, Prices ...
+snippet: Order food online at Chick-fil-A, Wilmington with Tripadvisor: See 22 unbiased reviews of Chick-fil-A, ranked #227 on Tripadvisor among 674 restaurants in Wilmington.
+title: Wilmington – Monkey Junction Location | Chick-fil-A
+snippet: Come visit Chick-fil-A in Wilmington – Monkey Junction for delicious options such as our signature chicken sandwiches, salads, chicken nuggets, and breakfast menu.
+title: Wilmington – Concord Mall Location | Chick-fil-A
+snippet: Come visit Chick-fil-A in Wilmington – Concord Mall for delicious options such as our signature chicken sandwiches, salads, chicken nuggets, and breakfast menu.
+title: Chick-fil-A, Wilmington - 3500 Oleander Dr Ste Fc2 ...
+snippet: Chick-fil-A, Wilmington: See 6 unbiased reviews of Chick-fil-A, rated 4.5 of 5 on Tripadvisor and ranked #401 of 673 restaurants in Wilmington.
+title: University of NC-Wilmington Location - Chick-fil-A
+snippet: Come visit Chick-fil-A in Wilmington – University of NC-Wilmington for delicious options such as our signature chicken sandwiches, salads, chicken nuggets, and breakfast menu.
+title: Chick-fil-A Monkey Junction - Home - Wilmington, North ...
+snippet: Chick-fil-A Monkey Junction, Wilmington. 3,154 likes · 28 talking about this · 3,638 were here. We strive to serve a quality product and create a pleasant family friendly dining experience.
+title: Chick-fil-A Operator Website - Home Page
+snippet: Chick-fil-A Wilmington&#39;s best restaurant offers a family-friendly dining experience. Visit our Market Street restaurant for breakfast, lunch, and dinner to enjoy our great tasting food. We can also be your source for Wilmington catering.
+
+REL: 0
+POI Name: UDairy Creamery Market
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, Burgers, Sandwiches, 
+Snippets:
+title: UDairy Creamery Market - Wilmington, DE - UDairy Creamery
+snippet: UDairy Creamery Market – Wilmington, DE. From the cow to the cone to catering. The UDairy Creamery Market offers burgers, gourmet grilled cheese, salads, produce and ice cream using ingredients from the University of Delaware farm. So Much More Than Ice Cream! More than ice cream.
+title: Home - UDairy Creamery
+snippet: Our location in Wilmington, Delaware collaborates with University of Delaware Associates in Arts student to learn and create ice cream flavors in house. The UDairy Creamery Market also offers burgers, gourmet grilled cheese, salads and produce using ingredients from our Newark farm. Farm Fresh, Student Operated!
+title: UDairy Creamery - Home | Facebook
+snippet: UDairy Creamery - 815 N. Market St., Wilmington, Delaware 19801 - Rated 4.9 based on 39 Reviews &quot;Best ice cream ever chocolate chunks with sea salt...
+title: UDairy Creamery Market, Wilmington - Menu, Prices ...
+snippet: Order food online at UDairy Creamery Market, Wilmington with Tripadvisor: See 11 unbiased reviews of UDairy Creamery Market, ranked #95 on Tripadvisor among 501 restaurants in Wilmington.
+title: UDairy Creamery Market - AAP
+snippet: Talk about your delicious opportunities: The UDairy Creamery Market in Wilmington is now accepting applications for servers! Interested students should submit a résumé, cover letter and their current availability to Lee Anne Ahamad at ahamad@udel.edu, or drop them off in person at the Market at 815 N. Market Street.Don&#39;t delay — these sweet jobs won&#39;t be available for long!
+title: UDairy Creamery Market Wilmington, DE 19801 - Menu, 76 ...
+snippet: Latest reviews, photos and ??ratings for UDairy Creamery Market at 815 N Market St in Wilmington - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: UDairy Creamery Market - Wilmington, DE Restaurant | Menu ...
+snippet: Order with Seamless to support your local restaurants! View menu and reviews for UDairy Creamery Market in Wilmington, plus popular items &amp; reviews. Delivery or takeout!
+title: UDairy Creamery - Home | Facebook
+snippet: UDairy Creamery - 815 N. Market St., Wilmington, Delaware 19801 - Rated 4.9 based on 40 Reviews &quot;Went today with my friend to get a cone..on my way out...
+title: Sweetening downtown Wilmington | UDaily
+snippet: The University of Delaware’s UDairy Creamery will open its first off-campus location this spring. The storefront at 815 North Market Street, directly across the street from Wilmington’s Grand Opera House, will bring UDairy’s premium, handmade ice cream to downtown Wilmington with a twist.
+title: UDairy Creamery Mini Market | Osher Lifelong Learning ...
+snippet: UDairy Creamery Mini Market Arsht Hall Mon.-Fri., 8 a.m.-2:30 p.m. The University of Delaware’s UDairy Creamery operates the UDairy Creamery Mini Market in Arsht Hall with breakfast and lunch options available Monday through Friday. UDairy ice cream is also available! The UDairy Creamery Mini Market menu is updated weekly and available on this webpage. Members may …
+
+REL: 0
+POI Name: Krispy Krunchy Chicken
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chicken Wings, Fast Food, 
+Snippets:
+title: Krispy Krunchy Chicken - Wilmington | Online Ordering
+snippet: Krispy Krunchy Chicken is located at 206 Bellardvale Street in Wilmington, MA 01887.
+title: Krispy Krunchy Chicken | Home
+snippet: Krispy Krunchy Chicken is one of the fastest growing convenience store based quick service restaurant (QSR) concepts in the nation.
+title: Krispy Krunchy Chicken | Locations
+snippet: Krispy Krunchy Chicken is one of the fastest growing c-store concept quick-service restaurants in the market today. If you want to open a location, contact us today and we’ll help you get started!
+title: Krispy Krunchy Chicken - Wilmington - Online Ordering ...
+snippet: krispy krunchy chicken, Wilmington, MA, 206 Bellardvale Street, Wilmington, MA 01887, fried chicken, click4ameal, Quick Mart, Quick Mart and Krispy Krunchy Chicken ...
+title: Krispy Krunchy Chicken &amp; Star Pizza - Wilmington - Menu ...
+snippet: Get 10% off your pizza delivery order - View the menu, hours, address, and photos for Krispy Krunchy Chicken &amp; Star Pizza in Wilmington, DE. Order online for delivery or pickup on Slicelife.com
+title: Krispy Krunchy Chicken Delivery in Wilmington - Delivery ...
+snippet: Get delivery from Krispy Krunchy Chicken super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: Krispy Krunchy Chicken, Wilmington - Photos &amp; Restaurant ...
+snippet: Order food online at Krispy Krunchy Chicken, Wilmington with Tripadvisor: See unbiased reviews of Krispy Krunchy Chicken, ranked #328 on Tripadvisor among 505 restaurants in Wilmington.
+title: Krispy Krunchy Chicken Woburn | Online Ordering
+snippet: Krispy Krunchy Chicken Woburn is located at 902 Main Street in Woburn, MA 01801.
+title: Krispy Krunchy Chicken | Menu - Chicken, Breakfast &amp; Seafood
+snippet: Krispy Chicken. Our Cajun-infused chicken comes any way you want! Pick up your choice of a leg, wing, thigh, or breast, or get a meal of dark, mix, or white meat for the whole krewe with 8, 12, 16, and 25 piece options.
+title: Krispy Krunchy Chicken - Food delivery - payson - Order online
+snippet: Order online for Delivery. Here at Krispy Krunchy Chicken - payson you&#39;ll experience delicious American cuisine. Try our mouth-watering dishes, carefully prepared with fresh ingredients! At Krispy Krunchy Chicken, our recipe for success is simple – Great food &amp; care makes customers return every time.
+
+REL: 0
+POI Name: Plaza Family Restaurant
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), 
+Snippets:
+title: Plaza Family Restaurant - Wilmington, DE - Yelp
+snippet: 1 review of Plaza Family Restaurant &quot;I&#39;ve been here twice now for breakfast and both times the food has been great. I ordered 2 eggs over medium, bacon and home fries with wheat toast at a cost of about $5.25. The eggs were perfect, the bacon…
+title: Newport Family Restaurant - The Original Newport Restaurant
+snippet: Located in Graystone Plaza, this is the Original Newport Family Restaurant. A dining original for over 30 years. When Maria and her husband Sam opened the Newport Family Restaurant in 1982 their goal was to provide wholesome, flavorful meals for the working family.
+title: The Plaza Family Restaurant - 66 Photos - 29 Reviews ...
+snippet: The Plaza Family Restaurant - 208 W Market St, Wilmington, Delaware 19804 - Rated 4.8 based on 29 Reviews &quot;Top notch food at reasonable prices and the...
+title: Newport Family Restaurant, Wilmington - Restaurant Reviews ...
+snippet: Newport Family Restaurant, Wilmington: See 11 unbiased reviews of Newport Family Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #288 of 500 restaurants in Wilmington.
+title: Plaza Family Restaurant in Newport - Restaurant reviews
+snippet: Looking for a great place to eat?Come join us at The Plaza Family Restaurant in Newport! We have some of the best tasting food around.Everything is so fresh!Amazing brkfst all day!Delicious homemade soups,stews &amp; chili!Homemade rice pudding and more.I promise, you&#39;ll always have great food &amp; great service,all within a family atmosphere.
+title: Plaza Family Restaurant, Newport, Wilmington - Zomato
+snippet: Plaza Family Restaurant Wilmington; Plaza Family Restaurant, Newport; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Plaza Family Restaurant Restaurant on Zomato. Serves American, Healthy Food. Products for Businesses We&#39;re hiring. Wilmington, Delaware. Please type a location... All of Wilmington, Delaware.
+title: Plaza Family Restaurant 208 W Market St Wilmington, DE ...
+snippet: Get directions, reviews and information for Plaza Family Restaurant in Wilmington, DE. Plaza Family Restaurant 208 W Market St Wilmington DE 19804. 1 Reviews (302) 998-3899 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Plaza Family Restaurant 208 W Market St, Wilmington, DE ...
+snippet: Get reviews, hours, directions, coupons and more for Plaza Family Restaurant at 208 W Market St, Wilmington, DE 19804. Search for other Family Style Restaurants in Wilmington on The Real Yellow Pages®.
+title: Newport Plaza Family Restaurant in Wilmington, 601 W ...
+snippet: Description. Newport Plaza Family Restaurant can be found at 601 W Newport Pike . The following is offered: Restaurants - In Wilmington there are 191 other Restaurants.
+title: The Plaza Family Restaurant in Wilmington, DE ...
+snippet: About The Plaza Family Restaurant: Family Restaurant . Established in 2002, The Plaza Family Restaurant is located at 208 W Market St in Wilmington, DE - New Castle County and is a business specialized in American, American Food and American Restaurant.The Plaza Family Restaurant is listed in the categories Restaurants/Food &amp; Dining, Family Restaurants, Full-Service Restaurants, Limited ...
+
+REL: 0
+POI Name: Sub City
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sandwiches, 
+Snippets:
+title: City Pizza &amp; Sub Co. in Wilmington, IL | Online Ordering
+snippet: Order pizza online from City Pizza &amp; Sub Co. in Wilmington, IL for delivery and takeout. Browse our menu and easily choose and modify your selection.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Online Menu of Sub City Restaurant, Wilmington, Delaware ...
+snippet: View the online menu of Sub City and other restaurants in Wilmington, Delaware.
+title: Online Menu of Sub City, Wilmington, DE
+snippet: View the menu for Sub City and restaurants in Wilmington, DE. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Sub City - Wilmington, DE Restaurant | Menu + Delivery ...
+snippet: View menu and reviews for Sub City in Wilmington, plus popular items &amp; reviews. Delivery or takeout! Order delivery online from Sub City in Wilmington instantly with Seamless! Enter an address. Search restaurants or dishes. Search. Sign in. Skip to Navigation Skip to About Skip to Footer Skip to Cart.
+title: City Pizza &amp; Sub Co. in Wilmington, IL | Choose A Menu
+snippet: Taxes &amp; any applicable fees are calculated at checkout. How to contact us. City Pizza &amp; Sub Co.
+title: Sub City in Wilmington - Restaurant menu and reviews
+snippet: All info on Sub City in Wilmington - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Sub City 701 N King St Wilmington, DE Subs &amp; Sandwiches ...
+snippet: Sub City 701 N King St Wilmington DE 19801. 15 Reviews (302) 658-2562. Menu &amp; Reservations ... Sub was good but they can keep their breakfast sandwiches. They were tasteless and small. The girl working inside super nice, and there&#39;s tables and chairs if you want to eat there.
+title: Sub City Wilmington, DE 19801 - Menu and 39 Reviews ...
+snippet: Latest reviews and ??ratings for Sub City at 701 N King St in Wilmington - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Sub City - Wilmington, Delaware - Local Business | Facebook
+snippet: Sub City, Wilmington, Delaware. 13 likes. Local Business. Coffee cake cupcake with cappuccino frosting topped with a cute mini donut.
+
+REL: 0
+POI Name: City Mini Golf
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+title: City Mini Golf - Downtown Chicago
+snippet: Sure, miniature golf is something you can find most places, but City Mini Golf is something you can only find in Chicago. The customer experience is our top priority and we&#39;re looking for energetic team members who share our same vision.
+title: City Mini Golf Store
+snippet: Welcome to the City Mini Golf virtual store. Here you can purchase season passes as well as general and discounted tickets. Your ticket purchases never expire so feel free to use them whenever it is most convenient for you.
+title: City Mini Golf - Home | Facebook
+snippet: City Mini Golf. 959 likes · 6 talking about this · 397 were here. Enjoy playing 18 holes, with nods to whimsical Chicago culture, all while taking in breathtaking views of the Chicago skyline! Open...
+title: Chicago Mini Golf | About City Mini Golf
+snippet: At City Mini Golf we believe in three things: having fun, creating lasting memories, and giving back to the community. We draw inspiration from our customers and use feedback to continually innovate our course.
+title: Photos for City Mini Golf - Yelp
+snippet: Photos at City Mini Golf - Chicago, IL. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: City Mini Golf Special Offers
+snippet: Voted Chicago&#39;s #1 miniature golf course. Come see for yourself what makes City Mini Golf so different.
+title: Mini Golf - Maggie Daley Park - Maggie Daley Park
+snippet: Mini Golf Located on the south end of the BP Bridge, there is an 18-hole miniature golf course consisting of unique obstacles and challenging holes that offer family-friendly fun. Featuring several replicas of iconic Chicago structures, golfers can putt underneath a 6-foot tall Willis Tower and putt up a Plinko-inspired replica of a Picasso sculpture.
+title: City Mini Golf in Maggie Daley Park | Things to do in ...
+snippet: Show off your putt-putt skills at City Mini Golf in Maggie Daley Park. The seasonal mini golf course opens up each May and closes in the fall. With 18 holes, th
+title: City Mini Golf - Chicago, IL | Groupon
+snippet: City Mini Golf features tons of mini golf amusement right in the middle of Chicago. Little ones are just as welcome as their parents at this course.Easy parking is accessible for City Mini Golf&#39;s customers. Catch a wonderful breeze by playing a game of miniature golf outside at City Mini Golf&#39;s location in Chicago.
+title: City Mini Golf (@cityminigolfing) • Instagram photos and ...
+snippet: City Mini Golf Chicago&#39;s #1 Miniature Golf! Located in the middle of Maggie Daley Park. Steps from the lake, Millennium Park and the famous Bean www.cityminigolf.com
+
+REL: 0
+POI Name: Putters Paradise
+POI City: Middletown
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Ice Cream & Frozen Yogurt, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 0
+POI Name: Tally-Ho Spirits
+POI City: Wilmington
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Opening times of Tally-Ho Spirits in 3450 Naamans Road ...
+snippet: Find opening times and closing times for Tally-Ho Spirits in 3450 Naamans Road, Wilmington, DE, 19810 and other contact details such as address, phone number, website, interactive direction map and nearby locations.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Tally-Ho Spirits 3450 Naamans Rd Wilmington, DE Liquor ...
+snippet: Get directions, reviews and information for Tally-Ho Spirits in Wilmington, DE. Tally-Ho Spirits 3450 Naamans Rd Wilmington DE 19810. 2 Reviews (302) 478-2640 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Tally-Ho Spirits in Wilmington, DE - Liquor &amp; Alcohol Stores
+snippet: Established in 1980, Tally-Ho Spirits is located at 3450 Naamans Rd in Wilmington, DE - New Castle County and is a business listed in the categories Liquor &amp; Alcohol Stores, Beer &amp; Wine, Beer, Wine, And Liquor Stores, Wine, Liquor Stores and Liquor Retail.
+title: Tally-Ho Spirits - Wilmington, Delaware - Wine, Beer ...
+snippet: Tally-Ho Spirits, Wilmington, Delaware. 9 likes. Wine, Beer &amp; Spirits Store
+title: Tally-Ho Spirits 3450 Naamans Rd, Wilmington, DE 19810 ...
+snippet: Get reviews, hours, directions, coupons and more for Tally-Ho Spirits. Search for other Liquor Stores on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Tally-Ho Spirits at 3450 Naamans Rd, Wilmington, DE 19810.
+title: Tally-Ho Spirits in Wilmington | Tally-Ho Spirits 3450 ...
+snippet: Find Tally-Ho Spirits in Wilmington with Address, Phone number from Yahoo US Local. Includes Tally-Ho Spirits Reviews, maps &amp; directions to Tally-Ho Spirits in Wilmington and more from Yahoo US Local
+title: Tally -Ho Spirits in Wilmington, DE | Business Profile ...
+snippet: Business profile for Tally -Ho Spirits in Wilmington, Delaware. Infofree.com offers unlimited sales leads, mailing lists, email lists.
+title: Tally Ho Spirits in Wilmington, DE with Reviews - YP.com
+snippet: Find 1 listings related to Tally Ho Spirits in Wilmington on YP.com. See reviews, photos, directions, phone numbers and more for Tally Ho Spirits locations in Wilmington, DE.
+title: TALLY HO LIQUORS · 3450 Naamans Rd, Wilmington, DE 19810-1066
+snippet: TALLY HO LIQUORS (License# 1999200128) is a business licensed with State of Delaware, Department of Finance, Division of Revenue. The license valid start date is January 1, 2019. The address is 3450 Naamans Rd, Wilmington, DE 19810-1066.
+
+REL: 0
+POI Name: Flatstick Pub - South Lake Union
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Pubs, Beer Bar, 
+Snippets:
+title: South Lake Union – Flatstick Pub
+snippet: South Lake Union 609 Westlake Ave N | Seattle, WA 98109 Ages 21+ Only After 7PM. 206.258.4989 / See Hours. Book a Tee Time Plan an Event. South Lake Union ... Flatstick Pub Mulligan Mule Heritage Vodka, Rachel&#39;s Ginger Beer, &amp; Lime Juice. 32. Alexandria Nicole Sauvignon Blanc
+title: Flatstick Pub – Local Craft Beer, Mini Golf &amp; Old School Fun
+snippet: All Flatstick Pub locations will be closed until further notice. ... For the best pub experience in Washington, ... PSQ Pioneer Square. SLU South Lake Union. SPO Spokane. TAC Tacoma. BHAM Bellingham. Home Upcoming Events Membership Sunday Fundraise Our Story FAQs Contact. KRK PSQ SLU SPO TAC BHAM. Book a Tee Time Plan an Event.
+title: FAQs – Flatstick Pub
+snippet: Duffleboard™ is an original game invented by Flatstick Pub. It is a tabletop golf game that uses real golf balls and a special handheld putter. It is fun and easy to play for all skill levels. See our video tutorial for more details.
+title: Flatstick Pub - Home | Facebook
+snippet: Flatstick Pub (South Lake Union) Pub in Seattle, Washington. 4.2. 4.2 out of 5 stars. Open Now. ABOUT FLATSTICK PUB. Our Story. We’re passionate about craft beer and supporting our Community.
+title: Flatstick Pub - South Lake Union, Seattle - Menu, Prices ...
+snippet: Order food online at Flatstick Pub - South Lake Union, Seattle with Tripadvisor: See 5 unbiased reviews of Flatstick Pub - South Lake Union, ranked #1,918 on Tripadvisor among 4,014 restaurants in Seattle.
+title: Our Story – Flatstick Pub
+snippet: Seattle Magazine Flatstick Pub is Opening Another Seattle Location. Puget Sound Business Journal How Flatstick Pub landed in South Lake Union – hint: Vulcan likes mini-golf and craft beer . The Seattle Times Underground drinking in Pioneer Square: a visit to The Sovereign and Flatstick Pub.
+title: Contact – Flatstick Pub
+snippet: Parking. Paid visitor parking is available at the Allen Institute building in which we are located. There is also abundant street parking along the surrounding streets, as well as several pay lots to the north of us on Westlake Ave.
+title: Flatstick Pub - South Lake Union | Visit Seattle
+snippet: Restaurants South Lake Union There are only two rules at Flatstick Pub: drink local and have fun. We’re mixing up the scene by combining local beers with an indoor 9-hole mini golf course and other unique games.
+title: Restaurants Near Flatstick Pub, Seattle ... - TripAdvisor
+snippet: Restaurants near Flatstick Pub, Seattle on Tripadvisor: Find traveler reviews and candid photos of dining near Flatstick Pub in Seattle, Washington.
+title: Flatstick Pub - South Lake Union - Seattle - The Infatuation
+snippet: Flatstick Pub, a mini-golf bar, is practically designed for after-work functions - the mini golf costs $8 to play, the space is massive, and there are 32 different beers on tap. While the pub snacks here like mozzarella sticks and onion rings are just fine, you’ll want to spend your company’s budget on their tasty brick oven pizza instead.
+
+Cand cities: {'Seattle', 'Wilmington', 'Newark', 'Philadelphia', 'Chicago', 'Downingtown', 'Mantua', 'Middletown'}

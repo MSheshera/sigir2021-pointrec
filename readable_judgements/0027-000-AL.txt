@@ -1,0 +1,1148 @@
+City: Oslo
+Country: NO
+Main category: Active Life
+Sub category: Gyms
+Description: Hi everyone, I’ll be in Oslo for approximately two months and looking for some good and affordable gym recommendations here. I have a bicycle and pretty much can travel around in Oslo. Any opinions will be much appreciated!
+Rated POIs: 42
+Rel distr: [(0, 12), (1, 4), (2, 10), (3, 16)]
+=================================
+REL: 3
+POI Name: SATS Nydalen
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: SATS Nydalen – Treningssenter i Oslo - SATS
+snippet: SATS Nydalen ligger i nærheten av Handelshøyskolen BI, og kun noen få minutters gange fra Nydalen og Storo T-banestasjoner. Våre dyktige ansatte hjelper deg i gang med målrettet og effektiv trening. Ønsker du tettere oppfølging anbefaler vi at du trener med en av våre personlige trenere.
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: SATS – Trening, helse &amp; livskvalitet - SATS
+snippet: Uansett hvilke mål du har med treningen, har vi kunnskapen som hjelper deg med å nå dem – i tillegg til å ha det gøy på veien!
+title: SATS - Nydalen.no
+snippet: SATS Nydalen ligger i nærheten av BI, kun noen få minutters gange fra Nydalen T-banestasjon. Våre dyktige ansatte hjelper deg i gang med målrettet og effektiv trening. Ønsker du tettere oppfølging anbefaler vi at du trener med en av våre personlige trenere. SATS Nydalen har en egen spesialdesignet treningssone for...
+title: Personlig trener Henrik Sprenger | SATS Nydalen - SATS
+snippet: Henrik er personlig trener på SATS Nydalen i Oslo. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: Trening - Nordens største tilbud - SATS
+snippet: SATS forbeholder seg retten til å kontakte deg med informasjon og tilbud om trening og medlemskap via sms, telefon eller epost. Du kan når som helst kontakte SATS for å endre eller slette informasjonen om deg selv. SATS lagrer informasjonen du oppgir i tre måneder i henhold til personvernsloven og deler ikke informasjonen med tredje part.
+title: Skreddersy ditt medlemskap - betal kun for det du bruker ...
+snippet: Oslo/Akershus Bergen Grenland Sørlandet Drammen Rogaland Tromsø Hønefoss Lillehammer Østfold *Tilbudet gjelder for 12 måneders bindende medlemskap. Vi spanderer innmeldingsavgiften på kr 200,- som ellers pålegges alle nye innmeldinger. Du får også én måned fri trening. Er du allerede medlem og ønsker å endre ditt medlemskap, klikk ...
+title: SATS AS, Nydalen, Oslo - 1881.no
+snippet: SATS AS fra Nydalen, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Feelgood Vollebekk AS Trening - Treningssenter – Oslo; Condis Økern Trening - Treningssenter – Oslo; Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: Personlig trener Tone Sørli | SATS Nydalen - SATS
+snippet: Kontakt meg: tone.sorli@sats.no Jeg gjør aldri noe halvveis, jeg avslutter alltid det jeg begynner på, jeg tror på eget ansvar og hardt arbeid, men også på effekten av teamwork og betydningen av menneskene rundt en.
+title: SATS Nydalen, Nydalen, Oslo - 1881.no
+snippet: SATS Nydalen fra Nydalen, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Feelgood Vollebekk AS Trening - Treningssenter – Oslo; Condis Økern Trening - Treningssenter – Oslo; Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ...
+
+REL: 3
+POI Name: Sats
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: SATS – Trening, helse &amp; livskvalitet - SATS
+snippet: Oslo Undermeny av. SATS Akersgata. SATS Asker. SATS Bekkestua. SATS Billingstad. SATS Bislett. SATS Bjørvika. SATS Carl Berner. SATS CC Vest. SATS Colosseum. SATS Fagerborg. SATS Fornebu. ... SATS Shop - Eksklusive tilbud kun til medlemmer! Undermeny av. Theragun - massasjepistol til å løse opp i stive muskler.
+title: Treningssenter Oslo | Medlemskap SATS - SATS
+snippet: Begynn med å logge inn på din SATS-profil. Klikk på ‘Har du glemt ditt passord?’ dersom du trenger å få tilsendt et nytt. Deretter kobles din SATS-profil til din Facebook-profil. Du trenger bare å oppgi SATS-passordet ved første innlogging via Facebook, videre kan du logge inn med din Facebook-innlogg.
+title: SATS Spektrum – Treningssenter i Oslo sentrum - SATS
+snippet: Velkommen til SATS Spektrum! Vi tilbyr det siste innenfor styrke, kondisjons – og gruppetrening. Vi har også muligheter for å spille squash hos oss. Våre dyktige ansatte hjelper deg i gang med målrettet og effektiv trening. Ønsker du tettere oppfølging anbefaler vi at du trener med en av våre personlige trenere. Book squash her
+title: SATS Solli Plass – Treningssenter midt i Oslo - SATS
+snippet: SATS Solli plass er et moderne treningssenter som ligger sentralt på Solli plass. Vi tilbyr et bredt utvalg innenfor styrke, kondisjons– og gruppetrening. Vi har en egen sone for personlig trening hvor det er lagt vekt på funksjonell trening. De minste er velkommen til MiniSATS mens du er å trener.
+title: Sats må stenge treningssenter i Oslo grunnet coronaviruset ...
+snippet: Sats må stenge treningssenter i Oslo grunnet coronaviruset . Treningskjeden Sats har stengt Sats Colosseum på ubestemt tid fordi det er sannsynlighet for at en person med smitte var innom ...
+title: Kjøp SATS (SATS) aksjer på Oslo Børs - Nordnet
+snippet: Kjøp aksjen SATS (SATS) på Oslo Børs. Hos Nordnet kan du handle fra 1 kr i kurtasje. Klikk her for å følge aksjekursen i realtid.
+title: Sats Oslo | bedrifter | gulesider.no
+snippet: Sats Oslo - regnskapstjenester, merverdiavgift, regnskap, regnskapsbyråer, regnskapsbistand, autorisert, regnskapskontor, regnskapskontorer, regnskapsføring ...
+title: Sats Norway AS - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Sats Norway AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Formuesskatt - Skatteetaten
+snippet: Skattekort, skattemelding (selvangivelse), skatteoppgjør, skattelister, tema og fradrag som hjelper deg til å få riktig skatt.
+
+REL: 3
+POI Name: SiO Athletica Vulkan
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Athletica Vulkan - Treningssenter ved Grünerløkka - SiO
+snippet: Athletica Vulkan tilbyr kondisjons-, gruppe- og styrketrening, ... Vulkan 15, 0178 Oslo . Større kart. Kontakt oss. 22 59 69 50. athletica@sio.no. Personlig trener? Vil du ha hjelp av til å komme i bedre form, bli sterkere eller kanskje forberede svømmeteknikken? La våre PT-er hjelpe deg.
+title: Tren på SiO Athletica - Oslos bredeste treningstilbud - SiO
+snippet: SiO Athletica har 6 treningssentre sentralt i Oslo. Vi har gode tilbud på gruppetimer, PT, svømmehall og klatrevegger.
+title: Våre treningssentre - Her finner du Athletica - SiO
+snippet: Her finner du SiO Athletica. Vi har 6 treningssentre sentralt i Oslo. Finn ditt senter her. Gå til innhold. ... Athletica Centrum ligger i Oslo sentrum og har et bredt og variert treningstilbud. ... Athletica Vulkan. Athletica Vulkan tilbyr kondisjons-, ...
+title: Athletica Vulkan - Vulkan Oslo - Vulkan Oslo | Vulkan Oslo
+snippet: SiO Athletica er en del av velferdstilbudet til Studentsamskipnaden i Oslo og Akershus (SiO), og deres formål er å gi studentene ved SiOs medlemsinstitusjoner et studenttilpasset treningstilbud som gir overskudd og energi til studiene. SiO Athletica tilbyr også medlemskap til ikke-studenter. Athletica Vulkan er på 2500 kvm og inneholder:
+title: Athletica Vulkan - Fitness club at Grünerløkka - SiO
+snippet: Welcome to Athletica Vulkan. Athletica Vulkan offers cardio training, ... Vulkan 15, 0178 Oslo . Bigger map. Contact us. 22596950. athletica@sio.no. Personal Trainer? Do you want to get in better shape, get stronger or perhaps improve your swimming technique? Let our PT&#39;s help you.
+title: Athletica Centrum - Treningssenter sentralt i Oslo - SiO
+snippet: Athletica Centrum ligger midt i Oslo sentrum og er et stort treningsstudio med et godt tilbud og varierte gruppetimer. ... athletica@sio.no. Personlig trener? Vil du ha hjelp av til å komme i bedre form, bli sterkere eller kanskje forberede svømmeteknikken? La våre PT-er hjelpe deg.
+title: Priser og medlemsvilkår - Trening - SiO
+snippet: Hvor gammel må jeg være for å få trene hos SiO Athletica? Alle over 18 år kan bli medlem i SiO Athletica. Barn kan ikke være med på trening. Unntaket er på aktiviteter med foresatte som for eksempel når det er familiesvømming og svømmeopplæring for barn. Athletica Vulkan har barnepass i deler av åpningstiden. Se åpningstider her.
+title: Bli medlem av Athletica - SiO
+snippet: Ved å gjennomføre denne registreringen godkjenner du SiO Athleticas kjøpsbetingelser. Du godkjenner lagring av kortopplysningene for å forenkle senere kjøp hos SiO Athletica. Opplysningene lagres kryptert og trygt hos Dibs, godkjent av Visa og MasterCard, og vil aldri utleveres til noen tredjepart.
+title: Athletica vulkan Oslo - 1881.no
+snippet: SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 studiesteder. Hovedoppgaven vår er å tilby deg som er student produkter og tjenester som gjør studiehverdagen effektiv og stimulerende, og bidra til at du trives. Jobben vi gjør skal bidra til at studiestedene våre har de mest attraktive læringsmiljøene i landet.
+title: SIO Athletica Vulkan - Byguide med opplevelser og tilbud i ...
+snippet: Athletica Vulkan tilbyr kondisjons-, gruppe- og styrketrening, og ligger sentralt plassert midt på Grünerløkka, rett ved Mathallen. Stort treningsstudio med variert tilbud av moderne styrke- og kondisjonsapparater, Gruppetreningssaler, Sykkelsal, Eget område for PT-trening, Garderober med badstue, dampbad og kaldkulp, Barnepass.
+
+REL: 3
+POI Name: SATS Skøyen
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: SATS Skøyen – Treningssenter i Oslo - SATS
+snippet: Velkommen til SATS Skøyen! Hos oss kan du trene over 3300 m² fordelt på to plan. Vi har blant annet innendørs sprintbane, boksering, helt nytt treningsutstyr og Hot Yoga Flow.Vi tilbyr også et stort område for funksjonell trening og barnepass i MiniSATS.
+title: SATS Sjølyst – Treningssenter i Oslo - SATS
+snippet: Velkommen til SATS Sjølyst. Hos oss finner du alt du trenger for å komme i form og gjøre noe godt for kropp og sjel. Du kan velge mellom et bredt spekter av trenings– og velværetilbud tilpasset dine ønsker og behov. Kom innom eller ring oss! Parkering. Gratis parkering på plan 3 i hele åpningstiden, samt ettermiddag/helg på plan 4.
+title: Booke gruppetrening på SATS - SATS
+snippet: Book gruppetrening på SATS – book din favorittøkt, ... Oslo Undermeny av. SATS Akersgata. SATS Asker. SATS Bekkestua. SATS Billingstad. SATS Bislett. SATS Bjørvika. ... SATS Skøyen. SATS Solli plass. SATS Spektrum. SATS Storo. SATS Ullevaal Stadion. SATS Vinderen. Rogaland Undermeny av. SATS Bryne.
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: SATS – Trening, helse &amp; livskvalitet - SATS
+snippet: Uansett hvilke mål du har med treningen, har vi kunnskapen som hjelper deg med å nå dem – i tillegg til å ha det gøy på veien!
+title: Personlig trener Navid Mehmood | SATS Skøyen - SATS
+snippet: Begynn med å logge inn på din SATS-profil. Klikk på ‘Har du glemt ditt passord?’ dersom du trenger å få tilsendt et nytt. Deretter kobles din SATS-profil til din Facebook-profil. Du trenger bare å oppgi SATS-passordet ved første innlogging via Facebook, videre kan du logge inn med din Facebook-innlogg.
+title: SATS Sagene – Treningssenter på Sagene / Oslo - SATS
+snippet: Velkommen til SATS Sagene! Vi ligger sentralt på Sagene i den gamle trikkehallen ved Sagene kirke, lett tilgjengelig ved bruk av offentlig transport. Hos oss er det lyst og fint og vi tilbyr to squashbaner, treningsstudio, sone for personlig trening, kondisjonsavdeling og et bredt tilbud innen gruppetrening.
+title: SATS Skøyen, Skøyen, Oslo - 1881.no
+snippet: SATS Skøyen fra Skøyen, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: SATS Sjølyst, Skøyen, Oslo - 1881.no
+snippet: SATS Sjølyst fra Skøyen, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Feelgood Vollebekk AS Trening - Treningssenter – Oslo; Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: SATS Skøyen, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for SATS Skøyen Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+
+REL: 3
+POI Name: Fitness24seven
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Trening &amp; Fitness | Fitness24Seven
+snippet: Hos Fitness24Seven kan du trene når du vil - våre senter er åpne 24/7. Det er derfor vi er det klare valget for deg som liker trening og fitness.
+title: Medlemskap | Fitness24Seven
+snippet: Hos Fitness24Seven teller hver dag, selv om du ikke vil trene hver dag. Begynn reisen din fra BLUE til BLACK medlemskap i dag. 0-3 år BLUE. Det er her det hele starter. Alle medlemmene våre starter med blått medlemskap, men jo lenger du blir, vil du nå nye farger og fordeler.
+title: Finn ditt treningssenter | Fitness24Seven
+snippet: Vi er kanskje et treningssenter, men likevel mener vi at informasjonskapsler er essensielt. Informasjonskapsler hjelper oss med å personalisere vår nettside, analysere dataene og forbedre våre sosiale mediekanaler.
+title: Oslo Storo - Fitness24Seven
+snippet: Oslo Storo. Velkommen til Fitness24Seven og vårt treningssenter på Storo i Grefsenveien 49. Her kan du finne moderne treningsutstyr og frivekter til styrketrening og kardio. Avslutt økten med god uttøying, for bedre restitusjon i et av våre flotte seksjoner. Vi tilbyr også en seksjon av gymmen kun for damer.
+title: Oslo Stortorvet - Fitness24Seven
+snippet: Oslo Stortorvet. Velkommen til Fitness24Seven og vårt treningssenter på Stortorvet i Møllergata 3. Her kan du finne moderne treningsutstyr og frivekter til styrketrening og kardio. Avslutt økten med god uttøying, for bedre restitusjon i et av våre flotte seksjoner. Vi tilbyr også personlig trening, og en seksjon av gymmen kun for damer.
+title: Fitness24Seven, Markveien 35, Oslo (2020)
+snippet: Tren når du vil, hvor du vil! Alle våre medlemskap gir deg 24/7 tilgang til alle våre senter, i alle land. Det er 7 sentre bare i Oslo! Tren når du vil, hvor du vil! Over 150 sentre med ETT kort. Det er 6 seks sentre bare i Oslo
+title: Fitness24seven Grünerløkka, Grünerløkka, Oslo - 1881.no
+snippet: Fitness24seven Grünerløkka fra Grünerløkka, Oslo. Trening - Treningssenter. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Fitness24seven Storo, Nydalen, Oslo - 1881.no
+snippet: Fitness24seven Storo fra Nydalen, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: Fitness24Seven - Home | Facebook
+snippet: Fitness24Seven, Oslo, Norway. 123K likes. Fitness24seven sin offisielle Facebook side! Tren på over 200 senter i 6 land Åpent døgnet rundt Tilgang til alle sentre Jentegym Ingen...
+title: Fitness24Seven - Startside | Facebook
+snippet: Fitness24Seven, Oslo, Norway. 124 k liker dette. Fitness24seven sin offisielle Facebook side! Tren på over 200 senter i 6 land Åpent døgnet rundt Tilgang til alle sentre Jentegym...
+
+REL: 3
+POI Name: SATS Bislett
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: SATS Bislett – Treningssenter i Oslo - SATS
+snippet: Velkommen til SATS Bislett! Senteret er fordelt over tre etasjer og tilbyr det siste innen styrke, kondisjons- og gruppetrening. Tren på egenhånd eller benytt deg av våre dyktige personlige trenere. Vi tilbyr også barnepass. Parkering: Avgiftsbelagt gateparkering på kommunale- eller private parkeringsplasser.
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: SATS – Trening, helse &amp; livskvalitet - SATS
+snippet: Uansett hvilke mål du har med treningen, har vi kunnskapen som hjelper deg med å nå dem – i tillegg til å ha det gøy på veien!
+title: Skreddersy ditt medlemskap - betal kun for det du bruker ...
+snippet: Oslo/Akershus Bergen Grenland Sørlandet Drammen Rogaland Tromsø Hønefoss Lillehammer Østfold *Tilbudet gjelder for 12 måneders bindende medlemskap. Vi spanderer innmeldingsavgiften på kr 200,- som ellers pålegges alle nye innmeldinger. Du får også én måned fri trening. Er du allerede medlem og ønsker å endre ditt medlemskap, klikk ...
+title: Bislett Stadion - tilgang for våre medlemmer | SATS - SATS
+snippet: Inngang til Bislett Stadion er fra Sofies gate. Denne inngangen åpnes kl. 06.30-08.00. Ta med medlemskort som vises ved forespørsel. Våre medlemmer kan benytte seg av garderobe, dusj og WC på Bislett Stadion. Booking. Løpetimene vises på treningsmenyen til SATS Bislett og bookes på vanlig måte selv om oppmøte er på Bislett Stadion.
+title: SATS Akersgata – Treningssenter i Oslo sentrum - SATS
+snippet: På SATS Akersgata tilbyr vi deg et bredt utvalg av gruppetreningstimer, personlig trening og treningskonseptet Prformance™.Det 2900 m² store senteret har toppmoderne treningsutstyr og en egen sone for funksjonell styrketrening, med blant annet kettlebells og monkey bar.
+title: Christer Fonnes - PT i Oslo sentrum på SATS Bislett - SATS
+snippet: Christer er personlig trener på SATS Bislett i Oslo. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: Bislett Blomster
+snippet: Bislett Blomster er en liten, hyggelig og unik butikk som har levert blomster og planter av alle slag i over 30 år. I markeringer der det gjelder enten glede eller sorg, har vakre blomster en stor betydning.
+title: SATS Bislett - Startside | Facebook
+snippet: SATS Bislett, Oslo. 1 994 liker dette · 9 snakker om dette · 18 462 har vært her. SATS Bislett er Oslos beste treningssenter! Senteret er fordelt over tre etasjer og tilbyr det siste innen styrke,...
+title: Morgentrening SATS - Bislett stadion
+snippet: Morgentrening SATS SATS lanserer nye gruppetreningstimer på Bislett Stadion! SATS har inngått avtale om bruk av Bislett stadion før ordinær åpningstid (08:00). Dette vil gi SATSs medlemmer fordelen av eksklusivt bruk av Bislett Stadion hver morgen tirsdag og torsdag fra 06.30 til 08.00.
+
+REL: 3
+POI Name: Crossfit Oslo
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: CrossFit Oslo - Oslo&#39;s største CrossFit-Box
+snippet: Vårt lokale ligger i Nydalsveien 17, 0484 Oslo. Åpningstider: Man-Ons: 06.00 - 22.00 Tors: 06.00 - 21.00 Fre: 06.00 - 20.00 Lør: 07.30 - 17.00 Søn: 08.30 - 18.00
+title: CrossFit Oslo - Nydalen - CrossFit Oslo
+snippet: CrossFit Oslo er et av Nordens største CrossFit-gym og et av Europas eldste. Vi ble et CrossFit affiliate i 2009 og siden 2012 har vi holdt til i våre flotte lokaler ved Akerselva på Nydalen. Vi tilbyr et mylder av timer og aktiviteter, fra morgen til kveld, året rundt.
+title: Timeplan - CrossFit Oslo
+snippet: Under ser du de våre timeplaner. CrossFit Oslo har flere rom der vi gjennomfører gruppetimer, når det er som travlest pågår det opptil 3 timer samtidig – vi gjør vårt beste for å utnytte lokalet slik at alle får trene (mer eller mindre) når de ønsker.
+title: Om oss - CrossFit Oslo
+snippet: CrossFit Oslo er et av Nordens største CrossFit-senter og et av Europas eldste. Vi ble en CrossFit-affiliate i 2009 og siden 2012 har vi holdt til i våre lokaler ved Akerselva på Nydalsveien 17. CrossFit er en treningsform som passer for alle, uavhengig av fysisk form og forutsetninger.
+title: Crossfit Oslo AS - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Crossfit Oslo AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Priser - CrossFit Oslo
+snippet: Deltakelse på alle gruppetimer med instruktør Egentrening på “Open gym“ Gratis digital treningsdagbok: Beyond the Whiteboard 1 måned gjensidig oppsigelsestid (Etter endt binding)
+title: Bli medlem - CrossFit Oslo
+snippet: Dersom du har erfaring med CrossFit fra før kan du bli medlem ved å gjennomføre en screening. Her forutsettes det at du har trent Crossfit over en lengre periode tidligere (minimum 6-12 måneder) og har vært medlem på en Crossfit-box.
+title: Crossfit Oslo AS - Oslo - Regnskap
+snippet: Viser egenkapitalens evne til avkastning inkludert eventuelt utbytte og før ekstraordinære poster og skatt. Dersom ordinært resultat er høyt og / eller egenkapitalen er lav vil dette gi høy avkastning til eierne relativt sett.
+title: Vårt team - CrossFit Oslo
+snippet: På CrossFit Oslo er vi stolte av å ha et av nordens største trenerteam. Alle våre instruktører har sertifiseringen CFL1, det grunnleggende kurset for CrossFit-trenere.
+title: Crossfit Oslo AS - Oslo - Roller og kunngjøringer
+snippet: Crossfit Oslo AS. Crossfit Oslo AS. 994 219 855. Oversikt Regnskap Nøkkeltall Roller og Eiere. Sum driftsinntekter 2018: 13 956&#39; NOK. Driftsresultat 2018: 384&#39; NOK. Ansatte 25. 100%. Ekjord Container AS. Ekjord Container AS. 823 957 092. Oversikt Regnskap Nøkkeltall Roller og Eiere. 100%.
+
+REL: 3
+POI Name: SATS Carl Berner
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: SATS Carl Berner – Treningssenter i Oslo - SATS
+snippet: Velkommen til SATS Carl Berner! Her kan du trene i store, åpne, luftige og lyse lokaler over tre etasjer – med toppmoderne treningsutstyr og en utmerket sone for funksjonell styrketrening, med tilgang til blant annet Kettlebells, Monkey bar og Stakemaskiner.
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: Personlig trener Maya Øverland | SATS Carl Berner - SATS
+snippet: Maya er personlig trener på SATS Carl Berner i Oslo. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: SATS Carl Berner, Sinsen, Oslo - 1881.no
+snippet: SATS Carl Berner fra Sinsen, 101309390S1 - SATS Carl Berner
+title: Knut Molland - PT på Carl Berner på SATS Carl Berner - SATS
+snippet: Knut er personlig trener på SATS Carl Berner i Oslo. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: SATS Carl Berner - 511 Photos - 141 Reviews - Gym/Physical ...
+snippet: SATS Carl Berner, Oslo, Norway. 2.5K likes. Velkommen til SATS Carl Berner – Hos oss finner du alt du trenger for å komme i form og gjøre noe godt for kropp og sjel. Du kan velge mellom et bredt...
+title: SATS Carl Berner - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om SATS Carl Berner. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: SATS Carl Berner, Trondheimsveien 135, Oslo (2020)
+snippet: Velkommen til SATS Carl Berner – Hos oss finner du alt du trenger for å komme i form og gjøre noe godt for kropp og sjel. Du kan velge mellom et bredt spekter av trenings– og velværetilbud tilpasset dine ønsker og behov.
+title: Fresh Fitness Carl Berner - Fresh Fitness
+snippet: Velkommen til Carl Berner - treningssenter i Oslo! Fresh Fitness Carl Berner finner du rett ovenfor postkontoret på Carl Berner og like ved matbutikken på hjørnet, kun 100 meter nedenfor den store rundkjøringen. Gode kollektivforbindelser, bra pris, og fresht miljø.
+title: M-SATS &amp; Strandberg grafisk AS, Carl Berner, Oslo - 1881.no
+snippet: M-SATS &amp; Strandberg grafisk AS fra Carl Berner, 100539361S1 - M-SATS &amp; Strandberg grafisk AS
+
+REL: 3
+POI Name: Fresh Fitness Grønland
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Fresh Fitness Grønland - Fresh Fitness
+snippet: Velkommen til Grønland - treningssenter i Oslo. Fresh Fitness Grønland ligger sentralt på Grønland like ved Kaffebrenneriet, Grønland kirke og blant annet KIWI. For å komme inn på treningssenteret går du inn døren ved veien og går opp til 2. etasje.
+title: Personlig trener - Grønland, Oslo - Fresh Fitness
+snippet: Søk jobb som Personlig trener hos Fresh Fitness Grønland i Oslo. Vi tilbyr en givende jobb i store lokaler med god plass for trening.
+title: Fresh Fitness - Fresh Fitness
+snippet: Bli medlem hos Fresh Fitness, Norges største lavpris treningssenterkjede. Vi tilbyr styrketrening i store frivektsoner, utholdenhetstrening, populære gruppetimer og personlig trener. Medlemskap hos oss koster fra 259 kr per måned uten bindingstid.
+title: Finn senter - Fresh Fitness - Fresh Fitness - Fresh Fitness
+snippet: Finn treningssenter i Oslo, Trondheim, Stavanger, Kristiansand og mer. Fresh Fitness har trening over store deler av Norge og tilbyr billig trening til en lav pris som passer for din lommebok. På alle våre sentre har vi ingen bindingstid. Finn senter her.
+title: Instruktør - Grønland, Oslo - Fresh Fitness
+snippet: Jobb som gruppetimeinstruktør hos Fresh Fitness Grønland i Oslo. Motiverende gruppetimer, freshe medlemmer. Søk jobb som instruktør i dag.
+title: Fresh Fitness Grønland, Grønland, Oslo - 1881.no
+snippet: Fresh Fitness Grønland fra Grønland, Oslo. Trening - Treningssenter
+title: Fresh Fitness Grønland, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Fresh Fitness Grønland Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Informasjon om Fresh Fitness Grønland - Regnskapstall
+snippet: Fresh Fitness Grønland fra Grønland, Oslo. Trening - Treningssenter.
+title: Trening - Treningssenter Grønland - 1881.no
+snippet: Trening - Treningssenter Grønland, Gym, Fitness, Kondisjon, Styrkerom, Vekttrening, Trim, Trimsenter, Treningshall, Treningssenter, Aerobic, Stretching
+title: Fresh Fitness | bedrifter | gulesider.no
+snippet: Fresh Fitness - Finn firmaer, adresser, telefonnumre. Startside Kart Kjørerute. Våre apper. ... 0567 Oslo Vis veibeskrivelse. 22 ... (5) Fresh Fitness Sandefjord www.freshfitness.no. Hegnasletta. 1 3217 SandefjordVis veibeskrivelse. Hvor synlig er din bedrift? Fresh Fitness Grønland www.freshfitness.no. Grønlandsleiret. 25 0190 OsloVis ...
+
+REL: 3
+POI Name: SATS Sagene
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: SATS Sagene – Treningssenter på Sagene / Oslo - SATS
+snippet: Velkommen til SATS Sagene! Vi ligger sentralt på Sagene i den gamle trikkehallen ved Sagene kirke, lett tilgjengelig ved bruk av offentlig transport. Hos oss er det lyst og fint og vi tilbyr to squashbaner, treningsstudio, sone for personlig trening, kondisjonsavdeling og et bredt tilbud innen gruppetrening.
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: SATS – Trening, helse &amp; livskvalitet - SATS
+snippet: Uansett hvilke mål du har med treningen, har vi kunnskapen som hjelper deg med å nå dem – i tillegg til å ha det gøy på veien!
+title: Personlig trener Sandra Instebø | SATS Sagene - SATS
+snippet: Sandra er personlig trener på SATS Sagene på Sagene. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: Trening - Nordens største tilbud - SATS
+snippet: SATS forbeholder seg retten til å kontakte deg med informasjon og tilbud om trening og medlemskap via sms, telefon eller epost. Du kan når som helst kontakte SATS for å endre eller slette informasjonen om deg selv. SATS lagrer informasjonen du oppgir i tre måneder i henhold til personvernsloven og deler ikke informasjonen med tredje part.
+title: Personlig trener Stein Roar Skarvang | SATS Sagene - SATS
+snippet: Stein Roar er personlig trener på SATS Sagene i Oslo. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: SATS Sagene, Sagene, Oslo - 1881.no
+snippet: SATS Sagene fra Sagene, Oslo. Trening - Treningssenter. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Personlig trener Ingrid Gunneng | SATS Sagene - SATS
+snippet: Kontakt meg: Ingrid.gunneng@sats.no Jeg elsker bevegelse i alle dets former om det så er å løfte tungt, klatre i fjellveggen eller å stå på hodet. Målet mitt er å finne ut hva som funker for DEG.
+title: SATS Sagene, Sagene, Oslo - 1881.no
+snippet: SATS Sagene fra Sagene, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Feelgood Vollebekk AS Trening - Treningssenter – Oslo; Condis Økern Trening - Treningssenter – Oslo; Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro ...
+title: SATS Sagene, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for SATS Sagene Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+
+REL: 3
+POI Name: SATS Colosseum
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: SATS Colosseum – Treningssenter i Oslo - SATS
+snippet: 0368 Oslo 23 19 96 30 colosseum@sats.no Midlertidig stengt. Vi må dessverre stenge SATS Colosseum midlertidig da det er sannsynlighet for at en person med koronasmitte har vært innom senteret på torsdag 5/3. Vi gjør nå nødvendige tiltak på senteret. Vi kan foreløpig ikke si ...
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: Personlig trener Kristine Tønnessen | SATS Colosseum - SATS
+snippet: Begynn med å logge inn på din SATS-profil. Klikk på ‘Har du glemt ditt passord?’ dersom du trenger å få tilsendt et nytt. Deretter kobles din SATS-profil til din Facebook-profil. Du trenger bare å oppgi SATS-passordet ved første innlogging via Facebook, videre kan du logge inn med din Facebook-innlogg.
+title: Personlig trener Thea Røddesnes | SATS Colosseum - SATS
+snippet: Kontakt meg: thea.roddesnes@sats.no Med bakgrunn innen fotball, friidrett, håndball og boksing er jeg en allsidig, dedikert og energisk personlig trener som gjerne vil se andre nå målene sine med god planlegging og riktig fremgangsmåte.
+title: Personlig trener Ellen Solhaug | SATS Colosseum - SATS
+snippet: Ellen er personlig trener på SATS Colosseum i Oslo. Bestill PT-time og få hjelp til å nå dine mål for treningen med øvelser og treningsprogrammer spesielt for deg.
+title: SATS Colosseum, Majorstua, Oslo - 1881.no
+snippet: SATS Colosseum fra Majorstua, Oslo. Trening - Treningssenter. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: SATS Colosseum er stengt | Finansavisen
+snippet: Treningskjeden SATS stenger senteret på Colosseum i Oslo midlertidig etter at det er sannsynlighet for at en person med coronasmitte har vært innom torsdag 5. mars. «Vi gjør nå nødvendige tiltak på senteret. Vi kan foreløpig ikke si noe om når vi vil åpne igjen, men du får beskjed så snart vi igjen kan ønske deg velkommen.
+title: Sats må stenge treningssenter i Oslo grunnet coronaviruset ...
+snippet: Sats må stenge treningssenter i Oslo grunnet coronaviruset . Treningskjeden Sats har stengt Sats Colosseum på ubestemt tid fordi det er sannsynlighet for at en person med smitte var innom ...
+title: SATS Colosseum - Posts | Facebook
+snippet: SATS Colosseum, Oslo. 3.8K likes. Velkommen til SATS Colosseum. Hos oss finner du alt du trenger for å komme i form og gjøre noe godt for kropp og sjel. Du kan velge mellom et bredt spekter av...
+title: SATS Colosseum, Middelthunsgate 19, Oslo (2020)
+snippet: Velkommen til SATS Colosseum. Hos oss finner du alt du trenger for å komme i form og gjøre noe godt for kropp og sjel. Du kan velge mellom et bredt spekter av trenings– og velværetilbud tilpasset dine ønsker og behov.
+
+REL: 3
+POI Name: Haralds Gym
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Harald&#39;s Gym - Oslo
+snippet: Hit enter to search or ESC to close. No menu assigned; © 2020 Harald&#39;s Gym.
+title: Haralds Gym - Home | Facebook
+snippet: Haralds Gym, Oslo, Norway. 2,431 likes · 24 talking about this · 4,157 were here. Et av norges mest profilerte og suksessrike gym. Vi har solid utstyr av høy kvalitet og et stort utvalg av...
+title: Waffles | Haralds Vaffel | Oslo
+snippet: Norske tradisjonelle vafler /// Traditional norwegian waffles /// Haralds Vaffel. MENY. SOSIALE MEDIER. HJEMMELEVERING. OPPSKRIFT. Olaf Ryes plass 3, 0552 Oslo ...
+title: Harald&#39;s Gym, Grünerløkka, Oslo - 1881.no
+snippet: Harald&#39;s Gym fra Grünerløkka, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: Gymmen som overlevde - Oslo - Dagsavisen
+snippet: en legende: Mens de andre helsestudioene bukka under utover 80- og 90-tallet, har Harald’s gym kloret seg fast i Hausmanns gate ved Legevakta i Oslo sentrum.
+title: Haralds Gym - Startside | Facebook
+snippet: Haralds Gym, Oslo, Norway. 2 430 liker dette · 6 snakker om dette · 4 156 har vært her. Et av norges mest profilerte og suksessrike gym. Vi har solid utstyr av høy kvalitet og et stort utvalg av...
+title: Haralds Gym, Hausmanns gate 6, Oslo (2020)
+snippet: Et av norges mest profilerte og suksessrike gym. Vi har solid utstyr av høy kvalitet og et stort utvalg av treningsmuligheter med apparater i 2 etasjer. Spør oss gjerne om råd og veiledning for fremgangsrik trening og sunt kosthold. Velkommen innom til en prøvetime.
+title: Harald&#39;s Gym - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Harald&#39;s Gym. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Harald Skjøldt – 2 roller i norsk næringsliv
+snippet: Proff.no gir deg rolleinformasjon om Harald Skjøldt. Se hans roller (2) og relasjoner (0) i næringslivet - og hvilke bransjer Harald Skjøldt er aktiv i.
+
+REL: 3
+POI Name: FitnessRoom Kværnerbyen
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Kværnerbyen - fitnessroom.no
+snippet: FitnessRoom Kværnerbyen Beliggenheten er sentral i Kværnerbyen. FitnessRoom Kværnerbyen ligger i 1.etg i den ærverdige Kværnerhallen. Her finner du oss med inngang fra gateplan med store vinduer ut mot det nye torget kalt Smeltedigelen.
+title: FitnessRoom - Trening: Sandvika, Rykkinn &amp; Kværnerbyen
+snippet: FitnessRoom tilbyr trening uten bindingstid for 359,- Vi har treningssenter i Oslo, Akershus, Bærum, Sandvika, Rykkinn og Kværnerbyen. Treningssenter
+title: FitnessRoom | 359,-/mnd - Trening: Sandvika, Rykkinn ...
+snippet: FitnessRoom Kværnerbyen ligger i 1.etg i den ærverdige Kværnerhallen. Her finner du oss med inngang fra gateplan med store vinduer ut mot det nye torget kalt Smeltedigelen. Lokalet er totaloppusset i juni 2012 og fremstår delikat med tanke på interiør, farger og topp moderne ventilasjon.
+title: Corona - fitnessroom.no
+snippet: FitnessRoom holder midlertidig stengt. Myndighetene har ennå ikke kommet med en ny dato for evt. åpning. Vi vil fryse alle medlemskap i mai hvis vi blir pålagt ytterligere stenging. Vi oppfordrer våre medlemmer til å beholde medlemskapet sitt via frys fremfor å avslutte det. (oppdatert 15.04.2020)
+title: Diana Julio - fitnessroom.no
+snippet: DIANA JULIO Fysisk aktivitet og riktig kosthold har alltid vært en stor del av mitt liv, og for meg er trening synonymt med utfordring, mestring og livsglede.
+title: FitnessRoom Kværnerbyen - Treningssenter - Oslo, Norway ...
+snippet: FitnessRoom Kværnerbyen – Smeltedigelen 1, 0195 Oslo, Norway – Vurderingen 4.7 basert på 33 anmeldelser &quot;Rolig, ryddig og fint senter. Er noe skrøpelig...
+title: FitnessRoom Kværnerbyen - Gym/Physical Fitness Center ...
+snippet: FitnessRoom Kværnerbyen, Oslo, Oslo. 516 likes · 2 talking about this · 1,693 were here. Fast lav pris: kr. 359,- pr mnd. Ingen bindingstid - Ingen innmeldingsavgift - Ingen skjulte gebyrer. Vi har 3...
+title: FitnessRoom Kværnerbyen, Smeltedigelen 1, Oslo (2020)
+snippet: Igår hadde vi en test på FitnessRoom Kværnerbyen der vi skulle teste hvor fort vi klarer å ro 1x500 max for å se hvordan vi ligger an. Personlig trener, Julian Miller ved FitnessRoom Sandvika klarte å bryte den &quot;magiske&quot; grensen på 1:20 på en 500m. ... Hei alle mammaer i permisjon rundt i Oslo.
+title: Fitnessroom Kværnerbyen AS, Sandvika, Bærum - 1881.no
+snippet: Fitnessroom Kværnerbyen AS fra , Viken. Trening - Treningssenter. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Fitnessroom Kværnerbyen AS - Sandvika - Se Regnskap ...
+snippet: Proff.no gir deg bedriftsinformasjon om Fitnessroom Kværnerbyen AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+
+REL: 3
+POI Name: Tøyen Fitnes og Treningssenter
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Tøyen Fitness og Kaffe - Startside | Facebook
+snippet: Tøyen Fitness og Kaffe – Sørligata 8, 0577 Oslo, Norway – Vurderingen 4.7 basert på 42 anmeldelser &quot;Jeg har alltid elsket å trene hos Chocat mitt...
+title: Tøyen Fitness og treningssenter, Tøyen, Oslo - 1881.no
+snippet: Tøyen Fitness og treningssenter fra Tøyen, 100460587S1 - Tøyen Fitness og treningssenter
+title: Tøyen Fitness og Kaffe - Home | Facebook
+snippet: Tøyen Fitness og Kaffe - Sørligata 8, 0577 Oslo, Norway - Rated 4.7 based on 42 Reviews &quot;I have been training with Shoukat for 5 days and I love training...
+title: Trening - Treningssenter Tøyen - 1881.no
+snippet: Trening - Treningssenter Tøyen, Gym, Fitness, Kondisjon, Styrkerom, Vekttrening, Trim, Trimsenter, Treningshall, Treningssenter, Aerobic, Stretching, Pilates
+title: Tøyen Fitness og Treningssenter, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Tøyen Fitness og Treningssenter Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Tøyen Fitness og Treningssenter - Oslo - Se Regnskap ...
+snippet: Proff.no gir deg bedriftsinformasjon om Tøyen Fitness og Treningssenter. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Ti grunner til å dra til Tøyen - Aftenposten
+snippet: Det er Bydel Gamle Oslo og Områdeløft Tøyen i samarbeid med lokale lag— og foreninger som arrangerer festivalen. I fjor var det over 30 bidragsytere fra nærmiljøet som viste frem sitt Tøyen. Her var det blant annet danseworkshop, filmvisning, aktiviteter på Byverkstedet, konserter, loppemarked og mer.
+title: Gymlink | Treningssenter Gamle Olso
+snippet: Vallhall Treningssenter AS Innspurten 2 0663 Oslo 23 06 74 00: Partner Gym Sol og Treningssente r Grønlandsleiret 55, 0190 Oslo 22 17 24 44: Tøyen Fitness og Treningssenter Sørlig. 8, 0577 Oslo 22 68 84 57: Toppform Treningssenter Tvetenv. 4, 0661 Oslo 22 64 13 09
+title: Tøyen Fitness og Kaffe, Sørligata 8, Oslo (2020)
+snippet: På Tøyen Fitness og Kaffe får du personlig eksperthjelp, gode råd om kroppsbygning, kosthold og livet generelt av Shoukat Chengezi. ... Oslo, 0687 . Et treningssenter for hele familien. Her finner du alt av utstyr og apparater du trenger til treningen. Du kan trene kondisjon, styrke, eller kampsport.
+title: Fresh Fitness - Fresh Fitness
+snippet: Bli medlem hos Fresh Fitness, Norges største lavpris treningssenterkjede. Vi tilbyr styrketrening i store frivektsoner, utholdenhetstrening, populære gruppetimer og personlig trener. Medlemskap hos oss koster fra 259 kr per måned uten bindingstid.
+
+REL: 3
+POI Name: Evo Fitness Røa
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Forside • EVO fitness
+snippet: EVO holder midlertidig stengt. Til myndighetene lar oss åpne igjen. I tråd med myndighetenes pålegg, stenger EVO midlertidig alle sine sentre for å unngå spredning av coronaviruset. Vi beklager på det sterkeste de ulempene dette medfører for deg som medlem, samtidig som vi håper på forståelse for dette i den vanskelige situasjonen hele bransjen og …
+title: EVO Røa • EVO fitness
+snippet: Senteret ligger ca.100 meter fra Røakrysset, i retning Holmenkollen/Sørkedalen, på høyre side av veien. *Parkeringshus i kjelleren. Åpningstidene er fra kl. 06 ...
+title: Sentre • EVO fitness
+snippet: FINN DITT SENTER Oslo 11 EVO Sjølyst Karenslyst Allé 12-14, 0278 Oslo, Norge Vis på kart Avstand: 1.7 km EVO Stabekk Gamle Drammensvei 48, 1369 Stabekk, Norge Vis på kart Avstand: 3.5 km EVO Vika Munkedamsveien 20, Sentrum, 0250 Oslo, Norge Vis på kart Avstand: 3.7 km EVO Majorstua Sørkedalsveien 9, 0369 Oslo, Norge Vis […]
+title: https://info.evofitness.no/evo-web-25des2018/
+snippet: OSLO/AKERSHUS. EVO Drøbak. EVO Grünerløkka. EVO Lillestrøm. EVO Majorstua. EVO Nordstrand. EVO Nydalen . EVO Oscarsgate. EVO Røa. EVO Sjølyst. EVO Stabekk. EVO Vika. EVO Østerås. EVO Nannestad. EVO Bryn. EVO SNØ Lørenskog. BUSKERUD. EVO Drammen. EVO Konnerud. VESTFOLD. ... Book time hos en personlig trener på Min EVO når det passer deg;
+title: EVO Fitness - Home | Facebook
+snippet: EVO Fitness - Vækerøveien 207, 0751 Oslo, Norway - Rated 4.3 based on 13 Reviews &quot;Stinker som inni et askebeger. Når jeg snakket om det med...
+
+REL: 3
+POI Name: Fitness24seven
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Trening &amp; Fitness | Fitness24Seven
+snippet: Hos Fitness24Seven kan du trene når du vil - våre senter er åpne 24/7. Det er derfor vi er det klare valget for deg som liker trening og fitness.
+title: Medlemskap | Fitness24Seven
+snippet: Hos Fitness24Seven teller hver dag, selv om du ikke vil trene hver dag. Begynn reisen din fra BLUE til BLACK medlemskap i dag. 0-3 år BLUE. Det er her det hele starter. Alle medlemmene våre starter med blått medlemskap, men jo lenger du blir, vil du nå nye farger og fordeler.
+title: Finn ditt treningssenter | Fitness24Seven
+snippet: Vi er kanskje et treningssenter, men likevel mener vi at informasjonskapsler er essensielt. Informasjonskapsler hjelper oss med å personalisere vår nettside, analysere dataene og forbedre våre sosiale mediekanaler.
+title: Oslo Storo - Fitness24Seven
+snippet: Oslo Storo. Velkommen til Fitness24Seven og vårt treningssenter på Storo i Grefsenveien 49. Her kan du finne moderne treningsutstyr og frivekter til styrketrening og kardio. Avslutt økten med god uttøying, for bedre restitusjon i et av våre flotte seksjoner. Vi tilbyr også en seksjon av gymmen kun for damer.
+title: Oslo Stortorvet - Fitness24Seven
+snippet: Oslo Stortorvet. Velkommen til Fitness24Seven og vårt treningssenter på Stortorvet i Møllergata 3. Her kan du finne moderne treningsutstyr og frivekter til styrketrening og kardio. Avslutt økten med god uttøying, for bedre restitusjon i et av våre flotte seksjoner. Vi tilbyr også personlig trening, og en seksjon av gymmen kun for damer.
+title: Fitness24Seven, Markveien 35, Oslo (2020)
+snippet: Tren når du vil, hvor du vil! Alle våre medlemskap gir deg 24/7 tilgang til alle våre senter, i alle land. Det er 7 sentre bare i Oslo! Tren når du vil, hvor du vil! Over 150 sentre med ETT kort. Det er 6 seks sentre bare i Oslo
+title: Fitness24seven Grünerløkka, Grünerløkka, Oslo - 1881.no
+snippet: Fitness24seven Grünerløkka fra Grünerløkka, Oslo. Trening - Treningssenter. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Fitness24seven Storo, Nydalen, Oslo - 1881.no
+snippet: Fitness24seven Storo fra Nydalen, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: Fitness24Seven - Home | Facebook
+snippet: Fitness24Seven, Oslo, Norway. 123K likes. Fitness24seven sin offisielle Facebook side! Tren på over 200 senter i 6 land Åpent døgnet rundt Tilgang til alle sentre Jentegym Ingen...
+title: Fitness24Seven - Startside | Facebook
+snippet: Fitness24Seven, Oslo, Norway. 124 k liker dette. Fitness24seven sin offisielle Facebook side! Tren på over 200 senter i 6 land Åpent døgnet rundt Tilgang til alle sentre Jentegym...
+
+REL: 2
+POI Name: SATS Spektrum
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: SATS Spektrum – Treningssenter i Oslo sentrum - SATS
+snippet: Velkommen til SATS Spektrum! Vi tilbyr det siste innenfor styrke, kondisjons – og gruppetrening. Vi har også muligheter for å spille squash hos oss. Våre dyktige ansatte hjelper deg i gang med målrettet og effektiv trening. Ønsker du tettere oppfølging anbefaler vi at du trener med en av våre personlige trenere. Book squash her
+title: Treningssenter i Oslo – finn ditt nærmeste senter - SATS
+snippet: Her finner du alle våre treningssentre i Oslo og omegn. Husk at med by-medlemskap kan du dra på trening hvor enn du vil i hele byen, eller du kan velge den litt mindre ambisiøse to-senter-varianten og finne et treningssenter i Oslo sentrum (ved jobben) og ett nær du bor.
+title: SATS – Trening, helse &amp; livskvalitet - SATS
+snippet: Uansett hvilke mål du har med treningen, har vi kunnskapen som hjelper deg med å nå dem – i tillegg til å ha det gøy på veien!
+title: SATS Bjørvika – Treningssenter i Oslo - SATS
+snippet: Velkommen til SATS Bjørvika – et moderne senter med et unikt treningstilbud for deg som jobber like ved, bor i nærheten eller som ellers passerer Bjørvika! Parkering: Nærmeste P-hus ligger på Oslo S.
+title: Personlig trener Jørgen Retteraasen | SATS Spektrum - SATS
+snippet: Kontakt meg: Jorgen.retteraasen@sats.no Mitt navn er Jørgen, jeg har en bachelor i fysisk aktivitet og ernæring. Jeg er en person som liker å lære, elsker å få utfordringer og skal sammen med deg hjelpe til med å nå dine mål.
+title: Personlig trener Erik Haugen | SATS Spektrum - SATS
+snippet: Kontakt meg: erik.haugen@sats.no Jeg har trent hele livet, både styrketrening og utholdenhetstrening.Jeg er veldig opptatt av å hele tiden utvikle meg selv til å bli en bedre trener gjennom å lære nye teknikker, metoder og prosesser rundt trening.
+title: Personlig trener Pia Eliassen | SATS Spektrum - SATS
+snippet: Begynn med å logge inn på din SATS-profil. Klikk på ‘Har du glemt ditt passord?’ dersom du trenger å få tilsendt et nytt. Deretter kobles din SATS-profil til din Facebook-profil. Du trenger bare å oppgi SATS-passordet ved første innlogging via Facebook, videre kan du logge inn med din Facebook-innlogg.
+title: SATS Spektrum - Startside | Facebook
+snippet: SATS Spektrum – Sonja Heniesplass 4, 0185 Oslo, Norway – Vurderingen 4.1 basert på 54 anmeldelser &quot;good gym central good equipment a bit dirty in...
+title: SATS Spektrum - Home | Facebook
+snippet: SATS Spektrum - Sonja Henies plass 4, 0185 Oslo, Norway - Rated 5 based on 5 Reviews &quot;Det triveligste sats senteret i Oslo! &quot;
+title: SATS Spektrum, Oslo Sentrum, Oslo - 1881.no
+snippet: SATS Spektrum fra Oslo Sentrum, 100390146S1 - SATS Spektrum
+
+REL: 2
+POI Name: Fresh Fitness
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Fresh Fitness - Fresh Fitness
+snippet: Bli medlem hos Fresh Fitness, Norges største lavpris treningssenterkjede. Vi tilbyr styrketrening i store frivektsoner, utholdenhetstrening, populære gruppetimer og personlig trener. Medlemskap hos oss koster fra 259 kr per måned uten bindingstid.
+title: Fresh Fitness Norge - Startside | Facebook
+snippet: Fresh Fitness Norge, Oslo, Norway. 53 434 liker dette · 34 snakker om dette · 117 610 har vært her. Vårt medlemssenter er midlertidig stengt til 14. april. Vi kan derfor ikke garantere svar på dine...
+title: Fresh Fitness AS, Nydalen, Oslo - 1881.no
+snippet: Fresh Fitness AS fra Nydalen, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Condis Økern Trening - Treningssenter – Oslo; Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept. Det kombinerer yogaens fleksibilitet og ro m…
+title: Fresh Fitness Norge - Home | Facebook
+snippet: Fresh Fitness Norge, Oslo, Norway. 53,444 likes · 65 talking about this · 117,623 were here. Vårt medlemssenter er midlertidig stengt til 14. april. Vi kan derfor ikke garantere svar på dine...
+title: Fresh Fitness AS - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Fresh Fitness AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Fresh Fitness Majorstuen, Majorstua, Oslo - 1881.no
+snippet: Fresh Fitness Majorstuen fra Majorstua, 103850074S1 - Fresh Fitness Majorstuen
+title: Trening &amp; Fitness | Fitness24Seven
+snippet: Hos Fitness24Seven kan du trene når du vil - våre senter er åpne 24/7. Det er derfor vi er det klare valget for deg som liker trening og fitness.
+
+REL: 2
+POI Name: Husken i Bergstien 2
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Playgrounds, Local Flavor, 
+Snippets:
+title: Bergstien (Oslo) – Wikipedia
+snippet: Bergstien (5-17, 2-16) er en gate i bydel St. Hanshaugen i Oslo. Den går fra Akersbakken ved Vår Frelsers gravlund til Geitmyrsveien ved St. Hanshaugen. Gaten består i hovedsak av leiegårdsbebyggelse. Gatene som krysser Bergstien, er Waldemar Thranes gate, Fredrikke Qvams gate og Bjerregaards gate.
+title: Oslo Bergstien 2A - gatebilder - Gule Sider
+snippet: Oslo Bergstien 2A - se gatebilder på Gule Siders kart. Nettstedet bruker cookies Noen brukes til statistikk og andre av tredjeparts tjenester. Ved å klikke &quot;OK&quot; godtar du bruken av cookies.
+title: Bergstien 2A, 0172 Oslo på 1881 kart
+snippet: Kart og flyfoto over Bergstien 2A, 0172 Oslo fra 1881
+title: Synagogen i Bergstien – lokalhistoriewiki.no
+snippet: Synagogen i Bergstien er gudshuset til Det mosaiske trossamfund i Oslo, altså den jødiske menigheten i hovedstaden. Den ble innvia i 1920, ark. Herman Herzog, og ligger i Bergstien 15, ved siden av menighetslokalene i Bergstien samfunnshus.Synagogen har plass til 340 personer, fordelt på 200 på grunnplanet og 140 på galleriet, normalt fordelt med menn på grunnplanet og kvinner på galleriet.
+title: Bergstien (Oslo) – lokalhistoriewiki.no
+snippet: Bergstien (Oslo) Fra lokalhistoriewiki.no. Hopp til navigering Hopp til søk. Motiv fra Bergstien i Oslo, nær Vår Frelsers gravlund. Foto: Stig Rune Pedersen (2014) Bergstien i Oslo, bilde tatt i sørlig retning mot Waldemar Thranes gate. Synagogen i nr. 15 på venstre side.
+title: Yr – Værvarsel for Bergstien, Oslo (Oslo)
+snippet: Værvarsel for 9,3 millioner steder i verden! Neste uke fortsetter Ã¥ by pÃ¥ mye fint vÃ¦r i SÃ¸r-Norge?. I Nordland avtar etter hvert bygeaktiviteten, mens den dessverre vil holde seg stort sett uforandret lenger nord.
+title: - Var mennesker i synagogen bare en time før skuddene ...
+snippet: Hun forklarte at det var mennesker i synagogens samfunnshus - der det ble skutt - bare en time før skuddene falt. Med et automatgevær ble det avfyrt minst 13 skudd mot synagogen.
+title: Sameiet Bergstien 8 - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Sameiet Bergstien 8. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: - Bergstien 2 0172 oslo - veibeskrivelse på kart
+snippet: - Bergstien 2 0172 oslo - planlegg din reise på Gule Siders kart.
+title: Alle sykehjem - Sykehjem - Oslo kommune
+snippet: Alle sykehjem og helsehus i Oslo er stengt for besøkende Det kan gjøres unntak. Dette må avtales med institusjonen det gjelder.
+
+REL: 2
+POI Name: Alexandria
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Pubs, 
+Snippets:
+title: Alexandria Musikkbar (Oslo, Norge) - Anmeldelser - Tripadvisor
+snippet: Alexandria Musikkbar, Oslo: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Alexandria Musikkbar i Oslo, Norge på Tripadvisor.
+title: Facebook
+snippet: Se innlegg, bilder med mer på Facebook.
+title: Fly Oslo - Alexandria | OSL - ALY | Expedia.no
+snippet: Når du ser etter fly fra Oslo (OSL) til Alexandria (ALY), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Oslo til Alexandria.
+title: Hotel Alexandra i Loen | Et tradisjonsrikt hotell i Loen ...
+snippet: Hotel Alexandra er eit tradisjonsrikt og familiedrive hotell i Stryn i Indre Nordfjord. Alexandra er kjend for si særeigne og personlege atmosfære. Loen byr på fantastisk natur og utflukter i imponerande omgjevnader!
+title: Alexandria, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Alexandria Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Billige flyreiser Alexandria - Oslo - Jetcost
+snippet: Fly Alexandria - Oslo: Søk og bestill billige flybilletter fra Alexandria til Oslo. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Fly Oslo - Alexandria - Borg El Arab: Bestill hos Travellink
+snippet: Leter du etter billige fly fra Oslo til Alexandria - Borg El Arab? Stol på Travellink og søk etter restplass-tilbud på fly, gode reisetips og mye mer!
+title: Billige flybilletter fra Alexandria til Oslo Gardermoen ...
+snippet: Finn flyreiser fra Alexandria til Oslo Gardermoen med www.skyscanner.no Vi tilbyr en gratis søketjeneste der du kan billige flybilletter fra alle de store flyselskapene fra Alexandria til Oslo Gardermoen. Du kan se statistikk over flyreiser fra Alexandria til Oslo Gardermoen nedenfor, som for eksempel gjennomsnittlig reisetid og antall mil.
+title: Restaurant - Hotel Alexandra
+snippet: Hotel Alexandra. Lodalsvegen 22, 6789 Loen. Søk. Meld deg på nyheitsbrevet vårt
+title: Billige flyreiser Oslo - Alexandria - Jetcost
+snippet: Flybilletter fra Oslo til Alexandria. Planlegg den neste reisen din enkelt og spar penger! Skriv inn datoen for flyreisen din, og sammenlign, med bare ett klikk, de beste flytilbudene fra de store flyselskapene og reisebyråene på nettet fra Oslo til Alexandria.Ikke gå glipp av sjansen til å spare: finn billige flyreiser fra Oslo til Alexandria med Jetcost.
+
+REL: 2
+POI Name: Fresh Fitness Ryen
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Fresh Fitness Ryen - Fresh Fitness
+snippet: Velkommen til Ryen. Fresh Fitness Ryen treningssenter i Oslo finner du i samme bygning som Bunnpris. Dyktige personlige trenere og flotte gruppetimer. Medlemskap fra kun 249 kr pr/mnd. Alltid uten bindingstid. Kjører du bil? Vi har gratis parkering.
+title: Fresh Fitness - Fresh Fitness
+snippet: Bli medlem hos Fresh Fitness, Norges største lavpris treningssenterkjede. Vi tilbyr styrketrening i store frivektsoner, utholdenhetstrening, populære gruppetimer og personlig trener. Medlemskap hos oss koster fra 259 kr per måned uten bindingstid.
+title: Personlig trener - Ryen, Oslo - Fresh Fitness
+snippet: Søk jobb som Personlig trener hos Fresh Fitness Ryen i Oslo. Vi tilbyr en givende jobb i store lokaler med god plass for trening.
+title: Finn senter - Fresh Fitness
+snippet: Finn treningssenter i Oslo, Trondheim, Stavanger, Kristiansand og mer. Fresh Fitness har trening over store deler av Norge og tilbyr billig trening til en lav pris som passer for din lommebok. På alle våre sentre har vi ingen bindingstid. Finn senter her.
+title: Instruktør - Ryen, Oslo - Fresh Fitness
+snippet: Jobb som gruppetimeinstruktør hos Fresh Fitness Ryen i Oslo. Motiverende gruppetimer, freshe medlemmer. Søk jobb som instruktør i dag.
+title: Fresh Fitness Ryen, Ryen, Oslo - 1881.no
+snippet: Fresh Fitness Ryen fra Ryen, Oslo. Trening - Treningssenter
+title: Trening - Treningssenter Ryen - 1881.no
+snippet: Trening - Treningssenter Ryen, Gym, Fitness, Kondisjon, Styrkerom, Vekttrening, Trim, Trimsenter, Treningshall, Treningssenter, Aerobic, Stretching, Pilates
+title: Fresh Fitness Norge - Home | Facebook
+snippet: Fresh Fitness Norge, Oslo, Norway. 53,444 likes · 65 talking about this · 117,623 were here. Vårt medlemssenter er midlertidig stengt til 14. april. Vi kan derfor ikke garantere svar på dine...
+title: Fresh Fitness Ryen - Oslo, Norway - Gym/Physical Fitness ...
+snippet: Fresh Fitness Ryen, Oslo, Norway. 8 likes · 161 were here. Gym/Physical Fitness Center
+title: Fresh Start AS, Ryen, Oslo - 1881.no
+snippet: Fresh Start AS fra Ryen, Oslo. Næringsmidler - Produksjon. Semper AS Semper er den ledende aktøren i Norden innenfor kategorien av barnemat og glutenfritt. Vår årlige omsetnin… Orkla Foods Norge AS Næringsmidler - Produksjon – Oslo
+
+REL: 2
+POI Name: Bare Trening
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Bare Trening - best på pris
+snippet: Du vil nå bli sendt videre til Bare Trening&#39;s medlemssider, Gymtech. Her kan du bli medlem, administrere medlemskapet ditt og sjekke din treningsstatus. ... Årets PT Elixia Ccvest i Oslo i 2012, 8 års erfaring som Personlig trener, gruppe instruktør, online coaching og CrossFit instruktør .
+title: Våre sentre - Bare Trening
+snippet: Du vil nå bli sendt videre til Bare Trening&#39;s medlemssider, Gymtech. Her kan du bli medlem, administrere medlemskapet ditt og sjekke din treningsstatus. Trykk riktig link under for å melde deg inn på ditt lokale treningssenter/på det senteret du kommer til å trene mest.
+title: Bare Trening Sinsen - Bare Trening
+snippet: Du vil nå bli sendt videre til Bare Trening&#39;s medlemssider. Her kan du bli medlem, administrere medlemskapet ditt og sjekke din treningsstatus. Bare Trening Haugerud. ... Trondheimsveien 137, 0570 Oslo, Norway. Våre treningssentre. Bare trening Grimstad. Bare trening Haugerud. Bare trening Kalbakken. Bare trening Lier. Bare trening Lillesand.
+title: Bare Trening Haugerud
+snippet: Du vil nå bli sendt videre til Bare Trening&#39;s medlemssider, Gymtech. Her kan du bli medlem, ... Haugerudsentret 1-7, 0673 Oslo. Våre treningssentre. Bare trening Grimstad. Bare trening Haugerud. Bare trening Kalbakken. Bare trening Lier. Bare trening Lillesand. Bare trening Romsås.
+title: Spørsmål / kontakt - Bare Trening
+snippet: Bare Trening Søgne. no. en. Facebook Min Side . Hjem Våre sentre Priser / Betingelser Spørsmål / Kontakt PT / Trening Om Bare Trening Hjem ... Bare Trening AS. Postboks 4317, Nydalen, 0402 Oslo. org.nr. 995594064 . Sinsen, Lier, Haugerud og Kalbakken: Servicetelefonen er åpen mandag og onsdag kl 10 - 14.
+title: Bare Trening - Startside | Facebook
+snippet: Bare Trening, Oslo, Norway. 4 273 liker dette · 4 snakker om dette. Tren for kun 249/måned, ingen bindingstid!
+title: Bare Trening Haugerud, Haugerud, Oslo - 1881.no
+snippet: Bare Trening Haugerud fra Haugerud, Oslo. Trening - Treningssenter
+title: Bare Trening Kalbakken - Startside | Facebook
+snippet: Bare Trening Kalbakken – Trondheimsveien 391, 0953 Oslo, Norway – Vurderingen 4.3 basert på 111 anmeldelser &quot;Top of the line facility with a multitude of...
+title: Bare Trening - Posts | Facebook
+snippet: Bare Trening, Oslo, Norway. 4,276 likes · 6 talking about this. Tren for kun 249/måned, ingen bindingstid!
+title: Bare Trening Sinsen - Home | Facebook
+snippet: Bare Trening Sinsen, Oslo, Norway. 531 likes · 2,439 were here. Tren når det passer deg, åpent 5 - 24 hver dag! www.baretrening.no
+
+REL: 2
+POI Name: Fresh Fitness Ensjø
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Fresh Fitness Ensjø - Fresh Fitness
+snippet: Velkommen til treningssenteret på Ensjø, Oslo. Fresh Fitness Ensjø finner du et steinkast fra Ensjø t-banestasjon og REMA 1000. Treningssenteret ligger i 2. etasje over matbutikken KIWI. Medlemskap fra kun 249 kr pr/mnd, 299 kr pr/mnd inkluderer gruppetimer.
+title: Fresh Fitness - Fresh Fitness
+snippet: Bli medlem hos Fresh Fitness, Norges største lavpris treningssenterkjede. Vi tilbyr styrketrening i store frivektsoner, utholdenhetstrening, populære gruppetimer og personlig trener. Medlemskap hos oss koster fra 259 kr per måned uten bindingstid.
+title: Personlig trener - Ensjø, Oslo - Fresh Fitness
+snippet: Søk jobb som Personlig trener hos Fresh Fitness Ensjø i Oslo. Vi tilbyr en givende jobb i store lokaler med god plass for trening.
+title: Instruktør - Ensjø, Oslo - Fresh Fitness
+snippet: Jobb som gruppetimeinstruktør hos Fresh Fitness Ensjø i Oslo. Motiverende gruppetimer, freshe medlemmer. Søk jobb som instruktør i dag.
+title: Finn senter - Fresh Fitness - Fresh Fitness - Fresh Fitness
+snippet: Finn treningssenter i Oslo, Trondheim, Stavanger, Kristiansand og mer. Fresh Fitness har trening over store deler av Norge og tilbyr billig trening til en lav pris som passer for din lommebok. På alle våre sentre har vi ingen bindingstid. Finn senter her.
+title: Fresh Fitness Ensjø, Ensjø, Oslo - 1881.no
+snippet: Fresh Fitness Ensjø fra Ensjø, Oslo. Trening - Treningssenter
+title: Fresh Fitness Ensjø, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Fresh Fitness Ensjø Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Personlig trener - Fresh Fitness Ensjø - Oslo
+snippet: Personlig trener - Fresh Fitness Ensjø - Oslo. Fresh Fitness A/S Nordre Aker. Søk på bedriftens nettsted. Personlig trener - Fresh Fitness Ensjø - Oslo Fresh Fitness A/S Nordre Aker for 2 måneder siden Bli en av de 25 første søkerne. Se hvem Fresh Fitness A/S har ansatt i denne stillingen.
+title: Fresh Fitness Norge - Home | Facebook
+snippet: Fresh Fitness Norge, Oslo, Norway. 53,444 likes · 65 talking about this · 117,623 were here. Vårt medlemssenter er midlertidig stengt til 14. april. Vi kan derfor ikke garantere svar på dine...
+title: Fresh Fitness Ensjø - Gamlebyen - Oslo, Norway
+snippet: Fresh Fitness Ensjø in Oslo, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Oslo and beyond.
+
+REL: 2
+POI Name: Holmlia Gym
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Lia Trening - Ditt lokale treningssenter Holmlia
+snippet: Lia Trening tilbyr et variert og bredt utvalg av treningstilbud med spinning, gruppetimer, styrke og kondisjon. Vi er ditt lokale treningssenter Holmlia
+title: Holmlia Gym - Treningssenter - Oslo, Norway - 1 anmeldelse ...
+snippet: Holmlia Gym, Oslo. 108 liker dette · 379 har vært her. Treningssenter
+title: Holmlia Gym DA, Holmlia, Oslo - 1881.no
+snippet: Holmlia Gym DA fra Holmlia, Oslo. Trening - Treningssenter. Studentsamskipnaden i Oslo og Akershus (SiO) SiO er studentsamskipnaden i Oslo og Akershus, og samskipnad for 26 stu… Imperia Gym AS Trening - Treningssenter – Oslo; Skullerud sport senter AS Trening - Treningssenter – Oslo; Gyrotonic Oslo Gyrotonic er et revolusjonerende nytt bevegelseskonsept.
+title: Silje Solbakken - Actic Norge
+snippet: Actic, Holmlia Oslo. Du er her: Actic / Treningssenter / Gym Oslo / Private: Holmlia / Personal / Silje Solbakken. Personlig trener Silje Solbakken. Som fysioterapeut og personlig trener er jeg opptatt avat du skal oppleve treningsglede og mestringsfølelse gjennom variert og utfordrende trening.
+title: Actic Holmlia Bad, Holmlia, Oslo - 1881.no
+snippet: Actic Holmlia Bad fra Holmlia, Oslo. Trening - Treningssenter
+title: Holmlia Gym, Ravnåsveien 1, Oslo (2020)
+snippet: Hjem &gt; Norge &gt; Oslo &gt; Holmlia Gym . Holmlia Gym . Gym i nærheten. Norsk Maritim Kveldsskole Ravnåsveien 3b . Lia Trening Holmlia Senter vei 1B . Holmlia Yoga Holmlia sentervein 20 . Oslo Akupunktur og Qigongsenter Holmlia senterv 20 . Gratis trening på Holmlia eller der du er akkurat n ...
+title: Holmlia bad - Svømmehaller i Oslo - Oslo kommune
+snippet: Holmlia senter vei 34, 1255 OSLO. Svømmehall med 25-meters basseng, plaskebasseng og badstue. Bassengene holder en temperatur 28 grader i vannet. ... Oslo kommunes kontaktsenter - åpningstider og priser. Finn en ansatt. Skriv til oss - pålogging med ID-porten. Ring 21 80 21 80.
+title: Holmlia Gym DA, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Holmlia Gym DA Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Holmlia skole - Logg inn på Skoleplattform Oslo
+snippet: Oslo kommune tar sikte på å starte en gradvis og kontrollert gjenåpning av barnehager fra 20. april og skoler fra 27. april. Logg inn på Skoleplattform Oslo. Elever og ... Jobb på Holmlia. Ledige stillinger. Språkfag og valgfag. Språkfag. Valgfag skoleåret 2018/2019.
+title: Holmlia senter fysioterapi - Fysioterapi - Oslo kommune
+snippet: Holmlia senter fysioterapi Helsedirektoratet stenger ulike behandlingstilbud Fra og med mandag 16. mars vedtok Helsedirektoratet å stenge offentlige og private virksomheter som har nærkontakt med brukere, slik som fysioterapeuter, kiropraktorer, logopeder, psykologer med mer, med mindre virksomheten kan ivareta helsemyndighetenes pålegg om smittevern.
+
+REL: 2
+POI Name: Bordtennisbordene i Sofienbergparken
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Active Life, 
+Snippets:
+title: Sofienbergparken og Kråkeslottet barnehage - Oslo kommune
+snippet: Sofienbergparken og Kråkeslottet har felles opptakssystem. Dersom du skal søke plass i Kråkeslottet barenhage, søker du derfor via Sofienbergparken barnehage. Når du har blitt tildelt plass kan du sende en forespørsel om hvor du ønsker plass til sofienbergparken.bhe@gmail.com.
+title: Alle gjenbruksstasjoner - Avfall og gjenvinning - Oslo kommune
+snippet: Åpningstider, adresser og hva du kan levere. Store gjenbruksstasjoner og hageavfallsmottak er åpne. Vi forventer fortsatt køer fordi vi slipper inn færre biler enn normalt.
+title: Nyheter | Har ikke råd
+snippet: Bordtennisbordene i Sofienbergparken er ødelagt av hærverk. Bydelen har ikke lenger råd til å reparere dem.
+title: Oslo – Store norske leksikon
+snippet: Oslo er Norges hovedstad og største by, og dessuten en av de eldste byene i landet. Oslo utgjør også en kommune og et fylke og ligger innerst i Oslofjorden, med bysenteret innerst i de to vikene Pipervika og Bjørvika. Bysenteret omfatter også området mellom disse vikene og det tilstøtende området like nordenfor. Tettstedet Oslo (som også omfatter områder i de tilstøtende kommunene ...
+title: Sofienbergparken – Wikipedia
+snippet: I den østlige delen, som kalles Hundeparken, ligger Sofienbergparken barnehage. I parken har det vært skøytebane om vinteren (opplysning om 1990-tallet). Nord for kirken ligger en kommunal gjenbruksstasjon for spesialavfall, åpnet i 2001. Sofienbergparken er en av de mest brukte parkene i Oslo.
+title: To brødre dømt for drapsforsøk i Sofienbergparken i Oslo ...
+snippet: To brødre dømt for drapsforsøk i Sofienbergparken i Oslo Et brødrepar i 20- og 30-årene er i lagmannsretten dømt til sju års fengsel for drapsforsøk etter at en mann ble stukket i ...
+title: Sofienberghjemmet - Kirkens Bymisjon
+snippet: Sofienberghjemmet ligger sentralt i Oslo. Med Sofienbergparken rett utenfor døren, kan vi året rundt se og oppleve de ulike årstidene og det yrende livet på Grünerløkka. «Det åpne sykehjemmet» hos Kirkens Bymisjon tar utgangspunkt i et helhetlig syn på personens fysiske, psykiske, sosiale og åndelige behov gjennom livet.
+title: De dødes plass på Grünerløkka - Oslo
+snippet: Solbaderne i Sofienbergparken er kanskje ikke klar over at under dem ligger omkring 60.000 døde, fra den gang parken var kirkegård.
+title: Slåsskamp i Sofienbergparken i Oslo – Document
+snippet: Politiet fikk tirsdag kveld melding om at flere unge menn var involvert i en slåsskamp i Toftes gate ved Sofienbergparken i Oslo. – Da vi kom til fram, kom vi i kontakt med fire personer, og en machete ble funnet på stedet.
+title: Velkommen til et annerledes dyreliv - midt i Oslo! | Oslo ...
+snippet: Reptilpark i Oslo sentrum, med øgler, slanger, krokodille, aper, fisk, frosk, edderkopper, skorpioner og insekter. Mulighet for en rekke arrangementer.
+
+REL: 2
+POI Name: Viking Biking
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Bike Rentals, Bike tours, Bike Repair/Maintenance, 
+Snippets:
+title: Welcome to Viking Biking Oslo - Viking Biking
+snippet: Click here for more information about Oslo Winter Highlights. ADDITIONAL INFORMATION Please arrive at the Viking Biking shop at least 15 minutes before the start of the tour. All tours include optional helmet. Water, energy bars, rain poncho and souvenirs available for purchase in the Viking Biking shop.
+title: BIKING - Viking Biking
+snippet: Biking in Oslo mean Experiencing nature. Let us show you the parks, forests, coastline, fjords and more with Viking Biking in Oslo .
+title: Bike Tour: Oslo off the beaten path - Viking Biking
+snippet: Viking Biking can offer Private Bike tours or rentals for groups of any size. Whether you want to take one of our four standard tours, create a personalized bike tour for your group, or rent the bikes to discover the city on your own, we can create an experience you will never forget.
+title: Bike Rentals - Viking Biking - Welcome to Viking Biking Oslo
+snippet: By renting with Viking Biking, you not only get a high quality rental bike, but a full package of included extras such as an optional helmet and lock. Our best-in-Oslo bike map with specific route descriptions is also available for purchase in our shop for only 25 kroner.
+title: Viking Biking &amp; Viking Hiking (Oslo) - 2020 All You Need ...
+snippet: Oslo, recent winner of the EU&#39;s European Green Capital Award, is best discovered when active and outdoors. Explore all the places a bus cannot: take a bike tour and cycle through the Royal Palace Gardens or next to rushing waterfalls in the downtown; rent a bike and make your way to the various beaches along the coast; hike among the hills and lakes in Europe&#39;s largest urban forest; or isl
+title: Viking Biking AS, Oslo Sentrum, Oslo - 1881.no
+snippet: Viking Biking AS fra Oslo Sentrum, 103693122S1 - Viking Biking AS
+title: Viking Biking - Norway
+snippet: With Viking Biking you can experience Oslo on a bike – either on a guided tour or on a rented bicycle. Guided bicycle tours Between April and November, Viking Biking offers daily tours with English-speaking tour guides. Reservations are not necessary, but recommended. All prices include bike and helmet rental. Participants should be at Viking Biking&amp;#39;s office at least 15 minutes before ...
+title: Viking Biking - visitnorway.no
+snippet: Med Viking Biking kan du oppleve Oslo fra sykkelsetet, enten på en guidet tur eller på egen hånd. Guidede sykkelturer Du kan selv velge om du vil delta på en åpen gruppetur eller bestille en privat sykkeltur med guide. Privatturer kan skreddersys etter dine ønsker – kontakt Viking Biking for mer info.
+title: Viking Biking &amp; Viking Hiking (Oslo, Norge) - Anmeldelser
+snippet: Viking Biking &amp; Viking Hiking, Oslo: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Viking Biking &amp; Viking Hiking i Oslo, Norge på Tripadvisor.
+title: The Viking Ship Museum - Museum of Cultural History
+snippet: See the world&#39;s best preserved viking ships up close: Gokstad, Tune- and Oseberg, ... The Cultural History Museum in Oslo is a research museum with extensive activities. ... Accessibility and facilities at Viking Ship Museum. The building has two floors.
+
+REL: 1
+POI Name: Smageriet
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Chocolatiers & Shops, Coffee & Tea, Cafes, 
+Snippets:
+title: Smageriet, Lilleakerveien 16, Oslo (2019)
+snippet: Smageriet søker deltidsansatt . Smageriet søker deltidsansatt . Smageriet er en butikk som i hovedsak selger kaffe, te og konfekt i løsvekt. Vi fører også merkevarer som Greengate, Pip Home med flere. Vi søker deltidshjelp for to år med mulighet for forlengelse. Vi søker deg som - er over 19 år
+title: www.yelp.no
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Smageriet - 22731112
+snippet: Smageriet har besøksadresse Lilleakerveien 16, 0283 Oslo. Selskapets firmanavn i Brønnøysundregisteret er Holum Måseide.&lt;br/&gt;&lt;br/&gt;Få tilsendt kontaktopplysninger, kart og veibeskrivelse for Holum Måseide gratis til din mobil. Fyll inn ditt mobilnummer i feltet til høyre på denne siden og trykk &quot;Send&quot;. Informasjonen blir tilsendt i løpet av sekunder sammen med en mulighet til
+title: UTSALGSSTEDER – Guri Schanke
+snippet: OSLO: GlasMagasinet Stortovet Christiania Glasmagasin (Lille Grensen) Smageriet CC-Vest Same ol Story (Tåsen) Daisy (Vinderen) Naturales i Skovveien
+title: CC Vest - Startside | Facebook
+snippet: CC Vest, Oslo, Norway. 8 723 liker dette · 156 snakker om dette · 5 088 har vært her. CC Vest er et moderne kjøpesenter med fokus på god service og en behagelig handleopplevelse. Vi har et bredt...
+title: BUTIKKOVERSIKT ÅPNINGSTIDER
+snippet: lilleakerveien 16, 0283 oslo informasjon 22 73 63 50 www.ccvest.no BUTIKKOVERSIKT kjære kunde Om du har vært hos Niwa eller Mats &amp; Martin og skal hente bilen etter at senteret er stengt, følger du denne guiden. p-hus nord (Fargekode GUL eller RØD) Ta heisen ned til U2/U3 og gå kjørerampen opp dersom bilen står i U1.
+title: Smageriet v/Holum Måseide – Jobbmuligheter og ledige ...
+snippet: Smageriet v/Holum Måseide Profil. Registrer deg i CV-database Legg til i jobbønsker Smageriet er en ... I tillegg er Rømskog kommune i Østfold og de tre nordligste bydelene i Oslo; Alna, Grorud og Stovner, en del av vårt sykehusområde.
+title: Smageriet - Chocolate Shop in Oslo
+snippet: 1 visitor has checked in at Smageriet. Chocolate Shop in Oslo, Oslo. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, ...
+title: Heimdal Chokolade
+snippet: Smageriet, CC Vest, Oslo Narvesen, Oslo S Lille Special, Fredrikstad Godsaker, Kongsberg Silkevippa, Vinje Sjokoladebutikken, Trondheim Monica`s Godteri, Bod ...
+title: Renée Mari - Oslo, Oslo, Norway | Professional profil ...
+snippet: Smageriet. jan. 2012 – aug. 2012 8 måneder. Oslo Area, Norway. Utdanning. Hult International Business School. Hult International Business School Bachelor’s Degree. 2012 – 2015. Språk. Norwegian Morsmål eller tospråklig kompetanse. English Komplett profesjonell kompetanse.
+
+REL: 1
+POI Name: Pizza Ricetta
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+title: Pizza Ricetta
+snippet: avd 1: ( Ringnespark ) Toftes gate 15a 0556 OSLO, Tlf: 22 350 400 avd 2: ( Alexander kjellansplass ) Waldemar Thranes gate 86 0175 oslo.
+title: Pizza Ricetta - Oslo - Pizza - www.ricettapizza.no
+snippet: Her finner du nettmenyen til Pizza Ricetta i Oslo. Velg fra vår meny og bestill take away for levering!
+title: Take away fra Pizza Ricetta Oslo | foodora
+snippet: Pizza Ricetta. Pizza Ricetta kan pizza! Her får du deilig, italiensk pizza som virkelig gir deg vann i munn. Hos denne restauranten kan du velge mellom tradisjonell italiensk pizza og gourmet pizza med spennende topping. Dette pizzastedet er superpopulært blant pizza-elskere i Oslo, og befinner seg i Waldemar Thranes Gate. Er det pizza du vil ha?
+title: Pizza Ricetta, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Pizza Ricetta, Oslo: Se 13 objektive anmeldelser av Pizza Ricetta, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 776 av 1 449 restauranter i Oslo.
+title: Den beste pizzaen i Oslo - Tripadvisor
+snippet: Beste pizzarestauranter i Oslo, Norge: Se anmeldelser fra reisende og bilder av pizzasteder i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor. Oslo. Turisme i Oslo Hotell i Oslo Bed and Breakfast i Oslo Pakkereiser til Oslo Flyreiser til Oslo ... Pizza i Oslo Vis kart
+title: Pancetta Pizza – Oslo
+snippet: Utarbeidet daglig fersk pizza saus med en hemmelig oppskrift Lille Italia. Vi bringer Italia til deg. Hot Og Spicy. En ubeskrivelig smak av varme sauser og mange andre spesielle sauser venter på deg. Vår Smak. Vi vil gjerne se deg i våre filialer for å få informasjon om våre ...
+title: Pizza Ricetta, A. Kiellands plass — Restaurantguiden fra ...
+snippet: Lite takeaway-sted for pizza ved A. Kiellands plass. Populært blant beboere i området. Restaurantguiden fra Aftenposten Søk. Alle typer mat. Velg hva du vil spise Ok. Hele Oslo. Velg område Ok. Spesielle krav. Spesielle krav Ok. Prisnivå. Prisnivå Ok. Søk. eller. Pizza Ricetta.
+title: Take away fra Pizza Ricetta Lørenskog Sentrum Lillestrøm ...
+snippet: Ricetta. Pizza med italienske kjøttboller, skinke, paprika, rødløk og chilli. fra kr 115,00 Barbeque. Pizza med marinert biff, BBQ-saus, tomat og rødløk. fra kr 115,00 Torino. Pizza med marinert kylling og cashewnøtter. ... Levering Oslo Levering Bergen Levering Stavanger
+title: Pizza Ricetta, Adamstuen — Restaurantguiden fra Aftenposten
+snippet: Lite pizzasted på Adamstuen. — Les mer i Restaurantguiden fra Aftenposten.
+title: Pizza Ricetta, Oslo - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Pizza Ricetta, Oslo with Tripadvisor: See 13 unbiased reviews of Pizza Ricetta, ranked #777 on Tripadvisor among 1,450 restaurants in Oslo.
+
+REL: 1
+POI Name: Gaasa
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Wine Bar | Gaasa | Norway
+snippet: Oslos gjeveste uteservering! Nye mikrobrygg på fat og flaske hver uke. God vin til snille priser. Selskapslokaler til private arrangementer. Gaasa - wine bar - quiz - events - beer garden
+title: Gaasa, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Gaasa ligger Oslo sentrum i en fredet bygning, som har en lang og spennende historie. Hotellet tilbyr en hyggelig atmosfære og er et utmerket utflukt. Om sommeren; den er åpen i tillegg. Gaasa er godt valg for de som ønsker å henge ut for en ...
+title: Gaasa - Home | Facebook
+snippet: Gaasa stenger dørene . Kjære venner av Gaasa. Det er hardt å drive utested i Storgata til vanlig, men nå har det dessverre blitt hakket for tøft. Kombinasjonen av omfattende anleggsarbeider rett utenfor døra og dårlig sommervær, gjør at Gaasa ikke klarer å holde seg flytende.
+title: Booking | gaasa
+snippet: Pris for hele Gaasa: Gaasa kan også leies i sin helhet til lukkede selskap som firmafester, bursdager og andre arrangementer. Et helt utested helt for dere selv midt i sentrum! Vi tar da betalt i form av en omsetningsgaranti, som vil si at du og dine gjester må handle drikkevarer for minst denne summen.
+title: Gaasa - Startside | Facebook
+snippet: Gaasa – Storgata 36b, 0182 Oslo, Norway – Vurderingen 4.5 basert på 183 anmeldelser &quot;Hyggelig atmosfære, godt utvalg av øl og vin! Topp stemning.&quot;
+title: Gaasa, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Gaasa, Oslo: Se 20 objektive anmeldelser av Gaasa, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 767 av 1 448 restauranter i Oslo.
+title: GASA
+snippet: Projects / New Gallery. Projects / New Gallery. Projects / New Gallery
+title: Gaasa oslo øl vin dram
+snippet: Gaasa er stedet for spennende opplevelser med øl, vin og dram.
+title: Gaasa, Oslo - Restaurant Reviews &amp; Photos - Tripadvisor
+snippet: Gaasa, Oslo: See 20 unbiased reviews of Gaasa, rated 4 of 5 on Tripadvisor and ranked #769 of 1,454 restaurants in Oslo.
+title: Gaasa selskapslokaler til private arrangement i Oslo ...
+snippet: Gaasa Bar og vin bar i Storgata i Oslo. Gaasa har selskapslokaler til private arrangement i Oslo. Uteservering i Oslo som kan brukes til firmafest, sommerfest, bursdager m.m. Vi bruker informasjonskapsler og deler informasjonen din med tredjeparter som tilpasser annonsering, analyserer trafikk og leverer tjenester for sosiale medierMer info Godta
+
+REL: 1
+POI Name: Coco Vika
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: Coco Vika, Aker brygge, Oslo - 1881.no
+snippet: Coco Vika fra Aker brygge, Oslo. Restaurant. Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers…; Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjen…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. . Vi serverer smakfulle og deilige ...
+title: Coco Vika: Trygt og godt i Vika - Aftenposten
+snippet: Coco Vika har noe for enhver smak: Baravdeling og spisedel. ALEKSANDER ANDERSEN — Her kunne de kvotert inn et par av mennene fra baren – du er visst det eneste hankjønnet her inne, hvisker Bordvenninnen etter at vi har satt oss til bords.
+title: Coco Vika, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Coco Vika Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Ypperlig lunsj - Anmeldelse for Coco Vika, Oslo, Norge ...
+snippet: Coco Vika: Ypperlig lunsj - Se 34 reiseanmeldelser, 14 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Coco Vika - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Coco Vika. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: De 10 beste restaurantene i Oslo - Tripadvisor
+snippet: Beste restauranter i Oslo, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: photo3.jpg - Bilde av Coco Vika i Oslo - Tripadvisor
+snippet: Coco Vika, Oslo Bilde: photo3.jpg - Se Tripadvisor-medlemmers 51 243 objektive bilder og videoer av Coco Vika. Oslo. Turisme i Oslo Hotell i Oslo Bed and Breakfast i Oslo Pakkereiser til Oslo Flyreiser til Oslo Restauranter i Oslo Ting å gjøre i Oslo Bilder fra Oslo Kart over Oslo
+title: God mat og service - Anmeldelse for Coco Vika, Oslo, Norge ...
+snippet: Coco Vika: God mat og service - Se 34 reiseanmeldelser, 14 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Svært god mat, men litt å forbedre på... - Coco Vika
+snippet: Coco Vika: Svært god mat, men litt å forbedre på service - Se 34 reiseanmeldelser, 14 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Coco Vika - Oslo - Regnskap
+snippet: Dronning Mauds gate 1, 0250 Oslo Sammenlign Overvåk Finn lignende. Skriv ut; Del firmaprofil. Send firmaprofil til e-post
+
+REL: 0
+POI Name: Himkok
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Distilleries, 
+Snippets:
+title: Himkok
+snippet: HIMKOK is an institution with the attempt of embodying Norwegian culture through the cocktails created and spirits distilled, staying true to the surrounding nature and accessibility.
+title: HIMKOK Storgata Destilleri (Oslo, Norge) - Anmeldelser
+snippet: HIMKOK Storgata Destilleri, Oslo: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for HIMKOK Storgata Destilleri i Oslo, Norge på Tripadvisor.
+title: Himkok i Oslo en av verdens beste barer: - Dagbladet
+snippet: Himkok i Oslo en av verdens beste barer: Bak denne døra i en bakgate i Oslo ligger en av verdens beste barer. Første norske bar på prestisjefylt liste. Har servert 140 000 cocktails hittil i år.
+title: Contact — Himkok
+snippet: Himkok Home Bookings Location Contact Home Bookings Location Contact. Himkok ... 0184 Oslo, Norway . Sunday to Thursday 17:00 - 03:00 Friday - Saturday 15:00 - 03:00 . 22 42 22 02 info@himkok.no . Contact page. New Page. Copy of Menu 2. LOCATION.
+title: Himkok, Sentrum — Restaurantguiden fra Aftenposten
+snippet: Himkok ble for alvor kjent blant Oslofolk da de havnet på listen over The World’s 50 Best Bars for tre år siden. De havnet på den samme listen i år igjen, på 17. plass denne gangen, før og etter kjente barer i New York, London, Sydney, Singapore, Buenos Aires, Shanghai, Milano, Hongkong og Mexico City.
+title: Facebook
+snippet: See posts, photos and more on Facebook.
+title: Himkok, Oslo Sentrum, Oslo - 1881.no
+snippet: Himkok fra Oslo Sentrum, 103950790S1 - Himkok
+title: The Distillery — Himkok
+snippet: At HIMKOK we &#39;refine&#39; the flavour of caraway by heating the seeds through the pot and column before passing through the spice chamber, giving it a cleaner and more balanced spiced flavour. OUR PRODUCTS . GIN. Aromatic and delicate with a fragrance of citrus and coriander.
+title: Himkok kåret til verdens 19. beste bar - Oslo - Dagsavisen
+snippet: – Himkok er den mest bærekraftige baren i verden og rangert som nummer 19. Vi har imidlertid det beste teamet i verden, skriver Himkok selv på Facebook. Baren ligger i Storgata 27 i Oslo.
+title: location age — Himkok
+snippet: Himkok Home Bookings Location Contact Home Bookings Location Contact. Himkok Scroll . LOCATION. Find the door next to Youngsgate 2 with a blue light above, then you know you&#39;re there. ADDRESS. Storgata 27, 0184 Oslo, Norway . Location. LOCATION. LOCATION. BOOK NOW ...
+
+REL: 0
+POI Name: Sangam Cafè
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Pubs, 
+Snippets:
+title: Sangam cafe, Grünerløkka, Oslo - 1881.no
+snippet: Sangam cafe fra Grünerløkka, Oslo. Bar og pub. Latter på Aker brygge Latter er mer enn Norges mest populære humorteater, vi har også en fantastisk restaurant og fl…; The Scotsman The Scotsman åpnet sine dører i 1974, da noen så et behov for et alt-i-ett utested i hovedstaden. Når n… Løve Restaurant &amp; Bar Bar og pub – Oslo
+title: Sangam Cafè - Grünerløkka - Oslo, Norway
+snippet: 6 reviews of Sangam Cafè &quot;Sangam is my go-to place to enjoy an outdoor beer. Maybe it&#39;s the fairly priced Hansa. Maybe it&#39;s being able to enjoy the fairly priced Hansa in cozy wooden seats built into the windows. Maybe it&#39;s the excellent people…
+title: Café Sara, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Café Sara, Oslo: Se 438 objektive anmeldelser av Café Sara, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 100 av 1 450 restauranter i Oslo.
+title: De 10 beste kafeene i Oslo - Tripadvisor
+snippet: Beste kafeer i Oslo, Norge: Se anmeldelser fra reisende og bilder av kafeer i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor. Oslo. Turisme i Oslo Hotell i Oslo Bed and Breakfast i Oslo Pakkereiser til Oslo Flyreiser til Oslo ... Miso Cafe. 42 anmeldelser Stengt n ...
+title: Cafe Opus, Oslo Sentrum, Oslo - 1881.no
+snippet: Cafe Opus fra Oslo Sentrum, 100484818S1 - Cafe Opus
+title: Sangam Cafe | Online Ordering
+snippet: Sangam Cafe. Online Order. Online Order. Please select a location. Sangam Cafe. 10300 CHAPEL HILL ROAD, MORRISVILLE, NC 27560. Please select a location. Order Online . Sangam Cafe . 10300 CHAPEL HILL ROAD, MORRISVILLE NC 27560 (919) 460-4300 Connect with Us. EMAIL Facebook.
+title: Grand Café Oslo
+snippet: I 1874 åpnet Grand Café dørene, den gang Oslo het Kristiania. Det var her det hele startet. Caféen var stamstedet for blant andre Henrik Ibsen, Roald Amundsen, Knut Hamsun, Gustav Vigeland og Fridtjof Nansen i tillegg til en rekke andre &#39;Kristianabohemer&#39;.
+title: De 10 beste buffetrestaurantene i Oslo - Tripadvisor
+snippet: Beste buffetrestauranter i Oslo, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Informasjon om Sangam cafe Nosrat Ollah Javadi - Regnskapstall
+snippet: Sangam cafe Nosrat Ollah Javadi fra Grünerløkka, Oslo. Bar og pub.
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+
+REL: 0
+POI Name: Bunnpris Sinsen
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Søndagsåpen butikk på Sinsen i Oslo - Bunnpris
+snippet: Velkommen til vår søndagsåpne butikk, med stort utvalg, gode tilbud, lave priser og tips til billig middag hver dag. Du finner oss på Sinsen i Oslo.
+title: Bunnpris Sinsen, Sinsen, Oslo - 1881.no
+snippet: Bunnpris Sinsen fra Sinsen, Oslo. Dagligvare. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Bunnpris - Lokale billige dagligvarebutikker i hele Norge
+snippet: Det du trenger, når du trenger det! For oss er det viktig å være tilgjengelig for deg. Derfor holder flere av våre butikker åpent søndager og helligdager.
+title: Bunnpris Sinsen - åpningstider, adresse, telefonnummer
+snippet: Bunnpris; OSLO; Bunnpris Sinsen; Bunnpris Sinsen. Åpent. Sinsenterassen 6. 0574 OSLO. Vise vei 23 39 42 20 . 59.9343, 10.7807. Åpningstider. mandag 08.00 - 23.00. tirsdag 08.00 - 23.00. ... Legg til kommentar til Bunnpris Sinsen Brukernavnet funnet! Du kan nå logge deg på med assosiert passord:
+title: Bunnpris Sinsen - Startside | Facebook
+snippet: Bunnpris Sinsen – Sinsenterrassen 6, 0574 Oslo, Norway – Vurderingen 5 basert på 5 anmeldelser &quot;Super hyggelig personal!&quot;
+title: Dagligvarebutikker og søndagsåpne butikker - Bunnpris
+snippet: Søk gjennom alle Bunnpris-butikker i Norge, søndagsåpne eller ikke, for å finne den som passer akkurat deg,
+title: Våre butikker - Bunnpris
+snippet: Om bruk av cookies på Bunnpris WEB Shop Informasjonskapsler/cookies Som de fleste nettsteder i dag så samler vi også inn informasjon om deg automatisk ved bruk av informasjonskapsler (cookies) og lagrer den i loggfiler på våre servere. En informasjonskapsle (cookie) er en liten fil som blir lagret på din datamaskin.
+title: Bunnpris Sinsen, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Bunnpris Sinsen Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Bunnpris Sinsen, Sinsenterrassen 6, Oslo (2020)
+snippet: Vær den første som vet og la oss sende deg en e-post når Bunnpris Sinsen legger inn nyheter og kampanjer. Din e-postadresse vil ikke bli brukt til noe annet formål, og du kan når som helst melde deg av.
+title: Oslo VO Sinsen
+snippet: Deltakere fra Oslo VO Sinsen er til god hjelp på sykehjem i coronatiden. 25.3.2020: 12 av deltakerne som går Vg3 skoleløp Helsefagarbeider er nå en viktig arbeidskraft på sykehjemmene i Oslo. Peer Gynt på en skoletime 4.3.2020. 4.3.2020: &quot;Langt oppe i lia ...
+
+REL: 0
+POI Name: Statue til minne om de fallne
+POI City: Oslo
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Local Flavor, Arts & Entertainment, Landmarks & Historical Buildings, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Til minne om falne under 2 verdens krig. - Anmeldelse for ...
+snippet: Statuen til minne om falne under 2 verdens krig var en gave fra næringslivet i Kristiansand (navn på giverne er påført diskre nederst) Statuen syns jeg er flott laget med fine detaljer og står rett ved siden av Tresse. Når man går langs strand promenaden fra Fiskebrygga mot bystranda vil man se den på høyre side.
+title: Skulptur - til minne om falne, norske kommunister, 1940-45 ...
+snippet: Created with Sketch. Share About the object. Designation Skulptur - til minne om falne, norske kommunister, 1940-45; Identifier FMU.302390 ; Indexing term Skulptur Krigsminnesmerker; Inscription. Innskrift : Gi meg de rene og ranke, / de faste og sterke menn, / de som har tålmod og vilje/ og aldri i livet går hen/ og sleger sin store tanke/ men kjemper til døden for den - ved siden av står ...
+title: Byantikvaren vil ikke ha Osvald-monument på Jernbanetorget
+snippet: Han er selv medlem av «Den antifascistiske komiteen for Osvald-sabotørene og de falne ved NSB», som står bak planene. Kan ende opp som politisk sak. Selv om Østbanehallen er fredet, så er ikke Jernbanetorget det. Dermed er det til syvende og sist Plan- og bygningsetaten som vil avgjøre om monumentet kan stå på Jernbanetorget.
+title: De Falne Till Minne (Ålesund, Norge) - Anmeldelser
+snippet: De Falne Till Minne, Ålesund: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for De Falne Till Minne i Ålesund, Norge ... Trollveggen (Trollstigen) og nyt den fantastiske utsikten over Istradaldalen fra toppen. Sist men ikke minst, et besøk til den imponerende ... Vanlige spørsmål om De Falne Till Minne. Når er De Falne ...
+title: Krigens kulturminner i Oslo – lokalhistoriewiki.no
+snippet: Oversikten over krigens kulturminner i Oslo er et pågående arbeid, så den er på ingen måte uttømmende. Oversikten dekker først og fremst kulturminner fra andre verdenskrig ettersom dette er de mest tallrike, men også andre krigsminner er tatt med fordi mange som er interessert i dette også interesserer seg for krigshistorie generelt, og ikke bare siste krig.
+title: Nyheter | Kai Ekangers tale til minne om de falne
+snippet: Kai Ekangers tale til minne om de falne. Kai Ekanger holder hvert år tale på Sarabråten. ... Han rømte fra dem samme dag, og Lørenskog og Oslo stod på ende på grunn av hans dramatiske flukt.
+title: Våre falne 1939–1945 – lokalhistoriewiki.no
+snippet: Våre falne 1939–1945 er et minneskrift over falne nordmenn under andre verdenskrig.Regjeringen vedtok i 1945 at det skulle utgis, og det kom ut i årene 1948–1951.Hovedredaktører var Arne Ording, Gudrun Johnson Høibo og Johan Garder.. Verket er i fire bind, og inneholder biografisk informasjon om nesten 12 000 personer.
+title: 0753 Monument over Flyvåpnets falne - Forsvarsbygg
+snippet: Utsparinger i sokkelen med bronseplater med navnene på de falne. Publisert: torsdag 8. oktober 2015 Sist endret: torsdag 26. september 2019 . 1954 - 1991. Reist i 1954 til minne om Flyvåpnets 322 falne under 2. verdenskrig. Sto opprinnelig ved Myntgata 2. Flyttet til Akershus i 1991. Ingen treff. ... 0151 Oslo. Postboks 405 Sentrum. 0103 Oslo.
+title: Ringnes i heftig skulpturkrangel - Aftenposten
+snippet: FOTO: Knut Viggen/LO Media Her ønsker komiteen å plassere statuen til minne om Osvaldgruppens innsats under andre verdenskrig. Kulturetaten og Christian Ringnes mener den vil overdøve de andre kunstverkene på plassen, blant annet den kjente Tigeren av Elena Engelsen.
+
+REL: 0
+POI Name: Bari Pizza & Grill
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Kebab, Night Food, 
+Snippets:
+title: Bari Pizza, Oslo - Restaurant Reviews &amp; Photos - Tripadvisor
+snippet: Bari Pizza, Oslo: See 41 unbiased reviews of Bari Pizza, rated 4 of 5 on Tripadvisor and ranked #669 of 1,454 restaurants in Oslo.
+title: Bari Pizza, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Bari Pizza, Oslo: Se 41 objektive anmeldelser av Bari Pizza, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 668 av 1 451 restauranter i Oslo.
+title: www.yelp.no
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Aften pizza og grill, Oslo - Restaurantanmeldelser ...
+snippet: I Storgata i Oslo finner man en rekke serveringssteder- og varianter. Prøvde Aften pizza og grill denne gangen, da jeg/vi ofte spiser ute. Innbydende- og meget god og saftig Ham and Cheese med ditto og mye fyll, samt iskald cola.
+title: BARI PIZZA, Oslo - Updated 2020 Restaurant Reviews ...
+snippet: Bari Pizza, Oslo: See 41 unbiased reviews of Bari Pizza, rated 4 of 5 on Tripadvisor and ranked #667 of 1,449 restaurants in Oslo.
+title: Den beste pizzaen i Oslo - Tripadvisor
+snippet: Beste pizzarestauranter i Oslo, Norge: Se anmeldelser fra reisende og bilder av pizzasteder i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Marmaris Pizza &amp; Grill, Oslo - Restaurantanmeldelser ...
+snippet: Marmaris Pizza &amp; Grill, Oslo: Se 6 objektive anmeldelser av Marmaris Pizza &amp; Grill, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 942 av 1 450 restauranter i Oslo.
+title: Pizzalino og Grill - Oslo - Pizza
+snippet: Her finner du nettmenyen til Majorstuen Pizzalino og Grill i Oslo. Velg fra vår meny og bestill take ... Kjøp online. Majorstuen Pizzalino og Grill. Pizza. Kirkeveien 48, Oslo, 0368. Kjøp online. Om oss. Velkommen til Majorstuen Pizzalino og Grill&#39;s hjemmeside. Majorstuen Pizzalino og Grill tilbyr et stort utvalg av ... Bari - Medium. Kr 119 ...
+title: Nedtur - Anmeldelse for Bari Pizza, Oslo, Norge - Tripadvisor
+snippet: Bari Pizza: Nedtur - Se 41 reiseanmeldelser, 5 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Bari Pizza, Oslo - Restaurant Reviews &amp; Photos - Tripadvisor
+snippet: Bari Pizza, Oslo: See 41 unbiased reviews of Bari Pizza, rated 4 of 5 on Tripadvisor and ranked #668 of 1,450 restaurants in Oslo.
+
+REL: 0
+POI Name: Uhørt
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Nightlife, Arts & Entertainment, 
+Snippets:
+title: UHØRT
+snippet: VELKOMMEN TIL UHØRT. Uhørt er en intim kulturscene, lunsjbar og klubb ved Youngstorget i Oslo.Vi tilbyr fresh lunsj og en variert kaffe- og cocktailmeny. Uhørt ligger midt i hjertet av Strøget Torg og er et originalt lokale med en rå og upolert stil.
+title: NRK P3 Urørt
+snippet: Opplev ny norsk musikk, gratis! P3 Urørt er et nettsted hvor uetablerte norske artister og band kan promotere musikken sin, slik at du kan høre og laste den ned.
+title: Uhørt, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Uhørt, Oslo: Se 35 objektive anmeldelser av Uhørt, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 1 283 av 1 450 restauranter i Oslo.
+title: HVA SKJER? — UHØRT
+snippet: Icelandic singer songwriter Svavar Knútur Keeps his word and revisits Oslo for a springtime frolic at Uhørt. :-) Songs and stories, a new EP and lots of joy.
+title: Uhørt - Home | Facebook
+snippet: Uhørt, Oslo, Norway. 6,956 likes · 12 talking about this · 7,781 were here. Kulturformidler i hjertet av Oslo.
+title: Urørt i Oslo – NRK Kultur og underholdning
+snippet: Store mengder Urørt-band setter sitt preg på den første utgaven av MSN Oslo Music Weekend. Her kan du høre bandene som spiller i helga.
+title: Ukas Urørt (U16) Oslo Inn – NRK Kultur og underholdning
+snippet: Urørt mener: ”Oslo Inn låter som å råkjøre med moped og tegne hjerter på brune skinnpennal. ”Jeg tar det til meg” er melodiøs Pelle og Proffen-rock ikledd lette popjoggesko med ...
+title: Utesteder i Oslo sentrum - bar, pub, klubb - Oslo, Norway
+snippet: Oversikt over utesteder i Oslo sentrum, enten du bare vil slappe av med en øl, nyte en oppfriskende cocktail eller begi deg ut på dansegulvet: Barer, puber og klubber.
+title: Uhørt! - Nasjonal Jazzscene Nasjonal Jazzscene
+snippet: Uhørt! er Victorias konsertserie for unge jazztalenter. Her er det alltid spennende, frisk musikk, bra publikum og gratis inngang! Dørene åpner kl 19.00 og konsertstart 20.00. Gratis inngang! Her finner du alle kommende Uhørt! konserter
+title: Uhørt – Vokalgruppe
+snippet: &quot;Søtest er den musikk du ennå ikke har hørt...&quot;
+
+REL: 0
+POI Name: Best Western Kampen Apartment Hotell
+POI City: Oslo
+POI Country: NO
+POI Main category: Event Planning & Services
+POI Sub category: 
+Snippets:
+
+
+REL: 0
+POI Name: El Camino
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Our Story - El Camino
+snippet: Inspired by the laid-back taquerias found in California, El Camino dishes up healthy and delicious Mexican food at a fast pace, with a laid back Baja vibe. Customize your burrito, taco or bowl exactly how you like it.
+title: El Camino, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: El Camino, Oslo: Se 12 objektive anmeldelser av El Camino, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 644 av 1 450 restauranter i Oslo.
+title: El Camino Barcode, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: El Camino Barcode, Oslo: Se 12 objektive anmeldelser av El Camino Barcode, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 620 av 1 449 restauranter i Oslo.
+title: El Camino Frogner, Frogner — Restaurantguiden fra Aftenposten
+snippet: El Camino: Solid hurtig-taco. Hva med å hente fredagstacoen for en gangs skyld? 5 år siden - Burrito eller taco? - Biff, kylling, svin, tofu eller fisk?
+title: El Camino: Solid hurtig-taco - aftenposten.no
+snippet: På El Camino bygger de tacoen med fem forskjellige elementer, der du igjen har ymse valg innenfor de fem kategoriene. Servitørene bak disken er effektive, og det er godt, for køen med sultne kunder er lang. - Det minner om et samlebånd. Er dette taco-varianten av Subway og BIT? sier jeg.
+title: Lunsjguiden: El Camino ved Barcode | DN
+snippet: Oslo bugner av tacosjapper, og de siste årene har kvaliteten hevet seg betraktelig. Her faller El Camino glatt gjennom, målt mot de beste i byen. Med litt overivrig pålessing av tilbehør endte en burrito på 180 kroner og tre tacos for noenlunde det samme.
+title: El Camino
+snippet: Inspirert av den tilbakelente taqueriastilen funnet i California, varter El Camino opp sunn og god mexikansk mat i et raskt tempo, med en Baja-stemning i lokalene. Tilpass din burrito, dine tacos eller din bowl akkurat slik du ønsker den.
+title: El Camino, Oslo - Behrens&#39; gate 8 - Menu, Prices ...
+snippet: El Camino, Oslo: See 109 unbiased reviews of El Camino, rated 4.5 of 5 on Tripadvisor and ranked #134 of 1,450 restaurants in Oslo.
+title: El Camino AS, Solli, Oslo - 1881.no
+snippet: El Camino AS fra Solli, Oslo. Restaurant. Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjen…; Bar Vulkan Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjennom …; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter ...
+title: El Camino - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om El Camino. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+
+REL: 0
+POI Name: China Star Restaurant
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: www.yelp.no
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: China Star Restaurant - Startside - Oslo, Norway - Meny ...
+snippet: China Star Restaurant – Bergensgata 5 C, 0468 Oslo, Norway – Vurderingen 4.8 basert på 7 anmeldelser &quot;Trivelig og klassisk spisested og vannhull i...
+title: China Star restaurant AS, Bjølsen, Oslo - 1881.no
+snippet: China Star restaurant AS fra Bjølsen, Oslo. Restaurant. Bar Vulkan Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjennom …; Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo.
+title: China Star Restaurant, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for China Star Restaurant Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: China Star Restaurant AS, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for China Star Restaurant AS Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: China Star Restaurant - 0468 Oslo - SmartMeny har menyen!
+snippet: Italienske restauranter (4) Japanske restauranter (1) Kebab-restauranter (1) Kina-restauranter (1) Meksikanske restauranter (2) Pizzarestauranter (10) Restauranter med barnemeny (4) Restauranter med vegetarretter (4) Restauranter som serverer burgere (4) Restauranter som serverer dessert (8) Restauranter som serverer litt forskjellige retter (2)
+title: De 10 beste kinesiske restaurantene i Oslo - Tripadvisor
+snippet: Beste kinesiske restauranter i Oslo, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor. Oslo. Turisme i Oslo Hotell i Oslo Bed and Breakfast i Oslo Pakkereiser til Oslo ... Dim Sum By Taste Of China.
+title: China Star Restaurant - Innlegg - Oslo, Norway - Meny ...
+snippet: China Star Restaurant – Bergensgata 5 C, 0468 Oslo, Norway – Vurderingen 4.8 basert på 7 anmeldelser &quot;Hyggelig sted for en frisk pils. Brun kneipe med...
+title: THE 10 BEST Chinese Restaurants in Oslo - Tripadvisor
+snippet: Best Chinese Restaurants in Oslo, Eastern Norway: Find Tripadvisor traveler reviews of Oslo Chinese restaurants and search by price, location, and more. Oslo. Oslo Tourism Oslo Hotels Oslo Bed and Breakfast ... Dim Sum By Taste Of China. 229 reviews Open Now. Chinese, Asian $$ - $$$
+title: China Star Restaurant - Home - Oslo, Norway - Menu, Prices ...
+snippet: China Star Restaurant - Bergensgata 5 C, 0468 Oslo, Norway - Rated 4.8 based on 7 Reviews &quot;Trivelig og klassisk spisested og vannhull i Bergensgata på...
+
+REL: 0
+POI Name: China House
+POI City: Stavanger
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Mongolian, 
+Snippets:
+title: China Town Stavanger – Kinesisk mat laget på ekte kinesisk vis
+snippet: China town Stavanger meny inneholder mat laget på ekte kinesisk vis og krysning av ulike stiler (Fusion). Vi henter inspirasjon til vår meny fra både Norge og Østen; husmannskost og fine-dining; tradisjon og innovasjon. I løpet av årene har vi skapt flere unike retter, gjort tolkninger av tradisjonsrike retter og utviklet vår egen stil.
+title: China House og Malin restauranter
+snippet: China House har restaurantar i Sogndal, Voss, Odda og Årdal. Her tilby vi klassisk kinamat og tradisjonelle norske rettar.
+title: China house AS, Stavanger - 1881.no
+snippet: China house AS fra , 101655943S1 - China house AS
+title: De 10 beste kinesiske restaurantene i Stavanger - Tripadvisor
+snippet: Beste kinesiske restauranter i Stavanger, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Stavanger, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Restaurant - Kinesisk Stavanger - 1881.no
+snippet: Restaurant - Kinesisk Stavanger, Kinamat, Spisested, Kinarestauranter. Restaurant - Kinesisk Stavanger (7) China grill
+title: MENY – China Town Stavanger
+snippet: Her på China Town fokuserer vi på de delikate rettene fra det Kantonesiske kjøkken og de sterke rettene fra det Szechuanske. Kinesisk mat og kultur handler om å utforske de ulike matretningene i det store landet; og de mange rettene vil danne en sosial ramme rundt måltidet – derfor er à la carte rettene våre lagt opp til nettopp dette.
+title: En smak av Østen på Stord – China House Stord
+snippet: China House Stord er en kinesisk restaurant på Stord. Vi tilbyr en smakfull asiatisk opplevelse i hyggelige omgivelser. Velkommen til oss! Vår meny. Bestill Bord. Ta med maten hjem. China House Stord tilbyr take away for deg som helst vil nyte maten hjemme.
+title: China House, Haugesund - Restaurantanmeldelser - Tripadvisor
+snippet: China House, Haugesund: Se 27 objektive anmeldelser av China House, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 22 av 50 restauranter i Haugesund.
+title: Forside | China Palace AS
+snippet: China Palace har holdt til i Bergen siden 1986. Vi befinner oss midt i Bergen sentrum og serverer tradisjonell kinesisk mat av høy kvalitet. China Palace er en av de eksklusive kinesiske restauranter i Bergen, med vakker kinesiske interiør og gode mat.
+title: China House Fusion Sushi - Sushirestaurant - Bergen ...
+snippet: China House Fusion Sushi. 265 liker dette. We are an Asian fusion restaurant serving warm kitchen food and sushi at an affordable price. We always offer promotions to our clientele. Like our page!
+
+REL: 0
+POI Name: Havneområdet
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Local Flavor, Boating, Hiking, 
+Snippets:
+title: Havnepromenaden - Oslo, Norway
+snippet: Guide til aktiviteter og opplevelser langs Oslos havnepromenade. Fjordbyen viser seg fra sin beste side med sightseeing, opplevelser, natur, shopping, kunst, arkitektur og sport.
+title: Politikk, Oslo kommune | Slik vil Oslo-byrådet utvikle ...
+snippet: Onsdag kunne byrådsleder Raymond Johansen (Ap) i Oslo presentere nyheten om at det er enighet om planene for det omstridte havneområdet Filipstad, der det planlegges flere tusen boliger.
+title: Oslo – Store norske leksikon
+snippet: Oslo er Norges hovedstad og største by, og dessuten en av de eldste byene i landet. Oslo utgjør også en kommune og et fylke og ligger innerst i Oslofjorden, med bysenteret innerst i de to vikene Pipervika og Bjørvika. Bysenteret omfatter også området mellom disse vikene og det tilstøtende området like nordenfor. Tettstedet Oslo (som også omfatter områder i de tilstøtende kommunene ...
+title: Sjømannsskolen – Wikipedia
+snippet: Oslo Sjømannskole. Christiania Sjømannsskole ble opprettet i 1845 og holdt til flere steder i byens sentrum de første årene. I 1913 var det arkitektkonkurranse for nybygg, og denne ble vunnet av Andreas Bjercke og Georg Eliassen med utkastet «Brede Seil». I 1917 stod det nye bygget av tegl ferdig, delvis kledd med huggen iddefjordsgranitt.De fire lave hjørnetårnene forsterker ...
+title: Vil forvandle Kongens gate til en grønn hage
+snippet: FOTO: Grape Architects Slik ser arkitekter i Grape Architects og Studio Oslo Landskapsarkitekter for seg at Kongens gate kan se ut i fremtiden. De ønsker å forvandle gaten, som strekker seg fra Stortorvet til Akershusstranda, til en fullgrønn hage.
+title: Se Oslo havn slik den var på slutten av 1700-tallet
+snippet: – Med litt behandling kan du skrive den ut hjemme på en 3D-printer, forteller Hutchison, som akkurat skal til å lage en prøveprint av en Oslo-bygning. Hele havneområdet har blitt bygget opp som 3D-modeller, men foreløpig blir ikke grafikken generert fortløpende i nettleseren når du går inn på Oslo havn 1798-sidene.
+title: Oppskytning av offentlig fyrverkeri i Oslo
+snippet: Det vil forøvrig kunne sees fra hele Oslo sentrum, og da spesielt nede i havneområdet (Aker brygge, Bjørvika, Vippetangen, østsiden av Bygdøy etc.). Furuset idrettspark Fyrverkeriet som sendes opp på Furuset vil kunne sees i det nordøstlige Oslo, og spesielt i Groruddalen. Oppskytningsstedene blir avsperret
+title: Havnegata (Oslo) – Wikipedia
+snippet: Senere ble Bispelokket anlagt og havneområdet fylt opp. Havnegata ble en tilførselsvei fra E18 til sørsiden av Oslo Ø og senere Oslo S med flytogterminalen. På området der gaten lå i de siste årene, er Thon Hotel Opera oppført. Referanser
+title: Bolig, Boligpriser | Her kommer Norges dyreste boliger ...
+snippet: Om noen år starter utbyggingen av den siste indrefileten i Oslo, havneområdet Filipstad rett utenfor Tjuvholmen (se også faktaramme). Det blir trolig Norges dyreste boliger.
+title: Europas styggeste hovedstad - Oslo
+snippet: Havneområdet drukner i en lapskaus av dårlige ideer. Gjennom selvskading kjøper Oslo en plass i det urbane himmelriket. 3 måneder 1 krone! 3 måneder 1 krone! Meny.
+
+REL: 0
+POI Name: Lille Sumo
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, 
+Snippets:
+title: Lille Sumo — Home
+snippet: Beste sushi i oslo, rask og billig, vår sushi er kun laget med det beste og ferskeste av råvarer.Uansett om man spiser hos Lille Sumo eller tar med,kan man forvente den samme gode kvaliteten av ferskhet og nydelige smak ved hver eneste bestilling.
+title: Avd. Rådhusplassen — Lille Sumo
+snippet: Beste sushi i oslo, rask og billig, vår sushi er kun laget med det beste og ferskeste av råvarer.Uansett om man spiser hos Lille Sumo eller tar med,kan man forvente den samme gode kvaliteten av ferskhet og nydelige smak ved hver eneste bestilling.
+title: Lille Sumo avd. Klingenberg, Oslo - Restaurantanmeldelser ...
+snippet: Lille Sumo avd. Klingenberg, Oslo: Se 75 objektive anmeldelser av Lille Sumo avd. Klingenberg, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 670 av 1 449 restauranter i Oslo.
+title: Avd. Klingenberg — Lille Sumo
+snippet: Beste sushi i oslo, rask og billig, vår sushi er kun laget med det beste og ferskeste av råvarer.Uansett om man spiser hos Lille Sumo eller tar med,kan man forvente den samme gode kvaliteten av ferskhet og nydelige smak ved hver eneste bestilling.
+title: Lille Sumo avd. Klingenberg, Oslo - Sentrum - Menu, Prices ...
+snippet: Lille Sumo avd. Klingenberg, Oslo: See 75 unbiased reviews of Lille Sumo avd. Klingenberg, rated 3.5 of 5 on Tripadvisor and ranked #670 of 1,449 restaurants in Oslo.
+title: Lille Sumo, Oslo Sentrum, Oslo - 1881.no
+snippet: Lille Sumo fra Oslo Sentrum, Oslo. Restaurant. Horgan`s Horgan`s passer utmerket til å arrangere bursdag, overraskelsesfest, vennefest, julebord, kickoff/firmafest…; Diamond Indian cuisine AS Vår mat er laget på originale og tradisjonelle indiske oppskrifter. Det er viktigt for oss… Hjemme Hos Svigers Restaurant – Oslo; Stock spiseri og Drikkeri Restaurant – Oslo
+title: Lille Sumo avd. Rådhusplassen, Oslo ...
+snippet: Lille Sumo avd. Rådhusplassen, Oslo: Se 4 objektive anmeldelser av Lille Sumo avd. Rådhusplassen, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 788 av 1 450 restauranter i Oslo.
+title: Lille Sumo Klingenberg - Startside - Oslo, Norway - Meny ...
+snippet: Lille Sumo Klingenberg, Oslo, Norway. 204 liker dette · 269 har vært her. Lille Sumo Sushi avd. Klingenberg. If you have got any questions, you are able to reach us by phone, e-mail or in person! :)...
+title: Åpningstider — Lille Sumo
+snippet: Beste sushi i oslo, rask og billig, vår sushi er kun laget med det beste og ferskeste av råvarer.Uansett om man spiser hos Lille Sumo eller tar med,kan man forvente den samme gode kvaliteten av ferskhet og nydelige smak ved hver eneste bestilling.
+title: Tradisjon — Lille Sumo
+snippet: Beste sushi i oslo, rask og billig, vår sushi er kun laget med det beste og ferskeste av råvarer.Uansett om man spiser hos Lille Sumo eller tar med,kan man forvente den samme gode kvaliteten av ferskhet og nydelige smak ved hver eneste bestilling.
+
+Cand cities: {'Stavanger', 'Oslo'}

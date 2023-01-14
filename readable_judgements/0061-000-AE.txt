@@ -1,0 +1,1264 @@
+City: Madison
+Country: US
+Main category: Arts & Entertainment
+Sub category: Museums
+Description: Heya r/Madisonwi ! You guys were super nice and helpful last time I hit y'all up for some help with my gf earlier this year. Well I'm finally getting to meet her for a week! I know about uh, Geeks Mania and we definitely plan to go there. And I just found the cities events page, but anything y'all might recommend personally to do? We're pretty nerdy/gamery types so anything like a science museum that's great would be amazing. Also if there's any ahem kink/BDSM clubs or something that's okay fielding visitors. (Of course, I'ma hit up Google too, but I thought I'd ask y'all too <3) Edit: Also, she's not really explored different different food cultures, so if you guys know of a good Indian, Sushi, Italian, Mexican; places to visit that would make my heart sing <3 <3 <3
+Rated POIs: 47
+Rel distr: [(0, 7), (1, 23), (2, 11), (3, 6)]
+=================================
+REL: 3
+POI Name: Wisconsin Veterans Museum
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Wisconsin Veterans Museum – Every Veteran is a Story
+snippet: In the interest of the health and welfare of our guests, staff, and volunteers, the Wisconsin Veterans Museum will be closed until further notice. For more information please CLICK HERE. WVM distance learning resources available HERE.
+title: Wisconsin Veterans Museum (Madison) - 2020 All You Need to ...
+snippet: Hotels near Wisconsin Veterans Museum: (0.71 mi) The Livingston Inn (0.40 mi) Hampton Inn &amp; Suites Madison Downtown (0.27 mi) Mansion Hill Inn (0.85 mi) Hotel Indigo Madison Downtown (0.46 mi) DoubleTree by Hilton Madison Downtown; View all hotels near Wisconsin Veterans Museum on Tripadvisor
+title: Civil War Database – Wisconsin Veterans Museum
+snippet: Wisconsin Veterans Museum &gt; Research &gt; Civil War Database. Search the Civil War Roster Database Using the Database. You can search the database by any combination of Name, ... Wisconsin Veterans Museum 30 W. Mifflin St. Madison, WI 53703 Tel: 608-267-1799. HOME COLLECTIONS ABOUT MEDIA STORE BLOG
+title: Research – Wisconsin Veterans Museum
+snippet: RESEARCH The WVM Research Center will be open to researchers by appointment only.. The Wisconsin Veterans Museum encourages people of all ages, abilities, and interests to learn about Wisconsin military and veterans’ history.
+title: PLAN YOUR VISIT – Wisconsin Veterans Museum
+snippet: In the interest of the health and welfare of our guests, staff, and volunteers, the Wisconsin Veterans Museum will be closed until further notice. We recognize this is disappointing to those of you who may have planned to visit the museum.
+title: Contact Us – Wisconsin Veterans Museum
+snippet: CONTACT US FREE ADMISSION. Wisconsin Veterans Museum Tuesday through Saturday 9:00 am to 4:30 pm Sunday (April-September) 12:00 pm to 4:00 pm 30 W. Mifflin St. Madison, WI 53703 608-267-1799 veterans.museum@dva.wisconsin.gov. Museum CLOSED: New Year&#39;s Day Martin Luther King Jr.&#39;s Birthday Easter Sunday Memorial Day Independence Day Labor Day ...
+title: TOURS – Wisconsin Veterans Museum
+snippet: *Although Wisconsin Veterans Museum strives to provide accurate directions to this parking area, we strongly recommend that you contact the City of Madison for regular updates regarding construction and detours. City of Madison Parking Division 30 W Mifflin St, Ste 900 PO Box 2986 Madison WI 53703 608-266-4761/ parking@cityofmadison.com
+title: Wisconsin Veterans Museum - Madison, Wisconsin | Facebook
+snippet: Wisconsin Veterans Museum, Madison, WI. 25,932 likes · 583 talking about this · 5,314 were here. The Wisconsin Veterans Museum commemorates, acknowledges, and affirms the role of Wisconsin veterans...
+title: Wisconsin Veterans Museum - Capitol - Madison, WI
+snippet: The Wisconsin Veterans Museum is small but packs in some cool displays. If you, like me, love a good diorama, you won&#39;t be disappointed with the aircraft overhead, life-sized soldiers, and peeks into various buildings. One thing that&#39;s unique about WVM is that their motto is &quot;every veteran is a story&quot; ...
+title: Special Events – Wisconsin Veterans Museum
+snippet: Your support is crucial to sharing our veterans’ stories. The continued support of sponsors like you ensures the museum is able to properly honor and preserve the legacy of Wisconsin’s veterans and share their stories with the more than 20,000 students and 90,000 visitors that enter our doors each year.
+
+REL: 3
+POI Name: Overture Center For The Arts
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, Museums, Venues & Event Spaces, 
+Snippets:
+title: Overture Center for the Arts
+snippet: Overture Center for the Arts is a stunning architectural landmark in the heart of Madison’s thriving cultural arts district. In addition to housing ten resident organizations and presenting more than 200 performances, art exhibitions, and educational and community events each year, Overture offers a variety of venues for performances, corporate meetings, conventions, trade shows, weddings ...
+title: Events | Overture Center
+snippet: Overture Center for the Arts is a stunning architectural landmark in the heart of Madison’s thriving cultural arts district. In addition to housing ten resident organizations and presenting more than 200 performances, art exhibitions, and educational and community events each year, Overture offers a variety of venues for performances, corporate meetings, conventions, trade shows, weddings ...
+title: Overture Center for the Arts
+snippet: Overture Center for the Arts has been Madison’s home for the arts for more than 15 years. Temporarily closing our doors to the community was an extremely difficult decision; however, prioritizing the safety of our guests, staff, volunteers and artists comes first.
+title: Overture Center for the Arts - Home | Facebook
+snippet: Overture Center for the Arts - 201 State St, Madison, Wisconsin 53703 - Rated 4.5 based on 1,507 Reviews &quot;Beautiful is one of the best shows. Really...
+title: Overture Center for the Arts (Madison) - 2020 All You Need ...
+snippet: We recommend booking Overture Center for the Arts tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 Overture Center for the Arts tours on Tripadvisor
+title: Overture Center for the Arts | Login
+snippet: Overture Center for the Arts is a stunning architectural landmark in the heart of Madison’s thriving cultural arts district. In addition to housing ten resident organizations and presenting more than 200 performances, art exhibitions, and educational and community events each year, Overture offers a variety of venues for performances, corporate meetings, conventions, trade shows, weddings ...
+title: Overture Center for the Arts - Wikipedia
+snippet: Overture Center for the Arts is a state of the art performing arts center and art gallery in Madison, Wisconsin, United States.The center opened on September 19, 2004, replacing the former Civic Center. In addition to several theaters, the center also houses the Madison Museum of Contemporary Art
+title: Overture Center For The Arts | | Madison, WI | madison.com
+snippet: Overture Center For The Arts $25-$35 Dino-Light, formerly known as Darwin the Dinosaur, was the recipient of the prestigious Jim Henson Foundation Grant and first feature-length t…
+title: Overture Center for the Arts | Steve Martin &amp; Martin Short
+snippet: Overture Center for the Arts is a stunning architectural landmark in the heart of Madison’s thriving cultural arts district. In addition to housing ten resident organizations and presenting more than 200 performances, art exhibitions, and educational and community events each year, Overture offers a variety of venues for performances, corporate meetings, conventions, trade shows, weddings ...
+title: Wicked | Events | Overture Center
+snippet: Overture Center is committed to the safety of our guests, resident organizations, artists, volunteers and staff. On Friday, March 13 our local public health authorities banned any gatherings of 250 or more people due to the global coronavirus (COVID-19) pandemic.We have canceled the performance of WICKED. Ticket buyers will be contacted via email about their options.
+
+REL: 3
+POI Name: Leonard R Ingersoll Physics Museum
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Colleges & Universities, Museums, 
+Snippets:
+title: L.R. Ingersoll Physics Museum (est. 1918) | Department of ...
+snippet: Notice: UW-Madison COVID-19 Update: Campus Visit Program Visits has Cancelled ALL tours from March 12 to April 12, 2020. Therefore the Physics Ingersoll Museum is closed until Aprl 12. The Leonard R. Ingersoll Physics Museum was conceived by Professor Snow and Professor Ingersoll in 1917 and was fully established in 1918 when the construction of Sterling Hall was competed.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Museum History - UW-Madison Department of Physics
+snippet: He was actually found installing new additions to the museum on the day of his death on April 25, 1958. Following his death the Physics Museum was renamed the Leonard R. Ingersoll Physics Museum. While the museum is constantly experiencing changes of exhibits, many of the original items present during its opening can still be viewed there today.
+title: Tours - UW-Madison Department of Physics
+snippet: Please note that our museum can only hold up to 100 kids at any one time. Of couse, we&#39;ll do our best to schedule at least one docent for these large tours to give you the best experience we can. Car Parking: We recommend that you plan ahead for parking prior to your trip. There is no designated parking available while visiting the physics museum.
+title: Donations - UW-Madison Department of Physics
+snippet: Your charitable donations help support the docent tour program, construction of new exhibits, and maintenance. Friends of the L.R. Ingersoll Museum of Physics - Established in 2004. The historical Leonard R. Ingersoll Physics Museum was originally established in 1918 and housed in the main lobby area of Sterling Hall.
+title: L. R. Ingersoll Physics Museum - Wikipedia
+snippet: History. The museum was established in 1918 by Professor Snow and the museum&#39;s namesake, Leonard Rose Ingersoll (1880-1958), who taught at the University of Wisconsin-Madison.L.R. Ingersoll began advocating for the museum in 1917 and it became the first museum in the United States to focus solely on physics.
+title: Physics Museum | On Wisconsin Magazine
+snippet: It seems fitting, then, that the Madison native returned to his hometown 22 years ago from the Twin Cities to manage the L. R. Ingersoll Physics Museum. As he builds and fixes the museum’s 70-plus hands-on exhibits, Narf designs experiments, solves puzzles, and, well, tinkers — all in the service of physics education.
+title: Exhibits - UW-Madison Department of Physics
+snippet: Exhibits. The L.R. Ingersoll Physics Museum has more than 50 exhibits! ... University of Wisconsin-Madison 1150 University Avenue Madison, WI 53706-1390 608-262-4526. info@physics.wisc.edu webmaster@physics.wisc.edu Campus safety Accessibility resources.
+title: In On Wisconsin Magazine: The Physics Museum | College of ...
+snippet: It seems fitting, then, that the Madison native returned to his hometown 22 years ago from the Twin Cities to manage the L. R. Ingersoll Physics Museum. As he builds and fixes the museum’s 70-plus hands-on exhibits, Narf designs experiments, solves puzzles, and, well, tinkers — all in the service of physics education.
+title: Quantum science at UW–Madison joins exchange, invests in ...
+snippet: The Leonard R. Ingersoll Physics Museum at the University of Wisconsin–Madison highlights the science of surprises — from chaos theory, to cosmic rays and even the mechanics of pinball machines. But there’s another story in the physics field to tell now. UW–Madison is investing in a big way, in the wildly growing — and to many, weird — realm of quantum mechanics.
+
+REL: 3
+POI Name: Madison Museum of Contemporary Art
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Home - MMoCA
+snippet: The Museum Store. Shop MMoCA’s award-winning store for a unique variety of jewelry, crafts, art books, cards, children’s gifts and more.
+title: Madison Museum of Contemporary Art - 2020 All You Need to ...
+snippet: Visitors are awestruck when viewing the three-story glass facade of the Madison Museum of Contemporary Art for the first time. At least these two visitors from Chicago were. The MMoCA, as it is ... Madison&#39;s Contemporary Art Museum offers a welcome counterpoint to the many shops and eateries.
+title: Madison Museum of Contemporary Art - Home | Facebook
+snippet: Madison Museum of Contemporary Art, Madison, Wisconsin. 10K likes. Contemporary art museum on State Street. Free admission. More info at www.mmoca.org.
+title: Plan Your Visit - Madison Museum of Contemporary Art
+snippet: Madison Museum of Contemporary Art, 227 State Street, Madison, WI 53703. MMoCA is closed every year on the following holidays: Martin Luther King Jr. Day, Easter, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas Eve day, Christmas, New Year’s Eve, and New Year’s Day.
+title: Madison Museum of Contemporary Art
+snippet: Housed in a soaring, Cesar Pelli designed building, the Madison Museum of Contemporary Art provides free exhibitions and education programs that engage people in modern and contemporary art. The four galleries offer changing exhibitions that feature established and emerging artists. The Rooftop Sculpture Garden provides a respite and inspiring view.
+title: Madison Museum of Contemporary Art (WI) - Anmeldelser
+snippet: Madison Museum of Contemporary Art, Madison: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Madison Museum of Contemporary Art i Madison, Wisconsin på TripAdvisor.
+title: Madison Museum of Contemporary Art (MMoCA) - Madison Road Trip
+snippet: Madison Museum of Contemporary Art (MMoCA) MMoCA is in the same location it has been since the early 80s. But with the massive renovation of the attached Capital Theater and creation of the Overture Center for the Arts, MMoCA got a fabulous new building.
+title: THE BEST Madison Art Museums (with Photos) - Tripadvisor
+snippet: #3 of 12 Museums in Madison “ This university museum of art has a wonderful collection of various art items (paintings, statuary, jewelry, textiles). “ From ancient classical art, to Chinese art, Andy Warhol, and modern photography, there is truly everything.
+title: Madison Museum of Contemporary Art - GuideStar Profile
+snippet: Mission. The Madison Museum of Contemporary Art is an independent organization that exhibits, collects, and preserves modern and contemporary art to provide transformative experiences that educate, reflect, and inspire us as individuals and a community.
+
+REL: 3
+POI Name: Geology Museum
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: University of Wisconsin Geology Museum
+snippet: The Geology Museum is temporarily closed to the public. At minimum we will be closed until Monday, April 13 when in-person classes are set to […]
+title: Visit – University of Wisconsin Geology Museum
+snippet: The Geology Museum is on the campus of the University of Wisconsin – Madison. We are located in Weeks Hall at 1215 W. Dayton Street, two blocks east of Camp Randall Stadium on the corner of Charter Street and Dayton Street. Parking, Bus, and Bike Information:
+title: University of Wisconsin Geology Museum (Madison) - 2020 ...
+snippet: Attractions near University of Wisconsin Geology Museum: (0.52 mi) Memorial Union Terrace (0.26 mi) Camp Randall Stadium University of Wisconsin (0.40 mi) Chazen Museum of Art (0.73 mi) Henry Vilas Zoo (0.48 mi) University of Wisconsin - Madison; View all attractions near University of Wisconsin Geology Museum on Tripadvisor
+title: Collections – University of Wisconsin Geology Museum
+snippet: Please do not ship collections, such as returned loans, to the museum during this time. We look forward to reopening again when it is safe to do so. Researchers, faculty, instructors, students, and others needing more detailed information on our collections should contact our Curator of Collections, Carrie Eaton, at carrie@geology.wisc.edu
+title: About – University of Wisconsin Geology Museum
+snippet: History of the Geology Museum At the very first Board of Regents meeting for the establishment of the University of Wisconsin – Madison in 1848, one of the primary topics for discussion was the creation of an exhibit to display of geological and mineralogical samples from around the state.
+title: Geology Museum - South Campus - Madison, WI - Yelp
+snippet: 11 reviews of Geology Museum &quot;People come here for the fantastic geological collections, but the complete mammoth skeleton is the real star of the show. This museum is FREE, and it should be required to bring every kid within a hundred miles here.…
+title: UW Geology Museum - Home | Facebook
+snippet: UW Geology Museum - 1215 W Dayton St, Madison, Wisconsin 53706 - Rated 4.6 based on 148 Reviews &quot;The kids loved it! There was an opportunity to purchase...
+title: UW–Madison Geology Museum - Wikipedia
+snippet: The UW–Madison Geology Museum (UWGM) is a geology and paleontology museum housed in Weeks Hall, in the southwest part of the University of Wisconsin–Madison campus. The museum&#39;s main undertakings are exhibits, outreach to the public, and research. It has the second highest attendance of any museum at the University of Wisconsin–Madison, exceeded only by the Chazen Museum of Art.
+title: Tours – University of Wisconsin Geology Museum
+snippet: The Geology Museum is temporarily closed to the public. At minimum we will be closed until Monday, April 13 when in-person classes are set to resume on the UW-Madison campus. As such, we have cancelled all group tours, museum storytimes, and special events through April 12.
+title: University of Wisconsin Geology Museum (Madison) - Anmeldelser
+snippet: University of Wisconsin Geology Museum, Madison: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for University of Wisconsin Geology Museum i Madison, Wisconsin på Tripadvisor.
+
+REL: 3
+POI Name: Chazen Museum of Art
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: The Chazen Museum of Art, Madison WI
+snippet: Visit the Chazen Museum of Art. View a calendar of events, news and exhibition and expansion information. Explore Chazen&#39;s extensive online collection with over 20,000 of works of art from the ancient world to modern times.
+title: Chazen Museum of Art (Madison) - 2020 All You Need to Know ...
+snippet: We recommend booking Chazen Museum of Art tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 Chazen Museum of Art tours on Tripadvisor
+title: Chazen Museum of Art (Madison, WI) - Anmeldelser
+snippet: Chazen Museum of Art, Madison: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Chazen Museum of Art i Madison, Wisconsin på Tripadvisor.
+title: Chazen Museum of Art - Art Museum - Madison, Wisconsin ...
+snippet: Chazen Museum of Art - 750 University Ave, Madison, Wisconsin 53706 - Rated 4.6 based on 150 Reviews &quot;Was very impressed by the collection at this...
+title: Chazen Museum of Art - Wikipedia
+snippet: In May 2005 the museum was renamed the Chazen Museum of Art after a $20 million building-expansion donation from alumni Simona and Jerome A. Chazen, the latter a founder of Liz Claiborne. The original museum building, which opened in 1970, retains the Elvehjem name.
+title: Faculty Exhibition 2020 | Chazen Museum of Art
+snippet: Visit the Chazen Museum of Art. View a calendar of events, news and exhibition and expansion information. Explore Chazen&#39;s extensive online collection with over 20,000 of works of art from the ancient world to modern times.
+title: Chazen Museum of Art
+snippet: Visit the Chazen Museum of Art. View a calendar of events, news and exhibition and expansion information. Explore Chazen&#39;s extensive online collection with over 20,000 of works of art from the ancient world to modern times.
+title: Chazen Museum of Art (Madison) - 2020 All You Need to Know ...
+snippet: The Chazen Museum of Art in Madison, Wisconsin, is the most widely attended museum on the University of Wisconsin campus. Located at 750 University Avenue and founded in 1969, it displays works by suc...
+title: The Chazen Museum of Art at 50: Growing ... - Madison
+snippet: The Chazen is the largest collecting museum in the Big 10 and the second-largest art museum in Wisconsin, Gilman said. Completed in 2011, the Chazen Museum of Art&#39;s 86,000-square-foot addition, right, nearly doubled the size of the museum from its original Conrad A. Elvehjem building, behind, built in 1970.
+title: THE 10 CLOSEST Hotels to Chazen Museum of Art, Madison ...
+snippet: Hotels near Chazen Museum of Art, Madison on Tripadvisor: Find 16,948 traveler reviews, 5,996 candid photos, and prices for 30 hotels near Chazen Museum of Art in Madison, WI.
+
+REL: 2
+POI Name: AMC Madison 6
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, 
+Snippets:
+title: AMC Madison 6 Welcome Students! Low Ticket Prices Starting ...
+snippet: Movie times, buy movie tickets online, watch trailers and get directions to AMC Madison 6, Welcome Students! Low Ticket Prices Starting at $4.49 (before 2pm) in Madison, WI. Find everything you need for your local movie theater near you.
+title: AMC Madison 6 Movie Times | Showtimes and Tickets ...
+snippet: Find AMC Madison 6 showtimes and theater information at Fandango. Buy tickets, get box office information, driving directions and more.
+title: AMC Madison 6 - 2020 All You Need to Know BEFORE You Go ...
+snippet: Clue-Gathering Game by 3Quest Challenge - Madison, WI Using your smartphone, you&#39;ll be given an app to download and a starting location. Once you arrive at the starting location, you&#39;ll send a text to check in and get your game setup on the app.
+title: Showtimes - AMC Theatres
+snippet: In order to display showtimes, please select a nearby theatre. Select a Theatre
+title: AMC Madison 6 - 18 Photos &amp; 45 Reviews - Cinema - 430 ...
+snippet: 45 reviews of AMC Madison 6 &quot;I remember when this was brand new and it was Sundance. It was great and felt like a luxury theater. It&#39;s gross now. The theater was dirty, it&#39;s under so much construction that you have to take stairs or an elevator up…
+title: AMC Madison 6 - Madison, Wisconsin - Movie Theater | Facebook
+snippet: AMC Madison 6, Madison, Wisconsin. 2 likes. Movie Theater. Sign up for Facebook today to discover local businesses near you.
+title: Not the Sundance anymore - Review of AMC Madison 6 ...
+snippet: AMC Madison 6: Not the Sundance anymore - See 3 traveler reviews, candid photos, and great deals for Madison, WI, at Tripadvisor.
+title: AMC Madison 6 Showtimes | Moviefone
+snippet: AMC Madison 6 in Madison, WI 53705 - get movie showtimes and tickets online, movie information and more from Moviefone.
+title: AMC Madison 6 430 N Midvale Blvd Madison, WI Movie ...
+snippet: Get directions, reviews and information for AMC Madison 6 in Madison, WI. AMC Madison 6 430 N Midvale Blvd Madison WI 53705. 45 Reviews (608) 316-6900 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: AMC Madison 6 | Madison Movie Listings | Showtimes
+snippet: Movie Listings and times for AMC Madison 6. This Cinema is in Madison, Wisconsin.
+
+REL: 2
+POI Name: National Mustard Museum
+POI City: Middleton
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: La Fete de Marquette
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Fete de Marquette — Wil-Mar Neighborhood Center
+snippet: Plenty of bus routes are available: The 2, 3, 4, 6, and 7 will all get you to Fete! Plan your trip using Madison Metro’s Trip guide here. Plan to pack sunscreen, hats, and a water bottle if you’d like! We can’t take cards at the beer and wine stands—but we do take cards at the Fete Boutique, and many of the vendors accept cards as well.
+title: La Fête De Marquette - Home | Facebook
+snippet: La Fête De Marquette - 202 S. Ingersoll St., Madison, Wisconsin 53703 - Rated 4.8 based on 28 Reviews &quot;Arguably the premiere event in the annual line-up...
+title: Fête de Marquette - Isthmus | Madison, Wisconsin
+snippet: Fête de Marquette. Jul 9, 2020 to ... Print × Expand (2019 pick) Madison’s Francophile festival returns with its usual robust assortment of musical ... LA FETE DE MARQUETTE / McPike ...
+title: La Fete de Marquette schedule | | madison.com
+snippet: Madison, WI (53711) Today. Partly cloudy skies during the morning hours will give way to ... Top-notch musical performers expected to draw large audiences for La Fete de Marquette this weekend. Most Popular &#39;I&#39;m back&#39;: Fired Madison West High ...
+title: La Fete de Marquette - Wikipedia
+snippet: La Fete de Marquette is an annual summer festival in Madison, Wisconsin. History. The French-themed festival began in 2006. It is currently held at McPike Park on the east-side of Madison. Events. The four-day festival features local and national musical acts, as well as restaurant and craft beer ...
+title: La Fete de Marquette | City of Madison, City of Madison ...
+snippet: Bienvenue and welcome to La Fete de Marquette! Family fun, world-class music, and the best local food and drink await you! Please see event website for more information.
+title: La Fete de Marquette has big kid emphasis this year - Madison
+snippet: Children are being feted this year at La Fete de Marquette, Madison&#39;s biggest neighborhood festival. Kids will get their own musical entertainment lineup at La Fete de Marquette, now in its 12th year. The French-themed festival is being held over four days in Madison&#39;s Central Park.
+title: La Fete de Marquette Festival - Madison Wi - YouTube
+snippet: Marquestte neighborhood 4 day festival, always held in July. This is a very short snippet of 2010 and 2011.
+title: La Fête de Marquette 2019 | Madison365
+snippet: La Fête de Marquette 2019 will be held Thursday-Sunday, July 11-14 at Madison’s Central Park. La Fête de Marquette is four days of fabulous world-class music, unparalleled local cuisine, cute boutiques, cold craft beer, wine for all tastes, an expanded Family Fête, and much more!
+title: Wil-Mar Neighborhood Center
+snippet: Wil-Mar proudly serves more than 15,000 individuals each year! The Wil-Mar Neighborhood Center, located in the Williamson-Marquette neighborhood, has proudly nurtured its surrounding community since 1968.
+
+REL: 2
+POI Name: Monkey Business Institute
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, Comedy Clubs, 
+Snippets:
+title: Monkey Business Institute - Improv Comedy Shows in Madison ...
+snippet: Monkey Business Institute closures in response to the COVID-19 situation As the situation around the Coronavirus (COVID-19) evolves rapidly, the response from Monkey Business Institute has changed to address growing public health concerns. The health…read more
+title: Improv Shows | Monkey Business Institute
+snippet: Come see what everyone in Madison is talking about! At Monkey Business Institute, we don’t waste time dealing with such trivialities as sets, props, scripts, or line memorization; instead creating spur-of-the-moment, seat-of-the-pants improvisational comedy by mixing audience suggestions, decades of improv experience, and sheer moxie.
+title: Monkey Business Institute (Madison) - 2020 All You Need to ...
+snippet: When in Madison, must check out the Monkey Business Institute. Housed in the basement of an Italian restaurant (had we known ahead of time we would of came in for dinner too) is a small club. If bringing friends, get tickets early so that you can get seats.
+title: Monkey Business Institute - Home | Facebook
+snippet: Monkey Business Institute, Madison, WI. 2,154 likes · 33 talking about this · 2,621 were here. Two Shows Every Saturday - 5:30pm, 8pm. One Show Every Tuesday - 7pm. One Show Every Friday - 8pm.
+title: Improv Classes - Monkey Business Institute
+snippet: In this course, we will look at other philosophies and schools of thought in the larger improv world. Monkey Business Institute certainly has its own unique style, but it is only one of countless ways that the art form of improv can be approached. Prerequisites: Completion of Monkey Business Institute’s Level Five class or instructor permission.
+title: Shows Archives | Monkey Business Institute
+snippet: Monkey Business Institute is proud to present The Music Department, a fully improvised Broadway musical. We start with your suggestion and go from there. Look for big musical numbers, crazy characters, and outrageous dancing! This ninety minute… Buy Tickets «
+title: Monkey Business Institute - Schenk - Atwood - Madison, WI
+snippet: 21 reviews of Monkey Business Institute &quot;I am surprised more people haven&#39;t reviewed this show. I attended the all ages show a few weekends ago with my two children (7 and 9) along with a few coworkers and their kids. We purchased tickets ahead of…
+title: Monkey Business Institute - visit Madison
+snippet: Featuring Madison&#39;s most experienced improv comedy talent, Monkey Business Institute is here to make you laugh. We offer multiple shows every weekend as well as private events and workshops. Come laugh with us!
+title: Best Hotels Near Monkey Business Institute, Madison, Wisconsin
+snippet: Hotels near Monkey Business Institute, Madison on Tripadvisor: Find 17,664 traveler reviews, 5,957 candid photos, and prices for 30 hotels near Monkey Business Institute in Madison, WI.
+title: Grown Up Improv Show | Monkey Business Institute
+snippet: Grown Up Improv Show 8:00pm Every Saturday. Improv for Adults! Well, for people over 18 at least. This show is for those who like their comedy a little bit saucy, our Grown-Up Show features two acts of hilarious improv comedy complete with an intermission. ... Madison, WI 53713. Contact Us. 17 Leon Street.
+
+REL: 2
+POI Name: Maple Bluff Country Club
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Country Clubs, 
+Snippets:
+title: Home - Maple Bluff Country Club - Madison, WI
+snippet: Maple Bluff Country Club in Madison stands as one of the oldest and finest 18-hole golf clubs in Wisconsin and has a rich history that dates back to 1899.
+title: Login - Maple Bluff Country Club - Madison, WI
+snippet: Maple Bluff Country Club • 500 Kensington Drive • Madison, WI 53704-5945 • 608-249-2144
+title: Course Overview - Maple Bluff Country Club - Madison, WI
+snippet: Maple Bluff Country Club, which today stands as one of the oldest and finest golf clubs in Wisconsin, has a rich history that dates back to 1899. In December of that year, several golf enthusiasts officially incorporated “Maple Bluff Golf Club,” rented a six-acre pasture on the Halle Steensland farm and laid out a five hole course.
+title: Maple Bluff Country Club - Home | Facebook
+snippet: Maple Bluff Country Club - 500 Kensington Dr, Madison, Wisconsin 53704 - Rated 4.6 based on 60 Reviews &quot;Beautiful venue. I was there for a Holiday Party...
+title: Membership Categories - Maple Bluff Country Club - Madison, WI
+snippet: Social members have full use of the clubhouse dining areas and can attend all club events. ... Interested in membership at Maple Bluff Country Club? Fill out the form below. It will go directly to our Membership Director, ... Maple Bluff Country Club • 500 Kensington Drive • Madison, WI 53704-5945 • 608-249-2144.
+title: Meet the Pros - Maple Bluff Country Club - Madison, WI
+snippet: 16th Season at Maple Bluff. Born in Wilbraham, MA. Graduate of Methodist College. Previous Professional Experience at Hickory Ridge Country Club, Carolina Country Club, Windsor Club, &amp; Onwentsia. Titleist TPI Certified Professional. Titleist Staff Professional. WPGA Board Member. Chairperson of the WPGA Employment / Club Relations Committee.
+title: Maple Bluff Country Club - Home | Facebook
+snippet: Maple Bluff Country Club, Madison, Wisconsin. 754 likes. Maple Bluff Country Club stands as one of the oldest and finest golf clubs in Wisconsin. We offer fitness and golf simulator facilities as...
+title: Maple Bluff Country Club in Madison, Wisconsin, USA | Golf ...
+snippet: Maple Bluff Country Club in Madison, Wisconsin: details, stats, scorecard, course layout, photos, reviews
+title: MAPLE BLUFF COUNTRY CLUB • MADISON, WI
+snippet: MAPLE BLUFF COUNTRY CLUB • MADISON, WI EMPLOYMENT OPPORTUNITY • CLUB MANAGER. Food &amp; Beverage • Ensures the highest standards for food &amp; beverage • Work the floor, a minimum of one night per week, to lead the team and have oversight over operations
+title: Maple Bluff Country Club 500 Kensington Dr Madison, WI ...
+snippet: Maple Bluff Country Club is one of the oldest golf clubs in Wisconsin. It features an 18-hole golf course yard area. The club organizes golf tournaments and special events for the general public. Maple Bluff Country Club offers casual dining options. The club s amenities include a swimming pool area and several tennis courts.
+
+REL: 2
+POI Name: Dallas Museum of Natural History
+POI City: Dallas
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Dallas Museum of Natural History - Dallas Museums
+snippet: about the museum. The Dallas Museum of Natural History is the only collections-based, research-driven public natural history museum in the region. With working archaeologists and paleontologists on staff, the museum not only repackages and interprets scientific knowledge but actively expands its frontiers.
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Dallas ...
+snippet: Apr 4, 2020 - Looking to get inspired on your trip to Dallas? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Dallas to visit in 2020. Book effortlessly online with Tripadvisor!
+title: Perot Museum of Nature and Science
+snippet: With 11 permanent exhibit halls in the heart of Dallas, the Perot Museum of Nature and Science provides an unforgettable experience for guests of all ages.
+title: Is the Dallas Museum of Natural History at Fair Park open ...
+snippet: One of three chrome dinosaurs on display outside the Dallas Museum of Natural History at Fair Park in November 2005. The life-sized art pieces have been on display since 1998 along with a chrome ...
+title: List of museums in North Texas - Wikipedia
+snippet: The list of museums in North Texas encompasses museums defined for this context as institutions (including nonprofit organizations, government entities, and private businesses) that collect and care for objects of cultural, artistic, scientific, or historical interest and make their collections or related exhibits available for public viewing.Museums that exist only in cyberspace (i.e ...
+title: Dallas Fair Park - 21. Dallas Museum of Natural History.
+snippet: Located on the southwestern corner of Leonhardt Lagoon, the Dallas Museum of Natural History was designed in 1935 by Clyde Griesenbeck, Mark Lemmon, Frank D. Kean, and John B. Danna.After the team of architects finished their task, workers began the process of constructing the two-story building out of limestone.
+title: Dallas Museum of Natural History - City-Data
+snippet: Dallas Museum of Natural History is registered as a historic place due to its long history and antique facilities. It is also the only natural history museum in the northern region of Texas. Over the years, the museum has contributed to major discoveries, findings, and excavations which has earned the museum Smithsonian Institution Affiliation.
+title: Dallas Museum of Natural History Dinosaurs - YouTube
+snippet: Geologist Devin Dennie tours the dinosaur and fossil exhibits at the former Dallas Museum of Natural History. This was a segment from the TV series &quot;North Texas Explorer.&quot; Category
+title: Perot Museum of Nature and Science - Wikipedia
+snippet: The Perot Museum of Nature and Science (shortened to Perot Museum) is a natural history and science museum located in Dallas, Texas.It consists of two campuses: the primary campus located in Victory Park, and a secondary campus in Fair Park.The Victory Park campus museum was named in honor of Margot and Ross Perot. The current chief executive officer of the museum is Dr. Linda Abraham-Silver.
+title: THE BEST Dallas Natural History Museums (with Photos ...
+snippet: Top Dallas Natural History Museums: See reviews and photos of natural history museums in Dallas, Texas on Tripadvisor.
+
+REL: 2
+POI Name: Wisconsin Historical Museum
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Wisconsin Historical Museum | Wisconsin Historical Society ...
+snippet: Tour the exhibits to learn the stories of native people, immigrants and lively politics of Wisconsin. Plan a visit to the Wisconsin Historical Museum today!
+title: Wisconsin Historical Museum (Madison) - 2020 All You Need ...
+snippet: Hotels near Wisconsin Historical Museum: (0.73 mi) The Livingston Inn (0.39 mi) Hampton Inn &amp; Suites Madison Downtown (0.30 mi) Mansion Hill Inn (0.86 mi) Hotel Indigo Madison Downtown (0.45 mi) DoubleTree by Hilton Madison Downtown; View all hotels near Wisconsin Historical Museum on Tripadvisor
+title: Wisconsin Historical Museum - Home | Facebook
+snippet: Wisconsin Historical Museum - 30 N Carroll St, Madison, Wisconsin 53703 - Rated 4.6 based on 169 Reviews &quot;We were on a school field trip and while it was...
+title: Plan Your Visit | Wisconsin Historical Museum | A ...
+snippet: COVID-19 UPDATE. The Wisconsin Historical Museum is committed to ensuring the safety of our guests and staff. With the most recent information regarding COVID-19, we have made the decision to temporarily close to the public until at least April 11, 2020.Please check back for updates.
+title: Explore the Wisconsin Historical Society&#39;s collections ...
+snippet: Explore the Wisconsin Historical Society&#39;s collections, research your family history, teach and learn Wisconsin history, preserve historic properties, donate, volunteer and more.
+title: Online Exhibits | Wisconsin Historical Society
+snippet: Visit our other Wisconsin Historical Society websites! Choose a website Wisconsin History Tour Wisconsin Historical Society Wisconsin Historical Society Store Wisconsin Historical Museum Wade House Villa Louis Stonefield Reed School Pendarvis Old World Wisconsin Madeline Island Museum H.H. Bennett Studio First Capitol Circus World Black Point Estate
+title: Calendar | Wisconsin Historical Museum | A Wisconsin ...
+snippet: Enjoy exploring Madison with the Wisconsin Historical Museum’s Summer Camps. These camps will be adventure-filled, educational, and will spark campers’ interest in their city and state. The museum offers camps from June through August with programming for kids entering first through fifth grades.
+title: Explore the Museum | Wisconsin Historical Museum | A ...
+snippet: The Wisconsin Historical Museum is located at 30 N. Carroll Street on Madison’s Capitol Square. The current home of the Museum was built in 1953 and originally housed the Wolff, Kubly &amp; Hirsig hardware store. The Historical Society renovated the building and the Museum moved in during April, 1986.
+title: Collections | Wisconsin Historical Museum | A Wisconsin ...
+snippet: Museum Collections. Explore over 110,000 historical objects and nearly 400,000 archaeological artifacts documenting the history of Wisconsin from prehistoric times to the present.
+title: The Campaign for a New Wisconsin History Museum ...
+snippet: The next chapter of our state’s history is being written, and the Wisconsin Historical Society has a rare opportunity to deliver an unforgettable modern history museum to celebrate and honor Wisconsin. To make a new museum a reality, we need you now. If you want to learn more about why this extraordinary project will transform how history is ...
+
+REL: 2
+POI Name: The Bricks Theatre
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, Music Venues, 
+Snippets:
+title: The Bricks Theatre - Performing Arts - Madison, WI - Phone ...
+snippet: Specialties: We produce innovative and entertaining theatre in unlikely venues. Established in 2009. Taking the opportunity presented by the closing of Madison Rep firmly by the horns, the Bricks decided that a deep recession was the…
+title: The Bricks Theatre - Madison, WI
+snippet: The Bricks Theatre. The Bricks Theatre supplies candy for the brain via stellar and unique theatrical productions. The Bricks was founded by three “theatre geeks” who, during the worst recession of their lifetimes, decided that the best thing to do was start a professional theatre company.
+title: The Bricks Theatre Madison, WI Performing Arts - MapQuest
+snippet: The Bricks never fail to leave their audience examining and reconsidering the events in their productions long after leaving the theater. So it was this weekend when we saw their production of...
+title: The Bricks Theatre - Movie Theater in Madison
+snippet: 1 visitor has checked in at The Bricks Theatre. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Building a new theater, brick by brick - Madison
+snippet: At least, the Bricks Theatre hopes so. Not that the Bricks boys, as the three founders call themselves, are against Overture. Though the Bricks Theatre was founded just a few weeks after the Madison Repertory Theatre (Overture&#39;s resident theater company) kicked the bucket, Bricks is not looking to replicate what the Rep did in the Playhouse.
+title: Bricks Theatre to stage bawdy works by Shel Silverstein ...
+snippet: One of two successors to Madison Repertory Theatre will hit the stage running this October, when the Bricks Theatre opens An Adult Evening of Shel Silverstein at the Frequency.
+title: Bricks Theatre, Madison, WI - AboutTheArtists Theatre Profile
+snippet: Plays, musicals, stage shows, and live theatre performances at Bricks Theatre, Madison, WI
+title: Bricks Theatre puts a twist in ‘True West’ - madison.com
+snippet: Before it collapsed in March 2009, the Madison Repertory Theatre had scheduled Sam Shepard’s “True West,” an intense, personal play about sibling rivalry, in the Overture Playhouse.
+title: Bartell Theatre Madison Wisconsin | Live Local Theatre
+snippet: The Bartell Theatre in Madison Wisconsin, home of six live local theatre companies
+title: The Brick Theater - The Brick | Brooklyn&#39;s incubator of ...
+snippet: This new team will usher The Brick into its third decade with a bold new vision and an abiding belief in the power of art. With a renewed focus on multi-week theatrical runs and a dynamic line-up of singular one-off events, The Brick will remain Williamsburg’s primary incubator of innovative theater and performing arts.
+
+REL: 2
+POI Name: High Noon Saloon
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Bars, 
+Snippets:
+title: Calendar - High Noon Saloon
+snippet: We are committed to full website accessibility for all of our fans, including those with disabilities. Our website is currently undergoing development to meet WCAG 2.1 Level AA compliance, which will be completed soon.
+title: Venue Rentals - High Noon Saloon
+snippet: Founded in 2004 in downtown Madison, Wisconsin, the High Noon Saloon is a live music venue that features all different styles of music. They play host to large national acts, smaller touring bands from around the world, and lots of local music.
+title: History - High Noon Saloon
+snippet: High Noon Saloon was founded in 2004 by Cathy Dethmers, former owner/manager (1994-2001) of Madison’s revered O’Cayz Corral. On January 1, 2001, O’Cayz was destroyed in a fire that started in a neighboring bar, thus ending its twenty-year reign as Madison’s most infamous and beloved rock club.
+title: Contact - High Noon Saloon
+snippet: 701A E Washington Ave Madison, WI 53703 Phone: (608) 268-1122 Fax: (608) 268-1121 Local Booking Manager Lindberg Chambliss booking@high-noon.com National Talent Buyer Jesse Sherman Jesse@fpc-live.com Marketing Kyle Kohl kyle@fpc-live.com Security Manager Matthew Marine matthew@high-noon.com Private Events Private Event Inquiry Form events@high-noon.com High Noon Saloon is located at 701A E ...
+title: event - High Noon Saloon
+snippet: We are committed to full website accessibility for all of our fans, including those with disabilities. Our website is currently undergoing development to meet WCAG 2.1 Level AA compliance, which will be completed soon.
+title: High Noon Saloon - Events | Facebook
+snippet: High Noon Saloon - 701 E Washington Ave, Madison, Wisconsin 53703 - Rated 4.5 based on 1,305 Reviews &quot;The space is clean , modern and very open. The...
+title: THE 10 CLOSEST Hotels to High Noon Saloon, Madison ...
+snippet: Hotels near High Noon Saloon, Madison on Tripadvisor: Find 17,280 traveler reviews, 6,003 candid photos, and prices for 30 hotels near High Noon Saloon in Madison, WI.
+title: High Noon Saloon - Home | Facebook
+snippet: High Noon Saloon - 701 E Washington Ave, Madison, Wisconsin 53703 - Rated 4.5 based on 1,343 Reviews &quot;We call it our Bronze (aka the home venue in Buffy)...
+title: High Noon Saloon - Madison | Tickets, Schedule, Seating ...
+snippet: Buy High Noon Saloon tickets at Ticketmaster.com. Find High Noon Saloon venue concert and event schedules, venue information, directions, and seating charts.
+title: High Noon Saloon - Innlegg | Facebook
+snippet: High Noon Saloon - 701 E Washington Ave, Madison, Wisconsin 53703 - Rated 4.5 based on 1 310 omtalar &quot;The space is clean , modern and very open. The...
+
+REL: 2
+POI Name: Forevertron
+POI City: Sumpter
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: University of Wisconsin-Madison Arboretum
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Botanical Gardens, 
+Snippets:
+title: UW Arboretum - University of Wisconsin–Madison
+snippet: Madison, WI 53711-3726 If you have questions about the site or trouble accessing some information, please contact the Webmaster . ©2020 University of Wisconsin–Madison Arboretum.
+title: UW Arboretum – Visit The Arboretum
+snippet: The Arboretum is an extension of the University of Wisconsin-Madison and is used by students and researchers focusing on ecological restoration. While it is not a park, thousands of people visit the Arboretum each year to enjoy its seasonal beauty. Your cooperation will help protect the Arboretum’s plants, wildlife and ongoing research projects, as well as others’ safety and enjoyment.
+title: University of Wisconsin-Madison Arboretum - 2020 All You ...
+snippet: This Arboretum is conveniently located near the UWisconsin campus. There are many walking paths throughout, only a few hard service, unless you walk the road, which many people do. It is very peaceful with many birds and small animals.
+title: Trails | UW Arboretum - University of Wisconsin–Madison
+snippet: NOTE: Out of concern for the health of our community during the COVID-19 pandemic, the Arboretum Visitor Center will be closed and events are cancelled through at least May 15. Please check back for updates. ... ©2020 University of Wisconsin–Madison Arboretum.
+title: University of Wisconsin-Madison Arboretum - Anmeldelser
+snippet: University of Wisconsin-Madison Arboretum, Madison: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for University of Wisconsin-Madison Arboretum i Madison, Wisconsin på Tripadvisor.
+title: University of Wisconsin–Madison Arboretum - Wikipedia
+snippet: The University of Wisconsin–Madison Arboretum is a teaching and research facility of the University of Wisconsin–Madison and the site of historic research in ecological restoration. In addition to its 1,260 acres (5 km 2) in Madison, Wisconsin (located about four miles from the main campus of the University of Wisconsin–Madison), the Arboretum also manages 520 acres of remnant forests ...
+title: University of Wisconsin-Madison Arboretum-Madison | Expedia.no
+snippet: Planlegger du å besøke University of Wisconsin-Madison Arboretum-Madison? Finn fantastiske tilbud her. Bestill reisen din med hotell, fly og leiebil her, og spar stort!
+title: UW-Madison Arboretum
+snippet: The Arboretum, birthplace of ecological restoration, is a research center of the University of Wisconsin-Madison and a popular visitor destination. Explore prairies, woodlands, wetlands and gardens in all seasons. Learn about the natural world and how to care for it through tours, classes, and other programs. The grounds are free to visit and most programs are free.
+title: University of Wisconsin–Madison
+snippet: The University of Wisconsin–Madison is a public land-grant university and prolific research institution. Our students, staff, and faculty members partake in a world-class education and solve real-world problems.
+title: University of Wisconsin-Madison Arboretum 1207 Seminole ...
+snippet: University of Wisconsin Madison Arboretum is a site for research on ecological restoration. It includes a collection of restored ecological communities, such as tallgrass prairies, deciduous forests, savannas and wetlands. The arboretum also houses flowering trees, shrubs and a lilac collection.
+
+REL: 1
+POI Name: Science Museum of Virginia
+POI City: Richmond
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Science Museum of Virginia
+snippet: science museum of virginia, science museum, science, museum, virginia museum, virginia. Membership Tickets Give Toggle navigation. Explore Exhibits The Dome ... Richmond, VA 23220-2057 ©2020 Science Museum of Virginia.
+title: Science Museum of Virginia (Richmond) - 2020 All You Need ...
+snippet: Hotels near Science Museum of Virginia: (0.68 mi) Museum District Bed &amp; Breakfast (4.48 mi) Embassy Suites by Hilton Richmond (1.62 mi) The Jefferson Hotel (4.40 mi) Best Western Executive Hotel (2.57 mi) Courtyard Richmond Downtown; View all hotels near Science Museum of Virginia on Tripadvisor
+title: Science Museum of Virginia | Richmond, VA Museums
+snippet: Richmond’s Science Museum of Virginia. The Science Museum of Virginia is a catalyst for inspiration, a place that sparks curiosity and generates ideas for kids of all ages. Through hundreds of experiential exhibits, awe-inspiring artifacts, and interactive technologies, the Museum presents dynamic programming to hundreds of thousands of guests each year.
+title: Restaurants Near Science Museum of Virginia, Richmond
+snippet: Restaurants near Science Museum of Virginia, Richmond on Tripadvisor: Find traveler reviews and candid photos of dining near Science Museum of Virginia in Richmond, Virginia.
+title: Science Museum of Virginia - Wikipedia
+snippet: Coordinates. The Science Museum of Virginia is a science museum located in Richmond, Virginia.Established in 1970, it is an agency of the Commonwealth of Virginia.It is housed in the former Broad Street Station, built in 1917.
+title: Top 10 Richmond Hotels Near Science Museum of Virginia ...
+snippet: Richmond is home to Science Museum of Virginia. Richmond is a historic city travelers enjoy for top attractions such as the a beautiful riverfront and fun sporting events. If you want to find things to do in the area, you might want to stop in and see Short Pump Town Center and Children&#39;s Museum of Richmond.
+title: Science Museum of Virginia | Museums | Richmond, VA ...
+snippet: How do I get my business listed? Our directory features more than 18 million business listings from across the entire US. However, if we&#39;re missing your business, just click below to request that ...
+title: Apartments for rent near Science Museum of Virginia in ...
+snippet: See all 1,934 apartments currently available for rent near Science Museum of Virginia. Each Apartments.com listing has verified availability, rental rates, photos, floor plans and more.
+title: Science Museum of Virginia - Home | Facebook
+snippet: Science Museum of Virginia - 2500 W Broad St, Richmond, Virginia 23220 - Rated 4.6 based on 938 Reviews &quot;My 6 year old son and I were very moved by the...
+title: Visit | SMV - Science Museum of Virginia
+snippet: Map out your trip for a perfect visit to the Museum. Learn More. Eat &amp; Shop. Fuel up for your adventure and commemorate your visit to the Museum! ... Richmond, VA 23220-2057 ©2020 Science Museum of Virginia.
+
+REL: 1
+POI Name: Jewish Museum Milwaukee
+POI City: Milwaukee
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Jewish Museum Milwaukee
+snippet: Jewish Museum Milwaukee explores the history of the Jewish community in Southeastern Wisconsin. Through engaging displays and interactive components, JMM celebrates Milwaukee’s Jewish community and explores the broad American and Jewish experience. Plan your visit today!
+title: Jewish Museum Milwaukee - 2020 All You Need to Know BEFORE ...
+snippet: Hotels near Jewish Museum Milwaukee: (0.99 mi) Drury Plaza Hotel Milwaukee Downtown (0.95 mi) Milwaukee Marriott Downtown (0.85 mi) The Pfister Hotel (0.29 mi) County Clare Irish Inn and Pub (0.94 mi) Saint Kate The Arts Hotel; View all hotels near Jewish Museum Milwaukee on Tripadvisor
+title: Events | Jewish Museum Milwaukee
+snippet: Fashion Metropolis Berlin Jewish Museum Milwaukee, Milwaukee WI. Join author of Fashion Metropolis Berlin, Uwe Westphal, as he brings to life Berlin&#39;s fashionable past describing the rise and destruction of the Jewish fashion industry from 1836 – 1939. Book sale and signing will immediately follow the lecture.
+title: Visit | Jewish Museum Milwaukee
+snippet: Jewish Museum Milwaukee offers the nation’s active duty military personnel including National Guard and Reserve and their families FREE admission.For information on Blue Star Museums, click here.
+title: Exhibits | Jewish Museum Milwaukee
+snippet: &quot;So much to see--we could have stayed another hour!&quot; The core and changing exhibits at Jewish Museum Milwaukee explore the breadth of Jewish life and culture, both within the state of Wisconsin and beyond. The core exhibition opened in 2008 and features engaging displays and interactive features including
+title: About | Jewish Museum Milwaukee
+snippet: The Jewish Museum Milwaukee is dedicated to preserving and presenting the history of the Jewish people in southeastern Wisconsin and celebrating the continuum of Jewish heritage and culture. The history of American Jews is rooted in thousands of years of searching for freedom and equality.
+title: Jewish Museum Milwaukee - Wikipedia
+snippet: Jewish Museum Milwaukee is located in Milwaukee, Wisconsin, USA.The Jewish Museum Milwaukee&#39;s mission is to preserve and present the Jewish experience through the lens of Greater Milwaukee, and to celebrate the continuum of Jewish heritage and culture.
+title: Jewish Museum Milwaukee | Milwaukee Jewish Federation
+snippet: Jewish Museum Milwaukee. The Jewish Museum Milwaukee, a program of the Milwaukee Jewish Federation, is dedicated to preserving and presenting the history of the Jewish people in southeastern Wisconsin and celebrating the continuum of Jewish heritage and culture.. A resource for both education and entertainment, the museum features a permanent exhibit detailing the history of Jews in Milwaukee ...
+title: Visit Milwaukee - Jewish Museum Milwaukee
+snippet: Jewish Museum Milwaukee opened its doors on April 28, 2008. Jewish Museum Milwaukee has 3 to 4 special exhibits and over 40 programs each year. Jewish Museum Milwaukee builds empathy by telling the Jewish story and connecting history with contemporary events. Jewish Museum Milwaukee has over 15,000 photographs in the Archives.
+title: Jewish Museum Milwaukee - 2020 All You Need to Know BEFORE ...
+snippet: The museum explores the history of the Jewish community in Southeastern Wisconsin. Through engaging displays and interactive components, JMM celebrates Milwaukee&#39;s Jewish community and explores the broad American and Jewish experience. …
+
+REL: 1
+POI Name: LaBahn Arena - UW Madison
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Stadiums & Arenas, 
+Snippets:
+title: Facilities - LaBahn Arena | Wisconsin Badgers
+snippet: LaBahn Arena is named after Charles (UW-Madison &#39;49) and Mary Ann LaBahn, the lead donors for the project. Chuck LaBahn, a two-time letterwinner for the Badger swimming team, has been a longtime supporter of various campus initiatives.
+title: LaBahn Arena - UW Madison 105 E Campus Mall Madison, WI ...
+snippet: LaBahn Arena - UW Madison 105 E Campus Mall Madison WI 53715. 6 Reviews (608) 263-5645 Website. Menu &amp; Reservations Make Reservations . ... LaBahn is the brand new ice hockey arena for the Wisconsin Badgers Women&#39;s Hockey Team, which just opened in 2012 but it still looks brand new.
+title: LaBahn Arena / UW-Madison Athletics
+snippet: LaBahn Arena, opened in 2012, is home to the UW-Madison Women&#39;s Hockey Team. It is a tri-level complex that includes the following: 90&#39; by 200&#39; ice sheet for men&#39;s and women&#39;s hockey practice and women&#39;s competition, with seating for 2,273 spectators
+title: LaBahn Arena (Madison) - 2020 All You Need to Know BEFORE ...
+snippet: Hotels near LaBahn Arena: (0.81 mi) The Buckingham Inn (0.33 mi) Hampton Inn &amp; Suites Madison Downtown (0.85 mi) Mansion Hill Inn (0.27 mi) DoubleTree by Hilton Madison Downtown (0.75 mi) Madison Concourse Hotel and Governor&#39;s Club; View all hotels near LaBahn Arena on Tripadvisor
+title: LaBahn Arena, view of ice and seating | | madison.com
+snippet: Home ice has a new look for the University of Wisconsin women’s hockey team, as the puck drops Friday night in the state-of-the-art LaBahn Arena.
+title: LaBahn Arena - Madison, Wisconsin - College &amp; University ...
+snippet: LaBahn Arena, Madison, Wisconsin. 180 likes. College &amp; University. Jump to. Sections of this page. ... Posts about LaBahn Arena. Susan Arthur checked in to LaBahn Arena. December 19 at 4:50 PM · Madison, ... Seeing uw Wisconsin women&#39;s hockey game tonight with my mom and me having fun.
+title: LaBahn Arena - Wikipedia
+snippet: LaBahn Arena is the home ice of the Wisconsin Badgers women&#39;s ice hockey team. It was the second arena to be purpose-built for a women&#39;s collegiate hockey team; the first was Minnesota&#39;s Ridder Arena.The arena is connected via a tunnel to the Kohl Center, which the women&#39;s team shared with the men&#39;s team from its inception in 1999 until 2012.The men&#39;s team also practices th
+title: LaBahn Arena – Project Delivery – UW–Madison
+snippet: LaBahn Arena The project will construct a four level 98,250 ASF/ 120,000 GSF new facility and renovate 8,000 GSF in the existing Kohl Center located at 601 West Dayton Street for a women’s/men’s hockey practice facility and women’s hockey performance facility.
+title: University of Wisconsin-Madison – LaBahn Arena – Kahler Slater
+snippet: LaBahn Arena. Madison, Wisconsin. With one of the top men’s and women’s hockey teams in the nation, the University of Wisconsin-Madison set out to create a new home for their champion teams. Kahler Slater designed an arena that blends seamlessly into the existing campus while creating a new identity for the hockey teams, ...
+
+REL: 1
+POI Name: Texas Dps Museum
+POI City: Austin
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: DPS HISTORICAL MUSEUM AND RESEARCH CENTER
+snippet: DPS Museum uniforms of yesteryear displays. About. Find out about the museum’s purpose, vision, and goals to preserve organizational history to maintain the story of the Department for future generations . ... Austin, TX, 78752, United States 512-265-1470.
+title: Texas DPS Museum &amp; Research Center - Home | Facebook
+snippet: Texas DPS Museum &amp; Research Center, Austin, Texas. 203 likes. Texas Department of Public Safety Historical Museum and Research Center is a non-profit organization established to preserve the history...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Texas Dps Museum - Austin, TX (Address, Phone, Fax &amp; Hours)
+snippet: Texas Dps Museum, located in Austin, TX, promotes research and public education through its Museum collection. Visitors to the Museum can see Museum exhibits, attend events at the Museum, and access Museum educational programs.
+title: Austin Museum Partnership
+snippet: Texas DPS Historical Museum and Research Center. The Texas Department of Public Safety Historical Museum and Research Center is a non-profit organization established to preserve the history, evolution, and development of the Texas Department of Public Safety (Department).
+title: TxDPS - Texas Department of Public Safety
+snippet: Proactively protect the citizens of Texas in an ever changing threat environment while always remaining faithful to the U.S. and State Constitution
+title: Texas DPS Museum &amp; Research Center - Austin, TX ...
+snippet: Texas DPS Museum &amp; Research Center, 5805 N. Lamar Blvd, Building A, Lobby, Austin, TX 78752, info, reviews, photos. Museums / Galleries / Theaters for ages 0 - 18.
+title: The Official Texas Ranger Hall of Fame and Museum - Waco ...
+snippet: The Texas Ranger Hall of Fame and Museum is the State-designated official historical center of the famed Texas Rangers Law Enforcement Agency in Waco, Texas. We preserve the history and inspire an appreciation of the Texas Rangers, a Texas Legend and an American Heritage.
+title: TxDPS Texas Rangers 5805 N Lamar Blvd Austin, TX Museums ...
+snippet: Austin TX 78752. 4 Reviews (512) 424-2160 Website. Menu &amp; Reservations ... Small and free museum located in the lobby of the main DPS building on N Lamar. ... Chris w. Is right, the address listed is the correct address. It is a free museum, so don&#39;t expect it to be like the Texas Ranger museum in Waco. It has some really interesting items ...
+title: THE 10 BEST Austin Specialty Museums (with Photos ...
+snippet: Top Austin Specialty Museums: See reviews and photos of specialty museums in Austin, Texas on Tripadvisor.
+
+REL: 1
+POI Name: Madison Children's Museum
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Children's Museums, 
+Snippets:
+title: Madison Children&#39;s Museum
+snippet: Play matters. It’s how we learn to invent, share, and explore. Madison Children’s Museum bursts with chances to play and learn: to stretch bodies and minds, solve problems, create art, make friends, and, most of all, have fun.
+title: Admission | Madison Children&#39;s Museum
+snippet: Admission. A trip to the Madison Children’s Museum is a great family adventure. Our building is brimming with changing exhibits, daily events, and drop-in activities, so there’s always something new to discover.
+title: Visit | Madison Children&#39;s Museum
+snippet: While at Madison Children’s Museum or museum-sponsored events, visitors may be photographed by museum photographers. These images may be used to publicize the museum in print, online, and display materials, and may also be distributed to the media.
+title: Madison Children&#39;s Museum - 2020 All You Need to Know ...
+snippet: Madison Children&#39;s Museum can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 2 Madison Children&#39;s Museum tickets and tours on Tripadvisor
+title: Visiting Hours, Seasonal Schedule | Madison Children&#39;s Museum
+snippet: Madison Children’s Museum, an award-winning destination for fun family activities and hands-on learning.
+title: Madison Children&#39;s Museum - Home | Facebook
+snippet: Madison Children&#39;s Museum, Madison, WI. 21K likes. Madison Children&#39;s Museum is a community hub for children and families where play is serious business. Our exhibits are created just for our space...
+title: Adult Swim | Madison Children&#39;s Museum
+snippet: Adult Swim at Madison Children’s Museum honors the public pool tradition of kicking the kids out so adults can have the space to themselves (without the water or need for a swimsuit).
+title: Volunteers | Madison Children&#39;s Museum
+snippet: Volunteer at Madison Children’s Museum. Put a smile on a child’s face and make a difference in the community. Become an MCM volunteer! Anyone ages 16 and up can volunteer on their own, and ages 8-15 can volunteer and gain work experience when accompanied by a caregiver.
+title: Madison Children&#39;s Museum
+snippet: Make your event come alive at Madison Children’s Museum. Our award-winning space provides floors of built-in fun for large celebrations and a lively selection of smaller spaces for intimate events. MCM’s planning specialists can assist in the details to make any gathering a creative and memorable event.
+title: Gift Cards Madison Children&#39;s Museum | Madison Children&#39;s ...
+snippet: For gift card inquiries or questions about the order form, please email the registrar, or call 608-256-6445 ext. 156. Gift cards may be applied toward the purchase of admission, membership, gift shop merchandise, camps, special events, birthday parties, and programming at Madison Children’s Museum.
+
+REL: 1
+POI Name: Richmond Museum of History
+POI City: Richmond
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Richmond Museum of History – Exploring the History of ...
+snippet: Join us on Sunday February 29, 2020 for the annual membership meeting! What’s New. Opening Reception -“Between Two Worlds: Untold Stories of Lao Refugees”
+title: Museum of Richmond - RICHMOND’S HISTORY
+snippet: RICHMOND’S HISTORY RICHMOND’S MUSEUM. Visit us and discover Richmond’s story from prehistory to modern day.. Learn about Richmond’s Tudor Palace and explore our collections through special exhibitions, events and activities.
+title: Visit – Richmond Museum of History
+snippet: The Richmond Museum of History is the most significant local history museum in West Contra Costa County. The museum is housed in a Carnegie Library built in 1910 that boasts a permanent exhibit gallery and a space for temporary exhibits and special events.
+title: Virginia Museum of History &amp; Culture
+snippet: Get closer to your history. Start your journey through the Virginia Museum of History &amp; Culture’s exhibitions. Our current long-term exhibitions include the Story of Virginia, Memorial Military Murals by Charles Hoffbauer and Landscapes of Virginia.
+title: Collection – Richmond Museum of History
+snippet: The Richmond Museum of History owns a vast collection of books, periodicals, ephemera, photographs, maps and artifacts related to Richmond history. The public is invited to conduct research on a range of subjects including genealogy, early Richmond industry, railroads, WWII Home Front, and much more.
+title: Richmond Museum of History - Richmond, California | Facebook
+snippet: Richmond Museum of History, Richmond, CA. 951 likes · 12 talking about this · 515 were here. The Richmond Museum Association (RMA) was incorporated In 1954 as a 501(c)3 nonprofit organization and...
+title: THE 10 BEST Richmond History Museums (with Photos ...
+snippet: Top Richmond History Museums: See reviews and photos of history museums in Richmond, Virginia on Tripadvisor.
+title: Virginia Museum of History &amp; Culture (Richmond) - Anmeldelser
+snippet: Virginia Museum of History &amp; Culture, Richmond: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Virginia Museum of History &amp; Culture i Richmond, Virginia på Tripadvisor.
+title: City of Richmond BC - Richmond Museum
+snippet: Due to the most recent public health guidelines regarding COVID-19, effective Monday, March 16, this facility is closed until further notice. Explore the culture and history of Richmond in the museum’s constantly changing exhibition gallery.
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Richmond ...
+snippet: Apr 5, 2020 - Looking to get inspired on your trip to Richmond? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Richmond to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 1
+POI Name: Perot Museum of Nature and Science
+POI City: Dallas
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Perot Museum of Nature and Science
+snippet: With 11 permanent exhibit halls in the heart of Dallas, the Perot Museum of Nature and Science provides an unforgettable experience for guests of all ages.
+title: Dinosaur Museum in Dallas | Perot Museum of Nature and Science
+snippet: With 11,000 square feet of space, the T. Boone Pickens Life Then and Now Hall at the Perot Museum of Nature and Science features dozens of dinosaur fossils.
+title: Things To Do in Dallas | Perot Museum of Nature and Science
+snippet: One of the most popular things to do in Dallas, a visit to the Perot Museum of Nature and Science is full of surprises. See prices and reserve your tickets.
+title: Get Tickets | Perot Museum of Nature and Science
+snippet: The Museum will remain closed to the public for the health and safety of our community. This closure will remain in effect indefinitely. Due to our closure, we are temporarily suspending all online ticket sales.
+title: Perot Museum of Nature and Science - Wikipedia
+snippet: The Perot Museum of Nature and Science (shortened to Perot Museum) is a natural history and science museum located in Dallas, Texas.It consists of two campuses: the primary campus located in Victory Park, and a secondary campus in Fair Park.The Victory Park campus museum was named in honor of Margot and Ross Perot. The current chief executive officer of the museum is Dr. Linda Abraham-Silver.
+title: Perot Museum of Nature and Science (Dallas) - 2020 All You ...
+snippet: We recommend booking Perot Museum of Nature and Science tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 4 Perot Museum of Nature and Science tours on Tripadvisor
+title: Perot Museum of Nature and Science
+snippet: Inspiring minds through nature and science is our mission and privilege — but we can’t do it alone. Thanks to teachers like you, the Perot Museum is honored to reach nearly 300,000 students each year through field trips and programs on your campus. We are so thankful for your involvement and enthusiasm.
+title: Perot Museum of Nature and Science - YouTube
+snippet: The Perot Museum of Nature and Science is now open in Victory Park, Dallas. Get ready to amaze your brain. perotmuseum.org
+title: Origins: Fossils from the Cradle of Humankind
+snippet: The Perot Museum is proud to host the exclusive world premiere of Origins: Fossils from the Cradle of Humankind. With this being the first – and likely only – time these two specimens will ever leave South Africa, the exhibition is making worldwide headlines.
+title: Toilet &amp; Elevator Tour: Perot Museum of Nature and Science ...
+snippet: Toilet &amp; Elevator Tour: Perot Museum of Nature and Science, ... McDonalds Playplace near Dallas Fort Love Airport ... Vintage American Standard Toilet and Urinal Natural Bridge Visitor Center ...
+
+REL: 1
+POI Name: Strength Evolution
+POI City: Madison
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trainers, 
+Snippets:
+title: Evolution Exercise - Strength Evolution
+snippet: I have been a regular at Strength Evolution, and can happily report my core strength has never been better. I still do heavy lifting at the farm, and never have had a single lower back issue. I credit Strength Evolution for this, in that my core strength has increased over 100%.
+title: Strength Evolution of Wisconsin, N22W27847 Edgewater Dr ...
+snippet: Strength Evolution of Wisconsin . Nearby gyms &amp; sports facilities. MUD Racing N22W 28204 Edgewater Dr . Water&#39;s Edge Boat Club, LLC N27W27250 Woodland Dr . A Scow National Championship Edgewood . Buck Rub Outfitters Ltd N13W28400 Silvernail Rd . Performance Max Basketball Training, LLC 53072 .
+title: About Us | Strength Evolution
+snippet: Evolution’s youth strength academy will help you build your strength, flexibility and balance, so you can compete at your highest level. Evolution Exercise and Spine Center is a private and locally owned business, providing you with three convenient locations in the Milwaukee and Madison areas.
+title: One-On-One Commitment | Strength Evolution
+snippet: At Strength Evolution we specialize in a low-force, slow motion strength training method. It is so potent that you will improve your strength, flexibility and endurance without traditional aerobics or stretching. There are no sudden, explosive movements that can potentially cause injury. Every exercise is performed in a controlled and focused ...
+title: Madison | Strength Evolution
+snippet: Evolution Exercise and Spine Center is an innovative provider of research-based, medically-oriented physical therapy, exercise and wellness services in the Milwaukee, Waukesha and Madison areas. We are committed to enhancing the health of our patients and clients by providing results driven, ...
+title: Strength Evolution - Junction Ridge - Madison, WI
+snippet: 1 review of Strength Evolution &quot;I have gone to Evolution Exercise and Spine for 5 years. Originally I went to strengthen my back and legs due to sciatica and other chronic pain. For 30 minutes per session 2X week, I have better range of motion,…
+title: Pewaukee Team | Strength Evolution
+snippet: Evolution Exercise and Spine Center is an innovative provider of research-based, medically-oriented physical therapy, exercise and wellness services in the Milwaukee, Waukesha and Madison areas. We are committed to enhancing the health of our patients and clients by providing results driven, high quality physical conditioning and rehabilitation; within a first-class environment.
+title: Strength Evolution of Wisconsin - Fitness Trainer ...
+snippet: Strength Evolution of Wisconsin. 382 likes. TRAIN SMART: Strength Training with a personal trainer, 30 minutes, 1 or 2x week. Private, professional setting. Efficient and Effective. Includes the MedX...
+title: Strength Evolution - Fitness Trainer - Pewaukee, Wisconsin ...
+snippet: Strength Evolution, Pewaukee, Wisconsin. 39 likes. Strength Academy is a youth strengthening program. All sessions are private and conducted either one on one or one on two. 5th through 12th grade.
+title: Home | Madison &amp; Monona Med Spa | Evolution Body ...
+snippet: A Madison Weight Loss Clinic and Med Spa with Over 20 Years of Experience in the Science of Health and Beauty. learn more. At Evolution Body Transformation, our goal is simple: To surprise you with fast, beautiful “WOW!” results. ... I can totally feel the change in my strength in my work outs. My waist is smaller already!
+
+REL: 1
+POI Name: Orchard Ridge Nursery School
+POI City: Madison
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Preschools, Elementary Schools, Summer Camps, 
+Snippets:
+title: Orchard Ridge Nursery School - A High-Quality Preschool In ...
+snippet: Welcome to Orchard Ridge Nursery School. Orchard Ridge Nursery School (ORNS), a non-profit preschool founded in 1967, has been a pioneer in providing high-quality education. Located in Madison, WI, we serve families with children between 27 months and five years of age. OUR MISSION
+title: Orchard Ridge Nursery School - Home | Facebook
+snippet: Orchard Ridge Nursery School, Madison, Wisconsin. 378 likes. ORNS is a high-quality, non-profit preschool on Madison’s west side. We provide a child-centered, play-based learning experience for 2k-4k...
+title: Orchard Ridge Nursery School - Madison, Wisconsin - WI ...
+snippet: Orchard Ridge Nursery School in Madison, Wisconsin (WI). Read parent reviews and get the scoop on the school environment, teachers, students, programs and services available from this preschool.
+title: Orchard Ridge Nursery School, 1025 McKenna Blvd, Madison ...
+snippet: Orchard Ridge Nursery School Open House . If your child is ready for preschool join us for our Open House on January 19th from 10 a.m. - Noon. You and your child are welcome to explore our classrooms, talk to teachers and parents of current students and experience why Orchard Ridge Nursery School is a place preschoolers play, learn and thrive.
+title: Orchard Ridge Nursery School | MADISON WI
+snippet: ORCHARD RIDGE NURSERY SCHOOL is a Licensed Group Child Care in MADISON WI. It has maximum capacity of 70 children. The provider accepts children ages of: 2 Year(s), 3 Month(s) - 7 Year(s). The license number is: 120223.
+title: Orchard Ridge Nursery School | Hulafrog Madison, WI
+snippet: Orchard Ridge Nursery School (ORNS) is a non-profit preschool on Madison&#39;s west side that serves families with children between 27 months and five years of age. Since its inception in 1967, ORNS has been a pioneer in providing high-quality, play-based education for preschoolers in the Madison area.
+title: Orchard Ridge Nursery School - Preschool in Madison, WI ...
+snippet: Orchard Ridge Nursery School Preschool 1025 McKenna Blvd Madison check_circle Claimed. Non-profit preschool program offering a child-centered, play-based learning experience for students. Daily activities include meeting time where children collaborate and discuss the weather and share stories and experiences.
+title: Welcome to Orchard Ridge Elementary School! | Orchard ...
+snippet: Adopt-a-School is a program of the Foundation for Madison’s Public Schools designed to link community resources to the particular needs of each school. Learn more about these meaningful, strategic partnerships here and the partners who serve each of our schools.
+title: Orchard Ridge Nursery School 1025 McKenna Blvd Madison, WI ...
+snippet: Get directions, reviews and information for Orchard Ridge Nursery School in Madison, WI. Orchard Ridge Nursery School 1025 McKenna Blvd Madison WI 53719. 1 Reviews (608) 274-8407 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: 2020-21 School Year 4K Site Information | Department of ...
+snippet: ALL MADISON SCHOOLS NOW CLOSED. TODAS LAS ESCUELAS DEL MMSD ESTÁN CERRADAS AHORA. TAM SIM NO TAG NRHO MMSD COV TSEV KAWM NTAWV KAW LAWM. MMSD.ORG/COVID19. Madison, Wisconsin. ... Orchard Ridge Nursery School. 1025 McKenna Blvd; 608-274-8407; Preschool of the Arts. 11 Science Ct. 608-233-1707; Red Caboose Child Care Center, Inc. 654 Williamson St.
+
+REL: 1
+POI Name: Wisconsin Garden Expo
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Garden Expo 2018 - Garden &amp; Landscape Expo 2021
+snippet: Wisconsin Public Television’s Garden Expo is a midwinter oasis in Madison for people ready to venture out and dig their hands in the dirt.
+title: Tickets | Garden &amp; Landscape Expo 2021 - Garden Expo 2018
+snippet: Group and Bus Tours. PBS Wisconsin&#39;s Garden &amp; Landscape Expo welcomes groups of visitors ready to think spring! A complimentary bus parking permit is included ($21 value) for groups of 20 or more if tickets are purchased in advance (by Jan. 25).
+title: About | Garden &amp; Landscape Expo 2021 - Garden Expo 2018
+snippet: About. PBS Wisconsin&#39;s Garden &amp; Landscape Expo is a midwinter oasis for people ready to venture out and dig their hands in the dirt. Now in its 28th year, this three-day event celebrates the latest trends in gardening and landscaping, and attracts more than 20,000 people from across the Midwest.
+title: The Midwest Garden Expo - Madison, WI - Feb 07, 2020
+snippet: Since 1994, The Wisconsin Public Television Garden Expo will feature exhibitors, seminars, workshops and much more to fill all of your gardening needs. Garden Expo offers you a space to Think Green and to begin planning for sunnier days. The three- day event celebrates the latest trends in
+title: Garden &amp; Landscape Expo 2020 | Community Events | madison.com
+snippet: As winter settles over Wisconsin, the 27th-annual PBS Wisconsin Garden &amp; Landscape Expo brings a bit of spring-like warmth to the Exhibition Hall at the Alliant Energy Center in Madison
+title: Garden &amp; Landscape Expo - Isthmus | Madison, Wisconsin
+snippet: press release: As winter settles over Wisconsin, the 27th-annual PBS Wisconsin Garden &amp; Landscape Expo brings a bit of spring-like warmth to the Exhibition Hall at the Alliant Energy Center in ...
+title: WI Garden &amp; Landscape Expo 2021 | Madison, WI
+snippet: WI Garden &amp; Landscape Expo is a premier regional consumer show related to horticulture industry which is set to start on 12 February 2021, Friday in Madison, WI, United States, and organized by Wisconsin Public Television.
+title: Seminars/Demos - Saturday | | Garden &amp; Landscape Expo 2021
+snippet: Garden &amp; Landscape Expo features more than 150 educational presentations. Below is the educational schedule from the 2020 event. Details for the 2021 Garden &amp; Landscape Expo will be available in December. Seminar Room/Demo Stage Sponsors
+title: Seminars/Demos | Garden &amp; Landscape Expo 2021
+snippet: Seminars / Demos Garden &amp; Landscape Expo features more than 150 educational presentations. Below is the educational schedule from the 2020 event. Details for the 2021 Garden &amp; Landscape Expo will be available in December. Seminar Room/Demo Stage Sponsors
+title: PBS Wisconsin
+snippet: Research currently underway at the University of Wisconsin-Madison could lead to a unique vaccine that provides protection against both the novel coronavirus and influenza, with human trials potentially on the horizon as early as fall 2020.
+
+REL: 1
+POI Name: Columbus Antique Mall & Museum
+POI City: Columbus
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Antiques, Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Union South
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, Music Venues, 
+Snippets:
+title: Union South - University of Wisconsin–Madison
+snippet: The &quot;new&quot; Union South building carries on the Wisconsin Union tradition of serving as the heart and soul of this great campus. Sustainability While the student-led design committee sought a minimum of a silver Leadership award in Energy and Environmental Design (LEED) rating, Union South far surpassed their, expectations receiving a gold LEED rating in sustainability and environmental de
+title: Wisconsin Union Hotel » Wisconsin Union
+snippet: The Wisconsin Union Hotel is located in the heart of the UW Madison campus at Union South, an organic prairie-style building influenced by Frank Lloyd Wright, built in 2011. Hotel guests are just steps away from all the action at Camp Randall Stadium on Badger football Saturdays.
+title: Rooms &amp; Amenities » Wisconsin Union
+snippet: Rooms &amp; Amenities Accommodations The Wisconsin Union Hotel offers a variety of rooms with views of the Union South Plaza, historic Camp Randall stadium and the downtown area of Madison.
+title: Wisconsin Union Hotel &amp; Club Suites » Wisconsin Union
+snippet: The Wisconsin Union Hotel and Club Suites welcome you to the UW-Madison campus. The Wisconsin Union Hotel is located in Union South, neighboring Camp Randall and the west end of campus. 60 guest rooms in this LEED Gold 2011 building offer a variety of options.
+title: The Marquee Cinema » Wisconsin Union
+snippet: The Marquee located on the second floor of Union South is the home for film on campus. This 330-seat cinema hosts hundreds of film screenings every year, the majority of which are programmed by the WUD Film Committee. The Marquee features dual 35mm projectors, an HD projection system, and a state-of-the art sound system.
+title: Wisconsin Union Hotel - Home Page
+snippet: We use cookies to provide you with the best user experience on our site. Cookies are files stored in your browser and are used by websites to help personalize your web experience.
+title: Wisconsin Union Hotel Specialty Hotel, Madison - TripAdvisor
+snippet: The Wisconsin Union Hotel at Union South (UW-Madison) offers a warm, inviting oasis of ‘green’ hospitality, welcoming you to one of the nation’s most livable cities with peaceful ambiance, artful decor, and unsurpassed service.
+title: Union South (Wisconsin) - Wikipedia
+snippet: Union South is a student activity center located on the University of Wisconsin-Madison Campus. The original building was demolished in 2009 and a new renovated facility opened on April 15, 2011. The new building features lounges, an outdoor terrace and pavilion with fireplace, a rock climbing wall, bowling alley, and billiards, along with several dining options.
+title: Union South Hotel - Review of Wisconsin Union Hotel ...
+snippet: Wisconsin Union Hotel: Union South Hotel - See 168 traveler reviews, 31 candid photos, and great deals for Wisconsin Union Hotel at Tripadvisor. Madison Tourism Madison Hotels
+title: Info Lab at Union South - University of Wisconsin–Madison
+snippet: Madison, WI 53715 The Division of Information Technology (DoIT) offers computers and printers and a scanner for use on the second floor of Union South by people who have NetIDs (the general public does not have access to these computers/printers) .
+
+REL: 1
+POI Name: Alumni Park
+POI City: Madison
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Alumni Park
+snippet: Support the park We are grateful to the nearly 4,000 donors who helped Alumni Park become a reality. This park would not be possible without the support of these generous donors. All gifts, large and small, made a difference in bringing this 109-year dream to life.
+title: About the Park – Alumni Park
+snippet: About the Park. Welcome to Alumni Park! Here, between Lake Mendota and Langdon Street, between Memorial Union and the Red Gym, you’ll find a place that celebrates the University of Wisconsin–Madison and its graduates.
+title: Alumni Park at UW-Madison - Home | Facebook
+snippet: Alumni Park at UW-Madison, Madison, Wisconsin. 7,286 likes · 24 talking about this · 2,087 were here. Alumni Park will be a year-round celebration of how alumni fulfill the Wisconsin Idea through...
+title: Alumni Park (Madison) - 2020 All You Need to Know BEFORE ...
+snippet: Using your smartphone, you&#39;ll be given an app to download and a starting location. Once you arrive at the starting location, you&#39;ll send a text to check in and get your game setup on the app.
+title: Park Map – Alumni Park
+snippet: Explore Alumni Park. Discover exhibits that celebrate alumni achievements and what it means to be a Badger. While in the park, come back to alumnipark.com to get the stories behind the exhibits.. Each area of Alumni Park offers something special for you to explore and enjoy.
+title: Events – Alumni Park
+snippet: Events. Alumni Park is always free to visit and the park will also feature a variety of Wisconsin Alumni Association and UW-Madison programs and events including festivals, arts and cultural programs, outdoor lectures, and workshops.
+title: THE 10 CLOSEST Hotels to Alumni Park, Madison ...
+snippet: Hotels near Alumni Park, Madison on Tripadvisor: Find 16,836 traveler reviews, 5,883 candid photos, and prices for 30 hotels near Alumni Park in Madison, WI.
+title: THE 10 BEST Restaurants Near Alumni Park in Madison, WI ...
+snippet: Restaurants near Alumni Park, Madison on Tripadvisor: Find traveler reviews and candid photos of dining near Alumni Park in Madison, Wisconsin.
+title: Alumni Park (Madison) - All You Need to Know BEFORE You Go ...
+snippet: Alumni Park, Madison: See 11 reviews, articles, and 3 photos of Alumni Park, ranked No.35 on Tripadvisor among 80 attractions in Madison.
+title: Explore Exhibits – Alumni Park
+snippet: Explore Alumni Park&#39;s Exhibits Alumni Park boasts more than 50 museum-quality outdoor exhibits that will educate visitors about alumni achievements as well as University of Wisconsin innovations and traditions. More than 120 UW-Madison alumni are honored and celebrated in Alumni Park, representing
+
+REL: 1
+POI Name: Fresco
+POI City: Madison
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), 
+Snippets:
+title: Fresco | Madison, WI
+snippet: A captivating downtown dining destination. Perched on the top floor of the Madison Museum of Contemporary Art on State Street, Fresco is a haven for fresh and elegant dining while featuring the best view anywhere of downtown Madison and MMoCA’s sculpture garden.
+title: Fresco | Menus | Madison, WI
+snippet: Catering a Fresco Cento The Coopers Tavern Craftsman Table and Tap Dlux Eldorado Grill. Everly Fresco Hubbard Avenue Diner Johnny Delmonico&#39;s Steakhouse Luigi&#39;s Pizza. Market Street Diner &amp; Bakery Miko Poke Monty&#39;s Blue Plate Diner Steenbock&#39;s on Orchard Tex Tubb&#39;s Taco Palace. RESERVE NOW Join our Email List.
+title: Fresco, Madison - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Fresco, Madison on Tripadvisor: See 192 unbiased reviews of Fresco, rated 4 of 5 on Tripadvisor and ranked #64 of 928 restaurants in Madison.
+title: Fresco Restaurant - Madison, WI | OpenTable
+snippet: Book now at Fresco in Madison, WI. Explore menu, see photos and read 2520 reviews: &quot;Food and service were excellent! The server was attentive and gave excellent descriptions and advice regarding the food selections.&quot;
+title: about us | Fresco - Fresco | Madison, WI
+snippet: Fresco’s wines are a highlight of any visit; grouped by flavor profile instead of grape varietal, it’s an intuitive way for guests to read and select wines from the menu. Fresco + MMoCA Part of Fresco’s appeal is its spectacular location on the rooftop of the Madison Museum of Contemporary Art, right in the heart of State Street.
+title: contact | Fresco - Fresco | Madison, WI
+snippet: Catering a Fresco Cento The Coopers Tavern Craftsman Table and Tap Dlux Eldorado Grill Everly Fresco Hubbard Avenue Diner Johnny Delmonico&#39;s Steakhouse Luigi&#39;s Pizza Market Street Diner &amp; Bakery Miko Poke Monty&#39;s Blue Plate Diner Steenbock&#39;s on Orchard Tex Tubb&#39;s Taco Palace
+title: gallery | Fresco - Fresco | Madison, WI
+snippet: Catering a Fresco Cento The Coopers Tavern Craftsman Table and Tap Dlux Eldorado Grill. Everly Fresco Hubbard Avenue Diner Johnny Delmonico&#39;s Steakhouse Luigi&#39;s Pizza. Market Street Diner &amp; Bakery Miko Poke Monty&#39;s Blue Plate Diner Steenbock&#39;s on Orchard Tex Tubb&#39;s Taco Palace. RESERVE NOW Join our Email List.
+title: Fresco, Madison - Menu, Prices, Restaurant Reviews ...
+snippet: I have visited Fresco multiple times, including Madison Restaurant Week, girls night out, and dinner before a show. I have also visited during summer and winter months. All times it has not disappointed. Although the menu is a bit pricey, the quality is high and... More. Date of visit: April 2016.
+title: FRESCO, Madison - Updated 2020 Restaurant Reviews, Menu ...
+snippet: Reserve a table at Fresco, Madison on Tripadvisor: See 192 unbiased reviews of Fresco, rated 4 of 5 on Tripadvisor and ranked #64 of 928 restaurants in Madison.
+title: Fresco, Downtown Isthmus, Madison - Urbanspoon/Zomato
+snippet: Mothersday!. My son took me for dinner to the museum&#39;s roof top Fresco Restaurant. It was a very pleasing experience. I ordered the homemade Gnocchi, the best one I ever had.Everyone else also enjoyed their meal. Lot&#39;s of Martini drinkers, we like beer. Great outlook of the City from the Terrace. Only good things to say about the service.
+
+REL: 1
+POI Name: Steep & Brew West
+POI City: Madison
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Ice Cream & Frozen Yogurt, Juice Bars & Smoothies, 
+Snippets:
+title: STEEP &amp; BREW - Coffee Done Right - Steep N Brew - West
+snippet: ©2017 Steep n Brew - West. Powered by Adam Information Technologies LLC. Facebook. SteepNBrewWest. Text Us. Send Clear ...
+title: Steep &amp; Brew Coffee | Online Coffee Ordering, Gourmet ...
+snippet: COVID-19 Response. The Corona Virus has been and will be affecting how we live our lives into the near future. At Steep and Brew Coffee, we are taking every necessary precaution in our work environment and with our employees to ensure their safety, as well as the safe handling of our products.
+title: Steep N Brew - West - Home | Facebook
+snippet: Steep N Brew - West - 6656 Odana Rd, Madison, Wisconsin 53719 - Rated 4.4 based on 27 Reviews &quot;The staff is very friendly! It&#39;s a nice cozy place to...
+title: STEEP &amp; BREW - Coffee Done Right
+snippet: Steep n Brew West 6656 Odana Rd, Madison, WI 53719 (located in Market Square Shopping Center) Call : (608) 833-6656. Working Hours. Monday to Friday 6AM - 7PM . Saturday 7AM - 7PM. Sunday 7AM - 5PM. Leave a Message. Send Clear ©2017 Steep n Brew - West. Powered by Adam Information Technologies LLC.
+title: Steep &amp; Brew, West Side, Madison - Urbanspoon/Zomato
+snippet: Related to Steep &amp; Brew, West Side Restaurants in Madison, Madison Restaurants, West Side restaurants, Best West Side restaurants, Rest of Madison restaurants, Coffee Shop in Madison, Coffee Shop near me, Coffee Shop in Rest of Madison, Coffee Shop in West Side, Dessert Parlour in Madison, Dessert Parlour near me, Dessert Parlour in Rest of ...
+title: Steep &amp; Brew West Madison, WI 53719 - 62 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Steep &amp; Brew West at 6656 Odana Rd in Madison - ⏰hours, ☎️phone number, ☝address and map.
+title: Steep N Brew - West, Madison - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Steep N Brew - West, Madison with Tripadvisor: See 2 unbiased reviews of Steep N Brew - West, ranked #566 on Tripadvisor among 928 restaurants in Madison.
+title: Steep &amp; Brew West 6656 Odana Rd Madison, WI Coffee &amp; Tea ...
+snippet: Steep &amp; Brew West 6656 Odana Rd Madison WI 53719. 35 Reviews (608) 833-6656 Website. Menu &amp; Reservations Make Reservations . ... Overall, kind of a strange-feeling café. I&#39;ve been to other Steep &amp; Brew locations in Madison before they closed on State Street, but this one had a strange set up. Located as part of a strip mall ...
+title: STEEP N BREW WEST - Madison, WI 53711 (Menu &amp; Order Online)
+snippet: Online ordering menu for STEEP N BREW WEST. Steep N Brew West has been owned and operated by the Khalifa family since 2012. Our menu features Cafe Au Lait, CHai Latte, Apricot Tea, Burritos, and Ice Cream! Find us on Odana Road near Harrison Garner Park. Order online for carryout!
+title: Steep &amp; Brew Coffee Storefromt Homepage
+snippet: To browse coffees, select a category from the menu bar below the logo above. Curl Up With a Warm Cup of Steep &amp; Brew or Café Fair Coffee! Holding a cup of home-brewed coffee from Steep &amp; Brew is like holding the world in the palm of your hand.
+
+REL: 1
+POI Name: McClung Museum
+POI City: Knoxville
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: McClung Museum of Natural History &amp; Culture
+snippet: The University of Tennessee, Knoxville McClung Museum of Natural History &amp; Culture Toggle navigation Menu . Museum Closure As COVID-19 Precaution Read Our Full Response ... See which exhibitions are currently on view at the McClung. Explore exhibitions. Upcoming Events. View more events.
+title: McClung Museum of Natural History and Culture (Knoxville ...
+snippet: Hotels near McClung Museum of Natural History and Culture: (0.74 mi) The Tennessean Hotel (0.95 mi) The Oliver Hotel (0.67 mi) Hampton Inn &amp; Suites Knoxville - Downtown (0.39 mi) Graduate Knoxville (0.82 mi) Hilton Knoxville; View all hotels near McClung Museum of Natural History and Culture on Tripadvisor
+title: Visit | McClung Museum of Natural History &amp; Culture
+snippet: Admission and parking are free. The McClung Museum is located at 1327 Circle Park Drive, Knoxville, TN 37996, off Volunteer Boulevard on the campus of the University of Tennessee, Knoxville.Click on our address above for driving directions. The museum is closed on the following dates: January 1, Easter, Memorial Day, July 4, Labor Day, UT Thanksgiving Administrative Closure (Thursday and ...
+title: Events | McClung Museum of Natural History &amp; Culture
+snippet: The McClung Museum encourages partnerships with community groups and welcomes university-affiliated groups to host programs and events in our spaces. Upcoming Events. See more events. Visit the Museum. ... The University of Tennessee, Knoxville Knoxville, Tennessee 37996 865-974-1000.
+title: McClung Museum of Natural History and Culture - 5,853 ...
+snippet: McClung Museum of Natural History and Culture - 1327 Circle Park Drive, Knoxville, Tennessee 37996 - Rated 4.6 based on 104 Reviews &quot;My husband and I...
+title: McClung Museum of Natural History &amp; Culture - Knoxville
+snippet: The McClung Museum of Natural History &amp; Culture is located on the campus of the University of Tennessee, Knoxville. Exhibitions showcase the geologic, historical, and artistic past of Tennessee, and also highlight cultures from around the globe. Parking and admission are free.
+title: Exhibitions | McClung Museum of Natural History &amp; Culture
+snippet: Mexican Modernity: 20th-Century Paintings from the Zapanta Collection September 11, 2020–January 3, 2021. The forty paintings, prints, drawings, and mixed media art in the exhibition include works by several generations of modern Mexican artists, and provide an overview of important artistic styles and an in-depth consideration of socio-political events that informed their creative output.
+title: Staff | McClung Museum of Natural History &amp; Culture
+snippet: General Contact Information. McClung Museum of Natural History &amp; Culture The University of Tennessee 1327 Circle Park Drive Knoxville TN 37996-3200
+title: McClung Museum of Natural History and Culture - Wikipedia
+snippet: The McClung Museum of Natural History and Culture is a museum located on the campus of the University of Tennessee in Knoxville. Built in 1963, exhibits focus on natural history, archaeology, anthropology, decorative arts, and local history. The Museum hosts various changing exhibits of art, history and culture.
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Knoxville ...
+snippet: Apr 5, 2020 - Looking to get inspired on your trip to Knoxville? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Knoxville to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 1
+POI Name: National Jazz Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: National Jazz Museum in Harlem
+snippet: The National Jazz Museum in Harlem is deeply grateful for your attendance at our events, your support of our work and our mission, and your commitment to art. This sustains us, as we hope we help to sustain you. Remember to reach out to your community of loved ones, friends and colleagues during these interesting times.
+title: National Jazz Museum in Harlem - Wikipedia
+snippet: Programs and exhibits. The National Jazz Museum in Harlem&#39;s Visitors Center has featured exhibits such as The Ghosts of Harlem by American music producer, photographer, and author Hank O&#39;Neal.The show included images of Harlem jazz legends that O&#39;Neal had the chance to interview and photograph for his book of the same name.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: National Jazz Museum - Uptown - Chicago, IL
+snippet: 2 visitors have checked in at National Jazz Museum. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Top Museums in Chicago, IL - TripAdvisor
+snippet: Apr 6, 2020 - Looking to get inspired on your trip to Chicago? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Chicago to visit in 2020. Book effortlessly online with Tripadvisor!
+title: Chicago Blues Experience—Where the blues lives - Chicago ...
+snippet: Chicago is the birthplace of modern blues, a pure American art form that has had a profound influence on nearly every style of music that followed. The Chicago Blues Experience celebrates the pioneering artists as well as the generations of musicians who have been influenced by the blues and continue to carry on its traditions.
+title: National Jazz Museum - Chicago, IL, United States - Museum
+snippet: National Jazz Museum - W Leland Ave - (773)728-24... - Chicago, IL, United States reviews and experiences by real locals. Discover the best local restaurants, bars, cafes, salons and more on Tupalo
+title: New Orleans Jazz National Historical Park (U.S. National ...
+snippet: New Orleans Jazz National Historical Park. Only in New Orleans could there be a National Park for jazz! Drop by our visitor center at 916 North Peters St. to inquire about musical events around town. In the mood for a world class musical experience? Attend a jazz concert or ranger performance at the state of the New Orleans Jazz Museum.
+title: The A. Philip Randolph Pullman Porter Museum
+snippet: The Official Site of the A. Philip Randolph Pullman Porter Museum. The Official Site of the A. Philip Randolph Pullman Porter Museum. Home; ... National Descendant Search. ... Chicago, IL 60628 MUSEUM ENTRANCE: 817 E. 104th Street 104th Street ...
+title: National Jazz Museum - Museums in Chicago, IL - enQuira Local
+snippet: National Jazz Museum is listed under the Chicago Museums category and is located in 1727 South Indiana Avenue, Chicago, IL. It can be reached at phone number (312)663-3038. For other Museums listings in Chicago, please check National Vietnam Veterans Art Museum, Chi-Am Museum Chicago, Spertus Museum, Museum of Contemporary Photography, and ...
+
+REL: 1
+POI Name: Esther Neptune
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Supernatural Readings, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Esther Neptune 234 Randolph Dr Apt 103D Madison, WI ...
+snippet: Esther Neptune whose real name is Heidi M. Dumkerman (she also goes by the name Heidi M. Timmerman) is nothing, but a fraud. She has lied to me and other clients.
+title: Esther Neptune | Facebook
+snippet: Esther Neptune is on Facebook. Join Facebook to connect with Esther Neptune and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+title: Esther Neptune in Madison | Esther Neptune 234 Randolph Dr ...
+snippet: Find Esther Neptune in Madison with Address, Phone number from Yahoo US Local. Includes Esther Neptune Reviews, maps &amp; directions to Esther Neptune in Madison and more from Yahoo US Local
+title: Esther Neptune Gift Cards and Gift Certificates - Madison ...
+snippet: Buy a gift card to Esther Neptune. Send it online to anyone, instantly. Esther Neptune - 234 Randolph Dr - Madison, WI
+title: Esther Neptune - YouTube
+snippet: Sign in to like videos, comment, and subscribe. Sign in. Watch later
+title: Esther Neptune | Esther Neptune - YouTube
+snippet: Professional psychic reader x 6 years. I provide excellent service and comprehensive readings to my valued clientele! I shuffle prior to the video so that your 3 minute read is jam packed with ...
+title: Ester Madison profiler | Facebook
+snippet: Personer som heter Ester Madison. Finn vennene dine på Facebook. Logg inn eller opprett en profil på Facebook for å holde kontakten med venner, familie og andre du kjenner. Logg inn. eller. Registrer deg. Ester Madison. Se bilder. Shop Assistant for Primark. Esther Madison. Se bilder.
+title: Esther Neptune- Master Astrologer and Tarot, 737 Kottke ...
+snippet: Esther was a pharmacist in her &#39;past life&#39;, but now has discovered her true calling is helping others with their struggles. Esther Neptune- Master Astrologer and Tarot, 737 Kottke Drive, Madison, WI (2020)
+title: Esther Nepdee Profiles | Facebook
+snippet: People named Esther Nepdee. Find your friends on Facebook. Log in or sign up for Facebook to connect with friends, family and people you know. Log In. or. Sign Up. Esther Nepdee. See Photos. Rivers State University of Science &amp; Technology, Port Harcourt. Esther Nepdee. See Photos. Self-employed. Esther Neptune.
+
+REL: 1
+POI Name: Old Town Serbian Gourmet House
+POI City: Milwaukee
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mediterranean, Modern European, 
+Snippets:
+title: Old Town Serbian Gourmet Restaurant - Lincoln Village ...
+snippet: Serbian &amp; Classic European Gourmet foods Our Menu. Serbian &amp; Classic European Gourmet foods ... Oldest Serbian restaurant in Milwaukee serving old-school European cuisine. Flavors of the Balkan, Mediterranean and Slavic foods. Live music on Saturday. Featuring Serbian beers, slivovitz (Plum Brandy), Liqueurs and Serbian Wines.
+title: Old Town Serbian Gourmet House, Milwaukee - Restaurant ...
+snippet: Old Town Serbian Gourmet House, Milwaukee: See 96 unbiased reviews of Old Town Serbian Gourmet House, rated 4 of 5 on Tripadvisor and ranked #152 of 1,425 restaurants in Milwaukee.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Old Town Serbian Gourmet Restaurant - Home - Milwaukee ...
+snippet: Old Town Serbian Gourmet Restaurant - 522 W Lincoln Ave, Milwaukee, Wisconsin 53207 - Rated 4.7 based on 98 Reviews &quot;Our family has been coming here for...
+title: Old Town Serbian Gourmet House - Menu &amp; Reviews - Lincoln ...
+snippet: Read reviews from Old Town Serbian Gourmet House at 522 W Lincoln Ave in Lincoln Village Milwaukee 53207-1134 from trusted Milwaukee restaurant reviewers. Includes the menu, 1 review, photos, and 1 dish from Old Town Serbian Gourmet House.
+title: Old Town Serbian Gourmet House - 61 Photos &amp; 61 Reviews ...
+snippet: 61 reviews of Old Town Serbian Gourmet House &quot;If you aren&#39;t able to book a trip to Europe this summer, plan instead on taking a group to Old Towne. I have been going to eat here for years, and I was worried it might not be open anymore. But it…
+title: Old Town Serbian Gourmet House - Updated COVID-19 Hours ...
+snippet: 63 reviews of Old Town Serbian Gourmet House &quot;The food here was amazing! I was worried if I would enjoy the food because I had never tried Serbian food, I am vegetarian, and the place was empty except for us at lunch. However, our server was very…
+title: Old Town Serbian Gourmet House in Milwaukee - Restaurant ...
+snippet: All info on Old Town Serbian Gourmet House in Milwaukee - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Old Town Serbian Gourmet Restaurant - Drink Menu
+snippet: lav - Brasserie Fantome. $8.00. Lager. 5.0% ABV
+title: Old Town Serbian Gourmet Restaurant - Catering
+snippet: Catering We cater for all types of events. We are one of the exclusive caters for the CAVT Museums, Villa Terrace and Charles Allis Museums.. For more information and reservations contact us at 414-672-0206.
+
+REL: 1
+POI Name: Death Museum Store
+POI City: Seattle
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Death Museum Store - Downtown - Seattle, WA - Yelp
+snippet: 1 review of Death Museum Store &quot;This is a highly enjoyable little shop at the same location as the Death Museum, part of the Spooked in Seattle Tours. The store supports local artists, and some very cool and creative things make their way into…
+title: The Death Museum In Seattle Washington Is Not For The ...
+snippet: The Museum Of Death in Washington Is Not For The Faint Of Heart. Since 2004, locals and tourists alike have enjoyed hearing local ghost stories from real ghost hunters on Spooked in Seattle Tours. The 90-minute guided trips through the city’s unique neighborhoods include information about ghosts as well as some evidence of hauntings.
+title: Seattle Death Museum - Home | Facebook
+snippet: Seattle Death Museum. 1,765 likes · 29 talking about this · 313 were here. Spooked in Seattle has launched the first death museum in the NW. See real coffins from the 1800’s,Victorian mourning attire...
+title: Photos for Death Museum Store - Yelp
+snippet: Photos at Death Museum Store - Seattle, WA. Yelp. Cancel
+title: Death Museum Tours | Pioneer Square
+snippet: Death Museum Tours Information on items in the Death Museum; including stories of haunted objects, haunted dolls, and our mascot Annie. Join June every hour on the hour for this special look at the Pacific Northwest&#39;s first Death Museum. All proceeds go to the maintenance and build up of The Se
+title: Shops - SAM - Seattle Art Museum
+snippet: HOURS Open during museum hours. Location. Located on the street level of the Seattle Art Museum, on 1st Avenue between Union and University Streets. Contact Us. We are happy to answer any questions that you may have regarding products, shipping, or special requests.
+title: Seattle is home to the Northwest&#39;s first &quot;death museum ...
+snippet: SEATTLE — Beneath the Seattle street, where groups take history and ghost tours, there&#39;s also an exhibit quite permanent in nature: the Seattle Death Museum. &quot;(It’s) the Northwest&#39;s first ...
+title: The Death Museum In Washington Celebrates All Things ...
+snippet: You just might after you take the eerie and informative Spooked in Seattle tour. Not only is the 90 minute walking tour always hosted by real paranormal investigators, but it has the best gathering place ever: the Seattle Death Museum. This is the first death museum in the Pacific Northwest, and it’s equal parts creepy and fascinating.
+title: Scared to Death: The Thrill of Horror Film | MoPOP
+snippet: Scared to Death: The Thrill of Horror Film features more than 50 props and costumes from film and television including A Nightmare on Elm Street, Friday the 13th, The Walking Dead, Buffy the Vampire Slayer, Bride of Frankenstein, Dawn of the Dead, Hostel, Jeepers Creepers, and Pet Sematary.
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Seattle ...
+snippet: Apr 8, 2020 - Looking to get inspired on your trip to Seattle? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Seattle to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 1
+POI Name: Geeks Mania
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Arcades, 
+Snippets:
+title: Geeks Mania Arcade - Arcade, Games
+snippet: Geeks Mania Arcade Geeks Mania Arcade Geeks Mania Arcade. Hours. Closed Until April 6th due to CDC Recommendations (608) 316-1644. Featured Categories # New to the store. Our most recent Merch # Top Selling. Our top selling items # Gift Cards. Best place to buy gift cards. Geeks Mania Arcade. Geeks Mania Arcade 6502 Odana Rd Madison, WI 53719
+title: Geeks Mania - Home | Facebook
+snippet: Geeks Mania Arcade is sad to announce that we will be closing our doors for the foreseeable future due to the COVID-19 pandemic. Although it has been a difficult decision, we have decided that the safety and health of the community is of the utmost importance at this time.
+title: Parties | Geeks Mania Arcade
+snippet: Geeks Mania Arcade. 6502 Odana Road, Madison, Wisconsin 53719, United States. Support@geeksmania.com (608) 316-1644. Hours. Open today. 10:00 am – 12:00 am. Geeks Mania Arcade. Geeks Mania Arcade 6502 Odana Rd Madison, WI 53719 (608) 316-1644.
+title: Geeks Mania Arcade (Madison) - 2020 All You Need to Know ...
+snippet: Our favorite Madison activity. Our only mistake was not arriving earlier. Our family is comprised of 2 adults in their late 30s, and 5 kids (4 girls and 1 boy) ages 6, 9, 12, 12, and 15.
+title: Photos | Geeks Mania Arcade
+snippet: Geeks Mania Arcade. Geeks Mania Arcade 6502 Odana Rd Madison, WI 53719 (608) 316-1644
+title: Meet and Geek | Geeks Mania Arcade
+snippet: Geeks Mania Madison. Event Details. 03/10/2020. WJJO Presents (LIVE) Meet and Geek (The Raven Age) This March 10th we would like to invite you to a Meet and Geek with an English metalcore band from London! 3pm - 7pm. Geeks Mania Madison. 03/19/2020. WJJO Presents (LIVE) Meet and Geek . 3pm - 7pm.
+title: Arcade List | Geeks Mania Arcade
+snippet: Geeks Mania Arcade List. Updated 12/27/2019. New Pinball Tables. Houdini. Willy Wonka (STD) Pinball Tables. Addams Family, The Attack from Mars (SE) Batman &#39;66 (Premium) Black Knight Black Knight 2000 Black Knight SoR (Pro) ... Geeks Mania Arcade 6502 Odana Rd Madison, WI 53719 (608) 316-1644.
+title: Geeks Mania - Posts | Facebook
+snippet: Geeks Mania - 6502 Odana Rd, Madison, Wisconsin 53719 - Rated 4.7 based on 376 Reviews &quot;We were in Madison for a business trip of my wife’s and will be...
+title: Geeks Mania (Madison) - 2020 All You Need to Know BEFORE ...
+snippet: Using your smartphone, you&#39;ll be given an app to download and a starting location. Once you arrive at the starting location, you&#39;ll send a text to check in and get your game setup on the app.
+title: Geeks Mania - Home | Facebook
+snippet: Geeks Mania, Madison, Wisconsin. 37K likes. Admission Fees $15 Adult all day $15 Adult and Child all day $5 Additional Child with an adult all day Max 5 per adult Free on birthday with ID all day
+
+REL: 1
+POI Name: State Line Distillery
+POI City: Madison
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Distilleries, 
+Snippets:
+title: State Line - Small-Batch ... - State Line Distillery
+snippet: State Line Distillery proudly distills spirits from Wisconsin-sourced grains and botanicals, using classic Old World methods, from its Madison, WI headquarters.
+title: Whiskey from State Line Distillery in Madison, WI
+snippet: Just as critical in the creation of a fine whiskey is the aging process, to which State Line will pay strictest attention. State Line&#39;s barrels are American white oak sourced from a cooperage in Minnesota&#39;s north woods, where cold winter temperatures slow growth, resulting in tighter grains.
+title: State Line Vodka Made in Madison, Wisconsin
+snippet: Here&#39;s to vodka, the mix master&#39;s muse! One of the few things in life that&#39;s fancier when it is dirty. Nothing in the booziverse is more cocktail-friendly than vodka. State Line&#39;s vodka is more versatile than most because it&#39;s grain vodka, comparable to the classics of Poland and Ukraine where vodka was born and where it&#39;s still king.
+title: Visit - State Line Distillery
+snippet: At State Line each ingredient in every cocktail has been meticulously crafted using only fresh ingredients, which we believe results in a better drink. The spirits used are exclusively our own, distilled on site, providing us a unique opportunity to create cocktails that can only be found in our lounge.
+title: Gin from State Line Distillery in Madison, WI
+snippet: State Line&#39;s gin, however, is confidently produced in the new American style, eschewing old school practices in favor of New World techniques. Grounded in golden Midwestern grains, namely wheat and barley, our gin is exceptionally smooth, well-rounded and versatile. Perfect for fizzes and Rickeys, for Slings or French 75s.
+title: State Line Distillery - Home | Facebook
+snippet: State Line Distillery - 1413 Northern Ct, Madison, Wisconsin 53703 - Rated 4.9 based on 64 Reviews &quot;Update 01/26/2019-stopped in last night with friends...
+title: State Line Distillery (Madison) - 2020 All You Need to ...
+snippet: In this area of the Madison isthmus there are a number of micro distillery’s that you can make a sort of pub crawl. This distillery is rather small and has limited spirits to work with but I think that is the idea.
+title: State Line Distillery - Madison - America&#39;s Pub Quiz
+snippet: State Line Distillery – Madison About the Venue. OUR PLACE IS YOURS Our knowledgeable and passionate bar staff connects the art and science of distillation to beautifully designed, balanced cocktails. Our goal is to make craft cocktails that are approachable, delicious, and presented to you in a fun and educational manner.
+title: State Line Distillery - Madison
+snippet: State Line Distillery is proudly Wisconsin. We source our grains from local fields, our botanicals from local gardens. We&#39;re headquartered in the capital city. Our aim is to bottle the best of home, which in turn can be poured out and raised up in commemoration of life here, its pleasures big and small, its history and its future. Our knowledgeable and passionate bar staff connects the art and
+title: State Line Distillery – Small Business Development Center ...
+snippet: State Line Distillery currently has three full-time staff members, including Mleziva Production manager Mark Anunson manages scheduling and spirit production; and Mike McDonald, the bar manager and spirits ambassador, operates the State Line Distillery cocktail lounge. Four part-time bartenders and a part-time director of events round out the team.
+
+REL: 1
+POI Name: Great Taste of the Midwest
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Great Taste of the Midwest - Olin Park – Madison, Wisconsin
+snippet: The Madison Homebrewers and Tasters Guild is proud to sponsor the 34th edition of the Great Taste of the Midwest on August 8, 2020. The event is one of the premier beer festivals in the United States and features more than 190 of the Midwest’s finest craft brewers at Olin Park, overlooking Lake Monona in Madison, Wisconsin.
+title: Tickets – Great Taste of the Midwest - Madison, Wisconsin
+snippet: Great Taste Fans, Craft beer is really important to us. But nothing is more important than the health and safety of every patron that joins us at the Great Taste of the Midwest on the second Saturday every August at our favorite park in Madison.
+title: FAQ – Great Taste of the Midwest - Madison, Wisconsin
+snippet: The Great Taste of the Midwest beer festival is held annually at Olin Park in Madison on the second Saturday in August. The festival site is just off John Nolen Drive, across from the Alliant Energy Center. The gates open at 1:00 p.m. and the event ends at 6:00 p.m. There are NO onsite ticket sales.
+title: Program – Great Taste of the Midwest - Madison, Wisconsin
+snippet: 2020 Program 2020 Festival Map If you have a smart phone you might also consider using the Great Taste apps. They are continuously updated beyond the program print deadline. The updated app is typically released at the same time as the program. We’ll announce the release via social media...
+title: Great Taste of the Midwest - Madison, WI - Yelp
+snippet: For those that are not familiar, Great Taste of the Midwest is the second longest-running craft beer festival in North America. GTMW brings together over 190 brewers in a scenic location overlooking Lake Monona while providing some great views of downtown Madison and the state capital.
+title: Travel and Lodging – Great Taste of the Midwest
+snippet: Directions The Great Taste of the Midwest is held each year in Madison’s Olin Park, which overlooks beautiful Lake Monona and offers a wonderful view of downtown Madison. Please note that there is NO PARKING at Olin Park. Access for public vehicles on August 8th is strictly managed in order to...
+title: Great Taste of the Midwest - Madison
+snippet: The Great Taste is the second longest-running craft beer festival in North America. Every year over 190 breweries and brewpubs serve about 1400 different beers in a beautiful lakeside setting in Madison, Wisconsin. With a view of the state capitol, great local food vendors, and acoustic music throughout the park, you’ll enjoy the opportunity to explore the finest beers the Midwest has to ...
+title: Great Taste Of The Midwest - Madison, WI - Untappd
+snippet: Find out what&#39;s popular at Great Taste Of The Midwest in Madison, WI in real-time and see activity
+title: The Great Taste Of The Midwest - Madison, Wisconsin ...
+snippet: William Aaron Kenney reviewed Madison Great Taste Beer Fest — 5 star. June 16, 2014 · See More. Posts about The Great Taste Of The Midwest. Jack Johnson was at The Great Taste Of The Midwest. August 11, 2018 · Madison, WI · The Great Taste Of The Midwest. Restaurant · Madison, WI. 669 people checked in here. Ken Funck is at The Great ...
+title: Beer Baron: Great Taste of the Midwest &#39;huge ... - Madison
+snippet: Their presence is one of the defining characteristics of the Midwest&#39;s premier beer festival. Even if the near constant parade of summer beer events around the region could match the Great Taste in venue (Olin Park), execution (a regimented, dedicated group of veteran volunteers) and beer (more than 1,200 beers from around 187 breweries) they&#39;d still lack the Great Taste&#39;s appeal to br
+
+REL: 0
+POI Name: Hardee's
+POI City: Madison
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Fast Food, 
+Snippets:
+title: Hardee&#39;s®
+snippet: At Hardee&#39;s®, we&#39;re here to serve you. We&#39;re known as the place to go for juicy, delicious charbroiled burgers. Because if you&#39;re gonna eat, you should Eat Like You Mean It.®
+title: Find a Hardee&#39;s® | Hardee&#39;s®
+snippet: Search for a Hardee&#39;s® location or Red Burrito store, including international locations.
+title: Hardee&#39;s menu - Madison Heights VA 24521 - (804) 946-9615
+snippet: Restaurant menu, map for Hardee&#39;s located in 24521, Madison Heights VA, Us Route 29 S.
+title: www.hardees.com
+snippet: Hardee&#39;s – Just the way it is.
+title: Hardee&#39;s - Home - Madison, North Carolina - Menu, Prices ...
+snippet: Hardee&#39;s - 604 Burton Street, Madison, North Carolina 27025 - Rated 5 based on 4 Reviews &quot;I just about live there.&quot;
+title: Hardees Locations &amp; Hours Near Madison, WI - YP.com
+snippet: Find 6 listings related to Hardees in Madison on YP.com. See reviews, photos, directions, phone numbers and more for Hardees locations in Madison, WI.
+title: Hardees, in Madison, AL - Madison, Alabama Hardees, - MapQuest
+snippet: Find the best Hardees, around Madison,AL and get detailed driving directions with road conditions, live traffic updates, and reviews of local business along the way.
+title: Hardee&#39;s in Madison, AL Near Me - Hours and Locations
+snippet: Find here Hardee’s Madison AL Hours of operation, Locations, Phone Number and More. Check Here Open and Close Timings, Address, Phone Number, website information, mail and directions of closest Hardee’s in Madison Near You.
+title: Hardees - Review of Hardee&#39;s, Madison, NC - TripAdvisor
+snippet: Hardee&#39;s: Hardees - See 8 traveler reviews, candid photos, and great deals for Madison, NC, at TripAdvisor.
+title: Careers | Hardee&#39;s®
+snippet: Life at Hardee&#39;s Are you the type of person who thrives in a fun and fast-paced environment? If yes, then you&#39;ll love working at Hardee&#39;s See what some of our STARS are saying about us and start your path to stardome.
+
+REL: 0
+POI Name: Zoo Lights
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, Holiday Decorations, 
+Snippets:
+title: Zoo Lights | Events | Henry Vilas Zoo
+snippet: TICKETS ON SALE NOW!! We added a BONUS NIGHT of Zoo Lights for MONDAY DECEMBER 23rd!. Celebrate the most wonderful time of the year with one of the most unique events in Madison! This one-of-a-kind festival of lights begins the day after Thanksgiving and runs Thursday-Sundays from 5:30pm – 9pm until December 29th.
+title: Welcome to Henry Vilas Zoo | Madison, Wisconsin
+snippet: The Henry Vilas Zoo is an admission-free, community supported zoo in Dane County, WI. Learn more about our zoo, ... Take a look at our Instagram page @henryvilaszoo to stay up to date with all things happening around Madison’s favorite zoo. Use the hashtag #HenryVilasZoo and your photo could be featured.
+title: Zoo Lights - Isthmus | Madison, Wisconsin
+snippet: (2017 pick): Okay, the animals aren&#39;t lit up (or out for the night), but your wee friends will squeal in delight when our fantastic local zoo is transformed with thousands of lights for the ...
+title: Zoo lights! - Review of Henry Vilas Zoo, Madison, WI ...
+snippet: Henry Vilas Zoo: Zoo lights! - See 1,654 traveler reviews, 464 candid photos, and great deals for Madison, WI, at Tripadvisor.
+title: Zoo Lights Tickets On Sale Now | Henry Vilas Zoo
+snippet: Tickets for Dane County Henry Vilas Zoo’s Annual “Zoo Lights” Festival Now on Sale. Madison, WI – Dane County’s Henry Vilas Zoo will kick off Zoo Lights, its annual holiday lights festival, on Friday, November 29 th.The event will be held Thursdays – Sundays through December 29 th from 5:30pm – 9pm each night. Individual tickets are $7 and can also be purchased in a 4-pack for $25.
+title: Zoo Lights | WMHX - Madison, WI
+snippet: Celebrate the most wonderful time of the year with one of the most unique events in Madison! This one-of-a-kind festival of lights begins the day after Thanksgiving and runs Thursday-Sundays from 5:30pm – 9pm until December 29th. Sip on hot chocolate and stroll through the zoo at night while seeing over 800,000 holiday lights!
+title: BREW LIGHTS 2019 | Events | Henry Vilas Zoo
+snippet: Zoo events are a blast! Mark your calendar for the Henry Vilas Zoo BREW LIGHTS 2019 event today.
+title: Madison lights up for the holiday season | Local News ...
+snippet: Madison lights up for the holiday season Amanda Finn | Wisconsin State Journal ... Illuminated tigers are just one part of the second annual Zoo Lights at the Henry Vilas Zoo. Attendance at the first event last year went far beyond the organizers&#39; expectations. They hope to attract even more visitors this year, ...
+title: Stroll Through The Holiday Lights At Henry Vilas Zoo In ...
+snippet: The Wisconsin Zoo Is Decked Out In Thousands Of Glittering Lights For Your Holiday Enjoyment. Christmastime is here again! We might still be a few weeks away from the official start of the holiday season, but that doesn’t mean we can’t start filling our holiday calendars.
+title: Zoo Lights begins at Henry Vilas Zoo - wkow.com
+snippet: MADISON (WKOW) — Henry Vilas Zoo in Madison is showing off more than just its animals. The Zoo Lights festival started this weekend. More than a million bulbs are lighting up the zoo every Thursday through Sunday from 5:30 to 9 p.m.
+
+REL: 0
+POI Name: The Fine Arts Building
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: Fine Arts Building (Chicago) - Wikipedia
+snippet: The ten-story Fine Arts Building, also known as the Studebaker Building, is located at 410 S Michigan Avenue across from Grant Park in Chicago in the Chicago Landmark Historic Michigan Boulevard District.It was built for the Studebaker company in 1884–5 by Solon Spencer Beman, and extensively remodeled in 1898, when Beman removed the building&#39;s eighth (then the top) story and added three new .
+title: Fine Arts Building Studios
+snippet: Located on Michigan Avenue in Chicago&#39;s Cultural Mile district, the Fine Arts Building is an historic building reflecting a rich cultural legacy, as well as a thriving creative community full of artists, musicians, teachers, consultants, wellness experts, bookstores, and creatives of all types.
+title: Fine Arts Building
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Fine Arts Building (Chicago) - 2020 All You Need to Know ...
+snippet: We recommend booking Fine Arts Building tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Fine Arts Building tours on Tripadvisor
+title: Fine Arts Building · Buildings of Chicago · Chicago ...
+snippet: The Fine Arts Building has been a haven for artists and architecture buffs for decades. It is an excellent example of adaptive reuse, and today dozens of artists and arts organizations benefit from its charming studios and performance spaces.
+title: Chicago&#39;s Fine Arts Building Has 10 Floors But Innumerable ...
+snippet: Chicago&#39;s Fine Arts Building Has 10 Floors But Innumerable Stories On a prime block of Chicago&#39;s Michigan Avenue stands the Fine Arts Building. Producer and violinist David Schulman takes us on an ...
+title: Photos for The Fine Arts Building - Yelp
+snippet: Photos at The Fine Arts Building - Chicago, IL. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for The Fine Arts Building. The Fine Arts Building. 25 reviews Add photos Search photos... 53 photos mention &quot;&quot; Clear. Page 1 of 2 ...
+title: Palace of Fine Arts - Chicagology
+snippet: The Palace of Fine Arts (also known as the Fine Arts Building) at the 1893 World’s Columbian Exposition was designed by Charles B. Atwood for D. H. Burnham &amp; Co. Unlike the other “White City” buildings, it was constructed with a brick substructure under its plaster facade.
+title: Downtown Chicago&#39;s #1 Museum | The Art Institute of Chicago
+snippet: Located in downtown Chicago, the Art Institute is one of the world’s great art museums, housing a collection that spans centuries and the globe. Visit us online The museum is temporarily closed. ›
+title: Museum of Science and Industry (Chicago) - Wikipedia
+snippet: The Museum of Science and Industry (MSI) is a science museum located in Chicago, Illinois, in Jackson Park, in the Hyde Park neighborhood between Lake Michigan and The University of Chicago. It is housed in the former Palace of Fine Arts from the 1893 World&#39;s Columbian Exposition.
+
+REL: 0
+POI Name: G Heideman Gallery
+POI City: Madison
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: G HEIDEMAN GALLERY - MADISON, WI - Company Information
+snippet: G Heideman Gallery was founded in 2011, and is located at 1014 Pontiac Trl in Madison. It employs 2 employees and is generating approximately $73,000.00 in annual revenue.
+title: G Heideman Gallery 1014 Pontiac Trl Madison, WI Art ...
+snippet: Get directions, reviews and information for G Heideman Gallery in Madison, WI. G Heideman Gallery 1014 Pontiac Trl Madison WI 53711. 1 Reviews (608) 270-1989. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: G Heideman Gallery - Dane - Madison - Wisconsin | Pontiac ...
+snippet: You can find G Heideman Gallery in Madison on Dane, Pontiac Trail, 1014 number in street.You can use (608) 270-1989 phone number to contact us.
+title: G Heideman Gallery 1014 Pontiac Trl, Madison, WI 53711 ...
+snippet: Get reviews, hours, directions, coupons and more for G Heideman Gallery at 1014 Pontiac Trl, Madison, WI 53711. Search for other Art Galleries, Dealers &amp; Consultants in Madison on The Real Yellow Pages®.
+title: G Heideman Gallery in Madison, 1014 Pontiac Trl - Picture ...
+snippet: Description. G Heideman Gallery can be found at 1014 Pontiac Trl . The following is offered: Picture Framing - In Madison there are 11 other Picture Framing.
+title: Heideman G Gallery Inc in Madison, WI with Reviews - YP.com
+snippet: Find 1 listings related to Heideman G Gallery Inc in Madison on YP.com. See reviews, photos, directions, phone numbers and more for Heideman G Gallery Inc locations in Madison, WI.
+title: G. Heideman, Inc. in Madison, WI | Company Info &amp; Reviews
+snippet: G. Heideman, Inc. is a Wisconsin Domestic Business Corporation filed on February 7, 1980. The company&#39;s filing status is listed as Administratively Dissolved and its File Number is 1H10469. The Registered Agent on file for this company is Gerald N Heideman and is located at 1014 Pontiac Trail, Madison, WI 53711.
+title: G Heideman Gallery in Madison, Wisconsin, WI
+snippet: G Heideman Gallery in Wisconsin Address, phone and customer reviews
+title: Madison Gallery Shopping Center (Gdansk, Polen) - Anmeldelser
+snippet: Madison Gallery Shopping Center, Gdansk: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Madison Gallery Shopping Center i Gdansk, Polen på Tripadvisor.
+
+REL: 0
+POI Name: Pizza Hut
+POI City: Madison
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, Chicken Wings, 
+Snippets:
+title: Pizza Hut Locations in Madison, WI | Pizza, Carryout ...
+snippet: Browse all Pizza Hut locations in United States in Madison, WI to find hot and fresh pizza, wings, pasta and more! Order carryout or delivery for quick service.
+title: Pizza Hut 8830 Madison Blvd: Carryout, Delivery, Pizza ...
+snippet: Find your nearby Pizza Hut at 8830 Madison Blvd in Madison, AL. Pizza Hut food delivery and carryout pizza is hot, fast, and reliable! Find Pizza Hut coupons, online pizza deals and more at PizzaHut.com or on our mobile app.You can also call your local Madison Pizza Hut at to order your favorite boneless chicken wings, Meat Lover&#39;s® Pizza, Tuscani® Meaty Marinara Pasta &amp; more!
+title: Pizza Hut Locations in Madison, NE | Pizza, Carryout ...
+snippet: Browse all Pizza Hut locations in United States in Madison, NE to find hot and fresh pizza, wings, pasta and more! Order carryout or delivery for quick service.
+title: Pizza Hut 5251 High Crossing Blvd: Carryout, Delivery ...
+snippet: Find your nearby Pizza Hut at 5251 High Crossing Blvd in Madison, WI. Pizza Hut food delivery and carryout pizza is hot, fast, and reliable! Find Pizza Hut coupons, online pizza deals and more at PizzaHut.com or on our mobile app.You can also call your local Madison Pizza Hut at to order your favorite boneless chicken wings, Meat Lover&#39;s® Pizza, Tuscani® Meaty Marinara Pasta &amp; more!
+title: Pizza Hut: Pizza Delivery | Pizza Carryout | Coupons ...
+snippet: Order pizza online for fast delivery or carryout from a store near you. View our full menu, see nutritional information, find store locations, and more.
+title: Pizza Hut 510 Clifty Dr: Carryout, Delivery, Pizza &amp; Wings ...
+snippet: Find your nearby Pizza Hut at 510 Clifty Dr in Madison, IN. Pizza Hut food delivery and carryout pizza is hot, fast, and reliable! Find Pizza Hut coupons, online pizza deals and more at PizzaHut.com or on our mobile app.You can also call your local Madison Pizza Hut at to order your favorite boneless chicken wings, Meat Lover&#39;s® Pizza, Tuscani® Meaty Marinara Pasta &amp; more!
+title: Pizza Hut 7950 Highway 72 W Madison, AL Pizza - MapQuest
+snippet: We’re ready to serve you the pizza you love, whether it’s picked up for carryout, at the curb or delivered hot to your doorstep. Pizza Hut has a decades-long history of providing delivery—from our oven to your home—and we’re preparing our team of dedicated drivers for an increased demand in online ordering and delivery service.
+title: Pizza Hut, Madison - 7440 Mineral Point Rd - Menu, Prices ...
+snippet: Pizza Hut, Madison: See 14 unbiased reviews of Pizza Hut, rated 4 of 5 on Tripadvisor and ranked #407 of 928 restaurants in Madison.
+title: Pizza Hut, Madison - Restaurantanmeldelser - Tripadvisor
+snippet: Pizza Hut, Madison: Se 6 objektive anmeldelser av Pizza Hut, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 14 av 18 restauranter i Madison.
+title: Pizza Hut, Madison - 8830 Highway 20 - Menu, Prices ...
+snippet: Pizza Hut, Madison: See 15 unbiased reviews of Pizza Hut, rated 3.5 of 5 on Tripadvisor and ranked #118 of 163 restaurants in Madison.
+
+REL: 0
+POI Name: Firehouse Subs Mineral Point
+POI City: Madison
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sandwiches, Fast Food, Delis, 
+Snippets:
+title: Firehouse Subs - Mineral Point #887 - Madison, WI
+snippet: More about this Location. Hungry? Pick up a sub sandwich at our Firehouse Subs shop in Madison, Wisconsin, on your way to Haen Family Park. Our sandwich shop, located near Walgreens on Mineral Point Rd, specializes in hot sub sandwiches made with premium meats and cheeses, steamed to perfection, then piled high on a toasted private recipe sub roll.
+title: Firehouse Subs Mineral Point - Order Food Online - 21 ...
+snippet: 40 reviews of Firehouse Subs Mineral Point &quot;Owner on site. Excellent service. Friendly staff. Love the firehouse theme throughout. Subs are very tasty and warmed to my perfection. Conveniently located for easy in and out!&quot;
+title: Firehouse Subs at 7854 Mineral Point Rd, Madison, WI ...
+snippet: Firehouse Subs nearby at 7854 Mineral Point Rd, Madison, WI: Get restaurant menu, locations, hours, phone numbers, driving directions and more.
+title: Firehouse Subs, Madison - 7854 Mineral Point Rd - Photos ...
+snippet: Order food online at Firehouse Subs, Madison with Tripadvisor: See 29 unbiased reviews of Firehouse Subs, ranked #292 on Tripadvisor among 928 restaurants in Madison. Flights ... 7854 Mineral Point Rd, Madison, WI 53717-2028. Website +1 608-829-1001. Improve this listing.
+title: Firehouse Subs Madison, WI 53717 - Menu, 85 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Firehouse Subs at 7854 Mineral Point Rd in Madison - view the menu, ⏰hours, ☎️phone number, ☝address and map. Firehouse Subs - 7854 Mineral Point Rd. ... About Firehouse Subs. Hot Specialty Subs are the way to go.
+title: Firehouse Subs Mineral Point - Home | Facebook
+snippet: Firehouse Subs Mineral Point, Madison, Wisconsin. 117 likes · 4 talking about this · 1,174 were here. Serving a variety of hot gourmet submarine sandwiches. Made with premium meats &amp; cheeses,...
+title: Firehouse Subs(Mineral Point) 7854 Mineral Point Rd ...
+snippet: Get directions, reviews and information for Firehouse Subs(Mineral Point) in Madison, WI. Firehouse Subs(Mineral Point) 7854 Mineral Point Rd Madison WI 53717. 40 Reviews (608) 829-1001 Website. ... The subs at Firehouse aren&#39;t mindblowing, but they definitely feel a step up from Subway&#39;s, Milio&#39;s, etc.
+title: Firehouse Subs Mineral Point - Order Food Online - 21 ...
+snippet: 40 reviews of Firehouse Subs Mineral Point &quot;Quick. Friendly. Fresh. Ive been to FH all over the country and there is a standard they set. This is pretty much all I expect out of Firehouse. And that is exactly what I got this afternoon when…
+title: Firehouse Subs - Locations | Find Sub Shops and Sandwich ...
+snippet: Find nearby Firehouse Subs restaurants. Find locations, hours, phone number, and order online. Find sub shops near me, sandwich shops near me.
+title: Firehouse Subs - Fish Hatchery #811 - Madison, WI
+snippet: Visit our Fish Hatchery location in Madison, WI! We specialize in hot subs and sandwiches made with premium meats and cheeses, steamed to perfection, then piled high on a toasted private recipe sub roll.
+
+REL: 0
+POI Name: Staten Island Museum at Snug Harbor
+POI City: Staten Island
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Venues & Event Spaces, 
+Snippets:
+title: Home - Staten Island Museum
+snippet: Staten Island Museum at Snug Harbor 1000 Richmond Terrace, Building A Staten Island, New York 10301. The Staten Island Museum&#39;s public spaces are wheel-chair accessible. Companions or aides of persons with disabilities are admitted free of charge.
+title: Current Exhibitions - Staten Island Museum
+snippet: From Farm to City: Staten Island 1661-2012 was created by the Museum of the City of New York. The exhibition focused on land-use on Staten Island. This legacy exhibition focuses on the people and themes that define the Island throughout history. Location: Staten Island Museum at Snug Harbor, Building A, 1000 Richmond Terrace, SINY 10301
+title: Staten Island Museum at Snug Harbor – Visit Staten Island
+snippet: 1000 Richmond Terrace, Bldg. A. Staten Island, NY 10301. 718.727.1135. Wednesday – Sunday: 11a.m. – 5 p.m. Click here for more information!. Fossils, paintings and curiosities in jars: These are just some of the marvels that can be found at the Staten Island Museum.
+title: Hours &amp; Admission - Staten Island Museum
+snippet: Hours &amp; Admission March 13, 2020 Temporary Closure Notice Dear Staten Island Museum Community, The Staten Island Museum will be temporarily closing to the public starting tomorrow, Saturday, March 14 until further notice, in light of the evolving situation with COVID-19 (novel coronavirus).We have also canceled all programs in this period of time.
+title: Staten Island Museum at Snug Harbor - 2020 All You Need to ...
+snippet: We recommend booking Staten Island Museum at Snug Harbor tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 3 Staten Island Museum at Snug Harbor tours on Tripadvisor
+title: Collections - Staten Island Museum
+snippet: Art Collection. Staten Island Museum has been devoted to the study and collection of art since 1908. Today, the Art Collection has a strong regional perspective including 19th and 20th century portraits of prominent Staten Islanders as well as landscapes by Staten Islanders.
+title: Staten Island Museum at Snug Harbor (NY) - Anmeldelser
+snippet: Vi anbefaler å bestille turer i Staten Island Museum at Snug Harbor på forhånd for å sikre deg en plass. Om du bestiller med Tripadvisor, kan du avbestille opptil 24 timer før turen begynner for å få full refusjon. Se alle turer 3 Staten Island Museum at Snug Harbor på Tripadvisor
+title: Events - Staten Island Museum
+snippet: Staten Island Museum at Snug Harbor ... Staten Island, New York 10301. The Staten Island Museum&#39;s public spaces are wheel-chair accessible. Companions or aides of persons with disabilities are admitted free of charge. For further information on accessibility for adult audiences, ...
+title: Upcoming Exhibitions - Staten Island Museum
+snippet: Move Forward Staten Island and the Feminist Bird Club for a guided bird walk on the grounds of Snug Harbor followed by a tour of the exhibition. Please meet in front of the Staten Island Museum, Building A at Snug Harbor. Panel Discussion: Perspectives on the Suffrage Centennial Sunday, March 22, 2pm - 3:30pm Free with Museum Admission
+title: Memberships - Staten Island Museum
+snippet: Memberships. Join the Museum Family. Staten Island Museum members enjoy many benefits plus the knowledge that they&#39;re helping preserve Staten Island&#39;s art, history and natural science for generations to come! Your membership contribution helps the Museum present exciting exhibits and programs, and expand to our new home on the grounds of Snug ...
+
+Cand cities: {'Milwaukee', 'Austin', 'Seattle', 'Middleton', 'Dallas', 'Madison', 'Richmond', 'Chicago', 'Columbus', 'Staten Island', 'Knoxville', 'Sumpter'}

@@ -1,0 +1,1049 @@
+City: Oslo
+Country: NO
+Main category: Restaurants and Food
+Sub category: Traditional Norwegian
+Description: I will be traveling to oslo in the next 4 days, and i really want to know where can i find some authentic norwegian food. I've read some articles online, but i can't decide...which is the best norwegian meal i should try? And where can i find it? I don't have food alergies or anything...so i want to try anything local. Thank you  EDIT: Hello, amazing indications. As everybody else, i don't want to pay an enormous amount on food :)). I want to pay a decent amount of money on good, quality food :)) so thank you very much. I will try the Lofoten Fiskerestaurant... cause i've read that fish dishes are amazing in oslo
+Rated POIs: 38
+Rel distr: [(0, 7), (1, 7), (2, 20), (3, 4)]
+=================================
+REL: 3
+POI Name: Larsen Restaurant
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Traditional Norwegian, 
+Snippets:
+title: Forside | Larsen Restaurant
+snippet: Velkommen til Larsen Restaurant &amp; Pub. På Majorstuen ligger Larsen, et trivelig sted hvor du kan sette deg ned og stenge verden ute. Larsen åpnet i 1951 og hadde selskapslokalet, Blåsalen, i andre etasje frem til 1982. På den tiden var restauranten et kjendissted med ski-eliten og andre kjendiser som gjester.
+title: Meny | Larsen Restaurant
+snippet: Flyndre a la Larsen 199,-Serveres med champignon, kremet saus, reker og grønnsaker Flatfish with mushrooms, cream sauce, ... 0369 Oslo. larsen-restaurant@hotmail.no. Utviklet av Idium, en del av 1881.no.
+title: Larsen Restaurant, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Larsen Restaurant, Oslo: Se 127 objektive anmeldelser av Larsen Restaurant, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 150 av 1 450 restauranter i Oslo.
+title: Reserver bord | Larsen Restaurant
+snippet: Du kan reservere bord ved å fylle inn skjemaet under. Husk å ha med dato, klokkeslett og hvor mange personer reservasjonen er for. Legg gjerne igjen et tlf. nummer så vi enkelt kan ta kontakt.
+title: Sesongmeny | Larsen Restaurant
+snippet: 0369 Oslo. larsen-restaurant@hotmail.no. Utviklet av Idium, en del av 1881.no. Personvern ...
+title: Larsen Restaurant , Majorstuen — Restaurantguiden fra ...
+snippet: Larsen har vært en institusjon på Majorstuen siden 1951. Her traff skieliten og andre kjendiser hverandre i gamle dager. Nå er det blitt et samlingssted for dem som bor i nabolaget, studenter og folk som har lyst på en matbit før eller etter forestilling på Colosseum kino.
+title: Larsen Restaurant, Oslo - Restaurant Reviews, Photos ...
+snippet: Larsen Restaurant, Oslo: See 127 unbiased reviews of Larsen Restaurant, rated 4 of 5 on Tripadvisor and ranked #150 of 1,449 restaurants in Oslo.
+title: Kontakt | Larsen Restaurant
+snippet: Du kan reservere bord ved å fylle inn skjemaet under. Husk å ha med dato, klokkeslett og hvor mange personer reservasjonen er for. Legg gjerne igjen et tlf. nummer så vi enkelt kan ta kontakt.
+title: Larsen restaurant, Majorstua, Oslo - 1881.no
+snippet: Larsen restaurant fra Majorstua, Oslo. Restaurant. Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter med inspira…
+title: De 10 beste restaurantene i nærheten av Larsen Restaurant
+snippet: Restauranter i nærheten av Larsen Restaurant på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Larsen Restaurant, Oslo.
+
+REL: 3
+POI Name: Petrus Mat Og Vinhus
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Traditional Norwegian, 
+Snippets:
+title: Petrus mat og vinhus, Oslo - Restaurantanmeldelser ...
+snippet: Petrus mat og vinhus, Oslo: Se 9 objektive anmeldelser av Petrus mat og vinhus, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 723 av 1 450 restauranter i Oslo.
+title: Petrus Mat og Vinhus, Grünerløkka — Restaurantguiden fra ...
+snippet: Hele Oslo. Velg område Ok. Som passer for. Som passer for Ok. Prisnivå. Prisnivå Ok. Søk. eller. Alle bilder (3) Petrus Mat og Vinhus. Helgesens Gate 50 • Grünerløkka. Kart Ring Web Meny. Brun kafé som serverer blant annet mexicansk, pasta, salater, indisk, kylling og wienerschnitzel. 13 Lesere. 84%.
+title: Petrus mat og vinhus, Oslo - Restaurant Reviews - Tripadvisor
+snippet: Petrus mat og vinhus, Oslo: See 9 unbiased reviews of Petrus mat og vinhus, rated 4 of 5 on Tripadvisor and ranked #720 of 1,448 restaurants in Oslo.
+title: Petrus Mat Og Vinhus - Oslo, Norway - Diner, Bar &amp; Grill ...
+snippet: Petrus Mat Og Vinhus, Oslo, Norway. 14 likes. Diner. I kveld fra 21 spiller jeg noen toner på Petrus Mat og Vinhus i Helgesens gate 50 ved Sofienbergparken!
+title: Petrus Mat og Vinhus, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Petrus Mat og Vinhus Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Petrus mat og vinhus - Tripadvisor
+snippet: Petrus mat og vinhus: Dagens til en billig penge - Se 9 reiseanmeldelser, objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Trivelig sted og god pizza - Petrus mat og vinhus
+snippet: Petrus mat og vinhus: Trivelig sted og god pizza - Se 9 reiseanmeldelser, objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Veldig god mat, god service, billige... - Petrus mat og vinhus
+snippet: Petrus mat og vinhus: Veldig god mat, god service, billige priser - Se 9 reiseanmeldelser, objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Petrus Bar og Restaurant - Oslo - Pizza
+snippet: Her finner du nettmenyen til Petrus Bar og Restaurant i Oslo. Velg fra vår meny og bestill take away for levering!
+title: Hjem - Markveien Mat &amp; Vinhus
+snippet: Populær restaurant i Oslo. Mat og vin kan nytes både i restauranten og i vinbaren. Uteservering grüneløkka. Restaurant in the middle of Oslo. Food and wine can be enjoyed in the restaurant or in the winebar.
+
+REL: 3
+POI Name: Restaurant Schrøder
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Traditional Norwegian, Scandinavian, 
+Snippets:
+title: Restaurant Schrøder | Tradisjonell norsk mat | Brun Restaurant
+snippet: ©Restaurant Schrøder. Logoen kan ikke publiseres videre uten tillatelse fra eieren. Vi holder midlertidig stengt på grunn av situasjonen rundt Korona (COVID-19) pandemi og følger helsedirektoratets smitteverntiltak.. Restaurant Schrøder ligger i Waldemar Thranes gate 8 på St. Hanshaugen i Oslo.
+title: Restaurant Schrøder, Oslo - Restaurantanmeldelser ...
+snippet: Restaurant Schrøder, Oslo: Se 220 objektive anmeldelser av Restaurant Schrøder, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 302 av 1 450 restauranter i Oslo.
+title: Bordbestilling - Restaurant Schrøder
+snippet: Dersom du avbestiller mindre enn 24 timer før middagen vil det koste 500 kroner per person. Bestillingen er kun gyldig når du har mottatt en bekreftelse fra restauranten per e-post, ta kontakt med oss dersom du ikke mottar en bekreftelse innen 24 timer. Vennligst merk at bekreftelsen i noen tilfeller kan bli stoppet av epost spamfilter.
+title: Kontakt oss - Restaurant Schrøder
+snippet: Vi bruker informasjonskapsler (cookies) på nettsidene, både for at du skal oppleve at nettstedet er enkelt å bruke og til statistiske formål.
+title: Restaurant Schrøder`s À la carte Meny
+snippet: (serveres to ganger) serveres med ertestuing, baconfett, sennep, sirup, lefser, flatbrød og kokte poteter (inneholder fisk) Foto eiet av Restaurant Schrøder.
+title: JULEMENY - Restaurant Schrøder
+snippet: VARM JULETALLERKEN serveres med ribbe, julepølser, medisterkaker, rødkål, saus og kokte poteter (Medisterkaker kan innholde spor av sennep, saus innholder spor av gluten (hvetemel), soya, melk (også laktose)
+title: Restaurant Schrøder – Wikipedia
+snippet: Restaurant Schrøder ligger i Waldemar Thranes gate 8 på St. Hanshaugen i Oslo.Den regnes for å høre til kategorien «brune kafeer». Restauranten serverer tradisjonell norsk kafé- og restaurantmat. Stedet opptrer i skjønnlitteraturen, blant annet i Jo Nesbøs bøker om Harry Hole og i flere bøker av Bjørg Vik
+title: Restaurant Schrøder, St. Hanshaugen, Oslo - 1881.no
+snippet: Restaurant Schrøder fra St. Hanshaugen, Oslo. Restaurant. Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter med inspira… Bar Vulkan Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjennom …; Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med ...
+title: Restaurant Schrøder - Wikipedia
+snippet: Schrøder in Torggata 14 from 1925 to 1954. In 1925, Hans Schrøder took over Elise Pettersens café which had been operating in the corner building of Torggata/Hammersborggata since 1912, one block north of Youngstorget, with a view towards Arbeidersamfunnets plass.The restaurant lay on the same corner as the Oslo Workers&#39; Society (Norwegian: Oslo Arbeidersamfunn), and was an important link ...
+title: Restaurant Schroder, Oslo - Restaurant Reviews, Photos ...
+snippet: Restaurant Schroder, Oslo: See 220 unbiased reviews of Restaurant Schroder, rated 3.5 of 5 on Tripadvisor and ranked #301 of 1,448 restaurants in Oslo.
+
+REL: 3
+POI Name: Rorbua
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Traditional Norwegian, 
+Snippets:
+title: Rorbua | Rorbua Aker Brygge
+snippet: Rorbua åpnet i september 1990 og har siden starten tilbudt et genuint rorbu miljø for sine gjester. Som navnet tilsier har Rorbua en varm og intim atmosfære som de fleste føler seg velkommen i, og dette er vel en av grunnene til at Rorbua har mange faste gjester.
+title: Rorbua, Oslo - Restaurant Reviews, Photos &amp; Reservations ...
+snippet: Reserve a table at Rorbua, Oslo on Tripadvisor: See 1,069 unbiased reviews of Rorbua, rated 4 of 5 on Tripadvisor and ranked #77 of 1,450 restaurants in Oslo.
+title: Rorbua, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Rorbua, Oslo: Se 1 069 objektive anmeldelser av Rorbua, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 77 av 1 449 restauranter i Oslo.
+title: Rorbua, Aker Brygge — Restaurantguiden fra Osloby
+snippet: Aker brygges bruneste bule. Rorbua skiller seg ut fra de andre stedene på Aker Brygge med sin røffe, uformelle stil. Anmeldt for 3 år siden. Vi har som oftest vært på Rorbua for skrei når Lofotstua har vært fullbooket, men denne gang vil vi se hvordan det arter seg en sommerdag når det er masse liv på Aker Brygge.
+title: Rorbua, Aker brygge, Oslo - 1881.no
+snippet: Rorbua fra Aker brygge, Oslo. Bar og pub. Bar Vulkan Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjennom …; Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter ...
+title: Rorbua Aker Brygge - Aker Brygge, Oslo | Bookatable
+snippet: Rorbua er et lite funn av en fiskerestaurant med fantastisk beliggenhet på Aker Brygge i Oslo. Her serveres alt fra tørrfisk-snacks til røkt hvalkjøtt og boknafisk. Innredningen er inspirert av nordnorsk kystmiljø og lofotfiske, og baren er en gammel fiskebåt på langs. I de autentiske, lune omgivelsene blant havets ferske smaker og dufter er det fort gjort å glemme hvor man er!
+title: Rorbua – Aker Brygge
+snippet: Rorbua Vertshus har vært på Aker brygge i over 20 år. Noe vi er stolte av. Gode, hyggelige kunder og et personale som gir god informasjon om mat og drikke har gitt oss et perfekt utgangspunkt. Vi er behjelpelige med små og store selskap og setter gjerne opp en egen meny ved spesielle ønsker.
+title: RORBUA, Oslo - Updated 2020 Restaurant Reviews, Photos ...
+snippet: Reserve a table at Rorbua, Oslo on Tripadvisor: See 1,069 unbiased reviews of Rorbua, rated 4 of 5 on Tripadvisor and ranked #77 of 1,450 restaurants in Oslo.
+title: Rorbua Pub - Startside
+snippet: Rorbua Pub: A cosy spot. This cosy pub (the name means “Cabin” I believe) is located in an old warehouse, dating from 1830, which today makes a characterful spot for drinking and eating. We came here a couple of times – the first to eat and drink, the second just for a drink.
+
+REL: 2
+POI Name: Bentse Kafeteria
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, Traditional Norwegian, 
+Snippets:
+title: Bentse Kafeteria, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Bentse Kafeteria, Oslo: Se objektive anmeldelser av Bentse Kafeteria, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 1 108 av 1 443 restauranter i Oslo.
+title: Bentse Kafeteria - Startside | Facebook
+snippet: Bentse Kafeteria, Oslo, Norway. 1 096 liker dette · 4 snakker om dette · 1 146 har vært her. Trivelig kafe sentralt på Torshov.Vi serverer god norsk husmannskost i koselige omgivelser.Hjertelig...
+title: Take away fra Bentse Kafeteria Oslo | foodora
+snippet: foodora bruker Cookies for å gi deg en best mulig opplevelse av tjenesten. Dersom du fortsetter å navigere deg på nettsiden godtar du vår bruk av Cookies.
+title: Kafeteria Bentse, Torshov, Oslo - 1881.no
+snippet: Kafeteria Bentse fra Torshov, Oslo. Restaurant. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Bentse Kafeteria - Home - Oslo, Norway - Menu, Prices ...
+snippet: Bentse Kafeteria, Oslo, Norway. 1,102 likes · 1 talking about this · 1,137 were here. Trivelig kafe sentralt på Torshov.Vi serverer god norsk husmannskost i koselige omgivelser.Hjertelig velkommen!...
+title: Tradisjonelle Bentse kafeteria på Torshov trues av sykkelsti
+snippet: Tradisjonelle Bentse kafeteria på Torshov trues av sykkelsti Ved Bentse kafeteria på Torshov, får du servert tradisjonell norsk husmannskost og kaffe til hundrelappen. Men etter at det ble anlagt sykkelsti i Bentsebrugata, har mange bord blitt stående tomme.
+title: Bentse Kafeteria, Oslo - Restaurant Reviews - Order Food ...
+snippet: Order food online at Bentse Kafeteria, Oslo with Tripadvisor: See unbiased reviews of Bentse Kafeteria, ranked #1,105 on Tripadvisor among 1,451 restaurants in Oslo.
+title: kafeTERIA ikke kafe - Anmeldelse for Bentse Kafeteria ...
+snippet: Bentse Kafeteria: kafeTERIA ikke kafe - Se reiseanmeldelser, objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Bentse Kafeteria - Startside | Facebook
+snippet: Bentse Kafeteria – Bentsebrugt 11, 0476 Oslo, Norway – Vurderingen 5 basert på 10 anmeldelser &quot;Excellent food and Smiling faces .. Du kommer ikke nærmere...
+title: Bentse kafeteria mister kunder: – Et resultat av et ...
+snippet: TORSHOV: I går skrev Sagene Avis om Bentse kafeteria, den lille kaféen med norsk husmannskost ved Bentsebrua. Den har betydd mye for mange siden de åpnet på 50-tallet. Nå forteller eier Jacob Malik at de har mistet mange kunder, etter at det ble lagt sykkelfelt i begge retninger fra Sandakerveien til Gjøvikgata.
+
+REL: 2
+POI Name: Vaaghals
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: Vaaghals
+snippet: Kjære gjester! Det er med tungt hjerte vi må meddele at Vaaghals stenger fra mandag 16. mars 2020 på ubestemt tid grunnet COVID-19. Vi tenker mye på våre gjester, leverandører, kolleger og forbindelser som blir direkte berørt av viruset.
+title: Vaaghals, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Vaaghals, Oslo: Se 406 objektive anmeldelser av Vaaghals, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 78 av 1 449 restauranter i Oslo.
+title: Meny — Vaaghals
+snippet: VAAGHALS LUNSJFJØL 190,-Hjemmelaget Vaaghalsskinke, sennepsmajones, stekt Brioche med kyllingleverkrem og kvede Inneholder: Melk, egg, sulfitt, sennep, hvete SALAT MED KYLLINGCONFIT FRA HOLTE GÅRD 175,-Hjertesalat, kylling fra Holte Gård, gressløkmajones, bakte småtomater og vårløk
+title: Vaaghals, Barcode — Restaurantguiden fra Aftenposten
+snippet: Vaaghals byr på nydelig mat og topp service. 2 år siden – Er dette den fineste restauranten i Barcode-rekken sammen med Nodee? Spisefølget har satt seg ned på uteserveringen til Vaaghals, hvor solen fortsatt varmer, til tross voldsom byggevirksomhet over gaten.
+title: Vaaghals, Oslo - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Vaaghals, Oslo: See 406 unbiased reviews of Vaaghals, rated 4 of 5 on Tripadvisor and ranked #78 of 1,450 restaurants in Oslo.
+title: Kveldsmeny — Vaaghals
+snippet: Om oss Om Vaaghals Kontakt Menyer Lunsjmeny Lunsj Selskapsmeny (fra 8 personer) Kveldsmeny Selskapsmeny (fra 10 personer) Vinmeny Selskap Møter Dagpakke Frokostmøte Bordbestilling Our menus Lunch Dinner Wine Book a table Contact
+title: Selskapsmeny — Vaaghals
+snippet: På Vaaghals kan vi i vår 2. Etg servere selskaper på opptil 100 personer pluss våre to separate rom som til sammen rommer 50 personer. Disse rommene kan deles til henholdsvis 20 og 30 personer. Våre selskapsmenyer er laget for og deles slik resten av maten på Vaaghals.
+title: Bordbestilling — Vaaghals
+snippet: Ønsker du å bestille selskap for flere enn 10 personer ber vi om at dere sender oss en mail til post@vaaghals.com da vi trenger en forhåndsbestilt meny for større selskap. Vi setter pris på meny valg en uke før ankomst. Selskapet belastes for antall bestilte menyer om ikke annen beskjed er gitt innen 48 timer før bordet er bestilt.
+title: vaaghals.no
+snippet: The document is located here. vaaghals. vaaghals.no. The document is located here.
+title: Vaaghals – Oslo - a MICHELIN Guide Restaurant
+snippet: Vaaghals – a restaurant from the 2020 MICHELIN Guide Norway. The MICHELIN inspectors’ point of view, information on prices, types of cuisine and opening hours on the MICHELIN Guide&#39;s official website
+
+REL: 2
+POI Name: Nilsen Spiseri
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Scandinavian, 
+Snippets:
+title: Nilsen spiseri, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Nilsen spiseri, Oslo: Se 361 objektive anmeldelser av Nilsen spiseri, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 221 av 1 451 restauranter i Oslo.
+title: Nilsen spiseri, Oslo - Sentrum - Restaurant Reviews ...
+snippet: Nilsen spiseri, Oslo: See 361 unbiased reviews of Nilsen spiseri, rated 4 of 5 on Tripadvisor and ranked #222 of 1,450 restaurants in Oslo.
+title: Nilsen spiseri, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Nilsen spiseri, Oslo: Se 362 objektive anmeldelser av Nilsen spiseri, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 221 av 1 448 restauranter i Oslo.
+title: Nilsen spiseri, Oslo Sentrum, Oslo - 1881.no
+snippet: Nilsen spiseri fra Oslo Sentrum, Oslo. Restaurant. Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter med inspira… Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjen…; Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme ...
+title: Nilsen Spiseri - Sentrum - Oslo, Norway - Yelp
+snippet: Just two blocks from the spectacular new opera house in Oslo is Nilsen Spiseri - a bistro serving up some real Norwegian food. On a corner in the old Kvadraturen neighborhood of Central Oslo, this larger-than-it-looks bistro (there are tables downstairs as well) advertises Norwegian specialties such as whale or reindeer.
+title: Nydelig mat - Anmeldelse for Nilsen spiseri, Oslo, Norge ...
+snippet: Nilsen spiseri: Nydelig mat - Se 361 reiseanmeldelser, 150 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: THE 10 BEST Restaurants Near Nilsen spiseri in Oslo ...
+snippet: Restaurants near Nilsen spiseri, Oslo on Tripadvisor: Find traveler reviews and candid photos of dining near Nilsen spiseri in Oslo, Norway.
+title: Restaurants Near Nilsen spiseri, Oslo, Norway - TripAdvisor
+snippet: Restaurants near Nilsen spiseri, Oslo on Tripadvisor: Find traveler reviews and candid photos of dining near Nilsen spiseri in Oslo, Norway.
+title: Try the Whale Meat here ! - Review of Nilsen spiseri, Oslo ...
+snippet: Nilsen spiseri: Try the Whale Meat here ! - See 361 traveler reviews, 150 candid photos, and great deals for Oslo, Norway, at Tripadvisor.
+title: NILSEN SPISERI, Oslo - Sentrum - Ristorante Recensioni ...
+snippet: Nilsen spiseri, Oslo: su Tripadvisor trovi 361 recensioni imparziali su Nilsen spiseri, con punteggio 4 su 5 e al n.222 su 1.450 ristoranti a Oslo.
+
+REL: 2
+POI Name: Kampen Bistro
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, Venues & Event Spaces, Caterers, 
+Snippets:
+title: Kampen Bistro
+snippet: Vennlig hilsen, oss på Kampen Bistro. Dear everyone. The current pandemic situation requires strong measures, proper discipline and “dugnad” effort from everyone involved. It is with sadness we realize the temporarily closing of our favourite workplace, hangout and restaurant is a necessity. This will take place already from the 21th of ...
+title: Kampen Bistro, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Kampen Bistro, Oslo: Se 151 objektive anmeldelser av Kampen Bistro, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 284 av 1 450 restauranter i Oslo.
+title: Kart — Kampen Bistro
+snippet: Kart. Kampen Bistro ligger i 2 etg på Kampen Bydelshus. Inngangen er fra Nittedalsgaten, på ande siden av gaten for Bunnpris. Reiser du kollektivt er enkleste rute med buss 60 fra Oslo S. Gå så av ved Kampen Park.
+title: Booking — Kampen Bistro
+snippet: MIDLERTIDIG STENGT. KLIKK HER DERSOM DU ØNSKER TILBUD PÅ LUKKET SELSKAP. Har du tekniske problemer med bookingen? Klikk her.. Bestill bord online for opp til 16 personer.
+title: VI LAGER fest for deg — Kampen Bistro
+snippet: BISTRO BUFFET. Et utvalg av kalde og varme retter. Kan bestilles i alle tre selskapslokalene. Menyen endres etter sesong og hvilke råvarer som er tilgjengelig. Vi tilbyr ikke tradisjonell julemat i julebordsesongen, men maten vil likevel være noe preget av årstiden. STOR BISTRO BUFFET KR 469,- PR. PERS. BISTRO BUFFET LUNSJ KR 349,- PR. PERS.
+title: Kampen Bistro, Oslo - Restaurant Reviews, Photos ...
+snippet: Reserve a table at Kampen Bistro, Oslo on Tripadvisor: See 151 unbiased reviews of Kampen Bistro, rated 4 of 5 on Tripadvisor and ranked #283 of 1,448 restaurants in Oslo.
+title: Kampen Bistro, Kampen — Restaurantguiden fra Osloby
+snippet: Kult på Kampen Bistro. På Kampen Bistro er det varmt og hyggelig. Slik har det vært siden oktober. Da åpnet strøksfavoritten igjen etter brannen i mars. Anmeldt for 7 år siden. Dette oppholdet har heldigvis ikke gått ut over hverken maten eller entusiasmen. Og fullt av folk er det også, en kald og hustrig kveld i januar.
+title: Hva skjer? — Kampen Bistro
+snippet: Det er en sann glede å bekrefte at et av våre favorittband Orions Belte kommer tilbake til Kampen Bistro for å by opp til dans. Torsdag 16. April holder vi nemlig singelslippfest med denne eklektiske instrumental-trioen som skal spille rykende ferskt materiale fra det nye albumet som de holder på å ferdigstille i disse dager.
+title: Kampen Bistro, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Besøkte Kampen Bistro rett etter åpningen sin time, ble ønsket velkommen av eieren og tatt godt vare på. Kjøkkenet åpner ikke før 17:00, så vi hadde noen små tallerkener (det tyske pølser og noen spekemat sammen med brød og aioli.
+title: Kampen Bistro, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Kampen Bistro er alltid fint, en taxitur (eller rør) fra Oslo sentrum. Ikke så lett å finne, men når du kommer dit det er verdt turen. Bare gå til Kampen området og spørre folk og du finner på veien.
+
+REL: 2
+POI Name: Lofotstua
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Scandinavian, 
+Snippets:
+title: Lofotstua, Majorstuen — Restaurantguiden fra Osloby
+snippet: Lofotstua: Som å reise tilbake i tid. Lofotstua kombinerer rustikk, norsk mat med italiensk eleganse på flaske. Anmeldt for 6 år siden – Dette er en av de mest spesielle fiskerestaurantene i Oslo, sier Bordvenninnen.
+title: Lofotstua, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Lofotstua, Oslo: Se 127 objektive anmeldelser av Lofotstua, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 170 av 1 451 restauranter i Oslo.
+title: Lofotstua, Oslo - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Lofotstua, Oslo: See 127 unbiased reviews of Lofotstua, rated 4.5 of 5 on Tripadvisor and ranked #170 of 1,450 restaurants in Oslo.
+title: Lofotstua Restaurant - Oslo, Norway - Menu, Prices ...
+snippet: Lofotstua Restaurant - kirkeveien 40, 0368 Oslo, Norway - Rated 4.7 based on 50 Reviews &quot;Wandered into this little gem based on seeing some great reviews...
+title: Lofotstua Restaurant - Oslo, Norway - Meny, priser ...
+snippet: Lofotstua Restaurant – kirkeveien 40, 0368 Oslo, Norway – Vurderingen 4.7 basert på 51 anmeldelser &quot;Wandered into this little gem based on seeing some...
+title: Lofotstua AS - Norsk Restaurant
+snippet: Veldig bra, noen liker kanskje ikke det enkle... Men det er autentisk, hva du ser er hva du får!- Lars E
+title: Lofotstua, Majorstua, Oslo - 1881.no
+snippet: Lofotstua fra Majorstua, Oslo. Restaurant. Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter med inspira… Bar Vulkan Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjennom …; Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som ...
+title: Lofotstua AS, Majorstua, Oslo - 1881.no
+snippet: Lofotstua AS fra Majorstua, Oslo. Restaurant. Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjen…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter med inspira…
+title: Lofoten Fiskerestaurant - Aker Brygge, Oslo
+snippet: De beste fisketradisjoner servert på klassisk vis. Vi kan gjennom hele året by på et stort utvalg av fisk, skjell og skalldyr. Vi følger sesongens råvarer og lager spennende retter av dette.
+title: Lofotstua, Oslo | bedrift | gulesider.no
+snippet: Jeg spiste lutefisk på fødselsdagen min 20.10. og den var utrolig god. Isgalt ble jeg anbefalt for to år siden og den kan også varmt anbefales:-) Alltid god og varm service som gjør at jeg koser meg på Lofotstua. Jeg er tilbake allerede 5.11. for mer lutefisk.
+
+REL: 2
+POI Name: Olsen Restaurant & Bar
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Bars, Traditional Norwegian, 
+Snippets:
+title: Olsen På Bryn - God mat og drikke, live musikk i helgene
+snippet: Kort om Olsen: Olsen Restaurant &amp; Bar er et hyggelig sted lokalisert på Bryn, øst i Oslo. Olsen har glede av å kunne presentere god mat og nye live band hver fredag og lørdag. Kom innom for en hyggelig opplevelse! Bestilling Olsen tar i mot bord- og take away bestillinger.
+title: Olsen På Bryn, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Olsen På Bryn, Oslo: Se 83 objektive anmeldelser av Olsen På Bryn, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 289 av 1 450 restauranter i Oslo. Fly Restauranter Ting å gjøre Turisme i Oslo ... Bar, Europeisk, Pub, Fusion. Måltider. Lunsj, Middag, Brunsj.
+title: Olsen Restaurant &amp; Bar, Bryn, Oslo - 1881.no
+snippet: Olsen Restaurant &amp; Bar fra Bryn, Oslo. Restaurant. Bar Vulkan Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjennom …; Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjen…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo.
+title: Olsen Restaurant &amp; Bar, Oslo - Restaurant Reviews, Photos ...
+snippet: Olsen Restaurant &amp; Bar, Oslo: See 75 unbiased reviews of Olsen Restaurant &amp; Bar, rated 4 of 5 on Tripadvisor and ranked #350 of 1,442 restaurants in Oslo.
+title: Kontakt Olsen
+snippet: Kort om Olsen: Olsen Restaurant &amp; Bar er et hyggelig sted lokalisert på Bryn, øst i Oslo. Olsen har glede av å kunne presentere god mat og nye live band hver fredag og lørdag. Kom innom for en hyggelig opplevelse! Bestilling Olsen tar i mot bord- og take away bestillinger.
+title: Program - Olsen På Bryn
+snippet: Kort om Olsen: Olsen Restaurant &amp; Bar er et hyggelig sted lokalisert på Bryn, øst i Oslo. Olsen har glede av å kunne presentere god mat og nye live band hver fredag og lørdag. Kom innom for en hyggelig opplevelse! Bestilling Olsen tar i mot bord- og take away bestillinger.
+title: Olsen På Bryn - Home | Facebook
+snippet: Olsen På Bryn - Østensjøveien 64, 0667 Oslo, Norway - Rated 4.3 based on 679 Reviews &quot;Amazing restaurant, beautiful food. Tanks for everything.&quot;
+title: De 10 beste restaurantene i nærheten av Olsen På Bryn
+snippet: Restauranter i nærheten av Olsen På Bryn på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Olsen På Bryn, Oslo. Oslo. Turisme i Oslo Hotell i Oslo Bed and Breakfast i Oslo ... Bar, Europeisk, Skandinavisk, Dansk, Norsk . Kampen Bistro.
+title: Olsen På Bryn - Startside | Facebook
+snippet: Olsen På Bryn – Østensjøveien 64, 0667 Oslo, Norway – Vurderingen 4.3 basert på 678 anmeldelser &quot;Fantastisk sted med hyggelig betjening og god mat :) God...
+title: Olsen restaurant, Bryn, Oslo - 1881.no
+snippet: Olsen restaurant fra Bryn, Oslo. Restaurant. Taket Steen &amp; Strøm Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter med inspira…
+
+REL: 2
+POI Name: Royal Gastropub
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, American (Traditional), Burgers, 
+Snippets:
+title: Royal Gastropub - Forside
+snippet: Velkommen til Royal Gastropub! I Kongens gamle venteværelse i Østbanehallen like ved Oslo S og Jernbanetorget, serverer vi deilige retter og et rikt utvalg av både lokalbrygget og utenlandsk øl.
+title: Royal - Menyen - Royal Gastropub
+snippet: Velkommen til Royal Gastropub! I Kongens gamle venteværelse i Østbanehallen like ved Oslo S og Jernbanetorget, serverer vi deilige retter og et rikt utvalg av både lokalbrygget og utenlandsk øl. Se vår meny under eller last ned menyen her
+title: Royal Gastropub, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Royal Gastropub, Oslo: Se 356 objektive anmeldelser av Royal Gastropub, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 273 av 1 450 restauranter i Oslo.
+title: Royal Gastropub - Østbanehallen
+snippet: Royal Gastropub ligger i Østbanehallen, vegg i vegg med Oslo S, og er nærmeste nabo til tog, buss og trikk. «Be royal to Yourself – and Others», lyder mottoet til Royal Gastropub, som tilbyr sine gjester et rikholdig utvalg av øl og ekte pubmat i stilriktige omgivelser Akershusgruppen, som står bak Royal, er opptatt av å sikre autensitet og skikkelig håndverk i alle ledd.
+title: Royal - Om restauranten - Royal Gastropub
+snippet: Royal Gastropub ligger i Østbanehallen, vegg i vegg med Oslo S, og er nærmeste nabo til tog, buss og trikk. «Be royal to Yourself – and Others», lyder mottoet til Royal Gastropub, som tilbyr sine gjester et rikholdig utvalg av øl og ekte pubmat i stilriktige omgivelser. Akershusgruppen, som står bak Royal, er opptatt av å sikre autensitet og skikkelig håndverk i alle ledd.
+title: Royal - Bordbestilling - Royal Gastropub
+snippet: Jernbanetorget 1, 0154 Oslo Hvordan finne veien til oss. Bordbestilling Menyen. Tilbake til toppen. Kopibeskyttet 2020 // Personvernserklæring // Cookies // TIBE Drammen.
+title: Royal Gastropub - Home - Oslo, Norway - Menu, Prices ...
+snippet: Royal Gastropub, Oslo, Norway. 2,341 likes · 2 talking about this · 16,964 were here. Spis og drikk godt på Royal Gastropub i Østbanehallen ved Oslo S. Shuffleboard, deilig gastro-mat og stort...
+title: Royal Gastropub | Oslo S
+snippet: Royal Gastropub En gastropub handler egentlig om å få i både pose og sekk. Her får du ikke bare et rikholdig utvalg av øl, både lokalt brygget og fra det store utland, men også god, real pubmat. Royal Gastropub vil tilby et rikholdig utvalg av øl, både lokalt brygget og fra mange av verdens kontinenter.
+title: Royal Gastropub, Østbanehallen — Restaurantguiden fra ...
+snippet: Royal Gastropub byr på hurtig mat for folk i farten. Det gjør ingenting om togavgangen er forsinket når du kan ta en matbit her mens du venter. 3 år siden – Det ikke alle som har klart seg siden vi var i en nyoppussede Østbanehallen første gang, sier Bordvenninnen.
+title: Royal Gastropub, Oslo - Menu, Prices, Restaurant Reviews ...
+snippet: Enjoy great burgers &amp; beer at Royal Gastropub, where popular gastro food and drinks can be enjoyed in true American spirit. We opened in the Norwegian King&#39;s old waiting room in the newly refurbished and venerable Ostbanehallen in Oslo on February 5th 2015.
+
+REL: 2
+POI Name: Bakkekroen
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Food, Chinese, Scandinavian, 
+Snippets:
+title: Bakkekroen - Startside | Facebook
+snippet: Bakkekroen, Oslo. 494 liker dette. Bakkekroen is a family-driven local restaurant, serving both traditional Norwegian and exotic Chinese food in a warm and cosy atmosphere.
+title: Bakkekroen, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Bakkekroen, Oslo: Se 39 objektive anmeldelser av Bakkekroen, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 1 115 av 1 450 restauranter i Oslo.
+title: Bakkekroen, Smestad, Oslo - 1881.no
+snippet: Bakkekroen fra Smestad, Oslo. Restaurant. Bar Tjuvholmen Som navnet tilsier stammer BAR - Bygdøy Allè Restaurant - fra gaten med samme navn som går tvers gjen…; Lucky Bird Vulkan Lucky Bird er en amerikansk restaurant i Oslo. Vi serverer smakfulle og deilige retter med inspira…
+title: Bakkekroen, Oslo - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Bakkekroen, Oslo: See 39 unbiased reviews of Bakkekroen, rated 3 of 5 on Tripadvisor and ranked #1,117 of 1,454 restaurants in Oslo.
+title: Bakkekroen, Bydel Ullern — Restaurantguiden fra Aftenposten
+snippet: Opp- og nedtur på Bakkekroen. Skal du spise godt i Smestadkrysset, bestiller du kinesisk. De norske rettene trakk dessverre ned helhetsinntrykket. 2 år siden – Jeg pleide å bo litt lenger opp, da dro vi enten hit eller til kafeen i Røakrysset, forteller Spisevennen, som også har vært på jazzkafe på Bakkekroen.
+title: Bakkekroen - Startside | Facebook
+snippet: Bakkekroen – Sørkedalsveien 81, 0376 Oslo, Norway – Vurderingen 4.1 basert på 47 anmeldelser &quot;Spist veldig godt jule mat, ved julebord med jobben. Veldig...
+title: Bakkekroen, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Bakkekroen Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Konsertkalender - Jazz i Norge
+snippet: Jazz i Norge er et samarbeidsprosjekt mellom Norsk jazzforum, magasinet Jazznytt og de fem regionale jazzsentrene. Jazz i Norge gir deg nyheter om stort og smått i norsk jazz, konsert- og plateanmeldelser samt oversikt over konserter og plateutgivelser.
+title: Bakkekroen. - Oslo Museum / DigitaltMuseum
+snippet: Bakkekroen restaurant, Smestad mat, dagligvareforretning, trapp, bil, mennesker. Avbildet sted Norge Oslo Oslo Smestad Sørkedalsveien 81 sikker Specific subject terms forretninger forretningsgårder restauranter trapper; Created with Sketch. Add a comment or suggest edits
+title: Bakkekroen - Home | Facebook
+snippet: Bakkekroen, Oslo. 493 likes. Bakkekroen is a family-driven local restaurant, serving both traditional Norwegian and exotic Chinese food in a warm and cosy atmosphere.
+
+REL: 2
+POI Name: Smalhans
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Scandinavian, 
+Snippets:
+title: Smalhans - Hele Oslos nabolagsrestaurant
+snippet: Vi ønsker alle velkommen til Smalhans og inn i vår verden av mat og drikke. I 2015 var vi så heldige at Michelin-guiden skjenket oss utmerkelsen «Bib Gourmand» som står for akkurat det vi har jobbet med siden oppstarten i 2012, ... Stedet er en del av Lava Oslo.
+title: Meny — Smalhans
+snippet: Om Smalhans Smalhans, St. Hanshaugens knutepunkt og hele Oslos nabolagsrestaurant, har fokusert på deleretter og naturvin siden 2012. Smalhans - et lavtysk ord som oversettes til «utsultet stakkar» eller på norsk «knapp levemåte» ble inspirasjonen til hvordan Smalhans er i dag.
+title: Smalhans, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Smalhans, Oslo: Se 389 objektive anmeldelser av Smalhans, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 118 av 1 450 restauranter i Oslo.
+title: English — Smalhans
+snippet: Smalhans sits nicely in a junction on top of St. Hanshaugen, ideal for everyone who wants a quick meal on their way home work or to enjoy an evening out with friends. The people behind Smalhans all have years of experience from the Oslo restaurant scene Even Ramsvik, Tom Victor Gausdal, Stian Floer and Anders Braathen.
+title: Smalhans, St. Hanshaugen — Restaurantguiden fra Aftenposten
+snippet: Smalhans: Spis som en greve til spottpris. Smalhans forsvarer sin plass i Michelin-guiden med nydelig mat til en svært hyggelig pris. 3 år siden – Er det alltid så mange folk her? Bordvenninnen har heldigvis bestilt bord, ellers måtte vi antagelig sitte og spise ved baren.
+title: Selskap — Smalhans
+snippet: På Smalhans vil du få en litt annen opplevelse enn den du er vant med. her ønsker vi en mer sosial servering. Det vil si at maten anrettes på fat eller skåler og sendes rundt bordet. Her kan man feire alt fra julebord, bryllup, bursdag, konfirmasjon til eventer og feiringer med jobben og venner.
+title: Smalhans, Oslo - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Smalhans, Oslo on Tripadvisor: See 389 unbiased reviews of Smalhans, rated 4 of 5 on Tripadvisor and ranked #118 of 1,450 restaurants in Oslo.
+title: Smalhans – Oslo - a MICHELIN Guide Restaurant
+snippet: Smalhans – a Bib Gourmand restaurant in the 2020 MICHELIN Guide Norway. Free online booking on the MICHELIN Guide&#39;s official website. The MICHELIN inspectors’ point of view, information on prices, types of cuisine and opening hours on the MICHELIN Guide&#39;s official website
+title: Smalhans - Startside - Oslo, Norway - Meny, priser ...
+snippet: Smalhans, Oslo, Norway. 10 k liker dette. Smalhans, St. Hanshaugens knutepunkt og hele Oslos nabolagsrestaurant, har fokusert på deleretter og naturvin siden 2012. I 2015 var vi så heldige at...
+title: Smalhans - Home - Oslo, Norway - Menu, Prices, Restaurant ...
+snippet: Smalhans, Oslo, Norway. 10K likes. Smalhans, St. Hanshaugens knutepunkt og hele Oslos nabolagsrestaurant, har fokusert på deleretter og naturvin siden 2012. I 2015 var vi så heldige at...
+
+REL: 2
+POI Name: Engebret Café
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Scandinavian, Seafood, 
+Snippets:
+title: Engebret Café
+snippet: Engebret Café Bankplassen 1 0151 Oslo Telefon 22822525 post@engebret-cafe.no. Bestill bord her. E-post * Telefon * Melding * Vi takker for din henvendelse og vil kontakt deg snarest! Med hilsen Engebret Cafe 123 Street Avenue, City Town, 99999 (123) 555-6789 ...
+title: Om vår meny — Engebret Café
+snippet: Engebret Café Bankplassen 1 0151 Oslo Telefon 22822525 post@engebret-cafe.no. Bestill bord her. E-post * Telefon * Melding * Vi takker for din henvendelse og vil kontakt deg snarest! Med hilsen Engebret Cafe 123 Street Avenue, City Town, 99999 (123) 555-6789 ...
+title: Bordbestilling — Engebret Café
+snippet: Engebret Café Bankplassen 1 0151 Oslo Telefon 22822525 post@engebret-cafe.no. Bestill bord her. E-post * Telefon * Melding * Vi takker for din henvendelse og vil kontakt deg snarest! Med hilsen Engebret Cafe 123 Street Avenue, City Town, 99999 (123) 555-6789 ...
+title: Engebret Café, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Engebret Café, Oslo: Se 741 objektive anmeldelser av Engebret Café, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 67 av 1 449 restauranter i Oslo.
+title: Lunsj meny — Engebret Café
+snippet: Engebret Café Bankplassen 1 0151 Oslo Telefon 22822525 post@engebret-cafe.no. Bestill bord her. E-post * Telefon * Melding * Vi takker for din henvendelse og vil kontakt deg snarest! Med hilsen Engebret Cafe 123 Street Avenue, City Town, 99999 (123) 555-6789 ...
+title: Engebret Cafe, Oslo - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Engebret Cafe, Oslo on Tripadvisor: See 741 unbiased reviews of Engebret Cafe, rated 4 of 5 on Tripadvisor and ranked #67 of 1,450 restaurants in Oslo.
+title: Engebret cafe, Oslo Sentrum, Oslo - 1881.no
+snippet: Engebret cafe fra Oslo Sentrum, 101263685S1 - Engebret cafe
+title: Engebret Café, Kvadraturen — Restaurantguiden fra Osloby
+snippet: Engebret, som har ligget i samme lokale siden 1862, er i dag et stykke unna datidens bohemske tilstander. Menyen skilter med mange tradisjonsrike retter som har sitt utspring i Nord-Norge. – Ser man på spisekartet, vitner det om en elegant, kontinental utgave av Rorbua og Lofotstua, som begge har et mer folkelig preg, sier Bordvenninnen, som nesten ikke klarer å bestemme seg for hva hun ...
+
+REL: 2
+POI Name: Theatercafeen
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, 
+Snippets:
+title: THEATERCAFEEN | Restaurant i Oslo
+snippet: Opplev Hotel Continental. Vi inviterer til en kveld på en av Oslos mest kjente restauranteter. Etter middagen kan du nyte et opphold på et av Norges femstjerners hotell.
+title: THEATERCAFEEN | Restaurant in Oslo
+snippet: We invite you to a stay at one of Norway’s five-star hotels combined with an evening at Oslo’s most renowned restaurant. Phone + 47 22 82 40 50. Email. bord@theatercafeen.no. Address. Stortingsgaten 24/26 P.O. Box 1510 Vika N- 0117 OSLO. Opening hours. Mon to Sat 11.00 – 22.30.
+title: Afternoon Tea | THEATERCAFEEN | Restaurant i Oslo
+snippet: bord@theatercafeen.no. Bestillinger til lørdag og søndag må være mottatt senest kl. 15 fredagen før. Du kan også ringe oss på 22 82 40 50. Oppgrader Afternoon Tea opplevelsen med en overnatting på et av Norges beste hotell. Ta en titt på vår hotellpakke som inkluderer en natt på Hotel Continental og Afternoon Tea i Theatercaféen.
+title: HOTEL CONTINENTAL | Femstjerners luksushotell i Oslo
+snippet: Hotel Continental er et femstjerners hotell i sentrum av Oslo med 155 elegante hotellrom, 12 møte- og eventlokaler samt flere restauranter og barer.
+title: Theatercafeen, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Theatercafeen, Oslo: Se 784 objektive anmeldelser av Theatercafeen, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 76 av 1 450 restauranter i Oslo.
+title: Theatercafeen, Oslo - Menu, Prices, Restaurant Reviews ...
+snippet: Lively and unique... Theatercafeen is part of Norwegian cultural history and an absolute must for every visitor to Oslo. We have been one of the city&#39;s most popular places to eat and meet for more than 100 years. You will feel at home in our buzzing atmosphere. This is a relaxed place, equally appropriate for drinking a glass of wine or for dining.
+title: Theatercaféen – Wikipedia
+snippet: Theatercaféen er en del av Hotel Continental i Stortingsgaten i Oslo sentrum, med plass til ca. 240 gjester. Caféen åpnet 22. desember 1900, vis-à-vis Nationaltheatret, som hadde åpnet året før.. Hotel Continental / Theatercaféen var opprinnelig bygget og eid av Foss Bryggeri.I 1909 overtok Caroline og Christian Boman Hansen leieavtalen, og etter tre års drift kjøpte de Hotel ...
+title: Theatercaféen, Sentrum — Restaurantguiden fra Aftenposten
+snippet: Wienercaféen byr på hverdagsluksus med elegant interiør og service. Smørbrødbuffet, småretter og kaker ved siden av à la cartemenyen. — Les mer i Restaurantguiden fra Aftenposten.
+
+REL: 2
+POI Name: My Ugly Baby
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Donuts, 
+Snippets:
+title: My Ugly Baby
+snippet: Delicious coffee straight to your mailbox. Our cafe. After two years of planning, we’re finally open. Slinging super tasty drinks and handmade doughnuts right on Youngstorget.
+title: My Ugly Baby
+snippet: My dear fellow human, this is precisely why My Ugly Baby has been birthed in all it’s glory here, in the heart of Oslo. To be human: really, truly, messy, joyfully, passionately human. My Ugly Baby is all about embracing the imperfect sweet humanity in each of us.
+title: My Ugly Baby AS, Oslo Sentrum, Oslo - 1881.no
+snippet: My Ugly Baby AS fra Oslo Sentrum, 106157561S0 - My Ugly Baby AS
+title: My ugly baby - Home | Facebook
+snippet: My ugly baby, Oslo, Norway. 327 likes. We are roasting coffee &amp; making doughnuts at Yougstorget in Oslo every day Welcome This amazing little shop is our ugly baby and we love it ️
+title: My Ugly Baby AS - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om My Ugly Baby AS. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: My Ugly Baby Coffee AS, Oslo Sentrum, Oslo - 1881.no
+snippet: My Ugly Baby Coffee AS fra Oslo Sentrum, 105401068S0 - My Ugly Baby Coffee AS
+title: My Ugly Baby
+snippet: Sold out. Peaches &amp; cream, in the way only an Ethiopian coffee can bring you all of the peaches and cream. Jasmine flowers and intricate bitters that stimulate your senses to finish it off.
+title: My Ugly Baby Oslo | Spotted by Locals
+snippet: &quot;My Ugly Baby&quot; is dont paradise in Oslo! I&#39;ve never experienced a bunch of people more enthusiastic for coffee and donuts...
+title: My Ugly Baby AS - Oslo - Roller og kunngjøringer
+snippet: My Ugly Baby AS Org nr 919 729 546. Youngs gate 17, 0181 Oslo Sammenlign Overvåk Finn lignende. Skriv ut; Del firmaprofil. Send ... Madein Oslo Restaurants AS. 916 771 770. Oversikt Regnskap Nøkkeltall Roller og Eiere. Sum driftsinntekter 2018: 12 239&#39; NOK.
+
+REL: 2
+POI Name: 26 North
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Traditional Norwegian, 
+Snippets:
+title: Hjem - Oslo - 26North
+snippet: Åpningstider Restaurant: Mandag - Lørdag 11.00 – 23.30 (siste bestilling 22.30) Søndag 11.00 – 22.00 (siste bestilling 22.00) SUMMIT BAR. Man-Tirs 16:00-01:00
+title: Landingsside - 26North
+snippet: 26 North Restaurant &amp; Social Club er inspirert av de nordiske landene, deres natur, kulinariske skatter og design. Kjøkkensjefen har blitt inspirert av de norske fjorder, gårder og skoger og satt sammen en unik nordisk meny som vil trigge dine smaksløker.
+title: Meny - 26North
+snippet: 26 North burger 170gr kvernet premium norsk storfe, salat, Jarlsberg, Cheddar ost, røkt dressing, syltet chili og pommes frites ved ... Vår skybar ligger i 21.etage og har byens beste utsikt over Oslo og fjorden. Du er velkommen til å komme og prøve våre signaturdrinker og nyte den deilige atmosfæren. DRIKKE. LITT HVITT. Pierre Ponelle ...
+title: Gardermoen - 26North
+snippet: +47 63 93 30 00 Hotellvegen 1, 2061 Jessheim Åpningstider Se våre åpningstider her. Bergen
+title: Hjem - Bergen - 26North
+snippet: ÅPNINGSTIDER Restaurant: Mandag - Lørdag 16:00 – Sent Bergen. Bestill bord
+title: 26 North - Oslo - Home | Facebook
+snippet: 26 North - Oslo - Holbergsgate 30, 0166 Oslo, Norway - Rated 4.6 based on 12 Reviews &quot;After winning competition we joined for dinner on the 24th of Nov....
+title: 26 North Restaurant &amp; Social Club, Oslo ...
+snippet: 26 North Restaurant &amp; Social Club, Oslo: Se 93 objektive anmeldelser av 26 North Restaurant &amp; Social Club, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 395 av 1 454 restauranter i Oslo.
+title: 26 North Restaurant &amp; Social Club Oslo - Sentrum, Oslo ...
+snippet: I trendy, raffinerte omgivelser tilbyr 26 North Restaurant &amp; Social Club Oslo en nordisk meny med det beste fra fjell og fjord. Med inspirasjon fra det nordiske naturbildet skapes smakfulle retter med en tvist, med lokale råvarer i fokus.
+title: 26 North Restaurant &amp; Social Club, Oslo - Menu, Prices ...
+snippet: 26 North Restaurant &amp; Social Club, Oslo: See 93 unbiased reviews of 26 North Restaurant &amp; Social Club, rated 4 of 5 on Tripadvisor and ranked #395 of 1,454 restaurants in Oslo.
+title: 26 North til Oslo - Horecanytt
+snippet: Den får lokalisering på Holbergs plass 30 i Oslo sentrum, og som de andre 26 North-restaurantene, tilknyttet et Radisson Blu-hotell, denne gangen Radisson Blu Scandinavia Hotel. Kjøkkensjef for nyskapningen i Oslo sentrum er Daniel Andreasson. Restaurantkonseptet er inspirert av de nordiske landene, deres natur, kulinariske skatter og design.
+
+REL: 2
+POI Name: Smageriet
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Chocolatiers & Shops, Coffee & Tea, Cafes, 
+Snippets:
+title: Smageriet, Lilleakerveien 16, Oslo (2019)
+snippet: Smageriet søker deltidsansatt . Smageriet søker deltidsansatt . Smageriet er en butikk som i hovedsak selger kaffe, te og konfekt i løsvekt. Vi fører også merkevarer som Greengate, Pip Home med flere. Vi søker deltidshjelp for to år med mulighet for forlengelse. Vi søker deg som - er over 19 år
+title: www.yelp.no
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Smageriet - 22731112
+snippet: Smageriet har besøksadresse Lilleakerveien 16, 0283 Oslo. Selskapets firmanavn i Brønnøysundregisteret er Holum Måseide.&lt;br/&gt;&lt;br/&gt;Få tilsendt kontaktopplysninger, kart og veibeskrivelse for Holum Måseide gratis til din mobil. Fyll inn ditt mobilnummer i feltet til høyre på denne siden og trykk &quot;Send&quot;. Informasjonen blir tilsendt i løpet av sekunder sammen med en mulighet til
+title: UTSALGSSTEDER – Guri Schanke
+snippet: OSLO: GlasMagasinet Stortovet Christiania Glasmagasin (Lille Grensen) Smageriet CC-Vest Same ol Story (Tåsen) Daisy (Vinderen) Naturales i Skovveien
+title: CC Vest - Startside | Facebook
+snippet: CC Vest, Oslo, Norway. 8 723 liker dette · 156 snakker om dette · 5 088 har vært her. CC Vest er et moderne kjøpesenter med fokus på god service og en behagelig handleopplevelse. Vi har et bredt...
+title: BUTIKKOVERSIKT ÅPNINGSTIDER
+snippet: lilleakerveien 16, 0283 oslo informasjon 22 73 63 50 www.ccvest.no BUTIKKOVERSIKT kjære kunde Om du har vært hos Niwa eller Mats &amp; Martin og skal hente bilen etter at senteret er stengt, følger du denne guiden. p-hus nord (Fargekode GUL eller RØD) Ta heisen ned til U2/U3 og gå kjørerampen opp dersom bilen står i U1.
+title: Smageriet v/Holum Måseide – Jobbmuligheter og ledige ...
+snippet: Smageriet v/Holum Måseide Profil. Registrer deg i CV-database Legg til i jobbønsker Smageriet er en ... I tillegg er Rømskog kommune i Østfold og de tre nordligste bydelene i Oslo; Alna, Grorud og Stovner, en del av vårt sykehusområde.
+title: Smageriet - Chocolate Shop in Oslo
+snippet: 1 visitor has checked in at Smageriet. Chocolate Shop in Oslo, Oslo. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, ...
+title: Heimdal Chokolade
+snippet: Smageriet, CC Vest, Oslo Narvesen, Oslo S Lille Special, Fredrikstad Godsaker, Kongsberg Silkevippa, Vinje Sjokoladebutikken, Trondheim Monica`s Godteri, Bod ...
+title: Renée Mari - Oslo, Oslo, Norway | Professional profil ...
+snippet: Smageriet. jan. 2012 – aug. 2012 8 måneder. Oslo Area, Norway. Utdanning. Hult International Business School. Hult International Business School Bachelor’s Degree. 2012 – 2015. Språk. Norwegian Morsmål eller tospråklig kompetanse. English Komplett profesjonell kompetanse.
+
+REL: 2
+POI Name: Grand Café
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Traditional Norwegian, 
+Snippets:
+title: Grand Café Oslo
+snippet: I 1874 åpnet Grand Café dørene, den gang Oslo het Kristiania. Det var her det hele startet. Caféen var stamstedet for blant andre Henrik Ibsen, Roald Amundsen, Knut Hamsun, Gustav Vigeland og Fridtjof Nansen i tillegg til en rekke andre &#39;Kristianabohemer&#39;.
+title: Book bord — Grand Café Oslo
+snippet: Grand Café Oslo. 27-31 Karl Johans gate, Oslo, Oslo, 0162, Norway +47 981 82 ... · DinDeli CC · Dyna Fyr · Ekebergrestauranten · Festningen Restaurant · Fursetgruppen Catering · Gamle Logen · Grand Café · Grilleriet · Høymagasinet · Ingierstrand Bad Restaurant · Oslo Konserthus · Karlsborg Spiseforretning · Ling Ling Hakkasan ...
+title: English — Grand Café Oslo
+snippet: The Grand Café first opened in 1874. In the restaurant, Henrik Ibsen would eat his daily lunch and Edvard Munch once offered to swap the painting ‘Sick Girl’ in return for 100 steak dinners. Now, more than 140 years later a new era has begun. A new restaurant and an extensive wine cellar.
+title: Restaurant Oslo Karl Johan | Middag Oslo | Grand Hotel Oslo
+snippet: Grand Hotel Olso’s restaurants offer one of the best dining experience in Oslo. Enjoy Afternoon tea, breakfast, brunch or a rooftop bar with us. Click here!
+title: Meny — Grand Café Oslo
+snippet: Fursetgruppen · DinDeli CC · Dyna Fyr · Ekebergrestauranten · Festningen Restaurant · Fursetgruppen Catering · Gamle Logen · Grand Café · Grilleriet · Høymagasinet · Ingierstrand Bad Restaurant · Oslo Konserthus · Karlsborg Spiseforretning · Ling Ling Hakkasan · Lofoten Fiskerestaurant · Maaemo Restaurant · Nationaltheatret ...
+title: Menu-English — Grand Café Oslo
+snippet: This menu can be served in 1 hour. Please let your server know if you have limited time. If you are visiting one of Oslo’s beautiful stages, we recommend you arrive at the theatre 1/2 hour before the start of the performance.
+title: Jazzlunsj hver søndag — Grand Café Oslo
+snippet: Fra og med 2. februar vil det hver søndag være levende jazz på Grand Café mellom kl. 14.00 og 16.00. Dette har vi gledet oss stort til, og håper dere inviterer venner og kjente i alle aldre til disse søndagene fremover. Her får dere oppleve ulike band og jazzpersonligheter i en klassisk setting.
+title: Aktuelt — Grand Café Oslo
+snippet: Grand Café Oslo. 27-31 Karl Johans gate, Oslo, Oslo, 0162, Norway +47 981 82 ... · DinDeli CC · Dyna Fyr · Ekebergrestauranten · Festningen Restaurant · Fursetgruppen Catering · Gamle Logen · Grand Café · Grilleriet · Høymagasinet · Ingierstrand Bad Restaurant · Oslo Konserthus · Karlsborg Spiseforretning · Ling Ling Hakkasan ...
+title: Grand Café Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Grand Café Oslo, Oslo: Se 382 objektive anmeldelser av Grand Café Oslo, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 204 av 1 450 restauranter i Oslo.
+title: Hotell Oslo Sentrum | Grand Hotel Oslo
+snippet: Grand Hotel i Oslo er Norges mest kjente og prestisjefulle hotell. Hotellet åpnet for første gang dørene i 1874, og har i over 140 år ønsket nordmenn, internasjonale gjester, verdensledere, kjendiser og Nobel Fredsprisvinnere velkommen.
+
+REL: 2
+POI Name: Fiskeriet
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Seafood Markets, Scandinavian, 
+Snippets:
+title: Bestilling — Fiskeriet Youngstorget sjømatrestaurant ...
+snippet: Med vennlig hilsen oss her på Fiskeriet Youngstorget . Litt å tenke på før du bestiller. Ring oss eller send en e-post med din bestilling, eller hvis du har noen spørsmål. ... Fiskeriet, Youngstorget 2b, 0181 Oslo, Norway 22424540 youngstorget@fiskeriet.com.
+title: Fiskeriet Youngstorget, Oslo - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Fiskeriet Youngstorget, Oslo with Tripadvisor: See 1,104 unbiased reviews of Fiskeriet Youngstorget, ranked #70 on Tripadvisor among 1,450 restaurants in Oslo.
+title: Fiskeriet, Youngstorget — Restaurantguiden fra Aftenposten
+snippet: – Hvis det fins en skala for god, effektiv service, ligger nok salig Erling Moe og Fiskeriet i hver sin ende av den, smiler jeg. Fiskebutikken Erling Moe var en institusjon i Oslo, sjarmerende på sitt helt eget vis med sin østblokkinspirerte butikkorganisering der alle handler måtte gjennom minst tre ledd, ...
+title: Fiskeriet Youngstorget, Oslo - Restaurantanmeldelser ...
+snippet: Fiskeriet Youngstorget, Oslo: Se 1 104 objektive anmeldelser av Fiskeriet Youngstorget, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 70 av 1 450 restauranter i Oslo.
+title: Fiskeriet — Folketeaterpassasjen
+snippet: Fiskeriet på Youngstorget har tatt over og totalrenovert den tidligere velkjente fiskebutikken til Erling Moe. Med sorg måtte trofaste kunder gjennom de 75 årene butikken eksisterte, se nok en spesialforretning i Oslo gå tapt. Det er derfor med ekstra glede at det er etablert en ny og fin fiskebutikk i nettopp disse lokalene.
+title: Take away fra Fiskeriet Oslo | foodora
+snippet: foodora bruker Cookies for å gi deg en best mulig opplevelse av tjenesten. Dersom du fortsetter å navigere deg på nettsiden godtar du vår bruk av Cookies.
+title: Fiskeriet, Oslo | DN
+snippet: På Fiskeriet på Youngstorget bestiller du i baren, tar med deg bestikk og drikke, og så kommer maten til bordet når den er klar. God fish and chips på Youngstorget. Social share DETTE ER SAKEN: Fiskeriet, Oslo. Det var en av disse småkjølige sensommerukene, og det var tid for lunsj på Fiskeriet. Fakta: Fiskeriet ...
+title: Beste spisesteder i nærheten av Fiskeriet Youngstorget, Oslo
+snippet: Restauranter i nærheten av Fiskeriet Youngstorget på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Fiskeriet Youngstorget, Oslo.
+title: Oslos beste fiskebutikk - Anmeldelse for Fiskeriet ...
+snippet: Fiskeriet Youngstorget: Oslos beste fiskebutikk - Se 1 104 reiseanmeldelser, 668 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: Fiskeriet - Home | Facebook
+snippet: Fiskeriet. 4.6K likes. På Fiskeriet Youngstorget finner du en av Oslos beste fiskebutikk og fiskerestaurant. Fra den lekre disken får du villfanget fisk og skalldyr av ypperste kvalitet fra dyktige,...
+
+REL: 2
+POI Name: Café Vespa
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Soup, Cafes, 
+Snippets:
+title: Vespa og Humla
+snippet: Rotisserie restaurant by night - by day a fantastic local cafe, brunch spot and lunch place with the best quality coffee and pastries in Oslo. Frokost, lunsj, pizza og bryggeri. God kaffe - Italiensk Innspirert Mat - En møteplass - Mikrobryggeri. Tel: 456 88 787 Københavngata 2c, 0553 Oslo.
+title: Reservations - Vespa og Humla
+snippet: VESPA. Tar opptil 30 personer. Vespa er den opprinnelige delen til Café Vespa, der alt startet. Vespa har nydelige gamle marrokanske fliser og huser kontoret til Spade and Archer detektiv byrå. Denne nydelige delen tar fint 30 personer og er perfekt for møter, bursdager og andre type selskaper. Her kan man få tilgang på skjerm og projector.
+title: Café Vespa, Grünerløkka — Restaurantguiden fra Aftenposten
+snippet: Hele Oslo. Velg område Ok. Spesielle krav. Spesielle krav Ok. Prisnivå. Prisnivå Ok. Søk. eller. Alle bilder (3) Café Vespa. Københavngata 2 • Grünerløkka. Kart Ring Web Meny. Koselig café på Løkka med kaffe, søtsaker, sandwicher, focaccia, salater og supper på menyen. 1 Leser. 100%.
+title: Cafe vespa Oslo - 1881.no
+snippet: 1881 gir deg treff på Cafe vespa Oslo, inklusive. adresse, telefonnummer og kart.
+title: Cafe Vespa, Grünerløkka, Oslo - 1881.no
+snippet: Cafe Vespa fra Grünerløkka, 101378664S1 - Cafe Vespa
+title: Cafe Vespa, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Cafe Vespa Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Vespa &amp; Humla, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Vespa &amp; Humla, Oslo: Se 48 objektive anmeldelser av Vespa &amp; Humla, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 789 av 1 449 restauranter i Oslo.
+title: Hyggelig cafe - Anmeldelse for Vespa &amp; Humla, Oslo, Norge ...
+snippet: Vespa &amp; Humla: Hyggelig cafe - Se 48 reiseanmeldelser, 13 objektive bilder og gode tilbud på Oslo, Norge på Tripadvisor.
+title: MIR | Grünerløkka Lufthavn
+snippet: Café Mir og scenen sies å være hjertet på Grünerløkka Lufthavn. Vi har mange spennende og fine konserter og andre mystiske arrangementer og alle rettigheter! Aldersgrensa er 20 år. På Mir kan du scrolle løs på trådløst nett, lese tegneserier eller spille sjakk, backgammond og andre spill.
+title: Oslo: Rillefest 3 - Cafe Vespa fredag 27. mars 2015
+snippet: Da blir det Rillefest 3 på Cafe Vespa Her treffer du hyggelige folk, du kan komplettere vinylsamlingen din, høre på &#39;husbandet&#39; Norwegian Driftwood, groove til de beste låtene fra DJ Rille. Welcome!. Dette arrangementet skjer fredag 27. mars 2015
+
+REL: 2
+POI Name: Vulkanfisk Sjømatbar
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Fish & Chips, 
+Snippets:
+title: Vulkanfisk - Vulkan fisk
+snippet: Velkommen til Vulkanfisk sjømatrestaurant. Vi holder til i Mathallen Oslo og har totalt 200 sitteplasser ute og inne. Vi elsker god sjømat og vi kjenner historien bak alle våre råvarer. Våre leverandører er like lidenskapelig opptatt av havets skatter som oss – og det håper vi gjestene våre smaker, velkommen! Se åpningstider
+title: Vulkanfisk Sjømatbar - Mathallen Oslo
+snippet: Vulkanﬁsk Sjømatbar serverer ﬁsk og skalldyr fra Vulkanﬁsk-butikken.. Vi elsker god sjømat og vi kjenner historien bak alle våre råvarer. Våre leverandører er like lidenskapelig opptatt av havets skatter som oss – og det håper vi gjestene våre smaker.
+title: Vulkanfisk Butikk - Mathallen Oslo
+snippet: På Vulkanfisk bugner av det beste havet har å by på. Vi jobber hele tiden med å finne de beste leverandørene og kvaliten til hver sesong.
+title: Vulkanfisk - Vulkan fisk
+snippet: Welcome to Vulkanfisk Seafood Restaurant. We are located in Mathallen Oslo – where we also have a large Fish Shop. Suppliers and fishermen, from all over Norway, deliver fish and shellfish to us every day.
+title: Butikker - Mathallen Oslo
+snippet: This post is also available in: English. I Mathallen jobber dyktige fagfolk som er genuint opptatt av matglede og som alltid vil gi deg gode tips og råd på veien.
+title: skalldyr - Mathallen Oslo
+snippet: Sesongens beste sjømat. Skreisesongen har nå startet for fullt og Vulkanfisk har skrei i loin og skiver, samt tunger, kjaker, lever og rogn. I tillegg er skalldyrene på sitt beste nå og lørdag 9. februar har du muligheten til å smake på sesongens beste sjømat i Mathallen
+title: Verdens beste blåskjell! - Mathallen Oslo
+snippet: Hvitvinsdampede blåskjell. Vask blåskjellene godt. Kast knuste skjell og skjell som ikke lukker seg. Fres løk, hvitløk, fennikel og timian sammen i klaret smør eller olivenolje
+title: VulkanFisk, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: VulkanFisk, Oslo: Se 590 objektive anmeldelser av VulkanFisk, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 61 av 1 450 restauranter i Oslo.
+title: Vulkanfisk Sjømatbar - Grünerløkka - Oslo, Norway
+snippet: 29 reviews of Vulkanfisk Sjømatbar &quot;Food: Absolutely fresh and delicious! We had our first meal here after landing in Norway and it was such a pleasant surprise! We ordered a dish that was featured around monk fish and the sweet shrimp! Both…
+title: VulkanFisk, Oslo - Menu, Prices &amp; Restaurant Reviews ...
+snippet: VulkanFisk, Oslo: See 590 unbiased reviews of VulkanFisk, rated 4.5 of 5 on Tripadvisor and ranked #61 of 1,450 restaurants in Oslo.
+
+REL: 2
+POI Name: Elias Mat & Sånt
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Scandinavian, Bistros, 
+Snippets:
+title: Home - Elias mat &amp; sånt
+snippet: Elias is unfortunately closed because of the corona-situation in Norway. ... Elias mat &amp; sånt. Kristian Augusts gate 14 0164 Oslo, Norway Phone +47 22 20 22 21 Email: booking@cafeelias.no. Table reservation. Book a table now! &amp;copy 2016 Elias mat &amp; sånt Webdesign and development: ...
+title: Direkte fra havet og hagen til matbordet - Elias mat &amp; sånt
+snippet: Direkte fra havet og hagen til matbordet. Vår filosofi er at god mat lages fra bunnen av med ferske og gode råvarer. Å være bevisst hva man spiser og drikker handler både om det som er bra for deg, dyrene, miljøet og smaken.
+title: Meny - Elias mat &amp; sånt
+snippet: Elias mat &amp; sånt. Kristian Augusts gate 14 0164 Oslo, Norge Tlf. +47 22 20 22 21 Epost: booking@cafeelias.no. Bordreservasjon. Bestill bord nå! &amp;copy 2016 Elias mat &amp; sånt. Logg inn. Webdesign og utvikling: Dos Puntos Design. ...
+title: Elias Mat &amp; Sant, Oslo - Restaurant Reviews, Photos ...
+snippet: Elias Mat &amp; Sant, Oslo: See 1,394 unbiased reviews of Elias Mat &amp; Sant, rated 4.5 of 5 on Tripadvisor and ranked #59 of 1,450 restaurants in Oslo.
+title: Elias Mat &amp; Sant, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Elias Mat &amp; Sant, Oslo: Se 1 394 objektive anmeldelser av Elias Mat &amp; Sant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 59 av 1 449 restauranter i Oslo.
+title: Booking - Elias mat &amp; sånt
+snippet: Contact information. Elias mat &amp; sånt. Kristian Augusts gate 14 0164 Oslo, Norway Phone +47 22 20 22 21 Email: booking@cafeelias.no
+title: Elias Mat &amp; Sånt, Tullinløkka — Restaurantguiden fra ...
+snippet: Elias Mat &amp; Sånt fyller fem år, men må snarest få skikk på service og mat. 2 år siden – Hva, har dere ikke fått hovedrettene? De kommer vel snart, sier servitøren og forsvinner inn på kjøkkenet. En time tidligere ankommer vi sentralt plasserte Elias Mat &amp; Sånt, få meter unna Nasjonalgalleriet og Det Norske Teatret. Salmon for you
+title: ELIAS MAT &amp; SANT, Oslo - Updated 2020 Restaurant Reviews ...
+snippet: Elias Mat &amp; Sant, Oslo: See 1,394 unbiased reviews of Elias Mat &amp; Sant, rated 4.5 of 5 on Tripadvisor and ranked #59 of 1,450 restaurants in Oslo.
+title: Mat - Anmeldelse for Elias Mat &amp; Sant, Oslo, Norge ...
+snippet: Elias Mat og sånt dukka opp ved søk på nett. Enkelt å bestille, kjapp stadfesting på plass. Vi følte oss velkomne med det same vi kom, personalet var blide og kjekke og tok seg tid til ein prat sjøl om det var travelt. Maten var kjempegod!!! Vi skal dit igjen.
+title: Elias Mat &amp; Sant, Oslo - Restaurant Bewertungen ...
+snippet: Elias Mat &amp; Sant, Oslo: 1.394 Bewertungen - bei Tripadvisor auf Platz 59 von 1.450 von 1.450 Oslo Restaurants; mit 4,5/5 von Reisenden bewertet.
+
+REL: 2
+POI Name: Kaffistova
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Traditional Norwegian, 
+Snippets:
+title: Kaffistova Heim
+snippet: I Kaffistova har vi servert tradisjonell norsk mat i meir enn 100 år. Då kafeen opna i 1901 var interiøret dekorert med handskorne møblar. Fleire av dei står i dag utstilt på Norsk Folkemuseum på Bygdøy.
+title: Alle dagar - Kaffistova
+snippet: Kaffistova sine kjøttkaker. MINDRE porsjon med to kjøttkaker. Kveitemjøl, mjølk, 139,-I tillegg er det kvar dag ein dagens rett med fisk, ein med kjøtt og ein anna lettare rett som suppe eller salat. ... Kaffistova Rosenkrantz&#39; gate 8 0159 Oslo. Følg oss på Facebook.
+title: Kaffistova - Sentral restaurant Oslo
+snippet: Kaffistova – sentral restaurant Oslo. På Kaffistova i Oslo står norsk mat i fokus! Vi ligg midt i Oslo sentrum og her serverer vi vellaga, og sjølvsagt heimelaga, mat. Maten er laga av glade kokkar - og basert på gode, norske mattradisjonar.
+title: Kaffistova, Oslo - Sentrum - Menu, Prices &amp; Restaurant ...
+snippet: Kaffistova, Oslo: See 490 unbiased reviews of Kaffistova, rated 4 of 5 on Tripadvisor and ranked #157 of 1,449 restaurants in Oslo.
+title: Kaffistova – a central, Norwegian cafe downtown Oslo
+snippet: Kaffistova – a central, Norwegian cafe downtown Oslo Kaffistova has served traditional Norwegian food for more than a century. The first café opened in 1901 with traditional carved and painted wood-furniture. Some of the original interior is on display at the Norwegian Folk Museum at Bygdøy.
+title: MENYAR - Kaffistova
+snippet: Kaffistova Rosenkrantz&#39; gate 8 0159 Oslo. Telefon: 23 21 41 00 E-post: leiarkaffistova(a)bondeheimen.com
+title: Om Kaffistova
+snippet: På Kaffistova i Oslo står norsk mat i fokus! Vi ligg midt i Oslo sentrum og her serverer vi vellaga, og sjølvsagt heimelaga, mat. Maten er laga av glade kokkar - og basert på gode, norske mattradisjonar. Norske spesialitetar, som til dømes raspeball, kjøttkaker og fårikål vert servert i rause porsjonar til ein hyggeleg pris.
+title: Kaffistova, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Kaffistova, Oslo: Se 490 objektive anmeldelser av Kaffistova, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 158 av 1 450 restauranter i Oslo.
+title: Home [www.kaffistova.no]
+snippet: Kaffistova has served traditional Norwegian food for more than a century. The first café opened in 1901 with traditional carved and painted wood-furniture. Some of the original interior is on display at the Norwegian Folk Museum at Bygdøy.
+title: Selskap og event - Kaffistova
+snippet: Kaffistova si konfektkake med bringebærsaus. Spør oss om allergener. 3. Grava laks med peparrotkrem, rugbrødchips og raudlauk. Lammesteik servert med rosenkål, omnsbakte poteter og raudvinsaus. Sjokolademousse med pasjonsfruktsaus. ... Kaffistova Rosenkrantz&#39; gate 8 0159 Oslo.
+
+REL: 1
+POI Name: Nye Stortorvets Gjæstgiveri
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Pubs, Scandinavian, 
+Snippets:
+title: Et møtested i generasjoner - Stortorvets Gjæstgiveri
+snippet: Stortorvets Gjæstgiveri Et møtested i generasjoner. Stortorvets Gjæstgiveri er en restaurant i Oslo sentrum beliggende i et av byens eldste bygg, og her har mennesker møttes siden tidlig 1700-tall. Hos oss kan du spise, drikke og kose deg i historiske omgivelser, enten du er alene eller vil ha med deg inntil 300 av dine venner/ kollegaer.
+title: A meeting place for generations - Stortorvets Gjæstgiveri
+snippet: Stortorvets Gjæstgiveri CLOSED. Due to the outbreak of Covid-19 we will be closed until further notice. A meeting place for generations. Take a trip downtown and you’ll find one of Oslo’s oldest restaurants.
+title: Stortorvets Gjestgiveri, Oslo - Restaurantanmeldelser ...
+snippet: Stortorvets Gjestgiveri, Oslo: Se 463 objektive anmeldelser av Stortorvets Gjestgiveri, ... Lunsjen her var ok, ble tatt imot av en servitør som vi følte ikke likte jobben sin. Fikk en ny servitør da vi bestilte mat, hun virket heller ikke ut som hun brydde seg så mye om gjestene. Flott lokale men trenger nok et ansiktsløft.
+title: Nye Stortorvets Gjæstgiveri - Sentrum - Oslo, Norway
+snippet: 17 reviews of Nye Stortorvets Gjæstgiveri &quot;**FOOD: OMG our BEST restaurant experience on this vacation. Food was just excellent. Everything was so good. We specifically made reservations for their THURSDAY DINNER (traditional authentic dinner…
+title: Brann på Stortorvets Gjæstgiveri - Oslo
+snippet: Brann på Stortorvets Gjæstgiveri Det ble full utrykning og evakuering da det i 15-tida mandag brøt ut en kraftig pipebrann i den tradisjonsrike 1700-tallsbygningen på Stortorvet.
+title: Stortorvets Gjæstgiveri, Sentrum — Restaurantguiden fra ...
+snippet: Etter «syv magre» ser det ut til at Stortorvets Gjæstgiveri har fått skikk på kjøkkenet. Men de har fremdeles noe å gå på. Ett år siden – Det har alltid vært noe spesielt med Gjæstgiveriet, sier Spisevennen. – Stedet har alltid hatt sjarm, du merker historien som sitter i veggene.
+title: Restaurant på Hamar nekter å bytte navn – saksøkes av Olav ...
+snippet: Da bygningen som huser Stortorvets Gjæstgiveri i Oslo ble oppført, var Grændsen en forstad til Christiania, Hamar var et område benyttet til jordbruk og rettstvister ble avgjort av en «svoren skriver». Det var godt over 300 år siden. I 2015 åpnet restauranten Stortorvet Gjestgiveri dørene på Hamar.
+title: Stortorvets Gjestgiveri, Oslo - Restaurantanmeldelser ...
+snippet: Stortorvets Gjestgiveri, Oslo: Se 463 objektive anmeldelser av Stortorvets Gjestgiveri, ... Vi ønsket å spise en julemiddag ute nå i desember og valgte Stortorget Gjæstgiveri basert på tidligere erfaringer og husets spesielle atmosfære.
+title: Stortorvets Gjæstgiveri: Adventstid på samlebåndet - Godt.no
+snippet: Spiste lutefisk på Stortorvets Gjæstgiveri tidligere denne uken, og vi var veldig fornøyd med lutefisken, både i mengde og kvalitet. Vi liker en del ekstra ting utover standardtilbehøret de serverer, og etter en forespørsel kommer de alltid med de ekstra tingene vi ber om (sirup, sennepspulver, revet brunost).
+title: Stortorvets Gjæstgiveri - Aktiv I Oslo.no
+snippet: Stortorvets Gjæstgiveri er en restaurant i Oslo sentrum beliggende i et av byens eldste bygg, og her har mennesker møttes siden tidlig 1700-tall. Her kan du spise, drikke og kose deg i historiske omgivelser, enten du er alene eller vil ha med deg inntil 300 av dine venner/ kollegaer. Julebord
+
+REL: 1
+POI Name: Monsun Noodlebar
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Vegan, Noodles, 
+Snippets:
+title: Monsun Asian Restaurant @ Grünerløkka, Oslo
+snippet: Monsun Noodle Bar Restaurant og Monsun Street Corner Restaurant på Grünerløkka Oslo. Vi serverer fantastisk asiatisk mat. Nyt rettene i våre flotte lokaler eller ta det med hjem som take away. Velkommen!
+title: noodlebar — Monsun Asian Restaurant @ Grünerløkka, Oslo
+snippet: Street Corner Noodle bar Street Corner ... 0554 Oslo - Tlf: 467 70 046. Noodle bar. Scroll -Starters-79 01. Vietnamese Spring Rolls. Fried spring rolls filled with minced pork and vegetables in rice paper. With sweet chilli sauce dip ... Check out Monsun Street Corner located at the same location for more delicious food. menu_noodlebar.
+title: Monsun Noodlebar, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Monsun Noodlebar, Oslo: Se 148 objektive anmeldelser av Monsun Noodlebar, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 404 av 1 449 restauranter i Oslo.
+title: Take away fra Monsun Noodlebar Oslo | foodora
+snippet: Da vil Monsun begynne å tilbrede maten din, og et av våre bud plukker opp maten og leverer den rett til døren din. La kokkene lage maten, og du kan bare lene deg tilbake og nyte måltidet. er på utkikk etter god mat i Oslo, er Monsun Noodlebar svaret. Monsun Noodlebars adresse er Helgesensgate 14 B i Oslo.
+title: Monsun Noodlebar, Oslo - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Monsun Noodlebar, Oslo with Tripadvisor: See 148 unbiased reviews of Monsun Noodlebar, ranked #405 on Tripadvisor among 1,450 restaurants in Oslo.
+title: Monsun Noodlebar, Grünerløkka — Restaurantguiden fra Osloby
+snippet: Imens kan vi jo finlese menyene. Vi har nemlig fått to, én fra Monsun Streetbar og én fra Monsun Noodlebar. Nudelbaren åpnet i Helgesens gate på Grünerløkka for fire år siden, etter en tid som nabolagsrestaurant på Rodeløkka.
+title: Monsun Noodlebar - Startside - Oslo, Norway - Meny, priser ...
+snippet: Monsun Noodlebar – Helgesens gate 14, 0553 Oslo, Norway – Vurderingen 4.2 basert på 75 anmeldelser &quot;We went to Monsun not really expecting much, but I...
+title: Monsun Noodlebar - Home - Oslo, Norway - Menu, Prices ...
+snippet: Monsun Noodlebar - Helgesens gate 14, 0553 Oslo, Norway - Rated 4.2 based on 75 Reviews &quot;We went to Monsun not really expecting much, but I need to...
+title: Monsun Noodlebar, Grünerløkka, Oslo - 1881.no
+snippet: Monsun Noodlebar fra Grünerløkka, Oslo. Restaurant - Japanske. Er dette ditt firma? La 1881 gjøre bedriften din mer synlig og attraktiv på internett!
+title: Monsun Noodlebar - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Monsun Noodlebar. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+
+REL: 1
+POI Name: Dovrehallen
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Traditional Norwegian, Pizza, 
+Snippets:
+title: Velkommen til Dovrehallen - DOVREHALLEN
+snippet: Velkommen til Dovrehallen Det er ikke mange &quot;brune&quot; resturanter igjen i Oslo by som dovrehallen og i hvert fall ikke av denne standarden. Når vi i tillegg har førsteklasses hjemmelaget mat til særdeles hyggelige priser,da er vi i særklasse. Her på Dovrehallen har vi tatt vare på de gode gamle tradisjonene. På Dovrehallen kan vi tilby
+title: Dovrehallen, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Dovrehallen, Oslo: Se 154 objektive anmeldelser av Dovrehallen, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 633 av 1 450 restauranter i Oslo.
+title: Dovrehallen - Startside - Oslo, Norway - Meny, priser ...
+snippet: Dovrehallen, Oslo, Norway. 978 liker dette. Det er ikke mange &quot;brune&quot; resturanter igjen i Oslo by og i hvert fall ikke av denne standarden. Med god hjemmelaget mat.
+title: Dovrehallen - Home - Oslo, Norway - Menu, Prices ...
+snippet: Dovrehallen, Oslo, Norway. 978 likes. Det er ikke mange &quot;brune&quot; resturanter igjen i Oslo by og i hvert fall ikke av denne standarden. Med god...
+title: Dovrehallen – Wikipedia
+snippet: Dovrehallen er en tradisjonsrik restaurant, pub og tidligere teaterscene i Storgata 24 i Oslo.Stedet ble opprinnelig åpnet 2. juledag 1900.Det er i ettertid også kjent som fest- og møtelokaler for Det norske Studentersamfund fra 1951 til 1971.. Dovrehallen er oppkalt etter trollkongen Dovregubbens fjellhall og festsal i Henrik Ibsens dramatiske dikt Peer Gynt.
+title: Dovrehallen, Sentrum — Restaurantguiden fra Osloby
+snippet: Brunt sted med voksent klientell, kjent for sin tradisjonelle norske mat og uformelle stemning. Dansing på kvelden onsdag til lørdag. — Les mer i Restaurantguiden fra Osloby.
+
+REL: 1
+POI Name: Sentralen
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Bars, Cultural Center, Tapas/Small Plates, 
+Snippets:
+title: Sentralen - samlingspunkt, scene og verksted for kultur
+snippet: Sentralen avlyser alle publikumsarrangementer til over påsken For å bidra til å forhindre spredning av viruset Covid19 har vi besluttet å stenge alle arrangementssaler på Sentralen og dermed avlyse alle publikumsarrangementer i perioden til og med mandag 13. april med umiddelbar virkning.
+title: Sentralen - a unique house of culture
+snippet: Sentralen is a unique building with six fantastic venues for cultural experiences. Sentralen is Oslo’s new performance venue, with concerts, theater, dance and more.
+title: Lei møterom på Sentralen på timesbasis
+snippet: Vi har et møterom som passer, enten det er snakk om en workshop, et møte, et seminar, festivalkontor eller kurs. Våre 14 fine møterom kan leies rimelig per time eller dag, og passer for grupper på 2 til 20 personer.
+title: Koronerulling fra Sentralen
+snippet: Koronerulling fra Sentralen Nå som alle kulturhus og konsertsteder er stengt for publikum ønsker vi å bidra til å støtte utøvende musikere og samtidig gi alle muligheten til å nyte gode konserter hjemmefra.
+title: Restaurant — Sentralen Restaurant
+snippet: På Sentralen restaurant kan du oppleve klassisk norsk hverdagsmat, dekonstruert og gjenoppbygget med moderne smaker. Vi bruker bærekraftige og økologiske råvarer som gjenskapes til nye orginale komposisjoner på tallerken. Vårt mål er at din opplevelse skal være perfekt balansert mellom smaksrikdom og spennende teksturer. Velkommen!
+title: Sentralen - Home | Facebook
+snippet: Sentralen, Oslo, Norway. 23,182 likes · 653 talking about this · 22,600 were here. Sentralen er Oslos nye scene og landets største verksted for kreative krefter innen kultur og innovasjon. Åpnet mars...
+title: Sentralen Restaurant - I HJERTET AV KVADRATUREN
+snippet: Restauranten passer for de fleste anledninger, godt plassert i den praktfulle kvadraturen og er en vital møteplass som binder sammen et ellers yrende kulturhus.
+title: Sentralen Restaurant, Oslo - Restaurantanmeldelser ...
+snippet: Sentralen Restaurant, Oslo: Se 359 objektive anmeldelser av Sentralen Restaurant, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 163 av 1 450 restauranter i Oslo.
+
+REL: 1
+POI Name: Husken i Bergstien 2
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Playgrounds, Local Flavor, 
+Snippets:
+title: Bergstien (Oslo) – Wikipedia
+snippet: Bergstien (5-17, 2-16) er en gate i bydel St. Hanshaugen i Oslo. Den går fra Akersbakken ved Vår Frelsers gravlund til Geitmyrsveien ved St. Hanshaugen. Gaten består i hovedsak av leiegårdsbebyggelse. Gatene som krysser Bergstien, er Waldemar Thranes gate, Fredrikke Qvams gate og Bjerregaards gate.
+title: Oslo Bergstien 2A - gatebilder - Gule Sider
+snippet: Oslo Bergstien 2A - se gatebilder på Gule Siders kart. Nettstedet bruker cookies Noen brukes til statistikk og andre av tredjeparts tjenester. Ved å klikke &quot;OK&quot; godtar du bruken av cookies.
+title: Bergstien 2A, 0172 Oslo på 1881 kart
+snippet: Kart og flyfoto over Bergstien 2A, 0172 Oslo fra 1881
+title: Synagogen i Bergstien – lokalhistoriewiki.no
+snippet: Synagogen i Bergstien er gudshuset til Det mosaiske trossamfund i Oslo, altså den jødiske menigheten i hovedstaden. Den ble innvia i 1920, ark. Herman Herzog, og ligger i Bergstien 15, ved siden av menighetslokalene i Bergstien samfunnshus.Synagogen har plass til 340 personer, fordelt på 200 på grunnplanet og 140 på galleriet, normalt fordelt med menn på grunnplanet og kvinner på galleriet.
+title: Bergstien (Oslo) – lokalhistoriewiki.no
+snippet: Bergstien (Oslo) Fra lokalhistoriewiki.no. Hopp til navigering Hopp til søk. Motiv fra Bergstien i Oslo, nær Vår Frelsers gravlund. Foto: Stig Rune Pedersen (2014) Bergstien i Oslo, bilde tatt i sørlig retning mot Waldemar Thranes gate. Synagogen i nr. 15 på venstre side.
+title: Yr – Værvarsel for Bergstien, Oslo (Oslo)
+snippet: Værvarsel for 9,3 millioner steder i verden! Neste uke fortsetter Ã¥ by pÃ¥ mye fint vÃ¦r i SÃ¸r-Norge?. I Nordland avtar etter hvert bygeaktiviteten, mens den dessverre vil holde seg stort sett uforandret lenger nord.
+title: - Var mennesker i synagogen bare en time før skuddene ...
+snippet: Hun forklarte at det var mennesker i synagogens samfunnshus - der det ble skutt - bare en time før skuddene falt. Med et automatgevær ble det avfyrt minst 13 skudd mot synagogen.
+title: Sameiet Bergstien 8 - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Sameiet Bergstien 8. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: - Bergstien 2 0172 oslo - veibeskrivelse på kart
+snippet: - Bergstien 2 0172 oslo - planlegg din reise på Gule Siders kart.
+title: Alle sykehjem - Sykehjem - Oslo kommune
+snippet: Alle sykehjem og helsehus i Oslo er stengt for besøkende Det kan gjøres unntak. Dette må avtales med institusjonen det gjelder.
+
+REL: 1
+POI Name: Kafe Asylet
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Bars, Gastropubs, Venues & Event Spaces, 
+Snippets:
+title: Asylet – Velkommen til kafe Asylet
+snippet: Asylet - Hyggelig, uformell kafé i sentrum av Oslo! Kafe Asylet ligger i et av byens eldste trehus med historie bak alle rom. Vi serverer tradisjonell norsk mat, med fokus på gode råvarer og smak. Høye smørbrød, enkle lunsjretter og 3-retters middag - eller bare noe godt å drikke.
+title: Kafe Asylet, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Kafe Asylet, Oslo: Se 173 objektive anmeldelser av Kafe Asylet, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 266 av 1 451 restauranter i Oslo.
+title: Meny – Asylet
+snippet: Lun leverpostei på brød med bacon, sopp og tyttebær . (Inneholder: hvete) kr 169,-. Pytt i panne (Allergens: hvete, egg, melk, sulfitt)
+title: Kafe Asylet, Oslo - Gamle Oslo - Restaurant Reviews ...
+snippet: Kafe Asylet, Oslo: See 173 unbiased reviews of Kafe Asylet, rated 4 of 5 on Tripadvisor and ranked #266 of 1,449 restaurants in Oslo.
+title: Asylet – Velkommen til kafe Asylet
+snippet: Welcome to Asylet - authentic cafe in the heart of Oslo! Asylet is located in the city’s oldest wooden house, with the history behind every door. We serve traditional Norwegian food, but also have other options, including vegetarian. Café is open every day for lunch and dinner, and you are also welcome just to have a drink.
+title: Kafe Asylet, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Kafe Asylet er en institusjon i Oslo som finnes i en av de virkelig gamle bygningene i Oslo / Groenland. De tilbyr en meny hovedsakelig av forskjellige burgere og et gjennomsnittlig utvalg av øl. Personalet er serviceinnstilt og atmosfære er intimt, men stedet er veldig ...
+title: Om oss – Asylet
+snippet: Vi har drevet Kafe Asylet siden oktober 1993. Vi serverer tradisjonell norsk mat, med fokus på kjøtt, fisk, og hjemmelagde desserter. Vi bruker lokale råvarer av høy kvalitet og dere kan være sikker at våre ingredienser er de beste.
+title: Kafe Asylet - Home | Facebook
+snippet: Kafe Asylet, Oslo, Norway. 1.9K likes. Kafe Asylet holder til i Grønland 28, vis a vis Grønlands torg. Hos oss er du velkommen til en matbit eller til noe godt å drikke. Om vinteren fyrer vi opp...
+title: Kafe Asylet - Startside | Facebook
+snippet: Kafe Asylet, Oslo, Norway. 1,9 k liker dette. Kafe Asylet holder til i Grønland 28, vis a vis Grønlands torg. Hos oss er du velkommen til en matbit eller til noe godt å drikke. Om vinteren fyrer vi...
+title: Middag – Asylet
+snippet: Kjøttkaker med brun saus, ertestuing, ovnsbakte poteter og tyttebær. (Inneholder: hvete, melk, erter) kr 179,-Sildetallerken 4 typer sild, med egg, rødløk og rugbrød
+
+REL: 1
+POI Name: Den Glade Gris
+POI City: Oslo
+POI Country: NO
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, 
+Snippets:
+title: Den Glade Gris
+snippet: Den Glade Gris spesialiserer seg på retter laget av svin, og husets spesialitet er langrillet svineknoke! Vår visjon er å bruke hele dyret i matlagingen - fra nese til hale. Mens andre bruker minutter på å tilberede en biff, bruker vi flere dager på å marinere og langsteke maten.
+title: Den Glade Gris
+snippet: Den Glade Gris specializes in pork based dishes, with the house specialty being slow grilled pork knuckle! Our vision is to use the whole animal – nose to tail. While others use only minutes preparing a steak, we marinate our meat for days and cook it for hours.
+title: Den Glade Gris, Oslo - Sentrum - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Den Glade Gris, Oslo on Tripadvisor: See 1,483 unbiased reviews of Den Glade Gris, rated 4.5 of 5 on Tripadvisor and ranked #25 of 1,449 restaurants in Oslo.
+title: Den Glade Gris, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Den Glade Gris, Oslo: Se 1 483 objektive anmeldelser av Den Glade Gris, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 25 av 1 449 restauranter i Oslo.
+title: Den Glade Gris - Sentrum, Oslo | Bookatable
+snippet: Den Glade Gris i Oslo er en pubpreget kafé hvor du kan nyte god mat og drikke. Kjøkkenet tilbyr ærlig norsk mat. Her får du både lunsj og middag servert i hyggelige og uformelle omgivelser. Den Glade Gris samarbeider med ølbryggerier rundt om i hele landet og utvalget av øl er stort.
+title: Den Glade Gris, Holbergs Plass — Restaurantguiden fra Osloby
+snippet: Den Glade Gris smiler bredere enn ved forrige besøk, med svinepelsen har flere ting å rette på. Anmeldt for 4 måneder siden – Jeg er fortsatt dypt imponert! Spisefølget ser seg rundt i lokalet, som er pyntet med bilder av ulike griser, grisefigurer og servitører med grisetryner på T-skjortene.
+title: Den Glade Gris, Oslo Sentrum, Oslo - 1881.no
+snippet: Den Glade Gris fra Oslo Sentrum, 202720311S1 - Den Glade Gris
+title: Anmeldelse av lunsj på restauranten Den glade gris i Oslo ...
+snippet: Langgrillet svineknoke med sennepssaus på restauranten Den glade gris i Oslo. Alt går i Grisen. Vi var sultne og gikk for en chèvresalat til forrett, samt svineknoke og nakke av svin, begge to huset spesialiteter. Selv om ølkartet var omfangsrikt og fristende, gikk vi for ingefærøl.
+title: Den Glade Gris - Oslo - Se Regnskap, Roller og mer
+snippet: Proff.no gir deg bedriftsinformasjon om Den Glade Gris. Finn veibeskrivelse, kontaktinfo, regnskapstall, ledelse, styre og eiere og kunngjøringer.
+title: Den Glade Gris - Startside - Oslo, Norway - Meny, priser ...
+snippet: Den Glade Gris, Oslo, Norway. 4,3 k liker dette. Her kan du nyte god mat og godt drikke til en fornuftig pris. Kjøkkenet stenger kl. 22, men baren er åpen lenger.
+
+REL: 0
+POI Name: Midtstubakken
+POI City: Oslo
+POI Country: NO
+POI Main category: Active Life
+POI Sub category: Skiing, 
+Snippets:
+title: Midtstubakken – Wikipedia
+snippet: Dermed konkurrerer ikke bakkens profil med Holmenkollbakken sett fra Oslo sentrum. Også tribunene er tilpasset terrenget. Midtstubakken er en del av Holmenkollen nasjonalanlegg, som var arena for hopp, langrenn og kombinert under Ski-VM 2011. Oslo bystyre vedtok i desember 2007 å bygge nye hoppbakker både i Holmenkollen og i Midtstuen.
+title: Holmenkollen nasjonalanlegg - Ski- og akeanlegg - Oslo kommune
+snippet: Oslo kommune ved Kultur- og idrettsbygg Oslo KF eier Holmenkollen nasjonalanlegg, og ivaretar daglig drift, snøproduksjon og løypepreparering. Bymiljøetaten forvalter leiekontrakten opp mot operatør (Skiforeningen) og mot World Cup arrangøren.
+title: Yr – Værvarsel for Midtstubakken, Oslo (Oslo)
+snippet: Norske stedsnavn på Yr er hentet fra Kartverket. Skrivemåter og navn er sist oppdatert i februar 2015. Godkjente skrivemåter: Midtstubakken (godkjent av Kartverket i 1983 ...
+title: Yr – Langtidsvarsel for Midtstubakken, Oslo (Oslo)
+snippet: kl 6–12 Klarvær. 4° 0 mm Lett bris, 5 m/s fra nord-nordøst kl 12–18 Klarvær. 12° 0 mm Flau vind, 1 m/s fra sørøst kl 18–24 Klarvær. 15° 0 mm Lett bris, 4 m/s fra nordøst Tirsdag 21.04.2020 kl 0–6 Klarvær. 9° 0 mm Lett bris, 4 m/s fra nord kl 6–12 Klarvær. 6° 0 mm Lett bris, 4 ...
+title: Yr – Værvarsel time for time for Midtstubakken, Oslo (Oslo)
+snippet: 0° 0° 2° 2° 4° 4° 6° 6° 8° 8° 10° 10° 12° 12° 14° 14° 16° 16° 18° 18° 20° 20° 16 18 20 22 00 02 04 06 08 10 12 14 16 18 20 22 00 02 04 06 08 10 12 14 Søndag 19. april Mandag 20. april Meteogrammet for Midtstubakken, Oslo (Oslo) Neste 48 timer
+title: Ski- og akeanlegg - Tur og friluftsliv - Oslo kommune
+snippet: Finn akebakker, hoppbakker, slalåmbakker, skianlegg, åpningstider, priser, fasiliteter, aktiviteter.
+title: Midtstubakken – Fabel Arkitekter
+snippet: Hva skal til for å lage en bra hoppbakke? Fabel Arkitekter står bak en rekke skianlegg i Norge. Se Fabel-filmen hvor arkitekt Tom Wike forteller om tanken bak disse.
+title: Midtstubakken – Store norske leksikon
+snippet: Midtstubakken er en hoppbakke i Holmenkollen Nasjonalanlegg i Oslo. Den ligger i Midtstulia på østsiden av Holmenkollveien, litt nordøst for Holmenkollbakken. Bakken ble anlagt i 1927 og er blitt ombygd flere ganger. I VM i 1966 og 1982 foregikk normalbakkerennet og det kombinerte hopprennet i Midtstubakken. Tilløpet i bakken ble revet i 1992.
+title: Yr – Radarbilde for Midtstubakken, Oslo (Oslo)
+snippet: Kartet viser hvor det er nedbør (regn, sludd, snø). Fargene gir en indikasjon på hvor kraftig nedbøren er. Les mer om radar. Vent litt, laster bilder... Ved å sende ut radarstråler registrerer radaren hvordan nedbøren forflytter seg . Radaren mottar ekko når strålene treffer ...
+title: Yr – Weather forecast for Midtstubakken, Oslo (Oslo)
+snippet: Norwegian place names are regulated by the Norwegian Mapping and Cadastre Authority. Last updated in February 2015. Approved names: Midtstubakken (accepted by the Mapping Authority in 1983 ...
+
+REL: 0
+POI Name: Olympen
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Bars, Scandinavian, 
+Snippets:
+title: Olympen
+snippet: Olympen is a classic Norwegian restaurant &amp; beer hall with a long history, situated in the Grønland neighbourhood of Oslo.
+title: Mat — Olympen
+snippet: Olympen Start Mat Vin Historie Selskap Booking Kontakt English. Back Menu Wine About Private Dining Booking Contact Start Mat Vin Historie Selskap Booking Kontakt English Menu Wine About Private Dining Booking Contact. Olympen ...
+title: Booking — Olympen
+snippet: Olympen Start Mat Vin Historie Selskap Booking Kontakt English. Back Menu Wine About Private Dining Booking Contact Start Mat Vin Historie Selskap Booking Kontakt English Menu Wine About Private Dining Booking Contact. Olympen ...
+title: Olympen, Grønland — Restaurantguiden fra Osloby
+snippet: Olympen, gamle «Lompa» har holdt det gående helt siden 1892 og ble stengt for en stor oppussing i 2006. Dørene åpnet igjen et drøyt år senere, 2. november 2007, og feirer i år ti år i ny restaurantdrakt. Eller 125 år totalt! – Et praktfullt restaurantlokale som innbyr til hygge, mener spisefølget.
+title: Historie — Olympen
+snippet: historie. Grønlandsleiret 15 har en lang historie som møteplass. Schous Bryggeri oppførte dagens bygning i 1892, og fra 1894 leides lokalene - som den gang het Olympen Christiania Morskabsteater - av Grønland Folketheater.
+title: Kontakt — Olympen
+snippet: OLYMPEN. Grønlandsleiret 15, 0190 Oslo. Tel. 24 10 19 99. post@olympen.no. ÅPNINGSTIDER. Mandag - Torsdag 11.00-00.00 Fredag 11.00-01.00 Lørdag 12.00-01.00 Søndag ...
+title: Olympen Mat &amp; Vinhus AS, Oslo - Restaurantanmeldelser ...
+snippet: Olympen Mat &amp; Vinhus AS, Oslo: Se 426 objektive anmeldelser av Olympen Mat &amp; Vinhus AS, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 235 av 1 450 restauranter i Oslo.
+title: Olympen Mat &amp; Vinhus AS, Oslo - Restaurant Reviews, Photos ...
+snippet: Olympen Mat &amp; Vinhus AS, Oslo: See 426 unbiased reviews of Olympen Mat &amp; Vinhus AS, rated 3.5 of 5 on Tripadvisor and ranked #234 of 1,450 restaurants in Oslo.
+title: Olympen, Oslo | DN
+snippet: En lunsj på Olympen inneholder noe så sjeldent som solid kjøkkenhåndverk servert i et makeløst lokale med et Oslo-historisk schwung uten sidestykke. Vi brukte litt over en time, men kunne selv ha sørget for å bruke langt mindre.
+title: Olympen (restaurant) – Wikipedia
+snippet: Olympen Restaurant, på folkemunne omtalt som «Lompa», er en restaurant og ølhall beliggende i Grønlandsleiret 15 i Oslo og har med skiftende eiere holdt på siden 1892 inntil de stengte dørene for en omfattende ombygging den 1. oktober 2006. Olympen åpnet igjen 3. november 2007.
+
+REL: 0
+POI Name: Statue til minne om de fallne
+POI City: Oslo
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Local Flavor, Arts & Entertainment, Landmarks & Historical Buildings, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Til minne om falne under 2 verdens krig. - Anmeldelse for ...
+snippet: Statuen til minne om falne under 2 verdens krig var en gave fra næringslivet i Kristiansand (navn på giverne er påført diskre nederst) Statuen syns jeg er flott laget med fine detaljer og står rett ved siden av Tresse. Når man går langs strand promenaden fra Fiskebrygga mot bystranda vil man se den på høyre side.
+title: Skulptur - til minne om falne, norske kommunister, 1940-45 ...
+snippet: Created with Sketch. Share About the object. Designation Skulptur - til minne om falne, norske kommunister, 1940-45; Identifier FMU.302390 ; Indexing term Skulptur Krigsminnesmerker; Inscription. Innskrift : Gi meg de rene og ranke, / de faste og sterke menn, / de som har tålmod og vilje/ og aldri i livet går hen/ og sleger sin store tanke/ men kjemper til døden for den - ved siden av står ...
+title: Byantikvaren vil ikke ha Osvald-monument på Jernbanetorget
+snippet: Han er selv medlem av «Den antifascistiske komiteen for Osvald-sabotørene og de falne ved NSB», som står bak planene. Kan ende opp som politisk sak. Selv om Østbanehallen er fredet, så er ikke Jernbanetorget det. Dermed er det til syvende og sist Plan- og bygningsetaten som vil avgjøre om monumentet kan stå på Jernbanetorget.
+title: De Falne Till Minne (Ålesund, Norge) - Anmeldelser
+snippet: De Falne Till Minne, Ålesund: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for De Falne Till Minne i Ålesund, Norge ... Trollveggen (Trollstigen) og nyt den fantastiske utsikten over Istradaldalen fra toppen. Sist men ikke minst, et besøk til den imponerende ... Vanlige spørsmål om De Falne Till Minne. Når er De Falne ...
+title: Krigens kulturminner i Oslo – lokalhistoriewiki.no
+snippet: Oversikten over krigens kulturminner i Oslo er et pågående arbeid, så den er på ingen måte uttømmende. Oversikten dekker først og fremst kulturminner fra andre verdenskrig ettersom dette er de mest tallrike, men også andre krigsminner er tatt med fordi mange som er interessert i dette også interesserer seg for krigshistorie generelt, og ikke bare siste krig.
+title: Nyheter | Kai Ekangers tale til minne om de falne
+snippet: Kai Ekangers tale til minne om de falne. Kai Ekanger holder hvert år tale på Sarabråten. ... Han rømte fra dem samme dag, og Lørenskog og Oslo stod på ende på grunn av hans dramatiske flukt.
+title: Våre falne 1939–1945 – lokalhistoriewiki.no
+snippet: Våre falne 1939–1945 er et minneskrift over falne nordmenn under andre verdenskrig.Regjeringen vedtok i 1945 at det skulle utgis, og det kom ut i årene 1948–1951.Hovedredaktører var Arne Ording, Gudrun Johnson Høibo og Johan Garder.. Verket er i fire bind, og inneholder biografisk informasjon om nesten 12 000 personer.
+title: 0753 Monument over Flyvåpnets falne - Forsvarsbygg
+snippet: Utsparinger i sokkelen med bronseplater med navnene på de falne. Publisert: torsdag 8. oktober 2015 Sist endret: torsdag 26. september 2019 . 1954 - 1991. Reist i 1954 til minne om Flyvåpnets 322 falne under 2. verdenskrig. Sto opprinnelig ved Myntgata 2. Flyttet til Akershus i 1991. Ingen treff. ... 0151 Oslo. Postboks 405 Sentrum. 0103 Oslo.
+title: Ringnes i heftig skulpturkrangel - Aftenposten
+snippet: FOTO: Knut Viggen/LO Media Her ønsker komiteen å plassere statuen til minne om Osvaldgruppens innsats under andre verdenskrig. Kulturetaten og Christian Ringnes mener den vil overdøve de andre kunstverkene på plassen, blant annet den kjente Tigeren av Elena Engelsen.
+
+REL: 0
+POI Name: Alexandria
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Pubs, 
+Snippets:
+title: Alexandria Musikkbar (Oslo, Norge) - Anmeldelser - Tripadvisor
+snippet: Alexandria Musikkbar, Oslo: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Alexandria Musikkbar i Oslo, Norge på Tripadvisor.
+title: Facebook
+snippet: Se innlegg, bilder med mer på Facebook.
+title: Fly Oslo - Alexandria | OSL - ALY | Expedia.no
+snippet: Når du ser etter fly fra Oslo (OSL) til Alexandria (ALY), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Oslo til Alexandria.
+title: Hotel Alexandra i Loen | Et tradisjonsrikt hotell i Loen ...
+snippet: Hotel Alexandra er eit tradisjonsrikt og familiedrive hotell i Stryn i Indre Nordfjord. Alexandra er kjend for si særeigne og personlege atmosfære. Loen byr på fantastisk natur og utflukter i imponerande omgjevnader!
+title: Alexandria, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Alexandria Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+title: Billige flyreiser Alexandria - Oslo - Jetcost
+snippet: Fly Alexandria - Oslo: Søk og bestill billige flybilletter fra Alexandria til Oslo. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Fly Oslo - Alexandria - Borg El Arab: Bestill hos Travellink
+snippet: Leter du etter billige fly fra Oslo til Alexandria - Borg El Arab? Stol på Travellink og søk etter restplass-tilbud på fly, gode reisetips og mye mer!
+title: Billige flybilletter fra Alexandria til Oslo Gardermoen ...
+snippet: Finn flyreiser fra Alexandria til Oslo Gardermoen med www.skyscanner.no Vi tilbyr en gratis søketjeneste der du kan billige flybilletter fra alle de store flyselskapene fra Alexandria til Oslo Gardermoen. Du kan se statistikk over flyreiser fra Alexandria til Oslo Gardermoen nedenfor, som for eksempel gjennomsnittlig reisetid og antall mil.
+title: Restaurant - Hotel Alexandra
+snippet: Hotel Alexandra. Lodalsvegen 22, 6789 Loen. Søk. Meld deg på nyheitsbrevet vårt
+title: Billige flyreiser Oslo - Alexandria - Jetcost
+snippet: Flybilletter fra Oslo til Alexandria. Planlegg den neste reisen din enkelt og spar penger! Skriv inn datoen for flyreisen din, og sammenlign, med bare ett klikk, de beste flytilbudene fra de store flyselskapene og reisebyråene på nettet fra Oslo til Alexandria.Ikke gå glipp av sjansen til å spare: finn billige flyreiser fra Oslo til Alexandria med Jetcost.
+
+REL: 0
+POI Name: Norwegian Wood
+POI City: Oslo
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Norwegian Wood Festival - Oslo - Oslo, Norway
+snippet: Juni 2019: Norwegian Wood er en tradisjonsrik utendørsfestival i Oslo, alltid med store artister på programmet.
+title: Norwegian Wood Festival - Oslo, Norway, June 2019
+snippet: June 2019: Norwegian Wood outdoor festival in Oslo, with estabhished and up-and-coming artists. Info on the festival, artists, tickets etc.
+title: Norwegian Wood - Home | Facebook
+snippet: Norwegian Wood, Oslo, Norway. 21,300 likes · 5 talking about this · 2,998 were here. Norwegian Wood har siden 1992 kombinert varme og trivsel med noen av rockens aller største internasjonale og...
+title: Norwegian Wood (festival) – Wikipedia
+snippet: Norwegian Wood er en musikkfestival i Frognerbadet i Oslo, ved Frognerparken.Festivalens navn henspiller på The Beatles-låten «Norwegian Wood».. Festivalen ble startet av Finn Jørgen Roll, Sten Randers Fredriksen og Haakon Hartvedt i 1992. De stiftet Norwegian Wood Company AS for å eie og drive festivalen.
+title: Norwegian Wood 2017 dag 2 - festivaldag i Oslos navn ...
+snippet: Selv om OnklP opprinnelig er askergutt og hadde tenårene på Lillehammer, er han definitivt å betrakte som osloartist, og sammen med backingbandet De Fjerne Slektningene (“Slekta”), samt Oslo Ess, Klovner i Kamp og Raga Rockers, var gårsdagens Norwegian Wood-dag en festivaldag i hovedstadens navn.
+title: Billige flybilletter og gode tilbud på flyreiser | Norwegian
+snippet: Bestill billige flybilletter, hotell og leiebil. Velg blant mer enn 100 destinasjoner verden over, og finn våre beste priser med Lavpriskalenderen.
+title: Norwegian Wood flytter til Sukkerbiten - Aftenposten
+snippet: Norwegian har vist Oslo at musikkelskere og kan gå på konsert etter overgangsalderen. Norwegian Wood har vist Oslo at og nye ukjente rockeband er viktige. Festival for &quot;vestkantrufs&quot; Musikkskribent og anmelder i Dagens Næringsliv, Audun Vinger, håper at Norwegian Wood kommer sterkere tilbake neste år.
+title: Norwegian Wood-sjef blir ny direktør for Oslo Konserthus – VG
+snippet: Jørgen Roll (56) var én av de tre grunnleggerne av Norwegian Wood-festivalen i 1992 og har siden vært festivalsjef. Nå ser han fram til å starte sin nye stilling som direktør for Oslo ...
+title: Norwegian Wood 2017 dag 3 - Absolutt drømmedag - Erik ...
+snippet: Er det mulig å gjenreise en festival så ettertrykkelig og så perfekt som det den nye festivalledelsen til Norwegian Wood gjorde i går? Det er selvfølgelig artistene som leverer selve musikkgleden, men anført av “festivalekspert” Svein Bjørge har den 25 år gamle festivalen fått en ny fødsel og er tilbake der den hører hjemme, i Frognerbadet.
+title: Norwegian Wood AS, Oslo | bedrift | gulesider.no
+snippet: Kontaktinformasjon for Norwegian Wood AS Oslo, telefonnummer, adresse, se informasjonen om firmaer.
+
+REL: 0
+POI Name: Sangam Cafè
+POI City: Oslo
+POI Country: NO
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Pubs, 
+Snippets:
+title: Sangam cafe, Grünerløkka, Oslo - 1881.no
+snippet: Sangam cafe fra Grünerløkka, Oslo. Bar og pub. Latter på Aker brygge Latter er mer enn Norges mest populære humorteater, vi har også en fantastisk restaurant og fl…; The Scotsman The Scotsman åpnet sine dører i 1974, da noen så et behov for et alt-i-ett utested i hovedstaden. Når n… Løve Restaurant &amp; Bar Bar og pub – Oslo
+title: Sangam Cafè - Grünerløkka - Oslo, Norway
+snippet: 6 reviews of Sangam Cafè &quot;Sangam is my go-to place to enjoy an outdoor beer. Maybe it&#39;s the fairly priced Hansa. Maybe it&#39;s being able to enjoy the fairly priced Hansa in cozy wooden seats built into the windows. Maybe it&#39;s the excellent people…
+title: Café Sara, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Café Sara, Oslo: Se 438 objektive anmeldelser av Café Sara, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 100 av 1 450 restauranter i Oslo.
+title: De 10 beste kafeene i Oslo - Tripadvisor
+snippet: Beste kafeer i Oslo, Norge: Se anmeldelser fra reisende og bilder av kafeer i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor. Oslo. Turisme i Oslo Hotell i Oslo Bed and Breakfast i Oslo Pakkereiser til Oslo Flyreiser til Oslo ... Miso Cafe. 42 anmeldelser Stengt n ...
+title: Cafe Opus, Oslo Sentrum, Oslo - 1881.no
+snippet: Cafe Opus fra Oslo Sentrum, 100484818S1 - Cafe Opus
+title: Sangam Cafe | Online Ordering
+snippet: Sangam Cafe. Online Order. Online Order. Please select a location. Sangam Cafe. 10300 CHAPEL HILL ROAD, MORRISVILLE, NC 27560. Please select a location. Order Online . Sangam Cafe . 10300 CHAPEL HILL ROAD, MORRISVILLE NC 27560 (919) 460-4300 Connect with Us. EMAIL Facebook.
+title: Grand Café Oslo
+snippet: I 1874 åpnet Grand Café dørene, den gang Oslo het Kristiania. Det var her det hele startet. Caféen var stamstedet for blant andre Henrik Ibsen, Roald Amundsen, Knut Hamsun, Gustav Vigeland og Fridtjof Nansen i tillegg til en rekke andre &#39;Kristianabohemer&#39;.
+title: De 10 beste buffetrestaurantene i Oslo - Tripadvisor
+snippet: Beste buffetrestauranter i Oslo, Norge: Se anmeldelser fra reisende og bilder av spisesteder i Oslo, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Informasjon om Sangam cafe Nosrat Ollah Javadi - Regnskapstall
+snippet: Sangam cafe Nosrat Ollah Javadi fra Grünerløkka, Oslo. Bar og pub.
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+
+REL: 0
+POI Name: Granittrock
+POI City: Oslo
+POI Country: NO
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Granittrock - Gratis musikkfestival i Oslo
+snippet: Greatfruit er et ferskt Oslo-basert indieband etablert i 2019. De har en sound inspirert av 80s synth pop, jazz og rock. Greatfruit er retrofuturisme, og med musikken tar de deg med til fortiden og fremtiden på en og samme gang. De debuterte på Gnist i regi av OverOslo, og fikk slik sin første spillejobb på OverOslo.
+title: Granittrock
+snippet: Granittrock har ikke aldersgrense, men vi anbefaler at de minste ikke kommer uten følge av enten eldre søsken eller foresatte. Granittrock er en rusfri festival, vi servere ikke alkohol. Det er heller ikke lov å ta med alkohol på området.
+title: Granittrock
+snippet: Vi trenger frivillige til festivalen. Har du lyst til å bidra til at Granittrock blir enda bedre enn i fjor? Send oss en søknad for å bli frivillig på Granittrock 2019.
+title: Granittrock
+snippet: PROGRAM. Portene åpner fredag, kl. 17.00 og lørdag, kl. 14.00. Med forbehold om endringer. Gates open 17:00 on Friday and Saturday, 14:00. Subject to changes.
+title: GranittRock - Startside | Facebook
+snippet: GranittRock, Grorud, Oslo, Norway. 7 435 liker dette · 2 snakker om dette · 2 913 har vært her. GranittRock er en gratis, rusfri musikkfestival på Grorud i Oslo. GranittRock 2018 den 7. og 8. september.
+title: GranittRock - Home | Facebook
+snippet: GranittRock, Grorud, Oslo, Norway. 7,435 likes · 1 talking about this · 2,915 were here. GranittRock er en gratis, rusfri musikkfestival på Grorud i Oslo. GranittRock 2018 den 7. og 8. september.
+title: GranittRock – Wikipedia
+snippet: GranittRock ble arrangert første gang 22. september 2005. Arenaen var et naturlig amfi mellom høyblokkene på Ammerud i Oslo. 3 000 mennesker fikk med seg blant andre Backstreet Girls, Warlocks, Street Legal og Don Martin. Våren 2006 mistet GranittRock sitt amfi mellom blokkene på Ammerud.
+title: GranittRock - Innlegg | Facebook
+snippet: GranittRock, Grorud, Oslo, Norway. 7 441 liker dette · 2 912 har vært her. GranittRock er en gratis, rusfri musikkfestival på Grorud i Oslo. GranittRock 2018 den 7. og 8. september.
+title: Granittrock
+snippet: GameKingz er en musikk gruppe bestående av 3 rappere og en Dj fra Drammen og Oslo. Gruppen begynte å lage musikk sammen i 2012, og har med sitt energiske sceneshow og kruttsterke låter lenge vært lokale livefavoritter.
+title: Free festival: Granittrock, Sept 2019 - Oslo, Norway
+snippet: Granittrock is a FREE festival taking place in Oslo, Norway in September 2019 with popular Norwegian/Scandinavian artists.
+
+Cand cities: {'Oslo'}

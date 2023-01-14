@@ -1,0 +1,1005 @@
+City: Chicago
+Country: US
+Main category: Arts & Entertainment
+Sub category: Museums
+Description: My sister and I want to visit a museum in Chicago soon. Do you have any recommendations? So far, we've been to the following museums. We prefer going to a museum we haven't been to yet, although if it's worth it, we can re-visit one of these sites:  Field Museum National Museum of Mexican Art Museum of Science and Industry Museum of Contemporary Art Art Institute Chicago Children's Museum Chicago History Museum National Hellenic Museum
+Rated POIs: 40
+Rel distr: [(0, 1), (1, 9), (2, 10), (3, 20)]
+=================================
+REL: 3
+POI Name: The Modern Wing - Art Institute of Chicago
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: The Modern Wing | The Art Institute of Chicago
+snippet: Designed by Pritzker Prize–winning architect Renzo Piano, the Modern Wing is the new home for the museum’s collection of 20th- and 21st-century art. A decade in the making, this 264,000 square-foot building makes the Art Institute the second-largest art museum in the United States.
+title: Downtown Chicago&#39;s #1 Museum | The Art Institute of Chicago
+snippet: Located in downtown Chicago, the Art Institute is one of the world’s great art museums, housing a collection that spans centuries and the globe. Visit us online The museum is temporarily closed. ›
+title: Modern Wing at the Art Institute of Chicago / Renzo Piano ...
+snippet: Completed in 2009 in Chicago, United States. Images by Nic Leoux. The new Modern Wing is being built between Michigan Avenue and Columbus Drive, at the northeast corner of the block the Art ...
+title: Art Institute of Chicago - Wikipedia
+snippet: The Art Institute of Chicago, founded in 1879 and located in Chicago&#39;s Grant Park, is one of the oldest and largest art museums in the United States. Recognized for its curatorial efforts and popularity among visitors, the museum hosts approximately 1.5 million people annually.
+title: Ryan Learning Center | The Art Institute of Chicago
+snippet: Education has been an integral part of the Art Institute and its efforts to serve the public since the museum’s founding in the 19th century. The Patrick G. and Shirley W. Ryan Learning Center, prominently located on the first floor of the Modern Wing, is a state-of-the-art facility that hosts education programs for families, groups, teachers, and teens.
+title: The Modern Wing At The Art Institute Of Chicago ...
+snippet: THE MODERN WING AT THE ART INSTITUTE OF CHICAGO. Throughout a ten-year close collaboration with design architect The Renzo Piano Building Workshop, IDEA in our role as the Architect of Record provided significant architectural services and team management for all phases of this new 250,000 gallery and education building.
+title: Modern Art | The Art Institute of Chicago
+snippet: The collection of modern art (1900–1950) consists of nearly 700 paintings, sculptures, and sculptural objects covering all major European movements of this revolutionary period, when artists not only questioned how art had looked for centuries but also what an artwork could be.
+title: Photos for The Modern Wing - Art Institute of Chicago - Yelp
+snippet: Photos at The Modern Wing - Art Institute of Chicago - Chicago, IL.
+title: Art Institute of Chicago Modern Wing by Renzo Piano ...
+snippet: The Art Institute of Chicago is celebrating the May 16 opening of its new Modern Wing with a week of free admission. The 264,000-square-foot Renzo Piano-designed addition is the largest expansion ...
+title: Art Institute of Chicago: Modern Wing | Chicago, IL | WJE
+snippet: The Art Institute of Chicago (AIC) commissioned renowned Italian architect Renzo Piano to design the museum&#39;s Modern Wing, which would house its collection of 20th and 21st century art, and the Nichols Bridgeway to connect the new space to Millennium Park.
+
+REL: 3
+POI Name: American Writers Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Venues & Event Spaces, 
+Snippets:
+title: The American Writers Museum | Chicago, IL
+snippet: In the heart of downtown Chicago, the American Writers Museum celebrates all genres of writing through interactive exhibits and programming. Visit today!
+title: Upcoming Events - American Writers Museum in Chicago
+snippet: Upcoming Events in Downtown Chicago. The American Writers Museum offers unique events throughout the year for children, families and adults looking for things to do in downtown Chicago. New events are added regularly, so come back often to check for updates, or click here to sign up for program updates.
+title: Chicago Museum Tickets &amp; Hours | The American Writers Museum
+snippet: Chicago Museum Hours &amp; Tickets. Welcome to the American Writers Museum in Chicago, our museum hours and admission and accessibility information follows. The AWM will be closed until further notice. We will continue to monitor the COVID-19 situation closely and reopen when it is safe to do so. Learn more here. Tickets
+title: Visit | The American Writers Museum
+snippet: Please be aware that when you visit, there may be staff on site capturing images, ... American Writers Museum 180 N. Michigan Avenue, 2nd Floor Chicago, IL 60601 American Writers Museum Executive Offices 180 N. Michigan Avenue, Suite 300 Chicago, ...
+title: American Writers Museum (Chicago) - 2020 All You Need to ...
+snippet: American Writers Museum can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 4 American Writers Museum tickets and tours on Tripadvisor
+title: Exhibits - American Writers Museum in Chicago
+snippet: Our Exhibits Are Among the Top Things to See in Chicago. If you’re looking for things to see in Chicago, the American Writers Museum houses both permanent and temporary exhibits. Click on an image for more information.
+title: History &amp; Mission | The American Writers Museum
+snippet: The American Writers Museum Foundation (AWM) is incorporated as a 501(c)(3) tax-exempt corporation to establish an American writers museum. March 2010 Mayer Brown LLP accepts the Foundation as a pro bono client, and provides the Foundation with its first office at 1999 K Street NW, Washington, DC.
+title: Parking &amp; Directions | The American Writers Museum
+snippet: Parking &amp; Directions. We’re located near the Magnificent Mile in downtown Chicago. American Writers Museum parking is most convenient at Grant Park North Garage. Reduced rate pre-purchased parking is available online at all Millennium Garages. Get Reduced Rate Parking Here!
+title: American Writers Museum - Wikipedia
+snippet: The American Writers Museum is a museum of American Literature and writing that opened in Chicago in May 2017. The museum was designed by Amaze Design of Boston. The American museum was inspired by the Dublin Writers Museum.
+title: American Writers Museum - Home | Facebook
+snippet: American Writers Museum, Chicago, Illinois. 9.5K likes. American Writers Museum&#39;s mission is to engage the public in celebrating American writers and exploring their influence on our history, our...
+
+REL: 3
+POI Name: Museum of Science and Industry
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: National Museum of Mexican Art
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: National Museum of Mexican Art
+snippet: About the National Museum of Mexican Art. Museum Info. Free Admission. 1852 W. 19th street Chicago, IL 60608
+title: National Museum of Mexican Art
+snippet: Museum Info. Free Admission. 1852 W. 19th street Chicago, IL 60608 ... REGINA OROZCO PRESENTA MEXICAN BOX ...
+title: National Museum of Mexican Art (Chicago) - 2020 All You ...
+snippet: We recommend booking National Museum of Mexican Art tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 National Museum of Mexican Art tours on Tripadvisor
+title: Exhibitions | National Museum of Mexican Art
+snippet: From ancient Mesoamerican civilizations to contemporary artistic expression, the National Museum of Mexican Art has a long-standing history of producing unique exhibitions with first-voice scholarship. In fact, 20 exhibitions organized by the Museum have traveled across the United States and Mexico to other museums.
+title: National Museum of Mexican Art - Wikipedia
+snippet: The National Museum of Mexican Art (Formerly known as the Mexican Fine Arts Center Museum) is a museum which features Mexican, Latino, and Chicano art and culture. The museum was founded in 1982 by Carlos Tortolero and Helen Valdez. Located in the Pilsen neighborhood of Chicago, Illinois, the current building in Harrison Park opened on March 27, 1987.. The museum is the only Latino museum ...
+title: FAQs | National Museum of Mexican Art
+snippet: The National Museum of Mexican Art is located on Chicago’s South Side in the Pilsen neighborhood. Pilsen’s ethnic heritage and diversity exemplify Chicago’s cultural richness. Bring your friends and family and make a day of it. After visiting the museum, enjoy a great meal at one of the many restaurants within walking distance.
+title: About Us | National Museum of Mexican Art
+snippet: National Museum of Mexican Art Now. Today, the National Museum of Mexican Art stands out as one of the most prominent first-voice institutions for Mexican art and culture in the United States. We are home to one of the country’s largest Mexican art collections, including more than 9,000 seminal pieces from ancient Mexico to the present.
+title: Special Programs at the Museum | National Museum of ...
+snippet: The National Museum of Mexican Art’s performing arts initiatives include films, literature, theater, culinary arts and more. From the traditional and folkloric to the contemporary and avant garde, the Museum strives to present all forms of art that exemplify the beauty and richness of Mexican culture.
+title: Permanent Collection | National Museum of Mexican Art
+snippet: With approximately 10,000 objects, the National Museum of Mexican Art’s permanent collection is one of the largest collections of Mexican art in the country. The Museum strives to maintain, preserve and acquire works for its collection that reflect the diversity and quality of Mexican art in the following categories: Pre-Cuauhtémoc, ephemera ...
+
+REL: 3
+POI Name: Chicago History Museum Store
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Chicago History Museum | Homepage
+snippet: Due to the coronavirus public health emergency, the Chicago History Museum Online Store will be closed to the public until further notice. Online orders will NOT be filled until the Chicago History Museum Online Store reopens. We appreciate your support and understanding during this time.
+title: Chicago History Museum - See Chicago&#39;s History Unfold
+snippet: Even with our doors closed, it takes many hands to offer these services and continue to fulfill the Chicago History Museum’s mission: to serve as a hub of scholarship and learning, inspiration, and civic engagement. Please consider supporting the Museum so we can keep sharing Chicago’s stories.
+title: Exhibitions - Chicago History Museum
+snippet: Featuring 150 images from the Chicago History Museum’s Chicago Sun-Times collection, Millions of Moments is a first look at highlights from five million negatives spanning the 1940s to the early 2000s—one of the largest newspaper photograph collections ever acquired by an American museum.More
+title: Jobs &amp; Volunteering - Chicago History Museum
+snippet: CHM, ICHi-036494 Join Our Team. More than two hundred staff, volunteers, and interns work year-round to make the Chicago History Museum an inspiring place to share, learn, and engage with our community. Our staff, volunteers, and interns are passionate, dedicated, and always looking toward the future.
+title: The Organization - Chicago History Museum
+snippet: The Chicago History Museum. Founded in 1856 and incorporated as a nonprofit organization under the laws of the state of Illinois in 1857, the Chicago Historical Society (CHS) is the city’s oldest cultural institution and home to millions of historical objects, images, and documents.
+title: Chicago History Museum PhotoStore | 1893 World’s Columbian ...
+snippet: Scenes from The1893 World&#39;s Columbian Exposition world&#39;s fair, held in Jackson Park and the Midway Plaisance. A momentous occasion which impacted the world, and is commemorated by one of the four stars on the Chicago Flag!
+title: Chicago History Museum PhotoStore | Photographs
+snippet: Chicago History Museum PhotoStore
+title: Chicago – Wikipedia
+snippet: Chicago ble tilstått bystatus 4. mars 1837 av delstaten Illinois. Åpningen av Illinois- og Michigan-kanalen i 1848 gjorde det mulig med shipping over De store sjøer gjennom Chicago til Mississippi-elven og videre til Mexicogulfen. Den første jernbanelinjen til Chicago, Galena &amp; Chicago Union Railroad, ble ferdigstilt samme år.
+title: Photographs from Chicago History Museum&#39;s collection
+snippet: Shop for high-quality photographic reproductions, all-occasion gifts, and souvenirs reproduced from the Chicago History Museum&#39;s collection of historic artifacts, artwork, and photography. Photographic prints are suitable for use as home décor and may be matted and framed, cropped, or enlarged to suit your decorating needs.
+title: Chicago History Museum PhotoStore | Historic Events
+snippet: Home» Historic Events. People, places, and moments in the history of Chicago and the United States, including the Civil War, the Great Chicago Fire of 1871, the World’s Columbian Exposition, and the Century of Progress world’s fair. ... Chicago History Museum Website
+
+REL: 3
+POI Name: Smart Museum of Art
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: MCA Warehouse
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: MCA – Rentals at the MCA
+snippet: Managers from the MCA rentals team and the MCA Catering team will be on site from start to finish on your event day—from setup until every vendor leaves the building. The MCA also provides security, housekeeping, and a building engineer on site during your event.
+title: MCA Warehouse - Near West Side - Chicago, IL - Yelp
+snippet: I&#39;ve been to a few warehouse events at other spots, and I have to say that the MCA Warehouse is one of the coolest. I loved the exposed brick and interesting internal architecture. I realize that &#39;warehouse architecture&#39; isn&#39;t necessarily a type of architecture, but some of these old buildings are just fantastic!
+title: MCA – Home
+snippet: Each year, the MCA’s Teen Creative Agency (TCA) puts on 21Minus, a teen takeover of the museum featuring performances, workshops, zines, and installations from young people all over Chicago. What...
+title: MCA Warehouse - Home | Facebook
+snippet: MCA Warehouse, Chicago, IL. 130 likes · 1,656 were here. The newly renovated MCA Warehouse is ideal for your special event no matter what it is—from sophisticated black-tie dinners to...
+title: MCA Warehouse, 1747 W Hubbard St, Chicago, IL (2020)
+snippet: Now it can be transformed into anything you can imagine. The MCA Warehouse features 10,000 square feet of flexible event space, two levels with unique architectural details, impressive downtown views, a varied list of exclusive caterers, day and evening event opportunities, and reasonable rental fees. It is located at 1747 West Hubbard.
+title: MCA Museum of Contemporary Art Chicago Loft Warehouse ...
+snippet: FEATURED CHICAGO WEDDING VENUE MCA Museum of Contemporary Art Chicago Loft Warehouse Wedding Photography. Chicago’s Museum of Contemporary Art is located downtown and provides a unique cohesion of a Chicago urban style wedding venue with a modern art twist.
+title: Jewelry - MCA Chicago Store
+snippet: MCA Chicago Store has a unique selection of jewelry designs from around the world. Ordering is easy and secure. Visit our site today.
+title: MCA Warehouse | Chicago - Yelp
+snippet: Hi Diana, I&#39;m an event planner for a caterer in Chicago. I&#39;ve done lots of events at the Warehouse. Other venues of that ilk you may consider would be Salvage One (it&#39;s just across the street from the MCA Warehouse), Architectural Artifacts, River East Arts Center and Ivy Room.
+title: MCA Chicago Store
+snippet: Museum of Contemporary Art Chicago Store 220 East Chicago Avenue Chicago lL 60611 312.397.4000 Sign up for special offers OPEN Mon closed Tue closed Wed closed Thus closed Fri closed Sat, Sun closed CLOSED Thanksgiving Day Christmas Day
+title: mcas.com.au - Motorcycle Accessories Supermarket | Home
+snippet: Motorcycle Accessories Supermarket (MCA) Australia&#39;s largest range of Harley, sports bike, &amp; off road bike helmets, clothing, parts &amp; accessories. Fast shipping.
+
+REL: 3
+POI Name: Dr. Sun Yat-Sen Museum of Chicago
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Dr. Sun Yat-Sen Museum of Chicago - Museums - 2245 S ...
+snippet: 4 reviews of Dr. Sun Yat-Sen Museum of Chicago &quot;The Dr. Sun Yat-Sen Museum caught my eye as I am open to exploring new ideas and historical information. Located in a historical retail complex, between two stores, this museum is a large room that…
+title: Dr.Sun Yat-Sen Museum Of Chicago - Chicago, Illinois ...
+snippet: Dr.Sun Yat-Sen Museum Of Chicago, Chicago, Illinois. 5 likes · 46 were here. Community Museum
+title: Dr Sun Yat-Sen Museum of Chicago - Chicago, IL (Address ...
+snippet: Dr Sun Yat-Sen Museum of Chicago, located in Chicago, IL, promotes research and public education through its Museum collection. Visitors to the Museum can see Museum exhibits, attend events at the Museum, and access Museum educational programs.
+title: Dr Sun Yat-Sen Museum of Chicago, Chicago | cityseeker
+snippet: The museum is hugely popular with Chinese students studying in Chicago, and inside the museum one will find rare exhibits like old photographs, flags, documents and portraits of Dr Sun and President Abraham Lincoln, and other artifacts belonging to the period of the Chinese revolution.
+title: Dr Sun Yat-Sen Museum of Chicago in Chicago | Dr Sun Yat ...
+snippet: Find Dr Sun Yat-Sen Museum of Chicago in Chicago with Address, Phone number from Yahoo US Local. Includes Dr Sun Yat-Sen Museum of Chicago Reviews, maps &amp; directions to Dr Sun Yat-Sen Museum of Chicago in Chicago and more from Yahoo US Local
+title: Dr. Sun Yat Sen Museum - YouTube
+snippet: Dr. Sun Yat Sen Museum ARCHSDGOVHK. Loading... Unsubscribe from ARCHSDGOVHK? ... Dr. Sun Yat-sen&#39;s Mausoleum, Nanjing China - Duration: 2:45. Travel China Guide 2,687 views.
+title: Dr. Sun Yat-Sen Museum of Chicago Gift Cards and Gift ...
+snippet: Buy a gift card to Dr. Sun Yat-Sen Museum of Chicago. Send it online to anyone, instantly. Dr. Sun Yat-Sen Museum of Chicago - 2245 S Wentworth Ave - Chicago, IL
+title: Dr Sun Yat-Sen Museum 2245 S Wentworth Ave Chicago, IL ...
+snippet: The Dr. Sun Yat-Sen Museum caught my eye as I am open to exploring new ideas and historical information. Located in a historical retail complex, between two stores, this museum is a large room...
+title: Dr. Sun Yat-Sen Museum of Chicago - History Museum in Chicago
+snippet: See 7 photos from 11 visitors to Dr. Sun Yat-Sen Museum of Chicago. History Museum in Chicago, IL Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Dr Sun Yat-Sen Museum of Chicago - GuideStar Profile
+snippet: GuideStar connects donors and grantmakers to non-profit organizations.
+
+REL: 3
+POI Name: DuSable Museum Of African American History
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Pullman Porter Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: The A. Philip Randolph Pullman Porter Museum
+snippet: Contents of the site may not be used or reproduced in whole or part without express written consent of A. Philip Randolph Pullman Porter Museum. General Information Become A Member today!
+title: A. Philip Randolph Pullman Porter Museum (Chicago) - 2020 ...
+snippet: Hotels near A. Philip Randolph Pullman Porter Museum: (4.31 mi) Days Inn by Wyndham Calumet Park (7.01 mi) Gateway Inn (7.61 mi) Best Western Inn &amp; Suites - Midway Airport (7.85 mi) DoubleTree by Hilton Chicago/Alsip Hotel (8.01 mi) Holiday Inn Express Crestwood; View all hotels near A. Philip Randolph Pullman Porter Museum on Tripadvisor
+title: A. Philip Randolph | Pullman Porter General Info
+snippet: The National A. Philip Randolph Pullman Porter Museum is a 501(c) 3 cultural institution. Our mission is to promote, honor and celebrate the legacy of A. Philip Randolph, Pullman Porters, the Brotherhood of Sleeping Car Porters and contributions made by African-Americans to America’s labor movement; with a significant focus on the African American Railroad Employee.
+title: Pullman porter - Wikipedia
+snippet: In 1995, Lyn Hughes founded the A. Philip Randolph Pullman Porter Museum to celebrate both the life of A. Philip Randolph and the role of the Brotherhood of Sleeping Car Porters and other African Americans in the U.S. labor movement. ... In 2008, Amtrak, in partnership with the A. Philip Randolph Museum, honored Pullman porters in Chicago.
+title: A. Philip Randolph Pullman Porter Museum | About Museum
+snippet: Museum History. Museum History. The National A. Philip Randolph Pullman Porter Museum was founded in 1995 by Dr. Lyn Hughes. The facility is located in the Historic Pullman District in Chicago Illinois. On February 19, 2015 President Barack Obama designated the Historic Pullman district a National Monument that is now a part of the National ...
+title: Descendants - - The A. Philip Randolph Pullman Porter Museum
+snippet: Descendants News Click To Read The ... Click here to become a member of the National A. Philip Randolph Pullman Porter Museum ... Click here to download a PDF of the Chicago Crusaders article. National Descendant Search. WINTER VISITS BY RESERVATION ONLY. Click here to make your winter reservation now. Group Visits by Appointment Only.
+title: A. Philip Randolph Pullman Porter Museum | Visit
+snippet: Getting Here Pullman Porter Museum. 10406 S. Maryland Ave. Chicago, IL 60628 Museum Entrance 104th Street (Between Corliss and Maryland) DIRECTIONS. Get custom driving, walking, and public transportation directions on Google Maps.. We also provide Parking.
+title: National A. Philip Randolph Pullman Porter Museum - Home ...
+snippet: National A. Philip Randolph Pullman Porter Museum, Chicago, IL. 2,435 likes · 259 talking about this · 2,116 were here. Our mission to promote, honor and...
+title: A. Philip Randolph Pullman Porter Museum (Chicago, IL ...
+snippet: A. Philip Randolph Pullman Porter Museum, Chicago: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for A. Philip Randolph Pullman Porter Museum i Chicago, Illinois på Tripadvisor.
+title: A. Philip Randolph Pullman Porter Museum | Choose Chicago
+snippet: The A. Philip Randolph Pullman Porter Museum is an African-American Labor History Museum, the only one of its kind in the nation. Located in the Pullman National Monument district, Chicago’s first National Park.
+
+REL: 3
+POI Name: Peggy Notebaert Nature Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Peggy Notebaert Nature Museum
+snippet: For over 160 years, the Chicago Academy of Sciences / Peggy Notebaert Nature Museum has served a unique role in the city of Chicago connecting children of all ages to nature and science through immersive exhibits, fun family events, important conservation research and in-depth education programs, inspiring the wonder in all of us.
+title: Hours, Pricing &amp; Amenities | Peggy Notebaert Nature Museum
+snippet: Find hours and pricing details. Every Thursday is a suggested donation day for Illinois residents. Located in Lincoln Park, the Peggy Notebaert Nature Museum is one of Chicago&#39;s most kid friendly science museums.
+title: The Peggy Notebaert Nature Museum (Chicago) - 2020 All You ...
+snippet: Hotels near The Peggy Notebaert Nature Museum: (0.76 mi) Villa D&#39;Citta (0.67 mi) The Willows (0.79 mi) Hotel Lincoln, a Joie de Vivre Hotel (0.48 mi) Chicago Getaway Hostel (0.68 mi) Hotel Versey Days Inn by Wyndham Chicago; View all hotels near The Peggy Notebaert Nature Museum on Tripadvisor
+title: Explore | Peggy Notebaert Nature Museum
+snippet: Explore For 160 years, The Chicago Academy of Sciences / Peggy Notebaert Nature Museum has been connecting Chicagoans to nature and science. Click below to follow our biologists on their latest expedition, explore our rich history and discover what exhibits await you on your next visit.
+title: Exhibits | Peggy Notebaert Nature Museum
+snippet: Based on science and nature education, the Peggy Notebaert Nature Museum&#39;s exhibits allow visitors to explore and learn about the natural region of Chicago through compelling and fun interactive elements and displays.
+title: Peggy Notebaert Nature Museum
+snippet: Contact Us. Please use the form below to submit any questions or comments. If you are requesting a donation from the Nature Museum for an event, please click here to be redirected to our Community Donation Request Form page. For media inquiries, please contact us at 773-755-5140 or mediarelations@naturemuseum.org.. If you are inquiring about renting an exhibit or exhibiting at the Nature ...
+title: Plan A Visit | Peggy Notebaert Nature Museum
+snippet: Plan a Visit. Looking for family friendly things to do in Chicago? The Peggy Notebaert Nature Museum is one of Chicago&#39;s most family friendly science museums for children and adults. Browse our calendar of upcoming events for educational interactive events and programs for families, adults and groups.
+title: Peggy Notebaert Nature Museum - Wikipedia
+snippet: The Peggy Notebaert Nature Museum is a natural history museum located in Chicago, Illinois and is operated by the Chicago Academy of Sciences.The museum traces its history to the founding of the Academy in 1857. After a century at a nearby location, the Academy opened its present museum named for benefactor Peggy Notebaert in 1999 at the intersection of Fullerton Parkway and Cannon Drive in ...
+title: Event Calendar | Peggy Notebaert Nature Museum
+snippet: Get information on our upcoming events. Located in Lincoln Park, the Peggy Notebaert Nature Museum is one of Chicago&#39;s most family friendly science museums.
+title: The Peggy Notebaert Nature Museum (Chicago, IL) - Anmeldelser
+snippet: The Peggy Notebaert Nature Museum, Chicago: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for The Peggy Notebaert Nature Museum i Chicago, Illinois på Tripadvisor.
+
+REL: 3
+POI Name: Chinese-American Museum of Chicago
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Chinese American Museum of Chicago – The only Chinese ...
+snippet: Per the COVID-19 Executive Order No. 8 issued by our Governor, JB Pritzker, the Chinese American Museum of Chicago (CAMOC) will continue to be closed through 4/30 or until further notice. We will continue to closely monitor the situation to assess the need for the closure and will send out updates by email, social media and our website.
+title: Chinese-American Museum of Chicago (IL) - Anmeldelser
+snippet: Chinese-American Museum of Chicago, Chicago: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Chinese-American Museum of Chicago i Chicago, Illinois på Tripadvisor.
+title: Chinese American Museum of Chicago - Wikipedia
+snippet: The Chinese American Museum of Chicago seeks to commemorate and interpret the experiences of Chinese immigrants to the American Midwest. The museum opened in 2005 in Chicago&#39;s Chinatown neighborhood. Although it suffered a damaging fire in 2008, it reopened its renovated quarters, the Raymond B. &amp; Jean T. Lee Center, in 2010.
+title: Chinese-American Museum of Chicago - 2020 All You Need to ...
+snippet: We recommend booking Chinese-American Museum of Chicago tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 Chinese-American Museum of Chicago tours on Tripadvisor
+title: Best Hotels Near Chinese-American Museum of Chicago, Illinois
+snippet: Hotels near Chinese-American Museum of Chicago, Chicago on Tripadvisor: Find 39,741 traveler reviews, 50,406 candid photos, and prices for 30 hotels near Chinese-American Museum of Chicago in Chicago, IL.
+title: Chinese American Museum of Chicago - Raymond B. &amp; Jean T ...
+snippet: Chinese American Museum of Chicago - Raymond B. &amp; Jean T. Lee Center - 238 W 23rd St, Chicago, Illinois 60616 - Rated 4.7 based on 24 Reviews &quot;The museum...
+title: Beste hoteller i nærheten av Chinese-American Museum of ...
+snippet: Hoteller i nærheten av Chinese-American Museum of Chicago: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Chinese-American Museum of Chicago på Tripadvisor.
+title: Chinese American Museum of Chicago | Choose Chicago
+snippet: The mission of the Chinese-American Museum of Chicago (CAMOC) is to promote the culture and history––through exhibitions, education, and research––of Chinese-Americans in the Midwest. The museum building, formerly the Quong Yick Co., The Museum opened to the public on May 21, 2005.
+title: Information For Visitors – Chinese American Museum of Chicago
+snippet: CAMOC response to COVID-19 Executive Order issued by IL Governor Dear CAMOC community, Per the COVID-19 Executive Order No. 8 issued by our Governor, JB Pritzker, the Chinese American Museum of Chicago (CAMOC) will continue to be closed through 4/7 or until further notice. We will continue to closely monitor the situation to assess…
+title: Chinese-American Museum of Chicago - How is Chinese ...
+snippet: It is Chinese-American Museum of Chicago. Chinese-American Museum of Chicago listed as CAMOC. Chinese-American Museum of Chicago - How is Chinese-American Museum of Chicago abbreviated? https: ... Chinese American historical society, museum, and organization caucus.
+
+REL: 3
+POI Name: Money Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Chicago Fed&#39;s Money Museum - Federal Reserve Bank of Chicago
+snippet: The Money Museum is open Monday through Friday, 8:30 am to 5:00pm, except on Bank holidays. You should plan about 45 minutes for a self-guided visit. Directions. The Money Museum is located on the first floor of the Federal Reserve Bank of Chicago at 230 South LaSalle Street, on the corner of Jackson Boulevard and LaSalle.
+title: Money Museum at the Federal Reserve Bank (Chicago) - 2020 ...
+snippet: We recommend booking Money Museum at the Federal Reserve Bank tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Money Museum at the Federal Reserve Bank tours on Tripadvisor
+title: - Federal Reserve Bank of Chicago
+snippet: Dear Money Museum Visitor, The Federal Reserve Bank of Chicago is closely monitoring the evolving health situation regarding Coronavirus (COVID-19). If you or any other member of your group (or anyone in the direct household of a group member) meets the following criteria, they should not attend a group visit to the Money Museum. Criteria:
+title: Money Museum, Chicago - YouTube
+snippet: Money Museum, Chicago Museo en edificio de la Reserva Federeal de Estados Unidos en Chicago Entrada gratis Dirección: 230 S LaSalle St, Chicago, IL 60604, Estados Unidos.
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Chicago ...
+snippet: Apr 6, 2020 - Looking to get inspired on your trip to Chicago? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Chicago to visit in 2020. Book effortlessly online with Tripadvisor!
+title: Free museum: Federal Reserve Money Museum - Chicago on the ...
+snippet: Free museum: Federal Reserve Money Museum: In 2001, the Bank opened a Money Museum, which offers visitors an informative and interactive look at the important role of the Federal Reserve in maintaining a healthy, growing economy.The 5,600-square-foot space features a functional interplay of elliptical forms, curves and diagonal walls to create a space that invites visitors to explore.
+title: Money Museum | Chicago, USA Attractions - Lonely Planet
+snippet: This small museum in the Federal Reserve Bank of Chicago is fun for a quick browse. The best exhibits include a giant glass cube stuffed with one million $1 bills (they weigh 2000lb) and a counterfeit display differentiating real bills from fakes. Learn why we call $1000 a ‘grand&#39;; learn more ...
+title: Money Museum 230 S La Salle St Chicago, IL Museums - MapQuest
+snippet: Don&#39;t let the small size of the museum fool you. The Money Museum is a great stop on any tourist itinerary. Since it&#39;s a bit small, it&#39;s also easier to finish fast, and it&#39;s fun as hell.
+title: Money Museum - Chicago, IL (Address, Phone &amp; Hours)
+snippet: Money Museum, located in Chicago, IL, promotes research and public education through its Museum collection. Visitors to the Museum can see Museum exhibits, attend events at the Museum, and access Museum educational programs.
+
+REL: 3
+POI Name: Chicago Architecture Center
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Tours, Gift Shops, 
+Snippets:
+title: Chicago Architecture Center - CAC
+snippet: IMPORTANT COVID-19 UPDATE. The Chicago Architecture Center is temporarily closed, with most CAC tours and other activities suspended, to best support efforts to limit the transmission of COVID-19.
+title: Chicago Architecture Center - 2020 All You Need to Know ...
+snippet: The Chicago Architecture Center (CAC), formerly the Chicago Architecture Foundation, is a nonprofit cultural organization with tours, exhibitions, programs and events for all ages. Visit the CAC on Wacker Dr. to view our 4,000-building scale model of Chicago, ...
+title: Tours · Chicago Architecture Center - CAC
+snippet: IMPORTANT COVID-19 UPDATE. The Chicago Architecture Center is temporarily closed, with most CAC tours and other activities suspended, to best support efforts to limit the transmission of COVID-19.
+title: Chicago Architecture Center - Wikipedia
+snippet: The Chicago Architecture Center (CAC), formerly the Chicago Architecture Foundation, is a nonprofit cultural organization based in Chicago, Illinois, United States, whose mission is to inspire people to discover why design matters. Founded in 1966, its programs include public tours and programs, most notably the docent-led architecture cruise on the Chicago River, and other tours in the ...
+title: Donate Now · Chicago Architecture Center - CAC
+snippet: We couldn’t do what we do without you. We are a volunteer-powered, non-advocacy, non-profit organization that inspires people to explore Chicago and their own communities and engage in a dynamic learning journey about the role architecture and design plays in our lives.
+title: Chicago Architecture Center - YouTube
+snippet: On this channel, you&#39;ll find videos about Chicago architecture and history—as well as videos about the CAC&#39;s tours, programs, exhibits and events. About the ...
+title: Visit - Chicago Architecture Center · Chicago Architecture ...
+snippet: The Chicago Architecture Center (CAC) is the city’s new all-in-one architecture experience: a museum with two floors of fascinating exhibits and a gateway to more than 85 awe-inspiring boat, walking, bus and L tours! Please note.
+title: Programs &amp; Events · Chicago Architecture Center - CAC
+snippet: At the Chicago Architecture Center, our programs and events help you think differently about the places we live, work and play. Get behind-the-scenes access to the city&#39;s architectural treasures.
+title: Calendar · Chicago Architecture Center - CAC
+snippet: Buildings of Chicago Architecture Dictionary DiscoverDesign.org CAC Watch List. Join &amp; Give. Join. Membership Renewal Gift membership Member login. ... Chicago Architecture Center - CAC. 111 E. Wacker Dr. Chicago, IL 60601. 312.922.3432. info@architecture.org. Stay Connected Subscribe. Stay Connected.
+title: Our History · Chicago Architecture Center - CAC
+snippet: The Chicago Architecture Center is the leading organization devoted to celebrating and promoting Chicago as a center of architectural innovation. As Chicago’s forum for the exchange of ideas on urban design, the CAC inspires people to participate in the building of vibrant communities and to demand the highest standard in urban design.
+
+REL: 3
+POI Name: Museum Of Contemporary Photography
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum of Contemporary Photography (MoCP)
+snippet: The museum is currently closed. ... Museum of Contemporary Photography. at Columbia College Chicago 600 South Michigan Avenue Chicago, IL 60605 (312) 663-5554 Reserve Parking Nearby Divvy Stations. ... The MoCP is CLOSED when Columbia College Chicago is closed, including all major holidays.
+title: Museum of Contemporary Photography (Chicago) - 2020 All ...
+snippet: Hotels near Museum of Contemporary Photography: (0.98 mi) The Langham, Chicago (1.00 mi) Trump International Hotel &amp; Tower Chicago (0.95 mi) LondonHouse Chicago, Curio Collection by Hilton (0.57 mi) Kimpton Gray Hotel (0.80 mi) Virgin Hotels Chicago; View all hotels near Museum of Contemporary Photography on Tripadvisor
+title: Collection | Museum of Contemporary Photography
+snippet: Search the museum collection. Keyword, Artist, or Print Media. ... All images published by the Museum of Contemporary Photography within this website are copyright of the artist and are for educational, ... Museum of Contemporary Photography. at Columbia College Chicago 600 South Michigan Avenue Chicago, ...
+title: Exhibition Index | Museum of Contemporary Photography
+snippet: The MoCP is CLOSED when Columbia College Chicago is closed, including all major holidays. The MoCP is also closed between exhibitions for installation. Be sure to check our homepage before your visit.
+title: MoCP Events | Museum of Contemporary Photography
+snippet: This selection will also introduce viewers to a variety of traditions, including portraiture and street photography. Join us online as we dig into some of the fundamental principles artists employ to create their images with works by Harry Callahan, Roy DeCarava, Barbara Probst, Clarissa Bonet, and Berenice Abbott, among others.
+title: Museum of Contemporary Photography - Wikipedia
+snippet: The Museum of Contemporary Photography (MoCP) was founded in 1976 by Columbia College Chicago as the successor to the Chicago Center for Contemporary Photography. The museum houses a permanent collection as well as the Midwest Photographers Project (MPP), which contains portfolios of photographers and artists&#39; work who reside in the Midwestern United States.
+title: Contact | Museum of Contemporary Photography
+snippet: Museum of Contemporary Photography at Columbia College Chicago 600 South Michigan Avenue Chicago, IL 60605. Hours of operation. General Information: 312.663.5554 Fax: 312.369.8067 mocp@colum.edu. For press inquiries, contact Marissa Fox at mfox@colum.edu
+title: Museum of Contemporary Photography - Home | Facebook
+snippet: Museum of Contemporary Photography, Chicago, Illinois. 33,177 likes · 37 talking about this · 2,472 were here. The Museum of Contemporary Photography (MoCP) at Columbia College Chicago is the only...
+title: Museum of Contemporary Art, Chicago - Wikipedia
+snippet: The Museum of Contemporary Art (MCA) Chicago is a contemporary art museum near Water Tower Place in downtown Chicago in Cook County, Illinois, United States. The museum, which was established in 1967, is one of the world&#39;s largest contemporary art venues. The museum&#39;s collection is composed of thousands of objects of Post-World War II visual art.
+title: Museum of Contemporary Art, Chicago
+snippet: Founded in 1967, the Museum of Contemporary Art Chicago champions the new and unexpected in contemporary art and culture through its exhibitions, performances, programs, and collection.
+
+REL: 3
+POI Name: Driehaus Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Exhibitions | Driehaus Museum
+snippet: The Richard H. Driehaus Museum explores the art, architecture, and design of the late 19th-century with a focus on the Gilded Age. The Museum is located just steps from the Magnificent Mile within the meticulously restored Nickerson Mansion, renowned as Gilded Age Chicago’s “Marble Palace.”
+title: Driehaus Museum - Wikipedia
+snippet: The Richard H. Driehaus Museum is a museum located at 40 East Erie Street on the Near North Side in Chicago, Illinois, near the Magnificent Mile.The museum is housed within the historic Samuel M. Nickerson House, the 1883 residence of a wealthy Chicago banker. Although the mansion has been restored, the Driehaus Museum does not re-create the Nickerson period but rather broadly interprets and ...
+title: Driehaus Museum
+snippet: The Richard H. Driehaus Museum explores the art, architecture, and design of the late 19th-century with a focus on the Gilded Age. The Museum is located just steps from the Magnificent Mile within the meticulously restored Nickerson Mansion, renowned as Gilded Age Chicago’s “Marble Palace.”
+title: Become A Member - Driehaus Museum
+snippet: The Richard H. Driehaus Museum explores the art, architecture, and design of the late 19th-century with a focus on the Gilded Age. The Museum is located just steps from the Magnificent Mile within the meticulously restored Nickerson Mansion, renowned as Gilded Age Chicago’s “Marble Palace.”
+title: Programs &amp; Events - Driehaus Museum
+snippet: The Richard H. Driehaus Museum explores the art, architecture, and design of the late 19th-century with a focus on the Gilded Age. The Museum is located just steps from the Magnificent Mile within the meticulously restored Nickerson Mansion, renowned as Gilded Age Chicago’s “Marble Palace.”
+title: Collection Highlights | Driehaus Museum
+snippet: The Richard H. Driehaus Museum explores the art, architecture, and design of the late 19th-century with a focus on the Gilded Age. The Museum is located just steps from the Magnificent Mile within the meticulously restored Nickerson Mansion, renowned as Gilded Age Chicago’s “Marble Palace.”
+title: Driehaus Museum-Chicago | Expedia.no
+snippet: Planlegger du å besøke Driehaus Museum-Chicago? Finn fantastiske tilbud her. Bestill reisen din med hotell, fly og leiebil her, og spar stort!
+title: Driehaus Museum - Chicago, IL | Groupon
+snippet: Who: Richard H. Driehaus was a Chicago businessman and philanthropist with a passion for Art Nouveau architecture, design, and art. What: The museum houses a collection of priceless objects that include glass and jewelry designed by Louis Comfort Tiffany, masterworks of design by Belle Epoque luminaries, and works of art from Gilded Age greats.
+title: Richard H. Driehaus Museum (Chicago) - 2020 All You Need ...
+snippet: Richard H. Driehaus Museum can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 2 Richard H. Driehaus Museum tickets and tours on Tripadvisor
+title: Richard H. Driehaus Museum (Chicago) - 2020 All You Need ...
+snippet: We stumbled across The Driehaus Museum purely by accident. What a treat to stumble across the threshold of this museum. The Nickerson Mansion from 1883 has been meticulously restored by master craftsmen.
+
+REL: 3
+POI Name: Maya Polsky Gallery
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Maya Polsky Gallery (Chicago) - 2020 All You Need to Know ...
+snippet: Hotels near Maya Polsky Gallery: (0.61 mi) The Langham, Chicago (0.63 mi) Trump International Hotel &amp; Tower Chicago (0.52 mi) The Peninsula Chicago (0.67 mi) LondonHouse Chicago, Curio Collection by Hilton (0.60 mi) Four Seasons Hotel Chicago; View all hotels near Maya Polsky Gallery on Tripadvisor
+title: Maya Polsky Art Advisory
+snippet: Maya Polsky Art Advisory. 980 N. Michigan Ave. Suite 1448, Chicago, IL 60611 info@mayapolsky.com Tel (312) 440-0055 by appointment only
+title: Maya Polsky Art Advisory - Art Gallery - Chicago, Illinois ...
+snippet: Maya Polsky Art Advisory, Chicago, IL. 444 likes. Maya Polsky Gallery is a contemporary art gallery founded in 1989 by Maya Polsky. The gallery represents both established and mid-career American,...
+title: Maya Polsky Gallery (Chicago) - All You Need to Know ...
+snippet: Maya Polsky Gallery, Chicago: See reviews, articles, and photos of Maya Polsky Gallery, ranked No.543 on Tripadvisor among 705 attractions in Chicago.
+title: My favorite gallery of the River North galleries - Review ...
+snippet: Maya Polsky Gallery: My favorite gallery of the River North galleries - See traveler reviews, candid photos, and great deals for Chicago, IL, at Tripadvisor.
+title: Maya Polsky Gallery - Chicago, IL - StyleChicago.com
+snippet: Maya Polsky Gallery: Maya Polsky is a contemporary fine art gallery specializing in figurative work by American, European and Russian artists. The gallery represents many fine artists including Ed Paschke, Jose Cobo, Susanna Coffey, Valery Koshliakov, Gabriela Morawetz, Pancho Quilici and Vasily Shulzhenko.
+title: Maya Polsky Gallery 199 E Lake Shore Dr Chicago, IL Art ...
+snippet: Get directions, reviews and information for Maya Polsky Gallery in Chicago, IL. Maya Polsky Gallery 199 E Lake Shore Dr Chicago IL 60611. Reviews (312) 440-0055 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Maya Polsky Gallery in Chicago | Maya Polsky Gallery 215 W ...
+snippet: Find Maya Polsky Gallery in Chicago with Address, Phone number from Yahoo US Local. Includes Maya Polsky Gallery Reviews, maps &amp; directions to Maya Polsky Gallery in Chicago and more from Yahoo US Local. Find Maya Polsky Gallery in Chicago with Address, Phone number from Yahoo US Local.
+title: Maya Polsky Gallery Parking - Onsite Rates, Garage Deals ...
+snippet: Where can I find cheap parking near Maya Polsky Gallery? 100 East Walton Condominium - Valet, 1 minutes away, is one of the cheapest parking options you will find near Maya Polsky Gallery. Click here to book. Where can I park for free near Maya Polsky Gallery? The closest free parking is located at 900 Michigan Avenue Chicago (2 min walking).
+title: Entrance - Picture of Maya Polsky Gallery, Chicago ...
+snippet: Maya Polsky Gallery, Chicago Picture: Entrance - Check out Tripadvisor members&#39; 50,502 candid photos and videos.
+
+REL: 3
+POI Name: Intuit: The Center For Intuitive & Outsider Art
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Intuit - Intuit
+snippet: Intuit: The Center for Intuitive and Outsider Art COVID-19 Update To best protect Intuit guests, volunteers, staff and collaborators, the museum will be closed through April 30. Tuesday, Wednesday, Friday, Saturday, 11 a.m.–6 p.m. Thursday, 11 a.m.–7 p.m. Sunday, 12…
+title: Plan Your Visit - Intuit
+snippet: Intuit: The Center for Intuitive and Outsider Art 756 N Milwaukee Avenue Chicago, IL 60642 Phone: (312) 243-9088 Admission Admission is $5. Free for members and visitors under the age of 18. Hours Tuesday, Wednesday, Friday, Saturday, 11 a.m. –…
+title: Intuit: The Center for Intuitive and Outsider Art (Chicago ...
+snippet: Explore all three branches of the Chicago River on a journey through the heart of the city. This riverboat excursion introduces passengers to Chicago’s legendary architecture, narrated by a professionally trained architectural guide.
+title: Intuit: The Center for Intuitive and Outsider Art ...
+snippet: Founded in 1991, Intuit is a premier museum of outsider and self-taught art, art created by artists who are motivated by their unique personal visions and demonstrate little or no influence from the mainstream art world. The museum’s mission—celebrating the power of outsider art—is grounded in the ethos that the instinct to create is universal and the arts must embrace, represent and be ...
+title: Intuit: The Center for Intuitive and Outsider Art - Wikipedia
+snippet: Intuit: The Center for Intuitive and Outsider Art is a Chicago-based nonprofit organization dedicated to promoting the understanding of and appreciation for intuitive and outsider art through a program of education and exhibition. Since its founding in 1991, Intuit has emerged as an international leader in the field of outsider art.
+title: Intuit: The Center For Intuitive &amp; Outsider Art - Updated ...
+snippet: Tucked away in Chicago&#39;s River West neighborhood, Intuit: The Center for Intuitive and Outsider Art provides sanctuary for wayward art. Despite the obvious signage, finding a way into the center can be a bit of a challenge as it blends with the urban architecture, and many visitors might mistake it as a service entrance for deliveries.
+title: Intuit: The Center for Intuitive and Outsider Art (Chicago ...
+snippet: Intuit: The Center for Intuitive and Outsider Art, Chicago: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Intuit: The Center for Intuitive and Outsider Art i Chicago, Illinois på Tripadvisor.
+title: Intuit: The Center for Intuitive and Outsider Art - YouTube
+snippet: Intuit: The Center for Intuitive and Outsider Art relies on supporters like you to provide outsider art exhibitions and programs to thousands of students, teachers, teens, families and audiences ar...
+title: Intuit: The Center for Intuitive and Outsider Art ...
+snippet: Intuit is the only nonprofit organization in the U.S. devoted to the exclusive presentation of outsider and contemporary self-taught art. More than simply a gallery, Intuit is a vital resource for ...
+title: Intuit: The Center for Intuitive and Outsider Art ...
+snippet: Discover Intuit: The Center for Intuitive and Outsider Art in Chicago, Illinois: Nonprofit art center that promotes outsider, intuitive, and self-taught art.
+
+REL: 3
+POI Name: National Jazz Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: National Jazz Museum in Harlem
+snippet: The National Jazz Museum in Harlem is deeply grateful for your attendance at our events, your support of our work and our mission, and your commitment to art. This sustains us, as we hope we help to sustain you. Remember to reach out to your community of loved ones, friends and colleagues during these interesting times.
+title: National Jazz Museum in Harlem - Wikipedia
+snippet: Programs and exhibits. The National Jazz Museum in Harlem&#39;s Visitors Center has featured exhibits such as The Ghosts of Harlem by American music producer, photographer, and author Hank O&#39;Neal.The show included images of Harlem jazz legends that O&#39;Neal had the chance to interview and photograph for his book of the same name.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: National Jazz Museum - Uptown - Chicago, IL
+snippet: 2 visitors have checked in at National Jazz Museum. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Top Museums in Chicago, IL - TripAdvisor
+snippet: Apr 6, 2020 - Looking to get inspired on your trip to Chicago? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Chicago to visit in 2020. Book effortlessly online with Tripadvisor!
+title: Chicago Blues Experience—Where the blues lives - Chicago ...
+snippet: Chicago is the birthplace of modern blues, a pure American art form that has had a profound influence on nearly every style of music that followed. The Chicago Blues Experience celebrates the pioneering artists as well as the generations of musicians who have been influenced by the blues and continue to carry on its traditions.
+title: National Jazz Museum - Chicago, IL, United States - Museum
+snippet: National Jazz Museum - W Leland Ave - (773)728-24... - Chicago, IL, United States reviews and experiences by real locals. Discover the best local restaurants, bars, cafes, salons and more on Tupalo
+title: New Orleans Jazz National Historical Park (U.S. National ...
+snippet: New Orleans Jazz National Historical Park. Only in New Orleans could there be a National Park for jazz! Drop by our visitor center at 916 North Peters St. to inquire about musical events around town. In the mood for a world class musical experience? Attend a jazz concert or ranger performance at the state of the New Orleans Jazz Museum.
+title: The A. Philip Randolph Pullman Porter Museum
+snippet: The Official Site of the A. Philip Randolph Pullman Porter Museum. The Official Site of the A. Philip Randolph Pullman Porter Museum. Home; ... National Descendant Search. ... Chicago, IL 60628 MUSEUM ENTRANCE: 817 E. 104th Street 104th Street ...
+title: National Jazz Museum - Museums in Chicago, IL - enQuira Local
+snippet: National Jazz Museum is listed under the Chicago Museums category and is located in 1727 South Indiana Avenue, Chicago, IL. It can be reached at phone number (312)663-3038. For other Museums listings in Chicago, please check National Vietnam Veterans Art Museum, Chi-Am Museum Chicago, Spertus Museum, Museum of Contemporary Photography, and ...
+
+REL: 3
+POI Name: Jane Addams Hull House Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Jane Addams Hull-House Museum
+snippet: Jane Addams was America&#39;s first woman to win the Nobel Peace Prize in 1931. Today, the museum stands as a dynamic memorial to Addams, the Hull-House residents, and their immigrant neighbors.
+title: About Jane Addams — Jane Addams Hull-House Museum
+snippet: About Jane Addams and Hull-House. About Jane Addams. Born in Cedarville, Illinois, on September 6, 1860, and graduated from Rockford Female Seminary in 1881, Jane Addams founded, with Ellen Gates Starr, the world famous social settlement Hull-House on Chicago&#39;s Near West Side in 1889.
+title: Jane Addams&#39; Hull-House Museum (Chicago) - 2020 All You ...
+snippet: Chicagoans know more about Al Capone than Jane Addams. That scenario should change. Every elementary school student should be required to take a field trip to the Jane Addams Hull-House Museum and learn about the social reformer who became the first American woman to receive the …
+title: Visit The Museum — Jane Addams Hull-House Museum
+snippet: Jane Addams Hull-House Museum at the University of Illinois at Chicago welcomes both self-guided visitors and offers guided tours. Museum tours and exhibition content are suitable for all age groups, from elementary school students through adults.
+title: Jane Addams&#39; Hull-House Museum (Chicago, IL) - Anmeldelser
+snippet: Jane Addams Hull-House Museum tjener som et dynamisk minnesmerke til sosial reformer Jane Addams, den første amerikanske kvinnen for å motta Nobels fredspris, og hennes kolleger hvis arbeid endret livene til innvandrerbarnene, samt nasjonal og internasjonal skjønnspolitikk.
+title: Hull House | History, Significance, Jane Addams, &amp; Museum ...
+snippet: Overview of Hull House, one of the first social settlements in North America. It was founded in Chicago in 1889 by Jane Addams and Ellen Gates Starr to aid needy immigrants. It became a complex, containing a gymnasium, social and cooperative clubs, shops, housing for children, and playgrounds.
+title: Ensemble-Made Chicago Masterclass Series — Jane Addams ...
+snippet: Jane Addams Hull-House Museum will host the first in a series of devised theatre masterclasses for theatre creatives, performers and artists of all backgrounds, teachers, students, and those curious to learn collaborative performance making. This masterclass will feature The Neo-Futurists and Th
+title: Contact — Jane Addams Hull-House Museum
+snippet: Contact. Jane Addams Hull-House Museum The University of Illinois at Chicago 800 S. Halsted (M/C 051) Chicago, IL 60607-7017. General Information, Group Tour Inquiries, and Research Requests:
+title: Hull House - Wikipedia
+snippet: Hull House was a settlement house in the United States that was co-founded in 1889 by Jane Addams and Ellen Gates Starr.Located on the Near West Side of Chicago, Illinois, Hull House (named after the original house&#39;s first owner Charles Jerald Hull) opened to recently arrived European immigrants.By 1911, Hull House had grown to 13 buildings. In 1912 the Hull House complex was completed with ..
+title: Jane Addams - Wikipedia
+snippet: Jane Addams (September 6, 1860 – May 28, 1935) was an American settlement activist, reformer, social worker, sociologist, public administrator and author. She was a notable figure in the history of social work and women&#39;s suffrage in the United States and an advocate for world peace. She co-founded Chicago&#39;s Hull House, one of America&#39;s most famous settlement houses.
+
+REL: 2
+POI Name: Chicago Cultural Center
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Cultural Center, 
+Snippets:
+title: City of Chicago :: Chicago Cultural Center
+snippet: Drawn by its beauty and the fabulous free public events, hundreds of thousands of visitors come to the Chicago Cultural Center every year, making it one of the most visited attractions in Chicago.
+title: Chicago Cultural Center - Wikipedia
+snippet: The Chicago Cultural Center, opened in 1897, is a Chicago Landmark building operated by Chicago&#39;s Department of Cultural Affairs and Special Events that houses the city&#39;s official reception venue where the Mayor of Chicago has welcomed Presidents and royalty, diplomats and community leaders. It is located in the Loop, across Michigan Avenue from Millennium Park.
+title: City of Chicago :: Chicago Cultural Center Events Calendar
+snippet: Discover the free visual art and performance programs presented at the Cultural Center by the Chicago Department of Cultural Affairs and Special Events and its partners.
+title: Chicago Cultural Center - 2020 All You Need to Know BEFORE ...
+snippet: The Chicago Cultural Center was originally occupied by the main library in downtown Chicago. It is now a cultural center, offering a variety of programs and concerts, many free to the public.
+title: Chicago Cultural Center | Find Events, Tours &amp; Architecture
+snippet: In 1947, the Chicago Public Library took over the entire building, later vacating it to open in its new central State Street location at Harold Washington Library Center in 1991. Also in 1991, the building was rededicated as the Chicago Cultural Center, and became the nation’s first free municipal cultural center.
+title: City of Chicago :: Chicago Cultural Center — Plan Your Visit
+snippet: Chicago Cultural Center, First Floor North. Hours: Monday–Friday, 9am–4:30pm; Saturday, 9am–2pm. Renaissance Court is an award-winning senior center which presents a variety of enriching and enjoyable cultural, educational, health, and fitness programs for adults age 55 and older.
+title: City of Chicago :: Chicago Cultural Center Building Tours
+snippet: Gaze at the world&#39;s largest Tiffany stained-glass dome, as well as beautifully ornate multi-colored mosaics, marble and molding during guided architectural tours of the Chicago Cultural Center.
+title: City of Chicago :: Juicebox
+snippet: The health and safety of our visitors, event attendees and staff members remain our highest priority. As such, the Chicago Department of Cultural Affairs and Special Events is closely monitoring developments around the Coronavirus Disease 19 (COVID-19) and sharing safeguards and best practices as outlined by federal health authorities and state and local officials.
+title: City of Chicago :: Chicago Cultural Center — Private ...
+snippet: Host your next event at the Chicago Cultural Center. The stunning landmark offers a variety of options for large and small gatherings — from weddings, galas and cocktail receptions to corporate events, conferences and meetings.
+title: City of Chicago :: Chicago Cultural Center — Architecture ...
+snippet: DCASE Homepage &gt; Chicago Cultural Center &gt; Architecture and History. About the Chicago Cultural Center. Drawn by its beauty and the fabulous free public events, hundreds of thousands of visitors come to the Chicago Cultural Center every year, making it one of the most visited attractions in Chicago.The stunning landmark building is home to two magnificent stained–glass domes, as well as free
+
+REL: 2
+POI Name: The Leather Archives & Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Home - Leather Archives &amp; Museum
+snippet: The Leather Archives &amp; Museum is a library, museum and archives pertaining to Leather, fetishism, sadomasochism, and alternative sexual practices. The geographic collection scope is worldwide and includes all sexual orientations and genders. The library collection contains published books, magazines, scholarly publications, films and electronic resources related to the subject matter.
+title: Plan Your Visit - Leather Archives &amp; Museum
+snippet: The Leather Archives &amp; Museum is a library, museum and archives pertaining to Leather, fetishism, sadomasochism, and alternative sexual practices. The geographic collection scope is worldwide and includes all sexual orientations and genders. The library collection contains published books, magazines, scholarly publications, films and electronic resources related to the subject matter.
+title: Leather Archives and Museum - Wikipedia
+snippet: The Leather Archives &amp; Museum (the LA&amp;M), located in the Rogers Park neighborhood of Chicago, Illinois, United States, was founded by Chuck Renslow and Tony DeBlase in 1991, “as a community archives, library, and museum of Leather, kink, fetish, and BDSM history and culture.”
+title: Leather Archive &amp; Museum : Chicago - YouTube
+snippet: A walk through the museum which is dedicated to the history and culture of the leather community. Features the Gold Coast Murals.
+title: Leather Archives &amp; Museum | Museum Day | Smithsonian Magazine
+snippet: Admission to the museum is for adults 18+ only, given the mature nature of some of the exhibits. Based on the far north side of Chicago, the Leather Archives &amp; Museum (LA&amp;M) is a library, museum ...
+title: Upcoming Events - Leather Archives &amp; Museum
+snippet: The Leather Archives &amp; Museum is a library, museum and archives pertaining to Leather, fetishism, sadomasochism, and alternative sexual practices. The geographic collection scope is worldwide and includes all sexual orientations and genders. The library collection contains published books, magazines, scholarly publications, films and electronic resources related to the subject matter.
+title: Leather Archives &amp; Museum - YouTube
+snippet: The Leather Report was a cable access show in the 1990&#39;s with host Jim Phanner. We have approximately 20 full length videos from the run of the show.
+title: Leather Archives &amp; Museum on Vimeo
+snippet: The Leather Archives &amp; Museum is a library, museum and archives pertaining to Leather, fetishism, sadomasochism, and alternative sexual practices. The geographic…
+title: Leather Archives &amp; Museum | Choose Chicago
+snippet: The Leather Archives &amp; Museum is a library, museum and archives pertaining to Leather, fetishism, sadomasochism, and alternative sexual practices. The geographic collection scope is worldwide and includes all sexual orientations and genders.
+title: Interview with the Leather Archives &amp; Museum ... - YouTube
+snippet: Interview with the Leather Archives &amp; Museum Director Quist App. Loading... Unsubscribe from Quist App? Cancel Unsubscribe. Working... Subscribe Subscribed Unsubscribe 97.
+
+REL: 2
+POI Name: Galleria 773
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Gallery &amp; Boutique | Chicago, IL - Andersonville Galleria
+snippet: Shop Local Handmade Art at Andersonville Galleria – is a top tourist shopping destination in Andersonville, Chicago. One stop shop Galleria market features over 100 vendors and Artists offering local handmade goods from apparel, jewelry, artwork, home furnishings, giftware, accessories, antiques, fair trade, and gourmet treats. Looking for where to buy art in Chicago, look no further.
+title: Galleria 773 - Museums - 773 W Lake St, West Loop, Chicago ...
+snippet: 1 review of Galleria 773 &quot;They are only open during business hours which totally stinks but this is a great antique gallery. Its pretty big and they&#39;ve got lots of stuff to browse through if you can catch them when they are open!&quot;
+title: Galleria 773 773 W Lake St Chicago, IL Museums - MapQuest
+snippet: Get directions, reviews and information for Galleria 773 in Chicago, IL.
+title: RSVP Gallery
+snippet: RSVP Gallery is a conceptual retail experience located in Chicago, IL and online. Worldwide shipping available.
+title: Galerie F | Official Website | Street Art, Posters ...
+snippet: Galerie F is Chicago&#39;s premier destination for street art, posters and collectibles. Located in the historic Logan Square neighborhood at 2415 N Milwaukee Ave.
+title: Chicago Truborn – Gallery &amp; Boutique
+snippet: Established in 2011, Chicago Truborn has supported local, emerging, and established artists for years. Often times referred to as the “anti” gallery, we are dedicated to supporting street/urban/graffiti artists. We think you’ll see and feel the difference the moment you walk in.
+title: City of Chicago
+snippet: In response to the evolving COVID-19 pandemic, the City of Chicago has joined the State of Illinois in issuing a Stay at Home order effective Saturday, March 21st at 5pm CT. In addition, City of Chicago facilities are closed to the public. Staff are prioritizing essential services to protect the health and safety of our residents and employees.
+title: Gallery 19
+snippet: His work evokes a place between the metamorphosis and the evolution of substance. The exhibition of his work attempts to reveal to develop persuasive reflection on the essence of subconscious and its connection with objects or creatures. He currently resides in Chicago, Illinois.
+title: Gallery Guichard
+snippet: Welcome to Gallery Guichard. Featured Exhibition. Artist work Glimpse. Gallery Guichard. 436 East 47th Street, Chicago, IL, 60653, United States (773) 791-7003, (708)772-9315 galleryguichardsocial@gmail.com. Hours. Mon Closed. Tue Closed. Wed 2pm - 5pm. Thu Closed. Fri 1pm - 5pm. Sat 12pm - 3pm.
+title: Home - Galleria Marchetti
+snippet: Galleria Marchetti is proud to impart this unique and enchanting year-round outdoor event venue in downtown Chicago, where you and your guests can experience one of two beautiful venues filled with history, tradition, convenience and eloquence: our large, secret garden-esque The Pavilion and the European meets Moroccan-inspired La Pergola.
+
+REL: 2
+POI Name: Heritage Museum of Asian Art
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Heritage Museum of Asian Art
+snippet: Heritage Museum of Asian Art presents works of art spanning the cultures of Asia. The museum’s collection includes jades, ceramics, wood, textiles, bronzes and more.
+title: Heritage Museum of Asian Art (Chicago) - 2020 All You Need ...
+snippet: Attractions near Heritage Museum of Asian Art: (0.70 mi) Willie Dixon&#39;s Blues Heaven Foundation (0.53 mi) Chicago Chinatown (0.83 mi) Second Presbyterian Church of Chicago (0.57 mi) Motor Row Brewing (0.79 mi) Prairie Avenue Historic District; View all attractions near Heritage Museum of Asian Art on Tripadvisor
+title: Heritage Museum of Asian Art - Visit
+snippet: Heritage Museum of Asian Art is located just minutes from downtown, in Chicago&#39;s Chinatown. We are near Interstates 90/94 and 55. Street parking is available. CTA Train. The Redline Cermak/Chinatown stop is an enjoyable walk (approx. half a mile) through Chinatown. Busses. 24 Wentworth Bus stops at 26th Street, M-F
+title: Heritage Museum of Asian Art - Museums - 218 W 26th St ...
+snippet: Heritage Museum of Asian Art showcases a wide range of art forms, spanning many cultures and time periods of Asia. The museum&#39;s collection includes archaic and modern jades, Neolithic pottery, imperial porcelains, Chinese snuff bottles, scholar&#39;s objects, textiles, bronzes and more.…
+title: Heritage Museum of Asian Art - About
+snippet: Heritage Museum of Asian Art. Founded in 2014, Heritage Museum of Asian Art showcases a wide range of art forms, spanning many cultures and time periods of Asia. The museum’s collection includes archaic and modern jades, Neolithic pottery, imperial porcelains, Chinese snuff bottles, scholar’s objects, textiles, bronzes and more.
+title: Heritage Museum of Asian Art - Exhibitions
+snippet: Asian Art from American Collections. June 2014 - December 2015. Since the turn of the twentieth century Americans have been collecting and admiring Asian art. For the Heritage Museum’s inaugural exhibition the museum hosts pieces of work including Japanese netsuke, Korean pottery, and Chinese paintings.
+title: Heritage Museum of Asian Art - Chicago, Illinois | Facebook
+snippet: Heritage Museum of Asian Art - 218 W 26th St, Chicago, Illinois 60616 - Rated 5 based on 7 Reviews &quot;Another hidden gem of a Chicago museum. Newly opened...
+title: Heritage Museum of Asian Art | Choose Chicago
+snippet: Heritage Museum of Asian Art showcases a wide range of art forms, spanning many cultures and time periods of Asia. The museum’s collection includes archaic and modern jades, neolithic pottery, imperial porcelains, Chinese snuff bottles, scholar’s objects, textiles, bronzes and more.
+title: Heritage Museum of Asian Art - News
+snippet: Admission to Heritage is now Free! Heritage Museum of Asian Art is proud to now offer free admission for all visitors to the museum. We are hopeful that this new policy will generate more visitors to and interest in our museum, especially from local Chicagoans.
+title: Heritage Museum of Asian Art | Museums in Armour Square ...
+snippet: The non-profit Heritage Museum of Asian Art showcases a variety of different Asian artforms, with a collection assembled by art dealer Jeffrey Moy. Inside the C
+
+REL: 2
+POI Name: Museum of Contemporary Art
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Art Museums, 
+Snippets:
+title: Museum of Contemporary Art, Chicago
+snippet: Founded in 1967, the Museum of Contemporary Art Chicago champions the new and unexpected in contemporary art and culture through its exhibitions, performances, programs, and collection.
+title: Museum of Contemporary Art, Chicago - Wikipedia
+snippet: The Museum of Contemporary Art (MCA) Chicago was created as the result of a 1964 meeting of 30 critics, collectors and dealers at the home of critic Doris Lane Butler to bring the long-discussed idea of a museum of contemporary art to complement the city&#39;s Art Institute of Chicago, according to a grand opening story in Time.
+title: MCA – Exhibitions
+snippet: The MCA’s exhibitions feature the art of our time in every possible media by artists of local and international renown. Explore the variety of MCA exhibitions on view now, coming up next, or from our rich past. Images in this section are published for educational use under the umbrella of the Fair
+title: MCA – Today
+snippet: The MCA is located at 220 East Chicago Avenue, near the L, bus routes, Divvy bikes, and paid parking. We offer free tours daily. The Box Office is open during museum hours and available online any time.
+title: Museum of Contemporary Art Chicago - YouTube
+snippet: Jonathas de Andrade explores themes and intention in his art practice through specific works in the Museum of Contemporary Art Chicago&#39;s exhibition &quot;One to One.&quot; Weaving his identity as a Brazilian...
+title: MCA – Employment
+snippet: Employment Description. Explore ... Working for a contemporary art museum also means witnessing history in the ... artists, programs, and exhibitions—reflective of the diversity of the city of Chicago and to capture the spirit of access, inclusion, and equity in all we do. If you have any difficulty using our online system or you need an ...
+title: MCA – About
+snippet: The Museum of Contemporary Art Chicago takes the health and safety of the public and our staff as our highest priority. In compliance with the State of Illinois’ Disaster Proclamation order, the MCA is temporarily closed in support of the City of Chicago’s efforts to contain the spread of COVID-19 (coronavirus).
+title: Museum of Contemporary Art (Chicago) - 2020 All You Need ...
+snippet: Museum of Contemporary Art can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 4 Museum of Contemporary Art tickets and tours on Tripadvisor
+title: MCA Chicago Store
+snippet: Museum of Contemporary Art Chicago Store 220 East Chicago Avenue Chicago lL 60611 312.397.4000 Sign up for special offers OPEN Mon closed Tue closed Wed closed Thus closed Fri closed Sat, Sun closed CLOSED Thanksgiving Day Christmas Day
+title: Museum of Contemporary Art Chicago - Home | Facebook
+snippet: Museum of Contemporary Art Chicago - 220 E Chicago Ave, Chicago, Illinois 60611 - Rated 4.5 based on 4,059 Reviews &quot;I can easily say that this place was...
+
+REL: 2
+POI Name: Legendary Art Gallery
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Venues & Event Spaces, 
+Snippets:
+title: Legendary Art Gallery - Home | Facebook
+snippet: Legendary Art Gallery - 2419 W. Madison, Chicago, Illinois 60612 - Rated 4.9 based on 26 Reviews &quot;Went to support my friend/high school buddy/owner of...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Chicago Art Galleries and Chicago Gallery Guide
+snippet: CHICAGO ART GALLERIES. Chicago art galleries and art gallery guide. Here&#39;s your listing of fine art galleries in Chicago, Illinois. These art galleries feature contemporary art, traditional fine art, glass art, prints, sculpture, fine art photography, early American art and other types of visual art.
+title: 33 Best Art Galleries in Chicago - Time Out Chicago
+snippet: A visit to one of Chicago&#39;s best art galleries will allow you to discover works by emerging and established artists.
+title: Legendary Art gallery LLC - Near West Side - 1 tip from 6 ...
+snippet: Art Gallery in Chicago, IL Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: 345 Art Gallery - Home | Facebook
+snippet: 345 Art Gallery and the Corry Williams Art Foundation are excited to present &quot;Shut It Down&quot;, an art exhibition and book release curated by CPS art teachers Gabriel Mejia and Devan Picard. &quot;Shut It Down&quot; features artwork and signage made by Chicago Public School teachers during the 2019 CTU Strike. Proceeds go to needy CPS students.
+title: THE 10 BEST Chicago Art Galleries (with Photos) - Tripadvisor
+snippet: Top Chicago Art Galleries: See reviews and photos of art galleries in Chicago, Illinois on Tripadvisor.
+title: 9 Must-Visit Art Galleries in Chicago - Culture Trip
+snippet: Chicago has a noteworthy art scene that dates back to the founding of the Chicago Academy of Design in 1866. If you’re looking for a more offbeat or intimate experience, however, skip the art museums and visit one of these smaller galleries instead.
+title: ARC Gallery - Home | Facebook
+snippet: ARC Gallery - 1463 W Chicago Ave, Chicago, Illinois 60647 - Rated 4.4 based on 15 Reviews &quot;After you submit your jury fee and the email &quot;fee&quot;...
+title: Downtown Chicago&#39;s #1 Museum | The Art Institute of Chicago
+snippet: Located in downtown Chicago, the Art Institute is one of the world’s great art museums, housing a collection that spans centuries and the globe. Visit us online The museum is temporarily closed. ›
+
+REL: 2
+POI Name: Russian Collection
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Antiques, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Collections &amp; Exhibits - The University of Chicago Library
+snippet: Russian Satirical Journals, 1905-1907 The University of Chicago Library’s collection Russian Satirical Journals, 1905-1907 consists of 110 titles in 378 issues. It is primarily comprised of journals, but some newspapers, broadsides, and illustrated periodicals are also included.
+title: Discover Art &amp; Artists | The Art Institute of Chicago
+snippet: Explore thousands of artworks in the museum’s wide-ranging collection—from our world-renowned icons to lesser-known gems from every corner of the globe—as well as our books, writings, reference materials, and other resources.
+title: Slavic, Eastern European, and ... - University of Chicago
+snippet: When searching for materials in Cyrillic languages it helps to search in the original language and in transliteration. When searching library resources (the catalog, WorldCat, other databases), you will have the most success with the Library of Congress transliteration system.
+title: Google
+snippet: Google allows users to search the Web for images, news, products, video, and other content.
+title: The Russian Collection | Hillwood Estate, Museum and Garden
+snippet: The solemn and spiritual Russian religious pieces on display in the Icon Room and Russian Sacred Arts Gallery represent the core of Hillwood’s collection in this area. Like the other areas of the Russian collection, the initial formation of the collection of icons and religious objects can be traced to Post’s time in the Soviet Union.
+title: Chicago- Make Me Smile - YouTube
+snippet: 50+ videos Play all Mix - Chicago- Make Me Smile YouTube; George Harrison: All Things Pass YouTube Movies. 2018 · Documentary; 55:34. 50+ videos Play all &#39;80s Sing-Alongs YouTube Music; 25 or 6 ...
+title: Chicago - 25 Or 6 To 4 (HD) - YouTube
+snippet: Official audio for &quot;25 Or 6 To 4&quot; by Chicago. From the album Chicago II. Lyrics: Waiting for the break of day Searching for something to say Flashing lights against the sky Giving up I close my ...
+title: Downtown Chicago&#39;s #1 Museum | The Art Institute of Chicago
+snippet: Located in downtown Chicago, the Art Institute is one of the world’s great art museums, housing a collection that spans centuries and the globe. Visit us online The museum is temporarily closed. ›
+
+REL: 2
+POI Name: National Veterans Art Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: National Veterans Art Museum - Home
+snippet: We recognize that veterans&#39; art presents ... intern, and volunteer opportunities in guest relations, museum education, development, art history and preservation. For more information check out Job Opportunities or Intern/Volunteer Opportunities. D O N A T E (312) 326-0270 info@nvam.org. 4041 N. Milwaukee Ave. 2nd floor Chicago, IL 60641 Tuesday ...
+title: National Veterans Art Museum - Wikipedia
+snippet: The National Veterans Art Museum, formerly the National Vietnam Veterans Art Museum, located at 4041 N. Milwaukee Avenue in Chicago&#39;s six corners neighborhood, is dedicated to displaying and studying art produced by veterans from the Vietnam War and other wars and conflicts.
+title: National Veterans Art Museum (Chicago) - 2020 All You Need ...
+snippet: Hotels near National Veterans Art Museum: (3.09 mi) L.P. Motel (4.84 mi) Holiday Inn Express &amp; Suites Chicago North Shore - Niles (4.49 mi) Chicago Guest House (4.60 mi) Bishops Hall Bed &amp; Breakfast (4.03 mi) Holiday Inn Chicago North Shore (Skokie) View all hotels near National Veterans Art Museum on Tripadvisor
+title: National Veterans Art Museum - Home | Facebook
+snippet: National Veterans Art Museum - 4041 N Milwaukee Ave, Chicago, Illinois 60641 - Rated 4.8 based on 134 Reviews &quot;A hidden gem of a gallery, there are many...
+title: National Veterans Art Museum - Portage Park - Chicago, IL
+snippet: 13 reviews of National Veterans Art Museum &quot;This is truly a hidden gem of Chicago. I visited yesterday with my boyfriend and his parents, and my bf&#39;s father is a Vietnam veteran. We requested a guided tour and A young woman named Moki was very…
+title: City of Chicago :: National Veterans Art Museum Triennial ...
+snippet: With a focus on the visual, literary, performative and creative practices of veterans, the National Veterans Art Museum Triennial explores a century of war and survival while challenging the perception that war is something only those who have served in the military can comprehend.
+title: National Veterans Art Museum in Chicago, Illinois - Find A ...
+snippet: Explore this cemetery for graves, information and tombstones for names in National Veterans Art Museum in Chicago, Illinois, a Find A Grave Cemetery.
+title: National Veterans Art Museum - YouTube
+snippet: Sign in to like videos, comment, and subscribe. Sign in. Watch Queue Queue
+title: Visit - National Veterans Art Museum
+snippet: Getting to the Museum We encourage our visitors to use public transport to visit the museum. By bus: NVAM is located near several CTA bus stops including the #80 Irving Park bus, the #54 Cicero bus, and the #56 Milwaukee bus. The museum is less than one block down, on the right.
+
+REL: 2
+POI Name: International Museum of Surgical Science
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Venues & Event Spaces, 
+Snippets:
+title: International Museum of Surgical Science – a division of ...
+snippet: Please Note: The Museum is closed to the public as of March 16, 2020. A reopening date decision is to be determined. IMSS Response to the COVID-19 Novel Coronavirus Welcome! The International Museum of Surgical Science, a division of the International College of Surgeons (ICS), maintains over 10,000 square feet of public galleries committed to…
+title: International Museum of Surgical Science (Chicago) - 2020 ...
+snippet: We recommend booking International Museum of Surgical Science tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 International Museum of Surgical Science tours on Tripadvisor
+title: Plan Your Visit – International Museum of Surgical Science
+snippet: The International Museum of Surgical Science is committed to welcoming all visitors, including those with diverse needs and abilities. The International Museum of Surgical Science does not discriminate on the basis of race, ethnicity, national origin, religion, gender expression, sexual orientation, age, or ability.
+title: International Museum of Surgical Science - Wikipedia
+snippet: The International Museum of Surgical Science is a museum located in the Gold Coast neighborhood of Chicago, Illinois.It is operated by The International College of Surgeons and features exhibits dealing with various aspects of Eastern and Western medicine. It was founded by Dr. Max Thorek in 1954. The museum&#39;s exhibits are displayed by theme or surgical discipline.
+title: International Museum of Surgical Science - Home | Facebook
+snippet: International Museum of Surgical Science, Chicago, Illinois. 11K likes. The mission of the Museum is to enrich people&#39;s lives by enhancing their appreciation and understanding of the history, art and...
+title: International Museum of Surgical Science | Loop Chicago
+snippet: The International Museum of Surgical Science, a division of the International College of Surgeons (ICS), maintains over 10,000 square feet of public galleries committed to the history of surgery, and an exquisite permanent collection of art and artifacts from the history of Medicine.
+title: Employment – International Museum of Surgical Science
+snippet: The International Museum of Surgical Science is an equal opportunity employer. The Museum does not discriminate on the basis of race, ethnicity, national origin, religion, gender expression, sexual orientation, age or ability in admission, access to or employment in our programs and activities. The International Museum of Surgical Science reviews qualified applications for posted job…
+title: Exhibitions – International Museum of Surgical Science
+snippet: The International Museum of Surgical Science supports a commitment to contemporary art and artists through exhibitions and programs that use the frame of contemporary artistic practice to examine new perspectives in surgical science and our relationship to the body.
+title: Education – International Museum of Surgical Science
+snippet: Group Rates Youth K-12$7 Per StudentMinimum of 10Higher EducationAdults$10 Per PersonMinimum of 10After Hours Tours5:00 PM - 7:00 PM$20 Per PersonMinimum of 20 Reservations Are Required Testimonies Our annual visit to the International Museum of Surgical Science is the perfect capstone to the Rush Mini Medical School Program for 4th and 5th graders.
+
+REL: 2
+POI Name: Oriental Institute Museum
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Winston Wachter Fine Art
+POI City: Seattle
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Home: Winston Wächter Fine Art - Winston Wachter Fine Art ...
+snippet: Winston Wächter Fine Art. Seattle; ... 203 Dexter Ave Seattle, WA 98109. Seattle Gallery Contact Information gallery@ winstonwachter.com 206 652 5855. New York Gallery Address 530 W 25th St New York, NY 10001. New York Gallery Contact Information nygallery@ winstonwachter.com 212 255 2718.
+title: Gallery Information - Winston Wachter Fine Art - Seattle
+snippet: Stacey Winston Levitan, Owner, 206-396-5600. Jessica Shea, Co-Director, 206-552-4037. Megan Des Jardins, Co-Director, 206-446-8946. Winston Wächter is a fine art gallery and art consulting firm with exhibition spaces in Seattle and New York City. The gallery specializes in the acquisition and placement of contemporary and 20th Century works of ...
+title: Home - Winston Wachter - Winston Wächter Fine Art
+snippet: Winston Wächter is a fine art gallery and art consulting firm with exhibition spaces in New York City and Seattle. Winston Wächter is a fine art gallery and art consulting firm with exhibition spaces in New York City and Seattle. Skip to main content.
+title: Seattle Art Fair 2018 - Winston Wachter Fine Art - Seattle
+snippet: Winston Wächter Seattle is pleased to present selected works from artists native to and located in the Pacific Northwest for the 2018 Seattle Art Fair. Working in a multitude of mediums and styles, these artists represent the diversity of influence, concepts and techniques, and highlight the talent of the region. WaMu Theater at CenturyLink Field
+title: Etsuko Ichikawa - Winston Wachter Fine Art - Seattle
+snippet: She has received numerous grants and awards, including Dave Bown Projects, Pollock Krasner Foundation grant. She has exhibited both nationally and internationally, including The Ueno Royal Museum in Tokyo, the Henry Art Museum, the Museum of Fine Arts, Boston, and Seattle Art Museum. View 3D exhibition tour . click here to view additional works
+title: Gallery Information - Winston Wachter
+snippet: Winston Wächter is a fine art gallery and art consulting firm with exhibition spaces in New York City and Seattle. The gallery specializes in the acquisition and placement of contemporary and 20th Century works of art.
+title: Peter Gronquist - Winston Wachter Fine Art - Seattle
+snippet: Born 1979 in the USA, Peter lives and works in Portland, OR after residing in Oakland, CA. He attended the School of Visual Art New York and received a BA in painting from San Francisco Art Institute in 2001. He has exhibited in New York, London, Miami, and San Francisco. Peter’s work has been published in GQ Magazine, Hyperallergic and Wired.
+title: Exhibitions Archive - Winston Wachter
+snippet: Heather Hutchison: Mid Air. Exhibition information: Artists Heather Hutchison Dates February 20, 2020 - April 18, 2020; Visions of Spring, Photography by Sally Gall
+title: Winston Wächter Fine Art Seattle - New York - Home | Facebook
+snippet: Contact Winston Wächter Fine Art Seattle - New York on Messenger. www.winstonwachter.com. Visual Arts · Museum. Page Transparency See More. Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content. Page created - September 27, 2011.
+title: Etsuko Ichikawa at Winston-Wächter Fine Art in New York
+snippet: Etsuko Ichikawa is a Tokyo-born, Seattle-based, multi-media artist. ... Ichikawa’s work has been exhibited internationally, including Museum of Fine Arts Boston, Seattle Art Museum, 21st Century Museum of Contemporary Art in Kanazawa, and The Ueno Royal Museum in Tokyo.
+
+REL: 1
+POI Name: ChiTownTennis
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Tennis, Amateur Sports Teams, 
+Snippets:
+title: Chicago Tennis Community | Metro Chicago Tennis Community
+snippet: Restarts May 1st. The Tennis Partner Program is an on-going service where we&#39;re connecting you with dedicated tennis partners outside of league play on the tennis courts in Metro Chicago. This is our non-competitive program for players who are looking to meet up with other people who love to hit.
+title: ChiTownTennis.com | Chicago Tennis Courts
+snippet: Chicago tennis courts. 261,241 matches played nationwide and 15+ years of service. We have donated a combined $17,000 to Cancer Research Institute &amp; Dana Farber in the past 8 years.
+title: ChiTownTennis - 10 Photos - Tennis - Lakeview, Chicago, IL ...
+snippet: Just finished my first season (Summer 2015) of ChiTownTennis and had a lot of fun. I lived in Chicago for 4 years before FINALLY deciding to join a tennis league. This league helped me find people in the city who also loved the sport of tennis and were also at my playing level. It&#39;s been a great way to meet new people and hone my tennis skills.
+title: Chicago Tennis Clubs Locations | ChiTownTennis.com
+snippet: Chicago tennis clubs. 261,256 matches played nationwide and 15+ years of service. We have donated a combined $17,000 to Cancer Research Institute &amp; Dana Farber in the past 8 years.
+title: Chicago Tennis Lessons | Tennis Instructors ...
+snippet: ChiTownTennis is working with MyTennisLessons suite of tennis instructors to provide you a top-notch coaching experience. By filling out this form you will be credited with a 10% OFF discount on your Chicago Tennis Lessons purchase.
+title: ChiTownTennis.com | Chicago Tennis League (Chicago, IL ...
+snippet: How does a ChiTownTennis Season / League run? The league advertises the season dates and builds a queue of committed players for the season. Kickoff Day - April 22nd The start day of the season, players are sent a kickoff email that contains important information about the league, the link where your league standings and players contact information.
+title: ChiTownTennis.com | Chicago Tennis Courts
+snippet: ChiTownTennis&#39;s statement on the Coronavirus. Chicago Tennis Court Locations &lt; Back to full list. North Chicago. Mid Chicago. West Chicago &amp; Oak Park Area. South Chicago. Evanston. Skokie Area &amp; North. Naperville Area. Want to add a court or make a change? send email to: ChiTownTennis1@gmail.com
+title: Tennis in Chicago - Yelp
+snippet: Find the best Tennis on Yelp: search reviews of 29 Chicago businesses by price, type, or location.
+title: ChiTown Tennis - Home | Facebook
+snippet: ChiTown Tennis, Chicago, Illinois. 384 likes · 1 talking about this. The Metro Chicago Tennis League. We connect you with dedicated tennis partners on the courts. Servicing Chicago, North Chicagoland...
+title: ChiTownTennis Highland Park, IL Tennis Courts Public ...
+snippet: Get directions, reviews and information for ChiTownTennis in Highland Park, IL.
+
+REL: 1
+POI Name: Farmers Market at the Museum of Contemporary Art
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: SOAR Farmers Market - Home | Facebook
+snippet: We have a lot of great fall produce, cheese, bread and flowers at this week&#39;s market. We will be in the Museum of Contemporary Art Chicago plaza until 2:00. Do not forget the MCA Chicago is free today for Illinois residents!
+title: 2019: Farmers Market At The Museum Of Contemporary Art ...
+snippet: Find free Farmers Market At The Museum Of Contemporary Art parking, compare prices of parking meters and parking garages, find overnight parking with SpotAngels. Our parking maps - updated on December 22, 2019 - help you find cheap parking. Save money every time you park near Farmers Market At The Museum Of Contemporary Art, Chicago, IL.
+title: Farmers Market – SOAR
+snippet: The SOAR Farmers Market nourishes the community with a colorful variety of farm-fresh, locally grown fruits, vegetables, herbs, flowers, bakery goods and prepared foods. Stop by to pick up fruit or veggies for your dinner, grab lunch from one of prepared food vendors or watch a chef demonstration which is held the last Tuesday of every month.
+title: Museum Of Contemporary Art Streeterville Chicago Market in ...
+snippet: View the Museum Of Contemporary Art Streeterville Chicago Market in Chicago, IL and get shopping. Find the address, contact information, hours, and more about the Museum Of Contemporary Art Streeterville Chicago Market as well as all other farmers markets in Chicago, Illinois. Get out today and check out local produce and crafts in your community.
+title: MCA – Farmers&#39; Market
+snippet: Every Tuesday this summer—rain or shine—you can shop at the SOAR Farmers Market on the MCA Plaza. Vendors at the colorful open-air market offer a variety of fresh fruits and vegetables, cut and potted flowers, baked goods, cheeses, spices, and more. Stop by for lunch on the museum&#39;s front stairs and
+title: MCA – SOAR Farmer&#39;s Market
+snippet: Every Tuesday, June 5 through October 30—rain or shine—shop the SOAR Farmer&#39;s Market on the MCA Plaza and support local farmers and producers.* This amazing group offers ready-to-eat lunch options and a variety of fresh fruits and vegetables, cut and potted flowers and herbs, baked goods, cheeses,
+title: City of Chicago :: Chicago City Markets - Farmers Market
+snippet: Chicago City Markets sell fresh seasonal produce, flowers, prepared foods, unique Chicago-made products and rare finds – at Chicago’s longest running farmers market on Daley Plaza, the historic Maxwell Street Market and a dozen more community markets in neighborhoods across Chicago.
+title: Chicago farmers markets 2019 schedule and locations ...
+snippet: 27 outdoor farmers markets in Chicago parks and plazas. ... This market isn’t in a park or plaza—head to the Museum of Contemporary Art for a farmers market lined up outside its grand staircase.
+title: Museum Of Contemporary Art Streeterville Chicago Market ...
+snippet: Museum Of Contemporary Art Streeterville Chicago Market, located in Chicago, Illinois, can be found at 220 E Chicago Ave. In addition, this market offers various payment options.
+
+REL: 1
+POI Name: Museum of Geometric and MADI Art
+POI City: Dallas
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: The Museum of Geometric and MADI Art – Exhibits geometric ...
+snippet: Hip Squares features the work of various Dallas geometric artists from the 1960s. The exhibit opens Friday, January 31st with a reception for the artist and members at 5:30. The reception opens to the public at 6:00. Hip Squares runs through April 26, 2020.
+title: VISIT THE MUSEUM – The Museum of Geometric and MADI Art
+snippet: O pening in February 2003,The Museum of Geometric and MADI Art is the first museum with a concentration on MADI art, which is always non-representational, hard-edged, and comes out of the frame. Geometric art may be in a rectangular format, which is rarely the case with MADI; usually, only prints may be rectangular. The museum shows related geometric, constructivist, and op art work.
+title: Museum of Geometric and MADI Art (Dallas) - 2020 All You ...
+snippet: Attractions near Museum of Geometric and MADI Art: (0.33 mi) Katy Trail (0.99 mi) Winspear Opera House (0.87 mi) Federal Reserve Bank of Dallas - Economy in Action (0.86 mi) The Ann and Gabriel Barbier-Mueller Museum : The Samurai Collection (0.29 mi) Dragon Park; View all attractions near Museum of Geometric and MADI Art on Tripadvisor
+title: Museum of Geometric and MADI Art - Wikipedia
+snippet: The Museum of Geometric and MADI Art is a museum in Dallas dedicated to abstract art and the Madí movement. The only such museum in North America, travel writer Emily Toman describes it as &quot;one of the most underrated art museums in Dallas&quot;.
+title: Museum Of Geometric And Madi Art - Home | Facebook
+snippet: Museum Of Geometric And Madi Art. 1,283 likes · 18 talking about this · 1,372 were here. Located in Uptown Dallas (3109 Carlisle St, Dallas, TX 75204), the Museum of Geometric and MADI Art (the MADI)...
+title: Restaurants Near Museum of Geometric and MADI Art, Dallas ...
+snippet: Restaurants near Museum of Geometric and MADI Art, Dallas on Tripadvisor: Find traveler reviews and candid photos of dining near Museum of Geometric and MADI Art in Dallas, Texas.
+title: Beste hoteller i nærheten av Museum of Geometric and MADI ...
+snippet: Hoteller i nærheten av Museum of Geometric and MADI Art, Dallas: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Museum of Geometric and MADI Art på Tripadvisor.
+title: DISCOVER THE COLLECTION – The Museum of Geometric and MADI Art
+snippet: T he artists represented in the permanent collection at The Museum of Geometric and MADI Art span not only geographical but chronological boundaries as well. Artists from Europe, Russia, Japan, South America and the United States are well represented by the museum. Beginning with the MADI movement’s inception and continuing through contemporary artists working in the geometric style, the ...
+title: Museum Of Geometric And Madi Art - Posts | Facebook
+snippet: Museum Of Geometric And Madi Art. 1,297 likes · 69 talking about this · 1,389 were here. Located in Uptown Dallas (3109 Carlisle St, Dallas, TX 75204), the Museum of Geometric and MADI Art (the MADI)...
+title: art - Picture of Museum of Geometric and MADI Art, Dallas ...
+snippet: Museum of Geometric and MADI Art, Dallas Picture: art - Check out Tripadvisor members&#39; 35,106 candid photos and videos of Museum of Geometric and MADI Art
+
+REL: 1
+POI Name: Halim Time & Glass Museum
+POI City: Evanston
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Adler Planetarium
+POI City: Chicago
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Planetarium, 
+Snippets:
+title: Home | Adler Planetarium
+snippet: How Adler Staff is Staying Connected During These “Unprecedented Times” Header Image: Staff members of the Adler Planetarium marketing team posing with newly branded Adler sweatshirts in January 2020. On a cosmic scale, there is very little distance between us.
+title: Adler Planetarium - Wikipedia
+snippet: &#39;Adler After Dark&#39;, the Adler Planetarium&#39;s 21+ evening event, was voted &quot;Best After Hours Event&quot; of 2013 by the Chicago Reader and &quot;Best Date Night&quot; by Chicago Parent. Guests at Adler After Dark have open museum access, themed programs, sky shows and views of the Chicago skyline.
+title: Tickets | Adler Planetarium
+snippet: Save time by purchasing your tickets online in advance. Roll up your sleeves and let curiosity be your guide. At the Adler Planetarium, you’ll find hands-on, minds-on activities, experiences, and shows about the universe that will blow your mind!
+title: Adler Planetarium (Chicago) - 2020 All You Need to Know ...
+snippet: Adler Planetarium can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 30 Adler Planetarium tickets and tours on Tripadvisor
+title: Your Visit | Adler Planetarium
+snippet: Your visit to the Adler Planetarium on Chicago’s Museum Campus is sure to be out-of-this-world! We know that when planning your perfect trip to the museum, you’re looking for the best experience. That is why we’ve put everything you need to plan the perfect visit together all in one spot.
+title: Adler Planetarium Special Admission Offers
+snippet: The Adler Planetarium offers a variety of discounted tickets throughout the year. Please keep in mind that all discounted passes must be purchased in person at the museum on the day of your visit and are unavailable for purchase online or in advance.
+title: Adler Planetarium, Chicago, United States — Google Arts ...
+snippet: The Adler Planetarium - America’s First Planetarium - is more than a museum; it is a laboratory, a classroom, and a community exploring the Universe together. Each year, over 550,000 visitors experience the museum’s interactive exhibitions, live planetarium shows, hands-on, minds-on STEM education programs, and world-class collections.
+title: Adler Planetarium Hours
+snippet: Plan your next visit to Chicago&#39;s Adler Planetarium, America&#39;s first planetarium and premiere resource for inspiring the next generation of space explorers.
+title: Adler Planetarium (Chicago, IL) - Anmeldelser - Tripadvisor
+snippet: Adler Planetarium kan være fullpakket, så vi anbefaler å bestille e-billetter på forhånd for å sikre deg en plass. Hvis du bestiller med Tripadvisor, kan du avbestille minst 24 timer før startdagen for turen for å få full refusjon. Se alle 30 billetter og turer i Adler Planetarium på Tripadvisor
+
+REL: 1
+POI Name: Los Flacos
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Tacqueria los Flacos :: Best Dinner in Chicago
+snippet: 3818 W Lawrence Ave, Chicago, IL 60625. Tacqueria los Flacos is known for its Dinner, Latin American, Lunch, and Mexican. Online ordering available!
+title: Taqueria Los Flacos, Chicago - Restaurantanmeldelser ...
+snippet: Taqueria Los Flacos, Chicago: Se objektive anmeldelser av Taqueria Los Flacos, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 5 253 av 9 552 restauranter i Chicago.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Taqueria Los Flacos, Chicago - Albany Park - Menu, Prices ...
+snippet: Order food online at Taqueria Los Flacos, Chicago with Tripadvisor: See unbiased reviews of Taqueria Los Flacos, ranked #5,253 on Tripadvisor among 9,553 restaurants in Chicago.
+title: Los Flacos in Chicago | Los Flacos 3818 W Lawrence Ave ...
+snippet: Find Los Flacos in Chicago with Address, Phone number from Yahoo US Local. Includes Los Flacos Reviews, maps &amp; directions to Los Flacos in Chicago and more from Yahoo US Local. Find Los Flacos in Chicago with Address, Phone number from Yahoo US Local.
+title: Los Flacos #chicago #WCTA #WCTAchicagoundergroundsound # ...
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: Menu - Flacos Tacos
+snippet: This website uses Google Analytics to help analyze how users use the site. The tool uses “cookies,” which are text files placed on your computer, to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the … Continue reading →
+title: Los Flacos - Health Inspections Score - 3818 W Lawrence ...
+snippet: Public health inspections data for Los Flacos in San Francisco, CA. Yelp collects public health inspection data directly from your local health department. Los Flacos - Health Inspections Score - 3818 W Lawrence Ave, Chicago, IL - Yelp - Yelp
+title: Taqueria los Flacos - Chicago, Illinois - Mexican ...
+snippet: Daniel Christopher reviewed Taqueria los Flacos — 1 star December 11, 2017 · My wife went there to eat and had a hair in her tacos, when she brought it to the waitresses attention the owner came out saying why are you yelling at her, when my wife told him there was a hair he said all the best food places have accidents like that.
+title: Good and affordable! - Review of Taqueria Los Flacos ...
+snippet: Taqueria Los Flacos: Good and affordable! - See traveler reviews, candid photos, and great deals for Chicago, IL, at Tripadvisor.
+
+REL: 1
+POI Name: XOchimilco Mexican Restaurant
+POI City: Chicago
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, Tex-Mex, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: XOchimilco Mexican Restaurant - &#39;Restaurant&#39; in &#39;Chicago ...
+snippet: XOchimilco Mexican Restaurant &#39;Restaurant&#39; in &#39;Chicago&#39; &#39;BYOB&#39; Family owned and operated. Opening at 10:00 AM. View Menu Call (773) 661-1534 Get directions Get Quote WhatsApp (773) 661-1534 Message (773) 661-1534 Contact Us Find Table Make Appointment Place Order. Updates. Posted on Mar 31, 2020.
+title: XOchimilco Mexican Restaurant - Home | Facebook
+snippet: XOchimilco Mexican Restaurant, Chicago, Illinois. 443 likes. BYOB
+title: XOchimilco brings a taste of Mexico City ... - Chicago Tribune
+snippet: XOchimilco Mexican Restaurant is bringing a taste of Mexico City to Ravenswood, with dishes like lamb shank marinated with annatto and served with pickled red onion.
+title: XOchimilco Mexican Restaurant - Ravenswood - Chicago, IL
+snippet: 112 reviews of XOchimilco Mexican Restaurant &quot;Great service and food. Went for a casual night out and did not regret at all. They are a little pricey but the food is definitely worth it. Had a side of tacos that really hit the spot alongside my…
+title: XOchimilco Mexican Restaurant - Ravenswood - Chicago, IL
+snippet: This neighborhood Mexican restaurant gets it all right. The food was amazingly fresh, beautiful, flavorful, and healthy (I had the delicious and artfully-plated shrimp ceviche and the veggie fajitas.). The menu, featuring both staples and specials is varied, creative, and more wide-ranging than expected.
+title: Xochimilco in Chicago - Restaurant menu and reviews
+snippet: Come to this restaurant to dine at if you feel hungry after gazing at Spiritual Museum.Among other Mexican cuisune places to eat at, Xochimilco can be one of the best. You can have tasty tacos, flank steaks and bean rice at this place. If hungry, come here for good pudding.It&#39;s nice to order delicious tequila.In accordance with the visitors&#39; opinions, waiters offer great coffee.
+title: XOchimilco Mexican Restaurant - Posts - Chicago, Illinois ...
+snippet: XOchimilco Mexican Restaurant, Chicago, Illinois. 381 likes. BYOB
+title: Locations - Xochimilco Authentic Mexican Restaurant
+snippet: Xochimilco - Iles Ave2941 W Iles Ave Springfield, IL 62704; Xochimilco - Northfield Drive3210 Northfield Dr Springfield, IL 62702
+title: XOchimilco Mexican Restaurant - Chicago, IL | OpenTable
+snippet: Get menu, photos and location information for XOchimilco Mexican Restaurant in Chicago, IL. Or book now at one of our other 11120 great restaurants in Chicago.
+
+REL: 1
+POI Name: Ditka Dash 5K
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Races & Competitions, 
+Snippets:
+title: Ditka Dash | 11.21.20 | Chicago, IL
+snippet: The Race that Thinks it&#39;s a Party. On November 21, 2020 join thousands of runners and walkers at Soldier Field for the Ditka Dash 5K. All participants will receive a proper mustache, aviator sunglasses, cold beer, an amazing finisher medal, and a race shirt reminiscent of Coach Ditka’s fine wool sweater vest.
+title: Ditka Dash 5K - 10/14/2020 - Race Information
+snippet: Ditka Dash 5K information, race map, race results, race reviews, and race date. Learn why you should run Ditka Dash 5K in Chicago, IL.
+title: Ditka Dash - Home | Facebook
+snippet: Ditka Dash, Chicago, Illinois. 18,015 likes · 7 talking about this. Da race that thinks it&#39;s a party.
+title: Ditka Dash - Race Info - Ditka Dash | 10.14.17 | Chicago, IL
+snippet: Join thousands of runners and walkers at Soldier Field, on November 21, 2020, for the Ditka Dash. All participants will receive a proper mustache, aviator sunglasses, cold beer, an amazing finisher medal, and a race shirt reminiscent of Da Coach’s fine wool sweater vest.
+title: Run Mfg | Ditka Dash
+snippet: Ditka Dash Da Race That Thinks it&#39;s a Party. Join thousands of Ditkas at Soldier Field for the Ditka Dash presented by Miller Lite. All participants will receive a proper mustache, aviator sunglasses, cold beer, an amazing finisher medal, and a race shirt reminiscent of Coach Ditka&#39;s fine wool sweater vest.
+title: Ditka Dash 5K Reviews | Illinois | 5K Road Race
+snippet: Interested in running in the Ditka Dash 5K or want to share your experience? Read 4 reviews from past Ditka Dash 5K runners on BibRave.com!
+title: Ditka Dash 5K 1410 S Museum Campus Dr Chicago, IL - MapQuest
+snippet: Get directions, reviews and information for Ditka Dash 5K in Chicago, IL. Ditka Dash 5K 1410 S Museum Campus Dr Chicago IL 60605. 4 Reviews. Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions {{::location.tagLine.value ...
+title: Ditka Dash 5K - Chicago Athlete Magazine
+snippet: Mike Ditka no longer spends Sundays on Soldier Field’s sidelines, but Da Coach made a brief reappearance Saturday at the Ditka Dash 5K. Below Soldier Field, he served up motivation for the 5,000 runners donning his iconic aviators, mustache and Bears colors. Between the women wearing fake Ditka ‘staches and others wearing literal bear costumes, …
+title: Ditka Dash 5K - Chicago, IL 2016 | ACTIVE
+snippet: Join thousands of runners and walkers at Soldier Field for the Ditka Dash presented by State Farm®. All participants will receive a proper mustache, aviator sunglasses, cold beer, an amazing finisher medal, and a race shirt reminiscent of Da Coach’s fine wool sweater vest. After the race, celebrate at the Miller Lite Mustache Bash with live music, cold beer, and thousands of mustache-clad ...
+title: Ditka Dash 5K - Chicago, IL 2015 | ACTIVE
+snippet: On October 3, join thousands of runners and walkers at Soldier Field for the Ditka Dash presented by State Farm®. All participants will receive a proper mustache, aviator sunglasses, cold beer, an amazing finisher medal, and a race shirt reminiscent of Da Coach’s fine wool sweater vest.
+
+REL: 0
+POI Name: Evanston History Center in the Charles Dawes House
+POI City: Evanston
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+Cand cities: {'Dallas', 'Seattle', 'Chicago', 'Evanston'}

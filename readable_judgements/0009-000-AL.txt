@@ -1,0 +1,1249 @@
+City: Seattle
+Country: US
+Main category: Active Life
+Sub category: Hiking
+Description: My boyfriend and I are visiting Seattle for a few days and seeing a concert at the Gorge Amphitheater on a Saturday in August (9-12). We are trying to decide if we should hike closer to the Seattle area (we are staying in West Seattle) or closer to the Gorge on the day of the concert.  We both love hiking but know nothing about Washington & have never hiked or spent much time there. We usually go for "difficult" trail ratings and we like panoramic views/high elevation/good-payoff-at-the-end hikes. We also know it is a very quick trip and don't want to spend too much time getting to our hiking destination. We also don't know much about the summer weather and how important it would be to find shaded trails v. open to the sun. Any advice is welcome!  We are also really love food and would welcome any food-related recommendations in either of those areas.
+Rated POIs: 50
+Rel distr: [(0, 9), (1, 13), (2, 18), (3, 10)]
+=================================
+REL: 3
+POI Name: Frink Park
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+title: Friends of Frink Home - Frink Park
+snippet: Friends of Frink is a nonprofit organization established to monitor, contribute, and assist in the future planning and direction of Frink Park, part of the Olmstead Legacy Park system designed for Seattle in the early 1900&#39;s.
+title: Frink Park - Parks | seattle.gov
+snippet: Primarily used as a natural woods drive, Frink Park is a densely vegetated ravine. South Frink Place winds through the park and opens onto Lake Washington Boulevard.
+title: Frink Park - Wikipedia
+snippet: Frink Park is a 17.2 acre (70,000 m²) park in the Leschi neighborhood of Seattle, Washington.It is a heavily wooded hillside and ravine through which flows Frink Creek.Most of the park is bounded by 31st Avenue S. in the west, 34th Avenue S. in the east, and the rights-of-way of S. Main Street in the north and S. King Street in the south.
+title: Frink Park (Seattle, WA) - Anmeldelser - Tripadvisor
+snippet: Frink Park, Seattle: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Frink Park i Seattle, Washington på Tripadvisor.
+title: Frink Park (Seattle, WA): Address, Phone Number - Tripadvisor
+snippet: Get to know Seattle&#39;s first established neighborhood, Pioneer Square, by walking its underground pathways as they existed in the 1890s in the company of a guide. Trace the city’s history, from an Indigenous dwelling to its Gold Rush days and up through its current state as a thriving modern neighborhood on this walking tour.
+title: Frink Park – Friends of Seattle&#39;s Olmsted Parks
+snippet: Frink Park is located in the at 398 Lake Washington Blvd. S, 98104. It is 16.7 acres in size. Frink Park, as with Colman Park and Leschi Park, is located within a steeply sloped area referred to in Olmsted’s 1903 report as the “Rainier Heights Landslide Section.” In his 1903 report, John Charles proposed an ambitious […]
+title: Frink Park (Seattle) - All You Need to Know BEFORE You Go ...
+snippet: Frink Park, Seattle: See reviews, articles, and photos of Frink Park, ranked No.435 on Tripadvisor among 450 attractions in Seattle.
+title: THE 10 CLOSEST Hotels to Frink Park, Seattle - Tripadvisor ...
+snippet: Hotels near Frink Park, Seattle on Tripadvisor: Find 49,059 traveler reviews, 50,048 candid photos, and prices for 30 hotels near Frink Park in Seattle, WA.
+title: Frink Park (Seattle) - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Flüge Seattle; Reiseforum Seattle; Restaurants Seattle; Sehenswürdigkeiten Seattle; Fotos Seattle; Karte Seattle; Alle Hotels in Seattle; Hotelangebote in Seattle; Last Minute Seattle; Nach Hoteltyp. Motels in Seattle; Hostels in Seattle; Tagungshotels in Seattle; Familienhotel Seattle; Öko-Hotels in Seattle; Romantische Hotels Seattle ...
+title: Frink Park (Seattle, WA): Address, Phone Number - Tripadvisor
+snippet: Seattle Hotels; Seattle Bed and Breakfast; Seattle Holiday Rentals; Seattle Packages; Flights to Seattle; Seattle Restaurants; Seattle Attractions; Seattle Travel Forum; Seattle Pictures; Seattle Map; Seattle Guide; All Seattle Hotels; Seattle Hotel Deals; Last Minute Hotels in Seattle; By Hotel Type. Seattle Motels; Seattle Hostels; Business ...
+
+REL: 3
+POI Name: Back 40 Outfitters
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Camping gear rental | Seattle | Back 40 Outfitters
+snippet: Back 40 Outfitters rents complete kits of camping and backpacking gear packed up and ready for your adventure.
+title: Campin gear rental | Seattle | Back 40 Oufitters
+snippet: car camping kit Just decide where you want to roast s&#39;mores and sleep under the stars; we&#39;ll take care of the rest. From trusted brands like Coleman and Marmot, this gear is durable and easy to use.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Back 40 Outfitters - Home | Facebook
+snippet: Back 40 Outfitters, Seattle, WA. 355 likes. Back 40 Outfitters is your source for try before you buy gear rental and outdoor travel advice for DIY...
+title: HOW IT WORKS | Back 40 Outfitters
+snippet: How does Back 40 distribute the gear? We offer self-serve pick up from drop boxes located in Kent and South Seattle. This is convenient for locals and travelers alike. And some of our drop boxes are even at breweries! Delivery is possible, for a prearranged charge. Orders needed within 24 hours may not be eligible for delivery.
+title: Backpacking equipment rental Seattle - Back 40 Outfitters
+snippet: We didn’t miss a single detail with this kit. Everything you need for an overnight backpacking trip in the rugged Northwest all packed up and ready to go!
+title: Photos for Back 40 Outfitters - Yelp
+snippet: Photos at Back 40 Outfitters - Seattle, WA. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: North 40 Outfitters Home
+snippet: North 40 Outfitters is a family owned and operated retailer with locations in Montana, Idaho and Washington. We outfit work and play.
+title: Camping gear rental | Seattle | Back 40 Outfitters
+snippet: Seattle’s Back 40 Outfitters will deliver a rubber tub full of tents and trappings, gathering a haul of gear that could run more than $1,000 in a store. Backpacking and festival camping versions are also available.
+title: Back 40 Outfitters Gift Card - Seattle, WA | Giftly
+snippet: Buy a Back 40 Outfitters gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for Back 40 Outfitters, Seattle, WA.
+
+REL: 3
+POI Name: Washington Trails Association
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Washington Trails Association
+snippet: Contact Us. Washington Trails Association 705 2nd Ave, Suite 300 Seattle, WA 98104 (206) 625-1367. Get Trail News Subscribe to our free email newsletter for hiking events, news, gear reviews and more.
+title: Volunteer — Washington Trails Association
+snippet: Volunteer as a Group. Want to get your group out on trail? ... Washington Trails Association 705 2nd Ave, Suite 300 Seattle, WA 98104 (206) 625-1367. Get Trail News Subscribe to our free email newsletter for hiking events, news, gear reviews and more. Sign Up. Trails ...
+title: Hiking Guide — Washington Trails Association
+snippet: WTA&#39;s hiking guide is the most comprehensive database of hikes in Washington, and comprises ... Tucked into the heart of Seattle&#39;s Capitol Hill neighborhood, ... Washington Trails Association 705 2nd Ave, Suite 300 Seattle, WA 98104 (206) 625-1367.
+title: Hike Finder Map — Washington Trails Association
+snippet: Contact Us. Washington Trails Association 705 2nd Ave, Suite 300 Seattle, WA 98104 (206) 625-1367. Get Trail News Subscribe to our free email newsletter for hiking events, news, gear reviews and more.
+title: Trip Reports — Washington Trails Association
+snippet: Contact Us. Washington Trails Association 705 2nd Ave, Suite 300 Seattle, WA 98104 (206) 625-1367. Get Trail News Subscribe to our free email newsletter for hiking events, news, gear reviews and more.
+title: Washington Trails Association - Home | Facebook
+snippet: Washington Trails Association, Seattle, Washington. 142,835 likes · 5,762 talking about this. We protect and maintain your hiking trails. Join us!
+title: Washington Trails Association 705 2nd Ave Seattle, WA ...
+snippet: About Washington Trails Association Welcome to Washington Trails Association ( WTA ), the voice for hikers in Washington state. We believe hiking trails are our link to wilderness. We protect hiking trails and wild lands, take volunteers out to maintain trails, and promote hiking as a healthy, fun way to explore the outdoors.
+title: Washington Trails Association - YouTube
+snippet: Discover Washington Trails Association, a nonprofit community of hikers that inspires people to become explorers, stewards and champions of our public lands.
+title: Washington Water Trails Association - Home | Facebook
+snippet: Washington Water Trails Association, Seattle, WA. 2,750 likes · 31 talking about this · 43 were here. We protect and expand PUBLIC ACCESS to Washington&#39;s shorelines for human and wind powered...
+title: Charity Navigator - Rating for Washington Trails Association
+snippet: Washington Trails Association is rated 4 out of 4 stars by Charity Navigator. Washington Trails Association receives 94.48 out of 100 for their Charity Navigator rating. Washington Trails Association is a Environmental Protection and Conservation charity located in Seattle, WA. The organization is run by Jill Simmons and has an annual revenue of $4,601,549.
+
+REL: 3
+POI Name: Elliott Bay Trail
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, Hiking, 
+Snippets:
+title: Elliott Bay Trail (Terminal 91 Bike Path) | Washington ...
+snippet: Elliott Bay Trail (Terminal 91 Bike Path) spans 3.4 mi. from Myrtle Edwards Park at Broad St. to Elliott Bay Marina at Smith Cove Park. View amenities, descriptions, reviews, photos, itineraries, and directions on TrailLink.
+title: Elliott Bay Trail — Washington Trails Association
+snippet: A paved path along Elliott Bay shoreline, open to walkers, runners and bike riders. Views to the west over the water. This trail provides a pleasant way to go north-south in Seattle, with fewer intersections than walking on the main city streets.
+title: Seattle Waterfront Trails - Seattle Outdoors Information ...
+snippet: The main waterfront trail route along Puget Sound in Seattle is the Elliott Bay Trail, a scattered collection of trail segments that run from Smith Cove in Magnolia, along the railroad tracks in Interbay, back to the water and into Myrtle Edwards Park where a very nice portion of the trail connects to Alaskan Way, then runs sporadically to King Street where a newer segment runs west of the 99 ...
+title: Elliott Bay Trail - Great Runs
+snippet: The main waterfront trail route along Puget Sound in Seattle is the Elliott Bay Trail, a scattered collection of trail segments that run from Century Link Field in the south to Smith Cove in Magnolia to the north — about 7 miles in total. There are various running options here.
+title: Elliott Bay Trail (Seattle) - 2020 All You Need to Know ...
+snippet: Seattle is a great place to cycle, and the Elliott Bay Trail is the perfect place to take a bike out for a spin. It goes along the waterfront past some lovely parks, along to Pike Street Market. There is bike parking at Pike Street Market so be sure to stop by there on your …
+title: Myrtle Edwards Park to Elliott Bay Park - Washington ...
+snippet: Myrtle Edwards Park to Elliott Bay Park is a 3.5 mile moderately trafficked out and back trail located near Seattle, Washington that offers the chance to see wildlife and is good for all skill levels. The trail offers a number of activity options. Dogs are also able to use this trail but must be kept on leash.
+title: Elliott Bay - Wikipedia
+snippet: Elliott Bay is a part of the Central Basin region of Puget Sound in Cascadia.It is in the U.S. state of Washington, extending southeastward between West Point in the north and Alki Point in the south. Seattle was founded on this body of water in the 1850s and has since grown to encompass it completely. The waterway it provides to the Pacific Ocean has served as a key element of the city&#39;s ...
+title: Elliott Bay Trail - Seattle, Washington - Park | Facebook
+snippet: Elliott Bay Trail, Seattle, Washington. 32 likes · 25 talking about this · 3,346 were here. Park
+title: Elliott Bay Waterfront (Seattle) - 2020 All You Need to ...
+snippet: We recommend booking Elliott Bay Waterfront tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 6 Elliott Bay Waterfront tours on Tripadvisor
+
+REL: 3
+POI Name: Waterfall Garden
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Waterfall Garden Park - Pioneer Square Seattle
+snippet: In 1975, UPS moved their headquarters to Connecticut and the original Seattle space was eventually closed. A neighborhood known as Pioneer Square sprung up in the area formerly occupied by UPS, including a pocket park called the Waterfall Garden, which is said to cover the footprint of the original American Messenger Company business.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Waterfall Garden Park (Seattle) - 2020 All You Need to ...
+snippet: Get to know Seattle&#39;s first established neighborhood, Pioneer Square, by walking its underground pathways as they existed in the 1890s in the company of a guide. Trace the city’s history, from an Indigenous dwelling to its Gold Rush days and up through its current state as a thriving modern neighborhood on this walking tour.
+title: Waterfall Garden Park (Seattle, WA) - Anmeldelser
+snippet: Waterfall Garden Park, Seattle: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Waterfall Garden Park i Seattle, Washington på Tripadvisor.
+title: UPS Waterfall Garden Park – Seattle, Washington - Atlas ...
+snippet: Discover UPS Waterfall Garden Park in Seattle, Washington: This secluded, man-made waterfall marks the birthplace of the United Parcel Service.
+title: Waterfall Garden Park (Seattle) - Aktuelle 2020 - Lohnt es ...
+snippet: Der Waterfall Garden Park in Seattle ist ein netter kleiner Park im Pioneer Square-Gebiet. Für eine kurze Pause ist der die ideale Gelegenheit. Mehr lesen. Erlebnisdatum: August 2016. Hilfreich. Senden. travelspirit1 hat im Sep. 2015 eine Bewertung geschrieben.
+title: Waterfall Garden Park - Wikipedia
+snippet: Waterfall Garden Park, also called UPS Park and UPS Waterfall Park, is a private 60-by-80-foot (18 m × 24 m) pocket park in Seattle, Washington, created in 1978 at the original United Parcel Service building in Pioneer Square. It is open to the public during the day and closed at night.
+title: Waterfall Garden - Seattle, Washington - Landmark ...
+snippet: These kind of vest-pocket parks are more &amp; more important in urban environments. I&#39;m from NYC where we have a very similar space called Greenacre Park which was just protected with a 2018 listing on the National Register of Historic Places. To the managers who look after Waterfall Garden, please look into listing your beautiful site, as well.
+title: THE 10 CLOSEST Hotels to Waterfall Garden Park, Seattle ...
+snippet: Hotels near Waterfall Garden Park, Seattle on Tripadvisor: Find 44,115 traveler reviews, 50,068 candid photos, and prices for 30 hotels near Waterfall Garden Park in Seattle, WA.
+
+REL: 3
+POI Name: West Duwamish Greenbelt
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+title: Seattle Parks Maps – West Duwamish Greenbelt Trails
+snippet: Seattle Parks Map Download: West Duwamish Greenbelt Trails Seattle Parks Map Download: Westcrest Park Trail Map Seattle Parks Map Download: Puget Park Trail Map Seattle Parks Map Download: Pigeon Point Map Seattle Trails App Seattle Trails shows you where all the official trails in Seattle are. This app has been built as an open-source…
+title: West Duwamish Greenbelt - Parks | seattle.gov
+snippet: The West Duwamish Greenbelt is the largest greenbelt in the city and is home to fox, red-legged frogs, hawks, and bald eagles. The greenbelt encompasses the extended forest along the eastern slopes of West Seattle that is visible from I-5.
+title: The Greenbelt – West Duwamish Greenbelt Trails
+snippet: West Duwamish Greenbelt The city’s largest remaining contiguous forest, the West Duwamish Greenbelt, covers over 500 acres and spans over four miles north to south and west to east from a steep slope in the Delridge area in West Seattle to the Duwamish Waterway. The West Duwamish Greenbelt provides a habitat for wildlife such as…
+title: West Duwamish Greenbelt Trails - Home | Facebook
+snippet: West Duwamish Greenbelt Trails, Seattle, Washington. 408 likes. Learn about what is happening to add and improve trails in the West Duwamish Greenbelt in...
+title: West Duwamish Greenbelt - Seattle, Washington
+snippet: The West Duwamish Greenbelt is the largest greenbelt in the city and is home to fox, red-legged frogs, hawks, and bald eagles. The greenbelt encompasses the extended forest along the eastern slopes of West Seattle that is visible from I-5.
+title: West Duwamish Greenbelt Trails - Home | Facebook
+snippet: West Duwamish Greenbelt Trails, Seattle, Washington. 412 likes · 2 talking about this. Learn about what is happening to add and improve trails in the West Duwamish Greenbelt in West Seattle.
+title: East Duwamish Greenbelt - Home | Facebook
+snippet: East Duwamish Greenbelt, Seattle, Washington. 93 likes. Building community and restoring the woods at 39th &amp; Trenton in South Beacon Hill.
+title: Share this Event - seattle.greencitypartnerships.org
+snippet: Duwamish Longhouse and Cultural Center: 4705 W Marginal Way SW, Seattle, WA 98106. Where to Park. There is parking at the Longhouse and additional parking on the other side of W Marginal Way SW. Several buses service West Seattle from downtown - routes 21, 120, 125, 131, but do not service W Marginal Way SW.
+title: West Duwamish Greenbelt 6716 25th Ave SW Seattle, WA ...
+snippet: Get directions, reviews and information for West Duwamish Greenbelt in Seattle, WA.
+title: West Seattle Blog… | West Duwamish Greenbelt Hike
+snippet: During the summer, hike with us in the West Duwamish Greenbelt on the fourth Saturdays of the month–June 24, July 22, August 26. Meet at the Riverview parking lot, 12th and Myrtle at 9 a.m.
+
+REL: 3
+POI Name: Chief Stealth Trail
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Chief Sealth Trail | Washington Trails | TrailLink
+snippet: Chief Sealth Trail spans 4 mi. from S Angeline St. at 15th Ave S to S Gazelle St at 51st Ave S. View amenities, descriptions, reviews, photos, itineraries, and directions on TrailLink.
+title: Chief Stealth Trail - Beacon Hill - Seattle, WA - Yelp
+snippet: 9 reviews of Chief Stealth Trail &quot;The difference between a 4-star and a 5-star comes down to convenience! Chief Sealth Trail is a foot and bike path that runs from Beacon Hill to the Rainier Valley. Many of us in the neighborhood have seen the…
+title: Chief Sealth Trail — Washington Trails Association
+snippet: The Chief Sealth Trail is an urban gem! Four and a half miles of paved trail connect Jefferson Park with the Kubota Gardens and with expansive views all along the way. Opened in 2007, this trail connects the Beacon Hill neighborhood with the Rainier Beach area using the greenbelt under large powerlines.
+title: Chief Sealth Trail - Wikipedia
+snippet: The Chief Sealth Trail is a multi-use recreational trail in Seattle, Washington.. The 3.6-mile (6 km) trail, which opened on May 12, 2007, follows the Seattle City Light transmission right-of-way from S. Dawson Street and Beacon Avenue S. in Beacon Hill, near Jefferson Park, to S. Gazelle Street and 51st Avenue S. in Rainier Valley, near Kubota Gardens.
+title: Chief Seattle - Wikipedia
+snippet: A B-17E Flying Fortress, SN# 41-2656 named Chief Seattle, a so-called &quot;presentation aircraft&quot;, was funded by bonds purchased by the citizens of Seattle. Flying with the 435th Bombardment Squadron out of Port Moresby, it was lost with its 10-man crew on August 14, 1942. The Chief Sealth Trail in southern Seattle is named after Chief Seattle.
+title: Chief Sealth Trail and Beacon Hill ... - Seattle Outdoors Info
+snippet: The Chief Sealth Trail is a 4.5 mile (7.25 km) paved path through southeastern Seattle and the Beacon Hill neighborhood. It runs from S. Snoqualmie and 15 Ave S below Jefferson Park to Kubota Gardens at 51st and S Gazelle Street, with connections to light rail stations along the way.
+title: Chief Sealth Trail - Seattle, WA - YouTube
+snippet: Access from Downtown Seattle to the southern trail head: Link to Rainier Beach. It won&#39;t take you as close to the trail head as taking 106 or 7, but it&#39;s a nicer ride.
+title: Chief Stealth Trail in Seattle | Chief Stealth Trail S ...
+snippet: Find Chief Stealth Trail in Seattle with Address, Phone number from Yahoo US Local. Includes Chief Stealth Trail Reviews, maps &amp; directions to Chief Stealth Trail in Seattle and more from Yahoo US Local
+title: Chief Sealth Trail | The Seattle Times
+snippet: Chief Sealth Trail . ... The trail is within the Seattle City Light transmission-line corridor, so to find it, just look for the electrical power lines overhead.
+title: Photos for Chief Stealth Trail - Yelp
+snippet: Photo 4 of 8 for Chief Stealth Trail - Seattle, WA
+
+REL: 3
+POI Name: Seattle Green Lake Running Group
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Sports Clubs, Trainers, 
+Snippets:
+title: Seattle Green Lake Running Group Public Group | Facebook
+snippet: The Seattle Green Lake Running Group is a meetup.com based group. It hosts multiple running events throughout the week in efforts to encourage member participation. This facebook group page is...
+title: About Us - Seattle Green Lake Triathlon Group
+snippet: Who We Are: The Seattle Green Lake Triathlon Group (SGLTG) is a non-profit organization in the Seattle area offering group events to local triathletes and multi-sport enthusiasts. The goal of SGLTG is to offer free group training and support to triathletes of all levels and abilities, whether you’re new to the sport or a seasoned […]
+title: Seattle Green Lake Running Group (Seattle, WA) | Meetup
+snippet: Green Lake is one of the most popular destinations for urban runnings in the Seattle area. The Seattle Green Lake Running Group was created with the intent of creating a running community that supports and encourages a healthy and active lifestyle through group events and participation.
+title: Green Lake Park - Parks | seattle.gov
+snippet: Green Lake is one of Seattle’s most beloved parks. Its expanse of water and green space in the center of a dense urban neighborhood draws thousands of people daily from all over the city. The park serves as a natural preserve for hundreds of species of trees and plants, as well as numerous birds and waterfowl. The 2.8-mile path around the lake provides a perfect recreational spot for runners ...
+title: Upcoming events | Seattle Green Lake Running Group ...
+snippet: Upcoming events for Seattle Green Lake Running Group in Seattle, WA. A Meetup group with over 8851 Runners.
+title: Seattle Green Lake Running Group - Strava
+snippet: Green Lake is one of the most popular destinations for urban runnings in the Seattle area. The Seattle Green Lake Running Group was created with the intent of building a running community that supports and encourages a healthy and active lifestyle through group events and participation.
+title: Seattle Green Lake Running Group - Strava
+snippet: Green Lake is one of the most popular destinations for urban runnings in the Seattle area. The Seattle Green Lake Running Group was created with the intent of building a running community that supports and encourages a healthy and active lifestyle through group events and participation.
+title: Seattle Green Lake Running Group
+snippet: Hi there SGLRG! It&#39;s full-on summer here in the PNW (so far not as many fires as last year, fingers crossed)! This is that little sliver of the year when both the early morning and evening runs are sun-lit, the trails are marching toward snow-free, and time feels frenetic.
+title: ‘My life was at risk:’ Woman on early morning run attacked ...
+snippet: SEATTLE -- A woman running around Green Lake early Friday morning says a man grabbed her from behind and groped her. Neighbors in the area heard her screams and quickly called police. She survived ...
+title: Seattle Running Club – Running Redefined
+snippet: Seattle Running Club - 6 Mile Fun Run with Fleet Feet Seattle. Apr 21. ... Seattle Running Club - **SUSPENDED** Lake Union Lunch Run. Apr 22. Seattle Running Club - Seven Hills Wednesday night group run! Events &amp; Races. Cougar Mtn Series. ... We are a Puget Sound-based running group that celebrates the beauty of our region and our personal ...
+
+REL: 3
+POI Name: Camp Long
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Climbing, Hiking, Summer Camps, 
+Snippets:
+title: Camp Long Environmental Learning Center ... - Seattle
+snippet: Camp Long was once a little used, 68 acre corner of the West Seattle Golf Course. In 1937 Seattle Park Board member, Archie Phelps, Judge William Long, Ben Evans of the Seattle Park Department and Clark Schurman, well known Scout leader, expert mountaineer and wilderness camp developer, embarked on a mission.
+title: Camp Long - Parks | seattle.gov
+snippet: Located in West Seattle, this 68 acre park (entrance at SW Dawson &amp; 35th SW) offers visitors an opportunity to enjoy nature, hike in the forest, camp overnight in rustic cabins, rock climb, and learn about natural history. Rental facilities include a lodge with one meeting room, kitchen space, 10 cabins, two covered picnic areas, group fire ring, and climbing rock.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Camp Long (Seattle) - 2020 All You Need to Know BEFORE You ...
+snippet: I wander through Camp Long every time I&#39;m in Seattle. It is very peaceful and the air is so clean! There are miles of trails to walk/run. It is possible to take classes/camps, or rent the cabins and stay overnight, but I haven&#39;t done that yet.
+title: Camp Long Trails - Washington | AllTrails
+snippet: Camp Long Trails is a 1.2 mile moderately trafficked loop trail located near Seattle, Washington that features beautiful wild flowers and is good for all skill levels. The trail offers a number of activity options and is accessible year-round. Dogs are also able to use this trail but must be kept on leash.
+title: Schurman Rock at Camp Long - Parks | seattle.gov
+snippet: Schurman Rock at Camp Long Due to the COVID-19 public health closures, Schurman Rock is now closed for climbing. Please check back for updates as the situation unfolds. ... Seattle Parks and Recreation promotes healthy people, a healthy environment, and strong communities.
+title: Camp Long - Home | Facebook
+snippet: Camp Long, Seattle, WA. 1K likes. Located in West Seattle, this 68-acre park offers visitors an opportunity to enjoy nature, hike in the forest, camp overnight in rustic cabins, rock climb, and team...
+title: Camps - Parks | seattle.gov
+snippet: Camp Long Nature and Adventure Camps. Camp Long has an exciting Summer Day Camp for participants aged 7 to 12.Registration begins April 7. NatureQuest Day Camp is series of week-long adventures through different areas of West Seattle.
+title: SCHEDULING AND RESERVATIONS AT CAMP LONG - Seattle
+snippet: Camp Long’s lodge, picnic shelters, fire ring, and east comfort station are all ADA accessible. Contact Camp Long staff to inquire about accessible status of your particular site or to request accommodations due to disability. For information or complaints concerning the Americans
+title: Camp Long — Washington Trails Association
+snippet: Camp Long is a hidden gem, a 68-acre enclave on the crest of West Seattle featuring old growth forest, wildlife, a variety of hiking trails, rock climbing, ropes courses, camping, and environmental education. Camp Long&#39;s genesis came about during the Great Depression, conceived as a youth refuge and center for teaching scouting and camping skills.
+
+REL: 3
+POI Name: Crux Expeditions
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Tours, Hiking, Travel Agents, 
+Snippets:
+title: Crux Expeditions - Home | Facebook
+snippet: Crux Expeditions. 168 likes. Crux Expeditions offers unforgettable, once in a lifetime adventures. Our trips are fun, educational, and exciting. Come and enjoy an expediton at the end of the world...
+title: About us - Crux Expeditions - Trekking in Patagonia
+snippet: About us. We are a small trekking agency started by a Patagonian native, Evelyn Salinas. Each of our trips has a unique custom itinernary designed with you to fit your individual needs. Our goal is show you beauty of Patagonia, while teaching the important value of the environment, creating a strong connection with you and this region.
+title: Crux Expeditions - Trekking in Patagonia
+snippet: Crux Expedition takes you on unique explorations in Patagonia. We travel by foot, kayak, horse and car. We explore around the Southern Patagonian Ice Field, an important protected, yet dwindling resource that provides life to the flora and fauna such as the Andean Condor, pumas and flamingos.
+title: Crux Expeditions 6116 32nd Ave NW Seattle, WA Tours ...
+snippet: Get directions, reviews and information for Crux Expeditions in Seattle, WA. Crux Expeditions 6116 32nd Ave NW Seattle WA 98107. 1 Reviews (206) 883-9055 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Crux Expeditions - Trekking in Patagonia
+snippet: National Park Los Glaciares is the second largest park in Argentina. In 1981 Los Glaciares was declared part of the UNESCO with more than 100 km of trekking, unique birds and mammals. As part of Southern ice field system, a portion of this park is just ice.
+title: Crux Expeditions 4245 Greenwood Ave N Seattle, WA ...
+snippet: Get directions, reviews and information for Crux Expeditions in Seattle, WA. Crux Expeditions 4245 Greenwood Ave N Seattle WA 98103. Reviews (206) 372-3974 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Crux Expeditions - Trekking in Patagonia
+snippet: Crux Expeditions. We are an adventure travel agency based in Seattle, WA and Punta Arenas, Chile. We provide outdoor adventures in different regions of Patagonia. We are local Patagonia natives that provide a personal service, making for an unforgettable trip.
+title: Crux Expeditions - Trekking in Patagonia
+snippet: Crux Expeditions is a trekking company specializing in organizing adventures in Patagonia, Chile and Argentina.
+title: Crux Expeditions in Seattle | Crux Expeditions 6116 32nd ...
+snippet: Find Crux Expeditions in Seattle with Address, Phone number from Yahoo US Local. Includes Crux Expeditions Reviews, maps &amp; directions to Crux Expeditions in Seattle and more from Yahoo US Local
+title: CRUX EXPEDITIONS Seattle, WA, 98103
+snippet: Show me directions to CRUX EXPEDITIONS. Show me directions to CRUX EXPEDITIONS ×
+
+REL: 2
+POI Name: BC Adventure Guides
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: BC Adventure Guides
+snippet: Baker BC Ski Tours. Rogers Pass. AIARE Level 1 Course. ... BC Adventure Guides (206) 799-4092. info@bcadventureguides.com. Pablo Puruncajas and Ian Nicholson are IFMGA licensed Mountain Guides and Owner Matt Schonwald, Certified Ski Guide, train and supervise all BCAG Guide Staff.
+title: AIARE Level 1 Course – BC Adventure Guides
+snippet: AIARE Level 1 Avalanche Safety Course-Backcountry Education Level 1 Part 1. 2019 Lectures Dec 2-3, 9-10, ... Women’s Program Lecture @ 3605 Airport Way South, Seattle, WA. ... WHAT HAPPENS IF BC ADVENTURE GUIDES HAS TO CANCEL MY TRIP?
+title: BC Adventure Guides - Loyal Heights - Seattle, WA - Yelp
+snippet: 1 review of BC Adventure Guides &quot;Purchased the Intro to Backcountry course and went out with a group on Saturday Feb 21 2011. The conditions could not have been better - tons of fresh snow, cold temps and not a cloud in the sky! Our head guide…
+title: BC Adventure Guides 7534 18th Ave NW Seattle, WA Hiking ...
+snippet: Get directions, reviews and information for BC Adventure Guides in Seattle, WA. BC Adventure Guides 7534 18th Ave NW Seattle WA 98117. 1 Reviews (206) 799-4092 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: BC Adventure Guides - Seattle, WA | Groupon
+snippet: If you&#39;re looking for a way to switch up your tired routine, Seattle&#39;s BC Adventure Guides is the place for you. These classes allow you to build endurance and learn great moves.Easy parking is accessible for BC Adventure Guides&#39; customers. BC Adventure Guides is obviously the place to be, so get your calendar out and make plans to visit it soon.
+title: Ski tour - Review of BC Adventure Guides, Deming, WA ...
+snippet: BC Adventure Guides: Ski tour - See 39 traveler reviews, 24 candid photos, and great deals for Deming, WA, at Tripadvisor.
+title: British Columbia Travel Information. BC Adventure Network
+snippet: British Columbia travel information. BC Adventure Network, the original British Columbia Travel Guide with hundreds of pages of BC visitor information.
+title: Very knowledgable guides with great teaching skills ...
+snippet: BC Adventure Guides: Very knowledgable guides with great teaching skills - See 39 traveler reviews, 24 candid photos, and great deals for Deming, WA, at Tripadvisor.
+title: Mt. Baker Glacier Tour - Review of BC Adventure Guides ...
+snippet: BC Adventure Guides: Mt. Baker Glacier Tour - See 39 traveler reviews, 24 candid photos, and great deals for Deming, WA, at Tripadvisor.
+title: BC Adventure Guides - Community | Facebook
+snippet: BC Adventure Guides, Seattle, WA. 433 likes · 90 talking about this. BCA Guides are passionate alpine travelers and trained professionals with over 20 years of training, knowledge and experience....
+
+REL: 2
+POI Name: Bhy Kracke Park
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Bhy Kracke Park - Parks | seattle.gov
+snippet: Featuring one of the best views in the city, this unusual park is neatly sandwiched into a steep residential area and makes ingenious use of a &quot;difficult&quot; space. From the sloping hillside you have a great view of downtown, Lake Union, the I-5 freeway and Capitol Hill. The park is furnished with benches, a bike rack and a drinking fountain in case you want to stay and gaze a while.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Bhy Kracke Park Improvements - Parks | seattle.gov
+snippet: Seattle Parks and Recreation and the contractor hired for the project will work to minimize impact to the neighborhood. Location. Bhy Kracke Park, 1215 5th Ave N, 98109. Budget. The Seattle Parks District Major Maintenance Funding provides $490,642 in funding for this project. Schedule.
+title: Bhy Kracke Park - Queen Anne - Seattle, WA - Yelp
+snippet: 51 reviews of Bhy Kracke Park &quot;The name, right? I don&#39;t even have to say anything. This park unfolds down an unassuming patch of hillside, nestled in between quiet houses, a path winding down to its shady green tiers. The views are stunning,…
+title: Bhy Kracke Park - 40 Photos &amp; 51 Reviews - Parks - 1215 ...
+snippet: (It&#39;s Bhy Kracke) The only thing that he had right is the &quot;billion-dollar views&quot;. Really, if you have out-of-towners on a tight budget,… Bhy Kracke Park - 40 Photos &amp; 51 Reviews - Parks - 1215 5th Ave N, Queen Anne, Seattle, WA - Phone Number - Yelp
+title: Bhy Kracke Park in Seattle | Park Preview
+snippet: Bhy Kracke Park doesn&#39;t have the wide and iconic view of Seattle and Elliott Bay that Kerry Park does, but it&#39;s a pretty good territorial view and you can see different stuff from here.
+title: Bhy Kracke Park - Beautiful Washington
+snippet: The city of Seattle has numerous small parks that are considered to be real gems. Bhy Kracke Park is one of these parks. This small 1.5 acre park is located on the eastern part of Queen Anne Hill. It offers great views of the Seattle’s skyline, the central part of the city, Lake Union, Capitol Hill, the Space Needle and the Cascades.
+title: Parks - Parks | seattle.gov
+snippet: Major Parks Closed This Weekend. Major parks are closed this weekend, April 11 &amp; 12, due to continued gatherings. We have cancelled all spring programming and all rentals and permitted events. All playgrounds, and picnic shelters, community centers, pools, golf courses and other facilities are closed.
+title: Seattle Parks and Recreation - Parks | seattle.gov
+snippet: Major Parks Closed This Weekend. Major parks are closed this weekend, April 11 &amp; 12, due to continued gatherings. We have cancelled all spring programming and all rentals and permitted events. All playgrounds, and picnic shelters, community centers, pools, golf courses and other facilities are closed.
+title: Bhy Kracke Park | This unusual park, neatly sandwiched ...
+snippet: Bhy Kracke Park This unusual park, neatly sandwiched into a steep residential area, makes ingenious use of &quot;difficult&quot; space. From the sloping hillside you have a great view of the central city, Lake Union, the freeway, and Capitol Hill, with benches, bike rack, and drinking fountain provided if you want to stay and gaze a while.
+
+REL: 2
+POI Name: Poo Poo Point - Chirico Trail
+POI City: Issaquah
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 2
+POI Name: Washington Park Arboretum
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Washington Park Arboretum | University of Washington ...
+snippet: Washington Park Arboretum; ... uwbgeduc@uw.edu. Donate. Explore your Arboretum. THE CITY OF SEATTLE WILL BE CLOSING THE ARBORETUM GROUNDS TO VISITORS FROM 11AM FRIDAY APRIL 10 UNTIL 5AM MONDAY APRIL 13 IN RESPONSE TO THE COVID-19 PANDEMIC. ... Covid19 Updates. The Arboretum is a welcome oasis on the shores of Lake Washington.
+title: Washington Park Arboretum - Wikipedia
+snippet: Washington Park is a public park in Seattle, Washington, United States, most of which is taken up by the Washington Park Arboretum, a joint project of the University of Washington, the Seattle Parks and Recreation, and the nonprofit Arboretum Foundation.Washington Park also includes a playfield and the Seattle Japanese Garden in its southwest corner. . The entire length of Arboretum Creek is ...
+title: Washington Park Arboretum (Seattle) - 2020 All You Need to ...
+snippet: Washington Park Arboretum has a large selection of trees and plants from around the world. The Magnolia walkway is a paved path the length of the park. The magnolia blooms are lovely around late March. There are lots of minor trails which give you the feeling of getting lost and …
+title: Visit | University of Washington Botanic Gardens
+snippet: Take the Washington Park Arboretum TRAM TOUR and visit six continents in an hour! BOOK NOW. This fully narrated tour guides you through Seattle’s outdoor living museum: Learn about plants from nearly 100 countries. Discover the Arboretum’s connection with horses. Learn which tree gave us the first type of painkiller.
+title: Washington Park Arboretum (Seattle) - Anmeldelser
+snippet: Washington Park Arboretum, Seattle: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Washington Park Arboretum i Seattle, Washington på Tripadvisor.
+title: Washington Park Arboretum ~ The Arboretum and Botanical ...
+snippet: Mission Statement. The Arboretum and Botanical Garden Committee (ABGC) advises the University of Washington, City of Seattle and The Arboretum Foundation on the management and stewardship of the Washington Park Arboretum for the benefit of current and future generations.
+title: Washington Park Playfield - Parks | seattle.gov
+snippet: Washington Park Playfield is located in the Washington Park Arboretum. It has fields for soccer, baseball, and softball and includes lighting and bleachers. ... Seattle Parks and Recreation promotes healthy people, a healthy environment, and strong communities.
+title: The Arboretum Foundation - preserving a northwest treasure
+snippet: WELCOME TO THE ARBORETUM FOUNDATION Supporting Washington Park Arboretum, Seattle, for more than 80 years. Members, donors, visitors, and volunteers have helped make the Washington Park Arboretum a Northwest treasure since its founding in 1934.
+title: Restaurants Near Washington Park Arboretum, Seattle
+snippet: Restaurants near Washington Park Arboretum, Seattle on Tripadvisor: Find traveler reviews and candid photos of dining near Washington Park Arboretum in Seattle, Washington.
+title: Washington Park Arboretum – Friends of Seattle&#39;s Olmsted Parks
+snippet: Washington Park is located between the Montlake and Madison Park neighborhoods at 2300 Arboretum Drive E, 98112. It is 230 acres. In their 1909 report, the board of park commissioners gave a picturesque account of this site’s natural features, reporting that the park “occupies a huge ravine and is densely covered with tall trees and undergrowth …
+
+REL: 2
+POI Name: Blue Mountains Trails
+POI City: Dayton
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 2
+POI Name: I-90 Trail
+POI City: King
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 2
+POI Name: Solstice Park
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Solstice Park - Parks | seattle.gov
+snippet: Six tennis courts, a short hiking trail to the “sundial” for marking the equinox and solstice, and a community garden and p-patch make this park special. It contains a water fountain and benches to sit on, which provide fantastic views of the Sound and the Olympics.
+title: Solstice Park - Fauntleroy - Seattle, WA - Yelp
+snippet: 3 reviews of Solstice Park &quot;I just discovered this place when looking at Google Maps so thought I&#39;d walk there from my house. Quite a nice little discovery. It is more of an outlook/overview of Lincoln Park, the neighborhood and the Sound, but…
+title: Solstice Park, West Seattle - Alice&#39;s Astro Info
+snippet: The solstice is on its way! Although there may be celebrations and fun all over Seattle, there is at least one place where you can actually measure the astronomical significance of the longest day of the year: Solstice Park in West Seattle.
+title: Solstice Park Seattle, WA Tennis Programs | RecTennis
+snippet: Solstice Park in Seattle, WA has 6 tennis courts and is a popular venue for our Summer Tennis Camp, Serve Rally Play and Friends + Family Tennis programs. Skip to content. RecTennis summer programming is expected to proceed as planned beginning as early as June 1st. Click for details.
+title: Solstice Park, Seattle | Ticket Price | Timings | Address ...
+snippet: Do you want to know the entry ticket price for Solstice Park? Opening &amp; closing timings, parking options, restaurants nearby or what to see on your visit to Solstice Park? Click Now to check the details!
+title: Solstice Park - Seattle | Trails.com
+snippet: Solstice Park is a walking adventure located in or near Seattle, WA. Enjoy &amp; research Seattle, Washington with trail guides, topo maps, photos, reviews &amp; GPS routes on Trails.com.
+title: More Summer Solstice Parade in Seattle - YouTube
+snippet: More paint. More bums. More of everything and maybe, just a bit too much of somethings!
+title: Fremont, Seattle - Wikipedia
+snippet: Fremont is a neighborhood in Seattle, Washington, United States.Originally a separate city, it was annexed to Seattle in 1891, and is named after Fremont, Nebraska, the hometown of two of its founders Luther H. Griffith and Edward Blewett.
+title: Solstice Parade 2017 - Fairly Odd Marchers - YouTube
+snippet: Solstice Parade 2017 - Fairly Odd Marchers #creakygeek. Skip navigation ... Seattle solstice parade 2019, ... Seattle Summer Solstice 2014 (BEST HD video) ...
+title: Solstice - Neighborhoods | seattle.gov
+snippet: Solstice P-Patch is on Lincoln Park property and includes a hiking trail through the gardens leading up the hill to Solstice Park, West Seattle. Gardening began in 2003. Gardeners later went on to build a compost bin, tool shed, perennial garden, raspberry patch, blueberry patch, rhubarb patch, and an extensive orchard of apples, ...
+
+REL: 2
+POI Name: Backyard Backpacking
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Backyard Backpacking LLC - Home | Facebook
+snippet: Backyard Backpacking LLC, Seattle. 73 likes. We&#39;re changing the way the world exercises and appreciates the outdoors through an enjoyable and educational back country experience.
+title: Backyard Backpacking - 2019 All You Need to Know BEFORE ...
+snippet: 1 review of Backyard Backpacking &quot;This was my first backpacking trip and BYBP took us on an outing to Dorthy Lake, one of the many options they presented to match our skills and interests. Our group size was 6 in total (with the 2 guides). The…
+title: Backyard Backpacking in Seattle | Backyard Backpacking ...
+snippet: Find Backyard Backpacking in Seattle with Address, Phone number from Yahoo US Local. Includes Backyard Backpacking Reviews, maps &amp; directions to Backyard Backpacking in Seattle and more from Yahoo US Local
+title: Backyard Backpacking LLC 5002 Green Lake Way N, Seattle ...
+snippet: Taking you from car camper to backpacking guru. General Info We provide guided backpacking trips in Seattle. Our goal is to increase access to the outdoors for everyone by offering guided backpacking trip at a lower price and for one night.
+title: Backyard Backpacking 5002 Green Lake Way N Seattle, WA ...
+snippet: Get directions, reviews and information for Backyard Backpacking in Seattle, WA. Backyard Backpacking 5002 Green Lake Way N Seattle WA 98103. 1 Reviews (612) 272-1151 Website. Menu &amp; Reservations ... This was my first backpacking trip and BYBP took us on an outing to Dorthy Lake, ...
+title: Seattle&#39;s Top 10 Backpacking Trips - Backpacker
+snippet: Drive from Seattle: 4 hours 30 minutes. This is an incredible weekend backpacking trip that offers a stark contrast of environments and a moderate climb of 4,700 feet. The trip starts with very little elevation gain for the first dozen miles or so through the Hoh River Valley--quite possibly the greenest and lushest place I&#39;ve ever been.
+title: Backpacking hiking trips near Seattle for beautiful ...
+snippet: 8 essential backpacking trips near Seattle. ... Mount Rainier’s Wonderland Trail is another world-class backpacking destination right in our own backyard.
+title: Backyard Backpacking, Seattle, (612) 272-1151 - Company ...
+snippet: Public records on Backyard Backpacking located at 5002 Green Lake Way N, phone 6122721151. Learn about key people, get contact information
+title: Seattle Hikes and Backpacking Trails | Explore Seattle ...
+snippet: Review, plan and study Seattle hikes by the Backpacker editors. Includes trail notes, maps, GPS coordinates, photos and user comments for each trail.
+title: Backyard Backpacking LLC in Seattle, WA | Company Info ...
+snippet: Backyard Backpacking LLC is a Washington Wa Limited-Liability Company filed on December 27, 2016. The company&#39;s filing status is listed as Delinquent and its File Number is 604071081. The Registered Agent on file for this company is Ryan Nuechterlein and is located at 5002 Green Lake Way N, Seattle, WA 98103.
+
+REL: 2
+POI Name: Grand Forest
+POI City: Bainbridge Island
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+
+
+REL: 2
+POI Name: Mineral Springs Park
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, Golf, 
+Snippets:
+title: Mineral Springs Park - Parks | seattle.gov
+snippet: Mineral Springs Park, along the southern edge of Northgate Way between N 105th and N 107th, occupies land formerly occupied by homes and small farms. Many of the remaining landscaping features suggest the park&#39;s history, such as stone walls, steps, small ponds, and exotic plants.
+title: Friends Of Mineral Springs Park - Home | Facebook
+snippet: 10548 5th Ave NE, Seattle, WA 98125. Join EarthCorps and the City of Seattle&#39;s Parks Commons Program to learn about the ecology and history of Mineral Springs Park! Best known for its well-loved disc golf course and integrated &quot;art walk&quot;, this neighborhood park is also home to native habitat right in the heart of North Seattle!
+title: Licton Springs, Seattle - Wikipedia
+snippet: Licton Springs or North College Park is a neighborhood in the informal Northgate district of North Seattle.It is bounded by Interstate 5 to the east, beyond which is Maple Leaf neighborhood and the Northgate Mall; Aurora Avenue N to the west, beyond which is Greenwood; N 85th Street to the south, beyond which is Green Lake, and N Northgate Way to the north, beyond which is Haller Lake.
+title: Mineral Springs Park 1500 N 105th St Seattle, WA Parks ...
+snippet: Get directions, reviews and information for Mineral Springs Park in Seattle, WA. Mineral Springs Park 1500 N 105th St Seattle WA 98133. 10 Reviews (206) 684-4075 Website. Menu &amp; Reservations ... Community volunteers and the Seattle Parks Department have worked tirelessly to clean this park up,... Read more. 06/01/2015 Conor W.
+title: Mineral Springs Park in Seattle, WA - Disc Golf Course Review
+snippet: View and review over 8000 Disc Golf Courses, Track courses you&#39;ve played and want to play, Track your scores, Organize and trade your discs, Connect with other disc golfers, and talk disc golf in our forums.
+title: Licton Springs Park - Parks | seattle.gov
+snippet: The springs site remained a picnic area until 1935, when E. A. Jensen bought the site and built a spa. Then thousands flocked to the springs to take the waters and dunk in the thermal baths. In 1960 Seattle voters approved the site as a park, and the City bought the springs in 1961.Licton Springs still flows through the park.
+title: Friends Of Mineral Springs Park - Posts | Facebook
+snippet: Join EarthCorps and the City of Seattle&#39;s Parks Commons Program to learn about the ecology and history of Mineral Springs Park! Best known for its well-loved disc golf course and integrated &quot;art walk&quot;, this neighborhood park is also home to native habitat right in the heart of North Seattle!
+title: Parks - Parks | seattle.gov
+snippet: Mineral Springs Park, along the southern edge of Northgate Way between N 105th and N 107th, occupies land formerly occupied by homes and small farms. [...] View Park . ... Seattle Parks and Recreation promotes healthy people, a healthy environment, and strong communities.
+title: Mineral Springs Park - Seattle, WA - The Stranger
+snippet: Mineral Springs Park, Seattle, WA, Park. We need your help. The coronavirus crisis in Seattle is a major threat to The Stranger&#39;s ability to keep the city informed.
+title: Mineral Springs Park in Seattle, WA - Disc Golf Course Review
+snippet: Mineral Springs Park Uploaded By: Adrenalinedan Hole #8 (Taken 9/2011) 3 / 233ft. 3 ... Being the only course in Seattle proper, ... Mineral Springs is really close to being a cool course, but any more than a few groups on it make it difficult to fully enjoy. 3 of 4 people found this review helpful.
+
+REL: 2
+POI Name: Rattlesnake Mountain
+POI City: Issaquah
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 2
+POI Name: Cross Kirkland Corridor
+POI City: Kirkland
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 2
+POI Name: Charles Richey Sr Viewpoint
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Charles Richey Sr Viewpoint - Parks | seattle.gov
+snippet: Richey Viewpoint runs parallel to Beach Drive SW roughly from Alki Point to 63rd Ave. SW, and includes Constellation Park and an area of Marine Reserve at the end of 63rd Ave. SW. There is a hand-carry boat ramp near the foot of the western stairway.
+title: Charles Richey Sr Viewpoint - Seattle, Washington - Park ...
+snippet: 50 Seattle places in 50 days. # 50sea50 #32 - Charles Richey Sr viewpoint on Alki Beach. Day #3 of my posts from West Seattle comes from the northwestern tip of the neighborhood. The tide was super far out when I visited allowing time to explore the tide pools in all of their natural wonder.
+title: Charles Richey Viewpoint, Seattle – The Whale Trail
+snippet: This viewpoint is named for Charles Richey Sr., who operated Richey’s Alki Community Drug Store in the early to mid-1900s. Located just south of Alki Point, this is one of the best spots in Seattle to see whales and other marine life.
+title: Charles Richey Sr Viewpoint - Alki - Seattle, WA, United ...
+snippet: 11 reviews of Charles Richey Sr Viewpoint &quot;A nice alternative beach/viewpoint for Alki beach. If you have a hard time finding a parking spot at Alki, you might want to try your luck here. Direction is easy. Just kept on driving and you will see…
+title: Photos for Charles Richey Sr Viewpoint - Yelp
+snippet: Photos at Charles Richey Sr Viewpoint - Seattle, WA.
+title: Evening Beach Walk at Charles Richey Sr. Viewpoint in ...
+snippet: Explore the creatures that hang out on the West Seattle beach at low tide with professional naturalists.Evening Beach Walk,Charles Richey Sr. Viewpoint, Seattle, WA, Fri Jan 18, 7 pm
+title: Charles Richey Sr Viewpoint Reviews - Seattle, Washington ...
+snippet: Find reviews and tips from people like you on Charles Richey Sr Viewpoint Seattle, Washington. &#39;If you&#39;re here during summer, you&#39;ll find that Alki Bea ... Charles Richey Sr Viewpoint. 10.0 1 review. Outdoors, Beaches and Watersports, Scenic Lookout, ...
+title: Parks - Parks | seattle.gov
+snippet: Seattle Parks and Recreation parks and greenspaces. Refine Search Results by Feature Filter results by up to 3 features The refined results will contain at least 1 of the selected features.
+title: Charles A. Richey Sr. Viewpoint - Go Northwest! A Travel Guide
+snippet: Charles Richey Viewpoint is part of a chain of public access spaces that skirt the West Seattle Peninsular along the water&#39;s edge You might also like to visit the West Seattle Lighthouse, and Alki Beach Park to the northeast.
+title: Charles Richey Sr. Viewpoint | Year of Seattle Parks
+snippet: West Seattle residents and visitors are incredibly lucky to have so much public waterfront access. Most people don’t make it past Alki Beach, but there are many other spots to take in views of the Puget Sound, islands and Olympics if you follow the shoreline south. Charles Richey Sr. Viewpoint is one of those spots.
+
+REL: 2
+POI Name: Dragonfish Asian Cafe
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Japanese, Asian Fusion, 
+Snippets:
+title: Dragonfish Cafe
+snippet: Dragonfish Asian Café. Locally owned by the Kikuchi family since 1997. Recently remodeled, chic and inviting Dragonfish Asian Cafe invites you to enjoy the flavors of the far east in a warm, friendly and comfortable setting.
+title: Lunch &amp; Dinner | Dragonfish Cafe - Dragonfish Asian Cafe
+snippet: Lunch &amp; Dinner. Contact Us. Have questions? Feel free to contact us today! Visit us at our downtown Seattle location. Dragonfish Cafe is located in the Paramount Hotel in downtown Seattle. We are located close to many theaters, the Convention Center, shopping areas, and several major sports arenas.
+title: Dragonfish Asian Cafe Restaurant - Seattle, WA | OpenTable
+snippet: Book now at Dragonfish Asian Cafe in Seattle, WA. Explore menu, see photos and read 551 reviews: &quot;We didn&#39;t end up eating, we left after 10 minutes of being ignored and taking in the site of the restaurant.
+title: Dragonfish Asian Cafe, Seattle - Downtown - Menu, Prices ...
+snippet: Order food online at Dragonfish Asian Cafe, Seattle with Tripadvisor: See 753 unbiased reviews of Dragonfish Asian Cafe, ranked #212 on Tripadvisor among 4,012 restaurants in Seattle.
+title: DRAGONFISH ASIAN CAFE, Seattle - Downtown - Updated 2020 ...
+snippet: Reserve a table at Dragonfish Asian Cafe, Seattle on Tripadvisor: See 753 unbiased reviews of Dragonfish Asian Cafe, rated 4 of 5 on Tripadvisor and ranked #213 of 4,004 restaurants in Seattle.
+title: Dragonfish Asian Cafe - Downtown - Seattle, WA
+snippet: 912 reviews of Dragonfish Asian Cafe &quot;We got buzzed and brave on the streets of downtown Seattle and instead of using Yelp to find a restaurant, we decided to ask two random people in front of a bar for a recommendation for a sushi place. We took…
+title: Dragonfish Asian Cafe - TripAdvisor
+snippet: Dragonfish Asian Cafe: Excellent breakfast and dinner options - See 746 traveler reviews, 84 candid photos, and great deals for Seattle, WA, at Tripadvisor.
+title: Dragonfish Asian Cafe - Downtown - Seattle, WA
+snippet: 914 reviews of Dragonfish Asian Cafe &quot;We walked down from the Paramount. We love this place. And it&#39;s home sushi yum. We were so hungry we didn&#39;t even take pix ! I had Eel roll and Poke roll, Boy had Pad Thai. Also two Misos to start. It went down…
+title: Dragonfish Asian Cafe Seattle, WA 98101 - Menu, 194 ...
+snippet: Latest reviews, photos and ??ratings for Dragonfish Asian Cafe at 722 Pine St in Seattle - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Dragonfish Asian Cafe - Home - Seattle, Washington - Menu ...
+snippet: Dragonfish Asian Cafe, Seattle, Washington. 2.4K likes. One of Seattle&#39;s favorite spots to enjoy the exotic flavors of Asia. Locally owned by the Kikuchi family. Open daily from 7am for breakfast...
+
+REL: 2
+POI Name: Goldmyer Hotsprings
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Goldmyer Hot Springs | Home
+snippet: Goldmyer Hot Springs is a gem of the wilderness nestled in the foothills of the Cascade Mountains, roughly 25 miles east of North Bend, WA. Venturing on the 4.5 mile hike from the trailhead to the 20 acre wilderness preserve is a backcountry experience where guests must be self-supported and able to pack in (and out) all necessary supplies.
+title: Goldmyer Hot Springs (North Bend) - 2020 All You Need to ...
+snippet: The Beginner – Advanced days are designated for new or casual adventurer. This is a great option for anyone who is curious about mountain biking or interested in learning basic mountain biking skills or working on developing enhanced biking skills.
+title: Goldmyer Hot Springs | Visiting Goldmyer
+snippet: Visiting Goldmyer Reservation Instructions IMPORTANT: Before making a reservation request, please read the following bullets and linked pages to familiarize yourself with the unique challenges required to visit Goldmyer Hot Springs.... The only way to guarantee access to Goldmyer is by confirming a reservation over the phone with Seattle office staff. ...
+title: Goldmyer Hot Springs | FAQ
+snippet: Goldmyer is usually, but not always, a clothing optional hot spring. Assured no nudity time at the hot spring should be arranged ahead of your visit when making a reservation. If you&#39;re new to hot springs, the following article is a helpful resource to brush up on back country hot springs etiquette. Why don&#39;t you allow dogs and pets?
+title: Goldmyer Hot Springs | Calendar
+snippet: Access to Goldmyer property is limited to 20 people per day. Monitor the Access Report for current conditions as they are constantly changing. The springs are typically closed for cleaning twice a week. Attempting to visit without a reservation is not recommended. Reservation Calendar
+title: Goldmyer Hot Springs | Directions
+snippet: An additional 4.5 mile hike (each way) on the road past the gate and across a footbridge over the Middle Fork River brings visitors to Goldmyer Hot Springs. Alternatively, visitors can also hike along the Middle Fork Trail, which is slightly longer and requires several un-bridged stream crossings. The road past the gate is always open to bikes.
+title: 8 Top-Rated Hot Springs in Washington | PlanetWare
+snippet: Nestled amongst the ancient forests of the Alpine Lakes Wilderness, just 60 miles east of Seattle, Goldmyer Hot Springs is one of the best-kept geothermal gems in the entire state of Washington.You have to work to enjoy Goldmyer Hot Springs though, and the 15-mile drive on a non-maintained, unpaved Forest Service road, plus the 4.5-mile hike into the wilderness to access the springs, helps to ...
+title: Goldmyer Hotsprings 202 N 85th St Ste 106 Seattle, WA Hot ...
+snippet: Get directions, reviews and information for Goldmyer Hotsprings in Seattle, WA. Goldmyer Hotsprings 202 N 85th St Ste 106 Seattle WA 98103. 15 Reviews (206) 789-5631 Website. Menu &amp; Reservations ... Goldmyer is a non-profit that runs/maintains the hotsprings and only allows 20 people per day to enjoy.
+title: 5 Amazing Hot Springs in Washington State | Seattle Refined
+snippet: Goldmyer Hot Springs . Golymyer Hot Springs require a bit more effort to access but 75 mile drive (15 miles of which are on an non-maintained, unpaved Forest Service Road) from Seattle plus 5 mile hike are worth it when you spy the springs nestled in old-growth forest and nearby waterfalls.
+title: 7 Best Hot Springs in the PNW | Seattle Magazine
+snippet: Goldmyer Hot Springs Here you can steep yourself in lush wilderness, waterfalls and rock pools with temperatures ranging from 104 to 111 degrees, but you’ll have to work for it. Drive 60 miles east of Seattle to the foothills of the North Cascades, then trek another 15 miles on an unpaved U.S. Forest Service road to the trailhead.
+
+REL: 2
+POI Name: Locust Cider & Brewing Market Place
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Cideries, Brewpubs, Pizza, 
+Snippets:
+title: Seattle-Market Place - Locust Cider &amp; Brewing Company
+snippet: NEW taproom located in the Market Place building just a block north of Pike Place Market in the newly opened Market Hall serving hard cider, craft beer, wine in cans and an extended food menu that includes inventive flatbread pizzas and savory snacks. Oversized field games (giant Jenga and Connect 4, cornhole) are a focal point in the space for both young and old to enjoy and when weather ...
+title: Welcome to Locust Cider &amp; Brewing Co. - Locust Cider ...
+snippet: We specialize in modern ciders made with all locally sourced Pacific Northwest ingredients, adding an innovative spin on classic cidermaking methods to bring out the best in the everyday apple.
+title: Seattle-Ballard - Locust Cider &amp; Brewing Company
+snippet: Taproom located north of Seattle in the neighborhood of Ballard offering hard cider, craft beer, wine in cans and an extended food menu that includes inventive flatbread pizzas and savory snacks. Indoor and outdoor seating (when the weather cooperates) and retro video games for young and old.
+title: Tacoma - Locust Cider &amp; Brewing Company
+snippet: Taproom located on 6th Ave in Tacoma offering hard cider, craft beer, wine in cans as well as an extended food menu that includes inventive flatbread pizzas and savory snacks. An array of retro video games are available in the back for entertaining the big and little kids.
+title: Vancouver - Locust Cider &amp; Brewing Company
+snippet: Our Taprooms Washington Seattle-Alki Seattle-Ballard Seattle-Market Place Seattle-Post Alley Spokane Tacoma Vancouver Walla Walla Woodinville Texas Fort Worth Colorado Boulder Taproom List Washington Seattle-Alki Seattle-Ballard Seattle ... just a short distance from the waterfront and across the bridge from Portland offering hard cider, ...
+title: Photos for Locust Cider &amp; Brewing Market Place - Yelp
+snippet: Photo 4 of 11 for Locust Cider &amp; Brewing Market Place - Seattle, WA
+title: Locust Cider &amp; Brewing Market Place 2003 Western Ave ...
+snippet: Get directions, reviews and information for Locust Cider &amp; Brewing Market Place in Seattle, WA. Locust Cider &amp; Brewing Market Place 2003 Western Ave Seattle WA 98121. 1 Reviews (206) 441-7714. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Locust Cider &amp; Brewing Co. Market Hall - Seattle, WA - The ...
+snippet: Locust Cider &amp; Brewing Co. Market Hall, Seattle, WA, Bar, Tap House
+title: Locust Cider and Brewing added a new... - Locust Cider and ...
+snippet: Locust Cider and Brewing added a new photo — at Pike Place Market, Seattle, U.S.A.
+title: Seattle Bar and Restaurant Gift Cards | Pay Forward Project
+snippet: Get a gift card for a Seattle based restaurant, bar or brewery. Pay it forward by helping local businesses through difficult times. The Pay Forward project is a curated list of all restaurants, bars, and breweries offering gift cards in Seattle.
+
+REL: 2
+POI Name: Seward Park
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+title: Seward Park - Parks | seattle.gov
+snippet: Within the Seattle city limits, Seward Park boasts 300 acres of beautiful forest land, home to eagles&#39; nests, old growth forest, a 2.4 mile bike and walking path, an amphitheater, a native plant garden, an art studio, miles of hiking trails, shoreline, beaches and more.
+title: Seward Park (Seattle) - 2020 All You Need to Know BEFORE ...
+snippet: Seward Park located at the south end of Lake Washington is an ideal family outing spot. It offers areas for picnics, just lying on the beach, the great children’s park area or fishing. But for me the grand attraction is the walking, jogging, and bike riding trail known as the …
+title: Seward Park (Seattle) - Wikipedia
+snippet: Seward Park is a municipal park in Seattle, Washington, United States.Located in the city neighborhood of the same name, it covers 300 acres (120 ha; 0.47 sq mi).The park occupies all of Bailey Peninsula, a forested peninsula that juts into Lake Washington.It contains one of the last surviving tracts of old-growth forest within the city of Seattle. . The park is named for U.S. Secretary of ...
+title: Seward Park, Seattle - Wikipedia
+snippet: Seward Park is a neighborhood in southeast Seattle, Washington just west of the park of the same name.It is part of Seattle&#39;s South End.The park itself occupies all of Bailey Peninsula, which juts into Lake Washington.The attached map is accurate, broadly speaking, in capturing &quot;Greater Seward Park,&quot; though real estate sites, such as Zillow, will refer to the part of the neighborhood
+title: Seward Park-Seattle | Expedia.no
+snippet: Planlegger du å besøke Seward Park-Seattle? Finn fantastiske tilbud her. Bestill reisen din med hotell, fly og leiebil her, og spar stort!
+title: Seward Park Eruv
+snippet: The Eruv Restoration Project was a huge success. Thanks to the amazing generosity of the Seattle Community, we raised over $72,000. It was so inspiring seeing everyone come together to fund this essential element of Jewish life for the Seward Park community.
+title: Seward Park (Seattle, WA) - Anmeldelser - Tripadvisor
+snippet: Seward Park som ligger i sørenden av Lake Washington, er et ideelt sted for familier. Det tilbyr områder for piknik, bare ligge på stranden, det flotte barneparkområdet eller fiske. Men for meg er den store attraksjonen gang-, jogging- og sykkelturstien kjent som Seward Park …
+title: Seward Park (Seattle) - 2020 All You Need to Know BEFORE ...
+snippet: Seward Park located at the south end of Lake Washington is an ideal family outing spot. It offers areas for picnics, just lying on the beach, the great children’s park area or fishing.
+title: THE 10 BEST Restaurants Near Seward Park in Seattle, WA ...
+snippet: Restaurants near Seward Park, Seattle on Tripadvisor: Find traveler reviews and candid photos of dining near Seward Park in Seattle, Washington.
+title: Seward Park, Seattle WA - Neighborhood Guide - findwell
+snippet: Between Seward Park the park and Seward Park the neighborhood, there is so much to do here. The park has a 2.5-mile paved trail that runs the border of the peninsula, as well as regular old hiking trails that criss-cross through the middle. There are swimming areas, boat launches, playgrounds, and an environmental learning center.
+
+REL: 2
+POI Name: Kerry Park
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, Playgrounds, 
+Snippets:
+title: Kerry Park (Seattle) - 2020 All You Need to Know BEFORE ...
+snippet: if you&#39;ve ever seen Seattle as a backdrop to a new story, the most likely spot other than a corporate backgrounds is Kerry Park. That&#39;s where Univision shoots from for the Mexican audience and I&#39;ve seen CNN and Aljazeera there as well as the usual local suspects: KIRO (CBS), …
+title: Kerry Park (Seattle) - Wikipedia
+snippet: Kerry Park is a small public park and viewpoint on the south slope of Queen Anne Hill in Seattle, Washington, United States.It overlooks Downtown Seattle and is located along West Highland Drive between 2nd Avenue West and 3rd Avenue West. The park&#39;s view is considered to be the most iconic views of the city skyline, with the Space Needle prominent at the center, Elliott Bay to the west, and .
+title: Kerry Park (Franklin Place) - Parks | seattle.gov
+snippet: An unsurpassed view of Elliott Bay and the Central City, with an occasional backdrop of Mount Rainier, draws camera buffs to this spot. At sunset they often line the wall just as the city and the sound are beginning to glow with lights. At night it becomes almost a fantasy scene, with brightly lit ferries gliding across the water and the Space Needle shining from its 500-foot pedestal.
+title: Kerry Park (Seattle) - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Also die Aussicht auf Seattle lohnt auf jeden Fall den Besuch dieses kleines Parks. Natürlich ist man hier nicht alleine und für einen längeren Aufenthalt würden wir nicht diesen Park wählen, aber er ist gut erreichbar und wir haben den kurzen Aufenthalt sehr genossen.
+title: Kerry Park-Seattle | Expedia.no
+snippet: Kerry-parken har også en egen sjarm. På vei gjennom denne 4 mål store parken går folk på tur med hunden eller triller rundt på barnevogn. Det er enkle forhold i parken, den inneholder en lekeplass, benker og den moderne skulpturen Changing Form. Men de fleste som besøker parken, er her for å nyte panoramautsikten.
+title: Kerry Park (Seattle, WA) - Anmeldelser - Tripadvisor
+snippet: Kerry Park, Seattle: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Kerry Park i Seattle, Washington på Tripadvisor.
+title: THE 10 CLOSEST Hotels to Kerry Park, Seattle - Tripadvisor ...
+snippet: Hotels near Kerry Park, Seattle on Tripadvisor: Find 36,576 traveler reviews, 50,060 candid photos, and prices for 30 hotels near Kerry Park in Seattle, WA.
+title: Kerry Park: The Complete Guide - TripSavvy
+snippet: Kerry Park is named for Albert Kerry, a Northwest lumberman who was also known for his involvement in the community. He served as vice president of the Alaska-Yukon-Pacific Exposition in 1909 and had a hand in the financing and direction of the building of the Olympic Hotel in downtown Seattle in 1924.
+title: Seattle Parks and Recreation - Parks | seattle.gov
+snippet: Welcome to Seattle Parks and Recreation&#39;s web page. Explore more! Keep your ears open for more exciting opportunities for you, your friends and family!
+title: Kerry Park - Seattle Real Estate - 2 Homes For Sale | Zillow
+snippet: Zillow has 2 homes for sale in Seattle WA matching Kerry Park. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place.
+
+REL: 1
+POI Name: Queen Anne Community Center
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Recreation Centers, Community Centers, 
+Snippets:
+title: Queen Anne Community Center - Parks | seattle.gov
+snippet: About. On the top of Queen Anne Hill, Queen Anne Community Center is a hub of fun, learning, recreation and leisure for people of all ages. This is a place that fosters a true sense of community as many neighborhood residents are involved in the center as volunteers, coaches, instructors and participants.
+title: Queen Anne Community Center - Home | Facebook
+snippet: Queen Anne Community Center, Seattle, Washington. 1K likes. Located in the heart of Queen Anne, Queen Anne Community Center offers a wide array of programs and special events. View the City’s...
+title: Camps - Parks | seattle.gov
+snippet: Come experience the amazing summer opportunities in your neighborhood community center and parks for all youth ages 3-17! Options include Summer Day Camps from 7am-6pm, Monday to Friday, for ages 5-12, preschool camps and a host of other camps including Sports &amp; Fitness, Performing Arts, Science and much, much more! Seattle Parks and Recreation is committed to providing relevant and responsive
+title: Centers - Parks | seattle.gov
+snippet: Major Parks Closed This Weekend. Major parks are closed this weekend, April 11 &amp; 12, due to continued gatherings. We have cancelled all spring programming and all rentals and permitted events. All playgrounds, and picnic shelters, community centers, pools, golf courses and other facilities are closed.
+title: Queen Anne Pool Schedule - Parks | seattle.gov
+snippet: Keep Your Distance Outside! Closure Info: Following State, County and City public health measures, we have canceled all programming, rentals, and permitted events, and closed all playgrounds, and picnic shelters, community centers, pools, golf courses and other facilities.Childcare is temporarily suspended. The hygiene shower program will remain open for now except for Miller Community Center ...
+title: Welcome to Queen Anne Community Council, a Seattle ...
+snippet: Welcome to Queen Anne Community Council, a Seattle advocacy group that serves anyone who works, lives, or goes to school on Queen Anne, Seattle, including Lower Queen Anne and the northern slope. Get involved here or subscribe to attend meetings and learn more about our board members, committees, &amp; more.
+title: Community Centers: Rentals - Parks | seattle.gov
+snippet: The Seattle Parks and Recreation community centers are excellent places for meetings, parties, and group gatherings. We have over two dozen locations across the city. Please contact the community center you&#39;re interested in renting for details and availability.
+title: Queen Anne Retirement Community - Home | Facebook
+snippet: Queen Anne Retirement Community. 86 likes · 22 talking about this · 47 were here. Located in one of Seattle’s most desirable neighborhoods, Queen Anne Retirement Community offers both Independent and...
+title: Queen Anne Healthcare - Skilled Nursing and Rehabilitation
+snippet: Queen Anne Healthcare skilled nursing staff, comprised of registered and practical nurses, as well as occupational, speech, and physical therapists, help restore seniors’ lives after physical trauma, such as a stroke, heart attack, broken hip, or knee replacement.
+title: Queen Anne, Seattle - Wikipedia
+snippet: Queen Anne Hill is an affluent neighborhood and geographic feature in Seattle, northwest of downtown.The neighborhood sits on the highest named hill in the city, with a maximum elevation of 456 feet (139 m). It covers an area of 7.3 square kilometers (2.8 sq mi), and has a population of about 28,000.
+
+REL: 1
+POI Name: Discovery Park
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, Beaches, 
+Snippets:
+title: Discovery Park (Seattle) - 2020 All You Need to Know ...
+snippet: Natural park for beautiful walks within easy reach of Seattle If you walk to this park the contrast from the suburban neighborhood of Magnolia to stepping into a lush green forest is striking. The loop trail is very pleasant.
+title: Discovery Park - Parks | seattle.gov
+snippet: Discovery Park is a 534 acre natural area park operated by the Seattle Parks and Recreation. It is the largest city park in Seattle, and occupies most of the former Fort Lawton site. The site is one of breathtaking majesty. Situated on Magnolia Bluff overlooking Puget Sound, Discovery Park offers spectacular view of both the Cascade and the Olympic Mountain ranges.
+title: Discovery Park (Seattle) - Wikipedia
+snippet: Discovery Park is a 534-acre (2.16 km 2) park on the shores of Puget Sound in the Magnolia neighborhood of Seattle, Washington. It is the city&#39;s largest public park and contains 11.81 miles (19.01 km) of walking trails. United Indians of All Tribes&#39; Daybreak Star Cultural Center is within the park&#39;s boundaries.
+title: Seattle&#39;s Discovery Park: The Complete Guide
+snippet: Discovery Park is located at 3801 Discovery Park Boulevard in Seattle’s Magnolia Neighborhood. There are entrances to the park along W Emerson Street and 36th Avenue W. Park at many points throughout the park, but often the lots closer to the beaches don’t have as many spots.
+title: Discovery Park Environmental Learning ... - Seattle.gov Home
+snippet: Discovery Park is a 534 acre natural area park operated by the Seattle Parks and Recreation. It is the largest city park in Seattle, and occupies most of the former Fort Lawton site.
+title: Seattle closes parking lots at 8 popular parks to keep ...
+snippet: SEATTLE -- The City of Seattle is closing the parking lots at eight popular parks to discourage people from gathering and hanging out in groups, which is now a violation of Gov. Jay Inslee&#39;s stay ...
+title: Discovery Park (Seattle, WA) - Anmeldelser - Tripadvisor
+snippet: Discovery Park, Seattle: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Discovery Park i Seattle, Washington på Tripadvisor.
+title: Discovery Park | Seattle, USA Attractions - Lonely Planet
+snippet: For a map of the park’s trail and road system, stop by the Discovery Park Environmental Learning Center near the Government Way entrance. A popular trail leads to South Beach, where an old lighthouse adds to the scenery. The full Loop Trail is 2.8 miles. The park is located 5 miles northwest of downtown Seattle in the neighborhood of Magnolia.
+title: Discovery Park (Seattle) - 2020 All You Need to Know ...
+snippet: Discovery Park consists of over 500 acres of land with everything from paved to dirt trails through forests and beachfront. It has everything from flat landscape walking to very aerobic hill climbs. You would not believe that you are within the City of Seattle.
+title: Discovery Park (Seattle) - All You Need to Know BEFORE You ...
+snippet: I&#39;m so glad out weekend in Seattle included a trip to Discovery Park. Our Lyft dropped us off by the visitors center and we started on the loop trail down to the lighthouse. It was a beautiful and easy walk to the shore full of green moss and tall trees. Then we got a Lyft that …
+
+REL: 1
+POI Name: Hiking Trails
+POI City: Austin
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Best Trails near Austin, Texas | AllTrails
+snippet: Looking for a great trail near Austin, Texas? AllTrails has 127 great hiking trails, running trails, mountain biking trails and more, with hand-curated trail maps and driving directions as well as detailed reviews and photos from hikers, campers, and nature lovers like you. If you&#39;re looking for the best trails around McKinney Falls State Park or Bastrop State Park, we&#39;ve got you covered.
+title: THE 10 BEST Austin Hiking Trails (with Photos) - Tripadvisor
+snippet: Top Austin Hiking Trails: See reviews and photos of hiking trails in Austin, Texas on Tripadvisor.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Best Hiking Trails near Austin, Texas | Trails.com
+snippet: Austin has 62 hiking trails. These trails range from 0.1 to 12.2 miles in length. The most popular trails are Three Falls Hike at Barton Creek Greenbelt, Wild Basin Wilderness Preserve and Inga VanNynatten Memorial Trail at Lower Bull Creek Greenbelt. Trails.com member Nathan D. recently completed McKinney Roughs Nature Park, Woodland and Bluff Ridge Trails.
+title: Austin, Texas Trails &amp; Trail Maps | TrailLink
+snippet: Explore the best trails in Austin, Texas on TrailLink. With more than 27 Austin trails covering 120 miles, you’re bound to find a perfect trail like the San Gabriel Park Trail or Veloway Trail. View detailed trail descriptions, trail maps, reviews, photos, trail itineraries, directions and more on TrailLink.
+title: 9 Best Hikes in Austin - Condé Nast Traveler
+snippet: 9 Best Hikes in Austin. 9 Photos. ... A network of hiking trails, stretching north to south and east to west, means every neighborhood has options for easily escaping the city when you need to.
+title: Trail Directory | AustinTexas.gov
+snippet: Download the Trail Directory to view a PDF document with additional information about the trails listed below, including surface types. Trails are organized alphabetically. *A Yes for ADA Accessible indicates a section of the trail that meets ADA at the time it was constructed. It is recommended the ...
+title: River Place Nature Trails - Austin Texas
+snippet: Canyon Trail. The Canyon Trail is the “top dog” of the River Place trail system, extending 2.3 miles from the trailhead at the upper end of River Place Blvd to Panther Junction, where it meets the end of the Little Fern and Panther Hollow trails. The Canyon Trail is a popular training trail, as it has lots of stairs and elevation change.
+title: The 11 best hiking trails in Austin and beyond ...
+snippet: Austin is adorned with a host of outdoor gems just beckoning to be explored. Maybe you&#39;ve always wanted to try hiking, but you weren&#39;t sure where to
+title: 9 Best Hiking Spots in Austin - The Austinot
+snippet: This trail is great even during hot summer months, as it’s relatively flat and shaded. For active dog owners, this is another off-leash trail for your pups, so bring them along for the 2.5-mile hike. 1600 City Park Road. The next time you’re in need of a recharge, head to one of the best hiking spots in Austin. @jpino9 wants to know:
+
+REL: 1
+POI Name: The Seattle Great Wheel
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Amusement Parks, 
+Snippets:
+title: Seattle Ferris Wheel at Pier 57 | Seattle Great Wheel
+snippet: In total, the wheel can hold over 300 passengers at any given time. The wheel was manufactured in various parts of Europe and the United States, and assembled right at the end of the pier. The wheel extends nearly 40 feet beyond the end of the pier, over Elliott Bay. The Seattle Great Wheel is open year round.
+title: Seattle Great Wheel - Wikipedia
+snippet: The Seattle Great Wheel is a giant Ferris wheel at Pier 57 on Elliott Bay in Seattle, Washington.With an overall height of 175 feet (53.3 m), it was the tallest Ferris wheel on the West Coast of the United States when it opened on June 29, 2012.
+title: Seattle Great Wheel | Visit Seattle
+snippet: Seattle Great Wheel Attractions Downtown Seattle One of the largest ferris wheels in North America. 175 feet tall, 42 climate controlled gondolas.
+title: Seattle Great Wheel - 2020 All You Need to Know BEFORE You ...
+snippet: We recommend booking Seattle Great Wheel tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 7 Seattle Great Wheel tours on Tripadvisor
+title: The Seattle Great Wheel, Seattle | Roadtrippers
+snippet: The Seattle Great Wheel was built in less than a year, but its story goes back much further than that. Seattle businessman Hal Griffith had envisioned a Ferris wheel in the city for nearly 30 years, but it wasn&#39;t until he realized he could build one on his own pier that his dream became a reality.
+title: How much does it cost to ride the Ferris wheel - Seattle ...
+snippet: Seattle Great Wheel, Seattle: &quot;How much does it cost to ride the Ferris wheel&quot; | Check out answers, plus see 2,873 reviews, articles, and 1,864 photos of Seattle Great Wheel, ranked No.51 on Tripadvisor among 1,327 attractions in Seattle.
+title: The Seattle Great Wheel (Full 360) | 4k - YouTube
+snippet: Seattle is such a beauty! Enjoy this epic golden hour shot. Consider subscribing for more super shot sundays! Check out this vlog we created while we were in Seattle filming - https://www.youtube ...
+title: Visit Seattle Great Wheel in Downtown Seattle | Expedia
+snippet: The star attraction of Seattle’s waterfront precinct is this 175-foot (53-meter) Ferris wheel, among the tallest in the United States. The Seattle Great Wheel stands at the end of a pier in Elliott Bay and provides unrivaled views of Seattle and the Puget Sound.
+title: All About Seattle&#39;s Great Wheel - TripSavvy
+snippet: The Seattle Great Wheel is one of the best attractions in town for one reason. It&#39;s got some spectacular views. Sure, you can go to the top of the Space Needle, but this giant Ferris wheel is perched right on the water so has a unique advantage for anyone who loves water views.
+title: The Great Wheel Adventure Book | Seattle Great Wheel
+snippet: The Great Wheel Adventure. A Storybook of Adventure at The Seattle Great Wheel . The wondrous adventure of Gabe and Betty, two siblings who find themselves on a fun exploration of Seattle&#39;s most exciting spots.
+
+REL: 1
+POI Name: Coal Creek Falls Trail
+POI City: Newcastle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Senior Center of West Seattle
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Senior Centers, 
+Snippets:
+title: Senior Center of West Seattle
+snippet: Welcome to Senior Center of West Seattle! April 7, 2020 Update from the Senior Center of West Seattle At the Senior Center of West Seattle, we’re uniquely qualified to reach out to seniors in our community. Although we remain closed until further notice, we are providing the following essential programs during this pandemic: Community Dining […]
+title: Senior Center of West Seattle - Home | Facebook
+snippet: Senior Center of West Seattle, Seattle, Washington. 916 likes · 28 talking about this · 3,261 were here. A home away from home for the senior community...
+title: Events Calendar - Senior Center of West Seattle
+snippet: Senior Center of West Seattle is a Community Partner Site of Sound Generations. Sound Generations Downtown Administrative Offices Lillian Rice Building 2208 Second Avenue, Suite 100 Seattle WA 98121-2055. Get driving directions. Phone: (206) 448-5757 Fax: (206) 448-5766 info@soundgenerations.org
+title: Classes - Senior Center of West Seattle
+snippet: Activities/Classes The Center offers a true variety of classes and activities. Costs and fees vary and are discounted for members. Check out the newsletter (on home page right hand sidebar) for dates and times or call the front desk for the most current information at 206.932.4044 x 1 Westside Dance Classes Regain Your Balance Chair […]
+title: Volunteer - Senior Center of West Seattle
+snippet: *WESTSIDE FRIENDS – Visit &amp; Assist Seniors in West Seattle Through Our Westside Friends Program. Would you like to support an elder in West Seattle and make a new friend? The Senior Center’s Westside Friends (WSF) program matches caring volunteers with West Seattle elders in need of companionship.
+title: Contact - Senior Center of West Seattle
+snippet: Contact: 206 – 932-4044 x 1 for our Front Desk Receptionist Our Location 4217 SW Oregon Street Seattle, WA 98116 The Senior Center of West Seattle (SCWS) is located on the corner of California Avenue &amp; Oregon Street, one block north of the Alaska Street Junction. Getting Here From I-5 Take the West Seattle exit […]
+title: Daystar Retirement Village - West Seattle - Seattle ...
+snippet: Daystar Retirement Village - West Seattle, Seattle, WA. 256 likes. Daystar Retirement Village is one of the best kept secrets in West Seattle. Come take a tour and have some lunch on us!...
+title: Senior Center of West Seattle - The Joy is in the Journey ...
+snippet: The Senior Center of West Seattle - one of Sound Generations&#39; seven partner sites - is a vibrant community located in the heart of the Junction. Visitors enjoy a host of activities and resources ...
+title: Senior Center of West Seattle - Facebook
+snippet: Causes event in Seattle by Sylvia&#39;s Rainbow Bingo and Senior Center of West Seattle on Friday, January 24 2020
+title: Senior Center of West Seattle - Home | Facebook
+snippet: Senior Center of West Seattle, Seattle, Washington. 906 likes · 28 talking about this · 3,259 were here. A home away from home for the senior community...
+
+REL: 1
+POI Name: Trübistro
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Wine Bars, Tapas/Small Plates, 
+Snippets:
+title: Seattles Favourite Wine Bar - trübistro | Coffee | Wine ...
+snippet: Looking for the best wine bar in Seattle? With an amazing range of bites and delicious coffee. Then visit trübistro and taste the difference.
+title: Trübistro - Coffee Shop - Seattle, Washington | Facebook ...
+snippet: Trübistro. 126 likes. We love coffee, we love wine, and we also love food. So, we decided to open a coffee shop and wine bar - the best of both worlds. We proudly serve trücup coffee in the morning...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Trübistro 610 Terry Ave Seattle, WA Coffee &amp; Tea - MapQuest
+snippet: Get directions, reviews and information for Trübistro in Seattle, WA.
+title: trübistro Trivia Night at Trubistro in Seattle, WA on Tues ...
+snippet: Where: trübistro, 610 Terry Ave, Seattle WA 98104 . To find out who’s trüly the most knowledgeable, come down to trübistro on January 28th, enjoy discounted bites and sips and get ready to play.&quot;
+title: Jan 28 | trübistro Trivia Night | Seattle, WA Patch
+snippet: trübistro, 610 Terry Avenue, Seattle, WA, 98104. trübistro is challenging the neighborhood to put on their thinking-caps and come compete in trivia nights on the last Tuesday of every month.
+title: Here are the 4 newest businesses to debut in Seattle
+snippet: Photo: Trübistro/Yelp Trübistro is a coffee shop and wine bar that recently opened at 610 Terry Ave. in First Hill. On the menu, look for trücup coffee and wines from Washington, Oregon and California, according to its Facebook page.The eatery also offers five-cheese macaroni, pulled pork sliders and naan flatbreads.
+title: Feb 24 | Winemakers from Around the World | Seattle, WA Patch
+snippet: trübistro, 610 Terry Avenue, Seattle, WA, 98104. Learning about and sipping on both international and local wines just became a lot easier. trübistro is introducing a Wines Around the World ...
+title: Trübistro in Seattle, Washington - Food &amp; Drink - Business ...
+snippet: Jump to a detailed profile, search site with google or try advanced search
+title: Here are the 4 newest businesses to debut in Seattle ...
+snippet: Interested in getting intel on the newest restaurant and retail additions to Seattle? Here&#39;s a list of the newest spots to open their doors recently around town. ... Photo: Trübistro/Yelp.
+
+REL: 1
+POI Name: Lake to Lake Trail
+POI City: Bellevue
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Ann's Korean BBQ & Teriyaki
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Barbeque, 
+Snippets:
+title: Welcome to Ann&#39;s Korean BBQ &amp; Teriyaki in Ballard ...
+snippet: Enjoy all of your Favorite Asian Cuisines at Ann’s Korean BBQ &amp; Teriyaki. You will find the unique blend of hearty spices and flavors, juicy meats, and soul warming soups that make up the trend of Asian foods that is being embraced by more people every year.
+title: Ann’s Korean BBQ &amp; Teriyaki - Ballard - Seattle, WA - Yelp
+snippet: 24 reviews of Ann&#39;s Korean BBQ &amp; Teriyaki &quot;As someone who works in Ballard, this is my go-to lunch spot at least twice or thrice a week. I probably eat here more often than I should, but it&#39;s just too good. The meat quality and sauce flavors beat…
+title: Menu | Ann&#39;s Korean BBQ &amp; Teriyaki Ballard - Seattle, WA
+snippet: Menu Find all of your favorites at Ann’s Korean BBQ &amp; Teriyaki in Ballard!. From hearty soups to perfect marinated meats and everything in between, we work to give you the variety of unique, satisfying flavors that makes Asian cuisine such an international phenomenon.
+title: Contact Us | Ann&#39;s Korean BBQ &amp; Teriyaki Ballard - Seattle, WA
+snippet: You can find our location, business hours and phone number below. If you need to get in touch with us, please feel free to contact us during our normal business hours. We’re looking forward to seeing you soon at Ann’s Korean BBQ &amp; Teriyaki in Ballard!
+title: About | Ann&#39;s Korean BBQ &amp; Teriyaki Ballard - Seattle, WA
+snippet: Make Ann’s Korean BBQ &amp; Teriyaki a regular part of your dining experience! Located in Old Ballard. You can find us in the wonderful Old Ballard neighborhood! We’re located between 24th Ave NW and 22nd Ave NW, on NW Market Street.
+title: Ann&#39;s Korean BBQ &amp; Teriyaki - Seattle, WA | Groupon
+snippet: Seattle sushi lovers will fall in love with the menu at Anne&#39;s Teriyaki, a Japanese restaurant right in the heart of Seattle. Anne&#39;s Teriyaki is also a good option for those with special dietary needs, offering both gluten-free and healthy items on the menu. No need to splurge on a babysitter ? tots will be right at home chowing down at this restaurant. The large dining space at Anne&#39;s
+title: Ann&#39;s Korean BBQ &amp; Teriyaki 2246 NW Market St Seattle, WA ...
+snippet: Get directions, reviews and information for Ann&#39;s Korean BBQ &amp; Teriyaki in Seattle, WA. Ann&#39;s Korean BBQ &amp; Teriyaki 2246 NW Market St Seattle WA 98107. 24 Reviews (206) 789-5838 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+title: Amazon Restaurants
+snippet: We would like to thank all of our customers and restaurants for their support. If you would like to access any previous order information, you can do so by signing into your Amazon account and viewing your order history.
+title: Ann&#39;s Teriyaki Restaurant - Seattle, Washington - Japanese ...
+snippet: Ann&#39;s Teriyaki Restaurant, Seattle, Washington. 37 likes. Japanese Restaurant. Jump to. Sections of this page. ... The staff was a pleasant Korean female. See More. ... September 12, 2017 · Excellent restaurant with exceptional service. Nice employees! See More. Posts about Ann&#39;s Teriyaki Restaurant. Raza Zaidi is at Ann&#39;s Teriyaki Restaurant ...
+title: Online Menu of Annes Teriyaki - CLOSED Restaurant, Seattle ...
+snippet: View the online menu of Annes Teriyaki - CLOSED and other restaurants in Seattle, Washington. Annes Teriyaki - CLOSED « Back To Seattle, WA. Closed. ... Anns Korean BBQ &amp; Teriyaki Korean, Barbeque 0.00 mi away. Sushi I Sushi Bars 0.01 mi away. La Isla Cuisine Latin American, Puerto Rican
+
+REL: 1
+POI Name: Absolute Karaoke Entertainment Group
+POI City: Seattle
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Karaoke, DJs, Photo Booth Rentals, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: ABSOLUTE KARAOKE &amp; ENTERTAINMENT CO-OP GROUP Public Group ...
+snippet: ABSOLUTE KARAOKE &amp; ENTERTAINMENT CO-OP GROUP IS FORMED BY KARAOKE PROFESSIONAL HOSTS. ORIGINATED BY JOSH BARON &amp; PAT CLARK IN 2008 THE COMPANY ENDED ON 2/1/18 AND BECAME A CO-OP OF THE FORMER...
+title: Absolute Karaoke Entertainment Group in Seattle | Absolute ...
+snippet: Find Absolute Karaoke Entertainment Group in Seattle with Address, Phone number from Yahoo US Local. Includes Absolute Karaoke Entertainment Group Reviews, maps &amp; directions to Absolute Karaoke Entertainment Group in Seattle and more from Yahoo US Local
+title: Absolute Karaoke Entertainment Group, LLC in Seattle, WA ...
+snippet: Absolute Karaoke Entertainment Group, LLC is a Washington Wa Limited-Liability Company filed on January 1, 2014. The company&#39;s filing status is listed as Voluntarily Dissolved and its File Number is 603361901. The Registered Agent on file for this company is Catherine Baron and is located at 5117 S Farrar St, Seattle, WA 98118.
+title: Absolute Karaoke Seattle Singer&#39;s Showcase - Home | Facebook
+snippet: Absolute Karaoke Seattle Singer&#39;s Showcase - Various Venues, Seattle, Washington 98118 - Rated 5 based on 7 Reviews &quot;This is a FUN Competition and there...
+title: Absolute Karaoke - Seattle, Washington - Orchestra | Facebook
+snippet: Absolute Karaoke, Seattle, Washington. 2 likes. Orchestra. Sign up for Facebook today to discover local businesses near you.
+title: Best Karaoke near University District, Seattle, WA, United ...
+snippet: Best Karaoke in University District, Seattle, WA, United States - Star Karaoke, EnKore Karaoke, Karaoke Box, K-One Karaoke, The Little Red Hen, Baranof, Absolute Karaoke Entertainment Group, The Dock Sports Bar &amp; Grill, Seattle Mobile…
+title: Absolute Karaoke Entertainment Group Parking - On-site ...
+snippet: February 22, 2020 Find free parking near Absolute Karaoke Entertainment Group, compare rates of parking meters and parking garages, including for overnight parking. SpotAngels parking maps help you save money on parking in Seattle, WA &amp; 40+ Cities.
+title: Absolute Karaoke Entertainment Group Gift Cards and Gift ...
+snippet: Buy a gift card to Absolute Karaoke Entertainment Group. Send it online to anyone, instantly. Absolute Karaoke Entertainment Group - Seattle, WA 98103 - Seattle, WA
+title: Patrick Clark in Seattle, WA - Bizapedia Profile
+snippet: Patrick Clark is listed as a Governor with Absolute Karaoke Entertainment Group, LLC in Washington. The address on file for this person is 5117 S Farrar St, Seattle, WA 98118 in King County. The company is a Washington Wa Limited-Liability Company, which was filed on January 1, 2014.
+
+REL: 1
+POI Name: Pint Size Brewing
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Breweries, 
+Snippets:
+title: pint size brewing
+snippet: CURRENT BEER. Fast Wrapper. A Hazy IPA brewed with Copeland pale and pilsner malts, wheat and oats. Hopped in the whirlpool with Cashmere, then dry hopped with more Waimea and a bit of strata.
+title: Pint Size Brewing - Seattle, WA - Untappd
+snippet: Explore Pint Size Brewing from Seattle, WA on Untappd. Find ratings, reviews, and where to find beers from this brewery.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Pint Size Brewing | Seattle, WA | Beers | BeerAdvocate
+snippet: Pint Size Brewing in Seattle, WA. Beers, ratings, reviews, styles and another beer geek info.
+title: Seapine Brewing Company
+snippet: Seapine Brewing Company was founded in Seattle’s Industrial District in the year 2011. From our inception the goal has been to bring the highest quality ales and lagers to the Pacific Northwest. The recognition of responsibility to continue and further Seattle’s brewing history is Seapine’s ethos.
+title: Pint - Picture of Elysian Brewing Co, Seattle - Tripadvisor
+snippet: Elysian Brewing Co, Seattle Picture: Pint - Check out Tripadvisor members&#39; 50,019 candid photos and videos of Elysian Brewing Co
+title: English brewery cask units - Wikipedia
+snippet: Capacities of brewery casks were formerly measured and standardised according to a specific system of English units.The system was originally based on the ale gallon of 282 cubic inches (4.62 L; 1.22 US gal). In United Kingdom and its colonies, with the adoption of the imperial system in 1824, the units were redefined in terms of the slightly smaller imperial gallon (1.2 US gal; 4.5 L).
+title: Local Brewery Districts: Ballard | Seattle Magazine
+snippet: NW Peaks Brewery 4912 17th Ave. NW, Suite B Located at the corner of NW 50th Street and 17th Avenue NW (on the same block as Hilliard’s), this pint-size beer stop is easy to miss, and the compact space is a bit challenging for parents with kids in tow.
+title: Pint Sized Science | Machine House Brewery | Seattle Beer
+snippet: Machine House Brewery Event | Seattle Beer. Pint Sized Science: A Closer Look at Puget Sound. Please join Machine House Brewing and the Puget Soundkeeper Alliance for a family-friendly evening focused on learning about some of the work being done in the Duwamish.. First we will hear from Rosario-Maria Medina, who will talk about the cleanup being done on the Duwamish River and the work that ...
+title: Reuben&#39;s Brews - Beer Unbound - Seattle, WA
+snippet: Washington State&#39;s Most Awarded Brewery, located in Seattle, WA. We start with a vision for the finished beer, and find the ingredients that will make it happen, no matter how difficult they are to source.
+
+REL: 1
+POI Name: Bebop Waffle Shop
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Beer, Wine & Spirits, Breakfast & Brunch, 
+Snippets:
+title: Bebop Waffle Shop
+snippet: Bebop Waffle Shop, formerly Admiral Bird Café, is West Seattle’s favorite coffee and waffle bar, located in the Admiral Junction. Stop in for breakfast and a cup of organic coffee, or come by later for an afternoon snack and a beer, wine or cider.
+title: Food — Bebop Waffle Shop
+snippet: Open Menu Close Menu. Current Page: Food Drinks
+title: Events — Bebop Waffle Shop
+snippet: South Park Hall is a 175-person, renovated event space with a small stage, A/V equipment, kitchen, bar, restrooms and huge windows just waiting for you to fill with the magic of your event!
+title: General 4 — Bebop Waffle Shop
+snippet: Admiral Bird Cafe is now BEBOP WAFFLE SHOP! Same Owner • Same Vibe • Expanded Menu. In 2014, Corina Luckenbach and Heidi Herr took one look at the Flower Lab shop on the corner of California and Admiral in West Seattle and said, “this place could use some waffles”.
+title: Bebop Waffle Shop 2600 California Ave SW Seattle, WA ...
+snippet: Get directions, reviews and information for Bebop Waffle Shop in Seattle, WA. Bebop Waffle Shop 2600 California Ave SW Seattle WA 98116. 96 Reviews (206) 305-7182 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Drinks — Bebop Waffle Shop
+snippet: Our Story Events Contact
+title: Bebop Waffle Shop Gift Card - Seattle, WA | Giftly
+snippet: Buy a Bebop Waffle Shop gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for Bebop Waffle Shop, 2600 California Ave SW, Seattle, WA.
+title: Moore Coffee Shop, Seattle - Restaurant Reviews, Photos ...
+snippet: Moore Coffee Shop, Seattle: See 229 unbiased reviews of Moore Coffee Shop, rated 4.5 of 5 on Tripadvisor and ranked #31 of 4,013 restaurants in Seattle. ... Delicious and different waffles; excellent coffee shop. Met up with friends for breakfast and coffee. The coffee was quite good.
+title: The 15 Best Places for Waffles in Seattle - Foursquare
+snippet: The 15 Best Places for Waffles in Seattle. Created by Foursquare Lists • Published On: March 4, 2020. Share. Tweet. 1. Fat&#39;s Chicken &amp; Waffles. 9.0. ... Coffee Shop · Columbia City · 38 tips and reviews. Kristen Wagner-Patterson: I love the Ham, Scallion and Cream Fraiche waffle.
+title: Bubble Waffles are Finally Invading Seattle | Seattle Magazine
+snippet: Bubble Waffles are Finally Invading Seattle. Try the Asian street sweet at these four spots. BY: Chelsea Lin ... B.C. Now, thanks to a handful of spots and a lot of Instagram food porn, the bubble waffle is on the cusp of a Seattle trend breakthrough. ... this casual U District shop is now selling bubble waffles as well. ...
+
+REL: 1
+POI Name: One World
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, 
+Snippets:
+title: OneWorld Now! – Creating the next generation of global ...
+snippet: OneWorld Now! envisions a world where all young people have access to transformative international education. ABOUT US . PROGRAMS. OWN has served 1,800 youth directly in our yearlong program while engaging over 3,500 youth through various program elements. ... Seattle, WA 98104.
+title: One World | Culinary Programs - Seattle Central College
+snippet: One World. With global influences including traditional European, Pan-Asian, Middle Eastern, Latin American, and Pacific Northwest, our One World Restaurant offers seasonally focused dining using local and sustainable ingredients in each of our artfully prepared dishes.
+title: Airport Lounge | oneworld
+snippet: Skip the lines, find your way around the airport and relax in one of more than 650 airport lounges worldwide. Enter an airport or city to find more information about security fast track, terminal maps and lounge access.
+title: One World Dance - West African Dance and Drum Seattle ...
+snippet: It is our distinct privilege to be ambassadors for the beautiful, rich and powerful music, dance, and culture of Guinea West Africa. Over and over again we hear from our customers that they find fulfillment, joy and profound life learning out of participating with us in our classes &amp; worksho
+title: One World - Seattle, WA - The Stranger
+snippet: The Seattle Culinary Academy&#39;s One World Restaurant will never serve strawberries in January, but my duck confit (a duck leg poached slowly in its own fat) with braised red cabbage, pine-nut ...
+title: Home Page | oneworld
+snippet: 13 world-class airlines have come together to provide the highest level of service and smoothest connections to more than 1,000 destinations around the globe. From check-in to security and boarding, oneworld member airlines work together to make your flying experience as seamless as possible.
+title: Current Local Time in Seattle, Washington, USA
+snippet: Current local time in USA – Washington – Seattle. Get Seattle&#39;s weather and area codes, time zone and DST. Explore Seattle&#39;s sunrise and sunset, moonrise and moonset.
+title: Travel Benefits | oneworld
+snippet: Imagine the moving walkway in the airport never stopped. That is the feeling of smooth sailing to which we aspire. Our benefits for the loyal customers of our member airlines are designed to reduce friction at all points of your travel experience, beginning the second you book until you start looking again, 24/7.
+title: OneWorld Now - Home | Facebook
+snippet: OneWorld Now, Seattle, Washington. 2.8K likes. OneWorld Now!&#39;s vision is that every young person has access to critical language studies, leadership development and study abroad.
+title: Seattle - Wikipedia
+snippet: The sea, rivers, forests, lakes, and fields surrounding Seattle were once rich enough to support one of the world&#39;s few sedentary hunter-gatherer societies. The surrounding area lends itself well to sailing, skiing, bicycling, camping, and hiking year-round. The city itself is hilly, though not uniformly so.
+
+REL: 0
+POI Name: Collins Family Orchards
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, CSA, 
+Snippets:
+title: Collins Family Orchards
+snippet: Seasonal organic local fruit delivery in Seattle
+title: Collins Family Orchards
+snippet: Collins Family Orchards Wholesale CSA Farmers Markets Contact Us What&#39;s In Season? CSA Member Login Wholesale CSA Farmers Markets ... Bellevue, Mercer Island, Kirkland, Shoreline, Kenmore, Redmond, Lake Forest Park, Edmonds, North Seattle, Ravenna, U-District, View Ridge, Wedgewood, Maple Leaf, Lake City.
+title: Collins Family Orchards - Home | Facebook
+snippet: Collins Family Orchards - - Rated 4.7 based on 15 Reviews &quot;My baby girl can&#39;t have enough of your farm&#39;s donut peach. The fruits are fresh, and the...
+title: Collins Family Orchards
+snippet: At Collins Family Orchards, we pride ourselves on quality fruit and sustainable practices. We have been sustainably growing since 1905. Our livelihood and family has been connected with this orchard and this land for over 100 years; we take our responsibilities as land stewards seriously.
+title: Collins Family Orchards
+snippet: Collins Family Orchards Workplace Fruit Wholesale CSA Farmers Markets Contact Us What&#39;s In Season? CSA Member Login Workplace Fruit Wholesale CSA. Collins Family Orchards ... Find us at the farmers markets in the greater seattle area year-round. Wednesdays
+title: Collins Family Orchards
+snippet: At Collins Family Orchards, it&#39;s all about the fruit. Please keep in mind these are approximate timeframes as the season varies year to year!
+title: Collins Family Orchards - Posts | Facebook
+snippet: Collins Family Orchards - - Rated 4.7 based on 17 Reviews &quot;Some of the best fruit I have ever had the pleasure of eating. We are almost done with our...
+title: Collins Family Orchards, 931 Parish Rd, Seattle, WA (2020)
+snippet: Contact information, map and directions, contact form, opening hours, services, ratings, photos, videos and announcements from Collins Family Orchards, 931 Parish Rd ...
+title: Collins Family Orchards in Seattle | Collins Family ...
+snippet: Find Collins Family Orchards in Seattle with Address, Phone number from Yahoo US Local. Includes Collins Family Orchards Reviews, maps &amp; directions to Collins Family Orchards in Seattle and more from Yahoo US Local.
+title: Collins Family Orchards (WA) :: PCH - Eat Local, Made Easy
+snippet: The Collins Family believes in healthy and sustainable growing practices for which they use organic fertilizers, seaweed, and fish oils. For pest control they use organic insecticide - &quot;Entrust&quot;. This keeps their fruit, their farm land, and their employees healthy and happy for many seasons to come!
+
+REL: 0
+POI Name: Hoopsmiles
+POI City: Seattle
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, Specialty Schools, Party Equipment Rentals, 
+Snippets:
+title: Hoopsmiles | Hula Hoop Dance Performer | How to Hula Hoop ...
+snippet: Hoopsmiles, hula hoop dance entertainer &amp; instructor, in Seatte, offers beginner to advanced hula hooping lessons, along with hula hoop event entertainment.
+title: Event Booking | hoopsmiles
+snippet: Hoopsmiles, a hoop dancer, instructor, and entertainer, with over 2 million views on YouTube, as seen on the Travel Channel&#39;s show, &quot;Trip Flip,&quot; and also featured in the Seattle Times (Click here to see the Seattle Times post), is offering a variety of performance packages.
+title: hoopsmiles - YouTube
+snippet: Hoopsmiles Beginner Hula Hoop Tricks Hooping Tutorials Play all. How to Hula Hoop for Beginners Series by Jon Coyne aka Hoopsmiles. Here is a sequnce of beginner level hula hooping tricks and hula ...
+title: Hoopsmiles - Hula Hoop Dancer Seattle, WA | GigMasters
+snippet: Hoopsmiles did a great job of keeping the kids engaged, entertained, and even taught them how to use a hula-hoop. Many of our students had never really had the opportunity to use hula-hoops before. Those who had, got an extra crash course in cool tricks they could add to their repertoire of hula-hooping abilities.
+title: Contact Hoopsmiles
+snippet: Hoopsmiles. 918 N 103rd St Unit B3. Seattle, WA 98012. Booking &amp; Hoop Classes Contact. If you are inquiring about booking Hoopsmiles for a performance or workshop, please contact Hoopsmiles at booking@hoopsmiles.com or visit my Event Booking page to request a price quote.
+title: Hoopsmiles in Seattle | Hoopsmiles 918 N 103rd St, Seattle ...
+snippet: Find Hoopsmiles in Seattle with Address, Phone number from Yahoo US Local. Includes Hoopsmiles Reviews, maps &amp; directions to Hoopsmiles in Seattle and more from Yahoo US Local
+title: My Hula Hooping Journey, the Discovery of Hoopsmiles
+snippet: Hoopsmiles, originally a business founded by Jon Coyne in 2010, to sell hoops and to teach people how to hula hoop, has transformed into more than just a business. In the summer of 2011, after the release of The How to Hula Hoop Rap Song, on YouTube, the name, Hoopsmiles, officially became Jon Coyne’s hooping and performing name.
+title: Hoopsmiles | Hula Hoop Events &amp; Kids Party Entertainment ...
+snippet: Hoopsmiles, Seattle area hula hoop performer &amp; instructor offers entertainment for children to adults, including kids birthday parties to corporate events, etc.
+title: A Hula Hoopy St Patrick&#39;s Day Happy Leprechaun Dance Song
+snippet: Check out Seattle hoopers, in this very green Saint Patrick&#39;s day group hooping production to an Irish Jig song. Here&#39;s a fun leprechaun dance video for the whole family, including kids and young ...
+title: Seattle Seahawks 12th Hula Hoop Man - YouTube
+snippet: Go Seattle Seahawks and the 12th man. I&#39;m a big time fan of the Seattle Seahawks. May they win Super Bowl XLVIII (48) against the Denver Broncos. I thought it might be fun to do a Seahawks hula ...
+
+REL: 0
+POI Name: The Vineyard Table
+POI City: Seattle
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, Local Flavor, Venues & Event Spaces, 
+Snippets:
+title: The Vineyard Table - SoDo - Seattle, WA - Yelp
+snippet: 1 review of The Vineyard Table &quot;Wonderful space with great ambiance. We were there for a private event and look forward to coming here again.&quot; The Vineyard Table - Wineries - 85 S Atlantic St, SoDo, Seattle, WA - Phone Number - Yelp
+title: Online Menu of The Vineyard Table, Seattle, WA
+snippet: View the menu for The Vineyard Table and restaurants in Seattle, WA. See restaurant menus, reviews, hours, photos, maps and directions.
+title: The Vineyard Table 85 S Atlantic St Ste 106 Seattle, WA ...
+snippet: Get directions, reviews and information for The Vineyard Table in Seattle, WA. The Vineyard Table 85 S Atlantic St Ste 106 Seattle WA 98134. 1 Reviews (206) 420-5564 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: the vineyard table - Winery in Seattle - Foursquare
+snippet: 7 visitors have checked in at the vineyard table. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: The Vineyard Table, Seattle | Ticket Price | Timings ...
+snippet: Do you want to know the entry ticket price for The Vineyard Table? Opening &amp; closing timings, parking options, restaurants nearby or what to see on your visit to The Vineyard Table? Click Now to check the details!
+title: The Vineyard Table (@VineyardTable) | Twitter
+snippet: The latest Tweets from The Vineyard Table (@VineyardTable). Rustic, warm and intimate event space located in SODO. Perfect spot for any upcoming celebration, meeting or dinner party. **Relocating away from the viaduct**. SODO, Seattle, WA
+title: In the Vineyard: Tables | Town &amp; Country Event Rentals
+snippet: In the Vineyard: Tables. Vineyard Tables. Vineyard Natural Top Dining Table. Natural Top Buffet Table. Distressed Top Buffet Table. Vineyard White Wash Table with Pedestal . White Wash Potting Bench Bar. Natural Potting Bench Bar. Vineyard Stand Up Tables. Vineyard White Wash Bar Front - (Potting Bench Bar)
+title: The Vineyard Table LLC in Seattle, WA | Company Info &amp; Reviews
+snippet: The Vineyard Table LLC is a Washington Wa Limited-Liability Company filed on October 22, 2007. The company&#39;s filing status is listed as Administratively Dissolved and its File Number is 602772662. The Registered Agent on file for this company is Jody Elsom and is located at 2410 3rd Ave W, Seattle, WA 98119.
+title: Map &amp; Directions - The Vineyard Table, Seattle, WA 98134 ...
+snippet: Map of The Vineyard Table - Also see restaurants near The Vineyard Table and other restaurants in Seattle, WA and Seattle.
+title: Tasting Lounge at Wente Vineyards Restaurant - Livermore ...
+snippet: For your convenience, Wente Vineyards offers all of our guests complimentary parking. The small lot directly in front of the Vineyard Table &amp; Tasting Lounge is reserved for guests requiring ADA accessible parking spots.
+
+REL: 0
+POI Name: Seattle Girls' Choir
+POI City: Seattle
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, Elementary Schools, Middle Schools & High Schools, 
+Snippets:
+title: Seattle Girls Choir
+snippet: Seattle Girls Choir provides a robust education in the choral arts, helping girls build skills to succeed in life, and enriching the cultural landscape of the Pacific Northwest.
+title: Seattle Girls Choir - YouTube
+snippet: The Seattle Girls&#39; Choir (est. 1982) provides a robust education in the choral arts, helping girls build skills to succeed in life, and enriching the cultura...
+title: Seattle Girls Choir - Home | Facebook
+snippet: Seattle Girls Choir, Seattle, Washington. 1.1K likes. Official Page for Seattle Girls Choir alumnae, fans, current singers, parents, and the larger...
+title: Giving | Seattle Girls Choir
+snippet: Giving. Seattle Girls Choir is an organization in which young people are inspired to become the best musicians in the pacific northwest, celebrated for their contributions to their community, and encouraged to be their own best advocates.
+title: Upcoming Events - Seattle Girls Choir
+snippet: The following message was sent to families from our Artistic Director, Jacob Winkler, Sunday evening March 8th: Hello Seattle Girls Choir families, As Meaghan indicated last week, the SGC Board of Directors met last Tuesday and decided that we would follow the lead of the Seattle Public Schools.
+title: Listen | Seattle Girls Choir
+snippet: Prime Voci opens the first ever Greater Seattle Choral Consortium Festival. Recorded live on October 11, 2013 at St. Mark&#39;s Cathedral, Seattle WA. Listen to the Seattle Girls Choir on SoundCloud.
+title: Join Seattle Girls Choir | Seattle Girls Choir
+snippet: Placement Auditions Primarily for girls 2nd grade and older, the first step in joining the Seattle Girls Choir is to fill out and submit the Placement Audition Application Form. Auditioning for choir is not as difficult as the term “audition” implies.
+title: Seattle Girls Choir puts on stunning virtual performance ...
+snippet: The Seattle Girls Choir decided to get creative and take their rehearsals online to still be able to spread joy through music during this difficult time.
+
+REL: 0
+POI Name: Kiki Bakery & Cafe
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Kiki Bakery &amp; Cafe - Seattle - Home | Facebook
+snippet: Kiki Bakery &amp; Cafe - Seattle - 13200 Aurora Ave. Suite E, Seattle, Washington 98133 - Rated 4.7 based on 19 Reviews &quot;First time visiting today. I&#39;ve seen...
+title: KiKi Bakery - 首頁 home
+snippet: Affect・Satisfy・Smile 感動・滿足・微笑 ‧您的微笑 是我們高品質的原動力，我們的專業與用心值得你細細咀嚼。
+title: Kiki Bakery &amp; Cafe - Haller Lake - Seattle, WA
+snippet: 113 reviews of Kiki Bakery &amp; Cafe &quot;I ordered a mango milk tea but since they don&#39;t normally make it, I told them they can use just some of the flavoring they normally use for the tea it&#39;s perfectly fine. Kiki staff was skeptical but CORY…
+title: KiKi Bakery - 麵包 Bread
+snippet: 蔥花麵包 green onion bun. 肉鬆麵包 pork sung bun. 熱狗麵包 hot dog bun. 芋頭麵包 taro bun. 紅豆麻糬麵包 red bean mochi bun. 奶酥麵包 butter milk bun. 克林姆麵包 custard bun. 牛奶麵包 milk cream bun. 起士鮪魚麵包 cheese tuna bun. 起士火腿麵包 cheese and ham bun. 酸菜麵包 preserve veg bun...上百種口味 hundred flavor
+title: Kiki Bakery &amp; Cafe 13200 Aurora Ave N Ste E Seattle, WA ...
+snippet: My partner and I decided this Valentine&#39;s Day to go on a dessert hopping adventure, enjoying small snacks and drinks along the way. Kiki Bakery Cafe was one of our stops and it did not...
+title: Online Menu of Kiki Bakery &amp; Cafe, Seattle, WA
+snippet: View the menu for Kiki Bakery &amp; Cafe and restaurants in Seattle, WA. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Kiki Bakery &amp; Cafe - Seattle, 13200 Aurora Ave. Suite E ...
+snippet: Kiki Bakery &amp; Cafe - Seattle . 號外！號外！ Kiki又推出一年一度的中秋月餅禮盒囉? 精美可愛的禮盒搭配皮薄餡多的月餅 送禮的最佳選擇, 怎麼能錯過! Mid-Autumn Festival is around the corner? and YES, we have the mooncake gift box ready for you?
+title: Kiki Bakery &amp; Cafe menu - Seattle WA 98133 - (877) 585-1085
+snippet: Restaurant menu, map for Kiki Bakery &amp; Cafe located in 98133, Seattle WA, 13200 Aurora Avenue North.
+title: Kiki Bakery, Redmond - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Kiki Bakery, Redmond: ... Seattle - Redmond. 205 reviews .31 miles away . Best nearby restaurants See all. Malay Satay Hut. 72 reviews .01 miles away . Teapot Vegetarian House. 37 reviews .02 miles away . Regent Bakery &amp; Cafe. 13 reviews .13 miles away . Wanta Thai Cuisine. 19 reviews .12 miles away . Best nearby attractions See all.
+
+REL: 0
+POI Name: Moon Tree Sushi And Tapas
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Izakaya, 
+Snippets:
+title: Moontree Sushi And Tapas Queen Anne, Best Sushi in Seattle ...
+snippet: Please visit us for our opening on middle of December at our new location, 516 1st Ave n , QueenAnne, Seattle to enjoy the new Moon Tree Sushi and Tapas! Best Sushi Seattle, Moontree Sushi And Tapas - Seattle, WA 98109
+title: Menu – Moontree Sushi And Tapas Queen Anne, Best Sushi in ...
+snippet: Moontree Sushi And Tapas Queen Anne, Best Sushi in Downtown Menu – Moontree Sushi And Tapas Queen Anne, Best Sushi in Seattle, Best Sushi in Downtown Seattle, best affordable sushi queen anne Seattle
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: About us - Enjoy the new Moon Tree Sushi and Tapas!
+snippet: The new restaurant will feature customer favorites along side a new sushi bar and will continue to deliver the highest quality of fresh ingredients. Please visit us for our opening on middle of December at our new location, 516 1st Ave n , QueenAnne, Seattle to enjoy the new Moon Tree Sushi and Tapas!
+title: Sushi Menu – Moontree Sushi And Tapas Queen Anne, Best ...
+snippet: Moontree Sushi And Tapas Queen Anne, Best Sushi in Downtown Sushi Menu – Moontree Sushi And Tapas Queen Anne, Best Sushi in Seattle, Best Sushi in Downtown Seattle, best affordable sushi queen anne Seattle
+title: Reservation – Moontree Sushi And Tapas Queen Anne, Best ...
+snippet: Moontree Sushi And Tapas Queen Anne, Best Sushi in Downtown Reservation – Moontree Sushi And Tapas Queen Anne, Best Sushi in Seattle, Best Sushi in Downtown Seattle, best affordable sushi queen anne Seattle
+title: Moontree Sushi And Tapas - Asian Fusion Restaurant ...
+snippet: Moontree Sushi And Tapas, Seattle, Washington. 665 likes · 47 talking about this · 1,624 were here. Upscale spot lower Queen Anne Serving modern sushi in a trendy space accented with Elements from...
+title: Moon Tree Sushi &amp; Tapas, Seattle - Menu, Prices ...
+snippet: Moon Tree Sushi &amp; Tapas, Seattle: See 8 unbiased reviews of Moon Tree Sushi &amp; Tapas, rated 5 of 5 on Tripadvisor and ranked #1,199 of 4,012 restaurants in Seattle.
+title: Sushi and tapas... interesting - Review of Moon Tree Sushi ...
+snippet: Moon Tree Sushi &amp; Tapas: Sushi and tapas... interesting - See 8 traveler reviews, 19 candid photos, and great deals for Seattle, WA, at Tripadvisor. Seattle. Seattle Tourism Seattle Hotels Seattle Bed and Breakfast Seattle Vacation Rentals Seattle Vacation Packages Flights to Seattle Seattle Restaurants
+title: Moontree Sushi And Tapas - Queen Anne - Seattle - The ...
+snippet: There are a few sushi spots in Queen Anne, but Moontree is the spot we can’t stop thinking about. The atmosphere is pretty casual, and you’ll find some great versions of salmon and black pepper-marinated seabream.
+
+REL: 0
+POI Name: Cedar & Spokes Coffee & Bar
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Bars, 
+Snippets:
+title: Cedar &amp; Spokes Coffee &amp; Bar - Coffee Shop - Seattle ...
+snippet: Cedar &amp; Spokes Coffee &amp; Bar - 2125 Western Ave, Suite 100, Seattle, Washington 98121 - Rated 5 based on 4 Reviews &quot;My new favorite spot. Great coffee,...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Shop — CEDAR &amp; SPOKES
+snippet: online store our next coffee shipment will go out april 7. we are blown away by the amount of support you have shown cedar &amp; spokes thank you for continuing to purchase our tasty coffee and fun merch
+title: New Page — CEDAR &amp; SPOKES
+snippet: CEDAR &amp; SPOKES COFFEE. Let’s be honest…SEATTLE IS COFFEE! At Cedar &amp; Spokes we have a reputation for outstanding service, a better product, and a unique customer experience. Our Team is the best in the business!
+title: Cedar &amp; Spokes Coffee &amp; Bar - Coffee Shop - Seattle ...
+snippet: Cedar &amp; Spokes Coffee &amp; Bar - 2125 Western Ave, Suite 100, Seattle, Washington 98121 - Rated 5 based on 4 Reviews &quot;Who else runs on coffee? I know it’s...
+title: Wholesale - CEDAR &amp; SPOKES COFFEE
+snippet: Cedar &amp; Spokes Coffee is committed to an honest, helpful, and healthy relationship with our wholesale partners. Not only do we desire to provide you an excellent product to serve and share, we seek to establish a trusting relationship where a shared passion for coffee is a mutual interest.
+title: Photos for Cedar &amp; Spokes Coffee &amp; Bar - Yelp
+snippet: Photos at Cedar &amp; Spokes Coffee &amp; Bar - Seattle, WA.
+title: Conference Room — CEDAR &amp; SPOKES
+snippet: CONFERENCE ROOM RESERVATIONS. We have a small conference room available to the public on site. Reservations must be made at least 24 hours in advance due to high demand. If you would like to reserve the room we ask that you fill out the form below.
+title: Gilbert&#39;s Cheese Experience at Cedar &amp; Spokes Coffee &amp; Bar
+snippet: Seattle Business Hotels Seattle Family Hotels Romantic Hotels in Seattle Seattle Green Hotels Seattle Luxury Hotels Seattle Spa Resorts Seattle Resorts 5-stars Hotels in Seattle 4-stars Hotels in Seattle 3-stars Hotels in Seattle Hyatt Hotels in Seattle Kimpton Hotels in Seattle Holiday Inns Express in Seattle Days Inns in Seattle Travelodge ...
+title: The Cedar and Spokes Story — Eat Seattle Food Blog
+snippet: It’s a bright, beautiful summer day in Seattle’s Pike Place Market neighborhood, and I’m sitting at Cedar &amp; Spokes Coffee &amp; Bar with Brice Sanders, the owner and head roaster. Light floods through the floor-to-ceiling glass in the bright, cheery space, illuminating its clean, minimalist whites and pale woods.
+
+REL: 0
+POI Name: St Andrews Bar & Grill
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (Traditional), Venues & Event Spaces, Pubs, 
+Snippets:
+title: St. Andrews Bar and Grill
+snippet: More than 1000 sq. ft. featuring 130&quot; HD projection screen, four 50&quot; screens and private audio system with PA. Ask about our family friendly space for your next party or team event.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: St. Andrews Bar and Grill
+snippet: St. Andrews is a stones throw away from Greenlake. Come eat, drink and be merry at this friendly neighborhood bar and grill.
+title: St. Andrew&#39;s Bar &amp; Grill - Seattle, WA - Locu
+snippet: St. Andrew&#39;s Bar &amp; Grill, Bars business in Seattle. See up-to-date pricelists and view recent announcements for this location.
+title: St. Andrew&#39;s Bar and Grill, Seattle - Menu, Prices ...
+snippet: St. Andrew&#39;s Bar and Grill, Seattle: See 13 unbiased reviews of St. Andrew&#39;s Bar and Grill, rated 4.5 of 5 on Tripadvisor and ranked #1,297 of 4,012 restaurants in Seattle.
+title: St Andrews Bar &amp; Grill, St. Andrews - Menu, Prices ...
+snippet: St Andrews Bar &amp; Grill is set upon a spectacular cliff-top with stunning panoramic views over both our Championship Golf Courses and St Andrews Bay. Serving traditional golfer fayre by day and the finest Scottish steak and seafood by night, Fairmont St Andrews pride themselves on sourcing, local, seasonal produce from the finest farms and suppliers in Scotland.
+title: Bar &amp; Grill | Dining In St Andrews | Fairmont - Fairmont ...
+snippet: Bar &amp; Grill | Dining In St Andrews | Fairmont - Discover Fairmont St Andrews, Scotland, hotel in Scotland and enjoy the hotel&#39;s spacious, comfortable rooms in Fairmont Hotel. Feel welcome to our elegant and luxurious hotel where we will make your stay an unforgettable experience.
+title: St. Andrews Bar &amp; Grill menu in Seattle, Washington, USA
+snippet: 8 menu pages, ⭐ 807 reviews - St. Andrews Bar &amp; Grill menu in Seattle. St. Andrews Bar &amp; Grill is the perfect place for american food, if you don&#39;t believe us, try our soup 北. We&#39;re located in the Seattle area!
+title: St. Andrew&#39;s Bar &amp; Grill - Seattle, WA - Untappd
+snippet: Find out what&#39;s popular at St. Andrew&#39;s Bar &amp; Grill in Seattle, WA in real-time and see activity
+title: ST ANDREWS BAR &amp; GRILL - Updated 2020 Restaurant Reviews ...
+snippet: St Andrews Bar &amp; Grill is set upon a spectacular cliff-top with stunning panoramic views over both our Championship Golf Courses and St Andrews Bay. Serving traditional golfer fayre by day and the finest Scottish steak and seafood by night, Fairmont St Andrews pride themselves on sourcing, local, seasonal produce from the finest farms and suppliers in Scotland.
+
+REL: 0
+POI Name: Sheng Yan Restaurant
+POI City: Seattle
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Szechuan, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Sheng Yan Restaurant 900 S Jackson St 208 Seattle, WA ...
+snippet: Get directions, reviews and information for Sheng Yan Restaurant in Seattle, WA. Sheng Yan Restaurant 900 S Jackson St 208 Seattle WA 98104. 10 Reviews (206) 623-3927 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Sheng Yan Restaurant in Seattle | Sheng Yan Restaurant 900 ...
+snippet: Find Sheng Yan Restaurant in Seattle with Address, Phone number from Yahoo US Local. Includes Sheng Yan Restaurant Reviews, maps &amp; directions to Sheng Yan Restaurant in Seattle and more from Yahoo US Local
+title: sheng yan Delivery | Seattle | Uber Eats
+snippet: Use your Uber account to order delivery from sheng yan in Seattle. Browse the menu, view popular items, and track your order. Enter delivery address. Sign In. 0. Opens at 12:00 PM. sheng yan $ • Chinese • Asian • Chicken. A top rated restaurant with 4.6 out of 5 stars based on 74 reviews.
+title: Sheng Yan Biao Zhi Restaurant Reviews: Food &amp; Drinks in ...
+snippet: On Trip.com, you can find out the best food and drinks of Sheng Yan Biao Zhi Restaurant in Tianjin. 1st Floor, Sheraton Grande 50, 2nd Avenue
+title: Photos at Sheng Yan Restaurant - 18 visitors
+snippet: See all 8 photos taken at Sheng Yan Restaurant by 71 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hui Sheng Yan Restaurant, Chiayi County - Restaurant ...
+snippet: Hui Sheng Yan Restaurant, Chiayi County: See unbiased reviews of Hui Sheng Yan Restaurant, one of 187 Chiayi County restaurants listed on Tripadvisor.
+title: Sheng Yan Restaurant - Sichuan Restaurant in SEATTLE
+snippet: Sheng Yan Restaurant. Sichuan Restaurant in SEATTLE. 900 S JACKSON ST, 208, SEATTLE, WA. Get Quote Call (206) 623-3927 Get directions WhatsApp (206) 623-3927 Message (206) 623-3927 Contact Us Find Table View Menu Make Appointment Place Order. Testimonials.
+title: Chinese Delivery | Seattle | Uber Eats
+snippet: Enjoy Chinese delivery with Uber Eats in Seattle. Browse Seattle restaurants serving Chinese nearby, place your order, and enjoy! ... sheng yan $ • Chinese • Asian • Chicken. A top rated restaurant with 4.5 out of 5 stars based on 73 reviews. 4.5 (73) Currently unavailable.
+title: MaLa Sheng Yan, Wuxi - Restaurant Reviews, Photos &amp; Phone ...
+snippet: MaLa Sheng Yan, Wuxi: See 2 unbiased reviews of MaLa Sheng Yan, rated 4 of 5 on Tripadvisor and ranked #187 of 954 restaurants in Wuxi.
+
+Cand cities: {'Dayton', 'King', 'Austin', 'Seattle', 'Bellevue', 'Kirkland', 'Bainbridge Island', 'Newcastle', 'Issaquah'}

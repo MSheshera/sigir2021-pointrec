@@ -1,0 +1,1310 @@
+City: Frankfurt
+Country: DE
+Main category: Arts & Entertainment
+Sub category: Museums - Art Galleries - Castles
+Description:  Hi there, i will be travelling to Germany for 2 weeks in July. Berlin, Hamburg, Frankurt and Munich. Can anyone recommend attractions to see? I like museums, castles, art galleries, night life, monuments. thank you!
+Rated POIs: 50
+Rel distr: [(0, 12), (1, 10), (2, 6), (3, 22)]
+=================================
+REL: 3
+POI Name: Eintracht Frankfurt Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Eintracht Frankfurt Museum - Aktuelles
+snippet: Eintracht Frankfurt Museum, Eintracht Frankfurt e.V., Eintracht Frankfurt Fussball AG
+title: Museum - Eintracht Frankfurt
+snippet: Neben der Geschichte der Eintracht wird auch die Zeitgeschichte der Stadt Frankfurt und des Landes Hessen Gegenstand der Ausstellung sein. Erstmalig werden im Eintracht Frankfurt Museum Farbfilmaufnahmen aus dem Stadion und vom Riederwald gezeigt, die ein Amateurfilmer in den 1950er Jahren rund um die Eintracht gedreht hat.
+title: Museum - Eintracht Frankfurt
+snippet: ⚽ Eintracht Frankfurt Museum ⚽ Located on the ground floor of the Commerzbank-Arena’s main stand ⚽ Covers 400 square metres ⚽ Visitors can explore the club’s history and enjoy original exhibits ⚽ Always worth a visit ⚽
+title: Museum - Eintracht Frankfurt
+snippet: Über das Eintracht Frankfurt Museum. Tauchen Sie ein in die Geschichte, die den Verein Eintracht Frankfurt zu dem gemacht hat, was er heute ist! Ein einzigartiges Erlebnis wartet im Inneren der Commerzbank Arena auf Sie.
+title: Eintracht Frankfurt Museum | Frankfurt Tourism
+snippet: And Eintracht Frankfurt. Over the last 115 years the citizens have been electrified by the club, with its tradition and history it is one of the most popular sports clubs in Germany. Right in the main stand of the home ground “Commerzbank-Arena” the Eintracht Frankfurt Museum puts the history of SGE on display.
+title: Eintracht Frankfurt Museum - 1,694 Photos - 293 Reviews ...
+snippet: Eintracht Frankfurt Museum - Mörfelder Landstraße 362, 60528 Frankfurt, Germany - Rated 4.8 based on 293 Reviews &quot;Very informative about the history of...
+title: Eintracht Frankfurt Museum - Anfahrt
+snippet: Vom Hauptbahnhof Frankfurt kann auch mit der Straßenbahn Linie 21 zur Haltestelle Stadion gefahren werden. Von hier kommend gelangen Sie über den Haupteingang oder Tor 3 zum Museum. Vom Südbahnhof – Frankfurt ist mit der Buslinie 61 (-&gt; Flughafen) die Fahrt zur Haltestelle Stadion Osttribüne möglich.
+title: Eintracht Frankfurt Museum - Aktuelles
+snippet: Wir starten mit einem Rundgang durch das Museum, bei dem Sie von den Anfängen des Fußballs in Frankfurt bis zur Meisterschale alles ganz genau erklärt bekommen. Danach folgt eine Stadionführung, die mit dem Blick von der Pressetribüne über die nächtliche Skyline endet. Zum Abschluss gibt es im Museum für jeden Gast ein Glas Eintracht-Sekt.
+title: Eintracht Frankfurt Museum - Angebote
+snippet: Das Eintracht Frankfurt Museum mieten. Das 150 Quadratmeter große Foyer des Eintracht Frankfurt Museum ist bestens geeignet für Firmenveranstaltungen, Betriebsausflüge, Empfänge oder private Feiern. Sprechen Sie uns an, wir organisieren und planen gemeinsam mit Ihnen Ihre persönliche Veranstaltung im Eintracht Frankfurt Museum.
+title: Eintracht Frankfurt (SGE): Matthias Thoma leitet Museum ...
+snippet: Eintracht-Frankfurt-Museum: Führungen für Besuchergruppen. Auch nach Thomas Veröffentlichung blieb er es, die Eintracht ignorierte die Faktenlage weitgehend.
+
+REL: 3
+POI Name: Lumas
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Bilder &amp; Foto-Kunst kaufen | Frankfurt | LUMAS Galerie
+snippet: frankfurt(at)lumas.de | +49 69 90028540. Das Geheimnis der Kunst, sagte einst Pablo Picasso, liegt darin, dass man nicht sucht, sondern findet. In diesem Sinne laden wir Sie herzlich zu Ihrer ganz persönlichen Entdeckungsreise in unsere LUMAS Galerie in Frankfurt ein.
+title: Lumas Gallery | Buy Art Prints and Photography Online
+snippet: LUMAS Frankfurt is on Kaiserstraße, which was built during the Gründerzeit period, and is located in the midst of the city&#39;s financial centre. It opened in this exclusive neighbourhood in October 2006, and the ample gallery spaces offer plenty of room to optimally display the individual works of the LUMAS portfolio.
+title: Hochwertige Fotokunst und Bilder online kaufen | LUMAS
+snippet: Hochwertige Fotokunst finden Exklusive Bilder &amp; Kunst-Fotografien in Galerie-Qualität Handsigniert &amp; Limitiert Fotokunst online kaufen bei LUMAS!
+title: Lumas Gallery | Buy Art Prints and Photography Online
+snippet: Lumas gallery is the online home of limited-edition fine art prints and photography. Discover thousands of pieces of exclusive art. Easy to hang and mount. LUMAS uses cookies to improve your experience on our website. If you continue, we assume that you consent to receive all cookies on all LUMAS websites.
+title: LUMAS Galerien | Fotokunst &amp; Exklusive Wandbilder kaufen ...
+snippet: Im Oktober 2006 öffnete in New York die erste LUMAS Dependance im Ausland ihre Pforten. Mittlerweile ist LUMAS mit Kunstgalerien in mehreren Ländern vertreten und in vielen Metropolen der Welt - wie New York, London oder Paris - haben sich die LUMAS Galerien zur anerkannten Adresse für exklusive Fotokunst entwickelt.
+title: Frankfurt, Eiserner Steg by Josh Von Staudach | LUMAS
+snippet: Frankfurt, Eiserner Steg, picture from the series Bridges 360° by Josh Von Staudach, LUMAS Artist LUMAS uses cookies to improve your experience on our website. If you continue, we assume that you consent to receive all cookies on all LUMAS websites.
+title: Lumas Gallery | Buy Art Prints and Photography Online
+snippet: Your LUMAS Gallery – A Place of Inspiration. In numerous LUMAS galleries in North America, Europe, and the rest of the globe, art enthusiasts and collectors can discover the multifaceted and exhilarating world of art. Each gallery has its own personality, with the selection of exhibited artworks and essence influenced by its Gallery Director.
+title: Buy Stunning Wall Art for Your Home or Office | LUMAS
+snippet: LUMAS Frankfurt is on Kaiserstraße, which was built during the Gründerzeit period, and is located in the midst of the city&#39;s financial centre. It opened in this exclusive neighbourhood in October 2006, and the ample gallery spaces offer plenty of room to optimally display the individual works of the LUMAS portfolio.
+title: Neuheiten: Aktuelle Wandbilder &amp; Fotokunst bei LUMAS
+snippet: Unsere LUMAS Kuratoren sind ständig für Sie auf der ganzen Welt unterwegs, um in renommierten Galerien, auf Kunstmessen und in Artist-Studios Neuheiten zu entdecken. In unserem Portfolio präsentieren wir Ihnen laufend diese Werke, die Sie mit Sicherheit begeistern werden.
+title: Bestselling Wall Art Prints - LUMAS
+snippet: Wall art prints | LUMAS . Discover our bestselling art prints, framed and unframed, easy to hang and mount. Our collection encompasses famous artists and up-and-comers in the artworld, working in innumerable genres of photo art and digital collage.
+
+REL: 3
+POI Name: Caricatura Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum für Komische Kunst - caricatura museum frankfurt
+snippet: Caricatura Museum Frankfurt. Museum für Komische Kunst. Weckmarkt 17. D-60311 Frankfurt am Main. Tel +49 (0) 69 212 301 61. Mail an das Museum. www.caricatura-museum.de. Preise. 6 € / 3 € ermäßigt. Freier Eintritt für Kinder und Jugendliche bis 18 J. Alle Infos. Anfahrt. Bahnverbindung U4 / U5 Römer.
+title: Informationen und Service - caricatura museum frankfurt
+snippet: Gruppen können Führungen durch das caricatura museum frankfurt bestellen. Die Führungen dauern 45 bis 60 Minuten und gehen durch die Dauerausstellung „Die Zeichner der Neuen Frankfurter Schule“ und die jeweilige Wechselausstellung. Die Führungen kosten 60,- € für eine Gruppe bis zu 25 Personen zusätzlich zum Eintrittspreis.
+title: Caricatura Museum Frankfurt - 2020 All You Need to Know ...
+snippet: Hotels near Caricatura Museum Frankfurt: (0.40 mi) Jumeirah Frankfurt (0.50 mi) NH Collection Frankfurt City (0.60 mi) Adina Apartment Hotel Frankfurt Neue Oper (0.66 mi) Sofitel Frankfurt Opera (0.82 mi) Townhouse Hotel; View all hotels near Caricatura Museum Frankfurt on Tripadvisor
+title: Caricatura Museum Frankfurt (Tyskland) - Anmeldelser
+snippet: Caricatura Museum Frankfurt, Frankfurt: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Caricatura Museum Frankfurt i Frankfurt, Tyskland på Tripadvisor.
+title: Caricatura Museum Frankfurt (Frankfurt am Main) - Aktuelle ...
+snippet: Hotels in der Nähe von Caricatura Museum Frankfurt: (0.63 km) Jumeirah Frankfurt (0.80 km) NH Collection Frankfurt City (0.95 km) Adina Apartment Hotel Frankfurt Neue Oper (1.06 km) Sofitel Frankfurt Opera (1.31 km) Townhouse Hotel; Sehen Sie sich alle Hotels in der Nähe von Caricatura Museum Frankfurt auf Tripadvisor an.
+title: Robert Gernhardt - caricatura museum frankfurt
+snippet: Aus diesem Anlass präsentiert das Caricatura Museum Frankfurt eine Werkschau, die das satirische Schaffen Robert Gernhardts in seiner ganzen Vielfalt zeigt. Robert Gernhardt (1937-2006) lebte als Zeichner und Maler, Lyriker, Schriftsteller und Drehbuchautor in Frankfurt am Main.
+title: Caricatura Museum Frankfurt - Museum für Komische Kunst ...
+snippet: Caricatura Museum Frankfurt - Museum für Komische Kunst - Weckmarkt 17, 60311 Frankfurt, Germany - Rated 4.8 based on 127 Reviews &quot;It&#39;s a shame it...
+title: Veranstaltungsvorschau - caricatura museum frankfurt
+snippet: Caricatura Museum Frankfurt. Museum für Komische Kunst. Weckmarkt 17. D-60311 Frankfurt am Main. Tel +49 (0) 69 212 301 61. Mail an das Museum. www.caricatura-museum.de. Preise. 6 € / 3 € ermäßigt. Freier Eintritt für Kinder und Jugendliche bis 18 J. Alle Infos. Anfahrt. Bahnverbindung U4 / U5 Römer.
+title: Caricatura Museum Frankfurt | Frankfurt Tourism
+snippet: This position was further strengthened with the opening of the caricatura museum frankfurt in 2008. The museum&#39;s permanent exhibition shows a variety of works by F. W. Bernstein, Robert Gernhardt, Chlodwig Poth, Hans Traxler and F. K. Waechter.
+title: OTTO WAALKES - caricatura museum frankfurt
+snippet: Die Werke von Otto Waalkes im Caricatura Museum Frankfurt. Am 22. Juli 2018 wird Otto Waalkes 70 Jahre alt. Otto ist vor allem durch seine Bühnenshow, Filme und Fernsehauftritte bekannt. Weltberühmt sind zudem seine Ottifanten als seine ersten unverkennbaren Zeichenfiguren.
+
+REL: 3
+POI Name: Galerie Schulstraße 1 A
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Galerie Schulstraße 1 A - Sachsenhausen-Nord - Frankfurt ...
+snippet: Galerie Schulstraße 1 A in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: Galerie Schulstraße 1 A - Art gallery in Frankfurt - Singulart
+snippet: Art galleries Frankfurt Find the best art galleries in Frankfurt on Singulart the #1 source for buying art online from recognized artists!
+title: Galerie Schulstraße 1 A Frankfurt am Main 60594, Galerie
+snippet: Galerie Schulstraße 1 A in Frankfurt am Main 60594 - Firmenprofil, Telefonnummer, Adresse, Postleitzahl, Stadtplan und mehr
+title: Galerie Schulstraße 1 A - Galerie d&#39;art à Francfort-sur-le ...
+snippet: Galeries d&#39;art Francfort-sur-le-Main Trouvez les meilleures galeries d&#39;art à Francfort-sur-le-Main sur Singulart la première source en ligne pour acheter les œuvres d&#39;artistes connus !
+title: contemporary art | galerie perpétuel | frankfurt am main ...
+snippet: perpétuel contemporary art gallery frankfurt am main
+title: Detailansicht | Galerien in Frankfurt und Rhein-Main
+snippet: Das aktuelle Programm der Galerien für Moderne Kunst in Frankfurt und Rhein-Main - Ausstellungen, Events, Künstler, Malerei / Zeichnung, Skulptur / Plastik / Objekte, Fotografie / E-Media, Installation, Video, Auflagenkunst, Abstrakte Kunst, Außereuropäische Kunst, Figurative Kunst, Installationen, Klassische Moderne, Konstruktivismus / Konkrete Kunst, Neue Tendenzen / Neue Medien, Realismus
+title: galerie schulstrasse 1a - Art Gallery in Frankfurt
+snippet: 3 visitors have checked in at galerie schulstrasse 1a. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: AusstellungsHalle 1a
+snippet: Die AusstellungsHalle in Frankfurt-Sachsenhausen zeigt und vermittelt zeitgenössische Kunst. Bildhauerei, Handzeichnung, Fotografie und vor allem freie Malerei wecken, wie sich gezeigt hat, das Publikumsinteresse.
+title: Antik Galerie Museum in Darmstadt, Schulstrasse 1 a
+snippet: Antik Galerie Schulstrasse 1 a 64283 Darmstadt DB-Routenplaner: Anreise per Bahn, mit Angabe der regionalen Verkehrsmittel. « zurück. Sonderausstellung. Frankfurt a.M., Kunstgewerbe-Museum . Darmstadt, Schloss und Ernstludwigplatz vom Turm des Museums gesehen 1929.
+title: Montana Store Frankfurt, Schulstrasse 3, Frankfurt (2020)
+snippet: 10/10/2013 . Veranstaltungstip für Freitag: Am Freitag, den 11.10. ist der Graffiti-Künstler Chris Ganter aka &quot;Jeroo&quot; in Frankfurt zu Gast. Er präsentiert zwischen 17 und 18 Uhr in der Heussenstamm Galerie, Braubachstraße 34, 60311 Frankfurt, sein neues Buch „Graffiti School – Der Weg zum eigenen Style“.
+
+REL: 3
+POI Name: LANP-Art
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: LANP-Art - Gutleutviertel - Frankfurt, Hessen, Germany - Yelp
+snippet: 2 reviews of LANP-Art &quot;Nur ein sehr kranke Persone konnte schreiben es.&quot; LANP-Art - Museums - Hirtenstr. 60, Gutleutviertel, Frankfurt, Hessen, Germany - Yelp Yelp
+title: you.ctrip.com
+snippet: 法兰克福旅游攻略指南? 携程攻略社区! 靠谱的旅游攻略平台，最佳的法兰克福自助游、自由行、自驾游、跟团旅线路，海量 ...
+title: Antique Lantern for sale | eBay
+snippet: You may want to choose this type of antique lantern for general illumination. Spotlight - Some kinds of vintage lanterns for sale on eBay have main shells that are mostly covered. There is a single glass opening at the center to allow light to come through.
+title: Wie komme ich zu Ghetto Spot in Frankfurt Am Main mit dem ...
+snippet: Moovit hilft dir den besten Weg zu Ghetto Spot mit dem Nahverkehr zu finden und gibt dir Schritt-für-Schritt Wegbeschreibung mit aktualisierten Abfahrtszeiten für dem Bus, der U-Bahn, der S-Bahn oder der Straßenbahn in Frankfurt Am Main
+title: REFERENCES - LAMPART
+snippet: mercure hotel kaiserhof frankfurt city center. doubletree by hilton hotel - afyonkarahİsar. mercure hotel bomonti- istanbul. adalya elite lara hotel - antalya. eftelia ocean hotel - antalya. westin lemmar hotel - jeddah.
+title: Museums in Eschborn - Yelp
+snippet: Find the best Museums on Yelp: search reviews of 46 Eschborn businesses by price, type, or location.
+title: 2020LANP-Art-旅游攻略-门票-地址-问答-游记点评，法兰克福旅游旅游景点推荐-去哪儿攻略
+snippet: 去哪儿网攻略社区为自由行、自助游用户提供LANP-Art旅游攻略，包括LANP-Art点评、介绍、门票、地址、电话、问答、交通等实用信息，以及真实用户原创的游记和经验分享，实地拍摄的LANP-Art图片
+title: Die 8 besten Bilder von Lampen in 2020 | Lampen ...
+snippet: Floor lamp, Art wooden stand, drum lampshade, different colors lampshade : OOAK handgefertigte Stehlampe Art Holz stehen drum 20 DIY Ideen Zu Verwenden, die Alten Sachen – Home Improvement DIY Ideen Zu Verwenden, die Alten Sachen – Home Improvement Projekte Weihnachtsverpackung - ChritmasDIY Weihnachtsverpackung, Wreaths for the Holidays that
+title: Sabine Lampart - Verwaltungsangestellte - ALDI SÜD | XING
+snippet: Machen Sie sich fit für die neue Arbeitswelt: mit Ihrer professionellen Online-Visitenkarte, wertvollen Kontakten, inspirierenden News aus Ihrer Branche und besten Chancen auf die wirklich guten Jobs.
+title: Light art - Wikipedia
+snippet: Light art or luminism is an applied art form in which light is the main medium of expression. It is an art form in which either a sculpture produces light, or light is used to create a &quot;sculpture&quot; through the manipulation of light, colours, and shadows.These sculptures can be temporary or permanent, and can exist in two distinctive spaces: indoor galleries, such as museum exhibits, or ou
+
+REL: 3
+POI Name: Frankfurter Kunstverein
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, Social Clubs, 
+Snippets:
+title: Frankfurter Kunstverein | fkv.de
+snippet: To receive regular updates on the exhibition programme and events of Frankfurter Kunstverein, fill in your email address at the end of this box. You can withdraw your subscription at any time by sending an email to post@fkv.de or by clicking on the link at the end of each newsletter, which leads to a deletion of the collected user data.
+title: Frankfurter Kunstverein e.V. - ffkv.info
+snippet: Frankfurter Kunstverein e.V. kontakt : ausstellung : verein : infos : impressum : Datenschutz : Bewerbung : links
+title: Frankfurter Kunstverein - Wikipedia
+snippet: The Frankfurt Art Association (German: Frankfurter Kunstverein) is an art museum founded in 1829 by a group of influential citizens of the city of Frankfurt, Germany.The aim of the institution is to support the arts in the city, which was an important center of trade and business. Works of art were bought and exhibitions organized in order to open access to art and culture for the public.
+title: Frankfurter Kunstverein | ADKV – Arbeitsgemeinschaft ...
+snippet: Der Frankfurter Kunstverein wurde 1829 gegründet und ist einer der ältesten und größten Kunstvereine in Deutschland. Das international renommierte Ausstellungshaus für zeitgenössische Kunst blickt auf eine lange und abwechslungsreiche Geschichte zurück. Mit dem Schwerpunkt auf der Präsentation junger Werke und Positionen, sind hier viele richtungsweisende Künstler und künstlerische ...
+title: Frankfurter Kunstverein (Frankfurt) - 2020 All You Need to ...
+snippet: Hotels near Frankfurter Kunstverein: (0.29 mi) Jumeirah Frankfurt (0.49 mi) NH Collection Frankfurt City (0.49 mi) Adina Apartment Hotel Frankfurt Neue Oper (0.53 mi) Sofitel Frankfurt Opera (0.70 mi) Townhouse Hotel; View all hotels near Frankfurter Kunstverein on Tripadvisor
+title: Frankfurter Kunstverein (Frankfurt, Tyskland) - Anmeldelser
+snippet: Frankfurter Kunstverein, Frankfurt: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Frankfurter Kunstverein i Frankfurt, Tyskland på Tripadvisor.
+title: Stories for a Damaged Planet - Frankfurter Kunstverein
+snippet: From 10 th October 2019 to 19 th January 2020 Frankfurter Kunstverein presents the exhibition “Trees of Life – Stories for a Damaged Planet” in cooperation with the Senckenberg Nature Museum Frankfurt.
+title: On the Grid : Frankfurter Kunstverein
+snippet: At the heart of the city in the Steinernes Haus and its annex the Frankfurter Kunstverein presents extraordinary contemporary art across its 900 m2 of ... The mixture of long-standing cultural influences with modern international &quot;Frankfurt way of life&quot; stands for the inner-city experience.
+title: Frankfurter Kunstverein - Cafe - Frankfurt, Germany ...
+snippet: Frankfurter Kunstverein, Frankfurt am Main. 10K likes. Der Frankfurter Kunstvereins präsentiert internationale Gegenwartskunst und ist ein Ort der Begegnung und Auseinandersetzung mit den Themen...
+title: FKV - Frankfurter Kunstverein - Start
+snippet: Vom Sektempfang nach der Trauung bis zur Hochzeitsfeier, die repräsentative Firmenfeier in einem historischen Ambiente oder eine stimmungsvolle Weihnachtsfeier im Herzen des Frankfurter Weihnachtsmarktes, ein unvergessliches Jubiläum oder der runde Geburtstag mit privater Führung durch die aktuelle Ausstellung im Frankfurter Kunstverein.
+
+REL: 3
+POI Name: Leo Pinkertons KunstKabinett
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, Cultural Center, 
+Snippets:
+title: Leo Pinkertons KunstKabinett - Rödelheim - Frankfurt ...
+snippet: Leo Pinkertons KunstKabinett in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: Leo Pinkertons KunstKabinett - Home | Facebook
+snippet: Leo Pinkertons KunstKabinett. 8 likes. Seit Mai 2009 betreibe ich Leo Pinkertons KunstKabinett im Herzen von Frankfurt-Rödelheim. Frei-Raum, Kreativ-Raum und Aktions-Raum findet sich unter einem...
+title: Leo Pinkertons KunstKabinett – Frankfurt am Mai ...
+snippet: Kontaktinformationen und 1 bewertung für Leo Pinkertons KunstKabinett in Assenheimer Straße 17, Frankfurt am Main, Hessen anzeigen oder eine Bewertung schreiben. Erkunden Sie eine interaktive Karte mit Orten in der Nähe.
+title: leopinkertonskunstkabinett: KunstKabinett
+snippet: Besuchen Sie Leo Pinkertons KunstKabinett in der Assenheimer Str. 17-19 60489 Frankfurt am Main (Rödelheim) Entecken Sie einen besonderen Platz im Herzen von Rödelheim • Frei-Räume • Kreativ-Räume • Aktions-Räume Entnehmen Sie die Öffnungszeiten bitte den jeweiligen Veranstaltungen oder machen Sie einen individuellen Termin aus
+title: leopinkertonskunstkabinett: 2009
+snippet: in Leo Pinkertons KunstKabinett Vernissage am 28 Altäre der Welt Malerei in Acryl, Aquarell, Pastellkreiden, Bleistift von Lisa Schäfer, Janine Jakobs und Arafel (Marcus Hoeber) Die Bilder sind bis zum 20. Dezember 2009 zu sehen. Der Eintritt ist frei! Leo Pinkertons KunstKabinett Assenheimer Str. 17-19 60489 Frankfurt am Main Tel: 0178 - 60 ...
+title: LeoPinkertonKK - YouTube
+snippet: Kreatives, Kunst, Frankfurt, Rödelheim. Skip navigation Sign in. Search. Home Trending History Get YouTube Premium Get YouTube TV Best of YouTube Music ...
+title: Flyping-Games Cubus mit eingeschriebenem Ikosaeder (173 ...
+snippet: Vorstellung eines Kubus mit eingeschriebenem Ikosaeder von Dieter Junker in Leo Pinkertons KunstKabinett, Frankfurt.
+title: leopinkertonskunstkabinett: Klang-Raum
+snippet: Kein Unterricht mehr im KunstKabinett! Leo Pinkerton empfiehlt! Annabella Vales-Master of Music. Annabella Vales studierte bereits als Kind am Dr. Hoch&#39;s Konservatorium in Frankfurt am Main. Im Jahr 2000 begann sie ihr Studium der Klavierpädagogik an der Hochschule für Musik und Darstellende Kunst ebenfalls in Frankfurt.
+title: leopinkertonskunstkabinett
+snippet: Seit dem 01.08.2011 ist Leo Pinkertons KunstKabinett geschlossen. Deshalb wird diese Homepage innerhalb der kommenden Zeit umgebaut und aktualisiert. Sollten sich im Kalender oder auf anderen Seiten hier noch Terminankündigungen finden, die in die Zukunft weisen, so sind diese nicht mehr gültig.
+title: Flyping-Games Cube One 177+178 - YouTube
+snippet: Vorstellung vom Flyping-Game Cube One durch Dieter Junker in geselliger Runde in Leo Pinkertons KunstKabinett in Frankfurt.
+
+REL: 3
+POI Name: Historisches Museum Frankfurt
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Historisches Museum Frankfurt
+snippet: Das Historische Museum Frankfurt schließt alle Standorte vorerst bis zum 19.4.2020.
+title: Sonderausstellungen | Historisches Museum Frankfurt
+snippet: Mehrmals im Jahr werden im Museumsquartier neue Sonderausstellungen zu aktuellen Themen präsentiert. Dafür steht der große Ausstellungsbereich auf Ebene 0 ebenso wie die Bibliothek der Generationen und das Stadtlabor im Giebelgesschoss des Ausstellungshauses zur Verfügung.
+title: Informationen | Historisches Museum Frankfurt
+snippet: Historisches Museum Frankfurt Saalhof 1 (ehemals Fahrtor 2) 60311 Frankfurt am Main Wir empfehlen die Anfahrt mit öffentlichen Verkehrsmitteln. Verkehrsverbindungen U-Bahnen U4, U5 (Dom/Römer) Straßenbahnen 11, 12 (Römer/Paulskirche) zu Fuß ca. 5 Minuten von den Haltestellen über den Römerberg Richtung Mainufer.
+title: Stadtlabor | Historisches Museum Frankfurt
+snippet: Stadtlabor im Museum. Mit dem neuen Ausstellungraum „Frankfurt Jetzt!“ haben wir eine ca. 600 Quadratmeter große Fläche für wechselnde Stadtlabor-Aktivitäten bekommen. Nachdem wir mehrere Jahre lang unsere Ausstellungen im Stadtraum und an eher museumsuntypischen Orten, wie einem Freibad, den Nebenräumen einer Turnhalle, einem Autohaus oder einer leerstehenden Büroetage gezeigt haben ...
+title: Veranstaltungen | Historisches Museum Frankfurt
+snippet: Welche Rolle spielte Höchster Porzellan im alltäglichen Leben des 18. Jahrhunderts? Spielerischer Rundgang mit Eltern, Großeltern und Kindern ab 6 Jahren
+title: Führungen | Historisches Museum Frankfurt
+snippet: Das Museum bietet Führungen und Stadtgänge zu verschiedenen Themen an. Die Angebote können gebucht werden. Für die Führungsanfragen benötigen wir mindestens 14 Tage Vorlaufzeit. Gruppen ohne Führungen melden sich bitte im Vorfeld beim Besucherservice (Tel. +49 69 212-35154, besucherservice[at]historisches-museum-frankfurt.de) an.
+title: CAFÉS IM MUSEUM – Im Historischen Museum Frankfurt
+snippet: Willkommen in den Cafés im Historischen Museum Frankfurt. Gönnen Sie sich eine Pause mit leckeren Kaffee-Spezialitäten, Getränken, Kuchen und kleinen Snacks.
+title: Historical Museum, Frankfurt - Wikipedia
+snippet: The Historical Museum (German: Historisches Museum) in Frankfurt am Main, Germany, was founded in 1878, and includes cultural and historical objects relating to the history of Frankfurt and Germany.It moved into the Saalhof in 1955, and a new extension was opened in 1972. The 1970s extension is currently being replaced by a modern new exhibition building and a small administration building ...
+title: Historisches Museum Frankfurt – Wikipedia
+snippet: Das Historische Museum (HMF) von Frankfurt am Main wurde 1877/1878 auf Grund bürgerschaftlicher Initiativen gegründet mit der Aufgabe, „geeignete Gegenstände aus dem gesamten Gebiet der Kultur- und Kunstaltertümer mit besonderer Berücksichtigung der Stadt Frankfurt am Main und ihrer Umgebung zu erwerben und sie durch wissenschaftliche Erforschung nutzbar zu machen“.
+title: Welcome | Junges Museum Frankfurt
+snippet: Die Werkstätten des Jungen Museums gewähren Einblick in historische Prozesse, vermitteln handwerkliche und künstlerische Techniken. Achtung! Geschlossen vom 14. März bis 10. April &gt;&gt; Projekte. Projektwoche-Tour durch die Frankfurter Geschichte 3. bis 6. Klasse &gt;&gt; Kalender. Am Wochenende ist eine Werkstatt oder ein historischer Spielraum zum ...
+
+REL: 3
+POI Name: eulengasse
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: ᐅ Öffnungszeiten „Sozialrathaus Bornheim“ | Eulengasse 64 ...
+snippet: Eulengasse 64 60385 Frankfurt Am Main Neueröffnungen in Frankfurt Am Main Verkaufsoffene Sonntage in Frankfurt Am Main Kontaktdaten 069 21230547 069 21230547 * Faxnummer ergänzen » Webseite ergänzen » E-Mail Adresse ergänzen »
+title: Eulengasse, Frankfurt am Main Stadtplan - meinestadt.de
+snippet: Eulengasse, Frankfurt am Main . Hier findest du hilfreiche Orte und Ausgehmöglichkeiten auf und in der Nähe von Eulengasse: Parkplätze, Hotels, Restaurants und weitere Services wie Geldautomaten. In der Liste oder im Stadtplan findest auch du den Ort oder Service, der dich interessiert.
+title: Kinderzentrum Eulengasse (KiZ 110) - kindernetfrankfurt
+snippet: Bitte geben Sie hier Ihre Meldeadresse in Frankfurt am Main an. Sollten Sie aktuell nicht in Frankfurt gemeldet sein und einen Umzug nach Frankfurt planen, so geben Sie bitte Ihre aktuelle Adresse außerhalb Frankfurts an. Bitte beachten Sie auch, dass zur Zeit keine Plätze an Kinder ohne Meldeadresse in Frankfurt vergeben werden, da alle Plätze für Frankfurter Kinder benötigt werden.
+title: eulengasse - Bornheim - Frankfurt, Hessen, Germany
+snippet: eulengasse in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: Sozialrathaus Bornheim (Frankfurt am Main) - Sozialamt
+snippet: Sozialamt Frankfurt am Main: Informationen zu Sozialrathaus Bornheim. Egal ob Adresse, Anschrift, E-Mail, Kontakt, Lage, Öffnungszeiten, Telefonnummer oder Webauftritt – hier finden Sie alles Wichtige zu Sozialrathaus Bornheim in Frankfurt am Main.
+title: Home [bau-art-ffm.com]
+snippet: Bau.Art Projektgesellschaft mbH. Eulengasse 47. 60385 Frankfurt . Tel: 069/95159675. Fax: 069/95159676 . E-Mail: info@bau-art-ffm.com info@bau-art-ffm.com
+title: Ausstellungsraum EULENGASSE - Home | Facebook
+snippet: Ausstellungsraum EULENGASSE, Frankfurt, Germany. 1.3K likes. EULENGASSE wurde im Oktober 2003 gegründet. Der Verein begreift sich als Plattform für Künstler und Interessierte an zeitgenössischer...
+title: Sozialamt (Sozialrathaus) Ost - Dienstort Bornheim ...
+snippet: Sozialberatung für hör- und sprachbehinderte Menschen Das Sozialamt Bornheim ist zuständig für alle Frankfurter Stadtteile. Das Sozialamt (Sozialrathaus Ost) bietet Hilfe und Beratung für Kinder und Jugendliche Familien und Alleinstehende Senioren und Menschen mit Behinderungen Persönliche Ansprechpartnerinnen: Frau Knecht (Zimmer U 38) SMS: 0171 - 1274108 Frau Fischer (Zimmer U 36) SMS ...
+title: Eulengasse in Frankfurt am Main ⇒ in Das Örtliche
+snippet: Eulengasse 58, 60385 Frankfurt am Main, Bornheim. Ihre Daten prüfen. Änderung melden. Jetzt offen bis 21:30 Uhr - Öffnungszeiten. 10. Fitzpatrick Elaine Eulengasse 15, 60385 Frankfurt am Main, Bornheim Blumengrüße versenden mit Euroflorist
+title: Marion Gabriel - Ausstellungsraum EULENGASSE
+snippet: Ausstellungsraum EULENGASSE Seckbacher Landstraße 16 60389 Frankfurt-Bornheim eMail info(at)eulengasse.de ÖFFNUNGSZEITEN Do 17-21 Uhr · Fr 15-18 Uhr
+
+REL: 3
+POI Name: Ikonen-Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Start - Ikonen-Museum Frankfurt am Main - Stiftung Schmidt ...
+snippet: Das Museum zeigt online von seinen mehr als 1.000 Exponaten viele Bilder mit Erklärung, informiert über aktuelle Ausstellungen und deren Hintergründe; ein Newsletter kann abonniert werden.
+title: Ikonen Museum (Frankfurt) - 2020 All You Need to Know ...
+snippet: We are the #1 tour in Frankfurt for a reason. Our native Engish-speaking guides always try to make your tour memorable with unique tidbits of Frankfurt history as well as being passionate about showing you this beautiful city. We believe the only way to see Frankfurt is on foot where you can enter buildings and see where history was made.
+title: Ikonen Museum (Frankfurt, Tyskland) - Anmeldelser
+snippet: Ikonen Museum, Frankfurt: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Ikonen Museum i Frankfurt, Tyskland på Tripadvisor.
+title: Ikonen Museum (Frankfurt am Main) - Aktuelle 2020 - Lohnt ...
+snippet: Hotels in der Nähe von Ikonen Museum: (1.04 km) Jumeirah Frankfurt (1.36 km) INNSIDE Frankfurt Ostend (1.15 km) NH Collection Frankfurt City (1.07 km) Adina Apartment Hotel Frankfurt Neue Oper (1.50 km) Hampton by Hilton Frankfurt City Centre East; Sehen Sie sich alle Hotels in der Nähe von Ikonen Museum auf Tripadvisor an.
+title: Ikonen-Museum Frankfurt - Frankfurt, Germany | Facebook
+snippet: Ikonen-Museum Frankfurt - Brückenstraße 4-6, 60594 Frankfurt, Germany - Rated 4.6 based on 19 Reviews &quot;The temporary exhibition ( Die hessischen...
+title: Aktuell - Ikonen-Museum Frankfurt am Main - Stiftung ...
+snippet: Lieblingsstücke neu entdeckt Ikonen aus der Sammlung des Ikonen-Museums. Ikonen sind die Kult- und Heiligenbilder der Ostkirche. Die aktuelle Ausstellung im Ikonen-Museum Frankfurt zeigt die ganze Vielfalt der Ikonenkunst, sowohl in stilistisch-künstlerischer Art als auch in der umfänglichen Themenwahl.
+title: Frankfurt am Main – Wikipedia
+snippet: Frankfurt am Main (hessisk: Frangford am Maa), ofte omtalt bare som Frankfurt, er den største byen i den tyske delstaten Hessen og den femte største byen i Tyskland, og ligger ved elven Main vest i Tyskland. Frankfurt lå innenfor Frankerriket og har i likhet med dette og det moderne Frankrike navn etter folkegruppen frankere; leddet ford eller furt betyr vadested.
+title: Beste spisesteder i nærheten av Ikonen Museum, Frankfurt
+snippet: Restauranter i nærheten av Ikonen Museum på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Ikonen Museum, Frankfurt.
+title: Beste hoteller i nærheten av Ikonen Museum, Frankfurt
+snippet: Hoteller i nærheten av Ikonen Museum, Frankfurt: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Ikonen Museum på Tripadvisor.
+title: DE 10 BESTE museene i Frankfurt - Tripadvisor
+snippet: Vi har funnet gode resultater utenfor Frankfurt. Utvid søket ditt. Stadel Museum. 2 464 anmeldelser Nr. 1 av 50 Museer i Frankfurt Finn ut mer Se 5 opplevelser Dialogmuseum Frankfurt. ... Ikonen Museum. 39 anmeldelser Nr. 17 av 50 Museer i Frankfurt Finn ut mer Juedisches Museum. 109 anmeldelser Nr. 18 av 50 Museer i Frankfurt Finn ut mer
+
+REL: 3
+POI Name: Senckenberg-Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Music Venues, 
+Snippets:
+title: Home · Senckenberg Museum Frankfurt
+snippet: Die neuen Ausstellungsbereiche Tiefsee, Meeresforschung und Korallenriff des Frankfurter Museums werden ein Schaufenster der modernen Meeresforschung und tragen pünktlich zur 2021 beginnenden UN-Dekade der Ozeanforschung zur Information und Sensibilisierung bei, wie auch diese Vortragsreihe.
+title: Home | Senckenberg Gesellschaft für Naturforschung
+snippet: Das Senckenberg Museum Frankfurt bleibt bis 19. April geschlossen. Alle Veranstaltungen fallen aus. Aktuelles. Liebe Besucher*innen, aufgrund der Corona-Pandemie bleibt das Senckenberg Naturmuseum Frankfurt ab sofort bis vorerst 19.4.2020 geschlossen.
+title: Home · Senckenberg Museum Frankfurt
+snippet: From the tiny ladybug to the giant fin whale, from fossilized plants to meteorites from outer space - on a total area of 6,000 square meters, the Senckenberg Natural History Museum displays rare and often spectacular exhibits. The museum&#39;s modernization is an essential step toward their optimal protection and preservation. Your contribution will help us tackle this project.
+title: Naturmuseum Senckenberg - Wikipedia
+snippet: The Naturmuseum Senckenberg is a museum of natural history, located in Frankfurt am Main.It is the second-largest of its type in Germany. The Senckenberg Museum is particularly popular with children, who enjoy the extensive collection of dinosaur fossils: Senckenberg boasts the largest exhibition of large dinosaurs in Europe. One notable exhibit is a dinosaur fossil with unique, preserved ...
+title: Dauerausstellung · Senckenberg Museum Frankfurt
+snippet: Auszubildende der Stadt Frankfurt gegen Nachweis eine Begleitperson pro gebuchter Führung (nur Schulklassen, Kitas und Vereine) Begleitperson eines Behinderten (ab 50%), sofern eine Begleitung für den Besuch des Museums aufgrund der Art der Behinderung notwendig ist.
+title: Senckenberg Naturmuseum Frankfurt @museum.de
+snippet: Beschreibung. Das Senckenberg Naturmuseum ist eines der großen Naturkundemuseen in Deutschland und zeigt die heutige Vielfalt des Lebens (Biodiversität) und die Entwicklung der Lebewesen (Evolution) sowie die Verwandlung unserer Erde über Jahrmillionen hinweg.
+title: Senckenberg Naturmuseum – Wikipedia
+snippet: Lerne im Museum – 182 Themen zur Naturgeschichte aus dem Senckenberg-Museum. Kramer, Frankfurt am Main 1972, ISBN 3-7829-1038-9. Klemens Mörmann (Hrsg.): Der deutsche Museumsführer in Farbe. Museen und Sammlungen in der Bundesrepublik Deutschland und West-Berlin. Büchergilde Gutenberg, Frankfurt am Main/Olten/Wien 1983, , S. 340.
+title: Senckenberg Museum of Natural History | Frankfurt Tourism
+snippet: The Senckenberg Museum - one of the largest Natural History Museums in Germany - exhibits the evolution of life and its recent biodiversity.
+title: Virtual Reality · Senckenberg Museum Frankfurt
+snippet: Visitors from twin towns of Frankfurt city with identity card: Birmingham, Budapest, Deuil-La-Barre, Granada in Nicaragua, Guangzhou, Cairo, Kraków, Leipzig, Lyon, Milan, Philadelphia, Prague, Tel Aviv, Toronto, Yokohama, Dubai, Eskişehir: Escorts of disabled (from 50% on), in case support is essential for the visit of the museum
+title: Naturmuseum Senckenberg (Frankfurt am Main) - Aktuelle ...
+snippet: Unsere englischsprachigen Muttersprachler versuchen immer, Ihre Tour mit einzigartigen Details der Frankfurter Geschichte unvergesslich zu machen und Ihnen diese wunderschöne Stadt mit Leidenschaft zu zeigen. Wir glauben, dass Frankfurt nur zu Fuß zu sehen ist, wo Sie Gebäude betreten und sehen können, wo Geschichte geschrieben wurde.
+
+REL: 3
+POI Name: Archäologisches Museum Frankfurt
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: QANGA - archaeologisches-museum-frankfurt.de
+snippet: Ihr Archäologisches Museum Frankfurt We regret, that due to the decision of the administration of the city of Frankfurt, the ARCHÄOLOGISCHES MUSEUM and KAISERPFALZ franconofurd will remain closed until the 10 th of April 2020. All events are canceled.
+title: Aufgabe - archaeologisches-museum-frankfurt.de
+snippet: Das Archäologische Museum Frankfurt präsentiert, bewahrt, vermittelt und erforscht die Archäologie und Geschichte der Stadt Frankfurt und seines Umlandes – vom Neolithikum bis zur frühen Neuzeit. Die bedeutenden regional- und stadtgeschichtlichen Funde stammen aus umfangreichen archäologischen Ausgrabungen.
+title: Info
+snippet: Ihr Archäologisches Museum Frankfurt We regret, that due to the decision of the administration of the city of Frankfurt, the ARCHÄOLOGISCHES MUSEUM and KAISERPFALZ franconofurd will remain closed until the 10 th of April 2020. All events are canceled. Info.
+title: Mitarbeiter - archaeologisches-museum-frankfurt.de
+snippet: Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden.
+title: Archäologisches Museum Frankfurt (Frankfurt am Main ...
+snippet: Hotels in der Nähe von Archäologisches Museum Frankfurt: (0.67 km) Jumeirah Frankfurt (0.45 km) Adina Apartment Hotel Frankfurt Neue Oper (0.84 km) Sofitel Frankfurt Opera (1.03 km) Hotel Concorde (0.79 km) Townhouse Hotel; Sehen Sie sich alle Hotels in der Nähe von Archäologisches Museum Frankfurt auf Tripadvisor an.
+title: Archaologisches Museum Frankfurt - 2020 All You Need to ...
+snippet: Hotels near Archäologisches Museum Frankfurt: (0.42 mi) Jumeirah Frankfurt (0.28 mi) Adina Apartment Hotel Frankfurt Neue Oper (0.53 mi) Sofitel Frankfurt Opera (0.64 mi) Hotel Concorde (0.50 mi) Townhouse Hotel; View all hotels near Archäologisches Museum Frankfurt on Tripadvisor
+title: Archaeological Museum | Frankfurt Tourism
+snippet: The Archaeological Museum devotes itself to the investigation, documentation and presentation of archaeological findings of Frankfurt and its environs from pre-historic times, the Roman period, the Middle Ages and the modern era.
+title: Archäologisches Museum Frankfurt (Tyskland) - Anmeldelser
+snippet: Archäologisches Museum Frankfurt, Frankfurt: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Archäologisches Museum Frankfurt i Frankfurt, Tyskland på Tripadvisor.
+title: Archäologisches Museum Frankfurt @museum.de
+snippet: Das Archäologische Museum Frankfurt präsentiert, bewahrt und erforscht die Archäologie und Geschichte der Stadt Frankfurt und seines Umlandes – vom Neolithikum bis zur frühen Neuzeit. Zusammen mit dem Denkmalamt nimmt das Museum die Aufgaben des Hessischen Denkmalschutzgesetzes für die Bodendenkmäler des Stadtgebiets Frankfurt wahr.
+title: KAISERPFALZ franconofurd
+snippet: Das Archäologische Museum Frankfurt präsentiert auf dem Domhügel den ehemaligen Archäologischen Garten mit den ältesten erhaltenen Gebäuderesten Frankfurts, in neuer architektonischer und musealer Gestalt.
+
+REL: 3
+POI Name: ernst-may-haus
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Landmarks & Historical Buildings, Museums, 
+Snippets:
+title: ernst-may-gesellschaft Frankfurt am Main: Home
+snippet: Startseite der Homepage der ernst-may-Gesellschaft e.v. Frankfurt am Main
+title: ernst-may-gesellschaft Frankfurt am Main: mayhaus
+snippet: ernst-may-haus. Im Burgfeld 136, 60439 Frankfurt, Anfahrt Tel. +49 (0)69 15 34 38 83 Öffnungszeiten: Dienstag bis Donnerstag 11 bis 16 Uhr Samstag und Sonntag 12 bis 17 Uhr Aufgrund der aktuellen Lage bleibt das ernst-may-haus bis einschließlich 10. April 2020 leider geschlossen. Öffnungszeiten an den Feiertagen 2020: 10.4.
+title: Ernst May Haus &amp; Museum (Frankfurt am Main) - Aktuelle ...
+snippet: Hotels in der Nähe von Ernst May Haus &amp; Museum: (4.68 km) Grandhotel Hessischer Hof (3.72 km) Mercure Hotel Frankfurt Eschborn Ost (4.55 km) Zum Schwanen (3.53 km) Mercure Hotel Frankfurt Eschborn Helfmann-Park (4.50 km) Hyatt House Frankfurt Eschborn; Sehen Sie sich alle Hotels in der Nähe von Ernst May Haus &amp; Museum auf Tripadvisor an.
+title: Ernst May Haus &amp; Museum (Frankfurt) - 2020 All You Need to ...
+snippet: Hotels near Ernst May Haus &amp; Museum: (2.93 mi) Grandhotel Hessischer Hof (2.33 mi) Mercure Hotel Frankfurt Eschborn Ost (2.85 mi) Zum Schwanen (2.20 mi) Mercure Hotel Frankfurt Eschborn Helfmann-Park (2.81 mi) Mercure Hotel Frankfurt Eschborn Sued; View all hotels near Ernst May Haus &amp; Museum on Tripadvisor
+title: Ernst May Haus &amp; Museum (Frankfurt, Tyskland) - Anmeldelser
+snippet: Ernst May Haus &amp; Museum, Frankfurt: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Ernst May Haus &amp; Museum i Frankfurt, Tyskland på Tripadvisor.
+title: Ernst-May-House | Frankfurt Tourism
+snippet: Twenty-three housing schemes were realised in the 1920s according to the functional Bauhausstyle, designed by Ernst May. The architecture of &quot;New Frankfurt&quot; became world-famous.
+title: ernst-may-gesellschaft Frankfurt am Main: Musterhaus
+snippet: Das Haus hatte Einfachverglasung in Holzrahmen, Zimmertüren aus Sperrholz und eine blechbeschlagene Haustür. Die Restaurierungsarbeiten ergaben, dass die Farbgebung der Innenausstattung abwechlungsreich gestaltet war: Die Fensterrahmen waren in blau gehalten, die Türen hatten graue Zargen, der Treppenaufgang war gelb, die Kellertür orangerot gestrichen.
+title: De 10 beste hotellene i nærheten av Ernst May Haus &amp; Museum
+snippet: Hoteller i nærheten av Ernst May Haus &amp; Museum, Frankfurt: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Ernst May Haus &amp; Museum på Tripadvisor.
+title: ernst-may-gesellschaft Frankfurt am Main: Frankfurter Küche
+snippet: Homepage der ernst-may-Gesellschaft e.v. Frankfurt am Main. Nur sechseinhalb Quadratmeter, also 1,87 Meter breit und 3,44 Meter lang, das waren die Mindestmaße der flurähnlichen Standardküche, die die Wiener Architektin Margarete Schütte-Lihotzky 1926 entwarf.
+title: ernst-may-gesellschaft Frankfurt am Main: das neue frankfurt
+snippet: Homepage der ernst-may-Gesellschaft e.v. Frankfurt am Main. &quot;Das Neue Frankfurt&quot; ist der Titel eines von Ernst May initiierten Journals, das wegweisend die baukulturellen, künstlerischen und sozialpolitischen Ideen vieler Protagonisten der Epoche 1926- 1931 dokumentierte.
+
+REL: 3
+POI Name: Goethe-Haus
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Landmarks & Historical Buildings, 
+Snippets:
+title: Aktuelles — Goethehaus Frankfurt
+snippet: Goethe-Haus Hier, im Frankfurter Goethehaus, wurde der Dichter am 28. August 1749 geboren, und hier verbrachte er seine Kindheit und Jugend. Mit seinen alten Möbeln und Bildern vermittelt das spätbarocke Bürgerhaus ein lebendiges Bild dieser Zeit.
+title: Goethe House — Goethehaus Frankfurt
+snippet: Welcome to the Frankfurt Goethe House! This is where Johann Wolfgang Goethe was born on the 28th of August 1749 &quot;at midday, as the clock was striking twelve&quot;, and where he grew up with his sister Cornelia.
+title: Goethe-Haus – Wikipedia
+snippet: Bei dem Luftangriff auf Frankfurt vom 22. März 1944, dem 112. Todestag Goethes, wurde der Straßenzug des Großen Hirschgrabens schwer beschädigt und auch das Goethe-Haus durch Fliegerbomben zerstört. Schon 1947 begann die originalgetreue Rekonstruktion durch den Architekten Theo Kellner; 1951 fand die feierliche Eröffnung statt.Die während des Kriegs ausgelagerten Schätze an Möbeln ...
+title: Goethe House - Wikipedia
+snippet: The Goethe House is a writer&#39;s house museum in the Innenstadt district of Frankfurt am Main, Germany.. The original building was the family residence of the Goethe family, most notably Johann Wolfgang von Goethe, until 1795.Johann Wolfgang was himself born here in 1749 to his parents, Johann Caspar Goethe, a lawyer, and Katherine Elisabeth Textor, daughter of the mayor (Bürgermeister) of ...
+title: Frankfurt Goethe-Museum and Goethe-House | Frankfurt Tourism
+snippet: The Frankfurt Goethe House, birthplace of Germany´s most famous author and poet, Johann Wolfgang von Goethe, was built in the typical 18th-century bourgeois...
+title: Goethe-Haus Frankfurt - Home | Facebook
+snippet: Goethe-Haus Frankfurt. 948 likes. In Goethes Elternhaus kann man in den original eingerichteten Räumen das Leben in einem Frankfurter Bürgerhaus des 18. Jahrhunderts nachvollziehen.
+title: Goethe House (Frankfurt) - 2020 All You Need to Know ...
+snippet: According to Tripadvisor travelers, these are the best ways to experience Goethe House: Frankfurt on Foot Daily Walking Tour in English (From $18.49) Costume tour at the Goethe House (From $271.10) Frankfurt Express Hop-on Hop-off Tour (From $18.97) Frankfurt Skyline Hop-on Hop-off Tour (From $22.32) Frankfurt City Tour (From $41.88)
+title: Öffnungszeiten &amp; Eintritt — Goethehaus Frankfurt
+snippet: Die Tourismus+Congress GmbH Frankfurt bietet für Individualreisende ein attraktives Reisepaket auf Goethes Spuren an. Weitere Informationen und Buchung unter Telefon +49(0)69-21230808, ... Goethe-Haus / Ausstellungsräume Das gesamte Museumsgebäude ist aus Sicherheitsgründen videoüberwacht.
+title: Goethe-Haus — Goethehaus Frankfurt
+snippet: Willkommen im Frankfurter Goethe-Haus! Hier wurde Johann Wolfgang Goethe am 28. August 1749 &quot;mit dem Glockenschlage zwölf&quot; geboren, hier wuchs er bei seinen Eltern Johann Caspar und Catharina Elisabeth, zusammen mit seiner Schwester Cornelia auf.
+title: Goethe-Haus – Wikipedia
+snippet: Goethe-Haus (”Goethehuset”) är ett hus i Frankfurt am Main.Adressen är Grosser Hirschgraben 23 och huset är mest känt för att författaren Johann Wolfgang von Goethe föddes här.. Huset köptes av Johann Wolfgangs farmor Cornelia 1733.
+
+REL: 3
+POI Name: multi.trudi
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: multi.trudi - Gallus - Frankfurt, Hessen, Germany
+snippet: 2 reviews of multi.trudi &quot;multi.trudi is an alternative artistrun space. There are no exhibitions or fixed artworks for display. Visitors instead are asked to participate, - in conversation, discussion, or games or sometimes music. It can…
+title: multi.trudi, Frankfurt - Project Space Survival Strategies
+snippet: multi.trudi Run by Stefan Beck Frankfurt, Germany www.multitrudi.de Just the basic facts: multi.trudi is an artspace since 1997, run by me, Stefan Beck (Media Artist). It has been located at different locations in the city. Since 2004 at Hohenstaufenstr. 13-25. At that time its name was changed to trudi.sozial to...
+title: multi.trudi artspace 1997 - 2010 by stefan beck
+snippet: Homepage of multi.trudi artspace, offspace and artproject, Frankfurt/Main, Germany, based on exchange, conversation and participation 1997 - 2010
+title: Events Flyers 1997 - multi.trudi
+snippet: multi.trudi Eröffnung (opening), 05.09.1997. Aus Anlass der Eröffnung von multi.trudi gabs von The Thing den wöchentlichen Rundbrief &quot; Info von The Thing Frankfurt&quot; mit Partytips und Kommentaren zum Kulturleben in Frankfurt.
+title: Inside multi.trudi artspace offspace Frankfurt - your ...
+snippet: Frameset of multi.trudi artproject, Frankfurt, Main, Germany, based on conversation and participation Inside multi.trudi artspace Frankfurt Das ist die Startseite des Kunstraums multi.trudi (Frankfurt/Main, Germany), die ein frameset aus drei Frames enthält.
+title: Multi.trudi • Frankfurt am Main • Hessen •
+snippet: Der erste Tag Freitag von multi.trudi page 48h Japan . Deutschland Kunstgießereien. Anmelden Registrieren Mit Facebook anmelden. M. Multi.trudi Noch nicht bewertet Bewerten hohenstaufenstr 13-25, Frankfurt am Main, Hessen, 60327. Über uns; Wie komme ich hin? MULTI.TRUDI | Frankfurt am Main
+title: multi.trudi | 1325 gleiche maasse neues design frisch wie ...
+snippet: multi.trudi arbeitet weiterhin an Konzepten für Veranstaltungen jenseits von Kunst- oder Clubbetrieb. Eröffnung: Sa., 14.8. 2004 ( Bilder ) mit Vorstellung des neuen Thing Books, des Taschenführers zum Internetprojekt The Thing Frankfurt.
+title: Studio Berlin Warum in Frankfurt bleiben? - multi.trudi
+snippet: Der kommende multi.trudi Abend soll denjenigen gewidmet sein, die bis jetzt Frankfurt verlassen haben. Wie die nachfolgende Liste zeigt, handelt es sich hier um Akademiker, die ihre Ausbildung in Frankfurt genossen haben und nun ihr Wissen in Berlin anlegen. Das wäre nicht weiter schlimm, wenn diese &quot;Verluste&quot; durch Zuzug ausgeglichen würden.
+title: Multi.trudi: Kulturelle Einrichtungen &amp; Kultur multitrudi.de
+snippet: Der Ausstellungsraum am Frankfurter Osthafen bietet in regelmäßigen Abständen Veranstaltungen an. Mit Terminkalender, Bildergalerie und Gästebuch. Multi.trudi in der Kategorie Kultur.
+title: multi.trudi - Art gallery in Frankfurt - Singulart
+snippet: Art galleries Frankfurt Find the best art galleries in Frankfurt on Singulart the #1 source for buying art online from recognized artists! Art knows no bounds - safe &amp; FREE shipment to your doorstep. Art knows no bounds - Singulart ensures safe and FREE shipments to your doorstep.
+
+REL: 3
+POI Name: Städel Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Das Städel Museum – Kunstmuseum in Frankfurt
+snippet: Das Städel Museum bleibt bis einschließlich 19. April 2020 geschlossen. Das Städel folgt damit der behördlichen Vorsorgemaßnahme der Stadt Frankfurt im Zuge der Verbreitung des Coronavirus (Covid-19). Alle geplanten Veranstaltungen finden nicht statt.
+title: Homepage | Städel Museum
+snippet: The Städel Museum will be closed temporarily until 19 April 2020. With this decision the Städel Museum is following official precautionary measures set forth by the city of Frankfurt in regards to the spread of the Coronavirus (Covid-19). All scheduled events are cancelled.
+title: Ausstellungen | Städel Museum
+snippet: Die Ausstellungen im Städel Museum: Monet und die Geburt des Impressionismus, William Hogarth. Laster des Lebens, Die 80er. Figurative Malerei in der BRD u.v.m.
+title: Städel Museum - Wikipedia
+snippet: The Städel Museum, officially the Städelsches Kunstinstitut und Städtische Galerie, is an art museum in Frankfurt, with one of the most important collections in Germany.The Städel Museum owns 3,100 paintings, 660 sculptures, more than 4,600 photographs and more than 100,000 drawings and prints. It has around 4,000 m² of display and a library of 115,000 books.
+title: Exhibitions | Städel Museum - Kunstmuseum in Frankfurt
+snippet: Current exhibitions at the Städel Museum. Back to the Present. New Perspectives, New Works – The Collection from 1945 to Today
+title: Digitale Angebote | Städel Museum
+snippet: Das Städel Museum am Museumsufer in Frankfurt am Main ist eines der bedeutendsten deutschen Kunstmuseen. Heute geschlossen. Ticket kaufen Mehr Infos. Heute im Städel. Mehr im Kalender Schliessen. Heute finden keine Veranstaltungen statt. Für Veranstaltungen der nächsten Tage besuchen Sie bitte unseren Kalender.
+title: Digitale Sammlung – Städel Museum
+snippet: Städel Museum. 1815 als bürgerliche Stiftung von dem Bankier und Kaufmann Johann Friedrich Städel begründet, gilt das Städel Museum als älteste und renommierteste Museumsstiftung in Deutschland. Unter einem Dach bietet die Sammlung des Städel einen nahezu lückenlosen Überblick über 700 Jahre europäische Kunstgeschichte – vom ...
+title: Stadel Museum (Frankfurt) - 2020 All You Need to Know ...
+snippet: Skip the Line: Städel Museum Frankfurt Entrance Ticket (Weekend &amp; Bank Holiday) (16) $18.13 per adult. What travelers are saying 4.5. Read all 2,464 reviews. The Van Goch exhibition was fabulous. The docent doing a tour told me I was standing to close to a picture.
+title: Digital Collection – Städel Museum
+snippet: Städel Museum Established as a civic foundation in 1815 by the banker and businessman Johann Friedrich Städel, the Städel Museum ranks as Germany’s oldest museum foundation. Under a single roof, its collection offers a virtually complete survey of seven hundred years of European art from the early fourteenth century to the present, with focuses on the Renaissance, the Baroque, early ...
+title: Städel Museum - YouTube
+snippet: Das Frankfurter Städel Museum präsentiert Lotte Laserstein (1898–1993) in einer umfassenden Einzelausstellung vom 18. September 2018 bis 17. März 2019.
+
+REL: 3
+POI Name: Die Galerie Gesellschaft für Kunsthandel mbH
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, Antiques, 
+Snippets:
+title: DIE Galerie - News
+snippet: DIE GALERIE, Frankfurt am Main. Pablo Picasso – das ist Inbegriff für die überbordende, unermessliche Phantasie eines grenzenlosen Genies, omnipräsent auch heute noch, nach mehr als 100 Jahren. Allein die Druckgraphik des Künstlers fasst in seinen Werkverzeichnissen mehrere Bände, ...
+title: Die Galerie Gesellschaft für Kunsthandel mbH - 12 Photos ...
+snippet: Die Galerie Gesellschaft für Kunsthandel mbH in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: DIE GALERIE Gesellschaft für Kunsthandel mbH 60323 ...
+snippet: Aktuelle Informationen für DIE GALERIE Gesellschaft für Kunsthandel mbH wurden am 05.04.2019 eingefügt. Wenn Sie helfen möchten, die Firmeninformationen auf gelbeseiten.de auf dem aktuellen Stand zu halten, nutzen Sie einfach die Funktion Daten ändern
+title: DIE GALERIE Gesellschaft für Kunsthandel mbH Frankfurt am ...
+snippet: Antiquitäten und Kunsthandlungen: DIE GALERIE Gesellschaft für Kunsthandel mbH in Frankfurt am Main, Grüneburgweg 123 mit Telefonnummer und Stadtplan bei GoYellow.
+title: DIE GALERIE Gesellschaft für Kunsthandel mbH Museum in ...
+snippet: Das Museum DIE GALERIE Gesellschaft für Kunsthandel mbH in Frankfurt Grüneburgweg 123. Museumssuche Aktuelles. Abenteuer Museum Animiertes ... DIE GALERIE Gesellschaft für Kunsthandel mbH Grüneburgweg 123 60323 Frankfurt DB-Routenplaner: Anreise per Bahn, mit Angabe der regionalen Verkehrsmittel. « zurück.
+title: - Die Galerie - Gesellschaft für Kunsthandel mbH in ...
+snippet: - Die Galerie - Gesellschaft für Kunsthandel mbH in Frankfurt am Main im Branchenbuch von meinestadt.de - Telefonnummer, Adresse, Stadtplan, Routenplaner und mehr für - Die Galerie - Gesellschaft für Kunsthandel mbH Frankfurt am Main
+title: DIE GALERIE Gesellschaft für Kunsthandel mbH Galerie in ...
+snippet: DIE GALERIE Gesellschaft für Kunsthandel mbH ist in der Grüneburgweg 123 im Stadtteil Westend-Süd zu finden. Folgendes wird angeboten: Galerie - In Frankfurt am Main gibt es noch 71 weitere Galerie.
+title: Die Galerie Gesellschaft Für Kunsthandel M.b.h ...
+snippet: / DIE GALERIE Gesellschaft für Kunsthandel m.b.H. DIE GALERIE Gesellschaft für ... Gesellschaft mit beschränkter Haftung (GmbH) Geschäftstätigkeit (WZ08) ... HRB 41262 Frankfurt am Main: USt-IdNr. DE113541849.
+title: DIE GALERIE Gesellschaft für Kunsthandel mbH - Galerie d ...
+snippet: Galeries d&#39;art Francfort-sur-le-Main Trouvez les meilleures galeries d&#39;art à Francfort-sur-le-Main sur Singulart la première source en ligne pour acheter les œuvres d&#39;artistes connus !
+title: DIE GALERIE Gesellschaft für Kunsthandel mbH Frankfurt ...
+snippet: Für DIE GALERIE Gesellschaft für Kunsthandel mbH in Frankfurt am Main sind 7 Bewertungen abgegeben worden.. Erfahren Sie mehr zu den Bewertungen für DIE GALERIE Gesellschaft für Kunsthandel mbH in Frankfurt am Main auf werkenntdenBESTEN.de.
+
+REL: 3
+POI Name: Villa Metzler
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: KGV - Die Villa
+snippet: Dr. med. Moritz Schmidt-Metzler (1828-1907) und Mathilde Friederike Metzler (1840-1932) Das Ehepaar zog 1889 in die Villa ein. Der Arzt und Laryngologe war seit 1862 als Arzt am Frankfurter Bürgerhospital, behandelte Kronprinz Friedrich, den späteren Kaiser Friedrich III. und wurde 1892 zum Professor ernannt.
+title: Historische Villa Metzler / Museum Angewandt Kunst
+snippet: Danksagung an die Förderer. Wir bedanken uns bei den Freunden und Förderern, die die Renovierung und Revitalisierung der Historischen Villa Metzler ermöglicht haben: Kunstgewerbeverein in Frankfurt am Main e.V., das ist der Verein der Freunde und Förderer des Museums, für die Übernahme der Trägerschaft und Gründung der Historische Villa Metzler gGmbH.
+title: Villa Metzler (Frankfurt, Tyskland) - Anmeldelser ...
+snippet: Villa Metzler, Frankfurt: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Villa Metzler i Frankfurt, Tyskland på Tripadvisor.
+title: Villa Metzler (Frankfurt) - 2020 All You Need to Know ...
+snippet: We are the #1 tour in Frankfurt for a reason. Our native Engish-speaking guides always try to make your tour memorable with unique tidbits of Frankfurt history as well as being passionate about showing you this beautiful city. We believe the only way to see Frankfurt is on foot where you can enter buildings and see where history was made.
+title: Villa Metzler – Wikipedia
+snippet: Geschichte. Die Villa Metzler gehört zum Museum Angewandte Kunst. Der Name Metzler rührt, was das Gebäude betrifft, her aus der Bedeutung der Villa für einen Zeitraum von 77 Jahren. Die über 200-jährige Geschichte erschöpft sich jedoch weder darin noch in der jüngsten Funktion des Prachtbaus als Museumsort.
+title: Villa Metzler (Frankfurt am Main) - Aktuelle 2020 - Lohnt ...
+snippet: Hotels in der Nähe von Villa Metzler: (0.93 km) Jumeirah Frankfurt (0.63 km) Adina Apartment Hotel Frankfurt Neue Oper (1.00 km) Townhouse Hotel (1.02 km) Lindner Hotel &amp; Residence Main Plaza (0.50 km) Motel One Frankfurt-Romer; Sehen Sie sich alle Hotels in der Nähe von Villa Metzler auf Tripadvisor an.
+title: Historische Villa Metzler | Frankfurt Tourism
+snippet: The Historical Villa Metzler has three salons available for event hire, all of them being multifunctional in their use. The villa is scenically set along the River Main, just a stone’s throw from the Eiserne Steg footbridge. Moreover, the Römerberg old town and the city centre are both just a short walk away.
+title: THE 10 CLOSEST Hotels to Villa Metzler, Frankfurt ...
+snippet: Hotels near Villa Metzler, Frankfurt on Tripadvisor: Find 12,832 traveler reviews, 48,514 candid photos, and prices for 30 hotels near Villa Metzler in Frankfurt, Germany.
+title: Emma Metzler - Restaurant in Sachsenhausen, Frankfurt am ...
+snippet: Das Restaurant Emma Metzler befindet sich in Frankfurt Sachsenhausen, mit einer großzügigen Terrasse im Grün des Metzler Parks direkt am Museum angewandte Kunst.
+title: The 10 best hotels near Villa Metzler in Frankfurt, Germany
+snippet: Hotel in Frankfurt City Center (Old Town), Frankfurt (0.3 miles from Villa Metzler) This hotel is located in the heart of Frankfurt am Main, just around the corner from the Old Town, cathedral and the modern art museum. Located in Frankfurt, near German Film Museum, Museumsufer and Städel Museum ...
+
+REL: 3
+POI Name: Kriminal-Museum
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Stadtführung Kriminalmuseum im Polizeipräsidium ...
+snippet: Blicken Sie mit dem Team der Frankfurter Polizei hinter die Kulissen der spannendsten Kriminalfälle der Frankfurter Geschichte und bestaunen Sie im Kriminalmuseum des Polizeipräsidiums die original Exponate der Verbrechen. Nichts für schwache Nerven, auf mehr als 200 qm warten die wohl spannendsten und schlimmsten Verbrechen der Frankfurter Polizeigeschichte auf Sie.
+title: Kriminal-Museum - Nordend-West - Frankfurt, Hessen, Germany
+snippet: Kriminal-Museum in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: Kriminal-Museum Frankfurt - Frankfurt, Germany - History ...
+snippet: Kriminal-Museum Frankfurt, Frankfurt, Germany. 12 likes · 22 were here. History Museum
+title: Kriminal-Museum Frankfurt e.V. - Nordend-West - 0 tips
+snippet: See 1 photo from 32 visitors to Kriminal-Museum Frankfurt e.V.. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hotels near Kriminal-Museum Frankfurt e.V - Find hotel deals
+snippet: Search and compare hotels near Kriminal-Museum Frankfurt e.V with Skyscanner hotels. Plus millions of rooms from hotels, resorts, apartments and hostels all around the world.
+title: Medieval Crime Museum (Mittelalterliches Kriminalmuseum ...
+snippet: We recommend booking Medieval Crime Museum (Mittelalterliches Kriminalmuseum) tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 5 Medieval Crime Museum (Mittelalterliches Kriminalmuseum) tours on Tripadvisor
+title: Kriminal-Museum Frankfurt e.V. Museen in Frankfurt am Main ...
+snippet: Kriminal-Museum Frankfurt e.V. in Frankfurt am Main Nordend West, Hessen, Förderverein, Förderverein zur Strasse: Adickesallee 70, Förderverein, Förderverein zur Unterstützung, Kriminal Museum
+title: Mittelalterliches Kriminalmuseum — 1.000 Jahre ...
+snippet: Die Cookie-Einstellungen auf dieser Website sind auf &quot;Cookies zulassen&quot; eingestellt, um das beste Surferlebnis zu ermöglichen. Wenn du diese Website ohne Änderung der Cookie-Einstellungen verwendest oder auf &quot;Akzeptieren&quot; klickst, erklärst du sich damit einverstanden.
+title: Struwwelpeter-Museum (Frankfurt am Main) - Aktuelle 2020 ...
+snippet: Unsere englischsprachigen Muttersprachler versuchen immer, Ihre Tour mit einzigartigen Details der Frankfurter Geschichte unvergesslich zu machen und Ihnen diese wunderschöne Stadt mit Leidenschaft zu zeigen. Wir glauben, dass Frankfurt nur zu Fuß zu sehen ist, wo Sie Gebäude betreten und sehen können, wo Geschichte geschrieben wurde.
+title: Police Museums — IPA Region 9 US Section - San Francisco ...
+snippet: Listed is the most comprehensive list of police museums in the nation and worldwide. If you are aware of any other police museums not listed here please let us know. Email: ... Kriminal Museum. Frankfurt Police Museum. Hessen State Police Museum. Hochschule Museum Ausstellung. Berlin Police Museum. Kellinghusen Police Museum.
+
+REL: 3
+POI Name: Städelscher Museums-Verein e.V.
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Social Clubs, 
+Snippets:
+title: Städelscher Museums-Verein e.V. - Staedelverein
+snippet: Städelscher Museums-Verein e.V. Dürerstraße 2 60596 Frankfurt am Main zum Routenplaner Weitere Infos Newsletter Mit unserem Newsletter informieren wir über Veranstaltungen und alle wichtigen Neuigkeiten aus dem Freundeskreis. zur Anmeldung
+title: Ihre Mitgliedschaft / Städelverein
+snippet: Städelscher Museums-Verein e.V. Dürerstraße 2 60596 Frankfurt am Main zum Routenplaner Weitere Infos Newsletter Mit unserem Newsletter informieren wir über Veranstaltungen und alle wichtigen Neuigkeiten aus dem Freundeskreis. zur Anmeldung
+title: Städelscher Museums-Verein e.V. - Museums - Dürerstr. 2 ...
+snippet: Städelscher Museums-Verein e.V. in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: Städelscher Museums-Verein e.V. Map - South Hesse, Germany ...
+snippet: Städelscher Museums-Verein e.V. is a museum in South Hesse. Städelscher Museums-Verein e.V. is situated nearby to Bahnhofsviertel. From Mapcarta, the free map.
+title: Impressum / Städelverein
+snippet: Der Städelsche Museums-Verein e.V. wurde am 27. Juni 1899 gegründet. Der Verein wurde am 2. November 1901 unter der Nummer 73 VR 500 in das Amtsgericht Frankfurt am Main eingetragen. Die Vereinsregister-Nummer wurde am 2. August 1965 in VR 4089 umgeschrieben. Die letzte Satzungsänderung datiert vom 26.
+title: Verein / Städelverein
+snippet: Städelscher Museums-Verein e.V. Dürerstraße 2 60596 Frankfurt am Main zum Routenplaner Weitere Infos Newsletter Mit unserem Newsletter informieren wir über Veranstaltungen und alle wichtigen Neuigkeiten aus dem Freundeskreis. zur Anmeldung
+title: Städelscher Museums-Verein e.V. Frankfurt am Main 60596 ...
+snippet: Städelscher Museums-Verein e.V. in Frankfurt am Main 60596 - Firmenprofil, Telefonnummer, Adresse, Postleitzahl, Stadtplan und mehr
+title: Städelscher Museums-Verein e.V. Karte - Südhessen ...
+snippet: Die Frankfurter Rudergesellschaft Germania 1869 e. V. in Frankfurt am Main ist einer der ältesten und größten Rudervereine in Deutschland. Frankfurter Rudergesellschaft Germania 1869 liegt 130 Meter westlich von Städelscher Museums-Verein e.V..
+title: Membership / Städelverein
+snippet: I hereby agree that the Städelscher Museums-Verein has permission to use my name, title, address, phone number, and email address for membership administration. My data can be used in the database and for statistical purposes. Furthermore, I give permission to be contacted about offers by the Städelverein.
+title: Peasant Woman Planting Potatoes - Vincent van Gogh ...
+snippet: Google Arts &amp; Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world&#39;s treasures online.
+
+REL: 3
+POI Name: Karmeliterkloster
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Institut für Stadtgeschichte Frankfurt
+snippet: Institut für Stadtgeschichte. Im Karmeliterkloster Münzgasse 9 60311 Frankfurt am Main. 069 212-37914 / 212-38425 069 212-30753 E-Mail. Das Institut für Stadtgeschichte Frankfurt am Main stellt nach Beschluss der Stadt Frankfurt wegen der Corona-Krise den Besucherbetrieb bis zum 19.
+title: Institut für Stadtgeschichte Frankfurt - Veranstaltungen ...
+snippet: Übersicht über die Veranstaltungen des Instituts für Stadtgeschichte in den kommenden Monaten: Ausstellungen, Vorträge, Konzerte, Erzählcafé und Führungen....
+title: Karmeliterkloster (Frankfurt am Main) – Wikipedia
+snippet: Das Karmeliterkloster in Frankfurt am Main. Geschichte und Kunstdenkmäler, Frankfurt am Main 1999. Fried Lübbecke: Das Antlitz der Stadt. Nach Frankfurts Plänen von Faber, Merian und Delkeskamp. 1552-1864. Frankfurt am Main 1952. Roswitha Mattausch-Schirmbeck: Jörg Ratgeb’s Wandmalereien im Frankfurter Karmeliterkloster.
+title: Karmeliterkloster | Frankfurt Tourism
+snippet: Karmeliterkloster. The former Carmelite ... Donations by Frankfurt patricians, including the von Holzhausen family, made it possible to enlarge the presbytery in 1430. The refectory and the cloister were added later, elongating the monastery in a northerly direction. ... Frankfurt Tourism.
+title: Karmeliterkloster (Frankfurt, Tyskland) - Anmeldelser
+snippet: Karmeliterkloster, Frankfurt: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Karmeliterkloster i Frankfurt, Tyskland på Tripadvisor.
+title: Karmeliterkloster | Frankfurt Tourismus
+snippet: Die Klosteranlage der Karmeliter entwickelte sich ab 1246 auf dem Areal zwischen Münz-, Seckbächer-, Alter Mainzer und Karmelitergasse. Ein erster Saalbau wurde 1270 eingeweiht, ihm folgte bis 1290 ein rechteckiger Chor.
+title: Karmeliterkloster - Frankfurt am Main - Bewertungen und Fotos
+snippet: Wir empfehlen Ihnen, Touren für Karmeliterkloster frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 1 Touren für Karmeliterkloster auf Tripadvisor an.
+title: Karmeliterkloster, Frankfurt - Tripadvisor
+snippet: We recommend booking Karmeliterkloster tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 Karmeliterkloster tours on Tripadvisor
+title: Frankfurt am Main – Wikipedia
+snippet: Frankfurt am Main (hessisk: Frangford am Maa), ofte omtalt bare som Frankfurt, er den største byen i den tyske delstaten Hessen og den femte største byen i Tyskland, og ligger ved elven Main vest i Tyskland. Frankfurt lå innenfor Frankerriket og har i likhet med dette og det moderne Frankrike navn etter folkegruppen frankere; leddet ford eller furt betyr vadested.
+title: Restaurants Near Karmeliterkloster, Frankfurt, Germany
+snippet: Restaurants near Karmeliterkloster, Frankfurt on Tripadvisor: Find traveler reviews and candid photos of dining near Karmeliterkloster in Frankfurt, Hesse.
+
+REL: 3
+POI Name: MMK 1
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: MMK
+snippet: MMK. de Eine Retrospektive FRANK WALTER. Bis So 27. September 2020 im MUSEUMMMK. Earthseed PRECIOUS OKOYOMON. Bis So 14. Juni 2020 im ZOLLAMTMMK. E mmk@stadt-frankfurt.de T +49 69 212 30447 F +49 69 212 37882 ...
+title: TOWERMMK - MMK
+snippet: Das MMK Museum für Moderne Kunst Frankfurt am Main gehört zu den weltweit bedeutendsten Museen für Gegenwartskunst und hat in seiner vergleichsweise jungen Historie einen festen Platz in der internationalen Museumslandschaft eingenommen.
+title: MUSEUM – MMK | Frankfurt Tourismus
+snippet: Die Sammlung des MUSEUM MMK umfasst hochkarätige Werke der europäischen und amerikanischen Kunst der 60er Jahre bis hin zu aktuellen Positionen der internationalen Gegenwartskunst. Das zentrale Anliegen des MUSEUM MMK besteht im Aufbau einer Sammlung zeitgenössischer Kunst und in deren Vermittlung.
+title: MUSEUM – MMK | Frankfurt Tourism
+snippet: After the museum’s founding in 1981, the architect Hans Hollein was commissioned to design a building for it in Domstrasse.
+title: Museum für Moderne Kunst - Wikipedia
+snippet: The Museum für Moderne Kunst (English: Museum of Modern Art), or short MMK, in Frankfurt, Germany, was founded in 1981 and opened to the public June 6, 1991.The museum was designed by the Viennese architect Hans Hollein.Because of its triangular shape, it is popularly called &quot;piece of cake&quot;, Claes Oldenburg artistically has expressed in a work.
+title: MUSEUM MMK FÜR MODERNE KUNST - YouTube
+snippet: Das MUSEUM MMK FÜR MODERNE KUNST wurde 1991 eröffnet und gilt heute als eines der führenden Museen für ... or when the Frankfurt Sufferhead beer, newly brewed by Emeka Ogboh, links the ...
+title: Museum für Moderne Kunst – Wikipedia
+snippet: Juni 1991 das neue Museum für Moderne Kunst (MMK) Frankfurt am Main. Mit einem neuen Ausstellungsmodell, dem Szenenwechsel, der mithilfe privater Sponsoren insgesamt 20 Mal stattfand (Szenenwechsel I, 1992 bis Szenenwechsel XX, 2001-2), gewann das neue Museum internationales Renommee.
+title: MMK 1|2|3 Ausstellungsvorschau 2017 - STADTKIND FRANKFURT
+snippet: MMK 3: Deutsche Börse Photography Prize 29.06. – 17.09.2017. Zum zweiten Mal zeigt das MMK 3 die Arbeiten der Finalisten des Deutsche Börse Photography Prize.Die Auszeichnung wird jährlich an einen zeitgenössischen Fotokünstler vergeben, der im Vorjahr in Form einer Ausstellung oder Publikation einen bedeutenden Beitrag zur Fotografie in Europa geleistet hat.
+title: MMK 1, Frankfurt am Main - Joris Baudoin
+snippet: MMK 1, Frankfurt am Main &lt; &gt; On January 2nd, 2018, we walk along the river Main and the awe-inspiring building of the European Central Bank. The Museum of Modern Art, the MMK is a few blocks away, right in the center. There are three MMKs: 1, 2 and 3.
+title: Home | mmk.cz
+snippet: MMK - Výroba rezinových modelů, konverzních setů a doplňk ... flatrack M 1 with four big boxes. F 3069. M 1076 with flatrack M 1. F 3070. M 1076 with flatrack M 1 and four big boxes. F 3071. M915A1. RZ 35051. Thermos. RZ 35057. four wooden boxes. RZ 35058. The Great War Memorial. Contact us.
+
+REL: 2
+POI Name: Fresco & Art
+POI City: Munich
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Munich - Wikipedia
+snippet: When Bavaria was reunited in 1506, Munich became its capital. The arts and politics became increasingly influenced by the court (see Orlando di Lasso and Heinrich Schütz). During the 16th century, Munich was a centre of the German counter reformation, and also of renaissance arts.
+title: Fresco &amp; Art - Maxvorstadt - Munich, Bayern, Germany
+snippet: Fresco &amp; Art in Munich, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Munich and beyond.
+title: Peter von Cornelius - Wikipedia
+snippet: The fresco decorations of the Ludwigskirche in Munich, which were for the most part designed and executed by Cornelius, were perhaps the most important mural works of their time. The large fresco of the Last Judgment, over the high altar in that church, measures 62 feet (19 m) in height by 38 feet (12 m) in width.The frescoes of the Creator, the Nativity, and the Crucifixion in the same ...
+title: Nymphenburg Palace Fresco, Munich, Germany jigsaw puzzle ...
+snippet: Nymphenburg Palace Fresco, Munich, Germany puzzle in Piece of Art jigsaw puzzles on TheJigsawPuzzles.com. Play full screen, enjoy Puzzle of the Day and thousands more.
+title: Neue Pinakothek | simply Munich
+snippet: Explore art, ranging from the late 1700s, through the 1800s all the way to the early 20th century in the Neue Pinakothek in Munich | the official travel guide
+title: Frescoes | Definition of Frescoes at Dictionary.com
+snippet: Frescoes definition, the art or technique of painting on a moist, plaster surface with colors ground up in water or a limewater mixture. See more.
+title: Fresco Dance &amp; Art Center - Fresco - Yoram Karmi Dance Company
+snippet: About Fresco Art &amp; Dance Center. Crowded rows of stalls fill the 4th floor plaza at the Central Bus Station. In the space between the fast-food restaurants and the cheap clothing stores, you can find almost anything you can think of: trinkets, multi-prints and sequins, a maze of Asian food stands ready from the nearby supermarket, with unfamiliar vegetables and rattles.
+title: FRESCO, Munich - Restaurant Reviews &amp; Phone Number ...
+snippet: Fresco, Munich: See unbiased reviews of Fresco, one of 3,405 Munich restaurants listed on Tripadvisor.
+title: Fresco painting | Britannica
+snippet: Fresco painting, method of painting water-based pigments on freshly applied plaster, usually on wall surfaces. The colours, which are made by grinding dry-powder pigments in pure water, dry and set with the plaster to become a permanent part of the wall. Fresco painting is ideal for making murals
+title: THE 10 BEST Museums You&#39;ll Want to Visit in Munich ...
+snippet: Apr 3, 2020 - Looking to get inspired on your trip to Munich? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Munich to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 2
+POI Name: Museum für Kommunikation Frankfurt
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum für Kommunikation Frankfurt
+snippet: Museum für Kommunikation Frankfurt von Samstag, 14.3. bis einschließlich Freitag, 10.4.2020 für den Publikumsverkehr. Vielen Dank für Ihr Verständnis – bleiben Sie gesund! Das Museumsteam Schießen
+title: Ausstellungen - Museum für Kommunikation Frankfurt
+snippet: Museum für Kommunikation Frankfurt von Samstag, 14.3. bis einschließlich Freitag, 10.4.2020 für den Publikumsverkehr. Vielen Dank für Ihr Verständnis – bleiben Sie gesund! Das Museumsteam Schießen
+title: Service – Museum für Kommunikation Frankfurt
+snippet: Museum für Kommunikation Frankfurt von Samstag, 14.3. bis einschließlich Freitag, 10.4.2020 für den Publikumsverkehr. Vielen Dank für Ihr Verständnis – bleiben Sie gesund! Das Museumsteam Schießen
+title: Museum für Kommunikation (Frankfurt am Main) - Aktuelle ...
+snippet: Hotels in der Nähe von Museum für Kommunikation: (0.90 km) Villa Kennedy (0.40 km) Adina Apartment Hotel Frankfurt Neue Oper (1.06 km) Manhattan Hotel &amp; Bar (0.97 km) IntercityHotel Frankfurt Hauptbahnhof Süd (1.03 km) Hotel Concorde; Sehen Sie sich alle Hotels in der Nähe von Museum für Kommunikation auf Tripadvisor an.
+title: Museum for Communication Frankfurt
+snippet: the museum will close on, March 14, and remain closed until April 10. We will carefully reassess the situation in the coming weeks and share updates when they become available. Sincerely Museum for Communication
+title: digital - Museum für Kommunikation Frankfurt
+snippet: Museum für Kommunikation Frankfurt digital Alle Museumsangebote rund um den digitalen Wandel . Die Digitalisierung verändert unser Leben. Umso wichtiger ist es, Chancen und Folgen zu verstehen, nutzen und aktiv mitzugestalten.
+title: Museum fur Kommunikation (Frankfurt) - 2020 All You Need ...
+snippet: My experience in the Museum für Kommunikation Frankfurt with Erasmus+ This museum is a combination of old and new, showing the evolution of communication over the years. I spent a few hours there and I couldn&#39;t take my eyes off the extremely interesting sculptures and facts that were presented there.
+title: Kinderwerkstatt im Museum für Kommunikation Frankfurt
+snippet: Unsere jungen und jung gebliebenen Besucherinnen und Besucher können hier während der Öffnungszeiten des Museums spielerisch die Wege der Kommunikation entdecken. Die Kinderwerkstatt ist für Kinder ab 4 Jahre geeignet und wird durchgehend von geschulten Mitarbeitern betreut.
+title: Ihr Besuch im Museum für Kommunikation Frankfurt
+snippet: Das Museum für Kommunikation Frankfurt bleibt bis einschließlich Freitag, den 10. April 2020 für den Publikumsverkehr geschlossen. Eintrittspreise. Eintritt ab 6 Jahre 1,50 EUR Eintritt ab 18 Jahre 6 EUR Ermäßigter Eintritt 4 EUR gilt für Schüler*innen, Studierende (nicht Studierende der Universität des 3.
+title: Museum für Kommunikation Frankfurt – Museumsstiftung
+snippet: Untergebracht in einer Gründerzeitvilla, gehörte das Bundespostmuseum zu den ersten Museen am Frankfurter Schaumainkai – dem späteren Museumsufer. Im Untergeschoss werden Geschichte, Gegenwart und Zukunft der Kommunikation auf 2.500 qm neu ausgelotet und inszeniert.
+
+REL: 2
+POI Name: Romanfabrik
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Romanfabrik: Willkommen
+snippet: Willkommen in der Romanfabrik . Infolge des Corona-Virus&#39; müssen alle weiteren Veranstaltungen bis Ostern leider entfallen. Mitglied bei Ostport ...
+title: Romanfabrik: Text-Ton-Thema
+snippet: Wolfgang Bunzel (Frankfurt) &amp; Paul Michael Lützeler (St. Louis) Das Europa der deutschen Romantik: Schlegel und Novalis (Café Europa)
+title: Romanfabrik: Geschichte
+snippet: Die Romanfabrik hat in ihren über dreißig Jahren fast hunderttausend Besucher und einige Tausend Künstler und Autoren zu Gast gehabt. Bei allen Krisen hat die Romanfabrik in der Stadt Frankfurt und dem Land Hessen zuverlässige Partner. Unseren Platz im Frankfurter Kulturleben haben wir gefunden und uns etabliert.
+title: Romanfabrik: Anmietung
+snippet: Die Romanfabrik ist dank ihrer modernen puristischen Eleganz offen für nahezu jede Art von Veranstaltung. Dekorations-Profis verleihen auf Wunsch dem Raum jede gewünschte Atmosphäre. Langjährige Erfahrungen mit renommierten Firmen und prominenten Persönlichkeiten garantieren den Erfolg Ihres Seminars oder Ihrer Feier.
+title: Romanfabrik: Lage und Anfahrt
+snippet: Romanfabrik e.V. Hanauer Landstraße 186, 60314 Frankfurt Tel: 069 / 49 40 902 Straßenbahnhaltestelle Schwedlerstraße / Linie 11. Zugang über Treppen. Leider ist kein Aufzug vorhanden. Kostenpflichtige Parkplätze finden Sie in der Lindleystraße.
+title: Romanfabrik (Frankfurt am Main) - Aktuelle 2020 - Lohnt es ...
+snippet: Frankfurt am Main, Deutschland 82 Beiträge 51 &quot;Hilfreich&quot;-Wertungen Rive-Gauche-Atmosphäre im Frankfurter Ostend Die Romanfabrik, seit 1985 eine Institution des vielfältigen Frankfurter Kulturlebens, ergänzt die beiden anderen Tempel und Werkstätten für zeitgenössische Literatur in Frankfurt, das Literaturhaus am Mainufer und das Hessische Literaturforum am Mousonturm, aufs Schönste.
+title: THE 10 CLOSEST Hotels to Romanfabrik, Frankfurt ...
+snippet: Hotels near Romanfabrik, Frankfurt on TripAdvisor: Find 5,121 traveler reviews, 47,665 candid photos, and prices for 30 hotels near Romanfabrik in Frankfurt, Germany.
+title: Romanfabrik (Frankfurt) - 2020 All You Need to Know BEFORE ...
+snippet: Frankfurt Hotels; Frankfurt Bed and Breakfast; Frankfurt Vacation Rentals; Frankfurt Vacation Packages; Flights to Frankfurt; Frankfurt Restaurants; Things to Do in Frankfurt; Frankfurt Travel Forum; Frankfurt Photos; Frankfurt Map; Frankfurt Travel Guide; All Frankfurt Hotels; Frankfurt Hotel Deals; Last Minute Hotels in Frankfurt; By Hotel ...
+title: Romanfabrik (Frankfurt/Main) | Kommende Veranstaltungen ...
+snippet: Romanfabrik (Frankfurt/Main) | Entdecke kommende Veranstaltungen zum Top Preis im Veranstaltungskalender von meinestadt.de Wir bieten dir eine Auflistung an Konzerten, Vorführungen, Events &amp; Ausstellungen Reserviere dir jetzt das passende Programm für deine Location Jetzt einfach, schnell &amp; sicher Ticket online buchen!
+title: Die 10 Besten Hotels nahe Romanfabrik, Frankfurt am Main
+snippet: Hotels in der Nähe von Romanfabrik, Frankfurt am Main: Auf Tripadvisor finden Sie 5.149 bewertungen von reisenden, 47.827 authentische Reisefotos und Top-Angebote für 30 hotels Hotels in Frankfurt am Main.
+
+REL: 2
+POI Name: Casino for Communication
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: CASINO FOR COMMUNICATION - DialogMuseum Frankfurt - der ...
+snippet: Das Casino for Communication wurde im März 2013 geschlossen. Falls Sie unsere mobilen Casino-Stationen für ein Event in unserem Haus oder extern nutzen möchten, setzen Sie sich bitte mit unserer Veranstaltungsleitung Frau Alexandra Kurcsics (alexandra.kurcsics@dialogmuseum.de), Tel. 069-90 43 21 77...
+title: Casino Communication Frankfurt
+snippet: Casino Communication Frankfurt Bonus is active for 7 days from activation and it can only be played on selected games. Wagering requirement on 40x before you can make a withdrawal and wagering is with real money first. Game contribution weightings apply to wagering requirements. Maximum ...
+title: Casino Communication Frankfurt
+snippet: Start your casino journey with an Casino Communication Frankfurt amazing 200% up to £400, plus 100 spins at Betfair! Play Casino, Live casino, Sportsbook and Poker, all under one roof.
+title: Casino for Communication - Ostend - Frankfurt, Hessen, Germany
+snippet: Casino for Communication in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: Casino for Communication Gift Card - Frankfurt, HE | Giftly
+snippet: Buy a Casino for Communication gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for Casino for Communication, Hanauer Landstr. 145, Frankfurt, HE.
+title: Casino for Communication in Frankfurt | Alles Andere ...
+snippet: Casino for Communication, Alles Andere in Frankfurt. Kinderfreundliche Plätze in deiner Nähe
+title: CASINO FOR COMMUNICATION - DialogMuseum Frankfurt - der ...
+snippet: Our Casino for communication has been closed in March 2013. If you like to use or mobile casino stations for an event in our museum or outside of our museum, please contact our event manager Alexandra Kurcsics ( alexandra.kurcsics@dialogmuseum.de), 069-90...
+title: Casinos in Frankfurt - Yelp
+snippet: Find the best Casinos on Yelp: search reviews of 9 Frankfurt businesses by price, type, or location.
+title: Storm Casino · Frankfurt
+snippet: Storm Casino in Frankfurt am Main: ... Storm Casino in Mülheim an der Ruhr: On the ground floor of our casino in Mülheim we have Storm’s Restaurant which you can reserve to hold any upcoming events for your family and friends as well as for company outings.
+title: DE 10 BESTE ting å gjøre i Frankfurt - Tripadvisor
+snippet: Ting å gjøre i Frankfurt: Se anmeldelser og bilder av ting å gjøre i Frankfurt, Tyskland på Tripadvisor.
+
+REL: 2
+POI Name: Art U.V.Z.
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: DE 10 BESTE ting å gjøre i Berlin - Tripadvisor
+snippet: Shore Excursion: Berlin Sightseeing med rundtur port-transfer; Privat tur til Sachsenhausen Concentration Camp Memorial (med lisensiert guide) Se alle dagsturene fra Berlin på Tripadvisor. Hva er de mest populære tingene å gjøre i Berlin med barn?
+title: Art U.V.Z. - Art gallery in Berlin - Singulart
+snippet: Art galleries Berlin Find the best art galleries in Berlin on Singulart the #1 source for buying art online from recognized artists! Art knows no bounds - safe &amp; FREE shipment to your doorstep. Art knows no bounds - Singulart ensures safe and FREE shipments to your doorstep.
+title: Art U.V.Z. - 11 Photos - Art Galleries - Wartburgstr.7 ...
+snippet: Specialties: Galerie und Kunstatelier vom Feinsten. Sie erleben hier ein Gesamtkunstwerk mit wunderbaren Unikaten und einer atmosphärisch dazu passenden Einrichtung in einer edlen und hellen Altbauwohnung. Bitte stets um Anruf für einen…
+title: The Art of York Berlin
+snippet: 25.02.2020 In den letzten Wochen hatte ich wenig Zeit um neue Projekte anzugehen. Jedoch ist Bild Nummer 3 in diesem Jahr fertig und steht zum Verkauf. Snoop Dog (siehe rechts) &gt;&gt;&gt; 12.01.2020 Auf der About Seite findet ihr jetzt Links zu meinen Social Media Kanälen.. 09.01.2020 Das zweite Bild in den goldenen Zwanzigern ist fertig gestellt und es ist wieder Mister David Bowie geworden.
+title: art&#39;otel berlin mitte Hotel Review, Berlin | Travel
+snippet: Read the art&#39;otel berlin mitte, Berlin hotel review on Telegraph Travel. See great photos, full ratings, facilities, expert advice and book the best hotel deals.
+title: Art U.V.Z. in Berlin - Öffnungszeiten
+snippet: Art U.V.Z. Wartburgstr.7 in Berlin, ☎ Telefon 0177 3333775 mit ⌚ Öffnungszeiten und Anfahrtsplan
+title: Berlin – Wikipedia
+snippet: Berlin er Tysklands forbundshovedstad, og en av landets delstater. Det er Tysklands største by, og den nest største byen i Den europeiske union etter offisielle grenser. Byen er et av de viktigste sentre for europeisk politikk, kultur og vitenskap.
+title: Art museums | visitBerlin.de
+snippet: The old masters, important Modernist works and contemporary art: In Berlin&#39;s art museums you can wander through all eras of art history. Pay a visit to Nefertiti in the Neues Museum (New Museum) and The Man with the Golden Helmet at the Gemäldegalerie (Picture Gallery).
+title: THE 10 BEST Berlin Art Museums (with Photos) - Tripadvisor
+snippet: “ One of my favourite galleries in Berlin - always interesting exhibitions plus an excellent upper floor display of the history of Berlin art. “ Combination of very modern art topical exhibitions, and an all-encompassing review of German artists of the last 200 years which whets your appetite to find out more about many of the lesser known individuals.
+title: List of museums and galleries in Berlin - Wikipedia
+snippet: List of museums and galleries in Berlin. Jump to navigation Jump to search. This is a list of museums and non-commercial galleries in ... Berlin&#39;s visual art from 1945 on, including painting, graphics, sculpture, multimedia, photography, architecture and artists’ archives
+
+REL: 2
+POI Name: Headegg - Der Raum
+POI City: Munich
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Headegg - Der Raum - Au-Haidhausen - Munich, Bayern, Germany
+snippet: Headegg - Der Raum in Munich, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Munich and beyond.
+title: Headegg.com – Der Raum
+snippet: Der Winter ist noch nicht vorbei und schon geht es bei HEADEGG mit der 14. Ausstellung „It’s been a long day“ weiter. Diesmal zeigen wir in einer von Alexandra Grimmer kuratierten Ausstellung den Künstler Mathias Schmied. Der 1976 in Bern geborene und in Paris lebende Künstler zeigt Arbeiten aus Papier.
+title: Headegg - Munich, Germany
+snippet: HeadEgg ist eine Ausstellungsplattform, die auf erfrischende Art zeitgenössische Kunst präsentiert. Als neuer Freiraum für aktuelle künstlerische Äußerungen und Positionen ist HeadEgg über drei Medien RAUM, NETZ und MAGAZIN erreichbar. Description: HEADEGG – DER RAUM ist keine Galerie im klassischen Sinne.
+title: Headegg.com – Der Raum » Kontakt
+snippet: Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+title: Headegg, Munich, Museum/Art Gallery - Phone, opening hours ...
+snippet: HeadEgg ist eine Ausstellungsplattform, die auf erfrischende Art zeitgenössische Kunst präsentiert. Als neuer Freiraum für aktuelle künstlerische Äußerungen und Positionen ist HeadEgg über drei Medien RAUM, NETZ und MAGAZIN erreichbar. HEADEGG – DER RAUM ist keine Galerie im klassischen Sinne.
+title: Headegg.com – Der Raum » 2013
+snippet: yarn-objects. Das Jahr 2013 beginnt bei HEADEGG mit der Ausstellung Nummer 11 unter dem Titel Olaf Tiedje „yarn-objects“, Fotografien. Der in Stuttgart geborene Künstler setzt sich mit dem Medium der digitalen Fotografie auf formal-traditionellem Weg auseinander.
+title: Headegg.com – Der Raum » RAUM
+snippet: Der Raum. Zu Beginn des Jahres 2009 gründete der Fotograf Hubertus Hamm HEADEGG, um zeitgenössischen Künstlerinnen und Künstlern, die sich mit den Parametern der Fotografie auseinandersetzen, eine unkonventionelle Ausstellungsplattform in München zu bieten.
+title: Headegg.com – Der Raum » Künstler
+snippet: Die Künstler. Ausstellung 20 Manuel Strauss und Lea Grebe – AUCH INSEKTEN ESSEN KUCHEN Ausstellung 19 Bianca Regl – BETWEEN THE APPLE AND THE PLATE Ausstellung 18 Ralph Ammer – HAUSHALTEN Ausstellung 17 Jusha &amp; Sven Mueller – Münchner Gold www.jushamueller.de
+title: Headegg - Der Raum - Kunstgalerie in München ...
+snippet: Kunstgalerie München Finden Sie die besten Kunstgalerien in München auf Singulart die #1 Referenz für den Kauf von Kunstwerken von anerkannten Künstlern!
+title: Headegg - Der Raum - Art gallery in München - Singulart
+snippet: Art galleries München Find the best art galleries in München on Singulart the #1 source for buying art online from recognized artists!
+
+REL: 1
+POI Name: Burg Reichenstein
+POI City: Trechtingshausen
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Castles, Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Natural History Museum
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum für Naturkunde
+snippet: Press Release Museum für Naturkunde Berlin closes exhibitions News Third season of Babylon Berlin filmed in the Natural History Museum News Universities and non-university research institutions go into emergency operation
+title: Museum für Naturkunde (Museum of Natural History ...
+snippet: Practical tips for visiting the Museum of Natural History. The Museum of Natural History is located in the centre of Berlin. Reach it easily by taking the underground line U6 or tramlines M5, M8, M10 or M12. Both the underground and tram stops are named after the museum - &quot;Naturkundemuseum&quot;.
+title: Natural History Museum, Berlin - Wikipedia
+snippet: The Natural History Museum (in German: Museum für Naturkunde) is a natural history museum located in Berlin, Germany. It exhibits a vast range of specimens from various segments of natural history and in such domain it is one of three major museums in Germany alongside Naturmuseum Senckenberg in Frankfurt and Museum Koenig in Bonn.
+title: Museum für Naturkunde
+snippet: Museum für Naturkunde Leibniz-Institut für Evolutions- und Biodiversitätsforschung
+title: Natural History — Google Arts &amp; Culture
+snippet: Let Natural History Museum experts guide you through 4.6 billion years of natural history. ... Museum für Naturkunde, Berlin. Encounter a prehistoric sea dragon RHOMALEOSAURUS. Play 360° video. Natural History Museum, ... Museo de Historia Natural. How a Museum Diorama is Made Museo de Historia Natural de Estados Unidos.
+title: Natural History Museum - Berlin.de
+snippet: The Natural History Museum (Naturkundemuseum), built from 1883 to 1889 by August Tiede, boasts a collection of more than 25 million zoological, paleontological, mineralogical, and geological objects. Its glass-covered atrium showcases an especially striking highlight: a dinosaur skeleton that is 23 meters long and 12 meters tall. More information
+title: Home | Natural History Museum
+snippet: Natural History Museum. Find out more. Visit. Plan a great day out at the Museum. Our science. Explore our research and collections. Wildlife Photographer of the Year. See the gallery. ... How to make and use a nature journal to record your wildlife observations Keeping a nature journal is a great way to record any nature you see.
+title: List of museums and galleries in Berlin - Wikipedia
+snippet: List of museums and galleries in Berlin. Jump to navigation Jump to search. This ... Berlin Museum of Medical History at the Charit ... Natural history: website, museum by Body Worlds about the human body, features preserved human bodies Micky Schubert Kreuzberg:
+
+REL: 1
+POI Name: KW Institute for Contemporary Art
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: KW Institute for Contemporary Art
+snippet: Due to circumstances revolving around the COVID-19 virus, KW Institute for Contemporary Art is closed to visitors until 19 April 2020. No exhibitions and events will take place during this period, but we are letting various voices speak through our online platforms Facebook, Instagram, and our website which will give you a lively insight into our exhibitions and other projects.
+title: About – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art was founded by Klaus Biesenbach and a group of young art enthusiasts in a practically derelict former margarine factory in Berlin-Mitte in the early 1990s. Since then, KW has delivered a significant contribution to the development of Berlin as an international center for contemporary art. More
+title: Contact – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art KUNST-WERKE BERLIN e. V. Auguststraße 69 10117 Berlin Tel. +49 30 243459-0 Fax +49 30 243459-99 info@kw-berlin.de kw-berlin.de
+title: Kunst-Werke Institute for Contemporary Art - Wikipedia
+snippet: The KW Institute for Contemporary Art (Kunst-Werke) is a contemporary art institution located at Auguststrasse 69 in the Mitte district of Berlin.The director is Gabriele Horn.Since July 1, 2016, the director has been Krist Gruijthuijsen. Unlike many international contemporary art institutions, KW does not have a permanent collection but understands itself &quot;as a place for the production and .
+title: Exhibitions – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art KUNST-WERKE BERLIN e. V. Auguststraße 69 10117 Berlin Tel. +49 30 243459-0 info@kw-berlin.de
+title: Visit – KW Institute for Contemporary Art
+snippet: The annual ticket KW Lover* grants you for the full length of a year free admission to all exhibitions at KW Institute for Contemporary Art during the regular opening hours, as well as the exclusive access to Pogo Bar events.. As holder of the annual ticket you will be regularly informed about the program and all events of KW. You can furthermore purchase tickets for all events to a reduced price.
+title: KW Institute for Contemporary Art – Berlin.de
+snippet: Längst hallt der glänzende Ruf des KW Institute of Contemporary Art, getragen vom Kunst-Werke Berlin e. V., sogar bis nach New York. Der umtriebige Gründervater Biesenbach ist daran nicht ganz unschuldig. Seit der endgültigen Instandsetzung 1999 holt das KW Institute die großen Namen des Kunstbetriebs nach Berlin.
+title: KW Institute for Contemporary Art - visitBerlin.de
+snippet: Through its involvement with the Berlin Biennale, Biesenbach brings worldwide recognition to the institute. In order to be as flexible and open as possible, the KW Institute for Contemporary Art consciously rejects the concept of a permanent collection.
+title: KW Institute for Contemporary Art - Home | Facebook
+snippet: KW Institute for Contemporary Art, Berlin, Germany. 47,100 likes · 909 talking about this. KW Institute for Contemporary Art aims to approach the central...
+title: KW Institute for Contemporary Art | Art in Berlin
+snippet: Always a lightning rod for the local art scene, the new, open approach sees KW engaging with other galleries and organized projects around town, from the recent ‘Berlin Art Week’ initiative ...
+
+REL: 1
+POI Name: Walter Storms Galerie
+POI City: Munich
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Walter Storms Galerie · Home ... Ausstellungen ... News
+snippet: Die Walter Storms Galerie in München vertritt Künstler wie Roland Fischer, Rupprecht Geiger, Peter Krauskopf, Sean Scully, Günther Uecker u.v.m.
+title: gallery - Walter Storms Galerie
+snippet: After his course of studies in art history and archeology, Walter Storms established his gallery in Munich’s Kaulbach Street in 1977. Shortly after the opening, the gallery quickly established its international reputation by committing in particular to Italian artists, such as Marco Gastini and Giuseppe Spagnolo, as well as to artists in Eastern Europe, such as Magdalena Jetelová and Roman ...
+title: Roland Fischer Fotograf - werke - Walter Storms Galerie
+snippet: Roland Fischer, München/Beijing: Übersicht Werke (Auswahl) bei Walter Storms Galerie. Weiter zu Ausstellungen und Biografie des Fotografs Roland Fischer.
+title: contact - Walter Storms Galerie
+snippet: If you wish to receive our newsletter, send us an email to post@storms-galerie.de.Therewith you accept that we save your personal data (name, email address and if provided by, your postal address, telephone/ fax) to inform you about our exhibitions and openings and to get in contact with you.
+title: Walter Storms Galerie - Maxvorstadt - Munich, Bayern, Germany
+snippet: Walter Storms Galerie in Munich, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Munich and beyond.
+title: Roland Fischer | Facades | Walter Storms Galerie | Artsy
+snippet: Past show featuring works by Roland Fischer at Walter Storms Galerie Munich, Schellingstr. 48 Feb 25th – Apr 25th 2015
+title: kontakt - Walter Storms Galerie
+snippet: walter storms galerie schellingstraße 48 80799 münchen. tel + 49 89 27 37 01 62 fax+ 49 89 27 37 01 63 mail@storms-galerie.de. di–fr 11 – 18 uhr sa 11 – 16 uhr und nach vereinbarung. Wünschen Sie in unseren Verteiler aufgenommen zu werden, schicken Sie uns gerne eine Email an post@storms-galerie.de.
+title: 40 jahre walter storms galerie, part II | Walter Storms ...
+snippet: Past show featuring works by Rupprecht Geiger, Shannon Finley, Cordy Ryman and Albert Hien at Walter Storms Galerie Munich, Schellingstr. 48 Nov 7th – Dec 23rd 2017. Artworks. Auctions. Galleries. Fairs. Editorial. More. Log in. Sign up. 40 jahre walter storms galerie, part II.
+title: künstler - Walter Storms Galerie
+snippet: Künstler: Steven Aalders, Jean-Marc Bustamente, Roland Fischer, Tim Freiwald, Caro Jost, Peter Krauskopf, Sean Scully, Günther Uecker u.v.m.
+title: Various Others Munich 2020 — Preview-Seite | Various ...
+snippet: Galerie Rüdiger Schöttle Galerie Sabine Knust SPERLING Museum Villa Stuck Walter Storms Galerie. The Various Others network of Munich galleries, off spaces and museums again will invite worldwide institutions, artists, cooperative projects and an international professional audience to Munich.
+
+REL: 1
+POI Name: Merry Karnowsky Gallery
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: KP Projects
+snippet: KP PROJECTS IS PROUD TO PRESENT. LOLA GIL :: INTIMATE FLOWERS BLOOM. SOLO EXHIBITION :: NEW OIL PAINTINGS :: UNVEILING APRIL 4th. For a private link to the viewing room : preview@kpprojects.net APRIL 4TH - MAY 2ND, 2020
+title: re-title.com Features: Merry Karnowsky Gallery, Berlin
+snippet: Merry Karnowsky Gallery Berlin is proud to present CANTO NEGRO Y BRUJERIAS, featuring the paintings of Barcelona-based artists Miss Van (France) and Victor Castillo (Chile). The two unfold their unique but harmonious iconographies in a pictorial exercise of intersecting ideas. These artists approach from their personal perspectives subjects like seduction, desire, enchantment, and the game of ...
+title: Merry Karnowsky Gallery - Mitte - Berlin, Germany
+snippet: Merry Karnowsky Gallery in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: KP Projects Artist List | Merry Karnowsky Gallery | KP ...
+snippet: A List of Contemporary Artists on display at KP Projects ( Merry Karnowsky Gallery) Originals and Limited Edition Prints from significant artists of the scene
+title: Merry Karnowsky Gallery after party @ White Trash ...
+snippet: White Trash Fast Food, Berlin Picture: Merry Karnowsky Gallery after party @ White Trash - Check out TripAdvisor members&#39; 55,815 candid photos and videos of White Trash Fast Food
+title: The Merry Karnowsky Gallery - Wikipedia
+snippet: The Merry Karnowsky Gallery was founded in Los Angeles in 1997 by Merry Karnowsky. It is located on South La Brea Avenue in the Mid-City West district of Central Los Angeles. The gallery exhibits contemporary art, and it is part of the underground &quot;lowbrow&quot; art movement, shwoing works of pop surrealism and from the street art scene.
+title: Merry Karnowsky Berlin - Obey Giant
+snippet: merry karnowsky gallery presents. a shepard fairey print retrospective 1997 – 2009 6 june – 11 july, 2009 opening reception: saturday, 6 june, 19 – 22 h. torstrasse 175 10115 berlin-mitte, germany phone +49 30 28 50 30 72 gregorymkgb (at) att.com mkgallery (at) mindspring.com
+title: Buy, Sell, and Research Contemporary Art Online: artnet
+snippet: Artnet is the art world online. Find artworks for sale, online auctions, top galleries, leading artists, and breaking art market news from around the globe.
+title: Merry Karnowsky Gallery - Artforum International
+snippet: Of the more than 150,000 negatives taken by the late street photographer Vivian Maier throughout her lifetime, these eighty-plus photos on view offer a vivid cross section of the artist’s primary conceptual concerns. It is difficult to separate Maier’s images from the elusive enigma that surrounds her, so discovery is a key method in approaching the artist, who is better known for her ...
+title: Vivian Maier Exhibitions &amp; Events | Vivian Maier Photographer
+snippet: Promoting Vivian Maier’s work and prestigious archive, through professionally curated exhibitions, is at the core of the Maloof Collection. Vivian Maier‘s touring exhibitions are available for loan to institutions, museums and galleries, and individual photographs from the Vivian Maier archives are available for exhibition loans.
+
+REL: 1
+POI Name: Greco
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Greco Frankfurt
+snippet: 60316 Frankfurt am Main Email info@greco-frankfurt.de. Alle Felder müssen ausgefüllt werden Nachricht abschicken. Impressum. Datenschutz ...
+title: Carmelo Greco – Cucina italiana artistica
+snippet: Welcome to carmelo-greco.de! We have adapted our privacy policy to the General Data Protection Regulation which came into force on 25.05.2018. In order to give you a pleasant online experience, we use cookies on our website. By browsing on carmelo-greco.de you agree to the use of cookies.
+title: Carmelo Greco – Carmelo Greco
+snippet: Welcome to carmelo-greco.de! We have adapted our privacy policy to the General Data Protection Regulation which came into force on 25.05.2018. In order to give you a pleasant online experience, we use cookies on our website. By browsing on carmelo-greco.de you agree to the use of cookies.
+title: Ristorante Carmelo Greco, Frankfurt - Restaurant Reviews ...
+snippet: Reserve a table at Ristorante Carmelo Greco, Frankfurt on Tripadvisor: See 232 unbiased reviews of Ristorante Carmelo Greco, rated 4 of 5 on Tripadvisor and ranked #2,047 of 2,326 restaurants in Frankfurt.
+title: Ristorante Carmelo Greco, Frankfurt ...
+snippet: Ristorante Carmelo Greco, Frankfurt: Se 225 objektive anmeldelser av Ristorante Carmelo Greco, vurdert til 4 av 5 på TripAdvisor og vurdert som nr. 2 016 av 2 298 restauranter i Frankfurt.
+title: Greco – Italienische Küche ** - frizz-frankfurt
+snippet: Leider ist der Service an dem Abend mit vielen Gästen noch nicht eingespielt. So müssen wir sehr lange auf die Karte warten und auch später ist die Kontaktaufnahme nicht immer möglich. Zur Vorspeise starten wir mit Parmigiano Greco, gratinierte Auberginen nach Greco-Art in Pecorionokäse (8,90 €).
+title: Home | Greco Catering Frankfurt
+snippet: So unterschiedlich wie die Events, die von Greco Catering betreut wurden, waren auch die Herausforderungen, die es bei jeder einzelnen Veranstaltung zu meistern galt. Die Erfahrungen, die wir dabei gesammelt haben, sind ein wichtiger Beitrag zu der Professionalität, mit der wir auch Ihr Event zu einem beeindruckenden Erfolg machen werden.
+title: THE 10 BEST Restaurants in Frankfurt - Updated March 2020 ...
+snippet: Best Dining in Frankfurt, Hesse: See 146,006 Tripadvisor traveler reviews of 2,464 Frankfurt restaurants and search by cuisine, price, location, and more.
+title: Greco Catering Frankfurt
+snippet: In der Messestadt Frankfurt und im gesamten Rhein-Main-Gebiet kümmert sich Greco Group Catering darum, dass sich die Besucher auf Ihrem Messestand besonders wohl fühlen.
+title: Ristorante Carmelo Greco, Frankfurt am Main - Restaurant ...
+snippet: Ristorante Carmelo Greco, Frankfurt am Main: 232 Bewertungen - bei Tripadvisor auf Platz 2.047 von 2.326 von 2.326 Frankfurt am Main Restaurants; mit 4/5 von Reisenden bewertet.
+
+REL: 1
+POI Name: Friedrich Schiller Denkmal
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, 
+Snippets:
+
+
+REL: 1
+POI Name: Santiago Latino Grill
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Food Trucks, 
+Snippets:
+title: Santiago Latino Grill - Home | Facebook
+snippet: Santiago Latino Grill, Fráncfort del Meno. 719 likes. All our dishes and dips are home made with our own recipes.Argentine steak, Chorizos, grilled cheese, chicken and our wanted tasty burgers.
+title: Santiago Latino Grill - Startseite | Facebook
+snippet: Santiago Latino Grill, Frankfurt am Main. Gefällt 718 Mal. All our dishes and dips are home made with our own recipes.Argentine steak, Chorizos, grilled cheese, chicken and our wanted tasty burgers.
+title: Santiago Latino Grill - Frankfurt, Hessen, Germany
+snippet: Specialties: We love cooking. Since 2014 we have experience with our food truck in street food festivals all around Germany. Our food is special and different because we use only fresh elements and basic cooking techniques such as charcoal…
+title: Santiago Latino Grill - Posts | Facebook
+snippet: Santiago Latino Grill, Fráncfort del Meno. 716 likes. All our dishes and dips are home made with our own recipes.Argentine steak, Chorizos, grilled cheese, chicken and our wanted tasty burgers.
+title: Santiago Latino Grill — Street Food Festival
+snippet: Santiago Latino Grill - Grillkunst auf Rollen Schon von weitem fällt einem der große rote Truck von Santiago Latino Grill ins Auge. Je näher man kommt, desto mehr Gerüche steigen euch in die Nase. Es raucht und qualmt aus dem Truck. Was man da riecht sind lecker gegrillte Chorizos, Rinder-Ste
+title: Santiago Latino Grill - Food Truck - Foursquare
+snippet: Related Searches. santiago latino grill frankfurt am main • santiago latino grill frankfurt am main photos • santiago latino grill frankfurt am main location •
+title: Santiago Latino Grill, Frankfurt, Food/Grocery - Phone ...
+snippet: Santiago Latino Grill, Frankfurt Food/Grocery. germany › Brandenburg › Frankfurt › Food/Grocery › Santiago Latino Grill. All our dishes and dips are home made with our own recipes.Argentine steak, Chorizos, grilled cheese, chicken and our wanted tasty burgers.
+title: Latin Grill, Santiago - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Latin Grill, Santiago: See 1,056 unbiased reviews of Latin Grill, rated 4.5 of 5 on Tripadvisor and ranked #3 of 5,336 restaurants in Santiago.
+title: Latin Grill, Santiago - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Latin Grill, Santiago: See 1,034 unbiased reviews of Latin Grill, rated 4.5 of 5 on TripAdvisor and ranked #2 of 5,262 restaurants in Santiago. ... We decided to have our dinner at the Latin Grill because of it being highly recommended and also not far from Hotel Santiago Mandarin Oriental where we are staying.
+title: LATIN GRILL, Santiago - Updated 2020 Restaurant Reviews ...
+snippet: Latin Grill, Santiago: See 1,056 unbiased reviews of Latin Grill, rated 4.5 of 5 on Tripadvisor and ranked #3 of 5,335 restaurants in Santiago.
+
+REL: 1
+POI Name: Schleswig-Holsteinische Landesmuseen Schloss Gottorf
+POI City: Schleswig
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, Castles, 
+Snippets:
+
+
+REL: 1
+POI Name: Jochen Schweitzer
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Shopping
+POI Sub category: Gift Shops, Experiences, 
+Snippets:
+title: Top-Erlebnisse Frankfurt | Jochen Schweizer
+snippet: Jochen Schweizer verwendet Cookies (Eigene und Dritte), um dir ein personalisiertes Surferlebnis mit interessanten Informationen (Erstellung von Nutzerprofilen) zu präsentieren. Indem du auf der Seite weitersurfst, stimmst du den Cookie-Nutzung zu.
+title: Jochen Schweizer Shop Frankfurt am Main - MyZeil
+snippet: So finden Sie den Jochen Schweizer Shop im MyZeil Frankfurt Anfahrt mit dem Auto. Wer mit dem Auto anreist, dem steht die größte Tiefgarage Frankfurts mit 1000 Stellplätzen zur Verfügung, welche über das Parkleitsystem der Stadt ausgeschildert ist. Die Zufahrt ...
+title: Erlebnisse, Reisen &amp; Erlebnisgeschenke | Jochen Schweizer
+snippet: Spüre das Leben mit Jochen Schweizer! Nimm dir die Freiheit, die du verdienst, fasse Vertrauen in dich und geh diesen einen entscheidenden Schritt – raus aus der Routine, rein ins Abenteuer. Mach dich höher, mach dich schneller, mach dich weiter! Mit Erlebnissen von Jochen Schweizer. Du bist, was du erlebst.
+title: House Running Frankfurt | Jochen Schweizer
+snippet: House Running Frankfurt | Jochen Schweizer 2020 Artikelnummer: 0751 PAYBACK PUNKTE SAMMELN Du erhältst 49 °P. PAYBACK Punkte sammeln Gib im Bestellprozess deine PAYBACK Kundennummer ein und sammle automatisch Punkte für jeden Einkauf bei Jochen Schweizer. Weitere Informationen.
+title: Jochen Schweizer Shop Frankfurt am Main - Main Taunus Zentrum
+snippet: Anfahrt mit dem Auto. Das MTZ befindet sich im äußersten Westen von Frankfurt am Main, im Ort Sulzbach (Taunus). Über die A66 (Frankfurt - Wiesbaden) und die B8 (Bad Soden - Königstein Kronberg) können Sie bequem per Auto anfahren, die Ausfahrt und der restliche Weg sind beschildert.
+title: Jochen Schweizer House-Running Frankfurt - Leonardo Royal ...
+snippet: Jochen Schweizer House-Running Frankfurt - Leonardo Royal Hotel - FFM 2016 Buk3rs1. ... Frankfurt Hotels: Best Hotels In Frankfurt ... Surfen mit Jochen Schweizer ...
+title: Jochen Schweizer - Wikipedia
+snippet: Jochen Schweizer (born June 23, 1957 in Ettlingen) is a German entrepreneur. He founded the eponymous group of companies that offers, among other things, experience vouchers. Schweizer is a pioneer of extreme sports and bungee jumping in Germany.
+title: House Running Jochen Schweizer Frankfurt 22 06 2013 - YouTube
+snippet: House Running von Jochen Schweizer am Holiday Inn Hotel in Frankfurt.....
+title: Jochen Schweizer | Multi-Marken-Center im Herzen Frankfurts
+snippet: Außergewöhnliche Geschenkideen und einmalige Abenteuer haben in MyZeil ein Zuhause! Im Jochen Schweizer Shop warten über 1.900 Erlebnisse zum Verschenken und Selbsterleben darauf, von Ihnen entdeckt zu werden. Vom Hubschrauber selber fliegen über Quad-Touren und professionelle Fotoshootings, bis hin zu köstlichen Dinnern und Kurzurlauben – hier findet jeder, was er sucht.&amp;nbsp;&amp;nbsp;Die ..
+title: Jochen Schweizer - Tours - Zeil 106, Innenstadt, Frankfurt ...
+snippet: Jochen Schweizer in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+
+REL: 0
+POI Name: Wiener Feinbäcker Heberer
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Cafes, 
+Snippets:
+title: Wiener Feinbäcker Heberer | Home
+snippet: Filialfinder Probieren Sie unsere handwerklichen Produkte in einer unserer über 220 Filialen. Wir freuen uns auf Ihren Besuch. Probieren Sie unsere handwerklichen Produkte in einer unserer über 220 Filialen. Wir freuen uns auf Ihren Besuch. Filiale in Ihrer Nähe finden Produktfinder Unser Produktfinder bietet Ihnen Informationen
+title: Kontakt &amp; Reklamationen | Wiener Feinbäcker Heberer ...
+snippet: Kontakt Unternehmen Sie haben Anregungen, Kritik, Lob oder Tadel, dann lassen Sie uns das wissen. Bereich West Wiener Feinbäckerei Heberer GmbHDieselstraße 5863165 Mühlheim am MainTelefon 0 61 08 / 60 4 – 0Telefax 0 61 08
+title: Wiener Feinbäcker Heberer - Innenstadt - Frankfurt, Hessen ...
+snippet: Wiener Feinbäcker Heberer in Frankfurt, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Frankfurt and beyond.
+title: Filialfinder | Wiener Feinbäcker Heberer | Handwerkliches ...
+snippet: Wiener Feinbäckerei Heberer Pressestelle E-Mail: presse@heberer.de Mit der Nutzung dieser Website stimmen sie der statistischen Erfassung ihrer Aufrufe und der Speicherung von Cookies zu.
+title: Wiener Feinbäcker Heberer - Home | Facebook
+snippet: Wiener Feinbäcker Heberer, Mühlheim, Germany. 4,241 likes · 176 talking about this. Offizielle Seite der Premiumbäckerei Wiener Feinbäcker Heberer GmbH
+title: Wiener Feinbäckerei Heberer - Frankfurt, Germany - Bakery ...
+snippet: Wiener Feinbäckerei Heberer, Frankfurt, Germany. 46 likes. Bakery. Frankfurter Kranz. This butter cream cake tasted really nice and wasn&#39;t at all heavy.
+title: Historie | Wiener Feinbäcker Heberer | Handwerkliches ...
+snippet: 2000. Der Wiener Feinbäcker Heberer wird zum größten Bäcker in Ostdeutschland und zu einem der Marktführer in Berlin. Durch die Expansion der thüringischen und sächsischen Feinbäcker, ehemals VEB-Betriebe, werden jetzt die neuen Bundesländer Thüringen, Sachsen und Brandenburg sowie das benachbarte Berlin abgedeckt.
+title: Wiener Feinbäcker Heberer
+snippet: als Ihr Wiener Feinbäcker möchten wir Ihre Versorgung mit Brot und Brötchen sicherstellen. Seit 1891 stehen wir für Qualität und Frische. Uns zeichnet ein breites Sortiment aus, insbesondere. viele regionale Produkte. Sie können 24-Stunden am Tag unsere Produkte hier in unseren Onlineshop bequem . nach Hause bestellen. Wir freuen uns auf Sie.
+title: Wiener Feinbäckerei Heberer in Frankfurt - Filialen und ...
+snippet: Wiener Feinbäckerei Frankfurt: Backwaren, Snacks, süße Spezialitäten. Hier finden Sie eine Übersicht aller Wiener Feinbäckerei Filialen in Frankfurt. Zu jeder Filiale bekommen Sie per Klick weitere Informationen zur Lage und dem aktuellen Angebot. Weitere Informationen über Wiener Feinbäckerei.
+title: Heberer - Backwaren
+snippet: Unsere Produkte sind teilweise nur saisonal oder regional verfügbar. &quot;Wellnessbrot&quot; Roggenkeimling 1.000g # Brot # Natursauerteig # Handausgehoben # Vegetarisch # Vegan # Hafer # Weizen # Roggen # Dinkelweizenfrei # Eierfrei # Einkornweizenfrei # Emmerweizenfrei # Erdnussfrei # Fischfrei # Gerstenfrei # Haselnussfrei # Kamutweizenfrei # Kaschunussfrei # Krebstierfrei # Lupinenfrei ...
+
+REL: 0
+POI Name: Indigo Bunt
+POI City: Berlin
+POI Country: DE
+POI Main category: Active Life
+POI Sub category: Kids Activities, 
+Snippets:
+title: INDIGOBUNT – 10245 Berlin
+snippet: 10245 Berlin. Men ü. Zum Inhalt ... Baby-Decken-Party mit INDIGO BUNT. Kurzmitteilung Mai 10, 2016 Juni 26, 2017 Julius Schreibe einen Kommentar. Mit Familie und Freunden eine Krabbeldecke gestalten. Bei Kaffe und Kuchen werden Stoffquadraten bedruckt und bemalt, eine Woche später bekommen die werdenden Eltern eine Babydecke in der nur Liebe ...
+title: Indigo Bunt - Friedrichshain - Berlin, Germany - Yelp
+snippet: Indigo Bunt in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Indigo Bunt – Berlin, Mainzer Strasse 5 (1 Bewertung ...
+snippet: Kontaktinformationen und 1 bewertung für Indigo Bunt in Mainzer Strasse 5, Berlin anzeigen oder eine Bewertung schreiben. Erkunden Sie eine interaktive Karte mit Orten in der Nähe.
+title: Indigo Bunt im Friedrichhain | Kindercafé s in Berlin
+snippet: Das Familiencafé „Indigo“ ist Werkstatt, Bastelecke und Treffpunkt in einem – einmalig in Berlin-Friedrichshain. Die Idee ist einfach aber genial. Indira, die Betreiberin des Kinder- und Familiencafés „Indigo“ hat eine Begegnungsstätte erschaffen, in der sich kreative Menschen, ob jung oder alt, zum Basteln, Nähen und Handarbeiten treffen.
+title: Home | Hotel Indigo Berlin-Centre Alexanderplatz
+snippet: Located in the centre of the city, in the “Mitte” district in former East-Berlin, in the shadow of the iconic TV Tower, Hotel Indigo Berlin – Centre Alexanderplatz offers up the perfect base to call home while visiting Berlin.
+title: HOTEL INDIGO BERLIN - KU&#39;DAMM (Tyskland) - Hotell ...
+snippet: Hotel Indigo Berlin - Ku&#39;damm, Berlin: Se 599 reiseanmeldelser, 522 bilder og gode tilbud for Hotel Indigo Berlin - Ku&#39;damm, vurdert som nr. 66 av 636 hotell i Berlin og vurdert til 4,5 av 5 på Tripadvisor.
+title: Hotel Indigo Berlin – Alexanderplatz i Berlin | Hotels.com
+snippet: Hotel Indigo Berlin – Alexanderplatz ligger i sentrum og nær en undergrunnsstasjon i bydelen Mitte i Berlin. Et par kulturelle høydepunkter er Friedrichstadt-Palast og DDR-museet, men hvis det er shopping som står på planen, kan du ta turen til Friedrichstrasse og Kurfürstendamm. Du kan se om det skjer noe kult på Mercedes-Benz Arena, og hvis du har tid, bør du også få med deg ...
+title: Uncategorized – INDIGOBUNT
+snippet: 10245 Berlin. Men ü. Zum Inhalt ... Baby-Decken-Party mit INDIGO BUNT. Kurzmitteilung Mai 10, 2016 Juni 26, 2017 Julius Schreibe einen Kommentar. Mit Familie und Freunden eine Krabbeldecke gestalten. Bei Kaffe und Kuchen werden Stoffquadraten bedruckt und bemalt, eine Woche später bekommen die werdenden Eltern eine Babydecke in der nur Liebe ...
+title: De beste Hotel Indigo i Berlin, Tyskland - Tripadvisor
+snippet: Beste Hotel Indigo i Berlin: Finn 2 756 anmeldelser fra reisende, ekte bilder, og priser for 3 Hotel Indigo i Berlin, Tyskland.
+title: Hotel Indigo Berlin-Alexanderplatz, Germany - Booking.com
+snippet: Hotel Indigo Berlin-Alexanderplatz This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location Bernhard-Weiss-Str. 5, Mitte, 10178 Berlin, Germany – This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location Excellent location – show map – Subway Access
+
+REL: 0
+POI Name: LILU
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Recreation Centers, 
+Snippets:
+title: LILU Frankfurt
+snippet: LICHT- UND LUFTBAD | Frankfurt Das LILU ist ein Idyll in Frankfurt. Am Rande der Frankfurter Innenstadt ist das LILU ein einzigartiges urbanes Biotop, am Main gelegen, eine Insel der Erholung, ein Rückzugsraum ohne Kommerz und Beachkultur.
+title: LILU Frankfurt: Ein Ausflugsziel für die ganze Familie ...
+snippet: Das LILU Frankfurt mit schattigen Plätzen. Hier im LILU kannst du entspannen, Energie tanken und dich austoben bzw. deine Kids austoben lassen. Ob alleine oder gemeinsam, es ist ein idyllisches Örtchen in Frankfurt-Niederrad bei dem du viel mit deinen Kindern spielen kannst.
+title: LILU-Frankfurt - Home | Facebook
+snippet: LILU-Frankfurt. 165 likes. Das Lilu - Ponton befindet sich am Niederräder Ufer und dient als öffentlicher Raum zur Entspannung und als Ausflugsziel für...
+title: LILU - Licht- und Luftbad Frankfurt (Frankfurt am Main ...
+snippet: LILU - Licht- und Luftbad Frankfurt. 1 Bewertung. Nr. 331 von 448 Aktivitäten in Frankfurt am Main. Natur &amp; Parks. Leider sind an den von Ihnen gewählten Daten keine Touren oder Aktivitäten verfügbar. Bitte geben Sie ein anderes Datum ein.
+title: Licht- und Luftbad Niederrad – Wikipedia
+snippet: Das Licht- und Luftbad Niederrad (LiLu als eingebürgerte Abkürzung) ist eine öffentliche Grünanlage in der Stadt Frankfurt am Main. Es liegt am nördlichen Rand des Stadtteils Niederrad auf einer etwa 500 m langen, schmalen Landzunge am orografisch linken, geografisch südlichen Ufer des Flusses Main.
+title: Baden in Licht und Luft: Das LILU |Frankfurt ...
+snippet: Auf einen Blick – LILU Frankfurt. Adresse: Niederräder Ufer 10, 60528 Frankfurt am Main, Website des Cafés: www.lilu-frankfurt.de, auf Google-Maps anzeigen Öffnungszeiten: Das LiLu selbst hat ganzjährig täglich von 9.00 Uhr bis zum Einbruch der Dunkelheit geöffnet.Das Café macht nur von März bis Oktober auf, „ab 11 Uhr bis in den frühen Abend geöffnet, sofern die Wetterlage und ...
+title: Ponton LILU | Café Frankfurt am Main, Niederräder Ufer 10 ...
+snippet: Ponton LILU | Café Frankfurt am Main, Niederräder Ufer 10: Telefonnummer &amp; Adresse; search Suche im Telefonbuch report_problem Anruf melden . Ihre Meinung ist uns wichtig Sie finden, wir könnten noch etwas verbessern oder ergänzen? brightness_1. Fehlt eine Funktionalität? brightness_1.
+title: LILU - Licht- und Luftbad Frankfurt - 2020 All You Need to ...
+snippet: Frankfurt Hotels; Frankfurt Bed and Breakfast; Frankfurt Vacation Rentals; Frankfurt Vacation Packages; Flights to Frankfurt; Frankfurt Restaurants; Things to Do in Frankfurt; Frankfurt Travel Forum; Frankfurt Photos; Frankfurt Map; Frankfurt Travel Guide; All Frankfurt Hotels; Frankfurt Hotel Deals; Last Minute Hotels in Frankfurt; By Hotel ...
+title: NU2 | Frankfurt
+snippet: NU2 | Frankfurt NU2 ist eine parkähnliche Mainuferzone, die für die Bürgerinnen und Bürger der Stadt ganzjährig nutz- und begehbar ist. Das Gelände geht über in den nachts geschlossenen Inselbereich des idyllischen LILU.NU2 erreichen Sie über den Weg am südlichen Mainufer, den Mainradweg oder mit der Straßenbahn.
+title: THE 10 BEST Museums in Frankfurt - Tripadvisor
+snippet: Mar 28, 2020 - Looking to get inspired on your trip to Frankfurt? Immerse yourself into world-class art, exciting history, and mind-bending science. Check out the best museums in Frankfurt to visit in 2020. Book effortlessly online with Tripadvisor!
+
+REL: 0
+POI Name: Schloss Homburg
+POI City: Bad Homburg
+POI Country: DE
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, Castles, 
+Snippets:
+
+
+REL: 0
+POI Name: Senckenberg Bistro
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, 
+Snippets:
+title: Senckenberg Bistro
+snippet: Herzlich Willkommen im Senckenberg-Bistro! Wir freuen uns auf Ihren Besuch. Lassen Sie sich von uns kulinarisch verwöhnen in unserer einzigartigen Location. Das Senckenberg-Bistro ist frei zugänglich, unabhängig vom Museumsaufenthalt. Wir bieten beste, frische Zutaten und gesundes Essen zu erschwinglichen Preisen.
+title: Senckenberg Bistro, Frankfurt - Restaurant Reviews, Photos ...
+snippet: Senckenberg Bistro, Frankfurt: See 44 unbiased reviews of Senckenberg Bistro, rated 4 of 5 on Tripadvisor and ranked #735 of 2,325 restaurants in Frankfurt.
+title: Bistro · Senckenberg Museum Frankfurt
+snippet: Events in the Senckenberg Natural History Museum can be accompanied in a culinary way by our leaseholder. The room of the bistro holds 80 seats. The lounge-gallery holds 40 seats, and during summer months, the terrace holds 40 seats as well. Visitors are welcome to consume their own meals and drinks at the break room on the ground floor of the ...
+title: Bistro · Senckenberg Museum Frankfurt
+snippet: Senckenberg Bistro Wechselnde Gerichte, darunter verschiedene Antipasti, Snacks, Salate, leckere Kuchen und Getränke sind kulinarische Köstlichkeiten für große und kleine Besucher des Museums, für Senckenberg Mitarbeiter und eine abwechslungsreiche Alternative zum Mittagstisch für Berufstätige der umliegenden Firmen und Institutionen.
+title: Senckenberg Bistro - Home - Frankfurt, Germany - Menu ...
+snippet: Senckenberg Bistro - Senckenberganlage 25, 60325 Frankfurt, Germany - Rated 4.7 based on 13 Reviews &quot;Service leaves a lot to be desired.&quot;
+title: Senckenberg Bistro, Frankfurt - Restaurantanmeldelser ...
+snippet: Senckenberg Bistro, Frankfurt: Se 44 objektive anmeldelser av Senckenberg Bistro, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 735 av 2 326 restauranter i Frankfurt.
+title: Your visit · Senckenberg Museum Frankfurt
+snippet: Senckenberg Bistro more ... Senckenberg Naturmuseum Frankfurt Senckenberganlage 25 60325 Frankfurt T +49 69 7542-0 F +49 69 746238 info@senckenberg.de. Contact; Imprint; Change cookie settings. Senckenberg Naturhistorische Sammlungen Dresden; Senckenberg Museum für Naturkunde Görlitz;
+title: Senckenberg Bistro, Frankfurt am Main - Restaurant ...
+snippet: Senckenberg Bistro, Frankfurt am Main: 44 Bewertungen - bei Tripadvisor auf Platz 735 von 2.323 von 2.323 Frankfurt am Main Restaurants; mit 4/5 von Reisenden bewertet.
+title: SENCKENBERGS / Restaurant
+snippet: In direkter Nachbarschaft zum berühmten Senckenberg Museum findet Ihr das SENCKENBERGS Restaurant. Und das steht da nicht ohne Grund. Das Erbe der Familie Senckenberg ist vor allem das Verständnis vom Menschen und seiner Umwelt – wo wir herkommen, wer wir sind. Ein Stück weit wird dieses Erbe mit dem SENCKENBERGS Restaurant weiter getragen.
+title: Lageplan · Senckenberg Museum Frankfurt
+snippet: Auszubildende der Stadt Frankfurt gegen Nachweis eine Begleitperson pro gebuchter Führung (nur Schulklassen, Kitas und Vereine) Begleitperson eines Behinderten (ab 50%), sofern eine Begleitung für den Besuch des Museums aufgrund der Art der Behinderung notwendig ist.
+
+REL: 0
+POI Name: Neurotitan Shop & Gallery
+POI City: Berlin
+POI Country: DE
+POI Main category: Shopping
+POI Sub category: Music & DVDs, Art Galleries, Comic Books, 
+Snippets:
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthaler Straße 39 10178 Berlin fon +49 30 308 725 76 fax +49 30 282 90 33. Öffnungszeiten mo - sa: 12 - 20h
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthalerstraße 39 10178 Berlin fon +49.(0)30.308 725 76 fax +49.(0)30.282 90 33. Öffnungszeiten mo - sa: 12 - 20h. Anfahrt. Informationen zum Schwarzenberg e.V. und weiteren Veranstaltungen im Haus gibt´s hier. Die Galerie Neurotitan
+title: Neurotitan Shop &amp; Gallery - Mitte - Berlin, Germany
+snippet: 3 reviews of Neurotitan Shop &amp; Gallery &quot;Neurotitan is an eclectic shop with short-run comics, books, art and a small but varied vinyl record selection. The wares are generally very niche by independent &amp; local artists &amp; illustrators. You can…
+title: Der Neurotitan shop
+snippet: Der Neurotitan shop . Der neurotitan shop schließt direkt an die Galerie an. Er ist einerseits eine Fachbuchhandlung für Grafikdesign, Comic und Illustration, andererseits der verlängerte Arm der Galerie: Kunstschaffende aus aller Welt geben ihre Kunst, Waren und Produkte hier in Kommission und ermöglichen dadurch das einzigartige Sortiment ...
+title: Neurotitan (Berlin) - 2020 All You Need to Know Before You ...
+snippet: I Love Neurotitan. I browsed for an hour at least &amp; I found some rare screen printed books here at a great price, and could have kept looking. Lots and lots of subculture, graphics, art and culture available. There is a huge gallery/workshop space, and the time I went I came …
+title: neurotitan gallery
+snippet: At the same time, Haus Schwarzenberg with its neurotitan gallery (as one of the few last places like this in Berlin-Mitte) conveys a flavour of the untamed creativity of the early 1990s, but without becoming a museum piece. Exit through the Neurotitan (Gift) shop . Neurotitan shop is located next to the gallery.
+title: Neurotitan - Home | Facebook
+snippet: Neurotitan - Rosenthaler Straße 39, 10178 Berlin, Germany - Rated 4.9 based on 24 Reviews &quot;Don&#39;t lose the opportunity to see this amazing place!!!&quot;
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthalerstraße 39 10178 Berlin fon +49.(0)30.308 725 76 fax +49.(0)30.282 90 33. Öffnungszeiten
+title: Kunst-Galerie in Berlin: neurotitan shop &amp; gallery | ART ...
+snippet: neurotitan shop &amp; gallery befindet sich im 2. Hof des Hauses Schwarzenberg im 1. Obergeschoss. Das Haus Schwarzenberg liegt in direkter Nachbarschaft zu den Hackeschen Höfen, ist jedoch im Gegensatz zu ihnen unsaniert, ursprünglich und steht im Zeichen der Kunst.
+title: Neurotitan Shop &amp; Gallery – &quot;Ich Bin Berlin&quot;
+snippet: Walking around Rosenthaler Street, you’d probably never imagine finding a hidden urban gallery and bar located in the middle of the fancy stores and restaurants. As soon as you arrive there, that Berlin vibe gets you. A passage covered in graffiti and urban art, a shop and several small galleries and museums; each one can…
+
+REL: 0
+POI Name: Atelierhaus Engl
+POI City: Munich
+POI Country: DE
+POI Main category: Education
+POI Sub category: Art Schools, Art Galleries, 
+Snippets:
+title: Engl- Atelierhaus Englschalking - Art Gallery - Munich ...
+snippet: Engl- Atelierhaus Englschalking, München, Germany. 264 likes · 273 were here. Die &quot;engl&quot;-Ateliers in Englschalking/München gründete Lea Jade im August 2012. In den Bereichen Malerei und Grafik...
+title: Englateliers | Atelierhaus in Englschalking
+snippet: Atelierhaus engl. 2012 gründete die Künstlerin Lea Jade das Atelierhaus engl. In den Bereichen Malerei, Grafik, Mosaikkunst, Photographie und Komposition präsentieren und entfalten sich neun Künstler. „Im Fließen, im Staccato, im Anhalten, in der Wiederkehr der Pinselschläge tanzt der Rhythmus. ...
+title: Engl- Atelierhaus Englschalking - Facebook
+snippet: Engl- Atelierhaus Englschalking November 23, 2018 · @Regran_ed from @yasin.sarfraz.arts - I am glad to be represented at the fabulous MUNICH ART HOUSE Project ? ? ? ? ?
+title: The final countdown for: The 6th... - Engl- Atelierhaus ...
+snippet: The final countdown for: The 6th anniversary of the famous &#39;engl&#39; art studios 壟露 Location: Seidleinweg 12, 81929 Munich (next to the trainstation...
+title: @Regran_ed from... - Engl- Atelierhaus Englschalking ...
+snippet: See more of Engl- Atelierhaus Englschalking on Facebook. Log In. or
+title: Atelierhaus Engl - Kunstgalerie in München ...
+snippet: Kunstgalerie München Finden Sie die besten Kunstgalerien in München auf Singulart die #1 Referenz für den Kauf von Kunstwerken von anerkannten Künstlern!
+title: Atelierhaus Engl Galerien München auf muenchen.de
+snippet: Atelierhaus Engl Galerien München - Stadtbranchenbuch München mit Telefonnummer, Adresse und interaktivem Stadtplan
+title: Engl- Atelierhaus Englschalking, Munich, Arts ...
+snippet: Die &quot;engl&quot;-Ateliers in Englschalking/München gründete Lea Jade im August 2012. In den Bereichen Malerei und Grafik arbeiten 9 Künstler und Künstlerinnen Im Juni 2012 gründete Lea Jade das Atelierhaus engl in Englschalking/ Bogenhausen.
+title: Munich | Übersetzung Englisch-Deutsch
+snippet: Kennst du Übersetzungen, die noch nicht in diesem Wörterbuch enthalten sind? Hier kannst du sie vorschlagen! Bitte immer nur genau eine Deutsch-Englisch-Übersetzung eintragen (Formatierung siehe Guidelines), möglichst mit einem guten Beleg im Kommentarfeld.Wichtig: Bitte hilf auch bei der Prüfung anderer Übersetzungsvorschläge mit!
+title: Atelierhaus Engl - Art gallery in München - Singulart
+snippet: Art galleries München Find the best art galleries in München on Singulart the #1 source for buying art online from recognized artists!
+
+REL: 0
+POI Name: Buddha-Museum
+POI City: Traben-Trarbach
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 0
+POI Name: Best Worscht in Town
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Curry Sausage, 
+Snippets:
+title: Best Worscht in Town
+snippet: Du willst das Best Worscht Feeling auch auf Deiner Party nicht missen? Schreib einfach eine Anfrage an Bewirtung@bestworscht.de und wir machen Dir ein Angebot, das Du nicht ausschlagen kannst!
+title: Best Worscht in Town, Frankfurt - Grueneburgweg 37 ...
+snippet: Best Worscht in Town, Frankfurt: See 425 unbiased reviews of Best Worscht in Town, rated 4.5 of 5 on Tripadvisor and ranked #35 of 2,326 restaurants in Frankfurt.
+title: Best Worscht in Town, Frankfurt am Main - Grüneburgweg 37 ...
+snippet: Best Worscht in Town, Frankfurt am Main: 425 Bewertungen - bei Tripadvisor auf Platz 35 von 2.326 von 2.326 Frankfurt am Main Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Best Worscht in Town, Frankfurt - Restaurantanmeldelser ...
+snippet: Best Worscht in Town, Frankfurt: Se 424 objektive anmeldelser av Best Worscht in Town, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 36 av 2 317 restauranter i Frankfurt.
+title: Speisekarte » Best Worscht in Town
+snippet: UVP des Franchisegebers. Einzelne Filialen können im Angebot abweichen. Best Worscht in Town | Impressum | Datenschutz | All Rights Reserved ^ Top
+title: Best Worscht in Town, Frankfurt - Berger Str. 80 ...
+snippet: Best Worscht in Town, Frankfurt: See 46 unbiased reviews of Best Worscht in Town, rated 4.5 of 5 on Tripadvisor and ranked #376 of 2,319 restaurants in Frankfurt.
+title: Best Worscht in Town - frankfurt-airport.com
+snippet: “Best Worscht in Town” has acquired a reputation far beyond Frankfurt with its currywurst, a very German specialty consisting of boiled, fried and chopped pork or beef sausage smothered in ketchup and curry powder and served with French fries or hearty sourdough bread.
+title: Best Worscht in Town, Frankfurt am Main - Hanauer Landstr ...
+snippet: Best Worscht in Town, Frankfurt am Main: 41 Bewertungen - bei Tripadvisor auf Platz 618 von 2.306 von 2.306 Frankfurt am Main Restaurants; mit 4/5 von Reisenden bewertet.
+title: BEST WORSCHT IN TOWN, Frankfurt - Zeil 104 - Restaurant ...
+snippet: Best Worscht In Town, Frankfurt: See 16 unbiased reviews of Best Worscht In Town, rated 4 of 5 on Tripadvisor and ranked #1,025 of 2,326 restaurants in Frankfurt.
+title: Best Worscht in Town - Nordend-Ost - Frankfurt, Hessen ...
+snippet: 122 reviews of Best Worscht in Town &quot;A must-visit for everyone! I visited here upon local recommendation on my first trip to Germany, 3 or 4 years ago. And then visited again this last time. The staff is friendly and the currywurst choices are…
+
+REL: 0
+POI Name: Hackesche Markt
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: Hackescher Markt Berlin - Shoppen und mehr in Berlin Mitte
+snippet: Alle Infos über Berlins angesagtes Szeneviertel, den Hackeschen Markt bei uns... Rund um Szeneläden, den Mix an Mode, Accessoires und Co.
+title: Hackescher Markt – Berlin.de
+snippet: The area around Hackescher Markt is not the place for finding big chain or department stores. Instead, Hackescher Markt became a shopping hotspot because famous designer shops as well as newer and younger Berlin labels are offering their products here.
+title: Hackescher Markt (Berlin, Tyskland) - Anmeldelser
+snippet: Hackescher Markt, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Hackescher Markt i Berlin, Tyskland på Tripadvisor.
+title: Hackesche Höfe | visitBerlin.de
+snippet: The history of the Hackesche Höfe. The courtyard complex opposite Hackescher Markt was opened on 23 September 1906 after several years of construction. It was designed and built by the architect Kurt Berndt, and the Art Nouveau façade was the work of August Endell.
+title: Hackescher Markt - Wikipedia
+snippet: Hackescher Markt (&quot;Hacke&#39;s Market&quot;) is a square in the central Mitte locality of Berlin, Germany, situated at the eastern end of Oranienburger Strasse.It is an important transport hub and a starting point for the city&#39;s nightlife.. Overview. Wikimedia Commons has media related to Hackescher Markt (Berlin-Mitte).
+title: Hackescher Markt – Berlin.de
+snippet: Der Hackesche Markt ist als wichtiger Verkehrsknotenpunkt von überall in Berlin aus gut zu erreichen. Ein idealer Ausgangspunkt für das Nachtleben in der Umgebung mit Theater, Kino und Varieté sowie zahlreichen Clubs, Bars, Restaurants, die Trends setzen oder aus anderen Metropolen nach Berlin bringen.
+title: Hotel Hackescher Markt | Best Rates - Book Now
+snippet: Our charming city center is located close to the Hackescher Markt and Hackesche Höfe with popular designer shops. The Berlin townhouse hotel is also only a stone’s throw away from Museum Island and the well-known collections.
+title: Hackescher Markt (Berlin, Tyskland) - anmeldelser
+snippet: Hackescher Markt, Berlin: Se 660 anmeldelser, artikler og 898 billeder fra Hackescher Markt, nr.94 på Tripadvisor af 1.047 seværdigheder i Berlin.
+title: Hackescher Markt (Berlin) - 2020 All You Need to Know ...
+snippet: We recommend booking Hackescher Markt tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 20 Hackescher Markt tours on Tripadvisor
+title: Adina Apartment Hotel Berlin Hackescher Markt, Berlin, Germany
+snippet: Adina Apartment Hotel Berlin Hackescher Markt This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location An der Spandauer Brücke 11, Mitte, 10178 Berlin, Germany – This neighborhood is a great choice for travelers interested in museums, history and monuments – Check location Excellent location – show map – Subway Access
+
+REL: 0
+POI Name: Opera
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Bars, Italian, 
+Snippets:
+title: Calendar - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Startseite | Staatsoper Berlin
+snippet: Die Staatsoper Unter den Linden in Berlin vereint 275-jährige Tradition mit künstlerischer Moderne. Mit der herausragenden Qualität der Opern- und Konzertaufführungen zählt sie zu einer der bedeutendsten Bühnen der Welt.
+title: Homepage - Deutsche Oper Berlin
+snippet: The Deutsche Oper Berlin is proud to draw readers’ attention to two of the nominations for the 2020 International Opera Awards. The magnificent chorus of the Deutsche Oper Berlin and its director Jeremy Bines have been shortlisted for their category and Detlev Glanert’s OCEANE is among the nominations for best “World Premiere”.
+title: Startseite - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Homepage | Staatsoper Berlin
+snippet: Die Staatsoper Unter den Linden in Berlin vereint 275-jährige Tradition mit künstlerischer Moderne. Mit der herausragenden Qualität der Opern- und Konzertaufführungen zählt sie zu einer der bedeutendsten Bühnen der Welt.
+title: Programme &amp; tickets | Staatsoper Berlin
+snippet: Grand oper in two acts by Wolfgang Amadeus Mozart ... Landesjugendballett Berlin an der Staatlichen Ballettschule Berlin. presents »Le Corsaire« ...
+title: Home | Komische Oper Berlin
+snippet: Die Komische Oper Berlin, im Herzen der Hauptstadt zwischen Brandenburger Tor, Museumsinsel und Checkpoint Charlie gelegen, steht für zeitgemäßes und lebendiges Musiktheater. Ihr prächtiger, neobarocker Zuschauersaal bietet Platz für 1190 Zuschauer. Mehr als 180000 Besucher lassen sich jedes Jahr vom vielfältigen Spielplanangebot des Hauses begeistern, das 2007 zum Opernhaus des Jahres ...
+title: Berlin Opera - Tickets and Schedule - Classictic.com
+snippet: Berlin Opera An exciting variety of opera performances. Berlin is renowned for its rich variety of excellent opera houses. The Deutsche Oper Berlin (German Opera of Berlin) has its home in a streamlined modern building in Charlottenburg, in the former West Berlin, while the Komische Oper Berlin is located in former East Berlin, near the Brandenburg Gate.
+title: Spielplan - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Tickets for Performances in Berlin - Allemagne - Music &amp; Opera
+snippet: Discover the 2019-2020 Berlin Season and book your opera, concert or ballet tickets in Berlin! The German capital is a real cultural gem. Hundreds of museums, art galleries, concert halls and operas are waiting for you! Attending to an opera in Berlin is essential.
+
+REL: 0
+POI Name: The Apartment
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: The Apartment - Buelowstr. 90, Berlin-Schoeneberg
+snippet: at jakob@the-apartment-berlin.de or phone: +4917610396472. The Apartment is a project by Studio Magnus Reed and Belgrad Creative TERMS OF USE Unless otherwise noted, all content, including images, photographs, designs, videos, illustrations,
+title: The 10 best apartments in Berlin, Germany | Booking.com
+snippet: Located on the lively Hackescher Markt Square, this non-smoking, 4-star hotel in Berlin offers soundproofed apartments, modern spa facilities, and a restaurant serving Australian cuisine. All stylish apartments at the Adina Apartment Hotel Berlin Hackescher Markt feature a flat-screen TV, fully equipped kitchen, and Wi-Fi connection. The kitchen has a dishwasher.
+title: Berlin Apartments: Cheap Apartments For Rent in Berlin ...
+snippet: Furnished &amp; Serviced apartments in Berlin. Just 24 hours in this cultural gem and you will turn into a true ‘Berliner’. Long-term travelers and expats alike want to rent an apartment or room in Berlin because its position as a global hub for arts, design and commerce.
+title: The Circus Apartments, Berlin, Germany - Booking.com
+snippet: The Circus Apartments were inspired by our guests, and the fact that many of you who come to Berlin are here for more than just the sights and are looking for a state of the art base in the city, with room to work, entertain and relax, and combined with the classic Circus philosophy of hospitality.
+title: Apartment the 5 lofts, Berlin, Germany - Booking.com
+snippet: These apartments are centrally located in the multicultural Kreuzberg district of Berlin. Apartments Dresdener Strasse offer free WiFi and a quiet terrace. Each apartment or studio features modern furnishings and includes a fully equipped kitchenette, a flat-screen cable TV and a private bathroom.
+title: Furnished Apartments Berlin | Rent Flat in Berlin
+snippet: Looking for accommodation in Berlin? Rent an apartment in Berlin without the hassle with Wunderflats. Berlin apartments starting at €750/month Over 24,000 Rental apartments all over Germany Fully furnished apartments Verified landlords No hidden costs. Easily rent and rent out accommodation in Berlin online!
+title: Badstraße Family Apartments, Berlin, Germany - Booking.com
+snippet: Location of apartment is excellent, very close to Pankstrasse U-bahn and 5-6 minute walk to Gesundbrunnen station (with U and S-bahn connections). The apartment is 10-12 minutes by metro to key central Berlin locations like Alexanderplatz etc. Apartment was very clean and tidy, very warm and there was plenty of space.
+title: THE 10 BEST Berlin Apartments, Apartment Rentals (with ...
+snippet: Apr 3, 2020 - View the Best apartments with Prices in Berlin. View Tripadvisor&#39;s 1,215 unbiased reviews and great deals on apartment rentals in Berlin, Germany. Apr 3, 2020 - View the Best apartments with Prices in Berlin.
+title: The 10 best serviced apartments in Berlin, Germany ...
+snippet: It is beside Berlin’s Natural History Museum, a 10-minute walk from Berlin Central Station. Adina Apartment Hotel Berlin provides non-smoking apartments with flat-screen TV and soundproofed windows. A private car park is available to guests of the Adina Apartment Hotel Berlin. Very clean hotel!
+title: B! Apartments, Berlin, Germany - Booking.com
+snippet: B! Apartments This neighborhood is a great choice for travelers interested in history, museums and monuments – Check location Different locations in, Mitte, 10115 Berlin, Germany – This neighborhood is a great choice for travelers interested in history, museums and monuments – Check location Excellent location – show map – Subway Access
+
+Cand cities: {'Schleswig', 'Munich', 'Berlin', 'Bad Homburg', 'Trechtingshausen', 'Traben-Trarbach', 'Frankfurt'}

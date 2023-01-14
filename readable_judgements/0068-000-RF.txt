@@ -1,0 +1,1352 @@
+City: Paris
+Country: FR
+Main category: Restaurants and Food
+Sub category: French - Seafood - Steakhouses
+Description: My wife and I will be in Paris on Valentine's Day and want to have a nice romantic meal somewhere. Our budget is probably around €200. Where would you recommend? EDIT:Usually in the US, a romantic dinner for us is seafood (my wife loves scallops) or a nice steak at a more upscale restaurant. As far as type of food, I think either some french cuisine, seafood or steak.  
+Rated POIs: 49
+Rel distr: [(0, 3), (1, 5), (2, 26), (3, 15)]
+=================================
+REL: 3
+POI Name: L'Huîtrier
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Seafood, 
+Snippets:
+title: L&#39;Huitrier, Paris - Ternes - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at L&#39;Huitrier, Paris with Tripadvisor: See 320 unbiased reviews of L&#39;Huitrier, ranked #1,386 on Tripadvisor among 17,679 restaurants in Paris.
+title: L&#39;Huîtrier in Paris - Restaurant Reviews, Menu and Prices ...
+snippet: Book a table at L&#39;Huîtrier in Paris. Find restaurant reviews, menu, prices, and hours of operation for L&#39;Huîtrier on TheFork.
+title: L&#39;Huîtrier - Paris : a Michelin Guide restaurant
+snippet: L&#39;Huîtrier – a restaurant from the Michelin Guide Find all the information you need on the L&#39;Huîtrier restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… L&#39;Huîtrier - a Michelin Guide restaurant.
+title: L&#39;Huitrier_la_carte - l&#39;Huîtrier - Restaurant Paris
+snippet: L&#39;Huîtrier Restaurant. 16 Rue Saussier Leroy 75017 Paris . Tel : 01 40 54 83 44. Ouvert tous les jours . 7 jours sur 7. de 12h à 14h30 . et. de 19h à 22h30 . Réservez Maintenant
+title: L&#39;Huîtrier - Paris 17ème, Paris | Bookatable
+snippet: Spécialisé dans les poissons et fruits de mer, le restaurant l’Huîtrier à Paris offre une cuisine de la mer fraîche et savoureuse dans un cadre convivial, à quelques pas de l’Arc de Triomphe. Au menu de l’Huîtrier, on retrouve une belle sélection d’huîtres : Fines de claires, Spéciales de Marennes Oléron ou encore d’Irlande, tout comme de beaux plateaux de fruits de mer et ...
+title: Carte de l&#39;Huitrier Pie : l&#39;équipe vous propose une ...
+snippet: La carte : L&#39;huitrier Pie, restaurant à Saint-Emilion, Aquitaine, vous propose de mettre en valeur les meilleurs produits du terroirs au travers d&#39;une cuisine inventive et de qualité. Une équipe jeune et expérimentée vous propose des plats renouvelés au gré des arrivages et des saisons.
+title: l&#39;Huîtrier - Restaurant Paris
+snippet: L&#39;Huîtrier is one of Paris’must-see addresses for maritime bistro lovers. Nothing surprising about its success when we know with what care and attention products are selected. A reputation for quality and freshness that extends to a wide selection of fish, lobster and langoustines from Loctudy, but also the best oysters and seafood.
+title: Restaurant L&#39;Huîtrier, Paris 17ème, Seafood
+snippet: In the 17th arrondissement, L&#39;Huîtrier is one of Paris&#39; must-see addresses for maritime bistro lovers. Nothing surprising about its success when we know with what care and attention products are selected. A reputation for quality and freshness that extends to a wide selection of fish, lobster and langoustines from Loctudy, but also the best oysters and seafood.
+title: Restaurant gastronomique l&#39;Huitrier Pie à Saint Emilion ...
+snippet: Restaurant gastronomique implanté au coeur du village de Saint-Emilion, l&#39;Huitrier Pie vous propose une cuisine de qualité, élaborée à partir des meilleurs produits de nos terroirs. Sa carte des vins très riche vous permettra de découvrir les production des vignobles prestigieux de Gironde.
+title: L&#39;Huitrier (パリ) 最新のレストランの口コミ(2020年) - トリップアドバイザー
+snippet: L&#39;Huitrier(パリ)に行くならトリップアドバイザーで口コミ、地図や写真を事前にチェック！L&#39;Huitrierはパリで1,386位(17,675件中)、4点の評価を受けています。
+
+REL: 3
+POI Name: Les Tantes Jeanne
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Steakhouses, 
+Snippets:
+title: Les Tantes Jeanne, Paris - 18th Arr. - Buttes-Montmartre ...
+snippet: Les Tantes Jeanne is a gastronomic restaurant located in Montmartre, near the Moulin Rouge. The restaurant is specialized in matured beef and exceptional meats : it&#39;s one of the only Parisian tables which serves certified Kobe beef. All the meats are served with wonderful and elegant vegetables.
+title: Les Tantes Jeanne, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Les Tantes Jeanne, Paris: Se 1 306 objektive anmeldelser av Les Tantes Jeanne, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 634 av 17 688 restauranter i Paris.
+title: LES TANTES JEANNE, Paris - 18e Arr. - Butte Montmartre ...
+snippet: Réserver une table LES TANTES JEANNE, Paris sur Tripadvisor : consultez 1 306 avis sur LES TANTES JEANNE, noté 4,5 sur 5 sur Tripadvisor et classé #634 sur 17 688 restaurants à Paris.
+title: Les Tantes Jeanne - Paris, France - Menu, Prices ...
+snippet: Les Tantes Jeanne - 42 Rue Véron, 75018 Paris, France - Rated 4.8 based on 135 Reviews &quot;We live in the Palm Beach, Florida area and have dined in more...
+title: Les Tantes Jeanne in Paris - Restaurant Reviews, Menu and ...
+snippet: Exclusive Menu 55€ - The Fork Festival. Book a table at Les Tantes Jeanne in Paris. Find restaurant reviews, menu, prices, and hours of operation for Les Tantes Jeanne on TheFork.
+title: Les Tantes Jeanne in Paris - Restaurant Reviews, Menu and ...
+snippet: Les Tantes Jeanne. Dear Shelicia, Thank you very much for visiting us and for taking the time to write us such a lovely review. We are glad to read that you enjoyed our cuisine, our service and that you sent a great night in our establishment for you birthday.
+title: Les Tantes Jeanne in Paris - Restaurant Reviews, Menus and ...
+snippet: Les Tantes Jeanne. Dear Shelicia, Thank you very much for visiting us and for taking the time to write us such a lovely review. We are glad to read that you enjoyed our cuisine, our service and that you sent a great night in our establishment for you birthday.
+title: Les Tantes Jeanne, Paris - 18th Arr. - Buttes-Montmartre ...
+snippet: das &quot;les tantes jeanne&quot; ist für uns ein muss in paris, wir lieben dieses lokal und auch dieses x kamen wir voll auf unsere kosten. bilder sagen mehr wie tausend worte. auch der service war wieder top und wir kommen gerne im januar wieder, merci! Mehr
+title: Restaurant Les Tantes Jeanne à Paris (75018), Batignolles ...
+snippet: Situé à deux pas du Moulin Rouge et au cœur du quartier de Montmartre, Les Tantes Jeanne est un restaurant gastronomique où l’art se reflète aussi bien dans les assiettes que sur les murs de l’établissement.
+title: LES TANTES JEANNE, Paris - Omdömen om restauranger ...
+snippet: Les Tantes Jeanne, Paris: Se 1 307 objektiva omdömen av Les Tantes Jeanne, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer638 av 17 679 restauranger i Paris.
+
+REL: 3
+POI Name: L'Atelier Maître Albert
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Steakhouses, 
+Snippets:
+title: L’Atelier Maître Albert - Restaurant
+snippet: Convivialité de la cheminée, authenticité de la rôtisserie, l’atmosphère de l’Atelier Maître Albert, restaurant avec Guy Savoy, crépite de tradition autant que de modernité !
+title: Atelier Maitre Albert, Paris - Restaurantanmeldelser ...
+snippet: Atelier Maitre Albert, Paris: Se 839 objektive anmeldelser av Atelier Maitre Albert, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 975 av 17 688 restauranter i Paris.
+title: Atelier Maitre Albert, Paris - Quartier Latin - Menu, Prix ...
+snippet: Atelier Maitre Albert, Paris : consultez 839 avis sur Atelier Maitre Albert, noté 4 sur 5 sur Tripadvisor et classé #1 975 sur 17 688 restaurants à Paris.
+title: Atelier Maitre Albert, Paris - Quartier Latin - Menu ...
+snippet: Atelier Maitre Albert, Paris: See 839 unbiased reviews of Atelier Maitre Albert, rated 4 of 5 on Tripadvisor and ranked #1,975 of 17,688 restaurants in Paris.
+title: Atelier Maître Albert | Restaurants in Jussieu, Paris
+snippet: Thank goodness, then, for the extremely prolific, multi-Michelin-starred chef Guy Savoy’s outfit, L’Atelier Maître Albert, which neatly hits the mid-way mark between quality and price.
+title: L&#39;ATELIER MAITRE ALBERT - S Marks The Spots
+snippet: L’ATELIER MAITRE ALBERT. A few weeks ago a very good friends of mine who lives in Paris took me to L’ Atelier Maître Albert, an upscale rotisserie by Michelin star chef Guy Savoy in Rive Gauche, just a stone’s throw away from the Notre Dame cathedral.
+title: Atelier Maître Albert - Home - Paris, France - Menu ...
+snippet: Atelier Maître Albert - 1 Rue Maître Albert, 75005 Paris, France - Rated 4.6 based on 108 Reviews &quot;It was my second time to have dinner at this...
+title: L’Atelier Maître Albert - Notre Dame De Paris - Paris, France
+snippet: Specialties: Convivialité de la cheminée, authenticité de la rôtisserie, l&#39;atmosphère de l&#39;Atelier Maître Albert crépite de tradition autant que de modernité ! Established in 2003. Sa cuisine du marché y trouve parfaitement sa place. Le…
+title: Restaurant L&#39;Atelier Maître Albert, Paris 5ème
+snippet: Dans l&#39;une des pittoresques petites rues du vieux Paris dans le 5ème arrondissement, l’Atelier Maître Albert, cette grande salle élégamment austère, éclairée par une grande rôtissoire, a été décorée par Jean-Michel Wilmotte. A l’Atelier Maître Albert, on se régale d&#39;une ...
+title: L&#39;Atelier Maître Albert, Guy Savoy’s rotisserie in Paris ...
+snippet: Three-time Michelin starred chef Guy Savoy is also the brain behind L’Atelier de Maître Albert. With chef Emmanuel Monsallier, they provide roasted meats in a welcoming setting featuring a ...
+
+REL: 3
+POI Name: L'Auberge Dab
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Brasseries, 
+Snippets:
+title: L&#39;Auberge dab, Paris - 16th Arr. - Passy - Menu, Prices ...
+snippet: L&#39;Auberge dab, Paris: See 1,342 unbiased reviews of L&#39;Auberge dab, rated 4 of 5 on Tripadvisor and ranked #2,273 of 17,688 restaurants in Paris.
+title: L&#39;Auberge Dab - brasserie porte maillot
+snippet: Traditional french brasserie in Paris. Near Porte Maillot, across from the Palais des Congrès conference hall, this elegant 16th arrondissement restaurant will delight visitors.. As soon as the door is opened onto the leather benches, wooden interior and bay windows dressed with salmon-coloured drapes, you know you are in a warm, welcoming, intimate restaurant.
+title: L&#39;Auberge Dab - brasserie porte maillot
+snippet: Brasserie traditionnelle Française porte maillot. Situé Porte Maillot, faisant face au Palais des Congrès, cet élégant restaurant du 16ème arrondissement a tous les atouts pour séduire.. Dès l’accueil, banquettes de cuir, boiseries, larges baies habillées d’étoffes saumon plantent le décor d’un lieu chaleureux voire intimiste.
+title: L&#39;Auberge dab, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Auberge dab, Paris: Se 1 342 objektive anmeldelser av L&#39;Auberge dab, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 293 av 17 681 restauranter i Paris.
+title: L&#39;Auberge dab, Paris - 16th Arr. - Passy - Menü, Preise ...
+snippet: L&#39;Auberge dab, Paris: 1.342 Bewertungen - bei Tripadvisor auf Platz 2.280 von 17.688 von 17.688 Paris Restaurants; mit 4/5 von Reisenden bewertet.
+title: L&#39;Auberge dab, Paris - 16e Arr. - Passy - Menu, Prix ...
+snippet: L&#39;Auberge dab, Paris : consultez 1 342 avis sur L&#39;Auberge dab, noté 4 sur 5 sur Tripadvisor et classé #2 273 sur 17 688 restaurants à Paris.
+title: L&#39;AUBERGE DAB, Paris - Omdömen om restauranger - Tripadvisor
+snippet: L&#39;Auberge dab, Paris: Se 1 342 objektiva omdömen av L&#39;Auberge dab, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer2 282 av 17 675 restauranger i Paris.
+title: L&#39;Auberge dab, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Auberge dab, Paris: Se 1.342 objektive anmeldelser af L&#39;Auberge dab, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 2.305 af 17.683 restauranter i Paris.
+title: L&#39;AUBERGE DAB, París - 16th Arr. - Passy - Menú, Precios y ...
+snippet: L&#39;Auberge dab, París: Consulta 1.342 opiniones sobre L&#39;Auberge dab con puntuación 4 de 5 y clasificado en Tripadvisor N.°2.274 de 17.688 restaurantes en París.
+title: L&#39;Auberge DAB French brasserie restaurant in Paris France
+snippet: L&#39;Auberge DAB French Brasserie and Restaurant in Paris The Auberge DAB is a traditional French Brasserie in Paris that specialises in seafood dishes along with other French delights and a la carte gourmet cuisine in a refined elegant setting that is popular for business people as well as friends and families.
+
+REL: 3
+POI Name: Amélie
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Seafood, 
+Snippets:
+title: Amelie, Maison d&#39;art - Amélie Paris, Maison d\dart
+snippet: La Galerie Amelie est un nouveau concept de galerie d’art parisienne qui permet de découvrir des oeuvres d’artistes divers dans un espace chaleureux aménagé comme une maison.
+title: Amélie - Wikipedia
+snippet: The movie was filmed mainly in Paris. The Café des 2 Moulins (15 Rue Lepic, Montmartre, Paris) where Amélie works is a real place. The filmmakers made use of computer-generated imagery (including computer animation), and a digital intermediate. The studio scenes were filmed in the Coloneum Studio in Cologne (Germany).
+title: Amelie, Maison d&#39;art - Amélie Paris, Maison d\dart
+snippet: The Amelie Gallery is a new concept of Parisian art gallery, that allows you to discover artworks of various artists in warm, home interiors.
+title: ameli, le site de l’Assurance Maladie en ligne | ameli.fr ...
+snippet: Le site officiel de l&#39;Assurance Maladie. Actualités – Droits et Démarches – Remboursements – Prestations et aides – Santé – Offres de prévention
+title: Accueil AmélieParis - Transformez vos photos en grilles de ...
+snippet: Amélie Paris est la solution en ligne pour convertir des photos ou illustrations de votre choix en diagrammes de point de croix à imprimer. Quelques minutes suffisent pour créer un modèle personnel à broder, avec les quantités et références de fils DMC nécessaires à la réalisation de votre ouvrage.
+title: Amélie Hotel, Paris, France - Booking.com
+snippet: Amélie Hotel This neighborhood is a great choice for travelers interested in romance, restaurants and art – Check location 5 rue Amélie, 7th arr., 75007 Paris, France – This neighborhood is a great choice for travelers interested in romance, restaurants and art – Check location Excellent location – show map – Subway Access
+title: Amélie (2001) - IMDb
+snippet: Directed by Jean-Pierre Jeunet. With Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta. Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.
+title: Cafe des Deux Moulins, Paris - 18th Arr. - Buttes ...
+snippet: Reserve a table at Cafe des Deux Moulins, Paris on Tripadvisor: See 2,120 unbiased reviews of Cafe des Deux Moulins, rated 3.5 of 5 on Tripadvisor and ranked #10,406 of 17,675 restaurants in Paris. ... Because we’re fans of the French movie Amelie, we had to visit this place.
+title: Cafe De Anatolia - Amélie de Paris (Mix by Rialians On ...
+snippet: 50+ videos Play all Mix - Cafe De Anatolia - Amélie de Paris (Mix by Rialians On Earth) YouTube; Buddha Bar Paris - Buddha Bar Annual Mix 2016 [HD] Buddha Bar Ch - Duration: 1:57:53. Chill ...
+
+REL: 3
+POI Name: L'Escargot
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: L&#39;Escargot Montorgueil, Paris - Les Halles - Restaurant ...
+snippet: L&#39;Escargot Montorgueil, Paris: See 1,456 unbiased reviews of L&#39;Escargot Montorgueil, rated 4 of 5 on Tripadvisor and ranked #2,511 of 17,688 restaurants in Paris.
+title: L’ESCARGOT MONTORGUEIL
+snippet: L’Escargot Montorgueil est ouvert tous les jours de la semaine, de 12h à 23h. Escargot Montorgueil is open every day of the week, from 12pm to 11pm.
+title: L&#39;Escargot Montorgueil, Paris - Restaurantanmeldelser ...
+snippet: L&#39;Escargot Montorgueil, Paris: Se 1 456 objektive anmeldelser av L&#39;Escargot Montorgueil, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 555 av 17 682 restauranter i Paris.
+title: L&#39;Escargot, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Escargot, Paris: Se 127 objektive anmeldelser av L&#39;Escargot, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 990 av 17 679 restauranter i Paris.
+title: L&#39;Escargot, Paris - Belleville / Pere Lachaise ...
+snippet: L&#39;Escargot, Paris: See 127 unbiased reviews of L&#39;Escargot, rated 4.5 of 5 on Tripadvisor and ranked #1,991 of 17,687 restaurants in Paris.
+title: L&#39;ESCARGOT MONTORGUEIL, Paris - Omdömen om restauranger ...
+snippet: L&#39;Escargot Montorgueil, Paris: Se 1 456 objektiva omdömen av L&#39;Escargot Montorgueil, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer2 527 av 17 675 restauranger i Paris.
+title: L&#39;Escargot Montorgueil in Paris - Restaurant Reviews, Menu ...
+snippet: L&#39;Escargot Montorgueil in Paris. Find restaurant reviews, menu, prices, and hours of operation for L&#39;Escargot Montorgueil on TheFork.
+title: L&#39;Escargot-Bar - Home - Paris, France - Menu, Prices ...
+snippet: L&#39;Escargot-Bar, Paris, France. 2,215 likes · 166 talking about this · 1,186 were here. French Restaurant
+title: La Maison de l&#39;Escargot Paris - Home | Facebook
+snippet: La Maison de l&#39;Escargot Paris. 82 likes. Parce que le bonheur des amateurs d&#39;escargots est notre raison d&#39;être ... Venez découvrir nos escargots...
+title: Menu — L&#39;Escargot
+snippet: The menu is based on typical French cooking in the Parisian grand brasserie style. Featuring some of the finest French delicacies including Lobster bisque, steak Tartare, steak frites and duck confit, not to forget the world famous Escargot with iconic garlic butter!
+
+REL: 3
+POI Name: Les Athlètes
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: LE RESTAURANT - RESTAURANT LES ATHLETES PARIS 2EME ...
+snippet: Restaurant parisien place de la Bourse dans le 2ème arrondissement de Paris. Les Athlètes vous reçoivent dans un décor rétro et chaleureux au cœur de Paris
+title: Les Athletes, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Les Athletes, Paris: Se 200 objektive anmeldelser av Les Athletes, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 3 373 av 17 688 restauranter i Paris.
+title: Les Athlètes - Home - Paris, France - Menu, Prices ...
+snippet: Les Athlètes, Paris, France. 2.4K likes. Restaurant Les Athlètes
+title: Les Athletes, Paris - Vivienne - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Les Athletes, Paris on Tripadvisor: See 200 unbiased reviews of Les Athletes, rated 4 of 5 on Tripadvisor and ranked #3,374 of 17,676 restaurants in Paris.
+title: Les Athlètes in Paris - Restaurant Reviews, Menu and ...
+snippet: Le bistrot Les Athlètes, situé dans le 2e arrondissement de Paris, à proximité de la place de la Bourse, vous convie à un interlude gourmand dans un cadre original, quelque peu rétro : de vieilles raquettes de tennis côtoient, sur les murs en bois, une paire de ski d´un autre temps.
+title: Restaurant Les Athlètes à Paris (75002), Opéra - Grands ...
+snippet: DÉCO VINTAGE - Le bistrot Les Athlètes, situé dans le 2ème arrondissement de Paris, à proximité de la place de la Bourse, vous convie à un interlude gourmand dans un cadre original, quelque peu rétro : de vieilles raquettes de tennis côtoient, sur les murs en bois, une paire de ski d´un autre temps.
+title: THE 10 BEST Restaurants Near Les Athletes in Paris, Ile-de ...
+snippet: Restaurants near Les Athletes, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near Les Athletes in Paris, France.
+title: Great food! - Review of Les Athletes, Paris, France ...
+snippet: Description: Les Athletes is a retro sport theme restaurant where you will not find a single TV screen but in its place, mythical and historical objects such as old bowling balls, weights you grandpa used to use, boxing gloves like the ones Muhammad Ali used to fight with, medals, trophy’s, vintage photography and vintage snowshoes that will plunge you into a parallel, refined and refined world.
+title: Les Athlètes | Bar sportif à privatiser et réserver ...
+snippet: Si vous culpabilisez, vous n’aurez qu’à aller faire un footing après le repas ! Mais Les Athlètes c&#39;est aussi le lieu idéal pour boire un verre avec quelques collègues après une dure séance de sport. Laissez-vous donc tenter par les délicieux cocktails préparés maison par l&#39;établissement !
+title: Lively, french &amp; tasty - Review of Les Athletes, Paris ...
+snippet: Les Athletes: Lively, french &amp; tasty - See 200 traveler reviews, 59 candid photos, and great deals for Paris, France, at Tripadvisor.
+
+REL: 3
+POI Name: Foyer de la Madeleine
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Restaurant associatif à Paris - Foyer de la Madeleine
+snippet: Le Foyer de la Madeleine est un restaurant associatif permettant aux personnes dans le besoin de s&#39;offrir un vrai repas, grace à vous.
+title: Foyer de la Madeleine, Paris - Madeleine - Menu, Prices ...
+snippet: the foyer de la madeleine great adventure . the atmosphere is wonderful . the fact that its runs a volunteer work force and a none for profit restaurant makes it even more exciting . the food was a secondary thought being about average .
+title: Foyer de la Madeleine - Restaurant - Paris, France - 17 ...
+snippet: Foyer de la Madeleine. 849 likes · 3 talking about this · 420 were here. Vous n’êtes pas dans un restaurant, mais dans un lieu d’accueil, de partage et de convivialité où le service est assuré par...
+title: Foyer de la Madeleine - French - Place de la Madeleine ...
+snippet: 8 reviews of Foyer de la Madeleine &quot;In basement of church but very nice and natural light. The food is wonderful - home cooked simple French food, set menu but choices of soup, salad and entrees. And great price. And good cause&quot;
+title: Foyer de la Madeleine, Paris - Madeleine - Menu, Prices ...
+snippet: Foyer de la Madeleine, Paris: See 134 unbiased reviews of Foyer de la Madeleine, rated 4 of 5 on Tripadvisor and ranked #2,480 of 17,679 restaurants in Paris.
+title: Restaurant Foyer de la Madeleine | Paris Adèle
+snippet: Restaurant Foyer de la Madeleine . Lurking under the vaulted ceilings in the cellars of L’église Sainte-Marie-Madeleine or better known in English as the Madeleine Church is one of Paris’ best kept secret cafés and a unique experience. (click on the images for an expanded view)
+title: Qui sommes-nous ? Histoire - Foyer de la Madeleine
+snippet: Au début du Second Empire, l’impératrice Eugénie, marquée par les idées de son mari (l’extinction du paupérisme 1844) se lance avec le concours précieux de la paroisse, dans une action d’aide aux indigents : ouvroirs, distributions de vêtements et collations, ainsi que la distribution de repas à domicile, (qui existe toujours sous différentes formes).
+title: Refettorio Paris au Foyer de la Madeleine
+snippet: Le Foyer de la Madeleine . Le Foyer de la Madeleine is a social restaurant serving more than 250 nutritious and in-season meals every day to elderly people and workers from the neighbourhood at a reasonable price: 9 euros for the meal and 7 euros for the yearly membership.. Thanks to the cooperation with the Ozanam Madeleine association, the restaurant has also been offering meals to people in ...
+title: De 10 beste restaurantene i nærheten av Foyer de la Madeleine
+snippet: Restauranter i nærheten av Foyer de la Madeleine på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Foyer de la Madeleine, Paris.
+title: Foyer de la Madeleine, Paris - Restaurantanmeldelser ...
+snippet: Foyer de la Madeleine, Paris: Se 134 objektive anmeldelser av Foyer de la Madeleine, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 482 av 17 688 restauranter i Paris.
+
+REL: 3
+POI Name: Le Faux Filet
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Steakhouses, 
+Snippets:
+title: Le Faux-Filet, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Faux-Filet, Paris: Se 80 objektive anmeldelser av Le Faux-Filet, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 8 324 av 17 676 restauranter i Paris.
+title: Le Faux-Filet, Paris - 9th Arr. - Opera - Menu, Prices ...
+snippet: Le Faux-Filet, Paris: See 80 unbiased reviews of Le Faux-Filet, rated 3.5 of 5 on Tripadvisor and ranked #8,318 of 17,674 restaurants in Paris.
+title: THE 10 BEST Restaurants Near Le Faux-Filet in Paris, Ile ...
+snippet: Restaurants near Le Faux-Filet, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near Le Faux-Filet in Paris, France.
+title: LE FAUX FILET I Site officiel, avis, prix et réservation ...
+snippet: Placé entre le boulevard Haussmann et la rue Saint-Lazare, ce bistrot en place depuis 1989 est une valeur sûre de ce quartier d&#39;affaire ou de shopping effréné. Le cadre du Faux Filet est assez épuré, de grands miroirs, des banquettes en cuir, un beau carrelage fleuri ou un parquet plus chaud dans la salle à l&#39;étage.
+title: Le Faux Filet - Paris, France - Menu, Prices, Restaurant ...
+snippet: Le Faux Filet - 16 rue Joubert, 75009 Paris, France - Rated 4.2 based on 11 Reviews &quot;C était bien mais moins copieux qu avant et les plats pas très...
+title: Le Faux-Filet, Paris - 9e Arr. - Opéra - Menu, Prix ...
+snippet: Le Faux-Filet, Paris : consultez 80 avis sur Le Faux-Filet, noté 3,5 sur 5 sur Tripadvisor et classé #8 316 sur 17 688 restaurants à Paris.
+title: LE FAUX-FILET, Paris - Omdömen om restauranger - Tripadvisor
+snippet: Le Faux-Filet, Paris: Se 80 objektiva omdömen av Le Faux-Filet, som fått betyg 3,5 av 5 på Tripadvisor och rankas som nummer8 322 av 17 679 restauranger i Paris.
+title: Le Faux-Filet, Paris - 9th Arr. - Opéra - Menü, Preise ...
+snippet: Le Faux-Filet, Paris: 79 Bewertungen - bei TripAdvisor auf Platz 8.416 von 17.626 von 17.626 Paris Restaurants; mit 3,5/5 von Reisenden bewertet.
+title: LE FAUX-FILET, Paris - Comentários de restaurantes ...
+snippet: Le Faux-Filet, Paris: Veja 80 dicas e avaliações imparciais de Le Faux-Filet, com classificação Nº 3,5 de 5 no Tripadvisor e classificado como Nº 8.314 de 17.688 restaurantes em Paris.
+title: LE FAUX-FILET, París - 9th Arr. - Opéra - Menú, Precios y ...
+snippet: Le Faux-Filet, París: Consulta 80 opiniones sobre Le Faux-Filet con puntuación 3,5 de 5 y clasificado en Tripadvisor N.°8.318 de 17.673 restaurantes en París. ... Mis papas estaban empapadas. Otra pieza que creo que debe ser mencionado es que vivo en Paris y el personal no parecía muy acogedor. No aconsejaría a los turistas.
+
+REL: 3
+POI Name: Le Bossu
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, French, 
+Snippets:
+title: Le Bossu, Paris - Ile de la Cite / Ile Saint-Louis - Menu ...
+snippet: Reserve a table at Le Bossu, Paris on Tripadvisor: See 83 unbiased reviews of Le Bossu, rated 4.5 of 5 on Tripadvisor and ranked #3,083 of 17,676 restaurants in Paris.
+title: Le Bossu, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Bossu, Paris: Se 83 objektive anmeldelser av Le Bossu, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 3 086 av 17 682 restauranter i Paris.
+title: Le Chat Bossu, Paris - Bastille - Restaurant Reviews ...
+snippet: Le Chat Bossu, Paris: See 355 unbiased reviews of Le Chat Bossu, rated 4 of 5 on Tripadvisor and ranked #1,827 of 17,679 restaurants in Paris.
+title: Le Bossu (1959) - IMDb
+snippet: Directed by André Hunebelle. With Jean Marais, Bourvil, Sabine Sesselmann, Jean Le Poulain. Prince Philippe de Gonzague decides to get rid of his cousin Duke de Nevers, having wished for long his properties and wealth.
+title: Le Bossu in Paris - Restaurant Reviews, Menu and Prices ...
+snippet: -30% off the &quot;à la carte&quot; menu!. Book a table at Le Bossu in Paris. Find restaurant reviews, menu, prices, and hours of operation for Le Bossu on TheFork.
+title: Le Bossu, Paris - Île de la Cité/Île Saint-Louis - Menu ...
+snippet: Réserver une table Le Bossu, Paris sur Tripadvisor : consultez 83 avis sur Le Bossu, noté 4,5 sur 5 sur Tripadvisor et classé #3 084 sur 17 680 restaurants à Paris.
+title: Le Bossu de Notre-Dame en streaming - Dpstream
+snippet: Le Bossu de Notre-Dame streaming, regarder Le Bossu de Notre-Dame en streaming VF en français Complet Gratuit, ... En l’an de grâce 1482 à Paris, Quasimodo, jeune orphelin contrefait, est le sonneur de Notre-Dame. Il vit reclus dans le clocher sous la férule du puissant juge Frollo, son maître.
+title: Le Bossu (film, 1959) — Wikipédia
+snippet: Le Bossu réussit à se faire inviter au bal sous le prétexte amusant de présenter à Gonzague, Aurore sa « fiancée ». Celle-ci, ignorant encore la véritable identité du bossu, est enlevée par Peyrolles. Peu avant minuit, le Régent ouvre le bal avec madame de Caylus, confiante et inquiète à la fois de retrouver sa fille, Aurore.
+title: Le Chat Bossu, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Chat Bossu, Paris: Se 355 objektive anmeldelser av Le Chat Bossu, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 825 av 17 675 restauranter i Paris.
+title: Le Bossu Paris - Posts - Paris, France - Menu, Prices ...
+snippet: Le Bossu Paris - 17 rue des deux ponts ile saint louis, 75004 Paris, France - Rated 4.9 based on 23 Reviews &quot;Un régal pour les papilles (foie gras...
+
+REL: 3
+POI Name: Robert et Louise
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Steakhouses, 
+Snippets:
+title: Robert et Louise / Restaurant Traditionnel / Paris 3
+snippet: Chez Robert et Louise, on mange de la viande grillée au feu de bois. Cotes de bœuf, entrecôte, T-Bone steak, gigot et côtes d’agneau, rognon de veau, mais aussi du confit ou du magret de canard, des gambas et omelette aux champignons.
+title: Robert et Louise / Traditional Restaurant / Paris 3
+snippet: Welcome to the offical website of Robert et Louise in Paris 3 - Traditional Restaurant, read our customer reviews and book online - At Robert and Louise, we ...
+title: Robert et Louise, Paris - Le Marais - Menu, Prices ...
+snippet: Robert et Louise, Paris: See 1,395 unbiased reviews of Robert et Louise, rated 4 of 5 on Tripadvisor and ranked #719 of 17,679 restaurants in Paris.
+title: Robert et Louise, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Robert et Louise, Paris: Se 1 394 objektive anmeldelser av Robert et Louise, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 727 av 17 682 restauranter i Paris.
+title: ROBERT ET LOUISE, Paris - Le Marais - Updated 2020 ...
+snippet: Robert et Louise, Paris: See 1,395 unbiased reviews of Robert et Louise, rated 4 of 5 on Tripadvisor and ranked #719 of 17,675 restaurants in Paris.
+title: Menu - Robert et Louise - Paris 3
+snippet: Restaurant menus, cuisine and specials - Robert et Louise - Paris 3...
+title: Carte et menus / Paris 3 / Robert et Louise
+snippet: Carte et menus du restaurant, cuisine et spécialités - Robert et Louise - Paris 3...
+title: Photos / Paris 3 / Robert et Louise
+snippet: Découvrez l&#39;atmosphère du restaurant Robert et Louise... Newsletter *. En vous inscrivant à notre newsletter vous acceptez de recevoir des communications et offres marketing personnalisées par mail de notre part.
+title: Breakfast at noon - Review of Robert et Louise, Paris ...
+snippet: Robert et Louise is generally known as a restaurant for grilled meats but my friend and I use if for something else. When we travel to Paris we fly overnight from Newark, N.J., arriving at approximately 7:30 in the morning Paris time.
+title: Robert et Louise - Innlegg - Paris, France - Meny, priser ...
+snippet: Robert et Louise, Paris, France. 8,9 k liker dette. Restaurant de feu à Paris.64, rue Vieille du Temple, 75003 Paris. +33 1 42 78 55 89
+
+REL: 3
+POI Name: Autour du Saumon
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Seafood, 
+Snippets:
+title: Autour du Saumon, Paris - 60 rue Francois Miron, Saint ...
+snippet: Reserve a table at Autour du Saumon, Paris on Tripadvisor: See 317 unbiased reviews of Autour du Saumon, rated 4.5 of 5 on Tripadvisor and ranked #628 of 17,680 restaurants in Paris.
+title: Autour du Saumon, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Autour du Saumon var vårt første måltid ved ankomst i Paris. Jeg husket det (eller noe sånt) fra en tur over 15 år siden. Det skuffet ikke (men du må virkelig LOVE laks - - fordi det er først og fremst det som tilbys).
+title: Autour du Saumon - Convention, Paris ...
+snippet: Autour du Saumon - Convention, Paris: Se 194 objektive anmeldelser av Autour du Saumon - Convention, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 157 av 17 682 restauranter i Paris.
+title: Restaurant Autour du Saumon Convention à Paris (75015), La ...
+snippet: -30% sur la carte - Restaurant Autour du Saumon Convention à Paris : Réservez gratuitement au restaurant Autour du Saumon Convention, confirmation immédiate de votre réservation avec LaFourchette.
+title: Autour du Saumon - Saumons &amp; poissons fumés
+snippet: Autour du saumon offre ainsi, au fil des saisons, la palette exceptionnelle de 7 saumons d’origine différente, dont le fameux saumon Ecossais Bio élevé dans le respect de la charte Ecocert et un exceptionnel saumon sauvage. Gage de qualité et de fraîcheur, notre produit emblématique sera tranché sous vos yeux.
+title: Autour du Saumon, Paris - 56 rue des Martyrs, 9th Arr ...
+snippet: Autour du Saumon, Paris: See 19 unbiased reviews of Autour du Saumon, rated 4.5 of 5 on Tripadvisor and ranked #8,599 of 17,682 restaurants in Paris.
+title: Autour du Saumon - Miron - Restaurant Miron - Le Marais ...
+snippet: D’un côté l’Ile Saint-Louis, de l’autre la place des Vosges. En retrait de l’agitation du métro Saint-Paul, le restaurant offre une pause fraîcheur autour des meilleurs produits de la mer. Décor floral, teintes douces, lignes sobres et élégantes, joli bar pour la confection des cocktails, terrasse de charme, accueil attentionné…
+title: Autour du Saumon à Paris 15, carte-menu et photos
+snippet: Autour du Saumon situé à Paris 15 (75) est un établissement de type Poissons et fruits de mer, consultez leur carte-menu (7 pages), les horaires d&#39;ouverture, 3 photos à voir
+title: AUTOUR DU SAUMON, París - 60 rue Francois Miron, Saint ...
+snippet: Autour du Saumon tiene una increíble selección de salmón de toda Europa, así como otras delicias - herrring increíble en diversos tipos de salsas, caviar, cangrejo, camarones y una gran variedad de condimentos, galletas saladas, etc. A mi esposa le encanta este lugar.
+title: Autour du Saumon - Miron, Paris - 60 Rue Francois Miron ...
+snippet: Réserver une table Autour du Saumon - Miron, Paris sur Tripadvisor : consultez 317 avis sur Autour du Saumon - Miron, noté 4,5 sur 5 sur Tripadvisor et classé #627 sur 17 675 restaurants à Paris.
+
+REL: 3
+POI Name: Chez Gabrielle
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Chez Gabrielle, Paris - Ternes - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Chez Gabrielle, Paris on Tripadvisor: See 1,053 unbiased reviews of Chez Gabrielle, rated 4.5 of 5 on Tripadvisor and ranked #104 of 17,688 restaurants in Paris.
+title: Chez Gabrielle, Paris - Ternes - Menu, Prix, Restaurant ...
+snippet: Réserver une table Chez Gabrielle, Paris sur Tripadvisor : consultez 1 053 avis sur Chez Gabrielle, noté 4,5 sur 5 sur Tripadvisor et classé #104 sur 17 688 restaurants à Paris.
+title: Chez Gabrielle - Paris, France - Menu, Prices, Restaurant ...
+snippet: Chez Gabrielle - 7 rue de l&#39;Etoile, 75017 Paris, France - Rated 4.7 based on 71 Reviews &quot;We were looking for restaurants to go to the first night we were...
+title: Chez Gabrielle - 7 Rue Etoile 75017 PARIS - Eater Space
+snippet: Philippe Lesouef, le chef de Chez Gabrielle est un véritable passionné. Il travaille uniquement des produits frais de saison. Certaines recettes, comme les Saint-Jacques flambées au Noilly Prat, champignons de Paris et girolles, constituent de véritables plats signatures de la maison. Offres &amp; événements.
+title: Chez Gabrielle, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Chez Gabrielle, Paris: Se 1 052 objektive anmeldelser av Chez Gabrielle, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 103 av 17 682 restauranter i Paris.
+title: Gabrielle Paris: Linge et accessoires de maison ...
+snippet: Bienvenue sur l&#39;eshop Gabrielle Paris- une gamme inspirée par la famille &amp; imaginée pour elle et produite dans le respect de la planète et des hommes- Livraison offerte à partir de 300€ et retours gratuits
+title: Chez Gabrielle in Paris - Restaurant Reviews, Menu and ...
+snippet: Chez Gabrielle is a little gem in our neighborhood. There are super-star items on the menu, such as the seared fois gras, the scallops and the extraordinarily creative licorice millefeuille. The wine list is interesting and well priced. The waitstaff is efficient and attentive.
+title: Chez Gabrielle restaurant, Paris - Restaurant menu and reviews
+snippet: Chez Gabrielle, #293 among Paris restaurants: 1482 reviews by visitors and 20 detailed photos. The overall rating of this restaurant is 4.7 on Google and 4.7 on Facebook. Be ready to pay 21-40 € for a meal. Find on the map and call to book a table.
+title: Chez Gabrielle / Restaurant / Paris
+snippet: - Chez Gabrielle - 7, rue de l&#39;Etoile 75017 Paris - Téléphone : 01 43 80 23 01 - Mentions Légales Découvrir Zenchef Zenchef est la solution utilisée par plus de 3000 restaurateurs pour gérer simplement leurs réservations et leur communication en toute autonomie.
+title: CHEZ GABRIELLE, París - Ternes - Menú, Precios y ...
+snippet: Chez Gabrielle es el típico restaurante que todo el mundo te recomienda en París. Y no se equivocan para nada. Su comida es absolutamente impecable, sus meseros y la atención que brindan es sumamente acogedora y adicional a esto; sus precios son decentes.
+
+REL: 3
+POI Name: L'Ecailler Du Bistrot
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, French, 
+Snippets:
+title: L&#39;ECAILLER DU BISTROT, Paris - 11th Arr. - Popincourt ...
+snippet: L&#39;Ecailler du Bistrot, Paris: See 389 unbiased reviews of L&#39;Ecailler du Bistrot, rated 4 of 5 on Tripadvisor and ranked #1,290 of 17,679 restaurants in Paris.
+title: L&#39;Ecailler du Bistrot, Paris - 11th Arr. - Popincourt ...
+snippet: L&#39;Ecailler du Bistrot, Paris: See 389 unbiased reviews of L&#39;Ecailler du Bistrot, rated 4 of 5 on Tripadvisor and ranked #1,292 of 17,676 restaurants in Paris.
+title: L&#39;Ecailler du Bistrot, Paris - 11th Arr. - Popincourt ...
+snippet: L&#39;Ecailler du Bistrot, Paris: See 389 unbiased reviews of L&#39;Ecailler du Bistrot, rated 4 of 5 on Tripadvisor and ranked #1,292 of 17,676 restaurants in Paris.
+title: L&#39;Ecailler du Bistrot, Paris - Gourmantic
+snippet: Starting with the briny oysters, and one is drinking the sea. No accompaniments needed. This is as fresh as it gets. L’Ecailler du Bistrot is a busy restaurant therefore reservations are highly recommended. On a weeknight around 10pm, the venue was at full capacity and still turning tables.
+title: L&#39;Ecailler du Bistrot - Paris, France - French Restaurant ...
+snippet: L&#39;Ecailler du Bistrot, Paris, France. 809 likes · 1,774 were here. French Restaurant
+title: L&#39;Ecailler du Bistrot, Paris - Restaurantanmeldelser ...
+snippet: L&#39;Ecailler du Bistrot, Paris: Se 389 objektive anmeldelser av L&#39;Ecailler du Bistrot, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 288 av 17 675 restauranter i Paris.
+title: De 10 beste restaurantene i nærheten av L&#39;Ecailler du Bistrot
+snippet: Restauranter i nærheten av L&#39;Ecailler du Bistrot på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av L&#39;Ecailler du Bistrot, Paris.
+title: the restaurant - Picture of L&#39;Ecailler du Bistrot, Paris ...
+snippet: L&#39;Ecailler du Bistrot, Paris Picture: the restaurant - Check out Tripadvisor members&#39; 51,164 candid photos and videos of L&#39;Ecailler du Bistrot
+title: L&#39;Ecailler du Bistrot, Paris - Restaurantanmeldelser ...
+snippet: L&#39;Ecailler du Bistrot, Paris: Se 389 objektive anmeldelser af L&#39;Ecailler du Bistrot, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 1.296 af 17.682 restauranter i Paris.
+title: L&#39;Écailler du Bistrot - Paris : a Michelin Guide restaurant
+snippet: L&#39;Écailler du Bistrot – a restaurant from the Michelin Guide Find all the information you need on the L&#39;Écailler du Bistrot restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… L&#39;Écailler du Bistrot - a Michelin Guide restaurant.
+
+REL: 3
+POI Name: Haddock and Co
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Seafood, 
+Snippets:
+title: Haddock and Co Paris - Bar à huîtres et restaurant de ...
+snippet: Situé en plein 17e à Paris, Haddock &amp; Co est un bar à huîtres convivial où l’on déguste, autour d’une table d’hôtes ou de tables individuelles, des produits de la mer dans une ambiance maritime, bretonne et chaleureuse. Ce bar à huîtres et tapas de la mer est la nouvelle aventure du breton Christophe Huchet, qui vous fera découvrir en plus des fruits de mer, de multiples ...
+title: Haddock and Co Paris - the Oyster and Tapas bar restaurant
+snippet: Situated right in the Centre of the 17th district of Paris, HADDOCK and Co is a convivial place to enjoy Sea Food around a table d’hôte or at an individual table in a warm Breton seaside atmosphere.. The Oysters and Sea Tapas Bar is the latest adventure of the Breton Christophe Huchet who will reveal to us not only sea food but a variety of Tapas recipes.
+title: Haddock &amp; Co, Paris - Ternes - Menu, Prices &amp; Restaurant ...
+snippet: Haddock &amp; Co, Paris: See 38 unbiased reviews of Haddock &amp; Co, rated 4 of 5 on Tripadvisor and ranked #8,474 of 17,607 restaurants in Paris.
+title: Haddock &amp; Co, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Haddock &amp; Co, Paris: Se 38 objektive anmeldelser av Haddock &amp; Co, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 8 510 av 17 681 restauranter i Paris.
+title: Haddock and Co - Pereire/Cardinet/Courcelles - Paris, France
+snippet: With so few reviews, your opinion of Haddock and Co could be huge. Start your review today. 1 other review that is not currently recommended. Business website. haddockandco.fr. Phone number +33 6 47 20 74 49. Get Directions. Message the Business. People Also Viewed. Le Carré Gourmand. 2 reviews. French. A l’Endroit.
+title: Haddock &amp; Co, Paris - Ternes - Menu, Prix &amp; Restaurant ...
+snippet: Haddock &amp; Co, Paris : consultez 38 avis sur Haddock &amp; Co, noté 4 sur 5 sur Tripadvisor et classé #8 504 sur 17 680 restaurants à Paris.
+title: Restaurant Haddock &amp; Co Paris 17 ème - français
+snippet: Haddock and Co propose aussi à sa clientèle de superbes plateaux de fruits de mer de première fraîcheur, comprenant 4 huîtres prat ar coum n°3, 3 langoustines 16/20, 1/2 demi tourteau, des bulots, crevettes roses et crevettes grises ! Proposé à 35 euros par personne sur place, à emporter et bientôt en livraison à domicile !
+title: Haddock &amp; Co - Picture of Haddock &amp; Co, Paris - Tripadvisor
+snippet: Haddock &amp; Co, Paris Picture: Haddock &amp; Co - Check out Tripadvisor members&#39; 51,043 candid photos and videos of Haddock &amp; Co
+title: Haddock &amp; Co - Picture of Haddock &amp; Co, Paris - Tripadvisor
+snippet: Haddock &amp; Co, Paris Picture: Haddock &amp; Co - Check out Tripadvisor members&#39; 51,143 candid photos and videos of Haddock &amp; Co
+title: Not quite what we expected - Review of Haddock &amp; Co, Paris ...
+snippet: Haddock &amp; Co: Not quite what we expected - See 38 traveler reviews, 23 candid photos, and great deals for Paris, France, at Tripadvisor.
+
+REL: 2
+POI Name: Le Crystal
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Halal, French, 
+Snippets:
+title: Le Crystal Paris - Restaurant Halal Gastronomique à Paris ...
+snippet: A 200m de l&#39;Arc de Triomphe, retrouvez les plaisirs d’un restaurant halal , typique de la gastronomie française.
+title: LE CRYSTAL PARIS - Ternes - Updated 2020 Restaurant ...
+snippet: Le Crystal Paris, Paris: See 237 unbiased reviews of Le Crystal Paris, rated 3.5 of 5 on Tripadvisor and ranked #6,459 of 17,675 restaurants in Paris.
+title: Le Crystal Paris | Le Menu | Nouvelle Carte
+snippet: Le Crystal Paris - Restaurant Gastronomique Halal à 200m d&#39;Etoile.
+title: Le Crystal Paris - Ternes - Menu, Prices &amp; Restaurant ...
+snippet: Le Crystal Paris, Paris: See 237 unbiased reviews of Le Crystal Paris, rated 3.5 of 5 on Tripadvisor and ranked #6,457 of 17,688 restaurants in Paris.
+title: Le Crystal Paris - Home - Paris, France - Menu, Prices ...
+snippet: Le Crystal Paris, Paris. 18,616 likes · 9 talking about this · 2,626 were here. Nous vous proposons une cuisine raffinée halal et sans alcool, dans un cadre contemporain, vous serez émerveillés par...
+title: Le Crystal Paris - Ternes - Menu, Prix &amp; Restaurant Avis ...
+snippet: Le Crystal Paris, Paris : consultez 237 avis sur Le Crystal Paris, noté 3,5 sur 5 sur Tripadvisor et classé #6 458 sur 17 688 restaurants à Paris.
+title: le Crystal Paris - Restaurant Gastronomique Halal à 200m d ...
+snippet: Le restaurant gastronomique français et Halal, le Crystal Paris vous ouvre ses portes pour accueillir chacun de vos événements. Entre amis, collègues, en famille ou en couple, notre équipe saura satisfaire toutes vos attentes. Notre cadre idyllique, décoré avec le plus grand soin, vous accompagnera tout au long de votre repas.
+title: Le Blue Crystal, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Blue Crystal, Paris: Se 5 objektive anmeldelser av Le Blue Crystal, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 12 881 av 17 682 restauranter i Paris.
+title: Le Crystal Paris - Review of Le Crystal Paris, Paris ...
+snippet: Le Crystal Paris: Le Crystal Paris - See 237 traveler reviews, 155 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Nice Halal French Restaurant in Paris - Le Crystal Paris
+snippet: I was so lucky to find &quot;Le Crystal&quot; restaurant beside my hotel in Paris. The restaurant is 1 min away from the metro station and serve authentic French cuisine and as a muslim it was a advantage trying the French cuisine there as it is an Halal restaurant.
+
+REL: 2
+POI Name: La Cordonnerie
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: LA CORDONNERIE I Site officiel, réservez en ligne
+snippet: Que vous soyez de passage ou résidiez à Paris, sachez que le Restaurant de la Cordonnerie fait partie des incontournables de la capitale. Avec son charme typiquement français, cet établissement se démarque par son décor orné de boiseries, de tables nappées et d’objets originaux.
+title: La Cordonnerie, Paris - 20 rue Saint Roch, Louvre / Palais ...
+snippet: Reserve a table at La Cordonnerie, Paris on Tripadvisor: See 663 unbiased reviews of La Cordonnerie, rated 4.5 of 5 on Tripadvisor and ranked #245 of 17,676 restaurants in Paris.
+title: La Cordonnerie | Bars à Réaumur, Paris
+snippet: La Cordonnerie est aujourd’hui l’adresse incontournable de l’apéro : la terrasse est remplie d’étudiants et d’artys dès la longue happy hour de 17h à 20h (la pinte est à 2,5 euros), puis le bar reste animé jusqu’à 2h par les bavardages des clients et le fond musical soul, rock et reggae.
+title: La Cordonnerie, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: La Cordonnerie, Paris: Se 661 objektive anmeldelser av La Cordonnerie, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 240 av 17 682 restauranter i Paris.
+title: La Cordonnerie in Paris - Restaurant Reviews, Menu and ...
+snippet: La Cordonnerie in Paris. Find restaurant reviews, menu, prices, and hours of operation for La Cordonnerie on TheFork.
+title: La Cordonnerie - Paris, France - Pub | Facebook
+snippet: La Cordonnerie, Paris, France. 697 likes. Pub. Amazing on a Friday night. Best mojitos in Paris, and excellent priced Stellas.
+title: Restauranter i nærheten av La Cordonnerie i 20 rue Saint ...
+snippet: Restauranter i nærheten av La Cordonnerie på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av La Cordonnerie, Paris.
+title: La Cordonnerie, Paris - 20 rue Saint Roch, Louvre / Palais ...
+snippet: La Cordonnerie, Paris: See 657 unbiased reviews of La Cordonnerie, rated 4.5 of 5 on Tripadvisor and ranked #247 of 17,632 restaurants in Paris.
+title: La Cordonnerie – Ciné Spectacles
+snippet: La Cordonnerie; Spectacles. Dans la peau de Don Quichotte; Blanche Neige ou la chute du mur de Berlin; Udo, complètement à l’est; Hansel et Gretel (Super) Hamlet; L’éternelle fiancée du Dr Frankenstein; Ali Baba et les 40 voleurs; La Barbe Bleue; Agenda; Presse; Professionnels; Contact
+title: LA CORDONNERIE, París - 20 rue Saint Roch, Louvre ...
+snippet: Reserva La Cordonnerie, París en Tripadvisor: Consulta 663 opiniones sobre La Cordonnerie con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°248 de 17.679 restaurantes en París.
+
+REL: 2
+POI Name: Le Reminet
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: LE REMINET / Restaurant / PARIS
+snippet: LE REMINET. Figure du quartier, face à Notre-Dame et à l’Ile Saint Louis, Le Reminet est un bistrot de charme semi-gastronomique, ou se mêlent habitués et véritables gourmets étrangers. Tout comme le quartier a gardé des traces médiévales, Le Reminet sans déroger à la règle, se fond dans ce patrimoine historique.
+title: LE REMINET / Restaurant / PARIS
+snippet: Welcome to the offical website of LE REMINET in PARIS - Restaurant, read our customer reviews and book online - THE Reminet Figure area opposite Notre Dame a...
+title: Le Reminet, Paris - Quartier Latin - Menu, Prices ...
+snippet: Reserve a table at Le Reminet, Paris on Tripadvisor: See 1,419 unbiased reviews of Le Reminet, rated 4 of 5 on Tripadvisor and ranked #1,940 of 17,688 restaurants in Paris.
+title: Carte et menus / PARIS / LE REMINET
+snippet: Nous vous remercions d&#39;indiquer les restrictions alimentaires ou allergies lors de la prise de la commande. Nous ferons au mieux afin de répondre à vos demandes.Tous nos plats sont « fait maison », élaborés sur place à partir de produits bruts.
+title: Le Reminet, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Reminet, Paris: Se 1 419 objektive anmeldelser av Le Reminet, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 941 av 17 687 restauranter i Paris.
+title: LE REMINET, Paris - Quartier Latin - Updated 2020 ...
+snippet: Reserve a table at Le Reminet, Paris on Tripadvisor: See 1,419 unbiased reviews of Le Reminet, rated 4 of 5 on Tripadvisor and ranked #1,937 of 17,688 restaurants in Paris.
+title: Photos, atmosphere, dishes - LE REMINET - PARIS
+snippet: Discover the atmosphere of the restaurant LE REMINET... Stay updated *. By subscribing to our newsletter you agree to receive personalized communications and marketing offers by email from us.
+title: Menu - LE REMINET - PARIS
+snippet: Nous vous remercions d&#39;indiquer les restrictions alimentaires ou allergies lors de la prise de la commande. Nous ferons au mieux afin de répondre à vos demandes.Tous nos plats sont « fait maison », élaborés sur place à partir de produits bruts.
+title: Le Reminet in Paris - Restaurant Reviews, Menu and Prices ...
+snippet: -30% off the &quot;à la carte&quot; menu!. Book a table at Le Reminet in Paris. Find restaurant reviews, menu, prices, and hours of operation for Le Reminet on TheFork.
+title: Le Reminet, Paris - Quartier Latin - Menu, Prices ...
+snippet: Le Reminet, Paris: See 1,413 unbiased reviews of Le Reminet, rated 4 of 5 on Tripadvisor and ranked #1,955 of 17,632 restaurants in Paris.
+
+REL: 2
+POI Name: La Table d'Aligre
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Seafood, 
+Snippets:
+title: LA TABLE D&#39;ALIGRE | Restaurant de Poissons à Paris 12ème
+snippet: Restaurant de poisson à Paris, alliant le charme, l&#39;élégance et la convivialité. La Table dʼAligre vous accueille du lundi soir au samedi soir... Fraîcheur et qualité sont les mots dʼordre du chef !
+title: La Table d&#39;Aligre, Paris - Bercy / Nation - Menu, Prices ...
+snippet: Reserve a table at La Table d&#39;Aligre, Paris on Tripadvisor: See 530 unbiased reviews of La Table d&#39;Aligre, rated 4.5 of 5 on Tripadvisor and ranked #1,155 of 17,676 restaurants in Paris.
+title: La Table d&#39;Aligre, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: La Table d&#39;Aligre, Paris: Se 530 objektive anmeldelser av La Table d&#39;Aligre, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 159 av 17 683 restauranter i Paris.
+title: LA TABLE D&#39;ALIGRE | Sea Food Restaurant in Paris 12th
+snippet: The team of La table d’aligre will do everything possible to offer you a gourmet and convivial moment… Menus or menu, everything is home-made, with regional products, respecting traditions and nature.
+title: La Table d&#39;Aligre - Home - Paris, France - Menu, Prices ...
+snippet: La Table d&#39;Aligre - 11 place d&#39;aligre, 75012 Paris, France - Rated 4.8 based on 10 Reviews &quot;I came to this restaurant and when I ordered the food, the...
+title: La Carte | La Table d&#39;Aligre
+snippet: Une cuisine sobre et raffinée est élaborée avec des produits de la mer (provenant directement de Bretagne chaque matin), aussi “la carte” s’autorise tʼelle parfois de petites fantaisies et peut varier selon les arrivages de poissons… Fraîcheur et qualité sont les mots dʼordre du chef !
+title: La Table d&#39;Aligre, Paris - Bercy/Nation - Menu, Prix ...
+snippet: Réserver une table La Table d&#39;Aligre, Paris sur Tripadvisor : consultez 530 avis sur La Table d&#39;Aligre, noté 4,5 sur 5 sur Tripadvisor et classé #1 155 sur 17 676 restaurants à Paris.
+title: La Table d&#39;Aligre in Paris - Restaurant Reviews, Menu and ...
+snippet: My husband and I were hoping to have a lovely seafood dinner while in Paris, and La Table d&#39;Aligre delivered our wish. The restaurant is located next to the Aligre market, and we are sure the freshness of the fish and the selection reflect that the restaurant is able to source the best offerings.
+title: La Table d&#39;Aligre, Paris - Bercy / Nation - Menu, Prices ...
+snippet: La Table d&#39;Aligre, Paris: See 530 unbiased reviews of La Table d&#39;Aligre, rated 4.5 of 5 on Tripadvisor and ranked #1,158 of 17,678 restaurants in Paris.
+title: La Table d’Aligre - Paris Boutik
+snippet: Fish and sea food opposite Aligre market. La Table d’Aligre is actually the place for seafood lovers. In this modern decor –wood, glass, metal – only fresh fish and seafood products are served at la Table d’Aligre. It looks as if coming straight from Briton drizzle everyday !!
+
+REL: 2
+POI Name: Le Calife
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Le CALIfE - diner croisiere Paris restaurant bateau ...
+snippet: Bateau Le Calife, un restaurant navigant, vous accueille pour un dîner &amp; croisière sur la Seine (déjeuners croisière les samedis et dimanches), dans un cadre insolite, chaleureux et romantique, au coeur de Paris. Vous pouvez privatiser la péniche pour vos réceptions, mariages, banquets, anniversaires, soirées événementielles.
+title: dinner cruise restaurant boat barge evening ... - Le CALIfE
+snippet: Le Calife, an authentic cruising restaurant, welcomes you for a dinner cruise on the Seine (lunch and cruise on Saturdays and Sundays) through the heart of historical Paris in a warm and romantic setting. You can privatize the boat to host your receptions, weddings, banquets, birthdays, private parties, corporate events.
+title: le Calife (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: le Calife, Paris: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for le Calife i Paris, Frankrike på Tripadvisor.
+title: le Calife (Paris, Frankrike) - Anmeldelser - Tripadvisor
+snippet: Le Calife tilbød to prix fixe-menyer under et cruise på natten langs Seinen. Vi valgte den større menyen og hadde drinker. Service og mat var utmerket, og av den kvaliteten du kan forvente på en high-end restaurant.
+title: le Calife (Paris) - 2020 All You Need to Know BEFORE You ...
+snippet: Le Calife, an authentic cruising restaurant, welcomes you for a dinner cruise on the Seine (lunch and cruise on Saturdays and Sundays) through the heart of historical Paris in a warm and romantic setting. You can privatize the boat to host your receptions, weddings, banquets, birthdays, private parties, corporate events.
+title: THE 10 BEST Restaurants Near le Calife in Paris, Ile-de ...
+snippet: Restaurants near le Calife, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near le Calife in Paris, France.
+title: le Calife (Paris): UPDATED 2020 All You Need to Know ...
+snippet: Le Calife, an authentic cruising restaurant, welcomes you for a dinner cruise on the Seine (lunch and cruise on Saturdays and Sundays) through the heart of historical Paris in a warm and romantic setting. You can privatize the boat to host your receptions, weddings, banquets, birthdays, private parties, corporate events.
+title: Le CALIfE - French Restaurant - Paris, France | Facebook ...
+snippet: Le CALIfE, Paris, France. 1.5K likes. Le Calife vous accueille pour un déjeuner ou un dîner croisière sur la plus belle avenue de Paris, la Seine, dans un cadre insolite et romantique.
+title: Choisissez le jour de votre repas sur le Calife - WADs&#39;APPS
+snippet: Validez et effectuer le paiement de l&#39;acompte par chèque ou par téléphone: ... Nous vous remercions d’avoir choisi le Calife. Nous vous réserverons notre meilleur accueil à bord. Je confirme faire une demande de pré-réservation. Votre réservation est trop tôt, vous êtes en pré-réservation:
+
+REL: 2
+POI Name: Fermier Gourmet
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Steakhouses, 
+Snippets:
+title: Fermier Gourmet, Paris - 185 rue du Temple, Arts-et ...
+snippet: Fermier Gourmet, Paris: See 587 unbiased reviews of Fermier Gourmet, rated 4.5 of 5 on Tripadvisor and ranked #321 of 17,688 restaurants in Paris.
+title: Fermier Gourmet, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Fermier Gourmet, Paris: Se 575 objektive anmeldelser av Fermier Gourmet, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 303 av 17 612 restauranter i Paris.
+title: Fermier Gourmet - 202 Photos - 246 Reviews - Barbecue ...
+snippet: Fermier Gourmet. 10K likes. STREET FOOD DE CAMPAGNE On s&#39;prend pas l&#39;chou, on envoie du steak ! BBQ • Burgers • Salades Viandez goûter la vraie viande !
+title: Fermier Gourmet, Paris - 92 boulevard Saint Germain ...
+snippet: Order food online at Fermier Gourmet, Paris with Tripadvisor: See 50 unbiased reviews of Fermier Gourmet, ranked #2,287 on Tripadvisor among 17,680 restaurants in Paris.
+title: Fermier Gourmet, Paris - 185 Rue du Temple, Arts-et ...
+snippet: Fermier Gourmet, Paris : consultez 587 avis sur Fermier Gourmet, noté 4,5 sur 5 sur Tripadvisor et classé #322 sur 17 688 restaurants à Paris.
+title: Fermier Gourmet | Restaurants in Arts et Métiers, Paris
+snippet: One such place is Fermier Gourmet, a quick service ‘rustic grill’ on the Rue du Temple, just off the Place de la République, which serves carefully sourced, excellently cooked cuts of meat ...
+title: Fermier Gourmet, Paris - 185 rue du Temple, Arts-et ...
+snippet: Fermier Gourmet, Paris: 587 Bewertungen - bei Tripadvisor auf Platz 321 von 17.688 von 17.688 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: FERMIER GOURMET, Paris - 185 rue du Temple, Arts-et ...
+snippet: Order takeaway and delivery at Fermier Gourmet, Paris with Tripadvisor: See 586 unbiased reviews of Fermier Gourmet, ranked #309 on Tripadvisor among 17,682 restaurants in Paris.
+title: FERMIER GOURMET, Parigi - 185 rue du Temple, Arts-et ...
+snippet: Fermier Gourmet, Parigi: su Tripadvisor trovi 587 recensioni imparziali su Fermier Gourmet, con punteggio 4,5 su 5 e al n.322 su 17.688 ristoranti a Parigi.
+title: Fermier Gourmet - Arts &amp; Métiers/Rambuteau - Paris, France
+snippet: I was in Paris for 3 days at the end of August. I was Googling good places to eat in Paris and I stumbled upon Trip Advisor&#39;s recommendations and Fermier Gourmet were one of the ones that wouldn&#39;t break my piggy bank. My friend and I decided to go there for lunch on our second day (she actually wasn&#39;t planning on eating with me).
+
+REL: 2
+POI Name: La Coïncidence
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: La Coïncidence / Restaurant / Paris
+snippet: Découvrez notre événement. La Coïncidence est un restaurant de cuisine traditionnelle française. Implanté dans le 16ème arrondissement, le commerce se distingue par ses prix abordables, son ambiance détendue et le dynamisme de ses gérants. Ancien joueur de golf professionnel, Jean-Baptiste rencontre Alban par hasard lors d&#39;une soirée entre amis, ils décident de s&#39;associer.
+title: Menu - La Coïncidence - Paris
+snippet: Restaurant menus, cuisine and specials - La Coïncidence - Paris... Stay updated *. By subscribing to our newsletter you agree to receive personalized communications and marketing offers by email from us.
+title: La Coincidence, Paris - 16th Arr. - Passy - Menu, Prices ...
+snippet: Order food online at La Coincidence, Paris with Tripadvisor: See 467 unbiased reviews of La Coincidence, ranked #739 on Tripadvisor among 17,688 restaurants in Paris.
+title: La Coincidence, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: La Coincidence, Paris: Se 467 objektive anmeldelser av La Coincidence, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 740 av 17 673 restauranter i Paris.
+title: Carte et menus / Paris / La Coïncidence
+snippet: Carte et menus du restaurant, cuisine et spécialités - La Coïncidence - Paris... Planche de Charcuterie Chorizo, jambon blanc, jambon fumé , terrine de lapin, saucisson sec, comté
+title: La Coïncidence in Paris - Restaurant Reviews, Menu and ...
+snippet: La Coïncidence in Paris. Find restaurant reviews, menu, prices, and hours of operation for La Coïncidence on TheFork.
+title: Svært god mat - Anmeldelse for La Coincidence, Paris ...
+snippet: La Coincidence: Svært god mat - Se 468 reiseanmeldelser, 208 objektive bilder og gode tilbud på Paris, Frankrike på Tripadvisor.
+title: La Coincidence, Paris - 16th Arr. - Passy - Menu, Prices ...
+snippet: La Coincidence, Paris: See 468 unbiased reviews of La Coincidence, rated 4.5 of 5 on Tripadvisor and ranked #743 of 17,682 restaurants in Paris.
+title: La Coïncidence in Paris - Restaurant Reviews, Menu and ...
+snippet: La Coïncidence in Paris. Find restaurant reviews, menu, prices, and hours of operation for La Coïncidence on TheFork. &quot;16th THE COOL WAY - Victor Hugo, the elegant 16th arrondissement hosts the North American restaurant La Coïncidence, and it is not by chance, Relaxed and...
+title: THE 10 BEST Restaurants Near La Coincidence in Paris, Ile ...
+snippet: Restaurants near La Coincidence, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near La Coincidence in Paris, France.
+
+REL: 2
+POI Name: Le Potager du Père Thierry
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Le Potager du Pere Thierry, Paris - Clignancourt ...
+snippet: Le Potager du Pere Thierry, Paris: See 411 unbiased reviews of Le Potager du Pere Thierry, rated 4.5 of 5 on Tripadvisor and ranked #443 of 17,679 restaurants in Paris.
+title: Le Potager du Pere Thierry, Paris - Clignancourt ...
+snippet: Le Potager du Pere Thierry, Paris : consultez 411 avis sur Le Potager du Pere Thierry, noté 4,5 sur 5 sur Tripadvisor et classé #443 sur 17 676 restaurants à Paris.
+title: LE POTAGER DU PERE THIERRY, Paris - Clignancourt - Updated ...
+snippet: Le Potager du Pere Thierry, Paris: See 411 unbiased reviews of Le Potager du Pere Thierry, rated 4.5 of 5 on Tripadvisor and ranked #440 of 17,675 restaurants in Paris. ... Le Potager lives up to the rave review we were given by a French-American food critic before returning to Paris after a decade.
+title: Le Potager du Pere Thierry - Sher She Goes
+snippet: For our second night in Paris, we kept the expectations low and pre-dined on a course of macarons before making the nervous trek to Le Potager du Pere Thierry for dinner.. This small but charming restaurant ended up being the highlight of our Paris trip and absolutely phenomenal – the service extraordinarily friendly, the menu stocked full of French classics and the food delicious.
+title: Le Potager du Pere Thierry, Paris - Clignancourt ...
+snippet: Le Potager du Pere Thierry, Paris: 411 Bewertungen - bei Tripadvisor auf Platz 443 von 17.682 von 17.682 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Le Potager du Pere Thierry, Paris - Restaurantanmeldelser ...
+snippet: Le Potager du Pere Thierry, Paris: Se 411 objektive anmeldelser av Le Potager du Pere Thierry, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 440 av 17 685 restauranter i Paris.
+title: Le Potager du Pere Thierry - Paris, France - French ...
+snippet: And so the adventure continues. Incredible meal last night thanks to @michaelkirkallen and @trevorja recommendation. Amazing experience at Le Potager du Pere Thierry # aboutlastnight # itsallaboutthefood # itsallaboutthewine ? # parisadventure @ Le Potager du Pere Thierry
+title: Le Potager du Pere Thierry - TripAdvisor
+snippet: Le Potager du Pere Thierry: We&#39;d eat here again! - See 411 traveler reviews, 168 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Le Potager du Père Thierry | TasteAtlas | Recommended ...
+snippet: &quot;For a superior rendition of the simple classic in Paris, stop by Le Potager du Père Thierry. Tucked between Place des Abbesses and Sacré Coeur, this little resto does the caramelized custard dessert justice.&quot;
+title: LE POTAGER DU PERE THIERRY, París - Clignancourt - Fotos ...
+snippet: Le Potager du Pere Thierry, París: Consulta 411 opiniones sobre Le Potager du Pere Thierry con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°443 de 17.679 restaurantes en París.
+
+REL: 2
+POI Name: La Régalade
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Restaurant la Régalade - Paris 1er - Saint Honoré - Bruno ...
+snippet: Restaurant la Régalade situé 106 rue Saint-Honoré 75001 Paris. Une ambiance sympathique pour une bistronomie généreuse par Bruno Doucet - Menu à 39 €
+title: La Regalade Saint-Honore, Paris - Les Halles - Menu ...
+snippet: Reserve a table at La Regalade Saint-Honore, Paris on Tripadvisor: See 940 unbiased reviews of La Regalade Saint-Honore, rated 4 of 5 on Tripadvisor and ranked #1,616 of 17,688 restaurants in Paris.
+title: Restaurant Origins 14 - La Régalade 14ieme arrondissement ...
+snippet: 12:00 La salle est prête Le menu du jour est prêt 15:00 On se calme, on déguste... Surtout du vin
+title: La Regalade Saint-Honore, Paris - Restaurantanmeldelser ...
+snippet: La Regalade Saint-Honore, Paris: Se 940 objektive anmeldelser av La Regalade Saint-Honore, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 616 av 17 688 restauranter i Paris.
+title: Restaurant La Régalade - Paris - Bruno Doucet
+snippet: Restaurant la Régalade à Paris 14e, 1er et 9e par Bruno Doucet. Une cuisine française alliant la simplicité et à la gourmandise. Menu de 37 à 39 €
+title: La Régalade Conservatoire, Paris - Restaurantanmeldelser ...
+snippet: La Régalade Conservatoire, Paris: Se 910 objektive anmeldelser av La Régalade Conservatoire, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 476 av 17 682 restauranter i Paris.
+title: Restaurant La Régalade Saint-Honoré - Bruno Doucet à Paris ...
+snippet: La Régalade Saint-Honoré - Bruno Doucet à Paris - Trouvez toutes les informations sur le restaurant : avis, photos, menu et prix sur LaFourchette.
+title: La Regalade, Paris - Restaurantanmeldelser - TripAdvisor
+snippet: Spise middag i Paris: Se 615 anmeldelser fra TripAdvisor-reisende av 17 499restauranter i Paris, og søk etter kjøkken, pris, sted og mer.
+title: La Regalade Conservatoire, Paris - 9th Arr. - Opera - Menu ...
+snippet: Reserve a table at La Regalade Conservatoire, Paris on Tripadvisor: See 911 unbiased reviews of La Regalade Conservatoire, rated 4.5 of 5 on Tripadvisor and ranked #467 of 17,688 restaurants in Paris.
+title: La Régalade Paris (@la_regalade) • Instagram photos and videos
+snippet: 3,394 Followers, 676 Following, 308 Posts - See Instagram photos and videos from La Régalade Paris (@la_regalade)
+
+REL: 2
+POI Name: Au Reveil du XV
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Au Reveil du XV, Paris - Necker - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Au Reveil du XV, Paris on Tripadvisor: See 72 unbiased reviews of Au Reveil du XV, rated 4.5 of 5 on Tripadvisor and ranked #2,871 of 17,652 restaurants in Paris.
+title: Au Reveil du XV, Paris - Necker - Menu, Prix, Restaurant ...
+snippet: Réserver une table Au Reveil du XV, Paris sur Tripadvisor : consultez 73 avis sur Au Reveil du XV, noté 4,5 sur 5 sur Tripadvisor et classé #2 814 sur 17 688 restaurants à Paris.
+title: Au Reveil du XV, Paris - Necker - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Au Reveil du XV, Paris on Tripadvisor: See 73 unbiased reviews of Au Reveil du XV, rated 4.5 of 5 on Tripadvisor and ranked #2,814 of 17,675 restaurants in Paris.
+title: Nice Restaurant Good food - Review of Au Reveil du XV ...
+snippet: Au Reveil du XV: Nice Restaurant Good food - See 73 traveler reviews, 21 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Au Reveil Du XV - Paris, France - French Restaurant, Cafe ...
+snippet: Au Reveil Du XV, Paris, France. 39 likes · 223 were here. French Restaurant
+title: Au Reveil du XV, Paris - Necker - Menu, prix et avis ...
+snippet: Au Reveil du XV, Paris : consultez 73 avis sur Au Reveil du XV, noté 4,5 sur 5 sur Tripadvisor et classé #2 814 sur 17 688 restaurants à Paris.
+title: Au Réveil du XV Paris - Restaurant (adresse)
+snippet: Au Réveil du XV à Paris Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: THE 10 BEST Restaurants Near Au Reveil du XV in Paris, Ile ...
+snippet: Restaurants near Au Reveil du XV, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near Au Reveil du XV in Paris, France.
+title: Au Reveil du XV restaurant, Paris - Menu du restaurant et ...
+snippet: Au Reveil du XV, N°26 sur Paris restaurants de fruits de mer: 190 avis et 15 photos détaillées. Trouvez sur une carte et appelez pour réserver une table. Le restaurant a eu 4,4 de Google et 4,5 de Yelp. Apprêtez-vous à payer 11-19 € pour un plat.
+title: Window View - Picture of Au Reveil du XV, Paris - Tripadvisor
+snippet: Au Reveil du XV, Paris Picture: Window View - Check out Tripadvisor members&#39; 51,001 candid photos and videos of Au Reveil du XV
+
+REL: 2
+POI Name: Le Wilson
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Coffee & Tea, 
+Snippets:
+title: le-wilson.fr
+snippet: Grande brasserie traditionnelle, le WILSON ouvre ses baies sur la place du Trocadéro. En rive du restaurant, sa grande terrasse aux chaises cannelées offre un point de vue idéal pour rêver en regardant le manège de la circulation autour de la place.
+title: Le Wilson, Paris - 16th Arr. - Passy - Restaurant Reviews ...
+snippet: L’équipe de la brasserie traditionnelle Le Wilson est ravie de vous recevoir sur la place du Trocadéro, dans le 16ème arrondissement de Paris. A la carte, nous proposons une cuisine maison variée et savoureuse, à déguster en salle ou en terrasse.
+title: Le Wilson, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Wilson, Paris: Se 1 432 objektive anmeldelser av Le Wilson, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 471 av 17 682 restauranter i Paris.
+title: Le Wilson - Trocadéro - French Restaurant - Paris, France ...
+snippet: Le Wilson - Trocadéro - 2 Place du Trocadéro et du 11 Novembre, 75116 Paris, France - Rated 4.5 based on 166 Reviews &quot;We stumbled upon this place looking...
+title: photo0.jpg - Picture of Le Wilson, Paris - Tripadvisor
+snippet: Le Wilson, Paris Picture: photo0.jpg - Check out Tripadvisor members&#39; 51,125 candid photos and videos of Le Wilson
+title: アペタイザー - Picture of Le Wilson, Paris - TripAdvisor
+snippet: Le Wilson, Paris Picture: アペタイザー - Check out TripAdvisor members&#39; 50,586 candid photos and videos of Le Wilson
+title: Le Wilson, Paris - Picture of Le Wilson, Paris - Tripadvisor
+snippet: Le Wilson, Paris Picture: Le Wilson, Paris - Check out Tripadvisor members&#39; 51,157 candid photos and videos of Le Wilson
+title: Hotel WO - Wilson Opera, Paris - TripAdvisor
+snippet: Now $873 (Was $̶1̶,̶3̶0̶6̶) on Tripadvisor: Hotel WO - Wilson Opera, Paris. See 1,760 traveler reviews, 762 candid photos, and great deals for Hotel WO - Wilson Opera, ranked #106 of 1,842 hotels in Paris and rated 4.5 of 5 at Tripadvisor.
+title: Le Wilson - Paris, Île-de-France - Untappd
+snippet: Find out what&#39;s popular at Le Wilson in Paris, Île-de-France in real-time and see activity
+title: Le Wilson - Paris tourist office
+snippet: Le Wilson - Ideally located on Place du Trocadéro, the Wilson brasserie serves delicious, traditional French cuisine.
+
+REL: 2
+POI Name: La Fontaine de Mars
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: La Fontaine de Mars – Restaurant Paris | Bistrot parisien ...
+snippet: La Fontaine de Mars – Restaurant Paris Bistrot parisien dans la pure tradition de la bistronomie française à Paris XVII
+title: La Fontaine de Mars, Paris - Gros-Caillou - Menu, Prices ...
+snippet: La Fontaine de Mars, Paris: See 2,144 unbiased reviews of La Fontaine de Mars, rated 4.5 of 5 on Tripadvisor and ranked #770 of 17,680 restaurants in Paris.
+title: La Fontaine de Mars, Paris - Restaurantanmeldelser ...
+snippet: La Fontaine de Mars, Paris: Se 2 144 objektive anmeldelser av La Fontaine de Mars, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 771 av 17 676 restauranter i Paris.
+title: Photos | La Fontaine de Mars – Restaurant Paris
+snippet: La Fontaine de Mars – Restaurant Paris Bistrot parisien dans la pure tradition de la bistronomie française à Paris XVII
+title: Menus et Boissons | La Fontaine de Mars – Restaurant Paris
+snippet: La Fontaine de Mars – Restaurant Paris Bistrot parisien dans la pure tradition de la bistronomie française à Paris XVII
+title: La Fontaine de Mars, Paris - Gros-Caillou - Menu, Prix ...
+snippet: La Fontaine de Mars, Paris : consultez 2 144 avis sur La Fontaine de Mars, noté 4,5 sur 5 sur Tripadvisor et classé #771 sur 17 680 restaurants à Paris.
+title: Présentation | La Fontaine de Mars – Restaurant Paris
+snippet: La Fontaine de Mars est un des plus vieux bistrot de Paris. Ouverte en 1908, trois familles se sont succédées jusqu’aujourd’hui… Les Boudon ont repris la Maison en 1991 et se sont attachés à étoffer la carte des vins et des plats dans la plus grande tradition du Sud Ouest.
+title: Nos autres établissements | La Fontaine de Mars ...
+snippet: La Fontaine de Mars – Restaurant Paris Bistrot parisien dans la pure tradition de la bistronomie française à Paris XVII
+title: Paris Restaurant Review - La Fontaine de Mars | Foodie ...
+snippet: La Fontaine de Mars 129, rue St.-Dominique, in the 7th Arrondissement. 01 47 05 46 44. Lunch and dinner every day. La Fontaine de Mars has the charm of a neighborhood Paris bistro and the polish of a destination restaurant, which is what it has become for legions of visitors (including, famously, the Obamas, back in 2009) who are looking for some kind of quintessential French dining experience.
+title: Fontaine de Mars - Paris, France - French Restaurant ...
+snippet: Fontaine de Mars, Paris, France. 647 likes. La fontaine de Mars est une fontaine du 7e arrondissement de Paris de Paris, en France. Elle est également...
+
+REL: 2
+POI Name: Le Petit Canard
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Restaurant Le petit canard - Quel accueil
+snippet: Un Restaurant incontournable à Paris pour les amateurs de canard sous toutes ses formes. Nos spécialités de canard sont exclusivement issues de la ferme familiale, en production artisanale.
+title: le petit canard, Paris - Saint-Georges - Menu, Prices ...
+snippet: Reserve a table at le petit canard, Paris on Tripadvisor: See 754 unbiased reviews of le petit canard, rated 4.5 of 5 on Tripadvisor and ranked #182 of 17,688 restaurants in Paris.
+title: Restaurant Le petit canard - English menu
+snippet: Le petit canard 19, rue Henry Monnier 75009 Paris. Métro Pigalle [2,12] / Saint-Georges [12] MAPS. Restaurant ouvert De 12h à 14h du mardi au vendredi Tous les soirs de 19h à 23h30. RESERVATIONS. Téléphone : 01 49 70 07 95 E-Mail
+title: le petit canard, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: le petit canard, Paris: Se 745 objektive anmeldelser av le petit canard, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 132 av 17 632 restauranter i Paris.
+title: Le Petit Canard in Paris - Restaurant Reviews, Menu and ...
+snippet: Book a table at Le Petit Canard in Paris. Find restaurant reviews, menu, prices, and hours of operation for Le Petit Canard on TheFork.
+title: le petit canard, Paris - Saint-Georges - Menu, Prix ...
+snippet: Réserver une table le petit canard, Paris sur Tripadvisor : consultez 754 avis sur le petit canard, noté 4,5 sur 5 sur Tripadvisor et classé #182 sur 17 688 restaurants à Paris.
+title: le petit canard, Paris - Saint-Georges - Menu, Prices ...
+snippet: le petit canard, Paris: See 754 unbiased reviews of le petit canard, rated 4.5 of 5 on Tripadvisor and ranked #179 of 17,682 restaurants in Paris.
+title: Restaurant Le petit canard - Menus
+snippet: Le petit canard 19, rue Henry Monnier 75009 Paris. Métro Pigalle [2,12] / Saint-Georges [12] MAPS. Restaurant ouvert De 12h à 14h du mardi au vendredi
+title: le petit canard, Paris - Saint-Georges - Menü, Preise ...
+snippet: le petit canard, Paris: 754 Bewertungen - bei Tripadvisor auf Platz 182 von 17.688 von 17.688 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Le Petit Canard: homey all-duck restaurant | Paris Update
+snippet: Le Petit Canard must be the ultimate comfort food restaurant. It’s like eating at your parents’ house, that is, if your mother is a kindly lady with a sense of humor who takes great care of you and collects duck-related images and bibelots, and your father is a good cook who knows how to prepare duck in a dozen different ways.
+
+REL: 2
+POI Name: Manna
+POI City: Paris 15
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Korean, 
+Snippets:
+title: Restaurant coréen Manna à Paris
+snippet: Poitrines de porc grillées Manna (pour 2 personnes) 32€ 22. Barbecue de boeuf coréen 16€ 23. Porc grillé à la sauce piquante 14€ 24. Poulet grillé à la sauce piquante 14€ 25. Pot-au-feu Manna (avec des os de boeuf) 15€ 26. Pot-au-feu (au plat de côtes de boeuf) 14€ 27. Bibimbap chaud (préparé dans un bol en pierre) 15€ 28.
+title: Manna, Paris - 15th Arr. - Vaugirard - Restaurant Reviews ...
+snippet: Manna, Paris: See 120 unbiased reviews of Manna, rated 4.5 of 5 on Tripadvisor and ranked #3,411 of 17,688 restaurants in Paris.
+title: Manna, Paris - 15e Arr. - Vaugirard - Restaurant Avis ...
+snippet: Manna, Paris : consultez 120 avis sur Manna, noté 4,5 sur 5 sur Tripadvisor et classé #3 407 sur 17 688 restaurants à Paris. Vols ... Avis écrit le 15 mai 2019 par mobile . Belle surprise. Trouvé par hasard en passant devant. Excellente nourriture et belle ambiance.
+title: Manna Paris - Restaurant (adresse, avis)
+snippet: Manna à Paris Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: Restaurant Manna Paris 15 ème - coréen
+snippet: Dans une rue toute calme du 15ème arrondissement de Paris, se niche un restaurant coréen à connaître absolument : Manna, un vrai bijou de cuisine coréenne délicieuse et à prix raisonnables ! Accueil très chaleureux et service agréable et efficace, la déco est quant à elle sobre et ne paie pas de mine mais on ne vient pas pour ça !
+title: MANNA : restaurant coréen authentique à Paris 15ème - K ...
+snippet: MANNA est situé dans le 15ème arrondissement de Paris, au 44 rue de Lourmel. Le métro le plus proche est la ligne 10 avec la station Charles Michel. Ouvert du lundi au dimanche, avec un service de déjeuner et de dîner.
+title: Eventor - Aktivitet: 25-manna 2019
+snippet: Velkommen til høstens store høydepunkt i burgunder; 25-manna! Nydalens SK har tradisjon for å være med på O-sportens største breddestafett som i år finner sted 12.-13.oktober ved Rudan i Haninge sør for Stockholm. I år utenfor høstferieuken i Oslo.
+title: Bibimbap - Picture of Manna, Paris - TripAdvisor
+snippet: Manna, Paris Picture: Bibimbap - Check out TripAdvisor members&#39; 50,676 candid photos and videos of Manna. Paris. Paris Tourism Paris Hotels Paris Bed and Breakfast Paris Vacation Rentals Paris Vacation Packages Flights to Paris Paris Restaurants Things to Do in Paris Paris Shopping Paris Travel Forum
+title: Manna - 15ème - Paris 15, Paris, France - Yelp
+snippet: 19 avis pour Manna &quot;Des amis coréens nous ont conduit au Manna qu&#39;ils connaissaient déjà. Rien qu&#39;en entrant dans le restaurant et en voyant les plats des clients déjà attablés, je me suis dit &quot;ohlala je vais kiffer&quot;. Ce fut le cas. En entrée, on…
+title: Manna Restaurant Coréen - Paris, France - Asian Restaurant ...
+snippet: Posts about Manna Restaurant Coréen. Billy An was eating dinner at Manna Restaurant Coréen. April 30 · Paris, France · Dinner alone. Romantic! Manna Restaurant Coréen. Asian Restaurant · Paris, France. 213 people checked in here. Marion Lemkens was eating asiatische Küche with Katja Monien at Manna Restaurant Coréen.
+
+REL: 2
+POI Name: Le Severo
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Steakhouses, 
+Snippets:
+title: Le Severo - Actualités
+snippet: Le Severo, Paris vous informe régulièrement des nouvelles offres promotionnelles et autres nouveautés de.
+title: Severo Bar, Paris - Montparnasse - Menu, Prices ...
+snippet: Reserve a table at Severo Bar, Paris on Tripadvisor: See 213 unbiased reviews of Severo Bar, ... Le Severo remains the most reliable in Paris. Ex-butcher M. Bernet is a knowledgeable and genial host. The beef (the only choice) is uniformly superb.
+title: PARIS | Le Severo[ル・セヴェロ]
+snippet: Le Severo -PARIS- [ ル・セヴェロ − パリ本店 − ] フランス・モンパルナス地区の南西にあるパリ14区で、創業30年になる「Le Severo」本店。庶民的な地区の角地に佇む、この赤い外観の小さなビストロには、その熟成...
+title: » Blog Archive Le Severo | Girls Guide to Paris
+snippet: When people ask me where to go for steak frites, Le Severo is where I send them. This Paris bistro, in a quiet residential area of the 14th Arrondissement, is run by William Bernet, a former butcher who honors the quality of his steaks by cooking them very well.
+title: Severo - Paris : a Michelin Guide restaurant
+snippet: Severo – a restaurant from the Michelin Guide Find all the information you need on the Severo restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… Severo - a Michelin Guide restaurant.
+title: Le Severo - Home - Paris, France - Menu, Prices ...
+snippet: Le Severo - 8 rue des plantes, 75014 Paris, France - Rated 4.7 based on 29 Reviews &quot;Absolutely one of the best bistros in Paris.&quot;
+title: Bienvenue au restaurant Le Severo à Paris
+snippet: Bienvenue sur le site du restaurant Le Severo, Paris. Le Severo est synonyme d&#39;une cuisine exigeante. Dans un cadre agréable et chaleureux, nous vous proposons des pièces des viandes d&#39;une qualité exceptionelle.
+title: Restaurant Le Severo in Paris - Le Fooding®
+snippet: It’s gotta bleed! A warning to any Blondes d’Aquitaine who venture down to Le Severo’s underground space: they will be deboned, chopped up, sliced and stored in a cold room to dry-age for 60 days… The same fate awaits their Limousine, Normande, Simmental and Black Angus sisters! The man ...
+title: Le Severo - Paris tourist office
+snippet: Le Severo - The best steak tartare in Paris can be found in this lively bistro, unless you wish to try a andouillette (a type of sausage), a...
+title: Le Severo Paris, Tokyo e… São Paulo!! - YouTube
+snippet: William Bernet do Le Severo conta com exclusividade que haverá um Le Severo em São Paulo!!! Vejam.
+
+REL: 2
+POI Name: Le Hide
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Le Hide, Paris - Ternes - Menu, Prices &amp; Restaurant ...
+snippet: Le Hide, Paris: See 1,312 unbiased reviews of Le Hide, rated 4.5 of 5 on Tripadvisor and ranked #431 of 17,675 restaurants in Paris.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Le Hide, Paris - Ternes - Menü, Preise &amp; Restaurant ...
+snippet: Le Hide, Paris: 1.312 Bewertungen - bei Tripadvisor auf Platz 429 von 17.679 von 17.679 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Le Hide | Restaurants in Ternes, Paris - Time Out Paris
+snippet: Ever since it opened, this snug bistro has been packed with a happy crowd of bistro-lovers who appreciate Japanese-born chef Hide Kobayashi&#39;s superb cooking and
+title: dinner! - Bilde av Le Hide i Paris - Tripadvisor
+snippet: Le Hide, Paris Bilde: dinner! - Se Tripadvisor-medlemmers 51 178 objektive bilder og videoer av Le Hide
+title: REstaurant Le Hide - Bienvenue
+snippet: A Paris, à deux pas de la place de l’Etoile, le chef Hide Kobayashi, «Koba» pour ses clients et amis, formé au Japon et en France par de grands noms (Taillevent, Vigato, Robuchon, Ducasse…), est le plus japonais des cuisiniers français et réciproquement.
+title: REstaurant Le Hide - Bienvenue
+snippet: Le Hide - 10, rue du Général Lanrezac - 75017 PARIS - Tél. 01 45 74 15 81. Ouvert tous les jours à partir de 18h00, sauf le dimanche. Fermeture annuelle : une semaine en mai et deuxième semaine d’août.
+title: Le Hide Review - Paris France - Restaurant | Fodor’s Travel
+snippet: Hide Kobayashi, known as &quot;Koba,&quot; is one of several Japanese chefs in Paris who trained with some of the biggest names in French cuisine before opening their own restaurants. Not surprisingly, this ...
+title: Le Hide | Paris, France Restaurants - Lonely Planet
+snippet: A perpetual favourite, Le Hide is a tiny neighbourhood bistro serving...
+title: Le Hide - Home - Paris, France - Menu, Prices, Restaurant ...
+snippet: Le Hide - 10 Rue du Général Lanrezac, 75017 Paris, France - Rated 4.9 based on 89 Reviews &quot;We found our new favorite french restaurant! Our Paris trip...
+
+REL: 2
+POI Name: Les Trublions
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Modern European, 
+Snippets:
+title: Welcome To Les Trublions
+snippet: Raula &amp; Romain are happy and proud to welcome you from july 2015 at Les TRUBLIONS. and to be able to present you a small cosy intimiste bistrot. After months of hard work and decoration, Les Trublions opened and we would like you to be part of it&#39;s first chapter.
+title: bienvenue Les Trublions
+snippet: Un menu limité en choix, frais et renouvelé chaque jour, des plats superbes et imaginatifs. Nous sommes heureux d&#39;avoir trouver ce restaurant après plusieurs repas dans des restaurants recommandés par notre hôtel qui furent ordinaires et décevants. Les trublions vaut largement le détour même si vous êtes loin.
+title: Les Trublions, Paris - Sorbonne - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Les Trublions, Paris on Tripadvisor: See 436 unbiased reviews of Les Trublions, rated 4.5 of 5 on Tripadvisor and ranked #221 of 17,688 restaurants in Paris.
+title: Les Trublions, Paris - Sorbonne - Menu, Prix, Restaurant ...
+snippet: Réserver une table Les Trublions, Paris sur Tripadvisor : consultez 436 avis sur Les Trublions, noté 4,5 sur 5 sur Tripadvisor et classé #221 sur 17 688 restaurants à Paris.
+title: Les Trublions, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Les Trublions, Paris: Se 434 objektive anmeldelser av Les Trublions, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 225 av 17 677 restauranter i Paris.
+title: Les trublions restaurant, Paris - Restaurant menu and reviews
+snippet: Les trublions, #196 among Paris restaurants: 763 reviews by visitors and 20 detailed photos. The restaurant scored 4.7 on Google and got the MICHELIN selection award. Be ready to pay 21-40 € for a meal. Find on the map and call to book a table.
+title: LES TRUBLIONS, París - Sorbonne - Menú, Precios y ...
+snippet: Reserva Les Trublions, París en Tripadvisor: Consulta 436 opiniones sobre Les Trublions con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°225 de 17.688 restaurantes en París. ... Esta semana que hemos pasado en Paris, una de las noches fuimos a este restaurante y la verdad que ha sido el mejor en el que hemos estado.
+title: Les trublions - Home - Paris, France - Menu, Prices ...
+snippet: Les trublions, Paris. 747 likes · 13 talking about this · 767 were here. Les Trublions, Raula Leustean &amp; Romain Tribout, vs accueillent chaleureusement dans un cadre bistro du vieux Paris: 34, rue de...
+title: Les trublions - Paris 5ème, Paris | Bookatable
+snippet: Petit bistrot gourmand dans le centre du vieux Paris, le restaurant Les Trublions sert une cuisine moderne et inventive dans un cadre cosy et intime, à 2 pas du Panthéon et de Notre-Dame de Paris.Tenu par un couple de professionnels qui partagent leur passion de la cuisine et de la sommellerie, cette brasserie parisienne vous reçoit avec goût et sans chichi, pour partager avec sourire et ...
+title: Dinner Menus - Les Trublions
+snippet: Dinner, Menus, restaurant, paris, quartier latin, historical, home made, good cuisine, fresh food, notre dame, guide
+
+REL: 2
+POI Name: Armandie
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Seafood, 
+Snippets:
+title: L&#39;Armandie (Brasserie et plateaux de fruits de mer Paris ...
+snippet: Découvrez notre brasserie l&#39;Armandie qui vous propose depuis 1932 une cuisine traditionnelle française dans le 15eme arrondissement de Paris. Venez déguster l&#39;un de nos plateaux de fruits de mer sur place ou à emporter.
+title: L&#39;Armandie, Paris - 15th Arr. - Vaugirard - Menu, Prices ...
+snippet: Reserve a table at L&#39;Armandie, Paris on Tripadvisor: See 555 unbiased reviews of L&#39;Armandie, rated 4 of 5 on Tripadvisor and ranked #2,005 of 17,688 restaurants in Paris.
+title: L&#39;Armandie (French restaurant and sea food platters in ...
+snippet: L’ARMANDIE TRADITIONAL RESTAURANT IN PARIS SINCE 1932. Our chef is happy to propose a refined traditionnal cuisine. made with fresh seasonal products in a fancy setting in the heart of the 15th district of Paris. To book a table. ENJOY OUR SEAFOOD PLATTERS FROM 26 ...
+title: L&#39;Armandie, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Armandie, Paris: Se 555 objektive anmeldelser av L&#39;Armandie, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 033 av 17 681 restauranter i Paris.
+title: L&#39;armandie in Paris - Restaurant Reviews, Menu and Prices ...
+snippet: Book a table at L&#39;armandie in Paris. Find restaurant reviews, menu, prices, and hours of operation for L&#39;armandie on TheFork.
+title: L&#39;Armandie, Paris - 15e Arr. - Vaugirard - Menu, Prix ...
+snippet: Réserver une table L&#39;Armandie, Paris sur Tripadvisor : consultez 555 avis sur L&#39;Armandie, noté 4 sur 5 sur Tripadvisor et classé #2 001 sur 17 688 restaurants à Paris.
+title: L&#39;Armandie - French restaurant and sea food platters in ...
+snippet: L’Armandie is a traditional French restaurant that specialized in sea food and sea food platters. Established in 1932 in a former horse fodder barn, the restaurant is named after its founder, Monsieur Armandie. Our Chef prepares refined dishes using fresh seasonal produce, served in a tasteful...
+title: L&#39;Armandie - Home - Paris, France - Menu, Prices ...
+snippet: L&#39;Armandie, Paris. 312 likes · 1 talking about this · 976 were here. Créé en 1932 dans une ancienne grange à fourrage pour les chevaux, l&#39;Armandie a su évoluer et aujourd&#39;hui vous propose une cuisine...
+title: ON SITE (Seafood platters - Paris) of L&#39;Armandie - French ...
+snippet: The traditional restaurant L’Armandie located in the 15th district of Paris welcomes you with its delicous seafood platters to enjoy inside or on the terrace. OYSTERS SMALL (by six) Normande N°4 - 9,90 € Spéciale N°5 - Gillardeau -...
+title: A LA CARTE (L’ARMANDIE – traditional restaurant since 1932 ...
+snippet: The traditional restaurant L’Armandie located in the 15th district of Paris welcomes you for lunch and dinner to propose its seafood platters and its refined traditional French cuisine OYSTERS SMALL (by 6) Normande N°4 - 9,90 € Spéciale...
+
+REL: 2
+POI Name: Frenchie Restaurant
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Modern European, 
+Snippets:
+title: Frenchie Restaurant
+snippet: Our restaurant Frenchie Rue du Nil in Paris was awarded its first Michelin Star, 10 years after the opening. Chef Gregory, his partner Marie and all Frenchie teams, past and present, are proud and so happy ! — Frenchie TOTE BAG.
+title: Frenchie Restaurant
+snippet: Lundi 21 janvier 2019, le guide Michelin annonçait son palmarès. Notre restaurant Frenchie a été récompensé d’une première étoile, 10 ans après son ouverture. Le Chef Greg, son associée Marie, ainsi que toutes les équipes, past &amp; present, en cuisine comme en salle, sont fiers émus et trop contents !
+title: Frenchie, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Frenchie, Paris: Se 1 286 objektive anmeldelser av Frenchie, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 613 av 17 688 restauranter i Paris.
+title: Frenchie Restaurant – Rue du Nil
+snippet: « En ouvrant Frenchie, j’ai créé un endroit où j’aurais aimé aller, et plus important encore, retourner. C’est un micro-restaurant, c’est intime, on s’y sent bien. Le staff est comme une petite famille. Ici, c’est carte blanche au produit. C’est lui qui guide les évolutions de la carte au gré des saisons.
+title: Frenchie, Paris - Bonne-Nouvelle - Menu, Prices ...
+snippet: Reserve a table at Frenchie, Paris on Tripadvisor: See 1,286 unbiased reviews of Frenchie, rated 4.5 of 5 on Tripadvisor and ranked #612 of 17,688 restaurants in Paris.
+title: Frenchie Restaurant – Rue du Nil
+snippet: “When I opened Frenchie, it was to create a place I would want to go to myself and, more importantly, one I would want to go back to again and again. It’s a micro-restaurant, an intimate place where you feel at home. The staff is like a little family. Here, the ingredient has carte blanche.
+title: Frenchie, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: De ansatte på Frenchie er enestående - - - utmerket service, vennlig og kunnskapsrik. Maten var deilig. Vi nyte god mat og følte meg hver rett var exactingly forberedt. Vi satt på kokkens disk og var vitne til at behandlingen av klæ hver tallerken. Vi spiste på et par av høyt vurderte restauranter i Paris og Frenchie var vår favoritt.
+title: Frenchie Paris (@frenchieruedunil) • Instagram photos and ...
+snippet: Frenchie Paris En ce moment : traiteur et caviste ? mardi - dimanche 10h/16h Frenchie Restaurant⭐, Bar à Vins &amp; Caviste By @gregorymarchand Et aussi ? @frenchie_ftg www.frenchie-restaurant.com
+title: Frenchie - Paris : a Michelin Guide restaurant
+snippet: Frenchie – a restaurant from the Michelin Guide Find all the information you need on the Frenchie restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… Frenchie - a Michelin Guide restaurant.
+title: THE 10 BEST French Restaurants in Paris - Tripadvisor
+snippet: Best French Restaurants in Paris, Ile-de-France: Find Tripadvisor traveler reviews of Paris French restaurants and search by price, location, and more.
+
+REL: 2
+POI Name: Sweet Café
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, 
+Snippets:
+title: Sweet Paris Crêperie
+snippet: The word &quot;sweet&quot; in Sweet Paris is intended to reflect the romantic convivial side within all of us, so we set out to build french industrial chic restaurants that keep the focus on colorful crêpes and are conducive for families, friends, and lovers to indulge together in a beautiful setting. We look forward to serving you soon. Merci!
+title: A craving must be taken seriously. — Sweet Paris Crêperie
+snippet: *Sweet Paris practices great caution in preparing our gluten free crêpes. However, they are prepared in a common kitchen with the risk of gluten exposure. Please exercise judgement in consuming these crêpes. **Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase the risk of food borne illness.
+title: Sweet Paris, Nuevo Vallarta - Menu, Prices &amp; Restaurant ...
+snippet: Sweet Paris, Nuevo Vallarta: See 195 unbiased reviews of Sweet Paris, rated 4.5 of 5 on Tripadvisor and ranked #15 of 157 restaurants in Nuevo Vallarta.
+title: Locations — Sweet Paris Crêperie
+snippet: Paris is closer than you think. La Centerra. at 23501 Cinco Ranch Blvd, Suite 120, Katy, TX 77494. Phone: 281-394-5995
+title: Welcome to our beautiful world of crêpes. — Sweet Paris ...
+snippet: PICK-UP IN STORE Call the location nearest you or order online and we will have your order ready for pick-up!
+title: Contact Us — Sweet Paris Crêperie
+snippet: Thank you for loving Sweet Paris Crêperie. For more information please visit our franchise website at www.sweetparisfranchise.com. Careers. We love what we do. We are a team of passionate and friendly people that are driven by service to others. Making others happy is what drives us everyday.
+title: Sweet Paris Crêperie &amp; Café | Century Square
+snippet: Sweet Paris Crêperie &amp; Café is on a mission to revive the art of eating crêpes! Sweet Paris offers experience dining and transports guests to a beautiful, chic French bistro (no passport required!) where they can witness the “street-style&quot; crêpes created in an open kitchen.
+title: Bringing Paris to You and Yours — Sweet Paris Crêperie
+snippet: Minimum 20 guests. Each guest will be entitled to 1 savory &amp; 1 sweet crêpe from host’s curated menu. Ingredients brought based on host selection (i.e. 1/3 for each crêpe selected) and guest count. $150 non-refundable deposit required to schedule catering event that goes towards minimum required spend of $400.
+title: Crêpe Gallery — Sweet Paris Crêperie
+snippet: Sweet Paris - Rice Village. Sweet Paris - CityCentre. Sweet Paris - CityCentre. Sweet Paris - CityCentre. Dulce de Leche with Bananas &amp; Strawberries Waffle. Sweet Paris - CityCentre. Private Room for Events - CityCentre. Reserve this beautiful room for your intimate bridal shower, birthday, baby shower, engagement party, etc.
+title: Best French Music for a Romantic Dinner (French Cafe ...
+snippet: PLEASE CLICK THE BELL TO GET UPDATES AND DON&#39;T FORGET TO SUBSCRIBE! https://goo.gl/NmmRWe Best French Music for a Romantic Dinner (French Cafe Accordion Traditional Music) NEW VIDEOS https ...
+
+REL: 2
+POI Name: El Mercado
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, Tex-Mex, French, 
+Snippets:
+title: El Mercado French-Mex Cuisine - Home - Paris, France ...
+snippet: El Mercado French-Mex Cuisine - 17 Rue du Colisée, 75008 Paris, France - Rated 4.3 based on 45 Reviews &quot;I’m from California, where great Mexican food...
+title: Mercadillos en París: los 10 mejores mercados callejeros ...
+snippet: El Mercado de las Flores de París existe desde 1830, y desde luego al pasear entre sus puestos uno podría pensar que el tiempo se ha congelado en este pequeño mercado que constituye unos de los rincones más bonitos de París. Los domingos, por cierto, al Mercado de Flores se suma un mercado de pájaros de lo más curioso.
+title: París - Wikipedia, la enciclopedia libre
+snippet: Otra zona destacada en el comercio es Les Halles que era antiguamente el mercado central de la carne y otros productos del mercado de París. [34] El mercado de Les Halles fue destruido en 1971 y sustituido por el Fórum des Halles en torno a una importante estación de conexión de metro (la más grande de Europa). El mercado central de París ...
+title: El Mercado, Vilnius - Menu, Prices &amp; Restaurant Reviews ...
+snippet: El Mercado, Vilnius: See 137 unbiased reviews of El Mercado, rated 4 of 5 on Tripadvisor and ranked #177 of 955 restaurants in Vilnius.
+title: Mercados de París: Los mercadillos de calle ... - PARIS ANDO
+snippet: Batobus Paris - Paseo en Barco por el Río Sena con Paradas Ilimitadas. Bote panorámico de París al que puedes subirte las veces que quieras durante 1 o 2 días. Reservar Tour. Tour Nocturno por París. Explora las calles de París en compañía de tu guía cuando se ponga el sol y descubre el encanto nocturnos de la ciudad de la luz.
+title: Sandwich Jambon de Paris • El Mercado Bangkok
+snippet: Baguette, Jambon de Paris, French Butter, Emmenthal. Subscribe and our newsletter and get fresh news about our deals, events and products.
+title: El Mercado - Picture of El Mercado French-Mex Cuisine, Paris
+snippet: El Mercado French-Mex Cuisine, Paris Picture: El Mercado - Check out Tripadvisor members&#39; 51,142 candid photos and videos of El Mercado French-Mex Cuisine
+title: El Mercado - Picture of El Mercado French-Mex Cuisine, Paris
+snippet: El Mercado French-Mex Cuisine, Paris Picture: El Mercado - Check out Tripadvisor members&#39; 51,140 candid photos and videos of El Mercado French-Mex Cuisine
+
+REL: 2
+POI Name: Girafe
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Seafood, 
+Snippets:
+title: Girafe
+snippet: A meal at Girafe embraces the timeless and contemporary. A blend of simplicity and luxury, the sensual and the sophisticated. The Menu
+title: Girafe, Paris - 16th Arr. - Passy - Menu, Prices ...
+snippet: We recently visited Paris for a weekend away and booked giraffe for lunch and it was the best lunch I’ve ever had. The service was outstanding from start to finish and nothing was too much trouble for our waiter.
+title: Girafe
+snippet: Prenez de la hauteur chez Girafe, pour votre évènement sur mesure, au cœur de la cité de l’architecture et du patrimoine. A sa droite l’esprit Parisien, à sa gauche l’esprit marin, laissez-vous éblouir par les flash de la grande dame qui lui fait face.
+title: Girafe, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Girafe, Paris: Se 389 objektive anmeldelser av Girafe, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 538 av 17 682 restauranter i Paris.
+title: Girafe Paris Restaurant - Home - Paris, France - Menu ...
+snippet: Girafe Paris Restaurant - 1 place du Trocadero, 75016 Paris, France - Rated 4.5 based on 15 Reviews &quot;The view, food, and service are outstanding.&quot;
+title: Restaurant Girafe Paris (@girafe_paris) • Instagram photos ...
+snippet: 26.3k Followers, 87 Following, 134 Posts - See Instagram photos and videos from Restaurant Girafe Paris (@girafe_paris)
+title: Le cou de la girafe, Paris - 8th Arr. - Elysee ...
+snippet: Le cou de la girafe, Paris: See 36 unbiased reviews of Le cou de la girafe, rated 4 of 5 on Tripadvisor and ranked #9,757 of 17,682 restaurants in Paris.
+title: Girafe, Paris - 16th Arr. - Passy - Menu, Prices ...
+snippet: Girafe, Paris: See 389 unbiased reviews of Girafe, rated 4 of 5 on Tripadvisor and ranked #1,548 of 17,675 restaurants in Paris.
+title: GIRAFE, Paris - 16th Arr. - Passy - Updated 2020 ...
+snippet: We recently visited Paris for a weekend away and booked giraffe for lunch and it was the best lunch I’ve ever had. The service was outstanding from start to finish and nothing was too much trouble for our waiter.
+title: Girafe, Paris - 16th Arr. - Passy - Menü, Preise ...
+snippet: Im - sehr schönen - Architekturmuseum von Paris, mit Blick auf den Eiffelturm, besteht dieses Café-Restaurant. Ohne lange herumzureden: Die Bedienung ist schlecht gelaunt bis unverschämt, die Preise exorbitant. 8,40€ für einen Milchkaffee sind auch für Pariser Verhältnisse Wucher.
+
+REL: 2
+POI Name: Le Comptoir de la Gastronomie
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: The restaurant — Le comptoir de la gastronomie
+snippet: Le comptoir de la gastronomie. During this lock down period, we still continue to deliver in Paris . Close. The restaurant. Home. The restaurant. We always leave places free for people passing through. Come directly, we will do our best to install you as soon as possible!
+title: Comptoir de la Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de la Gastronomie, Paris: See 1,277 unbiased reviews of Comptoir de la Gastronomie, rated 4.5 of 5 on Tripadvisor and ranked #598 of 17,679 restaurants in Paris.
+title: COMPTOIR DE LA GASTRONOMIE, Paris - Les Halles - Updated ...
+snippet: Comptoir de la Gastronomie, Paris: See 1,277 unbiased reviews of Comptoir de la Gastronomie, rated 4.5 of 5 on Tripadvisor and ranked #598 of 17,679 restaurants in Paris.
+title: Comptoir de la Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de la Gastronomie, Paris: 1.278 Bewertungen - bei Tripadvisor auf Platz 598 von 17.679 von 17.679 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Comptoir de la Gastronomie, Paris - Restaurantanmeldelser ...
+snippet: Comptoir de la Gastronomie, Paris: Se 1 277 objektive anmeldelser av Comptoir de la Gastronomie, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 608 av 17 680 restauranter i Paris.
+title: Accueil — Le comptoir de la gastronomie
+snippet: Le comptoir de la gastronomie. Durant cette période de confinement, nous continuons à vous livrer sur Paris avec des délais plus importants. Fermer. Accueil. e-boutique Notre sélection de produits. Le Restaurant Reservations. Nos produits livrés chez vous. Foie gras. Charcuterie.
+title: Comptoir de la Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de la Gastronomie, Paris: See 1,278 unbiased reviews of Comptoir de la Gastronomie, rated 4.5 of 5 on Tripadvisor and ranked #598 of 17,680 restaurants in Paris.
+title: Comptoir de la Gastronomie - Home - Paris, France - Menu ...
+snippet: Comptoir de la Gastronomie - 34, rue Montmartre, 75001 Paris, France - Rated 4.8 based on 263 Reviews &quot;Very good yummy food We had the escargots, beef...
+title: Comptoir de La Gastronomie, Paris - Les Halles ...
+snippet: Comptoir de La Gastronomie, Paris : consultez 1 278 avis sur Comptoir de La Gastronomie, noté 4,5 sur 5 sur Tripadvisor et classé #598 sur 17 679 restaurants à Paris.
+
+REL: 2
+POI Name: Italian Style Café
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Italian style café - Home | Facebook
+snippet: Italian style café, Paris. 303 likes. Véritable petit bistrot Parisien, niché entre les mythiques place de la Bastille et place de la république , dans le 11 eme arrondissement de Paris ..
+title: Italian style cafe, Paris - 11e Arr. - Popincourt ...
+snippet: Italian style cafe, Paris : consultez 51 avis sur Italian style cafe, noté 3,5 sur 5 sur Tripadvisor et classé #9 819 sur 17 688 restaurants à Paris.
+title: One of my fav places in da hood. Lovely friendly staff ...
+snippet: Italian style cafe, Paris Picture: One of my fav places in da hood. Lovely friendly staff, opens late and always ready to serve lov - Check out Tripadvisor members&#39; 51,175 candid photos and videos of Italian style cafe
+title: Italian style cafe - Picture of Italian style cafe, Paris ...
+snippet: Italian style cafe, Paris Picture: Italian style cafe - Check out Tripadvisor members&#39; 51,002 candid photos and videos of Italian style cafe
+title: Nice dinner - Review of Italian style cafe, Paris, France ...
+snippet: Italian style cafe: Nice dinner - See 51 traveler reviews, 26 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: From Review: Mobile Photo Upload of Italian style cafe
+snippet: Italian style cafe, Paris Picture: Des petites créations maison ça vaut le coup d&#39;essayer ! Surtout que c&#39;est à 5€ la petite planc - Check out Tripadvisor members&#39; 51,032 candid photos and videos of Italian style cafe
+title: Nice place for a beer - Review of Italian style cafe ...
+snippet: Italian style cafe: Nice place for a beer - See 51 traveler reviews, 26 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: Accordion Romantic French Music - French Cafe Music - YouTube
+snippet: Accordion Romantic French Music - French Cafe Music. PLEASE, THUMBS UP &amp; SUBSCRIBE! https://goo.gl/NmmRWe NEW VIDEOS https://goo.gl/E0ByFC Our French instrumental music can be used for relaxing ...
+title: Italian style cafe - Restaurant, 93 r Amelot 75001 Paris ...
+snippet: Découvrez Italian style cafe (93 r Amelot, 75001 Paris) avec toutes les photos du quartier, le plan d&#39;accès, les avis et les infos pratiques : horaires, ...
+title: Cafe de Paris - Romantic French Accordion Traditional ...
+snippet: Cafe de Paris - Romantic French Accordion Traditional Music - Dinner Music PLEASE, THUMBS UP &amp; SUBSCRIBE! https://goo.gl/EBzGGl NEW VIDEOS https://goo.gl/QcU7ry Our French Traditional Music can ...
+
+REL: 2
+POI Name: Le Cosi
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Mediterranean, Corsican, 
+Snippets:
+title: Le Cosi / Restaurant Corse et Provençal / Paris
+snippet: Bienvenue sur le site du restaurant Le Cosi à Paris - Restaurant Corse et Provençal, consultez des avis clients et réservez en ligne gratuitement - Formul...
+title: Le Cosi, Paris - Sorbonne - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Le Cosi, Paris on Tripadvisor: See 367 unbiased reviews of Le Cosi, rated 4 of 5 on Tripadvisor and ranked #1,135 of 17,676 restaurants in Paris.
+title: Le Cosi / Restaurant Corsica and Provençal / Paris
+snippet: The Cosi tells Corsica Parisians who know her well and those who have never set foot on Cosi tells Corsica to the exiles, to those who love and those who hate it, as well. An evening at Cosi is a chapter of Corsica which opens in Paris, holiday memories, a starting drive, a pleasure to be there.
+title: Le Cosi, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Cosi, Paris: Se 367 objektive anmeldelser av Le Cosi, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 137 av 17 678 restauranter i Paris.
+title: Cosi, Paris - 54 rue de Seine, 6th Arr. - Luxembourg ...
+snippet: Order food online at Cosi, Paris with Tripadvisor: See 530 unbiased reviews of Cosi, ranked #652 on Tripadvisor among 17,675 restaurants in Paris.
+title: Le Cosi, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Cosi, Paris: Se 367 objektive anmeldelser av Le Cosi, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 137 av 17 676 restauranter i Paris.
+title: LE COSI, Paris - Omdömen om restauranger - Tripadvisor
+snippet: Le Cosi, Paris: Se 367 objektiva omdömen av Le Cosi, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer1 139 av 17 682 restauranger i Paris.
+title: Le Cosi, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Le Cosi, Paris: Se 366 objektive anmeldelser af Le Cosi, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 1.124 af 17.641 restauranter i Paris.
+title: Carte et menus / Paris / Le Cosi
+snippet: Carte et menus du restaurant, cuisine et spécialités - Le Cosi - Paris... Stufatu de veau aux olives comme « Chez Léon » &amp; pommes-de-terre fondantes
+title: Menu - Le Cosi - Paris
+snippet: Restaurant menus, cuisine and specials - Le Cosi - Paris... Argentina rib steak from french butcher Metzger with homemade french fries
+
+REL: 2
+POI Name: Le Spicy Home
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Breakfast & Brunch, French, 
+Snippets:
+title: Accueil - Le Spicy Home Paris - restaurant à Paris, brunch ...
+snippet: Le Spicy Home Paris pose son décor dans le centre de Paris, Boulevard de Sébastopol, quartier animé du 1er arrondissement. Le restaurant avec son décor verdoyant et ses matériaux bruts offrent une échappée zen et dépaysante, dans une ambiance chaleureuse et intimiste.
+title: Restaurant Le Spicy Home Paris, Paris 1er, Bistro
+snippet: Located in the heart of the capital, in a lively area in the 1st district, Le Spicy Home Paris welcomes you in a warm and intimate atmosphere, inviting you to a zen and exotic escape with its plush green decor and raw materials.
+title: Le Spicy Home Paris - Paris 1er, Paris | Bookatable
+snippet: Le Spicy Home Paris, c’est avant tout un concept ; celui de revisiter la Haute Cuisine traditionnelle française avec des saveurs et des arômes des quatre coins de la planète.C&#39;est \La cuisine traditionnelle française parfumée aux arômes du monde\&quot;.Le Spicy Home Paris
+title: Au Pavillon - Le Spicy Home Paris - Posts - Paris, France ...
+snippet: Au Pavillon - Le Spicy Home Paris - 65 Boulevard de Sébastopol, 75001 Paris, France - Rated 3.7 based on 50 Reviews &quot;Had dinner here for our last night...
+title: Restaurant Le Spicy Home à Paris (75001), Châtelet - Les ...
+snippet: BOULEVARD SÉBASTOPOL – Le restaurant Le Spicy Home vous accueille à Paris dans une ambiance chaleureuse et intimiste. Ses assiettes copieuses et originales combleront votre faim et votre envie d’exotisme… à la française ! UNE CUISINE UNIQUE - Un savoir-faire mêlant tradition française et arômes du monde pour un dépaysement total.
+title: Le Spicy Home Paris - Paris, Paris | OpenTable
+snippet: Le Spicy Home Paris est le premier restaurant à Paris de cuisine française, mariant l&#39;héritage culinaire français avec les arômes du monde, proposant ainsi un nouveau concept et une redécouverte des saveurs à tous les fins gourmets.
+title: Brunch - Picture of Le Spicy Home Paris - TripAdvisor
+snippet: Le Spicy Home Paris, Paris Picture: Brunch - Check out TripAdvisor members&#39; 50,641 candid photos and videos of Le Spicy Home Paris. Paris. Paris Tourism Paris Hotels Paris Bed and Breakfast Paris Vacation Rentals Paris Vacation Packages Flights to Paris Paris Restaurants Things to Do in Paris Paris Shopping
+title: formule française - Picture of Le Spicy Home Paris ...
+snippet: Le Spicy Home Paris, Paris Picture: formule française - Check out TripAdvisor members&#39; 50,612 candid photos and videos of Le Spicy Home Paris
+title: Brunch Le Spicy Home Paris | Brunch-Paris.com
+snippet: Le Spicy Home Paris vous accueille tous les week-ends pour un brunch aux allures de tour du monde. Situé entre les Halles et le Centre Georges Pompidou, cet établissement a une atmosphère cosy et conviviale avec ses tables en bois brut et ses tables industrielles et son cadre à la fois colonial et vintage.
+title: LE SPICY HOME | O&#39;Bon Paris | Easy to be Parisian
+snippet: Spicy Steak + Homemade Fries + Salad (22.5 €) This is a special dish, with a selection of French local steak, matched with exclusive chilli sauce, served with tapered fries. Japanese tiramisu dessert . Exotic cuisine, reasonable prices and central location makes Le Spicy Home a bookmarked restaurant for your trip to Paris.
+
+REL: 1
+POI Name: Bistro 13
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Sports Bars, Bistros, 
+Snippets:
+title: Bistrot 13, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Bistrot 13, Paris: Se 16 objektive anmeldelser av Bistrot 13, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 7 642 av 17 678 restauranter i Paris.
+title: 10 of the best bistros in Paris | Travel | The Guardian
+snippet: Paris is as famous for bistro classics such as coq au vin and celeriac rémoulade as for Michelin-star cooking. Local food blogger Alexander Lobrano reveals the best places to taste the classics
+title: 14 Classic Bistros in Paris Worth Visiting – Fodors Travel ...
+snippet: The traditional bistro, with its hearty fare, is an archetype of Paris dining, but a new wave of chefs is bringing a fresh, modern flair to the classic with the neo-bistro.
+title: Restaurant Le 13, Paris - 17th Arr. - Gobelins ...
+snippet: Restaurant Le 13, Paris: See 26 unbiased reviews of Restaurant Le 13, ... My wife and I were searching for a restaurant recommended by our hotel’s concierge when we accidentally discovered Le 13. This is a typical French bistro with exceptional food at very fair prices.
+title: The best classic bistros in Paris - Urban Adventures
+snippet: A popular legend claims that the world bistro (or bistrot) comes from the Russian word bistro (быстро), introduced by Russian soldiers during the occupation of Paris in 1814, following the Napoleonic wars.The story goes that the soldiers would use the word to instruct Parisian café owners to serve them their drinks quickly, so as to avoid getting caught by their superiors.
+title: Paris 13 - Paris-Bistro
+snippet: L&#39;abus d&#39;alcool est dangereux pour la santé. Sachez consommer avec modération. ©paris-bistro 2020 Paris-bistro.com est une publication de Paris Bistro Editions - SARL de Presse
+title: Les vedettes, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Les vedettes, Paris: Se 91 objektive anmeldelser av Les vedettes, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 8 446 av 17 679 restauranter i Paris. Fly Restauranter Ting å gjøre Turisme i Paris ... 13 Place Pigalle, 75009 Paris, Frankrike
+title: Bistrot des Campagnes, Paris - Montparnasse - Restaurant ...
+snippet: Reserve a table at Bistrot des Campagnes, Paris on Tripadvisor: See 676 unbiased reviews of Bistrot des Campagnes, rated 4.5 of 5 on Tripadvisor and ranked #693 of 17,675 restaurants in Paris.
+title: BISTROT 13, Paris - 17th Arr. - Gobelins - Menu, Prices ...
+snippet: Reserve a table at Bistrot 13, Paris on Tripadvisor: See 16 unbiased reviews of Bistrot 13, rated 4.5 of 5 on Tripadvisor and ranked #7,642 of 17,675 restaurants in Paris.
+title: 13 Best Bistros in Paris Right Now - Time Out Paris
+snippet: The 13 best bistros in Paris Get your fill of steak-frites, soupe à l’oignon and other French classics at one of the very best bistros in Paris. Photograph: Pharamond.
+
+REL: 1
+POI Name: Maison Souquet - Bar
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Nouvelle Vibe
+POI City: Paris
+POI Country: FR
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: www.yelp.fr
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Nouvelle Vibe - Home | Facebook
+snippet: Nouvelle Vibe, Paris. 76 likes · 6 were here. NOUVELLE VIBE A simplement changé d&#39;adresse avec toujours plus d&#39;envie d&#39;être à vos côté pour vous satisfaire ,pour que vous vous sentiez différent après .
+title: Nouvelle Vibe – Paris, 6 rue des Filles du Calv… (2 avis ...
+snippet: Horaires d&#39;ouverture, contacts et 2 avis pour Nouvelle Vibe à 6 rue des Filles du Calvaire, Paris. Afficher les adresses proches sur une carte. Laisser un avis.
+title: Nouvelle Vibe - Powerplate - Paris, France - Local ...
+snippet: Nouvelle Vibe - Powerplate, Paris, France. 3 likes · 21 were here. Local Business
+title: Nouvelle Vibe Paris, tél, adresse, horaires, Esthétique
+snippet: Nouvelle Vibe à Paris, Esthétique, horaires, téléphone, avis, plan. Toutes les infos et recommandations sur Nouvelle Vibe 24 Rue Envierges
+title: Nouvelle Vibe Paris - Clubs de sport (adresse)
+snippet: Nouvelle Vibe à Paris Clubs de sport : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: NOUVELLE VIBE - Club de gym – Remise en forme - Paris (75003)
+snippet: NOUVELLE VIBE - Paris 75003 - 6, rue des Filles-du-Calvaire Club de gym - Remise en forme : Ce centre de bien - être et de forme du Marais vous accueille dans un...
+title: NOUVELLE VIBE - Soin du corps à Paris (75011) - Adresse et ...
+snippet: NOUVELLE VIBE à Paris - L’annuaire Hoodspot - Adresse, numéro de téléphone, produits et services de NOUVELLE VIBE. Contacter par courrier à l&#39;adresse postale : 84 rue de montreuil, 75011 Paris. Nos cookies nous aident à améliorer votre expérience sur ce site.
+title: Nouvelle Vibe - Community | Facebook
+snippet: Nouvelle Vibe, Paris. 76 likes · 6 were here. NOUVELLE VIBE A simplement changé d&#39;adresse avec toujours plus d&#39;envie d&#39;être à vos côté pour vous satisfaire ,pour que vous vous sentiez différent après .
+
+REL: 1
+POI Name: Le Belvedere
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Coffee & Tea, 
+Snippets:
+title: Hotel Le Belvedere, Arles, France - Booking.com
+snippet: Hotel Le Belvedere accepts these cards and reserves the right to temporarily hold an amount prior to arrival. See availability The fine print If you plan to arrive after 21:00, please contact the hotel in advance. The hotel phone numbers are located on your booking confirmation form.
+title: Le Belvedere B&amp;B, Le Touquet - Paris-Plage - TripAdvisor
+snippet: Book Le Belvedere, Le Touquet - Paris-Plage on Tripadvisor: See 166 traveler reviews, 51 candid photos, and great deals for Le Belvedere, ranked #2 of 13 B&amp;Bs / inns in Le Touquet - Paris-Plage and rated 4.5 of 5 at Tripadvisor.
+title: LE BELVEDERE (Le Touquet - Paris-Plage, Frankrike) - B&amp;B ...
+snippet: Le Belvedere, Le Touquet - Paris-Plage: Se 166 reiseanmeldelser, 51 objektive bilder og gode tilbud for Le Belvedere, rangert som nr. 2 av 14 B&amp;B/vertshus i Le Touquet - Paris-Plage og vurdert til 4,5 av 5 på Tripadvisor.
+title: Le Belvédère (Paris (19 ème ), 1973) | Structurae
+snippet: Le Belvédère est un immeuble d&#39;appartements qui a été construit de 1969 à 1973. Le projet est situé à/en Paris (19ème), Paris, Ile-de-France, France.
+title: Le Belvédère - Conseil syndical de la résidence du ...
+snippet: Favorisée par le réchauffement climatique, l’implantation du moustique tigre progresse (présent dans plus de de la moitié de la France dont Paris). Essentiellement urbain, le moustique tigre aime les lieux habités par ...
+title: Le Belvedere, Vallon-Pont-dʼArc – Tarifs 2020
+snippet: Les tarifs fixés par l&#39;établissement Le Belvedere peuvent varier en fonction de votre séjour (par ex. les dates que vous avez sélectionnées, les conditions de l&#39;hôtel, etc.). Indiquez vos dates pour voir les tarifs.
+title: Le Parisien 75 - Paris
+snippet: Les élus d’opposition ont pourtant fraîchement accueilli le plan de sortie du confinement présenté par la maire Anne Hidalgo. ... le plan d’Anne Hidalgo pour Paris.
+title: Belvédère, Théâtre Le Guichet Montparnasse, Paris 2020 ...
+snippet: Belvédère de Ana-Maria Bamberger Production au Théâtre Le Guichet Montparnasse, Paris 2020 Une écrivaine, un psychiatre, un amant : réalité, imagination ou folie ? A vous de choisir ...
+title: Le Belvedere - Mairie des Lilas/Télégraphe - Paris, France
+snippet: Le Belvedere in Paris, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Paris and beyond.
+title: Le Belvedere | Private Accommodation | Argelès-Gazost ...
+snippet: A beautiful private home in the Vallée d&#39;Argelès-Gazost located in the French Pyrenees. Perfect for families, groups or a romantic escape, make Le Belvedere home for the duration of your stay.
+
+REL: 1
+POI Name: Chouchou Bar
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Bars, Cafes, Music Venues, 
+Snippets:
+title: Chouchou Hotel Paris : Marché, Bar Guinguette, Hôtel et Bains
+snippet: Chouchou rassemble un hôtel, des bains privés, un marché, une guinguette et une scène de spectacle au 11 rue Helder 75009 Paris. Ouverture Avril 2020.
+title: Restaurant Chouchou, Paris - Les Halles - Restaurant Avis ...
+snippet: Restaurant Chouchou, Paris : consultez 479 avis sur Restaurant Chouchou, noté 3,5 sur 5 sur Tripadvisor et classé #4 559 sur 17 679 restaurants à Paris. ... Ce restaurant est-il équipé d&#39;un bar avec comptoir ? Oui Non Je ne sais pas. Ce restaurant est-il approprié pour les enfants ? Oui Non Je ne sais pas.
+title: Chouchou Hotel Paris: Food Court, Guinguette, Hotel and More
+snippet: Chouchou brings together a hotel, private whirlpools, french food &amp; drinks and a live music venue located on 11 rue Helder 75009 Paris. Opening April 2020.
+title: Restaurant Chouchou, Paris - Les Halles - Restaurant ...
+snippet: Restaurant Chouchou, Paris: 479 Bewertungen - bei Tripadvisor auf Platz 4.564 von 17.676 von 17.676 Paris Restaurants; mit 3,5/5 von Reisenden bewertet.
+title: Restaurant Chouchou, Paris - Les Halles - Restaurant ...
+snippet: Restaurant Chouchou, Paris: See 479 unbiased reviews of Restaurant Chouchou, rated 3.5 of 5 on Tripadvisor and ranked #4,506 of 17,682 restaurants in Paris.
+title: RESTAURANT CHOUCHOU, Paris - Les Halles - Updated 2020 ...
+snippet: Restaurant Chouchou, Paris: See 479 unbiased reviews of Restaurant Chouchou, rated 3.5 of 5 on Tripadvisor and ranked #4,504 of 17,680 restaurants in Paris. ... I don&#39;t think the guy behind the bar really knew what he was doing, you could... My steak tartare was a considerable size and very well prepared!
+title: Chouchou Bar - Paris, France - Bar, Performance &amp; Event ...
+snippet: Chouchou Bar, Paris, France. 27 likes · 95 were here. Bar
+title: Chouchou Bar - Picture of Restaurant Chouchou, Paris ...
+snippet: Restaurant Chouchou, Paris Picture: Chouchou Bar - Check out Tripadvisor members&#39; 51,146 candid photos and videos.
+title: RESTAURANT CHOUCHOU, Paris - Omdömen om restauranger ...
+snippet: Restaurant Chouchou, Paris: Se 476 objektiva omdömen av Restaurant Chouchou, som fått betyg 3,5 av 5 på Tripadvisor och rankas som nummer4 478 av 17 664 restauranger i Paris.
+title: Chouchou bar à Paris - Agenda Culturel de Paris
+snippet: Chouchou bar Paris. Retrouvez ci-dessous le programme de Chouchou bar avec les tarifs pour la réservation de vos places, ainsi que l&#39;adresse et les horaires de Chouchou bar à Paris 3ème. Recevez par e-mail les nouvelles informations sur Chouchou bar. Plus d&#39;informations sur Chouchou bar.
+
+REL: 0
+POI Name: B Art Alive
+POI City: Paris
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Venues & Event Spaces, Music Venues, 
+Snippets:
+title: www.yelp.fr
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Vincent van Gogh art ALIVE - Atelier des Lumières (Paris ...
+snippet: 50+ videos Play all Mix - Vincent van Gogh art ALIVE - Atelier des Lumières (Paris, France) STARRY NIGHT YouTube David Hockney on Vincent van Gogh | FULL INTERVIEW - Duration: 8:12. Van Gogh ...
+title: B art alive - Paris 1
+snippet: B art alive. B art alive. ... Lieu 101 rue Saint-Honoré 75001 Paris 1 Afficher la carte. Agenda _ Communiquez sur Sortiraparis &amp;bullet; Référencez votre lieu ou événement &amp;bullet; ...
+title: B&#39;art Alive (Paris, 75001) : siret, TVA, adresse...
+snippet: Société B&#39;art Alive (Paris, 75001) : numéro siret, siren, information, adresse, contact, numero tva intracommunautaire, ... L&#39;entreprise B&#39;art Alive a été radiée du registre du commerce et des sociétés (RCS) de Paris le 28/01/2013. Informations sur l&#39;entreprise B&#39;art Alive.
+title: B&#39;ART ALIVE (PARIS 1) Chiffre d&#39;affaires, résultat, bilans ...
+snippet: B&#39;ART ALIVE à PARIS 1 (75001) RCS, SIREN, SIRET, bilans, statuts, chiffre d&#39;affaires, dirigeants, cartographie, alertes, annonces légales, enquêtes, APE, NAF, TVA ...
+title: Atelier des Lumieres: New Van Gogh exhibit combines art ...
+snippet: Vincent van Gogh art ALIVE - Atelier des Lumières (Paris, France) STARRY NIGHT - Duration: 3:11. Ine RP Braat 464,991 views. 3:11.
+title: ArtsAlive.ca - Home
+snippet: ArtsAlive.ca. Welcome to ArtsAlive.ca, the National Arts Centre&#39;s performing arts educational website.Learn about orchestral music, dance, English and French language theatre, and explore engaging archival collections.
+title: Salle concert spectacle b art alive à paris - zePASS.com
+snippet: B ART ALIVE 99, rue St Honoré 75001 Paris 01 75000 PARIS Filtres : ... ALERTES B ART ALIVE Soyez alerté par email dès qu&#39;une place d&#39;une salle susceptible de vous intéresser est mise en ligne. Créer mon alerte Prochains évènements pour B Art Alive.
+title: The Chainsmokers – Paris Lyrics | Genius Lyrics
+snippet: Paris Lyrics: We were staying in Paris / To get away from your parents / And I thought, “Wow / If I could take this in a shot right now / I don&#39;t think that we could work this out” / Out on the
+
+REL: 0
+POI Name: Ofr. Librairie,Galerie
+POI City: Paris
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Newspapers & Magazines, Bookstores, Art Galleries, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: 0fr - Home | Facebook
+snippet: 0fr, Paris. 7,934 likes · 7 talking about this. Instagram @ofrparis
+title: 0fr. (@ofrparis) • Instagram photos and videos
+snippet: 36.5k Followers, 583 Following, 4,846 Posts - See Instagram photos and videos from 0fr. (@ofrparis)
+title: Ofr. Librairie : horaires, adresse, téléphone, plan, avis
+snippet: Ofr. est une librairie et galerie dans laquelle on trouve aussi une sélection d&#39;accessoires. Boutique ouverte du lundi au samedi de 10h à 20h et le dimanche de 14h à 19h (métro Filles du Calvaire, République ou Temple)
+title: Ofr. Librairie,Galerie – Paris, 20 rue Dupetit Thouars (11 ...
+snippet: Afficher les informations de contact et 11 avis pour Ofr. Librairie,Galerie à 20 rue Dupetit Thouars, Paris, ou écrire un avis. Explorer une carte interactive avec des adresses proches.
+title: Ofr. Librairie,Galerie - - , &amp; 1 Photo - Reviews, Phone ...
+snippet: &amp; - Visit and Check Out Ofr. Librairie,Galerie- Your Best Local Partner Today! See Relevant Information, Reviews, Phone Number. 20 Rue Dupetit Thouars 75003 Paris France Marais Nord, 3ème.
+title: Librairie 0fr. book store - eVous
+snippet: New concept store qui fait librairie et galerie, il y a même des événements tels que des concerts, dédicaces, braderie et ventes privées, cocktails de lancement, minis expos et vernissages ...
+title: Ofr. Librairie,Galerie - Marais Nord - Paris, France
+snippet: 13 avis pour Ofr. Librairie,Galerie &quot;Les avis précédents reflètent si bien cet univers à part et cette sélection pointue que je me contenterais simplement un ajout concernant les actualités trépidantes de OFR: régulièrement, des vernissages et…
+title: Ofr. Librairie,Galerie – Paris, 20 rue Dupetit Thouars (11 ...
+snippet: 11 bewertungen, Kontaktinformationen und Geschäftszeiten von Ofr. Librairie,Galerie in 20 rue Dupetit Thouars, Paris, Frankreich. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Ofr. Librairie,Galerie – Paris, 20 rue Dupetit Thouars (11 ...
+snippet: Opening hours, contacts and 11 reviews for Ofr. Librairie,Galerie at 20 rue Dupetit Thouars, Paris, France. View nearby places on a map. Leave a review.
+
+REL: 0
+POI Name: Jesus Paradis
+POI City: Paris
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Tapas Bars, 
+Snippets:
+title: JESUSPARADIS I BAR RESTAURANT BRÉSILIEN PARIS 10 75010
+snippet: Le restaurant Jésus Paradis se situe dans le 10e arrondissement de Paris. Une divine apparition au bout de cette cour miraculeuse. Derrière une façade virginale se cache ce jardin d&#39;hédonisme, noir et blanc, bardé d&#39;un grand comptoir et parsemé de fauteuils dépareillés. Au déjeuner, l&#39;ardoise est une petite bénédiction avec d&#39;aimables rillettes de crabe, un poulet juteux à l&#39;or
+title: Jesus Paradis in Paris - Restaurant Reviews, Menu and ...
+snippet: Jesus Paradis in Paris. Find restaurant reviews, menu, prices, and hours of operation for Jesus Paradis on TheFork.
+title: Jésus Paradis | Bars and pubs in Strasbourg-Saint-Denis, Paris
+snippet: Jesus walks among us! Well, Jésus Borges does anyway, founder of Brazilian restaurant/ bar Jésus Paradis. The place is simply decorated, with orange and red neon lights illuminating the bar’s ...
+title: JESUS PARADIS - Picture of Jesusparadis, Paris - Tripadvisor
+snippet: Jesusparadis, Paris Picture: JESUS PARADIS - Check out Tripadvisor members&#39; 50,113 candid photos and videos of Jesusparadis
+title: Une musulmane paralysée guérie par Jésus qui lui montre le ...
+snippet: Une musulmane paralysée guérie par Jésus qui lui montre le paradis Evangélisation pour Dieu. Loading ... JESUS MIRACLE DE NOS VIES 105,177 views. 27:53. DANS SA CELLULE, ...
+title: Jesus Paradis Paris - Restaurant (adresse)
+snippet: Jesus Paradis à Paris Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: Jesusparadis - Home | Facebook
+snippet: Paris, France 75010. Get Directions +33 1 44 83 08 75. Contact Jesusparadis on Messenger. www.jesusparadis.fr. Local Business. Hours . Always Open. ... Création du prix Jesus Paradis : un cocktail, pour un second roman. L’association entre les bistrots parisiens et le monde littéraire ne se dément plus.
+title: JESUS de Nazareth film entier - YouTube
+snippet: L&#39;évocation minutieuse de la vie de Jésus de Nazareth, de sa naissance à Bethléem à sa résurrection en passant par sa crucifixion sous l&#39;ordre de Ponce Pilate. Réalisateur : Franco ...
+title: EX MUSULMAN évangélisation à Paris JÉSUS-CHRIST A LA CLÉ ...
+snippet: EX MUSULMAN évangélisation à Paris JÉSUS-CHRIST A LA CLÉ DU PARADIS| G-Rémias Brother G-Remias. ... Interview d&#39;un ex musulman sauvé par Jésus-Christ ... JESUS MIRACLE DE NOS VIES 91,857 ...
+title: Jesus Paradis - République - Paris, France - Yelp
+snippet: Jesus Paradis in Paris, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Paris and beyond.
+
+Cand cities: {'Paris', 'Paris 15'}

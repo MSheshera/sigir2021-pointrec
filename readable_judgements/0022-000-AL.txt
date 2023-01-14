@@ -1,0 +1,414 @@
+City: Walla walla
+Country: US
+Main category: Active Life
+Sub category: Dance Studios - Hiking
+Description: I'll be visiting walla walla for work this week and I really love to dance. Are there any cool places to check out? Also any cool hiking spot recommendations would be highly appreciated! 
+Rated POIs: 45
+Rel distr: [(0, 15), (1, 20), (2, 10)]
+=================================
+REL: 2
+POI Name: Spruce
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Meditation Centers, Reiki, Yoga, 
+Snippets:
+
+
+REL: 2
+POI Name: Murr Sports Field
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+
+
+REL: 2
+POI Name: Pioneer Park
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+
+
+REL: 2
+POI Name: YMCA of Walla Walla
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Child Care & Day Care, 
+Snippets:
+
+
+REL: 2
+POI Name: Martin Archery
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Archery, 
+Snippets:
+
+
+REL: 2
+POI Name: Stardust Lanes
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Bowling, 
+Snippets:
+
+
+REL: 2
+POI Name: Walt Fitness
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Salsa Con Rumba
+POI City: Kennewick
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Dance Studios, 
+Snippets:
+
+
+REL: 2
+POI Name: Washington Park
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Water Parks, Parks, 
+Snippets:
+
+
+REL: 2
+POI Name: Bowlaway Lanes & Casino
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Bowling, Casinos, Sports Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: CJoy Yoga
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+
+
+REL: 1
+POI Name: Colville Street Patisserie
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+
+
+REL: 1
+POI Name: 16 Keys
+POI City: College Place
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Escape Games, 
+Snippets:
+
+
+REL: 1
+POI Name: Rooks Park
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Allegro Cyclery
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Bikes, Bike Rentals, Bike Repair/Maintenance, 
+Snippets:
+
+
+REL: 1
+POI Name: Twin Sisters Rock
+POI City: Touchet
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Bennington Lake Recreation Area
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, Playgrounds, 
+Snippets:
+
+
+REL: 1
+POI Name: Fort Walla Walla Disc Golf Course
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Disc Golf, 
+Snippets:
+
+
+REL: 1
+POI Name: The Muscle Shack
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 1
+POI Name: Walla Walla Indian Cuisine
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 1
+POI Name: FIGGINS
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+
+
+REL: 1
+POI Name: Prutsmans Swimming Pools - A BioGuard Platinum Dealer
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Swimming Pools, 
+Snippets:
+
+
+REL: 1
+POI Name: Sinclair Estate Vineyards
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+
+
+REL: 1
+POI Name: Veterans Memorial Golf Course
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+
+
+REL: 1
+POI Name: Palencia Winery
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+
+
+REL: 1
+POI Name: Snyders Bakery
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+
+
+REL: 1
+POI Name: El Taco Loco
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Street Vendors, Mexican, 
+Snippets:
+
+
+REL: 1
+POI Name: Fort Walla Walla Dog Park
+POI City: College Place
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Dog Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Elegante Cellars
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+
+
+REL: 1
+POI Name: WorthFit Studio
+POI City: Walla Walla
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Kickboxing, Cardio Classes, 
+Snippets:
+
+
+REL: 0
+POI Name: Pepper Bridge Winery - Walla Walla Valley
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wine Tasting Room, Wine Tours, 
+Snippets:
+
+
+REL: 0
+POI Name: Hot Mama's Espresso
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+
+
+REL: 0
+POI Name: Solemn Cellars
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+
+
+REL: 0
+POI Name: Pineapple Pete's Shaved Ice
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Shaved Ice, 
+Snippets:
+
+
+REL: 0
+POI Name: Grizzly Bar
+POI City: Pasco
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+
+
+REL: 0
+POI Name: Walla Walla Bread Company
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Sandwiches, Pizza, 
+Snippets:
+
+
+REL: 0
+POI Name: Fat Cat's Bar & Grill
+POI City: Walla Walla
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, American (Traditional), 
+Snippets:
+
+
+REL: 0
+POI Name: Trio Vintners
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+
+
+REL: 0
+POI Name: Thai Ploy
+POI City: Walla Walla
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+
+
+REL: 0
+POI Name: Out And About
+POI City: Pasco
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Dance Clubs, 
+Snippets:
+
+
+REL: 0
+POI Name: Dunham Cellars
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+
+
+REL: 0
+POI Name: Plumb Cellars
+POI City: Walla Walla
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Wine Tasting Room, 
+Snippets:
+
+
+REL: 0
+POI Name: The Happy Wanderer Urban Mexican Food
+POI City: College Place
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+
+
+REL: 0
+POI Name: South Fork Walla Walla River Trailhead
+POI City: Milton-Freewater
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 0
+POI Name: Blue Mountains Trails
+POI City: Dayton
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+Cand cities: {'Dayton', 'College Place', 'Kennewick', 'Pasco', 'Milton-Freewater', 'Touchet', 'Walla Walla'}

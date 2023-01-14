@@ -1,0 +1,386 @@
+City: London
+Country: GB
+Main category: Arts & Entertainment
+Sub category: Art Museums
+Description: I'm planning a trip to London in March, and I'm trying to search what art museums there are- I like basically everything except for the lazy stuff people call "modern art". Basically, if it's not a soup can or a line on a piece of paper I like it. So, any recommendations for good museums? And my opinion on modern art is just opinion, so don't give me some bs answer on how I don't get it- I just want a good museum to visit. Thanks! 
+Rated POIs: 36
+Rel distr: [(0, 4), (1, 7), (2, 15), (3, 10)]
+=================================
+REL: 3
+POI Name: Banksy Poodle & Designated Graffiti Area
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Crafts, Art Galleries, 
+Snippets:
+
+
+REL: 3
+POI Name: Royal Academy of Arts
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: The Vagina Museum
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Victoria and Albert Museum
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Tate Britain
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Bookstores, 
+Snippets:
+
+
+REL: 3
+POI Name: IWM London
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 3
+POI Name: Leighton House Museum
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+
+
+REL: 3
+POI Name: National Portrait Gallery
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 3
+POI Name: The Wallace Collection
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 3
+POI Name: Museum Of London
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+
+
+REL: 2
+POI Name: Baroque The Streets: Dulwich Street Art Festival 2013
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Baroque The Streets – Dulwich Street Art Festival, Street ...
+snippet: Street Art London are proud to announce a very unique project entitled, &quot;Baroque The Streets: Dulwich Street Art Festival 2013&quot; which will be happening between the 10th and 19th of May. We have invited some of the biggest names in international street art to Dulwich in order to create an outdoor gallery of large scale public murals inspired by works held by Dulwich Picture Gallery, Engla
+title: The Outdoor Street Art Gallery of Dulwich • Inspiring City
+snippet: The Baroque the Streets art festival of the past two years has certinaly left it’s mark on the streets of leafy Dulwich. Possibly as far removed from a street art haven than you might think it has formed the basis of the Dulwich Outdoor Gallery.
+title: Baroque the Streets street art festival in Dulwich ...
+snippet: The nine day ‘Baroque the Streets’ festival comes to a close this week with the opening of the ‘arthouse’. A remarkable ensemble of street artists from around the world coming together to paint the entirety of one single house in south London prior to it’s demolition.
+title: Dulwich Outdoor Gallery - Wikipedia
+snippet: Dulwich Outdoor Gallery (DOG) is a collection of street art in south London, with works based on traditional paintings in Dulwich Picture Gallery. The DOG was established by Ingrid Beazley, a pioneer of promoting street art. The Dulwich Street Art Festival was held in 2013 showcasing the artworks.
+title: Baroque the Streets | in London
+snippet: Efforts to make Dulwich a street art destination to rival Shoreditch continue with ‘Baroque the Streets’, presented by Street Art London. Starting May 10, some of...
+title: Baroque the Streets | in London - Time Out London
+snippet: Efforts to make Dulwich a street art destination to rival Shoreditch continue with ‘Baroque the Streets’, presented by Street Art London. Starting May 10, some of...
+title: dulwich art
+snippet: and look down the side road to see Baroque the Streets - Dulwich Street Art Festival - click on the tabs at the top of this blog to see more..... Labels: Baroque the Streets , making street art , street art London
+title: Baroque The Streets: Dulwich House Gets Street Art ...
+snippet: Baroque The Streets: Dulwich House Gets Street Art Makeover. ... That&#39;s the centrepiece of Baroque The Streets, a 10-day strand of the Dulwich Festival exploring the place of street art in ...
+
+REL: 2
+POI Name: Politi Arts
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Cultural Center, 
+Snippets:
+title: London – Wikipedia
+snippet: London er hovedstaden i Storbritannia og England. London er byregionen med høyeste innbyggertall i Storbritannia. Med sin beliggenhet langs elven Themsen har London vært en sentral by siden den ble grunnlagt av romerne for to årtusener siden under navnet Londinium.Londons opprinnelige bykjerne, City of London, som i 2011 hadde 7 375 innbyggere på et areal på 2,9 km², er Englands minste by.
+title: Pass og timebestilling – Politiet.no
+snippet: Alle passkontor holder stengt på grunn av koronaviruset. Foreløpig er alle passtimer til og med 19. april avlyst. Hvis passtimen din er avlyst må du bestille ny time selv på politiet.no. Vi vet ikke når vi kan åpne igjen.
+title: Storbritannias politi – Wikipedia
+snippet: Politi i London med tradisjonell hjelm og moderne jakker. Foto: Adrian Pingstone . Det er mindre variasjoner mellom de forskjellige styrkene, men grunnuniformen er stort sett den samme i alle styrker. Den er inspirert av uniformen til Metropolitan Police, og forandringer i stilen har stort sett først kommet i den styrken og deretter spredd seg.
+title: Politi Arts - Stoke Newington - London, United Kingdom
+snippet: 1 review of Politi Arts &quot;I think politi probably tries to be more edgy than it is but that doesn;t seem to do too much harm in terms of drawing i a crowd. Whenever this place is open it seems that it is packed to the rafters.&quot;
+title: Hovedarbeidsområder – Politiet.no
+snippet: Kripos koordinerer samarbeid med utenlandsk politi og ivaretar en rekke internasjonale forpliktelser på vegne av norsk politi. Kripos er nasjonalt kontaktpunkt for internasjonale politiorganisasjoner som Interpol, Europol og Frontex. Kripos ivaretar også den norske deltakelsen i PTN-samarbeidet (politi og toll i Norden).
+title: Best pris på Norlys London 491 Lyktestolper - Sammenlign ...
+snippet: Den billigste prisen for Norlys London 491 akkurat nå er 5 498 ,-. Det er et av de 10 mest populære produktene i kategorien Lyktestolper. Prisjakt sammenligner priser og tilbud fra 8 butikker. Sammenlign priser på alle Norlys Lyktestolper.
+title: Toll og politi - Oslo lufthavn - Avinor
+snippet: Politi. Politiet har kontor i ankomsthallen. Merk at kontoret i enkelte perioder kan være stengt. Tollekspedisjon. Toll- og vareførselsseksjonen Gardermoen befinner seg i 1. etg. i terminalbygningen. Kontrollseksjonen befinner seg i passasjerterminalen, døgnåpen. Kvoteregler alkohol. 1 liter brennevin, 3 liter vin og 3 liter øl
+title: British Museum, London, United Kingdom — Google Arts &amp; Culture
+snippet: Google Arts &amp; Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world&#39;s treasures online.
+title: Politi Arts Centre London Events &amp; Tickets | Ents24
+snippet: Upcoming events, tickets, information, and maps for Politi Arts Centre in London from Ents24.com, the UK&#39;s biggest entertainment website.
+title: Collections — Google Arts &amp; Culture
+snippet: Google Arts &amp; Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world&#39;s treasures online.
+
+REL: 2
+POI Name: The Courtauld Gallery
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 2
+POI Name: Tattoo Convention At Tobacco Dock
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+
+
+REL: 2
+POI Name: Tate Modern
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: The National Gallery
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Fashion and Textile Museum
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: The British Museum
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Whitechapel Gallery
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: The Chocolate Museum
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: White Cube
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Museum of Portable Sound
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 2
+POI Name: Secret Cinema
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, 
+Snippets:
+
+
+REL: 2
+POI Name: Alice's Adventures Underground
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+
+
+REL: 2
+POI Name: Kenwood House
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: Uncorked Theatre
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Jazz & Blues, Cabaret, 
+Snippets:
+
+
+REL: 1
+POI Name: Open Garden Squares Weekend
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, 
+Snippets:
+
+
+REL: 1
+POI Name: Bumpis Big Adventure
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Kids Activities, 
+Snippets:
+
+
+REL: 1
+POI Name: Aquadrome
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Lakes, 
+Snippets:
+
+
+REL: 1
+POI Name: The Queen's Gallery
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 1
+POI Name: Gods Own Junk Yard
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 1
+POI Name: The Chocolate Factory
+POI City: London
+POI Country: GB
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+
+
+REL: 0
+POI Name: Bamboo Basket
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+
+
+REL: 0
+POI Name: Benk Bo
+POI City: London
+POI Country: GB
+POI Main category: Active Life
+POI Sub category: Yoga, Bakeries, 
+Snippets:
+
+
+REL: 0
+POI Name: Belgrave Rd
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Sumo Fresh
+POI City: London
+POI Country: GB
+POI Main category: Restaurants and Food
+POI Sub category: Japanese, 
+Snippets:
+title: | Sushi Restaurant &amp; Cocktail Bar - Sumo Fresh Japanese ...
+snippet: Sumo Fresh can cater for all sizes and styles of parties. Whatever your request may be, we are certain to provide you with the best quality and service to suit your needs. Our restaurant serves expert cuts of sushi, maki and sashimi along with a selection of hot dishes and is open throughout the day.
+title: Order - Sumo Fresh Japanese Restaurant Wanstead
+snippet: sumo fresh 141 high street wanstead london e11 2rl 02085307500
+title: Sumo Fresh Menu, Menu for Sumo Fresh, Wanstead, London ...
+snippet: Sumo Fresh High Street, Wanstead Menu - View the Menu for Sumo Fresh London on Zomato for Delivery, Dine-out or Takeaway, Sumo Fresh menu and prices. Sumo Fresh Menu
+title: Sumo Fresh - London, | OpenTable
+snippet: Sumo Fresh is an attractive restaurant providing good tasting food. However, we were disappointed at the lack of warm welcome and slapdash service. The waitresses who served us made no attempt to communicate with us and it the service felt very perfunctory. Food was just dumped down on the table. No water was offered. They were not friendly.
+title: Sumo fresh, Redbridge - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Specialising in Japanese cuisine, Sumo Fresh is the perfect venue for lunch or dinner, the ambiance is warm and inviting and the food served is the freshest quality Japanese cuisine you will find, situated in the heart of Wanstead. Our Executive Head Chef, has over 15 years experience in the art of sushi preparation.
+title: Delivery &amp; Collection - Sumo Fresh Japanese Restaurant ...
+snippet: sumo fresh 141 high street wanstead london e11 2rl 02085307500
+title: Sumo Fresh - London, | OpenTable
+snippet: Specialising in Japanese cuisine, Sumo Fresh is the perfect venue for lunch or dinner, the ambiance is warm and inviting and the food served is the freshest quality Japanese cuisine you will find, situated in the heart of Wanstead. Our Executive Head Chef, has over 15 years experience in the art of sushi preparation. Experience the very best Japanese Rice wines, Sake and traditional Japanese ...
+title: Sumo Fresh, High Street, Wanstead, London - Zomato UK
+snippet: Sumo Fresh London; Sumo Fresh, High Street, Wanstead; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Sumo Fresh Restaurant on Zomato. Serves Japanese, Sushi. Cost £30 for two people (approx.) Cookie Policy. Zomato uses cookies to enhance user experience. Read our Cookie Policy.
+title: SUMO FRESH, Redbridge - Updated 2020 Restaurant Reviews ...
+snippet: Reserve a table at Sumo fresh, Redbridge on Tripadvisor: See 246 unbiased reviews of Sumo fresh, rated 4.5 of 5 on Tripadvisor and ranked #10 of 75 restaurants in Redbridge.
+title: Sumo Fresh Restaurant - London, | OpenTable
+snippet: Specialising in Japanese cuisine, Sumo Fresh is the perfect venue for lunch or dinner, the ambiance is warm and inviting and the food served is the freshest quality Japanese cuisine you will find, situated in the heart of Wanstead. Our Executive Head Chef, has over 15 years experience in the art of sushi preparation. Experience the very best Japanese Rice wines, Sake and traditional Japanese ...
+
+Cand cities: {'London'}

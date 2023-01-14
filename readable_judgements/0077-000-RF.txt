@@ -1,0 +1,1241 @@
+City: Helsinki
+Country: FI
+Main category: Restaurants and Food
+Sub category: Vegetarian - Gluten-Free
+Description: Hello all, I'm visiting Helsinki in July and I'm looking for restaurants where I can eat. I partly follow the so-called "low fodmap" diet because of food intolerances (the joys of having IBS), so I can't really have gluten/high fructan grains, onions, garlic, honey and apples. To make it even more fun I'm also a vegetarian (again not really by choice). Do you have any recommendations, for example veggie or gluten free restaurants who would be willing to adjust some of their dishes if necessary? I do have a kitchen in the place I'm staying, but part of the fun of travelling is eating out :) Thank you! EDIT: kuriosty Silvoplee is a vegetarian restaurant where you can pick your food from a large buffet table, and all options have comprehensive listings of ingredients. Tasty and nutritious food as well in a good location.  Amaranth7 Thank you! It's going on my list :) onoki I'm not an expert on the matter, but OmNam is a very tasty vegan restaurant even for non-vegans. They also mention that "most of their food is gluten free", so you might want to check it out.  Amaranth7 I'd already found this restaurant and they've already e-mailed me back even! So looks like this is a definite yes :)  My SO follows a similar diet (fodmap, gluten free) and said EMO happily followed a variety of restrictions for their party, when they mentioned the restrictions while ordering. Amaranth7 Greetings to a fellow low fodmap follower :) thanks! I'll check it out 
+Rated POIs: 44
+Rel distr: [(0, 4), (1, 14), (2, 16), (3, 10)]
+=================================
+REL: 3
+POI Name: Sen Chay
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, 
+Snippets:
+title: Sen Chay, Helsinki - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Sen Chay, Helsinki: See 64 unbiased reviews of Sen Chay, rated 4.5 of 5 on Tripadvisor and ranked #194 of 1,691 restaurants in Helsinki.
+title: Sen Chay, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Sen Chay, Helsingfors: Se 64 objektive anmeldelser av Sen Chay, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 193 av 1 689 restauranter i Helsingfors.
+title: THE 10 BEST Restaurants Near Sen Chay in Helsinki, Uusimaa ...
+snippet: Restaurants near Sen Chay, Helsinki on Tripadvisor: Find traveler reviews and candid photos of dining near Sen Chay in Helsinki, Finland.
+title: Sen Chay - Etusivu - Helsinki - Ruokalista, hinnat ...
+snippet: Sen Chay, Helsinki. 2,4 t. tykkäystä. Kasvisravintola palvelee arkisin klo 9-20 ja la12-20. Menusta löytyy monia hyviä kasvis vaihtoehtoja, mm. nuudeleita, keittoja ja wokkeja.
+title: Sen Chay - Home - Helsinki - Menu, Prices, Restaurant ...
+snippet: Sen Chay - siltasaarenkatu 3-5, 00530 Helsinki - Rated 4.7 based on 88 Reviews &quot;I visited this place twice. The first time, I was served by...
+title: SEN CHAY, Helsinki - Updated 2020 Restaurant Reviews ...
+snippet: Sen Chay, Helsinki: See 64 unbiased reviews of Sen Chay, rated 4.5 of 5 on Tripadvisor and ranked #194 of 1,691 restaurants in Helsinki.
+title: Sen Chay, Helsinki - recenzje restauracji - Tripadvisor
+snippet: Sen Chay, Helsinki: zobacz bezstronne recenzje (64 ) na temat Sen Chay, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 194 z 1 690 restauracji w Helsinkach.
+title: Sen Chay kotiinkuljetettuna kaupungissa Helsinki | foodora ...
+snippet: pizza-online.fi on nyt foodora! Tilaa ruokaa ravintolasta Sen Chay Helsinki | Suosikkiravintolasi kotiinkuljetettuna 30 minuutissa Paras valikoima ravintoloita Nopea toimitus. Käytämme evästeitä tilauspalvelumme toteuttamiseksi sekä helpottamaan palvelun käyttöä.
+title: SEN CHAY, Helsingfors - Omdömen om restauranger - Tripadvisor
+snippet: Sen Chay, Helsingfors: Se 64 objektiva omdömen av Sen Chay, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer191 av 1 682 restauranger i Helsingfors.
+title: Sen Chay | My Helsinki
+snippet: Vegaanista aasialaistyyppistä ruokaa tarjoava ravintola Hakaniemessä
+
+REL: 3
+POI Name: Soup
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Soup, 
+Snippets:
+title: Soup, Helsinki - Runeberginkatu 54 - Restaurant Reviews ...
+snippet: Soup, Helsinki: See 9 unbiased reviews of Soup, rated 5 of 5 on Tripadvisor and ranked #674 of 1,690 restaurants in Helsinki.
+title: THE 10 BEST Restaurants in Helsinki - Updated March 2020 ...
+snippet: Best Dining in Helsinki, Uusimaa: See 105,506 Tripadvisor traveler reviews of 1,802 Helsinki restaurants and search by cuisine, price, location, and more. Helsinki. Helsinki Tourism Helsinki Hotels Helsinki Bed and Breakfast Helsinki Vacation Rentals ... was a great touch considering that the slices were underneath the soup. ...
+title: Helsingfors – Wikipedia
+snippet: Navnet. Byen har både Helsingfors og Helsinki som fullt likestilte offisielle navn, og blir i offisiell språkbruk i Finland noen ganger omtalt som Helsinki – Helsingfors.Byen ligger tradisjonelt i et finlandssvensk område og er dermed opprinnelig svenskspråklig, men selve byen er i moderne tid dominert av finsk språk på grunn av innflytting etter at byen ble hovedstad; Helsingfors er ...
+title: Soup, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Soup, Helsingfors: Se 9 objektive anmeldelser av Soup, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 670 av 1 685 restauranter i Helsingfors.
+title: SOUP - Home - Helsinki - Menu, Prices, Restaurant Reviews ...
+snippet: SOUP, Helsinki, Finland. 2,313 likes · 1 talking about this. SOUP is the work of two Brits who came to Helsinki for love over 5 years ago. Our vision is to take things back to a more simple time...
+title: DE 10 BESTE ting å gjøre i Helsingfors - Tripadvisor
+snippet: Privat Snøscooter Sleigh Tour i Helsinki Archipelago inkludert lunsj. 1 anmeldelse. USD 1 111,56 per voksen. Fjellturer og camping. Nuuksio vintervandring og bål. USD 111,79 per voksen.
+title: Soup, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Soup, Helsinki: Katso 9 puolueetonta arvostelua paikasta Soup, joka on sijalla 5/5 Tripadvisorissa ja sijalla 668 1 659 ravintolasta Helsingissä.
+title: SOUP, Helsinki: Reviews | Eat.fi
+snippet: SOUP is the work of two Brits who came to Helsinki for love over 5 years ago. Our vision is to take things back to a more simple time with the original old school fast food, soup! It can be difficult to remain healthy when life is busy, so we want to provide the good people of Helsinki with wholesome, nutritious and filling meals that are served in seconds.
+title: SOUP (@soup_helsinki) • Instagram photos and videos
+snippet: 6,173 Followers, 7,441 Following, 394 Posts - See Instagram photos and videos from SOUP (@soup_helsinki)
+title: SOUP, Helsinki: Arvostelut | Eat.fi
+snippet: I sometimes have a hard time considering soup as &quot;proper food&quot;, so an all soup restaurant had me wary. Boy was I wrong. At 6 euros, this is hands down the best lucnch deal in the city, and I have a hard time grasping that they can do it Töölö, of all places.
+
+REL: 3
+POI Name: OmNam
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegan, Coffee & Tea, Vegetarian, 
+Snippets:
+title: OmNam – Vegaanista ruokaa rakkaudella
+snippet: OmNam on täysin vegaaninen ravintola Kampissa, Annankadun tunnelmallisella sisäpihalla. Ruokaa tehdään etnisin vivahtein, mutta myös tutummin mauin. Suosimme sesongin raaka-aineita ja luomua mahdollisuuksien mukaan. OmNam is one of the pioneer vegan restaurants in the heart of Helsinki.
+title: Vegan Restaurant OmNam, Helsinki - Kampinmalmi - Menu ...
+snippet: Vegan Restaurant OmNam, Helsinki: See 82 unbiased reviews of Vegan Restaurant OmNam, rated 4 of 5 on Tripadvisor and ranked #262 of 1,691 restaurants in Helsinki.
+title: A la Carte – OmNam
+snippet: OMNAM BOWL 17,50 € Musta sushiriisi, sichuaninpippurikasviksia, teriyakitofua, avokadoa ja kauden vihreitä Black sushi rice, Szechuan pepper veggies, teriyaki tofu, avocado and seasonal greens (G) BURGER 16,50 € Härkäpapu-munakoisopihvi, lupiinitempehpekonia, valkosipuli-yrttimajoneesia. Paahdettuja puikulaperunoita ja grillattua ...
+title: OmNam - Home - Helsinki - Menu, Prices, Restaurant Reviews ...
+snippet: OmNam, Helsinki. 5.1K likes. First fully vegan, casual restaurant in the heart of Helsinki. Also organic wine, beer, cocktails and mocktails to enjoy at the courtyard terrace. Good food, good vibes -...
+title: LAUANTAIBRUNSSI – OmNam
+snippet: Brunch size piece of OmNam’s carrot cake (G) PÄIVÄN MAKEA 4 € Kysy tarjoilijalta päivän brunssiherkkua SWEET OF THE DAY Surprise sweet treat of the day. RESERVATIONS – VARAUKSET. Missä. Where. SISÄPIHA. COURTYARD Annankatu 29B, 00100, Helsinki Suomi. Finland. 050 374 4045.
+title: LOUNAS – OmNam
+snippet: Ravintola on kiinni toistaiseksi koronaepidemian vuoksi. OmNam is closed temporarily due to the epidemic. OmNamin lounas arkisin klo 11-15 / Lunch on weekdays 11-15HINNASTO / PRICE LIST• salaattibu…
+title: Vegan Restaurant OmNam, Helsingfors ...
+snippet: Vegan Restaurant OmNam, Helsingfors: Se 82 objektive anmeldelser av Vegan Restaurant OmNam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 262 av 1 691 restauranter i Helsingfors.
+title: Kasvisravintola OmNam, Helsingin ravintola-arvostelut ...
+snippet: Kasvisravintola OmNam, Helsinki: Katso 82 puolueetonta arvostelua paikasta Kasvisravintola OmNam, joka on sijalla 4/5 Tripadvisorissa ja sijalla 262 1 691 ravintolasta Helsingissä.
+title: Vegan Restaurant OmNam, Helsinki - Menü, Preise ...
+snippet: Wir sind über OmNam gestolpert, als wir in Helsinki nach einem Ort für eine leichte Mahlzeit gesucht haben. Das OmNam liegt in einem kleinen Innenhof und ist ein veganes Restaurant mit frischen Zutaten aus der Region.
+title: Aukioloajat ja sijainti – OmNam
+snippet: ANNANKATU 29 SISÄPIHA, 00100 HELSINKI (Seuraa OmNam &amp; Astanga Jooga mainoksia sisäpihalle) LOCATION. ANNANKATU 29 COURTYARD, 00100 HELSINKI (Follow OmNam &amp; Astanga Yoga School signs to courtyard) SOME / SOCIAL MEDIA. Seuraa meitä Facebookissa! Instagram: @omnamHelsinki Voit tilata meiltä ruokaa myös Woltin kautta kotiinkuljetuksella!
+
+REL: 3
+POI Name: Ravintola Grön
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Scandinavian, 
+Snippets:
+title: Grön
+snippet: At Grön we make tasty, focused, plant-based and inspiring food that has a strong emphasis on high-quality. All this happens in an atmosphere that makes our guest feel relaxed, happy and welcome.
+title: Grön | Menu | Arvostelut | TableOnline.fi
+snippet: Grön on maukasta, modernia, kasvipainotteista sekä inspiroivaa ruokaa, jossa panostetaan korkealaatuisiin raaka-aineisiin. Grön tarjoaa neljän ruokalajin &#39;Grön Menua&#39; sekä &#39;Grön Vegaani Menua&#39;. Ruoka on kausi- ja luomukeskeistä, ja keittiössä käytetään mahdollisimman paljon pohjoismaalaisia ja luonnon omia villituotteita.
+title: Restaurant Grön, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Restaurant Grön, Helsinki: Katso 149 puolueetonta arvostelua paikasta Restaurant Grön, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 54 1 690 ravintolasta Helsingissä.
+title: 10 parasta ravintolaa Helsingissä - Tripadvisor
+snippet: Fine dining -ravintola. Edullinen ruokailu. ... Looking to expand your search outside of Helsinki? We have suggestions. Laajenna hakuasi. Looking to expand your search outside of Helsinki? We have suggestions. Laajenna hakuasi. Tukija: Faro Channelside Bar &amp; Restaurant. 139 arvostelua Auki nyt.
+title: Grön (ravintola) – Wikipedia
+snippet: Ravintola Grön on Helsingin Kampissa toimiva pieni ravintola, jonka Suomen Gastronomien Seura valitsi helmikuussa 2017 vuoden ravintolaksi. Ravintolan avainhenkilö ja keittiöpäällikkö oli valinnan aikaan hallitseva vuoden kokki (2016) Toni Kostian parinaan Lauri Kähkönen. He molemmat ovat myös ravintolan omistajia.
+title: Ravintola Grön, Helsinki: Arvostelut | Eat.fi
+snippet: Ensimmäisenä Suomessa kasvipohjaista pohjoismaalaista kortteliruokaa tarjoava Grön on auennut Albertinkadulle. Grön murtaa trendikkään sesonkiajattelun ja ottaa raaka-aineista kirjaimellisesti irti koko niiden potentiaalin – ilman ylimääräistä kikkailua.
+title: Restaurant Grön - Home | Facebook
+snippet: Restaurant Grön - Albertinkatu 36, 00180 Helsinki - Rated 4.9 based on 206 Reviews &quot;Interesting, complex experience. Lovely atmosphere and ambiance....
+title: Ravintola Grön - Helsinki, Uusimaa - Untappd
+snippet: Find out what&#39;s popular at Ravintola Grön in Helsinki, Uusimaa in real-time and see activity
+title: Suomeen uusi Michelin-ravintola – yhden tähden napannut ...
+snippet: Helsinkiläinen Grön-ravintola on saanut yhden Michelin-tähden. Tähti on ravintolan ensimmäinen. Ravintoloitsija Toni Kostian pokkasi tunnustuksen Kööpenhaminassa maanantai-iltana.. Helsingin Albertinkadulla sijaitsevan Grönin ruoka tunnetaan sesonginmukaisten raaka-aineiden käytöstä ja kasvisvoittoisesta ruuasta.
+title: Olo Ravintola, Helsingfors - Restaurantanmeldelser ...
+snippet: Olo Ravintola, Helsingfors: Se 746 objektive anmeldelser av Olo Ravintola, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 6 av 1 690 restauranter i Helsingfors. Fly ... Helsinki City Museum. 410 anmeldelser . 0,11 km unna . Hietalahti Market Square. 260 anmeldelser .
+
+REL: 3
+POI Name: SOUP Kallio
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Vegan, 
+Snippets:
+title: SOUP Kallio - Kallio - Helsinki, Finland
+snippet: 1 review of SOUP Kallio &quot;Great little gem next to Kurvi in Sörnäinen! Everything is vegetarian, some choices are vegan. They have a variety of dips (today two kinds of hummus and a lovely chili sauce) and fresh bread. You can buy 1 soup for…
+title: Helsingfors – Wikipedia
+snippet: Navnet. Byen har både Helsingfors og Helsinki som fullt likestilte offisielle navn, og blir i offisiell språkbruk i Finland noen ganger omtalt som Helsinki – Helsingfors.Byen ligger tradisjonelt i et finlandssvensk område og er dermed opprinnelig svenskspråklig, men selve byen er i moderne tid dominert av finsk språk på grunn av innflytting etter at byen ble hovedstad; Helsingfors er ...
+title: SOUP - Home - Helsinki - Menu, Prices, Restaurant Reviews ...
+snippet: SOUP, Helsinki, Finland. 2,313 likes · 1 talking about this. SOUP is the work of two Brits who came to Helsinki for love over 5 years ago. Our vision is to take things back to a more simple time...
+title: SOUP Kallio - Sörnäinen - 0 tips
+snippet: See 1 photo from 15 visitors to SOUP Kallio. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hotel Scandic Kallio, Helsinki, Finland - Booking.com
+snippet: Scandic Kallio This neighborhood is a great choice for travelers interested in city trips, convenient public transportation and culture – Check location Läntinen Brahenkatu 2, Alppiharju, 00510 Helsinki, Finland – This neighborhood is a great choice for travelers interested in city trips, convenient public transportation and culture – Check location Great location - show map
+title: SANDRO KALLIO - Sandro
+snippet: Sandro is unfortunately closed until further notice due to the current situation. We want our customers and staff to be safe during this time. We hope we can welcome you soon again! Meanwhile, our sales office is happy to help you plan your future parties and events. Please contact our sales office +358 9 6128 6000 / myynti@noho.fi Also, gift cards …
+title: Bumi Kallio, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Bumi Kallio, Helsinki: See 31 unbiased reviews of Bumi Kallio, rated 5 of 5 on Tripadvisor and ranked #123 of 1,691 restaurants in Helsinki. ... I ordered 1 pho soup with 6.9e. I imagine that the bowl is small but it was beyond our expectations, not only quality but also taste.
+title: Soppakeittio, Helsinki - Restaurant Reviews, Photos ...
+snippet: Soppakeittio, Helsinki: See 309 unbiased reviews of Soppakeittio, rated 4.5 of 5 on Tripadvisor and ranked #23 of 1,690 restaurants in Helsinki.
+title: Kallio - Wikipedia
+snippet: Kallio (and Harju, which is often considered a part of Kallio) also has, more than any other district in Helsinki, a reputation as a &quot;bohemian&quot; and liberal area. The area has a heterogeneous population and many bars. The area also has a number of sex shops, strip clubs and massage parlors.
+title: Kallio - A Vibrant Helsinki District — VisitFinland.com
+snippet: The eastern end of Helsinki’s heart, particularly the densely inhabited Kallio, has sparked to life in recent years. Formerly a working-class neighbourhood, the laid-back, idiosyncratic and spirited area has a noteworthy array of boutiques, cafes, restaurants, bars and more.
+
+REL: 3
+POI Name: Cargo
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Vegan, Vegetarian, 
+Snippets:
+title: Kasvisravintola Helsinki - Cargo Coffee + Vegetarian food
+snippet: Cargo Coffee + Vegetarian Food on rento kasvisravintola Eerikinkadun eteläpäässä, jossa tarjoilemme aamupalaa ja lounasta. Sijaitsemme keskellä uutta Helsinkiä Kampin, Ruoholahden ja Jätkäsaaren solmukohdassa. Ruokamme on pääasiassa maidotonta, gluteenitonta emmekä käytä keittiössämme valkoista sokeria.
+title: Home | Finnair Cargo
+snippet: Finnair Cargo is a reliable Finnish air freight carrier offering high quality services in air cargo traffic especially between Europe and Asia.
+title: Tallink Silja Cargo Services - Tallink &amp; Silja Line
+snippet: Tallink Silja Cargo guarantee the fast, reliable transport of trucks, trailers, containers, machines, factory cars etc. from port to port. Most of our vessels offer truck drivers a comfortable, quiet and private section for rest and relaxation.
+title: Vegetarian restaurant &amp; cafe - Cargo Coffee + Vegetarian food
+snippet: Cargo Coffee + Vegetarian food is a vegetarian restaurant and café that serves from early morning. Lunch is available from 11am to 2:30pm on weekdays and from 10am to 3pm on weekends! You can enjoy our popular breakfast everyday and baristas serve coffee, drinks and energy packed juices from a wide selection.
+title: Cargo - Tallink &amp; Silja Line
+snippet: Tallink Silja Cargo transports your cargo units with Tallink&#39;s and Silja Line&#39;s passenger and cargo vessels between Finland, Estonia, Sweden and Latvia. We guarantee fast, reliable transports of trucks, trailers, containers, machines, factory cars etc. from port to port. On our cargo vessels we transport only cargo units.
+title: Finbo Cargo Tallinn Muuga-Helsinki Vuosaari | Finbo Cargo ...
+snippet: Finbo Cargo by Eckerö Line offers an economical crossing for car travellers on Tallinn-Helsinki route. Finbo Cargo departures from Muuga harbour in Tallinn and arrives in Vuosaari harbour in Helsinki.
+title: Eckerö Line Cargo | Eckerö Line
+snippet: Eckerö Line offers reliable and high-quality cargo services on the Helsinki-Tallinn-Helsinki route. The freight share of total sales is approximately 30%. M/S Finbo Cargo operates on route Helsinki Vuosaari–Tallinn Muuga and M/S Finlandia on route Helsinki West Harbour–Tallinn Old Town Harbour.
+title: ASR Cargo-center – Logistics without boundaries
+snippet: Additionally to full house of air cargo terminal services ASR Cargo Center offers also wide variety of added-value services for freight forwarders including pre-carriage services giving the possibility to avoid double handling thus creating even more cost savings in the handling process.
+title: Kasvislounas Helsinki - Cargo Coffee + Vegetarian food
+snippet: Kasvislounas tarjoillaan maanantaista perjantaihin klo 11-14.30. Viikottain vaihtuvan lounasmenun löydät alta sekä aina Facebookista. Lauantaisin ja sunnuntaisin on oma päivämenu, josta saat niin aamiaista kuin tuhdimpaakin annosta!
+title: Travemünde–Helsinki ferry timetable | Finnlines
+snippet: Helsinki – city life and scenic nature. Enjoy a relaxed cruise and an interesting stay in the Finnish capital. Helsinki is a wonderful Nordic metropolis, which has much to offer for every kind of taste. Whether you are interested in shopping for designer labels, good food or in culture in general you will find it here.
+
+REL: 3
+POI Name: DATE + KALE
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegan, 
+Snippets:
+title: - DateAndKale.com - DATE + KALE
+snippet: DateAndKale.com. Former three words, brandable .com domain representing a Finnish restaurant from Helsinki where we believe in simplicity. Was it about your closet, home decor or meal, we think that having less actually gives you more. Foods at their most natural state.
+title: DATE + KALE - Home - Helsinki - Menu, Prices, Restaurant ...
+snippet: DATE + KALE - Urho Kekkosen katu 1, 00100 Helsinki - Rated 4.5 based on 47 Reviews &quot;I agree with the owners, Richard and Anni, that our bodies are our...
+title: DATE + KALE, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: DATE + KALE, Helsinki: Katso 18 puolueetonta arvostelua paikasta DATE + KALE, joka on sijalla 3,5/5ja yksi 1 664 ravintolasta Helsingissä Tripadvisorissa.
+title: Breakfast - Picture of Date+Kale, Helsinki - TripAdvisor
+snippet: Date+Kale, Helsinki Picture: Breakfast - Check out TripAdvisor members&#39; 50,141 candid photos and videos of Date+Kale
+title: DATE + KALE - Eating in Helsinki - LikeALocal Guide
+snippet: Why locals love it. This restaurant at the 5th floor of the Kamppi shopping center, offers wholesome, plant-rich and sustainable foods, such as bowls, beverage and cakes, perfect for vegetarians and vegans, breakfast, brunch, lunch, snacks.
+title: De 10 beste restaurantene i Helsingfors - Tripadvisor
+snippet: Beste restauranter i Helsingfors, Finland: Se anmeldelser fra reisende og bilder av spisesteder i Helsingfors, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Kale User Guide - IT for Science - University of Helsinki ...
+snippet: ssh &lt;username&gt;@kale.grid.helsinki.fi. Instead of logging into computing node and executing jobs there interactively, users log in to a login node and submit the jobs through batch scheduling system. Batch system increases the usability of the system by considering job resource requests and scheduling jobs to available resources.
+title: Kortteli X DATE + KALE - YouTube
+snippet: &quot;Mä oon Anni Kravi, kauppatieteiden maisteri, mutta tosi kiinnostunut terveellisistä elämäntavoista ja rakastan ruoanlaittoa. Sen takia mä päätin lähteä yrittäjäksi sille alalle.&quot; DATE ...
+title: Populære vegetarrestauranter i Helsinki - Nordic Choice Hotels
+snippet: Mange av rettene kommer i tillegg i helt veganske utgaver. På den andre siden av vannet ligger Clarion Hotel Helsinki – et 78 meter høyt og trendy kvalitetshotell. Date + Kale. I femte etasje i kjøpesenteret Kampen i Kortteli finner vi Date &amp; Kale – en koselig og fresh delirestaurant.
+title: Trendikäs Date+Kale - arvostelun kohteena DATE + KALE ...
+snippet: DATE + KALE: Trendikäs Date+Kale - Katso 18 matkailijoiden laatimaa arvostelua, 11 matkailijoiden ottamaa valokuvaa ja huipputarjouksia Helsingissä, Suomi Tripadvisorissa.
+
+REL: 3
+POI Name: Just Vege
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Mediterranean, Fast Food, 
+Snippets:
+title: Just Vege kasvisravintola
+snippet: Vaasankatu 15, Helsinki / 044-9897444 / Open 7 days a week justvege@justvege.fi . Make an order - Preorder food or delivery with Wolt. Just Vege offers the best falafel in town. Our falafel is gluten free and always fried to order.
+title: Just Vege, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Just Vege, Helsinki: See 96 unbiased reviews of Just Vege, rated 4.5 of 5 on Tripadvisor and ranked #143 of 1,689 restaurants in Helsinki.
+title: Just Vege - Vegetarian/Vegan Restaurant - Helsinki - 123 ...
+snippet: Just Vege - Vaasankatu 15, 00500 Helsinki - Rated 4.5 based on 123 Reviews &quot;i&#39;ve had moroccan cigars sold to me as &quot;gluten free&quot;. i wondered why my...
+title: Just Vege, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Just Vege, Helsinki: Katso 97 puolueetonta arvostelua paikasta Just Vege, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 143 1 691 ravintolasta Helsingissä.
+title: Just Vege, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Just Vege, Helsingfors: Se 96 objektive anmeldelser av Just Vege, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 143 av 1 689 restauranter i Helsingfors.
+title: Just Vege - Harju - Helsinki, Finland - Yelp
+snippet: 9 reviews of Just Vege &quot;I&#39;m visiting Helsinki and every vegan restaurant that I was attempting to visit was either closed or far from public transportation. I&#39;m glad that I made my way out to this place! The burger that I ordered was probably one…
+title: JUST VEGE, Helsinki - Updated 2020 Restaurant Reviews ...
+snippet: Just Vege, Helsinki: See 97 unbiased reviews of Just Vege, rated 4.5 of 5 on Tripadvisor and ranked #143 of 1,690 restaurants in Helsinki.
+title: Just Vege, Helsinki - Menü, Preise &amp; Restaurant ...
+snippet: Just Vege, Helsinki: 97 Bewertungen - bei Tripadvisor auf Platz 143 von 1.691 von 1.691 Helsinki Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: THE 10 BEST Restaurants Near Just Vege in Helsinki ...
+snippet: Restaurants near Just Vege, Helsinki on Tripadvisor: Find traveler reviews and candid photos of dining near Just Vege in Helsinki, Finland.
+title: Just Vege - Helsinki Restaurant - HappyCow
+snippet: Situated in one of Helsinki&#39;s most hipster street and perhaps the most vegan friendly neighbourhood, Just Vege offers a delightful menu with a cozy atmosphere. We ordered burger meals with fries and salad. Ask for vegan options. Intrigued to taste more - especially the pita menu.
+
+REL: 3
+POI Name: Well
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Vegetarian, 
+Snippets:
+title: Helsinki - Wikipedia
+snippet: Helsinki was the World Design Capital for 2012, the venue for the 1952 Summer Olympics, and the host of the 52nd Eurovision Song Contest in 2007. Helsinki has one of the highest urban standards of living in the world. In 2011, the British magazine Monocle ranked Helsinki the world&#39;s most liveable city in its liveable cities index.
+title: Well, Helsinki - Restaurantanmeldelser - Tripadvisor
+snippet: Well, Helsinki: Se 4 objektive anmeldelser af Well, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 1.069 af 1.690 restauranter i Helsinki.
+title: Well, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Well, Helsinki: See 4 unbiased reviews of Well, rated 4 of 5 on Tripadvisor and ranked #1,069 of 1,690 restaurants in Helsinki.
+title: Well, Helsinki - Menü, Preise &amp; Restaurant Bewertungen ...
+snippet: Well, Helsinki: 4 Bewertungen - bei Tripadvisor auf Platz 1.071 von 1.689 von 1.689 Helsinki Restaurants; mit 4/5 von Reisenden bewertet.
+title: Well - Home - Helsinki - Menu, Prices, Restaurant Reviews ...
+snippet: Well. 3.1K likes. Löydät WELLin kahdesta osoitteesta Helsingissä: * Haartmaninkatu 4 (Terkko Healt Hub) * Vuorikatu 7 (Kaisa-talo) WELLcome!
+title: Helsinki — VisitFinland.com
+snippet: In addition to Helsinki, the capital region is made of a hub of other interesting cities and sights to visit. These include the neighboring cities of Espoo and Vantaa, the historical town of Porvoo, Järvenpää-Tuusula area – famous for its artistic heritage – as well as the ironwork villages west of Helsinki.
+title: HSL
+snippet: I and P trains and buses 415, 415N, 561, 562N, 615 and 617 do not operate to Helsinki Airport until further notice. The buses terminate at Aviapolis station // Info: hsl.fi/en
+title: Well, Helsinki - Menu, Prix &amp; Restaurant Avis - Tripadvisor
+snippet: Well, Helsinki : consultez 4 avis sur Well, noté 4 sur 5 sur Tripadvisor et classé #1 071 sur 1 685 restaurants à Helsinki.
+title: 10 Best Helsinki Hotels, Finland (From $58)
+snippet: Helsinki isn&#39;t a big city, but I had loved to explore city&#39;s neighborhood. Friendly people and nice subway (I had never been in the subway before). One reason what i dislike in the Helsinki - maybe it&#39;s due to the spring (a lot of cigarette butts).
+title: Bircher oats! - Review of Well, Helsinki, Finland ...
+snippet: Well: Bircher oats! - See 4 traveler reviews, 9 candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+
+REL: 3
+POI Name: Soi soi
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, 
+Snippets:
+title: Soi Soi, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Soi Soi, Helsinki: Katso 88 puolueetonta arvostelua paikasta Soi Soi, joka on sijalla 4/5 Tripadvisorissa ja sijalla 230 1 691 ravintolasta Helsingissä.
+title: Soi Soi, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Soi Soi, Helsinki with Tripadvisor: See 88 unbiased reviews of Soi Soi, ranked #230 on Tripadvisor among 1,690 restaurants in Helsinki.
+title: Soi Soi, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Soi Soi, Helsinki with Tripadvisor: See 88 unbiased reviews of Soi Soi, ranked #230 on Tripadvisor among 1,691 restaurants in Helsinki.
+title: Soi Soi, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Soi Soi, Helsingfors: Se 88 objektive anmeldelser av Soi Soi, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 230 av 1 691 restauranter i Helsingfors.
+title: Soi Soi Helsinki | Spotted by Locals
+snippet: I am not a vegetarian nor a vegan, but I would still choose Soi Soi as my favorite burger joint in Helsinki. Soi Soi is definitely not a place where you can go to poke a piece of salad around your plate.
+title: Soi Soi, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Soi Soi, Helsinki: See 88 unbiased reviews of Soi Soi, rated 4 of 5 on Tripadvisor and ranked #230 of 1,690 restaurants in Helsinki.
+title: Soi Soi Kasvisravintolat - Home - Helsinki - Menu, Prices ...
+snippet: Soi Soi Kasvisravintolat - Vaasankatu 9, 00500 Helsinki - Rated 4 based on 129 Reviews &quot;The best vegan burger in town, Jammin is my favourite. Can also...
+title: Soi Soi kotiinkuljetettuna kaupungissa Helsinki | foodora ...
+snippet: pizza-online.fi on nyt foodora! Tilaa ruokaa ravintolasta Soi Soi Helsinki | Suosikkiravintolasi kotiinkuljetettuna 30 minuutissa Paras valikoima ravintoloita Nopea toimitus. Käytämme evästeitä tilauspalvelumme toteuttamiseksi sekä helpottamaan palvelun käyttöä.
+title: Soi Soi, Helsinki: Arvostelut | Eat.fi
+snippet: Ystäväni suostumuksesta menimme Soi Soi ravintolaan syömään. Vastaanotto tylyä. Meitä ei tervehditty, todettiin vain että &quot;kortti ei sitten käy&quot;. Onneksi oli käteistä ja tehtiin tilaus. Olin maksamassa 50e setelillä. jolloin sanottiin että niin iso seteli ei käy. Vaihdettiin ravintolaa. Ymmärrän että aina kortit ei toimi.
+title: Soi Soi, Helsinki - recenzje restauracji - Tripadvisor
+snippet: Soi Soi, Helsinki: zobacz bezstronne recenzje (88 ) na temat Soi Soi, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 230 z 1 690 restauracji w Helsinkach.
+
+REL: 2
+POI Name: Veggie
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Gluten-Free, Vegetarian, 
+Snippets:
+title: Veggie - Vegetarian food &amp; cafe - Home - Helsinki - Menu ...
+snippet: Veggie - Vegetarian food &amp; cafe - Munkkiniemen puistotie 22, 00330 Helsinki - Rated 4.9 based on 80 Reviews &quot;Got a lasagna w/ side salad (incl in the...
+title: Veggie, Helsinki - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Veggie, Helsinki: See 47 unbiased reviews of Veggie, rated 4.5 of 5 on Tripadvisor and ranked #214 of 1,671 restaurants in Helsinki.
+title: Veggie, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Veggie er definitivt min favoritt lunsjplass i Helsingfors. Den har alt, varm og nydelig atmosfære, vennlig service og fremfor alt velsmakende vegetarisk mat fra gode ingredienser! Jeg pleier å gå til den daglige lunsj, men Greeke Souvlaki er alltid et annet fristende alternativ.
+title: Veggie, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Veggie, Helsingfors: Se 47 objektive anmeldelser av Veggie, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 214 av 1 691 restauranter i Helsingfors.
+title: Veggie, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Veggie, Helsinki: Katso 47 puolueetonta arvostelua paikasta Veggie, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 214 1 690 ravintolasta Helsingissä.
+title: Veggie, Helsinki - Restaurantanmeldelser - Tripadvisor
+snippet: Veggie, Helsinki: Se 47 objektive anmeldelser af Veggie, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 214 af 1.690 restauranter i Helsinki.
+title: Veggie - Vegetarian food &amp; cafe - Startside - Helsinki ...
+snippet: Veggie - Vegetarian food &amp; cafe – Munkkiniemen puistotie 22, 00330 Helsinki – Vurderingen 4.9 basert på 80 anmeldelser &quot;Got a lasagna w/ side salad (incl...
+title: Veggie - Vegetarian food &amp; cafe - Etusivu - Helsinki ...
+snippet: Veggie - Vegetarian food &amp; cafe – Munkkiniemen puistotie 22, 00330 Helsinki – arvio 4.9, perusteena 80 arvostelua &quot;Ystävällinen henkilökunta ja rento...
+title: THE BEST Veggie Burger in Helsinki (Updated April 2020 ...
+snippet: Best Veggie Burger in Helsinki, Uusimaa: Find 828 Tripadvisor traveller reviews of THE BEST Veggie Burger and search by price, location, and more.
+title: 9 Top Vegetarian and Vegan Restaurants in Helsinki
+snippet: Indulge at the best rated vegetarian and vegan restaurants in Helsinki, ... 9 Top Vegetarian and Vegan Restaurants in Helsinki. ... other things, pulled oats, bean burgers, hot dogs, ice cream, cake, and coffee. One exclusively Finnish dish is the veggie equivalent of cut up sausages mixed into fries.
+
+REL: 2
+POI Name: Silvoplee
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Juice Bars & Smoothies, 
+Snippets:
+title: Kasvisravintola Silvoplee
+snippet: Silvoplee on Satu Silvon vuonna 1999 perustama monipuolinen ja rakastettu kasvisravintola Hakaniemen ytimessä, Helsingin Kalliossa. yhteystiedot. PUHELIN +358 9 7260900. SÄHKÖPOSTI. info@silvoplee.fi. Osoite. Toinen linja 3 00530 Helsinki KARTTA. Satumainen Ravinto Oy Y-tunnus 15556888.
+title: Silvoplee, Helsinki - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Silvoplee, Helsinki: See 194 unbiased reviews of Silvoplee, rated 4.5 of 5 on Tripadvisor and ranked #34 of 1,691 restaurants in Helsinki.
+title: Ravintola Silvoplee - Home - Helsinki - Menu, Prices ...
+snippet: Ravintola Silvoplee - Toinen Linja 3, 00530 Helsinki - Rated 4.8 based on 305 Reviews &quot;Really good food with a wide spread buffet. Good concept of price...
+title: Silvoplee, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Silvoplee, Helsingfors: Se 194 objektive anmeldelser av Silvoplee, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 34 av 1 691 restauranter i Helsingfors.
+title: YHTEYSTIEDOT | Kasvisravintola Silvoplee
+snippet: 09 7260900 info@silvoplee.fi. Valitse sivu. Salasanasuojattu. Katsoaksesi tätä suojattua sisältöä, kirjoita salasana alle: Salasana: Lähet ...
+title: Silvoplee, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Silvoplee, Helsinki: Katso 194 puolueetonta arvostelua paikasta Silvoplee, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 34 1 691 ravintolasta Helsingissä.
+title: De 10 beste restaurantene i Helsingfors - Tripadvisor
+snippet: Beste restauranter i Helsingfors, Finland: Se anmeldelser fra reisende og bilder av spisesteder i Helsingfors, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Silvoplee Helsinki | Spotted by Locals
+snippet: Silvoplee was voted the best vegetarian restaurant in Helsinki in 2014. They offer a huge buffet with raw food, raw salad and warm vegetarian food. The menu changes daily, follows the seasons and favors local and Finnish food, seasonal produce and small suppliers. In Silvoplee the food is sold by weight.
+title: | SILVOPLEE | DeepHelsinki
+snippet: For Sari Hartikainen from Kuopio, Silvoplee is a frequent destination in Helsinki. Silvoplee’s position as the trendsetter of vegetarian restaurants has come at a cost. Nowadays, vegetarian food is a growing trend, but when Silvoplee started in 1998, the situation was different.
+title: Silvoplee, Helsinki - Restaurantanmeldelser - Tripadvisor
+snippet: Silvoplee, Helsinki: Se 194 objektive anmeldelser af Silvoplee, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 34 af 1.690 restauranter i Helsinki.
+
+REL: 2
+POI Name: Oton Soppa
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Comfort Food, Vegetarian, 
+Snippets:
+title: Oton Soppa - Home | Facebook
+snippet: Oton Soppa - Espoo, Finland - Rated 4.8 based on 73 Reviews &quot;Best burger in Helsinki for sure! Also the athmosphere was interesting :)&quot;
+title: fi.yelp.fi
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Oton Soppa - Etusivu | Facebook
+snippet: Oton Soppa – Espoo – arvio 4.8, perusteena 74 arvostelua &quot;Oton soppa on lounasravintola aivan Isoa Omenaa vastapäätä palvelutalo Omenatarhassa! Kolme...
+title: Oton Soppa - Julkaisut | Facebook
+snippet: Ollut melko mielenkiintoisia vaiheita tässä viime aikoina, mutta nyt tilanne on selkiintynyt. Oton Soppa siirtyy historian lehdyköille ja meikäläinen jatkaa uusissa kuvioissa. Suurella kunnialla pääsin mukaan energiseen tiimiin avaamaan ihan bränikkää hommelia SilikooniVallilan sydämeen!
+title: Oton Soppa Oy - taloustiedot, Y-tunnus ja päättäjät ...
+snippet: Katso Finder.fi:stä yhtiön Oton Soppa Oy (2712683-4) yritystiedot, päättäjät, työntekijämäärä ja taloustiedot, kuten liikevaihto ja tulos.
+title: Black Flag BRGRS / Oton Soppa (Now Closed) - Lauttasaari ...
+snippet: See 41 photos and 2 tips from 83 visitors to Black Flag BRGRS / Oton Soppa. &quot;Maukasta burgeria.&quot; Burger Joint in Helsinki, Uusimaa. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Oton soppa facebook - oton soppa - espoo, finland - rated 4
+snippet: Oton soppa facebook. Oton Soppa - Espoo, Finland - Rated 4.8 based on 73 Reviews Best burger in Helsinki for sure!Facebook is showing information to help you better understand the purpose of a Page Oton Soppa - Espoo, Finland - Rated 4.8 based on 73 Reviews Best burger in Helsinki for sure!
+title: Photos at Black Flag BRGRS / Oton Soppa (Now Closed ...
+snippet: See all 41 photos taken at Black Flag BRGRS / Oton Soppa by 178 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, ...
+title: Oton Soppa, Pohjoiskaari 9 A, Espoo (2020)
+snippet: Oton Soppa-ravintolat vetelevät siis (toistaiseksi) viimeisiä henkäyksiään, joten nyt käyttämään mahdolliset lounaskorttinne pois ja vaihtamaan meikäläisen kanssa ylävitosia ja vatsapömpsyjä vielä kun kerkeää! 21.12.2017 on Lauttasaaressa viimeinen Oton lounas. Sen jälkeen toiminnasta vastaavat Diku ja Dexter!
+title: otonsoppa.fi - Oton Soppa Oy
+snippet: Oton Soppa Oy. Veneentekijäntie 4 B 00210 Helsinki. Y-tunnus: 2712683-4 Puh: 0451451885. Sivuston otsikko: Oton Soppa - lounasravintola Lauttasaaressa Sivuston avainsanat: Sivuston kuvaus: Oton Soppa on lounasravintola Helsingin Lauttasaaressa. Lounas ma-pe klo 10:30–14:30.
+
+REL: 2
+POI Name: Kolo
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegan, Arts & Entertainment, Coffee & Tea, 
+Snippets:
+title: De 10 beste restaurantene i Helsingfors - Tripadvisor
+snippet: Beste restauranter i Helsingfors, Finland: Se anmeldelser fra reisende og bilder av spisesteder i Helsingfors, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Kolo, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Kolo, Helsinki: Katso 3 puolueetonta arvostelua paikasta Kolo, joka on sijalla 5/5ja yksi 1 682 ravintolasta Helsingissä Tripadvisorissa.
+title: KOLO Sauna
+snippet: KOLO Kiulu ja Kauha ovat erottamattomia. Siksi ne myös pakataan yhteen. Kauha toimii kiulun kantokahvana ja ilman kiulua ei kauhalla olisi paikkaa, jossa maata. Ne eivät tee saunomisesta ikimuistoista, loista pimeässä tai tuoksu millekään. Sen kuitenkin takaamme, että kiulumme ei vuoda ja kauhamme kantaa.
+title: Ravintola Olo, Michelin-palkittu ravintola Helsingin ...
+snippet: Pohjoisesplanadi 5 00170 Helsinki 010 3206250. OLO RAVINTOLA Michelin-palkittu ravintola Helsingissä, Kauppatorin kupeessa. Olo on palkittu Michelin-tähdellä jokaisena vuonna, jo vuodesta 2011. Hemmottelemme vieraitamme Helsingissä, Kauppatorin kupeessa, rakkaudella valmistetulla maistelumenulla.
+title: Kolo - Home | Facebook
+snippet: Kolo, Helsinki. 4,788 likes · 1 talking about this. Kolo oli vegaaninen kahvila ja kohtaamispaikka. Pysy linjoilla jos haluat tietoa mahdollisista pop-upeista ja muista yllätyksistä!
+title: From the Home of Sauna - KOLO Sauna
+snippet: From the Home of Sauna. In Finland, there are 5.5 million people and more than three million saunas. That is how much we love our sauna. KOLO aims at spreading Finnish sauna culture all over the world, one bucket and ladle at a time.
+title: KOLO Sauna Finland | Verkkokauppa
+snippet: KOLO Kiulu ja Kauha ovat erottamattomia ja siksi ne on pakattu yhteen. Kauha toimii kiulun kantokahvana ja ilman kiulua kauhalla ei olisi paikkaa, jossa maata.
+title: Kolo Helsinki - Mesenaatti.me
+snippet: We are a non-profit organisation that is run by group of friends, and this projet is inspired by our love for each other and the city of Helsinki. Opening Kolo isn&#39;t our first café experience – we are the brains and beauties behind Ystävien Tammikahvila, the pop-up café that opened in Made in Kallio on Vaasankatu for one month in January ...
+title: Kolo Helsinki - Mesenaatti.me
+snippet: KOLO. Kolo on heinäkuussa Pengerkadulle avattava kahvila, joka lahjoittaa kaupunkilaisille ilmaisia tapahtumia. Kolossa voit lukea kirjoja, katsoa elokuvia Salakinossa tai ihan vaan olla. Kolo on kaikille avoin ja vegaaninen, eikä asiakkailla ole ostopakkoa. Kolo on syrjinnästä ja vihapuheesta vapaa alue. Kahvilaa pyörittää Ystävien ...
+title: Ekokauppa Ekolon verkkokauppa ekolo.fi
+snippet: Luomua, kasvisruokaa, monimuotoisuutta ja ekoelämää! Olemme yksi Suomen monipuolisimmista luomuun, kasvisruokaan, luonnonkosmetiikkaan ja muihin ekotuotteisiin erikoistuneita nettikauppoja - verkkokauppamme tarjoaa yli 2000 erilaista ympäristöystävällistä ja eettistä tuotetta.
+
+REL: 2
+POI Name: Mari's Smoothie
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Juice Bars & Smoothies, 
+Snippets:
+title: Menu - Maris Smoothie
+snippet: * Kaikki mehut ovat tuorepuristettuja. Ei lisättyjä sokereita eikä maitotuotteita. Hampunsiemenproteiini ja kaikki marjat ovat kotimaisia.
+title: Mari&#39;s Smoothie &amp; Cafe - Home - Helsinki - Menu, Prices ...
+snippet: Mari&#39;s Smoothie &amp; Cafe, Helsinki. 974 likes · 85 talking about this · 78 were here. Gluteeniton kahvila sekä smoothie ja mehubaari Vanhassa Kauppahallissa. Tuoretta salaattia, uuniperunoita ja ihania...
+title: Mari&#39;s Smoothie, Helsingfors - Restaurantanmeldelser ...
+snippet: Mari&#39;s Smoothie, Helsingfors: Se 17 objektive anmeldelser av Mari&#39;s Smoothie, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 358 av 1 690 restauranter i Helsingfors.
+title: Mari&#39;s Smoothie &amp; Cafe - Etusivu - Helsinki - Ruokalista ...
+snippet: Mari&#39;s Smoothie &amp; Cafe, Helsinki. 974 tykkäystä · 15 puhuu tästä · 78 oli täällä. Gluteeniton kahvila sekä smoothie ja mehubaari Vanhassa Kauppahallissa. Tuoretta salaattia, uuniperunoita ja ihania...
+title: Mari&#39;s Smoothie pub &amp; bar, Helsinki - Restaurant menu and ...
+snippet: Mari&#39;s Smoothie, #20 among Helsinki cafes: 69 reviews by visitors and 20 detailed photos. The restaurant&#39;s got 4.9 from Facebook and 4.9 from Google. Find on the map and call to book a table.
+title: Mari&#39;s Smoothie, Helsinki - Restaurant Bewertungen ...
+snippet: Mari&#39;s Smoothie, Helsinki: 17 Bewertungen - bei Tripadvisor auf Platz 355 von 1.658 von 1.658 Helsinki Restaurants; mit 5/5 von Reisenden bewertet.
+title: MARI&#39;S SMOOTHIE, Helsinki - Restaurant Reviews, Photos ...
+snippet: Mari&#39;s Smoothie, Helsinki: See 17 unbiased reviews of Mari&#39;s Smoothie, rated 5 of 5 on Tripadvisor and ranked #358 of 1,689 restaurants in Helsinki.
+title: Mari&#39;s Smoothie &amp; Cafe - Reviews - Helsinki - Menu, Prices ...
+snippet: Mari&#39;s Smoothie &amp; Cafe, Helsinki. 974 likes · 9 talking about this · 78 were here. Gluteeniton kahvila sekä smoothie ja mehubaari Vanhassa Kauppahallissa. Tuoretta salaattia, uuniperunoita ja ihania...
+title: Gluten free and delicious snacks - Mari&#39;s Smoothie
+snippet: Mari&#39;s Smoothie: Gluten free and delicious snacks - See 17 traveler reviews, 13 candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+title: Great Gluten Free Lunch Options - Mari&#39;s Smoothie
+snippet: Mari&#39;s Smoothie: Great Gluten Free Lunch Options - See 17 traveler reviews, 13 candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+
+REL: 2
+POI Name: Zucchini
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Vegan, 
+Snippets:
+title: Zucchini, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Zucchini er to kvartaler unna Helsinki Esplanade og en annen to fra sjøen. Stedet har ca 15 bord. Men maten er så god og ansatte er så effektive at du vil bli og dele et bord. Maten er strengt vegetarisk, og kucchini åpner bare til ...
+title: Zucchini, Helsinki - Restaurant Reviews &amp; Photos - Tripadvisor
+snippet: Zucchini is two block off the Helsinki Esplanade and another two from the waterfront. The place has about 15 tables. However, the food is so good and the staff are so efficient that you will want to stay and share a table.
+title: Zucchini, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Zucchini, Helsinki: Katso 152 puolueetonta arvostelua paikasta Zucchini, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 12 1 691 ravintolasta Helsingissä.
+title: Zucchini | My Helsinki
+snippet: Suosittu kasvisravintola, auki lounasaikaan. Tarjolla keitto, päivän annos, salaattilautanen tai kasvispizzaa salaatin kanssa. Myös gluteenitonta ja vegaaniruokaa....
+title: Kasvisravintola Zucchini - Vegetarian/Vegan Restaurant ...
+snippet: Kasvisravintola Zucchini - Fabianinkatu 4, 00120 Helsinki - Rated 5 based on 17 Reviews &quot;Fantastic vegetarian food for years newer actually had bad food...
+title: Zucchini - Suomen ravintolat
+snippet: Zucchini on kasvisravintola Helsingin Kaartinkaupungin kaupunginosassa, osoitteessa Fabianinkatu 4. Paikka on avoinna pelkästään lounasruokailua varten. Paikka on saanut kiitosta asiakkailtaan varsinkin suhteessa mukavasta miljööstään, mauttavasta ruoastaan, ystävällisestä palvelustaan, sekä kätevästä sijainnistaan, lähellä muun muassa keskeisiä Helsingin Yliopiston ...
+title: Zucchini, Helsinki - Restaurant Reviews &amp; Photos - Tripadvisor
+snippet: Zucchini, Helsinki: See 152 unbiased reviews of Zucchini, rated 4.5 of 5 on Tripadvisor and ranked #12 of 1,690 restaurants in Helsinki.
+title: Zucchini, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Zucchini, Helsingfors: Se 152 objektive anmeldelser av Zucchini, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 10 av 1 671 restauranter i Helsingfors.
+title: Zucchini - Helsinki - Vegetarian/Vegan Restaurant | Facebook
+snippet: Zucchini, Helsinki. 884 likes. Vegetarian/Vegan Restaurant. Fantastic vegetarian food for years newer actually had bad food here just love it...
+title: Zucchini, Helsinki: Arvostelut | Eat.fi
+snippet: Zucchini on saavuttanut kulttisuosion helsinkiläisten kasvisruokailijoiden keskuudessa. En aivan sitä käsitä, mutta ehkä minun ei tarvitsekaan. Ruoka oli kohtuuhyvää, mutta maut puuroutuivat. Palvelu oli ripeän reipasta täydessä ravintolassa. Asiakaspaikkoja on niukalti, mutta nopea vaihtuvuus ja rento tunnelma auttavat.
+
+REL: 2
+POI Name: Pobre
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, Asian Fusion, Vegetarian, 
+Snippets:
+title: Filipino restaurant Pobre, Kamppi Kortteli
+snippet: &quot;Helsinki doesn’t have too many Filipino restaurants, so Pobre is a welcome addition to the local restaurant scene. Opened by six young Filipino chefs, who started with a pop-up restaurant on Restaurant Day, Pobre is a laid-back place where the food is delicious and very affordable considering the quality.
+title: Filippiiniläinen ravintola Pobre, Kamppi Kortteli
+snippet: Pobre listattu yhdeksi vuoden 2018 parhaista ravintoloista Helsingissä &quot;Kampin Kortteliin avannut filippiiniläinen Pobre on yksi vuoden pirteimmistä ravintolauutuuksista. Ravintolapäivän pop up -kokeiluista aloittaneet kuusi nuorta filippiiniläiskokkia ovat luoneet rennon paikan, jonka ruoka on herkullista ja tasoonsa nähden edullista modernia filippiiniläistä ruokaa.
+title: Pobre Filipino, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Pobre Filipino, Helsinki: Katso 102 puolueetonta arvostelua paikasta Pobre Filipino, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 138 1 691 ravintolasta Helsingissä.
+title: Pobre Filipino, Helsinki - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Pobre Filipino, Helsinki on Tripadvisor: See 102 unbiased reviews of Pobre Filipino, rated 4.5 of 5 on Tripadvisor and ranked #137 of 1,689 restaurants in Helsinki.
+title: Pobre - Home - Helsinki - Menu, Prices, Restaurant Reviews ...
+snippet: Pobre - Urho Kekkosen Katu 01 (Kamppi Kauppakeskus), 00100 Helsinki - Rated 4.9 based on 105 Reviews &quot;Took me a while to find resto (5th Flr of Kamppi...
+title: Menu — Filipino restaurant Pobre
+snippet: In Filipino culture, food is always a centerpiece of any gathering. Welcome to restaurant Pobre in Kamppi Kortteli.
+title: Lunch weekdays 11-15:00 — Restaurant Pobre, Kamppi
+snippet: Restaurant Pobre Kamppi serves lunch weekdays 11-15. We deliver dishes that vibrate Filipino flavours with Spanish influences typical to the region.
+title: Pobre Filipino, Helsingfors - Restaurantanmeldelser ...
+snippet: Pobre Filipino, Helsingfors: Se 101 objektive anmeldelser av Pobre Filipino, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 142 av 1 683 restauranter i Helsingfors.
+title: POBRE | Kampin Kauppakeskus
+snippet: POBRE - filippiiniläistä ruokaa täydellä sydämellä. Filippiiniläisessä kulttuurissa ruoka on aina tapaamisten keskiössä ja ruoanlaitto on tapa tuoda koko perhe yhteen. Hyvän ruoan arvo ja ikimuistoinen ruokakokemus ovat identiteettimme ytimessä. Pobressa haluamme antaa teille sen saman ilon jakaa hyvä ateria läheistenne kanssa.
+title: Menu — Filippiiniläinen ravintola Pobre
+snippet: Filippiiniläisessä kulttuurissa ruoka on kokoontumisen keskipisteessä. Tervetuloa kokemaan ravintola Pobre Filipino, Kampin Korttelissa.
+
+REL: 2
+POI Name: Fleuriste
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Coffee & Tea, 
+Snippets:
+title: Tervetuloa blogiin! - fleuriste.fi
+snippet: Niin kuin otsikkokin jo paljastaa, huonekasvit ovat helppo tapa piristää kahvilaympäristöä. Ne tuovat mihin tahansa ympäristöön liudan värejä ja tuoksuja ja lisäävät sitä tiettyä eloa huoneeseen. Kukkien ja huonekasvien rooli on puhtaasti esteettinen: ne ovat huoneessa siksi, että ne kaunistavat ympäristöä ja ovat ilo silmälle.
+title: Fleuriste Helsinki Oy - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Fleuriste Helsinki Oy, Helsinki: See 2 unbiased reviews of Fleuriste Helsinki Oy, rated 3 of 5 on Tripadvisor and ranked #1,409 of 1,690 restaurants in Helsinki.
+title: Fleuriste Helsinki Oy, Helsingin ravintola-arvostelut ...
+snippet: Fleuriste Helsinki Oy, Helsinki: Katso 2 puolueetonta arvostelua paikasta Fleuriste Helsinki Oy, joka on sijalla 3/5 Tripadvisorissa ja sijalla 1 393 1 670 ravintolasta Helsingissä.
+title: The real Korvapusti! - Review of Fleuriste Helsinki Oy ...
+snippet: Fleuriste Helsinki Oy: The real Korvapusti! - See 2 traveler reviews, candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+title: FLEURISTE HELSINKI OY - Kampinmalmi - Restaurant Reviews ...
+snippet: Fleuriste Helsinki Oy, Helsinki: See 2 unbiased reviews of Fleuriste Helsinki Oy, rated 3 of 5 on Tripadvisor and ranked #1,410 of 1,691 restaurants in Helsinki.
+title: Facebook
+snippet: See posts, photos and more on Facebook.
+title: Ihanat brunssit Helsingissä | My Helsinki
+snippet: Kiireettömät viikonloppuaamut, kaveriporukan tapaamiset, runsaasti kahvia ja notkuvat pöydät – siitä on herkullinen brunssi tehty....
+title: Flower Delivery Helsinki | Flower Shop Helsinki ...
+snippet: Send Fresh &amp; beautiful flowers to Helsinki, designed by our local expert florists from roses, carnations, orchids and lilies for Birthday, Anniversary, Mother&#39;s Day, Sympathy, Get well with Same day delivery across Finland .
+title: Fleuriste Helsinki Oy - Restaurant Bewertungen ...
+snippet: Fleuriste Helsinki Oy, Helsinki: 2 Bewertungen - bei Tripadvisor auf Platz 1.401 von 1.689 von 1.689 Helsinki Restaurants; mit 3/5 von Reisenden bewertet.
+title: Finlande Livraison de fleurs par un fleuriste local à ...
+snippet: Finlande Fleuriste Livraison Fleurs. Langue / Kieli. ... Nous envoyons des fleurs à la main à Helsinki et 52 en Finlande Les visiteurs de la Finlande, pendant le festival de la mi-été, peuvent rejoindre les jeunes filles en plaçant des fleurs sur leurs cheveux.
+
+REL: 2
+POI Name: Yes yes yes
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Vegan, Vegetarian, 
+Snippets:
+title: Home - Yesyesyes | Yesyesyes
+snippet: Yes Yes Yes is within very easy reach from all over the city. Use hsl.fi to find your way to us with public transportation. Please note, there are few small steps in the restaurant, so please let us know in advance if you need wheelchair access.
+title: Yes Yes Yes - Home | Facebook
+snippet: Yes Yes Yes - Iso Roobertinkatu 1, 00120 Helsinki - Rated 4.7 based on 149 Reviews &quot;Great restaurant, food and atmosphere is world class !&quot;
+title: Yes Yes Yes, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Yes Yes Yes, Helsinki: Katso 156 puolueetonta arvostelua paikasta Yes Yes Yes, joka on sijalla 4/5 Tripadvisorissa ja sijalla 204 1 691 ravintolasta Helsingissä.
+title: Yes Yes Yes, Helsinki - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Yes Yes Yes, Helsinki on Tripadvisor: See 156 unbiased reviews of Yes Yes Yes, rated 4 of 5 on Tripadvisor and ranked #201 of 1,683 restaurants in Helsinki.
+title: Yes Yes Yes | My Helsinki
+snippet: Yes Yes Yes is a brand new bustling bar &amp; restaurant located on the classic corner of the flourishing pedestrian street Iso Roobertinkatu. Yes Yes Yes is as much a bar as a charming restaurant, brimming with great energy. Stop by for a snack or the full experience. Expect a magical expression of colors, wild banana tre...
+title: Yes Yes Yes, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Yes Yes Yes, Helsingfors: Se 156 objektive anmeldelser av Yes Yes Yes, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 203 av 1 689 restauranter i Helsingfors.
+title: Yes Yes Yes | Menu | Arvostelut | TableOnline.fi
+snippet: Yes Yes Yes on Hawaii-ravintolaperheen (The Cock &amp; Holiday Bar) uusin tulokas. Helsinkiläisbaari &amp; -ravintola entisen McDonald&#39;sin tiloissa kukoistavalla Iso Roobertinkadulla. Ravintolan erikoisuus on tulikuuma tandooriuuni sekä pitkät baaritiskit, jotka toimivat yhtä hyvin raikkaiden drinkkien siemailuun kuin myös ruokailuun.
+title: Yes Yes Yes, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Yes Yes Yes, Helsinki: See 156 unbiased reviews of Yes Yes Yes, rated 4 of 5 on Tripadvisor and ranked #204 of 1,691 restaurants in Helsinki.
+title: YES YES YES, Helsinki - Updated 2020 Restaurant Reviews ...
+snippet: Reserve a table at Yes Yes Yes, Helsinki on Tripadvisor: See 156 unbiased reviews of Yes Yes Yes, rated 4 of 5 on Tripadvisor and ranked #204 of 1,691 restaurants in Helsinki.
+title: Yes Yes Yes - Home | Facebook
+snippet: Yes Yes Yes - Iso Roobertinkatu 1, 00120 Helsinki - Rated 4.7 based on 148 Reviews &quot;Great restaurant, food and atmosphere is world class !&quot;
+
+REL: 2
+POI Name: Siima Baari
+POI City: Helsinki
+POI Country: FI
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Siima Baari - Helsinki - Pubit ja baarit - fonecta.fi
+snippet: Siima Baari sijaitsee kunnassa Helsinki, alueella Alppiharju. Se on perustettu 26.8.2009. Se on yksityinen elinkeinonharjoittaja, jonka toimiala on pubit ja baarit. Voit selvittää sen päättäjät, taloustiedot kuten liikevaihdon ja muut yritystiedot Finderissa.
+title: Siima Baari (Helsinki, Suomi) - arvostelut - Tripadvisor
+snippet: Siima Baari, Helsinki, Suomi - Tripadvisor: Tutustu paikasta Siima Baari kirjoitettuihin arvosteluihin ja ammattilaisten ottamiin sekä matkailijoiden aitoihin kuviin
+title: fi.yelp.fi
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: De 10 beste hotellene i nærheten av Siima Baari - Tripadvisor
+snippet: Hoteller i nærheten av Siima Baari, Helsingfors: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Siima Baari på Tripadvisor.
+title: Siima Baari (Helsingfors, Finland) - Anmeldelser - Tripadvisor
+snippet: Siima Baari, Helsingfors: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Siima Baari i Helsingfors, Finland på Tripadvisor.
+title: Siima Baari (Helsinki) - 2020 All You Need to Know BEFORE ...
+snippet: Spend time exploring some of Helsinki’s most impressive landmarks by opting for this small-group tour. Discovering the city with a guide ensures you don’t miss any highlights, and eliminates the need to study a map.
+title: Siima Baari (Helsinki) - 2020 What to Know Before You Go ...
+snippet: Siima Baari, Helsinki: See reviews, articles, and photos of Siima Baari, ranked No.48 on Tripadvisor among 82 attractions in Helsinki.
+title: Siima Baari (Helsinki, Finlandia) - opinie - Tripadvisor
+snippet: Siima Baari, Helsinki: zobacz recenzje, artykuły i zdjęcia dotyczące Siima Baari w serwisie Tripadvisor w Helsinkach, Finlandia
+title: Siima Baari (Helsinki) - All You Need to Know BEFORE You ...
+snippet: Siima Baari, Helsinki: See reviews, articles, and photos of Siima Baari, ranked No.48 on Tripadvisor among 82 attractions in Helsinki.
+title: Siima Baari (Helsinki) - 2020 All You Need to Know Before ...
+snippet: Helsinki Tourism; Helsinki Hotels; Bed and Breakfast Helsinki; Helsinki Holiday Rentals; Helsinki Holiday Packages; Flights to Helsinki; Helsinki Restaurants; Helsinki Attractions; Helsinki Travel Forum; Helsinki Photos; Helsinki Map; Helsinki Guide; All Helsinki Hotels; Helsinki Hotel Deals; Last Minute Hotels in Helsinki; By Hotel Type ...
+
+REL: 2
+POI Name: Gastrobar EMO
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, 
+Snippets:
+title: Takeaway - Ravintola Emo, Eurooppalainen ravintola ...
+snippet: Takeaway - From Friday 26 March you can order Emo’s special Online.Our chef Ilkka Lääveri has put his mad hat on and has created really interesting menus.
+title: Emo Goes Takeaway
+snippet: Emo´s crab cakes, togarashi mayonnaise &amp; pak choi salad. Brioche hot dog 1pc / 2pcs 7.5 / 14€ Braised lamb, confit skrei cod or deep fried tofu, Horseradish mayonnaise &amp; spring cabbage coleslaw. Truffle risotto 16€ Truffle risotto, Parmesan &amp; mushrooms. Green asparagus with campanelle pasta 16€ Add Culatello ham or prawns + 3€
+title: Emo, Helsinki - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Emo, Helsinki: See 342 unbiased reviews of Emo, rated 4.5 of 5 on Tripadvisor and ranked #32 of 1,690 restaurants in Helsinki.
+title: Emo, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Emo, Helsinki: Katso 343 puolueetonta arvostelua paikasta Emo, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 32 1 691 ravintolasta Helsingissä.
+title: Emo, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Emo, Helsingfors: Se 342 objektive anmeldelser av Emo, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 32 av 1 682 restauranter i Helsingfors. Fly ... Jeg besøker Helsinki regelmessig for arbeid og dette er den beste allround restauranten jeg har funnet.
+title: Restaurant Emo, Helsinki | Lunch and dinner menu
+snippet: At restaurant Emo in Helsinki we serve a la carte and menus during lunch and dinner time. The menu takes you to a journey around Europe.
+title: Ravintola Emo, Helsinki | Lounas- ja illallisajan menu
+snippet: Iltaisin tarjolla High Five 57 € ja Classic Three 46 € menut, jotka pitävät sisällään annoksia a la carte listaltamme.High Five viineineen 108 €. Meiltä löytyy aina myös vege ja vegaani vaihtoehtoja — kysy henkilökunnalta lisää.
+title: Gastrobar emo - Review of Emo, Helsinki, Finland - Tripadvisor
+snippet: Emo: Gastrobar emo - See 342 traveler reviews, 241 candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+title: Emo, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: EMO Gastrobar virket litt av et mysterium. ... En liten plass som ligger svært sentralt i Helsinki. Menyen endres hyppig, men lot til å bestå av sesongbaserte og lokale råvarer. Maten var veldig god og forberedt nøye, og hjertelige.
+title: Emo, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Tilfeldig velge en restaurant som ligger i gangavstand fra hotellet å bo og glad for at jeg valgte Gastrobar Emo. Heller dyrt men atmosfæren er koselig og avslappende. Maten er veldig forfriskende, ... Som mange restauranter i Helsinki menyen er enkel, men smart, som viser fantastiske lokale råvarer og smaker.
+
+REL: 2
+POI Name: Bombay Express
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: Bombay Express, Helsingfors - Restaurantanmeldelser ...
+snippet: Bombay Express, Helsingfors: Se 4 objektive anmeldelser av Bombay Express, vurdert til 2,5 av 5 på Tripadvisor og vurdert som nr. 1 409 av 1 689 restauranter i Helsingfors.
+title: Bombay Express, Helsinki - Restaurant Reviews - Tripadvisor
+snippet: Bombay Express, Helsinki: See 4 unbiased reviews of Bombay Express, rated 2.5 of 5 on Tripadvisor and ranked #1,414 of 1,690 restaurants in Helsinki.
+title: Bombay Express, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Bombay Express, Helsinki: Katso 4 puolueetonta arvostelua paikasta Bombay Express, joka on sijalla 2,5/5 Tripadvisorissa ja sijalla 1 415 1 691 ravintolasta Helsingissä.
+title: tasty indian food - Review of Bombay Express, Helsinki ...
+snippet: Bombay Express: tasty indian food - See 4 traveler reviews, candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+title: On tullut pahempaakin take-awayta... - Bombay Express
+snippet: Bombay Express: On tullut pahempaakin take-awayta syötyä... - See 4 traveler reviews, candid photos, and great deals for Helsinki, Finland, at Tripadvisor. Helsinki. Helsinki Tourism Helsinki Hotels Helsinki Bed and Breakfast Helsinki Vacation Rentals Helsinki Vacation Packages
+title: take-away ok - Review of Bombay Express, Helsinki, Finland ...
+snippet: Bombay Express: take-away ok - See 4 traveler reviews, candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+title: Bombay Express, Helsinki - Restaurant Bewertungen ...
+snippet: Bombay Express, Helsinki: 4 Bewertungen - bei Tripadvisor auf Platz 1.415 von 1.691 von 1.691 Helsinki Restaurants; mit 2,5/5 von Reisenden bewertet.
+title: Bombay Express, Helsinki - recenzje restauracji - Tripadvisor
+snippet: Bombay Express, Helsinki: zobacz bezstronne recenzje (4 ) na temat Bombay Express, z oceną 2,5 na 5 w serwisie Tripadvisor, na pozycji 1 414 z 1 690 restauracji w Helsinkach.
+title: Bombay Express, Helsinki - Restaurantanmeldelser - Tripadvisor
+snippet: Bombay Express, Helsinki: Se 4 objektive anmeldelser af Bombay Express, som har fået 2,5 af 5 på Tripadvisor og er placeret som nr. 1.414 af 1.690 restauranter i Helsinki.
+title: Bombay Express
+snippet: Welcome to Bombay Express. We offer wide varieties of dishes all freshly prepared using the finest of ingredients and spices. As well as your all time favourites, our chef&#39;s specials dishes will tantalise your taste buds, leaving you wanting more! So why not give us a try! Order now and receive 10% OFF.
+
+REL: 2
+POI Name: Kaffa Roastery
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Coffee Roasteries, 
+Snippets:
+title: Tilaa kahvia kestotilauksena | Kaffa Roastery
+snippet: Kaffa muuttaa kahvikulttuuria Suomessa ja kahvikauppaa maailmalla. Kaffa käy tutkimassa kahvin alkuperän paikan päällä ja paahtaa kahvisi käsin Helsingissä. Makumatkasi alkaa tästä.
+title: KAFFA - Kaffa Roastery
+snippet: Kaffa Roasteryn Helsinki School of Coffee tarjoaa kattavan valikoiman erilaisia kahvikoulutuksia, jotka soveltuvat vaikeustasoltaan aina aloittelijasta kahvialan ammattilaisille. Kouluttajina toimivat Kaffa Roasteryn omat baristat ja paahtajat, joilla on usean vuoden kokemus kahvialalta. Ovemme on avoinna kaikille kahvista kiinnostuneille.
+title: Kaffa Roastery, Helsinki - Restaurant Reviews, Photos ...
+snippet: Kaffa Roastery, Helsinki: See 48 unbiased reviews of Kaffa Roastery, rated 4.5 of 5 on Tripadvisor and ranked #207 of 1,690 restaurants in Helsinki.
+title: Kaffa Roastery - Home | Facebook
+snippet: Kaffa Roastery, Helsinki, Finland. 7,828 likes · 278 talking about this · 2,253 were here. A micro roastery pushing the boundaries of sustainable coffee. The origin and quality of the coffees are in...
+title: Kaffa Roastery, Helsinki - Nordic Coffee CultureNordic ...
+snippet: Svante Hampf and Benjamin Andberg initially planned to start up a chain of coffee shops. However, they quickly realized that what Helsinki really needed was more good, high quality coffee, not more coffee shops. In January of 2010, they moved their roastery to Helsinki and included a coffee bar. Roasting for customers in Helsinki and Finland, Kaffa have a simple philosophy: Why drink bad ...
+title: Kaffa Roastery | My Helsinki
+snippet: Kaffa Roastery is a café bar in Punavuori - a cafe, a roastery and home to the Helsinki School of Coffee. You can get there directly with tram 1 and enjoy Finland&#39;s best coffee shop of 2019 (as voted at Helsinki Coffee Festival). Watch the magic of coffee being roasted from every stage of it&#39;s green-to-brown life on we...
+title: Coffee Roastery Helsinki (@kaffaroastery) • Instagram ...
+snippet: 7,725 Followers, 939 Following, 927 Posts - See Instagram photos and videos from Coffee Roastery Helsinki (@kaffaroastery)
+title: Kaffa Roastery, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Kaffa Roastery, Helsinki: Katso 48 puolueetonta arvostelua paikasta Kaffa Roastery, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 208 1 691 ravintolasta Helsingissä.
+title: Tilaa kahvia kestotilauksena | Kaffa Roastery
+snippet: Kaffa Roastery -kahvila ja -paahtimo sijaitsevat Punavuoressa, Helsingissä. Tarjoamme laajan valikoiman erilaisia kahveja sekä parhaat mahdolliset välineet ja koulutukset niiden valmistamiseen.
+title: Kaffa Roastery - Helsinki, Finland | European Coffee Trip
+snippet: We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+
+REL: 2
+POI Name: M/Aux Kathrina Cafe
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: m/aux Kathrina - Helsinki, Uusimaa - Untappd
+snippet: Find out what&#39;s popular at m/aux Kathrina in Helsinki, Uusimaa in real-time and see activity
+title: m/aux Kathrina - Kaartinkaupunki - 5 tips
+snippet: See 9 photos and 5 tips from 93 visitors to m/aux Kathrina. &quot;Kathrina is a fully restored traditional sailing ship. ... katharina helsinki • kathrina helsinki • m/aux cathrine, halkolaituri helsinki • m/aux kathrina helsinki • maux cathrine halkolaituri helsinki •
+title: Photos at m/aux Kathrina - Kaartinkaupunki - 5 tips
+snippet: See all 9 photos taken at m/aux Kathrina by 93 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: m/aux Kathrina - HELSINGIN PURJELAIVASATAMA RY
+snippet: m/aux Kathrina Kuunari Kathrina on rakennettu vuosina 1947-1949 Sarvisalossa, Pernajan kunnassa. Alkuaikoina Kathrina purjehti Itämerta Suomen, Ruotsin ja Tanskan välillä kuljettaen mm. kahvia, polkupyöriä, terästä, hiiltä, viljaa, puutavaraa ja kalkkia.
+title: Laiva.fi - Suomen historialliset alukset
+snippet: m/aux KATHRINA, 1949 Kolmimastoinen kaljaasi, ... 1949 KATHRINA, Lars Frondén, Helsinki. 1950 Arne ja Mårten Lindberg sekä Karin Henriksson, Pernaja (Loviisa 469 / OFPB). 1956 Arne, Henrik ja Mårten Lindberg, Pernaja. 1957 Henrik, Mårten ja Edit Lindberg, Porvoon mlk (Porvoo 486).
+title: M/Aux Kathrina | Learning to See in Helsinki
+snippet: What the Helsinki App; M/Aux Kathrina. Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on Tumblr (Opens in new window) Click to share on Pinterest (Opens in new window) Like this:
+title: Puosun Kellari, m/aux Kathrina | My Helsinki
+snippet: Talvisin purjelaivaravintola Puosun kellari sijaitsee Kuunari Kathrinan tunnelmallisessa ruumassa Helsingin kauppatorilla, Kolera-altaalla. Monipuolinen menu koostuu perinteisistä ravintolaherkuista, jotka on valmistettu aidon merikarhun otteella sataprosenttisesti kotimaisista raaka-aineista. Joka päivä saatavilla on ...
+title: M/Aux Kathrina - Tiketti
+snippet: M/Aux Kathrina - Tiketti
+title: Detail of sailing ship &quot;Kathrina&quot;, built 1947 to 1949 ...
+snippet: Download this stock image: Detail of sailing ship Kathrina, built 1947 to 1949, berthed at Helsinki North Harbour, Helsinki, FInland - B3W0GY from Alamy&#39;s library of millions of high resolution stock photos, illustrations and vectors.
+
+REL: 2
+POI Name: Brooklyn Cafe
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Bagels, Coffee & Tea, 
+Snippets:
+title: Brooklyn in Helsinki.
+snippet: A Tiny Piece of Brooklyn in Helsinki. BROOKLYN CAFE Punavuori. Visit our Cafe for delicious bagel sandwiches, smoothies, dark roasted coffee &amp; espresso, waffles, salads &amp; more or peruse our boutique &quot;library&quot; and buy our second-hand classic books.
+title: Cafe Menu — Brooklyn in Helsinki.
+snippet: Brooklyn Cafe. Fredrikinkatu 19 00120 Helsinki and Otaniementie 14 02150 Espoo (at Aalto Unviersity in Otaniemi). Every day we bake fresh from our original recipes.
+title: Brooklyn Cafe, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Brooklyn Cafe, Helsinki: Katso 141 puolueetonta arvostelua paikasta Brooklyn Cafe, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 108 1 691 ravintolasta Helsingissä.
+title: Brooklyn Cafe, Helsinki - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at Brooklyn Cafe, Helsinki with Tripadvisor: See 141 unbiased reviews of Brooklyn Cafe, ranked #108 on Tripadvisor among 1,691 restaurants in Helsinki.
+title: Brooklyn Cafe - Home | Facebook
+snippet: Brooklyn Cafe, Helsinki. 8.4K likes. A tiny piece of Brooklyn right in your own backyard! Get a great cup of coffee, grab a bite to eat, and chat up the Todd sisters, Sharron and Brenda.
+title: How To Order — Brooklyn in Helsinki.
+snippet: Brooklyn Baking Co. (formerly Brklyn Bakery) has made thousands of cupcakes since 2012 and hundreds of cakes for parties all over Helsinki. Let us be a part of your special day by providing the most delicious desserts, decorated to fit your theme.
+title: Brooklyn Cafe, Helsingfors - Restaurantanmeldelser ...
+snippet: Brooklyn Cafe, Helsingfors: Se 141 objektive anmeldelser av Brooklyn Cafe, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 108 av 1 691 restauranter i Helsingfors.
+title: Contact Us/Visit — Brooklyn in Helsinki.
+snippet: Contact Us/Visit Brooklyn in Helsinki. Home Our History Our Cafe. Cafe Menu Used Books Library ... Brooklyn Cafe Aalto will be CLOSED starting Nov. 25th. Back to Top. Panda &amp; Rocket AY, Y-Tunnus 2442506-2, 00120, Helsinki brooklyncafe.helsinki@gmail.com.
+title: Brooklyn Cafe - Home - Helsinki - Menu, Prices, Restaurant ...
+snippet: Brooklyn Cafe, Helsinki. 7.8K likes. A tiny piece of Brooklyn right in your own backyard! Get a great cup of coffee, grab a bite to eat, and chat up the Todd sisters, Sharron and Brenda.
+title: Cakes — Brooklyn in Helsinki.
+snippet: Choose your cake flavor from one of the following categories: Classic, Brooklyn Signatures or Specialties.Most flavors can be made Gluten-Free, Lactose Free or Vegan. If you would like to view the Cake Flavors as a PDF document, please click here.. CLASSIC CAKES
+
+REL: 2
+POI Name: Dennis
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+title: Etusivu - Dennis
+snippet: Ristorante Dennis Dennis Napoletana Pizza Dennis tuotteet Oletko jo kanta-asiakas? Dennis-sovelluksella pidät tilaukset, tarjoukset ja lahjakortit helposti aina mukana.
+title: Dennis Helsinki – Italialainen Ravintola
+snippet: Dennis italialainen ravintola Helsingin ytimessä. Tervetuloa Bulevardiin nauttimaanherkullisia pastoja ja pizzoja
+title: Dennis Napoletana Kamppi - Dennis
+snippet: Nduja(tulista salamilevitettä Calabriasta), mausteista salamia, tuoretta oreganoa,ja marinoitua punasipulia
+title: Ristorante Dennis Kamppi, Helsinki - Restaurant Reviews ...
+snippet: Ristorante Dennis Kamppi, Helsinki: See 174 unbiased reviews of Ristorante Dennis Kamppi, rated 3.5 of 5 on Tripadvisor and ranked #423 of 1,691 restaurants in Helsinki.
+title: Dinos - Helsinki (Clip Officiel) - YouTube
+snippet: Dinos - &quot;Helsinki&quot; (clip officiel) Extrait de &quot;Imany deluxe&quot;, disponible partout: http://smarturl.it/ImanyDELUXE Réédition &quot;Imany deluxe&quot; avec 7 titres inédits le ...
+title: Ristorante Dennis Bulevardi, Helsinki - Kampinmalmi ...
+snippet: Order food online at Ristorante Dennis Bulevardi, Helsinki with Tripadvisor: See 196 unbiased reviews of Ristorante Dennis Bulevardi, ranked #601 on Tripadvisor among 1,691 restaurants in Helsinki.
+title: Ristorante Dennis Bulevardi, Helsingfors ...
+snippet: Ristorante Dennis Bulevardi, Helsingfors: Se 196 objektive anmeldelser av Ristorante Dennis Bulevardi, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 602 av 1 689 restauranter i Helsingfors. Fly Restauranter ... Besøker denne restauranten hver gang jeg er i Helsinki. Veldig god, enkel italiensk mat.
+title: Pizzeria Helsinki – Pizzeria Turku - Dennis
+snippet: Dennis on toiminut tuttuna kortteliravintolana jo 45 vuotta. Nytkin tässä erikoistilanteessa Dennis on auki ja palvelemme asiakkaitamme normaalisti. Vallitseva tilanne otetaan vakavasti huomioon ja olemme tehostaneet käsihygienaa vielä entisestään henkilökuntamme puolesta.
+title: Ristorante Dennis Kamppi, Helsingfors ...
+snippet: Ristorante Dennis Kamppi, Helsingfors: Se 174 objektive anmeldelser av Ristorante Dennis Kamppi, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 423 av 1 690 restauranter i Helsingfors. Fly Restauranter ... Etter katastrofale måltider i helsinki kom vi over denne restauranten på vei til sentrum.
+title: Ristorante Dennis Kamppi, Helsingin ravintola-arvostelut ...
+snippet: Ristorante Dennis Kamppi, Helsinki: Katso 174 puolueetonta arvostelua paikasta Ristorante Dennis Kamppi, joka on sijalla 3,5/5 Tripadvisorissa ja sijalla 423 1 691 ravintolasta Helsingissä.
+
+REL: 1
+POI Name: Green Hippo Cafe
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Vegetarian, 
+Snippets:
+title: Aamupala, lounas &amp; illallinen | Green Hippo Cafe| Helsinki
+snippet: Green Hippo Café - Aamupala, lounas, illallinen ja brunssi Helsingin Punavuoressa. Tarjoamme laadukasta, ja kaunista ruokaa, jossa on hyvä hinta-laatu-suhde. Tarjoamme myös aamupalaa ja lounasta catering-palveluna.
+title: Green Hippo Café - Home | Facebook
+snippet: Cafe in Helsinki. 4.1. ... Hilbert and Barry can&#39;t wait to keep improving and see what 2020 has in store for the green hippo heard! ? ? +4. Green Hippo Café added an event. February 10 at 9:39 AM · FRI, MAR 6 AT 6:00 PM UTC+02. Tacos and Drink Night at Green Hippo Café 6.3! Green Hippo Café · Helsinki, Finland.
+title: Green Hippo Cafe, Helsinki - Menu, Prices &amp; Restaurant ...
+snippet: Green Hippo Cafe, Helsinki: See 142 unbiased reviews of Green Hippo Cafe, rated 4.5 of 5 on Tripadvisor and ranked #46 of 1,691 restaurants in Helsinki.
+title: MENU | Green Hippo Café
+snippet: Beyond Meat ™, Basilika-aioli, Shriracha Majoneesi, Rucola, Cheddar, Paahdettu Tomaatti, Sipuli
+title: Green Hippo Café, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Green Hippo Café, Helsinki: Katso 142 puolueetonta arvostelua paikasta Green Hippo Café, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 46 1 691 ravintolasta Helsingissä.
+title: Green Hippo Café, Helsingfors - Restaurantanmeldelser ...
+snippet: Green Hippo Café, Helsingfors: Se 142 objektive anmeldelser av Green Hippo Café, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 45 av 1 689 restauranter i Helsingfors.
+title: GREEN HIPPO CAFE, Helsinki - Updated 2020 Restaurant ...
+snippet: Green Hippo Cafe, Helsinki: See 142 unbiased reviews of Green Hippo Cafe, rated 4.5 of 5 on Tripadvisor and ranked #45 of 1,689 restaurants in Helsinki.
+title: Green Hippo Café - Home | Facebook
+snippet: Green Hippo Café. 2,903 likes · 57 talking about this · 881 were here. We serve healthy, price worthy and beautiful food and alcohol and are very vegan friendly as well. Big terrace outside, come say hi!
+title: Green Hippo Café, Helsinki - Menü, Preise &amp; Restaurant ...
+snippet: Green Hippo Café, Helsinki: 142 Bewertungen ... Ich besuchte das Green Hippo Caf mit einem Freund und das erste, was uns durch den Kopf ging, war, dass der Ort extrem stereotyp hipster aussah. ... Brooklyn Cafe. 141 Bewertungen . 0,09 km Entfernung . Armenian Grill House. 35 Bewertungen .
+title: nice cafe - Review of Green Hippo Cafe, Helsinki, Finland ...
+snippet: Green Hippo Cafe: nice cafe - See 142 traveler reviews, 196 candid photos, and great deals for Helsinki, Finland, at Tripadvisor.
+
+REL: 1
+POI Name: Agata Bakery
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Coffee & Tea, Gluten-Free, 
+Snippets:
+title: Agata Bakery Oy - Local Business - Helsinki | Facebook ...
+snippet: Agata Bakery Oy. 3,411 likes · 147 talking about this. Gluteenittomia tuotteita ilman vehnätärkkelystä tai muuta tarpeetonta. Gluten free products without wheatstarch or othe unnecessery...
+title: fi.yelp.fi
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Agata Bakery Oy, Annankatu 22, Helsinki (2020)
+snippet: Tiedä ensimmäisenä ja anna meille oikeus lähettää sinulle sähköpostitse uutisia ja promootioita Agata Bakery Oy :ltä. Sähköpostiosoitettasi ei käytetä muihin tarkoituksiin, ja voit perua milloin tahansa.
+title: AgataBakery Oy | Yrityksen tiedot - Taloussanomat
+snippet: Yrityksen AgataBakery Oy liikevaihto oli 3000 euroa 2018. Liikevaihto laski 91,2 prosenttia. Tilikauden tulos oli -7000 euroa ja liikevoittoprosentti oli -33,3.
+title: THE 10 BEST Bakeries in Helsinki - Tripadvisor
+snippet: Bakeries in Helsinki, Uusimaa: Find Tripadvisor traveler reviews of Helsinki Bakeries and search by price, location, and more. Helsinki. Helsinki Tourism Helsinki Hotels Helsinki Bed and Breakfast Helsinki Vacation Rentals ... Helsinki Bakery. 1 review. Bakeries, French $
+title: Gluten Free | Agata Bakery | Suomi
+snippet: Agata Bakery | Gluten free and wheat free recipes and ideas for wonderful gluten free food that is for everybody. ©2019 by Agata Bakery. Proudly created with Wix.com. About. Blog. AGATA BAKERY. Hyvää ja gluteenitonta :) ... Eira/ Helsinki ...
+title: Agata Bakery&amp;Cafe - Helsinki, Finland
+snippet: AgataBakery on leipomo kahvila joka tulee tarjoamaan mm. huippukahvia ja teetä sekä gluteenittomia leivonnaisia, makeisia, lounasta ja muita herkkuja. Kaikki tu...
+title: Agata Bakery Oy - Local Service - Helsinki | Facebook - 55 ...
+snippet: Agata Bakery Oy - - Rated 4.8 based on 55 Reviews &quot;Best filter coffee in Helsinki. Enough said.&quot;
+title: AgataBakery Oy - taloustiedot, Y-tunnus ja ... - Finder.fi
+snippet: AgataBakery Oy on perustettu vuonna 2015. Se on osakeyhtiö, jonka kotipaikka on Helsinki, ja pääasiallinen toimiala Leipomo. Yhtiön toimitusjohtaja on Tiina Kirsi Hannele Isohanni. Yhtiön AgataBakery Oy liikevaihto oli 3 tuhatta ja tilikauden tulos -7 tuhatta. Liikevaihto laski 91,2%. Liikevoittoprosentti oli -33,3%.
+title: Agata Bakery Oy, Annankatu 22, Helsinki (2020)
+snippet: 27/02/2020 . Jihuuuuuuuuuuu!????? Here it is!????? Soon in shops ? Agata Bakery’s first gluten free flour mix , the ”A1”.
+
+REL: 1
+POI Name: Etelä-Haaga
+POI City: Helsinki
+POI Country: FI
+POI Main category: Local Flavor
+POI Sub category: Local Flavor, 
+Snippets:
+title: Etelä-Haaga - Wikipedia
+snippet: Position of Etelä-Haaga within Helsinki. Country ... Etelä-Haaga , Södra Haga is a neighborhood of Helsinki, Finland Coordinates. This Southern Finland location article is a stub. You can help Wikipedia by expanding it ...
+title: Myytävät asunnot Etelä-Haaga, Helsinki: 19 kpl - Etuovi.com
+snippet: Etuovi.com:issa on juuri nyt 19 kohdetta tuoteryhmässä Myytävät asunnot alueella Etelä-Haaga, Helsinki. Tee helppo haku ja löydä uusi kotisi jo tänään!
+title: Etelä-Haaga – Wikipedia
+snippet: Etelä-Haaga (ruots. Södra Haga) on Haagan kaupunginosaan ja peruspiiriin kuuluva osa-alue Länsi-Helsingissä.. Etelä-Haaga oli ennen Huopalahden kunnan keskus. Suuri osa nykyisestä asemakaavasta on Haagan huvilakaupungin ajan perua ja perustuu alkujaan Eliel Saarisen vuonna 1915 laatimaan Munkkiniemi–Haaga-suunnitelmaan, josta kuitenkin Haagan alueella toteutettiin vain pieni osa.
+title: Hyvän olon hotelli, Helsinki | Hotel Haaga Central Park
+snippet: Hyvän olon hotelli Helsingin keskuspuiston laidalla. Myös ravintola Central Park ja Verso opetushoitola suljetaan toistaiseksi.
+title: Haaga-Helia University of Applied Sciences
+snippet: Haaga-Helia opens doors to future careers. Haaga-Helia is a strongly business orientated university of applied sciences in Finland. Through education, research and development, we prepare professionals for business and services. We focus on co-operation, entrepreneurship, innovation and internationality.
+title: Etelä-haaga kartta | Fonectan karttapalvelu
+snippet: Klikkaa yllä olevasta linkistä suoraan &#39;Etelä-haaga&#39; karttahakuun.
+title: K-Market Etelä-Haaga - Grocery Store - Helsinki - 1,842 ...
+snippet: K-Market Etelä-Haaga. 4.2K likes. K-Market Etelä-Haaga - Myös kotiinkuljetukset. Meiltä löydät :Matkahuollon sekä UPSn pakettipalvelut, HSL matkakorttien lataus palvelun. Ja rahannostomahdollisuus...
+title: Myytävät Asunnot Etelä-Haaga, Helsinki - Oikotie Asunnot
+snippet: Myytävät asunnot Etelä-Haaga, Helsinki. Haagan kylämäinen ja vehreä osa, Etelä-Haaga on aluetta, jonka rakennukset ovat pääosin pienkerrostaloja tai rivitaloja. Viehättävästi suunniteltu asemakaava ja pienimuotoiset rakennukset tuovat Etelä-Haagaan aivan omaa tunnelmaansa.
+title: Etelä-Haaga, Helsinki - Kiinteistömaailma
+snippet: Etelä-Haaga on Haagan kaupunginosaan kuuluva osa-alue Länsi-Helsingissä. Alue on hyvässä, rauhallisessa maineessa ja sopii monenlaisille ihmisille. Hyvät liikenneyhteydet nostavat alueen arvoa erityisesti nuorten silmissä. Huopalahden asemalta junalla pääsee keskustaan nopeimmillaan alle kymmenessä minuutissa.
+title: Haaga | Uutta Helsinkiä
+snippet: Etelä-Haaga: Huopalahden aseman lähelle, Orapihlajatielle ja Paatsamantielle on suunniteltu historiallista miljöötä täydentävää asuntorakentamista 600 uudelle asukkaalle. Steniuksentielle on tulossa asuntoja 180 asukkaalle, kun turvakotirakennus puretaan ja tilalle rakennetaan kaksi uutta kerrostaloa.
+
+REL: 1
+POI Name: Sandro
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Moroccan, Middle Eastern, 
+Snippets:
+title: Welcome to Sandro! - Sandro
+snippet: We at Sandro will take our guests on a surprise trip to somewhere exotic on brunch, dinner, and lunchtime. Our food is built upon Middle Eastern and North African cuisine and our beating heart the multi-cultural Sandro Family.
+title: SANDRO CITYKÄYTÄVÄ - Sandro
+snippet: Sandro is unfortunately closed until further notice due to the current situation. We want our customers and staff to be safe during this time. We hope we can welcome you soon again! Meanwhile, our sales office is happy to help you plan your future parties and events. Please contact our sales office +358 9 6128 6000 / myynti@noho.fi Also, gift cards …
+title: SANDRO KALLIO - Sandro
+snippet: Sandro is unfortunately closed until further notice due to the current situation. We want our customers and staff to be safe during this time. We hope we can welcome you soon again! Meanwhile, our sales office is happy to help you plan your future parties and events. Please contact our sales office +358 9 6128 6000 / myynti@noho.fi Also, gift cards …
+title: Sandro Kallio, Helsingfors - Restaurantanmeldelser ...
+snippet: Sandro Kallio, Helsingfors: Se 438 objektive anmeldelser av Sandro Kallio, ... Helsinki City Theatre. 21 anmeldelser . 0,32 km unna . Se de beste hotellene i nærheten Se de beste restaurantene i nærheten Se de beste attraksjonene i nærheten. Se alt. Spørsmål og svar. Vis alle 4 spørsmål.
+title: Sandro Kallio, Helsinki - Menu, Prices &amp; Restaurant ...
+snippet: Sandro Kallio, Helsinki: See 438 unbiased reviews of Sandro Kallio, rated 4 of 5 on Tripadvisor and ranked #84 of 1,690 restaurants in Helsinki.
+title: Sandro Kortteli, Helsinki - Menu, Prices &amp; Restaurant ...
+snippet: Sandro Kortteli, Helsinki: See 117 unbiased reviews of Sandro Kortteli, rated 3 of 5 on Tripadvisor and ranked #795 of 1,691 restaurants in Helsinki.
+title: Sandro | Kampin Kauppakeskus
+snippet: Sandro tarjoaa hyvän mielen ruokaa luonnollisia, kauden raaka-aineita käyttäen. Vegeannoksemme ovat listamme pidetyimpien joukossa, mutta meiltä löytyy myös runsaasti kala- ja luomulihavaihtoehtoja kasvisten kaveriksi. Kokemus Sandrossa on kuitenkin paljon muutakin kuin vain ruokaa.
+title: À LA CARTE - Sandro
+snippet: Experience Sandro during dinnertime, Middle Eastern and North African flavors served with love! MENU DIPS &amp; FLATBREAD OH MY MEZZE JALLA JALLA FEAST SANDRO LOVES KIDS MAIN COURSES -50% SWEETS &amp; TREATS V = vegaaninen / veganG = gluteeniton / gluten-free L = laktoositon / lactose-free M = maidoton / no dairy.
+title: www.royalravintolat.com
+snippet: www.royalravintolat.com
+title: Sandro Kortteli, Helsingfors - Restaurantanmeldelser ...
+snippet: Vi besøkte på Sandro med en større gruppe og hadde en meny bestilt på forhånd. Restauranten var pent innredet og hadde en fin utsikt over hustakene i Helsinki. Maten var veldig velsmakende og delene var store. Men tjenesten må forbedres mye.
+
+REL: 1
+POI Name: Kotipizza
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Kotipizza
+snippet: Tiliäsi ei ole vielä aktivoitu. Ota tili käyttöön avaamalla lähettämämme sähköposti ja klikkaamalla viestissä olevaa linkkiä Etkö vastaanottanut vahvistussähköpostia, lähetä uudelleen!
+title: Kotipizza Group | Home
+snippet: Kotipizza is the largest pizza chain in the Nordics and one of the most well-known restaurant brands in Finland. The supply and logistics company Helsinki Foodstock delivers responsible sourcing services for a number of food chains, including Kotipizza, and enables them to expand nationally.
+title: Kotipizza - Kotipizza Helsinki - Oulunkylä
+snippet: Kotipizza - Kotipizza Helsinki - Oulunkylä. Tiliäsi ei ole vielä aktivoitu. Ota tili käyttöön avaamalla lähettämämme sähköposti ja klikkaamalla viestissä olevaa linkkiä
+title: Kotipizza, Helsinki - Mariankatu 10 - Menu, Prices ...
+snippet: Kotipizza, Helsinki: See 21 unbiased reviews of Kotipizza, rated 4 of 5 on Tripadvisor and ranked #781 of 1,689 restaurants in Helsinki.
+title: Kotipizza Vuosaari - Home - Helsinki - Menu, Prices ...
+snippet: Kotipizza Vuosaari - Vuotie 45, 00980 Helsinki - Rated 4.6 based on 6 Reviews &quot;On ainakin naisten mieleen. Paras pizza pitkästä aikaan. Pollo Americano...
+title: Kotipizza Ruoholahti, Helsinki - Menu, Prices &amp; Restaurant ...
+snippet: Kotipizza Ruoholahti, Helsinki: See 38 unbiased reviews of Kotipizza Ruoholahti, rated 4 of 5 on Tripadvisor and ranked #482 of 1,689 restaurants in Helsinki.
+title: Kotipizza - Wikipedia
+snippet: Kotipizza Oyj is the largest pizza restaurant chain in the Nordic countries. Koti is Finnish and translates to &quot;home&quot;. Kotipizza is part of Kotipizza Group, and it operates a pizza franchise in Finland.In 2017, Kotipizza restaurants were run by almost 300 franchisees, who in total had approximately 1,700 employees.
+title: Kotipizza Ruoholahti, Helsingfors - Restaurantanmeldelser ...
+snippet: Et Helsinki-besøk uten Kotipizza er ikke et besøk. Kotipizza er &quot;ylin laatikko&quot; eller topp skuffen pizza felles erfaring for meg. Jeg kan få glutenfri eller fiberskorpen og ikke noe problem å legge på en håndfull hvitløk eller få noen interessante påfyll.
+title: Kotipizza - Menu
+snippet: Tiliäsi ei ole vielä aktivoitu. Ota tili käyttöön avaamalla lähettämämme sähköposti ja klikkaamalla viestissä olevaa linkkiä Etkö vastaanottanut vahvistussähköpostia, lähetä uudelleen!
+title: Kotipizza, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Kotipizza, Helsingfors: Se 21 objektive anmeldelser av Kotipizza, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 678 av 1 687 restauranter i Helsingfors.
+
+REL: 1
+POI Name: SIS. Deli & Cafe
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Juice Bars & Smoothies, Breakfast & Brunch, 
+Snippets:
+title: HYVÄÄ - TERVEELLISTÄ - HELPOSTI - SIS. Deli+Café
+snippet: SIS. Deli+Café tarjoaa hyvää energiaa koko päiväksi. Kaksi kahvilaa Helsingissä, sekä verkkokauppa kokoustarjoilujen tilaamista varten. Suomalaista hyvää, terveellistä, helposti - vuodesta 2008.
+title: Sis. Deli + Cafe, Helsinki - Kalevankatu 4 - Menu, Prices ...
+snippet: Sis. Deli + Cafe, Helsinki: See 73 unbiased reviews of Sis. Deli + Cafe, rated 4.5 of 5 on Tripadvisor and ranked #195 of 1,690 restaurants in Helsinki.
+title: Sis. Deli + Cafe, Helsingfors - Restaurantanmeldelser ...
+snippet: Sis. Deli + Cafe, Helsingfors: Se 73 objektive anmeldelser av Sis. Deli + Cafe, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 195 av 1 691 restauranter i Helsingfors.
+title: Sis. Deli + Cafe, Helsingin ravintola-arvostelut - Tripadvisor
+snippet: Sis. Deli + Cafe, Helsinki: Katso 73 puolueetonta arvostelua paikasta Sis. Deli + Cafe, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 195 1 691 ravintolasta Helsingissä.
+title: SIS. Deli + Café - Home | Facebook
+snippet: SIS. Deli + Café, Helsinki. 4,969 likes · 3 talking about this · 1,164 were here. HYVÄÄ - TERVEELLISTÄ - HELPOSTI
+title: SIS. Deli+Café Verkkokauppa
+snippet: Kokoustarjoiluihin hyvää, tuoretta ja terveellistä helposti netistä. Palaveritarjoilut Helsingin ja pääkaupunkiseudun alueelle SIS. Deli + Cafe verkkokaupasta.
+title: YHTEYSTIEDOT - SIS. Deli+Café
+snippet: Korkeavuorenkatu 6 00150 Helsinki Puh 010 422 9302 korkkari@sisdeli.fi. Kartta. Avoinna: ma-pe 07-18 la 09-15 su suljettu. Aamupuuro lisukkeilla: ma-pe 07-11.30
+title: SIS. DELI+CAFE, Helsinki - Restaurant Reviews, Photos ...
+snippet: SIS. Deli+Cafe, Helsinki: See 30 unbiased reviews of SIS. Deli+Cafe, rated 4 of 5 on Tripadvisor and ranked #601 of 1,687 restaurants in Helsinki.
+title: Sis. Deli + Cafe (ヘルシンキ) の口コミ73件 - トリップアドバイザー
+snippet: Sis. Deli + Cafe(ヘルシンキ)に行くならトリップアドバイザーで口コミ、地図や写真を事前にチェック！Sis. Deli + Cafeはヘルシンキで195位(1,691件中)、4.5点の評価を受けています。
+title: SIS. Deli+Café Oy | Yrityksen tiedot - Taloussanomat
+snippet: Yritys: SIS. Deli+Café Oy, Helsinki - Katso yhteystiedot, taloustiedot sekä uutiset maksutta Taloussanomien yritystietopalvelusta.
+
+REL: 1
+POI Name: New Bamboo Center
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Malaysian, 
+Snippets:
+title: newbamboocenter
+snippet: New Bamboo Center on vuonna 1997 perustettu kiinalainen ravintola. Kiinalaisten ruokien lisäksi ravintolassamme tarjoillaan malesialaisia curryruokia. Pyrimme käyttämään tuoreita raaka-aineita, muutamaa Suomesta vaikeasti saatavissa olevaa erikoisuutta lukuunottamatta.
+title: Yhteystiedot | newbamboocenter
+snippet: New Bamboo Center. Annankatu 29 00100 Helsinki puhelin: 0504129073 sähköposti: newbamboocenter[at]gmail.com Olemme avoinna: su-ma suljettu. ti 11-20. ke 11-20
+title: New Bamboo Center, Helsinki - Restaurant Reviews, Photos ...
+snippet: Whilst visiting Helsinki for a conference, I ate at the New Bamboo Center with two colleagues. The food was tasty and the staff were friendly and provided excellent service. Prices were very reasonable and we had the option to take away left over food.
+title: New Bamboo Center, Helsingin ravintola-arvostelut ...
+snippet: New Bamboo Center, Helsinki: Katso 192 puolueetonta arvostelua paikasta New Bamboo Center, joka on sijalla 4/5 Tripadvisorissa ja sijalla 68 1 691 ravintolasta Helsingissä.
+title: New Bamboo Center - Kamppi - Helsinki, Finland
+snippet: This is not only my favorite restaurant in Helsinki, but it&#39;s also probably the best Chinese food in the world. Granted, I&#39;ve never been to China, but I have eaten at plenty of Chinese restaurants in other countries, and none, not even the ones in Chinatown, NYC, can match the deliciousness of my New Bamboo Center.
+title: New Bamboo Center - Home - Helsinki - Menu, Prices ...
+snippet: New Bamboo Center - Annankatu 29, 00100 Helsinki - Rated 4.8 based on 162 Reviews &quot;This restaurant enjoys something akin a cult following among vegans...
+title: New Bamboo Center, Helsinki - Kampinmalmi - Restaurant ...
+snippet: New Bamboo Center, Helsinki: See 192 unbiased reviews of New Bamboo Center, rated 4 of 5 on Tripadvisor and ranked #68 of 1,690 restaurants in Helsinki.
+title: New Bamboo Center Helsinki | Spotted by Locals
+snippet: Already when you enter the restaurant, it feels like you’re somewhere else. New Bamboo Center is always completely full of customers and the staff quickly organizes a place for you, somehow, somewhere. New Bamboo Center is always filled with customers chatting and busy staff running around in between the crowded tables.
+title: New Bamboo Center, Helsinki - Kampinmalmi - Restaurant ...
+snippet: Während eines Konferenzbesuchs in Helsinki habe ich mit zwei Kollegen im New Bamboo Center gegessen. Das Essen war lecker und das Personal war freundlich und bot einen exzellenten Service. Die Preise waren sehr vernünftig und wir hatten die Möglichkeit, Essensreste mitzunehmen.
+title: NEW BAMBOO CENTER, Helsinki - Kampinmalmi - Updated 2020 ...
+snippet: Whilst visiting Helsinki for a conference, I ate at the New Bamboo Center with two colleagues. The food was tasty and the staff were friendly and provided excellent service. Prices were very reasonable and we had the option to take away left over food.
+
+REL: 1
+POI Name: Cheng Du
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: Chengdu Ravintola - Chengdu Restaurant
+snippet: 鸳鸯火锅 (start from 2ppl) €25.9/person 豆腐鱼火锅 €45.0. 野生菌鸡火锅 €39.9
+title: Chengdu Ravintola, Helsingfors - Restaurantanmeldelser ...
+snippet: Chengdu Ravintola, Helsingfors: Se 35 objektive anmeldelser av Chengdu Ravintola, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 688 av 1 687 restauranter i Helsingfors.
+title: Chengdu Ravintola, Helsinki - Restaurant Reviews, Photos ...
+snippet: Chengdu Ravintola, Helsinki: See 35 unbiased reviews of Chengdu Ravintola, rated 3.5 of 5 on Tripadvisor and ranked #688 of 1,682 restaurants in Helsinki.
+title: - Cheap flights from Chengdu (CTU) to Helsinki (HEL) (2020 ...
+snippet: Compare &amp; reserve one-way or return flights from Chengdu to Helsinki from only to get the best flight deals and promotions for your CTU to HEL trip!
+title: Cheap Flights from Chengdu to Helsinki Vantaa (CTU - HEL ...
+snippet: Compare flights from Chengdu to Helsinki and find cheap tickets with Skyscanner. Skyscanner is a fast and simple travel search engine that compares hundreds of flights from all major airlines and travel agents, finding you the best deal on cheap plane tickets to Helsinki from Chengdu.
+title: Chengdu Ravintola, Helsingin ravintola-arvostelut ...
+snippet: Chengdu Ravintola, Helsinki: Katso 35 puolueetonta arvostelua paikasta Chengdu Ravintola, joka on sijalla 3,5/5 Tripadvisorissa ja sijalla 663 1 690 ravintolasta Helsingissä.
+title: BILLIGE FLYBILLETTER fra Helsingfors til Chengdu ...
+snippet: Bestill billige flyreiser fra Helsingfors til Chengdu: Søk og sammenlign flybillettpriser på Tripadvisor, for å finne de beste flyreisene for turen din til Chengdu. Velg det beste flyselskapet for deg ved å lese anmeldelser og se på hundrevis av billettpriser for flyreiser til og fra reisemålet.
+title: Halvat lennot Helsinki Chengdu alk. 343 € | momondo
+snippet: Etsi ja vertaa Helsinki Chengdu lennot 1000+ lentoyhtiön ja matkasivuston tarjonnasta ja löydä halvimmat lentoliput Helsinki Chengdu -reitille momondosta!
+title: Fly Helsinki - Chengdu | HEL - CTU | Expedia.no
+snippet: Når du ser etter fly fra Helsinki (HEL) til Chengdu (CTU), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Helsinki til Chengdu.
+title: Flights from Helsinki to Chengdu (HEL-CTU) | Finnair
+snippet: Find Finnair flights from Helsinki to Chengdu. Fly from Helsinki to Chengdu with Finnair and enjoy our modern fleet and high quality service
+
+REL: 1
+POI Name: PASSIO Keittiö ja Baari
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Modern European, Scandinavian, 
+Snippets:
+title: | PASSIO Keittiö &amp; Baari
+snippet: Passio eli Passio Keittiö ja Baari on perustettu 2014 kahden alan konkarin, Jesse Vottosen ja Jussi Hukkasen toimesta. Toiminta-ajatus ei ole muuttunut vuosien aikana juurikaan. Tehdään laadukasta, konstailematonta ja hyvää ruokaa – tuotetaan omat viinit, tarjotaan asiakkaillemme osaamistamme.
+title: Passio Keittiö Ja Baari, Helsingin ravintola-arvostelut ...
+snippet: Passio Keittiö Ja Baari, Helsinki: Katso 863 puolueetonta arvostelua paikasta Passio Keittiö Ja Baari, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 15 1 691 ravintolasta Helsingissä.
+title: PASSIO Keittiö ja Baari - Home - Helsinki - Menu, Prices ...
+snippet: PASSIO Keittiö ja Baari - Kalevankatu 13, 00100 Helsinki - Rated 4.9 based on 202 Reviews &quot;Original and nice atmosphere with well-chosen lounge music by...
+title: PASSIO Keittiö ja Baari - Home - Helsinki - Menu, Prices ...
+snippet: PASSIO Keittiö ja Baari - Kalevankatu 13, 00100 Helsinki - Rated 4.9 based on 201 Reviews &quot;Delicious food and friendly service. For me, the portion sizes...
+title: PASSIO Keittiö ja Baari - Home - Helsinki - Menu, Prices ...
+snippet: PASSIO Keittiö ja Baari - Kalevankatu 13, 00100 Helsinki - Rated 4.9 based on 200 Reviews &quot;Delicious food and friendly service. For me, the portion sizes...
+title: PASSIO Keittiö ja Baari - Home - Helsinki - Menu, Prices ...
+snippet: PASSIO Keittiö ja Baari - Kalevankatu 13, 00100 Helsinki - Rated 4.9 based on 202 Reviews &quot;Original and nice atmosphere with well-chosen lounge music by...
+title: Passio restaurant, Helsinki - Kampinmalmi - Menu, Prices ...
+snippet: Passio restaurant, Helsinki: See 863 unbiased reviews of Passio restaurant, rated 4.5 of 5 on Tripadvisor and ranked #15 of 1,691 restaurants in Helsinki. Flights Vacation Rentals ... Passio is all about the ardour and pleasure through food, wine and beers.
+title: Passio Keittiö ja Baari, Helsinki: Reviews | Eat.fi
+snippet: Passio is ardour and pleasure with food, beer and wines - and the hearty alliance of food and nectar which bounds them together. We offer Finnish small producer products seasoned with spices around the world without unnecessary trickeries.
+title: Passio Keittiö Ja Baari - Picture of Passio restaurant ...
+snippet: Passio restaurant, Helsinki Picture: Passio Keittiö Ja Baari - Check out Tripadvisor members&#39; 50,050 candid photos and videos of Passio restaurant
+title: PASSIO Keittiö ja Baari - Etusivu - Helsinki - Ruokalista ...
+snippet: PASSIO Keittiö ja Baari – Kalevankatu 13, 00100 Helsinki – arvio 4.9, perusteena 202 arvostelua &quot;5 ruokalajin menu oli ihan täydellinen ja hyvin tuli...
+
+REL: 1
+POI Name: Chef & Sommelier
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Scandinavian, 
+Snippets:
+title: Sasu-sushi pop up - Ora Restaurant
+snippet: Tällä hetkellä valmistamme take-away susheja maanantaisin ja tiistaisin lounaalla klo 12 – 14.30 ja keskiviikosta lauantaihin klo 12 – 20 ravintolassamme osoitteessa Huvilakatu 28, Helsinki . Päivittäin vaihtuva 14 palan sushisetti maksaa 15 €. Jälkiruoka Lue lisää…
+title: Restaurant Chef &amp; Sommelier, Helsingfors ...
+snippet: Restaurant Chef &amp; Sommelier - STENGT ... Hotel Indigo Helsinki - Boulevard. 784 anmeldelser . 0,76 km unna . Hotel Lilla Roberts. 1 128 anmeldelser . 0,78 km unna . Lapland Hotels Bulevardi. 120 anmeldelser . 0,78 km unna . Mest populære restauranter i nærheten Se alle. Ora. 63 anmeldelser .
+title: Chef &amp; Sommelier | Click Here to Read More
+snippet: C hef &amp; Sommelier was the spark that triggered the entire trip to Helsinki. As I explained in my previous post on restaurant Ask, I met the owner Sasu in Stockholm earlier this year.We discovered that we shared a strong passion for food and exploring exciting restaurants. That night, Sasu suggested I should come to Helsinki and dine at his one Michelin star restaurant Chef &amp; Sommelier.
+title: Restaurant Chef &amp; Sommelier, Helsinki - Tripadvisor
+snippet: Restaurant Chef &amp; Sommelier, Helsinki: Katso 230 puolueetonta arvostelua paikasta Restaurant Chef &amp; Sommelier, joka on sijalla 4,5/5ja yksi 1 691 ravintolasta Helsingissä Tripadvisorissa.
+title: Helsingfors, mat, nordisk, new nordic, Finland, Helsinki ...
+snippet: Helsingfors, mat, nordisk, new nordic, Finland, Helsinki, Chef &amp; Sommelier, Ask, Kuurna, Juuri, Spis. Det var natt og hverdag på Bar Moskva, Kaurismäki-brødrenes kjente vannhull i Helsinki sent­rum. I baren satt det – helt bokstavelig – en hund og drakk på en barkrakk.
+title: Chef &amp; Sommelier - Helsinki - Restaurant | Facebook
+snippet: Chef &amp; Sommelier, Helsinki. 19 likes. Restaurant. 日本人星付きシェフが、フィンランドの星付きシェフと現地で饗宴するのは初めてです。
+title: Chef &amp; Sommelier | TableOnline.fi
+snippet: Helsinki. Chef &amp; Sommelier Ravintola ei ole enää varattavissa palvelustamme. Voit kuitenkin tutustua ehdotuksiimme alla, joihin voit tehdä varauksen palvelumme kautta. Chef &amp; Sommelier Ravintola ei ole enää varattavissa palvelustamme.
+title: Restaurant Chef &amp; Sommelier, Helsingfors ...
+snippet: Spise middag i Helsingfors: Se 230 anmeldelser fra Tripadvisor-reisende av 1 658restauranter i Helsingfors, og søk etter kjøkken, pris, sted og mer.
+title: Restaurant Chef &amp; Sommelier, Helsinki - Menu, Prices ...
+snippet: Restaurant Chef &amp; Sommelier, Helsinki: See 230 unbiased reviews of Restaurant Chef &amp; Sommelier, rated 4.5 of 5, and one of 1,690 Helsinki restaurants on Tripadvisor.
+title: Chef &amp; Sommelier restaurant, Helsinki - Restaurant menu ...
+snippet: Chef &amp; Sommelier: 290 reviews by visitors and 20 detailed photos. The restaurant&#39;s rank on Yelp is 5. This place provides dishes for 40 €. Find on the map and call to book a table.
+
+REL: 1
+POI Name: Johan & Nyström
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+title: Kahvi, Tee &amp; Tarvikkeet | Johan &amp; Nyström
+snippet: Johan &amp; Nyström syntyi innostuksesta kahviin. Vuodesta 2004 alkaen olemme halunneet tarjota asiakkaillemme kahvia, jolla on tarina. Tämä tarina kertoo, että hyvänmakuinen kahvi voi samanaikaisesti olla myös luomua ja eettisesti kestävää.
+title: Johan &amp; Nyström - Bättre kaffe åt folket!
+snippet: Johan &amp; Nyström. Kära kaffevänner, i föränderliga tider är det extra viktigt att vi tar hand om varandra. Om du jobbar hemma eller inte har möjlighet att besöka någon av våra butiker, ska vi så klart se till att du, din familj eller vänner inte blir utan kaffe.
+title: Johan &amp; Nyström Oy, Coffee Roaster &amp; Tea Merchant ...
+snippet: Johan &amp; Nyström Oy, Coffee Roaster &amp; Tea Merchant, Helsinki: Katso 188 puolueetonta arvostelua paikasta Johan &amp; Nyström Oy, Coffee Roaster &amp; Tea Merchant, joka on sijalla 4,5/5 Tripadvisorissa ja sijalla 90 1 691 ravintolasta Helsingissä.
+title: Johan &amp; Nyström Oy, Coffee Roasters &amp; Tea Merchants - Home ...
+snippet: Johan &amp; Nyström Oy, Coffee Roasters &amp; Tea Merchants - Kanavaranta 7C, 00160 Helsinki - Rated 4.7 based on 265 Reviews &quot;Well.. coffee was great, even if...
+title: Johan &amp; Nyström | My Helsinki
+snippet: A serious place for coffee lovers! The Johan &amp; Nyström Cafe and Roastery in the Katajanokka district offers a specialty coffee experience, as well as good selection of teas and delicious pastries. In addition to coffee, the cafe also sells coffee machines and other equipment....
+title: Coffee revolution since 2004 | Johan &amp; Nyström
+snippet: Through our coffee revolution, we, the Johan &amp; Nyström family, are changing lives. One cup at a time, from plant to cup. Order our fresh roasted coffees online today!
+title: locations FI - Johan &amp; Nyström
+snippet: At Swedenborgsgatan 7, in the heart of southern Stockholm, you will find our combined concept store, training room, coffee and tea bar. We offer everything from the world of coffee and tea, ranging from amazing fresh roasted coffees cultivated by our Direct Trade farmers to special accessories from Japan.
+title: Johan&amp;Nyström | Finavia
+snippet: Väliaikaisesti suljettu Artesaanikahvin ja sesongin juomat tarjoaa Johan&amp;Nyström. Anna laajan valikoiman ja korkean laadun hurmata.
+title: Johan &amp; Nyström Oy, Coffee Roaster &amp; Tea Merchant ...
+snippet: Johan &amp; Nyström Oy, Coffee Roaster &amp; Tea Merchant, Helsingfors: Se 188 objektive anmeldelser av Johan &amp; Nyström Oy, Coffee Roaster &amp; Tea Merchant, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 90 av 1 690 restauranter i Helsingfors.
+title: Johan&amp;Nyström | Finavia
+snippet: Johan&amp;Nyström serves artisan coffee and seasonal beverages. Let our extensive offering and high quality charm you.
+
+REL: 1
+POI Name: Karelia
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Venues & Event Spaces, Scandinavian, Caterers, 
+Snippets:
+title: Ranskalainen ravintola Helsinki | Ravintola Carelia
+snippet: Ranskalainen ravintola Helsingissä. Parhaat raaka-aineet, innovatiivinen ote ja ranskalaisen keittiön klassikot! Rento brasserie-ilmapiiri. Varaa pöytä!
+title: Etusivu
+snippet: KARELIA-AMMATTIKORKEAKOULU Tikkarinne 9, 80200 Joensuu. Laskutusosoite: Karelia Ammattikorkeakoulu Oy Tikkarinne 9, 80200 Joensuu. Y-tunnus 2454377-1
+title: Helsinki to Karelia - 6 ways to travel via train, bus, car ...
+snippet: There are 7 ways to get from Helsinki to Karelia by train, bus, car or plane. Select an option below to see step-by-step directions and to compare ticket prices and travel times in Rome2rio&#39;s travel planner.
+title: Karelia Suite - Wikipedia
+snippet: Karelia Suite, Op. 11 is a subset of pieces from the longer Karelia Music written by Jean Sibelius in 1893 for the Viipuri Students&#39; Association and premiered, with Sibelius conducting, at the Imperial Alexander University in Helsinki, Grand Duchy of Finland, on 23 November of that year.
+title: Karelia, Helsingfors - Restaurantanmeldelser - Tripadvisor
+snippet: Karelia, Helsingfors: Se 3 objektive anmeldelser av Karelia, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 998 av 1 690 restauranter i Helsingfors.
+title: Republic of Karelia - Wikipedia
+snippet: The highest executive authority in the Republic of Karelia is the Head of the Republic. The acting Head of the Republic is Artur Parfenchikov, who was appointed in February 2017. The parliament of the Republic of Karelia is the Legislative Assembly comprising fifty deputies elected for a four-year term.
+title: Karelia, Helsinki - Restaurant Reviews &amp; Phone Number ...
+snippet: Karelia, Helsinki: See 3 unbiased reviews of Karelia, rated 4.5 of 5 on Tripadvisor and ranked #1,000 of 1,689 restaurants in Helsinki.
+title: Karelia - aidosta puusta valmistettu parketti kaunistaa ...
+snippet: Korkealaatuinen ja tyylikäs Karelia-parketti on valittu lukuisten kotien lisäksi useiden julkisten tilojen lattiamateriaaliksi. Kauneus, kestävyys ja ajattomuus ovat Karelia-parketin tunnusmerkkejä.
+title: Ravintola Karelia Helsinki
+snippet: Ravintola Karelia on se paikka, josta löytyvät myös vastaukset kaikkeen karjalaiseen perinneruokaan liittyviin kysymyksiin. Helsingin Käpylässä sijaitseva Karjalatalo on monien toimintojen talo, jossa on tiloja kulttuurin harrastajille, juhlijoille, ruokailijoille ja uuden opiskelijoille.
+title: Karelia to Helsinki - 8 ways to travel via train, car ...
+snippet: Find all the possible transport options for your trip from Karelia to Helsinki right here. Rome2rio displays up to date schedules, route maps, journey times and estimated fares from relevant transport operators, ensuring you can make an informed decision about which option will suit you best.
+
+REL: 1
+POI Name: Eläinten hautausmaa
+POI City: Helsinki
+POI Country: FI
+POI Main category: Local Flavor
+POI Sub category: Local Flavor, Pet Services, 
+Snippets:
+title: Eläinten hautausmaa - HESY
+snippet: Eläinten hautausmaa. Puhelin: (ti-to klo 11–16) 09 54200 100 HESYn ylläpitämä eläinten hautausmaa sijaitsee Keskuspuistossa Metsäläntien eteläpuolella. Se on ollut nykyisellä paikallaan vuodesta 1947. Hautausmaalla on noin 3000 pientä hautaa.
+title: Helsingin hautausmaat – Wikipedia
+snippet: Helsingin kaupungin ensimmäinen hautausmaa sijaitsi kaupungin ensimmäisen, 1550-luvulla rakennetun kirkon ympärillä nykyisessä Vanhassakaupungissa. Arvokkaimmat vainajat haudattiin ajan tavan mukaisesti kirkon lattian alle. Kirkko ja hautausmaa jäivät pois käytöstä, kun Helsinki siirrettiin 1640-luvulla Vantaanjoen suulta Vironniemelle.
+title: Etusivu - HESY
+snippet: Mitä HESY tekee? Helsingin eläinsuojeluyhdistys on suomalaisen eläinsuojelun uranuurtaja. HESY on vuosikymmenten aikana ottanut huostaansa kymmeniätuhansia kodittomia lemmikkieläimiä ja etsinyt niille uudet, rakastavat kodit.
+title: Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland ...
+snippet: Cemetery page showing maps, records, and images of headstones in the Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland | BillionGraves Cemetery and Images. Get the BillionGraves app now and help collect images for this cemetery! Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland. Records:.
+title: Lemmikkien hautausmaa – Urbanex Ninja ☠️ Urban Exploring
+snippet: Eläinten hautausmaa. Lemmikkien hautausmaa. Helsingin keskuspuiston siimeksessä on vaatimaton, mutta hellyttävä hautausmaa, jonka hautapaikat kertovat omistajien kiintymyksestä lemmikkeihinsä. Jokainen lemmikinomistaja tietää, että jossain vaiheessa voi tulla aika, jolloin joutuu tekemään raskaan päätöksen rakkaan lemmikkinsä ...
+title: Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland ...
+snippet: Cemetery page showing maps, records, and images of headstones in the Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland | BillionGraves Cemetery and Images. Hanki nyt BillionGraves-sovellus, ja auta keräämään kuvia tästä hautausmaasta! Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland.
+title: Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland ...
+snippet: Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland. Oppføringer:. Bilder:. Gravplass-side som viser kart, poster og bilder av gravminner i Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland | BillionGraves Cemetery and Images. Få BillionGraves-appen nå, og hjelp til med å samle bilder for denne gravplassen!
+title: Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland ...
+snippet: Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland. Registos:. Imagens:. Cemetery page showing maps, records, and images of headstones in the Eläinten hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland | BillionGraves Cemetery and Images. Obtenha já a aplicação BillionGraves e ajude a recolher imagens para este cemitério!
+title: Hesyn Eläinten Hautausmaa - Helsinki - Pet Cemetery | Facebook
+snippet: Hesyn Eläinten Hautausmaa, Helsinki. 14 likes. Pet Cemetery. Surullinen näky. Olin järkyttynyt mennessäni, sillä ei ole koskaan noin heinittynyt ollut tuo ympäristö.
+title: Malmin hautausmaa, Helsinki, Uusimaa, Uusimaa, Finland ...
+snippet: Malmin hautausmaa, Created by SamuelTaylorGeer, Helsinki, Uusimaa, Uusimaa, Finland Take BillionGraves with you wherever you go. Download the free BG app and you`ll be able to contribute, and have access to our worldwide headstone database.
+
+REL: 1
+POI Name: Mille Mozzarelle
+POI City: Helsinki
+POI Country: FI
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Coffee & Tea, Italian, 
+Snippets:
+title: Mille Mozzarelle
+snippet: Home; Catering / Events; Wholesale Orders; Photo Collections; 0440223611. info@millemozzarelle.fi
+title: Mille Mozzarelle - Home | Facebook
+snippet: Mille Mozzarelle, Helsinki. 2,185 likes · 1,080 were here. You are what you eat. Enjoy high quality Italian food. Caterings for Parties, Cocktails, Filming days &amp; more!
+title: Mille Mozzarelle - Home | Facebook
+snippet: Mille Mozzarelle, Helsinki. 2,182 likes · 18 talking about this · 1,080 were here. You are what you eat. Enjoy high quality Italian food. Caterings for Parties, Cocktails, Filming days &amp; more!
+title: Lasagne - Picture of Mille Mozzarelle, Helsinki - TripAdvisor
+snippet: Mille Mozzarelle, Helsinki Picture: Lasagne - Check out TripAdvisor members&#39; 50,173 candid photos and videos of Mille Mozzarelle
+title: Mille Mozzarelle - Posts - Helsinki - Menu, Prices ...
+snippet: Mille Mozzarelle - Laamanintie 17, 00690 Helsinki - Rated 4.7 based on 43 Reviews &quot;Great Italian food and good service :) Worth a visit!&quot;
+title: Mille Mozzarelle - Home - Helsinki - Menu, Prices ...
+snippet: Mille Mozzarelle, Helsinki. 2,182 likes · 13 talking about this · 1,080 were here. You are what you eat. Enjoy high quality Italian food. Caterings for Parties, Cocktails, Filming days &amp; more!
+title: Mille Mozzarelle, Helsingin ravintola-arvostelut - TripAdvisor
+snippet: Mille Mozzarelle, Helsinki: Katso 18 puolueetonta arvostelua paikasta Mille Mozzarelle, joka on sijalla 4,5/5ja yksi 1 622 ravintolasta Helsingissä TripAdvisorissa.
+title: Mille Mozzarelle - Picture of Mille Mozzarelle, Helsinki ...
+snippet: Mille Mozzarelle, Helsinki Picture: Mille Mozzarelle - Check out Tripadvisor members&#39; 50,008 candid photos and videos of Mille Mozzarelle
+title: Mille Mozzarelle, Helsinki: Reviews | Eat.fi
+snippet: Mille Mozzarelle, Helsinki: italian,food,wines,caffè. Please be fair, describe the experience and food. Decent text without accusations.
+title: Menu — Mille Mozzarelle
+snippet: Menu BREAKFAST Catering Only:. The breakfast includes: cheese, cold cuts, home made focaccia, granola yogurt with chia seeds &amp; honey , tomato &amp; cucumber caprese, mini croissants, mixed fruit bowl, cake, eggs, butter &amp; Mille Mozzarelle creams
+
+REL: 0
+POI Name: Summer Heat
+POI City: Helsinki
+POI Country: FI
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Summer Heat - Home | Facebook
+snippet: Summer Heat - Mannerheimintie 3, 00100 Helsinki - Rated 4 based on 469 Reviews &quot;This place sucks, poor security and if they don&#39;t understand you then...
+title: Summer Heat kesäklubi | Vanha Ylioppilastalo
+snippet: Summer Heat -viikonloput ovat pitäneet huolen siitä, ettei kukaan jää kylmäksi ja loppukesästä tunnelma vain kuumenee. Heinäkuun perjantai-iltoina Vanhan ylioppilastalon terassi täyttyy vaahdosta, ja jokainen rantatunnelmaa kaipaava saa sitä kyllikseen Beach Partyjen muodossa.
+title: Summer Heat- Vanha Ylioppilastalo - Helsinki - Local ...
+snippet: Summer Heat- Vanha Ylioppilastalo, Helsinki. 3 likes · 34 were here. Local Business
+title: Slideshow: 10 Best Destinations to Beat the Summer Heat
+snippet: With summer approaching more quickly than we may realize, it’s time to start booking those flights and making plans to escape the overwhelming summer heat. Sure, some of the hotter destinations will have the best summer deals right now, but if you don’t mind traveling somewhere during peak season you’ll be able to catch a break from the brutal sun.
+title: Courses | Admissions | University of Helsinki
+snippet: All the Helsinki Summer School courses are organised by the University of Helsinki, the largest university in Finland and one of the world&#39;s top 1% research universities. The courses are designed to challenge and inspire you in a learning environment that promotes equality.
+title: Summer Heat (Now Closed) - Kluuvi - Helsinki, Uusimaa
+snippet: See 3 photos from 234 visitors to Summer Heat. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Summer Heat - Grand Opening 10.6.2017 | tapahtuma | Helsinki
+snippet: Summer Heat - Grand Opening 10.6.2017 sisään Helsinki, Summer Heat, lauantai, 10. kesäkuu 2017 - SUMMER HEAT GRAND OPENING 10.6.2017 Kesäkuumaa ja mahtavaa menoa! NYT KAIKKI KALENTERIT TYHJÄKSI, S...
+title: Summer Heat Grand Opening Fri 15.6 and Sat 16.6 ...
+snippet: Summer Heat Grand Opening Fri 15.6 and Sat 16.6 sisään Helsinki, Summer Heat, perjantai, 15. kesäkuu 2018 - Summer Heat Grand Opening 9.6.2018 Vaikka tämän kesän säteet saa vielä laittamaan aurin...
+title: Summer — VisitFinland.com
+snippet: summer. Because of the long, cold winter Finns celebrate their summer very passionately. Some go to music festivals, offering a choice of jazz, blues, rock, opera and chamber music. Others are sailing among the coastal islands or enjoying slow life at their summer cottages – swimming, fishing and cooking dinner on the grill.
+title: Seasons in Finland - Finnish Meteorological Institute
+snippet: Heat waves, with a maximum daily temperature exceeding 25°C, occur on an average of 10 to 15 days per summer inland in southern and central Finland, and 5 to 10 days in northern Finland and on the coast. In the course of the summer, thunderstorms occur on 8 to 14 days in the interior and 4 to 8 days in coastal areas and northern Lapland. Autumn
+
+REL: 0
+POI Name: Rakkautta & Anarkiaa
+POI City: Helsinki
+POI Country: FI
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: Rakkautta &amp; Anarkiaa | Helsinki International Film ...
+snippet: Suomen suurin ja monipuolisin elokuvafestivaali Helsinki International Film Festival – Rakkautta &amp; Anarkiaa järjestetään vuosittain syyskuussa.
+title: Rakkautta &amp; Anarkiaa | Helsinki International Film ...
+snippet: Suomen suurin ja monipuolisin elokuvafestivaali Helsinki International Film Festival – Rakkautta &amp; Anarkiaa järjestetään vuosittain syyskuussa.
+title: Elokuvat 2020 | 33. Rakkautta &amp; Anarkiaa33. Rakkautta ...
+snippet: Vakavasti sairas 16-vuotias Milla rakastuu vanhempiensa kauhuksi holtittomaan Mosekseen (Toby Wallace). Shannon Murphyn Babyteeth on samaan aikaan järisyttävä ja herkkä kuvaus ensirakkaudesta, joka voi olla myös viimeinen.
+title: Liput | 33. Rakkautta &amp; Anarkiaa33. Rakkautta &amp; Anarkiaa
+snippet: TILANNEPÄIVITYS 16.03.2020: Yleisötilaisuuksien järjestämistä koskevan kiellon seurauksena Season Film Festivalia ei järjestetä 26.-29.3.2020 vaan tapahtuma siirtyy syksylle.
+title: Films 2020 - 30th Rakkautta &amp; Anarkiaa | Helsinki ...
+snippet: Season Films 2020 Animation Documentary Drama Short Film All genres Adventure Based on actual events Familial Feel-good Humour Love Music Nature Religion Sex Society Strange Suspense All keywords
+title: Rakkautta &amp; Anarkiaa -traileri 2018: Syöksylasku - YouTube
+snippet: 31st Helsinki International Film Festival – Love &amp; Anarchy trailer 2018 Production by Also Starring in association with Angel Films, Post Control, Artistiasu, Ilmailumuseo, Big House and Meguru ...
+title: Rakkautta &amp; Anarkiaa trailer 2014: Mannerheim kuulee - YouTube
+snippet: 27th Helsinki International Film Festival ... Rakkautta &amp; Anarkiaa trailer 2014: Mannerheim kuulee Helsinki Film Festival. Loading ... Rakkautta &amp; Anarkiaa traileri 2015: The Proposal ...
+title: Rakkautta &amp; Anarkiaa -elokuvafestivaali | Helsinki
+snippet: Rakkautta &amp; Anarkiaa - Helsinki International Film Festival täyttää taas lehterit ja tuo valoa ja suuria tunteita syksyn pimeneviin iltoihin. Kokeellisten elokuvien ystävät vaeltavat pääkaupunkiimme nauttimaan festivaalitunnelmasta 19.–29.9.2019. R&amp;A TÄRPIT Hustlers - korkojen kera (2019) Toronton elokuvajuhlilla yllätyshitiksi noussut rikoskomedia kertoo ryhmästä strippareita ...
+title: Rakkautta ja Anarkiaa -filmifestivaali 2018 | My Helsinki
+snippet: Helsinki International Film Festival – Rakkautta &amp; Anarkiaa juhlii elokuvataidetta esitellen ennakkoluulottomasti rohkeita, ristiriitaisia ja visuaalisesti häikäiseviä uusia elokuvia. Festivaali täydentää pääkaupungin elokuvatarjontaa tuomalla teattereihin ajankohtaisia elokuvia, joita Suomessa ei ehkä muuten olisi mah...
+title: Helsinki International Film Festival - Rakkautta ...
+snippet: Due to the government recommendation the ticket sales of Season Film Festival have been stopped until further notice. We are currently discussing different options concerning the festival and will give more information in the next few days.
+
+REL: 0
+POI Name: Pirkkolan liikuntapuisto
+POI City: Helsinki
+POI Country: FI
+POI Main category: Active Life
+POI Sub category: Recreation Centers, 
+Snippets:
+title: Pirkkolan liikuntapuiston uimahalli | Helsingin kaupunki
+snippet: Pirkkolan uimahalli on osa Keskuspuistossa sijaitsevaa Pirkkolan liikuntapuistoa. Palvelut: Iso allas 25 m x 16 m, syvyys 1,3 - 4,0 m, hyppytelineet 1 m, 3 m, 5 m, lämpötila + 27°C. Opetusallas / liukumäki avoinna jos ei ohjattua toimintaa 16 m x 7 m, syvyys 1,3 m, vesivoimistelua, lämpötila + 27°C.
+title: Liikuntapuistot, kentät ja lähiliikuntapaikat | Helsingin ...
+snippet: Helsingin kaupungin liikuntapuistot ja -kentät ovat pinta-alaltaan suurimpia liikunta- ja virkistyspaikkoja. Tarjolla myös lähes 30 lähiliikuntapaikkaa.
+title: Pirkkolan liikuntapuisto | My Helsinki
+snippet: Keskuspuistossa sijaitsee Pirkkolan liikuntapuisto jossa mm. Pirkkolan Uimahalli sekä kesäaikaan etenkin lapsiperheiden suosima Plotti. Funktionalismia edustava uima- ja palloiluhallikokonaisuus valmistui vuonna 1968. Urheilupuistossa on mahdollisuus harrastaa uinnin lisäksi mm. seuraavia lajeja: jalkapallo, kuntosali,...
+title: Pirkkolan liikuntapuisto | Palvelukartta
+snippet: Poikkeusaukioloajat: Pirkkolan liikuntapuiston kaikki rakennukset ovat kiinni maanantaista 3.2. tiistaihin 4.2. klo 18.00 saakka Hsy:n vesihuoltotöiden vuoksi. Aukioloajat Kenttien pukuhuoneet 3.6. - 1.9.2019 ma - la 7.00 - 21.00 su 8.00 - 21.00
+title: Luettelo Helsingin puistoista – Wikipedia
+snippet: Tämä on luettelo Helsingissä sijaitsevista puistoista.. Helsingin maapinta-ala oli maanmittauslaitoksen tilaston mukaan vuoden 2015 alussa 213,92 neliökilometriä eli 21 392 hehtaaria. Helsingin tilastojulkaisun mukaan kaupungissa oli vuonna 2014 yhteensä 1 898 hehtaaria puistoa ja 4 734 hehtaaria metsää eli Helsingin pinta-alasta noin yksi kolmasosa on erilaisia viheralueita.
+title: Pirkkolan liikuntapuisto / Kenttien kuntosali | Palvelukartta
+snippet: Sarja- ja kausikorttien osalta Helsingin kaupungin liikuntapalveluiden uimahallien, kuntosalien ja liikuntahallien kymmenen kerran sarjakorttien, kuukausikorttien sekä 120 päivän kausikorttien käyttöaikaa pidennetään palveluiden kiinnioloaikaa vastaavalla ajalla.
+title: Pirkkolan liikuntapuiston uimahalli | My Helsinki
+snippet: Keskuspuistossa Pirkkolan liikuntapuistossa sijaitseva Pirkkolan uimahalli valmistui vuonna 1968 ja on osa uima- ja palloiluhallikokonaisuutta joka edustaa funktionalismia. Kesäaikaan alueella myös Plotti joka on etenkin lapsiperheiden suosima uimapaikka....
+title: Pirkkolan palloiluhalli osoite — avaa suurempi kartta ...
+snippet: Pirkkolan liikuntapuisto, Helsinki , uima- ja palloiluhallin kassa , laitospäällikkö Maunu Pesola ma - la su Muut lajit - palloiluhalli: käsi-, kori-, lento- ja. Suomen monipuolisin sisäliikuntakeskus, jossa vierailee vuosittain yli miljoona vierasta.
+title: Helsingin kaupunki Pirkkolan liikuntapuisto - Helsinki ...
+snippet: Helsingin kaupunki Pirkkolan liikuntapuisto sijaitsee kunnassa Helsinki. Se on perustettu 1.1.1550. Se on kunta, jonka toimiala on sulkapallohalli. Voit selvittää sen päättäjät, taloustiedot kuten liikevaihdon ja muut yritystiedot Finderissa.
+title: Pirkkolan Urheilupuisto - Helsinki, Finland
+snippet: Pirkkolan uimahalli Pirkkolan liikuntapuisto, Helsinki, 00630, Finland Public Swimming Pool, Stadium, Arena &amp; Sports Venue, Gym/Physical Fitness Center
+
+REL: 0
+POI Name: Kapteeninpuistikko
+POI City: Helsinki
+POI Country: FI
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: fi.yelp.fi
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Kapteeninpuistikko, Helsinki, Finland Concert Setlists ...
+snippet: Get Kapteeninpuistikko, Helsinki, Finland setlists - view them, share them, discuss them with other Kapteeninpuistikko, Helsinki, Finland fans for free on setlist.fm!
+title: Kapteeninpuistikko - 1 tip from 382 visitors
+snippet: Park in Helsinki, Uusimaa Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: Apartment Living Arthomes #1, Helsinki, Finland - Booking.com
+snippet: Apartments are really expensive to buy from this area. Tram #3 runs on Tehtaankatu, with a stop near the building. Bus #24 has stop around the corner in Kapteeninpuistikko, where there is also the nearest taxi station. Bus #18 runs slightly further in Tehtaanpuisto. You can also rent Helsinki citybikes between April and October.
+title: Leikkipaikka Kapteeninpuistikko | Helsingin kaupunki
+snippet: Etusivu » Kaupunki ja hallinto » Osallistu ja vaikuta » Ota yhteyttä » Hae yhteystietoja » Leikkipaikka Kapteeninpuistikko » toimipistekuvaus Ota yhteyttä Hae yhteystietoja
+title: Photos at Kapteeninpuistikko - 2 tips from 382 visitors
+snippet: See all 51 photos taken at Kapteeninpuistikko by 492 visitors. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: 24 Route: Time Schedules, Stops &amp; Maps - Merikatu
+snippet: • Kapteeninpuistikko • Meritori • Merikatu. ... The first stop of the 24 bus route is Seurasaari and the last stop is Merikatu. 24 (Direction: Merikatu) ... public transit app. Moovit gives you HSL suggested routes, real-time bus tracker, live directions, line route maps in Helsinki, and helps to find the closest 24 bus stops near you.
+title: LumiPark – Integrating parking and smart lighting in Helsinki
+snippet: Forum Virium Helsinki will bring together main public and private actors for facilitating LumiPark pilot in fall 2016 at Kapteeninpuistikko in Ullanlinna, Helsinki. The project pilots new technological solutions for parking. LumiPark integrates smart outdoor lighting and parking monitoring into one smart city service.
+title: Changes to public transport on Saturday 19 May due to ...
+snippet: There will be major changes to public transport in Helsinki city center on Saturday 19 May about 11.30am-9pm due to Helsinki City Running Day. Tram routes 1, 2, 3, 6T, 8 and 9 as well as bus routes 8X, 14, 18, 20, 21/B, 24, 502, 551 and U line buses 280, 643T, 644, 662/T, 665/A/B/N will be diverted. In addition, delays are expected to buses 58, 69, 506, 551 and 848. The trams and buses will ...
+title: Bird feeding | City of Helsinki
+snippet: Bird feeding should be limited to the winter season, when the additional nutrition is most needed in order to help birds survive overwinter until spring. Feeding during the summer is not necessary for the survival of birds, and it increases the risk of developmental disorders and may spread diseases between birds.
+
+Cand cities: {'Helsinki'}

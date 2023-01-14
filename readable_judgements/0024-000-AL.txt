@@ -1,0 +1,832 @@
+City: Lucerne
+Country: CH
+Main category: Active Life
+Sub category: Hiking
+Description: Hello! I've asked a couple of questions about my trip so far in the travel thread but I had a bit of a more specific question hopefully I could get some input on. This Saturday I will be in Lucerne and am looking forward to seeing the city as well as doing some hiking. However the weather and my student budget are making this difficult (to be clear I can't go any other day). It's supposed to be a bit rainy and in the morning, and honestly either way I can't afford the 100+ it costs to take the boat/gondola to Mt. Pilatus, so I don't think that will be happening. They have this listing for hiking trails, and I'm curious if any of you have one you would recommend? I can read about prices/times online but obviously it's impossible to get an idea of which would be most worthwhile in terms of the scenery based off of that. I'll likely do one of the circle walks listed at the bottom because they don't require paying for buses/trains etc. I would be interested in any advice overall. Thanks!
+Rated POIs: 45
+Rel distr: [(0, 20), (1, 20), (2, 5)]
+=================================
+REL: 2
+POI Name: Schanzengraben
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, Landmarks & Historical Buildings, 
+Snippets:
+
+
+REL: 2
+POI Name: Fitnesspark Allmend Luzern
+POI City: Lucerne
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Fitnesspark Allmend Luzern – Die modernste Trainingsanlage ...
+snippet: Starten Sie hier zu einem kurzen Rundgang durch den Fitnesspark Allmend. Unser Kursprogramm. Die Fitnessparks Migros Luzern. Allmend Luzern. Luzerns stilvolle Wellness-Oase liegt mitten im Herzen der Stadt. Was für ein Blick von der Dachterrasse mit geheiztem Pool über die Dächer Luzerns!
+title: Allmend Luzern - Fitnesspark Allmend Luzern
+snippet: Coronavirus: The Fitnesspark Allmend Lucerne remain closed till the 30th April 2020 due to the decision of the Federal Council!
+title: Luzern - Fitnesspark
+snippet: Dank unserem Fitnesspark@home-Angebot müssen Sie als Mitglied nicht auf Ihren Workout verzichten! Wählen Sie aus über 1000 Online-Kursen und trainieren Sie zuhause weiter. Hier ist für jedes Fitnesslevel etwas dabei. Fitnesspark@home ist in Ihrer Mitgliedschaft inbegriffen und mit untenstehendem Link oder in Ihrer Migros FitnessApp erreichbar.
+title: Kurse - Fitnesspark Allmend Luzern
+snippet: Luzern Luzern, Allmend Luzern Luzern, National Luzern Zug, Eichstätte Vaud Malley Prilly Lausanne Zürich Greifensee, Milandia Zürich ... Der Fitnesspark Allmend hat eines der umfassendsten Kursangebote in der Region aufgebaut: Bewegung, Erholung, soziale Kontakte pflegen.
+title: National Luzern - Fitnesspark National Luzern
+snippet: Coronavirus: The Fitnesspark National Lucerne remain closed till the 30th April 2020 due to the decision of the Federal Council!
+title: Fitnesspark Allmend Luzern (Lucerne) - 2020 All You Need ...
+snippet: Mt. Titlis lives up to its hype as one of Switzerland&#39;s top destinations, and a guided day trip is the easiest way to see it from Zurich. Travel by coach and panoramic cable car to the summit without worrying about navigation or organizing tickets.
+title: Fitnesspark Allmend Luzern
+snippet: Willkommen im Online-Shop Fitnesspark Allmend Trainieren, wo es für Sie passt. Fitness und Wellness in über 130 Anlagen der Schweiz - die Migros FitnessCard. Produkte. Sportmassage CHF 49,00 Einzeleintritt Fit ... Fitnesspark Allmend Luzern. Technische Realisierung: TAC ...
+title: Fitnesspark Allmend Luzern (Lucerne, Sveits) - Anmeldelser
+snippet: Fitnesspark Allmend Luzern, Lucerne: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Fitnesspark Allmend Luzern i Lucerne, Sveits på Tripadvisor.
+title: Fitnesspark Allmend Luzern (Lucerne) - All You Need to ...
+snippet: Fitnesspark Allmend Luzern, Lucerne: See 3 reviews, articles, and 3 photos of Fitnesspark Allmend Luzern, ranked No.4 on Tripadvisor among 11 attractions in Lucerne.
+title: Fitnesspark Allmend Luzern (Lucerne) - 2020 What to Know ...
+snippet: Fitnesspark Allmend Luzern, Lucerne: See 3 reviews, articles, and 3 photos of Fitnesspark Allmend Luzern, ranked No.4 on Tripadvisor among 11 attractions in Lucerne.
+
+REL: 2
+POI Name: Funrental Interlaken
+POI City: Matten bei Interlaken
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Bike Rentals, Mountain Biking, 
+Snippets:
+
+
+REL: 2
+POI Name: Callanetics Studio E. Schmid
+POI City: Luzern
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Beauty & Spas, Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Klosterfahrweg
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Alprüti
+POI City: Alpnachstad
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Parc Mon Repos & Parc Baton
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Parks, Lakes, 
+Snippets:
+title: Mon-Repos Park (Geneva) - 2020 All You Need to Know BEFORE ...
+snippet: Mont Blanc is the highest peak in the Alps, and this customizable tour lets you experience it from all angles on a day trip from Geneva. Choose from a range of options including exploring Chamonix and Mont Blanc independently, riding the cogwheel railway to Montenvers, soaring to the summit of Aiguille du Midi on the cable car, and enjoying a delicious 3-course lunch in Chamonix.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Parc Mon Repos | Ville de Genève - Site officiel
+snippet: Situé entre la Rue de Lausanne, l’Avenue de France et le lac, le parc Mon Repos est une des portes d’entrée de Genève et le départ d’une succession de cinq parcs d’une beauté exceptionnelle qui ouvrent des panoramas majestueux sur le lac, la ville et les montagnes.
+title: THE 10 BEST Restaurants Near Mon-Repos Park in Geneva ...
+snippet: Restaurants near Mon-Repos Park, Geneva on Tripadvisor: Find traveler reviews and candid photos of dining near Mon-Repos Park in Geneva, Switzerland.
+title: Parc Mon Repos - Geneva, Switzerland - Landmark ...
+snippet: Parc Mon Repos, Geneva, Switzerland. 44 likes · 2 talking about this · 1,085 were here. Le parc Mon Repos, parfois orthographié Mon-Repos, est un jardin...
+title: Geneva - Parc Villa Barton, La Perle du Lac and Parc Mon ...
+snippet: Geneva - Discover Parc Villa Barton, La Perle du Lac and Parc Mon Repos and live the real experience with the Green Michelin Guide - find useful information and opening times - Parc Villa Barton, La Perle du Lac and Parc Mon Repos
+title: Parc Barton - Geneva, Switzerland - Landmark &amp; Historical ...
+snippet: Parc Barton, Geneva, Switzerland. 23 likes. Le parc Barton est un jardin public situé à Genève, en Suisse.
+title: Monrepos Park - Wikipedia
+snippet: Mon Repos or Monrepos (Russian: Монрепо́; which is the French for &quot;my rest&quot;) is an extensive English landscape park in the northern part of the rocky island of Linnasaari (Tverdysh, Slottsholmen) outside Vyborg, Russia.The park lies along the shoreline of the Zashchitnaya inlet of the Vyborg Bay and occupies about 180 hectares (440 acres) of land.
+title: Mon-Repos Park (Genève, Sveits) - Anmeldelser - Tripadvisor
+snippet: Mon-Repos Park, Genève: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Mon-Repos Park i Genève, Sveits på Tripadvisor. Turisme i Genève; Hotell i Genève; ... klatrevegger og round-forlates osv. stort sted hvis du vil ha en pause fra alt maset i Geneva town.
+title: Parc de Mon Repos - Wikipedia
+snippet: The Parc de Mon Repos is a public park of the city of Lausanne, Switzerland.. The villa located in the centre of the park hosted the headquarters of the International Olympic Committee from 1922 to 1967.
+
+REL: 1
+POI Name: Lido
+POI City: Lucerne
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Beaches, Swimming Pools, 
+Snippets:
+title: Camping Lido Luzern: Home - Camping International Lido
+snippet: Current reception opening hours: 8-10 a.m. / 4-6 p.m. The Camping International Lido is open all year round, since Lucerne and its neighbouring mountains offer numerous leisure and recreational opportunities in winter as well as in summer.
+title: Strandbad Lido Luzern • Home
+snippet: Bei schönem und warmen Wetter während den Monaten Juni, Juli und August jeden Freitag und Samstag bis 21.00 Uhr. Bei zweifelhaftem Badewetter finden Sie die aktuelle Öffnungszeit morgens ab ca. 8:00 Uhr auf unserem Telefonbeantworter 041 370 38 06 oder auf unserer Homepage www.lido-luzern.ch. Die Öffnungszeiten des Strandbades können aus technischen, sicherheits- und witterungsbedingten ...
+title: Strandbad Lido Luzern • English
+snippet: Information Opening hours. May daily from 10.00 - 19.00. June, July, August daily from 09.00 - 20.00. September daily from 10.00 - 19.00. June / July / August Friday and Saturday till 21.00. Prices. ... Bathing Rules and Regulations for Strandbad Lido in Luzern (78kB) Google Maps | Impressum.
+title: CAMPING INTERNATIONAL LIDO (Lucerne, Sveits ...
+snippet: Camping International Lido, Lucerne: Se 83 reiseanmeldelser, 30 objektive bilder og gode tilbud for Camping International Lido, vurdert som nr. 3 av 35 temaovernattinger i Lucerne og vurdert til 4 av 5 på Tripadvisor.
+title: Camping International Lido Campground Reviews, Lucerne
+snippet: Camping International Lido, Lucerne: See 83 traveller reviews, 30 candid photos, and great deals for Camping International Lido, ranked #3 of 36 Speciality lodging in Lucerne and rated 4 of 5 at Tripadvisor.
+title: Lido | Lucerne for kids | Lucerne - In Your Pocket
+snippet: There&#39;s lots of room for playing at the Lido. It&#39;s a large park which stretches along the lake shore, just behind the transport museum. It includes a sandy beach for swimming in the lake, swimming pools, a large playground and several snack bars and restaurants. The playground includes a super-duper
+title: Lucerne Lido | Luzern.com
+snippet: You will simply love Lucerne Lido. The 300-metre sandy beach offers breathtaking views of the Pilatus, Bürgenstock and Stanserhorn mountains as well as the city of Lucerne itself. Lucerne’s oldest and biggest lido was used as a bathing resort even before it was opened in 1929.
+title: The BEST Bathing areas and outdoor pools ... - Lucerne Tourism
+snippet: There are plenty of bathing spots for all those who wish to take it easy on the shores of Lake Lucerne – whether swimming or simply relaxing by the lakeside. Strandbad Lido, Seebad Lucerne and Ufschötti are especially popular. Rotsee Badi is an insider tip for those who prefer a little more seclusion.
+title: Camping Lido Luzern: Home
+snippet: Der Camping International Lido ist das ganze Jahr geöffnet, denn auch im Winter bieten Luzern und die umliegenden Berge viele Möglichkeiten für die Ferien- und Freizeitgestaltung. Reservationen sind nur für Mietobjekte möglich. Da jeden Tag Gäste abreisen, werden auch in der Hauptsaison immer wieder Parzellen frei! GPS: N 47.05003 E 8.33821
+title: Beste spisesteder i nærheten av Camping International Lido ...
+snippet: Restauranter i nærheten av Camping International Lido på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Camping International Lido, Lucerne.
+
+REL: 1
+POI Name: Nautilus Gym & Bad AG
+POI City: Luzern
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Financial Services, Professional Services, Gyms, 
+Snippets:
+
+
+REL: 1
+POI Name: Pizzeria zum Weissen Kreuz
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Pizza, 
+Snippets:
+title: Ristorante Pizzeria weisses Kreuz, Lucerne - Menu, Prices ...
+snippet: Ristorante Pizzeria weisses Kreuz, Lucerne: See 480 unbiased reviews of Ristorante Pizzeria weisses Kreuz, rated 4 of 5 on Tripadvisor and ranked #54 of 424 restaurants in Lucerne.
+title: Pizzeria Luzern – Best Pizza in Town
+snippet: Das Ristorante Pizzeria Zum Weissen Kreuz im Herzen der Altstadt von Luzern verwöhnt Sie mit authentischen italienischen Gerichten, den besten Holzofenpizzas der Stadt und einem charmanten Ambiente. Wer echtes italienisches Essen in hoher Qualität liebt und südländischen Wein schätzt, ist bei uns am richtigen Ort.
+title: Restaurant &quot;Zum Weissen Kreuz&quot; - Ristorante Pizzeria ...
+snippet: Ristorante Pizzeria weisses Kreuz: Restaurant &quot;Zum Weissen Kreuz&quot; - See 479 traveler reviews, 118 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Restaurants Near Ristorante Pizzeria weisses Kreuz ...
+snippet: Restaurants near Ristorante Pizzeria weisses Kreuz, Lucerne on Tripadvisor: Find traveler reviews and candid photos of dining near Ristorante Pizzeria weisses Kreuz in Lucerne, Switzerland.
+title: Best pizza in Lucerne, if not in Switzerland! - Review of ...
+snippet: Ristorante Pizzeria weisses Kreuz: Best pizza in Lucerne, if not in Switzerland! - See 480 traveler reviews, 118 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Hotel Weisses Kreuz - Hotel/Ristorante zum Weissen Kreuz
+snippet: Hotel Weisses Kreuz Luzern, Boutiquehotel in Luzern, Altstadthotel, historisches Hotel in Luzern mit Spezialangeboten und einem beliebten italienischen und chinesischem Restaurant.
+title: AMAZING! - Review of Ristorante Pizzeria weisses Kreuz ...
+snippet: Ristorante Pizzeria weisses Kreuz: AMAZING! - See 480 traveler reviews, 118 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor. Lucerne. Lucerne Tourism Lucerne Hotels Lucerne Bed and Breakfast Lucerne Vacation Rentals Lucerne Vacation Packages Flights to Lucerne Lucerne Restaurants
+title: Ristorante Pizzeria weisses Kreuz, Luzern - Menü, Preise ...
+snippet: Hotel-Weisses-Kreuz, Manager von Ristorante Pizzeria weisses Kreuz, hat diese Bewertung kommentiert Beantwortet: 10. Oktober 2019 Sehr geehrte Nicchi78 es freut uns sehr, dass Sie und Ihre Tochter sich wohl gefühlt haben bei uns. Unsere Pizzaiolos feuern jeden Morgen um 7 Uhr den Hozlofen an, damit wir am Mittag die richtige Temperatur für unsere knusprigen Pizzen haben.
+title: Ristorante Pizzeria Weisses Kreuz - Home - Luzern ...
+snippet: Ristorante Pizzeria Weisses Kreuz, Luzern, Switzerland. 2,477 likes · 23 talking about this · 2,990 were here. Holzofen Pizzas, hausgemachte Pasta, köstliche Fleisch und Fischgerichte, vegetarische...
+title: Boutique Hotel Weisses Kreuz, Lucerne, Switzerland ...
+snippet: One of our best sellers in Lucerne! The owner-run adults only hotel Zum Weissen Kreuz is located near the Reuss River in Lucerne’s historic Old Town, just a 2-minute walk from the Chapel Bridge and a 5-minute walk from the train station. It offers free high-speed WiFi in the entire property.
+
+REL: 1
+POI Name: Lindenhof
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Landmarks & Historical Buildings, Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Harder Kulm
+POI City: Unterseen
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, Mountain Biking, 
+Snippets:
+
+
+REL: 1
+POI Name: Wanderweg nach Beatenberg
+POI City: Habkern
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Seebad Luzern
+POI City: Luzern
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Lakes, 
+Snippets:
+
+
+REL: 1
+POI Name: Der Weg nach oben
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Rotsee
+POI City: Luzern
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Lakes, 
+Snippets:
+
+
+REL: 1
+POI Name: Prizzi
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Italian, Lounges, 
+Snippets:
+title: Willkommen im PRIZZI
+snippet: Restaurant PRIZZI - Lounge, Bar &amp; Take Away. Restaurant PRIZZI - Tribschenstrasse 18 - CH-6005 Luzern - +41 41 362 01 00 -
+title: Restaurant Prizzi, Lucerne - Menu, Prices &amp; Restaurant ...
+snippet: Restaurant Prizzi, Lucerne: See 84 unbiased reviews of Restaurant Prizzi, rated 4 of 5 on Tripadvisor and ranked #111 of 424 restaurants in Lucerne.
+title: Restaurant Prizzi, Lucerne - Restaurantanmeldelser ...
+snippet: Restaurant Prizzi, Lucerne: Se 84 objektive anmeldelser av Restaurant Prizzi, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 111 av 424 restauranter i Lucerne.
+title: THE 10 BEST Restaurants Near Restaurant Prizzi in Lucerne ...
+snippet: Restaurants near Restaurant Prizzi, Lucerne on Tripadvisor: Find traveler reviews and candid photos of dining near Restaurant Prizzi in Lucerne, Switzerland.
+title: Prizzi Lucerna - Picture of Restaurant Prizzi, Lucerne ...
+snippet: Restaurant Prizzi, Lucerne Picture: Prizzi Lucerna - Check out Tripadvisor members&#39; 30,976 candid photos and videos of Restaurant Prizzi
+title: THE 15 BEST Things to Do in Lucerne - 2020 (with Photos ...
+snippet: Book your tickets online for the top things to do in Lucerne, Switzerland on Tripadvisor: See 40,602 traveler reviews and photos of Lucerne tourist attractions. Find what to do today, this weekend, or in April. We have reviews of the best places to see in Lucerne. Visit top-rated &amp; must-see attractions.
+title: The 10 Best Restaurants Near Restaurant Prizzi, Lucerne ...
+snippet: Restaurants near Restaurant Prizzi, Lucerne on Tripadvisor: Find traveller reviews and candid photos of dining near Restaurant Prizzi in Lucerne, Switzerland.
+title: Restaurant Prizzi - Home - Luzern, Switzerland - Menu ...
+snippet: Restaurant Prizzi - Tribschenstrasse 18, 6005 Luzern, Switzerland - Rated 4.7 based on 15 Reviews &quot;Italian restaurant but had several seasonal dishes...
+title: Last Dinner 2017 in Lucerne - Restaurant Prizzi
+snippet: Restaurant Prizzi: Last Dinner 2017 in Lucerne - See 84 traveler reviews, 31 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Restaurant Prizzi, Lucerne - Restaurantanmeldelser ...
+snippet: Restaurant Prizzi, Lucerne: Se 84 objektive anmeldelser af Restaurant Prizzi, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 112 af 425 restauranter i Lucerne.
+
+REL: 1
+POI Name: Cha Cha
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, 
+Snippets:
+title: Cha Cha Thai, Lucerne - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Dear larry045, Thank you for visiting Cha Cha Thai and for writing this positive review. We are glad you enjoyed the food and liked our location right next to the Radisson Blu Hotel near Lucerne train station.
+title: Cha Cha Thai, Lucerne - Restaurantanmeldelser - Tripadvisor
+snippet: Cha Cha Thai, Lucerne: Se 188 objektive anmeldelser av Cha Cha Thai, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 108 av 424 restauranter i Lucerne.
+title: Cha Cha Thai, Lucerne - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Cha Cha Thai, Lucerne: See 186 unbiased reviews of Cha Cha Thai, rated 4 of 5 on Tripadvisor and ranked #107 of 422 restaurants in Lucerne.
+title: Cha Cha Thai, Luzern - Menü, Preise &amp; Restaurant ...
+snippet: Cha Cha Thai, Luzern: 188 Bewertungen - bei Tripadvisor auf Platz 108 von 425 von 425 Luzern Restaurants; mit 4/5 von Reisenden bewertet.
+title: CHA CHA THAI, Lucerne - Omdömen om restauranger - Tripadvisor
+snippet: Cha Cha Thai, Lucerne: Se 188 objektiva omdömen av Cha Cha Thai, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer108 av 425 restauranger i Lucerne.
+title: Authentic Thai - Review of Cha Cha Thai, Lucerne ...
+snippet: Cha Cha Thai: Authentic Thai - See 188 traveler reviews, 117 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Cha Cha Thai - Luzern Citybay Reviews: Food &amp; Drinks in ...
+snippet: On Trip.com, you can find out the best food and drinks of Cha Cha Thai - Luzern Citybay in LucerneLake Lucerne. Buergenstrasse 3, Lucerne 6005, Switzerland. On Trip.com, you can find out the best food and drinks of Cha Cha Thai - Luzern Citybay in LucerneLake Lucerne.
+title: The 10 Best Restaurants Near Cha Cha Thai, Lucerne ...
+snippet: Restaurants near Cha Cha Thai, Lucerne on Tripadvisor: Find traveller reviews and candid photos of dining near Cha Cha Thai in Lucerne, Switzerland.
+title: Cha Cha Luzern - Lucerne
+snippet: Get address of Cha Cha Luzern - Lucerne, submit your review or ask any question about Cha Cha Luzern, search nearby places on map.
+title: Tasty but Very Spicy!!! - Reviews, Photos - Cha Cha Thai ...
+snippet: Cha Cha Thai: Tasty but Very Spicy!!! - See 188 traveler reviews, 117 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+
+REL: 1
+POI Name: Tunnel Club
+POI City: Lucerne
+POI Country: CH
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: de.yelp.ch
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Tunnel Club Luzern - Lucerne
+snippet: Get address of Tunnel Club Luzern - Lucerne, submit your review or ask any question about Tunnel Club Luzern, search nearby places on map.
+title: Spartaque at Tunnel Club, Lucerne, Switzerland - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: Man City – The Tunnel Club
+snippet: With unrivalled views into the players’ tunnel, you are rewarded with an intimate insight into the players’ preparations. Seating located directly behind the dug-out lets you see the game the way the managers see it. After the whistle blows, watch and listen first-hand as the managers and players go about the post-match interviews.
+title: CH / A2 The Tunnels of Lucerne (Luzern) - YouTube
+snippet: Switzerland A2 (Chiasso - Gotthard - Basel), crossing the numerous tunnels of the city of Lucerne (Luzern). Among these tunnels, The Sonnenberg Tunnel was the world&#39;s largest civilian nuclear ...
+title: Die angesagtesten Bars &amp; Clubs in Luzern | Luzern.com
+snippet: Unzählige Bars und Clubs sorgen mit Partys und Konzerten für stimmungsvolle Abende. Aktuelle Massnahmen Covid-19 Unsere Tourist Informationen im Bahnhof Luzern und in Weggis an der Seestrasse 5 sind momentan und bis auf Weiteres aufgrund der Situation rund um das Coronavirus geschlossen.
+title: List of tunnels in Switzerland - Wikipedia
+snippet: This list of tunnels in Switzerland includes all notable road, rail, waterway, or other tunnels in Switzerland.
+title: Tunnel Club | TUNNEL.de
+snippet: TUNNEL CLUB Join the TUNNEL CLUB in Hamburg St. Pauli TUNNEL ® CLUB. Hamburg St. Pauli! Beatles Platz 1 Grosse Freiheit / Ecke Reeperbahn Freitag und Samstag ab 23 Uhr. Parkhaus: Esso Reeperbahn Bahnverbindungen: U-Bahn St. Pauli, S-Bahn Reeperbahn, diverse Nachtbusse TUNNEL HISTORY
+title: Club of Lucerne - Public Private Partnership im KKL Luzern
+snippet: Der Club of Lucerne ist ein Zusammenschluss gleichgesinnter Persönlichkeiten aus Wirtschaft, Kultur und Sport zur Pflege des Gemeinsinns sowie Weiterentwicklung der Public Private Partnership im KKL Luzern.
+title: Montana Beach Club, Lucerne - Restaurantanmeldelser ...
+snippet: Montana Beach Club, Lucerne: Se 11 objektive anmeldelser av Montana Beach Club, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 234 av 424 restauranter i Lucerne.
+
+REL: 1
+POI Name: Der Elefantenbach
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, Lakes, 
+Snippets:
+
+
+REL: 1
+POI Name: Jungfraujoch - Top of Europe
+POI City: Jungfraujoch
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Skiing, Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Uetliberg
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Local Flavor, Hiking, Mountain Biking, 
+Snippets:
+
+
+REL: 1
+POI Name: Sunset Bar
+POI City: Lucerne
+POI Country: CH
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+title: Sunset Bar Hotel Seeburg Luzern
+snippet: Lounges können nicht reserviert werden. Barbecue-Reservationen ab 50 Personen nehmen wir gerne entgegen. Der Verzehr mitgebrachter Speisen und
+title: Sunset Bar - Hotel Seeburg Luzern
+snippet: Sunset Bar. Home. Gastronomy. Bars. Sunset Bar. The oasis at lake Lucerne. Enjoy one of the most beautiful open-air bars of Switzerland. And life. Relaxing, where Lucerne vibrates at the trendiest. The Sunset Bar Grill offers culinary delights. Menu. Drinks. 360° Panorama Tour. www.sunsetbar.ch.
+title: Sunset Bar | Luzern.com
+snippet: As the days lengthen and temperatures rise, find somewhere agreeable to chill out and relax with a refreshing cocktail. Located directly by the lake with its own bus stop, Sunset Bar at Hotel Seeburg is just a few minutes from Lucerne city centre.
+title: Sunset Bar Luzern - Posts | Facebook
+snippet: Sunset Bar Luzern, Lucerne, Switzerland. 4,428 likes · 17 talking about this · 7,431 were here. Sunset Bar - Die Oase am See
+title: Sunset Bar - Picture of Hotel Seeburg, Lucerne - Tripadvisor
+snippet: Hotel Seeburg, Lucerne Picture: Sunset Bar - Check out Tripadvisor members&#39; 30,957 candid photos and videos of Hotel Seeburg
+title: Hotel Seeburg, Lucerne - TripAdvisor
+snippet: Now $112 (Was $̶1̶2̶8̶) on Tripadvisor: Hotel Seeburg, Lucerne. See 749 traveler reviews, 477 candid photos, and great deals for Hotel Seeburg, ranked #26 of 69 hotels in Lucerne and rated 4 of 5 at Tripadvisor.
+title: Sunset Bar - Picture of Hotel Seeburg, Lucerne - Tripadvisor
+snippet: Hotel Seeburg, Lucerne Picture: Sunset Bar - Check out Tripadvisor members&#39; 30,974 candid photos and videos.
+title: Sunset Bar Lucerne – TobiL Photography
+snippet: Sunset Bar Lucerne, Switzerland Nikon D850
+title: Sunset Club Bar | Nightlife | Lucerne - In Your Pocket
+snippet: › Lucerne › Nightlife › Open ... Quite a sunset at sunset bar! This summer bar located over the road from Hotel Seeburg is something of a lakeside oasis. Get comfortable in a lounge chair or with your feet dangling above the water on the pier, take a deep breath and relax in this chic outdoor hangout.
+title: SUNSET BAR – Where to go in Lucerne
+snippet: Enjoy one of the most beautiful open-air bars of Switzerland. And life. Relaxing, where Lucerne vibrates at the trendiest. The Sunset Bar Grill offers culinary delights.
+
+REL: 1
+POI Name: Jakobsweg
+POI City: Rapperswil-Jona
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Stoos
+POI City: Stoos SZ
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Skiing, Hiking, 
+Snippets:
+
+
+REL: 0
+POI Name: Entre Homard&Côte
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Steakhouses, Burgers, 
+Snippets:
+title: ENTRE HOMARD&amp;CÔTE
+snippet: Rue de Zurich, 6 - 1201 Genève - +41 22 731 26 49
+title: Entre Homard &amp; Cote, Geneva - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Entre Homard &amp; Cote, Geneva on Tripadvisor: See 298 unbiased reviews of Entre Homard &amp; Cote, rated 4.5 of 5 on Tripadvisor and ranked #31 of 1,766 restaurants in Geneva.
+title: Manger — ENTRE HOMARD&amp;CÔTE
+snippet: — Salade de Chèvre Chaud — mesclun de salade, chèvre chaud, toasts, vinaigrette soja &amp; sésame 16.-— Raviolis de Homard — ravioles de homard, pousse d’épinard, ricotta, sauce crème, champignons, estragon
+title: Entre Homard&amp;Côte - Home - Geneva, Switzerland - Menu ...
+snippet: Entre Homard&amp;Côte - Rue de Zurich 6, 1201 Geneva, Switzerland - Rated 4.9 based on 73 Reviews &quot;Great value for Switzerland. Good lobster, and wine...
+title: Entre Homard &amp; Côte, Genève - Menu, Prix, Restaurant Avis ...
+snippet: Réserver une table Entre Homard &amp; Côte, Genève sur Tripadvisor : consultez 298 avis sur Entre Homard &amp; Côte, noté 4.5 sur 5 sur Tripadvisor et classé #31 sur 1&#39;766 restaurants à Genève.
+title: Entre Homard&amp;Côte - Rue de Zurich 6, Geneva, Genève ...
+snippet: Entre Homard &amp; Côte is a modern French fresh seafood restaurant with a lively atmosphere and delicious food at a reasonable price. We ordered the lobster which comes with fries/chips and a salad. We highly recommend the dish and it pairs well with their rosé or the local pinot noir.
+title: Entre Homard &amp; Cote, Genève - Restaurantanmeldelser ...
+snippet: Entre Homard &amp; Cote, Genève: Se 298 objektive anmeldelser av Entre Homard &amp; Cote, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 31 av 1 764 restauranter i Genève.
+title: Entre Homard&amp;Côte - Posts | Facebook
+snippet: Entre Homard&amp;Côte - Rue de Zurich 6, 1201 Geneva, Switzerland - Rated 4.9 based on 77 Reviews &quot;Great value for Switzerland. Good lobster, and wine...
+title: Entre Homard&amp;Côte - Reviews - Geneva, Switzerland - Menu ...
+snippet: Entre Homard&amp;Côte – Rue de Zurich 6, 1201 Geneva, Switzerland – rated 4.9 based on 73 reviews &quot;Great value for Switzerland. Good lobster, and wine...
+title: Entre Homard et Cote Geneva | Spotted by Locals
+snippet: Lobster lovers and their beef eating friends need no longer be at odds: Entre Homard et Cote will bring together food lovers from across the meat and fish divide. Simply put, this restaurant is one of Geneva’s first surf and turf spots, offering lobster and beef.
+
+REL: 0
+POI Name: Kunstmuseum Luzern
+POI City: Lucerne
+POI Country: CH
+POI Main category: Arts & Entertainment
+POI Sub category: Art Museums, 
+Snippets:
+title: Startseite | KUNSTMUSEUM LUZERN
+snippet: Das Kunstmuseum Luzern gehört zu den bedeutendsten Schweizer Kunstmuseen. Zeitgenössische Kunst und die Sammlung laden zu Entdeckungen ein.
+title: Homepage | KUNSTMUSEUM LUZERN
+snippet: Das Kunstmuseum Luzern gehört zu den bedeutendsten Schweizer Kunstmuseen. Zeitgenössische Kunst und die Sammlung laden zu Entdeckungen ein.
+title: Visit | KUNSTMUSEUM LUZERN
+snippet: Address. Kunstmuseum Luzern Europaplatz 1 6002 Luzern Tel. +41 41 226 78 00 info@kunstmuseumluzern.ch. Opening hours. The Kunstmuseum Luzern, the Café and the shop will be closed from 17.03. until 07.06.
+title: Turner Meer Alpen | KUNSTMUSEUM LUZERN
+snippet: Das Meer und die Alpen feiert das Kunstmuseum Luzern 2019 das 200-Jahr-Jubiläum der Kunstgesellschaft Luzern, dem Trägerverein des Kunstmuseums Luzern. unterstützt von Stiftung für das Kunstmuseum Luzern, Art Mentor Foundation, Artclub Luzern, Bundesamt für Kultur, Stadt Luzern, Luzern Tourismus, ...
+title: Turner Meer Alpen | KUNSTMUSEUM LUZERN
+snippet: J.M.W. Turner, the world famous English painter, travelled around Switzerland several times in search of spectacular motifs. While doing so, he visited Lucerne repeatedly to study the unique interplay of light and weather, lake and mountains there.
+title: Café im Kunstmuseum Luzern, Lucerne ...
+snippet: Café im Kunstmuseum Luzern, Lucerne: Se 16 objektive anmeldelser av Café im Kunstmuseum Luzern, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 213 av 424 restauranter i Lucerne.
+title: Kunstmuseum Luzern | Switzerland Tourism
+snippet: The Kunstmuseum Luzern is located on the top floor of the Culture and Convention Center Lucerne (KKL), and was designed by Parisian architect Jean Nouvel as well.
+title: Cafe im Kunstmuseum Luzern, Lucerne - Restaurant Reviews ...
+snippet: Cafe im Kunstmuseum Luzern, Lucerne: See 16 unbiased reviews of Cafe im Kunstmuseum Luzern, rated 4.5 of 5 on Tripadvisor and ranked #214 of 424 restaurants in Lucerne.
+title: Kunstmuseum Luzern - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Sehenswürdigkeiten in der Nähe von Kunstmuseum Luzern: (0.49 km) SkyGlide Paragliding Lake Lucerne (0.08 km) Konzertsaal im KKL Luzern (0.15 km) Vierwaldstättersee (0.46 km) Altstadt Luzern (0.32 km) Kapellbrücke; Sehen Sie sich alle Sehenswürdigkeiten in der Nähe von Kunstmuseum Luzern auf Tripadvisor an.
+title: Museen Luzern
+snippet: Verein Museen Luzern: Bourbaki Panorama, Gletschergarten, Historisches Museum, Kunstmuseum, Militärmuseum, Natur-Museum, Richard Wagner Museum, Sammlung Rosengart, Verkehrshaus der Schweiz mit Hans Erni Museum
+
+REL: 0
+POI Name: Gletschergarten Löwendenkmal
+POI City: Lucerne
+POI Country: CH
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Home : Gletscher Garten Luzern
+snippet: Besuchen sie den Garten der gefrorenen Zeit. Der Gletschergarten ist 1 Milliarde Jahre alt. Er ist 300 Millionen Jahre alt. Er ist 25&#39;000 und auch nur 150 Jahre alt. Und er ist immer noch da und pure Gegenwart.
+title: Gletschergarten und Löwendenkmal | Schweiz Tourismus
+snippet: In der Stadt Luzern sind drei unterschiedliche Sehenswürdigkeiten unmittelbare Nachbarn: das weltbekannte Löwendenkmal, der Gletschergarten mit einem grossen Gebirgsrelief aus dem 18. Jahrhundert und das Spiegellabyrinth “Alhambra” mit 90 Spiegeln.
+title: Lion Monument - Wikipedia
+snippet: The Lion Monument (German: Löwendenkmal), or the Lion of Lucerne, is a rock relief in Lucerne, Switzerland, designed by Bertel Thorvaldsen and hewn in 1820–21 by Lukas Ahorn. It commemorates the Swiss Guards who were massacred in 1792 during the French Revolution, when revolutionaries stormed the Tuileries Palace in Paris.It is one of the most famous monuments in Switzerland, visited ...
+title: Home : Glacier Garden Lucerne - Gletschergarten Museum Luzern
+snippet: Die emsigen Zwerge Zipf, Zapf, Zepf und Zipfelwitz verbringen diesen Winter im Gletschergarten neben den Gletschertöpfen. In Ihrem Häuschen lässt sich sehen, wie sie leben und was sie tun. Zudem haben sich noch andere Zwerge in den Gletschertöpfen eingerichtet. Um diese zu entdecken, sind besonders gute Augen gefragt.
+title: Glacier Garden and Lion&#39;s Monument | Switzerland Tourism
+snippet: In the City of Lucerne, three different sights worth seeing are next-door neighbors: the world-famous Lion&#39;s Monument, the Glacier Garden, which has a large mountain relief dating to the 18th century, and the mirror labyrinth &quot;Alhambra&quot; with its 90 mirrors.
+title: Gletschergarten (Luzern) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Restaurants in der Nähe von Gletschergarten: (0.65 km) Restaurant Olivo (0.57 km) China Restaurant jialu National (0.39 km) Hotel Hofgarten Restaurant (0.75 km) SCALA RESTAURANT - Art Deco Hotel Montana (0.67 km) Song Pi Nong; Sehen Sie sich alle Restaurants in der Nähe von Gletschergarten auf Tripadvisor an.
+title: Gletschergarten - Löwendenkmal, Luzern Reisebewertungen ...
+snippet: Löwendenkmal: Gletschergarten - Auf Tripadvisor finden Sie 4.565 Bewertungen von Reisenden, 2.079 authentische Reisefotos und Top Angebote für Luzern, Schweiz.
+title: Hotel Gletschergarten - UPDATED 2020 Prices, Reviews ...
+snippet: Book Hotel Gletschergarten, Grindelwald on Tripadvisor: See 1,056 traveller reviews, 950 candid photos, and great deals for Hotel Gletschergarten, ranked #1 of 40 hotels in Grindelwald and rated 5 of 5 at Tripadvisor.
+title: Gletschergarten | Luzern.com
+snippet: Nach dem Besuch des Gletschergartens lohnt sich ein Abstecher ins Spiegellabyrinth. 90 Spiegel sorgen für absolute Verwirrung und lassen die Wege durch das Labyrinth unendlich erscheinen, obwohl sie in Wirklichkeit kurz sind. Tasten Sie sich langsam durch die Gänge - Ihre Lachmuskeln werden auf jeden Fall strapaziert.
+title: Spiegelsaal im Gletschergarten nebenan ist eine ...
+snippet: Löwendenkmal: Spiegelsaal im Gletschergarten nebenan ist eine Kostbarkeit - Auf Tripadvisor finden Sie 4&#39;565 Bewertungen von Reisenden, 2&#39;079 authentische Reisefotos und Top Angebote für Luzern, Schweiz.
+
+REL: 0
+POI Name: Restaurant Hopfenkranz
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Swiss Food, 
+Snippets:
+title: Stiefels Hopfenkranz - Hopfenkranz
+snippet: Im Hopfenkranz ist jeder Willkommen, der das kulinarische Herz am richtigen Fleck trägt und zu einem guten Glas Wein nicht nein sagen kann. Herzlich. ... Restaurant Stiefels Hopfenkranz Bewertung auf Falstaff. Stiefels Hopfenkranz Zürichstrasse 34 6004 Luzern. Stiefels auf Facebook.
+title: Stiefels Hopfenkranz, Lucerne - Restaurant Reviews, Photos ...
+snippet: Stiefels Hopfenkranz, Lucerne: See 76 unbiased reviews of Stiefels Hopfenkranz, rated 4.5 of 5 on Tripadvisor and ranked #115 of 424 restaurants in Lucerne.
+title: Stiefels Hopfenkranz, Luzern - Restaurant Bewertungen ...
+snippet: Stiefels Hopfenkranz, Luzern: 76 Bewertungen - bei Tripadvisor auf Platz 115 von 424 von 424 Luzern Restaurants; mit 4.5/5 von Reisenden bewertet.
+title: Restaurants Near Stiefels Hopfenkranz, Lucerne, Switzerland
+snippet: Restaurants near Stiefels Hopfenkranz, Lucerne on Tripadvisor: Find traveler reviews and candid photos of dining near Stiefels Hopfenkranz in Lucerne, Switzerland.
+title: Stiefels Hopfenkranz - Lucerne : a Michelin Guide restaurant
+snippet: Stiefels Hopfenkranz – a restaurant from the Michelin Guide Find all the information you need on the Stiefels Hopfenkranz restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… Stiefels Hopfenkranz - a Michelin Guide restaurant.
+title: STIEFELS HOPFENKRANZ, Lucerne - Updated 2020 Restaurant ...
+snippet: Stiefels Hopfenkranz, Lucerne: See 76 unbiased reviews of Stiefels Hopfenkranz, rated 4.5 of 5 on Tripadvisor and ranked #114 of 424 restaurants in Lucerne.
+title: The 10 Best Restaurants Near Stiefels Hopfenkranz, Lucerne ...
+snippet: Restaurants near Stiefels Hopfenkranz, Lucerne on Tripadvisor: Find traveller reviews and candid photos of dining near Stiefels Hopfenkranz in Lucerne, Switzerland.
+title: Stiefels Hopfenkranz, Lucerne - Restaurantanmeldelser ...
+snippet: Stiefels Hopfenkranz, Lucerne: Se 76 objektive anmeldelser af Stiefels Hopfenkranz, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 114 af 424 restauranter i Lucerne.
+title: Stiefels Hopfenkranz | Restaurants | Lucerne
+snippet: Hopfenkranz is probably the smallest, most down-to-earth fine dining restaurant in Lucerne, with space for just 25 lucky guests each night. Run by Moritz and Luigina Stiefel, (Moritz used to cook at Château Gütsch and Südpol ) they like to keep things as simple as possible here focusing on cuis
+title: STIEFELS HOPFENKRANZ, Lucerne - Omdömen om restauranger ...
+snippet: Stiefels Hopfenkranz, Lucerne: Se 76 objektiva omdömen av Stiefels Hopfenkranz, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer115 av 424 restauranger i Lucerne.
+
+REL: 0
+POI Name: Ruanthai Take Away
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Asian Fusion, Fast Food, 
+Snippets:
+title: Ruanthai Take Away, Lucerne - Restaurantanmeldelser ...
+snippet: Ruanthai Take Away, Lucerne: Se 35 objektive anmeldelser av Ruanthai Take Away, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 209 av 424 restauranter i Lucerne.
+title: Ruanthai Take Away, Lucerne - Restaurant Reviews, Photos ...
+snippet: Ruanthai Take Away, Lucerne: See 35 unbiased reviews of Ruanthai Take Away, rated 4 of 5 on Tripadvisor and ranked #210 of 422 restaurants in Lucerne.
+title: So fast So good Food Have many... - Ruanthai Take Away
+snippet: Ruanthai Take Away: So fast So good Food Have many different thai easy food If u r like to eat easy come to this restaurant, g - See 35 traveler reviews, 22 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: A great find - good Thai food, cozy... - Ruanthai Take Away
+snippet: Ruanthai Take Away: A great find - good Thai food, cozy atmostphere, reasonably priced - See 35 traveler reviews, 22 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Had Our First Dinner in Luzern There - Ruanthai Take Away
+snippet: Ruanthai Take Away: Had Our First Dinner in Luzern There - See 35 traveler reviews, 22 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Love it.! - Review of Ruanthai Take Away, Lucerne ...
+snippet: Ruanthai Take Away: Love it.! - See 35 traveler reviews, 22 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Ruanthai Take Away, Lucerne - Restaurantanmeldelser ...
+snippet: Ruanthai Take Away, Lucerne: Se 35 objektive anmeldelser af Ruanthai Take Away, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 211 af 424 restauranter i Lucerne.
+title: Best Thai food - Reviews, Photos - Ruanthai Take Away ...
+snippet: Ruanthai Take Away: Best Thai food - See 35 traveler reviews, 22 candid photos, and great deals for Lucerne, Switzerland, at Tripadvisor.
+title: Ruanthai Take Away, Luzern - Restaurant Bewertungen ...
+snippet: Ruanthai Take Away, Luzern: 35 Bewertungen - bei Tripadvisor auf Platz 211 von 422 von 422 Luzern Restaurants; mit 4/5 von Reisenden bewertet.
+title: RUANTHAI TAKE AWAY, Lucerne - Omdömen om restauranger ...
+snippet: Ruanthai Take Away, Lucerne: Se 35 objektiva omdömen av Ruanthai Take Away, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer211 av 424 restauranger i Lucerne.
+
+REL: 0
+POI Name: Restaurant Geissmatt
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Swiss Food, Italian, 
+Snippets:
+title: Restaurant Geissmatt, Lucerne - Restaurant Reviews, Photos ...
+snippet: Restaurant Geissmatt, Lucerne: See 365 unbiased reviews of Restaurant Geissmatt, rated 4.5 of 5 on Tripadvisor and ranked #3 of 425 restaurants in Lucerne.
+title: Restaurant Geissmatt, Lucerne - Restaurantanmeldelser ...
+snippet: Restaurant Geissmatt, Lucerne: Se 365 objektive anmeldelser av Restaurant Geissmatt, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 3 av 424 restauranter i Lucerne.
+title: Restaurant GEISSMATT : : : Kulinarisch in bester Laune
+snippet: Restaurant GEISSMATT : : : Kulinarisch in bester Laune
+title: Restaurant Geissmatt, Luzern - Restaurant Bewertungen ...
+snippet: Restaurant Geissmatt, Luzern: 365 Bewertungen - bei Tripadvisor auf Platz 3 von 425 von 425 Luzern Restaurants; mit 4.5/5 von Reisenden bewertet.
+title: De 10 beste restaurantene i nærheten av Restaurant Geissmatt
+snippet: Restauranter i nærheten av Restaurant Geissmatt på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Restaurant Geissmatt, Lucerne.
+title: Restaurant Geissmatt, Lucerne - Restaurant Avis, Numéro de ...
+snippet: Restaurant Geissmatt, Lucerne : consultez 365 avis sur Restaurant Geissmatt, noté 4,5 sur 5 sur Tripadvisor et classé #3 sur 424 restaurants à Lucerne.
+title: Restaurant Geissmatt, Lucerne - Restaurant Avis, Numéro de ...
+snippet: Restaurant Geissmatt, Lucerne : consultez 365 avis sur Restaurant Geissmatt, noté 4.5 sur 5 sur Tripadvisor et classé #3 sur 425 restaurants à Lucerne.
+title: RESTAURANT GEISSMATT, Lucerne - Restaurant Reviews, Photos ...
+snippet: Restaurant Geissmatt, Lucerne: See 365 unbiased reviews of Restaurant Geissmatt, rated 4.5 of 5 on Tripadvisor and ranked #3 of 424 restaurants in Lucerne.
+title: Restaurant Geissmatt, Lucerne - Restaurant Reviews, Phone ...
+snippet: Restaurant Geissmatt, Lucerne: See 364 unbiased reviews of Restaurant Geissmatt, rated 4.5 of 5 on Tripadvisor and ranked #4 of 422 restaurants in Lucerne.
+title: Restaurant Geissmatt, Lucerne - Restaurant Reviews, Phone ...
+snippet: Restaurant Geissmatt, Lucerne: See 364 unbiased reviews of Restaurant Geissmatt, rated 4.5 of 5 on TripAdvisor and ranked #2 of 418 restaurants in Lucerne.
+
+REL: 0
+POI Name: Badi beim Bootssteg Kilchberg
+POI City: Kilchberg
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Local Flavor, Beaches, 
+Snippets:
+
+
+REL: 0
+POI Name: Chris's Bar and Restaurant
+POI City: Lucerne
+POI Country: CH
+POI Main category: Education
+POI Sub category: 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: THE 10 BEST Restaurants in Lucerne - Updated April 2020 ...
+snippet: Best Dining in Lucerne, Canton of Lucerne: See 44,002 Tripadvisor traveler reviews of 442 Lucerne restaurants and search by cuisine, price, location, and more.
+title: De 10 beste restaurantene i Lucerne - Tripadvisor
+snippet: Beste restauranter i Lucerne, Sveits: Se anmeldelser fra reisende og bilder av spisesteder i Lucerne, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Restaurant Rathaus Brauerei Luzern, Lucerne - Menu, Prices ...
+snippet: Restaurant Rathaus Brauerei Luzern, Lucerne: See 1,207 unbiased reviews of Restaurant Rathaus Brauerei Luzern, rated 4 of 5 on Tripadvisor and ranked #41 of 425 restaurants in Lucerne.
+title: A weekend break in... Lucerne - The Daily Telegraph
+snippet: Read our guide to the best things to do on a short break in Lucerne, as recommended by Telegraph Travel. ... Switzerland, including the best bars, restaurants, hotels and things to do.
+title: Restaurants | Luzern.com - Lucerne
+snippet: Due to the current situation regarding the Coronavirus unfortunately our tourist offices at the railway station in Lucerne an on Seestrasse 5 in Weggis remain closed until further notice. You can contact us by phone, e-mail and chat: luzern@luzern.com or +41 (0)41 227 17 17.
+title: NATIONAL - Restaurant Bar Terrasse, Lucerne - Restaurant ...
+snippet: NATIONAL - Restaurant Bar Terrasse, Lucerne: See 107 unbiased reviews of NATIONAL - Restaurant Bar Terrasse, rated 4 of 5 on Tripadvisor and ranked #135 of 424 restaurants in Lucerne.
+title: Shamrock Irish Pub, Lucerne - Menu, Prices &amp; Restaurant ...
+snippet: Shamrock Irish Pub, Lucerne: See 139 unbiased reviews of Shamrock Irish Pub, rated 4.5 of 5 on Tripadvisor and ranked #56 of 425 restaurants in Lucerne.
+title: Chris&#39;s Beachside, St. Pete Beach - Restaurant Reviews ...
+snippet: Chris&#39;s Beachside, St. Pete Beach: See 50 unbiased reviews of Chris&#39;s Beachside, rated 4.5 of 5 on Tripadvisor and ranked #80 of 121 restaurants in St. Pete Beach. Flights ... We were at Chris&#39; Beachside bar this past weekend during the St Pete Beach Bikefest event and had a blast.
+title: The 10 Best Bars In Lucerne, Switzerland
+snippet: The bar is part of a 19th-century hotel on a wooded hill overlooking Lucerne, and the panoramic windows make the beautiful landscape a part of the decor. The U-shaped green velvet banquette in one corner of the bar is probably the best seat in town, where you can sip your champagne while enjoying an almost 270-degree bird’s eye view of Lucerne.
+
+REL: 0
+POI Name: Aperto
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Sandwiches, 
+Snippets:
+title: de.yelp.ch
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: I 10 migliori hotel con piscina di Lucerna, Svizzera ...
+snippet: Regular shuttle bus to Lucerne. ... Le piscine coperte sono l&#39;ideale per nuotare in qualsiasi condizione climatica, mentre le piscine all&#39;aperto ti permetteranno di rilassarti su un lettino dopo aver fatto qualche bracciata. Cerca Hotel con piscina a Lucerna.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: LE MIGLIORI 10 attività all&#39;aperto a Cantone di Lucerna ...
+snippet: Attività all&#39;aperto a Cantone di Lucerna: vedi le recensioni e le foto su Tripadvisor di attività all&#39;aperto a Cantone di Lucerna, Svizzera.
+title: Aperto Café in Luzern, Schweiz Reiseführer - tripwolf
+snippet: Aperto, Café in Luzern, Schweiz mit den besten Bewertungen und Fotos für Aperto.
+title: I migliori 10 ristoranti con tavoli all&#39;aperto: Cantone di ...
+snippet: Migliori ristoranti con tavoli all&#39;aperto a Cantone di Lucerna, Svizzera: trova le recensioni dei viaggiatori di Tripadvisor sui migliori ristoranti con tavoli all&#39;aperto a Cantone di Lucerna e fai ricerche per prezzo, località e altro.
+title: Aperto A Luzern in the Swiss Driving Instructors
+snippet: Aperto A in 6004 Luzern offers training in Car, Taxi, Car trailer, Coach, Boat, First and teaches in German, English. Prices from CHF 55.
+title: Aperto Gift Card - Lucerne, LU | Giftly
+snippet: Buy a Aperto gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for Aperto, Bahnhof, Lucerne, LU.
+title: Lucerna Attività all&#39;aperto (con i prezzi)
+snippet: Attività all&#39;aperto a Lucerna. Prenota Attività all&#39;aperto a Lucerna con Viator. Questo sito utilizza i cookie per migliorare l&#39;esperienza degli utenti, per aumentare la sicurezza e per mostrare annunci pubblicitari personalizzati. Fai clic qui per maggiori informazioni o per verificare le tue impostazioni.
+title: Hotel Rothaus Luzern &amp; Peruvian Culinary Art, Lucerna ...
+snippet: Posizione centrale disponibilità e gentilezza del personale (abbiamo cancellato la prenotazione di una camera la mattina dell’arrivo, ma non ci hanno addebitato l’importo nonostante fosse scaduto il periodo di cancellazione gratuita) camera essenziale, ma pulita e confortevole (era al quinto piano), bella vista sul monte Pilatus dal terrazzino, colazione semplice, ma buona ci hanno ...
+
+REL: 0
+POI Name: Yogastudio Aktiv-Wellness
+POI City: Arisdorf
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+
+
+REL: 0
+POI Name: LUZ Seebistro
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, 
+Snippets:
+title: Luz Seebistro, Lucerne - Restaurant Reviews, Photos ...
+snippet: Luz Seebistro, Lucerne: See 181 unbiased reviews of Luz Seebistro, rated 4 of 5 on Tripadvisor and ranked #122 of 425 restaurants in Lucerne.
+title: luzseebistro.ch
+snippet: Skip to main content. LUZ ...
+title: Luz Seebistro, Lucerne - Restaurantanmeldelser - Tripadvisor
+snippet: Luz Seebistro, Lucerne: Se 181 objektive anmeldelser av Luz Seebistro, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 122 av 425 restauranter i Lucerne.
+title: LUZ SEEBISTRO, Lucerne - Updated 2020 Restaurant Reviews ...
+snippet: Luz Seebistro, Lucerne: See 181 unbiased reviews of Luz Seebistro, rated 4 of 5 on Tripadvisor and ranked #122 of 425 restaurants in Lucerne.
+title: LUZ Seebistro | Luzern.com
+snippet: LUZ Seebistro Lucerne × The LUZ Seebistro features fine fin-de-siècle detailing. Benefitting from an enviable over-water location not far from the station, the premises used to be a waterways ticket office. In fine weather, patrons on the large terrace watching the paddle steamers come and go can imagine themselves in some southerly resort.
+title: De 10 beste restaurantene i nærheten av Luz Seebistro
+snippet: Restauranter i nærheten av Luz Seebistro på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Luz Seebistro, Lucerne.
+title: LUZ Seebistro | Luzern.com
+snippet: Die Küche im LUZ Seebistro ist saisonal. Im Sommer geniessen Sie eine Auswahl an Grillspezialitäten und Salaten, im Winter wird Wärmendes aus dem Suppentopf und Ofen serviert. Im Winter bietet das LUZ auch Leckerbissen für die Ohren. Regelmässig treten Musiker auf. Das LUZ ist ein Walk-In Restaurant.
+title: Luz Seebistro, Lucerne - Restaurantanmeldelser - Tripadvisor
+snippet: Luz Seebistro, Lucerne: Se 181 objektive anmeldelser af Luz Seebistro, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 122 af 425 restauranter i Lucerne.
+title: Luz Seebistro, Lucerne - Restaurant Reviews, Phone Number ...
+snippet: Luz Seebistro, Lucerne: See 181 unbiased reviews of Luz Seebistro, rated 4 of 5 on Tripadvisor and ranked #122 of 424 restaurants in Lucerne.
+title: Luz Seebistro, Luzern - Restaurant Bewertungen ...
+snippet: Luz Seebistro, Luzern: 181 Bewertungen - bei Tripadvisor auf Platz 122 von 425 von 425 Luzern Restaurants; mit 4/5 von Reisenden bewertet.
+
+REL: 0
+POI Name: Heini Conditorei
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Lozärner Rägetröpfli, Praliné und ... - HEINI Luzern
+snippet: HEINI Luzern bietet eine vorzügliche Auswahl an feinen Einzigartigkeiten: Lozärner Rägetröpfli, Pralinen Meisterkollektion, TREICHLER Zuger Kirschtorte, Sch
+title: Heini Conditorei - Lucerne Tourism
+snippet: Heini Conditorei is known for its first-rate selection of cakes and confectionery. From the traditional Lucerne festive cake to the Zug «Kirschtorte», Heini knows how to keep its customers sweet. That said, Heini serves more than cakes and confectionery: its savoury menu includes soups, fresh salads and crispy bread.
+title: Konditorei &amp; Cafe Heini, Lucerne - Bahnhofplatz ...
+snippet: Konditorei &amp; Cafe Heini, Lucerne: See 132 unbiased reviews of Konditorei &amp; Cafe Heini, rated 4 of 5 on Tripadvisor and ranked #132 of 424 restaurants in Lucerne.
+title: Konditorei &amp; Cafe Heini, Lucerne - Restaurantanmeldelser ...
+snippet: Konditorei &amp; Cafe Heini, Lucerne: Se 156 objektive anmeldelser av Konditorei &amp; Cafe Heini, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 129 av 425 restauranter i Lucerne.
+title: Kontakt - HEINI Luzern
+snippet: HEINI Luzern bietet eine vorzügliche Auswahl an feinen Einzigartigkeiten: Lozärner Rägetröpfli, Pralinen Meisterkollektion, TREICHLER Zuger Kirschtorte, Sch
+title: Heini Conditorei - Essen in Luzern | Luzern.com
+snippet: Die Konditorei Heini ist bekannt für ihre vorzügliche Tortenvielfalt. Von der Luzerner Festtagstorte über die Zuger Kirschtorte, im Heini finden Sie alles, was Ihr süsses Herz begehrt. Aber natürlich können Sie sich im Heini nicht nur von Süssem verwöhnen lassen. Leckere Suppen, frische Salate und knuspriges Brot stehen auf der Speisekarte.
+title: Offene Stellen bei HEINI Luzern - HEINI Luzern
+snippet: Offene Stellen bei HEINI Luzern Wir setzen uns mit viel Hingabe und Engagement dafür ein, dass unsere Kundinnen und Gäste täglich mit Spitzenleistungen überzeugt/überrascht werden. Dazu brauchen wir Sie.
+title: Aktuelles - HEINI Luzern
+snippet: HEINI Luzern bietet eine vorzügliche Auswahl an feinen Einzigartigkeiten: Lozärner Rägetröpfli, Pralinen Meisterkollektion, TREICHLER Zuger Kirschtorte, Sch
+title: Heini Conditorei - Luzern, Luzern - Foursquare
+snippet: Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Heini Conditorei - Essen in Luzern - Lucerne Tourisme
+snippet: La pâtisserie Heini Conditorei est réputée pour la grande diversité de ses délicieuses tourtes. Vous y trouvez tout ce qu’un amateur de douceurs souhaite, de la tourte de fête à la lucernoise à la tourte au kirsch de Zoug. Mais chez Heini, vous ne savourez pas seulement des douceurs.
+
+REL: 0
+POI Name: Geneva International Motor Show, GIMS
+POI City: Geneva
+POI Country: CH
+POI Main category: Arts & Entertainment
+POI Sub category: Trade Fairs, 
+Snippets:
+title: Gims | Geneva International Motor Show
+snippet: 90th International Motor Show, Palexpo, 5 - 15 March 2020. World premieres in car industry, international car exposition. Gims | Geneva International Motor Show
+title: THE GENEVA INTERNATIONAL MOTOR SHOW IS CANCELLED! | Geneva ...
+snippet: The 90th edition of the GIMS, which was supposed to welcome the media from next Monday and the general public from 5 to 15 March 2020, will now finally not take place. This is an injonction decision of the Federal Council of 28 February 2020 that no events with more than 1,000 people are allowed to take place until 15 March 2020. The decision falls 3 days before the opening of the exhibition ...
+title: GIMS VIP Day | Geneva International Motor Show
+snippet: gims vip day on 4 march 2020 At GIMS VIP Day leading executives and thought-provoking personalities from automotive and tech will discuss the topics that are shaping the future of mobility. At GIMS VIP Day attendees will have the chance to to see world and European car premieres.
+title: Gims | Geneva International Motor Show
+snippet: 90e Salon International de l&#39;Auto et Accessoires, Palexpo, du 5 au 15 mars 2020. Nouveauté mondiale de l&#39;automobile. Salon international de l&#39;auto | Geneva International Motor Show
+title: Geneva International Motor Show Geneva - Event Info And ...
+snippet: Learn more about Geneva International Motor Show in Geneva, Switzerland and book your hotel accommodation. GIMS 2020, which was scheduled on 5 - 15 March, was cancelled after the decision of the Federal Council banning all events gathering over 1000 people until 15 March 2020. The event organisers issued a statement, i...
+title: Geneva International Motor Show - Home | Facebook
+snippet: Geneva International Motor Show, Grand-Saconnex, Switzerland. 155,788 likes · 66 talking about this · 34,064 were here. 90th Geneva International Motor Show &gt; March 5-15, 2020 www.gims.swiss
+title: GIMS SWISS - Geneva International Motor Show - YouTube
+snippet: WELCOME TO THE OFFICIAL GENEVA MOTOR SHOW CHANNEL In preview, we’re pleased to present you the new GIMS SWISS 2019 branding. We take this opportunity to announce the official opening of our new ...
+title: GENEVA INTERNATIONAL MOTOR SHOW (GIMS) - Geneva ...
+snippet: From the first car exhibition in Switzerland in 1905 to the international motor show of nowadays; the Geneva International Motor Show is one of the top five events worldwide not to be missed. An exciting adventure to discover.
+title: GIMS – GENEVA INTERNATIONAL MOTOR SHOW - Things to do in ...
+snippet: FROM THE 7th TO THE 17th OF MARCH the 89th edition of the Geneva International Motor Show (GIMS) takes place at Palexpo in Geneva. About 220 exhibitors, including major carmakers, many designers, equipment and industrial suppliers will present around 900 cars across seven halls at the Palexpo centre in Geneva.
+title: Official: 2020 Geneva Motor Show Canceled Amid Coronavirus ...
+snippet: The 90th Geneva Motor Show will not take place as the Swiss goverment has banned public gatherings of more than 1,000 people due to Coronavirus concerns.
+
+REL: 0
+POI Name: Neville's Fine Indian Dining
+POI City: Lucerne
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+title: Neville&#39;s Fine Indian Dining – Neville&#39;s Fine Indian Dining
+snippet: Email: info@nevilles.ch. Gemäs einem Sprichwort lebt derjenige, der das Glück hat etwas zu essen, das er vorher noch nie gegessen hat, 75 Tage länger. Ihr Gastgeber. Neville Seneviratne. Hauptspeisen. Malabar Chicken Biriyani. Die bekanteste Festmahlzeit. Im Saffranreis gekochtes zartes Poulet.
+title: Neville&#39;s Fine Indian Dining, Lucerne - Menu, Prices ...
+snippet: Neville&#39;s Fine Indian Dining, Lucerne: See 89 unbiased reviews of Neville&#39;s Fine Indian Dining, rated 4 of 5 on Tripadvisor and ranked #126 of 425 restaurants in Lucerne.
+title: Neville&#39;s Fine Indian Dining, Lucerne ...
+snippet: Neville&#39;s Fine Indian Dining, Lucerne: Se 89 objektive anmeldelser av Neville&#39;s Fine Indian Dining, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 127 av 424 restauranter i Lucerne.
+title: Neville&#39;s Fine Indian Dining, Luzern - Menü, Preise ...
+snippet: Neville&#39;s Fine Indian Dining, Luzern: 89 Bewertungen - bei Tripadvisor auf Platz 126 von 425 von 425 Luzern Restaurants; mit 4/5 von Reisenden bewertet.
+title: Horrible will be an understatement... - Neville&#39;s Fine ...
+snippet: Neville&#39;s Fine Indian Dining: Horrible will be an understatement. Negative rating if possible. - See 88 traveler reviews, 12 candid photos, and great deals for Lucerne, Switzerland, at TripAdvisor.
+title: Neville’s Fine Indian Dining, Lucerne - Get Neville’s Fine ...
+snippet: Neville’s Fine Indian Dining: Get the Reviews, Cuisine, Photos, Phone no, Address, Amenity &amp; more for Neville’s Fine Indian Dining Restaurants in Lucerne at Happytrips.com
+title: NEVILLE&#39;S FINE INDIAN DINING, Lucerne - Omdömen om ...
+snippet: Neville&#39;s Fine Indian Dining, Lucerne: Se 89 objektiva omdömen av Neville&#39;s Fine Indian Dining, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer126 av 424 restauranger i Lucerne.
+title: Neville&#39;s Fine Indian Dining, Lucerna - recenzje ...
+snippet: Neville&#39;s Fine Indian Dining, Lucerna: zobacz bezstronne recenzje (89 ) na temat Neville&#39;s Fine Indian Dining, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 126 z 425 restauracji w Lucernie.
+title: Neville&#39;s Fine Indian Dining - Home - Luzern, Switzerland ...
+snippet: Neville&#39;s Fine Indian Dining, Lucerne, Switzerland. 194 likes. Feine Indische Kost im Herzen von Luzern, auch zum mitnehmen.
+title: Restaurants Near Neville&#39;s Fine Indian Dining, Lucerne ...
+snippet: Restaurants near Neville&#39;s Fine Indian Dining, Lucerne on Tripadvisor: Find traveller reviews and candid photos of dining near Neville&#39;s Fine Indian Dining in Lucerne, Switzerland.
+
+REL: 0
+POI Name: Herzog Sport AG
+POI City: Binningen
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Active Life, Arts & Crafts, Motorcycle Dealers, 
+Snippets:
+
+
+REL: 0
+POI Name: La Buvette De L'ilôt 13
+POI City: Geneva
+POI Country: CH
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: La Buvette De L’ilôt 13 - Geneva, Genève, Switzerland
+snippet: La Buvette De L&#39;ilôt 13 in Geneva, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Geneva and beyond.
+title: Accueil :: L&#39;Ilôt 13
+snippet: Hébergé par Darksite, le portail culturel alternatif romand.. Back to Top
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: LA BUVETTE DES BAINS DES PAQUIS, Geneva - Mont-Blanc ...
+snippet: La buvette des Bains des Paquis, Geneva: See 738 unbiased reviews of La buvette des Bains des Paquis, rated 4 of 5 on Tripadvisor and ranked #107 of 1,765 restaurants in Geneva. Flights Holiday Rentals ... (La Rade) serving all sorts of fresh food.
+title: La Buvette :: L&#39;Ilôt 13
+snippet: La Buvette de l&#39;Ilôt 13 est gérée par l&#39;Association et animée par &quot;L&#39;Équipe Buvette&quot;. L’aménagement, les horaires, le choix et les prix des consommations, etc. sont discutés lors des réunions de l&#39;Association.
+title: L&#39;Association :: L&#39;Ilôt 13
+snippet: La Maison des Habitants, qui comprend la Buvette et l&#39;Écurie, est le lieu d&#39;hébergement de l&#39;Association des Habitants de l&#39;Ilôt 13. Elle se trouve à la rue de Monbrillant 14 à Genève, en bas du parc des Cropettes, derrière la gare Cornavin.
+title: Contact :: L&#39;Ilôt 13
+snippet: La meilleure façon de contacter l&#39;Association des Habitants de l&#39;Ilôt 13 est de venir discuter directement avec les membres aux réunions hebdomadaires qui ont lieu tous les lundis à partir de 19h30 à la Buvette ou d&#39;écrire à l&#39;adresse suivante :
+title: Adresse :: L&#39;Ilôt 13
+snippet: La Maison des Habitants, qui comprend la Buvette et l&#39;Écurie, est le lieu d&#39;hébergement de l&#39;Association des Habitants de l&#39;Ilôt 13. Elle se trouve à la rue de Monbrillant 14 à Genève, en bas du parc des Cropettes, derrière la gare Cornavin.
+title: Restaurant L&#39;ilôt 13 à Genève - iTaste
+snippet: Restaurant L&#39;ilôt 13 à Genève, découvrez toutes les infos, menus et avis de critiques sur cet établissement, réservation en ligne, Fondue, Suisse. ... iTaste est un site communautaire consacré exclusivement à la gastronomie.
+title: L&#39;Écurie :: L&#39;Ilôt 13
+snippet: L’Assoce souhaite continuer de favoriser l&#39;entrée libre, en invitant le public à déposer une obole dans la tirelire et en appliquant une majoration aux boissons de la Buvette. Cette politique permet à un large public de découvrir et d’expérimenter des formes artistiques auxquelles il ne se confronterait pas d’emblée.
+
+REL: 0
+POI Name: Dy Fit
+POI City: Münchenstein
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, Pilates, 
+Snippets:
+
+
+REL: 0
+POI Name: JETBOAT Interlaken
+POI City: Bönigen
+POI Country: CH
+POI Main category: Hotels & Travel
+POI Sub category: Boat Tours, Boat Charters, 
+Snippets:
+
+
+REL: 0
+POI Name: Leutschenweg
+POI City: Freienbach
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Amusement Parks, Landmarks & Historical Buildings, Hiking, 
+Snippets:
+
+
+REL: 0
+POI Name: Les Filles Indignes
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Delicatessen, Coffee & Tea, 
+Snippets:
+title: LES FILLES INDIGNES
+snippet: Les filles indignes . Etablissement ouvert depuis décembre 2014. Ce concept store intégre un café-bibliothèque, conçu comme une pièce de lecture à l&#39;ancienne, un take-away et une épicerie fine. Des rayonnages débordant de livres d&#39;occasion à vendre et à consulter sur place.
+title: Les Filles Indignes, Genève - Restaurantanmeldelser ...
+snippet: Spise middag i Genève: Se 41 anmeldelser fra Tripadvisor-reisende av 1 764restauranter i Genève, og søk etter kjøkken, pris, sted og mer.
+title: Les Filles Indignes, Genève - Restaurant Avis, Numéro de ...
+snippet: Les Filles Indignes, Genève : consultez 41 avis sur Les Filles Indignes, noté 4 sur 5, l&#39;un des 1&#39;766 restaurants de Genève sur Tripadvisor.
+title: Les Filles Indignes - Geneva, Genève, Switzerland
+snippet: 8 reviews of Les Filles Indignes &quot;CHARMING cafe with some simple food, and nice juices. Excellent service. By American standards, certainly over-priced. By Geneva standards, pretty reasonable. Good outdoor sitting too although inside is so…
+title: Café - Picture of Les Filles Indignes, Geneva - Tripadvisor
+snippet: Les Filles Indignes, Geneva Picture: Café - Check out Tripadvisor members&#39; 30,603 candid photos and videos of Les Filles Indignes
+title: Les Filles Indignes | Delicatessen | My Big Geneva
+snippet: My Big is Geneva most connected city guide &amp; blog: imagine myself when I found out that Marie had opened a delicatessen with the name “Les Filles Indignes”
+title: Facebook
+snippet: See posts, photos and more on Facebook.
+title: Café - Picture of Les Filles Indignes, Geneva - Tripadvisor
+snippet: Les Filles Indignes, Geneva Picture: Café - Check out Tripadvisor members&#39; 30,691 candid photos and videos of Les Filles Indignes. Geneva. Geneva Tourism Geneva Hotels Geneva Bed and Breakfast Geneva Vacation Rentals Geneva Vacation Packages Flights to Geneva Geneva Restaurants
+title: Les Filles Indignes (Genève) – Quand est-ce qu&#39;on mange?
+snippet: Les Filles Indignes (Genève) Un de nos cafés préférés à Genève, clairement! Pour sa bonne ambiance, sa playlist (canon pour les trentenaires), sa déco et son choix salé/sucrée de productions maison.
+title: Les Filles Indignes ?! – WHAT&#39;S HOT IN GENEVA
+snippet: Il est 10h du mat , Avec Sara on a prévu une journée de fou, mission : écumer Plainpalais et ses multiples spots branchouilles. Plainpalais , vous le saviez déjà, c’est le quartier des créatifs, des artistes, des bobos .. Le quartier des concepteurs ! 1er Stop : Les Filles Indignes .. A peine rentrée…
+
+Cand cities: {'Luzern', 'Lucerne', 'Matten bei Interlaken', 'Unterseen', 'Zürich', 'Stoos SZ', 'Alpnachstad', 'Rapperswil-Jona', 'Münchenstein', 'Bönigen', 'Arisdorf', 'Geneva', 'Habkern', 'Kilchberg', 'Freienbach', 'Jungfraujoch', 'Binningen'}

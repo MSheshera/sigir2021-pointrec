@@ -1,0 +1,888 @@
+City: Zurich
+Country: CH
+Main category: Active Life
+Sub category: Gyms
+Description: Hi guys, I am looking for a new gym in Zurich: I only need basic equipment like: barbell in a squatrack, dip bars, pullup bars. The gym should be located somewhere around Kreis 1 or 8. Ideally, it has long opening hours (e.g. 06:00 - 23:00), also on weekends. Price should be reasonable, but not most important criterion. Any recommendations?
+Rated POIs: 47
+Rel distr: [(0, 24), (1, 6), (2, 6), (3, 11)]
+=================================
+REL: 3
+POI Name: Silhouette Forum
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Basefit
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Rundum Xsund
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Activ Fitness
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: INDIGO
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Activ-Fitness
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: West Side Fitness
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Booster
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Pilates, Gyms, Cardio Classes, 
+Snippets:
+
+
+REL: 3
+POI Name: Exersuisse
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Airport Fitness & Wellness
+POI City: Zürich-Flughafen
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Reebok Crossfit
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Vif Fitness Club
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Fitnesspark Münstergasse
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Day Spas, Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Fitnesspark Puls 5
+POI City: Zürich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Silhouette
+POI City: Zurich
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Sports Clubs, 
+Snippets:
+title: Silhouette Brillen | Iconic Eyewear made in Austria. Since ...
+snippet: Silhouette Brillen verbinden höchste Präzision, Innovation und die Liebe zum Detail. Von randlosen Brillen, über Halb- und Vollrandbrillen bis hin zu Sonnenbrillen für perfekten UV-Schutz.
+title: de.yelp.ch
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Willkommen bei ACTIV FITNESS
+snippet: 1. Klicken Sie auf den folgenden Link: activfitness@home 2. Klicken Sie oben rechts auf «Einloggen» 3. Geben Sie im Feld «Code für Registrierung» folgenden Code ein: activfitness2020 und klicken Sie auf «Jetzt einlösen» 4.
+title: Grace Carter - Silhouette (Official Video) - YouTube
+snippet: Music video by Grace Carter performing Silhouette. (C) 2018 Grace Carter, under exclusive licence to Universal Music Operations Limited Tickets on sale now for European tour this March/April ...
+title: Tom Odell - Silhouette (Official Video) - YouTube
+snippet: 50+ videos Play all Mix - Tom Odell - Silhouette (Official Video) YouTube Harry Styles - Sign of the Times (Video) - Duration: 5:42. Harry Styles 598,825,287 views
+title: Silhouette - Zurich - WorldPlaces
+snippet: Get address of Silhouette - Zurich, submit your review or ask any question about Silhouette, search nearby places on map.
+title: Silhouette Soft Facelift | Ohne OP | Zürich - Zurich Plastics
+snippet: PDO Thread Lift / Silhouette Soft Facelift. Der PDO Thread Lift bzw. das Silhouette Soft Facelift ist ein einzigartiges, nicht-invasives Verfahren, welches ein jugendlicheres Aussehen durch Straffung des Gewebes und Konturierung von Gesichtspartien ermöglicht.
+title: Silhouette Fitness - Zurich
+snippet: Get address of Silhouette Fitness - Zurich, submit your review or ask any question about Silhouette Fitness, search nearby places on map.
+title: Silhouette of zurich city stock photo. Image of castle ...
+snippet: Photo about Silhouette of zurich city in a clear dusk. Image of castle, bird, cityscape - 22789284
+
+REL: 2
+POI Name: TimeOut Fitness
+POI City: Zunzgen
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: NonStop Gym
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Welcome | NonStop Gym
+snippet: NonStop Gym Pâquis is now open ! On December 5 , NonStop Gym opened our 8th Club in Geneva, close to the train station Cornavin. At Rue de Lausanne 80, you will find everything you need for your quality training at a great price, with unlimited access 24/7. More information » Join now at 49.- / month »
+title: Bienvenue | NonStopGym
+snippet: NonStop Gym Pâquis est ouvert ! Le 5 décembre, NonStop Gym a ouvert un 8ème club à Genève, proche de la gare Cornavin. Idéalement situé à la Rue de Lausanne vous y trouverez l’essentiel pour des entraînements de qualité à petit prix avec un accès en illimité 24h/24. En savoir plus » Abonnez-vous à 49.-/mois »
+title: Sign-up | NonStop Gym
+snippet: If NonStop Gym turns out to not be the right fit for you, you get your money back. No questions asked. You’ll have seven days to let us know after your membership is activated, then the offer ends.
+title: Our clubs | NonStop Gym
+snippet: Discover all our clubs. GENEVA. NonStop Gym Blandonnet » Chemin des Papillons 4, 1216 Cointrin NonStop Gym Carouge » Avenue Cardinal-Mermillod 36, 1227 Carouge NonStop Gym Champel » Rue Le-Corbusier 22, 1208 Genève NonStop Gym Chêne-Bourg » Chemin de la Gravière 3, 1225 Chêne-Bourg SOON NonStop Gym Eaux-Vives » Rue de Jargonnant 2, 1207 Genève NonStop Gym Jonction » Rue des Deux ...
+title: Training | NonStop Gym
+snippet: Anthony in Biel- ant@nonstopgym.com In my training, I use the 4-pillar philosophy: training, diet, mental strength and time. Read more » As an advocate of a fitness lifestyle and a former owner of a surf school I founded Shapedays.ch a very relaxing fitness holiday with a personal touch that gives you the perfect balance between relaxation, fitness, fun and relaxation.
+title: NonStop Gym - Home | Facebook
+snippet: See more of NonStop Gym on Facebook. Log In. Forgot account? or. Create New Account. Not Now. NonStop Gym (Eaux-Vives) Gym/Physical Fitness Center in Geneva, Switzerland. 5. 5 out of 5 stars. Always Open. Community See All. 130 people like this. 133 people follow this. 529 check-ins. About See All. Rue de Jargonnant 2 (4,085.03 mi)
+title: NonStop Gym - Home | Facebook
+snippet: NonStop Gym. 8,602 likes · 96 talking about this · 5,285 were here. Fitness à petit prix. Toujours ouvert. Inscrivez-vous sur nonstopgym.com
+title: NonStop Gym - Home | Facebook
+snippet: Geneva, Switzerland 1205. Get Directions. NonStop Gym Location +41 22 320 13 00. Contact NonStop Gym on Messenger. www.nonstopgym.com. Gym/Physical Fitness Center. Hours . Always Open. Page Transparency See More. ... Tous les fans de Jonction ? Suivez nos news sur la page NonStop Gym principale : ...
+title: NonStop Gym - Home | Facebook
+snippet: NonStop Gym, Genève. 143 likes · 5 talking about this · 989 were here. À propos Bienvenue à NonStop Gym. Nous offrons des entraînements de qualité à petit prix. Et nous sommes ouverts 24/7....
+title: NonStop Gym - Home | Facebook
+snippet: See more of NonStop Gym on Facebook. Log In. Forgot account? or. Create New Account. Not Now. NonStop Gym (Pâquis) Gym/Physical Fitness Center in Geneva, Switzerland. Always Open. ABOUT NONSTOP GYM. NonStop Gym. NonStop Gym est le club de fitness le plus économique et le plus accessible de Genève.
+
+REL: 1
+POI Name: NonStop Gym
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Welcome | NonStop Gym
+snippet: NonStop Gym Pâquis is now open ! On December 5 , NonStop Gym opened our 8th Club in Geneva, close to the train station Cornavin. At Rue de Lausanne 80, you will find everything you need for your quality training at a great price, with unlimited access 24/7. More information » Join now at 49.- / month »
+title: Bienvenue | NonStopGym
+snippet: NonStop Gym Pâquis est ouvert ! Le 5 décembre, NonStop Gym a ouvert un 8ème club à Genève, proche de la gare Cornavin. Idéalement situé à la Rue de Lausanne vous y trouverez l’essentiel pour des entraînements de qualité à petit prix avec un accès en illimité 24h/24. En savoir plus » Abonnez-vous à 49.-/mois »
+title: Sign-up | NonStop Gym
+snippet: If NonStop Gym turns out to not be the right fit for you, you get your money back. No questions asked. You’ll have seven days to let us know after your membership is activated, then the offer ends.
+title: Our clubs | NonStop Gym
+snippet: Discover all our clubs. GENEVA. NonStop Gym Blandonnet » Chemin des Papillons 4, 1216 Cointrin NonStop Gym Carouge » Avenue Cardinal-Mermillod 36, 1227 Carouge NonStop Gym Champel » Rue Le-Corbusier 22, 1208 Genève NonStop Gym Chêne-Bourg » Chemin de la Gravière 3, 1225 Chêne-Bourg SOON NonStop Gym Eaux-Vives » Rue de Jargonnant 2, 1207 Genève NonStop Gym Jonction » Rue des Deux ...
+title: Training | NonStop Gym
+snippet: Anthony in Biel- ant@nonstopgym.com In my training, I use the 4-pillar philosophy: training, diet, mental strength and time. Read more » As an advocate of a fitness lifestyle and a former owner of a surf school I founded Shapedays.ch a very relaxing fitness holiday with a personal touch that gives you the perfect balance between relaxation, fitness, fun and relaxation.
+title: NonStop Gym - Home | Facebook
+snippet: See more of NonStop Gym on Facebook. Log In. Forgot account? or. Create New Account. Not Now. NonStop Gym (Eaux-Vives) Gym/Physical Fitness Center in Geneva, Switzerland. 5. 5 out of 5 stars. Always Open. Community See All. 130 people like this. 133 people follow this. 529 check-ins. About See All. Rue de Jargonnant 2 (4,085.03 mi)
+title: NonStop Gym - Home | Facebook
+snippet: NonStop Gym. 8,602 likes · 96 talking about this · 5,285 were here. Fitness à petit prix. Toujours ouvert. Inscrivez-vous sur nonstopgym.com
+title: NonStop Gym - Home | Facebook
+snippet: Geneva, Switzerland 1205. Get Directions. NonStop Gym Location +41 22 320 13 00. Contact NonStop Gym on Messenger. www.nonstopgym.com. Gym/Physical Fitness Center. Hours . Always Open. Page Transparency See More. ... Tous les fans de Jonction ? Suivez nos news sur la page NonStop Gym principale : ...
+title: NonStop Gym - Home | Facebook
+snippet: NonStop Gym, Genève. 143 likes · 5 talking about this · 989 were here. À propos Bienvenue à NonStop Gym. Nous offrons des entraînements de qualité à petit prix. Et nous sommes ouverts 24/7....
+title: NonStop Gym - Home | Facebook
+snippet: See more of NonStop Gym on Facebook. Log In. Forgot account? or. Create New Account. Not Now. NonStop Gym (Pâquis) Gym/Physical Fitness Center in Geneva, Switzerland. Always Open. ABOUT NONSTOP GYM. NonStop Gym. NonStop Gym est le club de fitness le plus économique et le plus accessible de Genève.
+
+REL: 1
+POI Name: Silhouette Acacias
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: en.yelp.ch
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: CAF - Germana - Silhouette Acacias - Genève - 18 mai 2016 ...
+snippet: CAF - Germana - Silhouette Acacias - Genève -18 mai 2016. CAF - Germana - Silhouette Acacias - Genève -18 mai 2016. Skip navigation ... How to get from Geneva Airport to Duillier by train &amp; bus ...
+title: Silhouette Genève Acacias Genève Alpes Genève Charmilles ...
+snippet: Silhouette Genève Acacias Rue Thalberg, 4 CH 1201 Genève 022 732 77 40 alpes@silhouette.ch From Monday to Friday : 07:00am - 10:00pm Saturday - Sunday : 08:00am - 06:00pm Silhouette Genève Alpes Rue de Lyon, 108 CH 1203 Genève 022 345 14 80 charmilles@silhouette.ch
+title: Gym Day Pass, Silhouette Acacias, Geneva, Switzerland
+snippet: In Carouge town centre, this club offers near 1100m2 of workout and cardio space as well as an extensive choice of group classes. We hope you enjoy your Gym Day Pass at Silhouette Acacias.
+title: ACTIV FITNESS Carouge Acacias - Genève Annuaire
+snippet: Abonnements partiels Lu - ve: 8h30 - 12h00 / 14h00 - 17h00 sa / di: horaire libre Parking payant à 200m.. Activité &amp; Bien-être pour tous !. Nos salles de gym entièrement équipées, la plupart dotées d’équipements ultra-modernes ainsi que de l’air conditionné, sont placées sous la surveillance d’instructeurs hautement qualifiés.
+title: ACTIV FITNESS Carouge Acacias - Geneva, Switzerland
+snippet: Au centre de Carouge, ce club de fitness propose près de 1100 m2 d&#39;espace musculation et cardio, ainsi qu&#39;un large choix de cours collectifs.
+title: Silhouette Genève Acacias Genève Alpes Genève Charmilles ...
+snippet: acacias@silhouette.ch Du lundi au vendredi : 07h00 - 21h00 Samedi - dimanche : 09h00 - 17h00 Silhouette Genève Acacias Rue Thalberg, 4 CH 1201 Genève 022 732 77 40 alpes@silhouette.ch Du lundi au vendredi : 07h00 - 22h00 Samedi - dimanche : 08h00 - 18h00 Silhouette Genève Alpes Rue de Lyon, 108 CH 1203 Genève 022 345 14 80 charmilles ...
+title: ACTIV FITNESS Carouge Acacias - Home | Facebook
+snippet: ACTIV FITNESS Carouge Acacias - Rue du Grand-Bureau, 17, 1227 Geneva, Switzerland - Rated 4.4 based on 30 Reviews &quot;Since the rebranding to Activ Fitness,...
+title: Fitness Silhouette Acacias - Geneva, Switzerland - Gym ...
+snippet: Fitness Silhouette Acacias, Geneva, Switzerland. 1 was here. Gym/Physical Fitness Center
+title: The best hotels in Acacias, Geneva, Switzerland
+snippet: Find all hotels in Acacias, Geneva on a city map. No reservation costs. Book your hotel in Acacias, Geneva online. But where exactly? Find all hotels in Acacias, Geneva on a city map. No reservation costs. The World&#39;s #1 Choice for Booking Accommodations $ Loading Pick your preferred language.
+
+REL: 1
+POI Name: Innercityoga Urban Yoga Center Genève
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: INNERCITYOGA Yoga Genève / Geneva
+snippet: Yoga Classes, Workshops, Teacher Training Genève Geneva at INNERCITYOGA Studio. Hatha Vinyasa flow Poweryoga Yin-Yang Meditation, Prenatal by founder Ioana Pop. Yoga Classes, Workshops, Teacher Training Genève Geneva at INNERCITYOGA Studio.
+title: News — INNERCITYOGA Yoga Genève / Geneva
+snippet: INNERCITYOGA Urban Yoga Center® is a full-service member based yoga studio offering authentic best quality daily Yoga Classes in Genève / Geneva Geneve since 2002 in the sun-filled studio or on the large outdoor rooftop patio. Experienced yoga teachers (RYS-200-Hours and some RYS-300 hours Deep Flow Yoga Teacher Training are certified Yoga ...
+title: Geneva Yoga Classes - Yoga Classes in Geneva - Yoga ...
+snippet: INNERCITYOGA offers a vast schedule and daily yoga classes for all levels and styles. All yoga classes are taught in English and French. Practice in the beautiful sun-lit yoga studio in downtown Geneva, increase your well-being and balance with the many intelligently sequenced yoga classes.
+title: Welcome to GenevaYoga.com
+snippet: INNERCITYOGA propose des cours et des services de haute qualité en plein centre-ville, en face du magasin Apple. INNERCITYOGA Urban Yoga Center 3 Rue de Rive 1204 Genève. Contact: Website · EMAIL· Newsletter. Photo Courtesy by Patric Pop Photo Genève / Geneva
+title: Yoga à Genève / Geneva à INNERCITYOGA Best Studio Classes
+snippet: INNERCITYOGA. We just love how enthusiastic you are in finding the best yoga studio in Genève / Geneva. At INNERCITYOGA we are extremely happy to be recommended by many as the best yoga center in town and one of the leading studios in Switzerland.
+title: INNERCITYOGA - Home | Facebook
+snippet: INNERCITYOGA, Geneva / Genève, Switzerland. 1.9K likes. Since 2002, INNERCITYOGA is the full-service yoga studio in Genève- Geneva. Experienced teachers welcome you in English &amp; French to daily...
+title: Yoga Geneve / Geneva INNERCITYOGA Studio Classes RYT-200h ...
+snippet: INNERCITYOGA propose des cours et des services de haute qualité en plein centre-ville, en face du magasin Apple. INNERCITYOGA Urban Yoga Center ® 3 Rue de Rive 1204 Genève. Contact: Website · EMAIL · Newsletter. Photo Courtesy by Patric Pop Photo Genève / Geneva
+title: Bienfaits du Yoga — INNERCITYOGA Yoga Genève / Geneva
+snippet: INNERCITYOGA Urban Yoga Center® is a full-service member based yoga studio offering authentic best quality daily Yoga Classes in Genève / Geneva Geneve since 2002 in the sun-filled studio or on the large outdoor rooftop patio. Experienced yoga teachers (RYS-200-Hours and some RYS-300 hours Deep Flow Yoga Teacher Training are certified Yoga ...
+title: Yoga in Genève / Geneva at INNERCITYOGA ... - geneva-yoga.com
+snippet: Highly recommended Yoga Classes in Geneve / Geneva, ... Old Town, and the world-famous Rue du Rhône lies the equally famous INNERCITYOGA Urban Yoga Center. The beautiful yoga studio is also easily accessible for students from Champel, Plainpalais and Pâquis, or even the United Nations area.
+title: Yoga Music Flow à Genève / Geneva à INNERCITYOGA Best ...
+snippet: s signature YogaMusicFlow Classes in Genève / Geneva. The founders Ioana Pop and Patric Pop have been offering the popular YogaMusicFlow or Yoga Music Flow Classes for over fifteen years at INNERCITYOGA, considered by many the best yoga center in Genève / Geneva and one of the leading studios in Switzerland.
+
+REL: 1
+POI Name: Fitness Birsbrugg
+POI City: Birsfelden
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 1
+POI Name: InForm Fitnessclub
+POI City: Pratteln
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 1
+POI Name: AOM YOGA
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: AOM YOGA - NEW HOME
+snippet: © AOM YOGA / L&#39;ASSOCIATION AOM (Aura One Movement) CH. All rights reserved.
+title: Yoga in Geneva | Geneva.info
+snippet: AOM YOGA. AOM community (Aura One Movement) offers you regular different types of yoga classes in Geneva. You can choose between Heart Hatha yoga, Heart flow yoga, Ashtanga yoga or Vinyasa yoga. Classes are taught daily in Jonction or in Eaux-Vives, in french or in english (depends on the date).
+title: AOM YOGA, 10 Rue Charles-Humbert, Geneva (2020)
+snippet: Serving Community in Health, Healing &amp; Happiness! A yoga space in Geneva dedicated to your Health Healing and Happiness! Mission: Our Mission is to build community in Health Healing and Happiness. Our Aim is to Fund, Build and Operate Preventive Health Centers for under-served communities in developing countries.
+title: AOM YOGA - Yoga Studio - Geneva, Switzerland - 21 Reviews ...
+snippet: AOM YOGA, Geneva, Switzerland. 1.6K likes. Serving Community in Health, Healing &amp; Happiness!
+title: AOM YOGA - Yoga studio - Geneva, Switzerland - 20 reviews ...
+snippet: AOM YOGA - #yogaTHIS Project 9 members The #yogaTHIS is a digital media fundraising initiative in support of the Tise Himalayan International School in Siliguri India. which opens in 2018 and support the most undeserved communities of the Himalayan region with quality education.
+title: AOM YOGA, Geneva, Switzerland - Top Local Places
+snippet: So we&#39;re looking for some volunteers to help us with the AOM YOGA spaces this comming weekend at the Fêtes de Genève - Summer Yoga Gathering - If you are available please click on the link and give us your availability.
+title: AOM YOGA - Geneva, Switzerland
+snippet: A yoga space in Geneva dedicated to your Health Healing and Happiness! We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. Read more…
+title: AOM YOGA
+snippet: AOM YOGA Geneva Blog Gratitude Moment Ways to Destress Health Tip Yoga Focus Food Free Gifts Ayurveda Family Friends Humanity Journaling Morning Pages Summer Holiday Travel Welcome. Follow by Email. AOM YOGA. Simple theme.
+title: So Ham
+snippet: C’est une approche dynamique saupoudrée d’un vinyasa créatif. La plupart des étudiants s’oriente vers le chemin de la formation professorale parce qu&#39;ils ont expérimenté les effets transformateurs du yoga dans leur vie et veulent en apprendre plus sur cette pratique.
+title: AOM YOGA - YOGA STOPS TRAFFICK - YouTube
+snippet: On the 12th March 2011, the AOM YOGA community in Geneva joined 92 other communities around the world in support the Odanadi Seva Trust in action against Human Trafficking. We managed to raise ...
+
+REL: 0
+POI Name: Restaurant Aux Carrés
+POI City: Zurich
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Vietnamese, 
+Snippets:
+title: Aux Carres, Zürich - Restaurantanmeldelser - Tripadvisor
+snippet: Spise middag i Zürich: Se 15 anmeldelser fra Tripadvisor-reisende av 1 925restauranter i Zürich, og søk etter kjøkken, pris, sted og mer.
+title: Aux Carres, Zürich - Restaurant Bewertungen, Telefonnummer ...
+snippet: Aux Carres, Zürich: 15 Bewertungen von Aux Carres sehen, mit 4 von 5 bewertet und eines der 1&#39;925 Restaurants in Zürich bei Tripadvisor. Flüge Restaurants ... ibis Zurich Messe Airport. 1’706 Bewertungen . 0.27 km Entfernung . Kameha Grand Zurich, Autograph Collection.
+title: Aux Carres, Zurich - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Aux Carres, Zurich: See 15 unbiased reviews of Aux Carres, rated 4 of 5, and one of 1,925 Zurich restaurants on Tripadvisor.
+title: Nice lunch - Review of Aux Carres, Zurich, Switzerland ...
+snippet: Aux Carres: Nice lunch - See 15 traveler reviews, 3 candid photos, and great deals for Zurich, Switzerland, at TripAdvisor. Zurich. Zurich Tourism Zurich Hotels Zurich Bed and Breakfast Zurich Vacation Rentals Zurich Vacation Packages Flights to Zurich Zurich Restaurants Things to Do in Zurich Zurich Travel Forum Zurich Photos Zurich ...
+title: Aux Carres, Zürich - Restaurant Bewertungen, Telefonnummer ...
+snippet: Aux Carres, Zürich: 15 Bewertungen von Aux Carres sehen, mit 4 von 5 bewertet und eines der 1.929 Restaurants in Zürich bei Tripadvisor.
+title: Bar - Picture of Aux Carres, Zurich - Tripadvisor
+snippet: Aux Carres, Zurich Picture: Bar - Check out Tripadvisor members&#39; 50,083 candid photos and videos of Aux Carres. Zurich. Zurich Tourism Zurich Hotels Zurich Bed and Breakfast Zurich Vacation Rentals Zurich Vacation Packages Flights to Zurich Zurich Restaurants Things to Do in Zurich Zurich Travel Forum Zurich Photos Zurich Map Zurich Travel ...
+title: Aux Carres, Zurich - Restaurant Avis, Numéro de Téléphone ...
+snippet: Aux Carres, Zurich : consultez 15 avis sur Aux Carres, noté 4 sur 5, l&#39;un des 1 926 restaurants de Zurich sur Tripadvisor.
+title: Vietnamese Restaurant Aux Carres - 56 Photos - 6 Reviews ...
+snippet: Vietnamese Restaurant Aux Carres - Leutschenbachtrasse 71, 8050 Zürich, Switzerland - Rated 5 based on 6 Reviews &quot;My opinion is i like this restaurant...
+title: Restaurant Vietnamesiches Restaurant - Aux Carrés in ...
+snippet: Entdecken Sie das Restaurant Vietnamesiches Restaurant - Aux Carrés in Zürich und unzählige weitere Restaurants, Bars und Cafés auf Lunchgate.
+title: AUX CARRES, Zúrich - Fotos, Número de Teléfono y ...
+snippet: Aux Carres, Zúrich: Consulta 15 opiniones sobre Aux Carres con puntuación 4 de 5, uno de los 1.924 restaurantes de Zúrich en Tripadvisor.
+
+REL: 0
+POI Name: Evo
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: EVO Fitness - Boutique Fitness Club
+snippet: A forward-thinking training space that provides the optimal fitness experience. Join now for only CHF 69.-/month. No commitment!
+title: EVO Geneva Rue de Lausanne - EVO Fitness
+snippet: Located in the heart of downtown Geneva, EVO Geneva Rue de Lausanne was the first EVO Fitness club that to open in Central Europe. With a spacious contemporary design, this club has 4 innovative training spaces alongside best-in-class functional equipment and expert Personal Trainers.
+title: EVO Geneva Eaux-Vives CEVA - EVO Fitness
+snippet: Located right next to CEVA main station, EVO Geneva Eaux-Vives CEVA is a boutique-design fitness center with first class functional equipment and expert Personal Trainers. Our flexible membership with no binding contract provides access to all our fitness clubs. Open 365 days/year from 6h to 23h. Get your free trial now!
+title: EVO Geneva Acacias - EVO Fitness
+snippet: Located next to the Carouge GE, Pictet-Thellusson tram stop, EVO Geneva Acacias is a boutique-design fitness center with first-class functional equipment and expert Personal Trainers. Our flexible membership with no binding contract provides access to all our fitness clubs. Open 365 days/year from 6h to 23h.
+title: EVO Fitness - Club Boutique Fitness
+snippet: EVO Fitness c’est une nouvelle approche de l’entraînement et du fitness. Inscrivez-vous maintenant par seulement CHF 69.-/mois. Sans engagement!
+title: Geneva Motor Show 2017 - news round-up | Evo
+snippet: Geneva Motor Show 2017 - news round-up Find info on all the important new cars revealed at the Geneva Motor Show right here
+title: Geneva 2020 preview – pictures | Evo
+snippet: Geneva 2020 preview – pictures Geneva 2020 preview. Go to: ... Contributing evo photographer Dominic Fraser has been spending his lockdown recreating iconic rally scenes from his kitchen table, ...
+title: Geneva motor show 2019: latest news | Evo
+snippet: The Geneva motor show is now open to the public after a manic couple of days for press and industry. It&#39;s a show of contrasts in 2019, as major manufacturers continue to focus on electrification ...
+title: Geneva motor show | Evo
+snippet: evo’s best cars at the 2018 Geneva motor show. As usual there were loads of new cars at the Geneva Motor Show but these, as far as we’re concerned, were the best. 7 Mar 2018.
+title: Geneva motor show 2018: news round-up and all the cars | Evo
+snippet: Geneva motor show 2018: news round-up and all the cars Our full round-up of the 2018 Geneva motor show with details on all the big new cars and major news stories.
+
+REL: 0
+POI Name: Restaurant Sonne Leuggern
+POI City: Leuggern
+POI Country: CH
+POI Main category: Nightlife
+POI Sub category: Bars, Swiss Food, 
+Snippets:
+
+
+REL: 0
+POI Name: Parc Mon Repos & Parc Baton
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Parks, Lakes, 
+Snippets:
+title: Mon-Repos Park (Geneva) - 2020 All You Need to Know BEFORE ...
+snippet: Mont Blanc is the highest peak in the Alps, and this customizable tour lets you experience it from all angles on a day trip from Geneva. Choose from a range of options including exploring Chamonix and Mont Blanc independently, riding the cogwheel railway to Montenvers, soaring to the summit of Aiguille du Midi on the cable car, and enjoying a delicious 3-course lunch in Chamonix.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Parc Mon Repos | Ville de Genève - Site officiel
+snippet: Situé entre la Rue de Lausanne, l’Avenue de France et le lac, le parc Mon Repos est une des portes d’entrée de Genève et le départ d’une succession de cinq parcs d’une beauté exceptionnelle qui ouvrent des panoramas majestueux sur le lac, la ville et les montagnes.
+title: THE 10 BEST Restaurants Near Mon-Repos Park in Geneva ...
+snippet: Restaurants near Mon-Repos Park, Geneva on Tripadvisor: Find traveler reviews and candid photos of dining near Mon-Repos Park in Geneva, Switzerland.
+title: Parc Mon Repos - Geneva, Switzerland - Landmark ...
+snippet: Parc Mon Repos, Geneva, Switzerland. 44 likes · 2 talking about this · 1,085 were here. Le parc Mon Repos, parfois orthographié Mon-Repos, est un jardin...
+title: Geneva - Parc Villa Barton, La Perle du Lac and Parc Mon ...
+snippet: Geneva - Discover Parc Villa Barton, La Perle du Lac and Parc Mon Repos and live the real experience with the Green Michelin Guide - find useful information and opening times - Parc Villa Barton, La Perle du Lac and Parc Mon Repos
+title: Parc Barton - Geneva, Switzerland - Landmark &amp; Historical ...
+snippet: Parc Barton, Geneva, Switzerland. 23 likes. Le parc Barton est un jardin public situé à Genève, en Suisse.
+title: Monrepos Park - Wikipedia
+snippet: Mon Repos or Monrepos (Russian: Монрепо́; which is the French for &quot;my rest&quot;) is an extensive English landscape park in the northern part of the rocky island of Linnasaari (Tverdysh, Slottsholmen) outside Vyborg, Russia.The park lies along the shoreline of the Zashchitnaya inlet of the Vyborg Bay and occupies about 180 hectares (440 acres) of land.
+title: Mon-Repos Park (Genève, Sveits) - Anmeldelser - Tripadvisor
+snippet: Mon-Repos Park, Genève: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Mon-Repos Park i Genève, Sveits på Tripadvisor. Turisme i Genève; Hotell i Genève; ... klatrevegger og round-forlates osv. stort sted hvis du vil ha en pause fra alt maset i Geneva town.
+title: Parc de Mon Repos - Wikipedia
+snippet: The Parc de Mon Repos is a public park of the city of Lausanne, Switzerland.. The villa located in the centre of the park hosted the headquarters of the International Olympic Committee from 1922 to 1967.
+
+REL: 0
+POI Name: La Boucherie Restaurant
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: La Boucherie, Geneva - Restaurant Reviews, Phone Number ...
+snippet: La Boucherie, Geneva: See 47 unbiased reviews of La Boucherie, rated 3 of 5, and one of 1,765 Geneva restaurants on Tripadvisor.
+title: La Boucherie in Geneva: 1 reviews and 2 photos
+snippet: La Boucherie (The Butcher in Spanish) is a restaurant that specializes in veal near the Mont-Blanc. Menus or generally affordable for what is normal in Geneva (25CHF without drinks) like the steak with sauce, served with chips and salad. The place is strange, as it looks to combine the aesthetics of an elegant restaurant with the family of one chain, so the result is strange, but the deal is ...
+title: Entrecote - - Picture of La Boucherie, Geneva - TripAdvisor
+snippet: La Boucherie, Geneva Picture: Entrecote - - Check out TripAdvisor members&#39; 29,979 candid photos and videos. Geneva. Geneva Tourism Geneva Hotels Bed and Breakfast Geneva Geneva Holiday Rentals Geneva Holiday Packages Flights to Geneva Geneva Restaurants Geneva Attractions Geneva Travel Forum Geneva Photos Geneva Map Geneva Guide All Geneva Hotels;
+title: La Boucherie, Genève - Restaurant Avis, Numéro de ...
+snippet: La Boucherie, Genève : consultez 47 avis sur La Boucherie, noté 3 sur 5, l&#39;un des 1&#39;761 restaurants de Genève sur Tripadvisor.
+title: LA BOUCHERIE Suisse Rive Gauche - Geneva, Switzerland ...
+snippet: LA BOUCHERIE Suisse Rive Gauche, Geneva, Switzerland. 7 likes · 107 were here. Restaurant
+title: La Boucherie Restaurant, Geneva
+snippet: Restaurant La Boucherie in Geneva, discover information, meat, menus and ratings from expert on this restaurant, online reservation, Meat
+title: LA BOUCHERIE Suisse Rive Gauche - Geneva
+snippet: Get address of LA BOUCHERIE Suisse Rive Gauche - Geneva, submit your review or ask any question about LA BOUCHERIE Suisse Rive Gauche, search nearby places on map.
+title: La Boucherie, Annemasse - Restaurantanmeldelser - Tripadvisor
+snippet: La Boucherie, Annemasse: Se 164 objektive anmeldelser av La Boucherie, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 60 av 167 restauranter i Annemasse.
+title: La Boucherie, Orlando - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at La Boucherie, Orlando with Tripadvisor: See 59 unbiased reviews of La Boucherie, ranked #270 on Tripadvisor among 3,615 restaurants in Orlando.
+title: La Boucherie | Steakhouse In Downtown Los Angeles | DTLA ...
+snippet: La Boucherie, located on the 71st floor of InterContinental Los Angeles Downtown, boasts a top-tier, American steakhouse with a French twist. Feast on reimagined dishes and premium steaks, in addition to first-rate seafood sourced from around the globe.
+
+REL: 0
+POI Name: Genèveroule
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Bike Rentals, 
+Snippets:
+title: Genèveroule | Home
+snippet: Founded in 2002, Genèveroule is a non-profit association with a dual objective : promote cycling and socio-occupational integration.
+title: Genèveroule : bike rental and free bike-lending in Geneva
+snippet: - Rue du Valais 7 (Genèveroule&#39;s office) - Chemin du Faubourg de Cruseilles 16 (Genèveroule&#39;s mechanical workshop) - Haute École de Gestion, rue de la Tambourine 17, Carouge - Geneva Hostel, rue Rothschild 28-30, 1202 Genève - Train stations Lancy Pont Rouge, Bachet, Champel, Eaux-Vives and Chêne-Bourg. Opening times and locations
+title: Genèveroule | Home
+snippet: Fondée en 2002, l&#39;association Genèveroule poursuit une double mission : la promotion du vélo et l&#39;insertion socio-professionnelle.
+title: GenèveRoule - Geneva
+snippet: Geneva and the surrounding areas benefit from a large and practical network of bike lanes. Take advantage of it! GenèveRoule is an association promoting sustainable modes of transport while giving work to unemployed people and asylum seekers.
+title: Bicycle tours | Genèveroule
+snippet: Bicycle tours &quot;à la carte&quot; Given your preferences and interests, we organize custom-made guided bicycle tours to discover Geneva&#39;s unmissable places, in the city and in the countryside. Inform us about your wishes in the form below and we&#39;ll send you an offer ! We stay at your disposal for any question at info@geneveroule.ch or +41 (0)22 740 14 15.
+title: Geneva | Genèveroule
+snippet: Geneva There is currently no content classified with this term. Genèveroule, Place Montbrillant 17, 1201 Genève - info [at] geneveroule [dot] ch - 022 740 14 15 Follow-us :
+title: GenèveRoule - Geneva
+snippet: Genf und seine Umgebung sind mit einem dichten und praktischen Radwegenetz ausgestattet. Besuchen Sie diese Orte mit dem Fahrrad! GenèveRoule ist ein Verband, der die umweltschonende Fortbewegung fördert und gleichzeitig Asylbewerbern und Arbeitslosen, die kein Arbeitslosengeld mehr erhalten, Arbeit gibt.
+title: GenèveRoule - Geneva
+snippet: GenèveRoule es una asociación que promueve los modos de transporte sostenibles, al mismo tiempo que da trabajo a personas desempleadas y refugiados. De mayo a octubre, se pueden alquilar bicicletas gratis durante cuatro horas. Es necesario un depósito de 20 CHF y el documento de identidad (por cada hora extra, hay un sobrecargo de 2 CHF).
+title: GeneveRoule - Rally contest
+snippet: Geneva Pass Reserve sus actividades Fin de semana Eventos Atracciones Tours y excursiones Museos Cruceros Compras Restaurantes galardonados con estrellas Restaurantes Lo mejor del ...
+title: Geneve Roule (Geneva) - 2020 All You Need to Know BEFORE ...
+snippet: Hired some bikes to explore Lake Geneva on a Monday afternoon/evening, these were great because you get 4 hours free! The attendant didn&#39;t speak English very well near the lake dock, but he was really friendly and patient.
+
+REL: 0
+POI Name: Sunset Bar
+POI City: Lucerne
+POI Country: CH
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+title: Sunset Bar Hotel Seeburg Luzern
+snippet: Lounges können nicht reserviert werden. Barbecue-Reservationen ab 50 Personen nehmen wir gerne entgegen. Der Verzehr mitgebrachter Speisen und
+title: Sunset Bar - Hotel Seeburg Luzern
+snippet: Sunset Bar. Home. Gastronomy. Bars. Sunset Bar. The oasis at lake Lucerne. Enjoy one of the most beautiful open-air bars of Switzerland. And life. Relaxing, where Lucerne vibrates at the trendiest. The Sunset Bar Grill offers culinary delights. Menu. Drinks. 360° Panorama Tour. www.sunsetbar.ch.
+title: Sunset Bar | Luzern.com
+snippet: As the days lengthen and temperatures rise, find somewhere agreeable to chill out and relax with a refreshing cocktail. Located directly by the lake with its own bus stop, Sunset Bar at Hotel Seeburg is just a few minutes from Lucerne city centre.
+title: Sunset Bar Luzern - Posts | Facebook
+snippet: Sunset Bar Luzern, Lucerne, Switzerland. 4,428 likes · 17 talking about this · 7,431 were here. Sunset Bar - Die Oase am See
+title: Sunset Bar - Picture of Hotel Seeburg, Lucerne - Tripadvisor
+snippet: Hotel Seeburg, Lucerne Picture: Sunset Bar - Check out Tripadvisor members&#39; 30,957 candid photos and videos of Hotel Seeburg
+title: Hotel Seeburg, Lucerne - TripAdvisor
+snippet: Now $112 (Was $̶1̶2̶8̶) on Tripadvisor: Hotel Seeburg, Lucerne. See 749 traveler reviews, 477 candid photos, and great deals for Hotel Seeburg, ranked #26 of 69 hotels in Lucerne and rated 4 of 5 at Tripadvisor.
+title: Sunset Bar - Picture of Hotel Seeburg, Lucerne - Tripadvisor
+snippet: Hotel Seeburg, Lucerne Picture: Sunset Bar - Check out Tripadvisor members&#39; 30,974 candid photos and videos.
+title: Sunset Bar Lucerne – TobiL Photography
+snippet: Sunset Bar Lucerne, Switzerland Nikon D850
+title: Sunset Club Bar | Nightlife | Lucerne - In Your Pocket
+snippet: › Lucerne › Nightlife › Open ... Quite a sunset at sunset bar! This summer bar located over the road from Hotel Seeburg is something of a lakeside oasis. Get comfortable in a lounge chair or with your feet dangling above the water on the pier, take a deep breath and relax in this chic outdoor hangout.
+title: SUNSET BAR – Where to go in Lucerne
+snippet: Enjoy one of the most beautiful open-air bars of Switzerland. And life. Relaxing, where Lucerne vibrates at the trendiest. The Sunset Bar Grill offers culinary delights.
+
+REL: 0
+POI Name: Il Cappuccino
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Hotels & Travel, Arts & Crafts, 
+Snippets:
+title: Il Cappuccino, Geneva - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Il Cappuccino, Geneva: See unbiased reviews of Il Cappuccino, one of 1,766 Geneva restaurants listed on Tripadvisor.
+title: IL CAPPUCCINO, Geneva - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Il Cappuccino, Geneva: See unbiased reviews of Il Cappuccino, one of 1,764 Geneva restaurants listed on Tripadvisor.
+title: Il Cappuccino, Genève - Restaurant Avis, Numéro de ...
+snippet: Il Cappuccino, Genève : consultez avis authentiques sur Il Cappuccino, l&#39;un des 1&#39;765 restaurants de Genève référencés sur Tripadvisor.
+title: Il Cappuccino, 15 chemin champ d&#39;anier, Geneva (2019)
+snippet: Soyez le premier à savoir et laissez-nous vous envoyer un courriel lorsque Il Cappuccino publie des nouvelles et des promotions. Votre adresse e-mail ne sera pas utilisée à d&#39;autres fins, et vous pouvez vous désabonner à tout moment.
+title: Geneva, Illinois - Wikipedia
+snippet: Geneva is a city in and the county seat of Kane County, Illinois, United States. It is located on the western side of the Chicago suburbs.. Geneva is part of a tri-city area, located between St. Charles and Batavia. As of the 2010 census it had a population of 21,495, and in 2018 the estimated population was 21,861. The area experienced rapid population growth in the 1980s and &#39;90s as the ...
+title: Geneva, IL - Official Website | Official Website
+snippet: Geneva’s City Council and other City advisory boards and commissions will resume conducting City business using virtual meeting technology. Read on...
+title: Il Cappuccino, Gournay-sur-Marne - Menu, Prices ...
+snippet: Il Cappuccino, Gournay-sur-Marne: See 414 unbiased reviews of Il Cappuccino, rated 4 of 5 on Tripadvisor and ranked #3 of 8 restaurants in Gournay-sur-Marne.
+title: Geneva Restaurants Offering Curbside Pickup, Delivery ...
+snippet: Restaurants Offering Curbside Pickup, Delivery - Geneva, IL - The Geneva Chamber of Commerce has compiled of restaurants in town still serving up food amid the coronavirus shutdown.
+title: Il Cappuccino.mp4 - YouTube
+snippet: L&#39;esperto Costadoro Coffee Lab spiega come realizzare un cappuccino a regola d&#39;arte. L&#39;esperto Costadoro Coffee Lab spiega come realizzare un cappuccino a regola d&#39;arte. ... Il Cappuccino.mp4
+title: IL CAPPUCCINO - Genève - Geneva restaurant
+snippet: Genève, international city, offers a variety of restaurants and bars for every taste and every desire. Geneve-Restaurants.ch is the official directory of the Society of Geneva&#39;s Bar and Restaurants.
+
+REL: 0
+POI Name: Schweizerisches Militärmuseum Full-Reuenthal
+POI City: Leuggern
+POI Country: CH
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 0
+POI Name: Restaurant Platane
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Coffee & Tea, 
+Snippets:
+title: Platane Bar-Restaurant, Geneva - Restaurant Reviews ...
+snippet: Platane Bar-Restaurant, Geneva: See 17 unbiased reviews of Platane Bar-Restaurant, rated 4 of 5 on Tripadvisor and ranked #885 of 1,766 restaurants in Geneva.
+title: Platane Bar-Restaurant, Genève - Restaurant Avis, Numéro ...
+snippet: Platane Bar-Restaurant, Genève : consultez 17 avis sur Platane Bar-Restaurant, noté 4 sur 5 sur Tripadvisor et classé #878 sur 1&#39;766 restaurants à Genève.
+title: Platane Bar-Restaurant, Genève - Restaurantanmeldelser ...
+snippet: Platane Bar-Restaurant, Genève: Se 17 objektive anmeldelser av Platane Bar-Restaurant, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 879 av 1 764 restauranter i Genève.
+title: Au Platane, Geneva - Restaurant Reviews &amp; Phone Number ...
+snippet: Au Platane, Geneva: See 14 unbiased reviews of Au Platane, rated 4 of 5 on Tripadvisor and ranked #967 of 1,767 restaurants in Geneva.
+title: THE 10 BEST Restaurants &amp; Places to Eat in Geneva 2020 ...
+snippet: Best Dining in Geneva, Canton of Geneva: See 121,332 Tripadvisor traveller reviews of 1,856 Geneva restaurants and search by cuisine, price, location, and more.
+title: THE 10 BEST Restaurants in Geneva Updated April 2020 ...
+snippet: Dining in Geneva, Canton of Geneva: See 121,326 Tripadvisor traveller reviews of 1,857 Geneva restaurants and search by cuisine, price, location, and more.
+title: PLATANE Restaurant - Home - Geneva, Switzerland - Menu ...
+snippet: PLATANE Restaurant. 257 likes · 2 talking about this · 227 were here. Le Platane propose une cuisine privilégiant les produits de saisons, le savoir-faire et la simplicité des mets cuisinés avec amour.
+title: Platane Bar-Restaurant, Genève - Restaurantanmeldelser ...
+snippet: Platane Bar-Restaurant, Genève: Se 17 objektive anmeldelser af Platane Bar-Restaurant, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 883 af 1.765 restauranter i Genève.
+title: Au Platane, Genève - Restaurant Avis &amp; Numéro de Téléphone ...
+snippet: Au Platane, Genève : consultez 14 avis sur Au Platane, noté 4 sur 5 sur Tripadvisor et classé #969 sur 1&#39;765 restaurants à Genève.
+title: PLATANE - Genève - Geneva restaurant
+snippet: Genève, international city, offers a variety of restaurants and bars for every taste and every desire. Geneve-Restaurants.ch is the official directory of the Society of Geneva&#39;s Bar and Restaurants. All listed establishments meet our charter which is a guarantee of quality for the customers.
+
+REL: 0
+POI Name: Fitnesspark
+POI City: Regensdorf
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 0
+POI Name: Fitnesspark Allmend Luzern
+POI City: Lucerne
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: Fitnesspark Allmend Luzern – Die modernste Trainingsanlage ...
+snippet: Starten Sie hier zu einem kurzen Rundgang durch den Fitnesspark Allmend. Unser Kursprogramm. Die Fitnessparks Migros Luzern. Allmend Luzern. Luzerns stilvolle Wellness-Oase liegt mitten im Herzen der Stadt. Was für ein Blick von der Dachterrasse mit geheiztem Pool über die Dächer Luzerns!
+title: Allmend Luzern - Fitnesspark Allmend Luzern
+snippet: Coronavirus: The Fitnesspark Allmend Lucerne remain closed till the 30th April 2020 due to the decision of the Federal Council!
+title: Luzern - Fitnesspark
+snippet: Dank unserem Fitnesspark@home-Angebot müssen Sie als Mitglied nicht auf Ihren Workout verzichten! Wählen Sie aus über 1000 Online-Kursen und trainieren Sie zuhause weiter. Hier ist für jedes Fitnesslevel etwas dabei. Fitnesspark@home ist in Ihrer Mitgliedschaft inbegriffen und mit untenstehendem Link oder in Ihrer Migros FitnessApp erreichbar.
+title: Kurse - Fitnesspark Allmend Luzern
+snippet: Luzern Luzern, Allmend Luzern Luzern, National Luzern Zug, Eichstätte Vaud Malley Prilly Lausanne Zürich Greifensee, Milandia Zürich ... Der Fitnesspark Allmend hat eines der umfassendsten Kursangebote in der Region aufgebaut: Bewegung, Erholung, soziale Kontakte pflegen.
+title: National Luzern - Fitnesspark National Luzern
+snippet: Coronavirus: The Fitnesspark National Lucerne remain closed till the 30th April 2020 due to the decision of the Federal Council!
+title: Fitnesspark Allmend Luzern (Lucerne) - 2020 All You Need ...
+snippet: Mt. Titlis lives up to its hype as one of Switzerland&#39;s top destinations, and a guided day trip is the easiest way to see it from Zurich. Travel by coach and panoramic cable car to the summit without worrying about navigation or organizing tickets.
+title: Fitnesspark Allmend Luzern
+snippet: Willkommen im Online-Shop Fitnesspark Allmend Trainieren, wo es für Sie passt. Fitness und Wellness in über 130 Anlagen der Schweiz - die Migros FitnessCard. Produkte. Sportmassage CHF 49,00 Einzeleintritt Fit ... Fitnesspark Allmend Luzern. Technische Realisierung: TAC ...
+title: Fitnesspark Allmend Luzern (Lucerne, Sveits) - Anmeldelser
+snippet: Fitnesspark Allmend Luzern, Lucerne: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Fitnesspark Allmend Luzern i Lucerne, Sveits på Tripadvisor.
+title: Fitnesspark Allmend Luzern (Lucerne) - All You Need to ...
+snippet: Fitnesspark Allmend Luzern, Lucerne: See 3 reviews, articles, and 3 photos of Fitnesspark Allmend Luzern, ranked No.4 on Tripadvisor among 11 attractions in Lucerne.
+title: Fitnesspark Allmend Luzern (Lucerne) - 2020 What to Know ...
+snippet: Fitnesspark Allmend Luzern, Lucerne: See 3 reviews, articles, and 3 photos of Fitnesspark Allmend Luzern, ranked No.4 on Tripadvisor among 11 attractions in Lucerne.
+
+REL: 0
+POI Name: Le bout d'la rue
+POI City: Geneva
+POI Country: CH
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Cafes, Coffee & Tea, 
+Snippets:
+title: Le Bout d&#39;la Rue - Home | Facebook
+snippet: Le Bout d&#39;la Rue · Geneva, Switzerland. 46 people interested. Le Bout d&#39;la Rue shared an event. November 5, 2017 · WED, NOV 8, 2017. Dernier Mercredi acoustique : John Canoe (It) Le Bout d&#39;la Rue · Geneva, Switzerland. 82 people interested. See All.
+title: CAFÉ LE BOUT D&#39;LA RUE - Bar – Café - Genève
+snippet: Avant ou après une gourmande soirée dans un des innombrables restaurants de la rue de l&#39;Ecole de Médecine, le Café du Bout d&#39;la Rue vous mettra en appétit pour continuer dans votre élan et poursuivre peut-être la fête dans une des boîtes de nuit comme la Gravière ou la Parfumerie, toutes proches.
+title: Le Bout d&#39;la Rue - Posts | Facebook
+snippet: Le Bout d&#39;la Rue. 989 likes. #leboutdlarue. /// VIDE TES BACS, REMPLIS TES ARMOIRES /// SI TU AS DES DISQUES à VENDRE OU A ÉCHANGER, AMÈNE-LES AVEC TOI CE SAMEDI 22 AU BAR Le Bout d&#39;la Rue!
+title: Le Bout d&#39;la Rue - Geneva
+snippet: Get address of Le Bout d&#39;la Rue - Geneva, submit your review or ask any question about Le Bout d&#39;la Rue, search nearby places on map.
+title: Le Bout d&#39;la Rue - Home | Facebook
+snippet: Le Bout d&#39;la Rue. 1K likes. #leboutdlarue
+title: Le Bout d&#39;la Rue - Videos | Facebook
+snippet: Watch the latest videos from Le Bout d&#39;la Rue. 2016, c&#39;est parti! On s&#39;réjouit de vous retrouver accoudés au bar ;) Belle année à tous!
+title: Le Bout d&#39;la Rue - Reviews | Facebook
+snippet: See more of Le Bout d&#39;la Rue on Facebook. Log In. or. Create New Account. See more of Le Bout d&#39;la Rue on Facebook. Log In. Forgot account? or. Create New Account. Not Now. 4.8 out of 5. Based on the opinion of 45 people. Ratings and reviews have changed.
+title: Concert The Travelers Pub Crawl Geneva in Genève | Le Bout ...
+snippet: The Travelers Pub Crawl Geneva Concert de blues in Genève Le Bout d&#39;la Rue
+title: Le Bout d&#39;la Rue - Community | Facebook
+snippet: See more of Le Bout d&#39;la Rue on Facebook. Log In. or. Create New Account. See more of Le Bout d&#39;la Rue on Facebook. Log In. Forgot account? or. Create New Account. Not Now. 978. Total Likes. 1,007. Total Follows. Places. Geneva, Switzerland. Cafe. Le Bout d&#39;la Rue. Community. English (US) · Español · Português (Brasil) · Français (France ...
+title: GIA Drinks – Le Bout d’la Rue | Geneva Interns Association ...
+snippet: Hey there, This Thursday we’ll meet at the bar “Le Bout d’la Rue” which is conveniently located in the Rue de l’Ecole-de-Médecine. Come to have a good time with us, to meet new people or to simply unwind after a long working day.
+
+REL: 0
+POI Name: Vo Vietnam Genève, Ecole Son Long Quyen Thuat
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Martial Arts, 
+Snippets:
+title: vo-vietnam.org - FIVV-SLQT
+snippet: La Fédération internationale de Võ-Việt-Nam (FIVV), fondée par le Maître Nguyen Duc Moc (1913-2009), a pour but de propager et diffuser l’enseignement et la philosophie de l’école SON LONG QUYEN THUAT.
+title: Vo Vietnam Genève, Ecole Son Long Quyen Thuat - Home ...
+snippet: Vo Vietnam Genève, Ecole Son Long Quyen Thuat, Genève, Geneva. 808 likes · 26 talking about this · 16 were here. La salle de Genèe fait partie de la la Fédération internationale de Võ-Việt-Nam...
+title: Vo Vietnam Genève, Ecole Son Long Quyen Thuat - Posts ...
+snippet: Vo Vietnam Genève, Ecole Son Long Quyen Thuat, Genève, Geneva. 789 likes · 16 were here. La salle de Genèe fait partie de la la Fédération internationale de Võ-Việt-Nam (FIVV), fondée par le Maître...
+title: Vo-Vietnam Genève
+snippet: L&#39;école de võ-vietnam &#39;Son Long Quyen Thuat&#39; enseigne un art martial traditionnel, exigent et complet. La technique est suffisament vaste pour incorporer les coups de pieds, coups de poings, projections, clefs ainsi que d&#39;autres techniques.
+title: Club de Võ-Viêtnam de Lausanne - Home | Facebook
+snippet: Délégation Afrique de Vo-Vietnam Ecole Son Long Quyen Thuat. Company. Vo-vietnam. Amateur Sports Team. Vo Viet Nam Grand Ouest. Nonprofit Organization. Vo Vietnam Genève, Ecole Son Long Quyen Thuat. Martial Arts School. Vo Vietnam Bern. Martial Arts School. Fédération des Arts Martiaux Traditionnels Vietnamiens. Sports League.
+title: VO VIETNAM Son Long Quyen Thuat / Démo Commission ...
+snippet: Voici La Démo de la commission technique de l&#39;école SON LONG QUYEN THUAT ( Vo vietnam ) à l&#39;occasion du Congrès des arts martiaux à Genève.
+title: Vo Vietnam Genève, Ecole Son Long Quyen Thuat - Geneva ...
+snippet: Vo Vietnam Genève, Ecole Son Long Quyen Thuat in Geneva, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Geneva and beyond.
+title: Vo Vietnam Genève, Ecole Son Long Quyen Thuat, av Bouchet ...
+snippet: Vo Vietnam Son Long Quyen Thuat / SLQT Partie 2 / Musique XKI et MILKYWEM . ... Photos from Vo Vietnam Genève, Ecole Son Long Quyen Thuat&#39;s post . Gala Tinh hoa võ thuật: ... Geneva, 1206 . Karate Genève / KOKORO-DO KAN / Sh*to Ryu Culture - santé - défense personnelle .
+title: SonLongQuyenThuat - YouTube
+snippet: This was the techniques description of Son Long Quyen Thuat in the Opening of The First International Tournament ( Vietnamese Traditional Martial Arts- called Vo co truyen) - Ho Chi Minh city, 2008.
+title: Vo Vietnam Son Long Quyen Thuat / SLQT Partie 1 - YouTube
+snippet: VO VIETNAM Son Long Quyen Thuat / Démo Commission Technique à GENEVE / FIVV ... xki prod 8,522 views. 6:45. Vo Vietnam Son Long Quyen Thuat / Diaporama ... Ecole Son Long Quyen Thuat 9,819 views
+
+REL: 0
+POI Name: Patara
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Thai, 
+Snippets:
+title: Fine &amp; fun Thai Dining - Patara fine thai cuisine Geneva
+snippet: Since opening in 1999, Patara rapidly became a leading reference in Thai gastronomy and has long been one of the go-to addresses in international Geneva. This Mecca of culinary refinement is in reality the Geneva ambassador of one of the finest tables in Bangkok.
+title: patarageneve - Patara fine thai cuisine Geneva
+snippet: Les restaurants Patara doivent leur succès et leur nom à une femme hors du commun, Patara Sila-On. Patara, ou «femme gracieuse», est le nom que l’on donne en Thaïlande à une jeune fille qui s’occupe de sa famille et de ses amis avec beaucoup d’attention.
+title: Patara Fine Thai Cuisine, Geneva - Menu, Prices ...
+snippet: Reserve a table at Patara Fine Thai Cuisine, Geneva on Tripadvisor: See 410 unbiased reviews of Patara Fine Thai Cuisine, rated 4 of 5 on Tripadvisor and ranked #132 of 1,766 restaurants in Geneva.
+title: Patara Fine Thai Cuisine, Genève - Restaurantanmeldelser ...
+snippet: Patara Fine Thai Cuisine, Genève: Se 410 objektive anmeldelser av Patara Fine Thai Cuisine, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 134 av 1 766 restauranter i Genève.
+title: Patara Fine &amp; Fun Thai Dining - patara-geneva.ch
+snippet: Patara Fine &amp; Fun Thai Dinig. Quai du Mont-Blanc 13 1201 Genève Suisse. The restaurant is open 7D/7 between 12:00pm-1:45pm and 7:00pm-9:45pm. Newsletter. Leave this field empty if you&#39;re human: Quai du Mont-Blanc 13 1201 Genève Suisse +41 22 731 55 66 emailpatara-geneve.ch.
+title: Beau Rivage Hotel Geneva | Fine Dining Restaurant in ...
+snippet: Geneva-Bangkok, now boarding. From the shores of Lake Geneva, in the heart of Geneva, escape into the world of bewitching scents and the subtle flavours and colours of Thai cuisine at Le Patara, for an exotic, emotion-provoking sensory experience.
+title: Patara - Geneva : a Michelin Guide restaurant
+snippet: Patara – a restaurant from the Michelin Guide Find all the information you need on the Patara restaurant: Michelin guide review, user reviews, cuisine, opening times, meal prices… Patara - a Michelin Guide restaurant.
+title: PATARA FINE THAI CUISINE, Geneva - Updated 2020 Restaurant ...
+snippet: Reserve a table at Patara Fine Thai Cuisine, Geneva on Tripadvisor: See 410 unbiased reviews of Patara Fine Thai Cuisine, rated 4 of 5 on Tripadvisor and ranked #132 of 1,766 restaurants in Geneva.
+title: Patara - Thai Cuisine Restaurants in London
+snippet: Patara, authentically different Thai dining restaurants in central London since 1990. Visit our restaurants in Hampstead, Knightsbridge, Oxford Circus, Soho, South Kensington, and Wimbledon.
+title: Patara Fine &amp; fun Thaï Dining, Geneva - Home - Geneva ...
+snippet: Patara Fine &amp; fun Thaï Dining, Geneva, Genève, Switzerland. 1,583 likes · 1,754 were here. Since opening in 1999, Patara became a leading reference in Thai gastronomy and has long been one of the...
+
+REL: 0
+POI Name: Restaurant Fifty-Fifty
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Hotels & Travel, Restaurants, 
+Snippets:
+title: Fifty-Fifty, Geneva - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Fifty-Fifty, Geneva: See 268 unbiased reviews of Fifty-Fifty, rated 4.5 of 5 on Tripadvisor and ranked #21 of 1,765 restaurants in Geneva.
+title: Fifty-Fifty, Genève - Restaurantanmeldelser - Tripadvisor
+snippet: Fifty-Fifty, Genève: Se 268 objektive anmeldelser av Fifty-Fifty, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 21 av 1 765 restauranter i Genève.
+title: FIFTY-FIFTY, Geneva - Updated 2020 Restaurant Reviews ...
+snippet: Fifty-Fifty, Geneva: See 268 unbiased reviews of Fifty-Fifty, rated 4.5 of 5 on Tripadvisor and ranked #21 of 1,766 restaurants in Geneva.
+title: Fifty-Fifty, Genève - Restaurant Avis, Numéro de Téléphone ...
+snippet: Fifty-Fifty, Genève : consultez 268 avis sur Fifty-Fifty, noté 4.5 sur 5 sur Tripadvisor et classé #21 sur 1&#39;765 restaurants à Genève.
+title: THE 10 BEST Restaurants Near Fifty-Fifty in Geneva, Canton ...
+snippet: Restaurants near Fifty-Fifty, Geneva on Tripadvisor: Find traveler reviews and candid photos of dining near Fifty-Fifty in Geneva, Switzerland.
+title: Best restaurant in Geneva - Review of Fifty-Fifty, Geneva ...
+snippet: Fifty-Fifty: Best restaurant in Geneva - See 268 traveler reviews, 74 candid photos, and great deals for Geneva, Switzerland, at Tripadvisor.
+title: Restaurant Fifty-Fifty - Geneva, Switzerland - Pizza Place ...
+snippet: Restaurant Fifty-Fifty, Geneva, Switzerland. 164 likes · 922 were here. Pizza Place
+title: Fifty-Fifty, Geneva - Restaurant Reviews, Photos &amp; Phone ...
+snippet: We had a day in Geneva on our way back from skiing, and visited museums with our young boys, and wanted somewhere for lunch. We found Fifty-Fifty, which was excellent, the staff and management very friendly and they were excellent with the kids.
+title: De 10 beste restaurantene i nærheten av Fifty-Fifty
+snippet: Restauranter i nærheten av Fifty-Fifty på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Fifty-Fifty, Genève.
+title: FIFTY-FIFTY - Genève - Geneva restaurant
+snippet: Genève, international city, offers a variety of restaurants and bars for every taste and every desire. Geneve-Restaurants.ch is the official directory of the Society of Geneva&#39;s Bar and Restaurants. All listed establishments meet our charter which is a guarantee of quality for the customers.
+
+REL: 0
+POI Name: Fonderie Kugler
+POI City: Geneva
+POI Country: CH
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Usine Kugler: Fédération des artistes de Kugler (FAK ...
+snippet: Depuis avril 2011, la Fédération des artistes de Kugler gère, par l’intermédiaire d’un bureau, la Fonderie Kugler :un espace ouvert aux différentes formes de cultures émergentes et projets pluridisciplinaires inscrits dans une dynamique de recherche, de production et d’expérimentation.
+title: Fonderie . Usine Kugler - Home | Facebook
+snippet: Fonderie . Usine Kugler, Geneva, Switzerland. 7,112 likes · 47 talking about this · 2,389 were here. Espace de 400m2 qui accueille en résidence des créations pluridisciplinaires et d’expérimentation,...
+title: Usine Kugler: Fédération des artistes de Kugler (FAK ...
+snippet: La Fonderie Kugler est l&#39;espace culturel de la Fédération des artistes de kugler. Le lieu accueille en résidence ou pour des projets ponctuels, des créations pluridisciplinaires de cultures émergentes qui s&#39;inscrivent dans une dynamique de recherche de production et d’expérimentation. Informations pour envoyer vos projets a la Fonderie Kugler.
+title: Usine &amp; Fonderie Kugler Geneva | Spotted by Locals
+snippet: Not far from “La Pointe“, where the Rhone and Arve rivers meet, in the Jonction area, you can find this alternative multicultural artist space called Usine &amp; Fonderie Kugler. Originally a tap factory, this building has been converted into a cultural space devoted to emerging arts projects, where many resident artists (over 200) have now their studios and ateliers.
+title: Five Cubed 2019 Exhibition | Taste Contemporary
+snippet: La Fonderie Kugler, Geneva. To mark its fifth birthday, Taste Contemporary was proud to present Five Cubed; an ambitious exhibition presenting an exciting group of artists working across the fields of contemporary ceramics and textiles. Part of the Parcours Céramique Carougeois 2019, ...
+title: Fonderie Kugler| My Big Genève
+snippet: Installée dans une ancienne entreprise de robinetterie, la Fonderie Kugler que l’on connait aujourd’hui fut un temps mise à disposition de l’Ecole Supérieure des Beaux Arts (en 1998) mais le chemin fut long et périlleux avant de permettre à la Fédération des artistes de Kugler (FAK) de s’y installer et de proposer un autre Genève que nous affectionnons un.
+title: Fonderie Kugler, Geneva, Switzerland Concert Setlists ...
+snippet: Get Fonderie Kugler, Geneva, Switzerland setlists - view them, share them, discuss them with other Fonderie Kugler, Geneva, Switzerland fans for free on setlist.fm!
+title: Fonderie . Usine Kugler, 19, avenue de la Jonction, Geneva ...
+snippet: LA FONDERIE KUGLER - 19, avenue de la Jonction - 1205 Genève La Fonderie Kugler est l&#39;espace culturel de la Fédération des artistes de kugler. Le lieu accueille en résidence ou pour des projets ponctuels, des créations pluridisciplinaires de cultures émergentes. Ouvert en fonction des événements et de la programmation
+title: Fonderie Kugler (Usine Kugler) - Culture accessible genève
+snippet: L’Usine Kugler est un espace culturel dans un ancien bâtiment industriel hébergeant plusieurs institutions culturelles, dont les suivantes proposent des activités ouvertes au public : la Fonderie Kugler, salle de concerts et de soirées fiche du lieu; l’Espace Kugler, espace d’art fiche du lieu
+title: Fonderie Kugler | Art Factory | My Big Geneva
+snippet: Located in a former fittings company, the Kugler art factory hosted the Fine Arts school of Geneva (back in 1998), but the road was long and perilous before allowing the Federation of Kugler artists (FAK) to settle in for good.
+
+REL: 0
+POI Name: Landgasthof Weisses Kreuz
+POI City: Leuggern
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Swiss Food, 
+Snippets:
+
+
+REL: 0
+POI Name: Bottle Brothers
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Cocktail Bars, Tapas/Small Plates, 
+Snippets:
+title: Bienvenue - Bottle brothers, Bar à cocktails, Vins et Burgers
+snippet: À Bottle les cocktails sont réalisés sur-mesure selon votre envie, tout en utilisant des spiritueux de grande qualité de provenances diverses.
+title: Bottle Brothers, Geneva - Restaurant Reviews, Photos ...
+snippet: Bottle Brothers, Geneva: See 90 unbiased reviews of Bottle Brothers, rated 4.5 of 5 on Tripadvisor and ranked #208 of 1,764 restaurants in Geneva.
+title: BOTTLE BROTHERS, Geneva - Restaurant Reviews, Photos ...
+snippet: Bottle Brothers, Geneva: See 90 unbiased reviews of Bottle Brothers, rated 4.5 of 5 on TripAdvisor and ranked #205 of 1,761 restaurants in Geneva.
+title: Grand Bottle - Bottle brothers, Bar à cocktails, Vins et ...
+snippet: Coté bar, on reste fidèle à la sélection « made in Bottle » : cocktails classiques et signature, vins en culture raisonnée et bières locales et d’ailleurs. Coté table, l’offre s’étoffe pour prendre la forme d’une cuisine bistronomique inventive servie en petite portion sur assiette.
+title: Bottle Brothers - Home | Facebook
+snippet: Bottle Brothers - 12 rue Henri Blanvalet, 1207 Geneva, Switzerland - Rated 4.8 based on 90 Reviews &quot;Awesomeness, with a little bit more awesomeness .....
+title: Bottle Brothers, Genève - Restaurant Avis, Numéro de ...
+snippet: Bottle Brothers, Genève : consultez 90 avis sur Bottle Brothers, noté 4.5 sur 5 sur Tripadvisor et classé #208 sur 1&#39;766 restaurants à Genève.
+title: THE 10 BEST Restaurants Near Bottle Brothers in Geneva ...
+snippet: Restaurants near Bottle Brothers, Geneva on Tripadvisor: Find traveler reviews and candid photos of dining near Bottle Brothers in Geneva, Switzerland.
+title: Grand Bottle, Geneva - Restaurant Reviews &amp; Photos ...
+snippet: Grand Bottle, Geneva: See 26 unbiased reviews of Grand Bottle, rated 4 of 5 on Tripadvisor and ranked #806 of 1,766 restaurants in Geneva. Flights Vacation Rentals ... Grand bottle is the &quot;big brother&quot; of &quot;bottle brothers&quot; and it is right next door.
+title: De 10 beste restaurantene i nærheten av Bottle Brothers
+snippet: Restauranter i nærheten av Bottle Brothers på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Bottle Brothers, Genève.
+title: Bottle Brothers - 12 rue Henri-Blanvalet, Geneva, Genève ...
+snippet: 8 reviews of Bottle Brothers &quot;While waiting for a friend, we stumbled upon Bottle Brothers which turns out to also be her favorite local bar. We were so excited to tell her about it, but it turns out that this was one of the cocktail bars that is…
+
+REL: 0
+POI Name: Rigi Kulm
+POI City: Arth
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+
+
+REL: 0
+POI Name: La Limite
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, Cafes, 
+Snippets:
+title: La Limite, Geneva - Restaurant Reviews, Photos &amp; Phone ...
+snippet: La Limite, Geneva: See 225 unbiased reviews of La Limite, rated 4.5 of 5 on Tripadvisor and ranked #41 of 1,766 restaurants in Geneva.
+title: LA LIMITE, Geneva - Updated 2020 Restaurant Reviews ...
+snippet: La Limite, Geneva: See 225 unbiased reviews of La Limite, rated 4.5 of 5 on Tripadvisor and ranked #41 of 1,765 restaurants in Geneva.
+title: La Limite, Genève - Restaurantanmeldelser - Tripadvisor
+snippet: La Limite, Genève: Se 225 objektive anmeldelser av La Limite, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 41 av 1 766 restauranter i Genève.
+title: La Limite - Geneva, Switzerland - European Restaurant ...
+snippet: La Limite, Geneva, Switzerland. 138 likes. European Restaurant. Le filet de boeuf vraiment excellent. Rapport qualité prix vraiment au top.
+title: La Limite, Genève - Restaurant Avis, Numéro de Téléphone ...
+snippet: La Limite, Genève : consultez 225 avis sur La Limite, noté 4,5 sur 5 sur Tripadvisor et classé #41 sur 1 765 restaurants à Genève.
+title: La Limite, Genève - Restaurantanmeldelser - Tripadvisor
+snippet: La Limite, Genève: Se 225 objektive anmeldelser af La Limite, ... Lokal vin var moderat til Geneva, men jeg valgte liter mineralvand og prøvede at tænke sundt. Tartare de Boeuf avec frites et toasts var enorm - største tartare, jeg har haft i nogen tid, hvilket virkelig havde brug for en flaske eller to af rødt, ...
+title: CAFÉ DE LA LIMITE - Cuisines du monde - Genève
+snippet: On l&#39;aime sans limite ! Les tables font penser à une cantine, dans la salle en contrebas de l’établissement. Le reste du café semble être resté le même depuis des lustres. Le restaurant propose même des spécialités, comme le cordon rouge, préparé avec de la viande de cheval.
+title: LA LIMITE, Ginebra - Fotos, Número de Teléfono y ...
+snippet: La Limite, Ginebra: Consulta 225 opiniones sobre La Limite con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°41 de 1.766 restaurantes en Ginebra.
+title: THE 10 BEST Restaurants Near La Limite in Geneva, Canton ...
+snippet: Restaurants near La Limite, Geneva on Tripadvisor: Find traveler reviews and candid photos of dining near La Limite in Geneva, Switzerland.
+title: LA LIMITE - Genève - Geneva restaurant
+snippet: Genève, international city, offers a variety of restaurants and bars for every taste and every desire. Geneve-Restaurants.ch is the official directory of the Society of Geneva&#39;s Bar and Restaurants.
+
+REL: 0
+POI Name: Morena Bar
+POI City: Geneva
+POI Country: CH
+POI Main category: Restaurants and Food
+POI Sub category: Hotels & Travel, Restaurants, 
+Snippets:
+title: Morena Bar - Restaurant - Geneva, Switzerland | Facebook ...
+snippet: Morena Bar - Avenue Wendt 1, 1203 Geneva, Switzerland - Rated 4.8 based on 9 Reviews &quot;Je trouve que les nouveaux propriétaires et leurs serveuses sont...
+title: Restaurant Morena Bar à Genève - iTaste
+snippet: Restaurant Morena Bar à Genève, découvrez toutes les infos, menus et avis de critiques sur cet établissement, réservation en ligne, Cuisine française
+title: Morena Bar - Cafe - Geneva, Switzerland | Facebook - 9 ...
+snippet: Morena Bar - Avenue Wendt 1, 1203 Geneva, Switzerland - Rated 4.8 based on 9 Reviews &quot;Je trouve que les nouveaux propriétaires et leurs serveuses sont...
+title: Morena Bar restaurant - Home | Facebook
+snippet: Morena Bar restaurant - Avenue Wendt 1, 1203 Geneva, Switzerland - Rated 5 based on 2 Reviews &quot;Super&quot;
+title: DE 10 BESTE ting å gjøre i Genève - Tripadvisor
+snippet: Ting å gjøre i Genève: Se anmeldelser og bilder av ting å gjøre i Genève, Sveits på Tripadvisor.
+title: Genève – Wikipedia
+snippet: Genève er en by i Sveits som ligger i den sørvestlige delen av landet, ved den vestre enden av Genfersjøen.Den er hovedstad i kantonen Genève og er, etter Zürich, den nest største byen i Sveits med 191 557 innbyggere (2013), (750 000 med forsteder).Byen ligger i den hovedsakelig franskspråklige delen av landet, Romandie. Samfunnet (ville de Genève) har en befolkning per desember 2014 ...
+title: Morena Bar Restaurant, Geneva - iTaste
+snippet: Restaurant Morena Bar in Geneva, discover information, meat, menus and ratings from expert on this restaurant, online reservation, French cuisine
+title: Geneva restaurant
+snippet: Genève, international city, offers a variety of restaurants and bars for every taste and every desire. Geneve-Restaurants.ch is the official directory of the Society of Geneva&#39;s Bar and Restaurants. All listed establishments meet our charter which is a guarantee of quality for the customers.
+title: THE 10 BEST Restaurants Near Rosa Morena in Carouge ...
+snippet: Restaurants near Rosa Morena, Carouge on Tripadvisor: Find traveler reviews and candid photos of dining near Rosa Morena in Carouge, Switzerland.
+title: THE BEST Bars &amp; Pubs in Geneva - Tripadvisor
+snippet: Bars &amp; Pubs in Geneva, Canton of Geneva: Find Tripadvisor traveler reviews of Geneva Bars &amp; Pubs and search by price, location, and more.
+
+REL: 0
+POI Name: Au Berceau d Or 
+POI City: Geneva
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Active Life, Shopping, 
+Snippets:
+title: Au Berceau d&#39;Or - Articles pour bébés et futures mamans
+snippet: Au Berceau d&#39;Or à Genève en Suisse : boutique spécialisée pour les futures mamans (vêtements de grossesse) et bébés (berceaux, couffins, poussettes, mode enfants).
+title: Home - Au Berceau d&#39;Or
+snippet: To be sure to please without making a mistake, Au Berceau d’Or offers you a good gift beautifully presented in its golden box. Au Berceau d’Or accompanies this box of a lolette first age Difrax offered.
+title: Au Berceau d&#39;Or SA - Baby &amp; Children&#39;s Clothing Store ...
+snippet: Au Berceau d&#39;Or SA - Rue de la Rôtisserie, 8, 1204 Geneva, Switzerland - Rated 4.6 based on 14 Reviews &quot;bravo beatrice !!?? très attractif !!&quot;
+title: Contact - Au Berceau d&#39;Or
+snippet: Au Berceau d&#39;Or à Genève en Suisse : boutique spécialisée pour les futures mamans (vêtements de grossesse) et bébés (berceaux, couffins, poussettes, mode enfants).
+title: Au Berceau d&#39;Or SA - Baby &amp; Children&#39;s Clothing Store ...
+snippet: Au Berceau d&#39;Or SA - Rue de la Rôtisserie, 8, 1204 Geneva, Switzerland - Rated 4.6 based on 14 Reviews &quot;bravo beatrice !!?? très attractif !!&quot;
+title: Au Berceau d&#39;Or SA, Rue de la Rôtisserie, 8, Geneva (2020)
+snippet: Informations de contact, plan et itinéraire, formulaire de contact, heures d&#39;ouverture, services, évaluations, photos, vidéos et annonces de Au Berceau d&#39;Or SA, Boutique de vêtements pour enfants et nourrissons, Rue de la Rôtisserie, 8, Geneva.
+title: Au Berceau d’Or » Lake Geneva Directory
+snippet: Au Berceau d’Or » Lake Geneva Directory The Lake Geneva Region in Switzerland, or Lac Léman to locals, is one of the most beautiful places to visit. Situated around the largest body of water in Switzerland and stretching from the elegant city towns of Lausanne, Geneva and Montreux, including many smaller picturesque towns, Lac Léman is a wonder in it’s self.
+title: Au Berceau d&#39;Or SA - Baby &amp; Children&#39;s Clothing Store ...
+snippet: Exclusivité mondiale un seul exemplaire à Genève et elle est Au Berceau d&#39;Or Stokke Xplory Gold édition limitée 1000 exemplaires dans le monde. Châssis unique doré mat avec des textiles noirs de grande qualité. Placez votre bébé en hauteur pour favoriser votre proximité et créer un lien.
+title: Maternity Pillows - Au Berceau d&#39;Or
+snippet: Fermeture de la boutique en raison du Covid-19 jusqu&#39;à nouvel ordre. Veuillez nous contacter par e-mail au info@auberceaudor.ch pour toutes commandes de produits de la boutique.
+title: Au Berceau d Or - Geneva, Genève, Switzerland
+snippet: 1 review of Au Berceau d Or &quot;This is a lovely shop, much larger than you first realise when you see it from the street. It has a wide range of stock from different brands. They particularly cover maternity wear and everything for babies…
+
+REL: 0
+POI Name: Fitnesscenter Body Fit
+POI City: Tagelswangen
+POI Country: CH
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+Cand cities: {'Lucerne', 'Zunzgen', 'Zürich', 'Regensdorf', 'Zurich', 'Pratteln', 'Arth', 'Tagelswangen', 'Zürich-Flughafen', 'Geneva', 'Leuggern', 'Birsfelden'}

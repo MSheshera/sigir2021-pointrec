@@ -1,0 +1,462 @@
+City: Amsterdam
+Country: NL
+Main category: Active Life
+Sub category: Gyms
+Description: Hi all, So I need a new gym, something around Amstel station in Amsterdam Oost. I did a quick check with google maps and many gyms are crazily expensive and want to lock you down into a contract. First off I don't go gym often, maybe two or three times a week. Second point is that my current rental contract is until June, so I might end up moving to another place in Amstedam. Fit For Free seems like the most affordable month to month gym but the reviews online seem to point to lots of issues. Smart fit is another one which I saw, that looked promising.  Any other gyms which I should look at?
+Rated POIs: 44
+Rel distr: [(0, 9), (1, 8), (2, 11), (3, 16)]
+=================================
+REL: 3
+POI Name: Fresh
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Trainers, Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Base Gym Amsterdam
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: SportCity
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Vondelgym Oost
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Yoga, Boxing, Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: SportPlaza Mercator
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Sports Clubs, Swimming Pools, Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: TrainMore Amsterdam Oost
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Ettaki Gym
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Ten Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: TrainMore Amsterdam de Pijp
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Sport Natural
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Fitness Zuidas
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Splash Healthclub Leidseplein
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Palestra Sports
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 3
+POI Name: Fit For Free
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Only 4 Ladies
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Clubsportive Mahler Zuidas
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: SportCity Wibautstraat
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Sportcentrum Universum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Tennis, Sports Clubs, Climbing, 
+Snippets:
+
+
+REL: 2
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Great
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: CrossFit AKA
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Fit For Free
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: HIGH45
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 2
+POI Name: Fit for Free
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Fitness & Instruction, 
+Snippets:
+
+
+REL: 2
+POI Name: Basic-Fit
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+
+
+REL: 1
+POI Name: Burger Fabriek
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, 
+Snippets:
+
+
+REL: 1
+POI Name: Asics Flagship Store
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Sports Wear, Outdoor Gear, Trainers, 
+Snippets:
+
+
+REL: 1
+POI Name: Mash
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 1
+POI Name: Pahop Thai
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Thai, Steakhouses, 
+Snippets:
+
+
+REL: 1
+POI Name: Proeflokaal A. van Wees
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, Cafes, 
+Snippets:
+
+
+REL: 1
+POI Name: Surinam Express
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Caribbean, Halal, Indian, 
+Snippets:
+
+
+REL: 1
+POI Name: Snackbar 't Vogeltje
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, 
+Snippets:
+
+
+REL: 1
+POI Name: Koh-I-Noor
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+REL: 0
+POI Name: Restaurant Dubbel
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, 
+Snippets:
+
+
+REL: 0
+POI Name: Popeye Coffeeshop
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Coffeeshops, 
+Snippets:
+
+
+REL: 0
+POI Name: San Francisco
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: San Francisco Bar - Zeedijk - Home | Facebook
+snippet: San Francisco Bar - Zeedijk - Zeedijk 40, 1012 AZ Amsterdam, Netherlands - Rated 4.4 based on 39 Reviews &quot;Incredibly rude and unhelpful staff. Had...
+title: $583 Flights from San Francisco to Amsterdam: SJC to AMS ...
+snippet: Flights from San Francisco to Amsterdam Flights from San Francisco to Amsterdam, current page ... United Airlines (UA) will also take you to your destination in comfort. Offering 18 flights per month between San Francisco and Amsterdam, it&#39;s another popular airline to look into. Route Information for Flights from San Francisco to Amsterdam.
+title: Billige flybilletter fra San Francisco internasjonale til ...
+snippet: Finn flyreiser fra San Francisco internasjonale til Amsterdam Schiphol med www.skyscanner.no Vi tilbyr en gratis søketjeneste der du kan billige flybilletter fra alle de store flyselskapene fra San Francisco internasjonale til Amsterdam Schiphol.
+title: $272 - Cheap flights from Amsterdam (AMS) to San Francisco ...
+snippet: Compare &amp; reserve one-way or return flights from Amsterdam to San Francisco from $272 only to get the best flight deals and promotions for your AMS to SFO trip! Skip to main content. Welcome to {{displayDomain}}, a US site operated by Expedia, Inc., a Washington corporation.
+title: Billige flyreiser Amsterdam - San Francisco - Jetcost
+snippet: Med Jetcost, finn billige flybilletter og lavprisbilletter fra Amsterdam til San Francisco med ett klikk: Sammenlign billettprisene til de beste flyselskapene og reisebyråene i løpet av sekunder. Bare velg destinasjonen din og reisedatoene dine for å sammenligne priser på flybilletter fra Amsterdam til San Francisco.
+title: Cheap flights from Amsterdam(AMS) to San Francisco(SFO ...
+snippet: If you’ve been planning a romantic holiday with a partner, itching for an adventurous solo escape to one of the globe’s most fascinating destinations, or just looking to soak up some local history and culture, flights from Amsterdam to San Francisco provide the perfect getaway.
+title: Billige flyreiser San Francisco - Amsterdam - Jetcost
+snippet: Fly San Francisco - Amsterdam: Søk og bestill billige flybilletter fra San Francisco til Amsterdam. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Amsterdam Time to San Francisco Time Converter -- TimeBie
+snippet: Amsterdam Netherlands Time and San Francisco Time Converter Calculator, Amsterdam Time and San Francisco Time Conversion Table.
+title: Fly Amsterdam - San Francisco | AMS - SFO | Expedia.no
+snippet: Når du ser etter fly fra Amsterdam (AMS) til San Francisco (SFO), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Amsterdam til San Francisco.
+title: Amsterdam Hostel i San Francisco | Hotels.com
+snippet: Amsterdam Hostel ligger i sentrum og nær en undergrunnsstasjon i bydelen San Francisco sentrum i San Francisco. Et par populære landemerker er Lombard Street og Pier 39, og hvis du er på utkikk etter morsomme aktiviteter, kan du ta turen til Ferjebygningen og Berkeley Marina. Du kan se om det skjer noe kult på Oracle Park, og hvis du har tid, bør du også få med deg San Francisco ...
+
+REL: 0
+POI Name: STACH
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Do-It-Yourself Food, Specialty Food, 
+Snippets:
+
+
+REL: 0
+POI Name: Restaurant Vinkeles
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+
+
+REL: 0
+POI Name: Coffeeshop The Saint
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+title: Coffeeshop The Saint in Amsterdam. Amsterdam Coffeeshop
+snippet: Coffeeshop The Saint in Amsterdam. In einem Eckhaus an einer gepflegten kleinen Seitenstraße, mitten in der Stadt, liegt dieses Graffiti-Coffeeshop. Lockeres Personal, Reggae-Musik, Ajax Amsterdam Fußball.
+title: Coffeeshop The Saint in Amsterdam | DutchCoffeeshops.com
+snippet: Coffeeshop The Saint in Amsterdam. View the location of this coffee shop on our map. Find more info, address, opening hours, photos and reviews of this coffeeshop.
+title: Coffeeshop Saint
+snippet: Online menus from Coffeeshop Saint in Amsterdam Netherlands. November 27, 2017 Mr Jonsen. Click image for full size Hash
+title: Coffeeshop The Saint in Amsterdam | DutchCoffeeshops.com
+snippet: Coffeeshop The Saint in Amsterdam. Bekijk de locatie van de coffee shop op een kaart, bekijk meer informatie, adres, openingstijden, foto&#39;s en recencies van deze coffeeshop.
+title: Coffeeshop The Saint Amsterdam. Amsterdam Coffeeshop
+snippet: Coffeeshop The Saint Coffeeshop The Saint in Amsterdam. Down a neat little side street in a corner of the city centre, this graffiti coffeeshop. Easy going staff, sweet reggae music, Ajax Amsterdam matches.
+title: The Saint Coffeeshop - Amsterdam, Netherlands - Coffee ...
+snippet: The Saint Coffeeshop, Amsterdam, Netherlands. 160 likes · 1 talking about this · 764 were here. Coffee Shop
+title: Coffeeshop The Saint in Amsterdam | DutchCoffeeshops.com
+snippet: Coffeeshop The Saint in Amsterdam. Zeigen Sie den Standort dieses Coffeeshops auf einer Karte an. Finden Sie mehr Informationen, Adresse, Öffnungszeiten, Fotos und Bewertungen von diesem Coffeeshop.
+title: Coffeeshop The Saint à Amsterdam | DutchCoffeeshops.com
+snippet: Coffeeshop The Saint Amsterdam. Voir l&#39;emplacement de ce café sur une carte. Trouver des informations, adresse, heures d&#39;ouverture, des photos et des commentaires de ce coffeeshop.
+title: Coffeeshop The Saint Amsterdam | Coffeeshops in Amsterdam
+snippet: Looking for Coffeeshop The Saint in Amsterdam? On www.coffeeshopsinamsterdam.nl you&#39;ll find all about 165 coffeeshops in Amsterdam. Go there now &gt;&gt;
+title: The Saint - Coffeeshop Guru
+snippet: The Saint. A small coffeeshop in an alley that connects the Amstel river and the Rembrandt Square with a lovely outside terrace. Address: Regulierssteeg 2
+
+REL: 0
+POI Name: Concertgebouw
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 0
+POI Name: george marina
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: George Marina - Café George
+snippet: George Marina Spaklerweg 10 A - Amsterdam - George Bistro Bistro Valeriusplein 2 - Amsterdam - Café George Amsterdam Leidsegracht 84 - Amsterdam - George W.P.A. Willemsparkweg 74 - Amsterdam - Georgio&#39;s Stadhouderskade 7 - Amsterdam - Bistro G.P. by George Van Leijenberghlaan 252 - Amsterdam - Georgette P.C. Hooftstraat 87 - Amsterdam - George ...
+title: Café George Amsterdam - Amsterdam
+snippet: George Marina Spaklerweg 10 A - Amsterdam - George Bistro Bistro Valeriusplein 2 - Amsterdam - Café George Amsterdam Leidsegracht 84 - Amsterdam - George W.P.A. Willemsparkweg 74 - Amsterdam - Georgio&#39;s Stadhouderskade 7 - Amsterdam - Bistro G.P. by George Van Leijenberghlaan 252 - Amsterdam - Georgette P.C. Hooftstraat 87 - Amsterdam - George ...
+title: Lunch &amp; dinner | George Marina
+snippet: Bekijk ons menu &#39;Lunch &amp; dinner&#39; en maak alvast een keuze uit onze gerechten in de categorieen: LUNCH, SUSHI, SASHIMI, MARINA SEAFOOD PLATEAUS, STARTERS, SALADS, GEORGE CLASSICS, MAINS FISH, MAINS MEAT, SIDES, KIDS, DESSERTS, SMALL BITES, OYSTERS &amp; CRUSTACEANS
+title: Contact | George Marina
+snippet: George Marina Spaklerweg 10 A - Amsterdam - George Bistro Bistro Valeriusplein 2 - Amsterdam - Café George Amsterdam Leidsegracht 84 - Amsterdam - George W.P.A. Willemsparkweg 74 - Amsterdam - Georgio&#39;s Stadhouderskade 7 - Amsterdam - Bistro G.P. by George Van Leijenberghlaan 252 - Amsterdam - Georgette P.C. Hooftstraat 87 - Amsterdam - George ...
+title: Meeting &amp; Events | George Marina
+snippet: A special event – business or private – requires a unique venue! George Marina, the newest addition to the George family, is located near the Amstel. This amazing location right on the water gives every business meeting, presentation, private dinner or celebration a unique and relaxing ambiance.
+title: George Marina, Amsterdam - Watergraafsmeer - Menü, Preise ...
+snippet: George Marina, Amsterdam: 115 Bewertungen - bei Tripadvisor auf Platz 3.836 von 4.228 von 4.228 Amsterdam Restaurants; mit 3/5 von Reisenden bewertet.
+title: George Marina Amsterdam // Your Little Black Book
+snippet: george marina amsterdam; binnenkort genieten aan de amstel. Goed nieuws! Na George Bistro, San George, George W.P.A, Café George en Café Georgette, voegt nu George Marina Amsterdam zich als jongste telg toe aan de heuse George familie. George Marina Amsterdam kunnen we vinden aan de mooie Amstel. Heerlijk, wij zien onszelf al zitten met oesters en een glas wijn aan het water!
+title: Our pictures | George Marina
+snippet: George Marina Spaklerweg 10 A - Amsterdam - George Bistro Bistro Valeriusplein 2 - Amsterdam - Café George Amsterdam Leidsegracht 84 - Amsterdam - George W.P.A. Willemsparkweg 74 - Amsterdam - Georgio&#39;s Stadhouderskade 7 - Amsterdam - Bistro G.P. by George Van Leijenberghlaan 252 - Amsterdam - Georgette P.C. Hooftstraat 87 - Amsterdam - George ...
+title: Amsterdam - Café George
+snippet: George Marina Spaklerweg 10 A - Amsterdam - George Bistro Bistro Valeriusplein 2 - Amsterdam - Café George Amsterdam Leidsegracht 84 - Amsterdam - George W.P.A. Willemsparkweg 74 - Amsterdam - Georgio&#39;s Stadhouderskade 7 - Amsterdam - Bistro G.P. by George Van Leijenberghlaan 252 - Amsterdam - Georgette P.C. Hooftstraat 87 - Amsterdam - George ...
+title: George Marina - Amsterdam - Inspirerende Locaties
+snippet: George Marina aan de Amsterdamse Amstel heeft een uniek uitzicht over het Amstelkwartier en is de eerste George waar je met de boot kan aanleggen. Zakelijke of privé evenementen Evenementenruimtes Naast het restaurant met 130 couvert kan je ook voor een bijzonder evenement – zakelijk of privé – terecht bij George Marina.
+
+REL: 0
+POI Name: Deli Company
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Sandwiches, Imported Food, 
+Snippets:
+
+
+Cand cities: {'Amsterdam'}

@@ -1,0 +1,994 @@
+City: Vancouver
+Country: CA
+Main category: Active Life
+Sub category: Hiking - Climbing
+Description: Hello, I am an exchange student studying at Queen's University in Kingston, ON and I'm going to be in Vancouver from April 29th - May 8th this year. I'm looking to spend a couple of days in Vancouver and spend the remainder of the time doing outdoor activities, mainly hiking trails or climbing mountains, but I'm open to other suggestions too. I like hiking with nice views at the top, and walks that don't require any technical skills to reach the summit etc I am trying to plan my trip and not sure if I should base myself in Vancouver and do day trips or stay in other towns nearer to where the hiking trails are. It's important to note that I won't be able to rent a car since I'm too young, so I either have to use public transport or hitchhike (I know it's illegal in BC but apparently it's pretty common and easy to do and cops don't care so much?) EDIT: Thanks for the advice, I'll definitely take it in to consideration. Just to be clear I'm a 19 year old male, and I'm quite tall and muscular. I will most likely be travelling with another male friend and I've hitchhiked several times in Europe and in Ontario. I'm very street-wise and aware of my surroundings. However, with that said, I do take what you have said very seriously and hitchhiking will always be my last resort, it can definitely be very dangerous, especially in a place like BC. Edit: I also won't be going anywhere near the Highway of Tears.
+Rated POIs: 40
+Rel distr: [(0, 6), (1, 15), (2, 14), (3, 5)]
+=================================
+REL: 3
+POI Name: The Aviary
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Climbing, 
+Snippets:
+title: THE AVIARY
+snippet: The Aviary is a coworking space in Vancouver Canada. We are also shopfront for local independent designers. We have event space for rent.
+title: STOREFRONT — THE AVIARY
+snippet: The Aviary is the only coworking studio within Vancouver located at street level allowing the continual creation of storefront displays and visual interaction with our community. This unique access provides our members, as well as designers and local makers, a public platform to showcase their products or creative installations.
+title: The Aviary, 637 E 15th Ave, Vancouver, BC (2020)
+snippet: a shopfront and studio space for designers The Aviary is about creating an open studio dedicated to supporting creatives who work independently, yet still want to feel part of a creative community and work in an inspiring environment. The Aviary is membership based, from full time to daily drop-in, in order to allow flexible work schedules. It has all the amenities that a design studio would ...
+title: The Aviary - Home | Facebook
+snippet: The Aviary - Room 2206, 6133 University Boulevard, Vancouver, British Columbia V6T 1Z1 - Rated 5 based on 10 Reviews &quot;(A+) for convenience - there is...
+title: The Aviary in Vancouver - ShareDesk
+snippet: The Aviary is an open studio dedicated to supporting creatives who work independently, yet want to be part of a creative community and work in an inspiring environment. The Aviary is membership based, from full time to daily drop-in, in order to allow flexible work schedules.
+title: UBC Aviary
+snippet: About. The Aviary is a climbing wall located in the AMS Nest on the UBC Vancouver campus. We are open to everybody, and have top rope, lead climbing, and an array of training tools to suit both new and experienced climbers.
+title: The Aviary, Vancouver - Book Online - Coworker
+snippet: The Aviary is a modern light filled space at street level in the Fraserhood in East Vancouver. We are sandwiched between Matchstick Coffee and Gluten Free Epicurean Bakery on a very unique little commercial strip in East Van.
+title: DONATE — THE AVIARY
+snippet: DONATE. During this unprecedented time we are struggling to meet our financial responsibilities, our commercial rent being the most critical. We respect that everyone is facing their own unique challenges, so your consideration to donate is deeply appreciated.
+title: The Vancouver sun - Media — THE AVIARY
+snippet: PECHA KUCHA VOL. 45. The Co-founders and owners of The Aviary had the honour to present at Pecha Kucha’s special edition as part of Vancouver Design Week in 2018. If you have ever wondered how The Aviary came to be, this video tells you everything you need to know.
+title: The Aviary - Home | Facebook
+snippet: The Aviary - 637 E 15th Ave, Vancouver, British Columbia V5T 3K5 - Rated 5 based on 2 Reviews &quot;Amazing space to create &amp; connect with like-minded...
+
+REL: 3
+POI Name: Lynn Headwaters Regional Park
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Lynn Headwaters Regional Park - Metro Vancouver
+snippet: Metro Vancouver is a federation of 21 municipalities, one Electoral Area and one Treaty First Nation that collaboratively plans for and delivers regional-scale services. Its core services are drinking water, wastewater treatment and solid waste management. Metro Vancouver also regulates air quality, plans for urban growth, manages a regional parks system and provides affordable housing.
+title: Lynn Headwaters Regional Park (North Vancouver) - 2020 All ...
+snippet: Explore Vancouver, the North Shore, and the Capilano Suspension Bridge on a full-day coach tour that takes in some of the city’s top sites. Leave the navigation to someone else as you see Stanley Park’s Indigenous Peoples&#39; story poles, visit key neighborhoods, and cross a massive suspension bridge through the rain forest.
+title: Lynn Headwaters Regional Park - Wikipedia
+snippet: Lynn Headwaters Regional Park is an area of North Vancouver, British Columbia, and is the largest of twenty-two regional parks in Metro Vancouver. At 9,216.5 acres (3,729.8 ha), the park boasts a variety of trails for hikers, including easy, intermediate, and challenging. The trails are colour-coded and range from 3 kilometres (1.9 mi) to 21.4 kilometres (13.3 mi).
+title: Lynn Headwaters Regional Park (Nord-Vancouver, Canada ...
+snippet: Lynn Headwaters Regional Park, Nord-Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Lynn Headwaters Regional Park i Nord-Vancouver, Canada på Tripadvisor.
+title: Lynn Headwaters Regional Park (North Vancouver) - 2020 All ...
+snippet: North Vancouver Tourism; North Vancouver Hotels; North Vancouver Bed and Breakfast; North Vancouver Vacation Rentals; North Vancouver Vacation Packages; Flights to North Vancouver; North Vancouver Restaurants; Things to Do in North Vancouver; North Vancouver Travel Forum; North Vancouver Photos; North Vancouver Map; North Vancouver Travel Guide ...
+title: Lynn Headwaters Regional Park | North Vancouver ...
+snippet: Lynn Headwaters Regional Park | North Vancouver ... Lynn Headwaters Regional Park Profile - Duration: 3:01. MetroVancouver 4,580 views. 3:01. Family of eight in huge converted tour bus!
+title: Lynn Headwaters Regional Park | Vancouver&#39;s Best Places
+snippet: Best Time to Visit Lynn Headwaters. Lynn Headwaters Regional Park is an amazing place to explore any time of the year, or at least the lower parts are. Like many of the North Shore parks, even when the trees are all bare in other parts of Metro Vancouver, this place is still beautiful in the middle of winter.
+title: Lynn Headwaters Regional Park (North Vancouver) - 2020 All ...
+snippet: North Vancouver Tourism; North Vancouver Hotels; North Vancouver Bed and Breakfast; North Vancouver Vacation Rentals; North Vancouver Vacation Packages; Flights to North Vancouver; North Vancouver Restaurants; Things to Do in North Vancouver; North Vancouver Travel Forum; North Vancouver Photos; North Vancouver Map; North Vancouver Travel Guide
+title: Lynn Peak Hike - Lynn Headwaters - North Vancouver ...
+snippet: Sprouting above Lynn Valley, Lynn Peak is the first of many mountains in Lynn Headwaters. Lynn Peak is known as Lynn Valley&#39;s version of the Grouse Grind.
+title: Lynn Loop hike near North Vancouver, BC | Vancouver Trails
+snippet: How to get to Lynn Loop Estimated Driving Time from Vancouver 40 minutes. Lynn Loop is located in Lynn Headwaters Regional Park in North Vancouver. To reach the start of the trail, take Highway #1 to the Lynn Valley Exit and follow Lynn Valley Road northbound.
+
+REL: 3
+POI Name: Canada West Mountain School
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, Climbing, Skiing, 
+Snippets:
+title: Canada West Mountain School - Mountain guiding | Avalanche ...
+snippet: Canada West Mountain School specializes in private, customized training and Guided trips. We work extensively with schools, clubs, companies and individuals to arrange everything from 1-day class sessions to International expeditions. 1-888-892-2266
+title: Contact - Canada West Mountain School
+snippet: Canada West Mountain School #240 400 Brooksbank Avenue North Vancouver, BC V7J 2C2 Canada. We are available by phone 7 days a week from 8 am to 8 pm. If you want to drop by in person, our office is open with staff to personally help you out and answer your questions from 8:30 am to 4:00 pm, Monday to Friday.
+title: Canada West Mountain School - Rock Climbing Spot - North ...
+snippet: Canada West Mountain School, North Vancouver, British Columbia. 2.8K likes. 38 years in 2020, as one of Canada&#39;s largest and most comprehensive Mountain Instruction and Guiding centres since 1982. We...
+title: Avalanche Training - Canada West Mountain School
+snippet: Canada West Mountain School provides the highest quality Avalanche Skills Training (AST) program, operating for over 35 years. Our first Avalanche course was in 1982! For the 2019/20 season we continue to offer the most comprehensive AST program available, supported by our full time office staff in North Vancouver and our team of amazing professional Instructors and Guides.
+title: Kilimanjaro, Tanzania - Canada West Mountain School
+snippet: Canada West Mountain School specializes in private, customized training and Guided trips. We work extensively with schools, clubs, companies and individuals to arrange everything from 1-day class sessions to International expeditions. 1-888-892-2266
+title: Vancouver Avalanche Skills AST-1 - Canada West Mountain School
+snippet: Canada West Mountain School has been offering avalanche skills training courses since 1982 - our 2020-21 season AST-1 Classic is built on more than 35 years of experience conducting Avalanche Skills safety training to the highest standard possible.. The AST-1 Classic course focuses on teaching practical methods of understanding, recognizing and avoiding avalanche hazards, including terrain ...
+title: Canada West Mountain School Inc - Rock Climbing - North ...
+snippet: Canada West Mountain School Inc - North Vancouver - phone number, website &amp; address - BC - Rock Climbing. Established in 1982, Canada West Mountain School is one of the premier Mountain Guiding and Training centers in Canada.
+title: Mountain West Studios | Creating Memories That Last A Lifetime
+snippet: Welcome toMountain West StudiosCreating memories that last a lifetime. Did you know you can choose from a wide variety of exciting backgrounds? Try the
+title: Schools - North Vancouver School District
+snippet: 1801 Mountain Highway North Vancouver BC V7J 2M7. Highlands Elementary View Website More. 604.903.3540. ... 641 17th Street West North Vancouver BC V7M 0A1. Secondary. Argyle Secondary View Website More. 604.903.3300. 604.903.3301. ... North Vancouver School District.
+title: North Vancouver (city) - Wikipedia
+snippet: The North Vancouver mountains have many drainages: Capilano River, MacKay, Mosquito, and Lynn Creeks, and Seymour River. The Depression again bankrupted the city, while the Second World War turned North Vancouver into the Clydeside of Canada with a large shipbuilding program.
+
+REL: 3
+POI Name: Ecoride Vancouver
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, Mountain Biking, Bike Rentals, 
+Snippets:
+title: EcoRide Mountain Bike and Hiking Tours (Vancouver) - 2020 ...
+snippet: About EcoRide Mountain Bike and Hiking Tours Mountain Bike and Hiking Tour company located in Vancouver, Canada. Convenient and affordable mountain bike tour includes high end full suspension bike, transportation and an experienced guide taking you to the finest trails in the North Shore. $90 per person.
+title: Restaurants Near EcoRide Mountain Bike and Hiking Tours ...
+snippet: Restaurants near EcoRide Mountain Bike and Hiking Tours, Vancouver on Tripadvisor: Find traveler reviews and candid photos of dining near EcoRide Mountain Bike and Hiking Tours in Vancouver, British Columbia.
+title: EcoRide Mountain Bike and Hiking Tours (Vancouver, Canada ...
+snippet: EcoRide Mountain Bike and Hiking Tours, Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for EcoRide Mountain Bike and Hiking Tours i Vancouver, Canada på Tripadvisor.
+title: Best Hotels Near EcoRide Mountain Bike and Hiking Tours ...
+snippet: Hotels near EcoRide Mountain Bike and Hiking Tours, Vancouver on Tripadvisor: Find 59,690 traveler reviews, 50,237 candid photos, and prices for 30 hotels near EcoRide Mountain Bike and Hiking Tours in Vancouver, British Columbia.
+title: EcoRide Intro tour - Review of EcoRide Mountain Bike and ...
+snippet: EcoRide Mountain Bike and Hiking Tours: EcoRide Intro tour - See 15 traveler reviews, 12 candid photos, and great deals for Vancouver, Canada, at Tripadvisor.
+title: Great Time- Awesome Guides! - Review of EcoRide Mountain ...
+snippet: EcoRide Mountain Bike and Hiking Tours: Great Time- Awesome Guides! - See 15 traveler reviews, 12 candid photos, and great deals for Vancouver, Canada, at Tripadvisor.
+title: EcoRide Vancouver - Hours &amp; Reviews - 288 East Georgia ...
+snippet: EcoRide Vancouver, Company in Vancouver, British Columbia, 288 East Georgia Street, Vancouver, BC V6A 4H8 – Hours of Operation &amp; Customer Reviews.
+title: De 10 beste hotellene i nærheten av EcoRide Mountain Bike ...
+snippet: Hoteller i nærheten av EcoRide Mountain Bike and Hiking Tours, Vancouver: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av EcoRide Mountain Bike and Hiking Tours på Tripadvisor.
+title: Ecoride Vancouver · William Abesdris · Vancouver, BC
+snippet: Ecoride Vancouver (Licence# 17-142971) is a business licenced with Vancouver, Community Services Group - Licence Office. The address is Vancouver, BC.
+title: EcoRide Mountain Bike and Hiking Tours (Vancouver) - 2020 ...
+snippet: EcoRide Mountain Bike and Hiking Tours, Vancouver: See 15 reviews, articles, and 12 photos of EcoRide Mountain Bike and Hiking Tours, ranked No.87 on Tripadvisor among 206 attractions in Vancouver.
+
+REL: 2
+POI Name: Whytecliff Park
+POI City: West Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Whytecliff Park | West Vancouver, BC
+snippet: Whytecliff Park in West Vancouver, BC Experience the Magic of West Vancouver. Whytecliff park opened in 1909 and is located near West Vancouver&#39;s Horseshoe Bay Neighbourhood. Home to more than 200 marine animal species, Whytecliff Park is one of the first Marine Protected Areas in Canada where you&#39;re bound to catch a glimpse of Sea lions ...
+title: Whytecliff Park | District of West Vancouver
+snippet: Whytecliff Park is situated just west of Horseshoe Bay. This beautiful corner of Howe Sound has a rugged coastline and spectacular views of colourful mountains and passing boats. The waters off the park are famous for their incredible diving. You’ll also find a playground, picnic spots, a swimming beach and tennis courts in the 15+ hectare park.
+title: Whytecliff Park, West Vancouver | Vancouver Trails
+snippet: How to get to Whytecliff Park Estimated Driving Time from Vancouver 45 minutes. Whytecliff Park is located along the western most shoreline of West Vancouver near Horseshoe Bay. From downtown Vancouver, drive to Georgia Street and head westbound as it merges onto the Stanley Park causeway before reaching the Lions Gate Bridge.
+title: Whytecliff Park (West Vancouver) - 2020 All You Need to ...
+snippet: Hey, I went to the Whytecliff Park last September and it was so beautiful. I went swimming there and I climbed the rock (the view at the top was wonderful). There is no bus stopping directly in front of the Whytecliff Park so you have to walk around 30min to get there, but the …
+title: Directions to Whytecliff Park | West Vancouver, BC
+snippet: How to get to Whytecliff Park in West Vancouver, BC. Whytecliff Park is located near Horseshoe Bay in West Vancouver. It is a little off the beaten track but is accessible by car or public transit with a little bit of walking involved.
+title: Whytecliff Park (West Vancouver, Canada) - Anmeldelser
+snippet: Whytecliff Park, West Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Whytecliff Park i West Vancouver, Canada på Tripadvisor.
+title: Whytecliff Park in West Vancouver | Outdoor Vancouver
+snippet: Whytecliff Park is a beautiful oceanside spot in West Vancouver. It is a popular place for a relaxing walk and also for scuba diving. There are some short trails within the trees of Whytecliff Park and a few rugged paths along the cliffs above the water. However, a walk around Whytecliff Park doesn’t feel as if it qualifies as a ‘hike’.
+title: Whytecliff Park, West Vancouver
+snippet: &quot;Whytecliff Park (15.63 hectares in size) is located in a beautiful corner of Howe Sound with a rugged coastline and spectacular views of colourful mountains and passing boats. The waters off the Park became Canada’s first Salt Water Marine Protected Area (MPA) in 1993 and are now famous for its incredible underwater diving.
+title: Whytecliff Park - West Vancouver | Wander Vancouver
+snippet: Whytecliff Park situated near Horseshoe Bay in West Vancouver is a beautiful park on the coast often frequented by photographers, scubadivers and explorers.
+title: Whytecliff Park (West Vancouver) - 2020 All You Need to ...
+snippet: We stopped at Whytecliff Park while driving the Sea to Sky highway from Vancouver to Whistler. We happened to be there at the right time with the tide so we could walk along the rocks out to the Whytecliff Island.
+
+REL: 2
+POI Name: Centennial Seawalk
+POI City: West Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Centennial Seawalk | District of West Vancouver
+snippet: The popular 1.7-kilometre Centennial Seawalk extends from the bottom of 18th Street to Dundarave Park. This walk has scenic views of Burrard Inlet, the Coast Mountains, the Vancouver skyline and ships travelling under the Lions Gate Bridge and past the beach.
+title: Ambleside Centennial Seawalk - British Columbia, Canada ...
+snippet: Ambleside Centennial Seawalk is a 3.1 mile moderately trafficked out and back trail located near West Vancouver, British Columbia, Canada that offers scenic views and is good for all skill levels. The trail is primarily used for walking, trail running, and road biking and is accessible year-round.
+title: West Vancouver Centennial Seawalk - West Vancouver Seawall ...
+snippet: The 1.7-kilometre West Vancouver Centennial Seawalk runs between the foot of 18th Street &amp; 25th Street in West Vancouver. The West Vancouver Centennial Seawalk is pedestrian only. Dogs are permitted, but must walk behind the fence bordering the railway tracks. It is possible to continue East along the shore trails and some roads to Ambleside Park.
+title: Update: CN dispute regarding Centennial Seawalk | District ...
+snippet: BACKGROUND. On Friday, February 17, 2017, CN Acquisition Limited filed a lawsuit in the Supreme Court of British Columbia alleging that the District of West Vancouver and its residents do not have a legal right to use the Centennial Seawalk, in those locations where it runs along the railway right-of-way.
+title: Centennial Seawalk - Simon Fraser University
+snippet: West Vancouver Centennial Seawalk. The popular 1.7-kilometre Centennial Seawalk extends from bottom of 18th Street to Dundarave Park. This walk has scenic views of Burrard Inlet, the Coast Mountains the Vancouver skyline and ships travelling under the Lions Gate Bridge and past the beach.
+title: Seaview Walk | District of West Vancouver
+snippet: The Seaview Walk is a designated off-leash area for well-behaved dogs. Dog waste disposal bags can be picked up at the trail entrances. Check out Dogs in Parks for more information, including off-leash parks in West Vancouver, licensing and more. Dogs in Parks
+title: Trans Canada Trail | District of West Vancouver
+snippet: The Trans Canada Trail is the longest trail of its kind in the world. Spanning approximately 16,000 km, the trail winds its way through every province and territory and connects Canadians from coast to coast to coast. The West Vancouver portion of the Trans Canada Trail starts in Horseshoe Bay.
+title: &#39;Heaven forbid they should get their way,&#39; says West ...
+snippet: The relationship between the Canadian National Railway and the District of West Vancouver has gone off the rails, as the two butt heads over the future of the Centennial Seawalk.
+title: Walking &amp; Hiking | District of West Vancouver
+snippet: Walking &amp; Hiking. Enjoy the outdoors, but stay apart. ... This scenic hiking trail stretches from the head of Burrard Inlet in Deep Cove to Horseshoe Bay in West Vancouver. ... The popular 1.7-kilometre Centennial Seawalk extends from the bottom of 18th Street to Dundarave Park.
+
+REL: 2
+POI Name: Grouse Mountain
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Grouse Mountain - The Peak of Vancouver
+snippet: Due to COVID-19, Grouse Mountain has suspended all resort operations and is closed until further notice. Please see our latest update for details. During the COVID-19 closure, access to Resort property is prohibited.
+title: Current Conditions | Grouse Mountain - The Peak of Vancouver
+snippet: Due to the rapidly changing circumstances around COVID-19, Grouse Mountain has suspended all resort operations and is closed until further notice. Please see our latest update for details. During the COVID-19 closure, access to Resort property is prohibited.
+title: Winter Web Cams | Grouse Mountain - The Peak of Vancouver
+snippet: web cams watch what&#39;s happening at grouse mountain - live Web Cams Chalet Cam SNOW CAM CITY VIEW CAM ... 6400 Nancy Greene Way North Vancouver, BC V7R 4K9. PH: (604) 980-9311. Announcements. Due to COVID-19, Grouse Mountain has suspended all resort operations and is closed until further notice. Please see our latest update for details. During ...
+title: The Observatory Restaurant | Grouse Mountain - The Peak of ...
+snippet: 6400 Nancy Greene Way North Vancouver, BC V7R 4K9. PH: (604) 980-9311. Announcements. Due to COVID-19, Grouse Mountain has suspended all resort operations and is closed until further notice. Please see our latest update for details. During the COVID-19 closure, access to Resort property is prohibited.
+title: Skyride | Grouse Mountain - The Peak of Vancouver
+snippet: For summer, Grouse Mountain is pleased to offer the Skyride Surf Adventure™. Feel the wind on your face as you ascend 2,800 ft. from the Lower Terminal to the Peak Chalet – on the rooftop of the Grouse Mountain Super Skyride! You’ll be part of a small group accessing this special viewing platform.
+title: Wildlife Refuge | Grouse Mountain - The Peak of Vancouver
+snippet: Grouse Mountain is an active participant in the North American Hummingbird Monitoring Network. Our team maintains a feeding station on top of the Mountain and carries out hummingbird monitoring sessions every two weeks in the spring and summer.
+title: Grouse Mountain (Nord-Vancouver, Canada) - Anmeldelser
+snippet: Grouse Mountain, Nord-Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Grouse Mountain i Nord-Vancouver, Canada på Tripadvisor. ... Utforsk Vancouver, North Shore og Capilano Suspension Bridge på en heldags busstur som tar for seg noen av byens beste steder.
+title: Grouse Mountain (North Vancouver) - 2020 All You Need to ...
+snippet: Explore Vancouver, the North Shore, and the Capilano Suspension Bridge on a full-day coach tour that takes in some of the city’s top sites. Leave the navigation to someone else as you see Stanley Park’s Indigenous Peoples&#39; story poles, visit key neighborhoods, and cross a massive suspension bridge through the rain forest.
+title: Grouse Mountain - Wikipedia
+snippet: Grouse Mountain is one of the North Shore Mountains of the Pacific Ranges in the District Municipality of North Vancouver, British Columbia, Canada.With a maximum elevation of over 1,200 m (4,100 feet) at its peak, the mountain is the site of an alpine ski area, Grouse Mountain Resort, which overlooks Greater Vancouver has four chairlifts servicing 33 runs.
+title: A Guide to Grouse Mountain - Tourism Vancouver
+snippet: From sophisticated entertainment to unspoiled nature, Grouse Mountain is the pre-eminent all-in-one, four season destination with something for everyone.
+
+REL: 2
+POI Name: Pacific Spirit Regional Park
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Pacific Spirit Regional Park - Vancouver Trails
+snippet: How to get to Pacific Spirit Regional Park Estimated Driving Time from Vancouver 10 minutes. Pacific Spirit Regional Park has many points that you can start from and it is best to refer to a map of the park. For the trail description below, the starting point is on 16th Avenue next to Camosun Park.
+title: Pacific Spirit Regional Park - Metro Vancouver
+snippet: Metro Vancouver is a federation of 21 municipalities, one Electoral Area and one Treaty First Nation that collaboratively plans for and delivers regional-scale services. Its core services are drinking water, wastewater treatment and solid waste management. Metro Vancouver also regulates air quality, plans for urban growth, manages a regional parks system and provides affordable housing.
+title: Pacific Spirit Regional Park (Vancouver) - 2020 All You ...
+snippet: For our exploration of the Pacific Spirit Regional Park, we focused today on the Camosun Bog area of the park..we parked along Crown Street and entered the Park along 19th avenue..there are several easy trails to walk and emerge yourself into a cozy atmosphere immediately along …
+title: Pacific Spirit Regional Park Map - Metro Vancouver
+snippet: pacific spirit regional park park overview 1 2 3 trail designations ubc botanical garden museum of anthropology botanical gardens golf course musqueam indian reserve ubc camosun bog ecological reserve (not open to the public) trail 3 trail 4 n o d o g north y e a r r o u n d c h a n c e lorb vd n w m a r i n e d r w r e c k b e a c h p o i n t ...
+title: Pacific Spirit Regional Park | Tourism Vancouver
+snippet: With over 38 km of multi-use trails for all experience levels, the Pacific Spirit Regional Park is a favorite for local and visiting hikers.
+title: Pacific Spirit Regional Park - Wikipedia
+snippet: Pacific Spirit Regional Park is a 874 hectares (2,160 acres) park located in the University Endowment Lands, on Point Grey to the west of the city of Vancouver, British Columbia.It surrounds the endowment lands of the University of British Columbia on the shores of Georgia Strait in the Pacific Ocean.It is a nature preserve of the British Columbia government and classified under Electoral Area A.
+title: Pacific Spirit Regional Park (Vancouver, Canada) - Anmeldelser
+snippet: Pacific Spirit Regional Park, Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Pacific Spirit Regional Park i Vancouver, Canada på Tripadvisor.
+title: Pacific Spirit Regional Park, Vancouver
+snippet: &quot;Pacific Spirit Regional Park comprises 763 hectares of forest and foreshore immediately west of Vancouver. The park&#39;s forests stretch across Point Grey separating the city from the University of British Columbia. Its thin foreshore wraps around the tip of the peninsula and touches the Fraser River, the Strait of Georgia and Burrard Inlet.
+title: Pacific Spirit Regional Park – British Columbia Travel and ...
+snippet: The largest green space in Vancouver is located in Pacific Spirit Regional Park, which adjoins the University of British Columbia (UBC) on the city&#39;s west side at Point Grey. Although the 1,885-acre (763-hectare) park is still in its &#39;formative&#39; stage, visitors have been enjoying its trails and beaches for decades before its designation as a
+
+REL: 2
+POI Name: Quarry Rock
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Quarry Rock Hike (North Vancouver) - All You Need to Know ...
+snippet: Book your tickets online for Quarry Rock Hike, North Vancouver: See 185 reviews, articles, and 134 photos of Quarry Rock Hike, ranked No.8 on Tripadvisor among 55 attractions in North Vancouver.
+title: Quarry Rock Hike in Deep Cove - North Vancouver - Wander ...
+snippet: Quarry Rock Hike in Deep Cove – North Vancouver Deep Cove’s most popular hike known as Quarry Rock is a short 3.8 km round-trip hike following the Paden Powell Trail leading to a large rocky outcrop standing tall above the shore offering beautiful views of the Indian Arm and the mountains surrounding Belcarra.
+title: Quarry Rock hike in Deep Cove, North Vancouver, BC ...
+snippet: View a map of Driving directions to Quarry Rock. Transit Access to Quarry Rock. From downtown Vancouver, take the Seabus across to North Vancouver and at the Lonsdale Quay bus loop, take bus #239: Capilano University to Phibbs Exchange bus loop. At Phibbs Exchange, transfer to bus #212 which will take you all the way to Deep Cove.
+title: The 10 Best Restaurants Near Quarry Rock Hike, North Vancouver
+snippet: Restaurants near Quarry Rock Hike, North Vancouver on Tripadvisor: Find traveller reviews and candid photos of dining near Quarry Rock Hike in North Vancouver, British Columbia.
+title: Quarry Rock, Lynn Canyon Suspension Bridge closed &quot;until ...
+snippet: On Twitter, the District of North Vancouver announced it is officially closing the Lynn Canyon Suspension Bridge and the Quarry Rock hike to the public. The closure will be enforced as of 7 am, Sunday, March 22.
+title: Quarry Rock Hike (North Vancouver) - 2020 All You Need to ...
+snippet: Explore Vancouver, the North Shore, and the Capilano Suspension Bridge on a full-day coach tour that takes in some of the city’s top sites. Leave the navigation to someone else as you see Stanley Park’s Indigenous Peoples&#39; story poles, visit key neighborhoods, and cross a massive suspension bridge through the rain forest.
+title: Officials to restrict Quarry Rock trail to 70 hikers at a ...
+snippet: Starting on May 18, rangers with the District of North Vancouver will try to maintain a limit of 70 hikers on the Quarry Rock trail at one time in a bid to keep the attraction safe and enjoyable ...
+title: Quarry Rock Hike (North Vancouver) - 2020 All You Need to ...
+snippet: North Vancouver Tourism; North Vancouver Hotels; North Vancouver Bed and Breakfast; North Vancouver Vacation Rentals; North Vancouver Vacation Packages; Flights to North Vancouver; North Vancouver Restaurants; Things to Do in North Vancouver; North Vancouver Travel Forum
+title: Quarry Rock | VancityWild
+snippet: The information on this page may not always be accurate or up-to-date. Please take the time to research current trail conditions. Visit northshorerescue.com and adventuresmart.ca for tips on how to stay safe while in the wilderness.. ALL PHOTOS IN THIS BLOG POST WERE TAKEN AND EDITED BY BRIE &amp; REUBEN OF VANCITYWILD.
+
+REL: 2
+POI Name: Hollyburn Mountain
+POI City: West Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Hollyburn Mountain hiking at Cypress Mountain, West ...
+snippet: How to get to Hollyburn Mountain Estimated Driving Time from Vancouver 45 minutes. Hollyburn Mountain begins from the cross-country skiing area at the Cypress Mountain Ski Resort in West Vancouver. To get to the starting point, head westbound along Highway #1 and take Exit #8 to Cypress Provincial Park.
+title: Hollyburn Mountain - British Columbia, Canada | AllTrails
+snippet: Hollyburn Mountain is a 4.1 mile moderately trafficked out and back trail located near West Vancouver, British Columbia, Canada that offers scenic views and is rated as moderate. The trail is primarily used for hiking, walking, and running and is best used from July until November. Dogs are also able to use this trail but must be kept on leash.
+title: Vancouver, BC - HOME - Hollyburn Country Club
+snippet: Established nearly 60 years ago, Hollyburn Country Club has grown from a small community sports club into one the most premier, private, recreational, competitive, social and family friendly clubs in Canada. Located on 47 prime acres in the British Properties of West Vancouver, BC, it is truly one the most beautiful vistas in all of Vancouver.
+title: Yr – Weather forecast for Hollyburn Mountain, British ...
+snippet: Værvarsel for 9,3 millioner steder i verden! A lot of the data on Yr is free to use in applications and services. If you develop programs, applications or other services with data from Yr, we encourage you to share it with other users!
+title: Hollyburn Lodge | Cypress Mountain
+snippet: Nestled in the middle of our Cross Country ski trails is the beautiful newly re-opened Hollyburn Lodge! Along with our awesome classic menu of delicious burgers, beer, wine, and homemade baking, there are now evening appies to fuel you when you&#39;ve had a serious lap around the trails.
+title: Hollyburn Mountain - West Vancouver, BC, Canada - Yelp
+snippet: You can get to the Hollyburn Peak trail hike from the cross country parking lot of the Cypress Mountain Ski Resort. The trail is operated by BC Parks and therefore is free - whereas you&#39;d pay for the Cypress snowshoeing and cross country access. The only difference is that you&#39;re hiking Hollyburn Mountain instead of the Cypress Bowl.
+title: West Vancouver Apartment Rentals | Hollyburn Properties
+snippet: West Vancouver is an esteemed neighbourhood where you’re sure to become a local in no time. On the shores of Ambleside and Dundarave beach, views of fishing boats, freighters and cruise ships are a daily pleasure in this seaside community.
+title: A Whistler-type village is planned for West Vancouver&#39;s ...
+snippet: Article content. West Vancouver — among the wealthiest of postal codes in B.C. — is planning to diversify its housing stock with a Whistler-style village on the slopes of Hollyburn Mountain.
+title: Hollyburn Mountain (West Vancouver, Canada) - Anmeldelser
+snippet: Hollyburn Mountain, West Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Hollyburn Mountain i West Vancouver, Canada på Tripadvisor.
+title: Hollyburn Mountain (West Vancouver) - 2020 All You Need to ...
+snippet: Hiked to Hollyburn Mountain on July 31, 2019, went up by the usual route, along the Baden Powell trail for the first 2 km and then on the Hollyburn Mountain trail to the summit. Trail was decent, though on the Baden Powell trail certain parts were flooded out and were a bit …
+
+REL: 2
+POI Name: Grouse Grind
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Grouse Grind | Grouse Mountain - The Peak of Vancouver
+snippet: A Grind Timer Card (previously, the Summit Seeker Card), containing a radio frequency chip, from Grouse Mountain is a great way to track your training. Swipe your card at the Grind Timer at the base of the Grouse Grind, and again at the top of the trail, and your name and time will appear on the monitor at Alpine Guest Services in the Peak Chalet.
+title: Grouse Mountain - The Peak of Vancouver
+snippet: Grouse Grind Included With Mountain Admission Ticket Peak Chairlift ... 6400 Nancy Greene Way North Vancouver, BC V7R 4K9. PH: (604) 980-9311. Announcements. Due to COVID-19, Grouse Mountain has suspended all resort operations and is closed until further notice. Please see our latest update for details. During the COVID-19 closure, ...
+title: Grouse Grind - FAQ | Grouse Mountain - The Peak of Vancouver
+snippet: The Grouse Grind is recommended for anyone who is reasonably fit and up for a challenge. Mothers, fathers, grandparents, children, and die-hard fitness fanatics all do the Grouse Grind. Each year, more than 100,000 people hike the Grouse Grind so it’s a diverse crowd to say the least.
+title: Wildlife Refuge | Grouse Mountain - The Peak of Vancouver
+snippet: Grouse Mountain is an active participant in the North American Hummingbird Monitoring Network. Our team maintains a feeding station on top of the Mountain and carries out hummingbird monitoring sessions every two weeks in the spring and summer.
+title: The Grouse Grind (North Vancouver) - 2020 All You Need to ...
+snippet: Explore Vancouver, the North Shore, and the Capilano Suspension Bridge on a full-day coach tour that takes in some of the city’s top sites. Leave the navigation to someone else as you see Stanley Park’s Indigenous Peoples&#39; story poles, visit key neighborhoods, and cross a massive suspension bridge through the rain forest.
+title: Hiking the Grouse Grind at Grouse Mountain, North Vancouver
+snippet: The Grouse Grind is an intense outdoor workout that rewards hikers with stunning vistas of Vancouver and the Lower Mainland from the peak of Grouse Mountain. Only a short fifteen-minute drive from downtown Vancouver, the Grouse Grind is undoubtedly one of the busiest hiking trails in the Vancouver area.
+title: Grouse Grind Trail - Metro Vancouver
+snippet: Grouse Grind currently closed due to anticipated severe weather conditions. Environment Canada has issued a rainfall warning for Metro Vancouver as a series of powerful storms approaches the region. Metro Vancouver’s Grouse Grind Trail will be closed to the public effective October 13, 2016.
+title: The Grouse Grind (Nord-Vancouver, Canada) - Anmeldelser
+snippet: The Grouse Grind, Nord-Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for The Grouse Grind i Nord-Vancouver, Canada på Tripadvisor. ... Utforsk Vancouver, North Shore og Capilano Suspension Bridge på en heldags busstur som tar for seg noen av byens beste steder.
+title: The Grouse Grind | Grouse Mountain - The Peak of Vancouver
+snippet: Your Grind® Timer Card contains a radio frequency chip. Simply swipe your Card at the Grind Timer at the base of the Grouse Grind® then again at the top of the trail, and your name and time will appear on the monitor at Alpine Guest Services in the Peak Chalet.
+title: THE 10 CLOSEST Hotels to Grouse Mountain, North Vancouver ...
+snippet: Hotels near Grouse Mountain, North Vancouver on Tripadvisor: Find 49,285 traveler reviews, 20,291 candid photos, and prices for 30 hotels near Grouse Mountain in North Vancouver, British Columbia.
+
+REL: 2
+POI Name: Lynn Canyon Park
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, Hiking, 
+Snippets:
+title: Lynn Canyon Park | Lynn Canyon Suspension Bridge
+snippet: Lynn Canyon Park &amp; Suspension Bridge. Lynn Canyon Park officially opened to the public in 1912 and has been a popular destination among tourists and local residents of Lynn Valley ever since. The main attraction, the Lynn Canyon Suspension Bridge towers 50 meters (160ft) over the canyon and is part of the Baden Powell Trail.
+title: Lynn Canyon Park (North Vancouver) - 2020 All You Need to ...
+snippet: Explore Vancouver, the North Shore, and the Capilano Suspension Bridge on a full-day coach tour that takes in some of the city’s top sites. Leave the navigation to someone else as you see Stanley Park’s Indigenous Peoples&#39; story poles, visit key neighborhoods, and cross a massive suspension bridge through the rain forest.
+title: Lynn Canyon Park (North Vancouver) - All You Need to Know ...
+snippet: Lynn Canyon Park is a stunning nature park with acres and acres of rainforest with hiking trails, waterfalls, swimming holes and a suspension bridge above the canyon. I always loved this place when I lived in North Vancouver and I always love to go for a walk there when I am in the area.
+title: Lynn Canyon Park Information | Suspension Bridge in Lynn ...
+snippet: Information Lynn Canyon Park 617 Acres of Forest Lynn Canyon Park officially opened to the public in 1912 and has been a popular destination among tourists and local residents ever since. Lynn Canyon Park is a great location for a family picnic, a leisurely hike, or a refreshing swim in one of the many popular […]
+title: Lynn Canyon Park | North Vancouver BC | Canada - YouTube
+snippet: Lynn Canyon Park is located in North Vancouver, BC. This free attraction features a suspension bridge that hangs 50 metres above the canyon. The park also has an Ecology Centre plus plenty of easy ...
+title: Lynn Canyon Park - Wikipedia
+snippet: Lynn Canyon Park is a municipal park in the District of North Vancouver, British Columbia.When the park officially opened in 1912 it was only 12 acres (4.9 ha) in size, but it now encompasses 617 acres (250 ha). The park has many hiking trails of varying length and difficulty.
+title: Lynn Canyon Park (Nord-Vancouver, Canada) - Anmeldelser
+snippet: Lynn Canyon Park, Nord-Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Lynn Canyon Park i Nord-Vancouver, Canada på Tripadvisor. ... Utforsk Vancouver, North Shore og Capilano Suspension Bridge på en heldags busstur som tar for seg noen av byens beste steder.
+title: North Vancouver&#39;s Lynn Canyon Park | Vancouver&#39;s Best Places
+snippet: Lynn Canyon Park is a beautiful place in North Vancouver that has walking trails, waterfalls, an ecology centre, a suspension bridge and tons of nature.. If you are looking for somewhere to experience the great outdoors, then this is one of Vancouver’s absolute best places to visit.
+title: Lynn Canyon Suspension Bridge (North Vancouver): UPDATED ...
+snippet: Book your tickets online for Lynn Canyon Suspension Bridge, North Vancouver: See 1,238 reviews, articles, and 627 photos of Lynn Canyon Suspension Bridge, ranked No.5 on Tripadvisor among 55 attractions in North Vancouver.
+title: THE 10 CLOSEST Hotels to Lynn Canyon Park, North Vancouver ...
+snippet: Hotels near Lynn Canyon Park, North Vancouver on Tripadvisor: Find 42,756 traveler reviews, 20,291 candid photos, and prices for 30 hotels near Lynn Canyon Park in North Vancouver, British Columbia.
+
+REL: 2
+POI Name: BCMC Grouse Trail
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: BCMC Trail at Grouse Mountain in North Vancouver ...
+snippet: Transit Access to BCMC Trail. From downtown Vancouver, take the Seabus across to North Vancouver and transfer at Lonsdale Quay onto bus #236 to Grouse Mountain. This bus will take you directly to the base of Grouse Mountain where the trail starts. People travelling from East Vancouver or Burnaby may find it easier to take a bus to the Phibbs ...
+title: BCMC Trail Hike in North Vancouver | Outdoor Vancouver
+snippet: BCMC Trail Hike Intro. The BCMC Trail is an alternative trail to the popular Grouse Grind. The BCMC Trail runs parallel to the Grouse Grind and takes you from the Grouse Mountain parking lot up to the Grouse Mountain lodge. The trail is slightly less steep than the Grouse Grind, but a little bit longer.
+title: BCMC Trail (North Vancouver) - 2020 All You Need to Know ...
+snippet: Explore Vancouver, the North Shore, and the Capilano Suspension Bridge on a full-day coach tour that takes in some of the city’s top sites. Leave the navigation to someone else as you see Stanley Park’s Indigenous Peoples&#39; story poles, visit key neighborhoods, and cross a massive suspension bridge through the rain forest.
+title: Comments | BCMC Trail at Grouse Mountain in North ...
+snippet: Comments about BCMC Trail. The BCMC Trail is east of the Grouse Grind in North Vancouver and starts from the base of the mountain, climbs up the steep slopes, and ends at the chalet at the top.
+title: BCMC Trail - British Columbia, Canada | AllTrails
+snippet: BCMC Trail is a 2.8 mile heavily trafficked out and back trail located near North Vancouver, British Columbia, Canada that offers the chance to see wildlife and is rated as difficult. The trail is primarily used for hiking, running, nature trips, and bird watching and is accessible year-round.
+title: BC Mountaineering Club
+snippet: The BCMC took over ownership and the management of Backcountry BC in January of 2018. All Advocacy, Recreation and Conservation issues are hosted, discussed and handled on the new and active website. www.backcountrybc.ca Backcountry BC was built and is operated by the BCMC Web Team. ...
+title: Hiking the BCMC trail, Grouse Mountain – Stay &amp; Roam
+snippet: Grouse Mountain was our final hike in North Vancouver but it was also my favourite so I couldn’t wait to write about it. There are two trails on this mountain: The Grouse Grind and BCMC trail.The Grouse Grind can be quite crowded so we opted for the quieter BCMC trail instead, especially as it looked a bit more scenic.
+title: BCMC hike - Review of Grouse Mountain, North Vancouver ...
+snippet: Grouse Mountain: BCMC hike - See 5,134 traveler reviews, 4,080 candid photos, and great deals for North Vancouver, Canada, at TripAdvisor.
+title: BCMC Trail, Grouse Mountain, North Vancouver, BC (2020)
+snippet: Crews from Metro Vancouver are doing work on the Grouse Grind® so it&#39;s CLOSED but, BCMC is the OPEN alternative. Enjoy! (FYI: Flint &amp; Feather trail is a rugged and scrambly trail that ascends up Grouse between the Grind and BCMC. It is for experienced hikers only.
+title: Grouse Mountain Loop - British Columbia, Canada | AllTrails
+snippet: Grouse Mountain Loop is a 4 mile moderately trafficked out and back trail located near North Vancouver, British Columbia, Canada that offers the chance to see wildlife and is rated as moderate. The trail is primarily used for hiking, nature trips, and snowshoeing and is accessible year-round. Dogs are also able to use this trail.
+
+REL: 2
+POI Name: Brother's Creek Loop
+POI City: British Properties
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Brothers Creek Loop hike in West Vancouver | Vancouver Trails
+snippet: How to get to Brothers Creek Loop Estimated Driving Time from Vancouver 30 minutes. Finding the trailhead to Brothers Creek Loop can be difficult through the maze of streets in West Vancouver&#39;s British Properties.
+title: Brother&#39;s Creek Trail | District of West Vancouver
+snippet: The Brother&#39;s Creek trailhead is located at the top of Millstream Road, reached via Taylor Way and Eyremont Drive. Watch for a wooden signpost that announces Brother&#39;s Creek. To reach the trail, first, ascend a rough fire road that follows the McNair Skidway as far as Brother&#39;s Creek.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Brothers Creek Trail - British Columbia, Canada | AllTrails
+snippet: Brothers Creek Trail is a 6.0 kilometer heavily trafficked loop trail located near West Vancouver, British Columbia, Canada that features a river and is rated as moderate. The trail offers a number of activity options and is accessible year-round. Dogs are also able to use this trail but must be kept on leash.
+title: Shakes, Shinglebolts &amp; Steampots - West Vancouver
+snippet: Shakes, Shinglebolts &amp; Steampots Brother’s Creek Forestry Heritage Walk ... Brother’s Creek Area Trail Map The Brother’s Creek Area ... private property owned by British Pacific Properties Ltd. As a condition of use of these trails, users fully and willingly accept all
+title: Brothers Creek Loop - British Columbia, Canada | AllTrails
+snippet: Brothers Creek Loop is a 6.6 mile loop trail located near West Vancouver, British Columbia, Canada that features a great forest setting and is rated as moderate. The trail is primarily used for hiking and nature trips.
+title: Millstream Trail | District of West Vancouver
+snippet: The Millstream Trail is accessed from either the second switchback on the Cypress Bowl Parkway or from the junction of Eyremount and Chartwell Roads at the top of the British Properties. This trail provides access to the Brother&#39;s Creek Trail, Old Brewis Trail and the Lawson Creek Forestry Heritage Walk.
+title: Brothers Lake Trail to Blue Gentian and Lost Lakes Loop ...
+snippet: Brothers Lake Trail to Blue Gentian and Lost Lakes Loop is a 5.3 mile lightly trafficked loop trail located near West Vancouver, British Columbia,...
+title: Brother’s Creek and Lost Lake Loop - British Columbia ...
+snippet: Brother’s Creek and Lost Lake Loop is a 7.1 mile moderately trafficked loop trail located near West Vancouver, British Columbia, Canada that features a lake and is rated as moderate. The trail is primarily used for hiking, walking, nature trips, and bird watching.
+title: Brothers Creek Loop Hiking Trail, West Vancouver, British ...
+snippet: This route features a steep climb on the Brothers Creek Fire Road, a very rough gravel road slowly becoming overgrown in parts.There are a number of sites of historical significance along the route marked with short (2 ft high) posts with numbers and names on them.
+
+REL: 2
+POI Name: Mt Seymour
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+title: Home | Mt Seymour
+snippet: It&#39;s time to rewild your child and connect them back to nature with Mt Seymour&#39;s Eco-Adventure Summer Camps. Programs have ratios of 2 instructors to 14 children, the lowest of the North Shore Adventure Camps, and take place on the top of Mt Seymour – the perfect location for the ultimate nature experience!
+title: Today&#39;s Conditions &amp; Hours | Mt Seymour
+snippet: THE SKI RUNS OF MT SEYMOUR SKI AREA ARE PART OF MT SEYMOUR&#39;S CONTROLLED RECREATION AREA. SKIING, SNOWBOARDING &amp; TOBOGGANING IN THESE AREAS, EVEN THOUGH WE ARE CLOSED, IS NOT PERMITTED. ... Address: 1700 Mt Seymour Road, North Vancouver, BC Canada, V7G 1L3 ©2020 Mt Seymour Resorts.
+title: Snow School | Mt Seymour
+snippet: Safety — Fun — Learning: These are the building blocks of every lesson taught by the Mt Seymour Ski &amp; Snowboard School. Whether it&#39;s your child&#39;s first time on snow or if you&#39;re training to become an instructor, we are excited to welcome you to Mt Seymour.
+title: Mt Seymour (North Vancouver) - 2020 All You Need to Know ...
+snippet: Explore Vancouver, the North Shore, and the Capilano Suspension Bridge on a full-day coach tour that takes in some of the city’s top sites. Leave the navigation to someone else as you see Stanley Park’s Indigenous Peoples&#39; story poles, visit key neighborhoods, and cross a massive suspension bridge through the rain forest.
+title: Summer Camps | Mt Seymour
+snippet: Registration for summer 2020 is now live! Mt Seymour&#39;s Eco-Adventure Camps offer experiential summer programs for kids, aged 5 to 12, that incorporate fun, education, self-awareness, skill development, and meaningful connections to the environment.
+title: Mt Seymour United Church
+snippet: There is a lot of information available on this website but we would love to tell you What We Are About at Mount Seymour United and What To Expect on a Sunday morning. ... Mt Seymour United Church 1200 Parkgate Ave North Vancouver, BC V7H 2X9. View our map and get directions. Contact Us. Office Phone: ...
+title: Snowshoe | Mt Seymour
+snippet: Named the #1 Resort for Snowshoeing in North America by Snowshoe Magazine in 2012, Mt Seymour offers a variety of trails exclusively for snowshoers providing a place of beauty and solitude. Enjoy the scenic lakes, old growth forests and undulating trails on your own or with an experienced guide on one of our popular snowshoe tours. For the Beginner
+title: Mount Seymour - Wikipedia
+snippet: Mount Seymour is a mountain located in Mount Seymour Provincial Park in the District of North Vancouver, British Columbia, Canada. It is a part of the North Shore Mountains, rising to the north from the shores of Burrard Inlet and Indian Arm to a summit of 1,449 m (4,754 ft) above the Indian River and Deep Cove neighbourhoods.
+title: MT. Seymour Real Estate - Houses for Sale in MT. Seymour ...
+snippet: our homes for sale in Mt. Seymour, North Vancouver, BC. View photos and listing details of Mt. Seymour, North Vancouver, BC real estate, get open house info, find new properties and read Mt. Seymour, North Vancouver, BC local guide, real estate news and market trends.
+title: Mount Seymour Provincial Park - BC Parks
+snippet: The entrance to Mount Seymour Provincial Park is located on Mount Seymour Road just north of Mount Seymour Parkway in North Vancouver, 15 kilometres northeast of downtown Vancouver via the Second Narrows Bridge and Mount Seymour Parkway. The communities closest to this park are Deep Cove, North Vancouver and Lynn Valley.
+
+REL: 2
+POI Name: Vancouver Mountain Guides
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Rock Climbing, 
+Snippets:
+title: Vancouver Mountain Guides
+snippet: Exceptionally-qualified guides follow industry best practices and keep updated through continued education. Guides are First Aid certified, CPR level C, Wilderness First Responders (80hr course). Guiding in Vancouver, Squamish, Penticton, and Alpine regions throughout BC.
+title: Vancouver Mountain Guides - 169 Photos - Rock Climbing ...
+snippet: Vancouver Mountain Guides. 281 likes · 8 talking about this · 6 were here. Rock climbing instruction, courses, and guiding in Vancouver, Squamish, and...
+title: Vancouver Mountain Guides - 164 Photos - Rock Climbing ...
+snippet: Vancouver Mountain Guides. 277 likes · 6 were here. Rock climbing instruction, courses, and guiding in Vancouver, Squamish, and many other areas.
+title: Vancouver Climbing - Altus Mountain Guides
+snippet: Vancouver Rock Climbing is world class with Squamish just down the road. Let Altus Mountain Guides take you on a guided rock climbing trip in Squamish or Vancouver. Rock Guides at Altus Mountain Guides are all ACMG certified rock guides or fully certified ACMG Alpine/Mountain Guides.
+title: MEET THE GUIDES - Vancouver Mountain Guides
+snippet: Brent is the owner/operator of Vancouver Mountain Guides. He has been climbing for 30 years and enjoys all climbing disciplines from ice climbing and big wall climbing, to bouldering and sport climbing. In the spring 2017, Brent bolted and redpointed the first ascent of Vancouver&#39;s first 5.13 rockclimb (Antisocial Media).
+title: Island Alpine Guides
+snippet: IAG is Vancouver Island’s premier Alpine Guiding outfit, ... Our experienced guides are certified by the Association of Canadian Mountain Guides and/or are members of the Canadian Avalanche Association. Your safety is always our top priority.
+title: Guides | City of Vancouver
+snippet: Guides to Vancouver. Welcome to your city guides. Discover our most popular topics. Everything you need to know, from start to finish – all in one place. Recreation activities and programs Tips on registering for recreational activities at our pools, ice rinks, and fitness centres. Operating a ...
+title: Island Mountain Rides – Vancouver Island, BC, Canada
+snippet: Island Mountain Rides offers professionally guided mountain biking tours on the trails of Vancouver Island, in Cumberland, Campbell River, Forbidden Plateau/Comox Lake Area and on Hornby Island. IMR is based in Cumberland, which is centrally located and is a great place to access the trails of Vancouver Island.
+title: Vancouver: Grouse Mountain inngangsbillett - Vancouver ...
+snippet: Grouse Mountain er Vancouver mest populære naturattraksjon året rundt, som ligger bare 15 minutter fra sentrum. Du kan nyte panoramautsikt når du reiser til alpinen ombord på den ikoniske Skyride. Nyt spennende friluftsliv, kulturelle aktiviteter og utdannende opplevelser, som er tilgjengelige året rundt.
+title: Vancouver Hikes - Trail Guides for Hiking in Vancouver
+snippet: Vancouver Hiking Trails - Instructions Click on any of the Vancouver hiking trails above for a detailed description of the hike including pictures, video, stats, route description, driving directions to the trailhead, and more. You can use the ‘Filter by Hike Features’ button to filter the hiking trails database by all sorts of metrics like distance, time needed, if hiking with dogs is ...
+
+REL: 2
+POI Name: Lighthouse Park
+POI City: West Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Lighthouse Park in West Vancouver, BC
+snippet: Lighthouse Park located in West Vancouver British Columbia is one of the most amazing scenic parks you will see on the West Coast. Walk through acres of first-growth douglas firs and stand next to trees that are considered to be giants. Activities.
+title: Lighthouse Park | District of West Vancouver
+snippet: Lighthouse Park is approximately 75 hectares in size and a nationally significant natural park within West Vancouver. It has important natural and cultural resources and very high levels of use by local residents and tourists.
+title: Lighthouse Park hike near West Vancouver | Vancouver Trails
+snippet: Lighthouse Park is one of Greater Vancouver&#39;s most beautiful parks located along the shores of West Vancouver. The park boasts some of the largest Douglas Fir trees in Greater Vancouver as well as breathtaking views of the water.
+title: Lighthouse Park (West Vancouver) - 2020 All You Need to ...
+snippet: Things to Do in West Vancouver ; Lighthouse Park; Search. Lighthouse Park. 443 Reviews #2 of 26 things to do in West Vancouver. Nature &amp; Parks, Sights &amp; Landmarks, Lighthouses. Lighthouse Park. ... a lunch rock climbing hiking trails worth the trip spectacular views the pacific ocean easy walk lower mainland burrard inlet west van sunny day.
+title: Lighthouse Park - Wikipedia
+snippet: Lighthouse Park is a neighbourhood park located in a residential area in West Vancouver.It is a popular tourist attraction for visitors to Vancouver as it is a National Historic Site of Canada. It is a well-maintained park, and is open year-round throughout all four seasons.
+title: Lighthouse Park (West Vancouver) - All You Need to Know ...
+snippet: IN GERMAN Day tour &quot;In the heart of nature&quot; -Lighthouse Park, Whistler, Squamish (From US$205.44) Ocean Trail Discovery Tour (From US$67.43) Vancouver to Tofino Day Tour Private (From US$571.10) See all Lighthouse Park experiences on Tripadvisor
+title: Information About Lighthouse Park in West Vancouver, BC
+snippet: Lush Vancouver Rainforest. This 75 hectare (185 acre) lush virgin rainforest is located on the coastline of the Burrard Inlet in West Vancouver, BC Canada. It marks the point where the Burrard Inlet meets Howe Sound. Lighthouse Park receives more than 50 inches (1,300mm) of rain annually.
+title: Activities in Lighthouse Park, West Vancouver BC
+snippet: Dog Walking in Lighthouse Park. Dog walking in Lighthouse Park is very popular among local West Vancouver residents. Please take note of signs to ensure that dogs are permitted on the trails. There are garbage bins throughout the park, please cleanup after your dog and dispose of any waste in these bins.
+title: Lighthouse Park (West Vancouver) - 2020 All You Need to ...
+snippet: The Lighthouse Park in Vancouver initially disappoints. The views of the lighthouse itself are not impressive. But if you follow one of the trails to the little &quot;beach&quot; you have the makings of a perfect afternoon: catching some days, watching the Vancouver skyline, and the …
+title: Lighthouse Park Hike in West Vancouver | Outdoor Vancouver
+snippet: Lighthouse Park is a beautiful strand of old-growth forest nestled into West Vancouver at the entrance of the Burrard Inlet. Numerous trails throughout the park provide the perfect family outing on a sunny or a rainy day. There are several access points to rocky outcrops on the ocean shore, providing fantastic views of the Salish Sea, downtown Vancouver and Stanley Park. The forest is dense ...
+
+REL: 2
+POI Name: Eagle Bluffs
+POI City: West Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Capilano Suspension Bridge Park
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Vancouver Attractions | Capilano Suspension Bridge Park
+snippet: Take a walk on the wild side Capilano Suspension Bridge Park is one of the most popular tourist attractions in Vancouver, British Columbia. The reason is simple, there are so many things to see and do!
+title: Capilano Suspension Bridge Park (North Vancouver) - 2020 ...
+snippet: Capilano Suspension Bridge Park can be crowded, so we recommend booking e-tickets ahead of time to secure your spot. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund. See all 38 Capilano Suspension Bridge Park tickets and tours on Tripadvisor
+title: Suspension Bridge | Capilano Suspension Bridge Park
+snippet: Originally built in 1889, Capilano Suspension Bridge stretches 450 feet (137m) across and 230 feet (70m) above Capilano River. Since then much has been added to the twenty-seven acre park. CLIFFWALK is the park’s newest attraction – a cantilevered walkway clinging to the granite cliff high above Capilano Canyon.
+title: Capilano RV Park - West Vancouver RV Park &amp; Camping Sites
+snippet: As Vancouver&#39;s only centrally located RV Park, we&#39;re just minutes from countless attractions in downtown, West and North Vancouver like Stanley Park, Capilano Suspension Bridge, Grouse Mountain, beaches and more. Explore Whistler Blackcomb, the coastal islands, and everything BC has to offer from the gateway of our beautiful Vancouver Park.
+title: Hours &amp; Rates | Capilano Suspension Bridge Park
+snippet: Visitors in wheelchairs or guests who are on crutches receive complimentary admission into the Park where they can enjoy history tours, the Story Centre, Kia’palano, scenic views of the canyon, The Trading Post Gift Shop, food facilities and seasonal entertainment. Are strollers permitted on Capilano Suspension Bridge?
+title: Capilano Suspension Bridge and Park (Nord-Vancouver ...
+snippet: Capilano Suspension Bridge and Park kan være fullpakket, så vi anbefaler å bestille e-billetter på forhånd for å sikre deg en plass. Hvis du bestiller med Tripadvisor, kan du avbestille minst 24 timer før startdagen for turen for å få full refusjon. Se alle 37 billetter og turer i Capilano Suspension Bridge and Park på Tripadvisor
+title: Capilano Suspension Bridge Park (North Vancouver) - 2020 ...
+snippet: Review of: Skip the Line:Capilano Suspension Bridge Park Ticket w/Shuttle from Vancouver Went here during our trip to Vancouver. It is a bit more pricey than what I thought but once you enter you realise it is worth every penny.
+title: Contact Us | Capilano Suspension Bridge Park
+snippet: Let’s Get in Touch. Capilano Suspension Bridge Park is conveniently located on the North Shore of Vancouver, only 10 minutes from Downtown. The park is easily accessible by public transit or by hopping on one of our Free Shuttle buses departing from Downtown.
+title: Capilano Suspension Bridge Park (North Vancouver) - 2020 ...
+snippet: Capilano Suspension Bridge Park, North Vancouver: Hours, Address, Capilano Suspension Bridge Park Reviews: 4.5/5
+title: Capilano Suspension Bridge Park - Vancouver&#39;s North Shore
+snippet: Originally built in 1889, the award-winningCapilano Suspension Bridge Park is one of Greater Vancouver’s top attractions. Locals and visitors from around the globe enjoy the thrill of crossing the 450-foot (137m) swaying bridge, suspended 230 feet (70m) above Capilano River in North Vancouver, BC.
+
+REL: 1
+POI Name: Sorella
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Sorella Restaurant | Rustic Italian Cuisine | Cambie Village
+snippet: Sorella is a regional, rustic Italian restaurant in Vancouver’s Cambie Village specializing in handmade pasta, house butchered meats &amp; family style dining.
+title: SORELLA, Vancouver - South Cambie - Updated 2020 ...
+snippet: Sorella, Vancouver: See 40 unbiased reviews of Sorella, rated 4.5 of 5 on Tripadvisor and ranked #556 of 3,443 restaurants in Vancouver.
+title: - Sorella in the Cambie Village
+snippet: Taking Sorella Home for pickup on Friday, Saturday &amp; Sunday evenings. (Takeout guidelines) We are encouraging pre orders though we also welcome day of &amp; last minute orders! A very Continue Reading →
+title: Sorella, Vancouver - South Cambie - Menu, Prices ...
+snippet: Sorella, Vancouver: See 40 unbiased reviews of Sorella, rated 4.5 of 5 on Tripadvisor and ranked #554 of 3,442 restaurants in Vancouver.
+title: Sorella - Home - Vancouver, British Columbia - Menu ...
+snippet: Sorella - 3369 Cambie St., Vancouver, British Columbia V5Z 2W6 - Rated 4.8 based on 20 Reviews &quot;We&#39;ve enjoyed several delicious meals and will go back to...
+title: Italian done right - Review of Sorella, Vancouver, British ...
+snippet: Sorella: Italian done right - See 40 traveler reviews, 19 candid photos, and great deals for Vancouver, Canada, at Tripadvisor.
+title: Would not return to Sorella - Review of Sorella, Vancouver ...
+snippet: Sorella: Would not return to Sorella - See 40 traveler reviews, 19 candid photos, and great deals for Vancouver, Canada, at Tripadvisor.
+title: sosorella – sosorella - Sorella Boutique
+snippet: Sorella is the top online women&#39;s fashion and streetwear apparel store in Los Angeles. Shop the hottest affordable women&#39;s clothing and accessories now!
+title: Join Us - Sorella in the Cambie Village
+snippet: Sorella is open for dinner seven nights a week from 5:00 pm to 9:30 pm Sunday to Thursday, 5:00 pm to 10 pm Friday &amp; Saturday. Reservations are recommended and appreciated. Call 604.873.3131 after 3 pm, or leave us a message anytime and we will call you back to confirm.
+title: LA SORELLA DI MANGIA, West Vancouver - Updated 2020 ...
+snippet: Order takeaway and delivery at La Sorella Di Mangia, West Vancouver with Tripadvisor: See 8 unbiased reviews of La Sorella Di Mangia, ranked #60 on Tripadvisor among 130 restaurants in West Vancouver.
+
+REL: 1
+POI Name: Camp Fircom
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Venues & Event Spaces, Summer Camps, Campgrounds, 
+Snippets:
+title: Summer Camps and Event Location BC | Camp Fircom
+snippet: Located on Gambier Island in British Columbia, Canada, Camp Fircom curates outdoor BC summer camp programming that focuses on providing unique experiences to participants. We celebrate the outdoors and an outdoor lifestyle and encourage participants to find time to relax in the fresh air of our 120-
+title: Facilities &amp; Activities — Camp Fircom
+snippet: About us About Who we are Sustainability Join us Donate Blog Facilities Facilities &amp; Activities Grounds &amp; Land Accommodations Food Service Getting Here Summer Camps Our Programs Why Fircom Staff Applications FAQ Registration Retreats &amp; Events Yoga Retreat Pub Night Camp Fancy Fircom Challenge Volunteer Work Weekends Outdoor School Venue Rentals ...
+title: Contact us — Camp Fircom
+snippet: Camp Fircom 508 Fircom Bay Road, Gambier Island, BC, Canada. There is no phone line on the island, please call our Vancouver office.
+title: Join us — Camp Fircom
+snippet: Camp Fircom is an exceptional place run by exceptional people. Our team is comprised of employees and volunteers who work together in a positive, engaging environment that celebrates sustainable living. There are plenty of opportunities for people to get involved, from volunteering to summer employm
+title: Accommodations — Camp Fircom
+snippet: Camp Fircom offers a range of accommodations from rustic cabins and tents to cottages filled with creature comforts. If you want an affordable holiday accommodation you might like a sibley tent or the farm house. If you want to take a group of friends away for the weekend the Cottage rental is an id
+title: Camp Fircom - Home | Facebook
+snippet: Camp Fircom, Gambier Island, BC. 2,153 likes · 21 talking about this. Camp Fircom&#39;s is a United Church camp located on Gambier Island in the Howe Sound. Fircom is on the unceded traditional territory...
+title: Camp Fircom - Vancouver, British Columbia - Campground ...
+snippet: Camp Fircom, Vancouver, British Columbia. 90 likes · 2 talking about this · 1,974 were here. Campground
+title: Eight sleep away summer camps close to Vancouver
+snippet: Sleep away camp! Bunk beds, campfire songs, tall trees, docks and boats, crafts with yarn and sticks - many of us remember a camp experience like this from our childhood. Sleep away camps can be life-changing and there are plenty in easy distance of Vancouver.
+title: Cabins at Camp Fircom - City of Vancouver Archives
+snippet: Item is a photograph showing cabins at Camp Fircom, founded by Rev. J. Richmond Craig of the First United Church in 1924.
+title: Camp Fircom! — The Westside School - Vancouver
+snippet: Our Grade 4-7 students had a fantastic time at Camp Fircom last week despite the rain. Westsiders embraced the wet conditions and enjoyed a variety of activities including archery, hiking, soap stone carving, paddle boarding, canoeing and harvesting vegetables from the camp garden. Students had p
+
+REL: 1
+POI Name: Stanley Park
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Stanley Park | City of Vancouver
+snippet: Welcome to Stanley Park, Vancouver&#39;s first, largest, and most beloved urban park! Stanley Park is a magnificent green oasis in the midst of the urban landscape of Vancouver. Explore the 400-hectare natural West Coast rainforest and enjoy scenic views of water, mountains, sky, and majestic trees along Stanley Park&#39;s famous Seawall.
+title: Stanley Park - Wikipedia
+snippet: Stanley Park is a 405-hectare (1,001-acre) public park that borders the downtown of Vancouver in British Columbia, Canada and is mostly surrounded by waters of Burrard Inlet and English Bay.. The park has a long history and was one of the first areas to be explored in the city. The land was originally used by Indigenous peoples for thousands of years before British Columbia was colonized by ...
+title: Stanley Park (Vancouver) - 2020 All You Need to Know ...
+snippet: We visited Stanley Park twice whilst in Vancouver, once on a guided bus tour, and again went for an extended walk from our hotel and ended up visiting the wonderful aquarium. There&#39;s lots to see in Stanley Park, and on foot or on a bike both recommended.
+title: Stanley Park in Vancouver, BC | Vancouver Outdoors
+snippet: Located on the northwestern edge of downtown Vancouver, Stanley Park is one of the city&#39;s main tourist destinations. Find out why here.
+title: What to do in Stanley Park | City of Vancouver
+snippet: April 7, 2020: Stanley Park will be closed to all vehicles starting Wednesday, April 8, in an effort to reduce the number of people in the park and to enable physical distancing. Emergency services, the #19 bus, and Park Board and City service vehicles will still be able to access the park.
+title: Top 10 Things to Do in Stanley Park, Vancouver
+snippet: The Stanley Park Miniature Train Depot is located off Pipeline Road in Stanley Park, near the Vancouver Aquarium. You can ride the Miniature Train over the summer (late-June through early-September), or at special holiday events during the year, including the Halloween Ghost Train and the Christmas-themed Bright Nights.
+title: The 5 Best Stanley Park Restaurants (Vancouver) - Tripadvisor
+snippet: Stanley Park Restaurants - Vancouver, British Columbia: See 2,378 Tripadvisor traveler reviews of 2,378 restaurants in Vancouver Stanley Park and search by cuisine, price, and more.
+title: Stanley Park (Vancouver, Canada) - Anmeldelser - Tripadvisor
+snippet: Stanley Park, Vancouver: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Stanley Park i Vancouver, Canada på Tripadvisor.
+title: Get to Stanley Park | City of Vancouver
+snippet: Walk, bike, take transit, or drive — it&#39;s easy to get to Stanley Park, just minutes from downtown in Vancouver&#39;s West End. Check out our Stanley Park maps to decide where you want to start and what you want to see and do. Choose from a selection of maps depending on your needs and interests.
+title: Stanley Park digital map | City of Vancouver
+snippet: Back to Stanley Park main. Find trails, activities, parking, and more. The arrows to the right of each category can be used to display subcategories for map markers; Use the check boxes to display or hide specific categories of map markers Please note: no smoking and no open fires permitted anywhere in Stanley Park.
+
+REL: 1
+POI Name: Burnaby Mountain Trail
+POI City: Burnaby
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+
+
+REL: 1
+POI Name: Cliffhanger Climbing
+POI City: Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Climbing, 
+Snippets:
+title: Cliffhanger Climbing Gym | Indoor Rock Climbing ...
+snippet: Welcome to Cliffhanger, where climbing is for everyone! Indoor climbing Vancouver: courses &amp; drop-in for experienced &amp; beginner climbers, kids, and groups.
+title: To Our Cliffhanger Community - Cliffhanger
+snippet: To Our Cliffhanger Community Updated Monday, March 16th This unprecedented situation has been and remains fluid. To do our part in helping to stop the spread of COVID-19, Cliffhanger will be temporarily suspending business as of today.
+title: Safety &amp; Waivers - Cliffhanger - Cliffhanger Climbing Gym
+snippet: Climbing Rules and Safety Policies. We take safety very seriously at Cliffhanger. Before you set foot inside our gym (as either a climber or a spectator), please read this document.
+title: Cliffhanger Climbing - 2,150 Photos - 82 Reviews - Rock ...
+snippet: Cliffhanger Climbing, Vancouver, British Columbia. 6,489 likes · 1 talking about this · 2,887 were here. Welcome to Cliffhanger, where climbing is for everyone! Open to all skill levels, with courses...
+title: Birthdays - Cliffhanger - Cliffhanger Climbing Gym
+snippet: Cliffhanger has been hosting kids’ birthday parties since 1993, so we’re pretty darn good at it! Our instructors love working with children, and they’ll ensure that everyone has a safe and enjoyable climbing experience.
+title: Outdoor - Cliffhanger Climbing Gym
+snippet: We’re excited to partner with Vancouver Mountain Guides as our official outdoor course leaders for the 2019 season. LEVEL 1 – ROCK NOVICE This is a fun and informative introduction to climbing outdoors. Cliffhanger’s Rock Guides will teach you how to build your own top-rope anchors, and climb safely on the rocks.
+title: Cliffhanger Climbing, 670 Industrial Avenue, Vancouver, BC ...
+snippet: Welcome to Cliffhanger, where climbing is for everyone! Open to all skill levels, with courses and sessions for both adults and children/youth. Bouldering, top ropes, indoor/outdoor courses, and a friendly team of passionate climbers!
+title: Vancouver Climbing Centres | Vancouver&#39;s Best Places
+snippet: Cliffhanger is a climbing centre located at 670 Industrial Avenue, so just down the street from the Hive in East Vancouver. Operating since 1993, Cliffhanger is a fairly serious rock climbing gym run by certified and professional climbers.
+
+REL: 1
+POI Name: khatsahlano 2016
+POI City: Vancouver
+POI Country: CA
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: West 4th Ave Khatsahlano Street Party | Saturday July 11, 2020
+snippet: The biggest music and art festival of the summer!
+title: Khatsahlano! Music + Art Festival - Home | Facebook
+snippet: Khatsahlano! Music + Art Festival - 202-1857 West 4th Avenue, Vancouver, British Columbia V6J1M4 - Rated 4.2 based on 81 Reviews &quot;A salish name and not...
+title: 23 photos of Vancouver&#39;s Khatsahlano Street Party 2016 ...
+snippet: Here are 23 photos of Khatsahlano Street Party 2016. ... Hanging in my hood #ilovespandex #biking #sailing #kitslife #vancouver #vancity #khatsahlano #west4th #thesehashtagsareridiculous #getmesomerainorshine. A photo posted by CAT THAM (@lipstickbrigade) on Jul 9, 2016 at 8:50pm PDT.
+title: KHATSAHLANO Festival Vancouver, BC - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: KHATSAHLANO 2014 VANCOUVER KITSILANO STREET PARTY - YouTube
+snippet: http://www.khatsahlano.com/ VANCOUVER WEST 4TH AVE. STREET FESTIVAL KHATSAHLANO 2014. Kitsilano Music Festival with many bands on a number of stages, and lot...
+title: Impromptu Rock Choir at Khatsahlano 2016, Vancouver, BC ...
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: khatsahlano 2016 - Kitsilano - Vancouver, BC - Yelp
+snippet: 1 review of khatsahlano 2016 &quot;This year&#39;s festival is better than last years &#39;cause there were more booths and the weather was more tolerable. The music had a bigger line up and the blocks were longer. It was crowded, however, it was way more…
+title: | West 4th Ave Khatsahlano Street Party
+snippet: 2018 khatsahlano stage schedule. mobile schedule desktop schedule. 2018 khatsahlano stage schedule. pure barre class 11:00am – 11:30am. semperviva yoga 11:45am – 12:45pm. parlour panther 12:00 – 12:40pm. loig morin 12:00 – 12:40pm . circus in flames 12:00 – 12:40pm. staggers &amp; jaggs 12:30 – 1:10pm. future star
+title: Khatsahlano Music &amp; Arts Festival, Kitsilano, Vancouver ...
+snippet: via YouTube Capture
+title: The anticipated return of Hannah Georgas to ... - Daily Hive
+snippet: Georgas is looking forward to being back on the seawall, hiking, and eating Vancouver sushi. But from the sounds of it, there is no baseball planned here so far. Hannah Georgas returns to her local stage, at Khatsahlano on July 9. Daily Hive Vancouver is a proud media sponsor of Khatsahlano 2016
+
+REL: 1
+POI Name: Ukrainian Cultural Centre
+POI City: Vancouver
+POI Country: CA
+POI Main category: Arts & Entertainment
+POI Sub category: Arts & Entertainment, 
+Snippets:
+title: Ukrainian Cultural Centre - Downtown Eastside - Vancouver, BC
+snippet: 1 review of Ukrainian Cultural Centre &quot;Last night CITR sponsored an all-ages show at the Ukrainian Cultural Center. If you are like me, you are immediately confused. Where is this place? Well- it&#39;s on Pender, between Main and Clark. I guess…
+title: AUUC Strathcona Ukrainian Hall &amp; Performing Arts Society ...
+snippet: AUUC Strathcona Ukrainian Hall &amp; Performing Arts Society - Vancouver, Vancouver, BC. 984 likes · 63 talking about this · 326 were here. We host perogy lunches, bazaars and other events
+title: Welcome - St. Mary&#39;s Ukrainian Catholic Church
+snippet: Stop and think before you share personal information over the phone or click on COVID-19-related links — that’s the advice coming from the Canadian Anti-Fraud Centre, as reports of coronavirus scams pop up across the country. Use trusted sources only-See the links below for up to date and factual information.
+title: St Mary&#39;s Ukrainian Cultural Centre - Vancouver, British ...
+snippet: Gig #2 yesterday was a beautiful wedding in Vancouver. ... # laterpost # weddingdj # yvrweddings # doubleheadersaturday @ St Mary&#39;s Ukrainian Cultural Centre. Stylebionic Event Services added a new photo — at St Mary&#39;s Ukrainian Cultural Centre. July 14 · Vancouver, BC, Canada ·
+title: Home | Oseredok - Ukrainian Cultural and Educational Centre
+snippet: The Ukrainian Cultural and Educational Centre (Oseredok) is one of North America’s largest and most unique Ukrainian cultural and non-profit heritage resource centres with a museum, art gallery, library, archives, cultural programming and a boutique.
+title: ivanfranko.ca
+snippet: The Ukrainian Community Society of Ivan Franko is pleased to offer two types of scholarships for students between the ages of 13 and 18: Type I – Post Secondary Scholarship. For post secondary study at an approved college or university in the amount of $1,000.00. Type II – Cultural Scholarship.
+title: Ukrainian Cultural Centre - 805 Pender St E, Vancouver, BC
+snippet: Ukrainian Cultural Centre - Vancouver - phone number, website &amp; address - BC - Associations.
+title: Events - Ukrainian Vancouver
+snippet: Events - Ukrainian Vancouver. Tuesday , ... » May 2, 2020: BC Ukrainian Cultural Festival 2020 (#25) ... Chan Centre for the Performing Arts, Vancouver BC: 18/10/2019 7:00 pm - 9:00 pm Borscht Workshop with Ukrainian Folk Songs AUUC Strathcona Ukrainian Hall, Vancouver BC: Jun 2019.
+title: St Mary`s Ukrainian Cultural Centre - Hours &amp; Reviews ...
+snippet: St Mary`s Ukrainian Cultural Centre, Company in Vancouver, British Columbia, 3150 Ash St, Vancouver, BC V5Z 3C9 – Hours of Operation &amp; Customer Reviews.
+title: Ukrainian Cultural Centre Toronto | clubZone
+snippet: Ukrainian Cultural Centre The Ukrainian Cultural Centre of Toronto is located at 83-85 Christie St. in Toronto, Ontario, Canada and has been the host of many Ukrainian events. &quot;Christie&quot;, as the building has been dubbed, has been the heart of the Ukrainian community in the Greater Toronto Area, bringing together people with a common culture and important ideas.
+
+REL: 1
+POI Name: The Edge Social Grille & Lounge
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Lounges, Seafood, 
+Snippets:
+title: THE EDGE SOCIAL GRILLE &amp; LOUNGE, Vancouver - Downtown ...
+snippet: The Edge Social Grille &amp; Lounge, Vancouver: See 189 unbiased reviews of The Edge Social Grille &amp; Lounge, rated 4 of 5 on Tripadvisor and ranked #268 of 3,442 restaurants in Vancouver.
+title: The Edge Social Grille &amp; Lounge Restaurant - Vancouver, BC ...
+snippet: At the Edge Social Grille &amp; Lounge, we have redefined both tradition and service. Conveniently located in the entertainment district just steps away from Robson Street, whether you prefer the well-appointed dining room, comfortable lounge or our scenic patio great for people watching on the bustling Granville district, The Edge offers you a refreshing environment to fit any frame of mind.
+title: The Edge Social Grille &amp; Lounge Vancouver | Best Western ...
+snippet: Given the impact of the Covid-19 outbreak we are taking action to protect our customers and employees to assist in an important role in slowing the spread of the virus.We have made the decision to close the Edge Social Grille &amp; Lounge indefinitely.
+title: Edge Social Grille &amp; Lounge - Home | Facebook
+snippet: Edge Social Grille &amp; Lounge, Vancouver, BC. 1.8K likes. The Edge - the point at which something great is likely to begin!
+title: The Edge Social Grille &amp; Lounge Vancouver BC | clubZone
+snippet: The Edge Social Grille &amp; Lounge is located in the heart of the revamped Granville Entertainment District in downtown Vancouver. Located at 1100 Granville Street at the corner of Helmcken,The Edge Social Grille &amp; Lounge is open to serve you breakfast, lunch, dinner, brunch (on weekends and holidays) and cocktails.
+title: Downtown Vancouver Restaurants - Edge Social Grille &amp; Lounge
+snippet: The Best Western Premier Chateau Granville Hotel &amp; Suites offers a sophisticated dining experience with our on site Restaurant the Edge Social Grille &amp; Lounge. Unwind with exotic cocktails, traditional pacific treats and live entertainment for the best Tiki experience in downtown Vancouver at the Sneeki Tiki.
+title: The Edge Social Grille &amp; Lounge - TripAdvisor
+snippet: Description: The Edge Social Grille &amp; Lounge is located on the EDGE of the world famous downtown Vancouver&#39;s Granville Entertainment District. Step out of our doors and experience the heartbeat of all that is &quot;Entertainment&quot; in Vancouver. We promise to deliver a fun and sophisticated level of service in fine-casual dining.
+title: The Edge Social Grille &amp; Lounge - bar - Picture of The ...
+snippet: The Edge Social Grille &amp; Lounge, Vancouver Picture: The Edge Social Grille &amp; Lounge - bar - Check out Tripadvisor members&#39; 56,355 candid photos and videos of The Edge Social Grille &amp; Lounge. Vancouver. Vancouver Tourism Vancouver Hotels Vancouver Bed and Breakfast Vancouver Vacation Rentals
+title: The Edge Social Grille &amp; Lounge - Metro Vancouver - Zomato
+snippet: Photos of The Edge Social Grille &amp; Lounge, Downtown, Vancouver. The Edge Social Grille &amp; Lounge Pictures, The Edge Social Grille &amp; Lounge Photos. Serves Grill, Bar Food, Canadian. Cost CA$50 for two people (approx.) Products for Businesses We&#39;re hiring. Metro Vancouver.
+title: The Edge Social Grille &amp; Lounge | LinkedIn
+snippet: Whether you prefer a well-appointed dining room, comfortable lounge or our oversized scenic patio with sweeping views of the bustling Granville district, The Edge offers you a refreshing environment to fit any frame of mind. Our versatile team of chefs at the Edge Social Grille &amp; Lounge are committed to serving great breakfast, lunch, dinner.
+
+REL: 1
+POI Name: Najia Restaurant
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Asian Fusion, Chinese, 
+Snippets:
+title: Order Chinese Food Delivery &amp; Take Out | Najia Restaurant
+snippet: The team of Najia Restaurant invites you to our beautiful location in the heart of Vancouver. Let yourself be tempted by our authentic tasting Chinese meals, such as our soups, dumplings, and much more served hot and fresh! Join us soon and enjoy our delicious Asian and Chinese seafood meals, modern ambiance, and friendly service.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: NAJIA RESTAURANT, Vancouver - Central - Restaurant Reviews ...
+snippet: Najia Restaurant, Vancouver: See 7 unbiased reviews of Najia Restaurant, rated 3 of 5 on Tripadvisor and ranked #2,946 of 3,443 restaurants in Vancouver.
+title: Online Menu of Najia Restaurant, Vancouver, BC
+snippet: View the menu for Najia Restaurant and restaurants in Vancouver, BC. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Menu at Najia Restaurant, Vancouver
+snippet: #104 of 541 chinese restaurants in Vancouver . ... You may explore the information about the menu and check prices for Najia Restaurant by following the link posted above. restaurantguru.com takes no responsibility for availability of the Najia Restaurant menu on the website.
+title: Najia Chinese Restaurant, Vancouver - Central - Restaurant ...
+snippet: Najia Chinese Restaurant, Vancouver: See 9 unbiased reviews of Najia Chinese Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #2,186 of 3,443 restaurants in Vancouver.
+title: Najia Chinese Restaurant - Home - Vancouver, British ...
+snippet: See more of Najia Chinese Restaurant on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Najia Chinese Restaurant. Dim Sum Restaurant in Vancouver, British Columbia. Community See All. 18 people like this. 19 people follow this. 125 check-ins. About See All. 1018 Beach Avenue (231.60 mi) Vancouver, British Columbia V6E 1T7.
+title: Najia Restaurant, Downtown, Vancouver - Urbanspoon/Zomato
+snippet: Food is not tasty, service lying about their expensive dish in order for you to spend more ( for example, she would say “ oh, We have a signature chicken soup and boiled for 48 hours, then the soup came with no chicken in there but expensive sea food, the worst was the taste : ( I’m Chinese and I felt so shamed about how they doing this to our Chinese people, please don’t go and get fooled.
+title: Najia Restaurant in Vancouver - Restaurant menu and reviews
+snippet: All info on Najia Restaurant in Vancouver - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: NAJIA RESTAURANT, Vancouver - Central - Restaurant Reviews ...
+snippet: Reserve a table at Najia Restaurant, Vancouver on Tripadvisor: See 7 unbiased reviews of Najia Restaurant, rated 3 of 5 on Tripadvisor and ranked #2,932 of 3,439 restaurants in Vancouver.
+
+REL: 1
+POI Name: DD Mau
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Vietnamese, Sandwiches, 
+Snippets:
+title: DD MAU - Vancouver Bánh Mì Sandwiches
+snippet: [COVID-19 IMPACT] Due to the unforeseen circumstances, it is with a heavy heart that we will only be serving takeout and delivery for both of our locations.
+title: Chinatown — DD MAU
+snippet: CHINATOWN LOCATION . This is our second location with an expanded menu offering. Serving up casual Vietnamese fare with inspirations from the northern and southern streets of Vietnam.
+title: DD MAU, Vancouver - 1239 Pacific Blvd, Downtown - Menu ...
+snippet: DD Mau, Vancouver: See 24 unbiased reviews of DD Mau, rated 4 of 5 on Tripadvisor and ranked #1,097 of 3,442 restaurants in Vancouver.
+title: DD Mau, Vancouver - 145 Pender St E, Downtown - Restaurant ...
+snippet: Order food online at DD Mau, Vancouver with Tripadvisor: See 7 unbiased reviews of DD Mau, ranked #1,243 on Tripadvisor among 3,442 restaurants in Vancouver.
+title: Restaurant review: Go fast to youthful ... - Vancouver Sun
+snippet: “Mau! DD Mau! ” yells an ... Like so many of the Vietnamese community in Metro Vancouver, Tran’s family came to Canada as refugees. She, three siblings and a cousin opened a second DD Mau ...
+title: DD Mau, Yaletown, Vancouver - Urbanspoon/Zomato
+snippet: Late lunch at DD Mau, and I tasted out: - &#39;Lemongrass Chicken&#39; - &#39;Roasted BBQ duck&#39; Bánh mì is quite a basic in Vancouver since we are blessed with the range of ethnic food we have here. It is easy to find them all around Chinatown and East Vancouver. So, when I finally got to try out this tiny popular shop in Yaletown, I was quite excited.
+title: DD Mau menu in Vancouver, British Columbia, Canada
+snippet: 3 menu pages, 222 reviews - DD Mau menu in Vancouver. Looking for your fix of vietnamese food? Get the family together and visit DD Mau in Vancouver and enjoy.
+title: DD MAU, Vancouver - 145 Pender St E, Downtown - Updated ...
+snippet: Order takeaway and delivery at DD Mau, Vancouver with Tripadvisor: See 7 unbiased reviews of DD Mau, ranked #1,318 on Tripadvisor among 3,435 restaurants in Vancouver.
+title: DD Mau Menu, Menu for DD Mau, Yaletown, Vancouver ... - Zomato
+snippet: Zomato.com does not guarantee prices or the availability of menu items at DD Mau. DD Mau menu in image format shown on this website has been digitised by Zomato.com. Customers are free to download and save these images, but not use these digital files (watermarked by the Zomato logo) for any commercial purpose, without prior written permission ...
+
+REL: 1
+POI Name: Fit For Life
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Sandwiches, Breakfast & Brunch, Juice Bars & Smoothies, 
+Snippets:
+title: Fit For Life - UBC - Vancouver, BC, Canada - Yelp
+snippet: Fit For Life opened in the TEFIII building (with the nurse statues in top) this year at UBC, replacing the newsstand/refreshment store that was here before. Right beside Starbucks on the ground floor. They make the sandwiches on order and you can select the toppings, sorta like Subway.
+title: Fit For Life Vancouver - Vancouver, BC | Groupon
+snippet: Since serving up one of their signature wraps to their first customer 20 years ago, Fit For Life’s staff has continued to uphold their dedication to the speedy yet thoughtful preparation of healthy, nutritious food. At each outpost across Canada, kitchen teams whip up healthful alternatives to fast food, forging a menu of low-fat and vegetarian options made using fresh ingredients selected ...
+title: Fit For Life - 64 Photos - Gym/Physical Fitness Center ...
+snippet: Fit For Life. 37 likes. Let me inspire you, give you motivation and the tools you need to live a healthy and FIT LIFE!... Jump to. Sections of this page. ... Gym/Physical Fitness Center in Vancouver, British Columbia. Community See All. 37 people like this. 36 people follow this. About See All.
+title: Fit For Life (Vancouver) | Vancouver - Dine Here
+snippet: Fit For Life (Vancouver) is located at 809 West Pender Avenue in Vancouver, BC. Read reviews about this restaurant or submit your own at Dine Here.
+title: Fit For Life in Vancouver, BC
+snippet: Fit For Life is located at 6190 Agronomy RoadUnit 105Technology Enterprise Facility, in Vancouver, BC.
+title: Fit4Less | Canada&#39;s Discount Fitness Gym
+snippet: Fit4Less gyms aim to help Canadians live a fit and healthy life. Enjoy a high quality fitness experience at an affordable price.
+title: Fit For Life - Hours &amp; Reviews - 815 West Pender Street ...
+snippet: Fit For Life, Gym in Vancouver, British Columbia, 815 West Pender Street, Vancouver, BC V6C 2X6 – Hours of Operation &amp; Customer Reviews.
+title: Fit-For-Life in Vancouver BC | YellowPages.ca™
+snippet: Locate and compare Fit-For-Life in Vancouver BC, Yellow Pages Local Listings. Find useful information, the address and the phone number of the local business you are looking for.
+title: Fit For Life, Victoria - Restaurant Reviews - Tripadvisor
+snippet: Fit For Life, Victoria: See unbiased reviews of Fit For Life, one of 1,076 Victoria restaurants listed on Tripadvisor.
+title: Fit for Life Menu, Menu for Fit for Life, South Burnaby ...
+snippet: Zomato.com does not guarantee prices or the availability of menu items at Fit for Life. Fit for Life menu in image format shown on this website has been digitised by Zomato.com. Customers are free to download and save these images, but not use these digital files (watermarked by the Zomato logo) for any commercial purpose, without prior written ...
+
+REL: 1
+POI Name: Garibaldi Provincial Park
+POI City: Squamish
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, Parks, 
+Snippets:
+
+
+REL: 1
+POI Name: Galloping Goose Trail
+POI City: Victoria
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Galloping Goose trail Vancouver Island
+snippet: Features: a rails-to-trails conversion, named after a 1920s gasoline powered passenger car that operated on this abandoned CNR line; now passes through urban, rural, and semi-wilderness landscapes. Galloping Goose Trail Galloping Goose Hiking / Biking Trail Victoria to Sooke. Two on the Trail:
+title: Galloping Goose map directions
+snippet: Galloping Goose map directions . How to Get There. The trail begins at the south end of the Selkirk Trestle, at the foot of Alston Street in Vic West. Access points are found along the entire trail route. Parking areas are located at ...
+title: Galloping Goose Regional Trail - CRD
+snippet: From Victoria, follow the Galloping Goose Trail, then Atkins Avenue, to Mill Hilll Regional Park (12km one way). Park at the Luxton parking area at Marwood Ave., off Happy Valley Rd. Follow the Galloping Goose Trail, then Lombard Drive and William Head Road, to Devonian Regional Park (9km one way).
+title: The Galloping Goose Trail | Visitor In Victoria
+snippet: A History of the Goose. Part of the Trans Canada Trail which traverses the country, the Galloping Goose and Peninsula Trails form one of the most picturesque trail systems in Canada. Dedicated in 1989, the Galloping Goose Trail is named for a gawky and noisy gas rail-car which carried passengers between Victoria and Sooke in the 1920’s.
+title: Galloping Goose Regional Trail | Tourism Victoria
+snippet: Connecting downtown Victoria with the Sooke potholes, this 60 kilometre trail is the perfect destination for a long walk, longer hike or bike ride. Cross the Selkirk Trestle and stare into the depths of Todd Creek from the Todd Trestle after strolling through lush forests and stopping for a little picnic at Matheson or Thetis Lake.
+title: Galloping Goose Trail – Let&#39;s Go Biking!
+snippet: The Galloping Goose Trail is named after the passenger train #15813 that ran twice a day from Sooke to Victoria from 1922-1931. The trail is popular and it makes for a great 2-3 day trip. There are many BBs and campgrounds along the route to make the ride a multi-day event. Distance: 55km one way
+title: Untitled Document [www.gallopinggoosetrail.com]
+snippet: Untitled Document
+title: Galloping Goose Regional Trail - Wikipedia
+snippet: The Galloping Goose Regional Trail is a 55-kilometre (34 mi) rail trail between Victoria, British Columbia, Canada, and the ghost town of Leechtown, north of Sooke, where it meets the old Sooke Flowline. The trail forms part of the Trans-Canada Trail, and intersects the Lochside Regional Trail. It is maintained by the Capital Regional District ...
+title: , follow the BC Ferries Terminal at Swartz Bay From the ...
+snippet: Galloping Goose Regional Trail is part of the Trans Canada Trail, a national trail linking every province and territory. The Trans Canada Trail will eventually link the Galloping Goose Trail north to the Cowichan Valley and beyond. Tales of the trails Th et rai ls vo pict u r sq f om alw y n. Th Gg T rail w s nm df oth g- p c
+title: Galloping Goose Regional Trail (Victoria Capital Regional ...
+snippet: Visit Victoria and Butchart Gardens from Vancouver on a full-day tour that takes care of booking transport and offers a flexible mix of guided and independent time. Enjoy gorgeous views of the Gulf Islands while crossing to Vancouver Island, enjoy time to stroll Butchart Gardens, then head to Victoria’s waterside downtown to browse shops and historic architecture.
+
+REL: 1
+POI Name: Mega Sushi
+POI City: West Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, Noodles, 
+Snippets:
+title: Mega Sushi Richmond - welcome to Mega Sushi
+snippet: Mega Sushi is an award-winning sushi establishment located near beautiful Steveston Harbour.
+title: Mega Sushi
+snippet: CoquitlamWe offer 10% discount on all orders except Sashimi, Sushi, &amp; Lunch Box during coronavirus outbreak. Stay Healthy!
+title: Mega Sushi West Vancouver menu in West Vancouver, British ...
+snippet: 13 menu pages, ⭐ 25 reviews - Mega Sushi West Vancouver menu in West Vancouver. Looking for nutritious and delicious meals? At Mega sushi West Vancouver, our asian food such as salad 綾s 綾 is known for being some of the best in West Vancouver.
+title: Mega Sushi - West Vancouver, BC, Canada - Yelp
+snippet: 4 reviews of Mega Sushi &quot;I&#39;ve been to this place quite a few times with my friends. Never had a bad experience! It&#39;s a small restaurant that serves Japanese style food. Not quite like the food in Japan but still very good nonetheless! They have…
+title: Mega Sushi West Vancouver - Hours &amp; Reviews - 5353 ...
+snippet: Mega Sushi West Vancouver, Restaurant in West Vancouver, British Columbia, 5353 Headland Drive, West Vancouver, BC V7W 3G4 – Hours of Operation &amp; Customer Reviews.
+title: Calamari roll - pretty good - Yelp
+snippet: Photo of Mega Sushi - &quot;Calamari roll - pretty good&quot; - West Vancouver, BC. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Mega Sushi; Photos &amp; Videos 20 photos for Mega Sushi. Add photos Browse all ...
+title: Online Menu of Mega Sushi, West Vancouver, BC
+snippet: View the menu for Mega Sushi and restaurants in West Vancouver, BC. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Mega Sushi 5353 Headland Dr West Vancouver, BC Restaurants ...
+snippet: Get directions, reviews and information for Mega Sushi in West Vancouver, BC. Mega Sushi 5353 Headland Dr West Vancouver BC V7W 3C7. Reviews (604) 281-0200 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: Sushi &amp; Sashimi West Vancouver | Home | Zen Japanese ...
+snippet: Zen Japanese Restaurant is a great place to enjoy dinner in West Vancouver, or to celebrate a special occasion. Our menu includes a creative and diverse selection of perfectly prepared sushi, sashimi and traditional Japanese dishes that are sure to appeal to every member of your party.
+title: Mega Sushi Menu, Menu for Mega Sushi, Steveston, Richmond ...
+snippet: Zomato.com does not guarantee prices or the availability of menu items at Mega Sushi. Mega Sushi menu in image format shown on this website has been digitised by Zomato.com. Customers are free to download and save these images, but not use these digital files (watermarked by the Zomato logo) for any commercial purpose, without prior written ...
+
+REL: 0
+POI Name: Kiku Sushi
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Sushi Bars, 
+Snippets:
+title: About Us | Kiku Sushi
+snippet: Order Online from the best Sushi Restaurant in Town. Kiku Sushi has a delivery/takeout. We are located in Metrotown area at 4986 Kingsway, Burnaby, BC V5H 2E2
+title: Home - Kiku Sushi Downtown, Japanese Sushi Restaurant
+snippet: Kiku Sushi Downtown is an authentic Japanese restaurant offering fresh sashimi and other Japanese products. We are located at downtown Vancouver at 1368 W Pender St. V6E 4S9. Order sashimi, sushi rolls, nigiri, party trays and other food all made fresh at your order.
+title: Downtown | Japanese food, Sushi - Vancouver, Canada
+snippet: Order Online from the best Sushi Restaurant in Downtown. Kiku Sushi has a delivery and pickup. We are located in Downtown area at 1368 W Pender St.Vancouver, BC V6E 4S9
+title: KIKU SUSHI, Vancouver - 1368 Pender St W, Downtown ...
+snippet: Order takeaway and delivery at Kiku Sushi, Vancouver with Tripadvisor: See 7 unbiased reviews of Kiku Sushi, ranked #1,172 on Tripadvisor among 3,442 restaurants in Vancouver.
+title: Kiku Sushi - Downtown Vancouver - Home - Vancouver ...
+snippet: Kiku Sushi - Downtown Vancouver - 1368 W Pender St, Vancouver, British Columbia V6G 3E3 - Rated 5 based on 1 Review &quot;wdawdawdawdawd&quot;
+title: Kiku Sushi | Order Delivery &amp; Pickup Online
+snippet: Kiku is my very favourite sushi place. I have been eating there regularly for 6 years, even after I moved out of the area. Kiku has excellent flavours, a truely lovely staff, and a great selection of dishes. I have been bringing friends and family there for years now and many of them now eat there regularly as well.
+title: Kiku Sushi, Central Burnaby, Burnaby - Urbanspoon/Zomato
+snippet: Rated 3.6/5. Located in Central Burnaby, Metro Vancouver. Serves Sushi, Japanese. Cost CA$30 for two people (approx.)for Dinner Menu CA$25 for two people (approx.)for Lunch Menu
+title: Miku Vancouver | Aburi Sushi and Seafood
+snippet: Overlooking the famous Vancouver waterfront, Miku is the proud pioneer of Aburi (flame seared) sushi in Canada. Popular for business lunches and family dinners, Miku&#39;s service and atmosphere makes for an exceptional dining experience.
+title: Kiku Sushi
+snippet: Order Online from the best Sushi Restaurant in Town. Kiku Sushi has a delivery/takeout. We are located in Metrotown area at 4986 Kingsway, Burnaby, BC V5H 2E2
+title: Kiku Sushi Menu, Menu for Kiku Sushi, Central ... - Zomato
+snippet: Zomato.com does not guarantee prices or the availability of menu items at Kiku Sushi. Kiku Sushi menu in image format shown on this website has been digitised by Zomato.com. Customers are free to download and save these images, but not use these digital files (watermarked by the Zomato logo) for any commercial purpose, without prior written ...
+
+REL: 0
+POI Name: Matchstick Coffee
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Coffee Roasteries, Breakfast & Brunch, 
+Snippets:
+title: Matchstick Shop
+snippet: It looks like you&#39;re from .Would you like to shop in our ? YES NO
+title: Cafe Locations | Matchstick
+snippet: Many years before we took ownership of the space, it was home to one of Vancouver&#39;s first banks. The original vault door is still in place and you can try your hand at cracking the combination lock when you visit. This location is also where we roast all of our coffee, 5 kilos at a time, on our beautiful Giesen roaster.
+title: Matchstick - Home | Facebook
+snippet: Matchstick, Vancouver, British Columbia. 3,548 likes · 6 talking about this · 3,194 were here. Speciality Coffee Bar and Roastery
+title: About Us | Matchstick Coffee Roasters
+snippet: Simply deciding to be less busy is not necessarily an option, but we can control how we look at and frame each moment within those busy periods. At Matchstick, the task we have set for ourselves is to take an ordinary, commonplace moment, like getting your morning coffee, and a turn it into something that feels like more than just an errand.
+title: Matchstick Coffee, Vancouver - 639 15th Ave E, East ...
+snippet: Matchstick Coffee, Vancouver: See 51 unbiased reviews of Matchstick Coffee, rated 4 of 5 on Tripadvisor and ranked #830 of 3,442 restaurants in Vancouver.
+title: Matchstick Coffee, Mount Pleasant, Vancouver - Zomato
+snippet: Matchstick Coffee Vancouver; Matchstick Coffee, Mount Pleasant; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Matchstick Coffee Restaurant on Zomato. Serves Cafe. Known for Being an artisinal coffee roastery and retailer focusing on hand-crafted preparation of single-origin coffees and baked goods.
+title: Matchstick Coffee: Growth &amp; Grace In Vancouver BC
+snippet: Community is more than a buzzword for Vancouver, British Columbia roasters Spencer and Annie Viehweger, co-founders of Matchstick Coffee.Since opening their flagship cafe in 2012, two additional cafes and a mobile service cart have been added to their portfolio, but in their growth one thing remains consistent: the importance of building relationships.
+title: Matchstick Coffee, Chinatown, Vancouver - Urbanspoon/Zomato
+snippet: Matchstick Coffee Vancouver; Matchstick Coffee, Chinatown; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Matchstick Coffee Restaurant on Zomato. Serves Cafe, Bakery. Known for Being an artisinal coffee roastery and retailer focusing on hand-crafted preparation of single-origin coffees and baked goods.
+title: Coffee – Matchstick
+snippet: Locations. Fraser Street. Open until 9 pm. Chinatown. Open until 9 pm. Riley Park. Open until 9 pm. Yaletown. Open until 9 pm. Davie. Open until 9 pm
+title: Matchstick coffee is opening a new location in Downtown ...
+snippet: One of Vancouver&#39;s favourite local coffee spots is opening a new location in Downtown Vancouver. Matchstick coffee is currently renovating a location at Richards and Drake in Yaletown, this will be the fourth location for the specialty coffee bar and roastery.
+
+REL: 0
+POI Name: Stawamus Chief Provincial Park
+POI City: Squamish
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Climbing, Parks, Hiking, Campgrounds, 
+Snippets:
+
+
+REL: 0
+POI Name: Presotea
+POI City: Vancouver
+POI Country: CA
+POI Main category: Restaurants and Food
+POI Sub category: Bubble Tea, 
+Snippets:
+title: Home - 鮮茶道 Presotea - Fresh Bubble Tea in BC
+snippet: Presotea has been established in Taiwan since 2006. It has become one of the well-known tea shops in Taiwan and around the world. With more than 300 franchise stores opened since first launch, Presotea is also now in Canada, China, Indonesia and Australia.
+title: Menu - 鮮茶道 Presotea - Fresh Bubble Tea in BC
+snippet: Presotea has been established in Taiwan since 2006. It has become one of the well-known tea shops in Taiwan and around the world. With more than 300 franchise stores opened since first launch, Presotea is also now in Canada, China, Indonesia and Australia.
+title: Store Locations - 鮮茶道 Presotea - Fresh Bubble Tea in BC
+snippet: Presotea has been established in Taiwan since 2006. It has become one of the well-known tea shops in Taiwan and around the world. With more than 300 franchise stores opened since first launch, Presotea is also now in Canada, China, Indonesia and Australia.
+title: About - 鮮茶道 Presotea - Fresh Bubble Tea in BC
+snippet: ABOUT PRESOTEA BC CANADA Presotea will continuously applies our leading brand spirit in the industry, Fresh Tea, Fresh Made, to provide more health and affordable fresh tea drinks to our customers. Presotea has been well established and successfully launched in Taiwan since 2006. Through its outstanding management and product quality control, Presotea has become one …
+title: Presotea Australia
+snippet: Presotea is unique and different from the present tea beverage market. We have invented a new tea brewing technology by using high-temperature and high-pressure machine to extract the essence of tea; thus every customer can enjoy the fresh tea flavor and the bittersweet after-taste.
+title: Presotea - 20 Photos &amp; 17 Reviews - Bubble Tea - 115-3671 ...
+snippet: 17 reviews of Presotea &quot;This is the perfect location for me and the drinks are yummy. The white pearls are kind of pointless because they are flavourless. The watermelon slush is very good as well as the triple milk tea (grass jelly, pearl,…
+title: Franchise - 鮮茶道 Presotea - Fresh Bubble Tea in BC
+snippet: Presotea has been established in Taiwan since 2006. It has become one of the well-known tea shops in Taiwan and around the world. With more than 300 franchise stores opened since first launch, Presotea is also now in Canada, China, Indonesia and Australia.
+title: Presotea Bubble Tea Oakridge, Vancouver - Oakridge - Menu ...
+snippet: Presotea Bubble Tea Oakridge, Vancouver: See unbiased reviews of Presotea Bubble Tea Oakridge, rated 1 of 5 on Tripadvisor and ranked #3,024 of 3,443 restaurants in Vancouver.
+title: Presotea Menu, Menu for Presotea, West Richmond, Richmond ...
+snippet: Presotea West Richmond Menu - View the Menu for Presotea Richmond on Zomato for Delivery, Dine-out or Takeaway, Presotea menu and prices. Presotea Menu Serves Cafe, Bubble Tea, Coffee and Tea.
+title: Presotea, West Richmond, Richmond - Urbanspoon/Zomato
+snippet: Presotea Richmond; Presotea, West Richmond; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Presotea Restaurant on Zomato. Serves Cafe, Bubble Tea, Coffee and Tea. Cost CA$15 for two people (approx.) Products for Businesses We&#39;re hiring. ... West Richmond, Metro Vancouver 3.1 Pizza Hut. West Richmond, Metro Vancouver ...
+
+REL: 0
+POI Name: Lynn Canyon Suspension Bridge
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, 
+Snippets:
+
+
+REL: 0
+POI Name: Baden Powell Trail
+POI City: North Vancouver
+POI Country: CA
+POI Main category: Active Life
+POI Sub category: Hiking, 
+Snippets:
+title: Baden Powell Deep Cove to Lynn Valley ... - Vancouver Trails
+snippet: The eastern section of the Baden Powell trail travels through North Vancouver from Deep Cove to the Lynn Valley Suspension Bridge. This section of the trail passes several scenic landscapes, from a view of Deep Cove and Indian Arm, to great canyon scenery of the Seymour River and Lynn Creek.
+title: North Shore Baden Powell Trail | Vancouver&#39;s Best Places
+snippet: It’s trails like the Baden Powell Trail that make the North Shore world-famous for nature and outdoor recreation. The Baden Powell Trail is not a loop, meaning that you need to arrange transportation differently for the start and end of your hike unless you simply retrace your steps.
+title: Baden-Powell Trail - Wikipedia
+snippet: The Baden-Powell Trail is a rugged but well-maintained 48 km hiking trail, that traverses from Horseshoe Bay in West Vancouver to Deep Cove in North Vancouver, BC. It was named after Robert Baden-Powell, Lord Baden-Powell, founder of the world Scouting Movement.
+title: Baden Powell Hiking Trail - 42 km | Trails BC
+snippet: The Baden Powell Trail itself is 42 km long from Horsehoe Bay on Howe Sound to Deep Cove on Indian Arm with 1200 metre change in elevation. The highest point is at the top of Black Mountain and the Lowest at sea level in Deep Cove.
+title: Old Buck, Baden Powell, and Bridle Trail Loop - British ...
+snippet: Old Buck, Baden Powell, and Bridle Trail Loop is a 6.1 kilometer moderately trafficked loop trail located near North Vancouver, British Columbia, Canada that features a great forest setting and is rated as moderate.
+title: Baden Powell Trail - A Popular Hike near Vancouver Canada
+snippet: The Sir Baden Powell Trail runs west from Deep Cove in North Vancouver. The trail ends up near Horseshoe Bay in West Vancouver. It varies in altitude from sea level to about 2,500 feet and can be accessed from the Cypress Mountain ski lodge.
+title: Baden-Powell Trail (West Vancouver) - 2020 All You Need to ...
+snippet: Skip the hassle of driving unfamiliar roads or waiting around for infrequent buses. This tour to Whistler picks you up directly from your Vancouver hotel or cruise terminal and takes you to Whistler where you have free time to explore, making stops at Horseshoe Bay and Shannon Falls, along the way.
+title: Baden Powell Trail - North Vancouver, British Columbia ...
+snippet: Baden Powell Trail, North Vancouver, British Columbia. 8 likes. Hiking Trail
+title: Baden Powell (Bikeable) Mountain Biking Trail - North ...
+snippet: Baden Powell (Bikeable) mountain biking trail in Mount Seymour, British Columbia. 1,608 m blue singletrack trail. [Skip to Content] NOTICE: Mountain biking irresponsibly during the COVID-19 pandemic puts you and others at risk.
+
+Cand cities: {'Vancouver', 'West Vancouver', 'Victoria', 'Squamish', 'Burnaby', 'North Vancouver', 'British Properties'}

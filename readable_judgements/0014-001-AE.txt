@@ -1,0 +1,1260 @@
+City: Berlin
+Country: DE
+Main category: Arts & Entertainment
+Sub category: Art Galleries - Museums - Street Art
+Description: Hi! I’m 20 and traveling solo for the first time out of my country. I’ve always wanted to go to Berlin and I’m finally able to go on my own :))) I REALLY love art (museum, galleries, music, exhibitions, street art etc...), books and cafes, and I loooove discovering the town by just walking for hours :) Have you any ideas of what could I do during this weekend by myself ? Places that I should absolutely see ? Thanks !
+Rated POIs: 46
+Rel distr: [(0, 7), (1, 6), (2, 4), (3, 29)]
+=================================
+REL: 3
+POI Name: Berliner Bär
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Berliner Bär – Wikipedia
+snippet: Der Bär ist ein beliebtes Objekt für Plastiken, Häuserreliefs, Wetterfahnen, Brunnenschmuck und sonstige künstlerische Objekte. Die Berlinale verleiht den Goldenen Bären.. Abbildungen mit dem Berliner Bären findet man an Gebäuden in ganz Berlin.
+title: Das Hotel Berliner Bär GmbH in Berlin - WILLKOMMEN
+snippet: Seien Sie herzlich willkommen in unserem familiär geführten Hotel Berliner Bär - Unser Haus liegt in Berlin-Tempelhof direkt an der „Tempelhofer Freiheit“. Für Sportbegeisterte bieten die ehemaligen Rollbahnen ein ideales Areal zum Joggen, Fahrrad fahren und Inline-Skaten.
+title: Coat of arms of Berlin - Wikipedia
+snippet: The coat of arms of Berlin is used by the German city state as well as the city itself. Introduced in 1954 for West Berlin, it shows a black bear on a white shield. On top of the shield is a special crown, created by the amalgamation of the mural crown of a city with the so-called people&#39;s crown (Volkskrone), used in Germany to denote a republic.Berlin&#39;s various boroughs use their own embl
+title: Home | Berliner Philharmoniker
+snippet: Waldbühne Berlin. Gustavo Dudamel and the Berliner Philharmoniker at the Waldbühne. read more All Concerts Berliner Philharmoniker Chamber Music News Read all the news. 30 Mar 2020. Death of Krzysztof Penderecki. The Berliner Philharmoniker have performed many of his works, often under ...
+title: Wappen Berlins – Wikipedia
+snippet: Das Wappen des Landes und der Stadt Berlin zeigt den Berliner Bären.Der Bär war nicht von Anbeginn das Symbol der Stadt. Über mehrere Jahrhunderte teilte sich der Bär die Siegel- und Wappenbilder mit dem brandenburgischen und preußischen Adler.Warum sich die Berliner für den Bären als Wappentier entschieden, lässt sich aufgrund fehlender Unterlagen nicht eindeutig klären.
+title: RC Berliner Bär e.V - Startseite
+snippet: RC Berliner Bär e.V in Berlin ist Ihr Partner für Freizeitaktivitäten, sportliche Betätigung und gemeinschaftliche Unternehmungen.
+title: Schädlingsbekämpfung Berlin | Schädlinge? Nicht Ihr Problem
+snippet: Willkommen auf den Internetseiten der berliner bär eG. Moderne und zuverlässige Lösungen für jedes Schädlingsproblem . Professionelle Schädlingsbekämpfung für Kunden in Berlin, Potsdam und Brandenburg. Nicht jedes Schädlingsproblem kann auf die gleiche Weise gelöst werden.
+title: Hotel Berliner Bär, Germany - Booking.com
+snippet: The Hotel Berliner Bär has spacious, contemporary-style rooms with a TV, mini-bar, and modern bathroom with hairdryer. A free internet terminal with printer and scanner is located in the lobby. The lobby bar is open 24 hours a day. The Felixstraße bus stop is opposite the Berliner Bär Hotel.
+title: Buddy Bär Bear - Berlin Deluxe Online Shop Bären finden ...
+snippet: Wir haben Sie alle - Das komplette Buddy Bär Sortiment der weltberühmte Bären Souvenirs im Berlin Deluxe online Shop - Kontakt. Versand &amp; Zahlung. Abholung im Ladengeschäft. ... Berliner Mauerstücke. Buddy Bären. Berlin Taschen &amp; Mode . Bewertungen auf eBay: Kategorien Souvenirs Buddy Bär
+title: Eisbären Berlin
+snippet: Eisbären Berlin verpflichten Verteidiger Stefan Espeland und Stürmer Mark Zengerle. Beide Spieler, die vor allem offensiv dem Eisbären-Team ihren Stempel aufdrücken werden, kommen aus Bremerhaven an…
+
+REL: 3
+POI Name: Anne Frank Zentrum
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Startseite | ANNE FRANK ZENTRUM e. V.
+snippet: Das Anne Frank Zentrum ist die deutsche Partnerorganisation des Anne Frank Hauses in Amsterdam und erinnert an das Wirken der Anne Frank. Startseite | ANNE FRANK ZENTRUM e. V. Die Ausstellung »Alles über Anne« des Anne Frank Zentrums ist ab 14.
+title: Anne Frank Zentrum (Berlin) - 2020 All You Need to Know ...
+snippet: We recommend booking Anne Frank Zentrum tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 Anne Frank Zentrum tours on Tripadvisor
+title: Anne Frank Zentrum (Berlin, Tyskland) - Anmeldelser
+snippet: Anne Frank Zentrum, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Anne Frank Zentrum i Berlin, Tyskland på Tripadvisor.
+title: Anne Frank Zentrum – Berlin.de
+snippet: Anne Frank Zentrum. The Anne Frank Zentrum (Anne Frank Centre) is located just next to the Hackeschen Höfe in Berlin’s new Mitte district in an area near the S-Bahn Hackescher Markt known as the Scheunenviertel.
+title: Anne Frank Zentrum - Wikipedia
+snippet: The Anne Frank Zentrum (Anne Frank Centre) is a facility [clarification needed] located in Berlin, which is committed to promoting a varied and lively society and to working against anti-Semitism, prejudice and any kind of discrimination against people.
+title: Anne Frank Zentrum - Willkommen in Berlin | visitBerlin.de
+snippet: Anne Frank Zentrum highlights. Charts showing different translations of Anne&#39;s diary. Detailed photographs of the family&#39;s hiding place at Prinsengracht 263. Showcases about Opekta, Otto Frank&#39;s pectin company. Anne&#39;s baby and school photographs. Auditorium for films, talks and lectures. Jewish history in the area
+title: Ausstellung Berlin | ANNE FRANK ZENTRUM e. V.
+snippet: Im Anne Frank Zentrum am Hackeschen Markt in Berlin-Mitte ist die ständige Ausstellung »Alles über Anne« zu sehen. Die Ausstellung erzählt die Lebensgeschichte Anne Franks und informiert über die Zeit, in der sie gelebt hat. Sie erklärt, wieso Anne Franks Tagebuch heute so berühmt ist und zeigt, dass ihre Gedanken noch heute aktuell sind.
+title: Anne Frank Zentrum | ANNE FRANK ZENTRUM e. V.
+snippet: Das Anne Frank Zentrum ist die deutsche Partnerorganisation des Anne Frank Hauses in Amsterdam. Mit Ausstellungen und Bildungsangeboten erinnert das Zentrum an Anne Frank und ihr Tagebuch. Es schafft Lernorte, in denen sich Kinder und Jugendliche mit Geschichte auseinandersetzen und diese mit ihrer heutigen Lebenswelt verbinden.
+title: Team | ANNE FRANK ZENTRUM e. V.
+snippet: Das Anne Frank Zentrum ist die deutsche Partnerorganisation des Anne Frank Hauses in Amsterdam. Mit Ausstellungen und Bildungsangeboten erinnert das Zentrum an Anne Frank und ihr Tagebuch. Es schafft Lernorte, in denen sich Kinder und Jugendliche mit Geschichte auseinandersetzen und mit ihrer heutigen Lebenswelt verbinden.
+title: Ihr Besuch | ANNE FRANK ZENTRUM e. V.
+snippet: Aktueller Hinweis: Die Ausstellung »Alles über Anne« ist ab 14. März 2020 bis vorerst zum 19. April 2020 geschlossen. Damit folgt das Anne Frank Zentrum der Entscheidung der Senatsverwaltung für Kultur und Europa, alle Kultureinrichtungen des Landes Berlin in diesem Zeitraum für den Besucherverkehr zu schließen.
+
+REL: 3
+POI Name: Welcome Brazilian Team!
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Welcome Brazilian Team! - Mitte - Berlin, Germany
+snippet: Welcome Brazilian Team! in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Germany team return to heroes&#39; welcome before Brandenburg ...
+snippet: Germany team return to heroes&#39; welcome before Brandenburg Gate This article is more than 5 years old Hundreds of thousands of fans in black, red and gold flock to Berlin to see victorious team ...
+title: Brazil: Fans welcome German team in Porto Seguro - YouTube
+snippet: Video ID: 20140608-020 M/S German team bus arriving, inscription on window reading &quot;One country, one team, one dream&quot; C/U German football players Roman Weidenfeller and Toni Kroos inside the bus M ...
+title: MMA, Muay Thai &amp; Brazilian Jiu-Jitsu in Berlin Kreuzberg ...
+snippet: &quot;Was für ein Gym! Riesig gewachsen über die letzten 2 Jahre, und das nicht ohne Grund. Beständige Erweiterung der sowieso schon Top Vielfalt an Trainingsangeboten in hoher Qualität und getragen durch ein super sympathisches, fähiges und gleichzeitig hochprofessionelles Team, egal ob Leitung, Orga oder Trainer.
+title: Welcome to Team Crave Brazilian Jiu Jitsu &amp; Krav Maga ...
+snippet: Team Crave is #1 Martial Arts Academy in Plantation FL. We offer world class Brazilian jiu jitsu and Israeli Krav Maga. We offer classes to beginners and advanced and kids and adults. Our Academy ...
+title: Brazilian team arrives in Berlin - YouTube
+snippet: 1. Assembled press, pan left to police escort approaching 2. Coach with Brazilian football team in approaching, audio screaming adoring fans 3. Mid shot of c...
+title: Trainer - Gracie Jiu-Jitsu Team Berlin
+snippet: Trainer. Gracie Jiu-Jitsu Team Berlin. Prof. Franco Vacirca. Schwarzgurt Gracie Jiu-Jitsu 5. Dan Jiu-Jitsu : Sensei Thomas Mehnert
+title: Portuguese Translation of “welcome” | Collins English ...
+snippet: Portuguese Translation of “welcome” | The official Collins English-Portuguese Dictionary online. Over 100,000 Portuguese translations of English words and phrases. Log In
+title: Home - Gracie Jiu-Jitsu Team Berlin
+snippet: Unser Team in Berlin . Gracie Jiu-Jitsu ist ein im letzten Jahrhundert von Carlos und Hélio Gracie entwickeltes Selbstverteidigungssystem. Den Schwerpunkt des Systems bildet der Bodenkampf, ergänzt durch Stand- und Wurftechniken. Ziel ist es, den Angreifer unter Kontrolle zu bringen oder kampfunfähig zu machen.
+title: How iFixit Became the World&#39;s Best iPhone Teardown Team ...
+snippet: The most important thing that happens when a new iPhone comes out is not the release of the phone, but the disassembly of it. The iPhone teardown, undertaken...
+
+REL: 3
+POI Name: Gemäldegalerie Berlin
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Gemäldegalerie: Home - Staatliche Museen zu Berlin
+snippet: Information on the Coronavirus (SARS-CoV-2): As of Saturday, 14 March 2020 all buildings of the Staatliche Museen zu Berlin will be closed to the public until further notice. This measure is intended to minimise the spread of the coronavirus. We appreciate your understanding.
+title: Gemäldegalerie: Home - Staatliche Museen zu Berlin
+snippet: Information zum Coronavirus (SARS-CoV-2): Seit Samstag, 14. März 2020, sind alle Häuser der Staatlichen Museen zu Berlin bis auf Weiteres geschlossen. Diese Maßnahme soll helfen, die Verbreitung des Coronavirus so gering wie möglich zu halten.
+title: Gemäldegalerie, Berlin - Wikipedia
+snippet: The Gemäldegalerie (German pronunciation: [ɡəˈmɛːldəɡaləˌʁiː], Painting Gallery) is an art museum in Berlin, Germany, and the museum where the main selection of paintings belonging to the Berlin State Museums (Staatliche Museen zu Berlin) is displayed.It holds one of the world&#39;s leading collections of European paintings from the 13th to the 18th centuries.
+title: Gemäldegalerie – Berlin.de
+snippet: Gemäldegalerie. Berlin&#39;s Gemäldegalerie (Picture Gallery), also known as the Old Masters Museums is one of the world’s most impressive collections of European painting exhibiting an astonishing range of European art from the 13th to the 18th centuries from the great European masters.
+title: Gemäldegalerie – Berlin.de
+snippet: Gemeinsam mit der Sammlung Würth präsentieren die Staatlichen Museen zu Berlin in der Wandelhalle der Gemäldegalerie „The Last Judgement Sculpture“, ein Hauptwerk des britischen Künstlers Anthony Caro (1924–2013). Die monumentale, 25-teilige Installation...
+title: Gemäldegalerie (Berlin) – Wikipedia
+snippet: Gemäldegalerie er et kunstgalleri i bydelen Mitte i Berlin. Det ble åpnet i 1830 og holdt først hus i Altes Museum på Museumsinsel, men etter at dette ble skadet under andre verdenskrig, ble galleriet flyttet til Kulturforum Berlin, i Tiergarten mellom Landwehrkanal og Potsdamer Platz.
+title: Gemäldegalerie: Current - Staatliche Museen zu Berlin
+snippet: Exhibitions: Gemäldegalerie of the Staatliche Museen zu Berlin. Information on the Coronavirus (SARS-CoV-2): As of Saturday, 14 March 2020 all buildings of the Staatliche Museen zu Berlin will be closed to the public until further notice. This measure is intended to minimise the spread of the coronavirus.
+title: Gemäldegalerie, Staatliche Museen zu Berlin, Berlin ...
+snippet: After the collapse of the Berlin Wall and the subsequent remerger of the Staatliche Museen zu Berlin in 1991, the Gemäldegalerie was expanded with the addition of a study gallery. In its sense of architectural restraint, the simple designs of the façade are deliberately reminiscent of Karl Friedrich Schinkel’s Altes Museum.
+title: Gemäldegalerie (Berlin) — Wikipédia
+snippet: modifier - modifier le code - modifier Wikidata La Gemäldegalerie ou Galerie de peintures (Pinacothèque) est l&#39;un des musées d&#39;État de Berlin , situés dans le complexe muséal du Kulturforum ouvert en 1998. C&#39;est l&#39;un des plus importants musées au monde de peinture européenne du XIII e au XVIII e siècle, aussi bien par la taille que par la qualité des collections, qui comprennent de
+title: Raphael in Berlin: The Madonnas of the Gemäldegalerie ...
+snippet: In the exhibition &quot;Raphael in Berlin: The Madonnas of the Gemäldegalerie&quot;, the round picture of the Madonna Terranuova (c. 1505) together with Raphael&#39;s drawing of the Head of the Madonna Terranuova from the Kupferstichkabinett will also be on view for the first time.
+
+REL: 3
+POI Name: Monsterkabinett
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, Museums, Art Galleries, 
+Snippets:
+title: Monsterkabinett
+snippet: Das Monsterkabinett der Deadchickens ist eine Sammlung mechanische und computergesteuerter Monster-Roboter. Das &#39;Museum&#39; wurde 2010 er ffnet und bietet einen 15 j hrigen Werk berblick der K nstlergruppe.
+title: Monsterkabinett (Berlin) - 2020 All You Need to Know ...
+snippet: See many of Berlin&#39;s most important landmarks and highlights, with informative commentary from your guide, on this half-day walking tour of Mitte. Learn insider information on the German city&#39;s different eras, stretching from modern times back through the Cold War, Nazi, Imperial, and Prussian time periods.
+title: Dead Chickens - Monsterkabinett - Berlin Mitte Museum
+snippet: Rosenthalerstrasse 39, Berlin Mitte Im mittleren Hof führt die rechte Treppe in den Monsterkabinett Keller. In the second courtyard, take the staircase on the right into the Monsterkabinett cellar. Info Besuch auf eigene Gefahr besonders für Menschen mit gesundheitlichen Einschränkungen. Kinder ab 6 Jahren in Begleitung Erwachsener.
+title: Monsterkabinett (Berlin) - Aktuelle 2020 - Lohnt es sich ...
+snippet: Hotels in der Nähe von Monsterkabinett: (0.75 km) The Circus Apartments (0.21 km) Casa Camper Berlin (0.68 km) Berlin Gorki Apartments (0.49 km) Flower&#39;s Boardinghouse Mitte (0.68 km) AMANO Home; Sehen Sie sich alle Hotels in der Nähe von Monsterkabinett auf Tripadvisor an.
+title: Monsterkabinett (Berlin, Tyskland) - Anmeldelser - TripAdvisor
+snippet: Monsterkabinett, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Monsterkabinett i Berlin, Tyskland på TripAdvisor.
+title: Monsterkabinett | visitBerlin.de
+snippet: An eerily bizarre sight can be found under Berlin. Pass through an arched gateway covered in street art to come upon Haus Schwarzenberg, with dungeons where the monsters of your nightmares come alive.
+title: Monsterkabinett, Berlin | Ticket Price | Timings | Address ...
+snippet: Monsterkabinett, Berlin. Find hotel near Monsterkabinett. Contribute/Review Ask a Question. For a unique experience when in Berlin, add Monsterkabinett to your itinerary. Partly a museum and partly an art gallery, the Monsterkabinett was opened in the early 2000s and guarantees a spooky experience you will not forget.
+title: MONSTERKABINETT - EXBERLINER.com
+snippet: For those interested in Berlin stories, Monsterkabinett is a doorway to the heady days of Berlin-Mitte in the early post-wall era. Monsterkabinett is a small private museum produced by the Berlin artist group Dead Chickens and offers a ticket to authentic Berlin and into an underground „Gesamtkunstwerk“.
+
+REL: 3
+POI Name: Schild Männchen
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Schild Männchen - Mitte - Berlin, Germany
+snippet: Schild Männchen in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Schild Männchen - Tiergarten - Berlin, Germany
+snippet: Schild Männchen in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Schild Vögelchen – Berlin, Luisenstraße nahe Charit… (1 ...
+snippet: Kontaktinformationen und 1 bewertung für Schild Vögelchen in Luisenstraße nahe Charité, Berlin anzeigen oder eine Bewertung schreiben. Erkunden Sie eine interaktive Karte mit Orten in der Nähe.
+title: Wer stellt Yoga-Figuren auf Schilder? – B.Z. Berlin
+snippet: In ganz Berlin. Street-Yogis nennt Josef Foos (55) seine Männchen. Wie er sie oben auf die Schilder bekommt, will er nicht verraten, sagt nur so viel: ...
+title: Michelin Schild eBay Kleinanzeigen
+snippet: eBay Kleinanzeigen: Michelin Schild, Kleinanzeigen - Jetzt finden oder inserieren! eBay Kleinanzeigen - Kostenlos. Einfach. Lokal.
+title: Wegeleitsysteme, Schaukästen | Schilder in Berlin
+snippet: Wegeleitsysteme, Pultschilder, Schaukästen Wir bieten: Passgenaue Lösungen für individuelle Projekte. Immer mit dem Blick fürs Detail, ästhetischer Qualität und durchgängiger Gestaltung. Schilderbecker und die Informationstechnik Meng GmbH Wir arbeiten seit vielen Jahren eng mit der Informationstechnik Meng GmbH zusammen. Wir montieren unter anderem für die Firma Informationstechnik ...
+title: Göbel Stempel + Schilder GmbH - goebel-berlin.de
+snippet: Göbel Stempel + Schilder GmbH - Goebel Schilder in Berlin, Stempel in Berlin, Türschilder, Praxisschilder, Objektbeschilderungen und Durchlaufschutz in Berlin.
+title: Burg &amp; Schild
+snippet: Burg &amp; Schild bietet eine exklusive Auswahl an RAW &amp; Selvedge Denim. Männermode, Schuhe &amp; Accessoires von Marken wie Iron Heart, Indigofera und Stevenson Overall Co. - versandkostenfrei innerhalb Deutschlands.
+title: Bettina Schild Profile | Facebook
+snippet: Profile von Personen mit dem Namen Bettina Schild anzeigen. Tritt Facebook bei, um dich mit Bettina Schild und anderen Personen, die du kennen könntest,...
+title: Hochzeitsschilder &amp; Wegweiser – HAPPILY EVER AFTER
+snippet: „Ablaufbaum – Birke“ Deine Hochzeitsgäste werden Dank des Ablaufbaums optimal auf den geplanten Tagesablauf Deiner Hochzeit vorbereitet. Die Schilder kannst Du mit einem Edding, Acrylfarbe o.Ä. individuell beschriften und die gewünschte Schilderanzahl (bis zu 7 Stück) an den Baum befestigen.
+
+REL: 3
+POI Name: Galerie of Modern Art
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Framing, 
+Snippets:
+title: Home - Berlinische Galerie
+snippet: The Friends of the Berlinische Galerie have been supporting their museum for over forty years. 1,500 art lovers help with their membership fees and donations to make the Berlinische Galerie one of the most exciting venues for modern and contemporary art in Berlin.
+title: The Museum - Berlinische Galerie
+snippet: The Berlinische Galerie is a museum for everyone in the city, residents and guests alike. It was founded in 1975 as an association for art lovers with a strong sense of civic commitment, and in 1994 the State of Berlin took it on as a public museum.
+title: 10 of the best galleries in Berlin | Travel | The Guardian
+snippet: 10 of the best galleries in Berlin ... Berlinische Galerie. ... Ruby Anemic&#39;s feeling for street culture, young, modern art and cool photography makes the Pool Gallery well worth a visit.
+title: Ihr Museum für moderne und zeitgenössische Kunst in Berlin
+snippet: Um eine schnelle Ausbreitung des Corona-Virus in Berlin zu verhindern, folgt die Berlinische Galerie der Empfehlung der Senatsverwaltung für Kultur und Europa, das Museum ab dem 14. März bis vorerst 19. April vorsorglich zu schließen. Alle Veranstaltungen in diesem Zeitraum finden nicht statt. Wir bitten um Ihr Verständnis.
+title: Berlin&#39;s 10 Contemporary Art Spaces You Should Visit
+snippet: Berlin’s contemporary art spaces push boundaries and delight in equal measure. The city’s galleries and museums span the breadth of aristocratic marvel, architectural splendour, ancient relics and contemporary sensations, and that’s not to mention the city’s vibrant street art.
+title: Galleries | visitBerlin.de
+snippet: The daadgalerie is the flagship showroom of the Berlin arts programme, originally funded by the Ford Foundation.The gallery has since established itself worldwide as a centre for the creation of contemporary art. Since 1963, more than a thousand artists in the visual arts, literature, music, film and dance have come from abroad to live and work in Berlin under the sponsorship of the daadgalerie.
+title: Galerie of Modern Art :: Galerie – Berlin.de
+snippet: Galerie: Galerie of Modern Art, Kantstr., Berlin–Charlottenburg – Information zu Kontakt, Öffnungszeiten, Anfahrt und mehr.
+title: Art museums | visitBerlin.de
+snippet: The old masters, important Modernist works and contemporary art: In Berlin&#39;s art museums you can wander through all eras of art history. Pay a visit to Nefertiti in the Neues Museum (New Museum) and The Man with the Golden Helmet at the Gemäldegalerie (Picture Gallery).
+title: Berlinische Galerie (Berlin) - 2020 All You Need to Know ...
+snippet: Berlinische Galerie, Berlin: Hours, Address, Berlinische Galerie Reviews: 4.5/5. ... stretching from modern times back through the Cold War, Nazi, Imperial, and Prussian time periods. Other stops on this jam-packed ... always interesting exhibitions plus an excellent upper floor display of the history of Berlin art. Highly recommended but ...
+title: Berlinische Galerie | visitBerlin.de
+snippet: At the boundary between Mitte and Kreuzberg, you&#39;ll find one of Berlin&#39;s most important modern art collections.The Berlinische Galerie tells the story of modern art from 1840 onwards and puts on hot-ticket temporary exhibitions by Berlin&#39;s fiendishly productive artists.
+
+REL: 3
+POI Name: Strassenkunst Donaustrasse Pinguin/maulwurf
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Strassenkunst Donaustrasse Pinguin/maulwurf - Street Art ...
+snippet: Strassenkunst Donaustrasse Pinguin/maulwurf in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Street Art in Berlin - Yelp
+snippet: Find the best Street Art on Yelp: search reviews of 94 Berlin businesses by price, type, or location. Yelp. Cancel. For Businesses. Log In Sign Up. ... “ If you&#39;re new to Berlin, ... Strassenkunst Donaustrasse Pinguin/maulwurf. 1 review. Neukölln. Donaustr, Berlin, BE. All Reviews. 36.
+title: Strassenkunst Donaustrasse Kaninchen - Neukölln - Berlin ...
+snippet: Strassenkunst Donaustrasse Kaninchen in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Strassenkunst Reuterstrasse: Wikinger – Berlin ...
+snippet: 1 bewertung, Kontaktinformationen und Geschäftszeiten von Strassenkunst Reuterstrasse: Wikinger in Reuterstrasse, Berlin. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Berliner Bär - Street Art - A113, Treptow, Berlin, Germany ...
+snippet: Berliner Bär in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Sastimdur Bitterhoff – Berlin, Donaustr. 130 (Bewertungen ...
+snippet: Bewertungen, Kontaktinformationen und Geschäftszeiten von Sastimdur Bitterhoff in Donaustr. 130, Berlin. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Strassenkunst Saltykowstrasse: Zwei Köpfe – Berlin ...
+snippet: 1 bewertung, Kontaktinformationen und Geschäftszeiten von Strassenkunst Saltykowstrasse: Zwei Köpfe in Saltykowstrasse, Berlin. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Eikita Tintenklecks – Berlin, Donaustr. 11 (Bewertungen ...
+snippet: Öffnungszeiten, Kontaktinformationen und bewertungen für Eikita Tintenklecks in Donaustr. 11, Berlin. Sehen Sie Orte in der Nähe auf der Karte an. Hinterlassen Sie eine Bewertung.
+title: The Top 20 Street Art – Berlin (Germany)
+snippet: Find 112 listings related to Street Art in Berlin, Germany on Unilocal. Read about places like Strassenkunst Saltykowstrasse:…, Korkmännchen, Tiergemälde. Log in. English (United Kingdom) The Top 20 Street Art. Berlin, Germany. Show map. Berlin Neighborhoods. Britz. Charlottenburg.
+title: Rixdorfer-Schule, Sporthalle Ost – Berlin, Donaustrasse ...
+snippet: Öffnungszeiten, Kontaktinformationen und 1 bewertung für Rixdorfer-Schule, Sporthalle Ost in Donaustrasse 120 120 Berlin-Neukölln, Berlin. Sehen Sie Orte in der Nähe auf der Karte an. Hinterlassen Sie eine Bewertung.
+
+REL: 3
+POI Name: Kunstsupermarkt
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Kunstsupermarkt
+snippet: Kunstsupermarkt = Tausende Originalkunstwerke zu günstigen Preisen ab 59 EUR. Aufgrund der Corona-Krise verzögert sich unser Saisonstart auf Sylt! Danke, dass Sie die Treue halten!
+title: Berliner Kunstsupermarkt im Quartier 205 – Berlin.de
+snippet: Berliner Kunstsupermarkt im Quartier 205 25. Oktober 2019 bis 25. Januar 2020. Von Zeichnungen über Aquarelle bis Fotografien: Im Quartier 205 an der Friedrichstraße können Besucher über 5000 Kunstwerke auch für den normalen Geldbeutel erwerben.
+title: Berliner Kunstsupermarkt 2019/2020 – Weihnachten 2019
+snippet: Der 19. Berliner Kunstsupermarkt öffnet vom 25. Oktober 2019 bis 25. Januar 2020 montags bis samstags von 11:00 bis 19:00 Uhr in der Innenstadt, Quartier 205, Untergeschoss, Friedrichstraße 67-70, in 10117 Berlin.
+title: Konzept - Kunstsupermarkt
+snippet: Konzept. Seit 1998 präsentiert der Kunstsupermarkt Werke junger und renommierter Künstlerinnen und Künstler aus dem In- und Ausland. Jedes Jahr von November bis Januar bietet der Kunstsupermarkt an zunehmend mehr Standorten in Deutschland und der Schweiz ausschließlich Originale und Unikate zum Verkauf an.
+title: Kunstsupermarkt - Home | Facebook
+snippet: Kunstsupermarkt - Ernst-Giller-Str. 20, 35039 Marburg, Germany - Rated 4.8 based on 7 Reviews &quot;Toller Markt zu bekannten und unbekannten Künstlerinnen...
+title: Shopping im Kunstsupermarkt | BR24 - YouTube
+snippet: Berlin hat bereits einen, Köln, Hamburg und Frankfurt auch. Und seit kurzem gibt es nun auch in München einen Kunstsupermarkt. Künstler haben hier einen Platz, an dem sie ihre Werke in ...
+title: Ausschreibung - Kunstsupermarkt
+snippet: Weitere Infos. Nach den erfolgreich verlaufenen Kunstsupermärkten der vergangenen Jahre in Solothurn – mit Besucherzahlen von bis zu 30‘000 Personen und zahlreichen Berichten in Presse, Radio und Fernsehen – führen wir dieses Jahr gleichzeitig mit Frankfurt, Berlin, München und Wien in Solothurn den Schweizer Kunstsupermarkt durch.
+title: Malerei - Kunstsupermarkt
+snippet: Die Internetseiten verwenden an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen.
+title: Abstrakt - Kunstsupermarkt
+snippet: Die Internetseiten verwenden an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen.
+title: Landschaft - Kunstsupermarkt
+snippet: Die Internetseiten verwenden an mehreren Stellen sogenannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen.
+
+REL: 3
+POI Name: dispatchwork
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Dispatchwork – Fix the world in colors.
+snippet: Dispatchwork aims at childhood-memories in abstract shapes and towards a global collaboration of persons unknown to each other in vivid colors. The project is made for all people who identify as one of the others and embrace transitoriness.
+title: Dispatchwork - Jan Vormann
+snippet: Berlin New York Arnsberg Toulouse ... Find here a selection of places where Dispatchwork has been displayed. For the entire documentation p lease visit Dispatchwork.info. Click to view. Berlin New York Arnsberg Toulouse Paris Taipei Valparaiso Venice (0) ...
+title: Dispatchwork in Berlin | Yatzer
+snippet: Dispatchwork in Berlin. Costas Voyatzis. Art. 19 May 2009. View all Photos. Jan Vormann once again indulged his passion for Plastic! This time, in Berlin, he &quot;dispatched&quot; mostly holes that remained from the World War II.
+title: Mission – Dispatchwork
+snippet: Dispatchwork is a multiplayer game for virtually all public spaces worldwide. It is more than an intervention done by the hands of a single artist: Hundreds of enthusiasts are acting on broad daylight to rightfully claim their share of the public space.
+title: Dispatchwork in Berlin | Street art, Orange art, Art
+snippet: Dispatchwork in Berlin | Yatzer. Plastic construction pieces in all colors, between old stones, gave an interesting new twist in Berlin. Jan Vormann once again indulged his passion for Plastic! This time he &quot;dispatched&quot; mostly holes that remained from the World War II in the city.
+title: Torstraße 75, Berlin – Dispatchwork
+snippet: Dispatchwork. Fix the world in colors. Menu and widgets Mission Media Disclaimer. Recent Posts. ... Torstraße 75, Berlin. Posted on April 24, 2016 April 24, 2016 Author Jan Categories Berlin, Henk Holsheimer, Jan Post navigation. Previous Previous post: Torstraße 7, Berlin.
+title: Park am Gleisdreieck, Berlin – Dispatchwork
+snippet: Dispatchwork. Fix the world in colors. Menu and widgets Mission Media Disclaimer. Recent Posts. Rather Straße, 25, ... Park am Gleisdreieck, Berlin. Jander and Max followed me to Gleisdreieckspark in Berlin to document my work.
+title: dispatchwork - Mitte - Berlin, Germany
+snippet: dispatchwork in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: DISPATCHWORK - NuArt
+snippet: DISPATCHWORK by JAN VORMANN . Filmed for Nuart by MZM Projects. Jan Vormann’s global Dispatchwork project uses LEGO bricks to repair damaged walls. He describes the project as “a forum to further develop, piece by piece, a global game together”, one that encourages citizens to take back public space and leave their mark in a playful way.
+title: Dispatchwork in Berlin | Berlin, Architecture art, Travel
+snippet: &lt;p&gt;[[{&quot;fid&quot;:&quot;7828&quot;,&quot;view_mode&quot;:&quot;paragraph&quot;,&amp;quot...
+
+REL: 3
+POI Name: Urban Spree
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Urban Spree
+snippet: Urban Spree is a 1700 sqm artistic space in Berlin-Friedrichshain dedicated to urban visual cultures through exhibitions, DIY workshops, an art store and a large Biergarten.
+title: Info - Urban SpreeUrban Spree
+snippet: Urban Spree is a 1700 sqm artistic space in Berlin-Friedrichshain dedicated to urban cultures through exhibitions, artist residencies, DIY workshops, concerts, an art store and a large Biergarten. Within Urban Spree, the Urban Spree Galerie is a 400 sqm independent contemporary urban art space.
+title: Concerts Archives - Urban SpreeUrban Spree
+snippet: Concerts Archives - Urban SpreeUrban Spree ... Concert events
+title: Events Archives - Urban SpreeUrban Spree
+snippet: We use cookies to personalize our content and analyze traffic. By continuing to use this website you consent to our cookies and privacy policyprivacy policy
+title: Urban Spree Gallery (Berlin) - 2020 All You Need to Know ...
+snippet: We recommend booking Urban Spree Gallery tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 3 Urban Spree Gallery tours on Tripadvisor
+title: Urban Spree Berlin | visitBerlin.de
+snippet: Urban Spree is an artistic space based in Berlin-Friedrichshain dedicated to urban cultures through exhibitions, artist residencies, DIY workshops, concerts, an art store and a large Biergarten. Urban spree is a multi faceted space blending many mediums together over different levels and floors so that you can take your pick to enjoy art, music or a new tattoo during your visit.
+title: Urban Spree Gallery (Berlin, Tyskland) - Anmeldelser
+snippet: Urban Spree Gallery, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Urban Spree Gallery i Berlin, Tyskland på Tripadvisor.
+title: Urban Spree | Music in Berlin - Time Out Berlin
+snippet: Urban Spree, the new project from the French crew behind the much-missed HBC, houses an art gallery, concert hall, studio spaces and Bunsmobile food truck, with an emphasis on the experimental and ...
+title: De 10 beste restaurantene i nærheten av Urban Spree Gallery
+snippet: Restauranter i nærheten av Urban Spree Gallery på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Urban Spree Gallery, Berlin.
+title: THE 10 BEST Restaurants Near Urban Spree Gallery in Berlin ...
+snippet: Restaurants near Urban Spree Gallery, Berlin on Tripadvisor: Find traveler reviews and candid photos of dining near Urban Spree Gallery in Berlin, Germany.
+
+REL: 3
+POI Name: Old National Gallery
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Alte Nationalgalerie (Old National Gallery)
+snippet: In the gallery, you will see paintings and sculptures from the 19th century. The building itself looks like an ancient temple - built in the style of Prussian classicism. From classicism to romanticism on three floors. Stop for a while before heading into the Alte Nationalgalerie. Admire the imposing neoclassicist building.
+title: Museum – Old National Gallery – Museumsportal Berlin
+snippet: The Old National Gallery (Alte Nationalgalerie) is the original home of the Nationalgalerie, whose collections today are divided between the New National Gallery, the Hamburger Bahnhof – Museum for Contemporary Art – Berlin, the Friedrichswerder Church, Museum Berggruen and the Collection Scharf-Gerstenberg.
+title: Alte Nationalgalerie - Wikipedia
+snippet: The Alte Nationalgalerie (Old National Gallery) in Berlin is an art gallery showing a collection of Neoclassical, Romantic, Biedermeier, Impressionist and early Modernist artwork, part of the Berlin National Gallery, which in turn is part of the Staatliche Museen zu Berlin.It is the original building of the National Gallery, whose holdings are now housed in several additional buildings.
+title: National Gallery (Berlin) - Wikipedia
+snippet: The National Gallery (German: Nationalgalerie) in Berlin, Germany, is a museum for art of the 19th, 20th and 21st centuries.It is part of the Berlin State Museums.From the Alte Nationalgalerie, which was built for it and opened in 1876, its exhibition space has expanded to include five other locations.The museums are part of the Berlin State Museums, owned by the Prussian Cultural Heritage ...
+title: Old National Gallery | museum, Berlin, Germany | Britannica
+snippet: Old National Gallery, art museum in Berlin, Ger., noted for its collection of 19th-century European painting and sculpture. The Old National Gallery is one of the museums that make up the world famous National Museums of Berlin, and together with the Old (Altes), Bode, New (Neues), and Pergamon
+title: Old National Gallery - Mitte - Berlin, Germany
+snippet: On a recent trip to Berlin, during October 2017, I had planned to visit all of Museum Island, but there was so much to see and do in Berlin, this unfortunately never happened. However, I did manage a quick visit to Alte (old) National Gallery.
+title: Alte Nationalgalerie – Berlin.de
+snippet: The Alte Nationalgalerie is one of the five museums forming the ensemble known as Berlin’s Museum Island – a UNESCO World Heritage site. The Museum was built between 1866 and 1876 and restored in neoclassical style by Friedrich August Stüler in the style of a Greek temple. The Museum reopened to the public after a thorough restoration in 2001.
+title: Alte Nationalgalerie: Home - Staatliche Museen zu Berlin
+snippet: Information zum Coronavirus (SARS-CoV-2): Seit Samstag, 14. März 2020, sind alle Häuser der Staatlichen Museen zu Berlin bis auf Weiteres geschlossen. Diese Maßnahme soll helfen, die Verbreitung des Coronavirus so gering wie möglich zu halten.
+title: Alte Nationalgalerie: Home - Staatliche Museen zu Berlin
+snippet: Information on the Coronavirus (SARS-CoV-2): As of Saturday, 14 March 2020 all buildings of the Staatliche Museen zu Berlin will be closed to the public until further notice. This measure is intended to minimise the spread of the coronavirus. We appreciate your understanding.
+title: Alte Nationalgalerie (Berlin) - 2020 All You Need to Know ...
+snippet: See many of Berlin&#39;s most important landmarks and highlights, with informative commentary from ... All reviews german art national gallery museum island paintings and sculptures impressionist works art lovers museum pass van gogh great works beautiful building famous artists audio guide nice collection museum offers favorite museum great art ...
+
+REL: 3
+POI Name: Graffito
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, Art Galleries, 
+Snippets:
+title: 1UP - WHOLECAR - ROPE ESCAPE - BERLIN - YouTube
+snippet: 1UProduction presents: The new “ 1UP ONLINE SERIES 2017” There will be one new episode every month. Check our Instagram to stay tuned. - Actual Video: “Wholcar – Rope Escape ...
+title: BERLIN GRAFFITI: Das Graffiti-Magazin Nr. 1 aus Berlin
+snippet: Die Top-Adresse wenn es um Graffiti in Berlin geht. Videos, Foto-Updates, Trains, Walls, Taggs und Action vom Allerfeinsten - aus Berlin!
+title: Vor 20 Jahren: Graffiti-Sprayer in Berlin - YouTube
+snippet: Über die Frage, was Kunst ist und was nicht, streiten die Gelehrten seit Jahrhunderten. Die Berliner Polizei hat, zumindest in einem Teilbereich, diese Frage gelöst. Graffitis, jene mit ...
+title: The Best Graffiti Districts in Berlin
+snippet: The Best Graffiti Districts in Berlin Add to Plan From the iconic tags of the graffiti impresarios in Kreuzberg to the ever-evolving political splatters in Friedrichshain, Berlin’s street-art scene has exploded in recent years, transforming grey into colour.
+title: BERLIN GRAFFITI (@berlingraffiti.de) • Instagram photos ...
+snippet: 10.6k Followers, 717 Following, 1,299 Posts - See Instagram photos and videos from BERLIN GRAFFITI (@berlingraffiti.de)
+title: MECK - U-bahn Graffiti Berlin - YouTube
+snippet: Meck, Ubahn and Sbahn Graffiti Action. Meck, Ubahn and Sbahn Graffiti Action. Skip navigation Sign in. Search. ... U-bahn Graffiti Berlin Beat Music Factory. ...
+title: Berlin Wall graffiti art - Wikipedia
+snippet: Berlin Wall graffiti art. Jump to navigation Jump to search. The ... The West Berlin side of the wall had artwork completely covering the wall, while the East Berlin side was kept blank because people were not permitted to get close enough to the eastside of the wall to paint anything.
+title: BERLIN GRAFFITI - YouTube
+snippet: BERLIN GRAFFITI dokumentiert das Geschehen der deutschen -- vorrangig natürlich der Berliner -- Graffitiszene damals und heute. BERLIN GRAFFITI is the digita...
+title: Berlin gatekunst og graffittur med workshop - Berlin ...
+snippet: Dykk inn i det virkelige Berlin med en introduksjon til den tyske hovedstadens graffiti og gatekunstkultur! Berlin har lenge blitt hyllet som et tilfluktssted for kreative og unike kunstnere, og denne 4,5 timers ekskursjonen vil introdusere deg for noe av det beste bykunsten Berlin har å by på.
+title: Berlin – Wikipedia
+snippet: Berlin er Tysklands forbundshovedstad, og en av landets delstater. Det er Tysklands største by, og den nest største byen i Den europeiske union etter offisielle grenser. Byen er et av de viktigste sentre for europeisk politikk, kultur og vitenskap.
+
+REL: 3
+POI Name: ngbk
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: start - nGbK
+snippet: nGbK neue Gesellschaft für bildende Kunst Berlin. neue Gesellschaft für bildende Kunst
+title: start en - nGbK
+snippet: nGbK neue Gesellschaft für bildende Kunst Berlin. Saturday, 28. March 2020 Saturday, 28 March 2020, 19:00 instant theory. Die M-Fotoserie des Merve Verlags
+title: nGbK Berlin - Home | Facebook
+snippet: nGbK Berlin, Berlin, Germany. 11K likes. neue Gesellschaft für bildende Kunst [new society for visual arts]
+title: Programm - nGbK
+snippet: nGbK neue Gesellschaft für bildende Kunst Berlin. neue Gesellschaft für bildende Kunst
+title: nGbK Berlin - Thank you Nate Berg for this article on the ...
+snippet: See more of nGbK Berlin on Facebook. Log In. or. Create New Account. See more of nGbK Berlin on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Neuer Berliner Kunstverein. Art Gallery. Akademie der Künste. Arts &amp; Entertainment. Künstlerhaus Bethanien. Art. Haus der Kulturen der Welt.
+title: nGbK (@ngbk_berlin) • Instagram photos and videos
+snippet: 3,483 Followers, 8 Following, 79 Posts - See Instagram photos and videos from nGbK (@ngbk_berlin)
+title: nGbK Archive – Berlin
+snippet: Berlin . Berlin’s specific situation – a divided city in the custody of and guarded by the occupying forces, a western island in East Germany surrounded by walls, heavily subsidised and highly political, stronghold of the student movement and the squatters’ scene – was repeatedly the subject of nGbK projects.
+title: nGbK Berlin - Home | Facebook
+snippet: nGbK Berlin - Oranienstrasse 25, 10999 Berlin, Germany - Rated 4.8 based on 19 Reviews &quot;Recomendado para amantes del arte con espíritu crítico! Un...
+title: ngbk - Kreuzberg - Berlin, Germany - Yelp
+snippet: ngbk in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: nGbK - New society for fine arts in Berlin | visitBerlin.de
+snippet: In addition to art exhibitions, nGbK also produces exhibition catalogues and theoretical writings. In search of the new society: The nGbK in Kreuzberg. When the Deutsche Gesellschaft für Bildende Kunst dissolves in 1969, some of its members start the Neue Gesellschaft für bildende Kunst or nGbK.
+
+REL: 3
+POI Name: Sammlung Boros
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Sammlung Boros - Sammlung Boros
+snippet: Die Sammlung Boros ist eine Privatsammlung zeitgenössischer Kunst. Sie umfasst Werkgruppen internationaler Künstler von 1990 bis heute. In einem umgebauten Bunker werden auf 3000 qm Ausschnitte der Sammlung in wechselnden Präsentationen der Öffentlichkeit gezeigt.
+title: Boros Collection - Sammlung Boros
+snippet: The Boros Collection is a private collection of contemporary art. It comprises groups of works by international artists dating from 1990 to the present. Different facets of the collection are on public display in a converted bunker, with 3000 sqm exhibition space.
+title: Ausstellung - Sammlung Boros
+snippet: Folgende Künstler sind in der aktuellen Ausstellung Sammlung Boros #3 zu sehen: Martin Boyce, Andreas Eriksson, Guan Xiao, He Xiangyu, Uwe Henneken, Yngve Holen, Sergej Jensen, Daniel Josefsohn, Friedrich Kunath, Michel Majerus, Fabian Marti, Kris Martin, Justin Matherly, Paulo Nazareth, Peter Piller, Katja Novitskova, Pamela Rosenkranz, Avery Singer, Johannes Wohnseifer.
+title: Bunker Berlin - Sammlung Boros
+snippet: Christian Boros purchases the bunker to convert it to house his collection. 2007. Completion of the renovations and first public showing of installations. 2008-2012. Boros Collection #1, first exhibition of works from the collection attracting 120,000 visitors in over 7,500 tours. 2012-2016
+title: Info - Sammlung Boros
+snippet: Der Bunker kann aus Sicherheitsgründen nur in kleinen Gruppen besucht werden. Es werden 1,5 stündige Führungen von Donnerstag bis Sonntag angeboten.
+title: Sammlung Boros | visitBerlin.de
+snippet: The converted bunker stands like a gloomy block on the corner of Reinhardtstrasse and Albrechtstrasse, not far from the Deutsches Theater in Berlin’s Mitte district. Inside, it hides an incredible treasure trove of contemporary art – sculpture, spatial installations, light and performance-based work of international standing.
+title: Sammlung Boros (Berlin) - 2020 All You Need to Know BEFORE ...
+snippet: We recommend booking Sammlung Boros tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 Sammlung Boros tours on Tripadvisor
+title: Sammlung Boros (Berlin, Tyskland) - Anmeldelser - Tripadvisor
+snippet: Sammlung Boros, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Sammlung Boros i Berlin, Tyskland på Tripadvisor.
+title: De 10 beste restaurantene i nærheten av Sammlung Boros
+snippet: Restauranter i nærheten av Sammlung Boros på TripAdvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Sammlung Boros, Berlin.
+title: Sammlung Boros – Berlin.de
+snippet: Seit 2008 werden im Bunker in Berlin Mitte wechselnde Werkgruppen aus der Privatsammlung Boros gezeigt. Die erste Präsentation der Sammlung von 2008 bis 2012 hatte 120.000 Besucher in 7.500 Führungen. Die zweite Ausstellung von Werken aus der Sammlung Boros präsentiert Arbeiten der frühen 90er Jahre in Verbindung mit aktuellen Neuerwerbungen.
+
+REL: 3
+POI Name: we are one
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Paul van Dyk ft. Johnny McDaid - We Are One - YouTube
+snippet: WE ARE ONE Festival returns on 6 July 2013 at the Zitadelle Spandau, Berlin: http://bit.ly/pvd-wao Paul van Dyk ft. Johnny McDaid - We Are One Official anthe...
+title: Ich bin ein Berliner - Wikipedia
+snippet: Coordinates. Ich bin ein Berliner&quot; (German pronunciation: [ˈʔɪç ˈbɪn ʔaɪn bɛɐ̯ˈliːnɐ], &quot;I am a Berliner&quot;) is a speech by United States President John F. Kennedy given on June 26, 1963, in West Berlin.It is widely regarded as the best-known speech of the Cold War and the most famous anti-communist speech. Kennedy aimed to underline the support of the United States for West Germany ..
+title: Paul van Dyk ft. Johnny McDaid - We Are One LIVE - YouTube
+snippet: Check out the video of Paul van Dyk and Johnny McDaid performing at the Berlin Wall Anniversary in Berlin, ... Paul Van Dyk ft. Johnny McDaid - We Are One (Giuseppe Ottaviani Edit) - Duration: ...
+title: We Are One Festival 2020 in Berlin - FindFestival.com
+snippet: Your guide to We Are One Festival 2020 in Berlin. Disclaimer: Event details may change at any time. Please review the official website or check with the event organizer when planning to attend the event.
+title: Dash Berlin - We Are (Part 1) [OUT NOW!] - YouTube
+snippet: Dash Berlin&#39;s brand new studio album &#39;We Are ... Dash Berlin - We Are (Part 1 ... fans have been hungering for the next expression of musical delight to spring forth from one of the world’s most ...
+title: WE ARE ONE Berlin 2010 Paul van Dyk - YouTube
+snippet: WE ARE ONE am 11.09.2010 in der O2 World Berlin
+title: WE ARE ONE Festival Berlin - Concert Tour | Facebook - 656 ...
+snippet: WE ARE ONE Festival Berlin. 5,835 likes · 4 talking about this. WE ARE ONE - Berlin Dance Festival established 2010
+title: Berlin&#39;s official travel website - visitBerlin.de
+snippet: And best of all – we give you one night free in our Berlin hotels. A special deal you wouldn’t want to miss! Bahnhit Berlin gives you a fantastic rail deal for Berlin – with your train ticket and hotel included. Our travel advisors are happy to assist you and answer all your questions.
+title: We Are One - Vexento [Vlog No Copyright Music] - YouTube
+snippet: Title: We Are One by Vexento ... We have created a new channel where we do an agreement with the artist and our record label to make sure all the music is free and 100% safe. ...
+title: City break in Berlin | visitBerlin.de
+snippet: Your city break in Berlin: Book simply and securely on Berlin’s official tourism platform. Great travel deals for your visit to Berlin! Stroll down impressive boulevards once created by order of the Prussian kings and admire gems of neo-classical architecture by Karl Friedrich Schinkel, Prussia’s leading nineteenth-century architect.
+
+REL: 3
+POI Name: Graffito
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, Art Galleries, 
+Snippets:
+title: Berlin – Wikipedia
+snippet: Berlin er Tysklands forbundshovedstad, og en av landets delstater. Det er Tysklands største by, og den nest største byen i Den europeiske union etter offisielle grenser. Byen er et av de viktigste sentre for europeisk politikk, kultur og vitenskap.
+title: BERLIN GRAFFITI: Das Graffiti-Magazin Nr. 1 aus Berlin
+snippet: Die Top-Adresse wenn es um Graffiti in Berlin geht. Videos, Foto-Updates, Trains, Walls, Taggs und Action vom Allerfeinsten - aus Berlin!
+title: The Best Graffiti Districts in Berlin
+snippet: The Best Graffiti Districts in Berlin Add to Plan From the iconic tags of the graffiti impresarios in Kreuzberg to the ever-evolving political splatters in Friedrichshain, Berlin’s street-art scene has exploded in recent years, transforming grey into colour.
+title: KLM Reiseguide - Berlin, et kunstgalleri i full størrelse
+snippet: Graffiti eller gatekunst: Berlin har det i rikt monn. Gateartistene bruker byen som lerret, og gir Berlin det avantgardistiske preget byen er kjent for. Restene av Berlinmuren er et spesielt populært sted å vise frem alle former for kreativt talent. Enten du er i (tidligere) Øst- eller Vest-Berlin, er hvert eneste strøk fullt av gatekunst.
+title: Graffiti Bar &amp; Cafe, Berlin - Restaurantanmeldelser ...
+snippet: Graffiti Bar &amp; Cafe, Berlin: Se 210 objektive anmeldelser av Graffiti Bar &amp; Cafe, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 485 av 7 881 restauranter i Berlin.
+title: Berlin gatekunst og graffittur med workshop - Berlin ...
+snippet: Dykk inn i det virkelige Berlin med en introduksjon til den tyske hovedstadens graffiti og gatekunstkultur! Berlin har lenge blitt hyllet som et tilfluktssted for kreative og unike kunstnere, og denne 4,5 timers ekskursjonen vil introdusere deg for noe av det beste bykunsten Berlin har å by på.
+title: graffiti Berlin - YouTube
+snippet: Skip navigation
+title: BERLIN GRAFFITI - YouTube
+snippet: BERLIN GRAFFITI dokumentiert das Geschehen der deutschen -- vorrangig natürlich der Berliner -- Graffitiszene damals und heute. BERLIN GRAFFITI is the digita...
+title: BERLIN GRAFFITI (@berlingraffiti.de) • Instagram photos ...
+snippet: 10.6k Followers, 717 Following, 1,299 Posts - See Instagram photos and videos from BERLIN GRAFFITI (@berlingraffiti.de)
+title: 1UP - WHOLECAR - ROPE ESCAPE - BERLIN - YouTube
+snippet: 1UProduction presents: The new “ 1UP ONLINE SERIES 2017” There will be one new episode every month. Check our Instagram to stay tuned. - Actual Video: “Wholcar – Rope Escape ...
+
+REL: 3
+POI Name: Art U.V.Z.
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: DE 10 BESTE ting å gjøre i Berlin - Tripadvisor
+snippet: Shore Excursion: Berlin Sightseeing med rundtur port-transfer; Privat tur til Sachsenhausen Concentration Camp Memorial (med lisensiert guide) Se alle dagsturene fra Berlin på Tripadvisor. Hva er de mest populære tingene å gjøre i Berlin med barn?
+title: Art U.V.Z. - Art gallery in Berlin - Singulart
+snippet: Art galleries Berlin Find the best art galleries in Berlin on Singulart the #1 source for buying art online from recognized artists! Art knows no bounds - safe &amp; FREE shipment to your doorstep. Art knows no bounds - Singulart ensures safe and FREE shipments to your doorstep.
+title: Art U.V.Z. - 11 Photos - Art Galleries - Wartburgstr.7 ...
+snippet: Specialties: Galerie und Kunstatelier vom Feinsten. Sie erleben hier ein Gesamtkunstwerk mit wunderbaren Unikaten und einer atmosphärisch dazu passenden Einrichtung in einer edlen und hellen Altbauwohnung. Bitte stets um Anruf für einen…
+title: The Art of York Berlin
+snippet: 25.02.2020 In den letzten Wochen hatte ich wenig Zeit um neue Projekte anzugehen. Jedoch ist Bild Nummer 3 in diesem Jahr fertig und steht zum Verkauf. Snoop Dog (siehe rechts) &gt;&gt;&gt; 12.01.2020 Auf der About Seite findet ihr jetzt Links zu meinen Social Media Kanälen.. 09.01.2020 Das zweite Bild in den goldenen Zwanzigern ist fertig gestellt und es ist wieder Mister David Bowie geworden.
+title: art&#39;otel berlin mitte Hotel Review, Berlin | Travel
+snippet: Read the art&#39;otel berlin mitte, Berlin hotel review on Telegraph Travel. See great photos, full ratings, facilities, expert advice and book the best hotel deals.
+title: Art U.V.Z. in Berlin - Öffnungszeiten
+snippet: Art U.V.Z. Wartburgstr.7 in Berlin, ☎ Telefon 0177 3333775 mit ⌚ Öffnungszeiten und Anfahrtsplan
+title: Berlin – Wikipedia
+snippet: Berlin er Tysklands forbundshovedstad, og en av landets delstater. Det er Tysklands største by, og den nest største byen i Den europeiske union etter offisielle grenser. Byen er et av de viktigste sentre for europeisk politikk, kultur og vitenskap.
+title: Art museums | visitBerlin.de
+snippet: The old masters, important Modernist works and contemporary art: In Berlin&#39;s art museums you can wander through all eras of art history. Pay a visit to Nefertiti in the Neues Museum (New Museum) and The Man with the Golden Helmet at the Gemäldegalerie (Picture Gallery).
+title: THE 10 BEST Berlin Art Museums (with Photos) - Tripadvisor
+snippet: “ One of my favourite galleries in Berlin - always interesting exhibitions plus an excellent upper floor display of the history of Berlin art. “ Combination of very modern art topical exhibitions, and an all-encompassing review of German artists of the last 200 years which whets your appetite to find out more about many of the lesser known individuals.
+title: List of museums and galleries in Berlin - Wikipedia
+snippet: List of museums and galleries in Berlin. Jump to navigation Jump to search. This is a list of museums and non-commercial galleries in ... Berlin&#39;s visual art from 1945 on, including painting, graphics, sculpture, multimedia, photography, architecture and artists’ archives
+
+REL: 3
+POI Name: KW Institute for Contemporary Art
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: KW Institute for Contemporary Art
+snippet: Due to circumstances revolving around the COVID-19 virus, KW Institute for Contemporary Art is closed to visitors until 19 April 2020. No exhibitions and events will take place during this period, but we are letting various voices speak through our online platforms Facebook, Instagram, and our website which will give you a lively insight into our exhibitions and other projects.
+title: About – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art was founded by Klaus Biesenbach and a group of young art enthusiasts in a practically derelict former margarine factory in Berlin-Mitte in the early 1990s. Since then, KW has delivered a significant contribution to the development of Berlin as an international center for contemporary art. More
+title: Contact – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art KUNST-WERKE BERLIN e. V. Auguststraße 69 10117 Berlin Tel. +49 30 243459-0 Fax +49 30 243459-99 info@kw-berlin.de kw-berlin.de
+title: Kunst-Werke Institute for Contemporary Art - Wikipedia
+snippet: The KW Institute for Contemporary Art (Kunst-Werke) is a contemporary art institution located at Auguststrasse 69 in the Mitte district of Berlin.The director is Gabriele Horn.Since July 1, 2016, the director has been Krist Gruijthuijsen. Unlike many international contemporary art institutions, KW does not have a permanent collection but understands itself &quot;as a place for the production and .
+title: Exhibitions – KW Institute for Contemporary Art
+snippet: KW Institute for Contemporary Art KUNST-WERKE BERLIN e. V. Auguststraße 69 10117 Berlin Tel. +49 30 243459-0 info@kw-berlin.de
+title: Visit – KW Institute for Contemporary Art
+snippet: The annual ticket KW Lover* grants you for the full length of a year free admission to all exhibitions at KW Institute for Contemporary Art during the regular opening hours, as well as the exclusive access to Pogo Bar events.. As holder of the annual ticket you will be regularly informed about the program and all events of KW. You can furthermore purchase tickets for all events to a reduced price.
+title: KW Institute for Contemporary Art – Berlin.de
+snippet: Längst hallt der glänzende Ruf des KW Institute of Contemporary Art, getragen vom Kunst-Werke Berlin e. V., sogar bis nach New York. Der umtriebige Gründervater Biesenbach ist daran nicht ganz unschuldig. Seit der endgültigen Instandsetzung 1999 holt das KW Institute die großen Namen des Kunstbetriebs nach Berlin.
+title: KW Institute for Contemporary Art - visitBerlin.de
+snippet: Through its involvement with the Berlin Biennale, Biesenbach brings worldwide recognition to the institute. In order to be as flexible and open as possible, the KW Institute for Contemporary Art consciously rejects the concept of a permanent collection.
+title: KW Institute for Contemporary Art - Home | Facebook
+snippet: KW Institute for Contemporary Art, Berlin, Germany. 47,100 likes · 909 talking about this. KW Institute for Contemporary Art aims to approach the central...
+title: KW Institute for Contemporary Art | Art in Berlin
+snippet: Always a lightning rod for the local art scene, the new, open approach sees KW engaging with other galleries and organized projects around town, from the recent ‘Berlin Art Week’ initiative ...
+
+REL: 3
+POI Name: Berlinische Galerie
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Berlinische Galerie - Museum für moderne und ...
+snippet: Um eine schnelle Ausbreitung des Corona-Virus in Berlin zu verhindern, folgt die Berlinische Galerie der Empfehlung der Senatsverwaltung für Kultur und Europa, das Museum ab dem 14. März bis vorerst 19. April vorsorglich zu schließen. Alle Veranstaltungen in diesem Zeitraum finden nicht statt. Wir bitten um Ihr Verständnis.
+title: The Museum - Berlinische Galerie
+snippet: The Berlinische Galerie is a museum for everyone in the city, residents and guests alike. It was founded in 1975 as an association for art lovers with a strong sense of civic commitment, and in 1994 the State of Berlin took it on as a public museum.
+title: Beate Gütschow - Ausstellungen in Berlin - Berlinische Galerie
+snippet: Berlinische Galerie Alte Jakobstraße 124 – 128 10969 Berlin. bg@berlinischegalerie.de Tel +49 (0)30-789 02-600. Bis vorerst 19. April 2020 ist die Berlinische Galerie geschlossen.
+title: Berlinische Galerie (Berlin, Tyskland) - Anmeldelser
+snippet: Berlinische Galerie, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Berlinische Galerie i Berlin, Tyskland på Tripadvisor.
+title: Photography - Berlinische Galerie
+snippet: With some 83,000 photographs, the Berlinische Galerie boasts one of Germany’s leading photography collections. Portraits, architectural views and urban photography are the principal themes, but commercial and fashion photography, photojournalism, photomontage, photograms and conceptual photography are all part of the picture.
+title: Berlinische Galerie Berlin – Booking.com
+snippet: The Berlinische Galerie is one of the newest museums in the city. Inside the old glass warehouse is a wide-ranging collection of modern art with some pieces dating back to 1870. The permanent collection focuses on the Dada, New Objectivity and Eastern European Avant-Garde movements. Max Liebermann ...
+title: Berlinische Galerie - Home | Facebook
+snippet: Berlinische Galerie, Berlin. 32,554 likes · 238 talking about this. Die Berlinische Galerie sammelt in Berlin entstandene Kunst von 1870 bis heute – mit lokalem Fokus und internationalem Anspruch...
+title: Berlinische Galerie (Berlin) - 2020 All You Need to Know ...
+snippet: Berlin Bed and Breakfast; Berlin Vacation Rentals; Berlin Vacation Packages; Flights to Berlin; Berlin Restaurants; Things to Do in Berlin; Berlin Shopping; Berlin Travel Forum; Berlin Photos; Berlin Map; Berlin Travel Guide; All Berlin Hotels; Berlin Hotel Deals; Last Minute Hotels in Berlin; By Hotel Type. Berlin Motels; Berlin Hostels ...
+title: Blandet - Anmeldelse for Berlinische Galerie, Berlin ...
+snippet: Berlinische Galerie: Blandet - Se 286 reiseanmeldelser, 364 objektive bilder og gode tilbud på Berlin, Tyskland på Tripadvisor.
+
+REL: 3
+POI Name: hatch Sticker Museum
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Street Art, 
+Snippets:
+title: hatchkingdom.com - Stickermuseum, Mailorder &amp; Shop
+snippet: DER WEG ZUM STICKERMUSEUM. Die Schreinerstr. 10 liegt inmitten des nördlichen Teils vom vielseitigen Bezirk Friedrichshain. Nicht weit vom Boxhagener Platz gelegen, bietet der Kiez einiges an Sehenswürdigkeiten für Street Art Liebhaber und Interessierte.
+title: Hatch Stickermuseum – Street Art Berlin
+snippet: The Hatch Stickermuseum is place you should not miss when you visit Berlin and love street art. Hatch is the first sticker museum in the world. At no other place you can find so many information and pieces about sticker culture and stickerart since 1890s. Yes, it is no spelling mistake: 1890s. About 130 years ago the „sticker culture“ started.
+title: Hatch Sticker Museum – Berlin, Germany - Atlas Obscura
+snippet: Discover Hatch Sticker Museum in Berlin, Germany: This little museum is making sure that the art and history of the graffiti sticker is not scraped from history.
+title: Hatch Sticker Museum in Berlin: 1 reviews and 11 photos
+snippet: Hatch - The Source For Stickers Worldwide is a museum dedicated to the art of the sticker, located near the Cassiopeia Club and Skatehalle Berlin. It&#39;s a small space, free entry, and see different types of stickers, usually seen on the streets, related to the world of street art and skateboarding. In addition to an exhibition of decals see some urban art books.
+title: hatch Sticker Museum - Friedrichshain - Berlin, Germany
+snippet: Specialties: The Sticker Museum in Berlin presents about 5000 sticker, mainly street art, skateboard and streetwear artworks. hatch Sticker Museum - See 12 Photos - Museums - Schreinerstr. 10, Friedrichshain, Berlin, Germany - Phone Number - Yelp
+title: Hatch Sticker Museum – Urban Nation
+snippet: As the name suggests, the Hatch Sticker Museum is the world’s first and only institution for stamps, tags and sticky prints of all kind. From skateboard culture to promotional tools and street art, Hatch Sticker Museum collects said pieces of art and makes sure that the history of the graffiti sticker is not scraped from history.
+title: Museum - Museum - Hatch - Sticker Mailorder
+snippet: Museum: Stolz präsentieren wir euch - mit voller Zuneigung für das Medium Sticker - die Verwirklichung eines Traumes sowie auch längst überfällige Institution. Das ...
+title: Hatch Kingdom - World&#39;s 1st Sticker Museum &amp; Online ...
+snippet: Hatch Kingdom - World&#39;s 1st Sticker Museum &amp; Online Sticker Shop, Berlin. 2.9K likes. Hatchkingdom is the world&#39;s 1st Museum for Sticker Art and Culture and the biggest Sticker Shop on Earth. Based...
+title: Hatch Sticker Museum – Urban Nation
+snippet: Das Hatch Sticker Museum arbeitete 2017 für Project M/11 mit URBAN NATION zusammen. 2008 als Ableger der weltweit bekannten Stickermarke Hatch eröffnet, ist das Museum heute in einem kleinen Apartment in Berlin Friedrichshain untergebracht.
+title: Hatch Sticker Museuk / Hatch Stickermuseum (Now Closed ...
+snippet: See 2 photos and 1 tip from 16 visitors to Hatch Sticker Museuk / Hatch Stickermuseum. ... Art Museum in Berlin, Berlin. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+
+REL: 3
+POI Name: Museum Island
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum Island - Willkommen in Berlin | visitBerlin.de
+snippet: The Museum Island’s Five Museums Pergamonmuseum. Designed by architect Alfred Messel, the Pergamon Museum attracts around one million visitors every year, making it Berlin’s most popular museum. Under the Master Plan Museum Island, the refurbishment of the Pergamon Museum is ongoing until 2033.
+title: Museum Island - Wikipedia
+snippet: Museum Island is referenced in the song &quot;On the Museum Island&quot; by folk artist Emmy the Great. The southern section of the island, south of Gertraudenstraße, is commonly referred to as Fischerinsel (Fisher Island) and is the site of a high-rise apartment development built when Mitte was part of East Berlin. Photogallery
+title: Museum Island (Berlin) - 2020 All You Need to Know BEFORE ...
+snippet: We recommend booking Museum Island tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 106 Museum Island tours on Tripadvisor
+title: Museum Island – Berlin.de
+snippet: Berlin&#39;s Museumsinsel (Museum Island) is a unique ensemble of five museums, including the Pergamon Museum - built on a small island in Berlin&#39;s Spree River between 1824 and 1930. A cultural and architectural monument of great significance, it was awarded UNESCO World Heritage Status in 1999.
+title: Museum Island Berlin — Google Arts &amp; Culture
+snippet: Museum Island Berlin Close to Heaven - Domed Halls on Museum Island Berlin Magnificient domes. Pergamonmuseum Pergamon altar – of giants and gods Discover one of the most gigantic masterpieces of world architecture in virtual reality. Five iconic museums. Partner Altes Museum Germany. Partner Neues Museum Germany. Partner
+title: Museums in Berlin | visitBerlin.de
+snippet: In our overview of Berlin’s many museums, it’s easy to find the ones that appeal to you! Here, you can find information and tickets for Berlin’s top museums, from Museum Island with its fascinating archaeological and art collections to the Jewish Museum or the GDR Museum – as well as the unusual and quirky, and the best museums for ...
+title: Prices &amp; tickets - Staatliche Museen zu Berlin
+snippet: Museum Island all exhibitions 18,00 EUR, Concessions 9,00 Buy ticket Friedrichswerdersche Kirche Beginning in the second quarter of 2020, the Staatliche Museen zu Berlin will use the church building once again as an exhibition space for the Alte Nationalgalerie .
+title: Navigation zu Seiten der ... - Museumsinsel Berlin
+snippet: This website gives information on the future character of the Museum Island. It explains the guiding principles of the Master Plan Museum Island, which was agreed upon in 1999 by the Stiftung Preussischer Kulturbesitz (Prussian Cultural Heritage Foundation) and its Staatliche Museen zu Berlin (National Museums in Berlin).
+title: Museumsinsel – Wikipedia
+snippet: Museumsinsel («museumsøya») er Berlins eldste og mest kjente museumskompleks, og ligger på Spreeinsel i sentrum av byen. Der er Pergamonmuseet, Altes Museum, Neues Museum, Alte Nationalgalerie og Bodemuseum.I tilknytning til museene ligger dessuten Berliner Dom og Lustgarten.Museumsinsel er verdens største museumskompleks og finnes på UNESCOs liste over verdens kulturarv.
+title: Museums in Berlin – Berlin.de
+snippet: Museums in Berlin Pergamon Museum, Museum Island, Jewish Museum and many more: Berlin&#39;s top museums with adresses, information about current exhibitions, entrance fees, opening hours and public transportion.
+
+REL: 3
+POI Name: Pergamon Museum
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Pergamonmuseum: Home - Staatliche Museen zu Berlin
+snippet: Information on the Coronavirus (SARS-CoV-2): As of Saturday, 14 March 2020 all buildings of the Staatliche Museen zu Berlin will be closed to the public until further notice. This measure is intended to minimise the spread of the coronavirus. We appreciate your understanding.
+title: Pergamonmuseum – Berlin.de
+snippet: Pergamonmuseum. One of the most popular attractions in Berlin, the Pergamon Museum is world famous for its archaeological holdings. The Pergamon, located on Museum Island, is really three museums in one – the Collection of Classical Antiquities (also on display in the Old Museum), the Museum of the Ancient Near East, and the Museum of Islamic Art.
+title: Staatliche Museen zu Berlin: Museen ... - Pergamon Museum
+snippet: Information zum Coronavirus (SARS-CoV-2): Seit Samstag, 14. März 2020, sind alle Häuser der Staatlichen Museen zu Berlin bis auf Weiteres geschlossen. Diese Maßnahme soll helfen, die Verbreitung des Coronavirus so gering wie möglich zu halten.
+title: Pergamon Museum - Wikipedia
+snippet: The Pergamon Museum (German: Pergamonmuseum) is situated on the Museum Island in Berlin.The building was designed by Alfred Messel and Ludwig Hoffmann and was constructed over a period of twenty years, from 1910 to 1930. The Pergamon Museum houses monumental buildings such as the Pergamon Altar, the Ishtar Gate of Babylon, the Market Gate of Miletus reconstructed from the ruins found in ...
+title: Pergamon Museum | visitBerlin.de
+snippet: The museum today consists of three wings housing the Antiquity Collection, the Islamic Art Museum, and the Middle East Museum. During the Second World War, the museum suffers some damage, but the artefacts are protected, and the museum survives to be one of the most visited attractions in Berlin.
+title: Pergamon Museum (Berlin, Tyskland) - Anmeldelser
+snippet: Pergamon Museum, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Pergamon Museum i Berlin, Tyskland på Tripadvisor.
+title: Pergamonmuseum (Berlin) - 2020 All You Need to Know BEFORE ...
+snippet: Berlin Welcome Card Museum Island (From $57.78) Skip-the-line Neues Museum &amp; Pergamon Museum Guided Tour - Private Tour (From $174.13) Discover Berlin Half-Day Walking Tour (From $17.15) Skip-the-line Neues &amp; Pergamon Museum + Berlin City Guided Tour - Private Tour (From $311.03) See all Pergamonmuseum experiences on Tripadvisor
+title: Pergamonmuseet – Wikipedia
+snippet: Under luftangrepene på Berlin ble Pergamonmuseet sterkt skadet, og mange utstillingsobjekter ble flyttet til sikrere steder. I 1945 ble museet plyndret av sovjetiske styrker og mange objekter sendt til et stort Stalin-museum i Sovjet. I 1958 ble imidlertid det meste gitt tilbake til det daværende DDR.
+title: Pergamonmuseum – Wikipedia
+snippet: Nikolaus Bernau: Das Pergamonmuseum und seine vier Museen als Lehrinstrumente einer anderen Moderne, In Pergamon. Panorama der antiken Metropole, Begleitbuch zur Ausstellung Berlin 2011, Imhof, 2011, S. 388–392. Can Bilsel: Antiquity on display. Regimes of the authentic in Berlin’s Pergamon Museum.
+title: Pergamonmuseum – Berlin.de
+snippet: Der Eingang ins Pergamonmuseum führt nicht mehr über die bisherige Besucheradresse &quot;Eingang Am Kupfergraben&quot;, sondern über den Kolonnadenhof, zwischen Alter Nationalgalerie und Neuem Museum, auf der Museumsinsel in der Bodestraße in 10178 Berlin.
+
+REL: 3
+POI Name: Museum Berggruen
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Museum Berggruen – Berlin.de
+snippet: Der Skulpturenraum im Museum Berggruen in Berlin nach Umbau und Erweiterung im März 2013. Mit dem Ziel, die Verbreitung des Coronavirus zu hemmen, finden in den Berliner Theatern, Opern, Konzerthäusern, Clubs, Museen, Kinos und weiteren Veranstaltungs­orten zunächst bis zum 19. April 2020 keine ...
+title: Museum Berggruen: Sammlung - Staatliche Museen zu Berlin
+snippet: Seit 1996 zeigt die Nationalgalerie die Sammlung Berggruen, heute Museum Berggruen, im westlichen Stülerbau gegenüber dem Charlottenburger Schloss. Mit seinen beeindruckenden Werken von Pablo Picasso, Henri Matisse, Paul Klee und Alberto Giacometti gehört das Museum zu den wichtigsten Ausstellungsorten der klassischen Moderne in Berlin.
+title: Museum Berggruen (Berlin) - 2020 All You Need to Know ...
+snippet: We recommend booking Museum Berggruen tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 1 Museum Berggruen tours on Tripadvisor
+title: Museum – Museum Berggruen – Museumsportal Berlin
+snippet: Das Museum Berggruen präsentiert im westlichen Stülerbau gegenüber dem Schloss Charlottenburg herausragende Werke der Klassischen Moderne. Unter dem Titel &quot;Picasso und seine Zeit&quot; werden auf drei Etagen Gemälde, Skulpturen und Arbeiten auf Papier gezeigt. Im Zentrum der Sammlung steht mit über 100 Exponaten das Werk Picassos.
+title: Berggruen Museum - Wikipedia
+snippet: The Berggruen Museum (also known as the Berggruen Collection) is a collection of modern art classics in Berlin, which the collector and dealer Heinz Berggruen, in a &quot;gesture of reconciliation&quot;, gave to his native city.The most notable artists on display include Pablo Picasso, Giambattista Pittoni, Alberto Giacometti, Georges Braque, Paul Klee and Henri Matisse.
+title: Museum Berggruen: Home
+snippet: Das Museum Berggruen ergänzt mit seinen einzigartigen Werken von Pablo Picasso, Paul Klee, und Alberto Giacometti die Sammlungen der Neuen Nationalgalerie. Museum Berggruen: Home Staatliche Museen zu Berlin
+title: Museum Berggruen (Berlin, Niemcy) - opinie - Tripadvisor
+snippet: Museum Berggruen, Berlin: zobacz recenzje, artykuły i zdjęcia dotyczące Museum Berggruen w serwisie Tripadvisor w Berlinie, Niemcy
+title: Home - Staatliche Museen zu Berlin
+snippet: Information zum Coronavirus (SARS-CoV-2): Seit Samstag, 14. März 2020, sind alle Häuser der Staatlichen Museen zu Berlin bis auf Weiteres geschlossen. Diese Maßnahme soll helfen, die Verbreitung des Coronavirus so gering wie möglich zu halten.
+title: Museum Berggruen: Home - Staatliche Museen zu Berlin
+snippet: Information on the Coronavirus (SARS-CoV-2): As of Saturday, 14 March 2020 all buildings of the Staatliche Museen zu Berlin will be closed to the public until further notice. This measure is intended to minimise the spread of the coronavirus. We appreciate your understanding.
+title: Berggruen Museum (Berlin, Tyskland) - Anmeldelser
+snippet: Berggruen Museum, Berlin: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Berggruen Museum i Berlin, Tyskland på Tripadvisor.
+
+REL: 3
+POI Name: me Collectors Room
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, Museums, 
+Snippets:
+title: me Collectors Room Berlin me Collectors Room Berlin | me ...
+snippet: Die offizielle Homepage des me Collectors Room Berlin / Stiftung Olbricht. Ausstellungshaus für internationale, private Kunstsammlungen in Berlin mit permanent installierter Wunderkammer Olbricht.
+title: me Collectors Room Berlin [lang_de]Ausstellungen[/lang_de ...
+snippet: Gern informieren wir Sie regelmäßig über die Aktivitäten des me Collectors Room Berlin. Abonnieren Sie hierfür unseren kostenlosen Newsletter. weiterlesen Führungen. Unsere Kunstvermittler von art:berlin geben Ihnen in unterschiedlichen Führungen einen Einblick in die Olbricht Collection und die Wunderkammer.
+title: me Collectors Room Berlin [lang_de]Besuch[/lang_de][lang ...
+snippet: Der me Collectors Room ist ein privates Museum für Kunstsammlungen in Berlin-Mitte. Wir machen es Besuchern leicht, den Weg zur Kunst zu finden. Man betritt den Ausstellungsbereich durch unser me Café in einem hohen, lichtdurchfluteten Atrium.
+title: me Collectors Room Berlin [lang_de]Shop[/lang_de][lang_en ...
+snippet: Der me Collectors Room Berlin bietet Editionen – teils Unikate – an. Die Editionen sind limitiert, signiert, nummeriert und nur im me Collectors Room erhältlich. Öffnungszeiten. Der Shop ist zu den Öffnungszeiten der Ausstellung, Mi – Mo von 12 – 18 Uhr geöffnet. Selbstverständlich bieten wir auch Geschenkgutscheine an.
+title: me Collectors Room Berlin | visitBerlin.de
+snippet: This is the main difference between the Me Collectors Room and other private collections open to the public. me Collectors Room Berlin / Olbricht Foundation has teamed up with freshmuseum to develop the ‘me Berlin’ app that gives visitors a free augmented-reality tour of the exhibitions.
+title: me Collectors Room Berlin – Berlin.de
+snippet: me Collectors Room Berlin - unter diesem Namen eröffnete 2010 die Olbricht Collection ihr erstes festes Domizil in Berlin. In der Auguststraße gelegen, ergänzt sie das Spektrum der Kunstaktivitäten in Berlin um eine weitere attraktive Destination: Das Haus stellt flächenmäßig eine der größten Privatinitiativen dieser Art in Berlin dar.
+title: me Collectors Room - Mitte - Berlin, Germany - Yelp
+snippet: 11 reviews of me Collectors Room &quot;If you are a fan of contemporary art, this is a must visit. Berlin is already well-known for its many galleries, cultural spaces and installations and the Collectors Room does not disappoint. This is one of the…
+title: Me Collectors Rooms (Berlin) - 2020 All You Need to Know ...
+snippet: We recommend booking Me Collectors Rooms tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Me Collectors Rooms tours on Tripadvisor
+title: me Collectors Room Berlin - Wikipedia
+snippet: me Collectors Room Berlin / Stiftung Olbricht (Olbricht Foundation) is an exhibition space in Berlin, Germany, situated on Auguststrasse 68. Founded by art collector, endocrinologist and heir to Germany&#39;s Wella hair-care estate Thomas Olbricht, the space opened its doors on 1 May 2010.
+title: me Collectors Room Berlin (@mecollectorsroom) • Instagram ...
+snippet: 8,227 Followers, 872 Following, 777 Posts - See Instagram photos and videos from me Collectors Room Berlin (@mecollectorsroom)
+
+REL: 3
+POI Name: Strassenkunst Donaustrasse Zweihörner
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Strassenkunst Donaustrasse Zweihörner - Neukölln - Berlin ...
+snippet: Strassenkunst Donaustrasse Zweihörner in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Street Art in Berlin - Yelp
+snippet: Find the best Street Art on Yelp: search reviews of 94 Berlin businesses by price, type, or location. Yelp. Cancel. For Businesses. Log In Sign Up. ... “ If you&#39;re new to Berlin, ... Strassenkunst Donaustrasse Zweihörner. 1 review. Neukölln. Donaustr, Berlin, BE. All Reviews. 37.
+title: Strassenkunst Reuterstrasse: Wikinger – Berlin ...
+snippet: 1 bewertung, Kontaktinformationen und Geschäftszeiten von Strassenkunst Reuterstrasse: Wikinger in Reuterstrasse, Berlin. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Rixdorfer-Schule, Sporthalle Ost – Berlin, Donaustrasse ...
+snippet: Öffnungszeiten, Kontaktinformationen und 1 bewertung für Rixdorfer-Schule, Sporthalle Ost in Donaustrasse 120 120 Berlin-Neukölln, Berlin. Sehen Sie Orte in der Nähe auf der Karte an. Hinterlassen Sie eine Bewertung.
+title: The Top 20 Street Art – Berlin (Germany)
+snippet: Find 112 listings related to Street Art in Berlin, Germany on Unilocal. Read about places like Strassenkunst Saltykowstrasse:…, Korkmännchen, Tiergemälde. Log in. English (United Kingdom) The Top 20 Street Art. Berlin, Germany. Show map. Berlin Neighborhoods. Britz. Charlottenburg.
+
+REL: 3
+POI Name: graffito auguststraße 70
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: graffito auguststraße 70 - Mitte - Berlin, Germany
+snippet: graffito auguststraße 70 in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Graffito auguststraße 70 – Berlin, Auguststr. 70 (1 ...
+snippet: Öffnungszeiten, Kontaktinformationen und 1 bewertung für graffito auguststraße 70 in Auguststr. 70, Berlin. Sehen Sie Orte in der Nähe auf der Karte an. Hinterlassen Sie eine Bewertung.
+title: 10th Berlin Biennale | Artists
+snippet: The 10th Berlin Biennale for Contemporary Art will take place from June 9 to September 9, 2018, at various venues in Berlin. It will be curated by Gabi Ngcobo, who invited Nomaduma Rosa Masilela (New York, US), Serubiri Moses (Kampala, UG), Thiago de Paula Souza (São Paulo, BR), and Yvette Mutumba (Berlin, DE) to collaborate with her as the curatorial team.
+title: Datei:Berlin, Mitte, Auguststrasse 70, Mietshaus.jpg ...
+snippet: Deutsch: Mietshaus Auguststraße 70 in Berlin-Mitte. Das Haus wurde 1879 erbaut. Es ist Bestandteil des denkmalgeschützten Bauensembles Spandauer Vorstadt. English: Residential building Auguststraße No. 70 in Berlin-Mitte. The house was built in 1879.
+title: Grund und Boden Auguststraße 70 OHG, Berlin - Credit Report
+snippet: Grund und Boden Auguststraße 70 OHG has its registered office in Berlin, Germany. Its current status is listed as active. The company is registered at the Trade register at the local court of Charlottenburg (Berlin) with the legal form of Sole proprietor (number HRA 52892 B).
+title: Auguststraße - Mitte - 3 tips from 72 visitors
+snippet: See 16 photos and 3 tips from 72 visitors to Auguststraße. &quot;one long modern art gallery. Make sure to stop by THE BARN for best coffee in town&quot;
+title: Pauly Saal – Homepage
+snippet: Auguststraße 11–13 10117 Berlin +49 30 3300 6070 office@paulysaal.com . Öffnungszeiten . Dienstag bis Samstag ab 18:30 Uhr. Reservierung . Sie können Ihre Reservierung direkt online vornehmen. Falls keine Tische zum gewünschten Zeitpunkt verfügbar sind, rufen Sie uns gerne an.
+title: Graffiti - Wikipedia
+snippet: Graffiti (both singular and plural; the singular graffito is very rare in English except in archeology) is writing or drawings made on a wall or other surface, usually as a form of artistic expression, without permission and within public view. Graffiti ranges from simple written words to elaborate wall paintings, and has existed since ancient times, with examples dating back to ancient Egypt ...
+title: BVB Fankneipe Berlin -Mitte - Home | Facebook
+snippet: BVB Fankneipe Berlin -Mitte - Auguststraße 92, 10117 Berlin, Germany - Rated 4.9 based on 247 Reviews &quot;Super good pub and very friendly worker there and...
+title: Street Art in Berlin - Yelp
+snippet: Find the best Street Art on Yelp: search reviews of 94 Berlin businesses by price, type, or location.
+
+REL: 3
+POI Name: Straßenkunst Lollipop
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Straßenkunst Lollipop - Neukölln - Berlin, Germany
+snippet: Straßenkunst Lollipop in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Straßenkunst in Berlin - Orte, Street Art Tour
+snippet: Street Art in Berlin. Straßenmaler, Streetart-Künstler, Performer, Tänzer, Akrobaten, Musiker - die Bandbreite an Künstlern und ihren Werken ist groß und wer in Berlin die Augen und Ohren aufsperrt, wird die Straße auf Schritt und Tritt als Galerie und Bühne erleben.
+title: Berliner Strassenkunst - Home | Facebook
+snippet: Berliner Strassenkunst. 6.5K likes. Schickt uns Fotos aus Berlin als Privatnachricht, oder an berlinerstrassenkunst@yahoo.de
+title: Straßenkunst in Berlin - YouTube
+snippet: YouTube Premium Loading... Get YouTube without the ... Skip trial 1 month free. Find out why Close. Straßenkunst in Berlin kowalpet. Loading... Unsubscribe from kowalpet? Cancel Unsubscribe.
+title: Straßenkunst in Berlin: Urban-Art-Museum eröffnet im ...
+snippet: Straßenkunst in Berlin : Urban-Art-Museum eröffnet im September. Am 16. September bekommt Schöneberg ein neues Museum für zeitgenössische Straßenkunst – Direktorin Yasha Young erklärt das ...
+title: CSD Berlin 2018 | Gay Pride Berlin 2018 #3 - YouTube
+snippet: CSD Berlin 2018 | Gay Pride Berlin 2018 #1 - Duration: 5:41. Haiko - around the world 7,844 views. 5:41. Mate - gay themed shortfilm - Duration: 5:45. queerblick Recommended for you.
+title: Straßenkunst in Berlin: Plattform vermittelt Street ...
+snippet: Straßenkunst in Berlin : Plattform vermittelt Street Artists Aufträge. Die Plattform „Book a Street Artist“ will talentierte Straßenkünstler mit einem interessierten Publikum verbinden.
+title: Straßenkunst (Kurzlösung) • Projekt: Hauptstadtfälle ...
+snippet: - Ausübung von Straßenkunst ist Sondernutzung: Maß der Beeinträchtigung anderer muss in einem Verfahren gerade geprüft werden; Verfahren dient auch der Rechtssicherheit der Künstler; Art. 5 Abs. 3 GG gebietet nicht, die Ausübung von Straßenkunst schlechthin erlaubnisfrei zu stellen d) Bedeutung für die Falllösung und Ergebnis zu 1.
+title: Menu - logr.org
+snippet: Spandau-Mobi [Eisenach, Dortmund, Berlin, Wuppertal] Posted on 16. Oktober 2017 by strassenkunst. Video Dortmund:
+title: Straßenkunst (Sachverhalt) • Projekt: Hauptstadtfälle ...
+snippet: Levenbrück fragt sich nun, ob dem Land Berlin tatsächlich ein Schadensersatzanspruch gegenüber Mütlich zusteht und auf welche Weise ein solcher Anspruch angesichts der Weigerung Mütlichs, freiwillig zu zahlen, am einfachsten durchgesetzt werden könnte. Bitte beantworten Sie diese Fragen in einem Rechtsgutachten.
+
+REL: 3
+POI Name: Merry Karnowsky Gallery
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: KP Projects
+snippet: KP PROJECTS IS PROUD TO PRESENT. LOLA GIL :: INTIMATE FLOWERS BLOOM. SOLO EXHIBITION :: NEW OIL PAINTINGS :: UNVEILING APRIL 4th. For a private link to the viewing room : preview@kpprojects.net APRIL 4TH - MAY 2ND, 2020
+title: re-title.com Features: Merry Karnowsky Gallery, Berlin
+snippet: Merry Karnowsky Gallery Berlin is proud to present CANTO NEGRO Y BRUJERIAS, featuring the paintings of Barcelona-based artists Miss Van (France) and Victor Castillo (Chile). The two unfold their unique but harmonious iconographies in a pictorial exercise of intersecting ideas. These artists approach from their personal perspectives subjects like seduction, desire, enchantment, and the game of ...
+title: Merry Karnowsky Gallery - Mitte - Berlin, Germany
+snippet: Merry Karnowsky Gallery in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: KP Projects Artist List | Merry Karnowsky Gallery | KP ...
+snippet: A List of Contemporary Artists on display at KP Projects ( Merry Karnowsky Gallery) Originals and Limited Edition Prints from significant artists of the scene
+title: Merry Karnowsky Gallery after party @ White Trash ...
+snippet: White Trash Fast Food, Berlin Picture: Merry Karnowsky Gallery after party @ White Trash - Check out TripAdvisor members&#39; 55,815 candid photos and videos of White Trash Fast Food
+title: The Merry Karnowsky Gallery - Wikipedia
+snippet: The Merry Karnowsky Gallery was founded in Los Angeles in 1997 by Merry Karnowsky. It is located on South La Brea Avenue in the Mid-City West district of Central Los Angeles. The gallery exhibits contemporary art, and it is part of the underground &quot;lowbrow&quot; art movement, shwoing works of pop surrealism and from the street art scene.
+title: Merry Karnowsky Berlin - Obey Giant
+snippet: merry karnowsky gallery presents. a shepard fairey print retrospective 1997 – 2009 6 june – 11 july, 2009 opening reception: saturday, 6 june, 19 – 22 h. torstrasse 175 10115 berlin-mitte, germany phone +49 30 28 50 30 72 gregorymkgb (at) att.com mkgallery (at) mindspring.com
+title: Buy, Sell, and Research Contemporary Art Online: artnet
+snippet: Artnet is the art world online. Find artworks for sale, online auctions, top galleries, leading artists, and breaking art market news from around the globe.
+title: Merry Karnowsky Gallery - Artforum International
+snippet: Of the more than 150,000 negatives taken by the late street photographer Vivian Maier throughout her lifetime, these eighty-plus photos on view offer a vivid cross section of the artist’s primary conceptual concerns. It is difficult to separate Maier’s images from the elusive enigma that surrounds her, so discovery is a key method in approaching the artist, who is better known for her ...
+title: Vivian Maier Exhibitions &amp; Events | Vivian Maier Photographer
+snippet: Promoting Vivian Maier’s work and prestigious archive, through professionally curated exhibitions, is at the core of the Maloof Collection. Vivian Maier‘s touring exhibitions are available for loan to institutions, museums and galleries, and individual photographs from the Vivian Maier archives are available for exhibition loans.
+
+REL: 2
+POI Name: Pankower Marktleben
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Pankower Marktleben - Pankow - Berlin, Germany
+snippet: Pankower Marktleben in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Kunst im öffentlichen Raum in Berlin-Pankow – Wikipedia
+snippet: Pankower Marktleben 32 Berliner Straße 1, Berlin-Pankow, Ecke Breite straße Wandbild Wandmalerei auf Putz 1987 Conwert Invest GmbH Wien Alexander Polzin: ... Berlin-Pankow, Innenhof Rathaus Pankow Plastik Granit 1996 120 cm × 90 cm × 80 cm Dauerleihgabe Christoph Mertens an Bezirksamt Pankow ...
+title: Pankower Marktleben - Kunst im öffentlichen Raum Pankow
+snippet: &quot;Pankower Marktleben&quot; Dieter Gantz Wandbild, k.A., 1987 Signatur: k.A. Eigentümer: Conwert Immobilien Invest SE Wien Standort: Berliner Straße 1 13187 Berlin-Pankow Ecke Breite Straße Beitrags-Navigation
+title: Public artwork, Pankower Marktleben by artist Dieter Ganz ...
+snippet: Download this stock image: Public artwork, Pankower Marktleben by artist Dieter Ganz dates back to the 750th Anniversary of Berlin in 1987. Cnr Berliner &amp; Breite Strasse,Pankow - M4TXA4 from Alamy&#39;s library of millions of high resolution stock photos, illustrations and vectors.
+title: Berlin-Pankow – Wikipedia
+snippet: In Berlin-Pankow befindet sich in der Granitzstraße im Osten des Ortsteils der Sitz des Regionalbereichs Ost der DB Netz.Neben der Verwaltung des Regionalbereichs befinden sich in dieser Betriebszentrale unter anderem Arbeitsplätze eines Netzkoordinators, mehrerer Bereichsdisponenten und mehrerer Zugdisponenten, die für die Disposition der Züge (ausschließlich Züge der S-Bahn Berlin) in ...
+title: Pankow - Wikipedia
+snippet: Pankow is Berlin&#39;s largest borough by population and the second largest by area (after Treptow-Köpenick). Between 1945 and 1960, Schönhausen Palace and the nearby Majakowskiring street in the Niederschönhausen locality of Pankow was the home to many members of the East German government.
+title: FreiwilligenAgentur Pankow
+snippet: Herzlich Willkommen bei der FreiwilligenAgentur in Berlin-Pankow! Wir freuen uns, dass Sie den Weg zu uns gefunden haben. Sie finden hier viele wichtige Informationen rund um das Ehrenamt in Berlin sowie über die Arbeit der FreiwilligenAgentur Pankow, weitere werden in naher Zukunft dazu kommen.
+title: Eventlocations in Pankow – Berlin.de
+snippet: In Pankow - mit dem angesagten Stadtteil Prenzlauer Berg - können Veranstalter ihre Gäste mitten in das quirlige Hauptstadt-Feeling tauchen. Ob Firmenfeier, Tagung oder Party: In Berlin-Pankow finden zahlreiche Veranstaltungen in folgenden Locations einen passenden Rahmen ...
+title: Pankow - Wikipedia, den frie encyklopædi
+snippet: Pankow er en bydel i Berlin, Tyskland.Den blev dannet i 2001 ved at sammenlægge de tidligere bydele Prenzlauer Berg og Weißensee til én bydel under navnet Pankow. Pankow er med sine 358.073 indbyggere den indbyggermæssigt største bydel i Berlin. Den strækker sig over et areal 103.07 km² og er således andenstørst målt på areal, kun overgået af Treptow-Köpenick.
+title: Coronavirus in Berlin-Pankow: Abklärungsstelle in Klinik ...
+snippet: Berlin. In Prenzlauer Berg hat eine neue Abklärungsstelle für Coronavirus-Verdachtsfälle eröffnet. Sie befindet sich in Räumen des ehemaligen Vivantes-Krankenhauses Prenzlauer Berg in der ...
+
+REL: 2
+POI Name: Headegg - Der Raum
+POI City: Munich
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: Headegg - Der Raum - Au-Haidhausen - Munich, Bayern, Germany
+snippet: Headegg - Der Raum in Munich, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Munich and beyond.
+title: Headegg.com – Der Raum
+snippet: Der Winter ist noch nicht vorbei und schon geht es bei HEADEGG mit der 14. Ausstellung „It’s been a long day“ weiter. Diesmal zeigen wir in einer von Alexandra Grimmer kuratierten Ausstellung den Künstler Mathias Schmied. Der 1976 in Bern geborene und in Paris lebende Künstler zeigt Arbeiten aus Papier.
+title: Headegg - Munich, Germany
+snippet: HeadEgg ist eine Ausstellungsplattform, die auf erfrischende Art zeitgenössische Kunst präsentiert. Als neuer Freiraum für aktuelle künstlerische Äußerungen und Positionen ist HeadEgg über drei Medien RAUM, NETZ und MAGAZIN erreichbar. Description: HEADEGG – DER RAUM ist keine Galerie im klassischen Sinne.
+title: Headegg.com – Der Raum » Kontakt
+snippet: Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+title: Headegg, Munich, Museum/Art Gallery - Phone, opening hours ...
+snippet: HeadEgg ist eine Ausstellungsplattform, die auf erfrischende Art zeitgenössische Kunst präsentiert. Als neuer Freiraum für aktuelle künstlerische Äußerungen und Positionen ist HeadEgg über drei Medien RAUM, NETZ und MAGAZIN erreichbar. HEADEGG – DER RAUM ist keine Galerie im klassischen Sinne.
+title: Headegg.com – Der Raum » 2013
+snippet: yarn-objects. Das Jahr 2013 beginnt bei HEADEGG mit der Ausstellung Nummer 11 unter dem Titel Olaf Tiedje „yarn-objects“, Fotografien. Der in Stuttgart geborene Künstler setzt sich mit dem Medium der digitalen Fotografie auf formal-traditionellem Weg auseinander.
+title: Headegg.com – Der Raum » RAUM
+snippet: Der Raum. Zu Beginn des Jahres 2009 gründete der Fotograf Hubertus Hamm HEADEGG, um zeitgenössischen Künstlerinnen und Künstlern, die sich mit den Parametern der Fotografie auseinandersetzen, eine unkonventionelle Ausstellungsplattform in München zu bieten.
+title: Headegg.com – Der Raum » Künstler
+snippet: Die Künstler. Ausstellung 20 Manuel Strauss und Lea Grebe – AUCH INSEKTEN ESSEN KUCHEN Ausstellung 19 Bianca Regl – BETWEEN THE APPLE AND THE PLATE Ausstellung 18 Ralph Ammer – HAUSHALTEN Ausstellung 17 Jusha &amp; Sven Mueller – Münchner Gold www.jushamueller.de
+title: Headegg - Der Raum - Kunstgalerie in München ...
+snippet: Kunstgalerie München Finden Sie die besten Kunstgalerien in München auf Singulart die #1 Referenz für den Kauf von Kunstwerken von anerkannten Künstlern!
+title: Headegg - Der Raum - Art gallery in München - Singulart
+snippet: Art galleries München Find the best art galleries in München on Singulart the #1 source for buying art online from recognized artists!
+
+REL: 2
+POI Name: Strassenkunst Saltykowstrasse: Zwei Köpfe
+POI City: Berlin
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Street Art, 
+Snippets:
+title: Strassenkunst Saltykowstrasse: Zwei Köpfe - Street Art ...
+snippet: Strassenkunst Saltykowstrasse: Zwei Köpfe in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Strassenkunst Saltykowstrasse: Zwei Köpfe – Berlin ...
+snippet: 1 bewertung, Kontaktinformationen und Geschäftszeiten von Strassenkunst Saltykowstrasse: Zwei Köpfe in Saltykowstrasse, Berlin. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: The Top 20 Street Art – Berlin (Germany)
+snippet: Find 112 listings related to Street Art in Berlin, Germany on Unilocal. Read about places like Strassenkunst Saltykowstrasse:…, Korkmännchen, Tiergemälde
+title: Jodis Schnell-Imbiss – Berlin, Saltykowstr. 2 (8 ...
+snippet: 8 bewertungen, Kontaktinformationen und Geschäftszeiten von Jodis Schnell-Imbiss in Saltykowstr. 2, Berlin. Sehen Sie sich Orte in der Nähe auf der Karte an. Schreiben Sie eine Bewertung.
+title: Die 10 inspirierendsten Ideen zu „Street artists“
+snippet: Wenn man in Berlin mit der S Bahn durch die Gegend fährt, erlebt man tolle Geschichten. So wie die einer Schulklasse, die auf einen verdrogten Typen traf. Fassaden Gestaltung Straßenkunst Graffiti Malerei Kunst Streetart Architektur Schriftarten Projekte Straßenkünstler Erstaunliche Straßenkunst.
+title: Die 10 Besten Berlin Literatur-, Kunst-, und Musiktouren ...
+snippet: Reisen Sie zurück in das Berlin der 1970er Jahre – eine Zeit, als die Stadt in zwei Teile geteilt und Westberlin „abgeschnitten von der Welt, Kunst und Kultur, sterbend ohne Hoffnung auf Vergeltung“ war, – auf dieser 3-stündigen Tour.
+title: Ilian Gabrowski – Berlin, Oranienburger Str. 37 (1 ...
+snippet: Öffnungszeiten, Kontaktinformationen und 1 bewertung für Ilian Gabrowski in Oranienburger Str. 37, Berlin. Sehen Sie Orte in der Nähe auf der Karte an. Hinterlassen Sie eine Bewertung. Anmelden. Deutsch . Zahnarzt (Berlin) ... Strassenkunst Saltykowstrasse: Zwei Köpfe. Saltykowstrasse 1 Bewertung zu Ilian Gabrowski. Bewertung hinzufügen.
+title: Volkmar Heltriegel – Berlin, Karl-Marx-Str. 142 (1 ...
+snippet: Öffnungszeiten, Kontaktinformationen und 1 bewertung für Volkmar Heltriegel in Karl-Marx-Str. 142, Berlin. Sehen Sie Orte in der Nähe auf der Karte an. Hinterlassen Sie eine Bewertung.
+title: Street Art Berlin | Street Art aus berliner Straßen
+snippet: S. treet Art Berlin – Arte Local soll euch Street Art in und aus Berlin näher bringen.. In keiner anderen Stadt könnt ihr eine solche Vielfalt an Street Art finden wie in Berlin. Der Erfolg der Straßen Kunst zeigt, dass es durch Kunst gelingen kann, das Image einer Stadt umzugestalten.
+title: 20 Pins zu Straßenkunst für 2020 | Straßenkunst, Kunst und ...
+snippet: Und irgendwann ändern sich nicht die Dinge an sich , aber die Bedeutung , die wir Ihnen geben ??? Ich wünsche euch ein schönes Wochenende mit kunterbunten Glücksmomenten und einem Herz voller Sonnenschein ☀️ Berlin (SEE OTHER POSTS) Fantastische Street Art :) Kreativer Einsatz der Umgebung a la Street Art
+
+REL: 2
+POI Name: Topography of Terror
+POI City: Berlin
+POI Country: DE
+POI Main category: Public Services & Government
+POI Sub category: Landmarks & Historical Buildings, Museums, 
+Snippets:
+title: Topographie des Terrors
+snippet: TOPOGRAPHY OF TERROR DOCUMENTATION CENTER. More than 1.3 million people visited the &quot;Topography of Terror&quot; in 2018, making the documentation center one of the most frequently visited places of remembrance in Berlin. During the &quot;Third Reich&quot; the headquarters of the Secret State Police, the SS and the Reich Security Main Office were located at ...
+title: Topography of Terror (Berlin) - 2020 All You Need to Know ...
+snippet: Get the most out of your visit to Sachsenhausen, one of the first concentration camps in Germany, by touring with a guide. On this full-day tour from Berlin, you&#39;ll listen to a historian detail the influence of the Third Reich and the timeline of how this camp came to be.
+title: Topography of Terror - Wikipedia
+snippet: The &quot;Topography of Terror&quot; permanent exhibition was shown in the open air until the new documentation center opened. The thoroughly revised and redesigned &quot;Topography of Terror&quot; permanent exhibition is presented over 800 square meters in the new building.
+title: Topography of Terror | visitBerlin.de - Willkommen in Berlin
+snippet: The Topographie des Terrors exhibition is one of the most-visited places of remembrance in Berlin. Find out all about the memorial at visitBerlin.de
+title: Topographie des Terrors
+snippet: Mit über einer Million Besuchern im Jahr gehört die „Topographie des Terrors” zu den meist besuchten Erinnerungsorten in Berlin. An diesem Ort befanden sich während des „Dritten Reichs” die Zentralen der Geheimen Staatspolizei, der SS und des Reichssicherheitshauptamts.
+title: Museum – Topography of Terror – Museumsportal Berlin
+snippet: Berlin’s museums, palaces and memorials all in one place. Museumsportal Berlin gives an overview of Berlin’s museums and provides information on exhibitions and events.
+title: Topography of Terror (Berlin, Tyskland) - Anmeldelser
+snippet: Få mest mulig ut av ditt besøk til Sachsenhausen, en av de første konsentrasjonsleirene i Tyskland, ved å turnere med en guide. På denne helgedagsturen fra Berlin, vil du lytte til en historikerdetaljer fra det tredje rikets innflytelse og tidslinjen for hvordan denne leiren kom til å være.
+title: Topography of Terror - Berlin.de
+snippet: Berlin.de is a service of the State of Berlin and the BerlinOnline Stadtportal GmbH &amp; Co. KG. For more information, see Impressum.
+title: Topography of Terror in Berlin - Opening hours and price
+snippet: History. During Nazi Germany, the neo-baroque building that once stood on Niederkirchnerstraße was transformed into the Gestapo and SS headquarters in 1933.The Gestapo was the regime’s Secret State Police and the SS (Shutzstaffel) was a Nazi paramilitary organization.
+
+REL: 1
+POI Name: N U
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Cafes, Sandwiches, 
+Snippets:
+title: nuBerlin - Berlin news, facts, figures and photos – life ...
+snippet: Sometimes the Berlin weather situation in autumn and winter can be a bit annoying. Of course it has to rain every now and then – but sometimes the rain just won’t stop. But then again I also like it when the weather is like this.
+title: Parking in Berlin – where (not) to park your car, free ...
+snippet: My family of 5 is staying in Berlin Mahlsdorf at the end of our road trip through Germany. We have a rental car and would like to park for free (Berlin Wall Memorial, Reichstag Building, Typography of Terror, Brandenburg Gate, Checkpoint Charlie, East Side Gallery, etc) and take public transport.
+title: Berlin, New Hampshire - Wikipedia
+snippet: Berlin / ˈ b ɜːr l ɪ n / is a city along the Androscoggin River in Coös County in northern New Hampshire, United States. It is the northernmost city in New Hampshire. The population was 10,051 at the 2010 census. As of July 1, 2018, the estimated population was 10,200.
+title: THE 15 BEST Things to Do in Berlin - 2020 (with Photos ...
+snippet: Book your tickets online for the top things to do in Berlin, Germany on Tripadvisor: See 568,702 traveler reviews and photos of Berlin tourist attractions. Find what to do today, this weekend, or in April. We have reviews of the best places to see in Berlin. Visit top-rated &amp; must-see attractions.
+title: Berlin - YouTube
+snippet: ONE OF THE GREATEST SYNTH ELECTRO-POP BANDS OF ALL TIME This Los Angeles-based synth pop group, founded by bassist John Crawford, singer Terri Nunn, and keyb...
+title: Underground (U-Bahn) – Berlin.de
+snippet: With its ten lines, the U-Bahn (underground, subway) Berlin runs along a network of approximately 146 kilometres and includes 173 stations. Most metro lines operate underground, but some run on above ground tracks.
+title: Berlin laundromats - self-service laundry in Berlin (list ...
+snippet: Berlin laundromats - self-service laundry in Prenzlauer Berg - Photo: T.Bortels/nuBerlin.com. If you happen to visit Berlin for a bit longer, you may want to get your dirty laundry clean. Most Berlin Hotels and Hostels do actually offer a laundry service.
+title: Berlin - Official Website of the City of Berlin, Capital ...
+snippet: Official Website of Berlin: Information about the Administration, Events, Culture, Tourism, Hotels and Hotel Booking, Entertainment, Tickets, Public Transport, Political System, Local Authorities and Business in Berlin.
+title: Interaktives Liniennetz für S-Bahn, U ... - Berlin S-Bahn
+snippet: Das ÖPNV-Liniennetz interaktiv inkl. Anzeige von Störungen und Baumaßnahmen, Aufzügen, Fahrplanauskunft und Ausflugsstipps.
+title: Berlin Exhibitions in December 2019 - nuBerlin
+snippet: A List of Exhibitions in Berlin in December 2019 – exhibitions and art shows to see while you are in Berlin in December 2019. Please feel free to submit additional suggestions.
+
+REL: 1
+POI Name: Museum Barberini
+POI City: Potsdam
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+
+
+REL: 1
+POI Name: multi.trudi
+POI City: Frankfurt
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Art Galleries, 
+Snippets:
+title: multi.trudi - Gallus - Frankfurt, Hessen, Germany
+snippet: 2 reviews of multi.trudi &quot;multi.trudi is an alternative artistrun space. There are no exhibitions or fixed artworks for display. Visitors instead are asked to participate, - in conversation, discussion, or games or sometimes music. It can…
+title: multi.trudi, Frankfurt - Project Space Survival Strategies
+snippet: multi.trudi Run by Stefan Beck Frankfurt, Germany www.multitrudi.de Just the basic facts: multi.trudi is an artspace since 1997, run by me, Stefan Beck (Media Artist). It has been located at different locations in the city. Since 2004 at Hohenstaufenstr. 13-25. At that time its name was changed to trudi.sozial to...
+title: multi.trudi artspace 1997 - 2010 by stefan beck
+snippet: Homepage of multi.trudi artspace, offspace and artproject, Frankfurt/Main, Germany, based on exchange, conversation and participation 1997 - 2010
+title: Events Flyers 1997 - multi.trudi
+snippet: multi.trudi Eröffnung (opening), 05.09.1997. Aus Anlass der Eröffnung von multi.trudi gabs von The Thing den wöchentlichen Rundbrief &quot; Info von The Thing Frankfurt&quot; mit Partytips und Kommentaren zum Kulturleben in Frankfurt.
+title: Inside multi.trudi artspace offspace Frankfurt - your ...
+snippet: Frameset of multi.trudi artproject, Frankfurt, Main, Germany, based on conversation and participation Inside multi.trudi artspace Frankfurt Das ist die Startseite des Kunstraums multi.trudi (Frankfurt/Main, Germany), die ein frameset aus drei Frames enthält.
+title: Multi.trudi • Frankfurt am Main • Hessen •
+snippet: Der erste Tag Freitag von multi.trudi page 48h Japan . Deutschland Kunstgießereien. Anmelden Registrieren Mit Facebook anmelden. M. Multi.trudi Noch nicht bewertet Bewerten hohenstaufenstr 13-25, Frankfurt am Main, Hessen, 60327. Über uns; Wie komme ich hin? MULTI.TRUDI | Frankfurt am Main
+title: multi.trudi | 1325 gleiche maasse neues design frisch wie ...
+snippet: multi.trudi arbeitet weiterhin an Konzepten für Veranstaltungen jenseits von Kunst- oder Clubbetrieb. Eröffnung: Sa., 14.8. 2004 ( Bilder ) mit Vorstellung des neuen Thing Books, des Taschenführers zum Internetprojekt The Thing Frankfurt.
+title: Studio Berlin Warum in Frankfurt bleiben? - multi.trudi
+snippet: Der kommende multi.trudi Abend soll denjenigen gewidmet sein, die bis jetzt Frankfurt verlassen haben. Wie die nachfolgende Liste zeigt, handelt es sich hier um Akademiker, die ihre Ausbildung in Frankfurt genossen haben und nun ihr Wissen in Berlin anlegen. Das wäre nicht weiter schlimm, wenn diese &quot;Verluste&quot; durch Zuzug ausgeglichen würden.
+title: Multi.trudi: Kulturelle Einrichtungen &amp; Kultur multitrudi.de
+snippet: Der Ausstellungsraum am Frankfurter Osthafen bietet in regelmäßigen Abständen Veranstaltungen an. Mit Terminkalender, Bildergalerie und Gästebuch. Multi.trudi in der Kategorie Kultur.
+title: multi.trudi - Art gallery in Frankfurt - Singulart
+snippet: Art galleries Frankfurt Find the best art galleries in Frankfurt on Singulart the #1 source for buying art online from recognized artists! Art knows no bounds - safe &amp; FREE shipment to your doorstep. Art knows no bounds - Singulart ensures safe and FREE shipments to your doorstep.
+
+REL: 1
+POI Name: Bauernstube
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Vereinsheim Bauernstube
+snippet: gaststätte vereinsheim live music. Die Gaststätte &quot;Bauernstube&quot; befindet sich inmitten der Kleingartenanlage Bornholm I e.V. Diese liegt an der Grenze des Stadtbezirkes Prenzlauer Berg/Pankow zum Bezirk Wedding, grenzt an die Bornholmer Straße und an die Björnsonstraße.
+title: Bauernstube, Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Bauernstube, Berlin: Se 10 objektive anmeldelser av Bauernstube, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 3 769 av 7 859 restauranter i Berlin.
+title: Bauernstube, Berlin - Charlottenburg-Wilmersdorf (Bezirk ...
+snippet: Bauernstube, Berlin: 10 Bewertungen - bei Tripadvisor auf Platz 3.769 von 7.862 von 7.862 Berlin Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Bauernstube, Berlin - Charlottenburg-Wilmersdorf (Borough ...
+snippet: Bauernstube, Berlin: See 10 unbiased reviews of Bauernstube, rated 4.5 of 5 on Tripadvisor and ranked #3,768 of 7,878 restaurants in Berlin.
+title: Tiroler Bauernstuben, Berlin - Charlottenburg-Wilmersdorf ...
+snippet: Reserve a table at Tiroler Bauernstuben, Berlin on Tripadvisor: See 116 unbiased reviews of Tiroler Bauernstuben, rated 3.5 of 5 on Tripadvisor and ranked #2,802 of 7,880 restaurants in Berlin.
+title: Tiroler Bauernstuben, Berlin - Restaurantanmeldelser ...
+snippet: Tiroler Bauernstuben, Berlin: Se 116 objektive anmeldelser av Tiroler Bauernstuben, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 802 av 7 880 restauranter i Berlin.
+title: Hidden treasure in Berlin-West - Review of Bauernstube ...
+snippet: Bauernstube: Hidden treasure in Berlin-West - See 10 traveler reviews, 4 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: Bauernstube - Berlin, Germany - European Restaurant | Facebook
+snippet: Bauernstube, Berlin, Germany. 16 likes. European Restaurant. Heute den 30.04.2017 hat die Mobildiscotek DJ Sebert ein Tanz in Mai in einer Kneipe.
+title: People &amp; places...in Berlin. - Review of Bauernstube ...
+snippet: Bauernstube: People &amp; places...in Berlin. - See 10 traveler reviews, 4 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: Restaurant Bauernstube
+snippet: 歡迎光臨 : Willkommen
+
+REL: 1
+POI Name: Neurotitan Shop & Gallery
+POI City: Berlin
+POI Country: DE
+POI Main category: Shopping
+POI Sub category: Music & DVDs, Art Galleries, Comic Books, 
+Snippets:
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthaler Straße 39 10178 Berlin fon +49 30 308 725 76 fax +49 30 282 90 33. Öffnungszeiten mo - sa: 12 - 20h
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthalerstraße 39 10178 Berlin fon +49.(0)30.308 725 76 fax +49.(0)30.282 90 33. Öffnungszeiten mo - sa: 12 - 20h. Anfahrt. Informationen zum Schwarzenberg e.V. und weiteren Veranstaltungen im Haus gibt´s hier. Die Galerie Neurotitan
+title: Neurotitan Shop &amp; Gallery - Mitte - Berlin, Germany
+snippet: 3 reviews of Neurotitan Shop &amp; Gallery &quot;Neurotitan is an eclectic shop with short-run comics, books, art and a small but varied vinyl record selection. The wares are generally very niche by independent &amp; local artists &amp; illustrators. You can…
+title: Der Neurotitan shop
+snippet: Der Neurotitan shop . Der neurotitan shop schließt direkt an die Galerie an. Er ist einerseits eine Fachbuchhandlung für Grafikdesign, Comic und Illustration, andererseits der verlängerte Arm der Galerie: Kunstschaffende aus aller Welt geben ihre Kunst, Waren und Produkte hier in Kommission und ermöglichen dadurch das einzigartige Sortiment ...
+title: Neurotitan (Berlin) - 2020 All You Need to Know Before You ...
+snippet: I Love Neurotitan. I browsed for an hour at least &amp; I found some rare screen printed books here at a great price, and could have kept looking. Lots and lots of subculture, graphics, art and culture available. There is a huge gallery/workshop space, and the time I went I came …
+title: neurotitan gallery
+snippet: At the same time, Haus Schwarzenberg with its neurotitan gallery (as one of the few last places like this in Berlin-Mitte) conveys a flavour of the untamed creativity of the early 1990s, but without becoming a museum piece. Exit through the Neurotitan (Gift) shop . Neurotitan shop is located next to the gallery.
+title: Neurotitan - Home | Facebook
+snippet: Neurotitan - Rosenthaler Straße 39, 10178 Berlin, Germany - Rated 4.9 based on 24 Reviews &quot;Don&#39;t lose the opportunity to see this amazing place!!!&quot;
+title: neurotitan
+snippet: neurotitan shop &amp; gallery im Haus Schwarzenberg Rosenthalerstraße 39 10178 Berlin fon +49.(0)30.308 725 76 fax +49.(0)30.282 90 33. Öffnungszeiten
+title: Kunst-Galerie in Berlin: neurotitan shop &amp; gallery | ART ...
+snippet: neurotitan shop &amp; gallery befindet sich im 2. Hof des Hauses Schwarzenberg im 1. Obergeschoss. Das Haus Schwarzenberg liegt in direkter Nachbarschaft zu den Hackeschen Höfen, ist jedoch im Gegensatz zu ihnen unsaniert, ursprünglich und steht im Zeichen der Kunst.
+title: Neurotitan Shop &amp; Gallery – &quot;Ich Bin Berlin&quot;
+snippet: Walking around Rosenthaler Street, you’d probably never imagine finding a hidden urban gallery and bar located in the middle of the fancy stores and restaurants. As soon as you arrive there, that Berlin vibe gets you. A passage covered in graffiti and urban art, a shop and several small galleries and museums; each one can…
+
+REL: 1
+POI Name: Backwaren M & M Kg
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Backwaren M &amp; M Kg - Tempelhof - Berlin, Germany - Yelp
+snippet: Backwaren M &amp; M Kg in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Backwaren M M KG in Berlin | 0307551...
+snippet: Backwaren M M KG. Backwaren M M KG in Berlin-Tempelhof erreichen Sie unter der Telefonnummer 030 75 51 66 12. Während der Öffnungszeiten hilft man Ihnen dort gerne weiter.
+title: Backwaren M &amp; M KG in 12099 Berlin Tempelhof Tempelhofer ...
+snippet: Backwaren M &amp; M KG Tempelhofer Damm 150 in Berlin Tempelhof, ☎ Telefon 030/75516612 mit ⌚ Öffnungszeiten und Anfahrtsplan
+title: Backwaren M &amp; M KG in Berlin | 0303180...
+snippet: Backwaren M &amp; M KG. Backwaren M &amp; M KG in Berlin-Charlottenburg erreichen Sie unter der Telefonnummer 030 31 80 05 50. Während der Öffnungszeiten hilft man Ihnen dort gerne weiter.
+title: Backwaren M &amp; M KG | firminform - Unternehmen im Blick
+snippet: Die Firma Backwaren M &amp; M KG mit Sitz in Berlin ist im Handelsregister beim Amtsgericht Berlin (Charlottenburg) unter dem Aktenzeichen HRA 45401 B registriert. Das Unternehmen ist mit der Rechtsform KG eingetragen. Das Unternehmen ist inaktiv.
+title: Backwaren M + M KG; Berlin | Firmendb Firmenverzeichnis
+snippet: 13.07.2011 Backwaren M &amp; M KG, Berlin, Tempelhofer Damm 192, 12099 Berlin, ((Gegenstand: Der erlaubnisfreie Lebensmitteleinzelhandel sowie Lebensmittelgrosshandel, das Aufbacken von vorgefertigten Backwarenrohteiglingen, der Grosshandel mit tiefgefrorenen Lebensmitteln sowie die Kapitalbeteiligung an anderen Unternehmen und der erlaubnisfreie ...
+title: Backwaren M &amp; M KG (Berlin) kontaktieren - dialo.de
+snippet: ☎ Backwaren M &amp; M KG in Berlin auf dialo.de - Empfehlungen Öffnungszeiten Erfahrungen Ware gut, aber .... Verfasst am 01.07.2014. ich geh ja öfter mal zu M &amp; M weil der Kuchen sehr gut schmeckt, also kaufe ich dort regelmäßig und friere die Sachen ein.
+title: Backwaren M &amp; M GmbH, Berlin - Firmenauskunft
+snippet: Backwaren M &amp; M GmbH mit Sitz in Berlin ist im Handelsregister mit der Rechtsform Gesellschaft mit beschränkter Haftung eingetragen. Das Unternehmen wird beim Amtsgericht 14057 Charlottenburg (Berlin) unter der Handelsregister-Nummer HRB 189417 B geführt.
+title: Backwaren M &amp; M KG in 10627 Berlin Wilmersdorfer Str. 113 ...
+snippet: Backwaren M &amp; M KG Wilmersdorfer Str. 113 in Berlin, ☎ Telefon 030 31800550 mit ⌚ Öffnungszeiten und Anfahrtsplan
+title: Backwaren M &amp; M KG in Berlin ⇒ in Das Örtliche
+snippet: »Backwaren M &amp; M KG« in 10627 Berlin-Charlottenburg, Wilmersdorfer Str. 113 - Telefonnummer direkt gratis anrufen &amp;phone;, Adresse im Stadtplan zeigen und Route berechnen und beste Bewertungen finden oder direkt bewerten
+
+REL: 0
+POI Name: Atelierhaus Engl
+POI City: Munich
+POI Country: DE
+POI Main category: Education
+POI Sub category: Art Schools, Art Galleries, 
+Snippets:
+title: Engl- Atelierhaus Englschalking - Art Gallery - Munich ...
+snippet: Engl- Atelierhaus Englschalking, München, Germany. 264 likes · 273 were here. Die &quot;engl&quot;-Ateliers in Englschalking/München gründete Lea Jade im August 2012. In den Bereichen Malerei und Grafik...
+title: Englateliers | Atelierhaus in Englschalking
+snippet: Atelierhaus engl. 2012 gründete die Künstlerin Lea Jade das Atelierhaus engl. In den Bereichen Malerei, Grafik, Mosaikkunst, Photographie und Komposition präsentieren und entfalten sich neun Künstler. „Im Fließen, im Staccato, im Anhalten, in der Wiederkehr der Pinselschläge tanzt der Rhythmus. ...
+title: Engl- Atelierhaus Englschalking - Facebook
+snippet: Engl- Atelierhaus Englschalking November 23, 2018 · @Regran_ed from @yasin.sarfraz.arts - I am glad to be represented at the fabulous MUNICH ART HOUSE Project ? ? ? ? ?
+title: The final countdown for: The 6th... - Engl- Atelierhaus ...
+snippet: The final countdown for: The 6th anniversary of the famous &#39;engl&#39; art studios 壟露 Location: Seidleinweg 12, 81929 Munich (next to the trainstation...
+title: @Regran_ed from... - Engl- Atelierhaus Englschalking ...
+snippet: See more of Engl- Atelierhaus Englschalking on Facebook. Log In. or
+title: Atelierhaus Engl - Kunstgalerie in München ...
+snippet: Kunstgalerie München Finden Sie die besten Kunstgalerien in München auf Singulart die #1 Referenz für den Kauf von Kunstwerken von anerkannten Künstlern!
+title: Atelierhaus Engl Galerien München auf muenchen.de
+snippet: Atelierhaus Engl Galerien München - Stadtbranchenbuch München mit Telefonnummer, Adresse und interaktivem Stadtplan
+title: Engl- Atelierhaus Englschalking, Munich, Arts ...
+snippet: Die &quot;engl&quot;-Ateliers in Englschalking/München gründete Lea Jade im August 2012. In den Bereichen Malerei und Grafik arbeiten 9 Künstler und Künstlerinnen Im Juni 2012 gründete Lea Jade das Atelierhaus engl in Englschalking/ Bogenhausen.
+title: Munich | Übersetzung Englisch-Deutsch
+snippet: Kennst du Übersetzungen, die noch nicht in diesem Wörterbuch enthalten sind? Hier kannst du sie vorschlagen! Bitte immer nur genau eine Deutsch-Englisch-Übersetzung eintragen (Formatierung siehe Guidelines), möglichst mit einem guten Beleg im Kommentarfeld.Wichtig: Bitte hilf auch bei der Prüfung anderer Übersetzungsvorschläge mit!
+title: Atelierhaus Engl - Art gallery in München - Singulart
+snippet: Art galleries München Find the best art galleries in München on Singulart the #1 source for buying art online from recognized artists!
+
+REL: 0
+POI Name: Bar Tausend
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Bar Tausend
+snippet: Toggle navigation. Bar Tausend. Bar; Music; Cantina; Art; Event; Kontakt
+title: Bar – Bar Tausend - TAUSEND BERLIN
+snippet: BAR TAUSEND..... Unsere neue Barkarte versteht sich als Hommage an die inspirierendsten und aufregendsten Bezirke in den Metropolen dieser Welt. Erleben Sie das aussergewöhnliche Geschmackserlebnis unserer sorgfältig komponierten Drinks, gemixt mit guten Zutaten aus aller Herren Länder.
+title: Bar Tausend Cantina, Berlin - Restaurantanmeldelser ...
+snippet: Bar Tausend Cantina, Berlin: Se 274 objektive anmeldelser av Bar Tausend Cantina, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 467 av 7 880 restauranter i Berlin.
+title: Cantina – Bar Tausend - TAUSEND BERLIN
+snippet: „Rough and Dirty“, so beschreibt Küchenchef Octavio Osés Bravo seine aromareichen Gerichte, die immer für eine intensive Überraschung gut sind und manchmal mehr an den Nahen Osten, manchmal mehr an den Fernen Osten erinnern.
+title: Bar Tausend (Berlin, Tyskland) - Anmeldelser - Tripadvisor
+snippet: Bar Tausend tilbyr god atmosfære, kvalitetsdrinker og god service. Det er en blanding mellom bar og klubb, der du virkelig kan ha det moro. Det eneste aspektet som krever forbedring etter mitt syn, er innføring av forbud mot røyking, som selv om det ikke er så ille når du er …
+title: Bar Tausend (Berlin) - 2020 All You Need to Know BEFORE ...
+snippet: Bar Tausend offers great atmosphere, quality drinks and good service. It’s a mix between bar and club, where you really can have good fun. The only aspect requiring improvement in my view is the introduction of ban on smoking, as even though when you are inside it is not too …
+title: Music – Bar Tausend - TAUSEND BERLIN
+snippet: Dear fellow Ladies &amp; Gentlemen, because we take our responsibility serious, for You and our team, we will be closed for the foreseeable future.
+title: Bar – Bar Tausend
+snippet: With our new bar menu we pay tribute to the most exciting and inspiring neighborhoods in this worlds metropolises. We hope you like &amp; enjoy the creativity we have strived to achieve with this new menu.
+title: Bar Tausend - Home | Facebook
+snippet: Bar Tausend - Schiffbauerdamm 11, 10117 Berlin, Germany - Rated 4.5 based on 562 Reviews &quot;The place is amazing, the hidden the entrance, the luxury/...
+title: Bar Tausend (Berlin) - Aktuelle 2020 - Lohnt es sich? (Mit ...
+snippet: Das Tausend ist mein Place to be in Berlin. Das Essen und der Service in der Cantina sind fantastisch und die Bar eine Wucht. Wegen der Anmerkungen zur Türpolitik: Ich finde die Begrüßung immer sehr freundlich und hatte nie Probleme.
+
+REL: 0
+POI Name: Wendy's bar
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: African, 
+Snippets:
+title: Wendys Bar Berlin - Mitte (Bezirk) - Restaurant ...
+snippet: Wendys Bar Berlin, Berlin: Bewertungen von Wendys Bar Berlin, eines der 8.138 bei TripAdvisor eingetragenen Restaurants in Berlin sehen.
+title: Wendy&#39;s Bar Berlin - Posts - Berlin, Germany - Menu ...
+snippet: Wendy&#39;s Bar Berlin, Berlin, Germany. 17 likes. Afrikanisches Restaurant/Bar mit Live Fußball und W-Lan! Standort in Berlin Wedding nahe dem Bahnhof Wedding !Bewertet uns auf Qype! Service in German...
+title: Wendys Bar Berlin - Restaurantanmeldelser - Tripadvisor
+snippet: Restauranter i Berlin: Se anmeldelser fra rejsende af restauranter i 8.027Berlin, og søg på køkken, pris, sted og meget mere.
+title: DE 10 BESTE barer og klubber i Berlin - Tripadvisor
+snippet: Barer og klubber i Berlin: Se anmeldelser og bilder av Barer og klubber i Berlin, Tyskland på Tripadvisor.
+title: Wendy’s bar - African - Willdenowstraße, Wedding, Berlin ...
+snippet: 2 reviews of Wendy&#39;s bar &quot;Good place wating food away from home. service friendly&quot; Wendy’s bar - African - Willdenowstraße, Wedding, Berlin, Germany - Restaurant Reviews - Yelp Yelp
+title: Wendy’s bar – Berlin, Willdenowstraße (2 reviews and address)
+snippet: 2 reviews, contact details and business hours of Wendy’s bar at Willdenowstraße, Berlin, Germany. Check out nearby places on a map. Write a review.
+title: Wendy’s bar – Berlin, Willdenowstraße (2 Bewertungen und ...
+snippet: Kontaktinformationen und 2 bewertungen für Wendy’s bar in Willdenowstraße, Berlin anzeigen oder eine Bewertung schreiben. Erkunden Sie eine interaktive Karte mit Orten in der Nähe.
+title: Wendy&#39;s Bar Berlin, Berlin, Food &amp; Restaurant - Phone ...
+snippet: Wendy&#39;s Bar Berlin, Berlin Food &amp; Restaurant. germany › Brandenburg › Berlin › Food &amp; Restaurant › Wendy&#39;s Bar Berlin. Afrikanisches Restaurant/Bar mit Live Fußball und W-Lan! Standort in Berlin Wedding nahe dem Bahnhof Wedding !Bewertet uns auf Qype! Service in German and English! Adress.
+title: DE 10 BESTE barer og klubber i Mitte (Berlin) - Tripadvisor
+snippet: Barer og klubber i Mitte (Berlin): Se anmeldelser og bilder av Barer og klubber i Mitte (Berlin), Tyskland på Tripadvisor. Turisme i Berlin; Hotell i Berlin; ... Flow Bar Berlin. 10 anmeldelser Nr. 45 av 582 Natteliv i Berlin Finn ut mer Oxymoron. 44 anmeldelser Nr. 47 av 582 Natteliv i Berlin Finn ut mer The Coven Bar.
+title: Home | Wendy&#39;s
+snippet: Wendy&#39;s uses fresh, never frozen beef on every hamburger, every day. But wait, there&#39;s more... from chicken wraps and 4 for 4 meal deals to chili, salads, and frostys, we&#39;ve got you. See the menu and find a location near you. Can&#39;t come to us? Download the DoorDash app to get Wendy&#39;s delivered.
+
+REL: 0
+POI Name: Asia Sale Exhibition
+POI City: Berlin
+POI Country: DE
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Asia Sale Exhibition - Mitte - Berlin, Germany
+snippet: Asia Sale Exhibition in Berlin, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Berlin and beyond.
+title: Exhibitions in Berlin – Berlin.de
+snippet: With the exhibition &quot;John Heartfield - Photography plus Dynamite&quot; the Berlin Academy of Arts (Akademie der Künste) shows the many facets of one of the most innovative artists of the 20th century. more
+title: Top exhibitions in Berlin 2020 | visitBerlin.de
+snippet: You can experience history in almost every corner of Berlin – but hardly anywhere to the degree of the open-air exhibition “Revolution and the Fall of the Wall” on the site of the former Stasi headquarters. Walk through the bilingual permanent exhibition, in the midst of one of the scenes of the Peaceful Revolution of 1989.
+title: Berlin Art Guide | Gallery &amp; Exhibition Listings ...
+snippet: Berlin Art Gallery Guide. Updated daily. The curated gallery guide of world-class art exhibitions at Berlin’s leading galleries. Covid-19 coronavirus: Many galleries are temporarily closed or opening by appointment only.
+title: Asia Apparel Expo
+snippet: For its NINTH edition, ASIA APPAREL EXPO presents a carefully-selected group of over 450 high-quality Asian companies with a wide range of apparel and footwear products, covering men&#39;s, women&#39;s and children&#39;s wear, knitwear, denim, footwear, fabrics and textiles, as well as trimmings and accessories.
+title: Messe Berlin - Event calendar
+snippet: Messe Berlin is among the world’s ten leading trade fair companies operating their own exhibition grounds. Every year, more than 100 regional, national and international events are staged at the exhibition grounds Berlin ExpoCenter City and Berlin ExpoCenter Airport and at venues around the world. The wide-ranging portfolio includes five global brands: the International Green Week Berlin ...
+title: InnoTrans 2020, Berlin, Germany - EXPOROAD Exhibition Services
+snippet: InnoTrans is the largest rail industry event in the world, held every two years at the Messe Berlin exhibition centre in Germany. International Trade Fair for Transport Technology - Innovative Components, Vehicles, Systems:
+title: Shoe and Footwear Fairs – Appointments from May 2020 ...
+snippet: Shoe and Footwear Fairs from May 2020 search result returned the following Shoes &amp; Footwear Trade Fairs: Anpic León de los Aldamas, Francal Sao Paulo, FFaNY New York City, Shoes &amp; Leather Guangzhou, Source Africa Cape Town, Aysaf Istanbul, ExpoRivaSchuh Riva del Garda, Eurotrade Nieuwegein, PANORAMA Berlin, NEONYT Berlin, just v show London, Shoes &amp; Leather Vietnam Ho Chi Minh City
+title: International Gallery Guide &amp; Exhibition Listings ...
+snippet: Art exhibitions at leading galleries around the world. GalleriesNow.net is the essential international gallery guide with installation views, 360° VR previews, art listings, real-time interactive art maps and the unique NearMe function.
+title: Exhibitions – Museumsportal Berlin
+snippet: Berlin’s museums, palaces and memorials all in one place. Museumsportal Berlin gives an overview of Berlin’s museums and provides information on exhibitions and events.
+
+REL: 0
+POI Name: Opera
+POI City: Berlin
+POI Country: DE
+POI Main category: Nightlife
+POI Sub category: Bars, Italian, 
+Snippets:
+title: Calendar - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Startseite | Staatsoper Berlin
+snippet: Die Staatsoper Unter den Linden in Berlin vereint 275-jährige Tradition mit künstlerischer Moderne. Mit der herausragenden Qualität der Opern- und Konzertaufführungen zählt sie zu einer der bedeutendsten Bühnen der Welt.
+title: Homepage - Deutsche Oper Berlin
+snippet: The Deutsche Oper Berlin is proud to draw readers’ attention to two of the nominations for the 2020 International Opera Awards. The magnificent chorus of the Deutsche Oper Berlin and its director Jeremy Bines have been shortlisted for their category and Detlev Glanert’s OCEANE is among the nominations for best “World Premiere”.
+title: Startseite - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Homepage | Staatsoper Berlin
+snippet: Die Staatsoper Unter den Linden in Berlin vereint 275-jährige Tradition mit künstlerischer Moderne. Mit der herausragenden Qualität der Opern- und Konzertaufführungen zählt sie zu einer der bedeutendsten Bühnen der Welt.
+title: Programme &amp; tickets | Staatsoper Berlin
+snippet: Grand oper in two acts by Wolfgang Amadeus Mozart ... Landesjugendballett Berlin an der Staatlichen Ballettschule Berlin. presents »Le Corsaire« ...
+title: Home | Komische Oper Berlin
+snippet: Die Komische Oper Berlin, im Herzen der Hauptstadt zwischen Brandenburger Tor, Museumsinsel und Checkpoint Charlie gelegen, steht für zeitgemäßes und lebendiges Musiktheater. Ihr prächtiger, neobarocker Zuschauersaal bietet Platz für 1190 Zuschauer. Mehr als 180000 Besucher lassen sich jedes Jahr vom vielfältigen Spielplanangebot des Hauses begeistern, das 2007 zum Opernhaus des Jahres ...
+title: Berlin Opera - Tickets and Schedule - Classictic.com
+snippet: Berlin Opera An exciting variety of opera performances. Berlin is renowned for its rich variety of excellent opera houses. The Deutsche Oper Berlin (German Opera of Berlin) has its home in a streamlined modern building in Charlottenburg, in the former West Berlin, while the Komische Oper Berlin is located in former East Berlin, near the Brandenburg Gate.
+title: Spielplan - Deutsche Oper Berlin
+snippet: Die Deutsche Oper Berlin ist das größte der drei Opernhäuser in Berlin. Entdecken Sie unser Programm und erfahren Sie alles über die Aufführungen, das Ensemble, Service- und Karteninformationen.
+title: Tickets for Performances in Berlin - Allemagne - Music &amp; Opera
+snippet: Discover the 2019-2020 Berlin Season and book your opera, concert or ballet tickets in Berlin! The German capital is a real cultural gem. Hundreds of museums, art galleries, concert halls and operas are waiting for you! Attending to an opera in Berlin is essential.
+
+REL: 0
+POI Name: Bucerius Kunst Forum
+POI City: Hamburg
+POI Country: DE
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, Art Galleries, 
+Snippets:
+title: Bucerius Kunst Forum - Ausstellungen &amp; Veranstaltungen in ...
+snippet: Zur Kunstmeile Hamburg zählen neben dem Bucerius Kunst Forum die Hamburger Kunsthalle, die Deichtorhallen Hamburg, der Kunstverein Hamburg sowie das Museum für Kunst und Gewerbe Hamburg. Die fußläufige Kunstmeile lädt zwischen Alster und Elbe dazu ein, die 5 renommierten Häuser zu entdecken.
+title: Bucerius Kunst Forum - hamburg.de
+snippet: Bucerius Kunst Forum. Das Bucerius Kunst Forum ist ein von der ZEIT-Stiftung Ebelin und Gerd Bucerius getragenes Ausstellungshaus am Hamburger Rathausmarkt. Es zeigt jährlich drei bis vier Ausstellungen, deren Themenspektrum von der Antike bis zur Gegenwart reicht.
+title: Ausstellungen | Bucerius Kunst Forum
+snippet: Samurai Pracht des japanischen Rittertums 6.6. — 13.9.2020 . Das Bucerius Kunst Forum präsentiert eine der bedeutendsten Sammlungen von Samurai-Artefakten, die Ann und Gabriel Barbier-Mueller in knapp 30 Jahren zusammengetragen haben.
+title: Forum | Bucerius Kunst Forum
+snippet: Located in the heart of Hamburg next to the city hall, the Bucerius Kunst Forum organizes four exhibitions each year, presenting world-class works of art from antiquity to the present day. It is a place to exchange ideas and encounter a broad range of visual arts.
+title: Bucerius Kunst Forum - Wikipedia
+snippet: The Bucerius Kunst Forum is an international exhibition centre in Hamburg, Germany, founded in 2002 through the ZEIT-Stiftung Ebelin und Gerd Bucerius foundation. It is named after Gerd Bucerius and his wife, and located directly beside the Hamburg Rathaus.The exhibition centre shows 3 - 4 exhibitions per year, in co-operation with other museums and collections.
+title: Bucerius Kunst Forum (Hamburg) - 2020 All You Need to Know ...
+snippet: We recommend booking Bucerius Kunst Forum tours ahead of time to secure your spot. If you book with Tripadvisor, you can cancel up to 24 hours before your tour starts for a full refund. See all 2 Bucerius Kunst Forum tours on Tripadvisor
+title: Bucerius Kunst Forum
+snippet: Das Bucerius Kunst Forum ist auf Grund des Ausstellungsumbaus zur Zeit geschlossen und öffnet wieder am 27. Januar.
+title: Bucerius Kunst Forum (Hamburg) - Aktuelle 2020 - Lohnt es ...
+snippet: Wir empfehlen Ihnen, Touren für Bucerius Kunst Forum frühzeitig zu buchen, um sich einen Platz zu sichern. Wenn Sie auf Tripadvisor buchen, können Sie bis zu 24 Stunden vor Beginn der Tour gegen vollständige Rückerstattung stornieren. Sehen Sie sich alle 2 Touren für Bucerius Kunst Forum auf Tripadvisor an.
+title: Bucerius Kunst Forum (Hamburg, Tyskland) - Anmeldelser
+snippet: Bucerius Kunst Forum, Hamburg: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Bucerius Kunst Forum i Hamburg, Tyskland på Tripadvisor.
+title: Bucerius Kunst Forum | Hamburg Tourismus
+snippet: The Bucerius Kunst Forum, located on the street &quot;Alter Wall&quot;, invites its guests to enjoy an exclusive encounter with the classics of art. Four alternating exhibitions per year show, in a concentrated format, international art of the highest quality, from antiquity to classic modern art.
+
+REL: 0
+POI Name: Café Wimpernboutique
+POI City: Berlin
+POI Country: DE
+POI Main category: Beauty & Spas
+POI Sub category: Eyelash Service, Cafes, 
+Snippets:
+title: Wimpernboutique Berlin - Herzlich Willkommen im Café ...
+snippet: Da ich finde das die wahre Schönheit von innen wie von außen kommt, habe ich 2013 beides fusioniert. Kommt mich gern in meinem Konzept Café besuchen! Oder schaut vorab auf meine Facebook oder Instagram Seite gleich hier unten auf der Webseite unter weiteres mit einem Klick. Café Wimpernboutique
+title: Café Wimpernboutique, Berlin - Mitte (Bezirk) - Restaurant ...
+snippet: Café Wimpernboutique, Berlin: 14 Bewertungen - bei Tripadvisor auf Platz 4.259 von 7.879 von 7.879 Berlin Restaurants; mit 4/5 von Reisenden bewertet.
+title: Café Wimpernboutique - Brunnestr. 57, Wedding, Berlin ...
+snippet: 5 reviews of Café Wimpernboutique &quot;The café section in front of the eyelash studio seems quite new and they didn&#39;t have black tea (yet - it&#39;s on the menu). Great service and a good mixed breakfast more than made up for that lack, though. Hope to…
+title: Café Wimpernboutique, Berlin - recenzje restauracji ...
+snippet: Café Wimpernboutique, Berlin: zobacz bezstronne recenzje (14 ) na temat Café Wimpernboutique, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 4 260 z 7 880 restauracji w Berlinie.
+title: Healthy Food &amp; Beauty / Café Wimpernboutique - Home | Facebook
+snippet: Healthy Food &amp; Beauty / Café Wimpernboutique, Berlin. 334 likes. ... See more of Healthy Food &amp; Beauty / Café Wimpernboutique on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Healthy Food &amp; Beauty / Café Wimpernboutique. Health/Beauty . Community See All. 334 people like this.
+title: CAFE WIMPERNBOUTIQUE, Berlin - Mitte (Borough ...
+snippet: Cafe Wimpernboutique, Berlin: See 14 unbiased reviews of Cafe Wimpernboutique, rated 4 of 5 on Tripadvisor and ranked #4,260 of 7,880 restaurants in Berlin.
+title: Healthy Food &amp; Beauty Salon. Be beautiful inside out!
+snippet: Café Herzlich Willkommen im Cafe Wimpernboutique Healthy Food &amp; Beauty. Entdecke die Vielfalt und Köstlichkeit gesunder Ernährung. Superfood schmeckt und unterstützt die natürliche Schönheit. Du fühlst dich besser und strahlst es aus.
+title: Fantastic Fruhstuck - Review of Cafe Wimpernboutique ...
+snippet: Cafe Wimpernboutique: Fantastic Fruhstuck - See 14 traveler reviews, 10 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: delightfully inviting and cozy - great... - Cafe ...
+snippet: Cafe Wimpernboutique: delightfully inviting and cozy - great for a quick snack or lingering over coffee - See 14 traveler reviews, 10 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+title: Amazing Coffee and service - Cafe Wimpernboutique
+snippet: Cafe Wimpernboutique: Amazing Coffee and service - See 14 traveler reviews, 10 candid photos, and great deals for Berlin, Germany, at Tripadvisor.
+
+Cand cities: {'Potsdam', 'Hamburg', 'Berlin', 'Munich', 'Frankfurt'}

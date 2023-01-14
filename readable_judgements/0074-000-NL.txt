@@ -1,0 +1,636 @@
+City: Amsterdam
+Country: NL
+Main category: Nightlife
+Sub category: Music Venues
+Description: Hey r/Amsterdam. I'm an aspiring musician living in Amsterdam and I'm looking to get as many gigs as possible. I'm a solo acoustic act, so open mic sessions are an option, but I'd prefer booked gigs. Do you have any recommendations on which venues I should try to get booked at? I played at BR020 last night, and it was wonderful, so similar vibes to that would be great. Here's an example of my sound, for context: https://www.youtube.com/watch?v=l4GeIalbPYs EDIT: Try the vondelbunker Actually I've played there many times.Great place to experiment. Do you know of similar spaces?
+Rated POIs: 45
+Rel distr: [(0, 14), (1, 10), (2, 19), (3, 2)]
+=================================
+REL: 3
+POI Name: Beer Temple
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Club Candela
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Joost
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, Cafes, 
+Snippets:
+
+
+REL: 2
+POI Name: El Punto Latino
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Café de Nieuwe Vaart
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Club Lite
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Venues & Event Spaces, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: De Roze Tanker
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Popeye Coffeeshop
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Coffeeshops, 
+Snippets:
+
+
+REL: 2
+POI Name: San Francisco
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: San Francisco Bar - Zeedijk - Home | Facebook
+snippet: San Francisco Bar - Zeedijk - Zeedijk 40, 1012 AZ Amsterdam, Netherlands - Rated 4.4 based on 39 Reviews &quot;Incredibly rude and unhelpful staff. Had...
+title: $583 Flights from San Francisco to Amsterdam: SJC to AMS ...
+snippet: Flights from San Francisco to Amsterdam Flights from San Francisco to Amsterdam, current page ... United Airlines (UA) will also take you to your destination in comfort. Offering 18 flights per month between San Francisco and Amsterdam, it&#39;s another popular airline to look into. Route Information for Flights from San Francisco to Amsterdam.
+title: Billige flybilletter fra San Francisco internasjonale til ...
+snippet: Finn flyreiser fra San Francisco internasjonale til Amsterdam Schiphol med www.skyscanner.no Vi tilbyr en gratis søketjeneste der du kan billige flybilletter fra alle de store flyselskapene fra San Francisco internasjonale til Amsterdam Schiphol.
+title: $272 - Cheap flights from Amsterdam (AMS) to San Francisco ...
+snippet: Compare &amp; reserve one-way or return flights from Amsterdam to San Francisco from $272 only to get the best flight deals and promotions for your AMS to SFO trip! Skip to main content. Welcome to {{displayDomain}}, a US site operated by Expedia, Inc., a Washington corporation.
+title: Billige flyreiser Amsterdam - San Francisco - Jetcost
+snippet: Med Jetcost, finn billige flybilletter og lavprisbilletter fra Amsterdam til San Francisco med ett klikk: Sammenlign billettprisene til de beste flyselskapene og reisebyråene i løpet av sekunder. Bare velg destinasjonen din og reisedatoene dine for å sammenligne priser på flybilletter fra Amsterdam til San Francisco.
+title: Cheap flights from Amsterdam(AMS) to San Francisco(SFO ...
+snippet: If you’ve been planning a romantic holiday with a partner, itching for an adventurous solo escape to one of the globe’s most fascinating destinations, or just looking to soak up some local history and culture, flights from Amsterdam to San Francisco provide the perfect getaway.
+title: Billige flyreiser San Francisco - Amsterdam - Jetcost
+snippet: Fly San Francisco - Amsterdam: Søk og bestill billige flybilletter fra San Francisco til Amsterdam. Jetcost søker blant mer enn 1000 reisenettsteder og hjelper deg å finne de beste prisene. Nettleseren din er avleggs! Oppdater nettleseren din for å oppleve nettstedet riktig.
+title: Amsterdam Time to San Francisco Time Converter -- TimeBie
+snippet: Amsterdam Netherlands Time and San Francisco Time Converter Calculator, Amsterdam Time and San Francisco Time Conversion Table.
+title: Fly Amsterdam - San Francisco | AMS - SFO | Expedia.no
+snippet: Når du ser etter fly fra Amsterdam (AMS) til San Francisco (SFO), kan du enkelt og raskt finne gode flyreiser med Expedia. Med en rekke avreisesteder å velge imellom og spennende destinasjoner å reise til, gir Expedia deg et bredt utvalg av billige flybilletter fra Amsterdam til San Francisco.
+title: Amsterdam Hostel i San Francisco | Hotels.com
+snippet: Amsterdam Hostel ligger i sentrum og nær en undergrunnsstasjon i bydelen San Francisco sentrum i San Francisco. Et par populære landemerker er Lombard Street og Pier 39, og hvis du er på utkikk etter morsomme aktiviteter, kan du ta turen til Ferjebygningen og Berkeley Marina. Du kan se om det skjer noe kult på Oracle Park, og hvis du har tid, bør du også få med deg San Francisco ...
+
+REL: 2
+POI Name: Checkpoint Charlie
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: The End
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Karaoke, 
+Snippets:
+
+
+REL: 2
+POI Name: The Waterhole
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Bierproeflokaal in de Wildeman
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Club Mystique
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: Club Mystique Amsterdam - Club nights, Events &amp; Concerts
+snippet: New hotspot in Amsterdam for Club nights, Events &amp; Concerts, and more. With the capacity of 450 and professionally equipped the perfect location in Amsterdam
+title: Club Mystique Amsterdam - Home | Facebook
+snippet: Club Mystique Amsterdam - Smaksteeg 19, 1012 SV Amsterdam, Netherlands - Rated 4.9 based on 47 Reviews &quot;My absolute favorite place to dance in Amsterdam....
+title: Club Mystique (Amsterdam, Nederland) - Anmeldelser
+snippet: Club Mystique, Amsterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Club Mystique i Amsterdam, Nederland på Tripadvisor.
+title: Club Mystique (Amsterdam) - 2020 All You Need to Know ...
+snippet: This club is a bit hidden away from all the other dancing places in Amsterdam and that is also maybe why I personally love it! After learning Cali style Salsa in Colombia and being back in Amsterdam I always wanted to practice as much as...
+title: Club Mystique 1 - Bilde av Club Mystique i Amsterdam ...
+snippet: Club Mystique, Amsterdam Bilde: Club Mystique 1 - Se Tripadvisor-medlemmers 50 325 objektive bilder og videoer av Club Mystique
+title: De 10 beste hotellene i nærheten av Club Mystique
+snippet: Hoteller i nærheten av Club Mystique, Amsterdam: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Club Mystique på Tripadvisor.
+title: Club Mystique (Amsterdam) - 2020 All You Need to Know ...
+snippet: Let me explain something about Club Mystique. Most people that are not from Amsterdam only read the name &quot;Club&quot; and think we are like a discotheque or place with house music. We are not an ordinairy club like that but specialized in latin music for dancers and the Friday night is a night where all the local salsa and bachata dancers come to dance.
+title: Club Mystique (Amsterdam, Nederländerna) - omdömen
+snippet: Club Mystique, Amsterdam: Läs recensioner av resenärer som du och se professionella bilder på Club Mystique i Amsterdam, Nederländerna på Tripadvisor.
+title: Shop - CLUB MYSTIQUE
+snippet: Products Archive - CLUB MYSTIQUE. Home / Shop Shop. No products were found matching your selection.
+title: Club Mystique | I amsterdam
+snippet: The venue accommodates up to 350 guests, and plays host to live music, dance parties, club nights and special events. Events are mostly Latin-oriented, including the salsa, merengue, kizomba, and bachata, but Club Mystique Amsterdam also hosts a wider range of music parties including soul, funk, hip hop, Brazilian, lindy hop and tango.
+
+REL: 2
+POI Name: Proeflokaal A. van Wees
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, Cafes, 
+Snippets:
+
+
+REL: 2
+POI Name: De Nieuwe Anita
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Club DNA
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Cocktail Bars, Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Muziekgebouw aan 't IJ
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 2
+POI Name: Mash
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+
+
+REL: 2
+POI Name: Café ZILT
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Whiskey Bars, Beer Bar, 
+Snippets:
+
+
+REL: 2
+POI Name: Café Weber
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Bourbon street
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Jazz & Blues, 
+Snippets:
+
+
+REL: 1
+POI Name: Pompstation
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Wine Bars, Modern European, 
+Snippets:
+
+
+REL: 1
+POI Name: Café Life
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Pubs, 
+Snippets:
+title: Menu | cafe-amsterdam
+snippet: Located in the city center of Oslo, Cafe Amsterdam is a casual dining experience offering a simple yet very delicious menu with fresh, creative takes on classic dishes and drinks, and daring new ventures into the uncharted territories of flavor.
+title: Cafe Amsterdam | Oslo | Norway
+snippet: Cafe Amsterdam is a brilliant venue to hang out whether you are looking to dive into conversations with your family and friends or captivating, professionally-minded people. It&#39;s the perfect venue to celebrate social and corporate occasions from close-knit groups to the crowds of 200 guests! Do not hesitate and contact us now.
+title: Besloten feesten cafe Life
+snippet: Besloten feesten cafe Life
+title: Cafe Amsterdam, Oslo - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Amsterdam, Oslo: Se 92 objektive anmeldelser av Cafe Amsterdam, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 263 av 1 450 restauranter i Oslo.
+title: Café Life - Home | Facebook
+snippet: Café Life, Amsterdam, Netherlands. 15 likes · 1 was here. Besloten Café Life In cafe Life kan je terecht voor al je besloten feesten U bent gegarandeerd van een knalfeest als u uw feest bij ons viert...
+title: Dam Square Live Streaming Webcam, Amsterdam
+snippet: Dam square HD webcam streaming live from the NH Grand Hotel Krasnapolsky in Amsterdam, Netherlands. Here you can see on the left-hand side the beautiful neoclassical building of Royal Palace and the gothic Nieuwe Kerk (new church). On the right side there is the white Natio...
+title: Live Amsterdam Is The One And Only Party Piano Bar In The ...
+snippet: Live Amsterdam is the one and only party piano bar in the City Centre of Amsterdam. We have singing pianists and the best Dj’s who offer you and your friends live entertainment at the highest level. Our artists come from all over the world to sing your fa
+title: De 10 beste restaurantene i Amsterdam - Tripadvisor
+snippet: Beste restauranter i Amsterdam, Nederland: Se anmeldelser fra reisende og bilder av spisesteder i Amsterdam, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Bulldog??Coffee Shop?Amsterdam Live - YouTube
+snippet: Bulldog??Coffee Shop?Amsterdam Live Amsterdam Live. Loading... Unsubscribe from Amsterdam Live? ... Cafe Jazz Music 10 Hours - Relaxing Coffee Shop Background Music - Duration: ...
+title: Live music | Bars, Pubs &amp; Clubs | Amsterdam
+snippet: /Amsterdam/Alto-Jazz-Cafe_93525v. This legendary Amsterdam club is about as long as a train car, ... Popular with young urbanites, Bitterzoet is a club that specialises in live music with an edge from hip-hop to indie rock. Pay your admission on the ground … see more. Live music. Bourbon Street. Leidsekruisstraat 6 - 8
+
+REL: 1
+POI Name: Wolvenstraat 23
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Asian Fusion, Bistros, 
+Snippets:
+title: Wolvenstraat | Winkels | De 9 Straatjes, Amsterdam
+snippet: De 9 Straatjes is onderdeel van de Amsterdamse grachtengordel, welke op de Unesco Wereld Erfgoedlijst staat sinds 2010. De 9 Straatjes in Amsterdam bieden een gevarieerd aanbod aan winkels, restaurants, hotels, museums, architectuur, cultuur en kunst.
+title: Wolvenstraat 23 - Amsterdam, Netherlands - Burger ...
+snippet: Wolvenstraat 23, Amsterdam, Netherlands. 203 likes · 1,953 were here. Burger Restaurant
+title: Wolvenstraat 23 - Negen Straatjes - Amsterdam, Noord ...
+snippet: 6 reviews of Wolvenstraat 23 &quot;This place without branding, with maybe revoked renaming (was called Cafe Cake for some time - according to Yelp) is very busy at lunchtime. It&#39;s cozy and great to meet up with friends for a decent lunch. The food is…
+title: Wolvenstraat 23 Bar in Amsterdam, The Netherlands travel ...
+snippet: Wolvenstraat 23, Bar in Amsterdam, The Netherlands with the best reviews and photos for Wolvenstraat 23.
+title: Nice atmosphere and good music! - Picture of Wolvenstraat ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Nice atmosphere and good music! - Check out TripAdvisor members&#39; 50,001 candid photos and videos of Wolvenstraat 23. Amsterdam. Amsterdam Tourism Amsterdam Hotels Amsterdam Bed and Breakfast Amsterdam Vacation Rentals Amsterdam Vacation Packages
+title: Wolvenstraat 23 (Now Closed) - Asian Restaurant in Amsterdam
+snippet: wolvenstraat 23 amsterdam • wolvenstraat 23 amsterdam photos • wolvenstraat 23 amsterdam location • wolvenstraat 23 amsterdam address • wolvenstraat 23 amsterdam • wolvensteaat 23 amsterdam • wolvenstraat 23 amsterdam • wolvenstraat 23 grachtengordel-west amsterdam
+title: Wolvenstraat 23 – Amsterdam – J E M S
+snippet: Wolvenstraat 23 changed up their decor in October 2014 (oh Facebook, the source of all such knowledge) and I really like their laidback vibe. The furniture is quirky and fun. There was a lot of artwork on the walls and the bathroom sink was stunning! So if you eat there, also visit the bathroom! I really liked the menu.
+title: Wolvenstraat 23 - Picture of Wolvenstraat 23, Amsterdam ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Wolvenstraat 23 - Check out Tripadvisor members&#39; 50,841 candid photos and videos.
+title: WOLVENSTRAAT 23, Amsterdam - Omdömen om restauranger ...
+snippet: Den här tjänsten kan innehålla översättningar som drivs av Google. Google avsäger sig alla garantier relaterade till översättningar, uttryckta eller underförstådda, inklusive eventuella garantier av korrekthet, pålitlighet och alla underförstådda garantier för säljbarhet, skick för ett särskilt syfte och icke-intrång.
+title: Nice atmosphere and good music! - Picture of Wolvenstraat ...
+snippet: Wolvenstraat 23, Amsterdam Picture: Nice atmosphere and good music! - Check out Tripadvisor members&#39; 50,915 candid photos and videos.
+
+REL: 1
+POI Name: Paradiso Amsterdam
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 1
+POI Name: Roti Shop
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indian, Food Delivery Services, 
+Snippets:
+title: Roti Shop Amsterdam - 5% korting via onze website!
+snippet: Welkom op de website van Roti Shop in Amsterdam! Via onze nieuwe website kunt u online uw bestelling plaatsen voor onze bezorgservice, of om af te komen halen. U kunt uw bestelling contant aan de deur of online middels iDEAL betalen. Roti Shop Amsterdam Actie: Bij elke bestelling via onze website krijgt u 5% korting!
+title: Roopram Roti
+snippet: Roopram Roti is origineel afkomstig uit Suriname. Omdat de vraag groot was naar roti op de Nederlandse markt (o.a. door vakantiegangers uit Paramaribo), kwam heer J.Roopram op het idee om diepvries roti compleet te exporteren naar Nederland.
+title: Roti Shop - Surinaams bezorgcentrum - Surinaams, 100% ...
+snippet: Eten bestellen bij Roti Shop. Ben &amp; Jerry&#39;s 500ml. € 7,25 500ml Caramel Chew Chew Caramelroomijs met een swirl van caramel en choco-caramelchunks; € 7,25 500ml Cookie Dough Vanilleroomijs met stukken chocolate chip koekjesdeeg; € 7,25 500ml Chocolate Fudge Brownie Chocoladeroomijs met stukken chocolate fudge brownie; € 7,25 500ml Chunky Monkey Bananenroomijs met heerlijke walnoten en ...
+title: Roti Shop Amsterdam - Telefoonnummer, contactgegevens ...
+snippet: Roti Shop Amsterdam - Telefoonnummer, adres, contactinformatie. Online bestellen bij Roti Shop Amsterdam!
+title: The 15 Best Places for Roti in Amsterdam - Foursquare
+snippet: Amsterdam Magazine: Best roti within Amsterdam for very affordable prices. It&#39;s not surprising to see a line out the door at any time of day. Try the chicken roti plate. Filling, spicy, and delicious!
+title: Roti Shop in Amsterdam - Eet.nu
+snippet: Roti Shop located in Amsterdam. Order a meal immediately, read reviews by guests, have a look at its rating, address, directions, kitchen&#39;s opening hours, and restaurants nearby.
+title: Roti Shop Oslo - Home | Facebook
+snippet: Roti Shop Oslo, Oslo, Norway. 237 likes. indian subcontinent
+title: Roti Shop Amsterdam - Surinamien, 100% Halal, Roti ...
+snippet: Roti Shop, Kinkerstraat 43, 1053DD, Amsterdam. Commandez en ligne auprès de Roti Shop sur Thuisbezorgd.nl. Surinaams bezorgcentrum. Choisissez parmi Make your own menu, Starter, Rice dishes, Ben &amp; Jerry&#39;s 500ml ou Ben &amp; Jerry&#39;s 100ml
+title: Roti Shop Amsterdam - Stadsdeel West - Amsterdam, Noord ...
+snippet: 2 visitors have checked in at Roti Shop Amsterdam. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+
+REL: 1
+POI Name: Bitterzoet
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 1
+POI Name: Sportcentrum Universum
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Tennis, Sports Clubs, Climbing, 
+Snippets:
+
+
+REL: 1
+POI Name: Noorderlicht
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Music Venues, 
+Snippets:
+
+
+REL: 1
+POI Name: Deli Company
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, Sandwiches, Imported Food, 
+Snippets:
+
+
+REL: 0
+POI Name: Radijs
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Food, 
+Snippets:
+
+
+REL: 0
+POI Name: Snackbar 't Vogeltje
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Cafeteria, 
+Snippets:
+
+
+REL: 0
+POI Name: De Pure Markt
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Farmers Market, 
+Snippets:
+title: Pure Markt - Reizende zondagsmarkt in en om Amsterdam
+snippet: Locaties. De Pure Markt is een reizende zondags markt. Je vindt ons op drie vaste, groene, autovrije locaties in Amsterdam en incidenteel in een bijzondere winkelstraat van bijvoorbeeld Hilversum en Abcoude.
+title: English - Pure Markt
+snippet: The Pure Markt (Pure Market) is one of Holland’s most renowned markets; a source of exceptional, artisan, Dutch and international produce, food and creativity. Approximately 70% of our stalls are food related and the rest is a mix of designer, vintage and gift items.
+title: Pure Markt | I amsterdam
+snippet: Dates, time and places The Pure Markt is a travelling Sunday market with its base in Amsterdam. Check the website for the dates, time and places – the park travels between Amstelpark, Park Frankendael and Amsterdamse Bos. Winter markets take place this year 22 December, 11:00-17:00, at Park Frankendael.
+title: Pure Markt | I amsterdam
+snippet: De Pure Markt wil je graag kennis laten maken met ambachtelijke ondernemers op het gebied van lekker eten en drinken en een bijzonder assortiment non-food. Op de markt vind je pure producten, verkocht door de producenten zelf. Zij kunnen je informeren over de ingrediënten, herkomst en het productieproces.
+title: Pure Markt - Amsterdam, Netherlands | Facebook
+snippet: Pure Markt, Amsterdam (Amsterdam, Netherlands). 17,860 likes · 158 talking about this · 858 were here. Ambachtelijke eten, drinken en gezelligheid. Exceptional, artisan food and drink. Voor data en...
+title: Amstelpark Amsterdam - Pure Markt
+snippet: Amstelpark Amsterdam. Het Amstelpark, gelegen aan de Amstel, is ontworpen voor de Floriade van 1972, vandaar dat er in dit park nog een grote verscheidenheid aan bloemen, planten en bomen te vinden is. Een uitstekende lokatie dus voor de Pure Markt. Midden in het park vind je onze unieke deelnemers op het gebied van eten, drinken en creativiteit.
+title: Park Frankendael - Pure Markt
+snippet: Park Frankendael, Amsterdam Op de locatie van de voormalige stadskwekerij van Amsterdam vind je Park Frankendael, het grootste en belangrijkste ecologische park van de stad. De historische tuinen rondom buitenplaats Frankendael zijn in oude luister hersteld, en in Huize Frankendael vind je tegenwoordig restaurant Merkelbach.
+title: Agenda Pure Markt - Locaties, data en tijden van de Pure Markt
+snippet: Pure Markt agenda. Bekijk de Pure Markt agenda voor data, tijden en locaties van de markt. Alle locaties zijn in Amsterdam tenzij ander aangegeven. De Pure Markt is een reizende zondags markt. Je vindt ons op drie vaste, groene, autovrije locaties in Amsterdam. Af en toe zijn we te vinden in een bijzondere winkelstraat van bijvoorbeeld Hilversum.
+title: Amsterdams Märkte | Amsterdam.info
+snippet: Amsterdam » Amsterdams Märkte. Amsterdams Märkte. Das Einkaufen auf Amsterdams Märkten ist ein Ereignis der besonderen Art, farbenfrohe Stände, Live-Musik und dazu noch ausgefallene Schnäppchen und preisgünstige Souvenirs. Kaum einer der echten Einwohner würden Ihnen wiedersprechen, wenn Sie die Märkte als Teil des Amsterdamer Sozialleben bezeichnen würden.
+title: Pure Markt - Amsterdam Forum - Tripadvisor
+snippet: Answer 1 of 7: I love markets and am already planning to go to the Cuyp markt and Dappermarkt during our upcoming trip. However, I just read about this market on Sundays and it looks family friendly and different from the others. Is it big enough to make it...
+
+REL: 0
+POI Name: Restaurant Vinkeles
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+
+
+REL: 0
+POI Name: Restaurant La Luna
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Steakhouses, Argentine, 
+Snippets:
+title: Restaurant Luna
+snippet: Restaurant Luna heeft van het begin af aan een internationale en ‘rioplatense’ sfeer. Onder beheer van de Uruguayaan Oberdan, heeft het restaurant zijn eigen karakter behouden. Restaurant Luna is een opwindend trefpunt in het nachtleven van Amsterdam.
+title: LA LUNA STEAKHOUSE GRILL, Amsterdam - Centrum - Updated ...
+snippet: Reserve a table at La Luna Steakhouse Grill, Amsterdam on Tripadvisor: See 1,079 unbiased reviews of La Luna Steakhouse Grill, rated 4.5 of 5 on Tripadvisor and ranked #361 of 4,227 restaurants in Amsterdam.
+title: Restaurant Argentino Luna, Amsterdam - Centrum - Menu ...
+snippet: Reserve a table at Restaurant Argentino Luna, Amsterdam on Tripadvisor: See 1,155 unbiased reviews of Restaurant Argentino Luna, rated 4.5 of 5 on Tripadvisor and ranked #84 of 4,227 restaurants in Amsterdam.
+title: Restaurant Luna Home
+snippet: Today Restaurant Luna reflects its Rio de la Plata and international character under the guidance of the Uruguayan Oberdan, who has turned this place in a meeting point of Amsterdam&#39;s nightlife. Restaurant Luna has become a meeting point not only because it is a place to taste and enjoy the delicious specialties of the house like the grilled ...
+title: La Luna | Din norske restaurant på Costa Blanca
+snippet: Her på La luna får du servert både norske og internasjonale retter, alt laget fra bunn av og av førsteklasses råvarer. Vi kan også tilby underholdning flere kvelder i uken, hos oss kan du høre og danse til levende musikk, synge karaoke eller kanskje trimme de små grå med vår populære quiz.
+title: La Luna Steakhouse Grill, Amsterdam ...
+snippet: La Luna Steakhouse Grill, Amsterdam: Se 1 079 objektive anmeldelser av La Luna Steakhouse Grill, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 361 av 4 227 restauranter i Amsterdam.
+title: Restaurant La Luna Steakhouse Grill
+snippet: Come join us for some great food, great conversations and great memories at La Luna Steakhouse
+title: La Luna - Home - Amsterdam, Netherlands - Menu, Prices ...
+snippet: La Luna - Lange Leidsedwarsstraat 25, 1017 NE Amsterdam, Netherlands - Rated 4.8 based on 107 Reviews &quot;Fantastic! Service, food, drinks - could not...
+title: De 10 beste restaurantene i nærheten av La Luna Steakhouse ...
+snippet: Restauranter i nærheten av La Luna Steakhouse Grill på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av La Luna Steakhouse Grill, Amsterdam.
+title: La Luna in Amsterdam - Restaurant Reviews, Menu ... - TheFork
+snippet: Book a table at La Luna in Amsterdam. Find restaurant reviews, menu, prices, and hours of operation for La Luna on TheFork.
+
+REL: 0
+POI Name: Rock and Run
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Active Life, 
+Snippets:
+title: Rock + Run
+snippet: CLIMB LIMITED - T/A ROCK + RUN. Shoreline Business Park, Sandside, Cumbria, LA7 7BF. United Kingdom. Company Number: 03252430. VAT Number: GB378556010 . We DO NOT offer in-store purchase, only Click &amp; Collect.
+title: Rock and Run - Home | Facebook
+snippet: Rock and Run, Amsterdam. 6,981 likes · 1 talking about this · 266 were here. NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats vanaf de...
+title: Rock and Run, Noordermarkt, Amsterdam (2020)
+snippet: NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats vanaf de Noordermarkt in Amsterdam. Deze muzikale Fun Run van 6km en 12km wordt georganiseerd door de makers van onder andere The Color Run en Electric Run. Een editie vol muziek, verkleden en een groot feest bij de finish op de Noordermarkt.
+title: Rock and Run - Jordaan - Amsterdam, Noord-Holland, The ...
+snippet: 2 reviews of Rock and Run &quot;My favorite race in Amsterdam! Ok, my only race in Amsterdam so far... I wouldn&#39;t call myself a runner, and likewise this isn&#39;t your typical race. It&#39;s more for fun than anything else -- they don&#39;t even time you! (I…
+title: Rock and Run - Startpagina | Facebook
+snippet: Rock and Run, Amsterdam. 6.909 vind-ik-leuks · 1 personen praten hierover · 261 waren hier. NA THE COLOR RUN EN ELECTRIC RUN, NU YOU ROCK AND RUN! Op zondag 28 juni vindt YOU ROCK AND RUN plaats...
+title: Rock And Run - Athletics &amp; Sports in Amsterdam
+snippet: See 3 photos from 57 visitors to Rock And Run. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Hardlopen in Amsterdam - Hardloopkalender
+snippet: Amsterdam is een plaats waar u goed kunt hardlopen. In Amsterdam kunt u hardlopen bij de onderstaande hardloopevenementen uit de hardloopkalender. Daarnaast kunt u in Amsterdam hardlopen bij een hardloopvereniging, club of loopgroep. Start to Run of beginnen met hardlopen is ook mogelijk.
+title: Rock and Run, Amsterdam – The Cuban Brothers!
+snippet: Rock and Run, Amsterdam. By Kengo June 5, 2012 No Comments. While everyone in the UK was busy celebrating the Diamond Jubilee, the Brothers were Rocking and Running in Amsterdam. An event that combines music with a 6K run, The Jacks kicked off the stage in the early afternoon as the runners took to the course.
+
+REL: 0
+POI Name: Dim Sum Thing
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Dim Sum, 
+Snippets:
+title: Dim Sum Thing
+snippet: Dim Sum Thing. 51 Bellamyplein, Amsterdam, NH, 1053
+title: Dim Sum Thing, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Dim Sum Thing, Amsterdam: Se 24 objektive anmeldelser av Dim Sum Thing, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 818 av 4 227 restauranter i Amsterdam.
+title: Dim Sum Thing, Amsterdam - Oud West - Menu, Prices ...
+snippet: Dim Sum Thing, Amsterdam: See 24 unbiased reviews of Dim Sum Thing, rated 4 of 5 on Tripadvisor and ranked #1,818 of 4,230 restaurants in Amsterdam.
+title: DIM SUM THING, Amsterdam - Oud West - Updated 2020 ...
+snippet: Dim Sum Thing, Amsterdam: See 24 unbiased reviews of Dim Sum Thing, rated 4 of 5 on Tripadvisor and ranked #1,818 of 4,235 restaurants in Amsterdam.
+title: Contact — Dim Sum Thing
+snippet: Opening times Monday till thursday and sunday 12:00 - 21:00. Dim Sum Thing. 51 Bellamyplein,
+title: Dim Sum Thing - Home - Amsterdam, Netherlands - Menu ...
+snippet: Dim Sum Thing, Amsterdam. 557 likes · 133 were here. We are bringing Hong Kong to De Foodhallen!!! Dim Sum, which translates as &quot;to touch your heart&quot; is a Cantonese specialty consisting of several...
+title: 10 x dim sum in Amsterdam | I amsterdam
+snippet: Pair your dim sum with a few pieces of sushi, some ramen or other Chinese and Japanese specialties for a culinary trip around Asia; your taste buds will thank you. Cha House, Linnaeusstraat 18. Dim Sum Thing. Located in the Foodhallen in Amsterdam Oud-West, Dim Sum Thing is where you go when you want dim sum fast.
+title: Dim Sum from Dim Sum Thing - Picture of Foodhallen, Amsterdam
+snippet: Foodhallen, Amsterdam Picture: Dim Sum from Dim Sum Thing - Check out Tripadvisor members&#39; 52,464 candid photos and videos of Foodhallen
+title: Dim Sum in Amsterdam &gt;&gt; Amsterdam City Guide &gt;&gt;
+snippet: 10 x the best dim sum in amsterdam. One Dim Sum: on the Overtoom in Amsterdam West there’s a restaurant dedicated to dim sum.From steamed to fried, and delicious bao buns! Billie’s Bar: at the Westergasterrein you can find Billie’s Bar, named after the jazz legend Billie Holiday. Music is a big thing over here. Same as the food though, ’cause it’s really good.
+title: Dim Sum Thing - Posts | Facebook
+snippet: Dim Sum Thing, Amsterdam. 558 likes · 11 talking about this · 126 were here. We are bringing Hong Kong to De Foodhallen!!! Dim Sum, which translates as &quot;to touch your heart&quot; is a Cantonese specialty...
+
+REL: 0
+POI Name: Student bike
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Active Life
+POI Sub category: Advertising, Bike Repair/Maintenance, Bike Rentals, 
+Snippets:
+title: Where to rent a bike in Amsterdam - Dutch Style Bike
+snippet: To rent a bike in Amsterdam for a short-term, you can go for MacBike of Yellow Bike. If you are a student definitely consider free bikes from student-bike.nl. The cheapest place to rent a sturdy old Dutch bike is DiscountBikeRental.
+title: StudentBike - Product/dienst - Amsterdam - 69 foto&#39;s ...
+snippet: Student-bike is op zoek naar toppers voor het wissel team in Amsterdam! Vrijdag 30 november en maandag 3 december t/m woensdag 5 december. Ken je of ben je iemand die één of meerdere van deze dagen wil werken? Reageer dan onder dit bericht! Product/dienst. Chatbericht sturen.
+title: The Student Hotel
+snippet: The Student Hotel (TSH) websites use cookies and similar technologies (such as tags). TSH and our selected third parties use cookies to make our website work properly and to provide you with an optimal user experience as well as show you relevant and personal advertisements on third party websites.
+title: Local Tips: Buying a Second Hand Bike in Amsterdam Online ...
+snippet: If you’re buying a used bicycle in Amsterdam at a store, don’t just pop into the first shop you see to buy a bike. Go online, look up bike shops, and check to see if they have any reviews. This is important because buying a used bike from a store vs. online means that you’ll be paying a premium.
+title: Cycling in Amsterdam | I amsterdam
+snippet: All you need to know about cycling in Amsterdam. Even if you only pedal around for a few hours, riding a bike is an essential Amsterdam experience.Renting a bike or taking a guided cycle tour is a great way to discover the city and can be quite an adventure. Exploring the city on a bike lets you see more in a day, while blending in with the locals at the same time.
+title: The Student Hotel: FAQ&#39;s
+snippet: Yes, you can bring your bike, but you cannot use our bike storage for this. If you bring your own bike, you will need to park it somewhere else. If you are a student guest, you will have access to a TSH bike. You can of course choose not to use it, but the package price will remain the same.
+title: StudentBike - Product/Service - Amsterdam, Netherlands ...
+snippet: Student-bike is op zoek naar toppers voor het wissel team in Amsterdam! Vrijdag 30 november en maandag 3 december t/m woensdag 5 december. Ken je of ben je iemand die één of meerdere van deze dagen wil werken? Reageer dan onder dit bericht! StudentBike. Product/Service.
+title: Student jobs in Amsterdam, Netherlands | Erasmusu.com
+snippet: Student offers in Amsterdam, Netherlands. All job offers and internships for students and Erasmus in Amsterdam, study and work at the same time. Student jobs in Amsterdam, Netherlands | Erasmusu.com
+title: Finding housing in Amsterdam | I amsterdam
+snippet: DUWO is the largest provider of student accommodation in the Netherlands, and Ymere (website in Dutch) offers properties in Amsterdam, Haarlem, Leiden, Alkmaar and surrounding areas. Websites for finding student accommodation. You can also check out these websites to find alternative student housing, including temporary and long term options.
+title: Bikes - Black Bikes
+snippet: At Black Bikes we have multiple types of bikes available for rent. The most commonly known is the handbrake bicycle, but be sure to have a look at our other types of bicycle. It is possible to book your bike online and pick it up at any of our 14 locations in Amsterdam.
+
+REL: 0
+POI Name: Bimhuis
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+
+
+REL: 0
+POI Name: De Vondelbunker
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Cultural Center, 
+Snippets:
+title: De Vondelbunker | autonoom cultureel centrum
+snippet: We have decided that we will completely close down and suspend all public activities at the Vondelbunker until further notice. It is the only responsible thing to do for our community at large. In a post about one of our most recent events, a tongue-in-cheek joke was made about kissing strangers rather than shaking hands.
+title: Vondelbunker (Amsterdam, Nederland) - Anmeldelser
+snippet: Vondelbunker, Amsterdam: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Vondelbunker i Amsterdam, Nederland på Tripadvisor. ... Den Vondelbunker er en av de mest avgjørende lokasjoner hvor Amsterdams alternativ kultur kan bli funnet i form av båndet netter, ...
+title: De Vondelbunker | Location in Amsterdam - LikeALocal Guide
+snippet: Not many people know about this place. That has multiple reasons: It&#39;s a hide out (they did that well) and there&#39;s not an agenda with weekly events. You have to be lucky to walk into a party in De ...
+title: De 10 beste hotellene i nærheten av Vondelbunker
+snippet: Hoteller i nærheten av Vondelbunker, Amsterdam: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Vondelbunker på Tripadvisor.
+title: Vondelbunker - Home | Facebook
+snippet: Vondelbunker, Amsterdam, Netherlands. 12,325 likes · 9 talking about this · 2,858 were here. Underground culture, autonomous spaces and DIY politics at the Vondelbunker: free to use and free to...
+title: Vondelbunker - Amsterdam Message Board - Tripadvisor
+snippet: Amsterdam Tourism Amsterdam Hotels Bed and Breakfast Amsterdam Amsterdam Holiday Rentals Flights to Amsterdam Amsterdam Restaurants Amsterdam Attractions Amsterdam Travel Forum Amsterdam Photos Amsterdam Map Amsterdam Guide All Amsterdam Hotels; Amsterdam Hotel Deals; Last Minute Hotels in Amsterdam; By Hotel Type Amsterdam Hostels; Amsterdam ...
+title: THE 10 CLOSEST Hotels to Vondelbunker, Amsterdam ...
+snippet: Hotels near Vondelbunker, Amsterdam on Tripadvisor: Find 27,175 traveler reviews, 50,338 candid photos, and prices for 30 hotels near Vondelbunker in Amsterdam, The Netherlands.
+title: Vondelbunker - Amsterdam Forum - Tripadvisor
+snippet: Amsterdam Hotels Amsterdam Guest House Amsterdam Holiday Homes Amsterdam Holiday Packages Amsterdam Flights Amsterdam Restaurants Amsterdam Attractions Amsterdam Travel Forum Amsterdam Photos Amsterdam Map Amsterdam Visitors Guide All Amsterdam Hotels; Amsterdam Hotel Deals; Last Minute Hotels in Amsterdam; By Hotel Type Amsterdam Hostels
+title: Vondelbunker - Amsterdam Forum - Tripadvisor
+snippet: -:- Message from Tripadvisor staff -:-This topic has been closed to new posts due to inactivity. We hope you&#39;ll join the conversation by posting to an open topic or starting a new one.
+title: Vondelbunker - Amsterdam Forum - Tripadvisor
+snippet: Amsterdam Accommodation Amsterdam Bed and Breakfast Amsterdam Holiday Rentals Amsterdam Holiday Packages Amsterdam Flights Amsterdam Restaurants Amsterdam Attractions Amsterdam Travel Forum Amsterdam Photos Amsterdam Map Amsterdam Guide All Amsterdam Hotels; Amsterdam Hotel Deals; Last Minute Hotels in Amsterdam; By Hotel Type Amsterdam Hostels
+
+REL: 0
+POI Name: Q-Factory
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Cafes, 
+Snippets:
+
+
+REL: 0
+POI Name: Harlem Soul Food
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Soul Food, Bars, 
+Snippets:
+
+
+REL: 0
+POI Name: Snacks Falafel
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, 
+Snippets:
+title: Snacks Falafel - Centrum - Amsterdam, Noord-Holland, The ...
+snippet: Snacks Falafel in Amsterdam, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Amsterdam and beyond.
+title: The 15 Best Places for Falafel in Amsterdam - Foursquare
+snippet: The 15 Best Places for Falafel in Amsterdam. Created by Foursquare Lists • Published On: April 2, 2020. Share. ... Snack Place · Jordaan · 15 tips and reviews. Renato Valdes Olmos: ... The 15 Best Places with Bar Games in Amsterdam. The 15 Best Places for Croquettes in Amsterdam.
+title: snacks falafel - Stadsdeel Centrum - 3 visitors
+snippet: 3 visitors have checked in at snacks falafel. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Snackkebab - Voor uw lekkerste snacks &amp; kebab! - Turkse ...
+snippet: Eten bestellen bij Snackkebab. Turkse pizza. Geserveerd met ijsbergsla, tomaat, komkommer, ui, een bakje knoflooksaus en een bakje sambal tenzij anders vermeld
+title: THE BEST Falafel in Amsterdam (Updated April 2020 ...
+snippet: Best Falafel in Amsterdam, North Holland Province: Find 10,173 Tripadvisor traveller reviews of THE BEST Falafel and search by price, location, and more.
+title: Tasty Snacks &amp; Falafel - Home | Facebook
+snippet: Tasty Snacks &amp; Falafel. 643 likes. Snacks &amp; Falafel. Facebook is showing information to help you better understand the purpose of a Page.
+title: One of the absolute best snacks in the... - Sonny Falafel
+snippet: Sonny Falafel: One of the absolute best snacks in the city - See 125 traveler reviews, 13 candid photos, and great deals for Amsterdam, The Netherlands, at Tripadvisor.
+title: Dr. Falafel, Amsterdam - Restaurantanmeldelser - Tripadvisor
+snippet: Dr. Falafel, Amsterdam: Se 4 objektive anmeldelser av Dr. Falafel, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 3 548 av 4 233 restauranter i Amsterdam.
+title: Halal Falafel Fast Food, Amsterdam - Restaurantanmeldelser ...
+snippet: Halal Falafel Fast Food, Amsterdam: Se 28 objektive anmeldelser av Halal Falafel Fast Food, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 924 av 4 235 restauranter i Amsterdam.
+title: Sonny Falafel and Fries
+snippet: This falafel and humus themselves are unique because Sonny has worked really hard to perfect his recipe for these dishes. What makes Sonny&#39;s falafel special is not only the fresh ingridients and secret recipe, but also that they are completely gluten free! Any visit to Amsterdam is not complete without a taste.
+
+REL: 0
+POI Name: Koh-I-Noor
+POI City: Amsterdam
+POI Country: NL
+POI Main category: Restaurants and Food
+POI Sub category: Indian, 
+Snippets:
+
+
+Cand cities: {'Amsterdam'}

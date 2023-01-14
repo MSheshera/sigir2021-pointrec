@@ -1,0 +1,1349 @@
+City: Rome
+Country: IT
+Main category: Nightlife
+Sub category: Pubs - Bars
+Description: Hi, everyone! Can you recommend a good pub/bar in Trastevere area (near the Santa Maria in Trastevere church), that offers good beer, not too touristy, doesn't hurt our pockets, and with a good ambiance?  EDIT:: RomeVacationTips: Yes! This fulfils everything you're asking for: Ma Che Siete Venuti a Fà at Via Benedetta 25. Friendly place, no tourists, great beers. celardog: Wow, I searched the place and it looks great! We'll definitely try to give it a visit! Thanks for the recommendation!
+Rated POIs: 48
+Rel distr: [(0, 5), (1, 10), (2, 12), (3, 21)]
+=================================
+REL: 3
+POI Name: Bandana Republic
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Bandana Republic, Rome - Salario - Menu, Prices ...
+snippet: Reserve a table at Bandana Republic, Rome on Tripadvisor: See 297 unbiased reviews of Bandana Republic, rated 4 of 5 on Tripadvisor and ranked #2,146 of 12,182 restaurants in Rome.
+title: Bandana Republic, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Bandana Republic, Roma: Se 297 objektive anmeldelser av Bandana Republic, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 2 146 av 12 182 restauranter i Roma.
+title: Bandana Republic | Irish Pub
+snippet: Nato nel Marzo 1994 il Bandana Republic, uno dei primi Irish pub a Roma, diviene presto il punto di riferimento del quartiere, supera ogni moda e tendenza e viene considerato il &quot; local &quot; per gli abitanti della zona. È facile infatti essere conquistati dall&#39;atmosfera calda e amichevole che si respira al Bandana.
+title: Apparel, Handbags and Accessories for ... - Banana Republic
+snippet: Banana Republic offers modern, refined clothing and accessories for men and women. We offer the business casual clothes you want to wear to work and stylish weekend wear from jeans and shorts to casual dresses. Shop today to find a look that fits any occasion.
+title: BANDANA REPUBLIC, Rome - Salario - Updated 2020 Restaurant ...
+snippet: Reserve a table at Bandana Republic, Rome on Tripadvisor: See 297 unbiased reviews of Bandana Republic, rated 4 of 5 on Tripadvisor and ranked #2,143 of 12,178 restaurants in Rome.
+title: THE 10 BEST Restaurants Near Bandana Republic in Rome ...
+snippet: Restaurants near Bandana Republic, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Bandana Republic in Rome, Italy.
+title: Bandana Republic, Rome - Salario - Menu, Prices ...
+snippet: Bandana Republic, Rome: See 297 unbiased reviews of Bandana Republic, rated 4 of 5 on Tripadvisor and ranked #2,146 of 12,182 restaurants in Rome.
+title: Bandana Republic in Rome - Restaurant Reviews, Menu and ...
+snippet: Book a table at Bandana Republic in Rome. Find restaurant reviews, menu, prices, and hours of operation for Bandana Republic on TheFork.
+title: Shop Banana Republic for Contemporary Clothing for Women &amp; Men
+snippet: Shop Banana Republic for versatile, contemporary classics, designed for today with style that endures. Through thoughtful design, we create clothing and accessories with detailed craftsmanship in luxurious materials. Free shipping on all orders of $50+
+title: Bandana Republic, Rom - Salario - Menü, Preise ...
+snippet: Bandana Republic, Rom: 297 Bewertungen - bei Tripadvisor auf Platz 2.146 von 12.182 von 12.182 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+
+REL: 3
+POI Name: Bar San Calisto
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: BAR SAN CALISTO, Rome - Trastevere - Updated 2020 ...
+snippet: Bar San Calisto, Rome: See 637 unbiased reviews of Bar San Calisto, rated 4.5 of 5 on Tripadvisor and ranked #344 of 12,180 restaurants in Rome.
+title: Bar San Calisto, Rome - Trastevere - Restaurant Reviews ...
+snippet: Bar San Calisto, Rome: See 637 unbiased reviews of Bar San Calisto, rated 4.5 of 5 on Tripadvisor and ranked #343 of 12,183 restaurants in Rome.
+title: Bar San Calisto | Bars and pubs in Rome - Time Out Rome
+snippet: Situated just around the corner from Trastevere&#39;s main square, Bar San Calisto’s patio tables are full nearly every hour of the day. The dive-y bar is more retro coffee shop than cocktail lounge ...
+title: Bar San Calisto, Rom - Trastevere - Restaurant Bewertungen ...
+snippet: Bar San Calisto, Rom: 637 Bewertungen - bei Tripadvisor auf Platz 343 von 12.183 von 12.183 Rom Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: Bar San Calisto, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Bar San Calisto, Roma: Se 637 objektive anmeldelser av Bar San Calisto, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 343 av 12 183 restauranter i Roma.
+title: Bar San Calisto - Nightlife in Rome - LikeALocal Guide
+snippet: Why locals love it. This bar is a local icon. It’s a good place to meet up with friends to drink possibly the cheapest Peroni in Rome. It’s by no means a chic lounge bar – it’s just a typical old bar with an authentic 70s atmosphere.
+title: Bar San Calisto in Trastevere ... - An American in Rome
+snippet: Bar San Calisto is long reopened so go and enjoy. I’m not sure that I have ever been tagged more on social media as when Bar San Calisto in Trastevere was temporarily closed on June 28th. Whenever I write a guide to Rome , I always manage to include Bar San Calisto because the old school bar is truly an institution.
+title: BAR SAN CALISTO, Roma - Trastevere - Ristorante Recensioni ...
+snippet: Bar San Calisto, Roma: su Tripadvisor trovi 637 recensioni imparziali su Bar San Calisto, con punteggio 4,5 su 5 e al n.343 su 12.183 ristoranti a Roma.
+title: Hotel Residenza San Calisto Rome – Official Site - Home
+snippet: The Hotel Residenza San Calisto is a small exclusive boutique Hotel, located just a stone’s from the magnificent and picturesque square of Santa Maria in Trastevere. This boutique Hotel in Rome is the result of the skilful restoration of a 18th century building.
+title: Bar San Callisto - Home | Facebook
+snippet: Bar San Callisto - piazza di San Callisto 3, 00100 Rome, Italy - Rated 5 based on 4 Reviews &quot;Die Bar San Callisto wird geschlossen, weil das Publikum...
+
+REL: 3
+POI Name: Ice Club
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, Lounges, Cocktail Bars, 
+Snippets:
+title: Ice Club (Rome) - 2020 All You Need to Know BEFORE You Go ...
+snippet: Home to some of the world’s most iconic paintings, the Vatican Museums attract huge crowds. Save yourself hours of waiting by booking this skip-the-line tour of the Sistine Chapel, Raphael’s Rooms, and St. Peter’s Basilica in Rome.
+title: Ice Club (Rome) : 2020 Ce qu&#39;il faut savoir pour votre ...
+snippet: Découvrez les principaux symboles de la Rome antique lors d&#39;une visite guidée incluant un accès coupe-file. Entrez rapidement dans le Colisée avec des billets prioritaires et explorez l&#39;amphithéâtre avec un guide pour en apprendre davantage sur son histoire. Écoutez des histoires sur les féroces combats de gladiateurs et sur l&#39;architecture de la structure antique.
+title: Ice club Roma, the Rome ice club
+snippet: ice club roma, we are open...our web site will be back soon, we are almost ready!!!
+title: THE 10 BEST Restaurants Near Ice Club in Rome, Lazio ...
+snippet: Restaurants near Ice Club, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Ice Club in Rome, Italy.
+title: Ice Club (Rom) - Aktuelle 2020 - Lohnt es sich? (Mit fotos)
+snippet: Entdecken Sie die wichtigsten Sehenswürdigkeiten des antiken Roms auf einer geführten Tour mit Keine-Warteschlange-Zugang. Betreten Sie das Kolosseum schnell mit Premium-Eintrittskarten und erkunden Sie das Amphitheater mit einem Reiseleiter, um mehr über seine Geschichte zu erfahren.
+title: Ice Club Roma - Home | Facebook
+snippet: Ice Club Roma - Via Della Madonna Dei Monti 18/19, 00184 Rome, Italy - Rated 4.5 based on 823 Reviews &quot;It was a freezing and fun experience at the same...
+title: Ice Club | Rome | UPDATED April 2020 Top Tips Before You ...
+snippet: Ice Club, Rome: See 918 reviews, articles, and 760 photos of Ice Club, ranked No.9 on Tripadvisor among 460 attractions in Rome.
+title: De 10 beste hotellene i nærheten av Ice Club - Tripadvisor
+snippet: Hoteller i nærheten av Ice Club, Roma: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Ice Club på Tripadvisor. ... Hvilke hoteller i nærheten av Ice Club i Roma har rom med flott utsikt? Disse hoteller i nærheten av Ice Club i Roma har flott utsikt og er godt likt av reisende: Residenza Maritti - Vurdering fra ...
+
+REL: 3
+POI Name: Roof Garden & Bar
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Wine Bars, Cafeteria, 
+Snippets:
+title: 17 Best Rooftop Bars in Rome [2020 UPDATE]
+snippet: The Rome rooftop bars are often centrally located and overlooking the city&#39;s historic buildings. The location of the roof terraces here is often at a luxurios hotel or on the roof of a fancy restaurant. Check out the city map for rooftop bars in Rome down below and you will find the best places to drink with a view, close to you.
+title: Minerva Roof Garden - Rooftop bar in Rome | The Rooftop Guide
+snippet: Rooftop garden; Minerva Roof Garden is a centrally located rooftop bar in Rome, set right by the famous Pantheon and perched on the 8th floor of the five star Grand Hotel De La Minerve. The prices are quite high, but the view, food and drink menu really makes it worthwhile.
+title: Roof Garden Hotel Forum, Rome | Welcome Official Website
+snippet: Welcome to the Restaurant Roof Garden of Hotel Forum Rome. Only the finest 4 stars in Rome offer in house restaurants and you&#39;re cordially invited to dine with us at our superior quality Rooftop Restaurant!We are open every day at Lunch and Dinner, closed on Sunday evening.
+title: Roof Garden Bar Eighty Seven, Rome - Colonna - Restaurant ...
+snippet: Roof Garden Bar Eighty Seven, Rome: See 12 unbiased reviews of Roof Garden Bar Eighty Seven, rated 4 of 5 on Tripadvisor and ranked #6,743 of 12,182 restaurants in Rome.
+title: Minerva Roof Restaurant, Rome - Pigna - Menu, Prices ...
+snippet: Minerva Roof Restaurant, Rome: See 325 unbiased reviews of Minerva Roof Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #4,336 of 12,180 restaurants in Rome. ... and wine bars, or peek at a neighborhood museum or monument. If you want nonstop movida, the streets here are busy with chic bicyclists and Vespa ...
+title: Ristorante Roof Garden Hotel Forum Roma, Rom - Monti ...
+snippet: Ristorante Roof Garden Hotel Forum Roma, Rom: 1.119 Bewertungen - bei Tripadvisor auf Platz 1.392 von 12.183 von 12.183 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: Roof Garden Bar Eighty Seven, Roma - Restaurantanmeldelser ...
+snippet: Roof Garden Bar Eighty Seven, Roma: Se 11 objektive anmeldelser av Roof Garden Bar Eighty Seven, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 6 951 av 12 166 restauranter i Roma.
+title: Atlante Hotel Roof Garden, Roof Garden restaurant Rome
+snippet: The Roof Garden restaurant in Rome is a stunning location for lunch, dinners, aperitifs and events. On our terrace you will enjoy the unique view on San Pietro and Vatican City, The rich menu will satisfy every different taste, while the environment where nature and history meet each other, will make your meal even...
+title: Minerva Roof Garden - Ristorante Roma
+snippet: La famosa terrazza: il Minerva Roof Garden, ospita l’esclusivo Ristorante, vero fiore all’occhiello di gourmandise, che oltre a regalare emozioni raffinate al palato, seduce i propri ospiti con la meravigliosa vista a 360 ° su Roma, un loggione dal quale godere appieno dei tramonti e delle serate romane.
+title: ROOF GARDEN RESTAURANT &amp; BAR, Rome - Esquilino - Menu ...
+snippet: Reserve a table at Roof Garden Restaurant &amp; Bar, Rome on Tripadvisor: See 60 unbiased reviews of Roof Garden Restaurant &amp; Bar, rated 4 of 5 on Tripadvisor and ranked #5,117 of 12,180 restaurants in Rome.
+
+REL: 3
+POI Name: Sessantotto Montesacro
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Sessantotto Montesacro - Rome, Italy - Lounge, Pub | Facebook
+snippet: Sessantotto Montesacro, Rome, Italy. 688 likes. Lounge. Ciao Francesco, ci siamo conosciuti ieri sera, ti propongo la nostra band per fare musica dal vivo nel tuo spazio, tutta musica rock ballabile anni 50/60, noi siamo i Very Vintage Band ... puoi scoprire di più su di noi su - www veryvintageband . com ... se sei interessato contattaci pure ... un saluto !!!
+title: Beat Montesacro, Rome - Monte Sacro - Restaurant Reviews ...
+snippet: Beat Montesacro, Rome: See 44 unbiased reviews of Beat Montesacro, rated 4 of 5 on Tripadvisor and ranked #5,639 of 12,183 restaurants in Rome.
+title: Sessantotto Village - Picture of Beat Montesacro, Rome ...
+snippet: Beat Montesacro, Rome Picture: Sessantotto Village - Check out Tripadvisor members&#39; 50,194 candid photos and videos of Beat Montesacro
+title: Sessantotto Village - Home | Facebook
+snippet: Sessantotto Village · Rome, Italy. 22 people interested. Sessantotto Village added an event. August 9 · SAT, AUG 10. Festa Di Chiusura Del Sessantotto Village. Sessantotto Village · Rome, Italy. 22 people interested. See All.
+title: Vinea Montesacro - Rome, Italy | Facebook
+snippet: Vinea Montesacro - Via Conca d&#39;Oro, 38, 00141 Rome, Italy - Rated 5 based on 85 Reviews &quot;Great food and wine, impeccable service by knowledgeable and...
+title: Sessantotto Montesacro - Roma, Lazio - Foursquare
+snippet: See 13 photos and 2 tips from 55 visitors to Sessantotto Montesacro. &quot;Non solo pub, ma vero e proprio circolo culturale. Splendido locale per rivivere ... Planning a trip to Rome? Foursquare can help you find the best places to go to. Find great things to do.
+title: #ipazzisietevoi - Picture of Beat Montesacro, Rome ...
+snippet: Beat Montesacro, Rome Picture: #ipazzisietevoi - Check out Tripadvisor members&#39; 50,373 candid photos and videos of Beat Montesacro
+title: Sessantotto Montesacro - Pubs - Via di Monte Sacro 15 ...
+snippet: Sessantotto Montesacro à Rome, avis rédigés par de vraies personnes. Yelp permet un moyen facile et amusant pour trouver, recommander et discuter des endroits, que vous aimez ou pas à Rome et ses alentours.
+title: Stefano Montesacro | Facebook
+snippet: Stefano Montesacro (Sessantotto) is on Facebook. To connect with Stefano, sign up for Facebook today. Log In. or. Sign Up. About Stefano Montesacro. Work. Beat. Boss · September 30, 2014 to present. Sessantotto Montesacro. Boss · April 11, 2012 to present · Rome, Italy. Sessantotto Village. Boss. Current City and Hometown.
+title: Sessantotto Montesacro, Rome 00141, Local business
+snippet: Sessantotto Montesacro, Local business, Via di Montesacro, 4, Rome 00141
+
+REL: 3
+POI Name: Mr. Brown
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Mr. Brown - Trastevere - Home | Facebook
+snippet: Mr. Brown - Trastevere - Vicolo De&#39; Cinque 29, 00153 Rome, Italy - Rated 4.9 based on 104 Reviews &quot;Some people say when you visit Rome, you must see the...
+title: Mr. Brown - Picture of Mr. Brown, Rome - Tripadvisor
+snippet: Mr. Brown, Rome Picture: Mr. Brown - Check out Tripadvisor members&#39; 50,044 candid photos and videos of Mr. Brown
+title: Mr. Brown - Picture of Mr. Brown, Rome - Tripadvisor
+snippet: Mr. Brown, Rome Picture: Mr. Brown - Check out Tripadvisor members&#39; 50,033 candid photos and videos of Mr. Brown
+title: photo1.jpg - Picture of Mr. Brown, Rome - Tripadvisor
+snippet: Mr. Brown, Rome Picture: photo1.jpg - Check out Tripadvisor members&#39; 50,369 candid photos and videos of Mr. Brown
+title: Book Mr. Charlie Brown in Rome | Hotels.com
+snippet: Mr. Charlie Brown is located in Rome&#39;s Vatican neighborhood. Vatican Museums and Borghese Gallery are cultural highlights, and some of the area&#39;s popular attractions include Spanish Steps and Trevi Fountain. Looking to enjoy an event or a game? See what&#39;s going on at Stadio Olimpico or PalaLottomatica.
+title: The time Caitlyn Jenner met Mrs Brown | All Round To Mrs ...
+snippet: Subscribe and to OFFICIAL BBC YouTube https://bit.ly/2IXqEIn Stream original BBC programmes FIRST on BBC iPlayer https://bbc.in/2J18jYJ Mrs Brown asks Caitlyn Jenner about Kim Kardashian&#39;s and the ...
+title: Granddad&#39;s Thermometer Reading - Mrs. Brown&#39;s Boys ...
+snippet: Mrs. Brown is eager to help Doctor Quinn perform Granddad&#39;s rectal reading, and the mischievous matriarch can&#39;t hide her delight when the procedure goes painfully wrong. Episode 1 - Monday 21st ...
+title: Motus: IP-Ban &quot;Mr_Brown&quot; on Senate of Rome
+snippet: Mr_Brown is a well known autistic 12 years old little kid who loves to stumble around Judea and spreads his cancer. He was a good meme at the beginning and he served his entertainment purposes. However, he is getting out of hand and his cancerous behaviour is significantly worsen recently.
+title: Mr. Brown 6th Grade - Home
+snippet: Mr. Lewis&#39;s Homeroom has an MCAS Packet to do over vacation that will be collected the Monday (April 23) we return from vacation----it will be a test grade April 10 Parent/Teacher Conferences begin tomorrow--look forward to seeing you all!!! April 9 PICTURE DAY is tomorrow April 2 All Parent/Teacher Conference information went home today.
+title: Deluxe Room - Picture of B&amp;B Mr. Brown, Rome - Tripadvisor
+snippet: B&amp;B Mr. Brown, Rome Picture: Deluxe Room - Check out Tripadvisor members&#39; 50,213 candid photos and videos.
+
+REL: 3
+POI Name: Ma Che Siete Venuti a Fa'
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, Breweries, 
+Snippets:
+title: Ma che siete venuti a fa, Rome - Trastevere - Restaurant ...
+snippet: Ma che siete venuti a fa, Rome: See 739 unbiased reviews of Ma che siete venuti a fa, rated 4.5 of 5 on Tripadvisor and ranked #330 of 12,183 restaurants in Rome.
+title: MA CHE SIETE VENUTI A FA&#39; - Home | Facebook
+snippet: MA CHE SIETE VENUTI A FA&#39; - Via benedetta 25, 00153 Rome, Italy - Rated 4.7 based on 615 Reviews &quot;Funky little bar across the river in Rome. Not too far...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: On Location: Ma Che Siete Venuti A Fà in Rome
+snippet: A lively street scene and animated nightlife draw both locals and tourists to the west bank of the Tiber River for an evening of entertainment. In the heart of Trastevere, you’ll find Ma Che Siete Venuti A Fà, the city’s most famous beer bar and the first to feature independent breweries exclusively.
+title: MA CHE SIETE VENUTI A FA, Roma - Trastevere - Ristorante ...
+snippet: Ma che siete venuti a fa, Roma: su Tripadvisor trovi 739 recensioni imparziali su Ma che siete venuti a fa, con punteggio 4,5 su 5 e al n.330 su 12.183 ristoranti a Roma.
+title: Beste spisesteder i nærheten av Ma che siete venuti a fa, Roma
+snippet: Restauranter i nærheten av Ma che siete venuti a fa på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Ma che siete venuti a fa, Roma.
+title: MA CHE SIETE VENUTI A FA&#39; | Trastevere | Roma
+snippet: From 2001 in the heart of Rome, Trastevere, &quot;Ma che siete venuti a fa&quot; is the pioneer pub of Italian craft beer scene.A continuous research of the best selection of national and international brews. Always new events hosting brewers and microbreweries.
+title: MA CHE SIETE VENUTI A FA&#39; - Home | Facebook
+snippet: MA CHE SIETE VENUTI A FA&#39; - Via benedetta 25, 00153 Rome, Italy - Rated 4.7 based on 627 Reviews &quot;There are no words to describe the ambience of this...
+title: Ma che siete venuti a fa, Rome - Trastevere - Restaurant ...
+snippet: Ma che siete venuti a fa, Rome: See 739 unbiased reviews of Ma che siete venuti a fa, rated 4.5 of 5 on Tripadvisor and ranked #332 of 12,179 restaurants in Rome.
+title: Ma Che Siete Venuti a Fà | Bars and pubs in Rome
+snippet: But what Ma Che Siete Venuti a Fà lacks in space, it makes up for with major beer credentials and a laid-back vibe that makes you want to lean up against the wall outside with another round.
+
+REL: 3
+POI Name: overtime
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: World&#39;s Best Gaming Room | Overtime 10 | Dude Perfect ...
+snippet: The ULTIMATE gaming room, a new host of Wheel Unfortunate, and a hilarious hot dog betcha Come to the DP Summer Tour!!! ? https://dudeperfect.com/tour/ ? ...
+title: Overtime : Big Rome (Dir. @DynamicVonn) - YouTube
+snippet: This video is unavailable. Watch Queue Queue. Watch Queue Queue
+title: Working hours in Italy - Life in Italy
+snippet: However, work rights are common to every type of worker regardless of their job; in fact, as far as working hours are concerned, state regulations are applied all over the country: the Legge n.133 del 2008, articles 2107 to 2109, contained in the Codice Civile (Civil Code) and the Legge n. 183 del 2010 (“Collegato lavoro“) are those related to such matter.
+title: Overtime With SDGuy1234 - YouTube
+snippet: Live Play On Riches Of Rome Slot Machine - Duration: 13 minutes, 50 seconds. Overtime With SDGuy1234. 1 month ago; ... Overtime With SDGuy1234 uploaded a video 4 months ago
+title: Overtime - Wiki - innsida.ntnu.no
+snippet: Overtime for people paid by the hour # Employees who are paid by the hour can receive overtime pay if they have worked normal hours of work for a full day and the overtime work is required. Compensatory time off instead of overtime pay # If you have worked obligatory overtime, you can take compensatory time off for the equivalent number of hours.
+title: HELL FIRE CLUB - ex Overtime - Home | Facebook
+snippet: HELL FIRE CLUB - ex Overtime - VIA DEI MARSI N.15, 00185 Rome, Italy - Rated 4.7 based on 82 Reviews &quot;-This must be the place: &quot;Home is where I want to...
+title: Hotel Overtime (Imeni Morozova, Russland) | Expedia.no
+snippet: Hvis du bor på dette hotellet ved stranden i Imeni Morozova, får du 3,5-stjerners standard. Stedet har blant annet wi-fi (inkludert), parkering (uten ekstra kostnad) og en restaurant. Les anmeldelser fra gjester som har overnattet på Hotel Overtime, og se oppdaterte priser på ledige rom – som du kan bestille med det samme. - Hotel Overtime: hotellinformasjon, bilder, virtuell omvisning ...
+title: Roman Army - Ancient History Encyclopedia
+snippet: The Roman army, famed for its discipline, organisation, and innovation in both weapons and tactics, allowed Rome to build and defend a huge empire which for centuries would dominate the Mediterranean world and beyond.. Overview. The Roman army, arguably one of the longest surviving and most effective fighting forces in military history, has a rather obscure beginning.
+title: National Labour Law Profile: Italy
+snippet: In principle, overtime should be occasional or due to exceptional reasons which cannot be met by the hiring of new workers. Act 196/1997 requires a specific authorisation by the Department of Labour (Inspectorate) for work exceeding 48 hours a week (in practice: more than 8 hours overtime).
+title: Big Sean - Overtime - YouTube
+snippet: 1,685 videos Play all Pop 2020 - New Pop Songs 2020 Playlist - Pop Music 2020 - Best Pop Songs Playlist 2020 (Popular Songs) - Hottest Pop Songs - Official Videos Arsenio Sarmiento
+
+REL: 3
+POI Name: La Botticella
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, Wine Bars, Sports Bars, 
+Snippets:
+title: Hostaria La Botticella | Cucina Romana a Trastevere
+snippet: Il Ristorante Trattoria La Botticella è un locale storico di Trastevere dove negli anni ha costruito la sua identità cucinando ogni giorno piatti della cucina tipica romana. Le ricette elaborate provengono dalla vecchia cucina romana lasciando inalterati i sapori di una volta.
+title: Hostaria La Botticella, Rome - Trastevere - Menu, Prices ...
+snippet: Hostaria La Botticella, Rome: See 1,455 unbiased reviews of Hostaria La Botticella, rated 4.5 of 5 on Tripadvisor and ranked #788 of 12,180 restaurants in Rome.
+title: La Botticella (Rome) - 2020 All You Need to Know BEFORE ...
+snippet: La Botticella Is a quaint, little gem in the heart of Rome. It’s where Italy &amp; America meet. Giovanni, the owner, is a fabulous host. We love sitting outside enjoying the BEST aperol spritz in Rome. It’s our favorite spot for people watching, interacting with some of the …
+title: La Botticella (Rome) - 2020 All You Need to Know BEFORE ...
+snippet: This bar is a great to place to meet people from all over the world, but also has the atmosphere that attracts the locals. It is perfectly located in Rome, next to Piazza Navona and is an ideal place to have a drink. La Botticella has one of, if not the best, beer selections in …
+title: La Botticella (Rome) - 2020 All You Need to Know BEFORE ...
+snippet: I had heard there was &quot;Steelers Bar&quot; in Rome. As a die hard Steelers Fan I had to check it out. As soon as I walked in I felt at home! I have been visiting Giovanni&#39;s La Botticella every year (multiple times) since I made going to Italy an annual trip. I have made some …
+title: La Botticella (Roma, Italia) - Anmeldelser - Tripadvisor
+snippet: La Botticella Er en sjarmerende, liten perle i hjertet av Roma. Det er her Italia og Amerika møtes. Giovanni, eieren, er en fantastisk vert. Vi elsker å sitte ute og nyte den BESTE aperol spritz i Roma. Det er vårt favorittsted for folk som ser på, samhandler med noen av de …
+title: Hostaria La Botticella, Roma - Restaurantanmeldelser ...
+snippet: Hostaria La Botticella, Roma: Se 1 455 objektive anmeldelser av Hostaria La Botticella, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 788 av 12 180 restauranter i Roma.
+title: La Botticella (Rome) - 2020 All You Need to Know BEFORE ...
+snippet: Whenever we are in Rome, it is necessary to stop by La Botticella. Giovanni’s warm welcome and his excellent selection of craft beer and great wine, make us feel at home. After a long day of touring nothing beats some great conversation with a cold beer. It’s a perfect place to …
+title: La Botticella, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: La Botticella, Roma: Se 12 objektive anmeldelser av La Botticella, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 10 900 av 12 181 restauranter i Roma.
+title: La Botticella - Rome - Home | Facebook
+snippet: La Botticella - Rome, Rome, Italy. 8,759 likes · 259 talking about this · 8,876 were here. This a proper bar-pub with lots of craft italian beers on draft , great cocktails , great italian wines,hard...
+
+REL: 3
+POI Name: Pork'n'Roll Pub
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: PORK&#39;N&#39;ROLL PUB, Rome - Casal Bertone - Updated 2020 ...
+snippet: Pork&#39;n&#39;Roll Pub, Rome: See 790 unbiased reviews of Pork&#39;n&#39;Roll Pub, rated 4.5 of 5 on Tripadvisor and ranked #326 of 12,183 restaurants in Rome.
+title: Pork&#39;n&#39;Roll Pub, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Pork&#39;n&#39;Roll Pub, Roma: Se 788 objektive anmeldelser av Pork&#39;n&#39;Roll Pub, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 326 av 12 164 restauranter i Roma.
+title: Pork&#39;n&#39;Roll Pub, Rom - Casal Bertone - Restaurant ...
+snippet: Pork&#39;n&#39;Roll Pub, Rom: 790 Bewertungen - bei Tripadvisor auf Platz 326 von 12.180 von 12.180 Rom Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: PORK&#39;N&#39;ROLL PUB, Roma - Casal Bertone - Ristorante ...
+snippet: Pork&#39;n&#39;Roll Pub, Roma: su Tripadvisor trovi 790 recensioni imparziali su Pork&#39;n&#39;Roll Pub, con punteggio 4,5 su 5 e al n.326 su 12.180 ristoranti a Roma.
+title: PORK&#39;N&#39;ROLL - FARM FOOD, CRAFT BEER, ROCK MUSIC
+snippet: Origin by Unbranded - Responsive One Page HTML5 template. Pork&#39;N&#39;Roll Pub Page
+title: Pork&#39;n&#39;Roll - Home - Rome, Italy - Menu, Prices ...
+snippet: Pork&#39;n&#39;Roll - Via Carlo Caneva 15, 00159 Rome, Italy - Rated 4.8 based on 42 Reviews &quot;pochi posti a sedere ma per il resto molto carino cose buone da...
+title: Pork&#39;n&#39;Roll - Picture of Pork&#39;n&#39;Roll Pub, Rome - Tripadvisor
+snippet: Pork&#39;n&#39;Roll Pub, Rome Picture: Pork&#39;n&#39;Roll - Check out Tripadvisor members&#39; 50,212 candid photos and videos of Pork&#39;n&#39;Roll Pub. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Pork&#39;n&#39;Roll - Picture of Pork&#39;n&#39;Roll Pub, Rome - Tripadvisor
+snippet: Pork&#39;n&#39;Roll Pub, Rome Picture: Pork&#39;n&#39;Roll - Check out Tripadvisor members&#39; 50,046 candid photos and videos of Pork&#39;n&#39;Roll Pub. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping
+title: The 10 Best Restaurants Near Pork&#39;n&#39;Roll Pub, Rome ...
+snippet: Restaurants near Pork&#39;n&#39;Roll Pub, Rome on Tripadvisor: Find traveller reviews and candid photos of dining near Pork&#39;n&#39;Roll Pub in Rome, Italy.
+title: PORK&#39;N&#39;ROLL - FARM FOOD, CRAFT BEER, ROCK MUSIC
+snippet: FARM FOOD. HIGH QUALITY PORK MEAT FROM OUR FARM, HANDCRAFTED BY GERARDO ROCCIA. CRAFT BEER. 7 BEERS ON TAP &amp; 2 ON PUMPS: ... Il Pub chiude a pranzo, rimarrà aperta la Bottega. CONNECT. OR CALL 06 4555 1271 @PORK&#39;N&#39;ROLL 2015.
+
+REL: 3
+POI Name: La Civetta
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, Burgers, Salumerie, 
+Snippets:
+title: LA CIVETTA DI TRASTEVERE (Roma, Italia) - B&amp;B ...
+snippet: La Civetta di Trastevere, Roma: Se 90 reiseanmeldelser, 31 objektive bilder og gode tilbud for La Civetta di Trastevere, rangert som nr. 1 474 av 4 241 B&amp;B/vertshus i Roma og vurdert til 4 av 5 på Tripadvisor.
+title: photo2.jpg - Picture of La Civetta Sul Como, Rome ...
+snippet: La Civetta Sul Como, Rome Picture: photo2.jpg - Check out Tripadvisor members&#39; 50,296 candid photos and videos of La Civetta Sul Como
+title: L&#39;Oste e La Civetta, Rome - Torrino - Menu, Prices ...
+snippet: L&#39;Oste e La Civetta, Rome: See 586 unbiased reviews of L&#39;Oste e La Civetta, rated 4.5 of 5 on Tripadvisor and ranked #815 of 12,180 restaurants in Rome.
+title: La Civetta Sul Como, Roma - Restaurantanmeldelser ...
+snippet: La Civetta Sul Como, Roma: Se 154 objektive anmeldelser av La Civetta Sul Como, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 553 av 12 160 restauranter i Roma.
+title: La Civetta di Trastevere (Roma, Italia) | Expedia.no
+snippet: Les anmeldelser fra gjester som har overnattet på La Civetta di Trastevere i området Trastevere, og se oppdaterte priser på ledige rom – som du kan bestille med det samme. - La Civetta di Trastevere: hotellinformasjon, bilder, virtuell omvisning, fasiliteter og omtaler. Ideelt for å besøke . Bestill nå og spar penger!
+title: Fin B&amp;B med sentral beliggenhet - Anmeldelse av La Civetta ...
+snippet: La Civetta di Trastevere: Fin B&amp;B med sentral beliggenhet - Se 90 reiseanmeldelser, 31 bilder og gode tilbud på La Civetta di Trastevere på Tripadvisor.
+title: L&#39;Oste e La Civetta, Roma - Restaurantanmeldelser ...
+snippet: L&#39;Oste e La Civetta, Roma: Se 586 objektive anmeldelser av L&#39;Oste e La Civetta, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 821 av 12 176 restauranter i Roma.
+title: LA CIVETTA DI TRASTEVERE ROME | CHOOSE YOUR STAY IN ROME ...
+snippet: La Civetta Di Trastevere Hotel Rome. La Civetta Di Trastevere offers a business accommodation with a lift, a carpark and a barber shop. The venue is located within a 20-minute walk from the city center.The hotel is just a 15-minute walk from Roma San Pietro train station, ...
+title: De 10 beste restaurantene i nærheten av La Civetta di ...
+snippet: Restauranter i nærheten av La Civetta di Trastevere på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av La Civetta di Trastevere, Roma.
+title: Excellent to be in Rome - Review of La Civetta di ...
+snippet: La Civetta di Trastevere: Excellent to be in Rome - See 90 traveler reviews, 31 candid photos, and great deals for La Civetta di Trastevere at Tripadvisor.
+
+REL: 3
+POI Name: Hey Hop
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Hey Hop Garbatella - Pub - Rome, Italy | Facebook - 1,375 ...
+snippet: Hey Hop Garbatella, Roma. 3,140 likes · 893 were here. Independent craft beer bar in the heart of Garbatella 8 rotating taps, vintage bottles, fresh cans fridge and whiskey selection. Buns &amp; Hotdogs.
+title: Hey Hop Garbatella - Pub - Rome, Italy | Facebook - 1,375 ...
+snippet: Hey Hop Garbatella, Roma. 3,138 likes · 893 were here. Independent craft beer bar in the heart of Garbatella 8 rotating taps, vintage bottles, fresh cans fridge and whiskey selection. Buns &amp; Hotdogs.
+title: Hey Hop Garbatella - Pub - Rome, Italy | Facebook - 1,339 ...
+snippet: Hey Hop Garbatella, Roma. 3,142 likes · 3 talking about this · 890 were here. Independent craft beer bar in the heart of Garbatella 8 rotating taps, vintage bottles, fresh cans fridge and whiskey...
+title: Hey Hop - Beer Bar in Rome - Foursquare
+snippet: See 189 photos and 3 tips from 37 visitors to Hey Hop. &quot;one of the best beershop in Rome...surely the best for the music selection in the background!&quot; Beer Bar in Roma, Lazio. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: MEUTE - Hey Hey (Dennis Ferrer Rework) - YouTube
+snippet: Just an ordinary day in Rome. Our version of Dennis Ferrer&#39;s HEY HEY at Piazza Trilussa ? DOWNLOAD, STREAMING &amp; TOUR INFO: www.meute.eu Get in Touch: www.meu...
+title: Hey Romans! - YouTube
+snippet: Here is an updated version of a song I wrote in 2015, with a new video and added vocals! This song is really fast, catchy and full of Roman history facts. The backing is a karaoke version of &#39;Hey ...
+title: Hey Hop Garbatella - Pub - Rome, Italy | Facebook - 1,242 ...
+snippet: Hey Hop Garbatella, Roma. 3,149 likes · 65 talking about this · 865 were here. Independent craft beer bar in the heart of Garbatella 8 rotating taps, vintage bottles, fresh cans fridge and whiskey...
+title: THE 15 BEST Things to Do in Rome - 2020 (with Photos ...
+snippet: Book your tickets online for the top things to do in Rome, Italy on Tripadvisor: See 1,065,121 traveler reviews and photos of Rome tourist attractions. Find what to do today, this weekend, or in April. We have reviews of the best places to see in Rome. Visit top-rated &amp; must-see attractions.
+title: THE 10 BEST Hotels in Rome for 2020 (from $40) - Tripadvisor
+snippet: The #1 Best Value of 7,548 places to stay in Rome. Free Wifi. Restaurant. Special offer. Hotel website. Hotel Artemide. Show Prices. #2 Best Value of 7,548 places to stay in Rome. Free Wifi. Free parking. A.Roma Lifestyle Hotel. Show Prices. 81,182 reviews. #3 Best Value of 7,548 places to stay in Rome.
+title: Hey, any parties this easter weekend? - Colosseum Bar Hop
+snippet: Colosseum Bar Hop, Rome: &quot;Hey, any parties this easter weekend?&quot; | Check out answers, plus see 255 reviews, articles, and 93 photos of Colosseum Bar Hop, ranked No.2,040 on Tripadvisor among 5,591 attractions in Rome.
+
+REL: 3
+POI Name: Le Bonbock Cafè
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.it
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: WHISKY BAR BIRRERIA - LE BON BOCK CAFÈ
+snippet: Le Bon Bock. Le Bon Bock Cafè. Circonvallazione Gianicolense, 249 00152 Roma 06 5376806 . EMAIL: info@lebonbock.com ...
+title: Le Cave Di Sant&#39;Ignazio, Rome - Colonna - Menu, Prices ...
+snippet: Le Cave Di Sant&#39;Ignazio, Rome: See 383 unbiased reviews of Le Cave Di Sant&#39;Ignazio, rated 3.5 of 5 on Tripadvisor and ranked #7,546 of 12,181 restaurants in Rome.
+title: Le Bon Bock Cafè - Rome, Italy | Facebook
+snippet: Le Bon Bock Cafè - Circonvallazione Gianicolense, 249, 00151 Rome, Italy - Rated 4.7 based on 232 Reviews &quot;Ivano, Marco and of course Stefano were...
+title: Le Foodie Cafe Bistrot, Rome - San Giovanni - Restaurant ...
+snippet: Le Foodie Cafe Bistrot, Rome: See 851 unbiased reviews of Le Foodie Cafe Bistrot, rated 4 of 5 on Tripadvisor and ranked #1,968 of 12,182 restaurants in Rome.
+title: 20180724_07_05_59_large.jpg - Picture of Le Bon Bock Cafe ...
+snippet: Le Bon Bock Cafe, Rome Picture: 20180724_07_05_59_large.jpg - Check out Tripadvisor members&#39; 50,127 candid photos and videos of Le Bon Bock Cafe
+title: Le bon bock cafe whisky bar - Picture of Le Bon Bock Cafe ...
+snippet: Le Bon Bock Cafe, Rome Picture: Le bon bock cafe whisky bar - Check out Tripadvisor members&#39; 50,323 candid photos and videos of Le Bon Bock Cafe. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping
+title: Menù - Picture of Le Bon Bock Cafe, Rome - Tripadvisor
+snippet: Le Bon Bock Cafe, Rome Picture: Menù - Check out Tripadvisor members&#39; 50,303 candid photos and videos of Le Bon Bock Cafe. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome
+title: Le bon bock cafè - Picture of Le Bon Bock Cafe, Rome ...
+snippet: Le Bon Bock Cafe, Rome Picture: Le bon bock cafè - Check out Tripadvisor members&#39; 50,054 candid photos and videos.
+
+REL: 3
+POI Name: Elliot pub
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Elliot Pub, Rome - Trionfale - Restaurant Reviews, Photos ...
+snippet: Elliot Pub, Rome: See 450 unbiased reviews of Elliot Pub, rated 4 of 5 on Tripadvisor and ranked #1,976 of 12,180 restaurants in Rome.
+title: ELLIOT PUB, Roma - Trionfale - Ristorante Recensioni ...
+snippet: Elliot Pub, Roma: su Tripadvisor trovi 450 recensioni imparziali su Elliot Pub, con punteggio 4 su 5 e al n.1.976 su 12.183 ristoranti a Roma. ... Walking Tour in Rome. 20 recensioni . A 0,52 km . Vedi i migliori hotel nelle vicinanze Vedi i migliori ristoranti nelle vicinanze Vedi le migliori attrazioni nelle vicinanze.
+title: Elliot Pub, Rome - Trionfale - Restaurant Reviews, Photos ...
+snippet: Elliot Pub, Rome: See 450 unbiased reviews of Elliot Pub, rated 4 of 5 on Tripadvisor and ranked #1,981 of 12,182 restaurants in Rome.
+title: Elliot Pub, Rom - Trionfale - Restaurant Bewertungen ...
+snippet: Elliot Pub, Rom: 450 Bewertungen - bei Tripadvisor auf Platz 1.981 von 12.181 von 12.181 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: ELLIOT PUB, Rom - Omdömen om restauranger - Tripadvisor
+snippet: Elliot Pub, Rom: Se 450 objektiva omdömen av Elliot Pub, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer1 976 av 12 180 restauranger i Rom.
+title: The 10 Best Restaurants Near Elliot Pub, Rome - Tripadvisor
+snippet: Restaurants near Elliot Pub, Rome on Tripadvisor: Find traveller reviews and candid photos of dining near Elliot Pub in Rome, Italy.
+title: ElliotPub - Home | Facebook
+snippet: ElliotPub - Viale delle medaglie d&#39;oro 115, 00136 Rome, Italy - Rated 4.3 based on 167 Reviews &quot;The best pizza in Rome! And a lot of really good beer....
+title: Elliot Pub, Rome - Trionfale - Restaurant Avis, Numéro de ...
+snippet: Elliot Pub, Rome : consultez 450 avis sur Elliot Pub, noté 4 sur 5 sur Tripadvisor et classé #1 983 sur 12 176 restaurants à Rome.
+title: Elliot Pub, Rom - Restaurantanmeldelser - Tripadvisor
+snippet: Elliot Pub, Rom: Se 450 objektive anmeldelser af Elliot Pub, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 1.976 af 12.183 restauranter i Rom.
+title: L&#39;ingresso dell&#39;Elliot Pub - Picture of Elliot Pub, Rome ...
+snippet: Elliot Pub, Rome Picture: L&#39;ingresso dell&#39;Elliot Pub - Check out Tripadvisor members&#39; 50,089 candid photos and videos.
+
+REL: 3
+POI Name: Mamasi
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Beer Bar, Tapas Bars, Burgers, 
+Snippets:
+title: Mamasi, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Mamasi, Roma: Se 193 objektive anmeldelser av Mamasi, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 54 av 12 176 restauranter i Roma.
+title: Mamasi, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Vi stoppet ved Mamasi mens vinduet handlet for en ettermiddagsmat og var fengslet av den personable staben, ned hjemme samtale og fantastisk pris. To av de tre eierne (som også representerer 2/3 av staben) var i butikken og var mer enn glade for å dele... sin historie og deres mål med oss.
+title: Mamasi, Rome - Trastevere - Restaurant Reviews, Photos ...
+snippet: Mamasi, Rome: See 193 unbiased reviews of Mamasi, rated 5 of 5 on Tripadvisor and ranked #53 of 12,183 restaurants in Rome.
+title: Mamasi - Trastevere - Rome, Roma, Italy - Yelp
+snippet: 3 reviews of Mamasi &quot;Walked into Mamasi for some wine and to rest our feet after a long walk around the city...left with a full and happy stomach! After sitting and having wine for 10 min, the beautiful porchetta sitting in the showcase kept…
+title: Mamasi, Rom - Trastevere - Restaurant Bewertungen ...
+snippet: Mamasi, Rom: 193 Bewertungen - bei Tripadvisor auf Platz 55 von 12.182 von 12.182 Rom Restaurants; mit 5/5 von Reisenden bewertet.
+title: Facebook
+snippet: See posts, photos and more on Facebook.
+title: The 10 Best Restaurants Near Mamasi, Rome - Tripadvisor
+snippet: Restaurants near Mamasi, Rome on Tripadvisor: Find traveller reviews and candid photos of dining near Mamasi in Rome, Italy.
+title: MAMASI, Roma - Trastevere - Ristorante Recensioni, Numero ...
+snippet: Mamasi, Roma: su Tripadvisor trovi 193 recensioni imparziali su Mamasi, con punteggio 5 su 5 e al n.53 su 12.181 ristoranti a Roma.
+title: MAMASI, Rome - Restaurantbeoordelingen - Tripadvisor
+snippet: Mamasi, Rome: Bekijk 193 onpartijdige beoordelingen van Mamasi, gewaardeerd als 5 van 5 bij Tripadvisor en als nr. 53 van 12.182 restaurants in Rome. &lt;/cf&gt;
+title: MAMASI, Roma - Comentários de restaurantes - Tripadvisor
+snippet: Mamasi, Roma: Veja 193 dicas e avaliações imparciais de Mamasi, com classificação Nº 5 de 5 no Tripadvisor e classificado como Nº 52 de 12.183 restaurantes em Roma.
+
+REL: 3
+POI Name: On The Rox
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, Beer Bar, Cocktail Bars, 
+Snippets:
+title: On The Rox Trastevere, Rome - Trastevere - Restaurant ...
+snippet: On The Rox Trastevere, Rome: See 24 unbiased reviews of On The Rox Trastevere, rated 4 of 5 on Tripadvisor and ranked #8,260 of 12,180 restaurants in Rome.
+title: On The Rox (Roma, Italia) - Anmeldelser - Tripadvisor
+snippet: On The Rox, Roma: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for On The Rox i Roma, Italia på Tripadvisor.
+title: On The Rox (Rome) - 2020 All You Need to Know BEFORE You ...
+snippet: Rome Hotels; Rome Bed and Breakfast; Rome Vacation Rentals; Rome Vacation Packages; Flights to Rome; Rome Restaurants; Things to Do in Rome; Rome Shopping; Rome Travel Forum; Rome Photos; Rome Map; Rome Travel Guide; All Rome Hotels; Rome Hotel Deals; Last Minute Hotels in Rome; By Hotel Type. Rome Motels; Rome Campgrounds; Rome Hostels; Rome ...
+title: On the rox trastevere - Home | Facebook
+snippet: On the rox trastevere - via della scala 43, 00100 Rome, Italy - Rated 5 based on 19 Reviews &quot;Great place and fun scene. Super friendly staff and I will...
+title: On The Rox (Rom) - Aktuelle 2020 - Lohnt es sich? (Mit fotos)
+snippet: Entdecken Sie die wichtigsten Sehenswürdigkeiten des antiken Roms auf einer geführten Tour mit Keine-Warteschlange-Zugang. Betreten Sie das Kolosseum schnell mit Premium-Eintrittskarten und erkunden Sie das Amphitheater mit einem Reiseleiter, um mehr über seine Geschichte zu erfahren.
+title: OnTheRox Testaccio - Home | Facebook
+snippet: OnTheRox Testaccio - Via Galvani, 46, 00153 Rome, Italy - Rated 4.6 based on 37 Reviews &quot;Love the sounds of Dj Rude pumped with the coolest hip hop...
+title: On The Rox (Rom, Italien) - omdömen - Tripadvisor
+snippet: On The Rox, Rom: Läs recensioner av resenärer som du och se professionella bilder på On The Rox i Rom, Italien på Tripadvisor.
+title: On The Rox (Rome) - 2020 All You Need to Know Before You ...
+snippet: Rome Hotels; Bed and Breakfast Rome; Rome Holiday Rentals; Rome Holiday Packages; Flights to Rome; Rome Restaurants; Rome Attractions; Rome Shopping; Rome Travel Forum; Rome Photos; Rome Map; Rome Guide; All Rome Hotels; Rome Hotel Deals; Last Minute Hotels in Rome; By Hotel Type. Rome Motels; Rome Campgrounds; Rome Hostels; Business Hotels ...
+title: De 10 beste hotellene i nærheten av On The Rox - Tripadvisor
+snippet: Hvilke hoteller i nærheten av On The Rox i Roma har rom med flott utsikt? Disse hoteller i nærheten av On The Rox i Roma har flott utsikt og er godt likt av reisende: Boutique Hotel Campo de Fiori - Vurdering fra reisende: 4.5/5. Lifestyle Suites Rome - Vurdering fra reisende: 5.0/5.
+title: ON THE ROX TRASTEVERE, Roma - Trastevere - Ristorante ...
+snippet: On The Rox Trastevere, Roma: su Tripadvisor trovi 24 recensioni imparziali su On The Rox Trastevere, con punteggio 4 su 5 e al n.8.265 su 12.176 ristoranti a Roma.
+
+REL: 3
+POI Name: Coffee Pot Park
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Coffee Pot Piazza Bologna - Home | Facebook
+snippet: Coffee Pot Piazza Bologna - Via Michele di Lando, 20, 00162 Rome, Italy - Rated 4.1 based on 594 Reviews &quot;Amazing place for a drink!&quot;
+title: Coffee Pot Trastevere, Rome - Trastevere - Menu, Prices ...
+snippet: Order food online at Coffee Pot Trastevere, Rome with Tripadvisor: See 361 unbiased reviews of Coffee Pot Trastevere, ranked #5,039 on Tripadvisor among 12,181 restaurants in Rome.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Menu – Coffee Pot
+snippet: Sushi Tacos y Mezcal - Roma Trastevere, Roma Piazza Bologna, Porto Rotondo
+title: Coffee Pot Trastevere, Rome - Trastevere - Menu, Prices ...
+snippet: Order food online at Coffee Pot Trastevere, Rome with Tripadvisor: See 359 unbiased reviews of Coffee Pot Trastevere, ranked #5,133 on Tripadvisor among 12,182 restaurants in Rome.
+title: Coffee Pot Trastevere - Home - Rome, Italy - Menu, Prices ...
+snippet: Coffee Pot Trastevere - Via del Politeama 12, 00153 Rome, Italy - Rated 4.4 based on 279 Reviews &quot;Perfect fusion place love the atmosphere, food is...
+title: COFFEE POT TRASTEVERE, Roma - Trastevere - Menu, Prezzo ...
+snippet: Prenota Coffee Pot Trastevere, Roma su Tripadvisor: trovi 361 recensioni imparziali su Coffee Pot Trastevere, con punteggio 3,5 su 5 e al n.5.014 su 12.183 ristoranti a Roma.
+title: Coffee Pot Trastevere - Picture of Coffee Pot Trastevere, Rome
+snippet: Coffee Pot Trastevere, Rome Picture: Coffee Pot Trastevere - Check out Tripadvisor members&#39; 50,033 candid photos and videos.
+title: Coffee Pot Park - Wikipedia
+snippet: Coffee Pot Park was a ballpark in St. Petersburg, Florida home to the St. Petersburg Saints minor-league baseball team until 1928, and spring training home of the St. Louis Browns and Philadelphia Phillies.Its capacity was approximately 850 for baseball. The park was named for the nearby Coffee Pot Bayou. The field was also used by local high school teams and for amateur softball.
+title: IMG-20170930-WA0023_large.jpg - Picture of Coffee Pot ...
+snippet: Coffee Pot Trastevere, Rome Picture: IMG-20170930-WA0023_large.jpg - Check out Tripadvisor members&#39; 50,150 candid photos and videos.
+
+REL: 3
+POI Name: Birrifugio
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, Brasseries, 
+Snippets:
+title: Birrifugio Trastevere, Rome - Gianicolense - Restaurant ...
+snippet: Birrifugio Trastevere, Rome: See 266 unbiased reviews of Birrifugio Trastevere, rated 4 of 5 on Tripadvisor and ranked #1,730 of 12,183 restaurants in Rome.
+title: Birrifugio Trastevere, Roma - Restaurantanmeldelser ...
+snippet: Birrifugio Trastevere, Roma: Se 266 objektive anmeldelser av Birrifugio Trastevere, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 728 av 12 177 restauranter i Roma.
+title: THE 10 BEST Restaurants Near Birrifugio Trastevere in Rome ...
+snippet: Restaurants near Birrifugio Trastevere, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Birrifugio Trastevere in Rome, Italy.
+title: Birrifugio, Lido di Ostia - Restaurantanmeldelser ...
+snippet: Birrifugio, Lido di Ostia: Se 311 objektive anmeldelser av Birrifugio, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 21 av 333 restauranter i Lido di Ostia.
+title: BIRRIFUGIO TRASTEVERE, Roma - Gianicolense - Ristorante ...
+snippet: Birrifugio Trastevere, Roma: su Tripadvisor trovi 266 recensioni imparziali su Birrifugio Trastevere, con punteggio 4 su 5 e al n.1.730 su 12.182 ristoranti a Roma.
+title: Birrifugio Trastevere - Picture of Birrifugio Trastevere, Rome
+snippet: Birrifugio Trastevere, Rome Picture: Birrifugio Trastevere - Check out Tripadvisor members&#39; 50,120 candid photos and videos of Birrifugio Trastevere
+title: Birrifugio Trastevere, Rom - Gianicolense - Restaurant ...
+snippet: Birrifugio Trastevere, Rom: 266 Bewertungen - bei Tripadvisor auf Platz 1.730 von 12.181 von 12.181 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: Birre - Picture of Birrifugio Trastevere, Rome - Tripadvisor
+snippet: Birrifugio Trastevere, Rome Picture: Birre - Check out Tripadvisor members&#39; 50,166 candid photos and videos of Birrifugio Trastevere
+title: Tiramisù - Picture of Birrifugio Trastevere, Rome ...
+snippet: Birrifugio Trastevere, Rome Picture: Tiramisù - Check out Tripadvisor members&#39; 50,118 candid photos and videos.
+title: Birrifugio Trastevere - Home | Facebook
+snippet: Birrifugio Trastevere - Via Federico Rosazza 6, 00153 Rome, Italy - Rated 4.7 based on 86 Reviews &quot;Ottimo pub. Almeno una volta a settimana ci passo per...
+
+REL: 3
+POI Name: Glam Roma
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, 
+Snippets:
+title: The Glam Hotel in Rome - Book on the Official Site
+snippet: Nestled in the heart of Rome, The Glam welcomes its guests in a modern and exclusive location. Warm, comfortable and bright rooms with contemporary furniture and conceived with special attention to detail. ... The Glam Hotel - Espogest Srl - Via Nazionale 82, 00184 Roma ...
+title: Booking Rome - The Glam - Sito Ufficiale
+snippet: In un prestigioso edificio d&#39;epoca, in Via Nazionale, il The Glam accoglie i suoi ospiti in un boutique hotel dal design innovativo e contemporaneo.Una struttura moderna ed esclusiva in grado di garantire ogni comfort necessario per un soggiorno indimenticabile nel cuore della Città Eterna.
+title: The Glam i Roma | Hotels.com
+snippet: The Glam ligger i sentrum og nær en undergrunnsstasjon i bydelen Monti i Roma. Et par kulturelle høydepunkter er Forum Romanum og Galleria Borghese, men hvis det er shopping som står på planen, kan du ta turen til Via del Corso og Via Veneto. Er du på utkikk etter et arrangement eller en kamp, bør du se om det skjer noe spennende på Olympiastadion eller PalaLottomatica.
+title: THE GLAM HOTEL (Roma, Italia) - Hotell - anmeldelser og ...
+snippet: Det å finne et ideelt sjarmerende hotell i Roma trenger ikke å være vanskelig. La oss introdusere Rome Glam Hotel; et flott alternativ for reisende som deg. Rommene på Rome Glam Hotel byr på flatskjerm-tv, klimaanlegg og minibar, og gjester kan komme seg på internett med gratis wi-fi.
+title: Hotel The Glam, Rome, Italy - Booking.com
+snippet: Nestled in the heart of Rome, Rome Glam Hotel welcomes its guests in a modern and exclusive location. ... The flan obrien is just up the road towards the roma termini train station really good live singer in there at night, beer was good too ?? Really well placed hotel would definitely book again.
+title: Hotel The Glam (Italien Rom) - Booking.com
+snippet: The Glam Das Viertel ist eine tolle Wahl für Reisende, die sich für Römischen Ruinen, Sightseeing und Essen interessieren. – Lage prüfen Via Nazionale 82, Rione Monti, 00184 Rom, Italien – Das Viertel ist eine tolle Wahl für Reisende, die sich für Römischen Ruinen, Sightseeing und Essen interessieren. – Lage prüfen Ausgezeichnete Lage - Karte anzeigen
+title: The Glam Hotel, Rom - Tripadvisor
+snippet: Ab 159€ (2̶6̶2̶€̶) bei Tripadvisor: Hotel Glam, Rom. 852 Bewertungen, 858 authentische Reisefotos und günstige Angebote für Hotel Glam. Bei Tripadvisor auf Platz 67 von 1.321 Hotels in Rom mit 4,5/5 von Reisenden bewertet. Die Preise wurden am 16.3.2020 bei einem Ankunftsdatum am 29.3.2020 errechnet.
+title: THE GLAM HOTEL (Roma, Italia) - Hotell - anmeldelser og ...
+snippet: The Glam Hotel, Roma: Se 852 reiseanmeldelser, 858 bilder og gode tilbud for The Glam Hotel, vurdert som nr. 67 av 1 321 hotell i Roma og vurdert til 4,5 av 5 på Tripadvisor.
+title: The Glam Hotel, Rome - TripAdvisor
+snippet: Now $152 (Was $̶2̶2̶5̶) on Tripadvisor: The Glam Hotel, Rome. See 852 traveler reviews, 858 candid photos, and great deals for The Glam Hotel, ranked #65 of 1,322 hotels in Rome and rated 4.5 of 5 at Tripadvisor.
+title: The Glam, Rome – Updated 2020 Prices - Booking.com
+snippet: The flan obrien is just up the road towards the roma termini train station really good live singer in there at night, beer was good too ?? Really well placed hotel would definitely book again. ... Nestled in the heart of Rome, Rome Glam Hotel welcomes its guests in a modern and exclusive location.
+
+REL: 3
+POI Name: Kilmoon Irish Pub
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Kilmoon Pub - Home | Facebook
+snippet: Kilmoon Pub - via G.B. Tiepolo, 2, 00196 Rome, Italy - Rated 4.8 based on 46 Reviews &quot;Nice city friendly people good Italian welcome in an Irish pub in...
+title: Kilmoon Pub, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Kilmoon Pub, Roma: Se 78 objektive anmeldelser av Kilmoon Pub, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 5 788 av 12 182 restauranter i Roma.
+title: KILMOON PUB, Rome - Flaminio - Restaurant Reviews, Photos ...
+snippet: Kilmoon Pub, Rome: See 78 unbiased reviews of Kilmoon Pub, rated 3.5 of 5 on Tripadvisor and ranked #5,791 of 12,183 restaurants in Rome. Flights Holiday Rentals ... It&#39;s you typical Irish pub with a good assortment of food. They have really good pizza and piadine.
+title: Kilmoon Pub, Rome - Flaminio - Restaurant Reviews, Photos ...
+snippet: Kilmoon Pub, Rome: See 78 unbiased reviews of Kilmoon Pub, rated 3.5 of 5 on Tripadvisor and ranked #5,794 of 12,179 restaurants in Rome.
+title: dal 1996 the best irish pub in Rome! - Picture of Kilmoon ...
+snippet: Kilmoon Pub, Rome Picture: dal 1996 the best irish pub in Rome! - Check out Tripadvisor members&#39; 50,024 candid photos and videos of Kilmoon Pub
+title: KILMOON PUB, Roma - Flaminio - Ristorante Recensioni ...
+snippet: Kilmoon Pub, Roma: su Tripadvisor trovi 78 recensioni imparziali su Kilmoon Pub, con punteggio 3,5 su 5 e al n.5.785 su 12.182 ristoranti a Roma.
+title: kilmoon beer - Picture of Kilmoon Pub, Rome - TripAdvisor
+snippet: Kilmoon Pub, Rome Picture: kilmoon beer - Check out TripAdvisor members&#39; 57,335 candid photos and videos of Kilmoon Pub. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: KILMOON PUB - Picture of Kilmoon Pub, Rome - Tripadvisor
+snippet: Kilmoon Pub, Rome Picture: KILMOON PUB - Check out Tripadvisor members&#39; 50,009 candid photos and videos of Kilmoon Pub. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Very friendly - Review of Kilmoon Pub, Rome, Italy ...
+snippet: Kilmoon Pub: Very friendly - See 78 traveler reviews, 10 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Kilmoon Pub - Reviews - Rome, Italy - Menu, Prices ...
+snippet: Kilmoon Pub - via G.B. Tiepolo, 2, 00196 Rome, Italy - Rated 4.8 based on 49 Reviews &quot;Nice city friendly people good Italian welcome in an Irish pub in...
+
+REL: 3
+POI Name: 8millimetri
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Wine Bars, Beer Bar, 
+Snippets:
+title: THE 10 BEST Restaurants Near 8millimetri in Rome, Lazio ...
+snippet: Restaurants near 8millimetri, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near 8millimetri in Rome, Italy.
+title: 8millimetri, Rome - Trastevere - Restaurant Reviews ...
+snippet: 8millimetri, Rome: See 207 unbiased reviews of 8millimetri, rated 4 of 5 on Tripadvisor and ranked #1,898 of 12,178 restaurants in Rome.
+title: 8millimetri, Rome - Trastevere - Restaurant Reviews ...
+snippet: 8millimetri, Rome: See 207 unbiased reviews of 8millimetri, rated 4 of 5 on Tripadvisor and ranked #1,904 of 12,180 restaurants in Rome.
+title: 8millimetri, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: 8millimetri, Roma: Se 207 objektive anmeldelser av 8millimetri, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 898 av 12 177 restauranter i Roma.
+title: Kuleste stedet! - Anmeldelse for 8millimetri, Roma, Italia ...
+snippet: 8millimetri: Kuleste stedet! - Se 207 reiseanmeldelser, 68 objektive bilder og gode tilbud på Roma, Italia på Tripadvisor.
+title: De 10 beste restaurantene i nærheten av 8millimetri
+snippet: Restauranter i nærheten av 8millimetri på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av 8millimetri, Roma.
+title: 8MILLIMETRI, Rom - Omdömen om restauranger - Tripadvisor
+snippet: 8millimetri, Rom: Se 207 objektiva omdömen av 8millimetri, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer1 900 av 12 182 restauranger i Rom.
+title: The 10 Best Restaurants Near 8millimetri, Rome - Tripadvisor
+snippet: Restaurants near 8millimetri, Rome on Tripadvisor: Find traveller reviews and candid photos of dining near 8millimetri in Rome, Italy.
+title: 8millimetri - Trastevere - Roma, Lazio
+snippet: 8millimetri roma • 8millimetri roma photos • 8millimetri roma location • 8millimetri roma address • 8millimetri roma • 8 ... 8 millimetri is one of the coolest cocktail bar in Rome, a real meeting place for guests of all ages, dynamic and internationally. Open until 2:00 AM (Show more) Mon–Fri. 6:30 PM–2:00 AM; Sat–Sun.
+title: 8MILLIMETRI, Roma - Comentários de restaurantes - Tripadvisor
+snippet: 8millimetri, Roma: Veja 207 dicas e avaliações imparciais de 8millimetri, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 1.900 de 12.182 restaurantes em Roma.
+
+REL: 2
+POI Name: Alembic
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Lounges, Italian, 
+Snippets:
+title: Alembic, Rome - Trastevere - Menu, Prices &amp; Restaurant ...
+snippet: Alembic, Rome: See 489 unbiased reviews of Alembic, rated 4 of 5 on Tripadvisor and ranked #1,198 of 12,181 restaurants in Rome.
+title: Alembic, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Alembic, Roma: Se 489 objektive anmeldelser av Alembic, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 198 av 12 181 restauranter i Roma.
+title: ALEMBIC, Rome - Trastevere - Updated 2020 Restaurant ...
+snippet: Alembic, Rome: See 489 unbiased reviews of Alembic, rated 4 of 5 on Tripadvisor and ranked #1,198 of 12,182 restaurants in Rome.
+title: Alembic - Trastevere - Rome, Roma, Italy - Yelp
+snippet: 22 reviews of Alembic &quot;My sister was studying abroad in Rome and while walking to her apartment I found Akbar! To quote myself, &quot;It&#39;s like I created this bar in my mind&quot;. It&#39;s a hipster meets fairytale bar. My sister had a drink that was served…
+title: Alembic - Romeing
+snippet: The former Akbar, located on an inconspicuous corner in the Trastevere neighborhood, has been transformed into Alembic Bar.Named after a distillation instrument used since ancient times, the new locale is less a replacement than it is a continuation of its predecessor, which functions all at once as a bar, restaurant and art gallery.
+title: Alembic - Home | Facebook
+snippet: Alembic · Rome, Italy. 1 person interested. Alembic. November 13, 2019 · Dipingi un sorriso Siamo Orgogliosi di invitarvi a partecipare il 28 Novembre al nostro Meraviglioso Art Show di beneficenza in favore di @wordsaveworld. Paint a Smile .
+title: Alembic, Rom - Trastevere - Menü, Preise &amp; Restaurant ...
+snippet: Alembic, Rom: 489 Bewertungen - bei Tripadvisor auf Platz 1.198 von 12.183 von 12.183 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: De 10 beste restaurantene i nærheten av Alembic
+snippet: Restauranter i nærheten av Alembic på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Alembic, Roma.
+title: ALEMBIC, Rom - Omdömen om restauranger - Tripadvisor
+snippet: Alembic, Rom: Se 489 objektiva omdömen av Alembic, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer1 203 av 12 160 restauranger i Rom.
+title: Alembic Bar and Lounge in Trastevere - An American in Rome
+snippet: A relaxed bar with quirky decor, Alembic in Rome&#39;s Trastevere neighborhood has a mix of wine, beer and great cocktails, plus an aperitivo buffet.
+
+REL: 2
+POI Name: Cargo
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Cargo (Rome) - 2020 All You Need to Know BEFORE You Go ...
+snippet: Home to some of the world’s most iconic paintings, the Vatican Museums attract huge crowds. Save yourself hours of waiting by booking this skip-the-line tour of the Sistine Chapel, Raphael’s Rooms, and St. Peter’s Basilica in Rome. Early morning and evening tour options mean you can explore the complex during far less crowded time slots.
+title: Home | IAG Cargo
+snippet: IAG Cargo has the combined strength of British Airways, Iberia, Aer Lingus, Vueling and Level, so we&#39;ll get your goods to where they need to be. Book now.
+title: Rome cargo bukse– Welike
+snippet: Navy blå cargo bukse fra Mazing. buksen har to stk store lommer som gjenkjenner cargostilen. Har knapp og glidelås og to stk skrå siderommene. 97% bomull 3% elastin. vaskes på 30 grader. Produsert i Italia.
+title: Cargo (Rome) - 2020 All You Need to Know BEFORE You Go ...
+snippet: Rome Hotels; Rome Bed and Breakfast; Rome Vacation Rentals; Rome Vacation Packages; Flights to Rome; Rome Restaurants; Things to Do in Rome; Rome Shopping; Rome Travel Forum; Rome Photos; Rome Map; Rome Travel Guide; All Rome Hotels; Rome Hotel Deals; Last Minute Hotels in Rome; By Hotel Type. Rome Motels; Rome Campgrounds; Rome Hostels; Rome ...
+title: Cargo X - Part 1 - The Official Escape from Tarkov Wiki
+snippet: Terragroup attempted to move some cargo through it, but it failed -- and now it is temporarily in a storage position, whereabouts unknown. Provisional headquarters for coordinating the company&#39;s activities was moved to the resort when the conflict started, but, obviously, ...
+title: Leonardo da Vinci–Fiumicino Airport - Wikipedia
+snippet: History Early years. The airport was officially opened on 15 January 1961, with two runways, replacing the smaller Rome Ciampino Airport, which remains in service for some low-cost airlines as well as domestic and charter operations.Despite being officially opened in 1961, Leonardo da Vinci–Fiumicino Airport had actually been in use since 20 August 1960.
+title: Aperitivo - Picture of Cargo, Rome - Tripadvisor
+snippet: Cargo, Rome Picture: Aperitivo - Check out Tripadvisor members&#39; 50,373 candid photos and videos of Cargo
+title: Emirates SkyCargo
+snippet: Established in 1985 as the airfreight division of Emirates, we are the largest international cargo airline in the world. We connect the world&#39;s supply chains through 300+ destinations across 80 countries in 6 continents through Emirates SkyCentral, our operations hub at Dubai International Airport (DXB) and Dubai World Central (DWC).
+title: photo0.jpg - Picture of Cargo, Rome - Tripadvisor
+snippet: Cargo, Rome Picture: photo0.jpg - Check out Tripadvisor members&#39; 50,001 candid photos and videos of Cargo
+title: Cargo Pigneto - Home | Facebook
+snippet: Cargo Pigneto - Via del pigneto 20, 00176 Rome, Italy - Rated 4.8 based on 295 Reviews &quot;Super nice place with super nice staff; 20 minutes from the...
+
+REL: 2
+POI Name: Tomo Club
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Dance Clubs, Pubs, 
+Snippets:
+title: Romaklubben – Wikipedia
+snippet: Romaklubben (engelsk: The Club of Rome) er en global tankesmie grunnlagt i 1968 ved Accademia Nazionale dei Lincei i Roma.Det var i denne klubbens regi at man utgav boken Hvor går grensen? i 1972.Den var finansiert av Volkswagen-fabrikkene og forfattet av mange av klubbens medlemmer, men redigert av Donella Meadows, Dennis Meadows, Jørgen Randers og flere andre.
+title: Club of Rome - Wikipedia
+snippet: The Club of Rome stimulated considerable public attention with the first report to the club, The Limits to Growth. Published in 1972, its computer simulations suggested that economic growth could not continue indefinitely because of resource depletion. The 1973 oil crisis increased public concern about this problem.
+title: The 12 Best Nightclubs in Rome, Italy
+snippet: Akab. Via di Monte Testaccio loops around a hill made entirely of broken terracotta amphorae, or oil jars, which were discarded by ancient Romans.Lining this historic street is a whole bunch of nightclubs, including the popular Akab club. Hosting house, rock, dance and funk and soul nights, among others, Akab has been entertaining partygoers in Rome since its opening in 1992.
+title: Nightlife in Rome: best nightclubs to go out and dance
+snippet: The best clubs in Rome. Rome is filled with great clubs. But before you dance the night away, keep in mind that the real fun doesn’t start till midnight! So take your time, enjoy an aperitivo, or maybe indulge in a wine tasting experience. The options are endless.
+title: Homepage - Club of Rome
+snippet: The Club of Rome Impact Hubs harness the diversity of the Club’s activities and perspectives, of its members and the ecosystem which they belong. They serve as a creative impact space where Club of Rome members, associations and partners share transformational thought leadership and co-design solutions for impact.
+title: Gentlemen&#39;s Clubs in Rome? - Rome Forum - Tripadvisor
+snippet: We often find that at upscale &quot;Strip&quot; Clubs we are able to avoid the unsavory aspect of most discos and night clubs (i.e. the unwanted dancefloor groping and the unwelcomed advances on my wife) so my we can both can enjoy a drink, the music, and the entertainment in peace. Can anyone make any recommendations for Gentlemen&#39;s Clubs in Rome?
+title: Google Chrome-nettleseren
+snippet: For 32-biters Windows 10/8.1/8/7. For 64-biters Windows 10/8.1/8/7. Denne datamaskinen kommer ikke lenger til å motta oppdateringer av Google Chrome fordi Windows XP og Windows Vista ikke støttes lenger.
+title: About us - Club of Rome
+snippet: The Club of Rome was created to address the multiple crises facing humanity and the planet. Drawing on the unique, collective know-how of our 100 members – notable scientists, economists, business leaders and former politicians – we seek to define comprehensive solutions to the complex, interconnected challenges of our world.
+title: Club de Rome — Wikipédia
+snippet: Le Club de Rome est un groupe de réflexion réunissant des scientifiques, des économistes, des fonctionnaires nationaux et internationaux, ainsi que des industriels de 52 pays, préoccupés des problèmes complexes auxquels doivent faire face toutes les sociétés, tant industrialisées qu&#39;en développement.. Réunie pour la première fois en avril 1968, l&#39;organisation acquiert une ...
+title: AS Roma Official Website - Rome | Football | Soccer
+snippet: The official website of professional Italian football club AS Roma. Results, fixtures, interviews, information, tickets and more...
+
+REL: 2
+POI Name: Lapsutinna
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, Breweries, 
+Snippets:
+title: Ristorante Birreria Lapsutinna, Roma ...
+snippet: Ristorante Birreria Lapsutinna, Roma: Se 310 objektive anmeldelser av Ristorante Birreria Lapsutinna, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 3 482 av 12 182 restauranter i Roma.
+title: Restaurants Near Ristorante Birreria Lapsutinna, Rome, Italy
+snippet: Restaurants near Ristorante Birreria Lapsutinna, Rome on TripAdvisor: Find traveler reviews and candid photos of dining near Ristorante Birreria Lapsutinna in Rome, Italy.
+title: Ristorante Birreria Lapsutinna, Rome - Trionfale - Menu ...
+snippet: Ristorante Birreria Lapsutinna, Rome: See 310 unbiased reviews of Ristorante Birreria Lapsutinna, rated 4 of 5 on Tripadvisor and ranked #3,478 of 12,170 restaurants in Rome.
+title: Io e Monica abbiamo un appuntamento, pressoché settimanale ...
+snippet: Ristorante Birreria Lapsutinna, Rome Picture: Io e Monica abbiamo un appuntamento, pressoché settimanale, per andare al cinema ed un dopo cine - Check out Tripadvisor members&#39; 50,002 candid photos and videos of Ristorante Birreria Lapsutinna
+title: Beer heaven in Rome - Ristorante Birreria Lapsutinna
+snippet: Ristorante Birreria Lapsutinna: Beer heaven in Rome - See 310 traveler reviews, 77 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: RISTORANTE BIRRERIA LAPSUTINNA, Roma - Trionfale - Menu ...
+snippet: Ristorante Birreria Lapsutinna, Roma: su Tripadvisor trovi 310 recensioni imparziali su Ristorante Birreria Lapsutinna, con punteggio 4 su 5 e al n.3.484 su 12.180 ristoranti a Roma.
+title: Lapsutinna Pub - Rome, Italy - Local Business | Facebook
+snippet: Lapsutinna Pub, Rome, Italy. 13 likes. Local Business. Sign up for Facebook today to discover local businesses near you.
+title: Lapsutinna a Roma: Recensioni e Opinioni - Zomato
+snippet: Siamo stati per un dopo cena. Classica birra fra amici. Ordini una media ti portano un bicchiere pieno di schiuma con dentro a dire tanto 0,3 L di birra alla modica cifra di 6,90 euro.Anche i prezzi delle bottiglie sono altissimi ed ingiustificati dal momento che la maggior parte delle birre si trovano in qualsiasi beer shop a meno della metà.
+title: RISTORANTE BIRRERIA LAPSUTINNA, Rom - Omdömen om ...
+snippet: Ristorante Birreria Lapsutinna, Rom: Se 310 objektiva omdömen av Ristorante Birreria Lapsutinna, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer3 483 av 12 183 restauranger i Rom.
+title: Craft beer in Rome, the seven best pubs and bars ...
+snippet: Pubs and bars for craft beer in Rome, the seven best.. An exceptional selection on tap, focus on quality and good food to boot – here are the seven best pubs in Rome for craft beer, on draught or in bottles from Italian and international breweries.Light, dark or fruity – you name it, there’s more than enough on offer including emerging producers and famous labels.
+
+REL: 2
+POI Name: Radio Cafè
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Radio Cafè – L’aroma della buona musica
+snippet: Da oggi Radio Cafè la puoi ascoltare anche sul canale 751 del DgTV in Lombardia. Piemonte, Liguria,Sardegna e Toscana FM 95.300 Mhz Veneto FM 95.200 Mhz Ferrara e Provincia FM 100.800 Mhz Trentino A.A.
+title: Café Romántico Radio en Vivo - Monterrey, México | Online ...
+snippet: Café Romántico Radio Monterrey, México - escuchar radio online gratis en OnlineRadioBox.com. Esta página web utiliza cookies. Al continuar utilizando esta página web, estás de acuerdo con nuestras políticas respecto al uso de cookies. Instala la aplicación móvil gratuita Online Radio Box. No, gracias. Online ...
+title: Café Romántico Radio | Free Internet Radio | TuneIn
+snippet: Café Romántico Radio - Melodías Románticas del ayer con aroma a Café y algo más... Música para los amores de todas las edades, de todas las épocas, de toda la vida...
+title: Paris Café Music - JAZZRADIO.com
+snippet: Similar Channels. Mellow Jazz A more relaxed and laid-back selection of Jazz – ideal for kicking back, watching the world go by and enjoying the moment.; Gypsy Jazz Famous for the ‘gypsy chord’, this style of Jazz incorporates a minor sixth chord amongst the Jazz improvisations.; Smooth Uptempo The world&#39;s smoothest jazz at an energetic BPM. This will keep you grooving 24 hours a day.
+title: RADIO LONDRA CAFÈ (ROME) - YouTube
+snippet: Max Beat Dj. This video is unavailable. Watch Queue Queue
+title: THE 10 BEST Cafés in Rome - Tripadvisor
+snippet: Best Cafés in Rome, Lazio: Find Tripadvisor traveler reviews of Rome Cafés and search by price, location, and more. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome ... Coffee &amp; Tea, Cafe $
+title: Roma Radio | Free Internet Radio | TuneIn
+snippet: Roma Radio - Roma Radio delivers live shows 7days/week with entertainment shows, tactical and technical analysis, First Team news, interviews, and weekly game broadcasts.
+title: Radio Cafè Rome, Tickets for Concerts &amp; Music Events 2020 ...
+snippet: Buy tickets for an upcoming concert at Radio Cafè. List of all concerts taking place in 2020 at Radio Cafè in Rome.
+title: Radio Cafe en Direct - Rome, Italie | Online Radio Box
+snippet: Radio Cafe è una stazione radio online che riproduce solo la migliore musica raccolta a mano per le tue orecchie. Radio Cafe ha una playlist estesa che ti manterrà in una buona atmosfera per tutto il giorno suonando canzoni di successo.
+title: Café del Mar • Chillout Radio &amp; Ibiza Webcam • Live Stream ...
+snippet: The Good Life Radio • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Gym, Happy Music The Good Life Radio x Sensual Musique 2,174 watching Live now
+
+REL: 2
+POI Name: Niji Cafè
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Cafes, 
+Snippets:
+title: Niji Roma - Home | Facebook
+snippet: Niji Roma - Via dei Vascellari 35, 00153 Rome, Italy - Rated 4.1 based on 115 Reviews &quot;Best cocktail bar in Rome, tucked away in Trastevere. Everything...
+title: Niji Cafe, Rome - Trastevere - Restaurant Reviews, Photos ...
+snippet: Niji Cafe, Rome: See 149 unbiased reviews of Niji Cafe, rated 4.5 of 5 on Tripadvisor and ranked #1,878 of 12,183 restaurants in Rome.
+title: NIJI CAFÈ, Roma - Trastevere - Ristorante Recensioni ...
+snippet: Niji Cafè, Roma: su Tripadvisor trovi 149 recensioni imparziali su Niji Cafè, con punteggio 4,5 su 5 e al n.1.877 su 12.182 ristoranti a Roma.
+title: Niji Cafe - Picture of Niji Cafe, Rome - Tripadvisor
+snippet: Niji Cafe, Rome Picture: Niji Cafe - Check out Tripadvisor members&#39; 50,196 candid photos and videos of Niji Cafe. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: niji - Picture of Niji Cafe, Rome - Tripadvisor
+snippet: Niji Cafe, Rome Picture: niji - Check out Tripadvisor members&#39; 50,007 candid photos and videos of Niji Cafe. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum Rome Photos
+title: Picture of Niji Cafe, Rome - Tripadvisor
+snippet: Niji Cafe, Rome Picture: !!! - Check out Tripadvisor members&#39; 50,116 candid photos and videos of Niji Cafe. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum Rome Photos
+title: photo0.jpg - Picture of Niji Cafe, Rome - Tripadvisor
+snippet: Niji Cafe, Rome Picture: photo0.jpg - Check out Tripadvisor members&#39; 50,033 candid photos and videos of Niji Cafe. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Niji Cafe, Rom - Restaurantanmeldelser - Tripadvisor
+snippet: Niji Cafe, Rom: Se 149 objektive anmeldelser af Niji Cafe, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 1.877 af 12.182 restauranter i Rom.
+title: Niji Cafe, Rzym - recenzje restauracji - Tripadvisor
+snippet: Niji Cafe, Rzym: zobacz bezstronne recenzje (149 ) na temat Niji Cafe, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 1 877 z 12 181 restauracji w Rzymie.
+title: Niji Cafe, Rome - Le Trastevere - Restaurant Avis, Numéro ...
+snippet: Niji Cafe, Rome : consultez 149 avis sur Niji Cafe, noté 4,5 sur 5 sur Tripadvisor et classé #1 877 sur 12 181 restaurants à Rome.
+
+REL: 2
+POI Name: Dalhu'
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Dalhu, Rome - San Lorenzo - Restaurant Reviews, Photos ...
+snippet: Dalhu, Rome: See 16 unbiased reviews of Dalhu, rated 4 of 5 on Tripadvisor and ranked #8,764 of 12,176 restaurants in Rome.
+title: Definitely the best pub around!!!!! - Review of Dalhu ...
+snippet: Dalhu: Definitely the best pub around!!!!! - See 16 traveler reviews, 19 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: DALHU, Rome - San Lorenzo - Restaurant Reviews, Photos ...
+snippet: Dalhu, Rome: See 16 unbiased reviews of Dalhu, rated 4 of 5 on Tripadvisor and ranked #8,768 of 12,182 restaurants in Rome.
+title: Dalhù Pub - Home | Facebook
+snippet: Dalhù Pub - Via Degli Equi 38/40, 00185 Rome, Italy - Rated 4.3 based on 54 Reviews &quot;Lo frequento abitualmente da anni. Divertente, amichevole,...
+title: A terrible experience - Dalhu, Rome Traveller Reviews ...
+snippet: Dalhu: A terrible experience - See 16 traveller reviews, 32 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Dalhu, Rome - San Lorenzo - Restaurant Avis, Numéro de ...
+snippet: Dalhu, Rome : consultez 16 avis sur Dalhu, noté 4 sur 5 sur Tripadvisor et classé #8 767 sur 12 182 restaurants à Rome.
+title: Dalhu, Rom - San Lorenzo - Restaurant Bewertungen ...
+snippet: Dalhu, Rom: 16 Bewertungen - bei Tripadvisor auf Platz 8.768 von 12.182 von 12.182 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: DALHU, Roma - San Lorenzo - Ristorante Recensioni, Numero ...
+snippet: Sono venuta al Dalhu per la prima volta qualche giorno fa con due amici. L’accoglienza sorridente, il buon cibo (io sono vegana e i miei amici onnivori) e i cocktails ottimi ci hanno fatto passare una serata meravigliosa. ... Rome For Jews. 148 recensioni . A 0 km . Rive Gauche. 47 recensioni .
+title: A terrible experience - Traveller Reviews - Dalhu ...
+snippet: Dalhu: A terrible experience - See 16 traveler reviews, 32 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: DALHU, Rome - Restaurantbeoordelingen - Tripadvisor
+snippet: Dalhu, Rome: Bekijk 16 onpartijdige beoordelingen van Dalhu, gewaardeerd als 4 van 5 bij Tripadvisor en als nr. 8.770 van 12.179 restaurants in Rome. &lt;/cf&gt;
+
+REL: 2
+POI Name: Co.So Cocktail&Social
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+title: Co.So. Cocktails &amp; Social, Rome - Prenestino Labicano ...
+snippet: Reserve a table at Co.So. Cocktails &amp; Social, Rome on Tripadvisor: See 196 unbiased reviews of Co.So. Cocktails &amp; Social, rated 4.5 of 5 on Tripadvisor and ranked #1,320 of 12,182 restaurants in Rome.
+title: THE 10 BEST Restaurants Near Co.So. Cocktails &amp; Social in ...
+snippet: Restaurants near Co.So. Cocktails &amp; Social, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Co.So. Cocktails &amp; Social in Rome, Italy.
+title: Rom-basert - Drinker - Aperitif.no
+snippet: Her finner du ikke bare rom og cola, men også de klassiske romdrinkene. Og selvfølge mange andre. Lag din egen personlige bartender enten ved å legge denne oppskriften direkte inn fra aperitif.nos oppskrifter eller komponere dine egne
+title: The Best Cocktail Bars in Rome - Culture Trip
+snippet: Although Rome is better known for its wine bars than its cocktail bars, the drinking scene is evolving and a variety of new watering holes have cropped up in the Eternal City championing beverages that are shaken, muddled and stirred. From swanky rooftop bars and secret garden locales to intimate speakeasies and local favorites, Rome has a wide variety of venues that will please cocktail ...
+title: Co.So. Cocktail and Social | Departures
+snippet: City Guides / Rome / Co.So. Cocktail and Social. Co.So. Cocktail and Social. ... owner Massimo D’ Addezio has created a cocktail bar that is a shrine to the artisanal cocktail. ... Co.So. Cocktail and Social. 80 Via Braccio da Montone Rome, Italy . Co.So. Cocktail and Social.
+title: Best cocktails of my life - Co.So. Cocktails &amp; Social
+snippet: Co.So. Cocktails &amp; Social: Best cocktails of my life - See 196 traveler reviews, 68 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: 23 Rum Cocktails You Need to Try At Least Once
+snippet: The mojito is one of the most refreshing cocktails you&#39;ll have the pleasure of drinking. It&#39;s another easy drink that requires only a few ingredients: rum, mint, lime, sugar, and soda. You will also need a muddler, but that&#39;s a modest and worthy investment for your bar.After one sip, you&#39;ll discover why it&#39;s one of the best cocktails of all time, and soon, you&#39;ll be tossing
+title: Co.So Cocktail &amp; Social in Rome, Italy – The Chosen Table
+snippet: Co.So. Cocktail &amp; Social (retaining the old name) just re-opened a few weeks ago and the young trio has philosophy of breathing innovation and creating a youthful soul in their cocktail bar. The attention and promotion to art and design, which has always been part of Co.So’s identity, will continue to be a distinctive feature of the place.
+title: Good cocktails - Review of Co.So. Cocktails &amp; Social, Rome ...
+snippet: Co.So. Cocktails &amp; Social: Good cocktails - See 196 traveler reviews, 68 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Co.So. Cocktails &amp; Social, Rome - Prenestino Labicano ...
+snippet: Reserve a table at Co.So. Cocktails &amp; Social, Rome on Tripadvisor: See 196 unbiased reviews of Co.So. Cocktails &amp; Social, rated 4.5 of 5 on Tripadvisor and ranked #1,323 of 12,180 restaurants in Rome.
+
+REL: 2
+POI Name: Bar Totò
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: 15 Best Bars in Rome for Wine and Cocktails
+snippet: Of all the wine bars in Rome, Il Goccetto just might be the best. The interior is atmospheric, with painted wooden ceilings, hanging medieval chandeliers and bottles of vino stacked floor to ceiling.
+title: Rome Nightlife Guide: Best Bars in Rome
+snippet: Rome Nightlife Guide: Best Bars in Rome. by Romeing. Where to drink in Rome. From cozy speakeasies to trendy locales and stunning rooftops, Rome sure has its fair share of bars. Whether you’re Monti or the centro storico, check out our selection of best bars in Rome to embrace the Eternal City’s vita notturna.
+title: 10 best bars in Rome | Travel | The Guardian
+snippet: 10 of the best bars in Rome ... Stravinskij Bar Don your designer shades and join Rome&#39;s perma-tanned hipsters for a cocktail or a glass of something bubbly at this oh-so-chic bar in Rocco Forte&#39;s ...
+title: THE 10 BEST Rome Bars &amp; Clubs (with Photos) - Tripadvisor
+snippet: Top Rome Bars &amp; Clubs: See reviews and photos of bars &amp; clubs in Rome, Italy on Tripadvisor.
+title: Velkommen til restaurant To Rom og Kjøkken
+snippet: Hver dag serverer vi en ny dagens rett. Besøk vår facebookside for å se dagens bar-rett til fast pris. Mandager er vi også med på Midtby-gruppens &quot;Endelig Mandag&quot; og da koster dagens bar kun 150,-. Man kan utmerket kombinere Dagens Bar med forrett og dessert fra menyen, og vi har et godt utvalg av vin på glass som passer til.
+title: 20 Best Bars in Rome - Condé Nast Traveler
+snippet: Our top recommendations for the best bars in Rome, Italy, with pictures, reviews, and details. Find the best spots to drink, including fun, trendy, rooftop bars, courtyard bars, and more.
+title: Top Rome Bars: 17 Best Local Bars in Rome
+snippet: Although it’s the most ancient neighbourhood in Rome, in the past few years it has regained its youth. Here you’ll find the best alternative boutiques and vintage shops, as well as many good restaurants, bars and takeaway joints. Lose yourself in the alleys during the day or come here at night for a drink with the locals.
+title: 12 Best Rooftop Bars in Rome to Drink at Immediately
+snippet: We highlight the very best rooftop bars in Rome, offering out-of-the-ordinary, mesmerizing views with a side of top-notch drinks and food. You&#39;ll never want to come back down again, trust us.
+title: Rome: Sports Bars in Rome - Tripadvisor
+snippet: Inside Rome: Sports Bars in Rome - Before you visit Rome, visit Tripadvisor for the latest info and advice, written for travellers by travellers.
+title: Rabban Bar Sauma - Wikipedia
+snippet: According to Bar Sauma, James II was victorious, and his forces killed 12,000 men. He next traveled to Rome, but too late to meet Pope Honorius IV, who had recently died. So Bar Sauma instead engaged in negotiations with the cardinals, and visited St. Peter&#39;s Basilica.
+
+REL: 2
+POI Name: Mastro Titta
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Da Mastro Titta, Rome - Castel Porziano - Menu, Prices ...
+snippet: Da Mastro Titta, Rome: See 146 unbiased reviews of Da Mastro Titta, rated 2.5 of 5 on Tripadvisor and ranked #11,158 of 12,183 restaurants in Rome.
+title: Mastro Titta - Home - Rome, Italy - Menu, Prices ...
+snippet: Mastro Titta - Via dei conciatori 11a, 00154 Rome, Italy - Rated 4.6 based on 141 Reviews &quot;Semplicemente spettacolare! Birre buonissime e carbonara...
+title: Mastro Titta - Wikipedia
+snippet: Mastro Titta nella letteratura La falsa autobiografia. Nel 1891 viene pubblicata Mastro Titta, il boia di Roma: memorie di un carnefice scritte da lui stesso, una falsa autobiografia di Mastro Titta che prende spunto dal taccuino di appunti effettivamente tenuto dal boia.
+title: Mastro Titta, Civitavecchia - Via Tarquinia - Menu, Prices ...
+snippet: We visited Mastro Titta twice because the pizza was incredible. The base is perfect and the toppings are generous and full of flavour. The restaurant is small and near a busy roundabout near the cruise terminal but it is worth waiting for the pizza!
+title: Casa Mastro Titta, Rome – Updated 2020 Prices
+snippet: Casa Mastro Titta This neighbourhood is a great choice for travellers interested in museums, atmosphere and culture – Check location Via Luigi Rizzo 62, Vaticano Prati, 00136 Rome, Italy – This neighbourhood is a great choice for travellers interested in museums, atmosphere and culture – Check location Excellent location - show map – Metro access
+title: Giovanni Battista Bugatti - Wikipedia
+snippet: Giovanni Battista Bugatti (1779–1869) was the official executioner for the Papal States from 1796 to 1864. He was the longest-serving executioner in the States and was nicknamed Mastro Titta, a Roman corruption of maestro di giustizia, or master of justice. At the age of 85, he was retired by Pope Pius IX with a monthly pension of 30 scudi.
+title: Mastro Titta, Civitavecchia - Restaurantanmeldelser ...
+snippet: Mastro Titta, Civitavecchia: Se 193 objektive anmeldelser av Mastro Titta, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 51 av 221 restauranter i Civitavecchia.
+title: THE 10 BEST Restaurants Near Da Mastro Titta in Rome ...
+snippet: Restaurants near Da Mastro Titta, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Da Mastro Titta in Rome, Italy.
+title: nachos - Picture of Mastro Titta Pub, Rome - Tripadvisor
+snippet: Mastro Titta Pub, Rome Picture: nachos - Check out Tripadvisor members&#39; 50,209 candid photos and videos of Mastro Titta Pub
+title: Mastro Titta Pub, Rome - Aventino - Restaurant Reviews ...
+snippet: Mastro Titta Pub, Rome: See 135 unbiased reviews of Mastro Titta Pub, rated 3 of 5 on Tripadvisor and ranked #9,549 of 12,177 restaurants in Rome.
+
+REL: 2
+POI Name: Seamus Heaney
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Seamus Heaney, Rome - San Lorenzo - Restaurant Reviews ...
+snippet: Seamus Heaney, Rome: See 52 unbiased reviews of Seamus Heaney, rated 4 of 5 on Tripadvisor and ranked #5,170 of 12,182 restaurants in Rome.
+title: Seamus Heaney, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Seamus Heaney, Roma: Se 52 objektive anmeldelser av Seamus Heaney, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 5 170 av 12 182 restauranter i Roma.
+title: Nice Bar - Review of Seamus Heaney, Rome, Italy - Tripadvisor
+snippet: Seamus Heaney: Nice Bar - See 52 traveler reviews, 23 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Seamus Heaney - Rome, Italy - Pub, Irish Pub | Facebook
+snippet: seamus heaney, rome, italy. 368 likes. pub. hola soy juan jesÚs zazueta orozco tengo 34 aÑos de edad naci el 25 de septiembre de 1984 estoy prÓximos a cumplir 35 aÑos de edad este 25 de septiembre nacÍ en los mochis sinaloa mexico y quiero ganar el premio nobel de literatura
+title: Seamus Heaney - Picture of Seamus Heaney, Rome - Tripadvisor
+snippet: Seamus Heaney, Rome Picture: Seamus Heaney - Check out Tripadvisor members&#39; 50,213 candid photos and videos of Seamus Heaney
+title: Seamus Heaney - Picture of Seamus Heaney, Rome - Tripadvisor
+snippet: Seamus Heaney, Rome Picture: Seamus Heaney - Check out Tripadvisor members&#39; 50,002 candid photos and videos of Seamus Heaney. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: THE 10 BEST Restaurants Near Seamus Heaney in Rome, Lazio ...
+snippet: Restaurants near Seamus Heaney, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Seamus Heaney in Rome, Italy.
+title: Seamus Heaney - Picture of Seamus Heaney, Rome - Tripadvisor
+snippet: Seamus Heaney, Rome Picture: Seamus Heaney - Check out Tripadvisor members&#39; 50,213 candid photos and videos of Seamus Heaney. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Seamus Heaney - Picture of Seamus Heaney, Rome - Tripadvisor
+snippet: Seamus Heaney, Rome Picture: Seamus Heaney - Check out Tripadvisor members&#39; 50,077 candid photos and videos of Seamus Heaney. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Seamus Heaney - Fast Food Restaurant - Rome, Italy - 12 ...
+snippet: Seamus Heaney - Viale delle Provincie, 154, 00162 Rome, Italy - Rated 4.7 based on 12 Reviews &quot;Locale molto carino,piccolo e accogliente, le diverse...
+
+REL: 2
+POI Name: Ombre Rosse
+POI City: Rome
+POI Country: IT
+POI Main category: Arts & Entertainment
+POI Sub category: Jazz & Blues, Bars, 
+Snippets:
+title: Ombre Rosse, Rome - Trastevere - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Ombre Rosse, Rome on Tripadvisor: See 8,971 unbiased reviews of Ombre Rosse, rated 4.5 of 5 on Tripadvisor and ranked #101 of 12,183 restaurants in Rome.
+title: Ombre Rosse in TrastevereOmbre Rosse Trastevere - Musica ...
+snippet: Ombre Rosse Trastevere - Siamo il centro geografico, siamo un polo culturale, facciamo la storia della musica dal vivo in questo angolo di Roma.
+title: OMBRE ROSSE, Rome - Trastevere - Updated 2020 Restaurant ...
+snippet: Reserve a table at Ombre Rosse, Rome on Tripadvisor: See 8,971 unbiased reviews of Ombre Rosse, rated 4.5 of 5 on Tripadvisor and ranked #101 of 12,183 restaurants in Rome.
+title: Ombre Rosse, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Ombre Rosse, Roma: Se 8 971 objektive anmeldelser av Ombre Rosse, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 104 av 12 182 restauranter i Roma.
+title: Ombre Rosse, Rom - Trastevere - Menü, Preise &amp; Restaurant ...
+snippet: Ombre Rosse, Rom: 8.971 Bewertungen - bei Tripadvisor auf Platz 101 von 12.183 von 12.183 Rom Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: OMBRE ROSSE, Rom - Omdömen om restauranger - Tripadvisor
+snippet: Ombre Rosse, Rom: Se 8 971 objektiva omdömen av Ombre Rosse, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer101 av 12 183 restauranger i Rom.
+title: Ombre Rosse, Rome - Le Trastevere - Menu, Prix, Restaurant ...
+snippet: Réserver une table Ombre Rosse, Rome sur Tripadvisor : consultez 8 971 avis sur Ombre Rosse, noté 4,5 sur 5 sur Tripadvisor et classé #101 sur 12 183 restaurants à Rome.
+title: Ombre Rosse, Rome - Trastevere - Menu, Prices &amp; Restaurant ...
+snippet: Ombre Rosse, Rome: See 8,979 unbiased reviews of Ombre Rosse, rated 4.5 of 5 on Tripadvisor and ranked #102 of 12,182 restaurants in Rome.
+title: Ombre Rosse, Rom - Restaurantanmeldelser - Tripadvisor
+snippet: Ombre Rosse, Rom: Se 8.979 objektive anmeldelser af Ombre Rosse, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 102 af 12.182 restauranter i Rom.
+title: OMBRE ROSSE, Roma - Trastévere - Menú, Precios y ...
+snippet: Reserva Ombre Rosse, Roma en Tripadvisor: Consulta 8.971 opiniones sobre Ombre Rosse con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°103 de 12.180 restaurantes en Roma.
+
+REL: 1
+POI Name: BQuadro
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Tapas/Small Plates, Pubs, Modern European, 
+Snippets:
+title: BQuadro Beer &amp; Food, Roma - Restaurantanmeldelser ...
+snippet: BQuadro Beer &amp; Food, Roma: Se 106 objektive anmeldelser av BQuadro Beer &amp; Food, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 548 av 12 182 restauranter i Roma.
+title: BQuadro in Rome - Restaurant Reviews, Menu and Prices ...
+snippet: -20% off the &quot;à la carte&quot; menu, including drinks!. Book a table at BQuadro in Rome. Find restaurant reviews, menu, prices, and hours of operation for BQuadro on TheFork.
+title: THE 10 BEST Restaurants Near BQuadro Beer &amp; Food in Rome ...
+snippet: Restaurants near BQuadro Beer &amp; Food, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near BQuadro Beer &amp; Food in Rome, Italy.
+title: Bquadro Pub - Picture of BQuadro Beer &amp; Food, Rome ...
+snippet: BQuadro Beer &amp; Food, Rome Picture: Bquadro Pub - Check out Tripadvisor members&#39; 50,213 candid photos and videos of BQuadro Beer &amp; Food
+title: photo1.jpg - Picture of BQuadro Beer &amp; Food, Rome ...
+snippet: BQuadro Beer &amp; Food, Rome Picture: photo1.jpg - Check out Tripadvisor members&#39; 50,001 candid photos and videos of BQuadro Beer &amp; Food
+title: BQuadro Beer &amp; Food - Picture of BQuadro Beer &amp; Food, Rome ...
+snippet: BQuadro Beer &amp; Food, Rome Picture: BQuadro Beer &amp; Food - Check out TripAdvisor members&#39; 58,013 candid photos and videos of BQuadro Beer &amp; Food
+title: BQUADRO BEER &amp; FOOD, Rome - Tuscolano - Menu, Prices ...
+snippet: Reserve a table at BQuadro Beer &amp; Food, Rome on Tripadvisor: See 106 unbiased reviews of BQuadro Beer &amp; Food, rated 4.5 of 5 on Tripadvisor and ranked #1,547 of 12,176 restaurants in Rome.
+title: BQuadro pub &amp; bar, Rome, Via Cornelio Gallo, 12/14 ...
+snippet: BQuadro, #743 among Rome restaurants: 674 reviews by visitors and 20 detailed photos. Visitors rated this restaurant 4.3 on Google and 4.9 on Facebook. Be ready to pay 12-27 € for a meal. Find on the map and call to book a table.
+title: Bquadro - Astidental Lazio - Home | Facebook
+snippet: Bquadro - Astidental Lazio. 321 likes. Benvenuto nella pagina Bquadro - Astidental della sede Lazio! Jump to. Sections of this page. Accessibility Help. ... Rome, Italy 00178. Get Directions +39 06 4420 2189. Contact Bquadro - Astidental Lazio on Messenger. www.bquadro.it. Medical Supply Store · Wholesale &amp; Supply Store.
+title: BQuadroPub - Home | Facebook
+snippet: BQuadroPub - Via Cornelio Gallo 10-14, 00175 Rome, Italy - Rated 4.9 based on 130 Reviews &quot;Great food and good beer loved tbe place would recommend to...
+
+REL: 1
+POI Name: Teatro Trastevere
+POI City: Rome
+POI Country: IT
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: Teatro Trastevere - Home | Facebook
+snippet: Teatro Trastevere - via Jacopa de&#39; Sette Soli 3, 00153 Rome, Italy - Rated 4.5 based on 96 Reviews &quot;Siamo stati ospiti al teatro Trastevere io e la mia...
+title: TEATRO TRASTEVERE
+snippet: Scopri la X stagione del Teatro Trastevere. Continua a leggere. IL PICCOLO TRASTEVERE. La stagione teatrale dedicata ai bambini... Scopri di pi ...
+title: Trastevere - Landsbyen i Roma | Dolcevita.no
+snippet: Trastevere er en labyrint av trange gater. I middelalderen var de attpåtil delvis sperret av ”mignani”, deler av bygg som gjorde gatene så trange og kronglete at selv vanlige kjerrer ikke kom igjennom. Heldigvis ble de fjernet på slutten av 1500-tallet, men fortsatt er Trastevere noe helt annet enn resten av millionbyen.
+title: Besøk Roma i 2020: Det beste innen Roma, Italia turisme ...
+snippet: Rom kan heller ikke ses på én dag.Byen føles som en utstillingshall i et gigantisk utendørsmuseum, en sammensetning av piazzaer, friluftsmarkeder og forbløffende historiske steder fra virkeligheten.Kast en mynt i Trevi-fontenen, få hakeslepp av Colosseum og Pantheon, og fyll opp tanken med cappuccino for ettermiddag med shopping på Campo de&#39;Fiori eller Via Veneto.Hiv innpå en tallerken ...
+title: Teatro dell&#39;Opera di Roma
+snippet: Lo Shop del Teatro dell&#39;Opera di Roma è chiuso. Presto Torneremo Online The Shop of Teatro dell&#39;Opera di Roma is closed. We will come back soon.
+title: Trastevere (Roma, Italia) - Anmeldelser - Tripadvisor
+snippet: Trastevere, Roma: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Trastevere i Roma, Italia på Tripadvisor.
+title: Gelateria del Teatro, Rome - Ponte - Restaurant Reviews ...
+snippet: Gelateria del Teatro, Rome: See 2,625 unbiased reviews of Gelateria del Teatro, rated 4.5 of 5 on Tripadvisor and ranked #176 of 12,183 restaurants in Rome.
+title: Trastevere (Rome) - 2020 All You Need to Know BEFORE You ...
+snippet: Meandering around the streets of Trastevere is an adventure into the Roman&#39;s Rome of the last century. It&#39;s real, non-touristy (for the most part), fun and friendly. Of course there are important places to see and among them are the churches (always the place for art and …
+title: Rome, Italy apartments | Airbnb®
+snippet: Find apartments in Rome on Airbnb. Discover apartments ... (Rome) Church St. Agnes in Agony 0.45 km (Rome) Historical Museum of the Teatro Argentina 0.47 km (Rome) Jewish Museum 0.47 km (Rome) Basilica of St. Grisogono 0.53 km (Rome) Lucus Feroniae 0.53 km (Feronia) Piazza Santa Maria in Trastevere 0.53 km (Rome) Church Sant &#39;Ivo alla ...
+title: Where to Eat in Trastevere Rome - Roman Foodie
+snippet: To help you pick the best places, we’ve created this “Where to Eat in Trastevere Rome” guide, so that you can enjoy Trastevere like a local, savoring the best foodie places in the area without paying double the price! Trastevere is a must-visit neighborhood in Rome, it’s one of our favorites!
+
+REL: 1
+POI Name: Enoteca Virdis
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Yelp
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Virdis, Roma - enoteca, wine-bar - Roma - Repubblica.it
+snippet: Virdis: scheda dettagliata con indirizzo, telefono, orari di apertura, opinioni, giudizi e recensioni
+title: Enoteca Trastevere, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Enoteca Trastevere, Roma: Se 1 826 objektive anmeldelser av Enoteca Trastevere, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 342 av 12 184 restauranter i Roma.
+title: Enoteca La Torre, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Enoteca La Torre ligger i en Belle Epoque herskapshus fra det 20. århundre som er vakkert restaurert av et medlem av Fendi-klanen (det har også et boutiquehotell). Spisestuen er fantastisk med en stor glassvegg med utsikt over den romslige hagen og et elegant preg uten... å være for anmassende.
+title: L&#39;Antica Enoteca, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Antica Enoteca, Roma: Se 1 653 objektive anmeldelser av L&#39;Antica Enoteca, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 4 157 av 12 182 restauranter i Roma.
+title: Enoteca Vini Vizi e Virtu, Roma - Restaurantanmeldelser ...
+snippet: Enoteca Vini Vizi e Virtu, Roma: Se 134 objektive anmeldelser av Enoteca Vini Vizi e Virtu, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 2 493 av 12 176 restauranter i Roma.
+title: The 10 Best Wine Bars And Enotecas In Rome
+snippet: Check out these 10 wine bars and enotecas in Rome that will give you what you seek! ... The 10 Best Wine Bars And Enotecas In Rome. ... Regional quality is what lies at the heart of this enoteca, located a few steps away from Piazza di Spagna in central Rome.
+title: Enoteca Amor Divino, Rome - Vatican / Borgo - Restaurant ...
+snippet: Enoteca Amor Divino, Rome: See 154 unbiased reviews of Enoteca Amor Divino, rated 2.5 of 5 on Tripadvisor and ranked #11,164 of 12,182 restaurants in Rome.
+title: Il gusto di Virdis Enoteca - Leggi la recensione su ...
+snippet: Questa premessa potrebbe far pensare che il Gusto di Virdis sia un omaggio al mitico Pietro Paolo Virdis ed invece è proprio Virdis che finita la carriera calcistica ha deciso, nel 2003, di aprire questa piccola enoteca con cucina insieme alla moglie.
+title: Enoteca Roma Trastevere - Restaurant, Osteria, Wine bar ...
+snippet: Enoteca in Rome Trastevere: restaurant, tavern, wine bar and brewery, wines of excellent quality. Traditional Roman and regional foods.
+
+REL: 1
+POI Name: Gelateria Duse
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, 
+Snippets:
+title: Gelateria Duse da Giovanni, Roma - Restaurantanmeldelser ...
+snippet: Gelateria Duse da Giovanni, Roma: Se 128 objektive anmeldelser av Gelateria Duse da Giovanni, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 2 173 av 12 182 restauranter i Roma.
+title: Gelateria Duse da Giovanni, Rome - San Giovanni ...
+snippet: Gelateria Duse da Giovanni, Rome: See 128 unbiased reviews of Gelateria Duse da Giovanni, rated 4.5 of 5 on Tripadvisor and ranked #2,179 of 12,181 restaurants in Rome.
+title: Gelateria Duse da Giovanni - Rome, Italy - Ice Cream Shop ...
+snippet: Gelateria Duse da Giovanni, Rome, Italy. 242 likes · 2 talking about this · 593 were here. Ice Cream Shop
+title: Restaurants Near Gelateria Duse da Giovanni, Rome, Italy
+snippet: Restaurants near Gelateria Duse da Giovanni, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Gelateria Duse da Giovanni in Rome, Italy.
+title: Giovanni - Review of Gelateria Duse da Giovanni, Rome ...
+snippet: Gelateria Duse da Giovanni: Giovanni - See 128 traveler reviews, 8 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: GELATERIA DUSE DA GIOVANNI, Rome - San Giovanni ...
+snippet: Gelateria Duse da Giovanni, Rome: See 128 unbiased reviews of Gelateria Duse da Giovanni, rated 4.5 of 5 on Tripadvisor and ranked #2,166 of 12,182 restaurants in Rome.
+title: Best gelato in Italy - Review of Gelateria Duse da ...
+snippet: Gelateria Duse da Giovanni: Best gelato in Italy - See 128 traveler reviews, 8 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Best gelato in Rome by fat - Gelateria Duse da Giovanni
+snippet: Gelateria Duse da Giovanni: Best gelato in Rome by fat - See 128 traveler reviews, 8 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Giovanni - Gelateria Duse da Giovanni, Rome Traveller ...
+snippet: Gelateria Duse da Giovanni: Giovanni - See 128 traveler reviews, 8 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Gelateria Duse da Giovanni, Rom - Restaurantanmeldelser ...
+snippet: Gelateria Duse da Giovanni, Rom: Se 128 objektive anmeldelser af Gelateria Duse da Giovanni, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 2.166 af 12.179 restauranter i Rom.
+
+REL: 1
+POI Name: Da Zi Umberto
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Osteria Da Zi Umberto - Rome, Italy - Italian Restaurant ...
+snippet: Osteria Da Zi Umberto, Rome, Italy. 2,127 likes · 22 talking about this · 6,895 were here. Italian Restaurant
+title: Osteria Da Zi Umberto, Roma - Restaurantanmeldelser ...
+snippet: Osteria Da Zi Umberto, Roma: Se 1 805 objektive anmeldelser av Osteria Da Zi Umberto, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 367 av 12 182 restauranter i Roma.
+title: OSTERIA DA ZI UMBERTO, Roma - Trastevere - Ristorante ...
+snippet: Da Zi Umberto non si sbaglia mai!!! Assoluta conferma di qualità di questa osteria che è tappa fissa dei nostri viaggi a Roma. Il ristorante propone piatti tipici di assoluta qualità, è obbligatorio prenotare un tavolo per avere la possibilità di cenare/pranzare in questo caratteristico e magico ristorante.
+title: OSTERIA DA ZI UMBERTO, Rome - Trastevere - Updated 2020 ...
+snippet: Osteria Da Zi Umberto, Rome: See 1,805 unbiased reviews of Osteria Da Zi Umberto, rated 4 of 5 on Tripadvisor and ranked #1,364 of 12,181 restaurants in Rome.
+title: Osteria Da Zi Umberto, Rome - Trastevere - Restaurant ...
+snippet: Osteria Da Zi Umberto, Rome: See 1,792 unbiased reviews of Osteria Da Zi Umberto, rated 4 of 5 on Tripadvisor and ranked #1,253 of 12,161 restaurants in Rome.
+title: Osteria Da Zi Umberto, Rom - Trastevere - Restaurant ...
+snippet: Osteria Da Zi Umberto, Rom: 1.805 Bewertungen - bei Tripadvisor auf Platz 1.365 von 12.184 von 12.184 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: OSTERIA DA ZI UMBERTO, Rome - Trastevere - Updated 2020 ...
+snippet: Osteria Da Zi Umberto, Rome: See 1,792 unbiased reviews of Osteria Da Zi Umberto, rated 4 of 5 on Tripadvisor and ranked #1,253 of 12,161 restaurants in Rome.
+title: Osteria Da Zi Umberto, Rom - Restaurantanmeldelser ...
+snippet: Osteria Da Zi Umberto, Rom: Se 1.805 objektive anmeldelser af Osteria Da Zi Umberto, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 1.363 af 12.176 restauranter i Rom.
+title: Da Zi Umberto a Roma: Foto del Menu con Prezzi
+snippet: Guarda le foto del menu di Da Zi Umberto in zona Trastevere a Roma. Solo su Zomato trovi tutti i prezzi dei piatti principali.
+title: Gillian’s Lists: Osteria da Zi&#39;Umberto {Eating in Rome}
+snippet: That is the long winded start to how we ended up having lunch at Osteria Da “Zi” Umberto in Trastevere. We likened this casual place to a good neighborhood diner to our native New Yorker pals and ordered them plates of our favorite Roman standards; fried zucchini flowers, cacio e pepe and amatriciana.
+
+REL: 1
+POI Name: La Vacca M'Briaca
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Roman, 
+Snippets:
+title: DINING RESTAURANT BONDS - Benvenuti su hosterialavacca!
+snippet: Acquista oggi un voucher cena o pranzo per una persona, per poter mangiare domani in due! Per informazioni e prenotazioni scriveteci via email
+title: LA VACCA &#39;MBRIACA, Rome - Monti - Restaurant Reviews ...
+snippet: LA VACCA &#39;MBRIACA, Rome: See 2,601 unbiased reviews of LA VACCA &#39;MBRIACA, rated 4 of 5 on Tripadvisor and ranked #1,916 of 12,183 restaurants in Rome.
+title: LA VACCA &#39;MBRIACA, Roma - Monti - Ristorante Recensioni ...
+snippet: LA VACCA &#39;MBRIACA, Roma: su Tripadvisor trovi 2.601 recensioni imparziali su LA VACCA &#39;MBRIACA, con punteggio 4 su 5 e al n.1.916 su 12.183 ristoranti a Roma.
+title: La Vacca M&#39;briaca a Roma: Foto del Menu con Prezzi
+snippet: Guarda le foto del menu di La Vacca M&#39;briaca in zona Monti a Roma. Solo su Zomato trovi tutti i prezzi dei piatti principali.
+title: LA VACCA &#39;MBRIACA, Rom - Monti - Restaurant Bewertungen ...
+snippet: LA VACCA &#39;MBRIACA, Rom: 2.588 Bewertungen - bei Tripadvisor auf Platz 1.857 von 12.164 von 12.164 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: Hosteria la vacca m&#39;briaca - Home - Rome, Italy - Menu ...
+snippet: Hosteria la vacca m&#39;briaca - Via Urbana 29/30, 00184 Rome, Italy - Rated 4.7 based on 228 Reviews &quot;I love this place, come here every time I am in Rome...
+title: Hosteria la vacca m&#39;briaca, Rome - Monti - Restaurant ...
+snippet: Hosteria la vacca m&#39;briaca, Rome: See 2,537 unbiased reviews of Hosteria la vacca m&#39;briaca, rated 4 of 5 on TripAdvisor and ranked #1,866 of 11,967 restaurants in Rome.
+title: LA VACCA &#39;MBRIACA, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: LA VACCA &#39;MBRIACA, Roma: Se 2 601 objektive anmeldelser av LA VACCA &#39;MBRIACA, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 918 av 12 181 restauranter i Roma.
+title: la vache ivre, Rome - Monti - Restaurant Avis, Numéro de ...
+snippet: la vache ivre, Rome : consultez 2 601 avis sur la vache ivre, noté 4 sur 5 sur Tripadvisor et classé #1 916 sur 12 183 restaurants à Rome.
+title: LA VACCA &#39;MBRIACA, Rom - Restaurantanmeldelser - Tripadvisor
+snippet: LA VACCA &#39;MBRIACA, Rom: Se 2.601 objektive anmeldelser af LA VACCA &#39;MBRIACA, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 1.918 af 12.182 restauranter i Rom.
+
+REL: 1
+POI Name: Irish Pub Il Punto
+POI City: Rome
+POI Country: IT
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Irish Pub Il Punto, Rome - Appio Claudio - Menu, Prices ...
+snippet: Irish Pub Il Punto, Rome: See 136 unbiased reviews of Irish Pub Il Punto, rated 3.5 of 5 on TripAdvisor and ranked #4,401 of 12,086 restaurants in Rome.
+title: irish pub il Punto - Rome, Italy - Pub, Gastropub | Facebook
+snippet: irish pub il Punto, Rome, Italy. 905 likes · 1 talking about this · 2,010 were here. Since 1995 the real Irish spot in Rome
+title: Irish pub il Punto - 161 Photos - 16 Reviews - Arts ...
+snippet: Irish pub il Punto - Via Curzio Rufo 23/25, 00174 Rome, Italy - Rated 5 based on 16 Reviews &quot;Ci vado spesso a questo Pub,mi piace e si respira una bella...
+title: New look - Picture of Irish Pub Il Punto, Rome - Tripadvisor
+snippet: Irish Pub Il Punto, Rome Picture: New look - Check out Tripadvisor members&#39; 50,194 candid photos and videos of Irish Pub Il Punto
+title: Guinness Time - Picture of Irish Pub Il Punto, Rome ...
+snippet: Irish Pub Il Punto, Rome Picture: Guinness Time - Check out Tripadvisor members&#39; 50,210 candid photos and videos of Irish Pub Il Punto
+title: Grigliata mista - Picture of Irish Pub Il Punto, Rome ...
+snippet: Irish Pub Il Punto, Rome Picture: Grigliata mista - Check out Tripadvisor members&#39; 50,195 candid photos and videos of Irish Pub Il Punto
+title: Hamburger Bismark - Picture of Irish Pub Il Punto, Rome ...
+snippet: Irish Pub Il Punto, Rome Picture: Hamburger Bismark - Check out Tripadvisor members&#39; 50,166 candid photos and videos of Irish Pub Il Punto
+title: Irish pub il Punto - 164 Photos - 16 Reviews - Arts ...
+snippet: Irish pub il Punto - Via Curzio Rufo 23/25, 00174 Rome, Italy - Rated 5 based on 16 Reviews &quot;Ci vado spesso a questo Pub,mi piace e si respira una bella...
+title: Halloween time... - Bild von Irish Pub Il Punto, Rom ...
+snippet: Bild von Irish Pub Il Punto, Rom: Halloween time... - Schauen Sie sich 50.054 authentische Fotos und Videos von Irish Pub Il Punto an, die von Tripadvisor-Mitgliedern gemacht wurden.
+title: Irish pub Il Punto
+snippet: L&#39;idea di un angolo d&#39;Irlanda nel cuore di Cinecittà, nasce nell&#39;ormai lontano 1994. Sono venti anni che diffondiamo l&#39;amore per questo brand che ha reso Guinness famosa in tutto il mondo, certamente italianizzandone le atmosfere e la tradizione culinaria, mantenendone inalterata la sua filosofia. L&#39;attenzione al particolare che ci contraddistingue, vi permetterà di godere di u
+
+REL: 1
+POI Name: Pizza e Mortadella
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Roman, 
+Snippets:
+title: Pizza &amp; Mortadella, Rome - Monti - Restaurant Reviews ...
+snippet: Pizza &amp; Mortadella, Rome: See 296 unbiased reviews of Pizza &amp; Mortadella, rated 4 of 5 on Tripadvisor and ranked #2,476 of 12,182 restaurants in Rome. Flights ... Pizza was average quality, but it&#39;s never mind as the real star of this place is lady behind the pizza desk.
+title: THE 10 BEST Restaurants Near Pizza &amp; Mortadella in Rome ...
+snippet: Restaurants near Pizza &amp; Mortadella, Rome on Tripadvisor: Find traveler reviews and candid photos of dining near Pizza &amp; Mortadella in Rome, Italy.
+title: Pizza e Mozzarella, Rome - Pigna - Restaurant Reviews ...
+snippet: Pizza e Mozzarella, Rome: See 1,757 unbiased reviews of Pizza e Mozzarella, rated 5 of 5 on Tripadvisor and ranked #4 of 12,183 restaurants in Rome.
+title: Fresh pizza and paninis - Review of Pizza &amp; Mortadella ...
+snippet: Pizza &amp; Mortadella: Fresh pizza and paninis - See 296 traveler reviews, 84 candid photos, and great deals for Rome, Italy, at Tripadvisor.
+title: Pizza &amp; Mortadella, Rome - Monti - Restaurant Reviews ...
+snippet: Pizza &amp; Mortadella, Rome: See 296 unbiased reviews of Pizza &amp; Mortadella, rated 4 of 5 on Tripadvisor and ranked #2,476 of 12,182 restaurants in Rome.
+title: Pizza &amp; Mortadella, Rom - Restaurantanmeldelser - Tripadvisor
+snippet: Pizza &amp; Mortadella, Rom: Se 296 objektive anmeldelser af Pizza &amp; Mortadella, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 2.476 af 12.182 restauranter i Rom.
+title: Pizza &amp; Mortadella, Rome - Monti - Restaurant Avis, Numéro ...
+snippet: Pizza &amp; Mortadella, Rome : consultez 296 avis sur Pizza &amp; Mortadella, noté 4 sur 5 sur Tripadvisor et classé #2 473 sur 12 178 restaurants à Rome.
+title: PIZZA E MOZZARELLA, Rome - Pigna - Updated 2020 Restaurant ...
+snippet: Pizza e Mozzarella, Rome: See 1,757 unbiased reviews of Pizza e Mozzarella, rated 5 of 5 on Tripadvisor and ranked #4 of 12,183 restaurants in Rome.
+title: Pizza &amp; Mortadella, Rom - Monti - Restaurant Bewertungen ...
+snippet: Pizza &amp; Mortadella, Rom: 296 Bewertungen - bei Tripadvisor auf Platz 2.476 von 12.181 von 12.181 Rom Restaurants; mit 4/5 von Reisenden bewertet.
+title: Pizza &amp;amp; Mortadella - Via cavour 279/281/283 - Rome ...
+snippet: Very good grocery store with a lot of good food made like in the true Rome&#39;s traditions! The best one is Pizza with Mortadella, a must! They sell also other types of pizza, bread, cured meats to use for your just ready sandwich, water, wine, beer and Coke products.
+
+REL: 1
+POI Name: Bar Lillo
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Bars, 
+Snippets:
+title: Bar Lillo, Rome - Trastevere - Restaurant Reviews, Photos ...
+snippet: Bar Lillo, Rome: See 340 unbiased reviews of Bar Lillo, rated 4.5 of 5 on Tripadvisor and ranked #435 of 12,181 restaurants in Rome.
+title: Bar Lillo, Roma - Restaurantanmeldelser - Tripadvisor
+snippet: Bar Lillo, Roma: Se 340 objektive anmeldelser av Bar Lillo, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 437 av 12 176 restauranter i Roma.
+title: Bar Lillo, Rome - Trastevere - Restaurant Reviews, Photos ...
+snippet: Bar Lillo, Rome: See 340 unbiased reviews of Bar Lillo, rated 4.5 of 5 on Tripadvisor and ranked #445 of 12,178 restaurants in Rome.
+title: Bar Lillo - Picture of Bar Lillo, Rome - Tripadvisor
+snippet: Bar Lillo, Rome Picture: Bar Lillo - Check out Tripadvisor members&#39; 50,209 candid photos and videos of Bar Lillo. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Bar Lillo - Picture of Bar Lillo, Rome - Tripadvisor
+snippet: Bar Lillo, Rome Picture: Bar Lillo - Check out Tripadvisor members&#39; 50,110 candid photos and videos of Bar Lillo. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Bar Lillo - Picture of Bar Lillo, Rome - Tripadvisor
+snippet: Bar Lillo, Rome Picture: Bar Lillo - Check out Tripadvisor members&#39; 50,213 candid photos and videos of Bar Lillo. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Bar Lillo - Picture of Bar Lillo, Rome - Tripadvisor
+snippet: Bar Lillo, Rome Picture: Bar Lillo - Check out Tripadvisor members&#39; 50,212 candid photos and videos of Bar Lillo. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping Rome Travel Forum
+title: Il conto - Picture of Bar Lillo, Rome - Tripadvisor
+snippet: Bar Lillo, Rome Picture: Il conto - Check out Tripadvisor members&#39; 50,033 candid photos and videos of Bar Lillo
+title: Outside - Picture of Bar Lillo, Rome - Tripadvisor
+snippet: Bar Lillo, Rome Picture: Outside - Check out Tripadvisor members&#39; 50,018 candid photos and videos of Bar Lillo
+title: Bar Lillo, Rom - Trastevere - Restaurant Bewertungen ...
+snippet: Bar Lillo, Rom: 322 Bewertungen - bei TripAdvisor auf Platz 454 von 12.092 von 12.092 Rom Restaurants; mit 4,5/5 von Reisenden bewertet.
+
+REL: 1
+POI Name: Col d'Orcia
+POI City: Rome
+POI Country: IT
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, 
+Snippets:
+title: Wine Brunello di Montalcino - Col d&#39;Orcia
+snippet: Welcome to Col d&#39;Orcia, organic producer of Brunello.It is the mission of Col d’Orcia to produce the best possible wines that the exceptional combination of soil and climate of this part of Montalcino can achieve.
+title: Tuscan Farmhouse Col d&#39;Orcia
+snippet: After 15 km from Montalcino, at the bottom of the hill, enter the village of S. ANGELO SCALO, on your left, and look for the signs indicating COL D&#39;ORCIA. Directions from Rome 2,5 hours. From Rome take motorway A12 for CIVITAVECCHIA and then continue for 103 km to GROSSETO. Exit at GROSSETO CENTRO and take direction SIENA.
+title: Brunello di Montalcino - Vini Col d&#39;Orcia
+snippet: Benvenuti a Col d&#39;Orcia, produttore biologico di Brunello di Montalcino. Produrre i vini migliori, che dall&#39;eccezionale combinazione del suolo e del clima di questa zona si possono ottenere, è la missione di Col d&#39;Orcia.
+title: Col d&#39;Orcia (Montalcino) - 2020 All You Need to Know ...
+snippet: If you have time for just one side trip from Rome, make it Tuscany. Leave the transportation and logistics to someone else on this guided exploration of the Val d’Orcia region. You can simply relax and enjoy a walking tour of Montepulciano, a stop at Sant’Antimo Abbey, along with free time to stroll and shop in UNESCO-listed Pienza.
+title: Col d&#39;Orcia Brunello di Montalcino 2015 | Italia | Land ...
+snippet: Rødvin Col d&#39;Orcia Brunello di Montalcino 2015. Italia Toscana Brunello di Montalcino. Fint utviklet, preg av røde bær, tørket frukt, fat og mineraler. Lang.
+title: Col d&#39;Orcia (Montalcino, Italien) - omdömen - Tripadvisor
+snippet: Om du har tid för bara en resa från Rom, gör det Toscana. Lämna transport och logistik till någon annan på denna guidade utforskning av Val d&#39;Orcia-regionen. Du kan helt enkelt koppla av och njuta av en vandring i Montepulciano, ett stopp vid Sant&#39;Antimo Abbey, tillsammans med ledig tid att promenera och handla på UNESCO-noterade Pienza.
+title: Col d&#39;Orcia (Montalcino, Italia) - Anmeldelser - Tripadvisor
+snippet: Col d&#39;Orcia. 119 anmeldelser. Nr. 19 av 98 ting å gjøre i Montalcino. Mat og drikke, Vinprodusenter og vingårder. Det er ingen turer eller aktiviteter tilgjengelig for bestilling på internett for datoen du valgte. Velg en annen dato. De mest populære turene og aktivitetene i og rundt Montalcino.
+title: Col d&#39;Orcia winery - Review of Col d&#39;Orcia, Montalcino ...
+snippet: During our holidays in Tuscany, we visited the Col d&#39;Orcia winery. We can only say, this is a must visit. We did not announce our visit and despite the fact that they were super busy, they quickly organized a tour through the facilities and production.
+title: 1987 Tenuta Col d&#39;Orcia Brunello di Montalcino DOCG ...
+snippet: Winemaker: Francesco Marone Cinzano.. Users have rated this wine 5 out of 5 stars. Brunello di Montalcino is one of Italy&#39;s most famous and prestigious wines. In Tuscany, its homeland, ... Stores and prices for &#39;1987 Tenuta Col d&#39;Orcia Brunello di Montalcino ... &#39; | prices, stores, tasting notes and market data.
+title: Col d&#39;Orcia - YouTube
+snippet: Col D&#39;Orcia produce vini pregiati DOC e DOCG, in particolare di vitigno sangiovese. Fiore all&#39;occhiello della produzione: il Brunello di Montalcino Col D&#39;Orc...
+
+REL: 0
+POI Name: Il Siciliano
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Patisserie/Cake Shop, Ice Cream & Frozen Yogurt, 
+Snippets:
+title: Il Siciliano Trastevere, Rome - Trastevere - Menu, Prices ...
+snippet: Il Siciliano Trastevere, Rome: See 74 unbiased reviews of Il Siciliano Trastevere, rated 4 of 5 on Tripadvisor and ranked #4,114 of 12,164 restaurants in Rome.
+title: Il Cannolo Siciliano, Rome - Via Quattro Novembre 95 ...
+snippet: Il Cannolo Siciliano, Rome: See 83 unbiased reviews of Il Cannolo Siciliano, rated 4.5 of 5 on Tripadvisor and ranked #2,829 of 12,183 restaurants in Rome.
+title: Il Siciliano, Rome - Piazza della Balduina 10, Trionfale ...
+snippet: Order food online at Il Siciliano, Rome with Tripadvisor: See 70 unbiased reviews of Il Siciliano, ranked #7,776 on Tripadvisor among 12,179 restaurants in Rome.
+title: IL SICILIANO TRASTEVERE, Rome - Trastevere - Menu, Prices ...
+snippet: Il Siciliano Trastevere, Rome: See 76 unbiased reviews of Il Siciliano Trastevere, rated 4 of 5 on Tripadvisor and ranked #3,996 of 12,181 restaurants in Rome.
+title: Il Siciliano in Rome - Restaurant Reviews, Menu and Prices ...
+snippet: -20% off the &quot;à la carte&quot; menu, including drinks!. Book a table at Il Siciliano in Rome. Find restaurant reviews, menu, prices, and hours of operation for Il Siciliano on TheFork.
+title: Il Siciliano, Rome - Piazza della Balduina 10, Trionfale ...
+snippet: Il Siciliano, Rome: See 70 unbiased reviews of Il Siciliano, rated 3.5 of 5 on Tripadvisor and ranked #7,767 of 12,183 restaurants in Rome.
+title: Il Cannolo Siciliano, Rome - Piazza Roberto Malatesta 16b ...
+snippet: Il Cannolo Siciliano, Rome: See 197 unbiased reviews of Il Cannolo Siciliano, rated 4.5 of 5 on Tripadvisor and ranked #685 of 12,180 restaurants in Rome.
+title: Il Siciliano - Picture of Il Siciliano, Rome - Tripadvisor
+snippet: Il Siciliano, Rome Picture: Il Siciliano - Check out Tripadvisor members&#39; 50,208 candid photos and videos of Il Siciliano
+title: IL SICILIANO, Rome - Piazza della Balduina 10, Trionfale ...
+snippet: Order takeaway and delivery at Il Siciliano, Rome with Tripadvisor: See 70 unbiased reviews of Il Siciliano, ranked #7,781 on Tripadvisor among 12,181 restaurants in Rome.
+title: Bar Il Siciliano | Bar siciliano a Roma | Siamo a ...
+snippet: Bar Siciliano | Stai cercando un bar a Roma per fare aperitivo? Bar Il Siciliano lo trovi a Trastevere oppure a Montagnola. Scopri di piu sul nostro sito.
+
+REL: 0
+POI Name: Pam Express
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Pam express&quot;, via dei gracchi 139, Rome (2020)
+snippet: Informazioni di contatto, mappa e indicazioni stradali, modulo di contatto, orari di apertura, servizi, valutazioni, foto, video e annunci di Pam express&quot;, Negozio di cibi biologici, via dei gracchi 139, Rome.
+title: Pam express&quot;, Rome lazio, Food/grocery - Place123
+snippet: Pam express&quot;, Food/grocery, via dei gracchi 139, Rome lazio
+title: Pam Panorama - La vita spesa al meglio
+snippet: Pam Local è l’innovativo format Pam Panorama che fa dell’attenzione alla praticità e alla convenienza i suoi punti di forza. Ideale per la spesa di tutti i giorni, Pam Local è presente nelle principali città italiane e offre il meglio in termini di qualità, risparmio e comodità.
+title: Pam express&quot;, via dei gracchi 139, Rome (2020)
+snippet: Informazioni di contatto, mappa e indicazioni stradali, modulo di contatto, orari di apertura, servizi, valutazioni, foto, video e annunci di Pam express&quot;, Superstore, via dei gracchi 139, Rome.
+title: VA-KATALOG
+snippet: høyt servicenivå. PAM er representert i 126 land og har et stort og bredt leveringspro-gram tilpasset de fleste applikasjoner PAM Norge leverer rør og deler til norsk vannbransje og har vært i det norske marke-det i en årrekke. Med åtte ansatte og kontor i Oslo er vi en betydelig leverandør inn til norske ledningseiere.
+title: Oops! - MarineTraffic: Global Ship Tracking Intelligence
+snippet: Oops! This content failed to load. RELOAD PAGE. Terms Privacy User Agreement About. English (EN) MarineTraffic Blog Help Centre
+title: Leonardo Express | Cheap Leonardo Express tickets | Trainline
+snippet: The number of daily Leonardo Express trains departing from Rome Termini and stopping at Fiumicino Airport has increased from 110 to 126. First trains now leave from Rome Termini at 05:20 and from Fiumicino Airport at 06:08. Book your Leonardo Express train tickets with us in just a few simple clicks using our journey planner above.
+title: Pam Panorama - La vita spesa al meglio
+snippet: &lt;iframe height=&quot;0&quot; src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-KSN7973&quot; style=&quot;display:none;visibility:hidden&quot; width=&quot;0&quot;&gt;&lt;/iframe&gt;If you&#39;re seeing this ...
+title: PAM Norge - Skjøter
+snippet: Begge leveres med både ett og to kammer avhengig av hvilke oppgaver som skal løses. Det finnes også boltemuffeskjøt type Express og skrumuffeskjøt type Union, men disse anvendes i mindre grad, da bolter ikke er førstevalget i gjenfylte grøfter med varierende korrosive miljøer. De meste benyttede innstikkmuffer i Norge er:
+title: Pan Am Express - Wikipedia
+snippet: Pan Am Express was a brand name for a code sharing passenger feed service operated by other airlines on behalf of Pan American World Airways ().It was set up in the early 1980s, and lasted until the demise of Pan Am in 1991.
+
+REL: 0
+POI Name: La Scala 2000
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Home - Ristorante La Scala in Trastevere
+snippet: La cucina del Ristorante La Scala offre un menù tipicamente mediterraneo, dove i gusti della carne danese si alternano a quelli del pesce fresco.Non manca una lavorazione artigianale di verdure e frutta di stagione, nonché di dolci fatti in casa.Ogni pasto, poi, è sempre accompagnato da un buon vino italiano, soprattutto autoctono ma non solo, e dettagliatamente descritto nella carta dei ...
+title: La Scala in Trastevere, Rome - Trastevere - Menu, Prices ...
+snippet: Reserve a table at La Scala in Trastevere, Rome on Tripadvisor: See 2,352 unbiased reviews of La Scala in Trastevere, rated 4 of 5 on Tripadvisor and ranked #1,533 of 12,181 restaurants in Rome.
+title: La Scala Mediterranean Bistro - Downtown Rome Restaurant
+snippet: Celebrating 20 Years in Downtown Rome! March 2016 will mark our 20th year in business! The La Scala Family would like to thank all our friends in and around NW Georgia for helping us get here.
+title: Teatro alla Scala
+snippet: Welcome to the website of the Teatro alla Scala in Milan, where you can book tickets online, view the season programme (opera, ballet, concert) and discover the theatre through videos and images.
+title: La Scala Santa a San Giovanni in Laterano (Book, 2000 ...
+snippet: Note: Citations are based on reference standards. However, formatting rules can vary widely between applications and fields of interest or study. The specific requirements or preferences of your reviewing publisher, classroom teacher, institution or organization should be applied.
+title: La Scala in Trastevere, Roma - Restaurantanmeldelser ...
+snippet: La Scala in Trastevere, Roma: Se 2 352 objektive anmeldelser av La Scala in Trastevere, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 533 av 12 182 restauranter i Roma.
+title: La Scala, Rome - Via di Sant&#39;Isidoro 5, Ludovisi - Menu ...
+snippet: Reserve a table at La Scala, Rome on Tripadvisor: See 892 unbiased reviews of La Scala, rated 4.5 of 5 on Tripadvisor and ranked #797 of 12,180 restaurants in Rome.
+title: La Scala - Picture of La Scala, Rome - Tripadvisor
+snippet: La Scala, Rome Picture: La Scala - Check out Tripadvisor members&#39; 50,200 candid photos and videos of La Scala. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping
+title: La Scala - Picture of La Scala, Rome - Tripadvisor
+snippet: La Scala, Rome Picture: La Scala - Check out Tripadvisor members&#39; 50,209 candid photos and videos of La Scala. Rome. Rome Tourism Rome Hotels Rome Bed and Breakfast Rome Vacation Rentals Rome Vacation Packages Flights to Rome Rome Restaurants Things to Do in Rome Rome Shopping
+title: La Scala in Trastevere - Home - Rome, Italy - Menu, Prices ...
+snippet: La Scala in Trastevere - Piazza della Scala 58/61, 00153 Rome, Italy - Rated 4.7 based on 296 Reviews &quot;The food is good but you should not be too hungry...
+
+REL: 0
+POI Name: Caseificia Fonte Luna
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Trattoria da Lucia, Rome - Trastevere - Restaurant Reviews ...
+snippet: Trattoria da Lucia, Rome: See 849 unbiased reviews of Trattoria da Lucia, rated 3.5 of 5 on Tripadvisor and ranked #2,539 of 12,183 restaurants in Rome.
+title: Ristorante La Fonte, Cave - Restaurantanmeldelser ...
+snippet: Ristorante La Fonte, Cave: Se 42 objektive anmeldelser av Ristorante La Fonte, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 8 av 23 restauranter i Cave.
+title: Fiordiluna, Rome - Trastevere - Photos &amp; Restaurant ...
+snippet: Thank you for your kind review. We apologize for the few fruit flavors: we strive for the highest quality so we use only fresh and seasonal fruit and there&#39;s almost nothing available now, We hope to see you again.
+title: Booking.com: Hoteller i Roma. Book hotell nå!
+snippet: Vi forstår at du kan bli nødt til å endre reiseplanene dine på grunn av koronaviruset (covid-19). Kontakt overnattingsstedet du har booket, eller gå inn på hjelpesidene våre for å få hjelp til å endre i bookingen.. NB: Det kan ta lengre tid enn vanlig før du får svar.
+title: Hotel Ponte Sisto, Rome | 4 Star Hotel in Rome City Center
+snippet: Hotel in Rome City Center. Among the 4-star hotels in the center of Rome, Hotel Ponte Sisto is the choice for those who want to experience an unforgettable and romantic vacation in the heart of the Eternal City.. Downtown Rome is home to the elegantly comfortable 4-star Hotel Ponte Sisto business hotel just off Trastevere, convenient to Piazza Navona, the Pantheon and the ancient Via Giulia ...
+title: Fonte Luna Map - Rieti, Italy - Mapcarta
+snippet: Fara in Sabina, also spelled Fara Sabina, is a comune in the Province of Rieti in the Italian region Lazio, located about 40 kilometres northeast of Rome and about 25 kilometres southwest of Rieti. Fara in Sabina is situated 1¼ km northeast of Fonte Luna. Photo: Wikimedia, Public domain.
+title: ItalyGuides.it: A Sightseeing Revolution - A virtual ...
+snippet: This is the start of a mysterious and fascinating trip: a voyage across more than 20 centuries of creativity through which art and history intertwine, telling the story of what human ingenuity has created through the ages.
+title: Booking.com: Hotels in Rom. Buchen Sie jetzt Ihr Hotel!
+snippet: Das Rome Experience Hostel begrüßt Sie nur 50 m von der Porta Maggiore und 7 Gehminuten von der U-Bahn-Station Manzoni entfernt mit einem Garten und kostenfreiem WLAN. ... Fonte Ostiense 10 Corviale 8 Magliana Vecchia 6 Saxa Rubra 2 Die am besten bewertete Gegend in Lido di Ostia 1 Hotelkette 4L Collection 6 B&amp;B Hotels 4
+
+REL: 0
+POI Name: Flan The Obrein
+POI City: Rome
+POI Country: IT
+POI Main category: Restaurants and Food
+POI Sub category: Irish, Italian, Seafood, 
+Snippets:
+title: The Flann O&#39;Brien
+snippet: In the heart of Rome The Flann O’Brien, just steps away from Piazza Della Repubblica and Termini Central Station, is located in the heart of Rome from where you can easily reach the major historic and artistic sites as: Fontana Di Trevi, Piazza Di Spagna, Piazza Venezia and the Colosseum.
+title: Flann O&#39;Brien Rooms Rome - Guest House Rome Centre
+snippet: Flann O&#39;Brien rooms Guest house delivers on price and location and has a great feel about it too. Our multi-lingual staff are friendly and welcoming and can advise you on reaching sites, restaurants or getting tickets for major attractions.
+title: Flann O&#39;Brien, Rome - Esquilino - Restaurant Reviews ...
+snippet: Flann O&#39;Brien, Rome: See 1,072 unbiased reviews of Flann O&#39;Brien, rated 3.5 of 5 on Tripadvisor and ranked #2,964 of 12,183 restaurants in Rome.
+title: Brian O&#39;Nolan - Wikipedia
+snippet: Brian O&#39;Nolan (Irish: Brian Ó Nualláin; 5 October 1911 – 1 April 1966) was an Irish novelist, playwright and satirist, considered a major figure in twentieth century Irish literature.Born in Strabane, County Tyrone, he is regarded as a key figure in modernist and postmodern literature. His English language novels, such as At Swim-Two-Birds and The Third Policeman, were written under the ...
+title: The Flann O&#39;Brien Rome - Irish Pub - Rome, Italy - 413 ...
+snippet: The Flann O&#39;Brien Rome - Via Nazionale,17, 00184 Rome, Italy - Rated 4.6 based on 413 Reviews &quot;What a find this was,great place for a pint of...
+title: Rom Flan, Av. Chapultepec, San Luis Potosí (2020)
+snippet: 30/11/2014 . El flan napolitano se remonta a la época del Imperio romano, donde era llamado tyropatina, se volvió muy popular durante la Edad Media, ya que era degustado en época de Cuaresma, Fue alrededor del siglo VII que se popularizó el término flan para nombrar a este platillo, proveniente de la palabra francesa flan derivada a su vez de la altoalemana flado, que significaba torta u ...
+title: Rom Flan - Home | Facebook
+snippet: Rom Flan, San Luis Potosí. 74 likes. Grocery Store
+title: Flan al ron - YouTube
+snippet: Flan al Rom..... How to make swiss roll cake / Basic roll cake Recipe / Easy roll cake - Duration: 8:37. 쿠킹씨 Cooking See Recommended for you
+title: Flann O&#39;Brien&#39;s Irish Pub ‹ Flann O&#39;Brien&#39;s Irish Pub
+snippet: Flann O’ Brien’s Irish Pub and Restaurant is an ideal venue to meet friends, make some new ones for a bite and a beer, or catch a game on our big screens TV, watching the world go by.
+title: Hotel The Glam, Rome, Italy - Booking.com
+snippet: Nestled in the heart of Rome, Rome Glam Hotel welcomes its guests in a modern and exclusive location. ... The flan obrien is just up the road towards the roma termini train station really good live singer in there at night, beer was good too ?? Really well placed hotel would definitely book again.
+
+Cand cities: {'Rome'}

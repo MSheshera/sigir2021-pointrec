@@ -1,0 +1,1380 @@
+City: Caen
+Country: FR
+Main category: Restaurants and Food
+Description: I am looking for some heartwarming and soulfull food. Greasy and tasty. And also on a student budget.
+Rated POIs: 49
+Rel distr: [(0, 2), (1, 10), (2, 23), (3, 14)]
+=================================
+REL: 3
+POI Name: Le Dolly's
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, British, 
+Snippets:
+title: Le Dolly&#39;s, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Dolly&#39;s, Caen: See 1,607 unbiased reviews of Le Dolly&#39;s, rated 4 of 5 on Tripadvisor and ranked #109 of 441 restaurants in Caen.
+title: Le Dolly&#39;s, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: Le Dolly&#39;s, Caen : consultez 1 615 avis sur Le Dolly&#39;s, noté 4 sur 5 sur Tripadvisor et classé #108 sur 444 restaurants à Caen.
+title: LE DOLLY&#39;S, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Dolly&#39;s, Caen: See 1,615 unbiased reviews of Le Dolly&#39;s, rated 4 of 5 on Tripadvisor and ranked #108 of 444 restaurants in Caen.
+title: Le Dolly&#39;s, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Le Dolly&#39;s, Caen: Se 1 615 objektive anmeldelser av Le Dolly&#39;s, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 109 av 444 restauranter i Caen.
+title: Dolly’s – Brunch.fr
+snippet: Alors traverser la manche sans bouger d’un iota et installez-vous au Dolly’s, à Caen. Objets chinés, notes vintages, photos sur les murs, souvenirs de famille… Le cadre est atypique et l’ambiance cosy dans ce restaurant-salon de thé. Après avoir flâné sur le marché de la ville, poussez les portes du Dolly’s et brunchez à la ...
+title: DOLLY&#39;S - Brunch - Caen (14000) - Petit Futé
+snippet: Au Dolly&#39;s, c&#39;est un peu comme à la maison, on s&#39;y sent bien et on ne voit pas le temps passer. Un joli bric-à-brac de mobilier façon brocante douillette, avec ici un canapé, là des fauteuils club au cuir patiné, gratté voire usé et, plus loin, des tables basses.
+title: Facebook
+snippet: See posts, photos and more on Facebook.
+title: À Caen, le restaurant Dolly&#39;s ferme à la rentrée de ...
+snippet: À Caen, le restaurant Dolly’s ferme à la rentrée de septembre Afin de réaliser des travaux, le restaurant Dolly&#39;s à Caen (Calvados), ferme ses portes pendant plusieurs semaines, en ...
+title: C Dolly S Caen - Restaurant (adresse, avis)
+snippet: C Dolly S à Caen Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: Dollys burger - Picture of Le Dolly&#39;s, Caen - Tripadvisor
+snippet: Le Dolly&#39;s, Caen Picture: Dollys burger - Check out Tripadvisor members&#39; 6,352 candid photos and videos of Le Dolly&#39;s
+
+REL: 3
+POI Name: Les Touristes
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Coffee & Tea, 
+Snippets:
+title: Les Touristes Cafe, Caen - Restaurant Avis, Numéro de ...
+snippet: le café les touristes est une institution à Caen, nous y avons déjeuné avec une amie qui aimait s&#39;y rendre il y a plusieurs années, et qui avait toujours été satisfaite. le cadre est correct, la partie brasserie est sur élevée par rapport au bar,... Plus. Date de la visite : janvier 2020.
+title: LES Touristes - Officiel - Home - Caen, France - Menu ...
+snippet: LES Touristes - Officiel - 03 boulevard maréchal leclerc, 14000 Caen, France - Rated 4.6 based on 16 Reviews &quot;Nous avons déjeuner avec une amie ce...
+title: Les Touristes Cafe, Caen - Restaurant Reviews, Photos ...
+snippet: Les Touristes Cafe, Caen: See 137 unbiased reviews of Les Touristes Cafe, rated 3.5 of 5 on Tripadvisor and ranked #192 of 444 restaurants in Caen.
+title: De 10 beste restaurantene i nærheten av Les Touristes Cafe
+snippet: Restauranter i nærheten av Les Touristes Cafe på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Les Touristes Cafe, Caen.
+title: Les Touristes Cafe, Caen - Restaurant Reviews, Photos ...
+snippet: Les Touristes Cafe, Caen: See 137 unbiased reviews of Les Touristes Cafe, rated 3.5 of 5 on Tripadvisor and ranked #193 of 445 restaurants in Caen.
+title: LES TOURISTES - Bistrot – Brasserie - Caen (14000)
+snippet: « Les Touristes », en voilà un nom qui n&#39;incite pas à entrer dans une brasserie. Mais soyons pleins de courage et franchissons le sas enfumé de la terrasse couverte, pour se retrouver dans une salle à la décoration chic et sobre (on vous laisse la surprise des troncs de bouleau).
+title: Les Touristes cafe, Caen - Restaurant reviews
+snippet: Les Touristes, #15 among Caen pubs &amp; bars: 358 reviews by visitors and 20 detailed photos. The restaurant scored 3.9 on Google and 3.5 on Yelp. Find on the map and call to book a table.
+title: Bienvenue sur le site l&#39;Office de Tourisme Caen la Mer ...
+snippet: Dans le cadre de la lutte contre l’épidémie de coronavirus, c’est avec regret que nous vous annonçons la fermeture de nos bureaux d’information, et ce jusqu’à nouvel. Une permanence d’accueil téléphonique et mail sera mise en place à partir de mardi 17 mars, du lundi au vendredi de 9h30 à 13h.
+title: LES TOURISTES CAFE, Caen - Omdömen om restauranger ...
+snippet: Les Touristes Cafe, Caen: Se 137 objektiva omdömen av Les Touristes Cafe, som fått betyg 3,5 av 5 på Tripadvisor och rankas som nummer192 av 444 restauranger i Caen.
+title: Les Touristes Cafe, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Les Touristes Cafe, Caen: Se 137 objektive anmeldelser af Les Touristes Cafe, som har fået 3,5 af 5 på Tripadvisor og er placeret som nr. 192 af 444 restauranter i Caen.
+
+REL: 3
+POI Name: Côté Bocage
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Creperies, 
+Snippets:
+title: La crêperie Côté Bocage est une crêperie traditionnelle ...
+snippet: La crêperie Côté Bocage est une crêperie traditionnelle Normande située dans la rue du Vaugueux à Caen. Les galettes et les crêpes sont faites à la demande et la cuisine maison est élaborée à partir de produits frais et de producteurs normands.
+title: Cote Bocage, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Cote Bocage, Caen: Se 102 objektive anmeldelser av Cote Bocage, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 52 av 444 restauranter i Caen.
+title: Cote Bocage, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Cote Bocage, Caen: See 102 unbiased reviews of Cote Bocage, rated 4.5 of 5 on Tripadvisor and ranked #52 of 444 restaurants in Caen.
+title: Côté Bocage, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: Côté Bocage, Caen : consultez 102 avis sur Côté Bocage, noté 4,5 sur 5 sur Tripadvisor et classé #52 sur 444 restaurants à Caen.
+title: Crêperie Côté Bocage - 46 Photos - 19 Reviews - Crêperie ...
+snippet: Crêperie Côté Bocage - 3 ter, rue du Vaugueux, 14000 Caen, France - Rated 4.7 based on 19 Reviews &quot;Très jolie crêperie bien décorée. La cuisine est...
+title: De 10 beste restaurantene i nærheten av Cote Bocage
+snippet: Restauranter i nærheten av Cote Bocage på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Cote Bocage, Caen. Caen. Turisme i Caen Hotell i Caen Bed and Breakfast i Caen Pakkereiser til Caen Flyreiser til Caen Restauranter i Caen Ting å gjøre i Caen
+title: THE 10 BEST Restaurants Near Cote Bocage in Caen, Calvados ...
+snippet: Restaurants near Cote Bocage, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near Cote Bocage in Caen, France.
+title: Caen – Wikipedia
+snippet: Caen (fransk uttale: [kɑ̃]) er hovedstad i det franske departementet Calvados.Caen har rundt 120 000 innbyggere og er hjembyen til Vilhelm Erobreren.Byen opplevde en stor økonomisk oppgang under hans erobring av England.Få bygninger har overlevd fra denne tiden på grunn av bombingen under andre verdenskrig.I sentrum av byen finner man tre markante monumenter fra Vilhelm erobrerens tid ...
+title: Desserts - Review of Cote Bocage, Caen, France - Tripadvisor
+snippet: Cote Bocage: Desserts - See 102 traveler reviews, 33 candid photos, and great deals for Caen, France, at Tripadvisor.
+title: Delicious food - Review of Cote Bocage, Caen, France ...
+snippet: Cote Bocage: Delicious food - See 102 traveler reviews, 33 candid photos, and great deals for Caen, France, at Tripadvisor.
+
+REL: 3
+POI Name: Glaces des Alpes
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, 
+Snippets:
+title: Glaces des Alpes - Maître Artisan Glacier
+snippet: Découvrez plus de 180 parfums glaces artisanales et sorbets plein fruit tous aussi exceptionnels qu&#39;originaux. Des créations gastronomiques crées par Stéphane Vindret, à base d&#39;ingrédients strictement sélectionnés pour leur qualité organoleptique, pour des recettes pleines de générosités.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.fr
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Nos Produits - Glaces des Alpes - Maitre Artisan Glacier
+snippet: Glaces des Alpes – Maitre Artisan Glacier Venez découvrir l’ensemble de nos parfums de glaces et sorbets et nos réalisations pâtissières PAE la caille, 191 Avenue des Marais, 74350 Allonzier-la-Caille, France
+title: Glaces des Alpes - Caen, Basse-Normandie | Groupon
+snippet: 16 Boulevard des Alliés, Caen, Basse-Normandie 14000. Groupon a vérifié que ce client est réellement allé chez Glaces des Alpes
+title: La Compagnie des Glaces - Glaces des Alpes, Salon de thé à ...
+snippet: Retrouvez toutes les infos sur le restaurant La Compagnie des Glaces - Glaces des Alpes à Caen : ... - Tél. 02 31 9...
+title: GLACES DES ALPES - Fastfood à Caen (14000) - Adresse et ...
+snippet: GLACES DES ALPES à Caen - L’annuaire Hoodspot - Adresse, numéro de téléphone, produits et services de GLACES DES ALPES. Contacter par courrier à l&#39;adresse postale : 16 boulevard des allies 16 a 18, 14000 Caen. Nos cookies nous aident à améliorer votre expérience sur ce site.
+title: Glaces Des Alpes - Caen, France - Glacier
+snippet: Glaces Des Alpes - Boulevard Alliés - +332319709... - Caen, France revues et expériences par des résidents locaux. Découvrez les meilleurs restaurants, bars, cafés, salons de coiffure locaux et bien plus encore, sur Tupalo
+title: Glaces Des Alpes - YouTube
+snippet: Glaces des Alpes Fournisseur de Glaces Artisanales d&#39;excellence pour les professionnels (Glaciers, restaurateurs, CHR, pâtissiers, boulangers, artisans..). L...
+title: Glaces des Alpes - Meister des Geschmacks - YouTube
+snippet: Entdecken Sie das Können des Meisters der handwerklichen Speiseeisherstellung Glaces des Alpes per Video. Glaces des Alpes ist der französische Marktführer i...
+
+REL: 3
+POI Name: L'Embroche
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: L&#39;Embroche Caen - Home - Caen, France - Menu, Prices ...
+snippet: L&#39;Embroche Caen - Quartier du Vauguaux 17 Rue Porte Au Berger, 14000 Caen, France - Rated 4.7 based on 33 Reviews &quot;So nice restaurant. Very...
+title: L&#39;Embroche, Caen - Restaurant Reviews, Photos ...
+snippet: Reserve a table at L&#39;Embroche, Caen on Tripadvisor: See 270 unbiased reviews of L&#39;Embroche, rated 4.5 of 5 on Tripadvisor and ranked #46 of 444 restaurants in Caen.
+title: L&#39;Embroche, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Embroche, Caen: Se 270 objektive anmeldelser av L&#39;Embroche, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 46 av 444 restauranter i Caen.
+title: L&#39;Embroche, Caen - Restaurant Avis, Photos &amp; Réservations ...
+snippet: Réserver une table L&#39;Embroche, Caen sur Tripadvisor : consultez 270 avis sur L&#39;Embroche, noté 4,5 sur 5 sur Tripadvisor et classé #46 sur 444 restaurants à Caen.
+title: L&#39;EMBROCHE - Bistronomie - Caen (14000)
+snippet: L&#39;EMBROCHE - Caen 14000 - 17, rue Porte-au-Berger Bistronomie : Dans ce petit quartier latin caennais, le restaurant du chef Benoît Porcheron se distingue par sa...
+title: Restaurant L&#39;Embroche à Caen (14000) - Menu, avis, prix et ...
+snippet: Restaurant L&#39;Embroche à Caen : Réservez gratuitement au restaurant L&#39;Embroche, confirmation immédiate de votre réservation avec LaFourchette.
+title: THE 10 BEST Restaurants Near L&#39;Embroche in Caen, Calvados ...
+snippet: Restaurants near L&#39;Embroche, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near L&#39;Embroche in Caen, France.
+title: L&#39;Embroche in Caen - Restaurant Reviews, Menu and Prices ...
+snippet: Book a table at L&#39;Embroche in Caen. Find restaurant reviews, menu, prices, and hours of operation for L&#39;Embroche on TheFork.
+title: L&#39;Embroche Caen - Restaurant (adresse, avis)
+snippet: L&#39;Embroche à Caen Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: L&#39;Embroche, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Embroche, Caen: Se 270 objektive anmeldelser af L&#39;Embroche, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 46 af 445 restauranter i Caen.
+
+REL: 3
+POI Name: El Olivo
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: El Olivo – Restaurant El Olivo
+snippet: Le restaurant El Olivo à Caen, un lieu unique au coeur du quartier historique du Vaugueux. Au pied du château et de l’Eglise St Pierre, le restaurant El Olivo vous accueille dans un cadre dans l’air du temps.
+title: Menu el olivo – El Olivo - El Olivo – Restaurant El Olivo
+snippet: Et puisque la table d&#39;El Olivo est aussi le lieu privilégié des repas en famille, nous n&#39;en oublions pas les tous petits avec notre menu enfant, miniburger maison ou nuggets (aussi bon que chez Ronald !) Soyez les bienvenus à El Olivo où l&#39;équipe vous accueillera dans une ambiance familiale et chaleureuse.
+title: El Olivo - Home - Caen, France - Menu, Prices, Restaurant ...
+snippet: El Olivo - 32 rue du Vaugueux, 14000 Caen, France - Rated 4.3 based on 154 Reviews &quot;Service impeccable, plats de qualité ! Et décor très cosy !!! Lieu...
+title: El Olivo, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: El Olivo, Caen: Se 427 objektive anmeldelser av El Olivo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 100 av 444 restauranter i Caen.
+title: El Olivo, Caen - Restaurant Reviews, Photos &amp; Phone Number ...
+snippet: El Olivo, Caen: See 427 unbiased reviews of El Olivo, rated 4 of 5 on Tripadvisor and ranked #100 of 445 restaurants in Caen.
+title: restaurant el olivo – El Olivo
+snippet: Le Restaurant El Olivo. Le restaurant El Olivo à Caen vous invite à la détente dans un cadre chaleureux, avec une cuisine aux saveurs qui conjuguent simplicité et gourmandise. En cuisine le chef et sa brigade œuvrent avec bonne humeur pour régaler ses convives d’assiettes à l’image des lieux, gourmandes et modernes.
+title: El Olivo, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: El Olivo, Caen : consultez 427 avis sur El Olivo, noté 4 sur 5 sur Tripadvisor et classé #99 sur 444 restaurants à Caen.
+title: THE 10 BEST Restaurants Near El Olivo in Caen, Calvados ...
+snippet: Restaurants near El Olivo, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near El Olivo in Caen, France.
+title: De 10 beste restaurantene i nærheten av El Olivo - Tripadvisor
+snippet: Restauranter i nærheten av El Olivo på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av El Olivo, Caen.
+title: Nice restaurant in Caen - Review of El Olivo, Caen, France ...
+snippet: El Olivo: Nice restaurant in Caen - See 427 traveler reviews, 76 candid photos, and great deals for Caen, France, at Tripadvisor.
+
+REL: 3
+POI Name: Pizzéria Abracadabra
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, Italian, 
+Snippets:
+title: Abracadabra, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: Abracadabra, Caen : consultez 589 avis sur Abracadabra, noté 4,5 sur 5 sur Tripadvisor et classé #45 sur 444 restaurants à Caen. Vols Locations de vacances Restaurants Activités ... Pizzeria trouvée grâce aux commentaires positifs . Au top, ...
+title: L&#39;Abracadabra - 526 Photos - 92 Reviews - Pizza Place - 4 ...
+snippet: L&#39;Abracadabra - 4 rue du Vaugueux, 14000 Caen, France - Rated 4.6 based on 92 Reviews &quot;Best of the best !!!&quot;
+title: L&#39;Abracadabra à Caen, carte-menu et photos
+snippet: L&#39;Abracadabra situé à Caen (14) est un établissement de type Pizza - pizzéria, consultez leur carte-menu (2 pages), les horaires d&#39;ouverture. L’Abracadabra expose à sa clientèle une carte de pizza pleine de fantaisie, notamment au niveau des noms. Il est sûr et certain que vos papilles ne s’ennuieront pas durant un déjeuner chez cette pizzéria de Caen.
+title: Abracadabra, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Abracadabra, Caen: Se 589 objektive anmeldelser av Abracadabra, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 45 av 444 restauranter i Caen. Fly ... derav å velge en pizzeria. Som tidligere nevnt i utvalg av pizza er enormt! Fra tandoori kylling eller sjømat.
+title: Abracadabra, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Abracadabra, Caen: See 589 unbiased reviews of Abracadabra, rated 4.5 of 5 on Tripadvisor and ranked #45 of 444 restaurants in Caen.
+title: Pizzeria Abracadabra - Picture of Abracadabra, Caen ...
+snippet: Abracadabra, Caen Picture: Pizzeria Abracadabra - Check out Tripadvisor members&#39; 6,353 candid photos and videos of Abracadabra
+title: L&#39;Abracadabra - 535 photos - 92 avis - Pizzeria - 4 rue du ...
+snippet: L&#39;Abracadabra - 4 rue du Vaugueux, 14000 Caen - Note de 4.6 sur la base de 92 avis «Superbe pizzéria! découverte hier soir, je reviendrai sans hésiter!!!...
+title: Great little pizzeria - Reviews, Photos - Abracadabra ...
+snippet: Abracadabra: Great little pizzeria - See 589 traveler reviews, 106 candid photos, and great deals for Caen, France, at Tripadvisor.
+title: Abracadabra pizzeria, Caen - Menu du restaurant et ...
+snippet: Abracadabra, N°3 sur Caen pizzerias: 971 avis et 20 photos détaillées. Trouvez sur une carte et appelez pour réserver une table. Les gens ont évalué ce restaurant 4,4 à Google et 4,6 à Facebook. Apprêtez-vous à payer 6-28 € pour un plat.
+title: Abracadabra Caen - Restaurant (adresse, avis)
+snippet: Abracadabra à Caen Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel. Abracadabra à Caen Restaurants : adresse, ... Une petite pizzeria ou l&#39;accueil y est chaleureux. Le nom du restaurant est bien représenté par sa décoration avec tous pleins de sorcières.
+
+REL: 3
+POI Name: Le Bistrot
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Brasseries, Bistros, Barbeque, 
+Snippets:
+title: Le Bistrot, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Le Bistrot, Caen: Se 107 objektive anmeldelser av Le Bistrot, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 343 av 445 restauranter i Caen.
+title: Le Bistrot Caen - 4 Esplanade Leopold Sedar Senghor - Menu ...
+snippet: Maximebistrot, Chef de Le Bistrot Caen, a répondu à cet avis A répondu le 18 février 2020. Merci d&#39;avoir pris le temps d’exprimer votre avis. Au plaisir de vous revoir, l’équipe du bistrot. Karine0601. 24 avis. Avis écrit le 2 novembre 2019 par mobile . Dommage .
+title: Le Bistrot Saint Michel, Caen - Menu, Prices &amp; Restaurant ...
+snippet: Le Bistrot Saint Michel, Caen: See 179 unbiased reviews of Le Bistrot Saint Michel, rated 4.5 of 5 on Tripadvisor and ranked #37 of 444 restaurants in Caen.
+title: Le Bistrot, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Spise middag i Caen: Se 97 anmeldelser fra Tripadvisor-reisende av 441restauranter i Caen, og søk etter kjøkken, pris, sted og mer.
+title: Le Bistrot, Caen - 4 Esplanade Leopold Sedar Senghor ...
+snippet: Reserve a table at Le Bistrot, Caen on Tripadvisor: See 107 unbiased reviews of Le Bistrot, rated 3 of 5 on Tripadvisor and ranked #343 of 444 restaurants in Caen.
+title: Le Bistrot Saint Michel / Bistrot / Caen
+snippet: Le Bistrot Saint Michel. Bistrot - Caen. TABLE GOURMANDE . Le Chef vous propose une cuisine de saison où les produits frais, régionaux et de qualité ont une place plus que primordiale. Le circuit court, pour l&#39;achat des produits, est privilégié.
+title: Le Bistrot Caen - Home | Facebook
+snippet: Le Bistrot Caen. 224 likes · 4 talking about this · 271 were here. Le Bistrot se trouve au centre commercial des rives de l&#39;orne, c&#39;est un restaurant, bar à vins &amp; tapas. Nous vous proposons de bonne...
+title: LE BISTROT - Bistrot – Brasserie - Caen (14000)
+snippet: » Et il faut bien reconnaître qu’on ne repart pas déçu de ce bistrot. Pour les dévoreurs de films, le Pathé des Rives de l’Orne est juste à côté et le Bistrot propose une formule cinéma. Enfin brasserie à midi, le Bistrot se transforme en bar à vins/bar à tapas quand vient la soirée. Ah, oui !
+title: Le Bistrot Caen - https://sauvetonresto.io/events/kil1cavt ...
+snippet: See more of Le Bistrot Caen on Facebook. Log In. or. Create New Account. See more of Le Bistrot Caen on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Le Palais Caen. Dance &amp; Night Club. Kebab Bosphore. Kebab Shop. CL Colombelles Handball. Sports Club. L&#39;orient express. Dance &amp; Night Club. El Pillax lanta resort.
+title: Le Bistrot in Caen: 2 reviews - Minube
+snippet: Le Bistrot This is a restaurant situated in one of the nicest streets of Caen in old town with quaint Norman cottages from the 15th-16th century. It is an area full of terraces for dining, the food is typical from the region and not excessively expensive.
+
+REL: 3
+POI Name: La Fringale
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, 
+Snippets:
+title: La Fringale - Home - Caen, France - Menu, Prices ...
+snippet: La Fringale - 20 Rue du Vaugueux, 14000 Caen, France - Rated 4.5 based on 122 Reviews &quot;Excellent service, lovely food, nice staff and the proprietor...
+title: La Fringale, Caen - 20 rue du Vaugueux - Restaurant Avis ...
+snippet: La Fringale, Caen : consultez 746 avis sur La Fringale, noté 4 sur 5 sur Tripadvisor et classé #92 sur 444 restaurants à Caen.
+title: La Fringale, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: La Fringale, Caen: Se 746 objektive anmeldelser av La Fringale, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 92 av 444 restauranter i Caen.
+title: La Fringale, Caen - 20 rue du Vaugueux - Restaurant ...
+snippet: La Fringale, Caen: See 746 unbiased reviews of La Fringale, rated 4 of 5 on Tripadvisor and ranked #92 of 444 restaurants in Caen.
+title: Dinner in Caen - La Fringale, Caen Traveller Reviews ...
+snippet: There are a lot of restaurants in this part of Caen and we, four friends, just picked one for dinner. La Fringale was a really good choise. All of us opted for their three course dinner menu with fois gras and salmon for starter and duck breast for main course.
+title: Best mussels in Caen - Review of La Fringale, Caen, France ...
+snippet: La Fringale: Best mussels in Caen - See 746 traveler reviews, 171 candid photos, and great deals for Caen, France, at Tripadvisor.
+title: La Fringale, Caen - recenzje restauracji - Tripadvisor
+snippet: La Fringale, Caen: zobacz bezstronne recenzje (746 ) na temat La Fringale, z oceną 4 na 5 w serwisie Tripadvisor, na pozycji 92 z 444 restauracji w Caen.
+title: LA FRINGALE, Caen - Omdömen om restauranger - Tripadvisor
+snippet: La Fringale, Caen: Se 746 objektiva omdömen av La Fringale, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer92 av 444 restauranger i Caen.
+title: La Fringale, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: La Fringale, Caen: Se 746 objektive anmeldelser af La Fringale, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 92 af 445 restauranter i Caen.
+title: La Fringale - Accueil - Caen - Menu, prix, avis sur le ...
+snippet: La Fringale - 20 Rue du Vaugueux, 14000 Caen - Note de 4.5 sur la base de 122 avis «Restaurant au top! Accueil exceptionnel et je mit suis régaler comme...
+
+REL: 3
+POI Name: Beroya
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Burgers, Lebanese, Sandwiches, 
+Snippets:
+title: Beroya, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Beroya, Caen: Se 24 objektive anmeldelser av Beroya, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 200 av 445 restauranter i Caen.
+title: Beroya, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: Beroya, Caen : consultez 24 avis sur Beroya, noté 4,5 sur 5 sur Tripadvisor et classé #200 sur 444 restaurants à Caen.
+title: Beroya, Caen - Restaurant Reviews, Photos &amp; Phone Number ...
+snippet: Beroya, Caen: See 24 unbiased reviews of Beroya, rated 4.5 of 5 on Tripadvisor and ranked #199 of 444 restaurants in Caen.
+title: Sandwich chicken - Bilde av Beroya i Caen - Tripadvisor
+snippet: Beroya, Caen Bilde: Sandwich chicken - Se Tripadvisor-medlemmers 6 334 objektive bilder og videoer av Beroya
+title: Beroya, Caen - Restaurant Reviews, Phone Number &amp; Photos ...
+snippet: Beroya, Caen: See 24 unbiased reviews of Beroya, rated 4.5 of 5 on Tripadvisor and ranked #200 of 444 restaurants in Caen.
+title: Delicious - Review of Beroya, Caen, France - Tripadvisor
+snippet: Beroya: Delicious - See 24 traveler reviews, 2 candid photos, and great deals for Caen, France, at Tripadvisor.
+title: BEROYA, Caen - Omdömen om restauranger - Tripadvisor
+snippet: Beroya, Caen: Se 24 objektiva omdömen av Beroya, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer200 av 444 restauranger i Caen.
+title: Kebab Beroya - Home - Caen, France - Menu, Prices ...
+snippet: Kebab Beroya - 37 rue de vaucelles, 14000 Caen, France - Rated 4.6 based on 15 Reviews &quot;Toujours très bien accueilli, la nourriture est vraiment très...
+title: Beroya, Caen - recenzje restauracji - Tripadvisor
+snippet: Beroya, Caen: zobacz bezstronne recenzje (24 ) na temat Beroya, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 199 z 441 restauracji w Caen.
+title: Beroya, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Beroya, Caen: Se 24 objektive anmeldelser af Beroya, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 200 af 444 restauranter i Caen.
+
+REL: 3
+POI Name: Sans Gêne
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, Bars, 
+Snippets:
+title: Le SANS-GÊNE un restaurant différent à Caen
+snippet: Le SANS-GÊNE un restaurant pas comme les autres. Situé 4 rue du chemin vert à Caen
+title: Le Sans Gene, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Le Sans Gene, Caen: Se 1 135 objektive anmeldelser av Le Sans Gene, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 23 av 444 restauranter i Caen.
+title: Le Sans Gene, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Sans Gene, Caen: See 1,135 unbiased reviews of Le Sans Gene, rated 4.5 of 5 on Tripadvisor and ranked #23 of 444 restaurants in Caen.
+title: Le Sans Gêne - Home - Caen, France - Menu, Prices ...
+snippet: Le Sans Gêne - 4, rue du chemin vert, 14000 Caen, France - Rated 4.8 based on 262 Reviews &quot;Restaurant au concept original : tout est à volonté, le...
+title: De 10 beste restaurantene i nærheten av Le Sans Gene
+snippet: Restauranter i nærheten av Le Sans Gene på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Le Sans Gene, Caen. Caen. Turisme i Caen Hotell i Caen Bed and Breakfast i Caen Pakkereiser til Caen Flyreiser til Caen Restauranter i Caen Ting å gjøre i Caen
+title: Le Sans Gene, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: Le Sans Gene, Caen : consultez 1 135 avis sur Le Sans Gene, noté 4,5 sur 5 sur Tripadvisor et classé #23 sur 444 restaurants à Caen.
+title: Sans Gêne restaurant, Caen, 4 Rue du Chemin Vert ...
+snippet: Sans Gêne, #17 among Caen restaurants: 2389 reviews by visitors and 29 detailed photos. The restaurant&#39;s got 4.6 from Google and 4.8 from Facebook. This place offers you dishes for 21-40 €. Find on the map and call to book a table.
+title: Le Sans Gêne - Accueil - Caen - Menu, prix, avis sur le ...
+snippet: Le Sans Gêne - 4, rue du chemin vert, 14000 Caen - Note de 4.8 sur la base de 262 avis «Restaurant au concept original : tout est à volonté, le...
+title: le sans gene caen
+snippet: Au &quot;Sans-Gêne, il n&#39;y a qu&#39; une formule unique où tout est compris et tout à volonté, café inclus. L&#39;apéritif est offert (sangria blanche maison). L&#39;entrée : une grande variété de légumes crus composée par vos soins, saisie devant vous à la plancha , mettant en avant leurs saveurs nutritives .
+title: Le Sans Gene, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Sans Gene, Caen: See 1,135 unbiased reviews of Le Sans Gene, rated 4.5 of 5 on Tripadvisor and ranked #23 of 444 restaurants in Caen.
+
+REL: 3
+POI Name: Le Safran
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Kebab, 
+Snippets:
+title: Le Safran, Caen - Restaurant Reviews &amp; Phone Number ...
+snippet: Le Safran, Caen: See 64 unbiased reviews of Le Safran, rated 4.5 of 5 on Tripadvisor and ranked #150 of 444 restaurants in Caen.
+title: Le Safran, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Le Safran, Caen: Se 64 objektive anmeldelser av Le Safran, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 150 av 444 restauranter i Caen.
+title: LE SAFRAN - Kebab - Caen (14000)
+snippet: LE SAFRAN - Caen 14000 - 11, rue Saint-Sauveur Kebab : L&#39;un des meilleurs kebab de Caen (depuis près de 20 ans) vient de se refaire une beauté ! Nouvelles couleurs...
+title: THE 10 BEST Restaurants Near Le Safran in Caen, Calvados ...
+snippet: Restaurants near Le Safran, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near Le Safran in Caen, France.
+title: Le Safran à Caen, &quot;meilleur kebab de France en 2018 ...
+snippet: Le Safran à Caen, « meilleur kebab de France en 2018 », rouvre ses portes Fermé depuis février 2019, le kebab Le Safran a rouvert ses portes deux mois plus tard, mardi 9 avril.
+title: Le Safran, Caen - Restaurant Avis &amp; Numéro de Téléphone ...
+snippet: Le Safran, Caen : consultez 64 avis sur Le Safran, noté 4,5 sur 5 sur Tripadvisor et classé #150 sur 444 restaurants à Caen.
+title: LE SAFRAN, Caen - Omdömen om restauranger - Tripadvisor
+snippet: Le Safran, Caen: Se 64 objektiva omdömen av Le Safran, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer150 av 444 restauranger i Caen.
+title: Le Safran Caen - Restaurant (adresse)
+snippet: Le Safran à Caen Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: Le Safran, Caen - recenzje restauracji - Tripadvisor
+snippet: Le Safran, Caen: zobacz bezstronne recenzje (64 ) na temat Le Safran, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 150 z 445 restauracji w Caen.
+title: Le Safran - le kebab des gourmands - Accueil - Caen - Menu ...
+snippet: Le Safran - le kebab des gourmands - 11 rue saint sauveur, 14000 Caen - Note de 4.9 sur la base de 64 avis «Excellent &quot; kebab&quot; étant donné que la viande...
+
+REL: 3
+POI Name: Avenue 21
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Accueil - Restaurant Avenue21
+snippet: Rodolphe et son équipe vous souhaitent la bienvenue à L’Avenue 21. Le restaurant vous propose une balade gourmande entre tradition et originalité, dans un univers cosy et une ambiance chaleureuse.
+title: L&#39;Avenue 21, Caen - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at L&#39;Avenue 21, Caen on Tripadvisor: See 481 unbiased reviews of L&#39;Avenue 21, rated 4 of 5 on Tripadvisor and ranked #41 of 444 restaurants in Caen.
+title: La carte - Restaurant Avenue21
+snippet: AVENUE Sablé tiède, mascarpone vanillé, glace artisanale caramel, tuile croquante ou AGRUMES Soupe d’agrumes infusée aux épices, sorbet orange sanguine et tuile croquante ou PROFITEROLES Profiteroles 2 choux, glace vanille, sauce chocolat chaud, amandes ou FROMAGES 2 fromages de notre région
+title: L&#39;Avenue 21, Caen - Menu, Prix, Restaurant Avis ...
+snippet: Réserver une table L&#39;Avenue 21, Caen sur Tripadvisor : consultez 481 avis sur L&#39;Avenue 21, noté 4 sur 5 sur Tripadvisor et classé #43 sur 444 restaurants à Caen.
+title: Hamburger - Bilde av L&#39;Avenue 21 i Caen - TripAdvisor
+snippet: L&#39;Avenue 21, Caen Bilde: Hamburger - Se TripAdvisor-medlemmers 6 291 objektive bilder og videoer av L&#39;Avenue 21. Caen. Turisme i Caen Hotell i Caen Bed and Breakfast i Caen Pakkereiser til Caen Flyreiser til Caen Restauranter i Caen Ting å gjøre i Caen Bilder fra Caen Kart over Caen
+title: L&#39;Avenue 21, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: L&#39;Avenue 21, Caen: Se 481 objektive anmeldelser av L&#39;Avenue 21, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 41 av 444 restauranter i Caen.
+title: Restaurant L&#39;Avenue 21 à Caen (14000) - Menu, avis, prix ...
+snippet: CENTRE HISTORIQUE – Idéalement situé dans le centre de Caen, au cœur du quartier du Vaugueux, le restaurant L’Avenue 21 offre un cadre ultra soigné, mariant le cachet des vieilles pierres à une décoration plus contemporaine.
+title: Avenue 21 Caen | SOINSAUNATUREL
+snippet: Avenue 21 caen menu. Petit…plus pour mon menu enfant prenne le d’avoir accepté le patron je remercie également sympathiques et sont serveurs/serveuses ont situé le pour 22€. Vendée le personnel est aimable les tables sont bien disposées et on est bien assis en entrée nous avons choisi les oeufs mollets cuisson parfaite et ...
+title: Avenue 21 - Home - Caen, France - Menu, Prices, Restaurant ...
+snippet: Avenue 21, Caen. 1,431 likes · 94 talking about this · 2,271 were here. L&#39;Avenue 21, restaurant traditionnel avec un cadre design et cosy, en plein coeur du quartier historique &quot;Le Vaugueux&quot; où tout...
+title: L&#39;AVENUE 21, Caen - Omdömen om restauranger - Tripadvisor
+snippet: L&#39;Avenue 21, Caen: Se 481 objektiva omdömen av L&#39;Avenue 21, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer43 av 444 restauranger i Caen.
+
+REL: 3
+POI Name: jeff de bruges
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Chocolatiers & Shops, 
+Snippets:
+title: Jeff de Bruges Mondeville, 14120 | Chocolats et Dragées
+snippet: Jeff de Bruges Mondeville, découvrez notre large choix de chocolats et de Dragées pour toutes les occasions et tous les budgets Jeff de Bruges. Accueil Collections ... Jeff de Bruges Caen Saint Jean. à 7 km. Jeff de Bruges Caen Côte de Nacre. INFORMATIONS UTILES : Route Nationale 13
+title: Chocolats et Dragées Calvados | Jeff de Bruges
+snippet: Jeff de Bruges Caen Côte de Nacre. 1 boulevard du Maréchal Juin Centre Commercial Côte de Nacre 14000 Caen. Téléphone : 02 31 44 74 75. 3. 7888 km. Jeff de Bruges Caen Saint Jean. 22 rue Saint-Jean 14000 Caen. Téléphone : 02 31 38 84 28. 4. 7887 km. Jeff de Bruges Herouville saint-Clair.
+title: Jeff de Bruges Caen et Hérouville Saint-Clair - Home ...
+snippet: Jeff de Bruges Caen et Hérouville Saint-Clair, Caen. 209 likes. Venez passer un moment de plaisir dans notre boutique du 22 rue Saint-Jean, dans le centre-ville de Caen et au Ccial St Clair à Hérouville.
+title: Chocolats et Dragées Caen | Jeff de Bruges
+snippet: Jeff de Bruges Caen. Trouvez votre magasin Jeff de Bruges le plus proche et découvrez notre large choix de chocolats et de Dragées
+title: Chocolats Jeff de Bruges
+snippet: Chez Jeff de Bruges, la qualité, la créativité, le savoir-faire et le plaisir sont nos maitres-mots afin d’offrir à nos clients l’expérience la plus gourmande ! Jeff de Bruges utilise des cookies pour vous offrir la meilleure expérience de navigation sur notre site.
+title: Chocolats et Dragées Normandie | Jeff de Bruges
+snippet: Jeff de Bruges Caen Saint Jean. 22 rue Saint-Jean 14000 Caen. Téléphone : 02 31 38 84 28. 5. 7245 km. Jeff de Bruges Cherbourg. 32 rue des Portes 50100 Cherbourg. Téléphone : 02 33 53 00 20. Ouvert aujourd&#39;hui de 09h30 à 19h. 6. 7395 km. Jeff de Bruges Dieppe Barre. 11 rue de la Barre 76200 Dieppe.
+title: Jeff de Bruges Caen Saint Jean, 14000 | Chocolats et Dragées
+snippet: La grande qualité des chocolats Jeff De Bruges, le concept et tout ce qui l&#39;entoure nous ont séduits depuis de nombreuses années. Notre équipe se veut de vous le meilleur service afin de vous rendre, comme nous, amoureux de nos produits. Venez passer un moment de plaisir dans notre boutique du 22 rue Saint-Jean, dans le centre-ville de Caen.
+title: Jeff de Bruges Herouville saint-Clair, 14200 | Chocolats ...
+snippet: La grande qualité des chocolats Jeff De Bruges, le concept et tout ce qui l&#39;entoure nous ont séduits depuis de nombreuses années. Notre équipe se veut de vous offrir le meilleur service afin de vous rendre, comme nous, amoureux de nos produits. Venez passer un moment de plaisir dans notre boutique du centre commercial Saint Clair à Herouville.
+title: Jeff de Bruges / Accueil / Boutique en ligne
+snippet: Pas de boutique près de chez vous ? La boutique en ligne Jeff de Bruges est à votre service. En quelques clics, choisissez parmi une sélection de nos collections et vos chocolats seront livrés partout en France. Le délai de livraison tient compte du délai de préparation dans nos ateliers et du délai d&#39;acheminement par le transporteur.
+title: Chocolats et Dragées Mondeville | Jeff de Bruges
+snippet: Jeff de Bruges Caen Saint Jean. 22 rue Saint-Jean 14000 Caen. Téléphone : 02 31 38 84 28. 4. 7887 km. Jeff de Bruges Herouville saint-Clair. Boulevard du val Centre Commercial Saint Clair 14200 Herouville saint-Clair. Téléphone : 02 31 91 07 99. 5. 7893 km. Jeff de Bruges Honfleur. 19 rue des logettes 14600 Honfleur.
+
+REL: 2
+POI Name: La Ficelle
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Creperies, 
+Snippets:
+title: Restaurant et crêperie La Ficelle à Caen
+snippet: Des galettes dans une crêperie à Caen La Ficelle est une crêperie située en plein centre-ville de Caen dans le département du Calvados (14), qui met à votre disposition 3 salles climatisées afin de venir y déguster des galettes, des crêpes sucrées, salades et produits régionaux.
+title: La Ficelle, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: La Ficelle, Caen: Se 330 objektive anmeldelser av La Ficelle, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 42 av 444 restauranter i Caen.
+title: La Ficelle, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: La Ficelle, Caen : consultez 330 avis sur La Ficelle, noté 4,5 sur 5 sur Tripadvisor et classé #42 sur 444 restaurants à Caen.
+title: La Ficelle, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: La Ficelle, Caen: See 327 unbiased reviews of La Ficelle, rated 4.5 of 5 on Tripadvisor and ranked #44 of 442 restaurants in Caen.
+title: THE 10 BEST Restaurants Near La Ficelle in Caen, Calvados ...
+snippet: Restaurants near La Ficelle, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near La Ficelle in Caen, France.
+title: La Ficelle, Caen - Restaurant Bewertungen, Telefonnummer ...
+snippet: La Ficelle, Caen: 330 Bewertungen - bei Tripadvisor auf Platz 42 von 444 von 444 Caen Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: De 10 beste restaurantene i nærheten av La Ficelle
+snippet: Restauranter i nærheten av La Ficelle på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av La Ficelle, Caen. Caen. Turisme i Caen Hotell i Caen Bed and Breakfast i Caen Pakkereiser til Caen Flyreiser til Caen Restauranter i Caen Ting å gjøre i Caen
+title: La Ficelle - Home - Caen, France - Menu, Prices ...
+snippet: La Ficelle - 47 rue de Bernières, 14000 Caen, France - Rated 4.7 based on 63 Reviews &quot;Je recommande vivement !!! c’est la ou on fait les meilleurs...
+title: La Ficelle restaurant, Caen - Restaurant menu and reviews
+snippet: La Ficelle, #11 among Caen restaurants with desserts: 778 reviews by visitors and 11 detailed photos. The restaurant scored 4.4 on Google and 4.7 on Facebook. Be ready to pay 11-21 € for a meal. Find on the map and call to book a table.
+title: La Ficelle, Caen - recenzje restauracji - Tripadvisor
+snippet: La Ficelle, Caen: zobacz bezstronne recenzje (330 ) na temat La Ficelle, z oceną 4,5 na 5 w serwisie Tripadvisor, na pozycji 43 z 444 restauracji w Caen.
+
+REL: 2
+POI Name: La Porte du Punjab
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Indian, Pakistani, 
+Snippets:
+title: La Porte du Punjab - Restaurant Indien et pakistanais à Caen
+snippet: La Porte du Punjab, restaurant indien situé à Caen, vous propose de déguster ses spécialités typiquement issues de la cuisine indienne et pakistanaise.
+title: La Porte du Punjab, Caen - Restaurantanmeldelser - TripAdvisor
+snippet: La Porte du Punjab, Caen: Se 332 objektive anmeldelser av La Porte du Punjab, vurdert til 4 av 5 på TripAdvisor og vurdert som nr. 83 av 442 restauranter i Caen.
+title: La Porte du Punjab, Caen - Menu, Prices, Restaurant ...
+snippet: Reserve a table at La Porte du Punjab, Caen on Tripadvisor: See 346 unbiased reviews of La Porte du Punjab, rated 4 of 5 on Tripadvisor and ranked #90 of 444 restaurants in Caen.
+title: La Porte du Punjab, Caen - Menu, Prix, Restaurant Avis ...
+snippet: Réserver une table La Porte du Punjab, Caen sur Tripadvisor : consultez 346 avis sur La Porte du Punjab, noté 4 sur 5 sur Tripadvisor et classé #89 sur 444 restaurants à Caen.
+title: La Porte du Punjab, Caen - Bilde av La Porte du Punjab i ...
+snippet: La Porte du Punjab, Caen Bilde: La Porte du Punjab, Caen - Se Tripadvisor-medlemmers 6 352 objektive bilder og videoer av La Porte du Punjab. Caen. Turisme i Caen Hotell i Caen Bed and Breakfast i Caen Pakkereiser til Caen Flyreiser til Caen Restauranter i Caen Ting å gjøre i Caen
+title: La Porte du Punjab, Caen - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at La Porte du Punjab, Caen with Tripadvisor: See 347 unbiased reviews of La Porte du Punjab, ranked #88 on Tripadvisor among 444 restaurants in Caen.
+title: LA PORTE DU PUNJAB, Caen - Updated 2020 Restaurant Reviews ...
+snippet: Reserve a table at La Porte du Punjab, Caen on Tripadvisor: See 347 unbiased reviews of La Porte du Punjab, rated 4 of 5 on Tripadvisor and ranked #89 of 444 restaurants in Caen.
+title: La Porte Du Punjab Caen - Restaurant (adresse, avis)
+snippet: La Porte Du Punjab à Caen Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: Food - Review of La Porte du Punjab, Caen, France ...
+snippet: La Porte du Punjab: Food - See 347 traveler reviews, 61 candid photos, and great deals for Caen, France, at Tripadvisor.
+title: Food is alright but serving with... - La Porte du Punjab
+snippet: La Porte du Punjab: Food is alright but serving with &quot;french&quot; style is a bit funny for Indian cuisine - See 347 traveler reviews, 61 candid photos, and great deals for Caen, France, at Tripadvisor.
+
+REL: 2
+POI Name: Le P'tit B
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: Restaurant le P&#39;tit B
+snippet: Restaurant Le P’tit B 15 Rue du Vaugueux 14000 CAEN 02.31.93.50.76 contact@leptitb.fr Venir au Ptit&#39;B; Contactez-nous; Réservez une table
+title: Le P&#39;tit B, Caen - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Le P&#39;tit B, Caen on Tripadvisor: See 1,049 unbiased reviews of Le P&#39;tit B, rated 4.5 of 5 on Tripadvisor and ranked #57 of 444 restaurants in Caen.
+title: Le P&#39;tit B, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Le P&#39;tit B, Caen: Se 1 049 objektive anmeldelser av Le P&#39;tit B, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 57 av 444 restauranter i Caen.
+title: De 10 beste restaurantene i nærheten av Le P&#39;tit B
+snippet: Restauranter i nærheten av Le P&#39;tit B på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Le P&#39;tit B, Caen. Caen. Turisme i Caen Hotell i Caen Bed and Breakfast i Caen Pakkereiser til Caen Flyreiser til Caen Restauranter i Caen Ting å gjøre i Caen Bilder fra Caen
+title: Restaurant le P&#39;tit B
+snippet: Bourride de poissons façon P’tit B Brochettes de gambas et rougets, risotto au safran normand Noix de St-Jacques poêlées au sel fumé, mousseline de patates douces Dos de cabillaud en croûte d’amandes, polenta crémeuse Risotto crémeux aux légumes de saison et safran normand Courgette farcie au riz parfumé et pistou
+title: Le P&#39;tit B, Caen - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Le P&#39;tit B, Caen: See 1,049 unbiased reviews of Le P&#39;tit B, rated 4.5 of 5 on Tripadvisor and ranked #57 of 444 restaurants in Caen.
+title: Le P&#39;tit B, Caen - Menu, Prix, Restaurant Avis ...
+snippet: Réserver une table Le P&#39;tit B, Caen sur Tripadvisor : consultez 1 049 avis sur Le P&#39;tit B, noté 4,5 sur 5 sur Tripadvisor et classé #57 sur 444 restaurants à Caen.
+title: Le Ptit B - Home | Facebook
+snippet: Le Ptit B, Caen. 549 likes · 9 talking about this · 1,159 were here. Cette petite maison à colombages vous accueille dans une belle salle à manger très rustique, avec vue sur les cuisines.
+title: New owners in front of Le P&#39;tit B 5-25-2013 - Picture of ...
+snippet: Le P&#39;tit B, Caen Picture: New owners in front of Le P&#39;tit B 5-25-2013 - Check out Tripadvisor members&#39; 6,353 candid photos and videos of Le P&#39;tit B. Caen. Caen Tourism Caen Hotels Caen Bed and Breakfast Caen Vacation Rentals Caen Vacation Packages Flights to Caen Caen Restaurants Things to Do in Caen
+title: Le P&#39;tit B, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Le P&#39;tit B, Caen: Se 1.049 objektive anmeldelser af Le P&#39;tit B, som har fået 4,5 af 5 på Tripadvisor og er placeret som nr. 57 af 444 restauranter i Caen.
+
+REL: 2
+POI Name: Glou
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, Bistros, 
+Snippets:
+title: Accueil | Glou-resto
+snippet: Réservez une table Show More. FR
+title: Glou, Paris - Le Marais - Menu, Prices, Restaurant Reviews ...
+snippet: Glou is a good sport in marais centre and if you want to eat well at a decent price, it is a good recommandation. The service is friendly, which is not always the case in paris ?
+title: Glou, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Glou, Paris: Se 578 objektive anmeldelser av Glou, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 628 av 17 685 restauranter i Paris.
+title: Glou in Paris - Restaurant Reviews, Menu and Prices - TheFork
+snippet: Book a table at Glou in Paris. Find restaurant reviews, menu, prices, and hours of operation for Glou on TheFork.
+title: Glou | Restaurants in Le Marais, Paris - Time Out Paris
+snippet: For a restaurant founded by a man the New York Times dubbed the ‘wizard of offal’, it’s initially disappointing that Glou keeps it’s tongue (and it’s heart, tes
+title: Glou, Paris - Le Marais - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Glou, Paris on TripAdvisor: See 575 unbiased reviews of Glou, rated 3.5 of 5 on TripAdvisor and ranked #2,501 of 17,676 restaurants in Paris.
+title: Glou, Paris - Le Marais - Menu, Prix, Restaurant Avis ...
+snippet: Réserver une table Glou, Paris sur Tripadvisor : consultez 578 avis sur Glou, noté 3,5 sur 5 sur Tripadvisor et classé #2 611 sur 17 688 restaurants à Paris.
+title: De 10 beste restaurantene i nærheten av Glou - Tripadvisor
+snippet: Restauranter i nærheten av Glou på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Glou, Paris.
+title: Glou – Paris by Mouth
+snippet: Not Drinking Poison in Paris (2012) “I have so far described a middling, well-intentioned restaurant, remarkable mostly for its opening hours. But Glou is distinguished by its wine list, which, while suffering from the same overwritten quality as the restaurant’s menu, remains mostly natural, well-priced, and admirably broad in scope.”
+title: Glou - Paris tourist office
+snippet: Glou - In this bistro with simple, pared-down decor, set up by a food journalist and a cinema producer, you can enjoy tasty French...
+
+REL: 2
+POI Name: Le Figuier
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Lebanese, 
+Snippets:
+title: Le Figuier, Caen - Menu, Prix, Restaurant Avis ...
+snippet: Réserver une table Le Figuier, Caen sur Tripadvisor : consultez 85 avis sur Le Figuier, noté 4 sur 5 sur Tripadvisor et classé #123 sur 444 restaurants à Caen.
+title: Le Figuier - Home - Caen, France - Menu, Prices ...
+snippet: Le Figuier - 13 rue St Michel, 14000 Caen, France - Rated 5 based on 62 Reviews &quot;C&#39;est un endroit à connaître: le décor est agréable, les odeurs sont...
+title: Restaurant Le Figuier à Caen (14000) - Menu, avis, prix et ...
+snippet: Quant au pain Le Figuier,très bourratif,on ne sentait guère le goût des olives et du fromage. Le rapport qualité/prix est correct,mais les prix ne correspondent pas à ceux figurant sur La Fourchette (Chich taouk à 16 € et non 14 € par exemple).
+title: Le Figuier - Accueil - Caen - Menu, prix, avis sur le ...
+snippet: Le Figuier, Caen. 774 J’aime · 2 en parlent · 116 personnes étaient ici. Le figuier vous invite à découvrir le goût de la cuisine libanaise dans un cadre agréable et convivial.
+title: Le Figuier, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Le Figuier, Caen: Se 85 objektive anmeldelser av Le Figuier, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 122 av 444 restauranter i Caen.
+title: Le Figuier, Caen - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at Le Figuier, Caen with Tripadvisor: See 85 unbiased reviews of Le Figuier, ranked #123 on Tripadvisor among 444 restaurants in Caen.
+title: LE FIGUIER - Restaurant libanais - Caen (14000)
+snippet: LE FIGUIER - Caen 14000 - 13/15, rue Saint-Michel Restaurant libanais : N&#39;hésitez pas à changer vos habitudes et à vous excentrer un peu pour déguster les plats...
+title: LE FIGUIER, Caen - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Le Figuier, Caen on Tripadvisor: See 85 unbiased reviews of Le Figuier, rated 4 of 5 on Tripadvisor and ranked #121 of 444 restaurants in Caen.
+title: Le Figuier - Posts - Caen, France - Menu, Prices ...
+snippet: Le Figuier, Caen. 758 likes · 130 talking about this · 104 were here. Le figuier vous invite à découvrir le goût de la cuisine libanaise dans un cadre agréable et convivial.
+title: Delicious mid eastern food - Review of Le Figuier, Caen ...
+snippet: Le Figuier: Delicious mid eastern food - See 85 traveler reviews, 9 candid photos, and great deals for Caen, France, at Tripadvisor.
+
+REL: 2
+POI Name: Le P'tit Chou Normand
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Le P&#39;tit Chou Normand, Caen - Restaurantanmeldelser ...
+snippet: Le P&#39;tit Chou Normand, Caen: Se 25 objektive anmeldelser av Le P&#39;tit Chou Normand, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 167 av 444 restauranter i Caen.
+title: Le P&#39;tit Chou Normand, Caen - Restaurant Avis, Numéro de ...
+snippet: Le P&#39;tit Chou Normand, Caen : consultez 25 avis sur Le P&#39;tit Chou Normand, noté 4,5 sur 5 sur Tripadvisor et classé #168 sur 444 restaurants à Caen.
+title: Le P&#39;tit Chou Normand, Caen - Restaurant Reviews, Photos ...
+snippet: Le P&#39;tit Chou Normand, Caen: See 25 unbiased reviews of Le P&#39;tit Chou Normand, rated 4.5 of 5 on Tripadvisor and ranked #165 of 444 restaurants in Caen.
+title: Boulangerie pâtisserie artisanale « le p’tit chou Normand ...
+snippet: Boulangerie pâtisserie artisanale « le p’tit chou Normand » - 65 RUE ST PIERRE, 14000 Caen - Note de 4.6 sur la base de 17 avis «C&#39;est un etablissement...
+title: Le P&#39;tit Chou Normand Caen - Boulangeries Pâtisseries ...
+snippet: Le P&#39;tit Chou Normand Caen Boulangeries-pâtisseries (artisans) : horaires, avis, retrouvez les coordonnées et informations sur le professionnel
+title: Le P Tit Chou Normand à Caen - Boulangerie patisserie
+snippet: L&#39;entreprise Le P Tit Chou Normand est située 65 Rue Saint Pierre 14000 CAEN. Elle est spécialisée dans la boulangerie pâtisserie à Caen (Calvados) dans la région Basse-Normandie. Accédez aux contacts et à la fiche complète de Le P Tit Chou Normand sur BoulangeriesPatisseries.fr, l&#39;annuaire des boulangeries pâtisseries en France
+title: Boulangerie pâtisserie artisanale « le p’tit chou Normand ...
+snippet: Boulangerie pâtisserie artisanale « le p’tit chou Normand » - 65 RUE ST PIERRE, 14000 Caen, France - Rated 4.6 based on 17 Reviews &quot;S&#39;il n&#39;y a qu&#39;une...
+title: LE P&#39;TIT CHOU NORMAND, Caen - Omdömen om restauranger ...
+snippet: Le P&#39;tit Chou Normand, Caen: Se 25 objektiva omdömen av Le P&#39;tit Chou Normand, som fått betyg 4,5 av 5 på Tripadvisor och rankas som nummer168 av 444 restauranger i Caen.
+title: Le P&#39;tit Chou Normand Boulanger Patissier, Caen ...
+snippet: Le P&#39;tit Chou Normand Boulanger Patissier, Caen: See 25 unbiased reviews of Le P&#39;tit Chou Normand Boulanger Patissier, rated 4.5 of 5 on TripAdvisor and ranked #164 of 446 restaurants in Caen.
+title: Le P&#39;tit Chou Normand Boulanger Patissier - Picture of Le ...
+snippet: Le P&#39;tit Chou Normand Boulanger Patissier, Caen Picture: Le P&#39;tit Chou Normand Boulanger Patissier - Check out TripAdvisor members&#39; 6,248 candid photos and videos of Le P&#39;tit Chou Normand Boulanger Patissier. Caen. Caen Tourism Caen Hotels Caen Bed and Breakfast Caen Vacation Rentals Caen Vacation Packages Flights to Caen Caen Restaurants
+
+REL: 2
+POI Name: L'Epi Diedimbourg
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: L Epi D Eidimbourg à Caen - Boulangerie patisserie
+snippet: L&#39;entreprise L Epi D Eidimbourg est située 49 Rue De La Delivrande 14000 CAEN. Elle est spécialisée dans la boulangerie pâtisserie à Caen (Calvados) dans la région Basse-Normandie. Accédez aux contacts et à la fiche complète de L Epi D Eidimbourg sur BoulangeriesPatisseries.fr, l&#39;annuaire des boulangeries pâtisseries en France
+title: L&#39;Epi d&#39;Edimbourg (sandwich au soleil) - Caen, France ...
+snippet: L&#39;Epi d&#39;Edimbourg (sandwich au soleil), Caen, France. 3 likes · 1 was here. Bakery. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Facebook. Email or Phone: Password: Forgot account? Explore local businesses on Facebook. Sign up for Facebook today to discover local businesses near you.
+title: L’Epi Diedimbourg - Bakeries - 49 Rue Délivrande, Caen ...
+snippet: L&#39;Epi Diedimbourg in Caen, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Caen and beyond.
+title: Etablissement L&#39;EPI D&#39;EDIMBOURG à CAEN (14000) sur SOCIETE ...
+snippet: L&#39;établissement, situé au 49 RUE DE LA DELIVRANDE à CAEN (14000), était l&#39;établissement siège de l&#39;entreprise L&#39;EPI D&#39;EDIMBOURG. Créé le 01-04-2003, son activité était la boulangerie et boulangerie-pâtisserie. Au 31-12-2014 cet établissement n&#39;emploie aucun salarié.
+title: L&#39;Epi Diedimbourg herouville-saint-clair Boulangerie ...
+snippet: Boulangerie L&#39;Epi Diedimbourg. la Boulangerie L&#39;Epi Diedimbourg vous accueille au 49 Rue Délivrande 14000 Caen. Toute l&#39;équipe de L&#39;Epi Diedimbourg sera ravie de vous accueillir et vous faire profiter de son expertise. Boulangeries à herouville-saint-clair
+title: L&#39;Epi Diedimbourg Gift Card - Caen, 14 | Giftly
+snippet: Buy a L&#39;Epi Diedimbourg gift card. Send by email or mail, or print at home. 100% satisfaction guaranteed. Gift cards for L&#39;Epi Diedimbourg, 49 Rue Délivrande, Caen, 14.
+title: L&#39;epi Diedimbourg Caen, Téléphone, Adresse
+snippet: L&#39;epi Diedimbourg, Caen, 49, Rue de la Délivrande, Boulangerie, Boulangerie pâtisserie, Éclair, Goûter sucré, Gâteau au caramel, Gâteau à la mousse ...
+title: L&#39;EPI D&#39;EDIMBOURG (CAEN) Chiffre d&#39;affaires, résultat ...
+snippet: L&#39;EPI D&#39;EDIMBOURG, entrepreneur individuel a été en activité pendant 5 ans. Installée à CAEN (14000), elle était spécialisée dans le secteur d&#39;activité de la boulangerie et boulangerie-pâtisserie.
+title: L&#39;EPI D&#39;EIDIMBOURG - Boulangerie artisanale à Caen (14000 ...
+snippet: L&#39;EPI D&#39;EIDIMBOURG à Caen - L’annuaire Hoodspot - Adresse, numéro de téléphone, produits et services de L&#39;EPI D&#39;EIDIMBOURG. Contacter par courrier à l&#39;adresse postale : 49 rue de la delivrande, 14000 Caen. Nos cookies nous aident à améliorer votre expérience sur ce site.
+title: L&#39;Epi d&#39;Eidimbourg - Boulangerie de Caen | BFM Immo
+snippet: L&#39;Epi d&#39;Eidimbourg est enregistré comme boulangerie de la ville de Caen avec plusieurs informations pratiques : téléphone, adresse postale, mail, fax, horaires et plan d’accès.
+
+REL: 2
+POI Name: Boucheries Marcel
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Butcher, 
+Snippets:
+title: Boucherie Marcel à Caen : Le roi de la merguez
+snippet: Depuis 1964, la boucherie Marcel à Caen ravie vos papilles. 100% fait maison. Viande française. Commande en ligne et livraison en France en 24h
+title: Boucherie Marcel Caen - Home | Facebook
+snippet: Boucherie Marcel Caen. 1,508 likes · 84 talking about this · 25 were here. Une Boucherie dans le centre ville de Caen (14) crée en 1964 par Marcel LASRY et repris par le fils Elie LASRY. Specialiste...
+title: Caen. Boucherie Marcel : le roi de la Merguez part en retraite
+snippet: Caen. Boucherie Marcel : le roi de la Merguez part en retraite. Une page se tourne dans le petit monde alimentaire de Caen : patron de la fameuse Boucherie Marcel, Elie Lasry fait valoir ses ...
+title: Boucherie Marcel Caen - Boucherie (adresse, avis)
+snippet: Boucherie Marcel Caen Boucheries, boucheries-charcuteries : horaires, avis, retrouvez les coordonnées et informations sur le professionnel
+title: Boucherie Marcel à Caen : le roi de la merguez part à la ...
+snippet: Boucherie Marcel à Caen : le roi de la merguez part à la retraite Il est surnommé le roi de la merguez en Normandie. Élie Lasry, le fils du fondateur de la boucherie Marcel, vient d&#39;annoncer ...
+title: PROMOTION - BON PLAN - Boucherie: &quot;Marcel&quot; à Caen (14 ...
+snippet: http://www.boutiquesenfolie.com/fiche_magasin,123.html &quot;Boucherie Marcel&quot; 02 31 86 16 25 19 rue de l&#39;Engannerie 14000 Caen Accès: Toutes les lignes de bus av...
+title: Boucherie Marcel - Boucherie charcuterie, 19 r Engannerie ...
+snippet: Découvrez Boucherie Marcel (19 r Engannerie, 14000 Caen) avec toutes les photos du quartier, le plan d&#39;accès, les avis et les infos pratiques : horaires, ...
+title: Boucherie Marcel Caen - Accueil | Facebook
+snippet: Boucherie Marcel Caen, Caen. 1 545 J’aime · 54 en parlent · 25 personnes étaient ici. Une Boucherie dans le centre ville de Caen (14) crée en 1964 par Marcel LASRY et repris par le fils Elie LASRY....
+title: Boucherie Marcel à Caen
+snippet: Boucherie Marcel à Caen Créée en 1964 par Marcel Lasry tout juste rentré de son Algérie natale, la boucherie &quot;Marcel maison Lasry&quot; s&#39;installe à Caen dans le Calvados. Le 2 janvier 1964 Marcel ouvre sa boucherie, métier qu&#39;il exerçait déjà à Oran.
+title: BOUCHERIE MARCEL - Boucherie - Caen (14000)
+snippet: Vous êtes ici dans le temple de l&#39;excellence, au cœur d&#39;une institution créée par Marcel, le « roi de la Merguez », en 1964. Léguée à son fils, Elie, qui lui-même passe doucement le flambeau au sien, Jonathan, la boucherie compte parmi les plus anciens commerces de Caen.
+
+REL: 2
+POI Name: Les Antilles
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, 
+Snippets:
+title: Les Antilles Caen - Tea Room - Caen, France - 1 Review ...
+snippet: Les Antilles Caen, Caen. 98 likes. Notre magasin Les Antilles vous propose la marque de thé Dammann, ainsi que du cafés, de la vaisselle et quelques gourmandises pour accompagner cela. Ouvert du...
+title: Les Antilles Caen, 11 avenue du 6 juin, Caen (2020)
+snippet: Livraison Epicerie fine Les Antilles à Caen - Ollca . Il est encore temps de commander nos spécialités à partager ou pour offrir en ce weekend de Pâques ?? sur notre boutique en ligne : www.lesantilles.ollca.com En plus on est ravis le week-end s&#39;annonce ensoleillé ☀️ . Retrouvez tous les produits de Les Antilles, Epicerie fine ...
+title: Livraison Epicerie fine Les Antilles à Caen - Ollca
+snippet: Les Antilles, marchand de thés et de cafés à Caen fut fondé en 1956. Une boutique bien connue des caennais qui fait désormais partie de l’histoire de la ville. C’est d’ailleurs son mélange café maison qui a contribué à sa réputation.
+title: Les Antilles à Caen - Le Figaro
+snippet: Les Antilles 11 Avenue du 6 juin 14000 Caen. Informations. Catégories Confiserie, Chocolaterie. Marques vendues Dammann Frères. Ecrire un avis. Envoyer mon avis Photos. Aucune photo de Les Antilles pour le moment, ajoutez une photo.
+title: Les Antilles Caen les horaires
+snippet: Voici les horaires de Les Antilles situé à Caen, vous pouvez trouver les informations de contact, comme sa localisation à 11 Avenue du 6 juin, ainsi que les coordonnées GPS, lattitude : 49.1831063 et longitude : -0.3582977.
+title: Les Antilles Sàrl Caen, Téléphone, Horaires, Adresse
+snippet: Contactez ☎ Les Antilles Sàrl Caen, 11, Avenue du Six Juin avec ⌚ horaires d&#39;ouverture, itinéraire, email et coordonnées. Laissez votre ☆ avis. Les Antilles Sàrl, Caen, 11, Avenue du Six Juin, heures d&#39;ouverture, Salon de thé, Épicerie fine, Torréfacteur de caf ...
+title: Les Antilles à Caen |14000| avec offres spéciales et téléphone
+snippet: Les horaires d&#39;ouverture du Les Antilles Caen sont disponibles en ligne. Découvrez toutes les informations pratiques de votre magasin sur Horaire.com
+title: Site de Les Antilles à Caen 14000 185205
+snippet: Bienvenue sur le site de Les Antilles situé à Caen. Salons de thé Vous pouvez retrouver les coordonnées de l&#39;entreprise, photos, plan d&#39;accès, horaires et formulaire de contact. Ceci est une page non officiel qui concentre toutes les informations sur Les Antilles de Les Antilles.
+title: LES ANTILLES TORREFACTION (CAEN) Chiffre d&#39;affaires ...
+snippet: LES ANTILLES TORREFACTION à CAEN (14000) RCS, SIREN, SIRET, bilans, statuts, chiffre d&#39;affaires, dirigeants, cartographie, alertes, annonces légales, enquêtes, APE ...
+title: Horaires d&#39;ouverture de Les Antilles à Caen. 185205
+snippet: Retrouvez toutes les horaires d&#39;ouverture et de fermeture de Les Antilles à Caen sur notre page dédiée. 185205
+
+REL: 2
+POI Name: Green The natural flavour
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Vegetarian, Fast Food, 
+Snippets:
+title: The Natural Flavour
+snippet: Voilà je voulais just dire ça pour mettre les choses au clair. J&#39;ai pris mon envol ! Green c&#39;est Elise et Aurore et nous sommes supers contentes d&#39;aller au Dolly&#39;s le dimanche pour manger et non plus pour travailler. Colette vient manger chez Green aussi. Sinon, le 20 mars c&#39;est la journée sans viande !
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: fr.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Green the natural flavour à Caen 14000 - Téléphone ...
+snippet: Toutes les informations sur Green The Natural Flavour à Caen 14000: Horaires, téléphone, tarifs et avis des internautes. l&#39;établissement green the natural flavour est classé comme restaurants sympas dans la rubrique restaurants. il est situé 128 rue saint pierre dans la ville de caen (code postal 14000) dans le départe...
+title: Green The natural flavour - Caen, Calvados, France
+snippet: Green The natural flavour in Caen, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Caen and beyond.
+title: The Natural Flavour: Cake Pomme épices
+snippet: Le fast food écolo, une bonne idée ! Si vous souhaitez le faire connaitre, je vous présente ce site des meilleures adresses de commerces de quartier dans toute la France, il est gratuit, et vous y découvrirez la fiche de votre fast food &quot;Le Green the natural flavour à Caen&quot;. N&#39;hésitez pas à y ajouter des photos, horaires, etc...
+title: Natural Flavors: Should You Eat Them? - Healthline
+snippet: Before natural or artificial flavors can be added to food, they must be evaluated by the Flavor and Extract Manufacturers Association (FEMA) Expert Panel to confirm that they meet safety standards ().
+title: The Natural Flavour: Le dessert du jour ( de samedi ! )
+snippet: The Natural Flavour Fast food écolo/bio végétarien à Caen. Membres. Archives du blog 2010 (1) mai (1) ... Nous sommes deux jeunes associées co-gérantes de &quot;Green&quot;, fast food sain à Caen. Fans de bonne bouffe. Ecolos dans l&#39;âme. Contre les gens négatifs. Pour le changement.
+title: The Natural Flavour: 2009
+snippet: Il y a aussi les quelques heureux artisans engagés pour préparer &quot;Green&quot; pour le bal a gérer. D&#39;ici un mois, croisons les doigts et les orteilles, &quot;Green&quot; devrait ouvrir, ou plutôt monter son rideau de fer, pour faire plaisir aux papilles ( et papis !) et a la santé des gens de Caen.
+title: The Natural Flavour: Cupcakes pistache &amp; coco SANS GLUTEN :)
+snippet: The Natural Flavour Fast food écolo/bio végétarien à Caen. Membres. ... Nous sommes deux jeunes associées co-gérantes de &quot;Green&quot;, fast food sain à Caen. Fans de bonne bouffe. Ecolos dans l&#39;âme. Contre les gens ... Mais bientôt les choses vont changer car chez Green on aura internet, miracle !! Il faut attendre encore jusqu&#39;au ...
+
+REL: 2
+POI Name: Marché Saint Pierre
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Real Estate, Farmers Market, 
+Snippets:
+title: Confinement à Caen. Les 10 marchés restent ouverts aux ...
+snippet: Une habitante de Caen (Calvados), fait ses courses sur le marché Saint-Sauveur, vendredi 20 mars 2020. (©Mathieu Girard) La question a fait débat toute la semaine.
+title: Marché Saint-Pierre à Caen - Le Figaro
+snippet: Ouvert le Dimanche - Horaires d&#39;ouverture de Marché Saint-Pierre, Place Courtonne, 14000 Caen (Alimentation / Marché)
+title: Jours de marché à Caen - Jours-de-Marché.fr
+snippet: Jours de marché à Caen (14000, Calvados) : 12 marchés pour cette ville et encore plus aux alentours. Plusieurs édifices historiques tels que le château de Guillaume le Conquérant, au centre de la ville, sont construits avec la pierre de Caen, une pierre « blonde » de la région. Dans le quartier du Vaugueux, de nombreuses maisons à colombages et cafés occupent les petites rues pavées.
+title: Le Marché Saint Pierre - Tissu au mètre, tissu d ...
+snippet: Tissu au mètre, tissu d&#39;habillement, tissu d&#39;ameublement, gaz, wax, coupons 3 mètres et mercerie. Le Marché Saint-Pierre à Paris est le royaume des tissus depuis plus d&#39;un demi-siècle .
+title: Marchés caennais | Caen.fr
+snippet: Il est possible de faire son marché à Caen du mardi au dimanche. Du petit marché de quartier au grand rendez-vous du dimanche sur le port avec près de 400 commerçants, découvrez ci-dessous les horaires et emplacements des marchés à Caen.
+title: Marché Saint Pierre - Real Estate - Place Courtonne, Caen ...
+snippet: Marché Saint Pierre in Caen, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Caen and beyond.
+title: Marché Saint-Pierre | Caen.fr
+snippet: Tél : 02 31 30 41 00 L&#39;hôtel de ville vous accueille du lundi au jeudi de 8h à 18h et le vendredi de 8h à 17h. Pour l&#39;accueil des services État civil et Citoyenneté (Aile des jardins), consultez la page du service dans l&#39;annuaire du site.
+title: CARTE. Quels sont les marchés encore ouverts autour de ...
+snippet: CARTE. Quels sont les marchés encore ouverts autour de Caen pendant le confinement ? Depuis l&#39;interdiction des marchés ouverts annoncée le lundi 23 mars 2020 par le gouvernement, certaines ...
+title: Marché - Caen à Caen - Le Figaro
+snippet: Ouvert le Dimanche - Horaires d&#39;ouverture de Marché - Caen, Place Saint Pierre 14000 Caen, 14000 Caen (Alimentation / Marché)
+title: Marché Saint-Pierre - Caen | Marchés Calvados - 19 avril 2020
+snippet: Marché Saint-Pierre 14000 CAEN Marché Saint-Pierre Les marchés de Caen Les marchés de Caen Du mardi au dimanche, chaque jour son marché près de chez vous. DIMANCHE 7h30 - 14h30 Marché Saint-Pierre : Situé Place Courtonne, quai Vendeuvre de la Place Courtonne à la rue des Carmes. 460 commerçants.
+
+REL: 2
+POI Name: Au Nez Palais
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Au Nez Palais Caen | Facebook
+snippet: Au Nez Palais Caen is on Facebook. Join Facebook to connect with Au Nez Palais Caen and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+title: AU NEZ PALAIS (CAEN) Chiffre d&#39;affaires, résultat, bilans ...
+snippet: AU NEZ PALAIS, société à responsabilité limitée a été en activité durant 11 ans. Localisée à CAEN (14000), elle était spécialisée dans le secteur d&#39;activité du commerce de gros (commerce interentreprises) de boissons.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Au Nez Palais Caen | Facebook
+snippet: Au Nez Palais Caen est sur Facebook. Inscrivez-vous sur Facebook pour communiquer avec Au Nez Palais Caen et d’autres personnes que vous pouvez connaître. Facebook offre à chacun le pouvoir de...
+title: Au Nez Palais Caen, Téléphone, Horaires, Adresse
+snippet: Au Nez Palais, Caen, 12, Rue Saint-Laurent, heures d&#39;ouverture, Vin, Spiritueux, Caviste, Magasin alimentaire, Vente au détail, Vins détaillant
+title: Au Nez Palais (Caen, 14000) : siret, TVA, adresse...
+snippet: SARL AU NEZ PALAIS SARL en liquidation au capital de 8.000 Euros Siège de la liquidation 13, bis rue de Quebec 14000 CAEN R.C.S. CAEN 438.046.658 liquidateur : VESQUE DUCOUP Laurence, 13 bis rue de Quebec à CAEN (14) Aux termes d&#39;une délibération de l&#39;Assemblée Générale Extraordinaire en date du 22 Avril 2013, laquelle s&#39;est tenue 424 ...
+title: AU NEZ PALAIS à CAEN (14000), bilan gratuit 2012, sur ...
+snippet: Bilan Gratuit de AU NEZ PALAIS à CAEN (14000) sur SOCIETE.COM (438046658), chiffre d&#39;affaire, résultat net, bénéfices, actif, passif, compte de résultat
+title: Site de Au Nez Palais à Caen 14000 125798
+snippet: Bienvenue sur le site de Au Nez Palais situé à Caen. Cavistes Vous pouvez retrouver les coordonnées de l&#39;entreprise, photos, plan d&#39;accès, horaires et formulaire de contact. Ceci est une page non officiel qui concentre toutes les informations sur Au Nez Palais de Au Nez Palais.
+title: Au Nez Palais in Caen, 12 Rue Saint Laurent - Vins et ...
+snippet: Au Nez Palais à 12 Rue Saint Laurent , 14000 Caen indication de numéro de téléphone +33231863366, oraires d&#39;ouverture et plan interactif de la ville. Appelez Au Nez Palais gratuitement ou ajoutez une évaluation.
+title: Au Nez Palais - Caen, France - Vêtements pour enfants
+snippet: Au Nez Palais - Rue St Laurent - +332318633... - Caen, France revues et expériences par des résidents locaux. Découvrez les meilleurs restaurants, bars, cafés, salons de coiffure locaux et bien plus encore, sur Tupalo
+
+REL: 2
+POI Name: Le Jardin d'Eden
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, 
+Snippets:
+title: Le Jardin d&#39;Eden - Accueil | Facebook
+snippet: Le Jardin d&#39;Eden, Caen. 411 J’aime · 47 en parlent · 12 personnes étaient ici. Fermer le vendredi de 13h à 14h Ouvert exceptionnellement les dimanche decembre pour les Fêtes de fin d&#39;année
+title: LE JARDIN D&#39;EDEN - Maghreb - Caen (14000)
+snippet: LE JARDIN D&#39;EDEN - Caen 14000 - 22, rue Caponière Maghreb : Un p&#39;tit voyage au soleil : ce dont on avait rêvé. Poussez jusqu&#39;à la rue Caponière et rendez -...
+title: Le Jardin d&#39;Eden - Home | Facebook
+snippet: Le Jardin d&#39;Eden, Caen, France. 405 likes · 18 talking about this · 12 were here. Fermer le vendredi de 13h à 14h Ouvert exceptionnellement les dimanche decembre pour les Fêtes de fin d&#39;année
+title: Le Jardin D&#39;Eden - Épicerie fine, 22 r Caponière 14000 ...
+snippet: Découvrez Le Jardin D&#39;Eden (22 r Caponière, 14000 Caen) avec toutes les photos du quartier, le plan d&#39;accès, les avis et les infos pratiques : horaires, ...
+title: Le Jardin d&#39;Eden - Grocery Store - Caen, France | Facebook ...
+snippet: Le Jardin d&#39;Eden. 12 likes · 2 were here. Grocery Store
+title: Naturist hiring in Le Jardin d&#39;Eden, Cap d’Agde - Rentals ...
+snippet: Naturist hiring in Le Jardin d&#39;Eden, Cap d&#39;Agde - Rentals in Cap d&#39;Agde with the specialist in naturist real estate: AGN.
+title: LE JARDIN D&#39;EDEN CAEN - YouTube
+snippet: Artisanat orientale
+title: Le Jardin D&#39;Eden Caen - Épicerie fine (adresse, avis)
+snippet: Le Jardin D&#39;Eden Caen Épiceries fines : horaires, avis, retrouvez les coordonnées et informations sur le professionnel
+title: Le Jardin d&#39;Eden - Home | Facebook
+snippet: Le Jardin d&#39;Eden, Caen, France. 376 likes · 10 were here. Fermer le vendredi de 13h à 14h Ouvert exceptionnellement les dimanche decembre pour les Fêtes de fin d&#39;année
+title: Site de Le Jardin D&#39;Eden à Caen 14000 114221
+snippet: Bienvenue sur le site de Le Jardin D&#39;Eden situé à Caen. épiceries fines Vous pouvez retrouver les coordonnées de l&#39;entreprise, photos, plan d&#39;accès, horaires et formulaire de contact. Ceci est une page non officiel qui concentre toutes les informations sur Le Jardin D&#39;Eden de Le Jardin D&#39;Eden.
+
+REL: 2
+POI Name: Marché St Pierre
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Banks & Credit Unions, Farmers Market, 
+Snippets:
+title: Le Marché Saint Pierre - Tissu au mètre, tissu d ...
+snippet: Tissu au mètre, tissu d&#39;habillement, tissu d&#39;ameublement, gaz, wax, coupons 3 mètres et mercerie. Le Marché Saint-Pierre à Paris est le royaume des tissus depuis plus d&#39;un demi-siècle .
+title: Marché Saint-Pierre à Caen - Le Figaro
+snippet: Ouvert le Dimanche - Horaires d&#39;ouverture de Marché Saint-Pierre, Place Courtonne, 14000 Caen (Alimentation / Marché)
+title: Confinement à Caen. Les 10 marchés restent ouverts aux ...
+snippet: Confinement à Caen. Les 10 marchés restent ouverts aux habitants À Caen (Calvados), en plein confinement pour lutter contre l&#39;épidémie de coronavirus, les marchés restent ouverts, pour les ...
+title: Marché St Pierre - Caen - Caen, 09/04/2017 | La République ...
+snippet: Marché St Pierre - Caen est un événement local du mouvement La République En Marche ! organisé par Nicolas J. le dimanche 9 avril 2017 à 9h30, dans la ville de Caen. Visitez la page dédiée pour vous inscrire et obtenir toutes les informations concernant cet événement.
+title: Jours de marché à Caen - Jours-de-Marché.fr
+snippet: Jours de marché à Caen (14000, Calvados) : 12 marchés pour cette ville et encore plus aux alentours. Plusieurs édifices historiques tels que le château de Guillaume le Conquérant, au centre de la ville, sont construits avec la pierre de Caen, une pierre « blonde » de la région. Dans le quartier du Vaugueux, de nombreuses maisons à colombages et cafés occupent les petites rues pavées.
+title: Marché Saint-Pierre - Caen | Marchés Calvados - 19 avril 2020
+snippet: Marché Saint-Pierre 14000 CAEN Marché Saint-Pierre Les marchés de Caen Les marchés de Caen Du mardi au dimanche, chaque jour son marché près de chez vous. DIMANCHE 7h30 - 14h30 Marché Saint-Pierre : Situé Place Courtonne, quai Vendeuvre de la Place Courtonne à la rue des Carmes. 460 commerçants.
+title: Marché St Pierre - Caen, 16/04/2017 | La République En ...
+snippet: Marché St Pierre est un événement local du mouvement La République En Marche ! organisé par Nicolas J. le dimanche 16 avril 2017 à 9h30, dans la ville de Caen. Visitez la page dédiée pour vous inscrire et obtenir toutes les informations concernant cet événement.
+title: Place Saint-Pierre (Caen) — Wikipédia
+snippet: Caen, qui n&#39;était alors qu&#39;un amas de bourgs agglomérés, prend alors son essor. Placé au pied de cette forteresse, le secteur de la place Saint-Pierre forme un des noyaux centraux de la ville nouvelle, Bourg-le-Duc ou Bourg-le-Roi.
+title: Marché Saint Pierre - Real Estate - Place Courtonne, Caen ...
+snippet: Marché Saint Pierre in Caen, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Caen and beyond.
+title: Un dimanche de campagne au marché Saint- Pierre à Caen ...
+snippet: Quand des candidats aux élections législatives et leurs équipes vont à la rencontre des Caennais sur le marché .....
+
+REL: 2
+POI Name: Ju'ste chez Moi
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Creperies, Cafes, Tea Rooms, 
+Snippets:
+title: Ju&#39;ste Chez Moi, Caen - Restaurant Avis, Numéro de ...
+snippet: Ju&#39;ste Chez Moi, Caen : consultez 286 avis sur Ju&#39;ste Chez Moi, noté 5 sur 5 sur Tripadvisor et classé #2 sur 444 restaurants à Caen.
+title: Ju&#39;ste Chez Moi, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Ju&#39;ste Chez Moi, Caen: See 286 unbiased reviews of Ju&#39;ste Chez Moi, rated 5 of 5 on Tripadvisor and ranked #2 of 444 restaurants in Caen.
+title: Ju&#39;ste Chez Moi, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Ju&#39;ste Chez Moi, Caen: Se 286 objektive anmeldelser av Ju&#39;ste Chez Moi, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 2 av 444 restauranter i Caen.
+title: Ju&#39;ste Chez Moi Caen. Crêperie (14) - Caen.maville.com
+snippet: Ju&#39;ste Chez Moi - Crêperie Caen. Retrouvez les informations pratiques, les avis des internautes et les bons plans sur Caen.maville.com
+title: Ju&#39;ste chez Moi cafe, Caen - Restaurant reviews
+snippet: Ju&#39;ste chez Moi, #2 among Caen cafes: 558 reviews by visitors and 14 detailed photos. People rated this restaurant 4.6 on Google and 5 on Yelp. This place offers you meals for 5-13 €. Find on the map and call to book a table.
+title: Ju&#39;ste Chez Moi, Caen - recenzje restauracji - Tripadvisor
+snippet: Ju&#39;ste Chez Moi, Caen: zobacz bezstronne recenzje (286 ) na temat Ju&#39;ste Chez Moi, z oceną 5 na 5 w serwisie Tripadvisor, na pozycji 2 z 444 restauracji w Caen.
+title: JU&#39;STE CHEZ MOI, Caen - Omdömen om restauranger - Tripadvisor
+snippet: Ju&#39;ste Chez Moi, Caen: Se 286 objektiva omdömen av Ju&#39;ste Chez Moi, som fått betyg 5 av 5 på Tripadvisor och rankas som nummer2 av 444 restauranger i Caen.
+title: Ju&#39;ste Chez Moi, Caen ravintola-arvostelut - Tripadvisor
+snippet: Ju&#39;ste Chez Moi, Caen: Katso 286 puolueetonta arvostelua paikasta Ju&#39;ste Chez Moi, joka on sijalla 5/5 Tripadvisorissa ja sijalla 2 445 ravintolasta Caen.
+title: Ju&#39;ste Chez Moi, Caen - Restaurant Bewertungen ...
+snippet: Ju&#39;ste Chez Moi, Caen: 286 Bewertungen - bei Tripadvisor auf Platz 2 von 445 von 445 Caen Restaurants; mit 5/5 von Reisenden bewertet.
+title: JU&#39;STE CHEZ MOI - Crêperie - Caen (14000)
+snippet: JU&#39;STE CHEZ MOI - Caen 14000 - 90, rue de Geôle Crêperie : Situé à égale distance de la fac et du château, ce restaurant - crêperie est tout ce qu&#39;il faut...
+
+REL: 2
+POI Name: La Cantine du Troquet
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, 
+Snippets:
+title: La Cantine Du Troquet, Paris - Montparnasse - Restaurant ...
+snippet: La Cantine Du Troquet, Paris: See 957 unbiased reviews of La Cantine Du Troquet, rated 4.5 of 5 on Tripadvisor and ranked #1,035 of 17,688 restaurants in Paris.
+title: La Cantine Du Troquet, Paris - Restaurantanmeldelser ...
+snippet: La Cantine Du Troquet, Paris: Se 957 objektive anmeldelser av La Cantine Du Troquet, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 039 av 17 676 restauranter i Paris.
+title: La Cantine du Troquet - Dupleix v2
+snippet: En plein cœur du 15ème arrondissement, la Cantine du Troquet se décline en brasserie où l’on peut passer boire un verre au comptoir ou s’attabler en bonne compagnie. Ici, c’est Christian Etchebest et Franck qui proposent un menu sous le signe de la simplicité et de la qualité.
+title: La Cantine du Troquet Cherche Midi, Paris - Notre-Dame-des ...
+snippet: La Cantine du Troquet Cherche Midi, Paris: See 136 unbiased reviews of La Cantine du Troquet Cherche Midi, rated 4.5 of 5 on Tripadvisor and ranked #2,186 of 17,682 restaurants in Paris.
+title: La Cantine Du Troquet, Paris - Montparnasse - Restaurant ...
+snippet: La Cantine Du Troquet, Paris : consultez 957 avis sur La Cantine Du Troquet, noté 4,5 sur 5 sur Tripadvisor et classé #1 035 sur 17 688 restaurants à Paris.
+title: La Cantine du Troquet Cherche Midi, Paris ...
+snippet: La Cantine du Troquet Cherche Midi, Paris: Se 136 objektive anmeldelser av La Cantine du Troquet Cherche Midi, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 2 193 av 17 676 restauranter i Paris.
+title: La Cantine Du Troquet - Home - Paris, France - Menu ...
+snippet: La Cantine Du Troquet - - Rated 4.7 based on 297 Reviews &quot;The food was great but the service on Saturday may 13th was beyond terrible. We came to drink...
+title: La Cantine du Troquet, Paris - Ternes - Menu, Prix ...
+snippet: La cantine du troquet n’existe plus. Un changement de propriétaire discret et qui répond au téléphone comme si tout continuait. Un grand resto vide qui n’a qu’un blanc de poulet affiché.
+title: La Cantine Du Troquet, Paris - Montparnasse - Restaurant ...
+snippet: La Cantine Du Troquet, Paris: 948 Bewertungen - bei TripAdvisor auf Platz 943 von 17.619 von 17.619 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: La Cantine du Troquet - Paris tourist office
+snippet: La Cantine du Troquet - This friendly canteen (you can choose your meal from a large selection) offers varied and tasty food. Basque specialities are...
+
+REL: 2
+POI Name: Carrefour Express
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Carrefour Express Caen : Votre Épicerie à Caen
+snippet: Découvrez votre Épicerie Carrefour Express Caen et retrouvez les catalogues, services, promotions et horaires d&#39;ouvertures de votre magasin.
+title: Carrefour Express Caen Saint-Ouen : Votre Épicerie à Caen
+snippet: Découvrez votre Épicerie Carrefour Express Caen Saint-Ouen et retrouvez les catalogues, services, promotions et horaires d&#39;ouvertures de votre magasin.
+title: Carrefour Express Caen place Champlain Pierre Heuzé ...
+snippet: Carrefour Express Caen place Champlain Pierre Heuzé Lebisey, Caen. 1.5K likes. - Ouvert 7j/7 7h30-21h00 - 9h-21h00 : Dimanches et jours fériés - Livraison à domicile le mardi matin 0€ * - Dépôt de...
+title: Carrefour Express Caen St Ouen - Home | Facebook
+snippet: Carrefour Express Caen St Ouen, Caen. 226 likes · 19 talking about this · 20 were here. - Faites livrer et expédier vos colis avec notre partenaire Mondial Relay tous les jours de 8h à 21h - Ventes...
+title: Carrefour Express Caen place Champlain Pierre Heuzé ...
+snippet: Carrefour Express Caen place Champlain Pierre Heuzé Lebisey, Caen. 1.6K likes. Nouveaux horaire pendant le covid 19 - Ouvert 7j/7 7h30-20h - 9h-19h30 : Dimanches et jours fériés - Livraison gratuite...
+title: Carrefour Express Creully : Votre Épicerie à Caen
+snippet: Découvrez votre Épicerie Carrefour Express Creully et retrouvez les catalogues, services, promotions et horaires d&#39;ouvertures de votre magasin.
+title: Carrefour à Caen : Promotions, Services et Horaires
+snippet: Carrefour Caen : Retrouvez tous les magasins Carrefour à Caen et les informations pratiques ainsi que les services, promotions, catalogues et horaires de nos magasins dans votre ville. Faites vos courses en ligne avec Carrefour Drive ou profitez de la livraison à domicile avec Carrefour à Caen.
+title: Carrefour Express Caen Venoix Henry Cheron - Home | Facebook
+snippet: Carrefour Express Caen Venoix Henry Cheron, Caen. 128 likes. Magasin de proximité multiples services: livraisons à domicile, relais poste et dépôt de presse (Ouest-France et liberté)
+title: Magasins Carrefour Express à Caen - Adresses et horaires ...
+snippet: Carrefour Express Caen: Magasins &amp; horaires d&#39;ouverture. Retrouvez ici la liste de tous les magasins Carrefour Express à Caen. Choisissez un magasin pour accéder à son adresse et ses horaires d&#39;ouvertures.
+title: Carrefour Express Caen - Promos et catalogues en cours
+snippet: Catalogues et prospectus en cours dans les magasins Carrefour Express à Caen et aux alentours. Les magasins Carrefour Express sont des marchés de proximité situés dans les centres-villes, étudiés pour répondre aux attentes d’une clientèle urbaine et dynamique avec une offre principalement basée sur les produits alimentaires de la marque Carrefour.
+
+REL: 2
+POI Name: Archidona
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: ArchiDona Restaurant, Caen - Restaurant Avis, Numéro de ...
+snippet: ArchiDona Restaurant, Caen : consultez 224 avis sur ArchiDona Restaurant, noté 4 sur 5, l&#39;un des 444 restaurants de Caen sur Tripadvisor.
+title: ArchiDona Restaurant - Picture of ArchiDona Restaurant, Caen
+snippet: ArchiDona Restaurant, Caen Picture: ArchiDona Restaurant - Check out Tripadvisor members&#39; 6,306 candid photos and videos of ArchiDona Restaurant
+title: ArchiDona Restaurant - Picture of ArchiDona Restaurant, Caen
+snippet: ArchiDona Restaurant, Caen Picture: ArchiDona Restaurant - Check out Tripadvisor members&#39; 6,313 candid photos and videos of ArchiDona Restaurant
+title: plat - Picture of ArchiDona Restaurant, Caen - Tripadvisor
+snippet: ArchiDona Restaurant, Caen Picture: plat - Check out Tripadvisor members&#39; 6,330 candid photos and videos of ArchiDona Restaurant
+title: photo1.jpg - Picture of ArchiDona Restaurant, Caen ...
+snippet: ArchiDona Restaurant, Caen Picture: photo1.jpg - Check out Tripadvisor members&#39; 6,304 candid photos and videos of ArchiDona Restaurant
+title: ArchiDona Restaurant - Restaurant français - Caen ...
+snippet: ArchiDona Restaurant, Caen. 554 J’aime. Au cœur de la cité ducale normande, le restaurant ArchiDona vous invite à découvrir sa cuisine raffinée et créative mise aux gouts du jour.
+title: ArchiDona Restaurant, Caen - Restaurantanmeldelser ...
+snippet: Restauranter i Caen: Se 224 anmeldelser fra rejsende af restauranter i 446Caen, og søg på køkken, pris, sted og meget mere.
+title: ArchiDona à Caen, carte-menu et photos - Eat-List
+snippet: ArchiDona situé à Caen (14) est un établissement de type Restaurant Français, consultez leur carte-menu (16 pages), les horaires d&#39;ouverture, 3 photos à voir
+title: ArchiDona Restaurant, Caen - Restaurant Bewertungen ...
+snippet: ArchiDona Restaurant, Caen: 224 Bewertungen von ArchiDona Restaurant sehen, mit 4 von 5 bewertet und eines der 442 Restaurants in Caen bei Tripadvisor.
+title: Caen Tourism 2020: Best of Caen, France - Tripadvisor
+snippet: Caen, France. Caen’s historic centre—with its medieval monuments, Romanesque churches, and poignant memorials—stands testament to the port city&#39;s troubled history, caught in the crossfire of Normandy’s most significant battles. Today, a thriving student population injects modernity, ...
+
+REL: 2
+POI Name: Bistro Politain
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Brasseries, 
+Snippets:
+title: Bistropolitain Caen - 113 Photos - 43 Reviews - Tapas Bar ...
+snippet: Bistropolitain Caen - 41 Bd Maréchal Leclerc, 14000 Caen, France - Rated 4.1 based on 43 Reviews &quot;Vraiment déçue, Mon amie intolérante au gluten...
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Bistropolitain, Caen - Restaurant Avis, Numéro de ...
+snippet: Bistropolitain, Caen : consultez 45 avis sur Bistropolitain, noté 3,5 sur 5 sur Tripadvisor et classé #268 sur 444 restaurants à Caen.
+title: bistro politain - Caen, Basse-Normandie
+snippet: Bistro in Caen, Basse-Normandie. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, ... bistro politain. Bistro, Restaurant, ...
+title: Bistro Malherbe - Home | Facebook
+snippet: Bistro Malherbe. 683 likes · 40 were here. Une cuisine gourmande, généreuse et conviviale ou l’on épluche, on désosse et on mijote ! Le tout dans une ambiance chaleureuse et familiale. Découvrez...
+title: Le Bistrot du Palais, Caen - Restaurantanmeldelser ...
+snippet: Le Bistrot du Palais, Caen: Se 74 objektive anmeldelser av Le Bistrot du Palais, vurdert til 4,5 av 5 på TripAdvisor og vurdert som nr. 103 av 446 restauranter i Caen.
+title: EVR CAEN (CAEN) Chiffre d&#39;affaires, résultat, bilans sur ...
+snippet: EVR CAEN, société par actions simplifiée à associé unique est en activité depuis 7 ans. Domiciliée à CAEN (14000), elle est spécialisée dans le secteur d&#39;activité de la restauration traditionnelle. Son effectif est compris entre 10 et 19 salariés.
+title: SALSA BISTRO POLITAIN
+snippet: SALSA BISTRO POLITAIN. 23 mars 2018 : 21 h 30 min - 0 h 40 min ... 21 h 30 min - 0 h 40 min Lieu Au Bistrot Politain Caen 41 Boulevard Maréchal Leclerc Caen, 14000 France + Google Map Téléphone : 0231453584
+title: Bistro - Politain Caen Calvados - devanture...bulent
+snippet: BISTRO - Politain - Caen (Calvados) Cette photo n&#39;est pas libre de droit et appartient à Rosa. Merci.. Demain : En...
+title: Bistropolitain, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: We arrived in Caen later in the evening and asked our hotel where we can get decent meal. He recommended this as late night good food. We walked rather far and were greeted by unfriendly hosts telling us the kitchen was closed FAR before the...
+
+REL: 2
+POI Name: Le Colisée
+POI City: Caen
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Bars, French, Bistros, Brasseries, 
+Snippets:
+title: Le Colisée - Accueil université de Caen Normandie
+snippet: Plusieurs incendies dévastèrent les parties en bois de l’amphithéâtre - arène, gradins, installations scéniques - mais les dégâts les plus importants ont été provoqués par les tremblements de terre de 1231 et de 1349 qui firent tomber une grande partie de l’enceinte de sorte que le Colisée devint une «carrière» de travertin ...
+title: Le Colisée [3D] - Les Nocturnes du Plan de Rome - 04 fév ...
+snippet: Le Colisée, dans sa nouvelle version de restitution, s&#39;intègre désormais dans un contexte urbain cohérent. Il est entouré d&#39;une statue appelée Colosse de Néron par la tradition, ...
+title: Le Colisée Caen - Caen, France | Facebook
+snippet: Le Colisée Caen, Caen. 49 likes. Bar-Brasserie, centre ville de Caen
+title: Le Colisee, Caen - Restaurant Avis, Numéro de Téléphone ...
+snippet: Le Colisee, Caen : consultez 17 avis sur Le Colisee, noté 2,5 sur 5, l&#39;un des 444 restaurants de Caen sur Tripadvisor.
+title: Caen, Mondeville - Société du Colisée | Investissement ...
+snippet: La Société du Colisée propose à la location des locaux commerciaux, professionnels, de stockage et d&#39;activité. Nous louons également des bureaux et des salles de réunion en Hôtel d&#39;Entreprises. Nos biens immobiliers se situent à Caen, Mondeville, Giberville, Lisieux et Hérouville-Saint-Clair.
+title: Plan de Rome - Université de Caen Normandie
+snippet: Le Plan de Rome est une maquette en plâtre d&#39;environ 70 m² (11m / 6m), réalisée à l&#39;échelle 1/400, qui représente les 3/5 de la ville de Rome à l&#39;époque de Constantin, au début du IV e siècle après J.-C. Son créateur, l&#39;architecte Paul Bigot (né à Orbec en 1870, mort à Paris en 1942), Grand Prix de Rome en 1900, a consacré la majeure partie de sa vie à cette reconstitution de ...
+title: Colisée — Wikipédia
+snippet: Le Colisée, à l&#39;origine amphithéâtre Flavien (Colosseo en italien), est un immense amphithéâtre ovoïde situé dans le centre de la ville de Rome, entre l&#39;Esquilin et le Cælius, le plus grand jamais construit dans l&#39;Empire romain. Il est l&#39;une des plus grandes œuvres de l&#39;architecture et de l&#39;ingénierie romaines.
+title: Le Colisée - Caen, Basse-Normandie
+snippet: Bar in Caen, Basse-Normandie Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: Le Colisée Caen, Téléphone, Horaires, Adresse
+snippet: Le Colisée, Caen, 26 rue de Bras, heures d&#39;ouverture, Restaurant, Bar, Restaurant français, Café, Restaurant traditionnel, Brasserie, Salon de thé, Pub, Piano bar
+title: Le Colisée Caen - Café bar (adresse)
+snippet: Le Colisée à Caen Cafés, bars : adresse, photos, retrouvez les coordonnées et informations sur le professionnel. ... LE COLISEE. Données issues de la société Solvabilité Entreprise et/ou de la base de données Sirene, droits réservés INSEE - mise à jour mensuelle.
+
+REL: 2
+POI Name: Au Verre Dit Vin
+POI City: Caen
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Wine Bars, 
+Snippets:
+title: Au Verre Dit Vin, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Au Verre Dit Vin, Caen: Se 219 objektive anmeldelser av Au Verre Dit Vin, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 194 av 444 restauranter i Caen.
+title: Au Verre Dit Vin, Caen - Menu, Prix, Restaurant Avis ...
+snippet: Réserver une table Au Verre Dit Vin, Caen sur Tripadvisor : consultez 219 avis sur Au Verre Dit Vin, noté 3,5 sur 5 sur Tripadvisor et classé #194 sur 444 restaurants à Caen.
+title: Au Verre Dit Vin - Caen - Videos | Facebook
+snippet: Au Verre Dit Vin - Caen - 8, quai Vendeuvre, 14000 Caen, France - Rated 4.2 based on 141 Reviews &quot;To long waiting for food everyone else got feed before...
+title: Au verre dit vin : bar, resto et salle de spectacles
+snippet: Au verre dit vin : bar, resto et salle de spectacles. On peut prendre un verre, déjeuner ou dîner et, en fin de semaine, assister à des spectacles dans cet établissement ouvert, quai Vendeuvre ...
+title: AU VERRE DIT VIN (CAEN) Chiffre d&#39;affaires, résultat ...
+snippet: AU VERRE DIT VIN à CAEN (14000) RCS, SIREN, SIRET, bilans, statuts, chiffre d&#39;affaires, dirigeants, cartographie, alertes, annonces légales, enquêtes, APE, NAF ...
+title: Excellent! - Review of Au Verre Dit Vin, Caen, France ...
+snippet: Au Verre Dit Vin: Excellent! - See 219 traveler reviews, 75 candid photos, and great deals for Caen, France, at Tripadvisor.
+title: AU VERRE DIT VIN, Caen - Menu, Prices, Restaurant Reviews ...
+snippet: Reserve a table at Au Verre Dit Vin, Caen on Tripadvisor: See 219 unbiased reviews of Au Verre Dit Vin, rated 3.5 of 5 on Tripadvisor and ranked #194 of 444 restaurants in Caen.
+title: Nice - Review of Au Verre Dit Vin, Caen, France - Tripadvisor
+snippet: Au Verre Dit Vin: Nice - See 219 traveler reviews, 75 candid photos, and great deals for Caen, France, at Tripadvisor.
+title: Restaurant Au Verre dit Vin à Caen (14000) - Menu, avis ...
+snippet: Formules 18€ et 24€ - Restaurant Au Verre dit Vin à Caen : Réservez gratuitement au restaurant Au Verre dit Vin, confirmation immédiate de votre réservation avec LaFourchette.
+title: Au Verre Dit Vin pub &amp; bar, Caen - Restaurant menu and reviews
+snippet: Au Verre Dit Vin, #157 among Caen restaurants: 814 reviews by visitors and 20 detailed photos. This restaurant has got 4.1 on Google and 4.2 on Facebook. This place provides food for 12-23 €. Find on the map and call to book a table.
+
+REL: 2
+POI Name: Le verre à soi
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Restaurants, Wine Bars, 
+Snippets:
+title: Le Verre à Soi, Caen - Restaurant Avis, Numéro de ...
+snippet: Le Verre à Soi, Caen : consultez 59 avis sur Le Verre à Soi, noté 4 sur 5 sur Tripadvisor et classé #221 sur 444 restaurants à Caen.
+title: LE VERRE À SOI - Bar à vin - Caen (14000)
+snippet: LE VERRE À SOI - Caen 14000 - 23, quai Eugène Meslin Bar à vin : Une adresse que l&#39;on chérit particulièrement parce qu&#39;elle conjugue plein de petits bonheurs....
+title: Le Verre a Soi, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Verre a Soi, Caen: See 59 unbiased reviews of Le Verre a Soi, rated 4 of 5 on Tripadvisor and ranked #219 of 442 restaurants in Caen.
+title: Le verre à Soi Caen - Home | Facebook
+snippet: Le verre à Soi Caen. 14 likes. Restaurant le midi et bar à vin le soir avec planches de charcuterie et divers grignotages
+title: Xavier Verre à Soi - Pub - Caen, France | Facebook - 7 ...
+snippet: Xavier Verre à Soi - 23 Quai Eugène Meslin, 14000 Caen, France - Rated 5 based on 7 Reviews &quot;Une soirée apéro avec mon amie très réussit grâce à cet...
+title: LE VERRE A SOI, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Verre a Soi, Caen: See 59 unbiased reviews of Le Verre a Soi, rated 4 of 5 on Tripadvisor and ranked #221 of 444 restaurants in Caen.
+title: Le Verre à soi restaurant, Caen, 23 Quai Eugène Meslin ...
+snippet: Le Verre à soi, #183 among Caen restaurants: 173 reviews by visitors and 4 detailed photos. This restaurant has earned 4.1 on Google and 5 on Facebook. Find on the map and call to book a table.
+title: THE 10 BEST Restaurants Near Le Verre a Soi in Caen ...
+snippet: Restaurants near Le Verre a Soi, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near Le Verre a Soi in Caen, France.
+title: LE VERRE A SOI SARL (CAEN) Chiffre d&#39;affaires, résultat ...
+snippet: LE VERRE A SOI SARL, société à responsabilité limitée est active depuis 8 ans. Installée à CAEN (14000), elle est spécialisée dans le secteur d&#39;activité de la restauration traditionnelle. Son effectif est compris entre 1 et 2 salariés.
+title: Nice food and nice service! - Review of Le Verre a Soi ...
+snippet: Le Verre a Soi: Nice food and nice service! - See 59 traveler reviews, 5 candid photos, and great deals for Caen, France, at Tripadvisor.
+
+REL: 2
+POI Name: Déco Room
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Furniture Stores, Coffee & Tea, 
+Snippets:
+title: Deco Room Cafe, Caen - Restaurantanmeldelser - Tripadvisor
+snippet: Spise middag i Caen: Se 11 anmeldelser fra Tripadvisor-reisende av 445restauranter i Caen, og søk etter kjøkken, pris, sted og mer.
+title: DECO ROOM - CAEN, FR 14000
+snippet: DECO ROOM, CAEN, FR 14000. Je confirme que ceci est une requête pour un projet personnel et non pas un message publicitaire ou une prospection.
+title: DECO ROOM - CAEN, FR 14000
+snippet: DECO ROOM, CAEN, FR 14000. Magasin de déco moderne,très agréable et qui propose un grand choix,notamment de meubles et objets déco scandinaves( Hay,Normann).Les prix sont un peu élevés mais l&#39;accueil est chaleureux et les conseils pertinents
+title: Deco room café - Picture of Deco Room Cafe, Caen - Tripadvisor
+snippet: Deco Room Cafe, Caen Picture: Deco room café - Check out Tripadvisor members&#39; 6,331 candid photos and videos of Deco Room Cafe. Caen. Caen Tourism Caen Hotels Caen Bed and Breakfast Caen Vacation Rentals Caen Vacation Packages Flights to Caen Caen Restaurants Things to Do in Caen Caen Travel Forum
+title: Location de mobilier événementiel sur Lille et Paris ...
+snippet: Spécialisée dans la conception déco et location de mobiliers design pour les évènements professionnels et privés. Gamme de mobilier pour stand et salle d&#39;exposition, salon, soirée, lancement de produit, mariage, scénographie.
+title: SHOWROOM - DECO ROOM - CAEN
+snippet: DECO ROOM vous propose dans sa boutique-show room au 14 rue st Laurent à Caen, un choix d&#39;articles contemporains pour l&#39;intérieur et l&#39;extérieur.
+title: Deco Room Cafe Caen - Restaurant (adresse, horaires)
+snippet: Deco Room Cafe à Caen Restaurants : adresse, photos, retrouvez les coordonnées et informations sur le professionnel
+title: DECO ROOM CAFE, Caen - Omdömen om restauranger - Tripadvisor
+snippet: Äta ute i Caen: Se 11 Tripadvisor-resenärernas omdömen av 441Caen restauranger och sök på kök, pris, plats och så vidare.
+title: Chiffonade de jambon &amp; toast avocats.. Délice.. - Picture ...
+snippet: Deco Room Cafe, Caen Picture: Chiffonade de jambon &amp; toast avocats.. Délice.. - Check out Tripadvisor members&#39; 6,331 candid photos and videos of Deco Room Cafe
+title: Deco Room Cafe, Caen - recenzje restauracji - Tripadvisor
+snippet: Posiłek w Caen: Zobacz recenzje podróżników Tripadvisor (11) 445 restauracji w Caen i wyszukuj wg kuchni, ceny, lokalizacji i innych.
+
+REL: 1
+POI Name: Café des dames
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Bistros, Brasseries, 
+Snippets:
+title: Cafe des Dames, Paris - Combat - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Cafe des Dames, Paris on Tripadvisor: See 65 unbiased reviews of Cafe des Dames, rated 3.5 of 5 on Tripadvisor and ranked #8,711 of 17,682 restaurants in Paris.
+title: Cafe des Dames, Paris - Combat - Menu, Prix, Restaurant ...
+snippet: Réserver une table Cafe des Dames, Paris sur Tripadvisor : consultez 65 avis sur Cafe des Dames, noté 3,5 sur 5 sur Tripadvisor et classé #8 702 sur 17 688 restaurants à Paris.
+title: Cafe des Dames Villiers, Paris - Plaine de Monceaux ...
+snippet: Cafe des Dames Villiers, Paris : consultez 64 avis sur Cafe des Dames Villiers, noté 3,5 sur 5 sur Tripadvisor et classé #15 256 sur 17 688 restaurants à Paris.
+title: Cafe des Dames Villiers, Paris - Plaine de Monceaux ...
+snippet: Cafe des Dames Villiers, Paris: See 64 unbiased reviews of Cafe des Dames Villiers, rated 3.5 of 5 on Tripadvisor and ranked #15,256 of 17,688 restaurants in Paris.
+title: Cafe des Dames - Home - Paris, France - Menu, Prices ...
+snippet: Cafe des Dames, Paris. 155 likes · 1 talking about this · 576 were here. European Restaurant
+title: CAFE DES DAMES, Paris - Combat - Updated 2020 Restaurant ...
+snippet: Reserve a table at Cafe des Dames, Paris on Tripadvisor: See 65 unbiased reviews of Cafe des Dames, rated 3.5 of 5 on Tripadvisor and ranked #8,711 of 17,682 restaurants in Paris.
+title: CAFE DES DAMES, Paris - Combat - Updated 2020 Restaurant ...
+snippet: Reserve a table at Cafe des Dames, Paris on Tripadvisor: See 65 unbiased reviews of Cafe des Dames, rated 3.5 of 5 on Tripadvisor and ranked #8,702 of 17,688 restaurants in Paris.
+title: photo0.jpg - Picture of Cafe des Dames, Paris - Tripadvisor
+snippet: Cafe des Dames, Paris Picture: photo0.jpg - Check out Tripadvisor members&#39; 50,111 candid photos and videos of Cafe des Dames
+title: Cafe des Deux Moulins, Paris - 18th Arr. - Buttes ...
+snippet: Reserve a table at Cafe des Deux Moulins, Paris on Tripadvisor: See 2,119 unbiased reviews of Cafe des Deux Moulins, rated 3.5 of 5 on Tripadvisor and ranked #10,377 of 17,688 restaurants in Paris.
+title: Tasty food, but nothing special - Review of Cafe des Dames ...
+snippet: Cafe des Dames: Tasty food, but nothing special - See 65 traveler reviews, 22 candid photos, and great deals for Paris, France, at Tripadvisor.
+
+REL: 1
+POI Name: La Regalia
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: La Regalia, Paris - 15th Arr. - Vaugirard - Restaurant ...
+snippet: La Regalia, Paris: See 153 unbiased reviews of La Regalia, rated 4 of 5 on Tripadvisor and ranked #3,458 of 17,688 restaurants in Paris.
+title: La Regalia, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: La Regalia, Paris: Se 153 objektive anmeldelser av La Regalia, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 3 459 av 17 674 restauranter i Paris.
+title: THE 10 BEST Restaurants Near La Regalia in Paris, Ile-de ...
+snippet: Restaurants near La Regalia, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near La Regalia in Paris, France.
+title: La Regalia - 22 Photos &amp; 38 Reviews - Cafes - 1 rue de la ...
+snippet: 38 reviews of La Regalia &quot;Some friends and I went here for breakfast before it was time to go back home. I tried to order a beer for breakfast, but the waiter said it was too early to sell beer. I was bummed, but I pulled my self together and…
+title: Café Regalia
+snippet: Brasserie familiale depuis 1983, située juste en face de la gare Javel, le Regalia vous propose une cuisine traditionnelle française, enrichie d&#39;idées originales et de présentations soignées. Nos viandes, nos poissons, nos légumes, sont sélectionnés avec soin afin de vous proposer des plats de qualité.
+title: LA REGALIA, Paris - Omdömen om restauranger - Tripadvisor
+snippet: La Regalia, Paris: Se 153 objektiva omdömen av La Regalia, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer3 451 av 17 682 restauranger i Paris.
+title: Restaurant la Régalade - Paris 1er - Saint Honoré - Bruno ...
+snippet: Restaurant la Régalade situé 106 rue Saint-Honoré 75001 Paris. Une ambiance sympathique pour une bistronomie généreuse par Bruno Doucet - Menu à 39 €
+title: La Regalia, Paris - 15th Arr. - Vaugirard - Restaurant ...
+snippet: La Regalia, Paris: 153 Bewertungen - bei Tripadvisor auf Platz 3.460 von 17.674 von 17.674 Paris Restaurants; mit 4/5 von Reisenden bewertet.
+title: La Regalia, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: La Regalia, Paris: Se 153 objektive anmeldelser af La Regalia, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 3.457 af 17.688 restauranter i Paris.
+title: Le Regalia - Home - Paris, France - Menu, Prices ...
+snippet: Le Regalia - 1 rue de la convention, 75015 Paris, France - Rated 4.6 based on 74 Reviews &quot;Dined for brunch and had a great meal. Tasty food and friendly...
+
+REL: 1
+POI Name: Centre Leclerc
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: E.Leclerc CAEN - Hypermarchés E.Leclerc
+snippet: E.Leclerc CAEN - Hypermarchés E.Leclerc - Retrouvez toute l&#39;offre de votre magasin E.Leclerc CAEN. Infos pratiques d&#39;accès, horaires, promotions de votre hypermarché E.Leclerc.
+title: E.Leclerc CAEN - Espace culturel
+snippet: E.Leclerc CAEN - Espace culturel - Retrouvez toute l&#39;offre de votre magasin E.Leclerc CAEN. Infos pratiques d&#39;accès, horaires, promotions de votre hypermarché E.Leclerc.
+title: E.Leclerc Caen - Home | Facebook
+snippet: ?? #NOËL ?? Votre Centre E.Leclerc Caen et vos Drives de Bretteville-sur-Odon et Côte de Nacre vous souhaitent d&#39;excellentes fêtes de Noël, et remercient toutes les équipes de #Lutins qui ont oeuvré depuis des semaines pour que vos fêtes de fin d&#39;année soient réussies !
+title: E.Leclerc NORMANVILLE - CAER - Hypermarchés E.Leclerc
+snippet: E.Leclerc NORMANVILLE - CAER - Hypermarchés E.Leclerc - Retrouvez toute l&#39;offre de votre magasin E.Leclerc CAER à NORMANVILLE. Infos pratiques d&#39;accès, horaires, promotions de votre hypermarché E.Leclerc.
+title: Centre Leclerc Caen - Station service (adresse, avis)
+snippet: Le supermarché du centre ville. Pour tous les habitants de Caen habitant en centre ville, ce supermarché leclerc est très pratique pusiqu&#39;il propose ses produits à des prix plus que raisonables contrairement aux épiceries du coin.
+title: Hypermarchés E.Leclerc
+snippet: Hypermarchés E.Leclerc - Retrouvez toute l&#39;offre de votre magasin E.Leclerc. Infos pratiques d&#39;accès, horaires, promotions de votre hypermarché E.Leclerc.
+title: Centre E.Leclerc Caen (@e.leclerccaen) profile on ...
+snippet: 1,075 Followers, 229 Following, 778 Posts - See Instagram photos and videos from Centre E.Leclerc Caen (@e.leclerccaen)
+title: Drive Caen Cote de Nacre et Courses en ligne - E.Leclerc DRIVE
+snippet: Faites vos courses en ligne avec E.Leclerc DRIVE Caen Cote de Nacre. Retrait en moins de 5 minutes. Service 100% gratuit et rapide.
+title: Espace Culturel E.Leclerc - Livres, musique, vidéos, jeux ...
+snippet: Découvrez l&#39;Espace Culturel E.Leclerc : tous vos produits culturels à prix E.Leclerc : livre, musique, CD, DVD/Blu-Ray, jeux vidéo et consoles, jouets, coffrets cadeaux, billetterie mais aussi l&#39;ebook et la BD numérique. Livraison à domicile ou retrait gratuit en magasin.
+title: E.Leclerc Caen - ?? #NOËL ?? Votre Centre E.Leclerc Caen...
+snippet: Votre Centre E.Leclerc Caen et vos Drives de Bretteville-sur-Odon et Côte de Nacre vous souhaitent d&#39;excellentes fêtes de Noël, et remercient toutes les équipes de #Lutins qui ont oeuvré depuis des semaines pour que vos fêtes de fin d&#39;année soient réussies !
+
+REL: 1
+POI Name: Delirium Café
+POI City: Caen
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Pubs, 
+Snippets:
+title: Délirium Café Caen - Home | Facebook
+snippet: Délirium Café Caen - 18 Quai Vendeuvre, 14000 Caen, France - Rated 4.7 based on 82 Reviews &quot;What an experience in great craft beer.....Caen is very lucky...
+title: Délirium Café Caen - Accueil | Facebook
+snippet: Délirium Café Caen - 18 Quai Vendeuvre, 14000 Caen - Note de 4.7 sur la base de 82 avis «Super bières , toujours des nouveautés!! Le service au top!! La...
+title: Delirium Café (Caen) : 2020 Ce qu&#39;il faut savoir pour ...
+snippet: Mes deux seules expériences de Delirium sont celui de Rennes et celui de Caen, et je trouve celui de Caen plus convivial. Les conseils bières sont top, en tout cas l&#39;après midi ( il n&#39;y avait pas beaucoup de monde donc le personnel est peut être plus disponible qu&#39;en soirée !)
+title: Delirium Cafe (Caen) - 2020 All You Need to Know BEFORE ...
+snippet: Caen Hotels; Caen Bed and Breakfast; Caen Vacation Rentals; Caen Vacation Packages; Flights to Caen; Caen Restaurants; Things to Do in Caen; Caen Travel Forum; Caen Photos; Caen Map; Caen Travel Guide; All Caen Hotels; Caen Hotel Deals; Last Minute Hotels in Caen; By Hotel Type. Caen Campgrounds; Caen Hostels; Caen Business Hotels; Caen Family ...
+title: THE 10 CLOSEST Hotels to Delirium Cafe, Caen - Tripadvisor ...
+snippet: Hotels near Delirium Cafe, Caen on Tripadvisor: Find 7,177 traveler reviews, 6,334 candid photos, and prices for 30 hotels near Delirium Cafe in Caen, France.
+title: Délirium Café Caen - Posts | Facebook
+snippet: As a result, a vinous beer, taking the codes of style, bringing this vinegar touch that puts you the pep&#39;s needed to comfort you after a backbreaking start of the week. #caen #caenmaville #delirium #deliriumcafe #deliriumcafecaen #ipa #craftisnotacrime #craftbeernotcrapbeer #beerstagram #instabeer #biere #baracaen #collab #draft
+title: Delirium Café - Caen, Basse-Normandie - Untappd
+snippet: Find out what&#39;s popular at Delirium Café in Caen, Basse-Normandie in real-time and see activity
+title: Delirium Cafe Brussels - Delirium Village
+snippet: Delirium Café holds the Guinness World Records for the number of beers available for tasting : 2,004 record obtained in 2004. You can choose from the Trappists, famous Belgian Abbay, strong brown beers, fruits or lighter from Belgium and the world.
+title: Delirium Cafe (Caen) - 2020 All You Need to Know Before ...
+snippet: Caen Holiday Packages; Flights to Caen; Caen Restaurants; Caen Attractions; Caen Travel Forum; Caen Photos; Caen Map; Caen Guide; All Caen Hotels; Caen Hotel Deals; Last Minute Hotels in Caen; By Hotel Type. Caen Campgrounds; Caen Hostels; Business Hotels Caen; Family Hotels Caen; Caen Green Hotels; Spa Hotels in Caen; Luxury Hotels in Caen; By ...
+title: Home • Delirium Café USA
+snippet: Delirium Café is an upscale beer-focused café with Belgian roots. Our beverage list is comprised of over 300 international beer, wine, and spirits selections that have been curated to complement our unique food offerings. We source the majority of our food from local and wholesome purveyors, and craft our finished product from scratch.
+
+REL: 1
+POI Name: Le Longchamp
+POI City: Caen
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Le Longchamp - Accueil | Facebook
+snippet: Le Longchamp - 13 quai de juillet, 14000 Caen - Note de 5 sur la base de 7 avis «Deux patrons dont un très musclé bonne ambiance des gens sympa à...
+title: Le Longchamp, Bar classique à Caen avec Linternaute
+snippet: Retrouvez toutes les infos sur le restaurant Le Longchamp à Caen : Le Longchamp, c est un context... - Tél. 02 31 8...
+title: Le Longchamp Caen, Téléphone, Horaires, Adresse
+snippet: Le Longchamp, Caen, 13, Quai De Juillet, heures d&#39;ouverture, Restaurant, Bar, BUREAU DE TABAC, Débit de boissons, Bar tabac, Café, Brasserie, Salon de thé, Pub ...
+title: Le Longchamp Caen les horaires
+snippet: Voici les horaires de Le Longchamp situé à Caen, vous pouvez trouver les informations de contact, comme le téléphone mais aussi sa localisation à 13 Quai de Juillet, ainsi que les coordonnées GPS, lattitude : 49.177847 et longitude : -0.3548959. Tabac, Presse, voici l’activité de Le Longchamp.
+title: Le Longchamp Caen, tél, adresse, horaires, Café
+snippet: Le Longchamp à Caen, Café, horaires d&#39;ouverture, téléphone, avis, plan d&#39;accès. Toutes les infos et recommandations sur Le Longchamp 13 Quai Juillet
+title: Le Longchamp, 13 quai de juillet, Caen (2020)
+snippet: Informations de contact, plan et itinéraire, formulaire de contact, heures d&#39;ouverture, services, évaluations, photos, vidéos et annonces de Le Longchamp, Bureau de tabac, 13 quai de juillet, Caen.
+title: PMU Le Longchamp : PMU CAEN (14000) - France-bet.com
+snippet: COORDONEES DU LE LONGCHAMP. Le bar PMU Le Longchamp à Caen est actuellement ouvert. il est ouvert tous les jours sauf le Dimanche. Pour contacter le bar PMU Le Longchamp par téléphone, cliquez sur « Afficher le numéro » .
+title: Le Longchamp à Caen
+snippet: Horaires d&#39;ouverture de Le Longchamp, 13 Quai de Juillet, 14000 Caen (Loisirs / Tabac, Presse) Bar, tabac presse, snack...
+title: Longchamp - Caen à Caen - Le Figaro
+snippet: Horaires d&#39;ouverture de Longchamp - Caen, 28 rue Saint Jean, 14000 Caen (Vestimentaire / Chaussures / Maroquinerie)
+title: Longchamp, Marque de Luxe Française
+snippet: Découvrez notre collection : sacs à main, petite maroquinerie, bagages, souliers, prêt-à-porter. Retour gratuit sous 30 jours sur nos articles collection
+
+REL: 1
+POI Name: Le Charolais
+POI City: Caen
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Butcher, 
+Snippets:
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Le Charolais - Butcher - 35 Rue Froide, Caen, Calvados ...
+snippet: Le Charolais in Caen, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Caen and beyond.
+title: LE CHAROLAIS (CAEN) Chiffre d&#39;affaires, résultat, bilans ...
+snippet: LE CHAROLAIS à CAEN (14000) RCS, SIREN, SIRET, bilans, statuts, chiffre d&#39;affaires, dirigeants, cartographie, alertes, annonces légales, enquêtes, APE, NAF, TVA ...
+title: LE CHAROLAIS - Location de logements à Caen (14000 ...
+snippet: LE CHAROLAIS à Caen - L’annuaire Hoodspot - Adresse, numéro de téléphone, produits et services de LE CHAROLAIS. Contacter par courrier à l&#39;adresse postale : 172 rue general moulin, 14000 Caen. Nos cookies nous aident à améliorer votre expérience sur ce site.
+title: LE CHAROLAIS - Boucherie à Caen (14000) - Adresse et ...
+snippet: LE CHAROLAIS à Caen - L’annuaire Hoodspot - Adresse, numéro de téléphone, produits et services de LE CHAROLAIS. Contacter par courrier à l&#39;adresse postale : 35 rue froide, 14000 Caen. Nos cookies nous aident à améliorer votre expérience sur ce site.
+title: Le Charolais Caen Calvados : hôtel 1 étoiles, réservation ...
+snippet: 2 rue folie 14000 Caen. L&#39;Hôtel Crocus est situé à 500 mètres du Mémorial et de la Colline aux Oiseaux. Le meilleur accueil vous sera réservé. L&#39;hôtel met à votre disposition des chambres tout confort, équipées de salle de bain, télévision avec Canal Plus et Canal Satellite, Adsl wifi gratuit.
+title: Concours de Caen - Herd Book Charolais
+snippet: Une structure 100% charolais. Le Herd book Charolais est la seule association nationale en France dédiée entièrement au schéma de sélection de la race charolaise. Elle a pour objectif est de développer des services qui feront évoluer le métier d’éleveur, d’améliorer les performances des élevages.
+title: Le Charolais - 172 Rue General Moulin - Caen
+snippet: Le Charolais - résidence de tourisme, résidence hôtelière à Caen! 118218.fr l&#39;annuaire le plus complet pour trouver ce que vous cherchez dans votre région
+title: Le Charolais - Home - Paris, France - Menu, Prices ...
+snippet: Le Charolais - 15 rue cotte, 75012 Paris, France - Rated 4.7 based on 46 Reviews &quot;Lovely bistro at the side of the market. Friendly service and good...
+title: Les Charolais invitent les Salers à faire la Foire de Caen
+snippet: Les Charolais invitent les Salers à faire la Foire de Caen Samedi 16 et dimanche 17 septembre, les races Charolaise et Salers investissent le ring du parc des expositions de Caen. Les bovins concourront sous l’œil attentif du jury et ceux plus novices du grand public. Rendez-vous à la Foire internationale de Caen.
+
+REL: 1
+POI Name: La Cantine du Troquet
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: French, 
+Snippets:
+title: La Cantine Du Troquet, Paris - Montparnasse - Restaurant ...
+snippet: La Cantine Du Troquet, Paris: See 957 unbiased reviews of La Cantine Du Troquet, rated 4.5 of 5 on Tripadvisor and ranked #1,035 of 17,688 restaurants in Paris.
+title: La Cantine Du Troquet, Paris - Restaurantanmeldelser ...
+snippet: La Cantine Du Troquet, Paris: Se 957 objektive anmeldelser av La Cantine Du Troquet, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 039 av 17 676 restauranter i Paris.
+title: La Cantine du Troquet - Dupleix v2
+snippet: En plein cœur du 15ème arrondissement, la Cantine du Troquet se décline en brasserie où l’on peut passer boire un verre au comptoir ou s’attabler en bonne compagnie. Ici, c’est Christian Etchebest et Franck qui proposent un menu sous le signe de la simplicité et de la qualité.
+title: La Cantine du Troquet Cherche Midi, Paris - Notre-Dame-des ...
+snippet: La Cantine du Troquet Cherche Midi, Paris: See 136 unbiased reviews of La Cantine du Troquet Cherche Midi, rated 4.5 of 5 on Tripadvisor and ranked #2,186 of 17,682 restaurants in Paris.
+title: La Cantine Du Troquet, Paris - Montparnasse - Restaurant ...
+snippet: La Cantine Du Troquet, Paris : consultez 957 avis sur La Cantine Du Troquet, noté 4,5 sur 5 sur Tripadvisor et classé #1 035 sur 17 688 restaurants à Paris.
+title: La Cantine du Troquet Cherche Midi, Paris ...
+snippet: La Cantine du Troquet Cherche Midi, Paris: Se 136 objektive anmeldelser av La Cantine du Troquet Cherche Midi, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 2 193 av 17 676 restauranter i Paris.
+title: La Cantine Du Troquet - Home - Paris, France - Menu ...
+snippet: La Cantine Du Troquet - - Rated 4.7 based on 297 Reviews &quot;The food was great but the service on Saturday may 13th was beyond terrible. We came to drink...
+title: La Cantine du Troquet, Paris - Ternes - Menu, Prix ...
+snippet: La cantine du troquet n’existe plus. Un changement de propriétaire discret et qui répond au téléphone comme si tout continuait. Un grand resto vide qui n’a qu’un blanc de poulet affiché.
+title: La Cantine Du Troquet, Paris - Montparnasse - Restaurant ...
+snippet: La Cantine Du Troquet, Paris: 948 Bewertungen - bei TripAdvisor auf Platz 943 von 17.619 von 17.619 Paris Restaurants; mit 4,5/5 von Reisenden bewertet.
+title: La Cantine du Troquet - Paris tourist office
+snippet: La Cantine du Troquet - This friendly canteen (you can choose your meal from a large selection) offers varied and tasty food. Basque specialities are...
+
+REL: 1
+POI Name: Le Cargö
+POI City: Caen
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+title: Le Cargö, scène de musiques actuelles, à Caen, Calvados ...
+snippet: Le Cargö, scène de musiques actuelles à Caen : concerts, pro­gram­ma­tion, rési­dences, pho­tos, vidéos et plus encore !
+title: Programmation - Le Cargö, scène de musiques actuelles, à ...
+snippet: Le Cargö, scène de musiques actuelles à Caen : concerts, pro­gram­ma­tion, rési­dences, pho­tos, vidéos et plus encore !
+title: Le Cargö - Home | Facebook
+snippet: Le Cargö, Caen. 26K likes. Compte officiel du Cargö, scène de musiques actuelles à Caen.
+title: Le Cargö - Home | Facebook
+snippet: Le Cargö, Caen. 26K likes. Compte officiel du Cargö, scène de musiques actuelles à Caen. Jump to. Sections of this page. Accessibility Help. Press alt + / to open this menu. Business Manager. Home. About. Events. Photos. Videos. Billetterie en ligne. Posts. Community. See more of Le Cargö on Facebook.
+title: Le Cargö — Wikipédia
+snippet: Le Cargö est une salle de spectacle de musiques actuelles située à Caen inaugurée le 1 er février 2007.. La salle. Le Cargö se compose de deux salles de spectacle, le Club qui peut accueillir 420 personnes et dont la scène fait 60 m² et la Grande salle avec une capacité d&#39;accueil de 938 spectateurs et une scène de 160 m².
+title: LILLY WOOD AND THE PRICK &quot;Le Mas&quot; &quot;au Cargö à Caen - YouTube
+snippet: LILLY WOOD AND THE PRICK &quot;Le Mas&quot;au Cargö à Caen le 23-02-2013.
+title: Les Ogres de Barback - Le Cargö, scène de musiques ...
+snippet: Les Ogres de Bar­back le disent eux-mêmes, ils ont l’impression d’être mon­tés dans un camion en 1994 et de n’en être plus des­cen­dus depuis… Ils en sont pour­tant des­cen­dus der­niè­re­ment quelques mois. Pour enre­gis­trer un nou­vel album, leur pre­mier disque stu­dio depuis 2014. Mais quelques mois seule­ment.
+title: Billetterie - Le Cargö, scène de musiques actuelles, à ...
+snippet: Le Cargö – Point accueil et billet­te­rie du Cargö sans frais de loca­tion et abon­ne­ment ! 9, cours Caf­fa­rel­li – 14000 Caen. Billetterie – Guichet web. Retrou­vez la billet­te­rie de chaque concert direc­te­ment sur la page de chaque évè­ne­ment sur ce site, ...
+title: Renan Luce - Voyager @ Le Cargö Caen 2014 - YouTube
+snippet: Whitney Houston ft. Mariah Carey - When You Believe (From The Prince Of Egypt) [Official Video] - Duration: 4:58. Whitney Houston 240,263,928 views
+title: Hits @ Le Cargö (Caen) Euro Double-Vision Tour 2012 - YouTube
+snippet: 50+ videos Play all Mix - Hits @ Le Cargö (Caen) Euro Double-Vision Tour 2012 YouTube HITS - Shadowplay (Cover of JOY DIVISION) - Live at BINIC FOLKS BLUES FESTIVAL - Duration: 5:45. LaClecK ...
+
+REL: 1
+POI Name: French Café
+POI City: Caen
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+title: Le French café - Home | Facebook
+snippet: Le French café, Caen. 3.4K likes. Bar karaoké dès 20h00 venez prendre un verre en attendant de vous éclater au micro pour chanter vos tubes préférés des 22h30.
+title: Le French café - Accueil | Facebook
+snippet: Le French café, Caen. 3,4 K J’aime. Bar karaoké dès 20h00 venez prendre un verre en attendant de vous éclater au micro pour chanter vos tubes préférés des 22h30.
+title: Le French Café (Caen, Frankrike) - Anmeldelser - Tripadvisor
+snippet: Le French Café, Caen: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Le French Café i Caen, Frankrike på Tripadvisor.
+title: THE 10 BEST Restaurants in Caen - Updated April 2020 ...
+snippet: Best Dining in Caen, Calvados: See 48,457 Tripadvisor traveler reviews of 473 Caen restaurants and search by cuisine, price, location, and more.
+title: De 10 beste hotellene i nærheten av Le French Café
+snippet: Hoteller i nærheten av Le French Café, Caen: Se anmeldelser fra reisende, bilder og gode tilbud på hotell i nærheten av Le French Café på Tripadvisor.
+title: Le French Café (Caen) : 2020 Ce qu&#39;il faut savoir pour ...
+snippet: France Ce site utilise des cookies pour améliorer votre expérience, renforcer la sécurité du site et vous proposer des publicités personnalisées. Cliquez ici pour en savoir plus ou gérer vos paramètres .
+title: LE FRENCH CAFÉ - Bar à Caen
+snippet: Petit paradis pour chanter, danser, boire un verre et s&#39;amuser comme des petits fous à moindre coût: Le number one du Karaoké! 7 jours sur 7, de 20h à 3h du mat&#39;, c&#39;est karaoké et ambiance de folie pour faire la fiesta en before boîte de nuit au French Café: The place to be in Caen City!
+title: THE 10 BEST Restaurants Near Le French Cafe in Caen ...
+snippet: Restaurants near Le French Cafe, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near Le French Cafe in Caen, France.
+title: French Café CAEN (14000), Bar karaoké - 0231500703 ...
+snippet: French Café - 32 bis quai Vendeuvre, 14000 Caen - Bar karaoké - Café, bar - Restaurants - Bars - 0231500703 - adresse - numéro de téléphone - horaires - avis - plan - téléphone - avec le 118 712 annuaire sur internet, mobile et tablette.
+title: Le French Cafe (Caen) - 2020 All You Need to Know Before ...
+snippet: Caen, France 4 contributions 2 helpful votes Great laughs We visited durning the week ( Tuesday) and was surprised to see the place full! french like a good party.
+
+REL: 1
+POI Name: Le Verre à Soi
+POI City: Caen
+POI Country: FR
+POI Main category: Nightlife
+POI Sub category: Wine Bars, 
+Snippets:
+title: Le Verre à Soi, Caen - Restaurant Avis, Numéro de ...
+snippet: Le Verre à Soi, Caen : consultez 59 avis sur Le Verre à Soi, noté 4 sur 5 sur Tripadvisor et classé #221 sur 444 restaurants à Caen.
+title: LE VERRE À SOI - Bar à vin - Caen (14000)
+snippet: LE VERRE À SOI - Caen 14000 - 23, quai Eugène Meslin Bar à vin : Une adresse que l&#39;on chérit particulièrement parce qu&#39;elle conjugue plein de petits bonheurs....
+title: Le Verre a Soi, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Verre a Soi, Caen: See 59 unbiased reviews of Le Verre a Soi, rated 4 of 5 on Tripadvisor and ranked #219 of 442 restaurants in Caen.
+title: Le verre à Soi Caen - Home | Facebook
+snippet: Le verre à Soi Caen. 14 likes. Restaurant le midi et bar à vin le soir avec planches de charcuterie et divers grignotages
+title: Xavier Verre à Soi - Pub - Caen, France | Facebook - 7 ...
+snippet: Xavier Verre à Soi - 23 Quai Eugène Meslin, 14000 Caen, France - Rated 5 based on 7 Reviews &quot;Une soirée apéro avec mon amie très réussit grâce à cet...
+title: LE VERRE A SOI, Caen - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Le Verre a Soi, Caen: See 59 unbiased reviews of Le Verre a Soi, rated 4 of 5 on Tripadvisor and ranked #221 of 444 restaurants in Caen.
+title: Le Verre à soi restaurant, Caen, 23 Quai Eugène Meslin ...
+snippet: Le Verre à soi, #183 among Caen restaurants: 173 reviews by visitors and 4 detailed photos. This restaurant has earned 4.1 on Google and 5 on Facebook. Find on the map and call to book a table.
+title: THE 10 BEST Restaurants Near Le Verre a Soi in Caen ...
+snippet: Restaurants near Le Verre a Soi, Caen on Tripadvisor: Find traveler reviews and candid photos of dining near Le Verre a Soi in Caen, France.
+title: LE VERRE A SOI SARL (CAEN) Chiffre d&#39;affaires, résultat ...
+snippet: LE VERRE A SOI SARL, société à responsabilité limitée est active depuis 8 ans. Installée à CAEN (14000), elle est spécialisée dans le secteur d&#39;activité de la restauration traditionnelle. Son effectif est compris entre 1 et 2 salariés.
+title: Nice food and nice service! - Review of Le Verre a Soi ...
+snippet: Le Verre a Soi: Nice food and nice service! - See 59 traveler reviews, 5 candid photos, and great deals for Caen, France, at Tripadvisor.
+
+REL: 0
+POI Name: Mina Mahal
+POI City: Paris
+POI Country: FR
+POI Main category: Restaurants and Food
+POI Sub category: Indian, Pakistani, 
+Snippets:
+title: Mina Mahal / Restaurant Indien / Paris
+snippet: Mina Mahal. Restaurant Indien - Paris. Non loin de l’Unesco, derrière une façade entièrement occultée par des panneaux de bois sculpté qu’il faut savoir franchir, un sourire avenant et des paroles de bienvenue mettent tout de suite à l’aise.
+title: Mina Mahal, Paris - Necker - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Mina Mahal, Paris on Tripadvisor: See 70 unbiased reviews of Mina Mahal, rated 4 of 5 on Tripadvisor and ranked #6,385 of 17,688 restaurants in Paris.
+title: THE 10 BEST Restaurants Near Mina Mahal in Paris, Ile-de ...
+snippet: Restaurants near Mina Mahal, Paris on Tripadvisor: Find traveler reviews and candid photos of dining near Mina Mahal in Paris, France.
+title: Mina Mahal, Paris - Necker - Menu, Prices &amp; Restaurant ...
+snippet: Mina Mahal, Paris: See 70 unbiased reviews of Mina Mahal, rated 4 of 5 on Tripadvisor and ranked #6,385 of 17,688 restaurants in Paris.
+title: Outside - Picture of Mina Mahal, Paris - Tripadvisor
+snippet: Mina Mahal, Paris Picture: Outside - Check out Tripadvisor members&#39; 51,365 candid photos and videos of Mina Mahal
+title: Mina Mahal - Picture of Mina Mahal, Paris - Tripadvisor
+snippet: Mina Mahal, Paris Picture: Mina Mahal - Check out Tripadvisor members&#39; 52,039 candid photos and videos of Mina Mahal
+title: Curry - Review of Mina Mahal, Paris, France - Tripadvisor
+snippet: Mina Mahal: Curry - See 70 traveler reviews, 23 candid photos, and great deals for Paris, France, at Tripadvisor.
+title: MINA MAHAL, Paris - Necker - Updated 2020 Restaurant ...
+snippet: Reserve a table at Mina Mahal, Paris on Tripadvisor: See 70 unbiased reviews of Mina Mahal, rated 4 of 5 on Tripadvisor and ranked #6,385 of 17,688 restaurants in Paris.
+title: Mina Mahal, Paris - Restaurantanmeldelser - Tripadvisor
+snippet: Mina Mahal, Paris: Se 70 objektive anmeldelser af Mina Mahal, som har fået 4 af 5 på Tripadvisor og er placeret som nr. 6.387 af 17.679 restauranter i Paris.
+title: Mina Mahal - Vaugirard/Grenelle - Paris, France - Yelp
+snippet: 12 reviews of Mina Mahal &quot;Best food, friendly staff, and amazing desi feel in the restaurant. Around 11 PM, about 1 mile walk from eiffel tower and had the best experience ever. Very tasty food and great mango juice. Totally recommend meeting…
+
+REL: 0
+POI Name: Oxygène B
+POI City: Caen
+POI Country: FR
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+title: Cafétéria OXYGENE B - Normandie
+snippet: Informations pratiques. Horaires Du lundi au jeudi de 7h30 à 20h15 Le vendredi de 7h30 à 14h30. Moyen d&#39;accès Tram T1 et T2 Arrêt &#39;Crous Suaps&#39; et arrêt &#39;Université&#39; . Pratique Accessible aux personnes à mobilité réduite WIFI disponible 100 places assises. Paiements possibles Carte bancaire IZLY
+title: Ou é Zoé live Oxygène B Caen - YouTube
+snippet: Ou é Zoé live in der Cafeteria Oxygène B, Campus 1, Université de Caen, Basse-Normandie Ou é Zoé live at the cafeteria Oxygène B, Campus 1, Université de Caen, Lower Normandy Ou é Zoé en ...
+title: Oxygène B - Caen, France - Brewery | Facebook
+snippet: Oxygène B, Caen, France. 7 likes · 41 were here. Brewery. Plus qu&#39;un bar, c&#39;est un état d&#39;esprit, un esprit d&#39;entraide où le bonheur réside en de choses simples et pas chères
+title: OPEL CAEN – OXYGENE AUTOMOBILES Bieville-beuville ...
+snippet: OPEL CAEN – OXYGENE AUTOMOBILES, vendeur professionnel de véhicules d’occasion, vous accueille pour vous présenter ses voitures d&#39;occasions en vente à BIEVILLE-BEUVILLE, Calvados (14).
+title: oxygene B + Caen : présentation des artistes en concert ...
+snippet: oxygene B + Caen . Campus 1 14000 Caen . Plus d&#39;info : Ajouter à mes alertes Ajouter à mes favoris. Les derniers concerts. Me. 17. Mars. 2010. Concert des ateliers de Caen Jazz Action Focus Jazz oxygene B + Caen (14) Me. 18. Mars. 2009. Concert des Ateliers de Caen Focus Jazz ...
+title: jerry lee at the Oxygene B, Université de caen - YouTube
+snippet: jerry lee at the Oxygene B, Université de caen. jerry lee at the Oxygene B, Université de caen. Skip navigation Sign in. Search. Loading... Close. This video is unavailable.
+title: Oxygène b à Caen 14000 - Téléphone, horaires et avis
+snippet: Toutes les informations sur Oxygène B à Caen 14000: Horaires, téléphone, tarifs et avis des internautes. l&#39;établissement oxygène b est classé comme bars musicaux dans la rubrique discotheques-bars. il est situé campus 1, 14000 caen dans la ville de caen (code postal 14000) dans le département calvados ...
+title: Oxygène médical à Caen, spécialistes de l&#39;oxygénothérapie
+snippet: Oxygène médical à Caen (14) : trouver les numéros de téléphone et adresses des professionnels de votre département ou de votre ville dans l&#39;annuaire PagesJaunes
+title: Oxygène B (Caen, 14000, Calvados) - normandie-web.com
+snippet: Oxygène B (Caen, 14000, Calvados) Esplanade Paix, 14000, Caen Pas de dates inscrites dans l&#39;agenda pour les jours à venir
+title: Primeurs à Caen achat et livraison à domicile - Ollca
+snippet: Si vous tombez souvent mal au rayon des produits frais, choisissez plus facilement les fruits et légumes les plus savoureux et nutritifs sur Ollca, créez votre panier et sélectionnez la livraison à domicile au plus vite chez vous ou ailleurs sur Caen.
+
+Cand cities: {'Caen', 'Paris'}

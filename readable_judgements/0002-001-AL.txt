@@ -1,0 +1,1277 @@
+City: Newark
+Country: US
+Main category: Active Life
+Sub category: Mini Golf
+Description: Anybody have a mini golf recommendation for Newark/Wilmington? I see Vince's, Delcastle, and Riverwalk on Google but wasn't sure which to check out. Just looking for a family friendly place to take my in-laws in a few weeks when they come visit. Thanks!
+Rated POIs: 48
+Rel distr: [(0, 15), (1, 18), (2, 13), (3, 2)]
+=================================
+REL: 3
+POI Name: Boulder Falls Miniature Golf
+POI City: Downingtown
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Amusement Parks, Mini Golf, 
+Snippets:
+
+
+REL: 3
+POI Name: River Falls Family Fun Center
+POI City: Milwaukee
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Amusement Parks, Mini Golf, Baseball Fields, 
+Snippets:
+title: Welcome to Riverfalls | Riverfalls Family Fun Center
+snippet: Riverfalls Family Recreation Center . Riverfalls Falls Recreation is a Family Recreation facility is located in Greenfield Wisconsin. Our award-winning facility features miniature golf, batting cages, and an arcade.. Our mission is to always provide you and your guests with quality wholesome family entertainment!
+title: River Falls Family Fun Center - Milwaukee, WI - Yelp
+snippet: 16 reviews of River Falls Family Fun Center &quot;There aren&#39;t many mini golf courses left in Milwaukee anymore. I think this is one of the better ones that remains. They do a decent job with the up-keep. $8 gets you a round of mini-golf. River Falls…
+title: Birthday Parties | river-falls
+snippet: Birthday Party Packages. 8 or more paid golfers required! Private Party Room Rental Room Capacity (25) You can bring your own food! 3 Hour Party Special Rental - $60 – Best Value Only Available at time of booking!
+title: Riverfalls Family Fun Center 5401 W Layton Ave, Milwaukee ...
+snippet: Get reviews, hours, directions, coupons and more for Riverfalls Family Fun Center at 5401 W Layton Ave, Milwaukee, WI 53220. Search for other Tourist Information &amp; Attractions in Milwaukee on The Real Yellow Pages®.
+title: River Falls Family Fun Center 5401 W Layton Ave Milwaukee ...
+snippet: &lt;p&gt;River Falls Family Fun Center is home to outdoor activities, including mini golf, batting cages and pedal karts. Open seasonally from April to October, the facility has a party hall that can be rented for private events throughout the year.
+title: Miniature Golf | river-falls
+snippet: Miniature Golf Course River Falls Family Fun Center Greenfield WI. River Falls Family Fun Center. Miniature Golf Course River Falls Family Fun Center Greenfield WI. Show More. Riverfalls Family Fun Center 5401 W Layton Ave Greenfield, WI 53220
+title: Riverfalls Family Fun Center | Kids Out and About Milwaukee
+snippet: Riverfalls Falls Recreation is a family recreation facility located in Greenfield Wisconsin. Our award-winning facility features miniature golf, batting cages, and an arcade. Our mission is to always provide you and your guests with quality wholesome family entertainment!
+title: River Falls Family Fun Center - Milwaukee, WI - Put Put in ...
+snippet: River Falls Family Fun Center is a privately held company in Milwaukee, WI and is a Single Location business. Categorized under Miniature Golf Courses. Our records show it was established in 1982 and incorporated in Wisconsin. Current estimates show this company has an annual revenue of 251774 and ...
+title: Batting Cages - Riverfalls Family Fun Center
+snippet: River Falls Family Fun Center Greenfield WI. Baseball Batting Cages. River Falls Family Fun Center Greenfield WI. Show More. Riverfalls Family Fun Center 5401 W Layton Ave Greenfield, WI 53220
+title: Arcade | river-falls
+snippet: River Falls Family Fun Arcade Greenfield WI. River Falls Arcade. River Falls Family Fun Arcade. Family Fun Greenfield WI. River Falls Family Fun Arcade. Games and Prizes Arcade. River Falls Family Fun Arcade Greenfield WI. Show More. Riverfalls Family Fun Center 5401 W Layton Ave Greenfield, WI 53220
+
+REL: 2
+POI Name: Ambra Karate Academy
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Karate, 
+Snippets:
+title: Ambra Karate Academy
+snippet: Quality instruction, family atmosphere, and affordable rates are our commitment to you! We are proud to say that most of our customers who have researched and visited other schools, have made the choice to join our family of friends.
+title: Ambra Karate Academy - Newark, DE - Yelp
+snippet: 1 review of Ambra Karate Academy &quot;Honestly this place is my home away from home for my brother and i we have been going to ambra karate for 15 years and would not change a thing in the world. Mr Ambra has a great way of teaching students from 3…
+title: Ambra Karate Academy of Mixed Martial Arts - Newark, DE
+snippet: Ambra Karate Academy of Mixed Martial Arts offers Brazilian Jiu-jitsu, Jiu-Jitsu (Jujutsu/Jujitsu), Judo, Karate &amp; Kick Boxing classes in Newark, DE. View location, contact information, class schedule and more...
+title: Ambra Karate Academy in Newark | Ambra Karate Academy 1325 ...
+snippet: Find Ambra Karate Academy in Newark with Address, Phone number from Yahoo US Local. Includes Ambra Karate Academy Reviews, maps &amp; directions to Ambra Karate Academy in Newark and more from Yahoo US Local
+title: Ambra Karate Academy - Newark , DE - Business Information
+snippet: Explore the Ambra Karate Academy business page in Newark , DE . Find more businesses with the D&amp;B Business Directory at DandB.com.
+title: Mixed Martial-Arts Classes - Ambra Karate Academy | Groupon
+snippet: Newark Martial-Arts Classes at Ambra Karate Academy (Up to 85% Off). Four Options Available. Up to 85% Off. 4 ratings. Select Option. One month of unlimited karate classes with uniform. 10+ bought $140 Not yet available. Two months of unlimited karate classes ...
+title: Ambra Karate Academy - From $39 - Newark, DE | Groupon
+snippet: Four levels of classes—Pee-Wee, Junior, Teen, and Adult—teach students how to karate chop their way through life. Instructors teach self-defense techniques and work to transform bodies into better shape. Individuals can earn eight belt colors while learning humility, self-control, and integrity. Ambra Karate Academy
+title: Contact Ambra Karate Academy of Mixed Martial Arts in ...
+snippet: Contact Ambra Karate Academy of Mixed Martial Arts in Newark, DE Please use the following Form to contact Ambra Karate Academy of Mixed Martial Arts with your questions. Your message will be forwarded to contact Email address on record for Ambra Karate Academy of Mixed Martial Arts.
+title: Reviews of Ambra Karate Academy of Mixed Martial Arts in ...
+snippet: This page shows Reviews &amp; Testimonials of Ambra Karate Academy of Mixed Martial Arts in Newark, DE. 1 Reviewer rated Ambra Karate Academy of Mixed Martial Arts as Excellent. Read detailed reviews below. If you are familiar with this school, please share your experience and help your local Martial Arts community. Submit your Review
+title: Write a Review of Ambra Karate Academy of Mixed Martial ...
+snippet: Rate and Review Ambra Karate Academy of Mixed Martial Arts in Newark, Delaware. Share your experience with your local Martial Arts Community of Newark. Your contribution will help others making an informed choice.
+
+REL: 2
+POI Name: Liberty Yoga
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, 
+Snippets:
+title: Liberty Yoga
+snippet: Liberty Yoga Yoga Studio in Newark, DE
+title: Schedule Page | Liberty Yoga
+snippet: » Schedule Page | Liberty Yoga Yoga Studio in Newark, DE. Liberty Yoga Yoga Studio in Newark, DE
+title: Liberty Yoga - Home | Facebook
+snippet: Liberty Yoga - 700 Capitol Trl, Newark, Delaware 19711 - Rated 4.9 based on 24 Reviews &quot;I go to morning yoga Monday-Thursday and love it! Couldn&#39;t...
+title: Teacher Training | Liberty Yoga
+snippet: » Teacher Training | Liberty Yoga Yoga Studio in Newark, DE. Graduation Requirements. Physical Practicum Test – This test involves demonstrating teaching Written Practicum – Quizzes throughout the course. Final Exam if low quiz score
+title: Liberty Yoga - Posts | Facebook
+snippet: Liberty Yoga - 700 Capitol Trl, Newark, Delaware 19711 - Rated 4.9 based on 24 Reviews &quot;Love Love Love Erin, Christine, Gwen and all the great folks at...
+title: Liberty Yoga, 700 Capitol Trl, Newark, DE (2020)
+snippet: Liberty Yoga is a Newark-based Yoga studio that specializes in Vinyasa Flow Yoga and Therapeutic Yoga. Owners Christine and Erin have over a thousand hours of teaching experience each and are committed to helping you feel good by getting you stronger, more flexible, and clear-minded.
+title: Liberty Yoga - Yoga Studio in Newark
+snippet: Liberty Yoga is a Studio in Newark. For complete schedule information, upcoming events and the latest updates, follow Liberty Yoga on YogaTrail!
+title: ‎Liberty Yoga on the App Store
+snippet: ‎Join our welcoming community at Liberty Yoga in Newark, DE where we meet you where you are. We will guide you to peace, love, and health. Download the Liberty Yoga App to schedule classes and unlock special discounts. This App will make signing up and making payments from your device safe and easy…
+title: YES | Liberty Yoga
+snippet: Christine’s Story and How YES came to be: I am Christine Shaw and I am the founder of YES-Yoga for Emotional Support. I am an 500 hour RYT Yoga teacher and studio co-owner and the parent of a child with mental health disease and substance use disorder and recently divorced.
+title: Sign Up | Liberty Yoga
+snippet: For GPS: 700 Capitol Trail Newark, DE 19711 Made it to Liberty Plaza but lost?- Go straight ahead into the parking lot. We are on the second floor. The door is to the far left of the main brick building and we now have a big sign to mark the way! Frequently Asked? We have yoga mats to borrow and buy. Wear form fitting, flexible clothing.
+
+REL: 2
+POI Name: Golf Galaxy
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Sports Wear, Golf Equipment, Golf Lessons, 
+Snippets:
+title: Golf Galaxy - Clubs, Apparel and Equipment in Newark, DE ...
+snippet: About the Newark Store. Get ready to raise your game and lower your scores with top gear and expert services from Golf Galaxy in Christiana. Shop the Newark area&#39;s best selection of golf clubs, apparel, footwear, tech and accessories.Test the latest clubs in one of our hitting bays, or try out new putters on our huge indoor putting green. Schedule a custom club fitting with our Certified ...
+title: Golf Galaxy - Official Website
+snippet: Visit Golf Galaxy to shop a wide selection of golf clubs, apparel &amp; equipment from the top brands! Improve your game with services from our expert golf pros
+title: Golf Galaxy - Clubs, Apparel, and Equipment in Delaware
+snippet: Visit a Golf Galaxy store in Delaware. Find store hours, phone number, address &amp; in-store services a the Golf Galaxy in Delaware.
+title: Golf Galaxy Newark - Golf Equipment
+snippet: At Golf Galaxy, they understand you search for ways to gain more distance, hit more fairways and make more one-putts. You want more advice from experts on the latest golf equipment. You look for more tips to help improve your game. They get that. Once you equip your game like a pro, get dressed like… Read More
+title: Golf Galaxy in Newark | Golf Galaxy 1295 Churchmans Rd ...
+snippet: Find Golf Galaxy in Newark with Address, Phone number from Yahoo US Local. Includes Golf Galaxy Reviews, maps &amp; directions to Golf Galaxy in Newark and more from Yahoo US Local
+title: Golf Galaxy 1295 Churchmans Rd New Newark, DE Factory ...
+snippet: Get directions, reviews and information for Golf Galaxy in Newark, DE. Golf Galaxy 1295 Churchmans Rd New Newark DE 19713. 6 Reviews (302) 338-9005 Website. Menu &amp; Reservations ... Had a great experience at Golf Galaxy today. I got a gift card for Christmas and went into the store at Christiana.
+title: Golf Galaxy (Golf Store #1377)
+snippet: Golf Galaxy (Golf Store #1377) Opened in 2005, Golf Galaxy is a golf store located in Newark, Delaware with approx. 14,000 square feet of retail space dedicated to golf clubs, golf clothing or other golf equipment essential for avid Delaware golfers.
+title: Golf Technology - Golf GPS, Simulators &amp; Watches | Golf Galaxy
+snippet: Shop the latest golf technology &amp; golf electronics at Golf Galaxy. Use a GPS watch or golf simulator to enhance your game &amp; knowledge of the course. Read user reviews and find the right golf technology to fit your playing style.
+title: Store Closing: Golf Galaxy in Christiana, Delaware, 19713
+snippet: Information about possible store closing and store hours for: Golf Galaxy in Christiana, Delaware, 19713
+title: Golf Accessories Deals | Golf Galaxy
+snippet: Shop Golf Accessories Deals at Golf Galaxy. If you find a lower price on Golf Accessories Deals somewhere else, we&#39;ll match it with our Best Price Guarantee.
+
+REL: 2
+POI Name: Anytime Fitness
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Anytime Fitness - Gym in Newark, DE 19711
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 4,000 gyms, and always open 24/7 convenience.
+title: Anytime Fitness - Gym in Newark, CA 94560
+snippet: Welcome to your neighborhood 24 hour gym in Newark! Whether you&#39;re a beginner or a fitness regular, we&#39;ll help you get to a healthier place.
+title: Anytime Fitness - Gym in Newark, DE 19711
+snippet: Hi! We&#39;re Anytime Fitness - Louviers! Members have 24/7 access to our clean, quiet club (plus every AF in the world after 30 days!). Our trainers and manager are CPR/First Aid/AED certified in addition to holding NASM/ACSM/CSCS certifications, so you&#39;re always in capable hands.
+title: Anytime Fitness - Newark, DE - Yelp
+snippet: 7 reviews of Anytime Fitness &quot;Before joining Anytime Fitness on South Main St. in Newark, I&#39;ve constantly had, more or less, a love-hate relationship with gym membership over the years. After jumping through hoops to get you to sign up for a one,…
+title: Anytime Fitness Newark on Trent - Home | Facebook
+snippet: Anytime Fitness Newark on Trent - Castle Gate, NG241BE Newark, Nottingham, United Kingdom - Rated 4.8 based on 66 Reviews &quot;Great place, just the music...
+title: Anytime Fitness Newark - South Main - Home | Facebook
+snippet: Anytime Fitness Newark - South Main - 247 S Main St, Newark, Delaware 19711 - Rated 4.8 based on 23 Reviews &quot;I love this gym! Chaz is an excellent...
+title: Anytime Fitness Newark - Home | Facebook
+snippet: Anytime Fitness Newark, Newark. 605 likes · 9 talking about this · 2,928 were here. Anytime Fitness is the neighborhood club that fits your on-the-go lifestyle. We would love to meet you, so please...
+title: Anytime Fitness 4 Seasons - Home | Facebook
+snippet: Anytime Fitness 4 Seasons - 660 Plaza Dr, Newark, Delaware 19702 - Rated 4.9 based on 58 Reviews &quot;A great gym, and handy location to home. The 24-hour...
+title: Anytime Fitness at Louviers Plaza - Home | Facebook
+snippet: Anytime Fitness at Louviers Plaza - 201 Louviers Dr, Newark, Delaware 19711 - Rated 4.5 based on 33 Reviews &quot;Great place nice love it so far nice stuff&quot;
+title: Anytime Fitness - Training | Let&#39;s Make Healthy Happen
+snippet: Anytime Fitness – Let&#39;s make healthy happen together with helpful, friendly coaches, thousands of welcoming locations worldwide. Gym are open 24 hours as healthy happens around the clock.
+
+REL: 2
+POI Name: Vince's Sport Center
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Batting Cages, Arcades, 
+Snippets:
+title: Vince&#39;s Sports Center of Newark Delaware arcade &amp; mini golf
+snippet: Vince’s Sports Center of Newark, DE Vince&#39;s is an 18-acre, family-owned Sports Center established in 1981. Vince&#39;s features a 9-Hole, Par-3 Golf Course, Indoor Baseball and Softball Batting Cages, two Miniature Golf Courses, and a huge Video and Ticket Arcade.
+title: Vince&#39;s Sports Center (Newark) - 2020 All You Need to Know ...
+snippet: If you want mini golf, do not go here after a rain. The ground is usually wet for 2 t 3 days due to the overgrown trees covering the artificial turf.
+title: Vince&#39;s Sport Center - Home | Facebook
+snippet: Vince&#39;s Sport Center, Newark, Delaware. 2,853 likes · 50 talking about this · 12,060 were here. Family fun since 1981.
+title: Vince’s Sport Center - Newark, DE - Yelp
+snippet: 18 reviews of Vince&#39;s Sport Center &quot;Great little location.! Has a little something for everyone. The mini golf is challenging and fun, but could use being taken care of a little better like the course in Middletown. Inside, there were lots of…
+title: Snack Bar food in Newark Delaware at Vince&#39;s Sports Center
+snippet: Pizza, fountain drinks &amp; hot dogs at snack bar in Newark, DE. Vince&#39;s Sports Center sausage, pretzels, popcorn &amp; soda. Ice cream.
+title: Par 3 golf course in Newark DE at Vince&#39;s Sports Center
+snippet: 9 Hole Golf Course in Newark, Delaware. Our Par 3 golf opens every day at 10 am and closes at dusk. We are currently taking payments online for our Par 3 Golf Course. Our course will be open Friday – Tuesday from 10am to 6pm with our normal rates. You can purchase tickets for our course below and they will be good 24 hours from your purchase ...
+title: Vinces Sports Center in Newark | Delaware - on ...
+snippet: Vince&#39;s Sports Center is where you want to head if you are an active family who just LOVE sports, and having a great time!. This Delaware Sports Center is an 18-acre, family-owned experience that was established all the way back in 1981, dedicated to giving you a fantastic family day out together, so just imagine how much has been had over those years!
+title: Indoor Batting Cages - Vince&#39;s Sports Center of Newark ...
+snippet: Vince’s Sports Center offers a huge indoor hitting facility comprised of various “age-appropriate” batting cages. Eight cages (both baseball and softball) serve up slow, medium or fast pitching (see chart below). IMPORTANT: Children under the age of 10 (ten) MUST be accompanied by an adult.
+title: Arcade Games &amp; Play Park in Newark DE - Vince&#39;s Sports
+snippet: Arcade games, video games and prizes at Vince&#39;s Sports Center in Newark, DE. Entertainment center. Our Play Park features tubes, slides and two ball pits in which children can play.
+title: Photos for Vince&#39;s Sport Center - Yelp
+snippet: Photos at Vince&#39;s Sport Center - Newark, DE.
+
+REL: 2
+POI Name: Putters Paradise
+POI City: Middletown
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Ice Cream & Frozen Yogurt, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 2
+POI Name: Orangetheory Fitness Newark
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, Boot Camps, 
+Snippets:
+title: Newark Gym Near You | Orangetheory Fitness
+snippet: Our Orangetheory Fitness is the leading fitness gym in Newark, DE. Don’t expect routine gym workouts. Led by a personal trainer, this fitness class is designed to give you results. Call our club today!
+title: Orangetheory Fitness Newark - Home | Facebook
+snippet: Orangetheory Fitness Newark, Newark. 1,151 likes · 44 talking about this · 951 were here. Orangetheory Fitness is the leading high intensity training gym. Our innovative workouts make us a health...
+title: Orangetheory Fitness Newark - Home | Facebook
+snippet: Orangetheory Fitness Newark, Newark. 1,062 likes · 84 talking about this · 734 were here. Orangetheory Fitness is the leading high intensity training gym. Our innovative workouts make us a health...
+title: Orangetheory Fitness | Gym Near Me | Try A Free One-Hour ...
+snippet: Orangetheory Fitness is the leading fitness gym near you. Our science-backed, personal trainer led fitness class produces results. Call or sign up online for a free one-hour fitness class near you!
+title: Orangetheory Fitness Christiana - Home | Facebook
+snippet: Orangetheory Fitness Christiana, Newark, Delaware. 701 likes · 2 talking about this · 1,187 were here. Heart-rate based interval training in a fun and energizing group environment. Work for 1 hour,...
+title: Orangetheory Fitness Newark, 230 East Main St, #105 ...
+snippet: Orangetheory Fitness Newark. Orangetheory Fitness offers 60-minute workout sessions split into intervals of cardiovascular and strength training with heart rate monitors to track intensity and maximize metabolic burn. Increase energy, get visible results and burn more calories, even after leaving the studio. That&#39;s the Orange Effect!
+title: Orangetheory Fitness Newark (@otfnewark) • Instagram ...
+snippet: Orangetheory Fitness Newark ?1hr Full Body Workout ?Science Backed ?Technology Tracked ?Coach Inspired Call/DM for your ~FREE~ Class 302-273-8301 newark.orangetheoryfitness.com
+title: Orangetheory Fitness Newark - Startseite | Facebook
+snippet: Orangetheory Fitness Newark, Newark (Delaware). Gefällt 1.151 Mal · 34 Personen sprechen darüber · 958 waren hier. Orangetheory Fitness is the leading high intensity training gym. Our innovative...
+title: Photos for Orangetheory Fitness Newark - Yelp
+snippet: Photos at Orangetheory Fitness Newark - Newark, DE. Yelp
+title: Orangetheory Fitness Newark 230 E Main St Ste 105 Newark ...
+snippet: Get directions, reviews and information for Orangetheory Fitness Newark in Newark, DE. Orangetheory Fitness Newark 230 E Main St Ste 105 Newark DE 19711. 6 Reviews (302) 273-8301 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See ...
+
+REL: 2
+POI Name: Golf Galaxy
+POI City: Raleigh
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf Equipment, Sports Wear, Golf Lessons, 
+Snippets:
+title: Golf Galaxy - Official Website
+snippet: Visit Golf Galaxy to shop a wide selection of golf clubs, apparel &amp; equipment from the top brands! Improve your game with services from our expert golf pros
+title: Golf Galaxy - Clubs, Apparel and Equipment in Raleigh, NC ...
+snippet: You can also trade in your golf clubs for Golf Galaxy gifts cards, or shop our selection of pre-owned golf clubs from top brands-each club is cleaned, inspected for quality and graded on condition. The Raleigh Golf Galaxy is ready to offer you the premier selection of equipment, apparel and golf services in the Raleigh area. Stop in soon and ...
+title: Golf Galaxy - Clubs, Apparel and Equipment in Raleigh, NC
+snippet: Visit the Golf Galaxy store near Raleigh, NC. Find store hours, phone number, address &amp; in-store services for the Golf Galaxy in Raleigh.
+title: Golf Galaxy - Clubs, Apparel and Equipment in Cary, NC | 3113
+snippet: About the Cary Store. Get ready to raise your game and lower your scores with top gear and expert services from Golf Galaxy in Cary, NC. Shop the Raleigh area&#39;s best selection of golf clubs, apparel, footwear, tech and accessories.Test the latest clubs in one of our hitting bays, or try out new putters on our huge indoor putting green. Schedule a custom club fitting with our Certified Fitters
+title: Golf Galaxy - Official Website
+snippet: *Price Promotions - Due to manufacturer restrictions, select new release and other specified products are excluded from price promotions. Additionally, there are restrictions on the use of coupon codes.
+title: Golf Galaxy 6254 Glenwood Ave Raleigh, NC Golf Shops ...
+snippet: Get directions, reviews and information for Golf Galaxy in Raleigh, NC. Golf Galaxy 6254 Glenwood Ave Raleigh NC 27612. 14 Reviews (919) 787-9940 Website. Menu &amp; Reservations ... I walked around a long time trying to find the women&#39;s golf gloves and eventually a sales clerk explained where... Read more. 08/12/2016 Elizabeth T.
+title: Golf Galaxy Locations &amp; Hours Near Raleigh, NC - YP.com
+snippet: Find 4 listings related to Golf Galaxy in Raleigh on YP.com. See reviews, photos, directions, phone numbers and more for Golf Galaxy locations in Raleigh, NC.
+title: Golf Galaxy Store Locations | Hours, Locations &amp; Stores
+snippet: Find your local Golf Galaxy store. Browse the Golf Galaxy Store Locator to find hours, locations and in-store services for all your golf needs.
+title: Golf Galaxy Raleigh, NC - Last Updated February 2020 - Yelp
+snippet: Reviews on Golf Galaxy in Raleigh, NC - Golf Galaxy, Golf Etc Cary, DICK&#39;S Sporting Goods
+title: Moonwalk Mini Golf - At Galaxy Fun Park
+snippet: Our Moonwalk Mini Golf attraction is 18 holes of out of this world fun. Take a trip through our galaxy with the whole family. Enjoy the out of this world blacklight art created exclusively for Galaxy Fun Park. Get in the game with the whole family and it will easily become your new favorite group activity.
+
+REL: 2
+POI Name: Godwin's John Korean Martial Arts Institute
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Martial Arts, Boxing, 
+Snippets:
+title: Godwin’s John Korean Martial Arts Institute - Newark, DE
+snippet: 4 reviews of Godwin&#39;s John Korean Martial Arts Institute &quot;Master John Godwin&#39;s Korean Martial Arts School has been around for over 30 years and has built the reputation Of being one of the best Karate schools in the Tristate area . KMAI has…
+title: Master John Godwin&#39;s Korean Martial Arts Institute ...
+snippet: Master John Godwin&#39;s Korean Martial Arts Institute offers Hapkido, Karate, Kick Boxing, Tae Kwon Do &amp; Tang Soo Do classes in Newark, DE. View location, contact information, class schedule and more...
+title: Reviews of Master John Godwin&#39;s Korean Martial Arts Institute
+snippet: This page shows Reviews &amp; Testimonials of Master John Godwin&#39;s Korean Martial Arts Institute in Newark, DE. 10 Reviewer rated Master John Godwin&#39;s Korean Martial Arts Institute as Excellent. Read detailed reviews below. If you are familiar with this school, please share your experience and help your local Martial Arts community.
+title: Korean Martial Arts Institute - kmaiweb.com
+snippet: Click on any of the buttons above for the martial arts school nearest you. Regardless of which Korean Martial Arts Institute you choose, we promise you three things: 1. A Safe, Clean Facility. Hygiene and safety come first. A clean facility is a positive environment for learning, growth and inspiration.
+title: Godwin&#39;s John Korean Martial Arts Institute 269 Elkton Rd ...
+snippet: Get directions, reviews and information for Godwin&#39;s John Korean Martial Arts Institute in Newark, DE. Godwin&#39;s John Korean Martial Arts Institute 269 Elkton Rd Newark DE 19711. 4 Reviews (302) 369-9300 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets ...
+title: Godwin&#39;s John Korean Martial Arts Institute in Newark ...
+snippet: Find Godwin&#39;s John Korean Martial Arts Institute in Newark with Address, Phone number from Yahoo US Local. Includes Godwin&#39;s John Korean Martial Arts Institute Reviews, maps &amp; directions to Godwin&#39;s John Korean Martial Arts Institute in Newark and more from Yahoo US Local
+title: Contact Master John Godwin&#39;s Korean Martial Arts Institute ...
+snippet: Please use the following Form to contact Master John Godwin&#39;s Korean Martial Arts Institute with your questions. Your message will be forwarded to contact Email address on record for Master John Godwin&#39;s Korean Martial Arts Institute. You should receive a response shortly.
+title: Write a Review of Master John Godwin&#39;s Korean Martial Arts ...
+snippet: Rate and Review Master John Godwin&#39;s Korean Martial Arts Institute in Newark, Delaware. Share your experience with your local Martial Arts Community of Newark. Your contribution will help others making an informed choice.
+title: Godwin&#39;s John Korean Martial Arts Institute in Newark ...
+snippet: Godwin&#39;s John Korean Martial Arts Institute is located at: 269 Elkton Rd in Newark, Delaware. The contact information, phone number and a map with directions is located below.
+title: Shoshin Karate Academy - 15 tips - Foursquare
+snippet: shoshin karate academy newark location • shoshin karate academy newark address • shoshin karate academy newark • kmai master john godwins newark • kmai - master john godwin&#39;s newark • master john godwin&#39;s korean martial arts institute newark • master john godwins korean martial arts institute newark •
+
+REL: 2
+POI Name: Golden City Restaurant
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: Golden City Restaurant - 796 S Old Baltimore Pike Newark ...
+snippet: Welcome to Golden City Restaurant in Newark. Click here to view our menu, hours, and order food online.
+title: Golden City Restaurant, Newark - Photos &amp; Restaurant ...
+snippet: Order food online at Golden City Restaurant, Newark with Tripadvisor: See 2 unbiased reviews of Golden City Restaurant, ranked #199 on Tripadvisor among 350 restaurants in Newark.
+title: Golden City Restaurant Menu &amp; Delivery Newark DE 19702 ...
+snippet: Order delivery or take out from Golden City Restaurant in Newark. View the menu, current specials &amp; order food online now.
+title: Golden City, Newark - Restaurant Reviews &amp; Phone Number ...
+snippet: Golden City, Newark: See unbiased reviews of Golden City, one of 668 Newark restaurants listed on TripAdvisor.
+title: Golden City - Chinese - 839 Broad St, Newark, NJ ...
+snippet: With so few reviews, your opinion of Golden City could be huge. Start your review today. Toni D. Montclair, NJ. 188 friends. 294 reviews. 83 photos. Share review. Embed review. 1/21/2012. First to Review. Best wonton egg drop soup around. Useful Funny Cool. Page 1 of 1. Phone number (973) 242-2822.
+title: So Good! - Review of Golden City Restaurant, Newark, DE ...
+snippet: Golden City Restaurant: So Good! - See 2 traveler reviews, candid photos, and great deals for Newark, DE, at TripAdvisor.
+title: Online Menu of Golden City Restaurant, Newark, DE
+snippet: View the menu for Golden City Restaurant and restaurants in Newark, DE. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Golden City Restaurant Food &amp; Restaurant Delivery - Order ...
+snippet: Order delivery online from Golden City Restaurant in Newark. See the menu, prices, address, and more. BringMeThat offers food delivery from many restaurants in Newark
+title: Golden City Restaurant Newark, DE 19702 - 36 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Golden City Restaurant at 780 S Old Baltimore Pike in Newark - ⏰hours, ☎️phone number, ☝address and map.
+title: Photos for Golden City Restaurant - Yelp
+snippet: Photos at Golden City Restaurant - Newark, DE. Yelp. Cancel
+
+REL: 2
+POI Name: Build-A-Bear Workshop
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Toy Stores, Kids Activities, 
+Snippets:
+title: Build-A-Bear Workshop - Christiana Mall, Newark, DE
+snippet: At Build-A-Bear Workshop, kids — and kids at heart — get to make their way through our hands-on, interactive process of making your own furry friend! Add lots of stuffing, make a wish on a heart and personalize your friend with fun outfits and accessories.
+title: Build-A-Bear Workshop - Shop, Explore and Play at Build-A-Bear
+snippet: Only at Build-A-Bear can you experience the fun of making your own soft toys and custom teddy bears! For over 20 years, Guests have made special memories with our selection of soft toys and personalised gifts. Shop our online gift shop for more cuddly stuffed animal gift ideas!
+title: Build-A-Bear Workshop - Home | Facebook
+snippet: Build-A-Bear Workshop (Newark, DE) Shopping &amp; Retail in Newark, Delaware. Community See All. 382 people like this. 381 people follow this. 3,151 check-ins. About See All. 740 Christiana Mall (2,221.92 mi) Newark, Delaware 19702. Get Directions. Build-A-Bear Workshop Location (302) 273-6310.
+title: Build-A-Party - Build-A-Bear Workshop
+snippet: Make your party plans today! Just pick the package that fits your budget and invite your Guests – Build-A-Bear Workshop does the rest! We provide a Party Leader who will guide the fun with hands-on activities and games.
+title: Build-A-Bear Workshop 740 Christiana Mall Newark, DE Toy ...
+snippet: Get directions, reviews and information for Build-A-Bear Workshop in Newark, DE.
+title: Build-A-Bear Workshop in Newark, DE 19702 - (302) 292-0760 ...
+snippet: Build-A-Bear Workshop is located at 174 Christiana Mall,, Newark, DE 19702. Build-A-Bear Workshop can be contacted at (302) 292-0760. Get ratings, reviews, hours, phone numbers, and directions.
+title: Build-A-Bear - YouTube
+snippet: The official channel for Build-A-Bear Workshop, Where Best Friends Are Made! Become a VIB (Very Important Bear) by following us on Facebook, Twitter, and Ins...
+title: World&#39;s Largest BUILD-A-BEAR WORKSHOP in New York! Bear ...
+snippet: This Build-a-Bear Workshop had two levels of plush building excitement. They had a bunch of colorful animals along with some cool licensed titles like Disney&#39;s Frozen Anna &amp; Elsa, ...
+title: Collections | Build-A-Bear® - Build-A-Bear Workshop
+snippet: Browse the Build-A-Bear® collections and find the perfect furry friend for you. Shop licensed and exclusive stuffed animals, clothing, accessories and more at Build-A-Bear®.
+title: Stuffed Animals - Build-A-Bear Workshop
+snippet: Build-A-Bear Workshop has more than 300 super cute stuffed animals to choose from in various colors, styles and sizes (check out our mini and giant stuffed animal collection, too!). The only thing these furry friends have in common is the amount of love inside their hearts! Make your new furry friend truly special by customizing with outfits, accessories, sounds, scents and more. You can even ...
+
+REL: 2
+POI Name: Truly Yoga Studio
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Yoga, Massage, 
+Snippets:
+title: Truly Yoga Studio in Pike Creek Delaware
+snippet: About Truly Yoga. Truly Yoga is a vinyasa style based yoga studio in Newark, Delaware that focuses on providing yoga classes to individuals of all levels. More Information. Upcoming Events More events and workshops are coming soon! We are open 30 minutes before our regularly scheduled classes.
+title: Schedule of Classes | Truly Yoga Studio
+snippet: Poses are held for 1 to 5 minutes by using props, making the practice accessible to people of all abilities. However, Yin yoga complements more vigorous activities such as flow yoga, running and cycling because connective tissue responds best to a slow, steady load, making the body a bit longer and stronger.
+title: Truly Yoga Studio - Home | Facebook
+snippet: Truly Yoga Studio - 7 Polly Drummond Shopping Center, Newark, Delaware 19711 - Rated 5 based on 28 Reviews &quot;I joined Truly Yoga 3 days ago with a $20...
+title: Truly Yoga Studio - Posts | Facebook
+snippet: Truly Yoga Studio, Newark, Delaware. 1.1K likes. Truly Yoga Studio 7 Polly Drummond Shopping Center Newark, DE 19711 (Next to McGlynn&#39;s) OPEN 30 MINUTES BEFORE AND AFTER SCHEDULED CLASSES
+title: Teacher Training | Truly Yoga Studio
+snippet: Sarah then became a 200-hour certified yoga teacher in 2012 after completing her teacher training with One Yoga. Sarah teaches vinyasa style based yoga, which connects a dynamic flow of postures with breath. In 2015, Sarah opened Truly Yoga Studio in Newark, DE, where she continues to teach today.
+title: Truly Yoga Studio, 7 Polly Drummond Shopping Center ...
+snippet: Truly Yoga Studio 7 Polly Drummond Shopping Center Newark, DE 19711 (Next to McGlynn&#39;s) OPEN 30 MINUTES BEFORE AND AFTER SCHEDULED CLASSES Truly Yoga is a vinyasa style based yoga studio that focuses on providing yoga classes to individuals of all levels. We offer both heated and non-heated classes at our location in the Polly Drummond Shopping Center.
+title: Truly Yoga Studio - Newark, DE | Groupon
+snippet: Truly Yoga Studio in Newark has you covered. Book your next class here and make your way to your fitness goals. You may want to pack a change of clothes before heading to Truly Yoga Studio, where students rave about the hot yoga classes.
+title: Class Schedule - Truly Yoga
+snippet: 7 Polly Drummond Shopping Center Newark, DE 19711 [email protected] 302-547-7905
+title: Truly Yoga Studio Newark, DE Yoga - MapQuest
+snippet: Simply the most wonderful Yoga experience ever! From the moment I entered Truly Yoga, I was greeted warmly and welcomed enthusiastically. The Studio is lovely; it is meticulously clean, warm and...
+title: Pricing | Truly Yoga Studio
+snippet: Yoga class prices, multi-class discounts, and special offers at Truly Yoga Studio in Pike Creek Delaware
+
+REL: 2
+POI Name: Iron Hill Park
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Parks, 
+Snippets:
+title: Iron Hill Park - New Castle County, DE - Official Website
+snippet: Newark, DE 19702. Contact Parks Permits Office 302-395-5606. Hours NCC Parks are open from dawn to dusk. Rating. 5 average based on 1 vote Facilities. Feature Overview. View all facilities. Iron Hill Park. Admission Fee: No addmission fees for any NCC park. Fees apply for court/field/pavilion rentals. Documents: Iron Hill Trail Guide (PDF ...
+title: Iron Hill Park (Newark) - 2020 All You Need to Know BEFORE ...
+snippet: Iron Hill Park and The Iron Hill Museum are only a stones through off of I-95 (Exit-RT# 896) near Newark, Delaware. this is also one of the highest elevations in the state of Delaware. The park itself is a beautiful place to walk and cycle and look at many items of flora and …
+title: Iron Hill Park - Delaware | AllTrails
+snippet: Iron Hill Park is a 3.2 mile heavily trafficked loop trail located near Newark, Delaware that features a great forest setting and is rated as moderate. The trail is primarily used for hiking, trail running, and mountain biking and is best used from April until November. Dogs are also able to use this trail but must be kept on leash.
+title: Newark, DE | Iron Hill Brewery
+snippet: Newark, DE - Iron Hill Brewery. Vienna Red™ Lager. A European amber lager, medium-bodied with a delicate malt aroma, slight sweetness and a clean, crisp finish.
+title: Friends of Iron Hill Park
+snippet: Friends of Iron Hill Park partnered with Henry’s Racing Team and First State Velo Sport to plan and execute updated mapping and trail marking in Iron Hill Park. Take a look at the Trail Project tab for details. Iron Hill Park Guided Trail Hikes. Friends of Iron Hill Park has sponsored a popular guided Iron Hill Park Trail Hike for a decade or ...
+title: Visit Iron Hill Park on your trip to Newark or United States
+snippet: Iron Hill is a prominent geographical feature in the vicinity of Newark, Delaware, in the United States. With a peak elevation of 328 feet (100 m) it is the highest hill in Delaware, though not the state&#39;s highest point as the Piedmont plateau region near Centreville reaches a higher elevation of 448 feet (137 m) at Ebright Azimuth.
+title: Iron Hill Park 1337 Old Baltimore Pike Newark, DE Parks ...
+snippet: Large Heavily wooded county park on what is aby DE standards a fairly big hill - with some historical old iron mines worked by Welsh settlers in the late 1700s and 1800s , several hiking trails,...
+title: Iron Hill (Delaware) - Wikipedia
+snippet: Location. Iron Hill is located just south of Newark in Pencader Hundred, with the summit lying south of Interstate 95 and west of Delaware Route 896.It is the easternmost and highest of three geologically similar peaks, together with neighboring Chestnut Hill and Gray&#39;s Hill (across the border in Maryland).
+title: Iron hill park, in Newark, DE - Newark, Delaware Iron hill ...
+snippet: Find the best Iron hill park, around Newark,DE and get detailed driving directions with road conditions, live traffic updates, and reviews of local business along the way.
+title: Iron Hill Park - 30 Photos - Parks - 1355 Old Baltimore ...
+snippet: Large Heavily wooded county park on what is aby DE standards a fairly big hill - with some historical old iron mines worked by Welsh settlers in the late 1700s and 1800s , several hiking trails, picnic areas, a disc golf course, a playground, and some info about a local revolutionary war history.
+
+REL: 1
+POI Name: The Edge Fitness Clubs Christiana
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: The Edge Fitness Clubs Christiana (Newark, DE): Gym Hours ...
+snippet: Welcome to The Edge Fitness Clubs of Christiana, DE!. We encourage you to learn about our facility’s fitness center hours, weekly changing class schedules, membership rates, and more. Don’t forget to also check out the list of amenities offered and “meet our trainers” to find the best trainer to help you reach your fitness goals.
+title: The Edge Fitness Clubs Christiana - Home | Facebook
+snippet: The Edge Fitness Clubs Christiana - 2800 Fashion Center Blvd., Newark, Delaware 19702 - Rated 4.8 based on 1 Review &quot;Vanessa Michaelson was a pleasure to...
+title: The Edge Fitness Clubs Delaware: The Best Gyms in DE ...
+snippet: The Edge Fitness Clubs in Delaware—voted Best Gym &amp; Health Club—offers the best value in fitness. ... The Edge Fitness Clubs is expanding into Delaware in early 2019, with our first DE club in Christiana- Fashion Center! Enter your zip code. or. Choose Your State. Christiana, DE. 2800 Fashion Center Blvd
+title: The Edge Fitness Clubs Christiana on Instagram • Photos ...
+snippet: 5,859 Posts - See Instagram photos and videos taken at ‘The Edge Fitness Clubs Christiana’
+title: The Edge Fitness Christiana De - Listed Good Sites ...
+snippet: The Edge Fitness Clubs Christiana - Newark, DE Newark. Posted: (5 days ago) 11 reviews of The Edge Fitness Clubs Christiana &quot;Been going to this gym since it opened and definitely enjoy every minute of it. Has every machine I need and the sauna always has me leaving feeling great&quot;
+title: The Edge Fitness Clubs Christiana - Bewertungen | Facebook
+snippet: The Edge Fitness Clubs Christiana, Newark (Delaware). Gefällt 1.906 Mal. At The EDGE Fitness Clubs our mission is to offer extraordinary fitness facilities, innovative programming and an energetic,...
+title: The Edge Fitness Clubs Christiana, DE Announcement - YouTube
+snippet: Opening soon in the Fashion Center Blvd. Plaza in Christiana, DE! At The EDGE Fitness Clubs our mission is to offer extraordinary fitness facilities, innovative programming and an energetic ...
+title: The Edge Fitness Clubs: Join the Best Gym Ever | Edge ...
+snippet: At The Edge Fitness Clubs our mission is to offer extraordinary fitness facilities, innovative programming and an energetic, friendly staff to ensure our members love coming to our clubs, always enjoy their fitness experience, and see the results of their hard work.
+title: Careers: The Edge Fitness Clubs Job Listings | Edge ...
+snippet: Flex Your Strengths At The Edge. If you have a passion for fitness and want to be part of a growing company with a lot of opportunity, The Edge Fitness Clubs is the place for you. Our core values include teamwork, commitment, and fun! We are fitness forward and have the members’ experience as our top priority on a daily basis.
+title: Let&#39;s do this! - The Edge Fitness Clubs
+snippet: A modern take on yoga with elements of Tai Chi and Pilates, set to an inspired soundtrack scientifically designed for a fitness club environment. Bodyflow involves a series of stretches, moves and poses that brings the body into a state of harmony and balance.
+
+REL: 1
+POI Name: Riverwalk Mini Golf
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+title: Riverwalk Mini Golf • Riverfront Wilmington • Great Family ...
+snippet: Riverwalk Mini Golf is an 18-hole miniature golf course located right along the Wilmington Riverwalk! This beautifully lanscaped mini golf course was designed by Harris Miniature Golf of Wildwood, New Jersey and features many of the colors and plant life found along the Riverfront, including the iconic Tom Burke birdhouses.
+title: Riverwalk Mini Golf (Wilmington) - 2020 All You Need to ...
+snippet: This is a nice mini golf course in a good location on the riverfront, right next to the children&#39;s museum and a lot of popular restaurants. They sell ice cream at the ticket booth as well. The course itself seemed a bit on the smaller side but was fun to play, a great way to …
+title: THE 10 CLOSEST Hotels to Riverwalk Mini Golf, Wilmington ...
+snippet: Hotels near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find 6,339 traveler reviews, 3,190 candid photos, and prices for 30 hotels near Riverwalk Mini Golf in Wilmington, DE.
+title: Riverwalk Mini Golf - Home | Facebook
+snippet: Riverwalk Mini Golf, Wilmington, Delaware. 2,581 likes · 4 talking about this · 4,338 were here. 18 Holes of Mini Golf &amp; featuring 9 flavors of soft serve ice cream, milk shakes,&amp; more! $8.00 per...
+title: Riverwalk Mini Golf | IN Wilmington
+snippet: Riverwalk Mini Golf is an 18-hole miniature golf course located right along the Wilmington Riverwalk! This beautifully lanscaped mini golf course was designed by Harris Miniature Golf of Wildwood, New Jersey and features many of the colors and plant life found along the Riverfront, including the iconic Tom Burke birdhouses...
+title: Restaurants Near Riverwalk Mini Golf, Wilmington, Delaware
+snippet: Restaurants near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find traveler reviews and candid photos of dining near Riverwalk Mini Golf in Wilmington, Delaware.
+title: Riverwalk Mini Golf ticket window - Picture of Riverwalk ...
+snippet: Riverwalk Mini Golf, Wilmington Picture: Riverwalk Mini Golf ticket window - Check out Tripadvisor members&#39; 3,189 candid photos and videos of Riverwalk Mini Golf
+title: Riverwalk Mini Golf (Wilmington, DE) - opinie - Tripadvisor
+snippet: Riverwalk Mini Golf, Wilmington: zobacz recenzje, artykuły i zdjęcia dotyczące Riverwalk Mini Golf w serwisie Tripadvisor w Wilmington, Delaware
+title: Riverwalk Mini Golf (Wilmington) - 2020 All You Need to ...
+snippet: Wilmington Tourism; Wilmington Accommodation; Wilmington Bed and Breakfast; Wilmington Holiday Rentals; Wilmington Holiday Packages; Wilmington Flights; Wilmington Restaurants; Wilmington Attractions; Wilmington Travel Forum
+title: The 10 Best Restaurants Near Riverwalk Mini Golf, Wilmington
+snippet: Restaurants near Riverwalk Mini Golf, Wilmington on Tripadvisor: Find traveller reviews and candid photos of dining near Riverwalk Mini Golf in Wilmington, Delaware.
+
+REL: 1
+POI Name: Paper Mill Liquors
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Paper Mill Liquors - Home | Facebook
+snippet: See more of Paper Mill Liquors on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Paper Mill Liquors. Wine, Beer &amp; Spirits Store in Newark, Delaware. Closed Now. Community See All. 146 people like this. 146 people follow this. About See All. 364 Possum Park Road (2,216.76 mi) Newark, Delaware 19711. Get Directions (302) 454-0904.
+title: Paper Mill Liquors - Newark, DE - Yelp
+snippet: 3 reviews of Paper Mill Liquors &quot;Overall, this is a basic liquor store with wine, liquor, and beer. I usually go here for the small selection of cider - they carry my favorite brand of cider called McKenzie&#39;s. The beer selection is also small but…
+title: Paper Mill Liquors 364 Possum Park Rd Newark, DE Liquor ...
+snippet: Get directions, reviews and information for Paper Mill Liquors in Newark, DE. Paper Mill Liquors 364 Possum Park Rd Newark DE 19711. 3 Reviews (302) 454-0904. Menu &amp; Reservations ... Overall, this is a basic liquor store with wine, liquor, and beer. I usually go here for the small selection of cider ...
+title: Paper Mill Liquors in Newark, DE - Liquor &amp; Alcohol Stores
+snippet: Established in 2001, Paper Mill Liquors is located at 364 Possum Park Rd in Newark, DE - New Castle County and is a business listed in the categories Liquor &amp; Alcohol Stores, Beer &amp; Wine, Beer, Wine, And Liquor Stores, Beer &amp; Ale Retail, Liquor Stores, Beer &amp; Wine Stores and Liquor Retail.
+title: Paper Mill Liquors - Newark , DE - Company Information
+snippet: Use the Paper Mill Liquors company profile in Newark , DE . Visit DandB.com and find more businesses with the D&amp;B Business Directory.
+title: Paper Mill Liquors 364 Possum Park Rd, Newark, DE 19711 ...
+snippet: Get reviews, hours, directions, coupons and more for Paper Mill Liquors. Search for other Beer &amp; Ale on The Real Yellow Pages®. Get reviews, hours, directions, coupons and more for Paper Mill Liquors at 364 Possum Park Rd, Newark, DE 19711.
+title: Papermill Liquors - Newark, DE - Foursquare
+snippet: Liquor Store in Newark, DE Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns. By continuing to use our site, you accept the use of our cookies as described in our privacy policy and cookie policy.
+title: Paper Mill Liquors Newark DE, 19711 – Manta.com
+snippet: Get information, directions, products, services, phone numbers, and reviews on Paper Mill Liquors in Newark, DE. Discover more Liquor Stores companies in Newark on Manta.com
+title: Black liquor - Wikipedia
+snippet: In industrial chemistry, black liquor is the by-product from the kraft process when digesting pulpwood into paper pulp removing lignin, hemicelluloses and other extractives from the wood to free the cellulose fibers.. The equivalent material in the sulfite process is usually called brown liquor, but the terms red liquor, thick liquor and sulfite liquor are also used.
+title: Happy #WineWednesday? Stop in and grab... - Paper Mill ...
+snippet: See more of Paper Mill Liquors on Facebook. Log In. or. Create New Account. See more of Paper Mill Liquors on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Related Pages. Paan Casa Surat. Cafe. RZ Entertainment. Movie. Maryland Blue Crab. ... A1a Liquor Gas and mini mart Yulee.
+
+REL: 1
+POI Name: Bruster's Real Ice Cream
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, Desserts, Juice Bars & Smoothies, 
+Snippets:
+title: Bruster&#39;s Ice Cream
+snippet: FIND A LOCATION. Flavors. Ice Cream; Frozen Yogurt; Ice/Sherbet/Sorbet; Non-Dairy; Favorite Flavor
+title: Bruster&#39;s Real Ice Cream 2394 Pulaski Hwy Newark, DE Ice ...
+snippet: Its just ice cream the way they make ice cream is with butter fat the more you put in the better it&#39;s taste so let&#39;s say Hagen Dash Put&#39;s about 23 percents of butter fat brusters puts in about 3...
+title: Bruster&#39;s Real Ice Cream - Newark, DE - Foursquare
+snippet: &quot;Great ice cream, but not so great service (We got the window...&quot; Frozen Yogurt Shop in Newark, DE Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Brusters
+snippet: Say YES to dessert this month and enjoy a sundae made with our New York Cheesecake ice cream in a waffle bowl, topped with Strawberries. We’re also featuring our Southern Banana Puddin flavor, a banana pudding ice cream with Vanilla Wafers. We can pack up any of your favorites To Go!
+title: Bruster’s Flavors - Bruster&#39;s Ice Cream
+snippet: Whether you’re treating yourself, or someone you love, Bruster’s has more than 150 recipes with smooth ice cream made from real ingredients and loaded with cookies, candies and other sweet goodies. And because every generous scoop is made in-house — just a few steps from the counter where it’s served — it always tastes fresh.
+title: Bruster&#39;s Ice Cream in Newark - DE 19711 | Best-2-Go.Com
+snippet: If you have visited Bruster&#39;s Ice Cream in Newark - DE 19711 or have any interesting information about this location, you can write, submit &amp; share your experience and opinions about their services, prices, etc. Your review will become a very useful information for other visitors. All reviews will be verified by moderators at Best-2-Go.Com.
+title: Online Menu of Bruster&#39;s Real Ice Cream, Newark, DE
+snippet: View the menu for Bruster&#39;s Real Ice Cream and restaurants in Newark, DE. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Bruster&#39;s Newark, DE 19711 - Menu and Reviews - Restaurantji
+snippet: Latest reviews and ??ratings for Bruster&#39;s Real Ice Cream - Kirkwood Hwy at 1620 Capitol Trail in Newark - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Sweet Rewards - Bruster&#39;s Ice Cream
+snippet: Enroll at the store or online now and get in on these sweet deals: — An instant welcome offer — Monthly email offers — A special birthday gift
+title: Jobs - Bruster&#39;s Ice Cream
+snippet: Jobs. Bruster’s is a great place to work! It’s a safe, fun, friendly environment where everyone works together as a team. There’s also plenty of ice cream. Bruster’s is all about respecting others and keeping a friendly outgoing attitude. We like to have fun. And we especially like to make friends with our customers.
+
+REL: 1
+POI Name: Hotel Greene
+POI City: Richmond
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+title: Hotel Greene
+snippet: HOURS. Sunday | 10am – 11pm Tuesday – Wednesday | 5pm – 11pm Thursday | 11am – 11pm Last tee time 10pm Friday | 11am – 12am Saturday | 10am – 12am
+title: Reserve Tee Time — Hotel Greene
+snippet: reservation policies. 21+ after 5pm except Sundays. 48 hour cancellation policy (see details below). Arrive early. Advance reservations are:. open one week prior (so don’t get discouraged if later dates aren’t showing as available, they are)
+title: Hotel Greene - Home | Facebook
+snippet: Hotel Greene March 16 at 12:54 PM · Our glass is half full— we are closing temporarily, with well wishes for the health and safety of our amazing staff, lovely faux-hotel guests, and the entire city of Richmond.
+title: Rates — Hotel Greene
+snippet: Reservations. The majority of tee times are kept for walk ins. Reservations not required — very limited advance spots available, walk-ins encouraged. Reservations open one week in advance — all later dates will show as unavailable, so don’t get discouraged by that!
+title: Hotel Greene - Richmond Times-Dispatch
+snippet: Hotel Greene, a spot with “highfalutin’ mini-golf,” a restaurant and bar, opened July 25 at 5 p.m. at 508 E. Franklin St. in downtown Richmond.
+title: Hotel Greene (Richmond) - 2020 All You Need to Know BEFORE ...
+snippet: Cover more than 400 years of Richmond history without breaking a sweat on a trolley tour around the Virginian capital. The short excursion is perfect for history-buffs in a hurry and travelers who prefer to explore the city from a comfortable seated position.
+title: stay away - Review of Hotel Greene, Richmond, VA - Tripadvisor
+snippet: Hotel Greene: stay away - See 8 traveler reviews, 8 candid photos, and great deals for Richmond, VA, at Tripadvisor.
+title: Photos for Hotel Greene - Yelp
+snippet: Photos at Hotel Greene - Richmond, VA. Yelp. Cancel. For Businesses. Write a Review. Log In Sign Up. Restaurants. Home Services. Auto Services. More . Photos for Hotel Greene. Hotel Greene. 41 reviews Add photos Search photos... 101 photos mention &quot;&quot; Clear. Page 1 of 4 1. 2 ...
+title: Lobby Bar — Hotel Greene
+snippet: Fresh cocktails, beer and wine for lounging or enjoying with a round of golf. Highfalutin’ hand pies from Fat Rabbit, meat and cheese boards, sandwiches, and small plates.
+title: Private Events — Hotel Greene
+snippet: BOOK AN HOUR OF TEE TIMES. $450 for reservations beginning 5pm or later, and $350 for reservations beginning 4:30pm or earlier. Allows up to 24 people to golf.
+
+REL: 1
+POI Name: QDOBA Mexican Eats
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Fast Food, Mexican, 
+Snippets:
+title: QDOBA at 64 Halsey St Newark, NJ | Mexican Restaurant ...
+snippet: About Qdoba Halsey. Welcome to QDOBA Mexican Eats at 64 Halsey St Newark, NJ. At QDOBA we’re all about flavor. Because we stand for slicing, dicing, and sautéing ingredients by hand, in-house. We stand for making flavor-filled food full of spicy, zesty, crunchy, smoky, tangy, creamy, savory goodness.
+title: QDOBA at 58 E Main St Newark, DE | Mexican Restaurant ...
+snippet: About Qdoba U of Delaware Main Street. Welcome to QDOBA Mexican Eats at 58 E Main St Newark, DE. At QDOBA we’re all about flavor. Because we stand for slicing, dicing, and sautéing ingredients by hand, in-house.
+title: QDOBA at 3230 Fashion Center Blvd Newark, DE | Mexican ...
+snippet: About Qdoba Christiana. Welcome to QDOBA Mexican Eats at 3230 Fashion Center Blvd Newark, DE. At QDOBA we’re all about flavor. Because we stand for slicing, dicing, and sautéing ingredients by hand, in-house. We stand for making flavor-filled food full of spicy, zesty, crunchy, smoky, tangy, creamy, savory goodness.
+title: QDOBA Mexican Eats, Newark - 10 Toler Pl - Menu, Prices ...
+snippet: QDOBA Mexican Eats, Newark: See 8 unbiased reviews of QDOBA Mexican Eats, rated 3.5 of 5 on Tripadvisor and ranked #153 of 680 restaurants in Newark.
+title: QDOBA Mexican Eats, Newark - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at QDOBA Mexican Eats, Newark with Tripadvisor: See 5 unbiased reviews of QDOBA Mexican Eats, ranked #228 on Tripadvisor among 347 restaurants in Newark.
+title: QDOBA Mexican Eats | Mexican Restaurants &amp; Catering
+snippet: QDOBA Mexican Eats is a Mexican restaurant and caterer offering customizable flavorful food. Plus, add queso and guac for free on any entrée! Eat QDOBA today.
+title: QDOBA Mexican Eats - Newark, DE - Yelp
+snippet: QDOBA Mexican Eats is a Mexican restaurant chain serving up big, bold flavor with customizable Mexican entrées like Burritos (wrapped or bowl), 3-Cheese Nachos, Quesadillas, Taco Salad, Loaded Tortilla Soup ™ and original creations like the chef-inspired Knockout Tacos ™.
+title: QDOBA Mexican Eats - Participating Locations in New Jersey
+snippet: Order Ahead and Skip the Line at QDOBA Mexican Eats. Place Orders Online or on your Mobile Phone. Skip to main content QDOBA Mexican Eats Parent Site Login. Rewards US US CA ... Newark, NJ Halsey St and New St (973) 353-0213 ...
+title: QDOBA Mexican Eats, Newark - 64 Halsey St - Menu, Prices ...
+snippet: Order food online at QDOBA Mexican Eats, Newark with Tripadvisor: See unbiased reviews of QDOBA Mexican Eats, ranked #0 on Tripadvisor among 679 restaurants in Newark.
+title: QDOBA Menu at 10 Toler Place Newark, NJ | Mexican ...
+snippet: QDOBA 10 Toler Place, Newark, NJ offers free WiFi and serves as a space where guests can relax with friends and family, while enjoying unique and fresh dishes prepared by our friendly staff. Planning an event? Our catering menu lets your guests create Mexican entrées topped with all of the fixings.
+
+REL: 1
+POI Name: Paintball Action Games
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Paintball, 
+Snippets:
+title: Paintball Action Games - Outdoor Fields in Delaware
+snippet: At Paintball Action Games, we are Delaware&#39;s premier outdoor paintball fields. If you are looking for something new, click here to schedule your outing today.
+title: Pricing | Paintball Action Games
+snippet: Pricing * If you are paying with cash, you receive a $5 discount on any package * Standard Rental Package – $35 per person. Semi-auto paintball gun (a.k.a. marker) with 12oz constant air tank.
+title: Contact Us | Paintball Action Games
+snippet: CONTACT PAINTBALL ACTION GAMES. We are located in Glasgow (Newark) Delaware near 896 at 3110 Old County Road. We are NOT located in Hockessin! We are only open the day of scheduled events. Walk-ons (single, pair, or small group) should call first to establish a group is scheduled the day you intend to attend. Most Saturdays and Sundays are ...
+title: Information About Paintball Safety, Equipment - Delaware ...
+snippet: Let’s Play Some Paintball! Now we split everyone on hand from one or more groups into two teams. Your team is indicated by a colored armband. From here we start our day with a game of capture the flag on the Red field. For your safety and to ensure no one cheats, the game is reff’d by our staff.
+title: Paintball Action Games 3110 Old County Rd Newark, DE Paint ...
+snippet: Paintball is one of the world&#39;s newest outdoor participation sports. A combination of &quot;Capture the Flag&quot;, &quot;Hide &amp; Seek&quot; and &quot;Tag&quot;, but more fun! Players are divided into two teams. The object of the game is to capture the other team&#39;s flag while protecting your own. Paintballs are non-toxic gelatin capsules filled with washable color fluid.
+title: Paintball Action Games in Delaware - Newark, Delaware ...
+snippet: Paintball Action Games in Delaware, Newark, Delaware. 37 likes · 252 were here. Paintball Center
+title: Paintball Action Games of Delaware in Newark, DE 19702 ...
+snippet: Paintball Action Games of Delaware is located at 3110 Old County Rd,, Newark, DE 19702. Paintball Action Games of Delaware can be contacted at. Get ratings, reviews, hours, phone numbers, and directions.
+title: Top 25 Hotels Near Paintball Action Games of Delaware in ...
+snippet: Save Up To 70% On Hotels Closest To Paintball Action Games of Delaware In Newark, DE. Built For Teams, Athletes, &amp; Fans - Available To Everyone.
+title: PAINTBALL ACTION GAMES
+snippet: Paintball ACTION Games and Quest for Adventure have joined forces to offer our customers a new location for OUTDOOR paintball!! One of the longest running fields in Alberta is back for 2019! We are improving and reinvesting in the great outdoor layout. Come and see what we have done, and what we plan to do for the 2019 season and beyond ...
+title: Basics - Paintball Action Games
+snippet: Basics. Safety. Paintball Safety: Safety should be your number one concern when playing paintball. If it is not, then paintball is not the game for you. Why? Because paintball markers can cause serious injury if not used with respect and maturity.
+
+REL: 1
+POI Name: Mvj Athletics
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Martial Arts, Boxing, Trainers, 
+Snippets:
+title: MVJ Athletic Training Center
+snippet: MVJ is an amazing place to grow. If there is an element of your fighting that needs improvement this is the place to train it. They’ll make sure you learn the skill and teach you how to integrate it.
+title: CONTACT US - MVJ Athletic Training Center | MVJ Athletic ...
+snippet: COME VISIT ONE OF OUR CENTERS! Address: MVJ TRAINING CENTER II 520 Walnut Shade Rd Dover, DE 19901 Phone: 302-697-1289 MVJ TRAINING CENTER Delaware Industrial Park 705 Dawson Drive Newark, DE 19713 Phone: 302-861-6350 E-mail: MVJCLUBDE@Gmail.com
+title: SCHEDULE - MVJ Athletic Training Center | MVJ Athletic ...
+snippet: Delaware Industrial Park, 705 Dawson Drive, Newark, DE 19713. E-mail: mvjclubde@gmail.com
+title: MVJ Athletics Training Center - Home | Facebook
+snippet: MVJ Athletics Training Center, Newark, DE. 3,084 likes · 116 talking about this · 4,246 were here. Modern Vee Jitsu Headquarters offering some of the best Self defense, Boxing, Kickboxing and Muay...
+title: Mvj Athletics - 705 Dawson Dr, Newark, DE - 17 Photos ...
+snippet: 1 review of Mvj Athletics &quot;I have been with the gym over 3yrs now and it brought the best out of me. Great place to be, very supportive environment for wathever goal you might have.&quot;
+title: MVJ ATHLETICS - MVJ Athletic Training Center | MVJ ...
+snippet: MVJ ATHLETICS Modern Vee-Jitsu Athletics (M.V.J.A.) is an integrated training system designed specifically for athletes who want a systematic plan for achieving their individual goals. This unique athletic training system combines the discipline of the martial arts and the explosive methods of plyometrics training. The benefit of this combined training method gives an athlete the...
+title: NEWARK Archives - MVJ Athletic Training Center
+snippet: MVJ Athletics or Modern Vee-Jitsu Athletics (M.V.J.A.) is an integrated training system designed specifically for athletes who want a systematic plan for achieving their individual goals. This unique athletic training system combines the discipline of the martial arts and the explosive methods of plyometrics training.
+title: MVJ Athletics Training Center - Home | Facebook
+snippet: MVJ Athletics Training Center, Newark, DE. 3,092 likes · 24 talking about this · 4,267 were here. Modern Vee Jitsu Headquarters offering some of the best Self defense, Boxing, Kickboxing and Muay...
+title: MVJ Athletics Training - From $28.48 - Newark, DE | Groupon
+snippet: 705 Dawson Dr., Newark. $28.48 for One Month of Unlimited Boxing/Kickboxing Classes at MVJ Athletics Training ($99 Value) Sale Ends 1 day 18:32:05. 10+ viewed today. 51 ratings. Select Option. One Month Of Unlimited Boxing/Kickboxing Classes. 710+ bought. $99. $33.50. Extra $5.02 off, ends tomorrow.
+title: MVJ Athletics Training Center, 705 Dawson Dr, Newark, DE ...
+snippet: Modern Vee Jitsu Headquarters offering some of the best Self defense, Boxing, Kickboxing and Muay Thai classes in the area Our Facilities Programs: Self Defense - Modern Vee-Jitsu, Police Defense Systems Athletic Preparation - MVJ Athletics Sports Combat - Boxing, Mixed Martial Arts, Brazilian Jiu Jitsu, Kickboxing, Recognized Black Belts in The Modern Vee Jitsu System Under Grand Master ...
+
+REL: 1
+POI Name: Dauntless
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Martial Arts, 
+Snippets:
+title: Dauntless - Newark, DE - Yelp
+snippet: 1 review of Dauntless &quot;The way they instruct young children under the age of five is questionable. Do yourself a favor and talk to other BJJ parents in the area before you sign a contract with these folks. We have friends who own reputable BJJ…
+title: Dauntless BJJ &amp; MMA in Newark, Delaware
+snippet: At Dauntless ALL students are treated like Champions. New students or those lacking in athletic ability are NOT left behind. Every BJJ and MMA student at Dauntless gets in depth instruction with all efforts to make them something exceptional.
+title: Dauntless in Newark | Dauntless 13 Prestbury Sq, Newark ...
+snippet: Find Dauntless in Newark with Address, Phone number from Yahoo US Local. Includes Dauntless Reviews, maps &amp; directions to Dauntless in Newark and more from Yahoo US Local
+title: Dauntless Class Schedule Newark DE
+snippet: Brazilian Jiu-jitsu &amp; Mixed Martial Arts
+title: Twyford Classic/LL Dauntless, Pub, Newark (11) - YouTube
+snippet: This is another Newark pub. Awesome! We have another rarity in here n the form of a LL Dauntless from the 1960s. Pan is a replacement TC, but still decent. The urinal is original as well and is a ...
+title: Dauntless MMA &amp; BJJ - Home | Facebook
+snippet: Dauntless MMA &amp; BJJ, Newark. 358 likes · 1 talking about this · 73 were here. Dauntless offers exceptional training for serious students in both BJJ and MMA. Giving you a higher skill level in...
+title: Dauntless BJJ Josh Sachetti No Gi Final At &quot;The Good Fight ...
+snippet: Josh Sachetti of Dauntless BJJ in Newark Delaware with his Dad Allen J. Sachetti coaching wins the Gold Medal here in the Final at &quot;The Good Fight, Duel At Delaware&quot; Purple Belt 170-185 lb ...
+title: 11 Minutes of Dauntless PS4 Pro Gameplay - YouTube
+snippet: A first look at gameplay of Dauntless on the PS4 Pro. In this video, slayers take on a newer Behemoth called Boreus. Dauntless will be available for free on PS4, Xbox One, and PC (Epic Games Store ...
+title: Dauntless BJJ Delaware Josh Sachetti NAGA 2015 Purple Belt ...
+snippet: Josh Sachetti of Dauntless BJJ In Newark DE competes here at the 2015 NAGA Battle At The Beach Men&#39;s Purple Belt Division. A good fight here, close until Josh takes the back and dominates to win ...
+title: Dauntless Gym - Home | Facebook
+snippet: Dauntless Gym, Newark, Delaware. 105 likes. Delaware&#39;s premier BJJ &amp; MMA Instruction Center. Giving students far more than just a basic knowledge but genuine depth and expertise in multiple arts.
+
+REL: 1
+POI Name: Knockout Boxing and Fitness
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Boxing, Trainers, 
+Snippets:
+title: Knockout Boxing | Premier gym for Fitness, Boxing, and ...
+snippet: Now in three locations; Bel Air MD, Newark DE, and Middletown DE. All classes are instructed by experienced trainers with the knowledge and expertise to help you crush any of your goals. Whether you’re looking for something to help you get in shape, train professionally or anything in between Knockout Boxing is the place to make it happen.
+title: Knockout Boxing - Home | Facebook
+snippet: Knockout Boxing, Newark, Delaware. 15,052 likes · 44 talking about this · 2,062 were here. Fitness at a price you can afford!
+title: Contact Knockout Boxing &amp; Fitness
+snippet: Knockout Boxing and Fitness. Knockout Boxing and Fitness. 223 Brierhill Drive, Bel Air, Maryland 21015. Phone: 302-737-3708. Follow; Knockout Boxing Newark, Delaware (302) 737-3708. 1244 Capitol Trail, Newark, DE 19711. Follow; Knockout Boxing Middletown, Delaware (302) 828-0028.
+title: ABOUT | Knockout Boxing
+snippet: Knockout Sports Club is the premiere fitness organization in Newark DE, Bel Air MD, and Middletown DE! Established August of 2010, we have been serving the community by providing clients with a complete fitness experience. We utilize Boxing and Kickboxing style training to deliver to the client what other fitness establishments cannot.
+title: Knockout Boxing And Fitness Newark De - All Photos Fitness ...
+snippet: Newark delaware knockout boxing and fitness gym 223 homepag wip knockout boxing local fitness experts help parkinson s fitness cles deals in newark de Knockout Boxing Premier Gym For Fitness And KickboxingKnockout Boxing Premier Gym For Fitness And KickboxingKnockout Boxing Premier Gym For Fitness And KickboxingKnockout Boxing Premier Gym For Fitness And KickboxingKnockout Boxing Premier […]
+title: ABILITY BOXING | Knockout Boxing
+snippet: ABILITY BOXING. Ability Boxing is a fitness &amp; boxing program for all abilities!. The Ability Boxing program is catered to individuals with specific needs. Currently offering classes for individuals with Parkinsons, participants will take part in boxing, moderate weight training, balance, core control and additional cognitive training.
+title: Knockout Boxing - Services | Facebook
+snippet: Knockout Boxing, Newark, Delaware. 15,053 likes · 27 talking about this · 2,047 were here. Fitness at a price you can afford!
+title: Knockout Boxing And Fitness - Newark, DE - Alignable
+snippet: Knockout is the Largest provider of authentic Boxing in Delaware. Housing world ranked professionals and golden glove winning amateurs, Knockout delivers quality instruction in a facility that kicks the typical boxing gym fit out. Our group fitness classes are incredibly popular and proven to get our clients the best results possible!
+title: Knockout Boxing - About | Facebook
+snippet: Knockout Boxing, Newark, Delaware. 15,048 likes · 9 talking about this · 2,062 were here. Fitness at a price you can afford!
+title: Knockout Boxing, 1244 Capitol Trail, Newark, DE (2020)
+snippet: Knockout Boxing And Sports Club is Wimington&#39;s premier gym for Fitness, Boxing, KickBoxing, MMA, Judo, and Jiu Jitsu/Submission Wrestling! Open Monday to Saturday. Offering Free trial classes in all areas for those interested!
+
+REL: 1
+POI Name: Jazzercise - Newark
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Dance Studios, 
+Snippets:
+title: newark jazzercise - Jazzercise
+snippet: Jazzercise Newark Life Community Church. Jazzercise Newark Life Community Church in Newark , DE offers group fitness classes for all levels. Our classes incorporate HIIT cardio dance moves with strength training for the ultimate full-body workout that can slay your wellness goals.
+title: jazzercise newark tri city fitness center - Jazzercise
+snippet: Jazzercise Newark Tri-City Fitness Center. Jazzercise Newark Tri-City Fitness Center in Newark, CA offers group fitness classes for all levels. Our classes incorporate HIIT cardio dance moves with strength training for the ultimate full-body workout that can slay your wellness goals.
+title: newark jazzercise - Jazzercise
+snippet: Jazzercise exercise programs are 60-minute fitness classes incorporating cardio, strength, and stretch moves for a total body workout. Jazzercise class combines moves from yoga, Pilates, jazz dance exercise, hip-hop, and kickboxing. All ages, levels, and sizes welcome to join our dance exercise programs so find a class near you today!
+title: Jazzercise Newark-Middletown-Elkton - 2,133 Photos - 45 ...
+snippet: Jazzercise Newark-Middletown-Elkton - - Rated 5 based on 45 Reviews &quot;Great workout with great people and so much fun you won’t feel like you are...
+title: Jazzercise Tri-City Fitness Center Newark California ...
+snippet: Jazzercise Tri-City Fitness Center Newark California - 37420 Cedar Blvd, Ste B, Newark, California 94560 - Rated 4.9 based on 33 Reviews &quot;My favorite!...
+title: Newark Jazzercise 598 Marbletown Rd Newark, NY - MapQuest
+snippet: Get directions, reviews and information for Newark Jazzercise in Newark, NY.
+title: Jazzercise Newark-Middletown-Elkton - 2,122 Photos - 45 ...
+snippet: Jazzercise Newark-Middletown-Elkton - - Rated 5 based on 45 Reviews &quot;Great workout with great people and so much fun you won’t feel like you are...
+title: Jazzercise - Newark 750 Otts Chapel Rd Newark, DE Dance ...
+snippet: Newark Jazzercise is a great way to stay fit while having fun. Not only are you getting fit while dancing and exercising to all the popular music, but you get to meet great people who all have...
+title: Jazzercise Newark-North East-Elkton - Newark, United States
+snippet: We have 3 locations with a total of 33 Weekly classes- Newark- Life Community Church 750 Otts Chapel Rd Newark, DE 19713 North East- Shelemiah UMC 356 Old Bay V...
+title: Jazzercise Locations Near Newark, OH
+snippet: Jazzercise Near Me. Coughlin Automotive Of Newark. 1850 N 21st St Newark OH 43055. Phone: 7403661371. Newark Goodyear Inc. 370 Baker Blvd Newark OH 43055. Phone: 7403664695. Brookdale Newark. 331 Goosepond Rd Newark OH 43055. Phone: 7402042641. Interim Healthcare Of Newark OH. 900 Sharon Valley Rd Newark OH 43055.
+
+REL: 1
+POI Name: Aerial Fun & Fitness
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trainers, Yoga, Pilates, 
+Snippets:
+title: Aerial Fun &amp; Fitness - one hammock. many styles.
+snippet: A unique and fun fitness style using an aerial silks hammock for core strength, flexibility, and posture. Zina DiTonno, Trainer and Instructor, brings Aerial Fun and Fitness to the Newark, Wilmington, Pike Creek, Delaware DE areas.
+title: Aerial Fitness Studio, Newark DE ... - Aerial Fun &amp; Fitness
+snippet: Aerial yoga style fitness classes using aerial silks hammocks at our Newark DE studio. Located on the edge of Pike Creek, behind the Wells Fargo, in the Meadowood II Shopping Center.
+title: Aerial Fun and Fitness - Home | Facebook
+snippet: Aerial Fun and Fitness, Newark, Delaware. 1.1K likes. One hammock. Many styles. Aerial Fitness has a special focus on 3 dimensional movement, conditioning and joint rotation and mobility.
+title: Aerial Parties and Team Building ... - Aerial Fun &amp; Fitness
+snippet: NOW OFFERING TEAM BUILDING OR PRIVATE GROUP WORKSHOPS! Looking for a fun and unique way to bring your employees or your own group together? We can provide experienced Aerial instructors as a recreational offering to any meeting. These Aerial Workshops can be tailored to meet your team’s specific needs, experience level, and desired outcomes.
+title: Aerial Teaching Team - Wilmington ... - Aerial Fun &amp; Fitness
+snippet: KELSEY HAMMOND INSTRUCTOR AT AERIAL FUN AND FITNESS, WILMINGTON DE . Come check out Kelsey&#39;s personable and graceful teaching style. Her lines tell a story of poise and ease while instructing with all the details to create a wonderful aerial fitness experience.
+title: Aerial Fun and Fitness, 2632 Kirkwood Hwy, Newark, DE (2020)
+snippet: One hammock. Many styles. Aerial Fitness has a special focus on 3 dimensional movement, conditioning and joint rotation and mobility. IT’S NOT ACROBATS, IT’S YOGA STYLE FITNESS! Aerial Fitness and Aerial Yoga is accessible to all body shapes and sizes. It uses and integrates floor poses from traditional hatha yoga, Pilates, stretching, and fitness based moves while using a hammock to ...
+title: Schedule for Aerial Fun &amp; Fitness | fitli
+snippet: Aerial Fun &amp; Fitness 2632 Capitol Trail Newark, DE 19711 888-602-1148. Make purchase. View Specials. Filter Classes Show all ...
+title: Aerial Fun &amp; Fitness in Newark | Aerial Fun &amp; Fitness 2634 ...
+snippet: Find Aerial Fun &amp; Fitness in Newark with Address, Phone number from Yahoo US Local. Includes Aerial Fun &amp; Fitness Reviews, maps &amp; directions to Aerial Fun &amp; Fitness in Newark and more from Yahoo US Local
+title: Aerial Fun &amp; Fitness - Yoga Studio in Newark
+snippet: In a fitness rut? Try Aerial Fitness a unique fun fitness style (and get some new brain cells as well) using an aerial silk hammock or silk loop to improve core strength, flexibility, and posture. One hammock many styles - gentle and restorative, fun and flying, or power and strength. Something for everyone.
+title: Aerial Fun and Fitness - Newark, DE - Alignable
+snippet: Aerial Fitness and Aerial Yoga is accessible to all body shapes and sizes. It uses and integrates floor poses from traditional hatha yoga, Pilates, stretching, and fitness based moves while using a hammock to counteract gravity and create a fun experience.
+
+REL: 1
+POI Name: Launch Trampoline Park
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Trampoline Parks, 
+Snippets:
+title: Launch Trampoline Park Newwark, DE | Premier Trampoline Park
+snippet: Don&#39;t just jump, Launch! Launch Newark is DE&#39;s premier trampoline park. We have fun attractions and events for all ages, including a main court trampoline, delicious food, full-service birthday parties, and group events and programs. Visit Launch Trampoline Park today.
+title: Launch Trampoline Park Newark, DE | Birthday Parties
+snippet: Launch Newark, DE holds the best birthday parties for kids! Choose from multiple stress-free birthday party packages that include jump time, food, prizes &amp; more. Let Launch Newark handle the work, while you handle the fun. It&#39;s sure to be the Best. Birthday. Ever!
+title: Launch Trampoline Park Newark, DE | Programs
+snippet: Launch Newark, DE has an endless choice of indoor activities for families. Enjoy time with your little one during Toddler Time, or get fit with friends at our trampoline fitness class. We even have your teens covered with our awesome teen night, Ignite! Check out our programs and sign up today!
+title: Launch Trampoline Park | Pricing
+snippet: Launch Trampoline Park offers a variety of combos for you and your friends to have the best day ever! Our combos include general admission, pizza, and other exciting add-ons. Click here to view our pricing and purchase your tickets for a day full of fun.
+title: Launch Trampoline Park Newark, ST | Attractions
+snippet: Launch Trampoline Park Newark, DE has indoor entertainment and attractions for all ages! Launch with friends at our indoor trampoline park and enjoy our arcade, dodgeball, and more. Check out all of our indoor attractions, and enjoy all Launch has to offer! Skip to main content.
+title: Launch Trampoline Park (Newark) - 2020 All You Need to ...
+snippet: Best Trampoline Park Facility, but staff could be friendlier &amp; MORE prepared Our kids were invited back to another birthday park at Launch. Kids had a blast there last time so we did not hesitate to take them to another party here.
+title: Launch Trampoline Park Newark, DE | Group Events
+snippet: Launch is the perfect destination for bachelor and bachelorette parties, college groups, corporate events, boy scouts, girl scouts, youth groups, sports teams, overnight events, and so much more in Newark, DE! Launch provides endless fun such as extreme dodgeball tournaments, basketball dunking competitions, a wall-to-wall trampoline surface ...
+title: Launch Trampoline Park Newark - Home | Facebook
+snippet: Launch Trampoline Park Newark, Newark. 15K likes. Where memories are created.
+title: Launch Trampoline Park - Newark - Newark, DE | Groupon
+snippet: Stop by Launch Trampoline Park - Newark in Newark today and have a fun-filled experience with the whole entire family.Easy parking is accessible for Launch Trampoline Park - Newark&#39;s customers. Launch Trampoline Park - Newark is a place you&#39;ll love to visit, so don&#39;t wait around, give them a call today!
+title: Launch Trampoline Park | Corporate Homepage
+snippet: Launch Trampoline Park is endless indoor entertainment for kids and adults. We provide a safe and fun environment for full-service birthday parties, group events, and fitness programs. Jump on our main trampoline court, win prizes in our arcade, and create your own pizza! Jump into the FUN today!
+
+REL: 1
+POI Name: Delcastle Golf Center Driving Range
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Mini Golf, 
+Snippets:
+title: Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Golf | Delcastle Golf Course
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Delcastle Golf Center Driving Range Millcreek Rd ...
+snippet: Get reviews, hours, directions, coupons and more for Delcastle Golf Center Driving Range at Millcreek Rd, Wilmington, DE 19801. Search for other Golf Instruction in Wilmington on The Real Yellow Pages®.
+title: Delcastle Golf Center Driving Range - Wilmington, DE | Groupon
+snippet: Delcastle Golf Driving Range in Wilmington offers a safe haven for golfers, beginners and pros. Delcastle Golf Driving Range offers a professional practice facility, including a spacious driving range.Delcastle Golf Driving Range&#39;s patrons can find places to park in the area. So if you&#39;re hoping to boost your athleticism, try your hand (or your golf swing) at Delcastle Golf Driving Range i
+title: Delcastle Golf Center Driving Range 3601 Millcreek Rd ...
+snippet: Get directions, reviews and information for Delcastle Golf Center Driving Range in Wilmington, DE. Delcastle Golf Center Driving Range 3601 Millcreek Rd Wilmington DE 19808. 2 Reviews (302) 995-6889. Menu &amp; Reservations Make Reservations . Order Online Tickets ...
+title: Delcastle Golf Driving Range - Wilmington, Delaware ...
+snippet: Delcastle Golf Driving Range, Wilmington, Delaware. 118 likes. Driving Range
+title: Delcastle Golf Center &amp; Driving Range - Wilmington, DE ...
+snippet: The Delcastle Golf Center &amp; Driving Range, located in Wilmington, DE, is a Golf Course that offers playing grounds, practice areas for driving and putting, and other facilities for golfers.
+title: Academy | Delcastle Golf Course
+snippet: Visit Delcastle Golf Course in Wilmington, DE to fine-tune your game at our practice facility and learn at the Delcastle Golf Academy.
+title: Dining - Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: The Delcastle Restaurant is located on the first floor of the clubhouse, adjacent to the pro shop. Enjoy a pub style menu offering our crowd favorite half-pound burgers and over 30 beer options along with a full bar. Come out and dine with us in the bar or on our patio overlooking the course.
+title: Book a Tee Time | Delcastle Golf Course | Wilmington Delaware
+snippet: Book a Tee Time at Delcastle Golf Course located in Wilmington Delaware
+
+REL: 1
+POI Name: Anytime Fitness
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Anytime Fitness - Gym in Newark, DE 19711
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 4,000 gyms, and always open 24/7 convenience.
+title: Anytime Fitness - Gym in Newark, CA 94560
+snippet: Welcome to your neighborhood 24 hour gym in Newark! Whether you&#39;re a beginner or a fitness regular, we&#39;ll help you get to a healthier place.
+title: Anytime Fitness - Gym in Newark, DE 19711
+snippet: Hi! We&#39;re Anytime Fitness - Louviers! Members have 24/7 access to our clean, quiet club (plus every AF in the world after 30 days!). Our trainers and manager are CPR/First Aid/AED certified in addition to holding NASM/ACSM/CSCS certifications, so you&#39;re always in capable hands.
+title: Anytime Fitness - Newark, DE - Yelp
+snippet: 7 reviews of Anytime Fitness &quot;Before joining Anytime Fitness on South Main St. in Newark, I&#39;ve constantly had, more or less, a love-hate relationship with gym membership over the years. After jumping through hoops to get you to sign up for a one,…
+title: Anytime Fitness Newark on Trent - Home | Facebook
+snippet: Anytime Fitness Newark on Trent - Castle Gate, NG241BE Newark, Nottingham, United Kingdom - Rated 4.8 based on 66 Reviews &quot;Great place, just the music...
+title: Anytime Fitness Newark - South Main - Home | Facebook
+snippet: Anytime Fitness Newark - South Main - 247 S Main St, Newark, Delaware 19711 - Rated 4.8 based on 23 Reviews &quot;I love this gym! Chaz is an excellent...
+title: Anytime Fitness Newark - Home | Facebook
+snippet: Anytime Fitness Newark, Newark. 605 likes · 9 talking about this · 2,928 were here. Anytime Fitness is the neighborhood club that fits your on-the-go lifestyle. We would love to meet you, so please...
+title: Anytime Fitness 4 Seasons - Home | Facebook
+snippet: Anytime Fitness 4 Seasons - 660 Plaza Dr, Newark, Delaware 19702 - Rated 4.9 based on 58 Reviews &quot;A great gym, and handy location to home. The 24-hour...
+title: Anytime Fitness at Louviers Plaza - Home | Facebook
+snippet: Anytime Fitness at Louviers Plaza - 201 Louviers Dr, Newark, Delaware 19711 - Rated 4.5 based on 33 Reviews &quot;Great place nice love it so far nice stuff&quot;
+title: Anytime Fitness - Training | Let&#39;s Make Healthy Happen
+snippet: Anytime Fitness – Let&#39;s make healthy happen together with helpful, friendly coaches, thousands of welcoming locations worldwide. Gym are open 24 hours as healthy happens around the clock.
+
+REL: 1
+POI Name: Morelia Mexican Restaurant & Bar
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: Morelia Mexican Restaurant and Bar - Newark, Delaware ...
+snippet: Morelia Mexican Restaurant and Bar - 4617 Ogletown Stanton Rd, Newark, Delaware 19713 - Rated 4.8 based on 70 Reviews &quot;My son ordered take out Thursday...
+title: Morelia Mexican Restaurant - Newark, DE
+snippet: Morelia Mexican Restaurant, Mexican business in Newark. See up-to-date pricelists and view recent announcements for this location.
+title: Morelia Mexican Restaurant, Newark - Menu, Prices ...
+snippet: Morelia Mexican Restaurant, Newark: See 45 unbiased reviews of Morelia Mexican Restaurant, rated 4 of 5 on Tripadvisor and ranked #116 of 350 restaurants in Newark.
+title: Morelia Mexican Restaurant &amp; Bar - 4617 Ogletown Stanton ...
+snippet: Welcome to Morelia Mexican Restaurant &amp; Bar in Newark. Click here to view our menu, hours, and order food online.
+title: Morelia Mexican Restaurant &amp; Bar Newark, DE 19713 - Menu ...
+snippet: Latest reviews, photos and ??ratings for Morelia Mexican Restaurant &amp; Bar at 4617 Ogletown Stanton Rd in Newark - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Morelia Mexican Restaurant and Bar - Newark, Delaware ...
+snippet: Morelia Mexican Restaurant and Bar - 4617 Ogletown Stanton Rd, Newark, Delaware 19713 - Rated 4.8 based on 75 Reviews &quot;Taco Tuesday!! Out with the Palma’s!&quot;
+title: Morelia Mexican Restaurant, Newark - Restaurantanmeldelser ...
+snippet: Morelia Mexican Restaurant, Newark: Se 45 objektive anmeldelser av Morelia Mexican Restaurant, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 116 av 350 restauranter i Newark.
+title: Morelia Mexican Restaurant &amp; Bar Menu &amp; Delivery Newark DE ...
+snippet: Order delivery or take out from Morelia Mexican Restaurant &amp; Bar in Newark. View the menu, current specials &amp; order food online now.
+title: Morelia Mexican Restaurant &amp; Bar - Newark, DE
+snippet: 58 reviews of Morelia Mexican Restaurant &amp; Bar &quot;I&#39;ve been here once and all I can say is that it was pretty delicious. The fish tacos are a must have! The refried beans, let me tell you, I never liked refried beans before until I tried them and…
+title: Morelia Mexican Restaurant &amp; Bar Delivery in Newark ...
+snippet: Get delivery from Morelia Mexican Restaurant &amp; Bar super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+
+REL: 1
+POI Name: Anytime Fitness
+POI City: Newark
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Gyms, Trainers, 
+Snippets:
+title: Anytime Fitness - Gym in Newark, DE 19711
+snippet: Get to a healthier place at Anytime Fitness! Our friendly, professional staff is trained to help you along your fitness journey, no matter how much support you need. Membership includes a free, no-pressure fitness consultation, global access to more than 4,000 gyms, and always open 24/7 convenience.
+title: Anytime Fitness - Gym in Newark, CA 94560
+snippet: Welcome to your neighborhood 24 hour gym in Newark! Whether you&#39;re a beginner or a fitness regular, we&#39;ll help you get to a healthier place.
+title: Anytime Fitness - Gym in Newark, DE 19711
+snippet: Hi! We&#39;re Anytime Fitness - Louviers! Members have 24/7 access to our clean, quiet club (plus every AF in the world after 30 days!). Our trainers and manager are CPR/First Aid/AED certified in addition to holding NASM/ACSM/CSCS certifications, so you&#39;re always in capable hands.
+title: Anytime Fitness - Newark, DE - Yelp
+snippet: 7 reviews of Anytime Fitness &quot;Before joining Anytime Fitness on South Main St. in Newark, I&#39;ve constantly had, more or less, a love-hate relationship with gym membership over the years. After jumping through hoops to get you to sign up for a one,…
+title: Anytime Fitness Newark on Trent - Home | Facebook
+snippet: Anytime Fitness Newark on Trent - Castle Gate, NG241BE Newark, Nottingham, United Kingdom - Rated 4.8 based on 66 Reviews &quot;Great place, just the music...
+title: Anytime Fitness Newark - South Main - Home | Facebook
+snippet: Anytime Fitness Newark - South Main - 247 S Main St, Newark, Delaware 19711 - Rated 4.8 based on 23 Reviews &quot;I love this gym! Chaz is an excellent...
+title: Anytime Fitness Newark - Home | Facebook
+snippet: Anytime Fitness Newark, Newark. 605 likes · 9 talking about this · 2,928 were here. Anytime Fitness is the neighborhood club that fits your on-the-go lifestyle. We would love to meet you, so please...
+title: Anytime Fitness 4 Seasons - Home | Facebook
+snippet: Anytime Fitness 4 Seasons - 660 Plaza Dr, Newark, Delaware 19702 - Rated 4.9 based on 58 Reviews &quot;A great gym, and handy location to home. The 24-hour...
+title: Anytime Fitness at Louviers Plaza - Home | Facebook
+snippet: Anytime Fitness at Louviers Plaza - 201 Louviers Dr, Newark, Delaware 19711 - Rated 4.5 based on 33 Reviews &quot;Great place nice love it so far nice stuff&quot;
+title: Anytime Fitness - Training | Let&#39;s Make Healthy Happen
+snippet: Anytime Fitness – Let&#39;s make healthy happen together with helpful, friendly coaches, thousands of welcoming locations worldwide. Gym are open 24 hours as healthy happens around the clock.
+
+REL: 1
+POI Name: Perkins Restaurant & Bakery
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, Breakfast & Brunch, American (Traditional), 
+Snippets:
+title: Perkins Newark - Family Restaurant, Bakery, Breakfast
+snippet: Visit your local Perkins at 700 Capital Trail in Newark, DE for casual family dining with bakery, pancakes, omelettes, coffee, eggs, waffles, melt sandwiches, and breakfast served all day.
+title: Perkins Restaurant &amp; Bakery, Newark - Menu, Prices ...
+snippet: Perkins Restaurant &amp; Bakery, Newark: See 23 unbiased reviews of Perkins Restaurant &amp; Bakery, rated 4 of 5 on Tripadvisor and ranked #92 of 350 restaurants in Newark.
+title: Perkins locations in Newark | Family Restaurant, Bakery ...
+snippet: Perkins in-store bakery locations serve a mouth-watering selection of premium freshly baked Mammoth Muffins, cookies, cream pies, fruit pies and specialty pastries every day. From breakfast and lunch, to dinner and dessert, there&#39;s something on the Perkins&#39; menu for everyone in the family.
+title: Perkins | Perkins Restaurant &amp; Bakery
+snippet: March 17th, 2020 Update | We’re committed to the safety and well-being of our community and employees. As we continue to learn more about COVID-19 and work with local partners, your restaurant may be impacted by a closure or changing hours and/or menus.
+title: Menu | Perkins Restaurant &amp; Bakery
+snippet: Perkins - Restaurant &amp; Bakery. Locations; Menu; Gift Cards; MYPERKINS ®; Kid Perks ®; Order Online; JOIN OUR TABLE
+title: Perkins Restaurant &amp; Bakery, Newark, Wilmington ... - Zomato
+snippet: Perkins Restaurant &amp; Bakery Wilmington; Perkins Restaurant &amp; Bakery, Newark; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Perkins Restaurant &amp; Bakery Restaurant on Zomato
+title: Perkins Menu Choice and Value - Perkins Restaurant &amp; Bakery
+snippet: Perkins Restaurant &amp; Bakery: Perkins Menu Choice and Value - See 23 traveler reviews, candid photos, and great deals for Newark, DE, at Tripadvisor.
+title: Where&#39;s the Bacon? - Review of Perkins Restaurant &amp; Bakery ...
+snippet: Perkins Restaurant &amp; Bakery: Where&#39;s the Bacon? - See 23 traveler reviews, candid photos, and great deals for Newark, DE, at Tripadvisor.
+title: Perkins Restaurant &amp; Bakery - TripAdvisor
+snippet: Perkins Restaurant &amp; Bakery: Not so good anymore - See 23 traveler reviews, candid photos, and great deals for Newark, DE, at Tripadvisor.
+title: Find the nearest Perkins location near you | Family ...
+snippet: Search Perkins locations for casual family dining with bakery, pancakes, omelettes, coffee, eggs, waffles, melt sandwiches, and breakfast served all day. Find the nearest Perkins location near you | Family Restaurant, Bakery, Breakfast
+
+REL: 0
+POI Name: Village Greens Miniature Golf
+POI City: Strasburg
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Venues & Event Spaces, Recreation Centers, 
+Snippets:
+
+
+REL: 0
+POI Name: Rackers
+POI City: Newark
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Rackers Bar &amp; Billiards - Newark, Delaware | Facebook
+snippet: Rackers Bar &amp; Billiards - 1232 Capitol Trl, Newark, Delaware 19711 - Rated 4.1 based on 66 Reviews &quot;Wasn’t the best bar I’ve been to but also wasn’t the...
+title: Rackers - Bars - 1232 Capitol Trl, Newark, DE - Phone ...
+snippet: Rackers is awesome!! Mainly because of the great bartenders. Scotty works Monday&#39;s and Thursday&#39;s and is an amazing bartender. Jimmy is also a great bartender. They have been completely renovated so if you haven&#39;t been there recently prepare to be surprised. They have great beer and cocktails and a very cool group of regulars.
+title: Rackers in Newark | Rackers 1232 Capitol Trl, Newark, DE ...
+snippet: Find Rackers in Newark with Address, Phone number from Yahoo US Local. Includes Rackers Reviews, maps &amp; directions to Rackers in Newark and more from Yahoo US Local
+title: Rackers in Newark, DE - Brew Pubs by Yellow Pages ...
+snippet: Rackers is a business providing services in the field of Brew Pubs. The business is located in Newark, Delaware, United States. Their telephone number is 1 (302) 731-4131. Find over 27 million businesses in the United States on The Official Yellow Pages Directory website. Find trusted, reliable customer reviews on contractors, restaurants, doctors, movers and more.
+title: Rackers 1232 Capitol Trl Newark, DE Bars - MapQuest
+snippet: Get directions, reviews and information for Rackers in Newark, DE.
+title: Online Menu of Rackers, Newark, DE
+snippet: View the menu for Rackers and restaurants in Newark, DE. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Rackers Newark, DE 19711 - 29 Reviews and Photos ...
+snippet: Latest reviews, photos and ??ratings for Rackers at 1232 Capitol Trail in Newark - ⏰hours, ☎️phone number, ☝address and map.
+title: Rackers in Newark, DE - Wines: Yellow Pages Directory Inc.
+snippet: Rackers is a business providing services in the field of Wines. The business is located in Newark, Delaware, United States. Their telephone number is 1 (302) 731-4131. Find over 27 million businesses in the United States with reliable customer reviews, business hours, directions, maps and more.
+title: Rackers in Newark, DE - Beer Taverns
+snippet: Rackers is located at 1232 Capitol Trl in Newark, DE - New Castle County and is a business listed in the categories Beer Taverns, Bars &amp; Grills, Bars, Grills &amp; Lounges, Limited-Service Restaurants and Restaurants and offers Beer. After you do business with Rackers, please leave a review to help other people and improve hubbiz.
+title: Come in to RACKERS. It’s your friendly... - Rackers Bar ...
+snippet: Come in to RACKERS. It’s your friendly neighborhood bar. Free pool til 6:00. Great drink specials! Great people! Great fun!! Alison behind the bar. See you soon
+
+REL: 0
+POI Name: Panaderia Y Taqueria Lili
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Panaderia y Taqueria Lili - Newark, Delaware - Mexican ...
+snippet: Panaderia y Taqueria Lili, Newark, Delaware. 117 likes. Mexican Restaurant
+title: Panaderia Y Taqueria Lili 2622 Kirkwood Hwy Newark, DE ...
+snippet: Panaderia Y Taqueria LILI is a moderately priced, full service Mexican Restaurant providing unique foods in a family, neighborhood setting. Attentive, upbeat service is given to customers, thus, customers feel like Panaderia Y Taqueria LILI is their neighborhood restaurant where a consistent staff ensures guests will have consistently great food in a warm and friendly environment.
+title: Online Menu of Panaderia Y Taqueria Lili, Newark, DE
+snippet: View the menu for Panaderia Y Taqueria Lili and restaurants in Newark, DE. See restaurant menus, reviews, hours, photos, maps and directions.
+title: Panaderia Y Taqueria Lili 2622 Kirkwood Hwy Newark, DE ...
+snippet: Get directions, reviews and information for Panaderia Y Taqueria Lili in Newark, DE. Panaderia Y Taqueria Lili 2622 Kirkwood Hwy Newark DE 19711. 8 Reviews (302) 266-7177. Menu &amp; Reservations ... Panaderia y Taqueria Lili is a small restaurant on Kirkwood Highway inside a small strip of businesses near the YMCA.
+title: Panaderia Y Taqueria Lili Newark, DE 19711 - 28 Reviews ...
+snippet: Panaderia y Taqueria Lili is a small restaurant on Kirkwood Highway inside a small strip of businesses near the YMCA. The unpresuming exterior belies a modestly decorated inside with tables and seating for thirty. Perhaps the most striking feature upon entering is the counter, behind which the large kitchen is open and visible.
+title: Panaderia Y Taqueria Lili in Newark - Restaurant menu and ...
+snippet: All info on Panaderia Y Taqueria Lili in Newark - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: Panaderia y Taqueria Lili (Newark): My... - Delaware ...
+snippet: Panaderia y Taqueria Lili (Newark): My Say, My Way... 4-8-18 4:45PM Parking was easy, in a strip mall. Parked right up front. This place is a bakery/restaurant. I came in right before normal...
+title: Panaderia Y Taqueria Lili in Newark | Panaderia Y Taqueria ...
+snippet: Find Panaderia Y Taqueria Lili in Newark with Address, Phone number from Yahoo US Local. Includes Panaderia Y Taqueria Lili Reviews, maps &amp; directions to Panaderia Y Taqueria Lili in Newark and more from Yahoo US Local
+title: Panaderia Y Taqueria Lili 2622 Kirkwood Hwy, Newark, DE ...
+snippet: Panaderia Y Taqueria LILI is a moderately priced, full service Mexican Restaurant providing unique foods in a family, neighborhood setting. Attentive, upbeat service is given to customers, thus, customers feel like Panaderia Y Taqueria LILI is their neighborhood restaurant where a consistent staff ensures guests will have consistently great food in a warm and friendly environment.
+
+REL: 0
+POI Name: Hot Bagels Cafe
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bagels, Sandwiches, 
+Snippets:
+title: Hot Bagels Cafe - 17 N Chapel St Newark DE ...
+snippet: Welcome to Hot Bagels Cafe in Newark. Click here to view our menu, hours, and order food online.
+title: The Original Hot Bagels / Newark DE / United States
+snippet: The Original Hot Bagels is an authentic bagel and breakfast restaurant. At The Original Hot Bagels, we believe that a bagel should taste like a bagel and not like round bread. Creating the perfect bagel is an art that requires skill and patience.
+title: Hot Bagels Cafe - 17 N Chapel St, Newark, DE - Bagels ...
+snippet: 9 reviews of Hot Bagels Cafe &quot;The bagel is a perfect breakfast bread because of its versatility. Its dough can be baked with a variety of ingredients like peppers and tomatoes, and bagels can be adorned with poppy seeds, garlic, onions and enough…
+title: Hot Bagels Cafe, Newark - Restaurant Reviews, Photos ...
+snippet: Hot Bagels Cafe, Newark: See 2 unbiased reviews of Hot Bagels Cafe, rated 4.5 of 5 on Tripadvisor and ranked #222 of 350 restaurants in Newark.
+title: Hot Bagels Cafe Menu &amp; Delivery Newark DE 19711 ...
+snippet: Order delivery or take out from Hot Bagels Cafe in Newark. View the menu, current specials &amp; order food online now.
+title: Hot Bagels Cafe Newark, DE 19711 - Menu, 33 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Hot Bagels Cafe at 17 N Chapel St in Newark - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Hot Bagels - The Original, Newark - Photos &amp; Restaurant ...
+snippet: Order food online at Hot Bagels - The Original, Newark with TripAdvisor: See 11 unbiased reviews of Hot Bagels - The Original, ranked #128 on TripAdvisor among 352 restaurants in Newark.
+title: The Original - Hot Bagels, Newark - 131 E Main St - Menu ...
+snippet: Order food online at The Original - Hot Bagels, Newark with Tripadvisor: See 11 unbiased reviews of The Original - Hot Bagels, ranked #128 on Tripadvisor among 349 restaurants in Newark.
+title: Great Bagels - Review of Hot Bagels Cafe, Newark, DE ...
+snippet: Hot Bagels Cafe: Great Bagels - See 2 traveler reviews, candid photos, and great deals for Newark, DE, at Tripadvisor.
+title: Friendly service, good bagels - Review of Hot Bagels Cafe ...
+snippet: Hot Bagels Cafe: Friendly service, good bagels - See 2 traveler reviews, candid photos, and great deals for Newark, DE, at Tripadvisor.
+
+REL: 0
+POI Name: Main Street Movies 5
+POI City: Newark
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Cinema, 
+Snippets:
+title: Main Street Movies 5 - movie times &amp; tickets
+snippet: Digital state of the art movie theatre with 5 screens, located in Newark, DE, near the University of Delaware campus.
+title: Main Street Movies 5 Movie Times | Showtimes and Tickets ...
+snippet: Find Main Street Movies 5 showtimes and theater information at Fandango. Buy tickets, get box office information, driving directions and more.
+title: Main Street Movies 5 (Newark) - 2020 All You Need to Know ...
+snippet: My family and I reserved a party room for tween birthday party. $50 for the party room rental was well worth it! We ordered pizzas - which were really a good deal and way cheaper than buying all the kids a candy bar each.
+title: Never again! - Review of Main Street Movies 5, Newark, DE ...
+snippet: Main Street Movies 5: Never again! - See 16 traveler reviews, 2 candid photos, and great deals for Newark, DE, at Tripadvisor.
+title: Restaurants Near Main Street Movies 5, Newark, Delaware
+snippet: Restaurants near Main Street Movies 5, Newark on Tripadvisor: Find traveler reviews and candid photos of dining near Main Street Movies 5 in Newark, Delaware.
+title: Main Street Movies 5 - Newark, Delaware | Facebook
+snippet: Main Street Movies 5. 2.5K likes. Main Street Movies 5 is a digital state of the art movie theatre with 5 screens, located in Newark, DE, near the University of Delaware campus.
+title: Main Street Movies 5 - 26 Reviews - Cinema - 401 Newark ...
+snippet: 26 reviews of Main Street Movies 5 &quot;Reasonable prices on tickets, drinks and food. Comfiest movie theater seats I&#39;ve ever sat in, and lots of space between seats so being next to someone you don&#39;t know isn&#39;t awkward at all. The bar has a good…
+title: Main Street Movies 5 - Newark, Delaware | Facebook
+snippet: Main Street Movies 5. 2.5K likes. Main Street Movies 5 is a digital state of the art movie theatre with 5 screens, located in Newark, DE, near the University of Delaware campus.
+title: Main Street Movies 5 (Newark) - 2020 All You Need to Know ...
+snippet: Newark Tourism; Newark Hotels; Bed and Breakfast Newark; Newark Holiday Rentals; Flights to Newark; Newark Restaurants; Newark Attractions; Newark Travel Forum; Newark Photos; Newark Map; Newark Guide; All Newark Hotels; Newark Hotel Deals; Last Minute Hotels in Newark; By Hotel Type. Newark Motels; Spa Hotels in Newark; Newark Green Hotels ...
+title: Main Street Movies 5, Newark | cityseeker
+snippet: Main Street Movies 5 is a contemporary multi-screen movie theater where you can enjoy the latest movies with your family and friends. Enjoy the best of the silver screen in comfortable reclining seats while your needs are taken care of by a small bar and snack kiosk. A clean theater, with friendly staff and reasonably priced tickets, this multiplex is popular with the folks in Newark. After ...
+
+REL: 0
+POI Name: Delcastle Golf Club
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Golf Lessons, 
+Snippets:
+title: Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Golf | Delcastle Golf Course
+snippet: Delcastle Golf Course is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Delcastle Golf Club (Wilmington, DE): Address, Phone ...
+snippet: Things to Do in Wilmington ; Delcastle Golf Club; Search. Delcastle Golf Club. Is this your business? #7 of 7 Outdoor Activities in Wilmington. Outdoor Activities, Golf Courses. 801 McKennans Church Rd, Wilmington, DE 19808-2183. Share. Write a Review Have you been to Delcastle Golf Club? Post photos Write Review.
+title: Delcastle Golf Club Tee Times - Wilmington DE
+snippet: Discount tee times are available at Delcastle Golf Club. Book now and save up to 80% at Delcastle Golf Club. Earn reward points good toward future tee times. Book Hot Deals tee times and receive 100% weather protection at Delcastle Golf Club.
+title: Join - Delcastle Golf Course | Golf Course in Wilmington, DE
+snippet: We invite you to join Delcastle Golf Course as a member of our Delcastle 365 program! This new program offers membership options valid for a full year from the date of purchase. We look forward to providing you with an outstanding golfing experience, and we are confident you will find a membership with unbeatable value!
+title: Outings | Delcastle Golf Club - Golf Course in Wilmington, DE
+snippet: Have your next golf outing or tournament at Delcastle Golf Course in Wilmington, DE! Let us customize a package for your group.
+title: Delcastle Golf Course Tee Times - Wilmington, DE | TeeOff.com
+snippet: Delcastle Golf Course, located in Wilmington, Delaware, is a challenging 18-hole, par 72 championship golf course. The Ed Ault-design opened in 1971, and features rolling hills, wide fairways, and large bent grass greens. Delcastle also offers a full-service restaurant and bar, a driving range, miniature golf course and golf instruction.
+title: Book a Tee Time | Delcastle Golf Course | Wilmington Delaware
+snippet: Book a Tee Time at Delcastle Golf Course located in Wilmington Delaware
+title: Delcastle Golf Club, Wilmington, DE
+snippet: The 18-hole Del Castle course at the Delcastle Golf Club facility in Wilmington, Delaware features 6,628 yards of golf from the longest tees for a par of 72. The course rating is 70. 4 and it has a slope rating of 116 on Rye grass.
+title: Delcastle Golf Club (Wilmington) - All You Need to Know ...
+snippet: Delcastle Golf Club, Wilmington: See reviews, articles, and photos of Delcastle Golf Club, ranked No.7 on Tripadvisor among 7 attractions in Wilmington.
+
+REL: 0
+POI Name: Häagen-Dazs
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, 
+Snippets:
+title: Christiana Mall | Häagen-Dazs®
+snippet: Interested in working at this Shop? Visit or contact this shop to learn about employment opportunities. All shops are independently owned and proudly operated by franchisees
+title: Häagen-Dazs - Newark, DE - yelp.com
+snippet: 1 review of Häagen-Dazs &quot;I waited 10 mins for someone to come by and help me. No one was inside at all. I wanted a nice cup of mint chocolate chip. No one came so I walked over to chick fila. And got ice cream.&quot;
+title: Häagen-Dazs 132 Christiana Mall Ste 5904 Newark, DE Ice ...
+snippet: Get directions, reviews and information for Häagen-Dazs in Newark, DE.
+title: Christiana Mall | Häagen-Dazs®
+snippet: ¿Te interesa trabajar en esta tienda? Visita o ponte en contacto con esta tienda para oportunidades de empleo. Todas las tiendas son de propiedad independiente y orgullosamente operadas por franquiciados.
+title: Häagen-Dazs located in Newark, Delaware DE (Christiana ...
+snippet: Häagen-Dazs store in Newark, Delaware DE address: 132 Christiana Mall, Newark, Delaware - DE 19702. Find shopping hours, get feedback through users ratings and reviews. Save money.
+title: New York Franchise Opportunities Near Me | Häagen-Dazs
+snippet: While there are over 20 Häagen-Dazs shops in the downtown area there is still room for more locations in areas missing a premium ice cream presence. Yonkers, Huntington, Jersey City and Newark are just a few densely populated cities that are rich with opportunity.
+title: Here&#39;s the Scoop on Haagen-Dazs&#39; Free Cone Day, Newark ...
+snippet: business Here&#39;s the Scoop on Haagen-Dazs&#39; Free Cone Day, Newark Visitors to participating Häagen-Dazs Shops locations will receive one free scoop of ice cream per guest in a sugar or cake cone or ...
+title: Häagen-Dazs in Newark NJ | Hours &amp; Locations
+snippet: Looking for restaurants around you? Find in Tiendeo all the locations, hours and phone number for Häagen-Dazs in Newark NJ and get the best deals from your favorite restaurants. Learn more on Tiendeo!
+title: All Products | Häagen-Dazs® Ice Cream, Bars and Sorbet
+snippet: Explore all Häagen-Dazs® ice creams, bars and sorbets.
+title: All Shops | Häagen-Dazs® Ice Cream, Bars and Sorbet
+snippet: Official website of Häagen-Dazs ice cream, ice cream bars, and sorbet. Simply extraordinary since 1960.current-page Skip to main content Toggle ... Newark, Christiana Mall District of Columbia. Washington, Gallery Place Washington, Georgetown Washington, Union Station Florida.
+
+REL: 0
+POI Name: QDOBA Mexican Eats
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Mexican, Fast Food, 
+Snippets:
+title: QDOBA at 64 Halsey St Newark, NJ | Mexican Restaurant ...
+snippet: About Qdoba Halsey. Welcome to QDOBA Mexican Eats at 64 Halsey St Newark, NJ. At QDOBA we’re all about flavor. Because we stand for slicing, dicing, and sautéing ingredients by hand, in-house. We stand for making flavor-filled food full of spicy, zesty, crunchy, smoky, tangy, creamy, savory goodness.
+title: QDOBA at 58 E Main St Newark, DE | Mexican Restaurant ...
+snippet: About Qdoba U of Delaware Main Street. Welcome to QDOBA Mexican Eats at 58 E Main St Newark, DE. At QDOBA we’re all about flavor. Because we stand for slicing, dicing, and sautéing ingredients by hand, in-house.
+title: QDOBA at 3230 Fashion Center Blvd Newark, DE | Mexican ...
+snippet: About Qdoba Christiana. Welcome to QDOBA Mexican Eats at 3230 Fashion Center Blvd Newark, DE. At QDOBA we’re all about flavor. Because we stand for slicing, dicing, and sautéing ingredients by hand, in-house. We stand for making flavor-filled food full of spicy, zesty, crunchy, smoky, tangy, creamy, savory goodness.
+title: QDOBA Mexican Eats, Newark - 10 Toler Pl - Menu, Prices ...
+snippet: QDOBA Mexican Eats, Newark: See 8 unbiased reviews of QDOBA Mexican Eats, rated 3.5 of 5 on Tripadvisor and ranked #153 of 680 restaurants in Newark.
+title: QDOBA Mexican Eats, Newark - Menu, Prices &amp; Restaurant ...
+snippet: Order food online at QDOBA Mexican Eats, Newark with Tripadvisor: See 5 unbiased reviews of QDOBA Mexican Eats, ranked #228 on Tripadvisor among 347 restaurants in Newark.
+title: QDOBA Mexican Eats | Mexican Restaurants &amp; Catering
+snippet: QDOBA Mexican Eats is a Mexican restaurant and caterer offering customizable flavorful food. Plus, add queso and guac for free on any entrée! Eat QDOBA today.
+title: QDOBA Mexican Eats - Newark, DE - Yelp
+snippet: QDOBA Mexican Eats is a Mexican restaurant chain serving up big, bold flavor with customizable Mexican entrées like Burritos (wrapped or bowl), 3-Cheese Nachos, Quesadillas, Taco Salad, Loaded Tortilla Soup ™ and original creations like the chef-inspired Knockout Tacos ™.
+title: QDOBA Mexican Eats - Participating Locations in New Jersey
+snippet: Order Ahead and Skip the Line at QDOBA Mexican Eats. Place Orders Online or on your Mobile Phone. Skip to main content QDOBA Mexican Eats Parent Site Login. Rewards US US CA ... Newark, NJ Halsey St and New St (973) 353-0213 ...
+title: QDOBA Mexican Eats, Newark - 64 Halsey St - Menu, Prices ...
+snippet: Order food online at QDOBA Mexican Eats, Newark with Tripadvisor: See unbiased reviews of QDOBA Mexican Eats, ranked #0 on Tripadvisor among 679 restaurants in Newark.
+title: QDOBA Menu at 10 Toler Place Newark, NJ | Mexican ...
+snippet: QDOBA 10 Toler Place, Newark, NJ offers free WiFi and serves as a space where guests can relax with friends and family, while enjoying unique and fresh dishes prepared by our friendly staff. Planning an event? Our catering menu lets your guests create Mexican entrées topped with all of the fixings.
+
+REL: 0
+POI Name: Ming Kitchen
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Chinese, 
+Snippets:
+title: Ming Kitchen, Newark - Restaurant Reviews, Photos &amp; Phone ...
+snippet: Ming Kitchen, Newark: See 20 unbiased reviews of Ming Kitchen, rated 3.5 of 5 on Tripadvisor and ranked #174 of 350 restaurants in Newark.
+title: Ming Kitchen, Newark - Restaurant Menus &amp; Reviews - MenuPix
+snippet: 04/26/2014 - Linda B., Newark DE Excellent food. I am originally from NY and it was hard finding good Chinese food until I found Ming Kitchen. They make excellent dishes, always fresh. They have a nice variety of food on their menu. Their customer service is excellent and their delivery service is perfect!
+title: Ming Kitchen Delivery in Newark - Delivery Menu - DoorDash
+snippet: Get delivery from Ming Kitchen super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: Ming Kitchen Newark, DE 19713 - Menu, 38 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Ming Kitchen at 150 Salem Church Rd in Newark - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Ming Kitchen Menu - Picture of Ming Kitchen, Newark ...
+snippet: Ming Kitchen, Newark Picture: Ming Kitchen Menu - Check out Tripadvisor members&#39; 1,082 candid photos and videos of Ming Kitchen
+title: Butterfly Shrimp Ming Kitchen 2015 - Picture of Ming ...
+snippet: Ming Kitchen, Newark Picture: Butterfly Shrimp Ming Kitchen 2015 - Check out Tripadvisor members&#39; 1,082 candid photos and videos of Ming Kitchen
+title: Plain Lo Mein Ming Kitchen 2015 - Picture of Ming Kitchen ...
+snippet: Ming Kitchen, Newark Picture: Plain Lo Mein Ming Kitchen 2015 - Check out TripAdvisor members&#39; 1,041 candid photos and videos of Ming Kitchen
+title: Ming Kitchen Lunch Special Menu 2015 - Picture of Ming ...
+snippet: Ming Kitchen, Newark Picture: Ming Kitchen Lunch Special Menu 2015 - Check out Tripadvisor members&#39; 1,082 candid photos and videos of Ming Kitchen
+title: My lunch buffet take-out from Ming Kitchen - Bilde av Ming ...
+snippet: Ming Kitchen, Newark Bilde: My lunch buffet take-out from Ming Kitchen - Se Tripadvisor-medlemmers 1 082 objektive bilder og videoer av Ming Kitchen. Newark. Turisme i Newark Hotell i Newark Bed and Breakfast i Newark Pakkereiser til Newark Flyreiser til Newark Restauranter i Newark
+title: Online Menu of Ming Kitchen Restaurant, Newark, Delaware ...
+snippet: View the online menu of Ming Kitchen and other restaurants in Newark, Delaware.
+
+REL: 0
+POI Name: Elkton Golf & Batting Center
+POI City: Elkton
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, Mini Golf, Batting Cages, 
+Snippets:
+
+
+REL: 0
+POI Name: City Mini Golf
+POI City: Chicago
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, 
+Snippets:
+title: City Mini Golf - Downtown Chicago
+snippet: Sure, miniature golf is something you can find most places, but City Mini Golf is something you can only find in Chicago. The customer experience is our top priority and we&#39;re looking for energetic team members who share our same vision.
+title: City Mini Golf Store
+snippet: Welcome to the City Mini Golf virtual store. Here you can purchase season passes as well as general and discounted tickets. Your ticket purchases never expire so feel free to use them whenever it is most convenient for you.
+title: City Mini Golf - Home | Facebook
+snippet: City Mini Golf. 959 likes · 6 talking about this · 397 were here. Enjoy playing 18 holes, with nods to whimsical Chicago culture, all while taking in breathtaking views of the Chicago skyline! Open...
+title: Chicago Mini Golf | About City Mini Golf
+snippet: At City Mini Golf we believe in three things: having fun, creating lasting memories, and giving back to the community. We draw inspiration from our customers and use feedback to continually innovate our course.
+title: Photos for City Mini Golf - Yelp
+snippet: Photos at City Mini Golf - Chicago, IL. Bahasa Malaysia (Malaysia) Čeština (Česká republika) Dansk (Danmark)
+title: City Mini Golf Special Offers
+snippet: Voted Chicago&#39;s #1 miniature golf course. Come see for yourself what makes City Mini Golf so different.
+title: Mini Golf - Maggie Daley Park - Maggie Daley Park
+snippet: Mini Golf Located on the south end of the BP Bridge, there is an 18-hole miniature golf course consisting of unique obstacles and challenging holes that offer family-friendly fun. Featuring several replicas of iconic Chicago structures, golfers can putt underneath a 6-foot tall Willis Tower and putt up a Plinko-inspired replica of a Picasso sculpture.
+title: City Mini Golf in Maggie Daley Park | Things to do in ...
+snippet: Show off your putt-putt skills at City Mini Golf in Maggie Daley Park. The seasonal mini golf course opens up each May and closes in the fall. With 18 holes, th
+title: City Mini Golf - Chicago, IL | Groupon
+snippet: City Mini Golf features tons of mini golf amusement right in the middle of Chicago. Little ones are just as welcome as their parents at this course.Easy parking is accessible for City Mini Golf&#39;s customers. Catch a wonderful breeze by playing a game of miniature golf outside at City Mini Golf&#39;s location in Chicago.
+title: City Mini Golf (@cityminigolfing) • Instagram photos and ...
+snippet: City Mini Golf Chicago&#39;s #1 Miniature Golf! Located in the middle of Maggie Daley Park. Steps from the lake, Millennium Park and the famous Bean www.cityminigolf.com
+
+REL: 0
+POI Name: Walgreens
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Drugstores, Cosmetics & Beauty Supply, Convenience Stores, 
+Snippets:
+title: Walgreens Pharmacy - 1425 N 21ST ST, Newark, OH 43055
+snippet: Pharmacy Hours:Mon-Fri 9am-9pm, Sat 9am-6pm, Sun 10am-6pm. Store Hours:Mon-Fri 9am-9pm, Sat 9am-9pm, Sun 9am-9pm. Walgreens Pharmacy at 1425 N 21ST ST in Newark, OH. View Pharmacy hours, refill prescriptions online and get directions to Walgreens | Store Locator | Walgreens
+title: Walgreens Pharmacy Locations in NEWARK, DE | Walgreens
+snippet: Your Walgreens Store. Select a store from the search results to make it Your Walgreens Store and save time getting what you need. Your Walgreens Store will be the default location for picking up prescriptions, photos, in store orders and finding deals in the Weekly Ad.
+title: Walgreens - Newark, NJ - Yelp
+snippet: this five star walgreens has many good things going for it. here&#39;s a quick &#39;pro&#39; list - 1. it&#39;s open 24 hours 2. there&#39;s a parking lot (in nortoriously parking-unfriendly newark) 3. there&#39;s a food section (though, yelper albert w is right in saying prices are steep - but if you need it, you need it and it&#39;s there).
+title: Find a Store | Walgreens
+snippet: Find a Walgreens store near you. Skip to main content Your Walgreens Store. Buy 2 get 3rd FREE mix &amp; match cosmetics Shop now › Home ...
+title: Walgreens Jobs, Employment in Newark, DE | Indeed.com
+snippet: 95 Walgreens jobs available in Newark, DE on Indeed.com. Apply to Customer Service Representative, Shift Leader, Pharmacy Technician and more!
+title: Walgreens 600 Newark Ave Elizabeth, NJ Medical Supplies ...
+snippet: 600 Newark Ave Elizabeth NJ 07208. 10 Reviews (908) 353-7443 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets ... I told one of the Walgreens workers (Spanish older lady with black hair) that the testers for No7 foundations were coming out liquidy, watery, and oily ...
+title: Search Newark Jobs at WALGREENS
+snippet: If you need an accommodation or assistance in using the Walgreens Careers website, please click here for accommodation or assistance in using this website (Link opens in a new window). Sitemap
+title: Walgreens 561-579 Irvington Ave Newark, NJ Pharmacies ...
+snippet: Get directions, reviews and information for Walgreens in Newark, NJ. Walgreens 561-579 Irvington Ave Newark NJ 07106. Reviews (973) 373-0387 Website. Menu &amp; Reservations Make Reservations . ... Refill your prescriptions, shop health and beauty products, print photos and more at Walgreens.
+title: Walgreens Pharmacy - Newark, Delaware Locations - GoodRx
+snippet: There are . 9 Walgreens Pharmacy locations in Newark, Delaware where you can save on your drug prescriptions with GoodRx.. Walgreens Pharmacy is a nationwide pharmacy chain that offers a full complement of services.
+title: Customer Service Associate job with WALGREENS
+snippet: Customer Service Associate job description. Models and delivers a distinctive and delightful customer experience. Registers sales on assigned cash register, provides customers with courteous, fair, friendly, and efficient checkout service.
+
+REL: 0
+POI Name: Ed Oliver Golf Club
+POI City: Wilmington
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Golf, 
+Snippets:
+title: Ed Oliver Golf Club - Wilmington, DE - Managed by Billy ...
+snippet: Ed Oliver Golf Club is taking the threat of COVID-19 very seriously. Guided by the recommendations of the CDC, local, state, and federal guidelines, we have been making numerous changes to our golf operations to assist in providing the safest experience as possible for our guests and staff.
+title: Golf | Ed Oliver Golf Club | Wilmington Delaware
+snippet: Ed Oliver Golf Club, located on the original site of the Wilmington Country Club, has attracted golfers for over 100 years. Of the original golf course design, all that remains is a 100-year-old chimney located on our signature 18th hole.
+title: Online Tee Times | Ed Oliver Golf Club | Wilmington Delaware
+snippet: Book a Tee Time at Ed Oliver Golf Club in Wilmington, DE 19807
+title: Weddings &amp; Banquets - Ed Oliver Golf Club - Wilmington, DE
+snippet: Our spacious 4,000 sq ft clubhouse, overlooking the Ed Oliver Golf Club and the Wilmington skyline, has the capacity to seat up to 190 guests. The Dover Room accommodates 140 guests and the Wilmington Room, perfect for a business meeting or a small private event, can seat up to 50 guests.
+title: Event Calendar | Ed Oliver Golf Club - Wilmington, DE
+snippet: View, RSVP and register for all upcoming events at Ed Oliver Golf Club, managed by Billy Casper Golf, located in Wilmington, Delaware 19807
+title: Ed Oliver Golf Club - Home | Facebook
+snippet: Ed Oliver Golf Club - 800 N Dupont Rd, Wilmington, Delaware 19807 - Rated 4 based on 72 Reviews &quot;Attended a private party here. The staff was, in a word,...
+title: Contact | Ed Oliver Golf Club | Wilmington Delaware
+snippet: Get directions to Ed Oliver Golf Club in Wilmington, DE, as well as information on how to contact our professional staff.
+title: Ed Oliver Golf Club: Dining
+snippet: Enjoy a bite to eat at the Greenhill Pub located at Ed Oliver Golf Club in Wilmington, DE.
+title: Ed Oliver (golfer) - Wikipedia
+snippet: Edward Stewart &quot;Porky&quot; Oliver, Jr. (September 6, 1915 – September 21, 1961) was a professional golfer from the United States. He played on what is now known as the PGA Tour in the 1940s and 1950s. Born in Wilmington, Delaware, Oliver started as a caddy at age 11 at Wilmington Country Club and turned pro at age 18.
+title: Top 25 Hotels Near Ed Oliver Golf Club in Wilmington, DE ...
+snippet: Hotels4Teams has your hotels near Ed Oliver Golf Club in Wilmington, DE No one knows sports travel better than Hotels4Teams. We make it easy for individuals and groups to find the best hotels at the lowest rates closest to Ed Oliver Golf Club in Wilmington, DE!
+
+REL: 0
+POI Name: Flatstick Pub - South Lake Union
+POI City: Seattle
+POI Country: US
+POI Main category: Active Life
+POI Sub category: Mini Golf, Pubs, Beer Bar, 
+Snippets:
+title: South Lake Union – Flatstick Pub
+snippet: South Lake Union 609 Westlake Ave N | Seattle, WA 98109 Ages 21+ Only After 7PM. 206.258.4989 / See Hours. Book a Tee Time Plan an Event. South Lake Union ... Flatstick Pub Mulligan Mule Heritage Vodka, Rachel&#39;s Ginger Beer, &amp; Lime Juice. 32. Alexandria Nicole Sauvignon Blanc
+title: Flatstick Pub – Local Craft Beer, Mini Golf &amp; Old School Fun
+snippet: All Flatstick Pub locations will be closed until further notice. ... For the best pub experience in Washington, ... PSQ Pioneer Square. SLU South Lake Union. SPO Spokane. TAC Tacoma. BHAM Bellingham. Home Upcoming Events Membership Sunday Fundraise Our Story FAQs Contact. KRK PSQ SLU SPO TAC BHAM. Book a Tee Time Plan an Event.
+title: FAQs – Flatstick Pub
+snippet: Duffleboard™ is an original game invented by Flatstick Pub. It is a tabletop golf game that uses real golf balls and a special handheld putter. It is fun and easy to play for all skill levels. See our video tutorial for more details.
+title: Flatstick Pub - Home | Facebook
+snippet: Flatstick Pub (South Lake Union) Pub in Seattle, Washington. 4.2. 4.2 out of 5 stars. Open Now. ABOUT FLATSTICK PUB. Our Story. We’re passionate about craft beer and supporting our Community.
+title: Flatstick Pub - South Lake Union, Seattle - Menu, Prices ...
+snippet: Order food online at Flatstick Pub - South Lake Union, Seattle with Tripadvisor: See 5 unbiased reviews of Flatstick Pub - South Lake Union, ranked #1,918 on Tripadvisor among 4,014 restaurants in Seattle.
+title: Our Story – Flatstick Pub
+snippet: Seattle Magazine Flatstick Pub is Opening Another Seattle Location. Puget Sound Business Journal How Flatstick Pub landed in South Lake Union – hint: Vulcan likes mini-golf and craft beer . The Seattle Times Underground drinking in Pioneer Square: a visit to The Sovereign and Flatstick Pub.
+title: Contact – Flatstick Pub
+snippet: Parking. Paid visitor parking is available at the Allen Institute building in which we are located. There is also abundant street parking along the surrounding streets, as well as several pay lots to the north of us on Westlake Ave.
+title: Flatstick Pub - South Lake Union | Visit Seattle
+snippet: Restaurants South Lake Union There are only two rules at Flatstick Pub: drink local and have fun. We’re mixing up the scene by combining local beers with an indoor 9-hole mini golf course and other unique games.
+title: Restaurants Near Flatstick Pub, Seattle ... - TripAdvisor
+snippet: Restaurants near Flatstick Pub, Seattle on Tripadvisor: Find traveler reviews and candid photos of dining near Flatstick Pub in Seattle, Washington.
+title: Flatstick Pub - South Lake Union - Seattle - The Infatuation
+snippet: Flatstick Pub, a mini-golf bar, is practically designed for after-work functions - the mini golf costs $8 to play, the space is massive, and there are 32 different beers on tap. While the pub snacks here like mozzarella sticks and onion rings are just fine, you’ll want to spend your company’s budget on their tasty brick oven pizza instead.
+
+REL: 0
+POI Name: First Watch
+POI City: Newark
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Breakfast & Brunch, Cafes, American (Traditional), 
+Snippets:
+title: Locations - First Watch
+snippet: Your Nearest First Watch Location, Details. Find A FirstWatch. Enter a zip code, city or state to find a First Watch restaurant near you. Zip Code, City, or State Search. or. View All Locations. Where Will We Be Next. We love being part of new communities. See all our upcoming new restaurant openings.
+title: Home - First Watch
+snippet: At First Watch, you’ll always have your very own pot of freshly brewed Project Sunrise Coffee, the ability to order anything on our menu anytime of day, the choice to substitute whatever you need to fit your dietary restrictions, free newspapers, free WiFi and the pleasure of taking your sweet time to enjoy every minute of your First Watch ...
+title: First Watch, Newark - Menu, Prices &amp; Restaurant Reviews ...
+snippet: First Watch, Newark: See 21 unbiased reviews of First Watch, rated 4.5 of 5 on Tripadvisor and ranked #41 of 350 restaurants in Newark.
+title: Jobs in Newark, Delaware, US at First Watch Restaurants
+snippet: View all Jobs in Newark, Delaware, US at First Watch Restaurants. Search, apply or sign up for job alerts at First Watch Restaurants Career Site
+title: First Watch - Christiana - Home - Newark, Delaware - Menu ...
+snippet: First Watch - Christiana. 718 likes · 19 talking about this · 2,362 were here. First Watch is an award-winning Breakfast, Brunch and Lunch favorite that specializes in both traditional and innovative...
+title: First Watch - Christiana - Newark, DE - Yelp
+snippet: First Watch begins each morning at the crack of dawn, slicing fresh fruits and vegetables, baking muffins and making French toast batter from scratch. Their fresh, award-winning Breakfast, Brunch and Lunch dishes are made using only the best ingredients without the use of heat lamps or deep fryers.
+title: Sumptuous breakfast - Review of First Watch, Newark, DE ...
+snippet: We visited with First Watch Christiana first opened, then visited other new breakfast restaurants within a 5 mile radius. First Watch presented well, has been affordable, season appropriate (pumpkin pancakes), and good and fast service. I recommended to family in Orlando who visited and was equally satisfied. Keep up the good work and service.
+title: Server in Newark, DE at First Watch
+snippet: Back in 1983, there was no breakfast restaurant-focused category, really. Then the original First Watch opened with the idea that people want a Breakfast, Brunch and Lunch restaurant that doesn&#39;t moonlight with steaks or anything else later in the day.
+title: Menu - First Watch
+snippet: Don’t Wait For A Table. Download The App. App Store Download, opens in new page Google Play Download, opens in new page
+title: First Watch Newark, DE 19713 - 64 Reviews and Photos ...
+snippet: Latest reviews, photos and ??ratings for First Watch - Christiana at 74 Geoffrey Dr in Newark - ⏰hours, ☎️phone number, ☝address and map.
+
+Cand cities: {'Milwaukee', 'Elkton', 'Raleigh', 'Seattle', 'Wilmington', 'Newark', 'Richmond', 'Chicago', 'Downingtown', 'Middletown', 'Strasburg'}

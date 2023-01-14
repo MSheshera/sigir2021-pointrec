@@ -1,0 +1,1343 @@
+City: Vienna
+Country: AT
+Main category: Restaurants and Food
+Sub category: Museums
+Description: We'll be visiting for those 4 days. We usually focus heavily on the museums/architecture. We're not really interested in the party scene. What are some must-see sites? What are some of the less known places that you'd recommend? Any non-museum related places/activities you think would be well worth giving it a go? Also, what about transport prices - we're booked in Innere Stadt, and we won't be renting a car; how much will we have to rely on metro/trams to get around if we want to see all the major places? Any good places for a bite to eat that offer a quintessential Viennese/Austrian culinary experience? Any things we should be careful about? Thanks for any and all the help!
+Rated POIs: 48
+Rel distr: [(0, 2), (1, 8), (2, 33), (3, 5)]
+=================================
+REL: 3
+POI Name: Kaffee Kompetenz Zentrum
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, Museums, 
+Snippets:
+title: Kaffee-Kompetenz-Zentrum ::… – Kaffee Kompetenz Zentrum ...
+snippet: Folglich fehlt zum “Geheimnis des guten Kaffees” auch das Kaffee-Kompetenz-Zentrum! Wir wünschen Ihnen einen angenehmen und informativen Aufenthalt auf unserer Website und freuen uns auf einen persönliches Gespräch bei einer Kaffeespezialität in unseren Räumen. Ihr Team vom Kaffe-Kompetenz-Zentrum
+title: Kaffeemuseum Wien | Kaffeemuseum Wien
+snippet: Das Kaffeemuseum Wien deckt wie kein anderer Ort die Geschichte der braunen Bohne ab und gibt umfangreiche Einblicke in die weltweit gerühmte „Wiener Kaffeehauskultur“.
+title: Kaffee Kompetenz Zentrum | Kaffee Kompetenz Zentrum
+snippet: Das Kaffee Kompetenz Zentrum ist Anlaufstelle für Gastronomen, Branchen-Plattform und Ausbildungsplatz für Fachschulen. Das Workshop- und Seminarangebot richtet sich aber nicht nur an Profis, sondern generell an jeden Kaffee-Liebhaber.
+title: Kaffeeglück – ..:: Kaffee-Kompetenz-Zentrum
+snippet: Genießen Sie diese handwerklich gerösteten und exklusiv für das Kaffee-Kompetenz-Zentrum hergestellten Kaffeespezialitäten und ihr jeweils ganz besonderes Geschmackserlebnis. Gerne servieren wir Ihnen eine Tasse Kaffeeglück bei Ihrem nächsten Besuch in unserem Ladengeschäft. Wir freuen uns auf Ihren Besuch!
+title: Unser Sortiment – ..:: Kaffee-Kompetenz-Zentrum
+snippet: Ceragol “Coffee Clean” – Spezial Innenreiniger für Geräte aller gängigen Marken; Zubehör und Erweiterungen für Jura-Kaffeevollautometen (z.B. Milchkühler, Tassenwärmer, …) Jura Geschirr – Espresso-, Cappucino- und Kaffeetassen, Latte Machiato Gläser sowie die jeweils zugehörigen Löffel
+title: Öffnungszeiten – ..:: Kaffee-Kompetenz-Zentrum
+snippet: Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus. OK
+title: Über uns – ..:: Kaffee-Kompetenz-Zentrum
+snippet: Bereits 1965 wurde das heutige “Kaffee Kompetenz Zentrum” als “Staubsauger Naumann” in Mannheim gegründet. Seit 1965 hat sich das Unternehmen stetig entwickelt und sich der Zeit und den Bedürfnissen unserer Kunden angepasst.
+title: Kaffeemuseum Wien | Kaffeemuseum Wien
+snippet: Das Kaffeemuseum Wien deckt wie kein anderer Ort die Geschichte der braunen Bohne ab und gibt umfangreiche Einblicke in die weltweit gerühmte „Wiener Kaffeehauskultur“. Kaffeemuseum Kaffee Kompetenz Zentrum
+title: Kaffee Kompetenz Zentrum, Wien – Ein Genussmittel höchster ...
+snippet: Kaffee Kompetenz Zentrum, Wien – Ein Genussmittel höchster Stufe Mit GRANDER® zu besserem Kaffee. Eine Referenz im Bereich Hotels / Gastronomie Österreich @ Springhorn Media Edmund Mayr, Gründer des Kaffeemuseums: Mit GRANDER® schmeckt Kaffee einfach besser.
+title: Coffee Competence Centre in Vienna - a top-class luxury ...
+snippet: Better coffee with GRANDER® – In the hotel there was a problem with lime for years and the room maids had a considerable amount of work because of this. Since the GRANDER® water is flowing through the pipelines, lime is no longer an issue and Bernd Gorbach is particularly pleased. It is also clear when it comes to espresso tasting that the coffee, boiled with GRANDER® water, simply tastes ...
+
+REL: 3
+POI Name: Café Central
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Patisserie/Cake Shop, Austrian, 
+Snippets:
+title: Home - Café Central
+snippet: A truly central location. As the name suggests, Café Central is the real centre of Vienna – not St. Stephen’s Cathedral. The entrance to this coffee and cake lovers’ paradise is on the corner of Herrengasse and Strauchgasse in the first district.
+title: Café Central Wien seit 1876
+snippet: Das Café Central wird zum Treffpunkt für Gelehrte und Künstler. Unter anderem verkehren hier Sigmund Freud, Arthur Schnitzler, Leo Trotzki, Robert Musil und Hugo von Hofmannsthal. Stammgast Peter Altenberg ist so eng mit dem Café Central verbunden, dass er dieses als seine Wohnadresse angibt.
+title: Cafe Central, Vienna - Inner City - Menu, Prices ...
+snippet: Cafe Central, Vienna: See 12,836 unbiased reviews of Cafe Central, rated 4.5 of 5 on Tripadvisor and ranked #181 of 4,403 restaurants in Vienna.
+title: Café Central - Wikipedia
+snippet: Café Central is a traditional Viennese café located at Herrengasse 14 in the Innere Stadt first district of Vienna, Austria.The café occupies the ground floor of the former Bank and Stockmarket Building, today called the Palais Ferstel after its architect Heinrich von Ferstel.
+title: Café Central - VIENNA – Now. Forever
+snippet: cafe.central@palaisevents.at This legendary literati café, which counted Arthur Schnitzler, Peter Altenberg and Adolf Loos among its regulars, has a charm of its own that transforms a visit into an experience.
+title: Cafe Central, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Cafe Central, Wien: Se 12 835 objektive anmeldelser av Cafe Central, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 181 av 4 403 restauranter i Wien.
+title: Café Central Wien - Restaurant - Vienna, Austria - 3,447 ...
+snippet: Café Central Wien - Herrengasse 14, 1010 Vienna, Austria - Rated 4.5 based on 3,447 Reviews &quot;I met many lovely people in Austria and I adore Vienna but...
+title: CAFE CENTRAL, Viena - Centro - Menú, Precios y Restaurante ...
+snippet: We are looking forward to welcoming you at Café Central. Best regards from Vienna, Your Café... Más. Dear Santurceali, thank you for your message. Yes we are open on December 25th and December 26th from 10:00 am until 10:00 pm. We are looking forward to welcoming you at Café Central.
+
+REL: 3
+POI Name: SchachtelWirt
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, 
+Snippets:
+title: Schachtelwirt, Vienna - Inner City - Menu, Prices ...
+snippet: Order food online at Schachtelwirt, Vienna with Tripadvisor: See 927 unbiased reviews of Schachtelwirt, ranked #37 on Tripadvisor among 4,402 restaurants in Vienna.
+title: Intro - Schachtelwirt | Wien isst unterwegs
+snippet: Nach oben scrollen
+title: SCHACHTELWIRT, Vienna - Inner City - Updated 2020 ...
+snippet: Order takeaway and delivery at Schachtelwirt, Vienna with Tripadvisor: See 927 unbiased reviews of Schachtelwirt, ranked #37 on Tripadvisor among 4,403 restaurants in Vienna.
+title: Welcome - Schachtelwirt | Wien isst unterwegs
+snippet: Du kannst uns gerne telefonisch deine Bestellung durchgeben, wir liefern kontaktlos zu dir nach Hause.
+title: Austrian, but different - Review of Schachtelwirt, Vienna ...
+snippet: Schachtelwirt: Austrian, but different - See 927 traveler reviews, 458 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Schachtelwirt - Home - Vienna, Austria - Menu, Prices ...
+snippet: Schachtelwirt - Judengasse 5, 1010 Vienna, Austria - Rated 5 based on 191 Reviews &quot;I don&#39;t usually write reviews, but they deserved my spare few mins!! I...
+title: Schachtelwirt, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Schachtelwirt, Wien: Se 927 objektive anmeldelser av Schachtelwirt, ... Dette oppfylte alle våre behov. Du kan velge mellom slags klassikere av VIenna-sjangeren, jeg gikk for svinekjøtt med surkål og melboller, eller du kan velge en mer internasjonal tilnærming ...
+title: SCHACHTELWIRT, Vienna - Centro storico - Menu, Prezzo ...
+snippet: Schachtelwirt, Vienna: su Tripadvisor trovi 927 recensioni imparziali su Schachtelwirt, con punteggio 4,5 su 5 e al n.37 su 4.403 ristoranti a Vienna.
+title: Schachtelwirt, Vienna - Inner City - Restaurant Reviews ...
+snippet: Schachtelwirt, Vienna: See 927 unbiased reviews of Schachtelwirt, rated 4.5 of 5 on Tripadvisor and ranked #37 of 4,406 restaurants in Vienna.
+title: SCHACHTELWIRT, Viena - Comentários de restaurantes ...
+snippet: Schachtelwirt, Viena: Veja 927 dicas e avaliações imparciais de Schachtelwirt, com classificação Nº 4,5 de 5 no Tripadvisor e classificado como Nº 37 de 4.403 restaurantes em Viena. Voos ... No bairro mais famoso de Vienna, os bulevares de pedestres Kärntner Strasse e Graben levam você a pontos de interesse como a Wiener ...
+
+REL: 3
+POI Name: Bio-Feigenhof
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, Nurseries & Gardening, 
+Snippets:
+title: Bio Feigen | Wien | Bio Feigenhof
+snippet: Feigenplantage in Simmering, Frische Feigen, Bio Kräuter, Bio Gemüse. Ziel ist die Erzeugung von energetisch hochschwingenden Lebensmitteln, mit großem Respekt vor der Erde durch eine natur- und umweltverträgliche Anbauweise. Es wird am Feigenhof nach biologischen Grundsätzen gewirtschaftet.
+title: Bio Feigenhof - Home | Facebook
+snippet: Bio Feigenhof - Am Himmelreich 325, 1110 Vienna, Austria - Rated 4.9 based on 73 Reviews &quot;A truly magical place. An excellent selection of herbs and a...
+title: Feigenhof (Fig farm) - VIENNA – Now. Forever
+snippet: The Vienna Tourist Board only evaluates the travel plans anonymously for the purpose of statistical surveys. You can erase this data yourself in your account settings. Or you can contact our Data Protection Officer at datenschutz@wien.info .
+title: Bio Feigenhof - Community | Facebook
+snippet: Bio Feigenhof - Am Himmelreich 325, 1110 Vienna, Austria - Rated 4.9 based on 73 Reviews &quot;A truly magical place. An excellent selection of herbs and a...
+title: Bio Feigenhof - Reviews | Facebook
+snippet: Bio Feigenhof - Am Himmelreich 325, 1110 Vienna, Austria - Rated 4.9 based on 76 Reviews &quot;A truly magical place. An excellent selection of herbs and a...
+title: Bio-Feigenhof - Simmering - Vienna, Wien, Austria
+snippet: Specialties: Verkauf von April bis Dezember. Riesensortiment mediterraner Topf und Schnittkräuter. Feigenplantage mit frischen Feigen ab Juli. Winterharte Feigenbäume in Sorten. Feigenprodukte im Glas. Gemüseraritäten &quot;Lost in Paradeis&quot;.…
+title: Bio Feigenhof, Am Himmelreich 325, Vienna (2020)
+snippet: Frische Feigen wohin das Auge reicht - Bio Feigenhof - AbHof Blog . Frische Feigen wohin das Auge reicht - Bio Feigenhof - AbHof Blog . Erst beim Bio Feigenhof angekommen, wird einem so richtig bewusst, was man alles aus Feigen machen kann! Der Feigenhof am Himmelreich, welcher seinen Sitz im 11.
+title: Figs, chilis and woolly pigs - VIENNA – Now. Forever
+snippet: Fall is the season for organic potatoes and pumpkins. By the way: it is the only farm in Vienna to produce its own pumpkin seed oil. The Farm School initiative is another special highlight: the Prentlhof gives anyone with an interest in how cereal crops are grown a direct insight into its workings. Sweet treats: Bio Feigenhof.
+title: Bio Feigenhof, Vienna - seekty.com
+snippet: Bio Feigenhof, Vienna Attractions/Things to Do. austria › Wien › Politischer Bezirk Wien › Wien,Simmering › Attractions/Things to Do › Bio Feigenhof.
+title: Projekte | Gartengestaltung | Wien | Bio Feigenhof
+snippet: Auf Wunsch besucht Ursula Kujal Ihr Gartengrundstück und erstellt für Sie ein persönliches Gestaltungskonzept mit individuellen Pflanzenkombinationen und Materialauswahl, Anleitung zur Umsetzung und fachgerechte Produkt- und Firmenempfehlung für Ihren Einkauf. Sehen Sie hier eine Übersicht ihrer Projekte.
+
+REL: 3
+POI Name: Kanzleramt
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, Wine Bars, 
+Snippets:
+title: Kanzleramt Wien - Home
+snippet: Bitte, helfen auch Sie mit, dass wir so rasch als möglich wieder einen normalen Betrieb in Wien haben werden. Alle Informationen über den Button
+title: Kanzleramt, Vienna - Inner City - Restaurant Reviews ...
+snippet: Kanzleramt, Vienna: See 250 unbiased reviews of Kanzleramt, rated 4 of 5 on Tripadvisor and ranked #405 of 4,394 restaurants in Vienna.
+title: Kanzleramt, Vienna - Inner City - Restaurant Reviews ...
+snippet: Kanzleramt, Vienna: See 250 unbiased reviews of Kanzleramt, rated 4 of 5 on Tripadvisor and ranked #409 of 4,403 restaurants in Vienna.
+title: Kanzleramt, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Kanzleramt, Wien: Se 250 objektive anmeldelser av Kanzleramt, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 409 av 4 406 restauranter i Wien.
+title: KANZLERAMT, Vienna - Inner City - Updated 2020 Restaurant ...
+snippet: Kanzleramt, Vienna: See 250 unbiased reviews of Kanzleramt, rated 4 of 5 on Tripadvisor and ranked #408 of 4,406 restaurants in Vienna.
+title: Bundeskanzleramt der Republik Österreich - Startseite
+snippet: Bundeskanzler Kurz: Stufenplan für schrittweise Öffnung von Geschäften nach Ostern, aber Maßnahmen weiter befolgen – Ab 14. April Mund-Nasen-Schutz auch in öffentlichen Verkehrsmitteln verpflichtend, Ausgangsbeschränkungen bis Ende April verlängert, Home-Schooling bis Mitte Mai, keine Veranstaltungen bis Ende Juni
+title: Kanzleramt Wien - Restaurant - Vienna, Austria | Facebook ...
+snippet: Kanzleramt Wien - Schauflergasse 6, 1010 Vienna, Austria - Rated 4.7 based on 33 Reviews &quot;Great place, friendly staffs... Nice food too. Will visit again...
+title: Kanzleramt Wien - Reservierung
+snippet: Sylvia Netousek KG, Wien. Wir würden uns freuen, Sie bei uns begrüßen zu dürfen und bieten Ihnen hier die Möglichkeit hier Ihre Reservierung abzugeben.
+title: Kanzleramt Wien - Das Kanzleramt
+snippet: Getreu dem Motto „Nur das Beste für unsere Gäste„ dürfen wir Sie mit klassischer Wiener Küche, saisonalen Spezialitäten, dem einen oder anderen erlesenen Tropfen unserer heimischen Winzer, ausgezeichneten regionalen und internationalen Bränden und einer eigenen Kaffeemischung verwöhnen.
+title: Kanzleramt Wien - Impressum
+snippet: Missbrauch, Vervielfältigung oder kommerzielle Nutzung ist ohne ausdrückliche schriftliche Genehmigung der Sylvia Netousek KG - Kanzleramt Wien untersagt und wird per Anzeige rechtlich verfolgt. Datenschutz
+
+REL: 2
+POI Name: Back Huth
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: hwe_back - Huth &amp; Wien Engineering AS
+snippet: Published in hwe_back. Huth &amp; Wien Engineering AS. Huth &amp; Wien Engineering (HWE) tilbyr markedsledende produkter til kvalitetsbevisste entreprenører innen fundamentering og grunnarbeid, ras-/fjell og tunnelsikring, vanntetting og injeksjon. Mer om HWE. Produktkategorier.
+title: Huth Gastwirtschaft, Vienna - Inner City - Menu, Prices ...
+snippet: Huth Gastwirtschaft, Vienna: See 1,165 unbiased reviews of Huth Gastwirtschaft, rated 4.5 of 5 on Tripadvisor and ranked #126 of 4,403 restaurants in Vienna.
+title: Loved the food but would not come back - Review of Huth ...
+snippet: Huth Gastwirtschaft: Loved the food but would not come back - See 1,165 traveler reviews, 462 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Used to be 5 stars: bring back the... - Huth ... - TripAdvisor
+snippet: Huth Gastwirtschaft: Used to be 5 stars: bring back the Budweiser!! - See 1,165 traveler reviews, 462 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Bad waiter!!! Disappointed! Never come back! - Review of ...
+snippet: Huth da Moritz: Bad waiter!!! Disappointed! Never come back! - See 489 traveler reviews, 146 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: De 10 beste restaurantene i nærheten av Huth Gastwirtschaft
+snippet: Restauranter i nærheten av Huth Gastwirtschaft på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Huth Gastwirtschaft, Wien.
+title: Huth - Picture of Huth Gastwirtschaft, Vienna - Tripadvisor
+snippet: Huth Gastwirtschaft, Vienna Picture: Huth - Check out Tripadvisor members&#39; 50,105 candid photos and videos of Huth Gastwirtschaft. Vienna. Vienna Tourism Vienna Hotels Vienna Bed and Breakfast Vienna Vacation Rentals Vienna Vacation Packages Flights to Vienna Vienna Restaurants
+title: En restaurant i sentrum- noe over... - Huth Gastwirtschaft
+snippet: Huth Gastwirtschaft: En restaurant i sentrum- noe over middels god. - Se 1 165 reiseanmeldelser, 462 objektive bilder og gode tilbud på Wien, Østerrike på Tripadvisor.
+title: De 10 beste restaurantene i nærheten av Huth da Moritz
+snippet: Restauranter i nærheten av Huth da Moritz på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Huth da Moritz, Wien.
+title: thepiratebay.org
+snippet: 301 Moved Permanently. nginx/1.10.3
+
+REL: 2
+POI Name: Brandauer Schlossbräu
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, Austrian, Beer Garden, 
+Snippets:
+title: Bierig
+snippet: Brandauer Schlossbräu . 1130 Wien, Am Platz 5. Telefon 01/879 59 70 . Öffnungszeiten: täglich von 10 bis 24 Uhr. 31.12.19 bis 23 Uhr. zur Tageskarte
+title: Brandauer Schlossbrau, Vienna - Hietzing - Menu, Prices ...
+snippet: Brandauer Schlossbrau, Vienna: See 765 unbiased reviews of Brandauer Schlossbrau, rated 4 of 5 on Tripadvisor and ranked #377 of 4,403 restaurants in Vienna.
+title: BRANDAUER SCHLOSSBRAU, Vienna - Hietzing - Updated 2020 ...
+snippet: Brandauer Schlossbrau, Vienna: See 765 unbiased reviews of Brandauer Schlossbrau, rated 4 of 5 on Tripadvisor and ranked #375 of 4,403 restaurants in Vienna.
+title: Brandauer Schlossbräu, Wien - Restaurantanmeldelser ...
+snippet: Brandauer Schlossbräu, Wien: Se 765 objektive anmeldelser av Brandauer Schlossbräu, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 377 av 4 406 restauranter i Wien.
+title: Brandauers Bierlokale in Wien - Home
+snippet: Brandauers Bierlokale in Wien, Schlossbräu, Bierbögen, im Gerngross, Bierstube, Biergarten, mit Spareribs, nationaler und internationaler Küche, große Auswahl an Biersorten vom Fass.
+title: BRANDAUER SCHLOSSBRÄU, Vienna - Hietzing - Menu, Prezzo ...
+snippet: Brandauer Schlossbräu, Vienna: su Tripadvisor trovi 765 recensioni imparziali su Brandauer Schlossbräu, con punteggio 4 su 5 e al n.375 su 4.403 ristoranti a Vienna.
+title: Brandauer Schlossbräu, Wien - Hietzing - Menü, Preise ...
+snippet: Brandauer Schlossbräu, Wien: 765 Bewertungen - bei Tripadvisor auf Platz 375 von 4.403 von 4.403 Wien Restaurants; mit 4/5 von Reisenden bewertet.
+title: BRANDAUER SCHLOSSBRÄU, Viena - Comentários de restaurantes ...
+snippet: Brandauer Schlossbräu, Viena: Veja 765 dicas e avaliações imparciais de Brandauer Schlossbräu, com classificação Nº 4 de 5 no Tripadvisor e classificado como Nº 377 de 4.403 restaurantes em Viena.
+title: De 10 beste restaurantene i nærheten av Brandauer Schlossbräu
+snippet: Restauranter i nærheten av Brandauer Schlossbräu på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Brandauer Schlossbräu, Wien.
+title: Brandauer Schlossbräu - Hietzing - Am Platz 5
+snippet: brandauer schlossbräu wien • brandauer schlossbräu wien photos • brandauer schlossbräu wien location • ... Gastgaerten in Vienna. Created by F P 127 items • 11 followers. Hundeausflüge. Created by Lemmy &amp; Iggy von und zu Wuff und Wedel 60 items • 1 follower. Inside Vienna.
+
+REL: 2
+POI Name: Gasthaus Kopp
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, Beisl, 
+Snippets:
+title: Restaurant Gasthaus Kopp Vienna - Traditional local ...
+snippet: Restaurant Gasthaus Kopp is a a gastronomic institution in Vienna. It offers traditional &amp; local Viennese cuisine and a broad variety of Austrian dishes.
+title: Kopp Abhol- &amp; Lieferservice - Gasthaus Kopp
+snippet: Original Kopp Schnitzel mit Salat. Schnitzel vom Schwein 10,20 Putenschnitzel 10,60 Cordon bleu vom Schwein 10,50 Cordon bleu von der Pute 10,70. Kopp Klassiker. Spare-Ribs mit zweierlei Saucen 17,30 Schweinsbraten mit Knödel und Kraut 10,40 Rindsgulasch 8,20 Faschiertes mit Erdäpfelpürree 9,00 Krautfleisch 9,10 Cevapcici mit Pommes frites 9,00
+title: Gasthaus Kopp, Vienna - Brigittenau - Menu, Prices ...
+snippet: Gasthaus Kopp, Vienna: See 1,123 unbiased reviews of Gasthaus Kopp, rated 4.5 of 5 on Tripadvisor and ranked #244 of 4,403 restaurants in Vienna.
+title: GASTHAUS KOPP, Vienna - Brigittenau - Updated 2020 ...
+snippet: Gasthaus Kopp, Vienna: See 1,123 unbiased reviews of Gasthaus Kopp, rated 4.5 of 5 on Tripadvisor and ranked #244 of 4,403 restaurants in Vienna.
+title: GASTHAUS KOPP, Viena - Brigittenau - Menú, Precios y ...
+snippet: Gasthaus Kopp, Viena: Consulta 1.123 opiniones sobre Gasthaus Kopp con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°244 de 4.403 restaurantes en Viena. ... A good dinner in Vienna . Comida casera a buen precio. El sitio está un poco alejado, pero con San Google se llega a todas partes.
+title: menu - Picture of Gasthaus Kopp, Vienna - Tripadvisor
+snippet: Gasthaus Kopp, Vienna Picture: menu - Check out Tripadvisor members&#39; 50,164 candid photos and videos of Gasthaus Kopp
+title: Gasthaus Kopp, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Gasthaus Kopp, Wien: Se 1 122 objektive anmeldelser av Gasthaus Kopp, ... Virker også som lokale vienna borgere som dette stedet siden du kan møte mange av dem her. Også ansatte er høflig og snakker engelsk. Bare spør hvis du ikke forstår noe Mer. Dato for besøk: mai 2019.
+title: Gasthaus Kopp, Wien - Brigittenau - Menü, Preise ...
+snippet: Gasthaus Kopp. Beansprucht. Senden. ... Vienna Central Mosque. 8 Bewertungen . 1,09 km Entfernung . Sehen Sie sich die besten Hotels in der Umgebung an Sehen Sie sich die besten Restaurants in der Umgebung an Sehen Sie sich die besten Sehenswürdigkeiten in der Umgebung an. Alle anzeigen.
+title: Gasthaus Kopp - Austrian Restaurant - Vienna, Austria ...
+snippet: Gasthaus Kopp - Engerthstrasse 104, 1200 Vienna, Austria - Rated 4.9 based on 247 Reviews &quot;I often visit Vienna as my boyfriend lives there, and going to...
+title: Gasthaus Kopp, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Gasthaus Kopp, Wien: Se 1 122 objektive anmeldelser av Gasthaus Kopp, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 249 av 4 403 restauranter i Wien.
+
+REL: 2
+POI Name: Gmoa Keller
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, 
+Snippets:
+title: Restaurant Gmoakeller 1030 Wien - Restaurant Gmoakeller ...
+snippet: Restaurant Gmoakeller in 1030 Wien Am Heumarkt 25. Montag. bis Samstag 11-19 Uhr. reservierung@gmoakeller.at. T: 712 53 10
+title: Gmoakeller, Vienna - Landstrasse - Menu, Prices ...
+snippet: Gmoakeller, Vienna: See 1,231 unbiased reviews of Gmoakeller, rated 4.5 of 5 on Tripadvisor and ranked #182 of 4,403 restaurants in Vienna.
+title: GMOAKELLER, Vienna - Landstrasse - Updated 2020 Restaurant ...
+snippet: Gmoakeller, Vienna: See 1,231 unbiased reviews of Gmoakeller, rated 4.5 of 5 on Tripadvisor and ranked #182 of 4,403 restaurants in Vienna.
+title: GMOAKELLER, Vienna - Landstraße - Menu, Prezzo ...
+snippet: Gmoakeller, Vienna: su Tripadvisor trovi 1.231 recensioni imparziali su Gmoakeller, con punteggio 4,5 su 5 e al n.182 su 4.403 ristoranti a Vienna.
+title: Gmoa Keller - EXCELLENT ! - Review of Gmoakeller, Vienna ...
+snippet: Gmoakeller: Gmoa Keller - EXCELLENT ! - See 1,231 traveler reviews, 328 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Gmoa Keller Review - Vienna Austria - Restaurant | Fodor’s ...
+snippet: Fodor&#39;s may use your email address to send you relevant information on site updates, account changes, and offers. For more information about your privacy and protection, please review our full ...
+title: Gmoakeller, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Gmoakeller, Wien: Se 1 231 objektive anmeldelser av Gmoakeller, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 185 av 4 405 restauranter i Wien.
+title: Gmoakeller, Vienna - Landstrasse - Menu, Prices ...
+snippet: Gmoakeller, Vienna: See 1,231 unbiased reviews of Gmoakeller, rated 4.5 of 5 on Tripadvisor and ranked #182 of 4,403 restaurants in Vienna. Flights ... Classic and authentic Austrian keller . A busy place which serves authentic Austrian food of a pretty good standard.
+title: Räume - Restaurant Gmoakeller 1030 Wien
+snippet: Unseren Gästen stehen unterschiedliche Räume zur Verfügung. Festsaal, Extrazimmer und unser Keller eignen sich auch gut für geschlossene Veranstaltungen. Für Reservierungen oder Informationen rufen Sie uns bitte einfach an: Tel: 01 712 53 10, Daniela Steiner
+title: Gmoakeller - Home - Vienna, Austria - Menu, Prices ...
+snippet: Gmoakeller - Am Heumarkt 25, 1030 Vienna, Austria - Rated 4.6 based on 190 Reviews &quot;Very good authentic Austrian food. Extensive menu and drink list....
+
+REL: 2
+POI Name: 42 Cafe
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: Home - 42 - Website
+snippet: SOZIALE PROJEKTE. Kooperation mit &quot;Lebenshilfe Wien&quot; Unterstützung sozialer Projekte durch unseren Partner &quot;Kaffeeland Hainisch&quot; /aktuell Mitwirken bei der Spendensammlung für die Opfer der Brandkatastrophe am Enkplatz 2019 / #sandinsimmering
+title: DE 10 BESTE ting å gjøre i Wien - Tripadvisor
+snippet: 42 325 anmeldelser. Inngangsbillett fra USD 54,19. Se 56 opplevelser. Museer. 2. Kunsthistorisk museum. 9 686 anmeldelser. ... Best of Vienna: Opplev de 100 beste severdighetene din egen vei, ditt eget tempo. 3 anmeldelser. USD 11,06 per voksen. Kulturreiser. Spansk rideskole Wien guidet tur.
+title: The 10 Best Cafés and Coffee Houses in Vienna, Austria
+snippet: Culture Trip spoke to Susanne Schaber, author of coffee house guide Einspänner, Mokka und Melange, Elisabeth Brandlmaier, food editor of Austrian magazine Woman and Fabian J Holzer, gourmet editor of Vienna-based Style Up Your Life magazine, for their recommendations of the best cafés and coffee houses in Vienna.
+title: Home - Café Central
+snippet: A truly central location. As the name suggests, Café Central is the real centre of Vienna – not St. Stephen’s Cathedral. The entrance to this coffee and cake lovers’ paradise is on the corner of Herrengasse and Strauchgasse in the first district.
+title: Cafe Vienna
+snippet: We first opened the doors to Café Vienna in 2005. It all began with just one breakfast sandwich and one Austrian baker behind the counter selling our store designed European-style breads. Over the years, the bakery grew into a full-service cafe offering breakfast, lunch, dinner, and catering.
+title: Best Vienna Coffeehouses: Top 12 To Match Your Preferences
+snippet: Best Vienna Coffeehouses. Even if Sperl has moved on from being a well kept secret, the popular neighbourhood cafe in Mariahilf is hard to beat on atmosphere: From cosy window niches, wood panels and velvet benches to an old piano and a billard table it ticks all the boxes.
+title: Cafe Mozart, Vienna - Inner City - Menu, Prices ...
+snippet: Cafe Mozart, Vienna: See 3,461 unbiased reviews of Cafe Mozart, rated 4 of 5 on Tripadvisor and ranked #448 of 4,403 restaurants in Vienna.
+title: Cafe Old Vienna, Myrtle Beach - Menu, Prices, Restaurant ...
+snippet: Reserve a table at Cafe Old Vienna, Myrtle Beach on Tripadvisor: See 1,136 unbiased reviews of Cafe Old Vienna, rated 4.5 of 5 on Tripadvisor and ranked #4 of 843 restaurants in Myrtle Beach.
+title: History of Viennese coffee house culture
+snippet: Even though the Viennese coffee house culture is renowned the world over, Vienna was not the first city in history with a coffee house. There were several coffee houses in Mecca as early as the 12 th century. The first coffee house in Europe opened in Venice in 1647.
+title: Viennese coffee house - Wikipedia
+snippet: The Viennese coffee house (German: das Wiener Kaffeehaus, Austro-Bavarian: as Weana Kafeehaus) is a typical institution of Vienna that played an important part in shaping Viennese culture.. Since October 2011 the &quot;Viennese Coffee House Culture&quot; is listed as &quot;Intangible Cultural Heritage&quot; in the Austrian inventory of the &quot;National Agency for the Intangible Cultural Heritage
+
+REL: 2
+POI Name: Valcak Eissalon
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Ice Cream & Frozen Yogurt, 
+Snippets:
+title: Eissalon Grassi - Home | Facebook
+snippet: Eissalon Grassi - Simmeringer Hauptstraße 48, 1110 Vienna, Austria - Rated 4.4 based on 48 Reviews &quot;Big time the best ice cream in Vienna. This guy is a...
+title: Valcak im 11. Bezirk - Eissalon Wien | VIENNA.AT
+snippet: Eissalon in Wien: Infos zum Lokal Valcak im 11. Bezirk in Wien mit Ã–ffnungszeiten, Kontakt, Anfahrt, Bildern und Bewertungen.
+title: Eissalon in 1110 Wien | VIENNA.AT
+snippet: Schnell und einfach das richtige Lokal aus der Kategorie Eissalon im 11. Bezirk finden. Anmelden. Abmelden. VIENNA.AT. VIENNA.AT Restaurants und Lokale Eissalon 11. Bezirk. Eissalon in 1110 Wien (4 Ergebnisse) Gelateria RIVA WIND&#39;S Zanetti . Eissalon ... Valcak. Eissalon . Simmeringer Hauptstraße 48, 1110 Wien.
+title: Valcak Eissalon, Vienna - seekty.com
+snippet: Phone, adress, opening hours for Valcak Eissalon, Ice Cream Parlor, Wien,Simmering seekty. Valcak Eissalon, Vienna Ice Cream Parlor. austria › Wien › Politischer Bezirk Wien › Wien,Simmering › Ice Cream Parlor › Valcak Eissalon. Adress. Simmeringer Hauptstraße 48.
+title: Eissalon Tuchlauben, Vienna - Inner City - Restaurant ...
+snippet: Eissalon Tuchlauben, Vienna: See 142 unbiased reviews of Eissalon Tuchlauben, rated 4.5 of 5 on Tripadvisor and ranked #559 of 4,393 restaurants in Vienna.
+title: Eissalon Caffe Perrella, Vienna - Inner City - Restaurant ...
+snippet: Eissalon Caffe Perrella, Vienna: See 165 unbiased reviews of Eissalon Caffe Perrella, rated 4.5 of 5 on Tripadvisor and ranked #16 of 4,403 restaurants in Vienna.
+title: Tichy - VIENNA – Now. Forever
+snippet: The Vienna Tourist Board only evaluates the travel plans anonymously for the purpose of statistical surveys. You can erase this data yourself in your account settings. Or you can contact our Data Protection Officer at datenschutz@wien.info .
+title: EISSALON ZANONI &amp; ZANONI, Vienna - Old University Quarter ...
+snippet: Eissalon Zanoni &amp; Zanoni, Vienna: See 90 unbiased reviews of Eissalon Zanoni &amp; Zanoni, rated 4.5 of 5 on Tripadvisor and ranked #880 of 4,403 restaurants in Vienna.
+title: Eissalon am Schwedenplatz - Ice Cream Shop - Vienna ...
+snippet: Eissalon am Schwedenplatz - Franz Josefs Kai 17, 1010 Vienna, Austria - Rated 4 based on 41 Reviews &quot;They give you waffles with youe ice-cream inside...
+title: De 10 beste restaurantene i Wien - Tripadvisor
+snippet: Beste restauranter i Wien, Østerrike: Se anmeldelser fra reisende og bilder av spisesteder i Wien, og søk etter pris, beliggenhet og mer på Tripadvisor.
+
+REL: 2
+POI Name: Galerie Café
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, 
+Snippets:
+title: The Old Pharmacy Cafe, Shop, Galerie, Vienna - Inner City ...
+snippet: The Old Pharmacy Cafe, Shop, Galerie, Vienna: See 50 unbiased reviews of The Old Pharmacy Cafe, Shop, Galerie, rated 4 of 5 on Tripadvisor and ranked #1,271 of 4,406 restaurants in Vienna.
+title: Cafe Galerie - Home | Facebook
+snippet: Cafe Galerie, Vienna, Austria. 99 likes · 36 were here. Cafe
+title: Kaffestopp - The Old Pharmacy Café, Shop, Galerie
+snippet: The Old Pharmacy Café, Shop, Galerie: Kaffestopp - Se 50 reiseanmeldelser, 30 objektive bilder og gode tilbud på Wien, Østerrike på Tripadvisor.
+title: Galerie Café im 7. Bezirk - Cafe, Konditorei Wien | VIENNA.AT
+snippet: Cafe, Konditorei in Wien: Infos zum Lokal Galerie Café im 7. Bezirk in Wien mit Ã–ffnungszeiten, Kontakt, Anfahrt, Bildern und Bewertungen.
+title: The Albertina Museum Vienna
+snippet: The ALBERTINA MUSEUM is currently closed as a preventive measure to combat the spread of the Coronavirus. The museum shall remain closed until further notice. As soon as it becomes clear when we can reopen, we will provide you with that information here. On public holidays, the opening hours of the respective weekday apply.
+title: Café Fledermaus | Neue Galerie NY
+snippet: The décor of Café Fledermaus, located in the lower level of the Neue Galerie, is inspired by the Cabaret Fledermaus, commissioned by Fritz Waerndorfer and executed by the artisans of the Wiener Werkstätte in 1907. The marble that lines the walls and the black and white checkered floor tiles are based on the foyer and auditorium of the Cabaret.
+title: Cafe Vienna
+snippet: We first opened the doors to Café Vienna in 2005. It all began with just one breakfast sandwich and one Austrian baker behind the counter selling our store designed European-style breads. Over the years, the bakery grew into a full-service cafe offering breakfast, lunch, dinner, and catering.
+title: GALERIE CAFE PARK PARDUBICE
+snippet: Galerie Café Park Restaurant je další z unikátních konceptů firmy Holflor. Staví na bázi světových parkových restaurací podobného typu. Je umístěna v hlavním vstupu nově zrekonstruovaného parku s názvem Tyršovy sady, který čítá cca 10 hektarů krásné zelené plochy v centru města Pardubice.
+title: DE 10 BESTE ting å gjøre i Wien - Tripadvisor
+snippet: Best of Vienna: Opplev de 100 beste severdighetene din egen vei, ditt eget tempo. 3 anmeldelser. USD 11,06 per voksen. Kulturreiser. Spansk rideskole Wien guidet tur. 114 anmeldelser. USD 20,43 per voksen. Kulturreiser. Fairytale Hallstatt And The Alpine Peaks, Incl. Skywalk-besøk. 6 anmeldelser.
+title: Café &amp; Restaurant « The Albertina Museum Vienna
+snippet: Café &amp; Restaurant Enjoy wonderful coffee and cake from DEMEL (former purveyors to the imperial and royal court) and dine on both classic Viennese dishes and international delicacies at the DO&amp;CO Restaurant at the ALBERTINA Museum.
+
+REL: 2
+POI Name: Plachutta
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, 
+Snippets:
+title: Plachutta
+snippet: Plachutta Wollzeile. Wollzeile 38 1010 Vienna Tel.: +43 1 512 15 77 wollzeile(at)plachutta.at. Plachutta Stammhaus Hietzing. Auhofstraße 1 1130 Vienna Tel.: +43 1 877 70 87 0 hietzing(at)plachutta.at. Plachutta Nussdorf. Heiligenstädterstraße 179 1190 Vienna Tel.: +43 1 370 41 25 nussdorf(at)plachutta.at.
+title: Plachutta Wollzeile
+snippet: Plachutta Wollzeile. Wollzeile 38 1010 Vienna Tel.: +43 1 512 15 77 wollzeile(at)plachutta.at. Plachutta Stammhaus Hietzing. Auhofstraße 1 1130 Vienna Tel.: +43 1 877 70 87 0 hietzing(at)plachutta.at. Plachutta Nussdorf. Heiligenstädterstraße 179 1190 Vienna Tel.: +43 1 370 41 25 nussdorf(at)plachutta.at.
+title: Plachutta Wollzeile, Vienna - Inner City - Restaurant ...
+snippet: Plachutta Wollzeile, Vienna: See 6,191 unbiased reviews of Plachutta Wollzeile, rated 4 of 5 on Tripadvisor and ranked #425 of 4,403 restaurants in Vienna.
+title: Plachutta, Vienna - Inner City - Restaurant Reviews ...
+snippet: Plachutta, Vienna: See 403 unbiased reviews of Plachutta, rated 4 of 5 on Tripadvisor and ranked #428 of 4,403 restaurants in Vienna.
+title: Plachutta Wollzeile, Wien - Restaurantanmeldelser ...
+snippet: Plachutta Wollzeile, Wien: Se 6 191 objektive anmeldelser av Plachutta Wollzeile, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 425 av 4 403 restauranter i Wien.
+title: Reservation | Plachutta Wollzeile
+snippet: Plachutta Wollzeile. Wollzeile 38, 1010 Vienna Phone: +43 1 512 15 77 Fax: +43 1 512 15 77 20 wollzeile(at)plachutta.at. Opening hours: Daily from 11.30 am to 12 midnight
+title: For the best in Viennese cooking ... | Plachutta Wollzeile
+snippet: For the best in Viennese cooking ... The unique character of the Plachutta restaurants is based on the tradition of Viennese boiled beef. Emperor Franz Joseph made boiled beef hugely popular when he declared that it was his favourite meal. Joseph Wechsberg, the Old Austrian essayist and gourmet, wrote “in Vienna, a person who couldn’t ...
+title: Plachutta Stammhaus Hietzing
+snippet: Plachutta Wollzeile. Wollzeile 38 1010 Vienna Tel.: +43 1 512 15 77 wollzeile(at)plachutta.at. Plachutta Stammhaus Hietzing. Auhofstraße 1 1130 Vienna Tel.: +43 1 877 70 87 0 hietzing(at)plachutta.at. Plachutta Nussdorf. Heiligenstädterstraße 179 1190 Vienna Tel.: +43 1 370 41 25 nussdorf(at)plachutta.at.
+title: Plachutta Hietzing, Vienna - Hietzing - Restaurant Reviews ...
+snippet: Plachutta Hietzing, Vienna: See 743 unbiased reviews of Plachutta Hietzing, rated 4 of 5 on Tripadvisor and ranked #232 of 4,403 restaurants in Vienna.
+title: A selection of our menu | Plachutta Wollzeile
+snippet: Allergens according to codex recommendation: A gluten-containing grains / B crustaceans / C egg / D fish / E peanut/F soy /G lactose / H edible nuts/ L celery / M mustard / N sesame / O sulphites / P lupines / R molluscs
+
+REL: 2
+POI Name: Zuckerltante
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Desserts, 
+Snippets:
+title: Zuckerltante - Brigittenau - Vienna, Wien, Austria
+snippet: Zuckerltante in Vienna, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Vienna and beyond.
+title: Zuckerltante e.U., Wien - Credit Report
+snippet: Zuckerltante e.U. has its registered office in Vienna, Austria. Its current status is listed as active. The company is registered at the Commercial register at the local court of Vienna with the legal form of Sole proprietor (number FN 293965 b).
+title: Zuckerltante - WIEN, WIE ES ISST - Falter Lokalführer ...
+snippet: Zuckerltante Foto: Zuckerltante Handgefertigtes Konfekt und Trüffeln seit 1922, großes Sortiment an Süßigkeiten im &quot;Kinderstüberl&quot;, auch Tortendekor für Hochzeits-, Tauf- und Geburtstagstorten.
+title: &quot;Zuckerltante&quot;, &quot;1200 Wien&quot;, &quot;Süßwaren / Einzelhandel ...
+snippet: Zuckerltante - Süßwaren / Einzelhandel in 1200 Wien Telefonnummer, Öffnungszeiten, Adresse, Webseite, E-Mail &amp; mehr auf HEROLD.at. Cookies &amp; Websitedaten Diese Website verwendet Cookies - nähere Informationen dazu und zu Ihren Rechten als Benutzer finden Sie in unserer Datenschutzerklärung .
+title: District Museum Brigittenau - Wikipedia
+snippet: At the back is the transport sector, among other things. A model of a forerunner of the tram in Vienna, the Brigittenauer Pferdebahn (tram with horses), can be seen. A large model shows the Wien Nordwestbahnhof (Northwest Station) near the museum during its time as a passenger station. ... Zuckerltante e.U. Monika Erhart:
+title: Leberkäse-Muffins, Zuckerl und Co.: Wiener ... - VIENNA.AT
+snippet: Die Wiener konnten bei einem Online-Voting ihren Lieblings-Lebensmittelhändler wählen. Dieser erhielt dann einen Genuss-Award. Hier erfahren Sie, welche Lebensmittelhändler in Wien besonders ...
+title: Zuckerltante - Wien, Österreich - Süßigkeitengeschäft
+snippet: Zuckerltante - Klosterneuburger Straße - +431330312... - Wien, Österreich Erfahrungsberichte und wertvolle Tipps von Ortsansässigen. Die besten Restaurants, Bars, Cafés, Friseursalons, Einkaufsmöglichkeiten und noch viel mehr findest Du auf Tupalo.com
+title: Zuckerltante | SNIPVILLE
+snippet: Bei ihnen kann die Zuckerltante – wie das Geschäft, das Erharts Urgroßmutter Marie Györgyfalvay 1922 gegründet hat, heute noch heißt – mit frischen Pralinen punkten. Denn „der Markt ist übersättigt“.
+title: 5 of the sweetest candy shops in Vienna | The 500 Hidden ...
+snippet: There are so many regulars who love Zuckerltante that she just keeps on selling her old-fashioned candy. It’s like travelling back in time to your childhood. Klosterneuburger Strasse 30 +43 (0)1 330 31 21. Buy this book The 500 Hidden Secrets of Vienna reveals off-the-beaten-track places and interesting details for anyone who&#39;s keen to ...
+title: Coronavirus: Welche Geschäfte in Wien liefern - Wien
+snippet: Bücher und Kleidung einzukaufen ist wegen der Corona-Beschränkungen aktuell unmöglich. Auch einige Lebensmittelhändler haben ihre Geschäfte geschlossen. Das heißt aber noch lange nicht, dass ...
+
+REL: 2
+POI Name: Gmiatliches Eck
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Austrian, 
+Snippets:
+title: Gmiatliches Eck, Vienna - Erdberg - Restaurant Reviews ...
+snippet: Gmiatliches Eck, Vienna: See 5 unbiased reviews of Gmiatliches Eck, rated 4.5 of 5 on Tripadvisor and ranked #2,663 of 4,404 restaurants in Vienna.
+title: GMIATLICHES ECK, Vienna - Erdberg - Updated 2020 ...
+snippet: Gmiatliches Eck, Vienna: See 5 unbiased reviews of Gmiatliches Eck, rated 4.5 of 5 on Tripadvisor and ranked #2,668 of 4,406 restaurants in Vienna.
+title: GMIATLICHES ECK, Vienna - Erdberg - Updated 2020 ...
+snippet: Gmiatliches Eck, Vienna: See 5 unbiased reviews of Gmiatliches Eck, rated 4.5 of 5 on Tripadvisor and ranked #2,669 of 4,406 restaurants in Vienna.
+title: The neighborhood bar. - Review of Gmiatliches Eck, Vienna ...
+snippet: Gmiatliches Eck: The neighborhood bar. - See 5 traveler reviews, 3 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Felt like at home - Review of Gmiatliches Eck, Vienna ...
+snippet: Gmiatliches Eck: Felt like at home - See 5 traveler reviews, 3 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: GMIATLICHES ECK, Vienna - Erdberg - Ristorante Recensioni ...
+snippet: Gmiatliches Eck, Vienna: su Tripadvisor trovi 5 recensioni imparziali su Gmiatliches Eck, con punteggio 4,5 su 5 e al n.2.668 su 4.406 ristoranti a Vienna.
+title: Fresh bread for breakfast - Picture of Gmiatliches Eck, Vienna
+snippet: Gmiatliches Eck, Vienna Picture: Fresh bread for breakfast - Check out Tripadvisor members&#39; 50,020 candid photos and videos of Gmiatliches Eck
+title: Gmiatliches Eck, Wien - Erdberg - Restaurant Bewertungen ...
+snippet: Gmiatliches Eck. Nicht beansprucht. Senden. 5 Bewertungen. Nr. 2 368 von 3 951 Restaurants in Wien. österreichisch, europäisch. Keinergasse 4, Wien 1030, Österreich +43 676 6302565. Website hinzufügen + Öffnungszeiten hinzufügen. Alle Fotos (3) Alle Fotos (3) Machen Sie diese Seite attraktiver.
+title: Gmiatliches Eck - Home | Facebook
+snippet: Gmiatliches Eck, Wien, Austria. 27 likes · 172 were here. Restaurant
+title: Gmiatliches Eck - Landstraße - Vienna, Wien, Austria
+snippet: 1 review of Gmiatliches Eck &quot;My favorite cafe in town! Good coffee and tea, a changing daily (cheap and delicious) menu, usually typical Austrian food, and plenty of small dishes. A classic Viennese cafe, cozy with modern furniture and a nice…
+
+REL: 2
+POI Name: Billa
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: BILLA
+snippet: Im BILLA Online Shop haben Sie eine Auswahl aus über 9000 Produkten. Egal ob Getränke, frisches Obst &amp; Gemüse, Gebäck, Milchprodukte, Wurst, Frischfleisch, Tiefkühlprodukte, Haushaltswaren, Pflegeprodukte, Nahrungsmittel, Babyprodukte oder Tierfutter, wir liefern es Ihnen gerne nach Hause oder ins Büro oder an einen anderen beliebigen Ort.
+title: Billa Corso im Herrnhuterhaus (Vienna) - 2020 All You Need ...
+snippet: Attractions near Billa Corso im Herrnhuterhaus: (0.14 mi) Historic Center of Vienna (0.12 mi) St. Stephen&#39;s Cathedral (0.11 mi) Graben and Kohlmarkt (0.10 mi) Imperial Crypt (0.14 mi) Plague Column (Pestsaule) View all attractions near Billa Corso im Herrnhuterhaus on Tripadvisor
+title: Billa (supermarket) - Wikipedia
+snippet: BILLA (German pronunciation: ()) is an Austrian supermarket chain that operates throughout Central, Eastern and Southeastern Europe. The company, which was founded by Karl Wlaschek in 1953, is currently owned by Germany&#39;s REWE Group.. The chain&#39;s name is a portmanteau of &quot;billiger Laden&quot;, German for &#39;cheap shop&#39;.
+title: Billa store hours? - Vienna Forum - Tripadvisor
+snippet: Answer 1 of 7: We have check the billa.at web site unfortunately it will not translate into English for us. I would like to know what are the hours of Billa store on Rennweg 9 and Rennweg 60 ?
+title: Lebensmittel online bestellen | BILLA Online Shop
+snippet: Im BILLA Online Shop haben Sie eine Auswahl aus über 9000 Produkten. Egal ob Getränke, frisches Obst &amp; Gemüse, Gebäck, Milchprodukte, Wurst, Frischfleisch, Tiefkühlprodukte, Haushaltswaren, Pflegeprodukte, Nahrungsmittel, Babyprodukte oder Tierfutter, wir liefern es Ihnen gerne nach Hause oder ins Büro oder an einen anderen beliebigen Ort.
+title: Billa, Vienna | Ticket Price | Timings | Address: TripHobo
+snippet: Billa supermarkets are really famous in Wien. Normal supermarket but it’s the only one opened on sunday, it gives to Billa an advantage, even if it’s more expensive than others.
+title: BILLA at Schwechat - Vienna Forum - Tripadvisor
+snippet: Answer 1 of 3: Can anybody tell where the BILLA is located at the airport and how long they are open? I&#39;ll be arriving at the airport round 20.30 an I liked to buy some groceries before I go to my apartment.
+title: Supermarkets in Vienna
+snippet: As for picking the right chain, well, there are no “bad” supermarket chains in Vienna. But here’s an overview of the common ones… Merkur – my personal favorite. Always large, clean and well-stocked with top quality food. There aren’t too many around though; Billa – probably the most common one you
+title: BILLA - Home | Facebook
+snippet: BILLA (Vienna, Austria) Supermarket in Vienna, Austria. Closed Now. About See All. Czerningasse 4 (5,337.70 mi) Vienna, Austria 1020. Get Directions. BILLA Location +43 1 9610249. www.billa.at. Supermarket. Opens tomorrow. Closed Now. Page Transparency See More. Facebook is showing information to help you better understand the purpose of a Page.
+title: Billa, Schwechat - Restaurantanmeldelser - Tripadvisor
+snippet: Billa, Schwechat: Se 36 objektive anmeldelser av Billa, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 7 av 56 restauranter i Schwechat.
+
+REL: 2
+POI Name: Zum Leupold
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, Wine Bars, 
+Snippets:
+title: Zum Leupold, Vienna - Inner City - Restaurant Reviews ...
+snippet: Zum Leupold, Vienna: See 912 unbiased reviews of Zum Leupold, rated 4 of 5 on Tripadvisor and ranked #361 of 4,406 restaurants in Vienna.
+title: Heimseite
+snippet: SCHOTTENGASSE 7. 1010 WIEN. TEL +43 1 533 93 81 12. FAX +43 1 533 93 81 4. TÄGLICH GEÖFFNET 10 - 24 UHR . DURCHGEHEND WARME KÜCHE. Reservierung: office@leupold.at
+title: Zum Leupold - Innere Stadt - Vienna, Wien, Austria
+snippet: 43 reviews of Zum Leupold &quot;For lunch on our way to a walking tour of the city. The portion sizes were good, service was fair. 1/2 of a Tafelspitz was plenty, and very tasty indeed. The Kummelbraten was also worth a shout. As we were eating,…
+title: Zum Leupold, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Zum Leupold, Wien: Se 912 objektive anmeldelser av Zum Leupold, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 357 av 4 403 restauranter i Wien.
+title: ZUM LEUPOLD, Vienna - Inner City - Updated 2020 Restaurant ...
+snippet: Zum Leupold, Vienna: See 907 unbiased reviews of Zum Leupold, rated 4 of 5 on Tripadvisor and ranked #364 of 4,378 restaurants in Vienna.
+title: ZUM LEUPOLD, Vienna - Centro storico - Ristorante ...
+snippet: Zum Leupold, Vienna: su Tripadvisor trovi 912 recensioni imparziali su Zum Leupold, con punteggio 4 su 5 e al n.357 su 4.403 ristoranti a Vienna.
+title: Zum Leupold, Wien - Innere Stadt - Restaurant Bewertungen ...
+snippet: Zum Leupold, Wien: 912 Bewertungen - bei Tripadvisor auf Platz 357 von 4.403 von 4.403 Wien Restaurants; mit 4/5 von Reisenden bewertet.
+title: leupold - Picture of Zum Leupold, Vienna - Tripadvisor
+snippet: Zum Leupold, Vienna Picture: leupold - Check out Tripadvisor members&#39; 50,113 candid photos and videos of Zum Leupold
+title: De 10 beste restaurantene i nærheten av Zum Leupold
+snippet: Restauranter i nærheten av Zum Leupold på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Zum Leupold, Wien. Wien. Turisme i Wien Hotell i Wien Bed and Breakfast i Wien Pakkereiser til Wien ... Moelker Bastei 5 1010 Vienna. 0 km fra Zum Leupold
+title: Klassisk Wienerrestaurant. - Anmeldelse for Zum Leupold ...
+snippet: Zum Leupold: Klassisk Wienerrestaurant. - Se 912 reiseanmeldelser, 314 objektive bilder og gode tilbud på Wien, Østerrike på Tripadvisor.
+
+REL: 2
+POI Name: Amons Delicious Catering
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Caterers, Meat Shops, 
+Snippets:
+title: Amons Delicious Catering - Home | Facebook
+snippet: Amons Delicious Catering - Schmidgunstgasse 52, 1110 Vienna, Austria - Rated 4.9 based on 16 Reviews &quot;Amazing food and excellent service. Make sure to...
+title: Amon´s Delicious Catering - ihr Partner für ...
+snippet: Amons Delicious Catering ist der Partner für professionelles Catering und Partyservice. Ob Firmenfeier, Bankett oder Hochzeit - wir sorgen für ein gelungenes Fest im Raum Wien, Niederösterreich und Burgenland.
+title: Amons Delicious Catering - Posts | Facebook
+snippet: Amons Delicious Catering - Schmidgunstgasse 52, 1110 Vienna, Austria - Rated 4.9 based on 16 Reviews &quot;Amazing food and excellent service. Make sure to...
+title: Amon´s Delicious Catering
+snippet: Amons Delicious Catering ist der Partner für professionelles Catering und Partyservice. Ob Firmenfeier, Bankett oder Hochzeit - wir sorgen für ein gelungenes Fest im Raum Wien, Niederösterreich und Burgenland.
+title: Amons Delicious Catering - Startseite | Facebook
+snippet: Amons Delicious Catering, Wien. Gefällt 599 Mal. Bei Amons Delicious Catering trifft sich Leidenschaft am gelungenen Fest mit höchster Qualität. Für letzteres sorgt die Tradition: ADC wurzelt in der...
+title: Restaurant Amon | Abschalten und genießen bei herzlicher ...
+snippet: Abschalten und genießen bei herzlicher Gastlichkeit. Die perfekten Location für einen entspannten Abend zu zweit oder eine besondere Feier, wir verwöhnen unsere Gäste gerne, das ist in unserer Familie seit über 100 Jahren Tradition.
+title: AMON&#39;S DELICIOUS CATERING GmbH - Simmering - Wien, Wien
+snippet: Planning a trip to Vienna? Foursquare can help you find the best places to go to. Find great things to do. AMON&#39;S DELICIOUS CATERING GmbH. Food Service. Simmering, Wien. Save. Share. Tips; AMON&#39;S DELICIOUS CATERING GmbH ...
+title: Amons Delicious Catering - m.facebook.com
+snippet: Amons Delicious Catering, Wien, Austria. 596 likes. Bei Amons Delicious Catering trifft sich Leidenschaft am gelungenen Fest mit höchster Qualität. Für letzteres sorgt die Tradition: ADC wurzelt in...
+title: Amon´s Catering ABC
+snippet: Amon´s Delicious Catering. A wie Amon – Im folgenden ADC, Amons Delicious Catering genannt: Aus einer Fleischhauer-Dynastie hervorgegangene Catering-Profis, die immer an erster Stelle stehen.. B wie Brain Food – Bei Konferenzen, Arbeitsessen und Parteitage empfiehlt ADC leichte Küche mit viel Nüssen und anderen Neurotransmittern, wie Grüner Tee, Fisch oder Hüttenkäse.
+title: Amons Genussmarkt &amp; Fleischerei - Home | Facebook
+snippet: Amons Genussmarkt &amp; Fleischerei, Simmering, Austria. 121 likes · 9 were here. Seit 02. Juli bietet Amons Genussmarkt in Kaiserebersdorf jeden Samstag zwischen 07:00 und 12:00 Uhr regionale, saisonale...
+
+REL: 2
+POI Name: Tchibo
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea Supplies, 
+Snippets:
+title: Tchibo/Eduscho Online Shop
+snippet: Ja, ich bin damit einverstanden, dass Tchibo aus meinem Kauf- und Nutzungsverhalten personenbezogene Profile erstellt, um Werbe- und Webangebote besser auf meine persönlichen Interessen auszurichten (Weitere Informationen).Die Einwilligung ist jederzeit für die Zukunft unter service@tchibo.at widerrufbar.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Tchibo online obchod
+snippet: Každé úterý objevujte v e-shopu Tchibo.cz nový svět výrobků z kategorie móda, domácnost, technika nebo sport.
+title: Tchibo webáruház
+snippet: Fedezze fel a Tchibo.hu hetente megújuló kínálatát! Különleges, ötletes és szeretni való termékek várják Önt. Női és férfi divat, gyermek ruházat és kiegészítők, sport és szabadidő, lakberendezési tárgyak és kerti eszközök, konyhai és fürdőszobai kiegészítők.
+title: Naslovna - Caffe&amp;Shop Vienna - Tchibo kafa Beograd
+snippet: Caffe&amp;Shop Vienna je specijalizovana kuća čaja i kafe. Tchibo kafe aparati i kapsule Vam omogućavaju iskustvo sa najkvalitetnijom kafom
+title: Tchibo Eduscho - Home | Facebook
+snippet: Tchibo Eduscho, Wien. 162K likes. Willkommen auf unserer offiziellen Facebook Seite! Wir &lt;3 es, dich hier mit inspirierenden Inhalten rund um unseren Kaffee &amp; Produkte zu versorgen.
+title: Discover Vienna - Rich Culture and History in Austria&#39;s ...
+snippet: Vienna owes much of its international fame to the many celebrated composer who lived and worked here including Strauß, Mozart, Beethoven and Haydn. The Vienna Philharmonic Orchestra is one of the world’s best, the Staatsoper one of the world’s leading opera houses, and the Vienna Boys’ Choir one the world’s most famous.
+title: Tchibo outlet | Tchibo.pl
+snippet: Wystarczy, że odeślesz je wraz z formularzem zwrotu na adres Tchibo Warszawa Sp. z o.o./ DPD Polska Sp. z o.o. / Sadowa 8A, Lućmierz- Las 95-100 Zgierz/ Zgodnie z decyzją rządu, związaną z obecną sytuacją dotyczącą Koronawirusa, sklepy stacjonarne Tchibo są aktualnie zamknięte i nie ma możliwości dokonania w nich zwrotu towarów.
+title: Tchibo Eduscho - Startside | Facebook
+snippet: Tchibo Eduscho, Wien. 161 k liker dette. Willkommen auf unserer offiziellen Facebook Seite! Wir &lt;3 es, dich hier mit inspirierenden Inhalten rund um unseren Kaffee &amp; Produkte zu versorgen.
+title: Tchibo Reisedeals
+snippet: 3 Nächte im 4-Sterne-Hotel &quot;MAXX by Steigenberger Hotel Vienna&quot; ... Tchibo Reisedeal Experte. Lernen Sie Wien von seiner schönsten Seite kennen - Ihr modernes &quot;Maxx by Steigenberger Hotel&quot; bietet Ihnen die perfekten Voraussetzungen dafür, denn es kombiniert Funktionalität mit Komfort.
+
+REL: 2
+POI Name: Bier & Bierli
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, Beer Bar, 
+Snippets:
+title: Bier und Bierli
+snippet: Bier und Bierli Reservation. Im Bier&amp;Bierli. Die Wirtshaus Tradition gibt es am Standort Operngasse 12 seit über 40 Jahre. Wir wollen dieses großartige Erbe eines Beisls mit Schwerpunkt auf bestes österreichisches und internationales Bier (5 gezapfte Biere und 8 verschiedene Faschen-Biere) weiterführen.
+title: Bier &amp; Bierli Restaurant, Vienna - Inner City - Menu ...
+snippet: Reserve a table at Bier &amp; Bierli Restaurant, Vienna on Tripadvisor: See 1,258 unbiased reviews of Bier &amp; Bierli Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #161 of 4,403 restaurants in Vienna.
+title: BIER &amp; BIERLI RESTAURANT, Vienna - Inner City - Updated ...
+snippet: Reserve a table at Bier &amp; Bierli Restaurant, Vienna on Tripadvisor: See 1,258 unbiased reviews of Bier &amp; Bierli Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #161 of 4,403 restaurants in Vienna.
+title: Bier &amp; Bierli Restaurant, Wien - Restaurantanmeldelser ...
+snippet: Bier &amp; Bierli Restaurant, Wien: Se 1 226 objektive anmeldelser av Bier &amp; Bierli Restaurant, vurdert til 4,5 av 5 på TripAdvisor og vurdert som nr. 152 av 4 372 restauranter i Wien.
+title: Bier &amp; Bierli - Eating in Vienna - LikeALocal Guide
+snippet: Unbelievably cheap while being right opposite to the Opera, the place serves traditional Austrian cuisine with nice service and unusual atmosphere. It contains an impressive collection of beer cans which just add up to the general feeling of the restaurant. Very good for either an afternoon beer break, lunch while sightseeing or delicious dinner.
+title: Restaurants Near Bier &amp; Bierli Restaurant, Vienna, Austria
+snippet: Restaurants near Bier &amp; Bierli Restaurant, Vienna on Tripadvisor: Find traveler reviews and candid photos of dining near Bier &amp; Bierli Restaurant in Vienna, Austria.
+title: Bier &amp; Bierli Restaurant, Wien - Innere Stadt - Menü ...
+snippet: bier b, Manager von Bier &amp; Bierli Restaurant, hat diese Bewertung kommentiert Beantwortet: 6. Januar 2020 Lieber Gast, vielen dank das du bei uns bei besuch warst und es freut uns sehr das es dir auch gemundet hat, und das du mit dem service zufrieden warst, und dir auch das interieur gefallen hatte.
+title: Bier &amp; Bierli - Vienna, Austria | Facebook
+snippet: Bier &amp; Bierli - Operngasse 12, 1010 Vienna, Austria - Rated 4.7 based on 99 Reviews &quot;This spot is an amazing surprise. Couldn&#39;t be more central. 2...
+title: Bier &amp; Bierli - Vienna, Austria - Menu, Prices, Restaurant ...
+snippet: Bier &amp; Bierli - Operngasse 12, 1010 Vienna, Austria - Rated 4.7 based on 91 Reviews &quot;This spot is an amazing surprise. Couldn&#39;t be more central. 2...
+title: Bier &amp; Bierli Restaurant, Vienna - Inner City - Menu ...
+snippet: Bier &amp; Bierli Restaurant, Vienna: See 1,230 unbiased reviews of Bier &amp; Bierli Restaurant, rated 4.5 of 5 on Tripadvisor and ranked #154 of 4,381 restaurants in Vienna.
+
+REL: 2
+POI Name: Weinhof Zimmermann
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Heuriger, Austrian, 
+Snippets:
+title: Weinhof Zimmermann
+snippet: Welcome to the Weinhof Zimmermann in Neustift am Walde! We warmly welcome you to our traditional family enterprise. Visit us and take a seat in the middle of our vineyards in the 19th district of Vienna and enjoy the fabulous view into the Vienna woods and over the valley of Neustift am Walde.
+title: Weinhof Zimmermann in 1190 Wien, 19. Bezirk
+snippet: Besuchen Sie den traditionsreichen, familiär geführten Weinhof Zimmermann. Genießen Sie den Naturgarten inmitten der Wiener Weingärten im 19. Bezirk in Döbling, dazu ein Glaserl Wein oder frischen Traubensaft, aus eigenem Anbau. Am Buffet verwöhnen wir Sie mit österreichischer Küche und saisonalen Spezialitäten.
+title: Weinhof Zimmermann, Vienna - Neustift am Walde ...
+snippet: Weinhof Zimmermann, Vienna: See 94 unbiased reviews of Weinhof Zimmermann, rated 3.5 of 5 on Tripadvisor and ranked #2,150 of 4,411 restaurants in Vienna.
+title: Weinhof Zimmermann - Döbling - Vienna, Wien, Austria
+snippet: 18 reviews of Weinhof Zimmermann &quot;What a wonderful evening. We followed Rick Steves&#39;s guide and easily found this place by public transportation. This is a perfect way to get away from the craziness of central Vienna. The outside table area is…
+title: Weinhof Zimmermann - VIENNA – Now. Forever
+snippet: The official online travel guide for the city of Vienna, with information about sights, events and hotel bookings, and the Vienna City Card. To navigation To contents. ... Weinhof Zimmermann Mitterwurzer Gasse 20 1190 ...
+title: THE 10 BEST Restaurants Near Weinhof Zimmermann in Vienna ...
+snippet: Restaurants near Weinhof Zimmermann, Vienna on Tripadvisor: Find traveler reviews and candid photos of dining near Weinhof Zimmermann in Vienna, Austria.
+title: Weinhof Zimmermann - Picture of Weinhof Zimmermann, Vienna ...
+snippet: Weinhof Zimmermann, Vienna Picture: Weinhof Zimmermann - Check out Tripadvisor members&#39; 50,113 candid photos and videos of Weinhof Zimmermann
+title: Weinhof Zimmermann - Home | Facebook
+snippet: Weinhof Zimmermann - Mitterwurzergasse 20, 1190 Vienna, Austria - Rated 4.7 based on 26 Reviews &quot;Love this place. We went there on a recommendation from...
+title: Weinhof Zimmermann, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Weinhof Zimmermann, Wien: Se 94 objektive anmeldelser av Weinhof Zimmermann, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 2 149 av 4 406 restauranter i Wien.
+title: Weinhof Zimmermann in Vienna | My Guide Vienna
+snippet: Weinhof Zimmermann, Vienna - This is traditional, family owned and operated estalishment. They serve their own wine and grape juice and homemade Austrian specialty dishes. You can even get a room her. Weinhof Zimmermann, Vienna - This is traditional, family owned and operated estalishment.
+
+REL: 2
+POI Name: Melissa Food
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Specialty Food, 
+Snippets:
+title: Melissa&#39;s Produce
+snippet: Fresh Fruit, Vegetables, and Gift Baskets We sell specialty produce, including baby vegetable gifts, okinawa sweet potatoes, coquitos, banana leaves, steamed lentils, bhut jolokia chiles, organic juice boxes and a large variety of peppers. Exotic fruits are the perfect gift for any occasion. Exhibit your good taste and generosity by purchasing Melissa&#39;s Exotic Fruit Gift Baskets.
+title: 7 Ultimately Austrian Foods to Taste in Vienna
+snippet: 7 Ultimately Austrian Foods to Taste in Vienna. ... One of the definite must-try foods in Vienna is the traditional Wiener Schnitzel, a thin cut of meat – originally veal – coated in breadcrumbs and fried. The origins of this dish are still very much debated.
+title: Melissa | Verify Addresses &amp; Identities
+snippet: Apply Today Melissa COVID-19 Service Donations Melissa is currently offering free service for six months (up to 100K records per month) to qualifying essential organizations working to support communities during the COVID-19 pandemic, including supply chain management, grocery and prepared food delivery and similar services.
+title: The Top 10 Austrian Foods to Try in Vienna
+snippet: Vienna, one of Europe&#39;s gourmet capitals for both food and wine, is home to many delicious local treats.With a local culinary scene that often rivals those of Paris or London all while seeming quaint and traditional, the city is a wonderful place to try some of the country&#39;s most distinctive dishes, sweets, and drinks. Locavores will especially appreciate the focus on fresh, locally source
+title: Melissa Wood Health - Fitness Food &amp; Lifestyle
+snippet: The MWH Method. Sculpts beautiful long lean lines throughout your entire body using precise, low impact movements. But this practice isn’t just about building a body you desire; it’s about building a better, stronger relationship with yourself.
+title: Home | Melissa Lookups
+snippet: Free Lookups for person, ZIP Codes, maps, ZIP+4, carrier routes, addresses, reverse phone, IP location, SIC codes, street names, property info and much more. 45 lookups &amp; 2 lists
+title: Viennaairport - Restaurants - Vienna International Airport
+snippet: Delicious variety at Vienna Airport! The information and locations of all Restaurants &amp; Cafés can be found on the list. You can also use our Airport WiFi in all Restaurants – round the clock and free of charge!
+title: THE 10 BEST Restaurants in Vienna - Updated April 2020 ...
+snippet: Best Dining in Vienna, Vienna Region: See 477,106 Tripadvisor traveler reviews of 4,604 Vienna restaurants and search by cuisine, price, location, and more.
+title: What should you eat and drink in Vienna?
+snippet: Food festivals. Finally, if you’d like to take a deeper dive into specialist Austrian cuisine, try these festivals that usually return each year to Vienna: Gourmet festival (all of Austria’s provinces gather in the Stadtpark to celebrate their food and drink) Styrian Spring (promoting the food, drink, and culture of the province of Steiermark)
+title: THE 15 BEST Things to Do in Vienna - 2020 (with Photos ...
+snippet: Book your tickets online for the top things to do in Vienna, Austria on Tripadvisor: See 335,436 traveler reviews and photos of Vienna tourist attractions. Find what to do today, this weekend, or in April. We have reviews of the best places to see in Vienna. Visit top-rated &amp; must-see attractions.
+
+REL: 2
+POI Name: Chief Pizza
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: Chief Pizza - Brigittenau - Vienna, Wien, Austria
+snippet: Chief Pizza in Vienna, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Vienna and beyond. Chief Pizza - Klosterneuburger Str. 14, Brigittenau, Vienna, Wien, Austria - 12 Photos - Pizza - Restaurant Reviews - Phone Number - Yelp
+title: THE 10 BEST Restaurants in Vienna - Updated April 2020 ...
+snippet: Best Dining in Vienna, Vienna Region: See 477,106 Tripadvisor traveler reviews of 4,604 Vienna restaurants and search by cuisine, price, location, and more.
+title: Pizza Chef | Bestill takeaway for henting eller levering i ...
+snippet: Plukk fra menyen til Pizza Chef i Langhus og bestill din takeaway på nett - lett som en plett!
+title: Papa John&#39;s Pizza, Vienna - Restaurantanmeldelser ...
+snippet: Papa John&#39;s Pizza, Vienna: Se 2 objektive anmeldelser av Papa John&#39;s Pizza, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 122 av 200 restauranter i Vienna.
+title: chef making pizza - Picture of Pizzeria Modena, Vienna ...
+snippet: Pizzeria Modena, Vienna Picture: chef making pizza - Check out Tripadvisor members&#39; 50,113 candid photos and videos of Pizzeria Modena
+title: East of Chicago Pizza, Vienna - Restaurantanmeldelser ...
+snippet: Spise middag i Vienna: Se 10 anmeldelser fra Tripadvisor-reisende av 44restauranter i Vienna, og søk etter kjøkken, pris, sted og mer.
+title: Chef Geoff&#39;s Tysons - Vienna, VA on OpenTable
+snippet: This restaurant is permanently closed. Chef Geoff’s Tysons is located next to Tiffany&#39;s on Leesburg Pike in the heart of Tysons Corner. A Chef driven restaurant offering Contemporary American cuisine, you will feel welcome here for any occasion large or small.
+title: Chief Pizza
+snippet: Ar Jums yra 20 metų? Taip Ne Ne
+title: Pizza Quartier - #italien #chef #wien #vienna...
+snippet: Dolce Pensiero Vienna 1,871 Followers · Coffee Shop Pages Businesses Food &amp; Beverage Restaurant Pizza Place Pizza Quartier Videos #italien #chef #wien #vienna #karmelitermarkt #pizzaquartier...
+title: The 5 Best Restaurants in Vienna | Elite Traveler
+snippet: Elite Traveler brings you its pick of the five best restaurants in Vienna. Restaurant Steirereck. This two-Michelin-starred restaurant is an intimate and charming spot within the Stadtpark, serving classic Viennese dishes alongside contemporary Austrian and international cuisine, complemented by wines from an exceptional cellar of 35,000 bottles.
+
+REL: 2
+POI Name: Gasthaus Pöschl
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, Austrian, 
+Snippets:
+title: Gasthaus Poschl, Vienna - Inner City - Restaurant Reviews ...
+snippet: Gasthaus Poschl, Vienna: See 1,104 unbiased reviews of Gasthaus Poschl, rated 4 of 5 on Tripadvisor and ranked #242 of 4,403 restaurants in Vienna. ... I wanted my partner to experience a traditional Austrian meal so we chose this Gasthaus based on the reviews. I don&#39;t eat meat so my choices were more limited.
+title: Willkommen im Gasthaus Pöschl
+snippet: Das Gasthaus Pöschl kocht mit viel Liebe zum Detail. Am Franziskanerplatz sitzen zu dürfen – am ersten schönen Sommertag – ist ein Privileg. Wir haben von 12:00-00:00 Uhr für Sie geöffnet. Wir kochen täglich bis 22:30 Uhr. Sie finden uns in der Weihburggasse 17.
+title: GASTHAUS POSCHL, Vienna - Inner City - Updated 2020 ...
+snippet: Gasthaus Poschl, Vienna: See 1,104 unbiased reviews of Gasthaus Poschl, rated 4 of 5 on Tripadvisor and ranked #242 of 4,403 restaurants in Vienna. ... I wanted my partner to experience a traditional Austrian meal so we chose this Gasthaus based on the reviews. I don&#39;t eat meat so my choices were more limited.
+title: Gasthaus Pöschl - VIENNA – Now. Forever
+snippet: The Vienna Tourist Board only evaluates the travel plans anonymously for the purpose of statistical surveys. You can erase this data yourself in your account settings. ... Gasthaus Pöschl Weihburggasse 17 1010 ...
+title: Gasthaus Pöschl - Speisekarte, 11 Bewertungen | Gastro ...
+snippet: Gasthaus Pöschl ist ein sehr nettes kleines Lokal mit einer sehr guten Küche und guten Weinen im einfachen gemütlichen Ambiente. Beste Alt Wiener Küche !!! Nach Neu Übername noch Besser als es war !! Ein Geheimtipp: Wir werden sicher bald wieder dorthin essen gehen. Antworten.
+title: Gasthaus Pöschl in Vienna | My Guide Vienna
+snippet: Gasthaus Pöschl, Vienna - This typical Viennese restaurant is an upscale &quot;Beisl&quot; in the heart of the city, just a few steps from Stephansdom.....
+title: GASTHAUS POSCHL, Vienna - Centro storico - Ristorante ...
+snippet: Gasthaus Poschl, Vienna: su Tripadvisor trovi 1.104 recensioni imparziali su Gasthaus Poschl, con punteggio 4 su 5 e al n.242 su 4.402 ristoranti a Vienna.
+title: Gasthaus Pöschl, Wien - Innere Stadt - Restaurant ...
+snippet: Das Gasthaus Pöschl serviert angeblich eines der besten Wiener Schnitzel der Stadt. Im Frühjahr war ich schon einmal hier und fand es super. Deshalb bin ich nochmal hingegangen. Es war - wie letztes Mal auch - recht voll, aber ich habe einen Platz am Tresen... Mehr. Besuchsdatum: Oktober 2019.
+title: Make a reservation - Review of Gasthaus Poschl, Vienna ...
+snippet: Gasthaus Poschl: Make a reservation - See 1,104 traveler reviews, 355 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Gasthaus Poschl, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Gasthaus Poschl, Wien: Se 1 105 objektive anmeldelser av Gasthaus Poschl, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 239 av 4 403 restauranter i Wien.
+
+REL: 2
+POI Name: Anker
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Anker, Vienna - Mariahilfer Strasse 126, Neubau ...
+snippet: Anker, Vienna: See 119 unbiased reviews of Anker, rated 4 of 5 on Tripadvisor and ranked #602 of 4,403 restaurants in Vienna.
+title: Ankerbrot
+snippet: Ausweitung ANKER-Filialen bei @mjam_at! ??? Ab sofort könnt ihr in 7 weiteren ANKER-Filialen über @mjam_at bestellen. Falls Ihr noch frisches Gebäck oder herrlich flaumige Osterpinzen für den Osterbrunch benötigt, könnt ihr euch diese gleich über mjam bestellen &amp; liefern lassen.
+title: Anker Snack &amp; Coffee, Vienna - Landstrasser Hauptstrasse ...
+snippet: Anker Snack &amp; Coffee, Vienna: See 95 unbiased reviews of Anker Snack &amp; Coffee, rated 4 of 5 on Tripadvisor and ranked #558 of 4,407 restaurants in Vienna.
+title: ANKER, Vienna - Heidenschuss 3, Inner City - Updated 2020 ...
+snippet: Anker, Vienna: See 34 unbiased reviews of Anker, rated 4 of 5 on Tripadvisor and ranked #1,245 of 4,397 restaurants in Vienna.
+title: Anker Clock (Vienna) - 2020 All You Need to Know BEFORE ...
+snippet: When I researched things to see in Vienna, I thought this was like the town hall clock in Prague. No this is a 20th Century advertising strategy for the Anker Insurance Company.
+title: Anker, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Anker, Wien: Se 119 objektive anmeldelser av Anker, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 602 av 4 403 restauranter i Wien.
+title: Anker, Vienna - Landstrasser Hauptstrasse 19, Weissgerber ...
+snippet: Anker, Vienna: See 11 unbiased reviews of Anker, rated 4 of 5 on Tripadvisor and ranked #2,189 of 4,406 restaurants in Vienna.
+title: Anker Clock (Wien, Østerrike) - Anmeldelser - Tripadvisor
+snippet: Anker Clock, Wien: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Anker Clock i Wien, Østerrike på Tripadvisor.
+title: Anker Clock - VIENNA – Now. Forever
+snippet: It forms a bridge between the two parts of the Anker Insurance Company‘s building. In the course of 12 hours, twelve historical figures or pairs of figures move across the bridge. ... ‹Name From› has recommended an article to you on www.vienna.info. Anker Clock https: ...
+title: Restauranter i nærheten av Anker i Mariahilfer Strasse 126 ...
+snippet: Restauranter i nærheten av Anker på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Anker, Wien.
+
+REL: 2
+POI Name: Hopfen & Malz
+POI City: Vienna
+POI Country: AT
+POI Main category: Nightlife
+POI Sub category: Pubs, Austrian, Beer Garden, 
+Snippets:
+title: Hopfen &amp; Malz, Vienna - Simmering District - Menu, Prices ...
+snippet: Hopfen &amp; Malz, Vienna: See 46 unbiased reviews of Hopfen &amp; Malz, rated 4 of 5 on Tripadvisor and ranked #1,594 of 4,403 restaurants in Vienna.
+title: Hopfen &amp; Malz - Home - Vienna, Austria - Menu, Prices ...
+snippet: Hopfen &amp; Malz. 284 likes · 5 talking about this · 425 were here. Austrian Restaurant
+title: Cozy - Review of Hopfen &amp; Malz, Vienna, Austria - Tripadvisor
+snippet: Hopfen &amp; Malz: Cozy - See 46 traveler reviews, 7 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Hopfen &amp; Malz, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Hopfen &amp; Malz, Wien: Se 46 objektive anmeldelser av Hopfen &amp; Malz, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 593 av 4 403 restauranter i Wien.
+title: Nichtraucherraum - Picture of Hopfen &amp; Malz, Vienna ...
+snippet: Hopfen &amp; Malz, Vienna Picture: Nichtraucherraum - Check out Tripadvisor members&#39; 50,035 candid photos and videos of Hopfen &amp; Malz
+title: Big wiener snitzel - Review of Hopfen &amp; Malz, Vienna ...
+snippet: Hopfen &amp; Malz: Big wiener snitzel - See 46 traveler reviews, 7 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Kachelofen im Nichtraucherraum - Picture of Hopfen &amp; Malz ...
+snippet: Hopfen &amp; Malz, Vienna Picture: Kachelofen im Nichtraucherraum - Check out Tripadvisor members&#39; 50,188 candid photos and videos of Hopfen &amp; Malz
+title: Hopfen &amp; Malz, Wien - Simmering (Bezirk) - Menü, Preise ...
+snippet: Hopfen &amp; Malz, Wien: 46 Bewertungen - bei Tripadvisor auf Platz 1.593 von 4.403 von 4.403 Wien Restaurants; mit 4/5 von Reisenden bewertet.
+title: Hopfen &amp; Malz im 11. Bezirk - Pubs und ... - VIENNA.AT
+snippet: Pubs und Bierlokale in Wien: Infos zum Lokal Hopfen &amp; Malz im 11. Bezirk in Wien mit Ã–ffnungszeiten, Kontakt, Anfahrt, Bildern und Bewertungen.
+title: Hopfen &amp; Malz – Die Institution in Simmering
+snippet: Kommt ins HOPFEN &amp; MALZ um Euch kulinarisch verwöhnen zu lassen und das eine oder andere kühle Getränk zu genießen. Unter schattenspendenen Kastanienbäumen, am wärmenden Kaminofen in den Gaststuben oder einfach im neuen, stylischen Wintergarten verbringt Ihr Eure Zeit bei uns – gemütlich, urig und für jedermann.
+
+REL: 2
+POI Name: Berliner Döner
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Food Stands, Kebab, 
+Snippets:
+title: Berliner Döner Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Berliner Döner Wien, Wien: Se 145 objektive anmeldelser av Berliner Döner Wien, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 246 av 4 378 restauranter i Wien.
+title: Berliner Döner - Vienna, Austria - Turkish Restaurant ...
+snippet: Berliner Döner Wien er et virkelig godt og meget anbefalingsværdigt spisested, som er meget tæt på at være enestående og som helt klart bør besøges, når man er i Wien. Stedet laver uden tvivl en af de bedste Döner Kebab i Europa og er på niveau med de bedste i Tyskland. Lammekødet smagte mega lækkert.
+title: Berliner Döner Wien - Neubau - Restaurant Bewertungen ...
+snippet: Wir waren neben an im Lokal beim Berliner Döner. Dort mussten wir zuerst über eine halbe Stunde warten bis wir bedient wurden, obwohl das Lokal fast leer war. Auf unsere Bestellung mussten wir dann ebenfalls wieder über 30 Minuten warten. ... Imperial Travel Vienna. 17 Bewertungen .
+title: BERLINER DÖNER WIEN, Vienna - Neubau - Ristorante ...
+snippet: Berliner Döner Wien, Vienna: su Tripadvisor trovi 147 recensioni imparziali su Berliner Döner Wien, con punteggio 4,5 su 5 e al n.292 su 4.402 ristoranti a Vienna.
+title: De 10 beste restaurantene i nærheten av Berliner Döner Wien
+snippet: Restauranter i nærheten av Berliner Döner Wien på Tripadvisor: Finn anmeldelser fra reisende og bilder av spisesteder i nærheten av Berliner Döner Wien, Wien.
+title: Berliner Döner Wien - Picture of Berliner Doner Wien, Vienna
+snippet: Berliner Doner Wien, Vienna Picture: Berliner Döner Wien - Check out Tripadvisor members&#39; 50,006 candid photos and videos of Berliner Doner Wien
+title: Berliner Restaurant: Berliner Döner in Wien ... - VIENNA.AT
+snippet: In Wien-Neubau sind türkische Restaurants eine Seltenheit. Wohl auch, weil der Kebab-Stand Berliner Döner eine Vormachtstellung in Bobostan einnimmt. Daher können Stand und Restaurant nur in ...
+title: BERLINER DONER WIEN, Vienna - Neubau - Updated 2020 ...
+snippet: Berliner Doner Wien, Vienna: See 147 unbiased reviews of Berliner Doner Wien, rated 4.5 of 5 on Tripadvisor and ranked #292 of 4,406 restaurants in Vienna. Flights Holiday Rentals ... Let me starting saying that the Döner is good and well served.
+title: Berliner Döner Ultras - Home | Facebook
+snippet: Berliner Döner Ultras, Wien. 86 likes. Wir Dönerliebhaber sind uns einig - es gibt nur einen wahren Döner - Berliner Döner! Jump to. Sections of this page. ... Vienna, Austria 1070. Contact Berliner Döner Ultras on Messenger. Religious Organization. Page Transparency See More.
+title: Bestes Kebab in Wien - Berliner Döner Wien, Wien ...
+snippet: Vienna, Austria. 35 9. Bewertet 1. März 2016 . Bestes Kebab in Wien. Lange war die Suche nach dem besten Kebab, Berlin Döner hat leider auch schwach gestartet aber nach 2-3 Wochen haben sie ordentlich dazu gelernt und mittlerweile haben sie die uBox am Schwedenplatz mit ihrem Kebab überholt.
+
+REL: 2
+POI Name: Merkur Markt
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Grocery, 
+Snippets:
+title: Marktplatz - MERKUR
+snippet: MERKUR Markt Startseite. zurück weiter. Automatische Slideshow pausieren Automatische Slideshow starten. Die Grillsaison ist eröffnet! Extrem Aktion Dauertiefpreis aktuelle Situation Welcher Grill ist der richtige ...
+title: Merkur Hoher Markt, Vienna - Inner City - Restaurant ...
+snippet: Merkur Hoher Markt, Vienna: See 92 unbiased reviews of Merkur Hoher Markt, rated 4.5 of 5 on Tripadvisor and ranked #577 of 4,406 restaurants in Vienna.
+title: Wien - Merkur
+snippet: Bei MERKUR Online finden Sie aktuelle Informationen zu unseren Märkten sowie Rezeptideen aus dem MERKUR Blog und dem friends Magazin.
+title: MERKUR Hoher Markt
+snippet: MERKUR Hoher Markt - hier werden hohe Ansprüche erfüllt! Die Gourmetadresse im Herzen von Wien! Neuheiten bei MERKUR Hoher Markt. Hier finden Sie aktuelle Neuheiten und besondere Produkte von MERKUR Hoher Markt. zurück weiter. Automatische Slideshow pausieren Automatische Slideshow starten.
+title: Merkur Markt - Ottakring - Vienna, Wien, Austria - Yelp
+snippet: 3 reviews of Merkur Markt &quot;From all different grocery stores I have visited in Vienna Merkur has to be the best. Although there are probably 100&#39;s in Vienna I have found the Spetterbrücke Merkur to be one of the friendliest, cleanest and better…
+title: Merkur Hoher Markt, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Merkur Hoher Markt, Wien: Se 92 objektive anmeldelser av Merkur Hoher Markt, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 577 av 4 407 restauranter i Wien.
+title: Best supermarket in Vienna and a... - Merkur Hoher Markt
+snippet: Merkur Hoher Markt: Best supermarket in Vienna and a wonderful bakery - See 88 traveler reviews, 27 candid photos, and great deals for Vienna, Austria, at TripAdvisor.
+title: Merkur Hoher Markt - Home | Facebook
+snippet: Merkur Hoher Markt, Vienna, Austria. 2,403 likes · 5 talking about this. MERKUR Hoher Markt - erfüllt hohe Ansprüche.
+title: Kontakt - Merkur
+snippet: Denn hier erwartet Sie ein Markt, wie es ihn in Wien noch nicht gegeben hat, mit einem Anspruch, wie es ihn bisher nicht gegeben hat. Und weil dieser Anspruch so hoch ist, heißt der Markt auch wie seine vornehme Adresse „MERKUR Hoher Markt“. Wir freuen uns Sie bald in unserem Markt begrüßen zu dürfen! Adresse: Hoher Markt 12, 1010 Wien
+title: Hauszustellung - Merkur
+snippet: Unser Lieferservice. Einfach einkaufen, Produkte an der Kassa abgeben &amp; bequem nach Hause liefern lassen Ob Sie Ihre Einkaufstasche mit seltenem Kaviar, edlen Weinen, feinem Honig und Essig oder perfekt abgestimmten Suppito Gerichten füllen – bei MERKUR Hoher Markt können Sie nach Herzenslust einkaufen, sogar mehr als Sie tragen können.
+
+REL: 2
+POI Name: Diwan
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Diwan, Vienna - Brigittenau - Restaurant Reviews, Photos ...
+snippet: Diwan, Vienna: See 21 unbiased reviews of Diwan, rated 4.5 of 5 on Tripadvisor and ranked #1,579 of 4,403 restaurants in Vienna.
+title: DER WIENER DEEWAN • pakistani food • essen für alle
+snippet: DER WIENER DEEWAN • pakistani food • essen für alle • buffet • take-away • catering liechtensteinstraße 10, 1090 wien • 01-9251185 • d1[at]deewan.at • www.deewan.at
+title: Diwan Holzkohlen Grill, Vienna - Rudolfsheim - Restaurant ...
+snippet: Diwan Holzkohlen Grill, Vienna: See 46 unbiased reviews of Diwan Holzkohlen Grill, rated 4.5 of 5 on Tripadvisor and ranked #975 of 4,403 restaurants in Vienna.
+title: Diwan, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Diwan, Wien: Se 21 objektive anmeldelser av Diwan, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 1 579 av 4 403 restauranter i Wien.
+title: Diwan Holzkohlengrill 1150 - Home - Vienna, Austria - Menu ...
+snippet: Diwan Holzkohlengrill 1150 - Märzstrasse 51, 1150 Vienna, Austria - Rated 4.4 based on 86 Reviews &quot;Harika yemekler, harika kadro, harika da ortam....
+title: Diwan Holzkohlen Grill, Wien - Restaurantanmeldelser ...
+snippet: Diwan Holzkohlen Grill, Wien: Se 46 objektive anmeldelser av Diwan Holzkohlen Grill, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 975 av 4 403 restauranter i Wien.
+title: Diwan Holzkohlengrill 1100 - Barbecue Restaurant - Vienna ...
+snippet: Diwan Holzkohlengrill 1100 - Rotenhofgasse 11, 1100 Vienna, Austria - Rated 4 based on 100 Reviews &quot;Im 15.Bezirk schmecken die Gerichte besser. Allgemein...
+title: Diwan Holzkohlen Grill, Wien - Rudolfsheim - Restaurant ...
+snippet: Ich gehe mittlerweile nicht mehr dorthin, weil ich vom Personal mehrmals schlecht behandelt wurde. Ich finde es schade. Am ersten Mal habe Kollegen aus dem Ausland in den Diwan eingeladen, Einer meiner Gäste hat nach einem Gericht gefragt, und da er auf Englisch sprach, hat...
+title: Diwan, Wien - Brigittenau - Restaurant Bewertungen ...
+snippet: Jedes mal wenn es mich in diese Ecke verschlägt, mache ich einen Abstecher ins Diwan. Hier passt einfach alles für den Kebabliebhaber. Der Salat ist knackig, das Fleisch saftig und das Brot duftet weil permanent frisch gebacken.
+title: DIWAN, Vienna - Brigittenau - Ristorante Recensioni ...
+snippet: Diwan, Vienna: su Tripadvisor trovi 21 recensioni imparziali su Diwan, con punteggio 4,5 su 5 e al n.1.579 su 4.407 ristoranti a Vienna.
+
+REL: 2
+POI Name: Cafe Harry
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: German, Cafes, Coffee & Tea, 
+Snippets:
+title: Cafe Harry - German - Wiedner Hauptstr. 76, Wieden, Vienna ...
+snippet: Cafe Harry in Vienna, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Vienna and beyond.
+title: Cafe Harry Happy Day - Vienna, Austria - Coffee Shop ...
+snippet: Cafe Harry Happy Day, Vienna, Austria. 10 likes · 36 were here. Coffee Shop
+title: Cafe Sacher Wien, Vienna - Inner City - Restaurant Reviews ...
+snippet: Cafe Sacher Wien, Vienna: See 18,869 unbiased reviews of Cafe Sacher Wien, rated 4 of 5 on Tripadvisor and ranked #363 of 4,402 restaurants in Vienna. ... While every other cafe in Vienna, astonishingly, was closed due to virus concerns, Cafe Sacher elected to share food and enjoyment with guests.
+title: The 10 Best Cafés and Coffee Houses in Vienna, Austria
+snippet: Culture Trip spoke to Susanne Schaber, author of coffee house guide Einspänner, Mokka und Melange, Elisabeth Brandlmaier, food editor of Austrian magazine Woman and Fabian J Holzer, gourmet editor of Vienna-based Style Up Your Life magazine, for their recommendations of the best cafés and coffee houses in Vienna.
+title: Viennese Cafés - VIENNA – Now. Forever
+snippet: Cafés in Vienna have always been something special. Whether your taste is for classical or modern cuisine, you can find out which Viennese coffee houses offer the best frothy coffee here, on wien.info
+title: Vienna | Harry Potter Wiki | Fandom
+snippet: Vienna was the capital and largest city of Austria. The Muggle luggage maker Paul Stark had a workshop located at Erdbergstrasse 35 in this city. Appearances Harry Potter and the Prisoner of Azkaban (film) (Mentioned on label as &quot;Wien&quot;)
+title: KFandom Cafe Vienna (@kfandomcafe) Instagram profile • 202 ...
+snippet: 3,713 Followers, 387 Following, 202 Posts - See Instagram photos and videos from KFandom Cafe Vienna (@kfandomcafe)
+title: Home - Café Central
+snippet: A truly central location. As the name suggests, Café Central is the real centre of Vienna – not St. Stephen’s Cathedral. The entrance to this coffee and cake lovers’ paradise is on the corner of Herrengasse and Strauchgasse in the first district.
+title: Cafe Landtmann, Vienna - Inner City - Menu, Prices ...
+snippet: Reserve a table at Cafe Landtmann, Vienna on Tripadvisor: See 3,448 unbiased reviews of Cafe Landtmann, rated 4 of 5 on Tripadvisor and ranked #217 of 4,403 restaurants in Vienna.
+title: Viennese coffee house - Wikipedia
+snippet: The Viennese coffee house (German: das Wiener Kaffeehaus, Austro-Bavarian: as Weana Kafeehaus) is a typical institution of Vienna that played an important part in shaping Viennese culture.. Since October 2011 the &quot;Viennese Coffee House Culture&quot; is listed as &quot;Intangible Cultural Heritage&quot; in the Austrian inventory of the &quot;National Agency for the Intangible Cultural Heritage
+
+REL: 2
+POI Name: Feinschmeck am Naschmarkt
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Delicatessen, 
+Snippets:
+title: Feinschmeck am Naschmarkt - Deli / Bodega in Wieden
+snippet: See 10 photos from 33 visitors to Feinschmeck am Naschmarkt. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Flohmarkt am Naschmarkt (Wien, Østerrike) - Anmeldelser
+snippet: Hoteller i nærheten av Flohmarkt am Naschmarkt: (0.74 km) Boutiquehotel Das Tyrol (0.61 km) Hotel Kaiserhof Wien (0.63 km) Hotel Beethoven Vienna (0.53 km) Prime City Center location - near State Opera - Cozy Studios (0.55 km) Hotel Saint Shermin; Se alle hoteller i nærheten av Flohmarkt am Naschmarkt på Tripadvisor
+title: Naschmarkt - Neni am Naschmarkt
+snippet: Nowhere in Vienna is the Orient as close as in NENI on the Naschmarkt. Maybe that is because the energy and pulse of life is similar to the markets of Marakesh or the shouks of Tel Aviv, both in the Naschmarkt itself as well as within the walls of Neni&#39;s restaurant.
+title: Poehl Am Naschmarkt - Specialty Grocery Store - Vienna ...
+snippet: Poehl Am Naschmarkt, Vienna, Austria. 3.4K likes. Gegenüber Theater an der Wien, Nähe Schleifmühlgasse
+title: Block House Am Naschmarkt, Vienna - Mariahilf - Restaurant ...
+snippet: Block House Am Naschmarkt, Vienna: See 394 unbiased reviews of Block House Am Naschmarkt, rated 4.5 of 5 on Tripadvisor and ranked #93 of 4,402 restaurants in Vienna.
+title: Neni am Naschmarkt, Vienna - Wieden - Menu, Prices ...
+snippet: Order food online at Neni am Naschmarkt, Vienna with Tripadvisor: See 1,162 unbiased reviews of Neni am Naschmarkt, ranked #302 on Tripadvisor among 4,411 restaurants in Vienna.
+title: Neni am Naschmarkt, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Neni am Naschmarkt, Wien: Se 1 162 objektive anmeldelser av Neni am Naschmarkt, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 302 av 4 403 restauranter i Wien. Fly Restauranter Ting å gjøre Turisme i Wien ... Vienna Naschmarkt. 3 469 anmeldelser . 0,35 km unna .
+title: My City Apartments am Naschmarkt, Vienna, Austria ...
+snippet: My City Apartments am Naschmarkt This neighborhood is a great choice for travelers interested in museums, culture and cafes – Check location 56 Linke Wienzeile, 06. Mariahilf, 1060 Vienna, Austria – This neighborhood is a great choice for travelers interested in museums, culture and cafes – Check location Excellent location – show map – Subway Access
+title: Der NASCHMARKT
+snippet: Vor allem stellt er in seinen Standbeschreibungen die Menschen, die am Naschmarkt ihr Brot verdienen, ins Zentrum der Texte. Seine Beschreibungen, immer mit dem für Sie als Leserin und Leser zu erwartenden Informationsgehalt über die am Stand angebotenen Produkte ausgestattet, sind mehr als Gebrauchstexte.
+title: Neni am Naschmarkt - VIENNA – Now. Forever
+snippet: Neni am Naschmarkt Naschmarkt Stand 510 1060 Wien ... The Vienna Naschmarkt. Vienna’s best-known market has around 120 market stands and restaurants for a colorful culinary offering ranging from Viennese to Indian, ...
+
+REL: 2
+POI Name: Kaffee Alt Wien
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea, Cafes, Austrian, 
+Snippets:
+title: ALT WIEN KAFFEE
+snippet: Willkommen auf der Website von ALT WIEN KAFFEE. Hier sind Sie richtig, wenn Sie frisch gerösteten Bohnenkaffee in höchster Qualität suchen. Sie können diesen hier online bestellen oder in unserem Wiener Geschäft in der Schleifmühlgasse 23 vorbeikommen und sich beraten lassen.
+title: Kaffee Alt Wien, Vienna - Old University Quarter ...
+snippet: Kaffee Alt Wien, Vienna: See 629 unbiased reviews of Kaffee Alt Wien, rated 4 of 5 on Tripadvisor and ranked #483 of 4,403 restaurants in Vienna.
+title: Kaffee Alt Wien – Gelebte Tradition seit 1922 im 1. Bezirk
+snippet: Das Kaffee Alt Wien wurde am 14. Oktober 1922 erstmals eröffnet und 1936 von Leopold Hawelka und dessen Frau Josefine einen Tag nach ihrer Hochzeit übernommen. Bis 1939 führten sie das Kaffee Alt Wien, übersiedelten dann in die Dorotheergasse und übernahmen dort das Café Ludwig, das heute als Café Hawelka bekannt ist.
+title: Kaffee Alt Wien - Wikipedia
+snippet: Kaffee Alt Wien is a traditional Viennese café located at Bäckerstraße 9 in the Innere Stadt first district in Vienna, Austria.It was established in 1936 by Leopold Hawelka and his wife Josefine on the day after their wedding. They ran the café until 1939 at which time they moved to Dorotheergasse, where they opened a new coffee house, the famous Café Hawelka.
+title: Kaffee Alt Wien – Gelebte Tradition seit 1922 im 1. Bezirk
+snippet: Here in the heart of Vienna sits our Kaffee Alt Wien. A coffee house with a very special, nearly hundred-year-old history. The Kaffee Alt Wien was founded on the 14. October 1922 and was inherited by Leopold Hawelka and his wife Josefine in 1936, one day after their marriage.
+title: ALT WIEN KAFFEE - Home | Facebook
+snippet: ALT WIEN KAFFEE - Schleifmühlgasse 23, 1040 Vienna, Austria - Rated 5 based on 46 Reviews &quot;Best coffee, very friendly staff who are passionate about...
+title: KAFFEE ALT WIEN, Vienna - Old University Quarter ...
+snippet: Kaffee Alt Wien, Vienna: su Tripadvisor trovi 629 recensioni imparziali su Kaffee Alt Wien, con punteggio 4 su 5 e al n.483 su 4.403 ristoranti a Vienna.
+title: Kaffee Alt Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Kaffee Alt Wien, Wien: Se 629 objektive anmeldelser av Kaffee Alt Wien, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 483 av 4 403 restauranter i Wien.
+title: Kaffee Alt Wien - Old University Quarter - Restaurant ...
+snippet: Das Kaffee Alt Wien repräsentiert die klassische Wiener Kafeehaus Tradition bestens; das Kaffee wurde neuerdings renoviert und erweitert, das Ambiente ist heller und freundlicher, Tische, Stühle und Sitzbänke sind zeitgemäß. Man kommt ins Kaffee nicht nur um Zeitungen zu lesen, ...
+title: Kaffee Alt Wien - Home | Facebook
+snippet: Kaffee Alt Wien - Bäckerstrasse 9, 1010 Vienna, Austria - Rated 4.8 based on 8 Reviews &quot;Best Strudel I&#39;ve ever had. Only my mum bakes better one ;)&quot;
+
+REL: 2
+POI Name: Ada Restaurant
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Seafood, Barbeque, 
+Snippets:
+title: De 10 beste restaurantene i Wien - Tripadvisor
+snippet: Beste restauranter i Wien, Østerrike: Se anmeldelser fra reisende og bilder av spisesteder i Wien, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: THE 10 BEST Restaurants in Vienna - Updated April 2020 ...
+snippet: Best Dining in Vienna, Vienna Region: See 477,106 Tripadvisor traveler reviews of 4,604 Vienna restaurants and search by cuisine, price, location, and more.
+title: De 10 beste restaurantene i Innere Stadt (Wien) - Tripadvisor
+snippet: Beste restauranter i Innere Stadt (Wien), Østerrike: Se anmeldelser fra reisende og bilder av spisesteder i Innere Stadt (Wien), og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Home- Austrian Development Agency
+snippet: Combating poverty, ensuring peace and preserving the environment: These are the three major concerns of Austrian Development Agency (ADA), the operational unit of Austrian Development Cooperation. ADA funds projects and programmes currently with a total of EUR 500 million to improve living conditions in developing countries.
+title: THE 10 BEST Dinner Restaurants in Vienna - Tripadvisor
+snippet: Best Dinner Restaurants in Vienna, Vienna Region: Find Tripadvisor traveler reviews of THE BEST Vienna Dinner Restaurants and search by price, location, and more.
+title: Twisted Sisters at Pub 21 - Home - Ada, Minnesota - Menu ...
+snippet: Twisted Sisters at Pub 21. 502 likes. Hometown bar with homemade daily specials! Wednesday Night Trivia. Outrageous bloody marys! Beer on tap! Kitchen open daily!
+title: Where to eat Vienna: Traditional Austrian dishes and where ...
+snippet: Where to eat traditional Austrian food in Vienna – the best restaurants in Vienna for schnitzel, strudel, schnapps, snacks! When visiting for the first time, or even as someone living here, it can sometimes be overwhelming trying to figure out where to eat in Vienna.
+title: Restaurant Vestibül - Food and Drinks in Vienna&#39;s Burgtheater
+snippet: Restaurant Vestibül, Universitätsring 2, 1010 Vienna T: +43 1 532 49 99 F: +43 1 532 49 ... Dear Guests! On occasion, our restaurant will be closed from Monday, March 16 until further notice. However, we can be reached at any time by phone and e-mail. We look forward to see you again soon and in ... The Vienna Chamber Orchestra / Booking &gt; ...
+title: 15 Absolute Best Restaurants in Vienna - Time Out Vienna
+snippet: The 15 best restaurants in Vienna It’s not all stodgy Schnitzel here. From Austrian classics to top-notch global imports, these are the best restaurants in Vienna
+title: The 5 Best Restaurants in Vienna | Elite Traveler
+snippet: Elite Traveler brings you its pick of the five best restaurants in Vienna. Restaurant Steirereck. This two-Michelin-starred restaurant is an intimate and charming spot within the Stadtpark, serving classic Viennese dishes alongside contemporary Austrian and international cuisine, complemented by wines from an exceptional cellar of 35,000 bottles.
+
+REL: 2
+POI Name: Cafe Ronacher
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Cafes, Coffee & Tea, 
+Snippets:
+title: Cafe beim Ronacher|Wien
+snippet: Cafe - Restaurant beim Ronacher | Ernst Kankovsky | Seilerstätte 14 | 1010 Wien | 01 - 512 72 79
+title: Ronacher - Cafe - Bar - Restaurant, Vienna - Inner City ...
+snippet: Ronacher - Cafe - Bar - Restaurant, Vienna: See 43 unbiased reviews of Ronacher - Cafe - Bar - Restaurant, rated 3.5 of 5 on Tripadvisor and ranked #2,878 of 4,396 restaurants in Vienna.
+title: Cafe Sacher Wien, Vienna - Inner City - Restaurant Reviews ...
+snippet: Cafe Sacher Wien, Vienna: See 18,869 unbiased reviews of Cafe Sacher Wien, rated 4 of 5 on Tripadvisor and ranked #363 of 4,402 restaurants in Vienna. ... While every other cafe in Vienna, astonishingly, was closed due to virus concerns, Cafe Sacher elected to share food and enjoyment with guests.
+title: Café Sperl - VIENNA – Now. Forever
+snippet: The Vienna Tourist Board only evaluates the travel plans anonymously for the purpose of statistical surveys. You can erase this data yourself in your account settings. ... Café Sperl Gumpendorfer Straße 11 1060 ...
+title: Cafe Restaurant Beim Ronacher - Vienna, Austria ...
+snippet: Cafe Restaurant Beim Ronacher, Vienna, Austria. 5 likes · 80 were here. Gastropub
+title: Ronacher | Theatres | Musical Vienna - VBW
+snippet: Today RONACHER is once again one of the &quot;pearls&quot; of the Vienna theatre scene. In September 2009, RONACHER celebrated the first Viennese Version Premier of the Cult-Musical TANZ DER VAMPIRE. From 15th September 2011 until the end of 2012, Musical-Hit SISTER ACT was to be seen in RONACHER.
+title: Restaurants &amp; Cafés | Hotel Sacher
+snippet: Sacher Eck Vienna. Indulge in the perfect pastry pairing of Original Sacher-Torte and coffee across two floors. COFFEEHOUSE CULTURE. Café Sacher Wien. Dive straight into the deep end of Viennese coffee culture by enjoying a taste of the Café Sacher. GOLDEN ERA CHARM. Salon Sacher.
+title: Cafe Ronacher - Innere Stadt - Vienna, Wien, Austria
+snippet: 2 reviews of Cafe Ronacher &quot;If you want good, homemade Austrian food then go to Cafe Ronacher. This traditional Austrian cafe serves daily specials and offers a good &quot;mittagsmenu&quot; (lunchtime menu) for a good price. The interior is very…
+title: Ronacher (Wien, Østerrike) - Anmeldelser - Tripadvisor
+snippet: Ronacher, Wien: Se anmeldelser fra reisende, artikler, bilder og gode tilbud for Ronacher i Wien, Østerrike på Tripadvisor.
+title: Café Sacher Wien | Hotel Sacher Vienna
+snippet: Nothing says Vienna quite like an afternoon at the Café Sacher. Eva Gürtler. Owner . One more cup of coffee. Enjoy a cup of Viennese specialty coffee, spread open a newspaper and make your stay in the Austrian capital complete with a taste of coffeehouse culture. Go beyond coffee and ...
+
+REL: 2
+POI Name: Kokos
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Korean, Thai, 
+Snippets:
+title: Kokos, Vienna - Leopoldstadt - Photos &amp; Restaurant Reviews ...
+snippet: Order food online at Kokos, Vienna with Tripadvisor: See 9 unbiased reviews of Kokos, ranked #2,807 on Tripadvisor among 4,393 restaurants in Vienna.
+title: KOKOS, Vienna - Leopoldstadt - Updated 2020 Restaurant ...
+snippet: Order takeaway and delivery at Kokos, Vienna with Tripadvisor: See 10 unbiased reviews of Kokos, ranked #2,575 on Tripadvisor among 4,402 restaurants in Vienna.
+title: Kokos, Wien - Leopoldstadt - Restaurant Bewertungen ...
+snippet: Kokos, Wien: 10 Bewertungen - bei Tripadvisor auf Platz 2.577 von 4.403 von 4.403 Wien Restaurants; mit 5/5 von Reisenden bewertet.
+title: Kokos, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Kokos, Wien: Se 10 objektive anmeldelser av Kokos, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 2 577 av 4 403 restauranter i Wien.
+title: Kokos - Picture of Kokos, Vienna - Tripadvisor
+snippet: Kokos, Vienna Picture: Kokos - Check out Tripadvisor members&#39; 50,204 candid photos and videos of Kokos
+title: Kokos, Vienna - Leopoldstadt - Restaurant Reviews, Phone ...
+snippet: Kokos, Vienna: See 10 unbiased reviews of Kokos, rated 5 of 5 on Tripadvisor and ranked #2,817 of 4,403 restaurants in Vienna.
+title: KOKOS Rest - Home - Vienna, Austria - Menu, Prices ...
+snippet: KOKOS Rest - Franz Hochedlinger gasse 2, 1020 Vienna, Austria - Rated 5 based on 3 Reviews &quot;양도 짱 많고 너무 맛있어요 :-)&quot;
+title: KOKOS, Vienna - Leopoldstadt - Ristorante Recensioni ...
+snippet: Kokos, Vienna: su TripAdvisor trovi 9 recensioni imparziali su Kokos, con punteggio 5 su 5 e al n.2.796 su 4.372 ristoranti a Vienna.
+title: Kokos, Wien - Leopoldstadt - Restaurant Bewertungen ...
+snippet: War mit einer Freundin Mittagessen. Sie kommt aus Korea und meint, dass man im Kokos echt koreanisches essen serviert bekommt. Das Lokal ist nicht besonders groß und von außen eher unauffällig.
+title: Oskar Kokoschka - Wikipedia
+snippet: Oskar Kokoschka (1 March 1886 – 22 February 1980) was an Austrian artist, poet, playwright, and teacher best known for his intense expressionistic portraits and landscapes, as well as his theories on vision that influenced the Viennese Expressionist movement.
+
+REL: 2
+POI Name: Kocak Backshop
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: Kocak Backshop - Simmering - Vienna, Wien, Austria - Yelp
+snippet: Kocak Backshop in Vienna, reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what’s great and not so great in Vienna and beyond.
+title: Vienna Backshop - Simmering (Vienna) - Wholesale Bakery ...
+snippet: Vienna Backshop. Wholesale Bakery · Breakfast &amp; Brunch Restaurant. Unofficial Page · Located in Simmering (Vienna) Photo contributed by Elvan Kocak. Reviews. Erik Pettersen reviewed Vienna Backshop — 5 star. September 15, ...
+title: Damla Backshop, Vienna - Meidling District - Menu, Prices ...
+snippet: Damla Backshop, Vienna: See 22 unbiased reviews of Damla Backshop, rated 4.5 of 5 on Tripadvisor and ranked #1,478 of 4,411 restaurants in Vienna.
+title: Backshop 24, Vienna - Funfhaus - Restaurant Reviews ...
+snippet: Backshop 24, Vienna: See 3 unbiased reviews of Backshop 24, rated 3.5 of 5 on Tripadvisor and ranked #3,771 of 4,407 restaurants in Vienna.
+title: Kocak Backshop KG, Wien, Simmeringer Hauptstraße 43/EG
+snippet: Kocak Backshop KG Simmeringer Hauptstraße 43/EG in Wien Simmering, ☎ Telefon 01 7431244 mit ⌚ Öffnungszeiten und Anfahrtsplan
+title: KOCAK ALLES DA - Home | Facebook
+snippet: KOCAK ALLES DA - Ettenreichgasse 11, 1100 Vienna, Austria - Rated 4.8 based on 26 Reviews &quot;Super das ist ambesten geschaft habe alles da und super...
+title: KAMAN Supermarkt &amp; Backshop - Grocery Store - Vienna ...
+snippet: KAMAN Supermarkt &amp; Backshop, Viyana. 283 likes. Grocery Store
+title: SARAY Supermarkt &amp; Backshop - Home | Facebook
+snippet: SARAY Supermarkt &amp; Backshop, Wien. 1.7K likes. Kaliteli ve hesapli. Facebook is showing information to help you better understand the purpose of a Page.
+title: Kuchen - Picture of Damla Backshop, Vienna - Tripadvisor
+snippet: Damla Backshop, Vienna Picture: Kuchen - Check out Tripadvisor members&#39; 50,004 candid photos and videos of Damla Backshop. Vienna. Vienna Tourism Vienna Hotels Vienna Bed and Breakfast Vienna Vacation Rentals Vienna Vacation Packages Flights to Vienna Vienna Restaurants Things to Do in Vienna
+title: Ermis - Kocak OG, Vienna - Favoriten District - Restaurant ...
+snippet: Ermis - Kocak OG, Vienna: See unbiased reviews of Ermis - Kocak OG, one of 4,406 Vienna restaurants listed on Tripadvisor.
+
+REL: 2
+POI Name: Karl Kolariks Schweizerhaus
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Gastropubs, Austrian, 
+Snippets:
+title: Karl Kolariks Schweizerhaus - Wurstelprater - Vienna, Wien ...
+snippet: 145 reviews of Karl Kolariks Schweizerhaus &quot;This place sure is poppin&#39; The beer garden has lots of picnic style tables around with plenty of shade from the trees that surround it. The waiter came around and quickly gave us an English menu. Being…
+title: schweizerhaus.at
+snippet: Liebe Gäste, das Schweizerhaus bleibt aus aktuellem Anlass leider bis auf Weiteres geschlossen! Ein neuer Eröffnungstermin wird hier bekannt gegeben.
+title: Karl Kolariks Schweizerhaus Restaurant in Vienna, Austria ...
+snippet: Karl Kolariks Schweizerhaus, Restaurant in Vienna, Austria with the best reviews and photos for Karl Kolariks Schweizerhaus. The Schweizerhaus (literally &quot;Swiss house&quot;) is a Viennese restaurant, rich in tradition, that is inseparably linked with the Pr...
+title: The Schweizerhaus ( Kolarik ) in Prater, Vienna, BUDVAR ...
+snippet: In 1920 Karl Kolarik took over the Schweizerhaus which was then regarded by the leading media as one of the last culinary bastions of the 225 year old Vienna Prater. Karl Kolarik sen. was born in ...
+title: schweizerhaus.at
+snippet: Karl und Else Kolarik, die Eltern der heutigen Eigentümer, entwickelten das Schweizerhaus zu einer Wiener Institution. Mit Gaumenfreuden aus der Böhmischen und Wiener Küche - wie z. B.: knusprige Grillstelze oder Znaimer Rindsgulasch - werden unsere Gäste bis heute verwöhnt.
+title: Kolariks Luftburg, Vienna - Prater - Photos &amp; Restaurant ...
+snippet: Order food online at Kolariks Luftburg, Vienna with Tripadvisor: See 371 unbiased reviews of Kolariks Luftburg, ranked #1,208 on Tripadvisor among 4,403 restaurants in Vienna.
+title: Schweizerhaus: Kolarik verschiebt Jubiläums-Eröffnung ...
+snippet: Karl Jan Kolarik: „Wir, als Familie und unser gesamtes Team haben sehr hart und mit voller Vorfreude auf den 15. März hingearbeitet und bedauern die Eröffnung des Schweizerhauses verschieben zu müssen. Aber, wir können und wollen kein Risiko eingehen, wenn es um die Gesundheit unserer Gäste und Mitarbeiter geht.
+title: Lokale im Prater von Kolarik: Alles über uns
+snippet: Seit 1991 gibt es Kolariks Freizeitbetriebe und Lokale im Prater. Gegründet von Elisabeth Kolarik zeichnen sich die dazugehörigen Lokale Luftburg, Praterfee mit dem Feenzelt, Himmelreich und der Kindervergnügungspark Kinderwelt vor allem durch Eines aus: Ihre Familienfreundlichkeit.
+title: Schweizerhaus - Wikimedia Commons
+snippet: English: The Schweizerhaus (Swiss house) is a Viennese restaurant, rich in tradition, that is inseparably linked with the Prater, a large public area and park in Vienna. Deutsch: Beim Schweizerhaus (Karl Kolariks Schweizerhaus GmbH) handelt es sich um eine traditionsreiche Wiener Gaststätte, die mit dem Prater untrennbar verbunden ist.
+title: Jubiläum: Schweizerhaus wird seit 100 Jahren ... - VIENNA.AT
+snippet: Seit 1920 wird das Schweizerhaus von Familie Karl Kolarik geführt. Am 15. März wird die Gastonomen Familie die Tore ihrer Wiener Institution zum 100. Mal öffnen.
+
+REL: 2
+POI Name: Restaurant Führich
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Austrian, 
+Snippets:
+title: Restaurant Führich | Österreichisches Restaurant in Wien ...
+snippet: The Restaurant Führich, in the heart of Vienna, is well known to locals and guests from abroad and has long been a popular meeting place for young and old.Because Petra Führich attaches great importance to making every guest feel comfortable. Top service, top food and many satisfied regulars The creative, high-quality Austrian cuisine enjoy daily many satisfied guests.
+title: Restaurant Führich | Österreichisches Restaurant in Wien ...
+snippet: ) 2️⃣ Like die Restaurant Führich Seite auf Facebook ? 3️⃣ Like dieses Gewinnspiel-Posting ? Verlost wird ein Schnitzel - Essen (auch glutenfrei) im Restaurant Führich für dich und deine Begleitung!? Es werden per Zufallsprinzip 2 Gewinner unter allen Facebook-Kommentaren, die die Frage richtig beantwortet haben und die ...
+title: Restaurant Fuhrich, Vienna - Inner City - Menu, Prices ...
+snippet: Restaurant Fuhrich, Vienna: See 986 unbiased reviews of Restaurant Fuhrich, rated 4 of 5 on Tripadvisor and ranked #222 of 4,403 restaurants in Vienna. ... The Restaurant Führich Team. 430gerardc. 18 reviews. Reviewed January 14, 2020 via mobile . Our Vienna favorite so far!!
+title: Restaurant Führich, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Restaurant Führich, Wien: Se 984 objektive anmeldelser av Restaurant Führich, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 219 av 4 397 restauranter i Wien.
+title: Restaurant Führich, Wien - Innere Stadt - Menü, Preise ...
+snippet: Restaurant Führich, Wien: 987 Bewertungen - bei Tripadvisor auf Platz 220 von 4.406 von 4.406 Wien Restaurants; mit 4/5 von Reisenden bewertet.
+title: Restaurant Fuhrich, Vienna - Inner City - Menu, Prices ...
+snippet: Restaurant Fuhrich, Vienna: See 986 unbiased reviews of Restaurant Fuhrich, ... Kind regards, your Restaurant Führich Team. writerguy212. 44 reviews. Reviewed December 29, 2019 . A delight! Walking distance from the opera, this very popular restaurant was a perfect post-show dining spot!
+title: RESTAURANT FUHRICH, Vienna - Inner City - Updated 2020 ...
+snippet: Restaurant Fuhrich, Vienna: See 986 unbiased reviews of Restaurant Fuhrich, rated 4 of 5 on Tripadvisor and ranked #218 of 4,402 restaurants in Vienna. Flights ... The Restaurant Führich Team. 430gerardc. 18 reviews. Reviewed January 14, 2020 via mobile . Our Vienna favorite so far!!
+title: De 10 beste restaurantene i Wien - Tripadvisor
+snippet: Beste restauranter i Wien, Østerrike: Se anmeldelser fra reisende og bilder av spisesteder i Wien, og søk etter pris, beliggenhet og mer på Tripadvisor.
+title: Restaurant Führich - VIENNA – Now. Forever
+snippet: The official online travel guide for the city of Vienna, with information about sights, events and hotel bookings, and the Vienna City Card. To navigation To contents. Follow the Vienna Tourist Board on Facebook Follow the Vienna Tourist Board on YouTube Follow the Vienna ...
+title: Restaurant Führich - Posts - Vienna, Austria - Menu ...
+snippet: Restaurant Führich, Vienna, Austria. 5,442 likes · 420 talking about this · 3,974 were here. Wiener Spezialitäten Küche - auch glutenfrei! Schönes Ambiente und ein Gastgarten mitten in der Wiener...
+
+REL: 1
+POI Name: Beans
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Coffee & Tea Supplies, 
+Snippets:
+title: Freshly roasted! - VIENNA – Now. Forever
+snippet: Vienna is the city of coffee. Coffee tastes even better when freshly roasted in Viennese coffee roast houses. Our tip: enjoy on the spot or take home as a souvenir.
+title: Beans Espresso &amp; Kaffeespezialitäten in Bohnen, gemahlen ...
+snippet: Beans Passione. Unsere Leidenschaft als Espresso zum Leben erweckt. Entdecken Sie Beliebte Kategorien. Kaffee für Vollautomaten. Wir haben jene Mischungen, die sich besonders für die Zubereitung in ihrem Kaffeevollautomaten eignen hier für Sie zusammengefasst. Espressokocher.
+title: BAKED BEANS AND VIENNA SMOORTJIE - The Daily Voice
+snippet: Now add the baked beans and turn the heat down to medium and cook for 8 to 10 minutes, adding a dash of water if it sticks. Remember to stir when required. Serve with fresh white bread and butter or even white rice. Delicious!
+title: Vienna Food Tour With The Endless Adventure - Penthouse ...
+snippet: We travel the capital of Austria Wien for a delicious Vienna Food Tour with another full time travel couple the Endless Adventure. We go on a hunt of the bes...
+title: Coffee roasting - Wikipedia
+snippet: The coffee-roasting process follows coffee processing and precedes coffee brewing. It consists essentially of sorting, roasting, cooling, and packaging but can also include grinding in larger-scale roasting houses. In larger operations, bags of green coffee beans are hand- or machine-opened, dumped into a hopper, and
+title: Full city (roast) | The Coffee Wiki | Fandom
+snippet: The beans will be mostly dry, with intermittent patches of oil. Coffee brewed from beans roasted to this degree mute some of the characteristics of the green coffee, especially more acidic tones. A full city roast will also develop sweetness and body present in the coffee.
+title: History of Viennese coffee house culture
+snippet: Even though the Viennese coffee house culture is renowned the world over, Vienna was not the first city in history with a coffee house. There were several coffee houses in Mecca as early as the 12 th century. The first coffee house in Europe opened in Venice in 1647.
+title: Amazon.com : The Bean Coffee Company Organic Vienna Roast ...
+snippet: Vienna Roast organic whole bean medium dark roast is a light French Roast with a distinct bittersweet taste and low acidity. Like all coffees from The Bean Coffee Company, this 100% Arabica coffee is hand roasted in small batches and packaged at the peak of its cycle to preserve its natural flavors and fresh-roasted quality.
+title: 7 Ultimately Austrian Foods to Taste in Vienna
+snippet: 7 Ultimately Austrian Foods to Taste in Vienna. ... simultaneously bringing along coffee beans to Vienna for the first time. Similarly, the Wiener Schnitzel originated in Italy, while the much praised Wiener Würstel (Viennese sausage) was originally German.
+
+REL: 1
+POI Name: Wiener Tramwaytag
+POI City: Vienna
+POI Country: AT
+POI Main category: Arts & Entertainment
+POI Sub category: Museums, 
+Snippets:
+title: Wiener Linien
+snippet: Tramwaytag der Wiener Linien findet am heutigen Samstag in der Hauptwerkstätte der Wiener Linien in Simmering statt. Teil des Tramwaytags ist die 4. Europameisterschaft der StraßenbahnfahrerInnen, bei der Teams aus 23 Städten in fünf Disziplinen um den Titel ringen.
+title: Wiener Lokalbahn - Tramwaytag 2014 - Wien - Vienna - YouTube
+snippet: Wien, Tramwaytag 2014. On board a heritage Wiener Lokalbahn
+title: Fahrgastinfo | Wiener Linien
+snippet: Hier können Sie Ihre Route planen, Tickets kaufen, finden Infos zu Störungen, Aufzügen und Rolltreppen, Fahrpläne, Antworten auf häufige Fragen (FAQ), Anmeldung zum Newsletter, aktuelle Meldungen, Öffnungszeiten, Kundendienst, Service und Kontakt. WienMobil ist die Mobilitäts-App der Wiener Linien: WienMobil ermöglicht Routing und Buchung unterschiedlicher Verkehrsmittel sowie Kauf und ...
+title: Wien Vienna Tramwaytag 2014 - Straßenbahnen - YouTube
+snippet: on board a heritage tram in Vienna
+title: Tramwaytag 2010 der Wiener Linien - YouTube
+snippet: Tramwaytag 2010 der Wiener Linien ... oder eine Bezirkstour mit der Vienna Ring Tram von Hernals nach Neuwaldegg und retour. Der Tramwaytag bietet außerdem interessante Einblicke ...
+title: Tramwaytag 2017: Der Tag gehört Dir! | Aktuelle Meldungen ...
+snippet: Der 33. Tramwaytag der Wiener Linien findet heuer am 6. Mai von 10 bis 17 Uhr an gleich zwei Schauplätzen statt. Der Hauptteil der Attraktionen findet sich am Bahnhof Gürtel, als Nebenschauplatz dient der Bahnhof Michelbeuern. Wie immer haben wir ein buntes Programm für unsere großen und kleinen BesucherInnen vorbereitet.
+title: Hauptwerkstätte Wiener Linien - Vienna, Austria ...
+snippet: Scheiß Wiener Linien , da hast du eine Jahreskarte gehst auf ein Konzert im Stadion und musst dann im Kreis laufen damit man nach hause fahren kann !+)!!!+ und wenn du die Jahreskarte kündigt willst verlangen sie noch 22€ bearneitunhsgebühr , so eine Frechheit und Gemeinheit, dann machen sie noch Werbung dass man umsteigen soll, echt zum kotzen, , , nie wieder wien lienen , da sollten ...
+title: Wiener Tramwaytag 2019 - freizeitferien.info
+snippet: Wiener Tramwaymuseum am Ludwig Koeßler Platz mit der U3, der Straßenbahn 18 sowie den Bussen 77A und 80A. Sie können für Ihre Anreise zum Wiener Tramwaytag 2019 aber auch den Wiener Linien Routenplaner benützen ...
+
+REL: 1
+POI Name: Reinwein
+POI City: Vienna
+POI Country: AT
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: REINWEIN | Wine &amp; Craft Beer Bar
+snippet: The REINWEIN combines the best of a wine shop, a wine bar and a beer pub. 41 Austrian wines &amp; wine specialties, Schremser Premium draft beer and 66 styles of Austrian and international craft beer from all over the world.. Our beverage menu is intended for all who are looking for something special.
+title: REINWEIN | Vinothek &amp; Craft Beer Bar
+snippet: Das REINWEIN vereint das Beste aus Vinothek, Weinbar und Bierstüberl. 41 ausgewählte österreichische Weine, Schremser Premium Bier vom Fass und 66 Sorten nationales und internationales Craft Beer aus aller Welt.. Unsere Getränke sind für alle gedacht, die nach dem Besonderen suchen.
+title: Reinwein Vinothek &amp; Craft Bier Bar, Wien ...
+snippet: Reinwein Vinothek &amp; Craft Bier Bar, Wien: Se 32 objektive anmeldelser av Reinwein Vinothek &amp; Craft Bier Bar, vurdert til 5 av 5 på Tripadvisor og vurdert som nr. 1 258 av 4 403 restauranter i Wien. ... Reindorfgasse 10 | A-1150 Vienna, Wien 1150, Østerrike +43 699 19411204.
+title: Reinwein Vinothek &amp; Craft Bier Bar, Vienna - Sechshaus ...
+snippet: Reinwein Vinothek &amp; Craft Bier Bar, Vienna: See 32 unbiased reviews of Reinwein Vinothek &amp; Craft Bier Bar, rated 5 of 5 on Tripadvisor and ranked #1,257 of 4,403 restaurants in Vienna.
+title: REINWEIN | Craft Beer - Österreichische und internationale ...
+snippet: Craftbeer-Karte vom REINWEIN. 66 Sorten ausgewähltes Craft Beer aus aller Welt.
+title: REINWEIN | Vinothek &amp; Craft Bier Bar - Picture of Reinwein ...
+snippet: Reinwein Vinothek &amp; Craft Bier Bar, Vienna Picture: REINWEIN | Vinothek &amp; Craft Bier Bar - Check out Tripadvisor members&#39; 50,105 candid photos and videos of Reinwein Vinothek &amp; Craft Bier Bar. Vienna. Vienna Tourism Vienna Hotels Vienna Bed and Breakfast Vienna Vacation Rentals Vienna Vacation Packages
+title: photo1.jpg - Picture of Reinwein Vinothek &amp; Craft Bier Bar ...
+snippet: Reinwein Vinothek &amp; Craft Bier Bar, Vienna Picture: photo1.jpg - Check out Tripadvisor members&#39; 50,162 candid photos and videos of Reinwein Vinothek &amp; Craft Bier Bar
+title: REINWEIN | Craft Beer - Austrian &amp; international beers
+snippet: REINWEIN craft beer menu. 66 selected craft beers from all over the world.
+title: Entrance - Picture of Reinwein Vinothek &amp; Craft Bier Bar ...
+snippet: Reinwein Vinothek &amp; Craft Bier Bar, Vienna Picture: Entrance - Check out Tripadvisor members&#39; 50,006 candid photos and videos of Reinwein Vinothek &amp; Craft Bier Bar
+title: Reinwein - Eating, Nightlife &amp; Things To Do in Vienna ...
+snippet: Very authentic Viennese pub with selected Austrian wines, draft beer and a lot of different craft beers from all over the world. Locals often spend their time here after work to drink a glass of ...
+
+REL: 1
+POI Name: SimmCity
+POI City: Vienna
+POI Country: AT
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, 
+Snippets:
+title: SimmCity | Festsaal Zentrum Simmering
+snippet: SIMMCity ist ein Veranstaltungs-, Seminar-, Konferenzraum und Konzertlocation im 11. Bezirk (Simmering) in Wien für Events und Live Musik. Mieten Sie unseren Saal für Ihre Gala, Hochzeit, Firmenevents, Weihnachtsfeier oder Präsentationen.
+title: SIMM City - VIENNA - VIENNA – Now. Forever
+snippet: The Vienna Tourist Board only evaluates the travel plans anonymously for the purpose of statistical surveys. You can erase this data yourself in your account settings. Or you can contact our Data Protection Officer at datenschutz@wien.info .
+title: Programm | SimmCity
+snippet: SIMMCity ist ein Veranstaltungs-, Seminar-, Konferenzraum und Konzertlocation im 11. Bezirk (Simmering) in Wien für Events und Live Musik. Mieten Sie unseren Saal für Ihre Gala, Hochzeit, Firmenevents, Weihnachtsfeier oder Präsentationen.
+title: SimmCity, Vienna, Austria Concert Setlists | setlist.fm
+snippet: Get SimmCity, Vienna, Austria setlists - view them, share them, discuss them with other SimmCity, Vienna, Austria fans for free on setlist.fm!
+title: [Live] Jinjer - SimmCity, Vienna, Austria 2019 [Show ...
+snippet: The next video is starting stop. Loading...
+title: Simm City - Home | Facebook
+snippet: Vienna, Austria 1110. Get Directions +43 1 33246410. www.simmcity.at. Live Music Venue. Price Range $ Impressum. Page Transparency See More. Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.
+title: Jinjer LIVESTREAM - SimmCity, Vienna, Austria 2019 [HD ...
+snippet: The next video is starting stop. Loading... Watch Queue
+title: TheJokerVienna - YouTube
+snippet: Skip navigation Sign in. Search
+title: Simm City - The Darkness killing it at Simm City ...
+snippet: The Darkness killing it at Simm City!!! #planetmusic #simmcity #planetmusic #vienna #thedarkness #rocknroll @theactualdarkness
+title: Simm City - @dzdeathrays warming up for The Darkness ...
+snippet: @dzdeathrays warming up for The Darkness! #planetmusic #simmcity #vienna #rocknroll
+
+REL: 1
+POI Name: Cafe Impuls
+POI City: Vienna
+POI Country: AT
+POI Main category: Nightlife
+POI Sub category: Dive Bars, Cafes, Coffee & Tea, 
+Snippets:
+title: ImPulsTanz - Vienna International Dance Festival
+snippet: ImPulsTanz - Vienna International Dance Festival. Contemporary dance performances, research projects and workshops.
+title: The 10 Best Cafés and Coffee Houses in Vienna, Austria
+snippet: Culture Trip spoke to Susanne Schaber, author of coffee house guide Einspänner, Mokka und Melange, Elisabeth Brandlmaier, food editor of Austrian magazine Woman and Fabian J Holzer, gourmet editor of Vienna-based Style Up Your Life magazine, for their recommendations of the best cafés and coffee houses in Vienna.
+title: History of Viennese coffee house culture
+snippet: Even though the Viennese coffee house culture is renowned the world over, Vienna was not the first city in history with a coffee house. There were several coffee houses in Mecca as early as the 12 th century. The first coffee house in Europe opened in Venice in 1647.
+title: Cafe Diglas, Vienna - Old University Quarter - Restaurant ...
+snippet: Cafe Diglas, Vienna: See 1,349 unbiased reviews of Cafe Diglas, rated 4 of 5 on Tripadvisor and ranked #736 of 4,403 restaurants in Vienna.
+title: Cafe Sacher Wien, Vienna - Inner City - Restaurant Reviews ...
+snippet: Cafe Sacher Wien, Vienna: See 18,869 unbiased reviews of Cafe Sacher Wien, rated 4 of 5 on Tripadvisor and ranked #363 of 4,402 restaurants in Vienna. ... While every other cafe in Vienna, astonishingly, was closed due to virus concerns, Cafe Sacher elected to share food and enjoyment with guests.
+title: CAFÈ &amp; BAR Impuls - Home | Facebook
+snippet: CAFÈ &amp; BAR Impuls, Graz, Austria. 175 likes. Cafe
+title: Impuls-Cafe - Meidling - Wien, Wien - Foursquare
+snippet: 2 visitors have checked in at Impuls-Cafe. Foursquare uses cookies to provide you with an optimal experience, to personalize ads that you may see, and to help advertisers measure the results of their ad campaigns.
+title: Viennese Concert Cafés - VIENNA – Now. Forever
+snippet: Live music in numerous Viennese concert cafés makes a visit to the coffee house a delight for the ears: The piano music of Waltz King, Johann Strauss, rings out, as do melodies with a hint of jazz or the classic Viennese song.
+title: Home - Café Central
+snippet: A truly central location. As the name suggests, Café Central is the real centre of Vienna – not St. Stephen’s Cathedral. The entrance to this coffee and cake lovers’ paradise is on the corner of Herrengasse and Strauchgasse in the first district.
+title: Viennese coffee house - Wikipedia
+snippet: The Viennese coffee house (German: das Wiener Kaffeehaus, Austro-Bavarian: as Weana Kafeehaus) is a typical institution of Vienna that played an important part in shaping Viennese culture.. Since October 2011 the &quot;Viennese Coffee House Culture&quot; is listed as &quot;Intangible Cultural Heritage&quot; in the Austrian inventory of the &quot;National Agency for the Intangible Cultural Heritage
+
+REL: 1
+POI Name: Billabong
+POI City: Vienna
+POI Country: AT
+POI Main category: Nightlife
+POI Sub category: Pubs, Australian, 
+Snippets:
+title: Billabong - Das australische Lokal in Wien
+snippet: WELCOME TO BILLABONG! G´Day Mate and welcome to Billabong - a little bit of OZ in the heart of Vienna. Why not enjoy a Bevy from our selection of Australian, Austrian and International bottled and tapped beers, in a bar well know for its friendly staff, quick service and fresh mouthwatering homemade &quot;Tucker&quot;. Reservations for parties of small and large numbers catered for.
+title: Billabong, Vienna - Inner City - Menu, Prices &amp; Restaurant ...
+snippet: Billabong, Vienna: See 148 unbiased reviews of Billabong, rated 3.5 of 5 on Tripadvisor and ranked #1,163 of 4,406 restaurants in Vienna.
+title: Billabong, Vienna - Inner City - Menu, Prices &amp; Restaurant ...
+snippet: Billabong, Vienna: See 143 unbiased reviews of Billabong, rated 3.5 of 5 on TripAdvisor and ranked #1,215 of 4,361 restaurants in Vienna.
+title: Billabong, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: Billabong, Wien: Se 148 objektive anmeldelser av Billabong, vurdert til 3,5 av 5 på Tripadvisor og vurdert som nr. 1 156 av 4 376 restauranter i Wien.
+title: Menu - Billabong - 1010 Wien
+snippet: DEAR GUEST. If no note of delay is communicated, Reservations will be canceled 15 minutes after designated arrival time. Please note that on big sports events such as Champions League Superbowl etc. tables have to be received one hour prior to kick off.
+title: Billabong in Vienna | My Guide Vienna
+snippet: Billabong, Vienna - If you miss Australia and feel like joining like-minds - this is where you should be heading....Australian hospitality, Foster beer, spareribs,a huge flat screen broadcas
+title: Billabong AussieBar Vienna - Home | Facebook
+snippet: Billabong AussieBar Vienna - Parkring 4, 1010 Vienna, Austria - Rated 4.5 based on 64 Reviews &quot;Very nice and positive place ! Good food and beer!))&quot;
+title: Billabong - Das australische Lokal in Wien
+snippet: WELCOME TO BILLABONG! G´Day Mate and welcome to Billabong - a little bit of OZ in the heart of Vienna. Why not enjoy a Bevy from our selection of Australian, Austrian and International bottled and tapped beers, in a bar well know for its friendly staff, quick service and fresh mouthwatering homemade &quot;Tucker&quot;. Reservations for parties of small and large numbers catered for.
+title: Billabong - Innere Stadt - Vienna, Wien, Austria
+snippet: Billabong provided the worst service I&#39;ve ever received in a dining establishment. Our group brought in some Starbucks that we had purchased only moments before we decided to enter this restaurant in hopes of eating a nice lunch with our coffee.
+title: BILLABONG, Vienna - Centro storico - Menu, Prezzo ...
+snippet: Billabong, Vienna: su Tripadvisor trovi 148 recensioni imparziali su Billabong, con punteggio 3,5 su 5 e al n.1.162 su 4.403 ristoranti a Vienna.
+
+REL: 1
+POI Name: Don Camillo
+POI City: Vienna
+POI Country: AT
+POI Main category: Restaurants and Food
+POI Sub category: Italian, 
+Snippets:
+title: Don Camillo | Italien - mitten in Graz
+snippet: DOLCE VITA ZUM REINBEISSEN Beef-Patty, Rindersteak oder vegetarisch - was darfs sein? Wenn der letzte Urlaub schon etwas her ist, zaubern Dir diese Burger mediterrane Sommergefühle auf Deinen Teller.
+title: Ristorante Don Camillo, Vienna - Prater - Photos ...
+snippet: Order food online at Ristorante Don Camillo, Vienna with Tripadvisor: See 44 unbiased reviews of Ristorante Don Camillo, ranked #1,588 on Tripadvisor among 4,403 restaurants in Vienna.
+title: Ristorante Don Camillo, Wien - Restaurantanmeldelser ...
+snippet: Ristorante Don Camillo, Wien: Se 44 objektive anmeldelser av Ristorante Don Camillo, vurdert til 4 av 5 på Tripadvisor og vurdert som nr. 1 588 av 4 403 restauranter i Wien.
+title: DON CAMILLO &amp; PEPPONE im Ronacher - Trailer 2017 - YouTube
+snippet: Das Musical erzählt liebevoll die Geschichten um den streitbaren katholischen Pfarrer Don Camillo und seinen nicht minder schlagkräftigen Kontrahenten Peppone als heiteres, unbeschwertes Musical.
+title: RISTORANTE DON CAMILLO, Vienna - Prater - Restaurant ...
+snippet: Reserve a table at Ristorante Don Camillo, Vienna on Tripadvisor: See 44 unbiased reviews of Ristorante Don Camillo, rated 4 of 5 on Tripadvisor and ranked #1,588 of 4,414 restaurants in Vienna.
+title: Don Camillo im Stadion Center Wien - Italian Restaurant ...
+snippet: Don Camillo im Stadion Center Wien - Olympiaplatz 2, 1020 Vienna, Austria - Rated 4.6 based on 31 Reviews &quot;Von vier Gängen waren die Vorspeise und der...
+title: Delicious food - Review of Ristorante Don Camillo, Vienna ...
+snippet: Ristorante Don Camillo: Delicious food - See 44 traveler reviews, 12 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Don Camillo &amp; Peppone | Archiv | Musical Vienna - VBW Official
+snippet: Don Camillo, der Pfarrer von Boscaccio, ist entsetzt. Vorwurfsvoll blickt er zum Kruzifix empor. «Wie konntest du das zulassen?» Jesus antwortet, so sei nun mal die Demokratie, schließlich hätten die Armen Gründe genug, einen kommunistischen Bürgermeister zu wählen.
+title: Don Camillo Brückengasse - Italian Restaurant - Vienna ...
+snippet: Don Camillo Brückengasse. 128 likes. Don Camillo - Da steckt Italien drin! La Dolve Vita, italienisches Lebensgefühl und himmlische Köstlichkeiten, die mit viel Amore zubereitet werden.
+title: Don Camillo &amp; Peppone | Archive | Musical Vienna - VBW
+snippet: “DON CAMILLO &amp; PEPPONE, which we developed in cooperation with the Theater St. Gallen, was a world premiere that meets the highest international standards, and we are proud to be bringing this classic to the Viennese musical stage for its Austrian premiere early in 2017.
+
+REL: 1
+POI Name: Gimlet
+POI City: Vienna
+POI Country: AT
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Gimlet, Wien,Simmering, Bar - Phone, opening hours, news
+snippet: Gimlet, Vienna Bar. austria › Wien › Politischer Bezirk Wien › Wien,Simmering › Bar › Gimlet. Adress. Guglgasse 11 - Top 22 - 4.OG. 1110 Vienna. Phone number ... Places near Gimlet. Montesino Vienna. Casino. 2 meters Bar Lounge Melbourne. Restaurant. 4 meters Gasometer gimlet-cocktailbar. Bar. 6 meters Gasometer Kino ...
+title: Gimlet Cafe Cocktailroom - Home | Facebook
+snippet: Gimlet Cafe Cocktailroom - Guglgasse 11 Top 22.(4.OG), 1110 Vienna, Austria - Rated 4.6 based on 10 Reviews &quot;Personal sehr nett und freundlich. Die Musik...
+title: Gastronomie im Wiener Gasometer
+snippet: BARGELD. Im Gasometer gibt es vier Geldausgabeautomaten. In der oberen Ebene im Gasometer A (zwischen Gasometer A und B) 2 x, im Gasometer D vor Klangfarbe und im Entertainmentcenter, untere Ebene unter der Rolltreppe.
+title: Ballantine making us a grey goose gimlet! - Picture of The ...
+snippet: The Ritz-Carlton, Vienna, Vienna Picture: Ballantine making us a grey goose gimlet! - Check out Tripadvisor members&#39; 54,482 candid photos and videos of The Ritz-Carlton, Vienna
+title: Gimlet Cafe Cocktailroom, Guglgasse 11 Top 22.(4.OG ...
+snippet: #letsshake #weekend #gettheweekendstarted #weekendcocktail #cocktails #drinks #shots #friendsandmore #havefun #gimlet #cafe #cocktailroom #gasometer #vienna . 18/10/2019 . Großes Kino im Gasometer Hollywood Megaplex 4dx ⚓️ Ich war noch niemals in New York ...
+title: gasometer gimlet-cocktailbar, Vienna - seekty.com
+snippet: gasometer gimlet-cocktailbar, Vienna Bar. austria › . Wien ›
+title: Adresse von Gimlet Guglgasse 11 in Vienna
+snippet: Adresse &amp; Öffnungszeiten Gimlet, Guglgasse 11 (Vienna) auf nochoffen.de finden!
+title: Flights Montreal to Vienna from 1005 CAD | Austrian
+snippet: Fly with us from Montreal to Vienna, the “City of Music” on the Blue Danube and the home of Austrian Airlines. You will land at the airport Vienna-Schwechat, and the City Airport Train, a regional train or a bus will bring you to downtown Vienna in a very short time.
+title: Gimlet - Bar in Vienna - Foursquare
+snippet: &quot;There is a pub quiz every Thursday which is great fun. Teams of five try to find the answer to challenging questions, with a little help (or sometimes not) from the song playing in the background.&quot;
+title: Sign up · Gimlet
+snippet: Gimlet shall send you your User Content, in XML format, within thirty (30) days after receipt of your request. Survival All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, non-compete provisions, and limitations of liability.
+
+REL: 0
+POI Name: FITINN
+POI City: Vienna
+POI Country: AT
+POI Main category: Active Life
+POI Sub category: Gyms, 
+Snippets:
+title: FITINN - Gym/Physical Fitness Center - Vienna, Austria ...
+snippet: FITINN - Rathausplatz 2, 1010 Vienna, Austria - Rated 4 based on 27 Reviews &quot;I have been working out at this gym. It is clean and has all of the...
+title: FITINN - Fitnessstudios in Wien, Graz, Linz, Innsbruck ...
+snippet: Eine FITINN Filiale ist immer in deiner Nähe: Wien, Graz, Klagenfurt, Wels, Villach, Schwechat, Linz, Pasching, Salzburg, Innsbruck, Wiener Neustadt und in der SCS ...
+title: Domovská stránka - FITINN
+snippet: Vo FITINN trénuješ vždy na najnovších silových strojoch a kardiostrojoch značiek gym80 a Precor na trhu. Ďalšie informácie. Tréningový priestor pre dámy. Všetky štúdiá FITINN disponujú dodatočným samostatným tréningovým priestorom pre dámy so špičkovým vybavením.
+title: Fitnessstudio 1090 Wien, Friedensbrücke - FITINN
+snippet: Das FITINN Friedensbrücke findest du im ersten Stock des Bürogebäudes an der Kreuzung Roßauer Lände mit der Alserbachstraße im 9. Bezirk in Wien. Dort haben wir eine großzügige, lichtdurchflutete und damit besonders freundliche Trainingsfläche bezogen.
+title: FITINN Fitness Abos &amp; Mitgliedschaften - Trainieren zum ...
+snippet: Bei FITINN bezahlst du nur einen geringen Grundpreis für dein Abo und hast die Möglichkeit, bei Bedarf Zusatzleistungen und Produkte zu fairen und günstigen Preisen in Anspruch zu nehmen. Du musst somit für nichts bezahlen, was du auch nicht benötigst und entscheidest selbst, ...
+title: FITINN Fitnessstudios in ganz Österreich | Fitnesscenter ...
+snippet: Fitness Jahresabos bei FITINN in Wien, Graz, Linz, Klagenfurt, Salzburg, Innsbruck, Wiener Neustadt, Wels, Villach, Pasching, Schwechat, Seiersberg und in der SCS. Training für günstige € 19,90 monatlich mit modernsten Geräten, Frauenfitness und extra langen Öffnungszeiten.
+title: FITINN - Vienna, Austria | Facebook
+snippet: FITINN - Ada-Christen-Gasse 12, 1100 Vienna, Austria - Rated 4.6 based on 8 Reviews &quot;Hervorragend. Kann in diesem Studio mein Programm problemlos machen.&quot;
+title: Fit Inn - Vienna, Austria - Gym/Physical Fitness Center ...
+snippet: Fit Inn, Vienna, Austria. 43 likes · 813 were here. Gym/Physical Fitness Center
+title: Fitinn Wien Mitte on Instagram • Photos and Videos
+snippet: 155 Posts - See Instagram photos and videos taken at ‘Fitinn Wien Mitte’
+title: FITINN - Home | Facebook
+snippet: FITINN - Dietrichgasse 25, 1030 Vienna, Austria - Rated 4.4 based on 5 Reviews &quot;Schönes Studio und angenehme Leute!&quot;
+
+REL: 0
+POI Name: Heuriger Sirbu
+POI City: Vienna
+POI Country: AT
+POI Main category: Arts & Entertainment
+POI Sub category: Wineries, Heuriger, 
+Snippets:
+title: Heuriger Sirbu - home
+snippet: Heuriger Wien - Sirbu am Kahlenberg - zum Heurigen spazieren und genießen Heuriger Wien - Familienfeiern beim Heurigen Sirbu erleben Heuriger Sirbu - bei einem guten Glas Wein traditionelle Heurigenstimmung enießen
+title: SIRBU HEURIGEN, Vienna - Kahlenbergerdorf - Restaurant ...
+snippet: SIRBU HEURIGEN, Vienna: See 80 unbiased reviews of SIRBU HEURIGEN, rated 3 of 5 on Tripadvisor and ranked #3,977 of 4,403 restaurants in Vienna.
+title: SIRBU HEURIGEN, Wien - Kahlenbergerdorf - Restaurant ...
+snippet: SIRBU HEURIGEN, Wien: 80 Bewertungen - bei Tripadvisor auf Platz 3.979 von 4.406 von 4.406 Wien Restaurants; mit 3/5 von Reisenden bewertet.
+title: THE 10 BEST Restaurants Near SIRBU HEURIGEN in Vienna ...
+snippet: Restaurants near SIRBU HEURIGEN, Vienna on Tripadvisor: Find traveler reviews and candid photos of dining near SIRBU HEURIGEN in Vienna, Austria.
+title: An evening at the Heurigen - Review of SIRBU HEURIGEN ...
+snippet: SIRBU HEURIGEN: An evening at the Heurigen - See 80 traveler reviews, 35 candid photos, and great deals for Vienna, Austria, at Tripadvisor.
+title: Neustift, Heiligenstadt, Sievering, Grinzing ... - VIENNA
+snippet: Neustift, Heiligenstadt, Sievering, Grinzing, Nussdorf add to my travel plan Cozy Viennese “heurige” (wine taverns) also await you in the old Viennese wine villages of Neustift, Nussdorf, Sievering and Grinzing.
+title: Sirbu - VIENNA – Now. Forever
+snippet: The official online travel guide for the city of Vienna, with information about sights, events and hotel bookings, and the Vienna City Card. ... heuriger.sirbu@aon.at; A classic wine tavern on the Nussberg with a lovely view of the vineyards and the city of Vienna. Opening times.
+title: Heuriger Sirbu - Vienna, Austria - Wine Bar, Restaurant ...
+snippet: Drinks in the hills beneath the Leopoldsberg in the background at the Heuriger Sirbu — with Bri Ormson and Amy MH at Heuriger Sirbu. Walter Pachl was with Olga Romanova at Heuriger Sirbu. September 29, 2019 · Vienna, Austria · Heuriger Sirbu. Wine Bar · Vienna, Austria. 1,492 people checked in here. Nicu Paleru Oficial added a new photo ...
+title: SIRBU HEURIGEN, Wien - Restaurantanmeldelser - Tripadvisor
+snippet: SIRBU HEURIGEN, Wien: Se 80 objektive anmeldelser av SIRBU HEURIGEN, vurdert til 3 av 5 på Tripadvisor og vurdert som nr. 3 979 av 4 406 restauranter i Wien.
+title: The Viennese Heurige - VIENNA – Now. Forever
+snippet: The real Viennese “heurige” or wine taverns. Numerous songs have been dedicated to them; they have served as a backdrop for many films. However, in the legendary comfortable atmosphere, they primarily offer the Viennese and their guests entertainment, fine Viennese wines and the fitting culinary accompaniment.
+
+Cand cities: {'Vienna'}

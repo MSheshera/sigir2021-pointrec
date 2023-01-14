@@ -1,0 +1,859 @@
+City: New York City
+Country: US
+Main category: Nightlife
+Sub category: Bars
+Description: Hey guys, I'm heading into the city tonight with about 20 people in our lower to mid 20s. Looking for a place downtown with a good beer selection, not overly pricey, not mega crowded and possibly a dancing area for a bonus. Any bars that jump to mind? I'm always in the city, but its hard picking out a place that can accommodate us. thanks for your expert advice! 
+Rated POIs: 48
+Rel distr: [(0, 9), (1, 15), (2, 13), (3, 11)]
+=================================
+REL: 3
+POI Name: The Belfry
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Sutton Bar Room
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Bookmarks
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Clinton Hall
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Gardens, American (New), Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Copper & Oak
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: One Star
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Tom & Jerry's
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: Houston Hall
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Gardens, Sports Bars, Brewpubs, 
+Snippets:
+
+
+REL: 3
+POI Name: Marshall Stack
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 3
+POI Name: District Social
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, American (New), 
+Snippets:
+
+
+REL: 3
+POI Name: Turnmill
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Sports Bars, Pubs, American (Traditional), 
+Snippets:
+
+
+REL: 2
+POI Name: Local 138
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: William Barnacle Tavern
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: The Library
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Dive Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Juke Bar
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: The Wayland
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Music Venues, American (Traditional), 
+Snippets:
+
+
+REL: 2
+POI Name: Ray & Dot's Tap
+POI City: Greendale
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, American (Traditional), 
+Snippets:
+title: Ray &amp; Dot&#39;s Tap in Greendale - Restaurant reviews
+snippet: All info on Ray &amp; Dot&#39;s Tap in Greendale - Call to book a table. View the menu, check prices, find on the map, see photos and ratings.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Ray &amp; Dot&#39;s Tap, Greendale, Milwaukee - Urbanspoon/Zomato
+snippet: Ray &amp; Dot&#39;s Tap Milwaukee; Ray &amp; Dot&#39;s Tap, Greendale; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for Ray &amp; Dot&#39;s Tap Restaurant on Zomato
+title: Ray &amp; Dot&#39;s Tap 6351 W Grange Ave Greendale, WI ...
+snippet: &lt;p&gt;Attached to the American Legion Greendale Post 416, you will find Ray &amp;amp; Dot&#39;s Tap. This cozy bar has a neighborhood feel to it. Pool tables, several big flat-screen TVs and a jukebox make it a fun place to meet friends.
+title: Ray &amp; Dot&#39;s Tap Greendale, WI 53129 - 67 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Ray &amp; Dot&#39;s Tap at 6351 W Grange Ave #1328 in Greendale - ⏰hours, ☎️phone number, ☝address and map.
+title: Menu at Ray &amp; Dot&#39;s Tap pub &amp; bar, Greendale
+snippet: You may explore the information about the menu and check prices for Ray &amp; Dot&#39;s Tap by following the link posted above. restaurantguru.com takes no responsibility for availability of the Ray &amp; Dot&#39;s Tap menu on the website.
+title: Ray &amp; Dot&#39;s Tap in Greendale - Menu, Reviews, Specials &amp; more!
+snippet: Ray &amp; Dots is bad ass. Plain and simple. I grew up in Greenfield, and the place is pretty legendary among my group of friends from our debaucherous nights spent drinking Hoegaarden (a tap is like $2.50!) and eating nachos until we went blind.
+title: Ray &amp; Dot&#39;s Tap in Greendale | Ray &amp; Dot&#39;s Tap 6351 W ...
+snippet: Find Ray &amp; Dot&#39;s Tap in Greendale with Address, Phone number from Yahoo US Local. Includes Ray &amp; Dot&#39;s Tap Reviews, maps &amp; directions to Ray &amp; Dot&#39;s Tap in Greendale and more from Yahoo US Local
+title: Ray &amp; Dots Tap Restaurant - Greendale, WI | OpenTable
+snippet: Get menu, photos and location information for Ray &amp; Dots Tap in Greendale, WI. Or book now at one of our other 5046 great restaurants in Greendale.
+title: Ray &amp; Dot&#39;s Tap - 13 tips - Foursquare
+snippet: Read 13 tips and reviews from 1077 visitors about great value, good for groups and beer. &quot;Great neighborhood bar. Can&#39;t beat the prices.&quot;
+
+REL: 2
+POI Name: The Ship
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Cocktail Bars, Lounges, Venues & Event Spaces, 
+Snippets:
+
+
+REL: 2
+POI Name: Rooftop 93
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, Cocktail Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: The Pony Bar
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Rizzo's Bar & Inn
+POI City: Chicago
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Rizzo&#39;s Bar &amp; Inn | Wrilgeyville Bar And Restaurant ...
+snippet: Rizzo’s Bar &amp; Inn, open year-round, is located directly across the street from the historic Wrigley Field in Chicago, IL. Boasting delicious food and drinks, amazing patio with a retractable roof, HD TVs on every wall, and excellent space for private events, Rizzo’s Bar &amp; Inn is a great place to dine and enjoy sports year round.
+title: Rizzo&#39;s Food Menu | Rizzo&#39;s Bar &amp; Inn | Wrigleyville ...
+snippet: April 3, 2020 Rizzo&#39;s Bar &amp; Inn food menu is packed with Hall Of Famers like the “Trash Can Nachos”, the “Notorious” 72oz burger, and the Giant Pretzel!
+title: Our History | RIZZO&#39;S BAR &amp; INN - RIZZO&#39;S BAR &amp; INN
+snippet: The Rizzo family has a long history in Chicago dating back to 1946 at a time when Wrigleyville was unrecognizable from what we all know and love today. The neighborhood has grown a lot since 1946 and the Rizzos have grown right alongside it starting at the very top, ... Our family has worked from the ground up to open Rizzo’s Bar &amp; Inn.
+title: Rizzo&#39;s Food And Space Photo Gallery | RIZZO&#39;S BAR &amp; INN ...
+snippet: Rizzo’s Bar &amp; Inn boasts the largest retractable rooftop in all of Chicago. The sunny outdoor patio, modern indoor space, and food options at Rizzo’s Bar &amp; Inn make our venue a great place to host private events and parties of all kind.
+title: Private Events | RIZZO&#39;S BAR &amp; INN - RIZZO&#39;S BAR &amp; INN
+snippet: The Rizzo family has a long history in Chicago dating back to 1946 at a time when Wrigleyville was unrecognizable from what we all know and love today. Our family has worked from the ground up to open Rizzo’s Bar &amp; Inn. The restaurant pays homage to the history of Wrigleyville through the eyes of the family.
+title: Rizzo&#39;s Bar &amp; Inn - Home | Facebook
+snippet: Join Austin Head from Fitness Formula Clubs at Rizzo&#39;s Bar &amp; Inn for this 1-hour complete body workout that will incorporate resistance and body weight exercises. ?️ Stay after for a social. Your first drink is on us! ? Contact Anthony Reed at areed@ffc.com for more information. ️: Rizzo&#39;s Total Body Blast | FFC Chicago
+title: Rizzo’s Bar &amp; Inn - 51 Photos &amp; 65 Reviews - Bars - 3658 N ...
+snippet: 65 reviews of Rizzo&#39;s Bar &amp; Inn &quot;Best place for before and after a Cubs game. The Bloody Mary was on point (it has bacon in it). The guacamole was surprisingly stellar and they have real pico, not fake mainstream salsa. The open patio area is…
+title: Rizzo&#39;s Bar and Inn, Chicago - Lake View - Menu, Prices ...
+snippet: Rizzo&#39;s Bar and Inn, Chicago: See 8 unbiased reviews of Rizzo&#39;s Bar and Inn, rated 4.5 of 5 on Tripadvisor and ranked #2,527 of 9,568 restaurants in Chicago.
+title: Rizzo&#39;s Bar &amp; Inn Chicago, IL 60613 - Menu, 71 Reviews and ...
+snippet: Latest reviews, photos and ??ratings for Rizzo&#39;s Bar &amp; Inn at 3658 N Clark St in Chicago - view the menu, ⏰hours, ☎️phone number, ☝address and map.
+title: Rizzo’s Bar &amp; Inn – Wrigleyville Chicago
+snippet: rizzos-bar-and-inn-4. rizzos-bar-and-inn-5. Place Category: Bars and Restaurants Place Tags: Beer Bars, Cocktail Bars, and Pub Food. Profile Photos Map. This bar has an extensive menu of food and drinks with outdoor seating options located across the street from Wrigley Field. No Records Found.
+
+REL: 2
+POI Name: Frying Pan
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+
+
+REL: 2
+POI Name: Paradise Club
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Cabaret, 
+Snippets:
+
+
+REL: 2
+POI Name: Goldbar
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, Venues & Event Spaces, Cocktail Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Street Beat Brass Band
+POI City: New York
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, Musicians, Jazz & Blues, 
+Snippets:
+
+
+REL: 1
+POI Name: Craft by Proper
+POI City: Salt Lake City
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Bar, 
+Snippets:
+title: Craft by Proper | Utah&#39;s only Utah-only beer bar
+snippet: 1053 e 2100 s. salt lake city, utah. open 7 days a week. monday – friday 4pm – 1am. saturday &amp; sunday 12pm – 1am
+title: Menu | Craft by Proper
+snippet: © Proper Brewing Company 2020 • 1053 E 2100 S SLC, UT • Tel: (385) 242-7186 • Handcrafted with love by Proper Brewing TeamProper Brewing Team
+title: Craft by Proper - Home | Facebook
+snippet: Craft by Proper · Salt Lake City, UT. Drinks · 190 people. Craft by Proper added an event. February 25 at 9:20 PM · WED, MAR 4 AT 5:00 PM MST. Silver Reef Tap Takeover. Craft by Proper. Party. See All.
+title: Craft by Proper - Sugar House - Salt Lake City, UT
+snippet: 10 reviews of Craft by Proper &quot;This is my favorite bar. The bartenders are always friendly, it can be quiet if you go early, and I love to sit at the bar that overlooks the road and do homework. I love that it&#39;s got the big open window in the…
+title: Craft by Proper: Utah&#39;s Only Utah-Only Beer Bar | Utah ...
+snippet: Above all, the Craft by Proper folks are eager to provide diversity in beer. The approach aims to offer space for breweries who currently might not be well-represented on tap handles in the greater Salt Lake area. Utah’s thriving craft beer scene affords the folks at Craft by Proper the opportunity to curate a decidedly unique beer list.
+title: Craft By Proper menu | SLC menu
+snippet: Craft By Proper is the latest project from the Proper team, the folks behind: Avenues Proper, Proper Burger and Proper Brewing. This bar in the heart of Sugar House is unique in that it offers 100% exclusive Utah brewed beers (in total 36 taps and 80+ bottles and cans).
+title: Craft by Proper - Salt Lake City, UT - Untappd
+snippet: Find out what&#39;s popular at Craft by Proper in Salt Lake City, UT in real-time and see activity
+title: Craft by Proper Reviews, Photos, &amp; More | Salt Plate City
+snippet: Craft by Proper Reviews, Photos, Lists, and more from Salt Plate City. See why Craft by Proper is one of the best places to eat in Salt Lake City.
+title: Salt Lake City - Avenues Proper | Avenues Proper ...
+snippet: Avenues Proper Restaurant &amp; Publick House – Salt Lake City
+title: Level Crossing Brewing Company - Home | Facebook
+snippet: Brewery in Salt Lake City, Utah. People talk about rye ipa, craft beer and utah brewers guild fest. See reviews and recommendations.
+
+REL: 1
+POI Name: Bennett Liquor & Wines
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Bennett Liquor &amp; Wines - Washington Heights - Manhattan ...
+snippet: 14 reviews of Bennett Liquor &amp; Wines &quot;Any store that carry&#39;s Ole Smokey Moonshine and all brands of Absolute is fine by me! The shop is smaller and more intimate than a place like PJ Wine but the service is better. I was looking for a bottle of…
+title: Bennett Liquor &amp; Wines 720 W 181st St Manhattan, NY Liquor ...
+snippet: Get directions, reviews and information for Bennett Liquor &amp; Wines in Manhattan, NY. Bennett Liquor &amp; Wines 720 W 181st St Manhattan NY 10033. 14 Reviews (212) 740-0444 Website. Menu &amp; Reservations ... And on top of that the service is also unmatched by the competition. As someone else wrote here, New Bennett &quot;creates a sense of ...
+title: Bennett Liquor &amp; Wines - New York, NY | Groupon
+snippet: For food that scores high on the taste test, try one of the many options available at Bennett Wines Liquors in New York.Waiting can feel like forever, especially when you&#39;re hungry. Spare yourself time spent in the parking search and dine with us. We&#39;ve got space available for you and your car. Bennett Wines Liquors is located near a wide variety of public transit options, including 181 St
+title: Photos for Bennett Liquor &amp; Wines - Yelp
+snippet: Photos at Bennett Liquor &amp; Wines - Manhattan, NY. Find. Near
+title: Bennett Liquor &amp; Wines in NYC reviews, menu, reservations ...
+snippet: Bennett Liquor &amp; Wines (1) (212) 740-0444. Write a review Review. Bennett Liquor &amp; Wines. Take-out: Yes Accepts Credit Cards: Yes Bike ... 1 review. Elbert Mucha on September 20, 2015. The more and more I frequent Bennett, the more I fall in love. The guys here, as my roommate puts it, &quot;actually create a sense of community in their store.&quot; The ...
+title: Manhattan Fine Wines – The Best Selection of Wines in ...
+snippet: Featured Wine . 2015 El Enemigo Malbec $21.99 (Wine Advocate 93+ points) Fermented with full clusters, the 2015 El Enemigo Malbec feels a bit closed and has a reductive personality, so decanting in advance could be a ...
+title: Bennett Liquor &amp; Wines in New York | Bennett Liquor ...
+snippet: Find Bennett Liquor &amp; Wines in New York with Address, Phone number from Yahoo US Local. Includes Bennett Liquor &amp; Wines Reviews, maps &amp; directions to Bennett Liquor &amp; Wines in New York and more from Yahoo US Local
+title: Best Liquor Store Washington Heights, Manhattan, NY ...
+snippet: Reviews on Best Liquor Store in Washington Heights, Manhattan, NY, United States - PJ Wine, Bennett Liquor &amp; Wines, A C Wine and Liquor, Heights Wine &amp; Spirits, Hamilton Discount Wine &amp; Liquor, Columbia Wine, St Nicks Vinoteca, Vines on Pine,…
+title: Cabrini Wines &amp; Spirits, Inc.
+snippet: CABRINI WINES &amp; SPIRITS. (212) 568-3290. cabriniwines@gmail.com Serving upper Manhattan in NYC since December 1975. Website hosting by Shopify.
+title: Big Fella Wine &amp; Liquor - Home | Facebook
+snippet: Big Fella Wine &amp; Liquor, Bennett, Colorado. 251 likes · 107 talking about this. Serving the Bennett, CO and surrounding communities a wide selection of wine, beer, and liquor options.
+
+REL: 1
+POI Name: Basic City Beer
+POI City: Richmond
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Bar, Beer Gardens, 
+Snippets:
+title: Craft Beer: Basic City Beer Co. - A Microcosmic Brewery
+snippet: basic city beer co. was conceived in the ruins of a lost town. &quot;ruins&quot; &amp; &quot;lost&quot; ultimately beget &quot;discovery&quot; &amp; &quot;reclamation&quot;. our marketing &amp; mythology is born in this sentiment. a foundation of history upfit into ethereal brewery future.
+title: Basic City Beer Co- RVA - Home | Facebook
+snippet: Basic City Beer Co- RVA - 212 W Sixth Street, Richmond, Virginia 23224 - Rated 5 based on 2 Reviews &quot;Take a flight on the way to happiness. Great beer.&quot;
+title: Basic City Beer to open second location in Richmond
+snippet: WAYNEBORO - Basic City Beer Company is expanding its footprint and heading to Richmond to serve up more of its beer. The expansion means moving 100 miles into Richmond&#39;s Southside on 6th Street for its second location. According to a Facebook post from Friday, Basic City Beer Company signed the paperwork to seal the deal.
+title: Located in Basic City Brewery! - WBORO | basiccitybeerco
+snippet: 1010 east main st. waynesboro, va 540-943-1010 &amp; 212 w 6th street. richmond, va. brewery
+title: GALLERY | basiccitybeerco
+snippet: RICHMOND, VA. BREWERY. ... 1010. Our address: 1010 East Main Street. Dogfish, Devils &amp; Basic. Sam Calgione of Dogfishhead, Steve Crandal of Devil&#39;s Backbone &amp; the Basic City Crew. tap handles. our pile of handmade tap handles. water from the source. Basic City&#39;s water is from a 17 year cycled water that bubbles up from a spring 1M gallons a day ...
+title: Basic City Beer Co (Richmond) - 2020 All You Need to Know ...
+snippet: Basic City took over the space that use to house Twisted Ales. It is a block away from Legend Brewing. (Legend serves food and has a nice outdoor space. I prefer the beer at Basic City.) They have expanded to include a game room (table tennis, etc.) with projection TV. I noticed …
+title: Basic City Beer Co. has opened satellite location in ...
+snippet: Basic City Beer Co. has opened satellite location in Richmond&#39;s Manchester area ... Basic City is near Legend Brewing Co., the Richmond area’s oldest craft brewery.
+title: Basic City Beer Co in Richmond, VA – Virginia is for Beer ...
+snippet: Basic City Beer Co first opened its doors in Waynesboro, VA in 2016 and quickly gained a reputation for brewing great hand crafted beer. Then in 2018 they opened a 2nd location in RVA where they continue to brew a fine selection of craft beer.
+title: WBORO | basiccitybeerco
+snippet: richmond, va. brewery. beer menu: our current beer menu is at the bottom of page. hit us up on facebook to ask before you drive hours for a specific beer. flagship. 6th lord ipa 5.3%abv citra &amp; falconers hopped quasi-session. basic need lager (oopsprach) 5.4%abv honey-hued malt forward lager. our ...
+title: Basic City Beer Co. - Home | Facebook
+snippet: Basic City Beer Co. - 1010 E Main St, Waynesboro, Virginia 22980 - Rated 4.9 based on 241 Reviews &quot;Good beer, good beer, good beer, and did I mention...
+
+REL: 1
+POI Name: MOON BAR Rooftop
+POI City: Flushing
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, 
+Snippets:
+
+
+REL: 1
+POI Name: Beer Bar
+POI City: Salt Lake City
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Beer Bar, 
+Snippets:
+title: BEER BAR
+snippet: Bar X was opened the year Prohibition was repealed in 1933. After our purchase and refurbishing, in 2010, it became the home of craft cocktails and long Utah nights. After 3 years our little baby started begging for a sibling so we gave her Beer Bar. Bar X and Beer Bar now stand as companion pieces.
+title: Beer Bar Menu - SLC menu - Salt Lake City restaurant menus
+snippet: 30 beers on draft, more than a 100 by the bottle and food devised by local celeb-chefs Viet Pham and Frody Volgger – the result is beer bar. This beer bar menu was taken on March 20th 2014. Beer bar reprints their menu three times a week to ensure their menu matches their available stock. (Click image for larger version).
+title: Beer Bar, Salt Lake City - Restaurant Reviews, Photos ...
+snippet: Beer Bar, Salt Lake City: See 48 unbiased reviews of Beer Bar, rated 4 of 5 on Tripadvisor and ranked #352 of 1,375 restaurants in Salt Lake City.
+title: Beer Bar in Salt Lake City - Yelp
+snippet: Find the best Beer Bar on Yelp: search reviews of 10 Salt Lake City businesses by price, type, or location.
+title: Beer Bar - Salt Lake City, Utah - Beer Bar, Pub | Facebook
+snippet: Beer Bar, Salt Lake City, Utah. 1.2K likes. Beer Bar
+title: THE BEST Bars &amp; Pubs in Salt Lake City - Tripadvisor
+snippet: Bars &amp; Pubs in Salt Lake City, Utah: Find Tripadvisor traveler reviews of Salt Lake City Bars &amp; Pubs and search by price, location, and more. Salt Lake City. Salt Lake City Tourism Salt Lake City Hotels Salt Lake City Bed and Breakfast ... “Loved the beer! ...
+title: THE BEST 10 Beer Bar in Salt Lake City, UT - Last Updated ...
+snippet: Best Beer Bar in Salt Lake City, UT - Beer Bar, The Bayou, Craft by Proper, Salt Flats Brewing, Beer Zombies, Quarters Arcade Bar, East Liberty Tap House, Slackwater, Fat Jack&#39;s Tap House, Patrick&#39;s Pub, Redwood Lounge, Spitz Draper, Slope Side…
+title: Best Bars in Salt Lake City [Updated 2020] | Salt Plate ...
+snippet: Neighborhood: Downtown Salt Lake City Address: 161 E 200 S, Salt Lake City, UT 84111 Website. If you want beer, Beer Bar is your place. Great name too. You have to love an appropriately named bar. Beer Bar’s tap list and bottle offerings could be considered the best in the city depending on which beer enthusiast you talk too. With huge beer hall-style tables, you will almost always find a ...
+title: Beer Bar and? - Salt Lake City Forum - Tripadvisor
+snippet: We will be in SLC tomorrow and Sat night staying downtown at the Marriott next to the mall before heading to Park City.. Im sure on Fri we will end up at Beer Bar, then Sat going to the Oregon vs UofU game . Looking for a good spot to have some morning drinks and breakfast which will act as our tailgate before the noon kick.
+title: Bewilder Brewing - Home | Facebook
+snippet: Brewery in Salt Lake City, Utah. People talk about craft beer, brewhouse and pickled vegetables. See reviews and recommendations.
+
+REL: 1
+POI Name: Fiddlesticks Pub
+POI City: New York
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Irish Pub, 
+Snippets:
+
+
+REL: 1
+POI Name: Eagle's Nest
+POI City: Temecula
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Lounges, 
+Snippets:
+title: Eagle&#39;s Nest | Pechanga Resort Casino
+snippet: Take the elevator from the gaming floor to the top floor, and you’ll step out to the Eagle’s Nest Lounge and Nightclub. It’s your night, as you enjoy live music in an incredible space with sweeping panoramas of the twinkling city lights and the Temecula Wine Country. DJ Schedule
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Eagles Nest Winery Wine Tasting Ramona Valley, San Diego
+snippet: Eagles Nest Winery is your premium Wine Tasting experience, located in Ramona Valley AVA, San Diego County believes that caring for the land in a sustainable way for future generations will produce a premium wine of high character and quality.
+title: Eagles Nest Rd, Temecula, CA 92590 - Recently Sold Land ...
+snippet: Eagles Nest Rd, Temecula, CA 92590 a single family home is 3.61 acres., beds, and 0 baths. Visit 13 photos on realtor.com®, recently sold price of $Last Sold for ...
+title: Eagles Nest Nightclub @ Pechanga Resort &amp; Casino ...
+snippet: Took me &amp; her crew to the Eagles Nest in Temecula, CA! Such a fun way to spend Valentine&#39;s day! We danced our hearts out! Already missing her &amp; our good times! xoxo. Shelly Rufin is at Eagles Nest Nightclub @ Pechanga Resort &amp; Casino. ... Near Eagles Nest Nightclub @ Pechanga Resort &amp; Casino.
+title: 0 Eagles Nest Rd, Temecula, CA 92590 | MLS# SW19124787 ...
+snippet: Sold: Vacant land located at 0 Eagles Nest Rd, Temecula, CA 92590 sold for $225,900 on Oct 16, 2019. MLS# SW19124787. 3.61 acres with big views of Temecula &amp; Murrieta, and only 4 miles back to 15 f...
+title: 41845 Eagles Nest, Temecula, CA 92590 | MLS# T10110208 ...
+snippet: 6 beds, 6 baths, 6449 sq. ft. house located at 41845 Eagles Nest, Temecula, CA 92590 sold for $975,000 on Jan 14, 2011. MLS# T10110208. King of the Hill. Newly custom built Mediterranean 6449 sq.f...
+title: 41845 Eagle Nest Rd, Temecula, CA 92590 | Zillow
+snippet: 41845 Eagle Nest Rd , Temecula, CA 92590-3563 is currently not for sale. The 6,509 sq. ft. single-family home is a 6 bed, 7.0 bath property. This home was built in 2009 and last sold on 1/14/2011 for $975,000. View more property details, sales history and Zestimate data on Zillow.
+title: 41845 Eagle Nest Rd, Temecula, CA 92590 - realtor.com®
+snippet: View 14 photos for 41845 Eagle Nest Rd, Temecula, CA 92590 a 6 bed, 7 bath, 6,449 Sq. Ft. single family home built in that sold on 01/14/2011.
+title: Eagles Nest Wedding Venue – Wedding and Conference Venue
+snippet: Eagles Nest can comfortably accommodate 150 people with a large dance floor for everyone to enjoy.Speak to us about our accomadation at Eagle’s Nest. Put your trust in the experienced hands of Eagles Nest management, people that know what people want. Speak to Elzaan today your personal wedding planner with 20 years experience in this industry.
+
+REL: 1
+POI Name: Bar 110 West
+POI City: Salt Lake City
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Bar 110 West - Bars - 110 W 600 S, Downtown, Salt Lake ...
+snippet: 2 reviews of Bar 110 West &quot;The best! The bartender was so freaking good he was unreal, the pizza we had was so much better than the expensive pizza we had at a supposedly top notch pizza place!&quot; Bar 110 West - Bars - 110 W 600 S, Downtown, Salt Lake City, UT - Phone Number - Yelp
+title: THE BEST Bars &amp; Pubs in Salt Lake City - Tripadvisor
+snippet: Bars &amp; Pubs in Salt Lake City, Utah: Find Tripadvisor traveler reviews of Salt Lake City Bars &amp; Pubs and search by price, location, and more. Salt Lake City. Salt Lake City Tourism Salt Lake City Hotels Salt Lake City Bed and Breakfast ... “Loved this no nonsense bar. ...
+title: Downtown Salt Lake City Hotels - DoubleTree Suites
+snippet: The DoubleTree Salt Lake City, offers all-suite accommodations in downtown Salt Lake City close to historic landmarks and Energy Solutions Arena. The DoubleTree Salt Lake City, offers all-suite accommodations in downtown Salt Lake City close to historic landmarks and Energy Solutions Arena. ...
+title: Restaurants Near DoubleTree Suites by Hilton Hotel Salt ...
+snippet: Restaurants near DoubleTree Suites by Hilton Hotel Salt Lake City, Salt Lake City on Tripadvisor: Find traveler reviews and candid photos of dining near DoubleTree Suites by Hilton Hotel Salt Lake City in Salt Lake City, Utah.
+title: TRAILS Gentlemen&#39;s Club - Home | Facebook
+snippet: TRAILS Gentlemen&#39;s Club - 921 S 300 W, Salt Lake City, Utah 84101 - Rated 4.2 based on 751 Reviews &quot;I’ve been a few times and have always had a great...
+title: Bars &amp; Nightlife - Visit Salt Lake
+snippet: Bars &amp; Nightlife in Salt Lake. As the sun sets over the Oquirrh Mountains, Salt Lake’s bars, clubs, and night spots light up with entertainment options. Choose from intimate piano clubs, a bohemian music scene, or high-end cocktail bars. Groove to the smooth sounds of jazz and blues, or rock n’ roll the night away.
+title: Willie&#39;s Lounge - Salt Lake City, UT
+snippet: Willie&#39;s Lounge, Bars business in Salt Lake City. See up-to-date pricelists and view recent announcements for this location.
+title: Things to Do near Salt Lake City DoubleTree Hotel
+snippet: The DoubleTree Suites by Hilton Hotel Salt Lake City Downtown boasts an ideal location in downtown Salt Lake City, just five blocks from the Salt Palace Convention Center and only six blocks from Vivint Smart Home Arena, the Family History Center, City Creek Center, Gallivan Center, Gateway Shopping Center and the Clark Planetarium.
+title: DoubleTree Suites by Hilton Hotel Salt Lake City Downtown
+snippet: Enjoy our full-service amenities at the DoubleTree Downtown Salt Lake City hotel, featuring an indoor heated pool and 24-hour fitness center.
+title: Bewilder Brewing - Home | Facebook
+snippet: We&#39;re Open: Bewilder Brewing is ready to send you home with a delicious meal and a growler (for people of legal drinking age). They an also help you pair your beer with your food.
+
+REL: 1
+POI Name: Silverlake Wines & Liquors
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Beer, Wine & Spirits, 
+Snippets:
+title: Silverlake Wines &amp; Liquors in New York | Silverlake Wines ...
+snippet: Find Silverlake Wines &amp; Liquors in New York with Address, Phone number from Yahoo US Local. Includes Silverlake Wines &amp; Liquors Reviews, maps &amp; directions to Silverlake Wines &amp; Liquors in New York and more from Yahoo US Local
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Silverlake Wines &amp; Liquors 977 Victory Blvd Staten Island ...
+snippet: Get directions, reviews and information for Silverlake Wines &amp; Liquors in Staten Island, NY. Silverlake Wines &amp; Liquors 977 Victory Blvd Staten Island NY 10301. 3 Reviews (718) 420-0048. Menu &amp; Reservations ... It has a decent wine selection, and if it had a few more liquors and stuff like tonic water, it would be five stars. Read more.
+title: Silverlake Wine &amp; liquor - Home | Facebook
+snippet: See more of Silverlake Wine &amp; liquor on Facebook. Log In. Forgot account? or. ... Silverlake Wine &amp; liquor. Wine, Beer &amp; Spirits Store in Staten Island, New York. 5. 5 out of 5 stars. Closed Now. Community See All. 90 people like this. 93 people follow this. 1 check-in. About See All. 977 Victory Blvd (210.39 mi) Staten Island, New York 10301 ...
+title: Silverlake Wines &amp; Liquors - Store | 977 Victory Blvd ...
+snippet: Silverlake Wines &amp; Liquors is located in Richmond County of New York state. On the street of Victory Boulevard and street number is 977. To communicate or ask something with the place, the Phone number is (718) 420-0048.
+title: Silverlake Wine - Home Page - Best wine store in Los ...
+snippet: Silverlake Wine - Best wine store in Los Angeles, wine tastings, wine club, gifts, private parties, ... Silver Lake (323) 662-9024 / Arts District ... Let us take you off the beaten path to explore wines new and old. We’ll introduce you to new winemakers, regions, and grapes.
+title: Silverlake Wine &amp; liquor, 977 Victory Blvd, Staten Island ...
+snippet: Be the first to know and let us send you an email when Silverlake Wine &amp; liquor posts news and promotions. Your email address will not be used for any other purpose, and you can unsubscribe at any time. Subscribe. ... New York . Other Wine, Beer &amp; Spirits Stores in Staten Island. Want your business to be the top-listed Convenience Store in ...
+title: A C Wine and Liquor - Washington Heights - New York, NY - Yelp
+snippet: 3 reviews of A C Wine and Liquor &quot;I came here a ves times to buy wine and liquor, the selection is good they have just about everything. The service is great as well. When you walk inside everything is organized and priced. No tricks, i hate…
+title: Silverlake Wines &amp; Liquors Gift Cards and Gift ...
+snippet: Buy a gift card to Silverlake Wines &amp; Liquors. Send it online to anyone, instantly. Silverlake Wines &amp; Liquors - 977 Victory Blvd - New York, NY
+title: Clearview 35 Wine &amp; Liquor - Wine, Beer &amp; Spirits Store ...
+snippet: See more of Clearview 35 Wine &amp; Liquor on Facebook. Log In. Forgot account? or. Create New Account. Not Now. Clearview 35 Wine &amp; Liquor. Wine, Beer &amp; Spirits Store in Bayside, New York. 4.3. 4.3 out of 5 stars. Closed Now. Community See All. 184 people like this. 192 people follow this. 12 ... Silverlake Wine &amp; liquor. Wine, Beer &amp; Spirits ...
+
+REL: 1
+POI Name: The Guitar Studio LLC
+POI City: New York City
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, Musical Instruments & Teachers, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Lenny Kravitz - New York City (Official Video) - YouTube
+snippet: 50+ videos Play all Mix - Lenny Kravitz - New York City (Official Video) YouTube Lenny Kravitz New York City (JUST LET GO) - Duration: 8:57. Yoni Emanuel 422,808 views
+title: Rivington Guitars, NYC`s Best Little Guitar Store &amp; Guitar ...
+snippet: We buy, sell, trade, and repair all vintage guitars, amps, keyboards and more! Our expert repair shop features quick, reasonably prices, and reliable service. Since we opened in 1998, Rivington Guitars has come to be known as “The Best Little Guitar Store in New York City,” and this is a reputation we have earned.
+title: Classical Guitars - Flamenco Guitars - London Guitar Studio
+snippet: Classical Guitars, Flamenco Guitars and Guitar Accessories - London Guitar Studio. London Guitar Studio is a specialist guitar retailer. We have an incredible wealth of experience with Classical, Spanish and Flamenco guitars and are the premier shop in the country for these guitar types, whilst also attracting many customers from further afield.
+title: Top 59 Guitarists for Hire in New York City, NY (100% ...
+snippet: Browse profiles and get quotes for Guitarists in New York City, New York and book securely on GigSalad. ... Clemens G. said “James Labrosse is an established and versatile guitar player and composer and thus a fantastic option my my own and other musicians&#39; bookings. ... live bands, cover bands, wedding bands, solo gigs, studio sessions.
+title: 16 Best New York City Piano Teachers | Expertise
+snippet: Why These Piano Teachers? Our goal is to connect people with the best local experts. We scored piano teachers on more than 25 variables across five categories, and analyzed the results to give you a hand-picked list of the best piano teachers in New York, NY.
+title: Randy Rhoads The Palladium,New York City, May 2nd, 1981 ...
+snippet: Randy Rhoads The Palladium,New York City, May 2nd, 1981 sakky F. Loading ... #30 Tour of Randy Rhoads Private Teaching Studio &amp; First Guitar w/ Kelle Rhoads at MUSONIA (9/10/16) - Duration: 29:52.
+title: Taylor Swift - Mean (Live from New York City) - YouTube
+snippet: 50+ videos Play all Mix - Taylor Swift - Mean (Live from New York City) YouTube OFF LIVE - Taylor Swift &quot;Live On The Seine&quot; @ Paris, FRANCE - Duration: 25:56. OFF Productions 4,780,385 views
+title: Megadeth - Live In New York City 1994 [Full Concert] /mG ...
+snippet: UMG (on behalf of EMI); Warner Chappell, BMI - Broadcast Music Inc., LatinAutor - Warner Chappell, UNIAO BRASILEIRA DE EDITORAS DE MUSICA - UBEM, CMRRA, Global Music Rights LLC, LatinAutor ...
+title: TR Crandall Guitars
+snippet: TR Crandall Guitars CLOSED until further notice → March 15, 2020 Due to the ongoing COVID-19 situation in New York City we are closing the store until further notice.
+
+REL: 1
+POI Name: Ivy
+POI City: New York
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: American (New), Lounges, Cocktail Bars, 
+Snippets:
+
+
+REL: 1
+POI Name: Circa 1888
+POI City: Raleigh
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, 
+Snippets:
+title: Circa 1888 - HOME
+snippet: CIRCA GALLERY. Location &amp; Hours. Located in the Warehouse District of Downtown Raleigh, Circa 1888 offers a great space for meetup groups, networking events, receptions, and parties of any kind. Stop in and check out our space.
+title: Circa 1888 - 359 Photos - 68 Reviews - Pool &amp; Billiard ...
+snippet: Circa 1888 - 412 W Davie St, Raleigh, North Carolina 27601 - Rated 4.9 based on 68 Reviews &quot;Circa 1888 is a bar and where the heart of Raleigh gathers. I...
+title: Events - Circa 1888
+snippet: Circa 1888. HOME Events Beer, Wine, and Cocktail Menu Whiskey Menu Contact Us LIVE MUSIC AT CIRCA 1888 Tuesday, JANUARY ...
+title: Circa 1888 | Downtown Raleigh, NC
+snippet: Raleigh, NC 27601-1744 (919) 307-4597. Map It | Visit Website . Social Media. District. Warehouse. Hours. Mon-Sun (3 pm-2 am) Details. Circa 1888 is a beautiful old bar with 4 pools tables and great outdoor patio. What&#39;s Nearby. Nearby Parking. The Dillon Parking Deck 215 S West St - 681 feet N.
+title: Contact Us - Circa 1888
+snippet: CIRCA 1888 412 W. DAVIE ST RALEIGH, NC 27601 919-307-4597
+title: Circa 1888 in Raleigh - Restaurant menu and reviews
+snippet: See CAM Raleigh and visit this bar. Here you can drink good beer, bourbon or wine.Musicians play live music in the evening. Most people mark that the staff is appealing at this place. Service at Circa 1888 is something one can name fabulous. Prices here are reported to be reasonable.
+title: Beer, Wine, and Cocktail Menu - Circa 1888
+snippet: Circa 1888. HOME Events Beer, Wine, and Cocktail Menu Proudly powered by Weebly
+title: Circa 1888 - Raleigh, NC - Yelp
+snippet: 29 reviews of Circa 1888 &quot;Fun joint. A good amount of pool tables. Seems like a neighborhoody type of place but also felt very welcomed when I came in. Great service and good drinks.&quot;
+title: Circa 1888 | Raleigh, NC 27601
+snippet: Big brother to Landmark Tavern; Circa 1888 was lovingly and thoughtfully renovated, creating a comfortable place to gather, drink, play pool and watch sunsets.
+title: New Year&#39;s Eve Party at Circa 1888: Live music by Hank ...
+snippet: Circa 1888, in the Warehouse District of Downtown Raleigh, at 412 W. Davie Street, offers whiskey, craft beer, a patio, cocktails and billiards.. It’s also a good place to listen to live music, often with no cover, and it’s hosting a low-cost New Year’s Eve party as well.
+
+REL: 1
+POI Name: Club 39
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Music Venues, Lounges, 
+Snippets:
+title: Club 39 - Midtown West - Manhattan, NY - Yelp
+snippet: 6 reviews of Club 39 &quot;ANOTHER EDIT: Received a message from Joe Z., the club manager. Evidently, he&#39;s looking at the reviews here, and taking them under consideration. It&#39;s also come to my attention that Yelp! is filtering out some of the earlier…
+title: Club 39 303 W 39th St Manhattan, NY Music Shows - MapQuest
+snippet: Get directions, reviews and information for Club 39 in Manhattan, NY. Club 39 303 W 39th St Manhattan NY 10018. 6 Reviews (212) 465-3444 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets ... This club was a very bad first time experience, ...
+title: Google Maps
+snippet: Find local businesses, view maps and get driving directions in Google Maps. When you have eliminated the JavaScript , whatever remains must be an empty page. Enable JavaScript to see Google Maps.
+title: THE MANHATTAN CLUB $118 ($̶4̶0̶6̶) - Updated 2020 Prices ...
+snippet: Now $118 (Was $̶4̶0̶6̶) on Tripadvisor: The Manhattan Club, New York City. See 1,885 traveler reviews, 768 candid photos, and great deals for The Manhattan Club, ranked #215 of 510 hotels in New York City and rated 4 of 5 at Tripadvisor.
+title: The Manhattan Club Hotel | Luxury Hotel in New York City
+snippet: The Manhattan Club’s luxurious New York hotel suites are steps away from the city’s most delightful destinations like Central Park, the Theater District, and more. Book your dream New York vacation with us.
+title: Top 10 Gay Clubs &amp; Bars in Manhattan (New York City ...
+snippet: Top 10 Gay Clubs &amp; Bars in Manhattan: See reviews and photos of Gay Clubs &amp; Bars in Manhattan, New York City (New York) on Tripadvisor.
+title: THE MANHATTAN CLUB (New York by) - Hotell - anmeldelser og ...
+snippet: The Manhattan Club, New York by: Se 1 878 reiseanmeldelser, 768 bilder og gode tilbud for The Manhattan Club, vurdert som nr. 215 av 510 hotell i New York by og vurdert til 4 av 5 på Tripadvisor.
+title: MANHATTAN, Stockholm - gay cruise club in Stockholm ...
+snippet: MANHATTAN, Stockholm - gay cruise club with video booths, cruising area, dark room. Exclusive review, information and map. Travel Gay - The ultimate guide for the LGBT traveller - gay bar and club listings, hotel reviews and more. part of OutOfOffice.com. Gay Stockholm.
+title: Strip Club New York | Upscale Gentlemen&#39;s Club | Sapphire ...
+snippet: The Upscale Gentlemen&#39;s Club. When you are looking for the best in adult entertainment in NYC, World Famous Sapphire New York is your only choice. We now have 3 locations to choose from: Sapphire 60 (Upper East Side), Sapphire 39 (Midtown) and the brand new Sapphire Times Square (Midtown).
+title: The New Manhattan - Home - Hubbard, Ohio - Menu, Prices ...
+snippet: The New Manhattan, Hubbard, Ohio. 3,589 likes · 75 talking about this. Your hometown bar &amp; grille for a cold beer, award winning food and a good time!!!!
+
+REL: 1
+POI Name: &pizza - Astor Place
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Pizza, 
+Snippets:
+title: &amp;pizza - Astor Place, New York City - Downtown Manhattan ...
+snippet: Order food online at &amp;pizza - Astor Place, New York City with Tripadvisor: See 12 unbiased reviews of &amp;pizza - Astor Place, ranked #5,122 on Tripadvisor among 12,752 restaurants in New York City.
+title: Whadya say? - Review of &amp;pizza - Astor Place, New York ...
+snippet: &amp;pizza - Astor Place: Whadya say? - See 12 traveler reviews, 19 candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: Restaurants Near Astor Place Theatre, New York City
+snippet: Restaurants near Astor Place Theatre, New York City on Tripadvisor: Find traveler reviews and candid photos of dining near Astor Place Theatre in New York City, New York.
+title: Delicious slow service - Review of &amp;pizza - Astor Place ...
+snippet: &amp;pizza - Astor Place: Delicious slow service - See 12 traveler reviews, 19 candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: &amp;pizza - Astor Place, New York - Downtown Manhattan ...
+snippet: &amp;pizza - Astor Place, État de New York n&#39;a pas encore assez de notes sur ses plats, son service, son rapport qualité/prix ou son ambiance. Écrivez l&#39;un des premiers avis !
+title: &amp;pizza - Astor Place - New York City New York Restaurant ...
+snippet: Return to New York City Vegetarian Restaurants &amp; Health Food Store Listings Business Owners, if you see an unfair review, read this. Why was my review removed? - details / Review guidelines Reviews are not endorsed by HappyCow - review terms Has &amp;pizza - Astor Place closed, shut down, moved, or changed?
+title: Astor Place - Wikipedia
+snippet: Astor Place is a one-block street in NoHo/East Village, in the lower part of the New York City borough of Manhattan. It runs from Broadway in the west (just below East 8th Street) to Lafayette Street, ending at Alamo plaza. &quot;Astor Place&quot; is also sometimes used for the neighborhood around the street.
+title: Photos for &amp;pizza - Astor Place - Yelp
+snippet: Photo 5 of 435 for &amp;pizza - Astor Place - New York, NY
+title: Astor Place | NYC
+snippet: Astor Place is constantly in motion, the nexus point of an exciting, young, vibrant and artistic community where East and West Villages come together. The newly reconstructed Astor Place Plazas are the result of a $16 million City capital improvement maintained by the Village Aliance, a community-based non-profit organization.
+title: &amp;pizza - Nomad - Pizza Place - New City, New York - 39 ...
+snippet: &amp;pizza - Nomad - 15 West 28th St, New City, New York 10001 - Rated 4.9 based on 39 Reviews &quot;I think this will be my new place to get pizza in Manhattan....
+
+REL: 0
+POI Name: Harry and Steve Deli
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Harry&#39;s Restaurant — Manhattan, KS
+snippet: Located in the historic Wareham Hotel, Harry&#39;s is Manhattan&#39;s premier fine dining restaurant.
+title: Katz&#39;s Delicatessen - Wikipedia
+snippet: Katz&#39;s Delicatessen, also known as Katz&#39;s of New York City, is a kosher-style delicatessen located at 205 East Houston Street, on the southwest corner of Houston and Ludlow Streets on the Lower East Side in Manhattan, New York City.. Since its founding in 1888, it has been popular among locals and tourists alike for its pastrami on rye, which is considered among New York&#39;s best.
+title: The deli is nice for lunch - Review of Harry&#39;s Restaurant ...
+snippet: Harry&#39;s Restaurant: The deli is nice for lunch - See 310 traveler reviews, 34 candid photos, and great deals for Manhattan, KS, at Tripadvisor.
+title: the deli side..... - Review of Harry&#39;s Restaurant ...
+snippet: Harry&#39;s Restaurant: the deli side..... - See 310 traveler reviews, 34 candid photos, and great deals for Manhattan, KS, at Tripadvisor. Manhattan. Manhattan Tourism Manhattan Hotels Manhattan Bed and Breakfast Manhattan Vacation Rentals Manhattan Vacation Packages Flights to Manhattan
+title: Katz&#39;s Delicatessen - Shipped, Catered &amp; Delivered
+snippet: Katz&#39;s legendary pastrami, corned beef and Jewish deli classics are available for sale online, shipped nationwide. Katz&#39;s Delicatessen - Shipped, Catered &amp; Delivered JavaScript seems to be disabled in your browser.
+title: Harry’s DELI in Manhattan to close permanently, space to ...
+snippet: Last week, one of the most popular downtown lunch spots on Poyntz Ave. in Manhattan announced it’s to be closed and remodeled. Harry’s DELI, known for their lighter options and easy to grab ...
+title: Harry S Deli in Manhattan, KS with Reviews - YP.com
+snippet: Find 1 listings related to Harry S Deli in Manhattan on YP.com. See reviews, photos, directions, phone numbers and more for Harry S Deli locations in Manhattan, KS.
+title: How Katz’s Became The Most Legendary Deli In NYC ...
+snippet: #Deli #NYC #FoodInsider INSIDER is great journalism about what passionate people actually want to know. That’s everything from news to food, celebrity to science, politics to sports and all the ...
+
+REL: 0
+POI Name: Carolina Ro Chalk Artist
+POI City: Manhattan
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Performing Arts, 
+Snippets:
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Carolina Ro Chalk Artist - New York - Home | Facebook
+snippet: Carolina Ro Chalk Artist - New York, New York, New York. 652 likes. Lettering and illustration design on chalkboards and murals. Advertising &amp; corporate events. (Sidewalk chalk art or menus are not...
+title: Carolina Ro Design Chalk Artist New York (cadeloan) on ...
+snippet: Carolina Ro Design Chalk Artist New York | Interior Designer | Chalk Artist | carolinarodesign@gmail.com | #carolinaro | Facebook Carolina Ro Chalk Artist - New York
+title: 157 Best Chalk by Carolina Ro images | Chalk artist, Chalk ...
+snippet: Dec 10, 2015 - Interior Designer - Chalk Artist - carolinarodesign@gmail.com - Instagram @carolinarodesin #carolinaro - Facebook Ro Chalk &amp; Calligraphy Design http ...
+title: Ro Knight | Chalk &amp; Design (@carolinarodesign) • Instagram ...
+snippet: 8,216 Followers, 653 Following, 904 Posts - See Instagram photos and videos from Ro Knight | Chalk &amp; Design (@carolinarodesign)
+title: AMaVo - Home | Facebook
+snippet: AMaVo - 5015 S Western Ave, Sioux Falls, South Dakota 57108 - Rated 4.8 based on 215 Reviews &quot;AMaVo is definitely my favorite place in Sioux Falls to...
+title: Michael Lazerow | Facebook
+snippet: Michael Lazerow is on Facebook. Join Facebook to connect with Michael Lazerow and others you may know. Facebook gives people the power to share and makes the world more open and connected.
+title: Chalk design by Carolina Ro carolinarodesign@gmail.com # ...
+snippet: Aug 7, 2013 - Chalk design by Carolina Ro carolinarodesign@gmail.com #chalk #chalkart #chalkboard #artist #calligraphy #typography #sign #restaurant #cafe #handmade #drawing #creative
+title: 383 Best Oh, Calligraphy, typography &amp; Paper! images ...
+snippet: Nov 3, 2012 - Explore cadeloan&#39;s board &quot;Oh, Calligraphy, typography &amp; Paper!&quot;, followed by 362 people on Pinterest. See more ideas about Typography, Lettering and Hand lettering.
+title: 86 Best Easter images | Easter, Easter crafts, Easter eggs
+snippet: Feb 19, 2013 - Explore cadeloan&#39;s board &quot;Easter&quot;, followed by 242 people on Pinterest. See more ideas about Easter, Easter crafts and Easter eggs.
+
+REL: 0
+POI Name: AA Candy & Grocery
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Convenience Stores, 
+Snippets:
+title: AA Candy &amp; Grocery - Elmhurst - New York City, NY
+snippet: 1 review of AA Candy &amp; Grocery &quot;When it comes to Bodegas, this one stands out from the rest. Thy have a large selection of chips and candy bars. They have bottles of mostly Mexican beers: modello &amp; corona; also Heineken and Budweiser. They have…
+title: Salt Water Taffy | Personalized Candy | A&amp;A Wholesale Candy
+snippet: A &amp; A Candy Company, Inc. is rapidly growing to be the largest salt water taffy and candy manufacturers of the East Coast. For nearly 107 years, our family has made the highest quality candies, using the finest ingredients.
+title: Candy Shopping Spree In NYC - Gummy Candy ?? - YouTube
+snippet: Candy Shopping Spree In NYC - Gummy Candy Mike and Holly went on a candy shopping spree while in New York city. We got gummy rat and gummy tarantula spider, gummy pizza, gummy french fries, gummy ...
+title: New York City Street Food - The Bronx Bodega food ...
+snippet: Back for a third time to one of my favorite bodegas in the Bronx!! Sit back and enjoy the food!! Business Name: Esquina Deli &amp; Grocery Location: 99 E 198th S...
+title: Cheesecake disquised aa candy apples..cool - Picture of ...
+snippet: Spot Dessert Bar, New York City Picture: Cheesecake disquised aa candy apples..cool - Check out Tripadvisor members&#39; 90,990 candid photos and videos of Spot Dessert Bar
+title: Shopping For Candy Supplies at BJ&#39;s - YouTube
+snippet: Shopping For Candy Supplies at BJ&#39;s Hercules Candy. Loading ... NEW Cotton Candy AND Tie Dye Hard Candy! - Duration: ... Grocery Shopping With Momdre Returns!
+title: The 15 Best Supermarkets in New York City - Foursquare
+snippet: The 15 Best Supermarkets in New York City. Created by Foursquare Lists • Published On: March 28 ... Excellent take out food! Coffee is delicious. This is the best grocery store in the neighborhood. They have a bakery too. Everything is made ... 75 9th Ave (btwn W 15th &amp; W 16th St), New York, NY. Supermarket · Chelsea · 32 tips and ...
+title: New York News, Weather, Traffic &amp; Sports - ABC7 New York
+snippet: New York City&#39;s death toll saw a staggering jump from the last report, with 2,624 fatalities, Cuomo staffer Melissa DeRosa said. How to virtually attend Palm Sunday mass Some grocery stores to ...
+title: Living On $0 For 24 Hours In New York City (Challenge ...
+snippet: The most difficult money challenge America has ever seen. In this video I will show you that you can live in New York City with no money. Enjoy! Follow me on...
+title: National Guard in New York City are picking dead bodies up ...
+snippet: The National Guard is renting vans to transport hundreds of dead bodies from their New York City homes as a startling number of people are dying there without ever being treated for coronavirus.
+
+REL: 0
+POI Name: World Beer Festival
+POI City: Richmond
+POI Country: US
+POI Main category: Arts & Entertainment
+POI Sub category: Festivals, 
+Snippets:
+title: World Beer Festival - Festivals - 490 Tredegar St ...
+snippet: The best beer festival Richmond has hosted yet. Represented were some of the heavy hitters like Boston Beer, Dogfish Head, Chimay, and Sierra Nevada; local breweries like Legend, Star Hill, St. George, and Blue Mountain; and a wide variety of beers from around the world. We attended the second session (6-10pm) and enjoyed the cooler temps.
+title: ...and more festivals! - All About Beer
+snippet: If you have already purchased tickets to the World Beer Festival—Richmond (scheduled for June 18th) you will automatically receive a full refund to the credit card that was used to purchase the tickets. Your refund will appear on the next billing cycle of your credit card statement. If you would like to check the status... View Article
+title: Musings Over a Barrel: World Beer Festival - Richmond, VA
+snippet: World Beer Festival - Richmond, VA Yes, you read that correctly, the World Beer Festival is coming to Virginia! The newest addition to the WBF lineup will be held on Saturday, August 29, on Brown&#39;s Island in Richmond. Tickets go on sale in July.
+title: Buy Tickets - All About Beer
+snippet: Please see the World Beer Festival—Richmond page for an urgent notice regarding the festival. If you have already purchased tickets to the World Beer Festival—Richmond (scheduled for June 18th) you will automatically receive a full refund to the credit card that was used to purchase the tickets. Your refund will appear on the next billing...
+title: Musings Over a Barrel: World Beer Festival Coming to Richmond
+snippet: After being postponed last year, the World Beer Festival is coming to Richmond, VA on Saturday, June 12, 2010. All About Beer magazine sent the following press release. The World Beer Festival Coming to Richmond Presented by local charity, FETCH a Cure, the World Beer Festival is one of the premier beer events in the country
+title: World Beer Festival (Richmond), Old and new bridges | Flickr
+snippet: World Beer Festival (Richmond), Old and new bridges Remains of the Richmond and Petersburg Railroad Bridge, with the Manchester Bridge behind it. As viewed past the underside of the Rivanna Subdivision Trestle... Location: World Beer Festival, Brown&#39;s Island, Richmond, Virginia (12 June 2010)
+title: World Beer Festival 490 Tredegar St Richmond, VA Festival ...
+snippet: The best beer festival Richmond has hosted yet. Represented were some of the heavy hitters like Boston Beer, Dogfish Head, Chimay, and Sierra Nevada; local breweries like Legend, Star Hill, St....
+title: 2017 Richmond World Festival
+snippet: Richmond World Festival is Richmond&#39;s major multicultural festival. Join us August 30 &amp; 31! This festival celebrates Richmond’s significant cultural diversity and we’re inviting the world to the party! The 2015 Richmond World Festival from City of Richmond BC CA on Vimeo.
+title: Richmond, VA Beer Festival Events | Eventbrite
+snippet: Save Beer, Bourbon &amp; BBQ Festival - Richmond to your collection. Sat, Oct 17, 11:30 AM. Richmond Mac and Cheese Festival 2020. Richmond Mac and Cheese Festival 2020. Richmond Raceway Complex • Richmond, VA. Starts at $15.00. Share Richmond Mac and Cheese Festival 2020 with your friends.
+title: World Beer Festival
+snippet: For over 20 years, World Beer Festivals have celebrated beer and our great brewers. Our events are nationwide, feature a sampling of international, national and local breweries. If the beer isn&#39;t good enough, our events also feature food, music and making memories with friends!
+
+REL: 0
+POI Name: Greek's Collegiate Food Shop
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Greek, 
+Snippets:
+title: Greek’s Collegiate Food Shop - Greek - 139 Amsterdam Ave ...
+snippet: 1 review of Greek&#39;s Collegiate Food Shop &quot;THE BEST DINER IN THE CITY and hurry because they just lost their lease after 85 years :(&quot; Greek’s Collegiate Food Shop - Greek - 139 Amsterdam Ave, Upper West Side, Manhattan, NY - Restaurant Reviews - Yelp
+title: www.yelp.ca
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: Greek&#39;s Collegiate Food Shop - Manhattan
+snippet: Manhattan, NY . Greek&#39;s Collegiate Food Shop. Greek. 1 reviews. Top Review On Yelp. Feb 18, 2010 . THE BEST DINER IN THE CITY and hurry because they just lost their lease after 85 years :( ~Brooklyn I. Advertisement.
+title: Greek&#39;s Collegiate Food Shop 139 Amsterdam Ave Manhattan ...
+snippet: Get directions, reviews and information for Greek&#39;s Collegiate Food Shop in Manhattan, NY.
+title: Greek&#39;s Collegiate Food Shop - Manhattan
+snippet: Manhattan, NY . Greek&#39;s Collegiate Food Shop. Greek. 1 commentaires. Meilleur commentaire sur Yelp. 17 févr. 2010 . THE BEST DINER IN THE CITY and hurry because they just lost their lease after 85 years :( (en lire plus) ~Brooklyn I.
+title: 10 BEST Greek Restaurants in New York City - Tripadvisor
+snippet: Best Greek Restaurants in New York City, New York: Find Tripadvisor traveler reviews of New York City Greek restaurants and search by price, location, and more.
+title: New York Greek Restaurants: 10Best Restaurant Reviews
+snippet: Ethnic food reigns supreme in New York City, and if it&#39;s Greek you&#39;re after, the city&#39;s got plenty to share. From the streets of Astoria to the sidewalks of Alphabet City, there&#39;s enough tzatziki ...
+title: Greek Food and Groceries: GreekMarket.com
+snippet: Greek Foods Greek Gifts Worry Beads Evil Eye &amp; Greek Jewelry Flokati Rugs Greek Coffee &amp; Tea Olive Oil Soap &amp; Beauty Products Greek Ceramics &amp; Pottery Greek Cookbooks Greek Gift Baskets Baklava Ancient Greek Coins Greek Books Greek Flag Gear Religious Items Greek Music
+title: 8 Best Greek Restaurants in Astoria, Queens
+snippet: Greek restaurants and traditional Greek food have made Astoria famous. But in a neighborhood where pita bread and olive oil take the place of bread and butter, originality is key to a successful Greek eatery. From moussaka to beeftekia, tzatziki to saganaki, these eight Greek restaurants are must eats.
+title: Greek From Greece - GFG Bakery | Daily trips from Hoboken ...
+snippet: About Us. We are a small team of Greek people which can best be described as &quot;traditional pioneers.&quot; We build our life&#39;s work through perfecting everything we do and by living out our three passions: we work hard, we travel a lot, and we love good food.
+
+REL: 0
+POI Name: New Wing Wah Bakery
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Bakeries, 
+Snippets:
+title: New Wing Wah Bakery, New York City - Downtown Manhattan ...
+snippet: New Wing Wah Bakery, New York City: See 2 unbiased reviews of New Wing Wah Bakery, rated 4 of 5 on Tripadvisor and ranked #9,697 of 12,745 restaurants in New York City.
+title: New Wing Wah Bakery - Lower East Side - New York City, NY
+snippet: 41 reviews of New Wing Wah Bakery &quot;Wing Wah is a bustling bakery that is always filled with patrons trying to get their hands on some baked goods right before they get into the subway station. Situated right between fish and fruit markets, it…
+title: My Favorite Bakery - Review of New Wing Wah Bakery, New ...
+snippet: New Wing Wah Bakery: My Favorite Bakery - See 2 traveler reviews, candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: New Wing Wah Bakery, Lower East Side, New York City ...
+snippet: New Wing Wah Bakery New York City; New Wing Wah Bakery, Lower East Side; Get Menu, Reviews, Contact, Location, Phone Number, Maps and more for New Wing Wah Bakery Restaurant on Zomato. Serves Chinese. Cost $15 for two people (approx.) Products for Businesses We&#39;re hiring. New York City.
+title: New Wing Wah Bakery 246 Grand St New York, NY Bakeries ...
+snippet: Get directions, reviews and information for New Wing Wah Bakery in New York, NY. New Wing Wah Bakery 246 Grand St New York NY 10002. 40 Reviews (212) 941-1924. Menu &amp; Reservations Make Reservations . Order Online Tickets Tickets See Availability Directions ...
+title: My Favorite Bakery - New Wing Wah Bakery, New York City ...
+snippet: New Wing Wah Bakery: My Favorite Bakery - See 2 traveler reviews, candid photos, and great deals for New York City, NY, at Tripadvisor.
+title: New Wing Wah Bakery - New York, NY | Groupon
+snippet: New York locals head to New Wing Wah Bakery for an innovative take on bakery favorites.The restaurant is within walking distance to a number of parking options. Store your bike at a nearby rack and enjoy a bite to eat at New Wing Wah Bakery.Our food is cheap in price but luxurious in flavor.
+title: New Wing Wah Bakery, Lower East Side, New York City ...
+snippet: New Wing Wah Bakery New York City; New Wing Wah Bakery, Lower East Side; Encontra menus, contactos, telefone, localização, fotos, opiniões e muito mais para New Wing Wah Bakery na Zomato. Cozinha: Chinesa — $15 para duas pessoas (aprox.) Produtos para Negócios Estamos a contratar!
+title: New Wing Wah Bakery in New York | New Wing Wah Bakery 246 ...
+snippet: Find New Wing Wah Bakery in New York with Address, Phone number from Yahoo US Local. Includes New Wing Wah Bakery Reviews, maps &amp; directions to New Wing Wah Bakery in New York and more from Yahoo US Local. Find New Wing Wah Bakery in New York with Address, Phone number from Yahoo US Local.
+title: NEW WING WAH BAKERY · 246 Grand Street, Manhattan, NY 10002
+snippet: NEW WING WAH BAKERY (Health Operation# 41360332) is a foood service establishment inspected by New York City Department of Health and Mental Hygiene (DOHMH). The last inspected date is November 24, 2017. The address is 246 Grand Street, Manhattan, NY 10002.
+
+REL: 0
+POI Name: O'Neills
+POI City: Staten Island
+POI Country: US
+POI Main category: Nightlife
+POI Sub category: Bars, Irish, American (Traditional), 
+Snippets:
+title: Staten Island, NY - O’Neill’s Irish Pub
+snippet: Welcome to O’Neill’s Irish Pub, your taste of the Old World from the comfort of Staten Island. We offer a variety of traditional Irish fare and a diverse assortment of beers and whiskeys to satiate your palate.
+title: O&#39;Neills Staten Island - Menu, Prices &amp; Restaurant Reviews ...
+snippet: Order food online at O&#39;Neills Staten Island, Staten Island with Tripadvisor: See 45 unbiased reviews of O&#39;Neills Staten Island, ranked #32 on Tripadvisor among 949 restaurants in Staten Island.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: O&#39;Neills Staten Island - Restaurantanmeldelser - Tripadvisor
+snippet: O&#39;Neills Staten Island, Staten Island: Se 45 objektive anmeldelser av O&#39;Neills Staten Island, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 31 av 944 restauranter i Staten Island.
+title: O&#39;Neill&#39;s Staten Island - Home - Staten Island, New York ...
+snippet: O&#39;Neill&#39;s Staten Island - 1614 Forest Ave, Staten Island, New York 10302 - Rated 4.8 based on 192 Reviews &quot;The food is excellent as is the service. What...
+title: O’Neills - Westerleigh - Staten Island, NY
+snippet: I love O&#39;Neills! I love their cool library decor and it&#39;s clean! I only tried one of their brunch items which was the steak but it was massive. I couldn&#39;t finish it. Bacon was on point though- not greasy, perfectly crisp. I usually come here for a quick beer and drink time off peak hours which makes this place enjoyable.
+title: O&#39;Neills Delivery in Staten Island - Delivery Menu - DoorDash
+snippet: Get delivery from O&#39;Neills super-fast to your door. Order online and track your order live. No delivery fee on your first order.
+title: O’Neills - Westerleigh - Staten Island, NY
+snippet: Ownership took alot of time and gave plenty of effort to decorate the restaurant &amp; bar area to give Staten Island that authentic Irish Pub experience. The Irish Egg Rolls are a tremendous hit along with our Shepherd&#39;s Pie and Corned Beef &amp; Cabage. We hope you visit us again real soon. Read more. David F. Staten Island, NY.
+title: O&#39;Neills is our #1 Go-To family night... - O&#39;Neills Staten ...
+snippet: O&#39;Neills Staten Island: O&#39;Neills is our #1 Go-To family night out! - See 45 traveler reviews, 8 candid photos, and great deals for Staten Island, NY, at Tripadvisor.
+title: Oneills - Staten Island, NY | Groupon
+snippet: 1614 Forest Avenue, Staten Island, NY 10302. Great sports bar. Also has spacious dining area available for parties up to about 100 people.
+
+REL: 0
+POI Name: Kosher Catering NYC - Legendary Affairs
+POI City: Manhattan
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Kosher, 
+Snippets:
+title: Kosher Catering New York City - Legendary Affairs Kosher ...
+snippet: Legendary Affairs represents the highest standard in off-premise Glatt kosher catering, with more than 20 years of expertise in the New York Metropolitan area, including all five boroughs, Long Island, Westchester, New Jersey, Connecticut, and other surrounding areas.We pride ourselves on our distinguished reputation, elegant epicurean offerings, devoted clientele, and commitment to excellence.
+title: www.yelp.com
+snippet: Vi vil gjerne vise deg en beskrivelse her, men området du ser på lar oss ikke gjøre det.
+title: About Kosher Catering with Legendary Affairs NYC
+snippet: About Kosher Catering with Legendary Affairs NYC 212-300-3013 ... Legendary Affairs works closely with you, ... anniversary, graduation, new job, promotion, retirement, or just a family gathering, Legendary Affairs is able to provide the catering for any special event. We will work with you to craft the perfect menu to help ensure a successful ...
+title: Kosher Caterers New York | Legendary Affairs 212 300 3013
+snippet: In addition, David caters functions for many Fortune 500 clients and corporate meetings and conferences. His sense of style and elevated flavors make him a distinct and attractive option for Glatt kosher catering. David also owns LOX New York City, the cafe in the Museum of Jewish Heritage in Battery City Park.
+title: Kosher Catering for Weddings NYC - Legendary Affairs ...
+snippet: Legendary Affairs works closely with you, carefully selecting menu options or designing custom dishes to suit your needs and specifications. In addition to weddings, we also can provide the catering for all related events surrounding this simcha. This includes engagement parties, bridal showers, sheva brachot, rehearsal dinners, brunches, and more.
+title: Kosher Catering NYC - Legendary Affairs Kosher Catering ...
+snippet: At Legendary Affairs, we work closely with you to customize the perfect menu for your event, taking into account your style, preferences, and dietary restrictions. Our chef will also recommend uniquely crafted dishes to perfectly suit the occasion. We take our food seriously, and prepare it with care and delight.
+title: Kosher Catering NYC - Legendary Affairs 575 Lexington Ave ...
+snippet: Get directions, reviews and information for Kosher Catering NYC - Legendary Affairs in Manhattan, NY. Kosher Catering NYC - Legendary Affairs 575 Lexington Ave Fl 4 Manhattan NY 10022. 1 Reviews (212) 300-2013 Website. Menu &amp; Reservations Make Reservations . Order Online Tickets
+title: THE BEST 10 Kosher Restaurants near Midtown East ...
+snippet: Best Kosher in Midtown East, Manhattan, NY, United States - Abaita, UN Plaza Grill, Paprika kosher, Kosher In Midtown, La Brochette, Wolf &amp; Lamb Steakhouse, Mike&#39;s Bistro, 2nd Ave Deli, Etrog, Milk &#39;N Honey NYC, Hummus Kitchen, Taam Tov, Abigael&#39;s on Broadway, Village Crown Kosher Catering, Kosher Catering NYC - Legendary Affairs, Sushi Fussion 47th NYC, Ben&#39;s Kosher Delicatess
+title: Top 10 Best Kosher Catering in Manhattan, NY - Last ...
+snippet: Reviews on Kosher Catering in Manhattan, NY - Village Crown Kosher Catering, Paprika kosher, Certé, The Kosher Marketplace, Kosher Catering NYC - Legendary Affairs, Bagel Cafe and Catering, Esprit Events, 2nd Ave Deli, Ben&#39;s Kosher Delicatessen…
+title: Legendary Affairs Caterers &amp; Event Planners - Catering ...
+snippet: Legendary Affairs represents the highest standard in off-premise Glatt kosher catering, with more than 20 years of expertise in the New York Metropolitan area, including all five boroughs, Long Island, Westchester, New Jersey, Connecticut, and other surrounding areas.We pride ourselves on our distinguished reputation, elegant epicurean offerings, devoted clientele, and commitment to excellence.
+
+REL: 0
+POI Name: fresh&co
+POI City: New York City
+POI Country: US
+POI Main category: Restaurants and Food
+POI Sub category: Sandwiches, Salad, Soup, 
+Snippets:
+title: fresh&amp;co - just made. just for you.
+snippet: fresh&amp;co is committed to its policy that that persons with disabilities have a full and equal opportunity to benefit from the goods, services, privileges, advantages, and accommodations offered by fresh&amp;co.
+title: Fresh &amp; Co., New York City - 200 W 57th St, Midtown - Menu ...
+snippet: Order food online at Fresh &amp; Co., New York City with Tripadvisor: See 74 unbiased reviews of Fresh &amp; Co., ranked #1,908 on Tripadvisor among 12,745 restaurants in New York City.
+title: Fresh&amp;Co, New York City - Midtown - Menu, Prices ...
+snippet: Fresh&amp;Co, New York City: See 374 unbiased reviews of Fresh&amp;Co, rated 4.5 of 5 on Tripadvisor and ranked #607 of 12,749 restaurants in New York City. Flights Vacation Rentals ... Fresh and Co offers good free range egg dishes, coffee and pastries at a reasonable price.
+title: Fresh and Co., New York City - 363 7th Ave, Midtown - Menu ...
+snippet: Fresh and Co., New York City: See 203 unbiased reviews of Fresh and Co., rated 4.5 of 5 on Tripadvisor and ranked #724 of 12,750 restaurants in New York City.
+title: FRESH&amp;CO, New York City - Midtown - Updated 2020 ...
+snippet: Fresh&amp;Co, New York City: See 374 unbiased reviews of Fresh&amp;Co, rated 4.5 of 5 on Tripadvisor and ranked #606 of 12,745 restaurants in New York City.
+title: Fresh &amp; Co, New York City - 475 Lexington Ave, Midtown ...
+snippet: Order food online at Fresh &amp; Co, New York City with Tripadvisor: See 12 unbiased reviews of Fresh &amp; Co, ranked #5,327 on Tripadvisor among 12,731 restaurants in New York City.
+title: fresh&amp;co, New York City - 1359 Bdwy, Midtown - Menu ...
+snippet: fresh&amp;co, New York City: See 60 unbiased reviews of fresh&amp;co, rated 4 of 5 on Tripadvisor and ranked #3,114 of 12,749 restaurants in New York City.
+title: Fresh&amp;Co, New York by - Restaurantanmeldelser - Tripadvisor
+snippet: Fresh&amp;Co, New York by: Se 373 objektive anmeldelser av Fresh&amp;Co, vurdert til 4,5 av 5 på Tripadvisor og vurdert som nr. 606 av 12 729 restauranter i New York by.
+title: Fresh and Co., New York City - recenze restaurace ...
+snippet: Fresh and Co., New York City: Přečtěte si 203 objektivních recenzí zařízení Fresh and Co., které bylo na webu Tripadvisor ohodnocené známkou 4,5 z 5 a zaujímá 723 pozicí z 12 745 restaurací v New York City.
+title: fresh&amp;co
+snippet: at fresh&amp;co our mission is to create fresh, creative, healthy meals that excite the mind, heart and palate.
+
+Cand cities: {'Salt Lake City', 'Temecula', 'Greendale', 'New York', 'Raleigh', 'Flushing', 'Richmond', 'New York City', 'Chicago', 'Manhattan', 'Staten Island'}
